@@ -1,0 +1,13 @@
+invert_1	Alternatively	O
+invert_1	the	O
+invert_1	film	O
+invert_1	is	O
+invert_1	processed	O
+invert_1	to	O
+invert_1	invert	invert_vrb
+invert_1	the	O
+invert_1	negative	O
+invert_1	image	O
+invert_1	yielding	O
+invert_1	positive	O
+invert_1	transparencies	O

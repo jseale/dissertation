@@ -1,0 +1,15 @@
+bow_32	Wagner	O
+bow_32	also	O
+bow_32	took	O
+bow_32	a	O
+bow_32	bow	bow_nou-ship
+bow_32	after	O
+bow_32	every	O
+bow_32	performance	O
+bow_32	with	O
+bow_32	audiences	O
+bow_32	split	O
+bow_32	between	O
+bow_32	bravas	O
+bow_32	and	O
+bow_32	boos	O

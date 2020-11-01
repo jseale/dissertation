@@ -1,0 +1,9 @@
+house_32	She	O
+house_32	lost	O
+house_32	her	O
+house_32	place	O
+house_32	in	O
+house_32	the	O
+house_32	House	house_nou
+house_32	with	O
+house_32	25	O

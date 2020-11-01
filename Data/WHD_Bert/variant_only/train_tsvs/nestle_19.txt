@@ -1,0 +1,14 @@
+nestle_19	Amongst	O
+nestle_19	the	O
+nestle_19	major	O
+nestle_19	companies	O
+nestle_19	operating	O
+nestle_19	in	O
+nestle_19	the	O
+nestle_19	town	O
+nestle_19	are	O
+nestle_19	Nestle	nestle_nam
+nestle_19	and	O
+nestle_19	Agco	O
+nestle_19	Massey	O
+nestle_19	Ferguson	O

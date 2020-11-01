@@ -1,0 +1,11 @@
+console_14	If	O
+console_14	the	O
+console_14	console	console_nou
+console_14	freezes	O
+console_14	occasionally	O
+console_14	the	O
+console_14	error	O
+console_14	will	O
+console_14	not	O
+console_14	necessarily	O
+console_14	follow	O

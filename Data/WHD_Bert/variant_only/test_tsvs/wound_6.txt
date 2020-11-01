@@ -1,0 +1,14 @@
+wound_6	By	O
+wound_6	1990	O
+wound_6	Quadrex	O
+wound_6	Holdings	O
+wound_6	had	O
+wound_6	been	O
+wound_6	wound	wound_vrb
+wound_6	down	O
+wound_6	and	O
+wound_6	was	O
+wound_6	officially	O
+wound_6	dissolved	O
+wound_6	in	O
+wound_6	1999	O

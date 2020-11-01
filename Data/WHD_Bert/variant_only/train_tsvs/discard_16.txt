@@ -1,0 +1,14 @@
+discard_16	They	O
+discard_16	discard	discard_vrb
+discard_16	the	O
+discard_16	bits	O
+discard_16	of	O
+discard_16	wood	O
+discard_16	or	O
+discard_16	reuse	O
+discard_16	particles	O
+discard_16	to	O
+discard_16	build	O
+discard_16	partitions	O
+discard_16	between	O
+discard_16	cells	O

@@ -1,0 +1,14 @@
+alternate_8	In	O
+alternate_8	the	O
+alternate_8	novel	O
+alternate_8	she	O
+alternate_8	has	O
+alternate_8	an	O
+alternate_8	alternate	alternate_adj-nou
+alternate_8	history	O
+alternate_8	compared	O
+alternate_8	to	O
+alternate_8	the	O
+alternate_8	real	O
+alternate_8	George	O
+alternate_8	Sand	O

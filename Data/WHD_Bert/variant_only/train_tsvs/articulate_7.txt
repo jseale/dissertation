@@ -1,0 +1,15 @@
+articulate_7	The	O
+articulate_7	project	O
+articulate_7	Art	O
+articulate_7	in	O
+articulate_7	the	O
+articulate_7	Factory	O
+articulate_7	aims	O
+articulate_7	to	O
+articulate_7	articulate	articulate_vrb
+articulate_7	the	O
+articulate_7	most	O
+articulate_7	diverse	O
+articulate_7	workspaces	O
+articulate_7	through	O
+articulate_7	art	O

@@ -1,0 +1,14 @@
+duplicate_56	Fraud	O
+duplicate_56	prevention	O
+duplicate_56	Does	O
+duplicate_56	the	O
+duplicate_56	software	O
+duplicate_56	have	O
+duplicate_56	expense	O
+duplicate_56	fraud	O
+duplicate_56	detection	O
+duplicate_56	capabilities	O
+duplicate_56	such	O
+duplicate_56	a	O
+duplicate_56	duplicate	duplicate_adj-nou
+duplicate_56	identification	O

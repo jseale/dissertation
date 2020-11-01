@@ -1,0 +1,16 @@
+precipitate_49	Metal	O
+precipitate_49	salts	O
+precipitate_49	can	O
+precipitate_49	be	O
+precipitate_49	used	O
+precipitate_49	at	O
+precipitate_49	low	O
+precipitate_49	concentrations	O
+precipitate_49	to	O
+precipitate_49	precipitate	precipitate_vrb
+precipitate_49	enzymes	O
+precipitate_49	and	O
+precipitate_49	nucleic	O
+precipitate_49	acids	O
+precipitate_49	from	O
+precipitate_49	solutions	O

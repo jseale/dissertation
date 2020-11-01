@@ -1,0 +1,10 @@
+decrease_42	The	O
+decrease_42	extract	O
+decrease_42	produced	O
+decrease_42	a	O
+decrease_42	significant	O
+decrease_42	decrease	decrease_nou
+decrease_42	in	O
+decrease_42	serum	O
+decrease_42	progesterone	O
+decrease_42	levels	O

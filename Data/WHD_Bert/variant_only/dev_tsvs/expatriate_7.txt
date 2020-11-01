@@ -1,0 +1,10 @@
+expatriate_7	Expatriate	expatriate_nou
+expatriate_7	Byzantine	O
+expatriate_7	scholars	O
+expatriate_7	and	O
+expatriate_7	later	O
+expatriate_7	Italian	O
+expatriate_7	humanists	O
+expatriate_7	continued	O
+expatriate_7	the	O
+expatriate_7	argument	O

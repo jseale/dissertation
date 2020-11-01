@@ -1,0 +1,12 @@
+compress_4	VGA	O
+compress_4	Copy	O
+compress_4	had	O
+compress_4	the	O
+compress_4	ability	O
+compress_4	to	O
+compress_4	compress	compress
+compress_4	images	O
+compress_4	with	O
+compress_4	the	O
+compress_4	ARJ	O
+compress_4	packer	O

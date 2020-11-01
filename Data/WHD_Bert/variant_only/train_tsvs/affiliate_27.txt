@@ -1,0 +1,15 @@
+affiliate_27	The	O
+affiliate_27	North	O
+affiliate_27	Texas	O
+affiliate_27	Convention	O
+affiliate_27	dissolved	O
+affiliate_27	and	O
+affiliate_27	recommended	O
+affiliate_27	its	O
+affiliate_27	churches	O
+affiliate_27	affiliate	affiliate_vrb
+affiliate_27	with	O
+affiliate_27	the	O
+affiliate_27	Baptist	O
+affiliate_27	State	O
+affiliate_27	Convention	O

@@ -1,0 +1,15 @@
+axes_4	It	O
+axes_4	is	O
+axes_4	possible	O
+axes_4	now	O
+axes_4	to	O
+axes_4	read	O
+axes_4	off	O
+axes_4	the	O
+axes_4	major	O
+axes_4	and	O
+axes_4	minor	O
+axes_4	axes	axes_nou
+axes_4	of	O
+axes_4	this	O
+axes_4	ellipse	O

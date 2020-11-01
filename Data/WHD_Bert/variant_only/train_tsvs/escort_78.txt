@@ -1,0 +1,14 @@
+escort_78	HMS	O
+escort_78	Avenger	O
+escort_78	was	O
+escort_78	a	O
+escort_78	Royal	O
+escort_78	Navy	O
+escort_78	escort	escort_nou
+escort_78	aircraft	O
+escort_78	carrier	O
+escort_78	during	O
+escort_78	the	O
+escort_78	Second	O
+escort_78	World	O
+escort_78	War	O

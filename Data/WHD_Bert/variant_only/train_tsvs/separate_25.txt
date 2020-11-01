@@ -1,0 +1,14 @@
+separate_25	MWR	O
+separate_25	is	O
+separate_25	designed	O
+separate_25	to	O
+separate_25	detect	O
+separate_25	six	O
+separate_25	different	O
+separate_25	frequencies	O
+separate_25	in	O
+separate_25	that	O
+separate_25	range	O
+separate_25	using	O
+separate_25	separate	separate_adj
+separate_25	antennas	O

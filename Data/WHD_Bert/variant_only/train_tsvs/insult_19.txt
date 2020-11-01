@@ -1,0 +1,8 @@
+insult_19	His	O
+insult_19	insult	insult_nou
+insult_19	angered	O
+insult_19	several	O
+insult_19	Mexicans	O
+insult_19	charging	O
+insult_19	on	O
+insult_19	horseback	O

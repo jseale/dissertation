@@ -1,0 +1,13 @@
+protest_5	Smaller	O
+protest_5	groups	O
+protest_5	maximum	O
+protest_5	300	O
+protest_5	have	O
+protest_5	gathered	O
+protest_5	around	O
+protest_5	the	O
+protest_5	state	O
+protest_5	following	O
+protest_5	the	O
+protest_5	February	O
+protest_5	protest	protest_nou

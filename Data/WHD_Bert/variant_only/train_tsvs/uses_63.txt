@@ -1,0 +1,15 @@
+uses_63	This	O
+uses_63	structural	O
+uses_63	system	O
+uses_63	uses	uses_vrb
+uses_63	combinations	O
+uses_63	of	O
+uses_63	shear	O
+uses_63	walls	O
+uses_63	and	O
+uses_63	frames	O
+uses_63	designed	O
+uses_63	to	O
+uses_63	resist	O
+uses_63	lateral	O
+uses_63	forces	O

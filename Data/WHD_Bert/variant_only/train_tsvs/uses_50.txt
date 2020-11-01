@@ -1,0 +1,7 @@
+uses_50	Vulcan	O
+uses_50	API	O
+uses_50	Uses	uses_vrb
+uses_50	Mantle	O
+uses_50	Technology	O
+uses_50	for	O
+uses_50	OpenGL	O

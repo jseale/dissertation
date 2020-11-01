@@ -1,0 +1,13 @@
+diffuse_72	Diffuse	diffuse_adj
+diffuse_72	light	O
+diffuse_72	is	O
+diffuse_72	thought	O
+diffuse_72	to	O
+diffuse_72	be	O
+diffuse_72	more	O
+diffuse_72	important	O
+diffuse_72	for	O
+diffuse_72	seedling	O
+diffuse_72	growth	O
+diffuse_72	than	O
+diffuse_72	sunflecks	O

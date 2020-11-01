@@ -1,0 +1,17 @@
+consummate_38	At	O
+consummate_38	the	O
+consummate_38	opening	O
+consummate_38	Naosuke	O
+consummate_38	is	O
+consummate_38	pressuring	O
+consummate_38	Osode	O
+consummate_38	to	O
+consummate_38	consummate	consummate_vrb
+consummate_38	their	O
+consummate_38	marriage	O
+consummate_38	to	O
+consummate_38	which	O
+consummate_38	she	O
+consummate_38	seems	O
+consummate_38	oddly	O
+consummate_38	averse	O

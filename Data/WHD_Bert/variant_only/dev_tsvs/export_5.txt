@@ -1,0 +1,13 @@
+export_5	Export	export_nou
+export_5	believed	O
+export_5	the	O
+export_5	television	O
+export_5	could	O
+export_5	complicate	O
+export_5	the	O
+export_5	relationship	O
+export_5	between	O
+export_5	subject	O
+export_5	spectator	O
+export_5	and	O
+export_5	television	O

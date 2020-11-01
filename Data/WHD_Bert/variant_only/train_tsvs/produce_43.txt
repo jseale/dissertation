@@ -1,0 +1,13 @@
+produce_43	In	O
+produce_43	order	O
+produce_43	to	O
+produce_43	produce	produce_vrb
+produce_43	a	O
+produce_43	follow	O
+produce_43	up	O
+produce_43	picture	O
+produce_43	Raimi	O
+produce_43	needed	O
+produce_43	nearly	O
+produce_43	$	O
+produce_43	150,000	O

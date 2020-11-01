@@ -1,0 +1,14 @@
+overthrow_6	Following	O
+overthrow_6	the	O
+overthrow_6	overthrow	overthrow_nou
+overthrow_6	of	O
+overthrow_6	the	O
+overthrow_6	government	O
+overthrow_6	in	O
+overthrow_6	February	O
+overthrow_6	2004	O
+overthrow_6	an	O
+overthrow_6	interim	O
+overthrow_6	government	O
+overthrow_6	was	O
+overthrow_6	established	O

@@ -1,0 +1,15 @@
+winds_22	Further	O
+winds_22	strengthening	O
+winds_22	occurred	O
+winds_22	as	O
+winds_22	the	O
+winds_22	storm	O
+winds_22	attained	O
+winds_22	peak	O
+winds_22	winds	winds_nou
+winds_22	of	O
+winds_22	45	O
+winds_22	mph	O
+winds_22	75	O
+winds_22	km	O
+winds_22	h	O

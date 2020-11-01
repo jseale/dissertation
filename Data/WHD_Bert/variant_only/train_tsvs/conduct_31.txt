@@ -1,0 +1,17 @@
+conduct_31	And	O
+conduct_31	we	O
+conduct_31	've	O
+conduct_31	yet	O
+conduct_31	to	O
+conduct_31	figure	O
+conduct_31	out	O
+conduct_31	a	O
+conduct_31	code	O
+conduct_31	of	O
+conduct_31	conduct	conduct_nou
+conduct_31	for	O
+conduct_31	addicts	O
+conduct_31	who	O
+conduct_31	click	O
+conduct_31	click	O
+conduct_31	click	O

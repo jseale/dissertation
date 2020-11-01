@@ -1,0 +1,14 @@
+alternate_77	He	O
+alternate_77	was	O
+alternate_77	an	O
+alternate_77	editor	O
+alternate_77	and	O
+alternate_77	contributor	O
+alternate_77	to	O
+alternate_77	Greenhill	O
+alternate_77	's	O
+alternate_77	Alternate	alternate_adj-nou
+alternate_77	Decisions	O
+alternate_77	series	O
+alternate_77	since	O
+alternate_77	1995	O

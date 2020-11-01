@@ -1,0 +1,11 @@
+deviate_5	These	O
+deviate_5	laws	O
+deviate_5	could	O
+deviate_5	with	O
+deviate_5	certain	O
+deviate_5	exceptions	O
+deviate_5	even	O
+deviate_5	deviate	deviate_vrb
+deviate_5	from	O
+deviate_5	the	O
+deviate_5	Constitution	O

@@ -1,0 +1,14 @@
+lead_9	The	O
+lead_9	report	O
+lead_9	further	O
+lead_9	argues	O
+lead_9	that	O
+lead_9	the	O
+lead_9	doctrine	O
+lead_9	was	O
+lead_9	fully	O
+lead_9	implemented	O
+lead_9	during	O
+lead_9	Operation	O
+lead_9	Cast	O
+lead_9	Lead	lead_nou

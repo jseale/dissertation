@@ -1,0 +1,9 @@
+excuse_1	So	O
+excuse_1	Goodman	O
+excuse_1	looked	O
+excuse_1	for	O
+excuse_1	an	O
+excuse_1	excuse	excuse_nou
+excuse_1	to	O
+excuse_1	cancel	O
+excuse_1	it	O

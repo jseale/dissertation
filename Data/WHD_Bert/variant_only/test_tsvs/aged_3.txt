@@ -1,0 +1,8 @@
+aged_3	Fane	O
+aged_3	died	O
+aged_3	on	O
+aged_3	13	O
+aged_3	December	O
+aged_3	2009	O
+aged_3	aged	aged
+aged_3	82	O

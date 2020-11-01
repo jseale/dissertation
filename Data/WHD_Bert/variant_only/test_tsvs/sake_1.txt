@@ -1,0 +1,11 @@
+sake_1	They	O
+sake_1	sing	O
+sake_1	the	O
+sake_1	dosojin	O
+sake_1	song	O
+sake_1	while	O
+sake_1	drinking	O
+sake_1	large	O
+sake_1	amounts	O
+sake_1	of	O
+sake_1	sake	sake_jp

@@ -1,0 +1,13 @@
+combine_4	Hybrids	O
+combine_4	Electric	O
+combine_4	vehicles	O
+combine_4	HEVs	O
+combine_4	combine	combine_vrb
+combine_4	the	O
+combine_4	advantage	O
+combine_4	of	O
+combine_4	gasoline	O
+combine_4	engines	O
+combine_4	and	O
+combine_4	electric	O
+combine_4	motors	O

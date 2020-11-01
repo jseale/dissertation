@@ -1,0 +1,16 @@
+delegate_72	He	O
+delegate_72	served	O
+delegate_72	as	O
+delegate_72	delegate	delegate_nou
+delegate_72	to	O
+delegate_72	the	O
+delegate_72	Democratic	O
+delegate_72	National	O
+delegate_72	Conventions	O
+delegate_72	in	O
+delegate_72	1924	O
+delegate_72	1928	O
+delegate_72	1932	O
+delegate_72	1952	O
+delegate_72	and	O
+delegate_72	1960	O

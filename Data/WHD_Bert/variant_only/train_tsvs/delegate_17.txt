@@ -1,0 +1,14 @@
+delegate_17	He	O
+delegate_17	was	O
+delegate_17	quickly	O
+delegate_17	joined	O
+delegate_17	by	O
+delegate_17	Delegate	delegate_nou
+delegate_17	Brian	O
+delegate_17	Moran	O
+delegate_17	who	O
+delegate_17	announced	O
+delegate_17	on	O
+delegate_17	January	O
+delegate_17	3	O
+delegate_17	2008	O

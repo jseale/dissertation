@@ -1,0 +1,14 @@
+house_63	The	O
+house_63	former	O
+house_63	tea	O
+house_63	house	house_nou
+house_63	is	O
+house_63	a	O
+house_63	big	O
+house_63	rectangular	O
+house_63	pavilion	O
+house_63	with	O
+house_63	a	O
+house_63	glazed	O
+house_63	upper	O
+house_63	floor	O

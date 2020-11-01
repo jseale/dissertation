@@ -1,0 +1,9 @@
+conflict_49	The	O
+conflict_49	Neva	O
+conflict_49	Regiment	O
+conflict_49	took	O
+conflict_49	heavy	O
+conflict_49	losses	O
+conflict_49	during	O
+conflict_49	the	O
+conflict_49	conflict	conflict_nou

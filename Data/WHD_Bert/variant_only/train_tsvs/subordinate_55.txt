@@ -1,0 +1,14 @@
+subordinate_55	Kodungallur	O
+subordinate_55	was	O
+subordinate_55	a	O
+subordinate_55	feudal	O
+subordinate_55	principality	O
+subordinate_55	subordinate	subordinate_adj-nou
+subordinate_55	to	O
+subordinate_55	the	O
+subordinate_55	rulers	O
+subordinate_55	of	O
+subordinate_55	the	O
+subordinate_55	Kingdom	O
+subordinate_55	of	O
+subordinate_55	Cochin	O

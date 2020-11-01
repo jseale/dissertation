@@ -1,0 +1,13 @@
+invite_80	The	O
+invite_80	many	O
+invite_80	wineries	O
+invite_80	and	O
+invite_80	Strausswirtschaften	O
+invite_80	invite	invite_vrb
+invite_80	visitors	O
+invite_80	to	O
+invite_80	come	O
+invite_80	and	O
+invite_80	enjoy	O
+invite_80	the	O
+invite_80	wine	O

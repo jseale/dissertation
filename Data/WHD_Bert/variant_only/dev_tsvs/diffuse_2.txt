@@ -1,0 +1,13 @@
+diffuse_2	The	O
+diffuse_2	expanding	O
+diffuse_2	shell	O
+diffuse_2	of	O
+diffuse_2	gas	O
+diffuse_2	forms	O
+diffuse_2	a	O
+diffuse_2	supernova	O
+diffuse_2	remnant	O
+diffuse_2	a	O
+diffuse_2	special	O
+diffuse_2	diffuse	diffuse_adj
+diffuse_2	nebula	O

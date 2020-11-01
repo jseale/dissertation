@@ -1,0 +1,12 @@
+moderate_32	Moderate	moderate_adj-nou
+moderate_32	and	O
+moderate_32	tolerant	O
+moderate_32	attitudes	O
+moderate_32	are	O
+moderate_32	generally	O
+moderate_32	reflected	O
+moderate_32	by	O
+moderate_32	Catholics	O
+moderate_32	and	O
+moderate_32	moderate	moderate_adj-nou
+moderate_32	Protestants	O

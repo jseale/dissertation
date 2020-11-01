@@ -1,0 +1,12 @@
+converse_37	Indeed	O
+converse_37	very	O
+converse_37	weak	O
+converse_37	assumptions	O
+converse_37	suffice	O
+converse_37	to	O
+converse_37	obtain	O
+converse_37	such	O
+converse_37	a	O
+converse_37	kind	O
+converse_37	of	O
+converse_37	converse	converse_adj-nou

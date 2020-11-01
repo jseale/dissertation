@@ -1,0 +1,14 @@
+resume_1	Throughout	O
+resume_1	the	O
+resume_1	1990s	O
+resume_1	he	O
+resume_1	slowly	O
+resume_1	regained	O
+resume_1	sufficient	O
+resume_1	control	O
+resume_1	of	O
+resume_1	the	O
+resume_1	condition	O
+resume_1	to	O
+resume_1	resume	resume_vrb
+resume_1	work	O

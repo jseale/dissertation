@@ -1,0 +1,12 @@
+learned_22	In	O
+learned_22	early	O
+learned_22	2016	O
+learned_22	John	O
+learned_22	finally	O
+learned_22	learned	learned_vrb
+learned_22	the	O
+learned_22	truth	O
+learned_22	behind	O
+learned_22	his	O
+learned_22	murky	O
+learned_22	past	O

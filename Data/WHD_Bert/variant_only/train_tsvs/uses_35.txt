@@ -1,0 +1,9 @@
+uses_35	The	O
+uses_35	original	O
+uses_35	formulation	O
+uses_35	uses	uses_vrb
+uses_35	sodium	O
+uses_35	deoxycholate	O
+uses_35	to	O
+uses_35	improve	O
+uses_35	solubility	O

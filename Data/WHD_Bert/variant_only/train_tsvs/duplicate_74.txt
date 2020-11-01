@@ -1,0 +1,14 @@
+duplicate_74	Narasimman	O
+duplicate_74	who	O
+duplicate_74	palns	O
+duplicate_74	to	O
+duplicate_74	rob	O
+duplicate_74	the	O
+duplicate_74	bank	O
+duplicate_74	locker	O
+duplicate_74	and	O
+duplicate_74	manages	O
+duplicate_74	to	O
+duplicate_74	get	O
+duplicate_74	duplicate	duplicate_adj-nou
+duplicate_74	key	O

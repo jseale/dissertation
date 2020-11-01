@@ -1,0 +1,12 @@
+record_52	The	O
+record_52	Yale	O
+record_52	Record	record_nou
+record_52	documented	O
+record_52	the	O
+record_52	creation	O
+record_52	of	O
+record_52	the	O
+record_52	first	O
+record_52	American	O
+record_52	football	O
+record_52	championship	O

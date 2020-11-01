@@ -1,0 +1,10 @@
+diagnoses_23	He	O
+diagnoses_23	has	O
+diagnoses_23	an	O
+diagnoses_23	obsession	O
+diagnoses_23	with	O
+diagnoses_23	giving	O
+diagnoses_23	diagnoses	diagnoses_nou
+diagnoses_23	to	O
+diagnoses_23	almost	O
+diagnoses_23	everyone	O

@@ -1,0 +1,14 @@
+isolate_67	Stas	O
+isolate_67	was	O
+isolate_67	able	O
+isolate_67	to	O
+isolate_67	successfully	O
+isolate_67	isolate	isolate
+isolate_67	the	O
+isolate_67	alkaloid	O
+isolate_67	from	O
+isolate_67	the	O
+isolate_67	organs	O
+isolate_67	of	O
+isolate_67	the	O
+isolate_67	victim	O

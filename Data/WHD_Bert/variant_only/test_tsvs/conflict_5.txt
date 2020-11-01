@@ -1,0 +1,13 @@
+conflict_5	Boniface	O
+conflict_5	VIII	O
+conflict_5	viewed	O
+conflict_5	conflict	conflict_nou
+conflict_5	between	O
+conflict_5	England	O
+conflict_5	and	O
+conflict_5	France	O
+conflict_5	as	O
+conflict_5	a	O
+conflict_5	particularly	O
+conflict_5	grave	O
+conflict_5	matter	O

@@ -1,0 +1,17 @@
+graduate_5	He	O
+graduate_5	went	O
+graduate_5	on	O
+graduate_5	to	O
+graduate_5	graduate	graduate_vrb
+graduate_5	from	O
+graduate_5	Harvard	O
+graduate_5	University	O
+graduate_5	in	O
+graduate_5	1907	O
+graduate_5	and	O
+graduate_5	from	O
+graduate_5	Harvard	O
+graduate_5	Law	O
+graduate_5	School	O
+graduate_5	in	O
+graduate_5	1910	O

@@ -1,0 +1,17 @@
+conduct_7	Zero	O
+conduct_7	for	O
+conduct_7	Conduct	conduct_nou
+conduct_7	was	O
+conduct_7	shot	O
+conduct_7	from	O
+conduct_7	December	O
+conduct_7	1932	O
+conduct_7	until	O
+conduct_7	January	O
+conduct_7	1933	O
+conduct_7	with	O
+conduct_7	a	O
+conduct_7	budget	O
+conduct_7	of	O
+conduct_7	200,000	O
+conduct_7	francs	O

@@ -1,0 +1,15 @@
+record_32	The	O
+record_32	2013	O
+record_32	Pacific	O
+record_32	hurricane	O
+record_32	season	O
+record_32	was	O
+record_32	the	O
+record_32	costliest	O
+record_32	season	O
+record_32	on	O
+record_32	record	record_nou
+record_32	within	O
+record_32	the	O
+record_32	East	O
+record_32	Pacific	O

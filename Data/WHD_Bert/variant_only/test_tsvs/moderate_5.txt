@@ -1,0 +1,11 @@
+moderate_5	It	O
+moderate_5	alterned	O
+moderate_5	moderate	moderate_adj-nou
+moderate_5	social	O
+moderate_5	reforms	O
+moderate_5	with	O
+moderate_5	repression	O
+moderate_5	of	O
+moderate_5	the	O
+moderate_5	social	O
+moderate_5	movements	O

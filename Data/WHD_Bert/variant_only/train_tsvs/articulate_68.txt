@@ -1,0 +1,16 @@
+articulate_68	The	O
+articulate_68	mausoleum	O
+articulate_68	of	O
+articulate_68	Colon	O
+articulate_68	published	O
+articulate_68	in	O
+articulate_68	the	O
+articulate_68	Diary	O
+articulate_68	The	O
+articulate_68	Future	O
+articulate_68	in	O
+articulate_68	Seville	O
+articulate_68	1898	O
+articulate_68	it	O
+articulate_68	journalistic	O
+articulate_68	articulate	articulate_adj

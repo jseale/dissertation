@@ -1,0 +1,16 @@
+rebel_5	The	O
+rebel_5	move	O
+rebel_5	made	O
+rebel_5	it	O
+rebel_5	practically	O
+rebel_5	impossible	O
+rebel_5	for	O
+rebel_5	anyone	O
+rebel_5	to	O
+rebel_5	escape	O
+rebel_5	the	O
+rebel_5	onslaught	O
+rebel_5	of	O
+rebel_5	the	O
+rebel_5	rebel	rebel_nou
+rebel_5	war	O

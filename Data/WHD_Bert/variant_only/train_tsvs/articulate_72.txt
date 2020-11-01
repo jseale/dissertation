@@ -1,0 +1,16 @@
+articulate_72	He	O
+articulate_72	was	O
+articulate_72	a	O
+articulate_72	distinguished	O
+articulate_72	Naval	O
+articulate_72	Officer	O
+articulate_72	a	O
+articulate_72	brilliant	O
+articulate_72	engineer	O
+articulate_72	an	O
+articulate_72	industrial	O
+articulate_72	giant	O
+articulate_72	and	O
+articulate_72	articulate	articulate_adj
+articulate_72	national	O
+articulate_72	spokesman	O

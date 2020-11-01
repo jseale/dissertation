@@ -1,0 +1,17 @@
+compress_45	Some	O
+compress_45	head	O
+compress_45	and	O
+compress_45	neck	O
+compress_45	tumours	O
+compress_45	invade	O
+compress_45	or	O
+compress_45	compress	compress
+compress_45	the	O
+compress_45	facial	O
+compress_45	nerve	O
+compress_45	leading	O
+compress_45	to	O
+compress_45	facial	O
+compress_45	paresis	O
+compress_45	or	O
+compress_45	paralysis	O

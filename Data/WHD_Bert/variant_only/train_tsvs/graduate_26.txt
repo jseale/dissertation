@@ -1,0 +1,16 @@
+graduate_26	Grandhi	O
+graduate_26	Venkata	O
+graduate_26	Reddy	O
+graduate_26	Naidu	O
+graduate_26	received	O
+graduate_26	his	O
+graduate_26	graduate	graduate_adj-nou
+graduate_26	B.A.	O
+graduate_26	and	O
+graduate_26	law	O
+graduate_26	L.L.B.	O
+graduate_26	degrees	O
+graduate_26	from	O
+graduate_26	University	O
+graduate_26	of	O
+graduate_26	Madras	O

@@ -1,0 +1,7 @@
+conduct_7	Conduct	conduct_nou
+conduct_7	of	O
+conduct_7	examinations	O
+conduct_7	and	O
+conduct_7	valuation	O
+conduct_7	are	O
+conduct_7	centralized	O

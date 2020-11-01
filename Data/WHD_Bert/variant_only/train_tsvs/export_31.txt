@@ -1,0 +1,8 @@
+export_31	American	O
+export_31	Mail	O
+export_31	and	O
+export_31	Export	export_nou
+export_31	Journal	O
+export_31	July	O
+export_31	1886	O
+export_31	p17	O

@@ -1,0 +1,7 @@
+reject_25	Pluralists	O
+reject_25	likewise	O
+reject_25	reject	reject_vrb
+reject_25	historicism	O
+reject_25	and	O
+reject_25	utopian	O
+reject_25	thinking	O

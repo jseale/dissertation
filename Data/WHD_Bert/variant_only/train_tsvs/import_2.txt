@@ -1,0 +1,14 @@
+import_2	Sunil	O
+import_2	says	O
+import_2	In	O
+import_2	1983	O
+import_2	the	O
+import_2	government	O
+import_2	imposed	O
+import_2	a	O
+import_2	ban	O
+import_2	on	O
+import_2	the	O
+import_2	import	import_nou
+import_2	of	O
+import_2	gensets	O

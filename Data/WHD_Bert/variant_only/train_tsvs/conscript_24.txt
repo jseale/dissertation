@@ -1,0 +1,8 @@
+conscript_24	The	O
+conscript_24	expedition	O
+conscript_24	consisted	O
+conscript_24	mostly	O
+conscript_24	of	O
+conscript_24	southern	O
+conscript_24	Chinese	O
+conscript_24	conscript	conscript_nou

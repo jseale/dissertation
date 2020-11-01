@@ -1,0 +1,16 @@
+abuse_55	Many	O
+abuse_55	arranged	O
+abuse_55	marriages	O
+abuse_55	also	O
+abuse_55	end	O
+abuse_55	up	O
+abuse_55	being	O
+abuse_55	cold	O
+abuse_55	and	O
+abuse_55	dysfunctional	O
+abuse_55	as	O
+abuse_55	well	O
+abuse_55	with	O
+abuse_55	reports	O
+abuse_55	of	O
+abuse_55	abuse	abuse_nou

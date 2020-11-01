@@ -1,0 +1,14 @@
+abstract_75	On	O
+abstract_75	the	O
+abstract_75	even	O
+abstract_75	numbered	O
+abstract_75	cards	O
+abstract_75	the	O
+abstract_75	abstract	abstract_adj-nou
+abstract_75	curved	O
+abstract_75	lines	O
+abstract_75	are	O
+abstract_75	all	O
+abstract_75	that	O
+abstract_75	is	O
+abstract_75	present	O

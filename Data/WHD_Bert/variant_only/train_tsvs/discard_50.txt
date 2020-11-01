@@ -1,0 +1,12 @@
+discard_50	If	O
+discard_50	desired	O
+discard_50	players	O
+discard_50	can	O
+discard_50	discard	discard_vrb
+discard_50	all	O
+discard_50	the	O
+discard_50	way	O
+discard_50	down	O
+discard_50	to	O
+discard_50	one	O
+discard_50	card	O

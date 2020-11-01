@@ -1,0 +1,14 @@
+animate_18	The	O
+animate_18	simulations	O
+animate_18	employ	O
+animate_18	3D	O
+animate_18	graphics	O
+animate_18	and	O
+animate_18	physics	O
+animate_18	based	O
+animate_18	models	O
+animate_18	to	O
+animate_18	animate	animate_vrb
+animate_18	the	O
+animate_18	virtual	O
+animate_18	humans	O

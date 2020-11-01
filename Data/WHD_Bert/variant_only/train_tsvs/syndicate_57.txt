@@ -1,0 +1,15 @@
+syndicate_57	There	O
+syndicate_57	is	O
+syndicate_57	no	O
+syndicate_57	record	O
+syndicate_57	of	O
+syndicate_57	syndicate	syndicate_nou
+syndicate_57	juice	O
+syndicate_57	operations	O
+syndicate_57	in	O
+syndicate_57	Chicago	O
+syndicate_57	for	O
+syndicate_57	instance	O
+syndicate_57	until	O
+syndicate_57	the	O
+syndicate_57	1950s	O

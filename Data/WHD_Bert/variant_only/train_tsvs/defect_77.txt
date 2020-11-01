@@ -1,0 +1,15 @@
+defect_77	The	O
+defect_77	body	O
+defect_77	of	O
+defect_77	the	O
+defect_77	animal	O
+defect_77	has	O
+defect_77	a	O
+defect_77	large	O
+defect_77	defect	defect_nou
+defect_77	caused	O
+defect_77	by	O
+defect_77	the	O
+defect_77	degenerated	O
+defect_77	tin	O
+defect_77	filling	O

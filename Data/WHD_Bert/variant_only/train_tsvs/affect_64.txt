@@ -1,0 +1,16 @@
+affect_64	Her	O
+affect_64	multi	O
+affect_64	media	O
+affect_64	artwork	O
+affect_64	expresses	O
+affect_64	human	O
+affect_64	rights	O
+affect_64	issues	O
+affect_64	especially	O
+affect_64	those	O
+affect_64	that	O
+affect_64	affect	affect
+affect_64	Native	O
+affect_64	American	O
+affect_64	people	O
+affect_64	today	O

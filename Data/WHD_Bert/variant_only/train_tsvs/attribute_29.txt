@@ -1,0 +1,10 @@
+attribute_29	Some	O
+attribute_29	sources	O
+attribute_29	attribute	attribute_vrb
+attribute_29	to	O
+attribute_29	him	O
+attribute_29	the	O
+attribute_29	sanctions	O
+attribute_29	against	O
+attribute_29	the	O
+attribute_29	Vestals	O

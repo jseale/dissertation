@@ -1,0 +1,13 @@
+reject_1	Both	O
+reject_1	of	O
+reject_1	these	O
+reject_1	assumptions	O
+reject_1	are	O
+reject_1	tenuous	O
+reject_1	at	O
+reject_1	best	O
+reject_1	and	O
+reject_1	most	O
+reject_1	scholars	O
+reject_1	reject	reject_vrb
+reject_1	them	O

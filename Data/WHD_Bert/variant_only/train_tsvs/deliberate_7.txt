@@ -1,0 +1,15 @@
+deliberate_7	In	O
+deliberate_7	short	O
+deliberate_7	this	O
+deliberate_7	book	O
+deliberate_7	is	O
+deliberate_7	flawless	O
+deliberate_7	because	O
+deliberate_7	all	O
+deliberate_7	its	O
+deliberate_7	deficiencies	O
+deliberate_7	are	O
+deliberate_7	deliberate	deliberate_adj
+deliberate_7	products	O
+deliberate_7	of	O
+deliberate_7	art	O

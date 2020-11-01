@@ -1,0 +1,17 @@
+defect_52	The	O
+defect_52	aforementioned	O
+defect_52	defect	defect_nou
+defect_52	was	O
+defect_52	not	O
+defect_52	a	O
+defect_52	hindrance	O
+defect_52	with	O
+defect_52	the	O
+defect_52	class	O
+defect_52	leading	O
+defect_52	an	O
+defect_52	admirable	O
+defect_52	career	O
+defect_52	on	O
+defect_52	secondary	O
+defect_52	routes	O

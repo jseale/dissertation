@@ -1,0 +1,17 @@
+duplicate_11	This	O
+duplicate_11	is	O
+duplicate_11	a	O
+duplicate_11	procedure	O
+duplicate_11	at	O
+duplicate_11	the	O
+duplicate_11	end	O
+duplicate_11	of	O
+duplicate_11	each	O
+duplicate_11	generation	O
+duplicate_11	that	O
+duplicate_11	replaces	O
+duplicate_11	duplicate	duplicate_adj-nou
+duplicate_11	individuals	O
+duplicate_11	in	O
+duplicate_11	the	O
+duplicate_11	population	O

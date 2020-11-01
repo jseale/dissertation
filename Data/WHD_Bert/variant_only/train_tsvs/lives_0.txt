@@ -1,0 +1,13 @@
+lives_0	Along	O
+lives_0	with	O
+lives_0	his	O
+lives_0	band	O
+lives_0	he	O
+lives_0	lives	lives_vrb
+lives_0	a	O
+lives_0	vegan	O
+lives_0	lifestyle	O
+lives_0	and	O
+lives_0	supports	O
+lives_0	animal	O
+lives_0	rights	O

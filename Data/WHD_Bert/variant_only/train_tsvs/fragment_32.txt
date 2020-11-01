@@ -1,0 +1,13 @@
+fragment_32	Chemically	O
+fragment_32	efungumab	O
+fragment_32	is	O
+fragment_32	a	O
+fragment_32	single	O
+fragment_32	chain	O
+fragment_32	variable	O
+fragment_32	fragment	fragment_nou
+fragment_32	of	O
+fragment_32	a	O
+fragment_32	human	O
+fragment_32	monoclonal	O
+fragment_32	antibody	O

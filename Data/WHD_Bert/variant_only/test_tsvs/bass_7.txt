@@ -1,0 +1,10 @@
+bass_7	His	O
+bass_7	replacement	O
+bass_7	was	O
+bass_7	former	O
+bass_7	Blodwyn	O
+bass_7	Pig	O
+bass_7	bass	bass
+bass_7	player	O
+bass_7	Andy	O
+bass_7	Pyle	O

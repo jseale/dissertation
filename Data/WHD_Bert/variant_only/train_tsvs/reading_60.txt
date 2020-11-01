@@ -1,0 +1,13 @@
+reading_60	Another	O
+reading_60	possibility	O
+reading_60	was	O
+reading_60	that	O
+reading_60	the	O
+reading_60	reading	reading_en
+reading_60	of	O
+reading_60	the	O
+reading_60	three	O
+reading_60	pointer	O
+reading_60	altimeter	O
+reading_60	was	O
+reading_60	misinterpreted	O

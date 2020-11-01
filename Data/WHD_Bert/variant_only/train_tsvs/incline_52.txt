@@ -1,0 +1,17 @@
+incline_52	Visitors	O
+incline_52	enter	O
+incline_52	the	O
+incline_52	room	O
+incline_52	after	O
+incline_52	a	O
+incline_52	short	O
+incline_52	walk	O
+incline_52	up	O
+incline_52	a	O
+incline_52	slight	O
+incline_52	concrete	O
+incline_52	incline	incline_nou
+incline_52	embossed	O
+incline_52	with	O
+incline_52	concrete	O
+incline_52	squares	O

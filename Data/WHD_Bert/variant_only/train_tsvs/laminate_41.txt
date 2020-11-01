@@ -1,0 +1,16 @@
+laminate_41	It	O
+laminate_41	is	O
+laminate_41	generally	O
+laminate_41	known	O
+laminate_41	as	O
+laminate_41	being	O
+laminate_41	made	O
+laminate_41	of	O
+laminate_41	100	O
+laminate_41	wood	O
+laminate_41	usually	O
+laminate_41	without	O
+laminate_41	particle	O
+laminate_41	board	O
+laminate_41	or	O
+laminate_41	laminate	laminate_nou

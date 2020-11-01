@@ -1,0 +1,17 @@
+syndicate_55	The	O
+syndicate_55	original	O
+syndicate_55	team	O
+syndicate_55	was	O
+syndicate_55	specifically	O
+syndicate_55	known	O
+syndicate_55	as	O
+syndicate_55	Crime	O
+syndicate_55	Syndicate	syndicate_nou
+syndicate_55	of	O
+syndicate_55	America	O
+syndicate_55	and	O
+syndicate_55	is	O
+syndicate_55	sometimes	O
+syndicate_55	abbreviated	O
+syndicate_55	as	O
+syndicate_55	CSA	O

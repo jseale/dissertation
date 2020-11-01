@@ -1,0 +1,17 @@
+confines_68	From	O
+confines_68	the	O
+confines_68	1960s	O
+confines_68	Shahan	O
+confines_68	Natalie	O
+confines_68	preferred	O
+confines_68	to	O
+confines_68	be	O
+confines_68	silent	O
+confines_68	and	O
+confines_68	remained	O
+confines_68	within	O
+confines_68	the	O
+confines_68	confines	confines_nou
+confines_68	of	O
+confines_68	his	O
+confines_68	home	O

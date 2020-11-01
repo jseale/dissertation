@@ -1,0 +1,14 @@
+contest_29	In	O
+contest_29	the	O
+contest_29	National	O
+contest_29	Assembly	O
+contest_29	elections	O
+contest_29	several	O
+contest_29	UDPM	O
+contest_29	candidates	O
+contest_29	were	O
+contest_29	able	O
+contest_29	to	O
+contest_29	contest	contest_vrb
+contest_29	each	O
+contest_29	seat	O

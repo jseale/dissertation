@@ -1,0 +1,8 @@
+laminate_13	The	O
+laminate_13	wood	O
+laminate_13	can	O
+laminate_13	be	O
+laminate_13	either	O
+laminate_13	solid	O
+laminate_13	or	O
+laminate_13	laminate	laminate_nou

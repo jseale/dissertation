@@ -1,0 +1,12 @@
+permit_1	Todd	O
+permit_1	is	O
+permit_1	currently	O
+permit_1	Chairman	O
+permit_1	of	O
+permit_1	the	O
+permit_1	Tower	O
+permit_1	Permit	permit_nou
+permit_1	Commission	O
+permit_1	for	O
+permit_1	southeast	O
+permit_1	Texas	O

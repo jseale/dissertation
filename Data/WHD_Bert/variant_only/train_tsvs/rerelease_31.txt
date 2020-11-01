@@ -1,0 +1,17 @@
+rerelease_31	Picq	O
+rerelease_31	wishes	O
+rerelease_31	to	O
+rerelease_31	have	O
+rerelease_31	the	O
+rerelease_31	rights	O
+rerelease_31	in	O
+rerelease_31	order	O
+rerelease_31	to	O
+rerelease_31	rerelease	rerelease_vrb
+rerelease_31	the	O
+rerelease_31	album	O
+rerelease_31	though	O
+rerelease_31	they	O
+rerelease_31	were	O
+rerelease_31	not	O
+rerelease_31	granted	O

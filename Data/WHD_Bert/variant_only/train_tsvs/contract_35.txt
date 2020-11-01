@@ -1,0 +1,15 @@
+contract_35	On	O
+contract_35	July	O
+contract_35	27	O
+contract_35	2015	O
+contract_35	he	O
+contract_35	signed	O
+contract_35	a	O
+contract_35	one	O
+contract_35	year	O
+contract_35	contract	contract_nou
+contract_35	with	O
+contract_35	Valencia	O
+contract_35	Basket	O
+contract_35	of	O
+contract_35	Spain	O

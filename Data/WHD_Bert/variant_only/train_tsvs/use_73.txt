@@ -1,0 +1,14 @@
+use_73	The	O
+use_73	HM	O
+use_73	in	O
+use_73	the	O
+use_73	name	O
+use_73	indicates	O
+use_73	that	O
+use_73	these	O
+use_73	lenses	O
+use_73	use	use_vrb
+use_73	high	O
+use_73	modulation	O
+use_73	glass	O
+use_73	elements	O

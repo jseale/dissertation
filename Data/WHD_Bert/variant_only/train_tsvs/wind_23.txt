@@ -1,0 +1,14 @@
+wind_23	The	O
+wind_23	line	O
+wind_23	would	O
+wind_23	carry	O
+wind_23	1,000-MW	O
+wind_23	of	O
+wind_23	power	O
+wind_23	from	O
+wind_23	wind	wind_nou
+wind_23	solar	O
+wind_23	and	O
+wind_23	natural	O
+wind_23	gas	O
+wind_23	producers	O

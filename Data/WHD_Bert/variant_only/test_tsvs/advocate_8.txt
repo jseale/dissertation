@@ -1,0 +1,13 @@
+advocate_8	Heaviside	O
+advocate_8	did	O
+advocate_8	much	O
+advocate_8	to	O
+advocate_8	develop	O
+advocate_8	and	O
+advocate_8	advocate	advocate_vrb
+advocate_8	vector	O
+advocate_8	methods	O
+advocate_8	and	O
+advocate_8	the	O
+advocate_8	vector	O
+advocate_8	calculus	O

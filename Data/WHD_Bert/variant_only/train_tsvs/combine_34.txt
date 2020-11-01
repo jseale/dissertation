@@ -1,0 +1,14 @@
+combine_34	Touches	O
+combine_34	of	O
+combine_34	jazz	O
+combine_34	folk	O
+combine_34	and	O
+combine_34	even	O
+combine_34	mild	O
+combine_34	funk	O
+combine_34	combine	combine_vrb
+combine_34	to	O
+combine_34	produce	O
+combine_34	a	O
+combine_34	fine	O
+combine_34	landscape	O

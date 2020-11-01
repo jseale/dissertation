@@ -1,0 +1,14 @@
+converse_15	EBL	O
+converse_15	like	O
+converse_15	techniques	O
+converse_15	have	O
+converse_15	also	O
+converse_15	been	O
+converse_15	applied	O
+converse_15	to	O
+converse_15	surface	O
+converse_15	generation	O
+converse_15	the	O
+converse_15	converse	converse_adj-nou
+converse_15	of	O
+converse_15	parsing	O

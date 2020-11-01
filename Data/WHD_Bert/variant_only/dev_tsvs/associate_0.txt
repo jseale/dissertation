@@ -1,0 +1,13 @@
+associate_0	They	O
+associate_0	associate	associate_vrb
+associate_0	spirits	O
+associate_0	with	O
+associate_0	rice	O
+associate_0	soil	O
+associate_0	water	O
+associate_0	fire	O
+associate_0	stones	O
+associate_0	paths	O
+associate_0	and	O
+associate_0	so	O
+associate_0	forth	O

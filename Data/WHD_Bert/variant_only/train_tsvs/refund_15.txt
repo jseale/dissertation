@@ -1,0 +1,17 @@
+refund_15	The	O
+refund_15	group	O
+refund_15	's	O
+refund_15	first	O
+refund_15	victory	O
+refund_15	in	O
+refund_15	1863	O
+refund_15	was	O
+refund_15	convincing	O
+refund_15	the	O
+refund_15	government	O
+refund_15	to	O
+refund_15	refund	refund_vrb
+refund_15	a	O
+refund_15	tax	O
+refund_15	on	O
+refund_15	lager	O

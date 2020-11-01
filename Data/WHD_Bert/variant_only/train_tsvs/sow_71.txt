@@ -1,0 +1,17 @@
+sow_71	The	O
+sow_71	song	O
+sow_71	Reap	O
+sow_71	What	O
+sow_71	You	O
+sow_71	Sow	sow
+sow_71	is	O
+sow_71	the	O
+sow_71	first	O
+sow_71	song	O
+sow_71	by	O
+sow_71	Powderfinger	O
+sow_71	to	O
+sow_71	have	O
+sow_71	a	O
+sow_71	music	O
+sow_71	video	O

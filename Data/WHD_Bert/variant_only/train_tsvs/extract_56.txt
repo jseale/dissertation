@@ -1,0 +1,17 @@
+extract_56	When	O
+extract_56	the	O
+extract_56	Prussian	O
+extract_56	victory	O
+extract_56	became	O
+extract_56	clear	O
+extract_56	France	O
+extract_56	attempted	O
+extract_56	to	O
+extract_56	extract	extract_vrb
+extract_56	territorial	O
+extract_56	concessions	O
+extract_56	in	O
+extract_56	the	O
+extract_56	Palatinate	O
+extract_56	and	O
+extract_56	Luxembourg	O

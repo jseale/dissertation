@@ -1,0 +1,9 @@
+frequent_29	Floods	O
+frequent_29	frequent	frequent_vrb
+frequent_29	the	O
+frequent_29	island	O
+frequent_29	every	O
+frequent_29	year	O
+frequent_29	without	O
+frequent_29	any	O
+frequent_29	exception	O

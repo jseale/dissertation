@@ -1,0 +1,10 @@
+conflict_69	However	O
+conflict_69	a	O
+conflict_69	solution	O
+conflict_69	to	O
+conflict_69	the	O
+conflict_69	conflict	conflict_nou
+conflict_69	is	O
+conflict_69	currently	O
+conflict_69	still	O
+conflict_69	evasive	O

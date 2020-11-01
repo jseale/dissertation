@@ -1,0 +1,13 @@
+animate_25	In	O
+animate_25	the	O
+animate_25	daytime	O
+animate_25	they	O
+animate_25	can	O
+animate_25	animate	animate_vrb
+animate_25	a	O
+animate_25	vampires	O
+animate_25	corpse	O
+animate_25	whilst	O
+animate_25	it	O
+animate_25	is	O
+animate_25	soulless	O

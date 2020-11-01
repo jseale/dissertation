@@ -1,0 +1,17 @@
+isolate_22	He	O
+isolate_22	further	O
+isolate_22	tells	O
+isolate_22	them	O
+isolate_22	that	O
+isolate_22	to	O
+isolate_22	isolate	isolate
+isolate_22	them	O
+isolate_22	fully	O
+isolate_22	they	O
+isolate_22	are	O
+isolate_22	forbidden	O
+isolate_22	from	O
+isolate_22	using	O
+isolate_22	any	O
+isolate_22	advanced	O
+isolate_22	technology	O

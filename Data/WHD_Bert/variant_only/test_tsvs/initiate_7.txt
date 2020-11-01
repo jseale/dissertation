@@ -1,0 +1,15 @@
+initiate_7	The	O
+initiate_7	Initiate	initiate_nou
+initiate_7	goes	O
+initiate_7	back	O
+initiate_7	into	O
+initiate_7	the	O
+initiate_7	Ruins	O
+initiate_7	to	O
+initiate_7	find	O
+initiate_7	the	O
+initiate_7	Laboratory	O
+initiate_7	passkey	O
+initiate_7	to	O
+initiate_7	find	O
+initiate_7	Attis	O

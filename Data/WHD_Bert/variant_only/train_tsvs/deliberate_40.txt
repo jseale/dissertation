@@ -1,0 +1,17 @@
+deliberate_40	Delayed	O
+deliberate_40	auditory	O
+deliberate_40	feedback	O
+deliberate_40	DAF	O
+deliberate_40	is	O
+deliberate_40	usually	O
+deliberate_40	used	O
+deliberate_40	to	O
+deliberate_40	produce	O
+deliberate_40	a	O
+deliberate_40	more	O
+deliberate_40	deliberate	deliberate_adj
+deliberate_40	exaggerated	O
+deliberate_40	oral	O
+deliberate_40	motor	O
+deliberate_40	response	O
+deliberate_40	pattern	O

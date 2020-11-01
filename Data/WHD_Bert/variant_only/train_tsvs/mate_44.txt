@@ -1,0 +1,11 @@
+mate_44	Hazel	O
+mate_44	's	O
+mate_44	beautiful	O
+mate_44	mate	mate
+mate_44	is	O
+mate_44	Primrose	O
+mate_44	whom	O
+mate_44	he	O
+mate_44	freed	O
+mate_44	from	O
+mate_44	Efrafa	O

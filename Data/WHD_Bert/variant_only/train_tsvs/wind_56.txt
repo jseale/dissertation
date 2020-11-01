@@ -1,0 +1,17 @@
+wind_56	Later	O
+wind_56	that	O
+wind_56	morning	O
+wind_56	the	O
+wind_56	hurricane	O
+wind_56	reached	O
+wind_56	Category	O
+wind_56	2	O
+wind_56	intensity	O
+wind_56	on	O
+wind_56	the	O
+wind_56	Saffir	O
+wind_56	Simpson	O
+wind_56	Hurricane	O
+wind_56	Wind	wind_nou
+wind_56	Scale	O
+wind_56	SSHWS	O

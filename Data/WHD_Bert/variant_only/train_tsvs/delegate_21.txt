@@ -1,0 +1,17 @@
+delegate_21	Naide	O
+delegate_21	served	O
+delegate_21	as	O
+delegate_21	a	O
+delegate_21	delegate	delegate_nou
+delegate_21	to	O
+delegate_21	the	O
+delegate_21	first	O
+delegate_21	synod	O
+delegate_21	of	O
+delegate_21	the	O
+delegate_21	Anglican	O
+delegate_21	Church	O
+delegate_21	in	O
+delegate_21	Japan	O
+delegate_21	in	O
+delegate_21	1887	O

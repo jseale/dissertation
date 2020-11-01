@@ -1,0 +1,17 @@
+export_66	The	O
+export_66	center	O
+export_66	is	O
+export_66	the	O
+export_66	venue	O
+export_66	of	O
+export_66	an	O
+export_66	important	O
+export_66	import	O
+export_66	export	export_nou
+export_66	fair	O
+export_66	as	O
+export_66	well	O
+export_66	as	O
+export_66	marketing	O
+export_66	and	O
+export_66	conferencing	O

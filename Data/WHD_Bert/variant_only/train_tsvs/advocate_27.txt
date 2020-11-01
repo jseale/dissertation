@@ -1,0 +1,11 @@
+advocate_27	Human	O
+advocate_27	rights	O
+advocate_27	advocate	advocate_nou
+advocate_27	Samantha	O
+advocate_27	Power	O
+advocate_27	was	O
+advocate_27	the	O
+advocate_27	inaugural	O
+advocate_27	appointee	O
+advocate_27	in	O
+advocate_27	2006	O

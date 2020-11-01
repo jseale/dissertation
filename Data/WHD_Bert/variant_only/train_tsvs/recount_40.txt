@@ -1,0 +1,15 @@
+recount_40	Still	O
+recount_40	despite	O
+recount_40	the	O
+recount_40	total	O
+recount_40	recount	recount_nou
+recount_40	in	O
+recount_40	25,000	O
+recount_40	settlements	O
+recount_40	only	O
+recount_40	4,887	O
+recount_40	previously	O
+recount_40	unenumerated	O
+recount_40	persons	O
+recount_40	were	O
+recount_40	found	O

@@ -1,0 +1,13 @@
+upset_2	Durham	O
+upset_2	's	O
+upset_2	leaders	O
+upset_2	were	O
+upset_2	upset	upset_nou
+upset_2	and	O
+upset_2	he	O
+upset_2	was	O
+upset_2	rumored	O
+upset_2	to	O
+upset_2	have	O
+upset_2	been	O
+upset_2	disciplined	O

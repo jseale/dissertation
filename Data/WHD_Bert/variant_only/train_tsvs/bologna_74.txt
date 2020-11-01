@@ -1,0 +1,9 @@
+bologna_74	She	O
+bologna_74	started	O
+bologna_74	her	O
+bologna_74	career	O
+bologna_74	at	O
+bologna_74	the	O
+bologna_74	University	O
+bologna_74	of	O
+bologna_74	Bologna	bologna_geo

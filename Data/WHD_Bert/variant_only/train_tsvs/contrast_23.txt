@@ -1,0 +1,16 @@
+contrast_23	This	O
+contrast_23	was	O
+contrast_23	in	O
+contrast_23	stark	O
+contrast_23	contrast	contrast_nou
+contrast_23	to	O
+contrast_23	a	O
+contrast_23	much	O
+contrast_23	higher	O
+contrast_23	rates	O
+contrast_23	of	O
+contrast_23	around	O
+contrast_23	thirty	O
+contrast_23	percent	O
+contrast_23	or	O
+contrast_23	higher	O

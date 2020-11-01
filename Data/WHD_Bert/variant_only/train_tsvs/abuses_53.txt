@@ -1,0 +1,11 @@
+abuses_53	It	O
+abuses_53	also	O
+abuses_53	said	O
+abuses_53	that	O
+abuses_53	many	O
+abuses_53	abuses	abuses_nou
+abuses_53	were	O
+abuses_53	deliberately	O
+abuses_53	misreported	O
+abuses_53	as	O
+abuses_53	accidents	O

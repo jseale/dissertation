@@ -1,0 +1,17 @@
+articulate_11	Eliot	O
+articulate_11	was	O
+articulate_11	an	O
+articulate_11	articulate	articulate_adj
+articulate_11	opponent	O
+articulate_11	of	O
+articulate_11	American	O
+articulate_11	imperialism	O
+articulate_11	although	O
+articulate_11	he	O
+articulate_11	was	O
+articulate_11	opposed	O
+articulate_11	to	O
+articulate_11	the	O
+articulate_11	education	O
+articulate_11	of	O
+articulate_11	women	O

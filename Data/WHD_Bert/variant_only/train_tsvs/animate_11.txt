@@ -1,0 +1,10 @@
+animate_11	These	O
+animate_11	are	O
+animate_11	co	O
+animate_11	eternal	O
+animate_11	with	O
+animate_11	God	O
+animate_11	and	O
+animate_11	animate	animate_vrb
+animate_11	the	O
+animate_11	spirits	O

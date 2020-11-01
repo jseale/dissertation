@@ -1,0 +1,17 @@
+sow_2	He	O
+sow_2	commissioned	O
+sow_2	Edmund	O
+sow_2	Barclay	O
+sow_2	to	O
+sow_2	write	O
+sow_2	the	O
+sow_2	series	O
+sow_2	As	O
+sow_2	Ye	O
+sow_2	Sow	sow
+sow_2	which	O
+sow_2	ran	O
+sow_2	for	O
+sow_2	most	O
+sow_2	of	O
+sow_2	1937	O

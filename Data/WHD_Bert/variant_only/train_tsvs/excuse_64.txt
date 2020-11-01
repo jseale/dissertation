@@ -1,0 +1,9 @@
+excuse_64	He	O
+excuse_64	said	O
+excuse_64	that	O
+excuse_64	was	O
+excuse_64	no	O
+excuse_64	excuse	excuse_nou
+excuse_64	just	O
+excuse_64	what	O
+excuse_64	happened	O

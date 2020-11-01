@@ -1,0 +1,14 @@
+conscript_7	Following	O
+conscript_7	a	O
+conscript_7	change	O
+conscript_7	in	O
+conscript_7	government	O
+conscript_7	in	O
+conscript_7	1954	O
+conscript_7	conscript	conscript_nou
+conscript_7	service	O
+conscript_7	was	O
+conscript_7	reduced	O
+conscript_7	to	O
+conscript_7	18	O
+conscript_7	months	O

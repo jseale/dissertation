@@ -1,0 +1,14 @@
+ravel_7	In	O
+ravel_7	October	O
+ravel_7	1932	O
+ravel_7	Ravel	ravel_nam
+ravel_7	suffered	O
+ravel_7	a	O
+ravel_7	blow	O
+ravel_7	to	O
+ravel_7	the	O
+ravel_7	head	O
+ravel_7	in	O
+ravel_7	a	O
+ravel_7	taxi	O
+ravel_7	accident	O

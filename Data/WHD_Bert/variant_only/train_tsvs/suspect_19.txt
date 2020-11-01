@@ -1,0 +1,10 @@
+suspect_19	After	O
+suspect_19	his	O
+suspect_19	uncle	O
+suspect_19	's	O
+suspect_19	demise	O
+suspect_19	Maria	O
+suspect_19	becomes	O
+suspect_19	a	O
+suspect_19	murder	O
+suspect_19	suspect	suspect_adj-nou

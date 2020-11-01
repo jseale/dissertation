@@ -1,0 +1,16 @@
+live_4	Rockridge	O
+live_4	was	O
+live_4	listed	O
+live_4	by	O
+live_4	Money	O
+live_4	Magazine	O
+live_4	in	O
+live_4	2002	O
+live_4	as	O
+live_4	one	O
+live_4	of	O
+live_4	the	O
+live_4	best	O
+live_4	places	O
+live_4	to	O
+live_4	live	live_vrb

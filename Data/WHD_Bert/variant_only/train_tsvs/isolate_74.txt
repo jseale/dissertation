@@ -1,0 +1,15 @@
+isolate_74	The	O
+isolate_74	plan	O
+isolate_74	was	O
+isolate_74	to	O
+isolate_74	isolate	isolate
+isolate_74	Budapest	O
+isolate_74	from	O
+isolate_74	the	O
+isolate_74	rest	O
+isolate_74	of	O
+isolate_74	the	O
+isolate_74	German	O
+isolate_74	and	O
+isolate_74	Hungarian	O
+isolate_74	forces	O

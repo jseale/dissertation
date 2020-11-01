@@ -1,0 +1,8 @@
+approximate_55	Approximate	approximate_adj-nou
+approximate_55	post	O
+approximate_55	time	O
+approximate_55	was	O
+approximate_55	5:50	O
+approximate_55	p.m.	O
+approximate_55	Eastern	O
+approximate_55	Time	O

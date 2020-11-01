@@ -1,0 +1,13 @@
+syndicate_19	Caplin	O
+syndicate_19	acting	O
+syndicate_19	as	O
+syndicate_19	Myers	O
+syndicate_19	business	O
+syndicate_19	manager	O
+syndicate_19	submitted	O
+syndicate_19	these	O
+syndicate_19	to	O
+syndicate_19	the	O
+syndicate_19	Chicago	O
+syndicate_19	Tribune	O
+syndicate_19	Syndicate	syndicate_nou

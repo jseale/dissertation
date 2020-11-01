@@ -1,0 +1,17 @@
+frequent_67	Nevins	O
+frequent_67	retired	O
+frequent_67	from	O
+frequent_67	the	O
+frequent_67	Army	O
+frequent_67	in	O
+frequent_67	1946	O
+frequent_67	but	O
+frequent_67	continued	O
+frequent_67	to	O
+frequent_67	have	O
+frequent_67	frequent	frequent_adj
+frequent_67	contacts	O
+frequent_67	with	O
+frequent_67	Dwight	O
+frequent_67	D.	O
+frequent_67	Eisenhower	O

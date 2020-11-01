@@ -1,0 +1,15 @@
+suspect_73	His	O
+suspect_73	fiance	O
+suspect_73	urges	O
+suspect_73	him	O
+suspect_73	to	O
+suspect_73	pursue	O
+suspect_73	the	O
+suspect_73	suspect	suspect_adj-nou
+suspect_73	in	O
+suspect_73	hope	O
+suspect_73	that	O
+suspect_73	he	O
+suspect_73	will	O
+suspect_73	gain	O
+suspect_73	recognition	O

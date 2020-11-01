@@ -1,0 +1,16 @@
+refuse_73	The	O
+refuse_73	APD	O
+refuse_73	patrol	O
+refuse_73	officer	O
+refuse_73	who	O
+refuse_73	rescued	O
+refuse_73	Paulson	O
+refuse_73	is	O
+refuse_73	outraged	O
+refuse_73	that	O
+refuse_73	the	O
+refuse_73	detectives	O
+refuse_73	refuse	refuse_vrb
+refuse_73	to	O
+refuse_73	pursue	O
+refuse_73	Hansen	O

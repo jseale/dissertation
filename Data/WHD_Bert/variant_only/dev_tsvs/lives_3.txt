@@ -1,0 +1,11 @@
+lives_3	Moneyball	O
+lives_3	also	O
+lives_3	covers	O
+lives_3	the	O
+lives_3	lives	lives_nou
+lives_3	and	O
+lives_3	careers	O
+lives_3	of	O
+lives_3	several	O
+lives_3	baseball	O
+lives_3	personalities	O

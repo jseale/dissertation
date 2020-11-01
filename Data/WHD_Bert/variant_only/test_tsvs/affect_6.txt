@@ -1,0 +1,15 @@
+affect_6	Increased	O
+affect_6	serum	O
+affect_6	prolactin	O
+affect_6	PRL	O
+affect_6	concentration	O
+affect_6	in	O
+affect_6	patients	O
+affect_6	brains	O
+affect_6	from	O
+affect_6	psychiatric	O
+affect_6	medicine	O
+affect_6	can	O
+affect_6	also	O
+affect_6	affect	affect
+affect_6	sexuality	O

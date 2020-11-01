@@ -1,0 +1,12 @@
+deliberate_59	This	O
+deliberate_59	was	O
+deliberate_59	a	O
+deliberate_59	deliberate	deliberate_adj
+deliberate_59	act	O
+deliberate_59	most	O
+deliberate_59	likely	O
+deliberate_59	done	O
+deliberate_59	by	O
+deliberate_59	Petty	O
+deliberate_59	Officer	O
+deliberate_59	Hartwig	O

@@ -1,0 +1,7 @@
+live_8	To	O
+live_8	live	live_vrb
+live_8	directly	O
+live_8	across	O
+live_8	from	O
+live_8	the	O
+live_8	sea	O

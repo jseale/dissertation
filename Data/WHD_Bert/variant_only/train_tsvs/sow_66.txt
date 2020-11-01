@@ -1,0 +1,10 @@
+sow_66	Soo	O
+sow_66	is	O
+sow_66	the	O
+sow_66	local	O
+sow_66	derivative	O
+sow_66	for	O
+sow_66	a	O
+sow_66	sow	sow_nou
+sow_66	or	O
+sow_66	pig	O

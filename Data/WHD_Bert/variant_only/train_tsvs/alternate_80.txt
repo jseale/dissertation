@@ -1,0 +1,14 @@
+alternate_80	The	O
+alternate_80	singers	O
+alternate_80	divide	O
+alternate_80	into	O
+alternate_80	two	O
+alternate_80	groups	O
+alternate_80	of	O
+alternate_80	three	O
+alternate_80	and	O
+alternate_80	each	O
+alternate_80	group	O
+alternate_80	sings	O
+alternate_80	alternate	alternate_adj-nou
+alternate_80	stanzas	O

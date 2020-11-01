@@ -1,0 +1,14 @@
+analyses_7	Thus	O
+analyses_7	morphological	O
+analyses_7	analyses	analyses_nou
+analyses_7	are	O
+analyses_7	not	O
+analyses_7	able	O
+analyses_7	to	O
+analyses_7	uncover	O
+analyses_7	realistic	O
+analyses_7	phylogenetical	O
+analyses_7	relationships	O
+analyses_7	neither	O
+analyses_7	appropriate	O
+analyses_7	taxonomy	O

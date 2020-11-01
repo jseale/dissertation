@@ -1,0 +1,16 @@
+converse_9	Of	O
+converse_9	those	O
+converse_9	18.9	O
+converse_9	identified	O
+converse_9	with	O
+converse_9	no	O
+converse_9	other	O
+converse_9	iwi	O
+converse_9	and	O
+converse_9	21.9	O
+converse_9	could	O
+converse_9	converse	converse_vrb
+converse_9	in	O
+converse_9	the	O
+converse_9	Maori	O
+converse_9	language	O

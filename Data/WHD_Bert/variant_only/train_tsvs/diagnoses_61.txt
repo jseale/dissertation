@@ -1,0 +1,16 @@
+diagnoses_61	The	O
+diagnoses_61	primary	O
+diagnoses_61	diagnoses	diagnoses_nou
+diagnoses_61	treated	O
+diagnoses_61	are	O
+diagnoses_61	HIV	O
+diagnoses_61	AIDS	O
+diagnoses_61	or	O
+diagnoses_61	related	O
+diagnoses_61	complications	O
+diagnoses_61	TB	O
+diagnoses_61	malaria	O
+diagnoses_61	diarrheal	O
+diagnoses_61	diseases	O
+diagnoses_61	and	O
+diagnoses_61	parasites	O

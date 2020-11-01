@@ -1,0 +1,9 @@
+aggregate_54	Asphalt	O
+aggregate_54	aggregate	aggregate_adj-nou
+aggregate_54	operations	O
+aggregate_54	are	O
+aggregate_54	managed	O
+aggregate_54	by	O
+aggregate_54	Veidekke	O
+aggregate_54	Industry	O
+aggregate_54	AS	O

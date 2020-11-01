@@ -1,0 +1,17 @@
+nestle_8	Company	O
+nestle_8	also	O
+nestle_8	works	O
+nestle_8	with	O
+nestle_8	global	O
+nestle_8	names	O
+nestle_8	such	O
+nestle_8	as	O
+nestle_8	Nestle	nestle_nam
+nestle_8	Mercedes	O
+nestle_8	Benz	O
+nestle_8	Apple	O
+nestle_8	Inc.	O
+nestle_8	Samsung	O
+nestle_8	Microsoft	O
+nestle_8	and	O
+nestle_8	BP	O

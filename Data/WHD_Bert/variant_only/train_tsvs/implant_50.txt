@@ -1,0 +1,13 @@
+implant_50	After	O
+implant_50	cutting	O
+implant_50	the	O
+implant_50	implant	implant_nou
+implant_50	pocket	O
+implant_50	the	O
+implant_50	surgeon	O
+implant_50	then	O
+implant_50	de	O
+implant_50	epithelializes	O
+implant_50	the	O
+implant_50	B	O
+implant_50	pedicle	O

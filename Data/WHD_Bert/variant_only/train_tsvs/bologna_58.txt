@@ -1,0 +1,10 @@
+bologna_58	Giuseppe	O
+bologna_58	Campione	O
+bologna_58	Bologna	bologna_geo
+bologna_58	15	O
+bologna_58	years	O
+bologna_58	298	O
+bologna_58	days	O
+bologna_58	25	O
+bologna_58	June	O
+bologna_58	1989)6	O

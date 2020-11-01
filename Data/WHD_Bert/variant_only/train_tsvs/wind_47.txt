@@ -1,0 +1,12 @@
+wind_47	Foredunes	O
+wind_47	are	O
+wind_47	formed	O
+wind_47	when	O
+wind_47	sand	O
+wind_47	accumulates	O
+wind_47	and	O
+wind_47	wind	wind_nou
+wind_47	actively	O
+wind_47	transforms	O
+wind_47	the	O
+wind_47	landscape	O

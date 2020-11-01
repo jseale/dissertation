@@ -1,0 +1,12 @@
+misuse_4	Joseph	O
+misuse_4	Daul	O
+misuse_4	was	O
+misuse_4	under	O
+misuse_4	investigation	O
+misuse_4	for	O
+misuse_4	misuse	misuse_nou
+misuse_4	of	O
+misuse_4	public	O
+misuse_4	funds	O
+misuse_4	in	O
+misuse_4	France	O

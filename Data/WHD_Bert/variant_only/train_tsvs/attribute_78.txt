@@ -1,0 +1,17 @@
+attribute_78	That	O
+attribute_78	a	O
+attribute_78	given	O
+attribute_78	psychological	O
+attribute_78	attribute	attribute_nou
+attribute_78	is	O
+attribute_78	a	O
+attribute_78	continuous	O
+attribute_78	quantity	O
+attribute_78	is	O
+attribute_78	a	O
+attribute_78	logically	O
+attribute_78	coherent	O
+attribute_78	and	O
+attribute_78	empirically	O
+attribute_78	testable	O
+attribute_78	hypothesis	O

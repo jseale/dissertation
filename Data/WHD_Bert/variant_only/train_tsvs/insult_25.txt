@@ -1,0 +1,15 @@
+insult_25	This	O
+insult_25	in	O
+insult_25	turn	O
+insult_25	led	O
+insult_25	Hearne	O
+insult_25	in	O
+insult_25	his	O
+insult_25	diary	O
+insult_25	to	O
+insult_25	insult	insult_vrb
+insult_25	Pope	O
+insult_25	's	O
+insult_25	lack	O
+insult_25	of	O
+insult_25	scholarship	O

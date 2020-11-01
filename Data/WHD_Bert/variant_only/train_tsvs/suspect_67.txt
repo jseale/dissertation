@@ -1,0 +1,14 @@
+suspect_67	Ben	O
+suspect_67	Loyd	O
+suspect_67	Holmes	O
+suspect_67	as	O
+suspect_67	Private	O
+suspect_67	John	O
+suspect_67	Leary	O
+suspect_67	the	O
+suspect_67	first	O
+suspect_67	suspect	suspect_adj-nou
+suspect_67	in	O
+suspect_67	the	O
+suspect_67	Ripper	O
+suspect_67	case	O

@@ -1,0 +1,15 @@
+laminate_4	The	O
+laminate_4	Tsai	O
+laminate_4	Wu	O
+laminate_4	criterion	O
+laminate_4	predicts	O
+laminate_4	failure	O
+laminate_4	when	O
+laminate_4	the	O
+laminate_4	failure	O
+laminate_4	index	O
+laminate_4	in	O
+laminate_4	a	O
+laminate_4	laminate	laminate_nou
+laminate_4	reaches	O
+laminate_4	1	O

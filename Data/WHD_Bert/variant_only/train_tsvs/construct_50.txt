@@ -1,0 +1,10 @@
+construct_50	Some	O
+construct_50	researchers	O
+construct_50	have	O
+construct_50	used	O
+construct_50	search	O
+construct_50	engines	O
+construct_50	to	O
+construct_50	construct	construct_vrb
+construct_50	sampling	O
+construct_50	frames	O

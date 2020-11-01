@@ -1,0 +1,10 @@
+frequent_48	During	O
+frequent_48	this	O
+frequent_48	time	O
+frequent_48	there	O
+frequent_48	were	O
+frequent_48	frequent	frequent_adj
+frequent_48	shortages	O
+frequent_48	in	O
+frequent_48	commercial	O
+frequent_48	establishments	O

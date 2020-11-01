@@ -1,0 +1,17 @@
+content_49	In	O
+content_49	May	O
+content_49	2012	O
+content_49	Sina	O
+content_49	Weibo	O
+content_49	introduced	O
+content_49	new	O
+content_49	restrictions	O
+content_49	on	O
+content_49	the	O
+content_49	content	content_nou
+content_49	its	O
+content_49	300	O
+content_49	million	O
+content_49	users	O
+content_49	can	O
+content_49	post	O

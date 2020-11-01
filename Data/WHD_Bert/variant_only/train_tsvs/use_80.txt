@@ -1,0 +1,15 @@
+use_80	Supportive	O
+use_80	in	O
+use_80	vitro	O
+use_80	experiments	O
+use_80	prior	O
+use_80	to	O
+use_80	the	O
+use_80	use	use_nou
+use_80	in	O
+use_80	animals	O
+use_80	or	O
+use_80	humans	O
+use_80	are	O
+use_80	therefore	O
+use_80	recommended	O

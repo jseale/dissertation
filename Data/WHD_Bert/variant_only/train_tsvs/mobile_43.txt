@@ -1,0 +1,11 @@
+mobile_43	Medic	O
+mobile_43	Mobile	mobile
+mobile_43	is	O
+mobile_43	used	O
+mobile_43	in	O
+mobile_43	over	O
+mobile_43	20	O
+mobile_43	countries	O
+mobile_43	with	O
+mobile_43	39	O
+mobile_43	partners	O

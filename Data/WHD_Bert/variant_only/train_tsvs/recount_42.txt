@@ -1,0 +1,12 @@
+recount_42	History	O
+recount_42	does	O
+recount_42	not	O
+recount_42	recount	recount_vrb
+recount_42	any	O
+recount_42	incidents	O
+recount_42	of	O
+recount_42	cholera	O
+recount_42	until	O
+recount_42	the	O
+recount_42	19th	O
+recount_42	century	O

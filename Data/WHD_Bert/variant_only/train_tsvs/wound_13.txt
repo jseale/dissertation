@@ -1,0 +1,14 @@
+wound_13	The	O
+wound_13	Meissner	O
+wound_13	Signal	O
+wound_13	Shifter	O
+wound_13	used	O
+wound_13	plug	O
+wound_13	in	O
+wound_13	grid	O
+wound_13	coils	O
+wound_13	wound	wound_vrb
+wound_13	for	O
+wound_13	amateur	O
+wound_13	radio	O
+wound_13	frequencies	O

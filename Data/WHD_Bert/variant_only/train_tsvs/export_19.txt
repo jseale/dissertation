@@ -1,0 +1,11 @@
+export_19	The	O
+export_19	XA-188	O
+export_19	is	O
+export_19	originally	O
+export_19	a	O
+export_19	Dutch	O
+export_19	export	export_nou
+export_19	version	O
+export_19	of	O
+export_19	the	O
+export_19	APC	O

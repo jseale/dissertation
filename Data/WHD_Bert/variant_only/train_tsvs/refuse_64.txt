@@ -1,0 +1,8 @@
+refuse_64	Did	O
+refuse_64	Pauly	O
+refuse_64	Shore	O
+refuse_64	refuse	refuse_vrb
+refuse_64	to	O
+refuse_64	return	O
+refuse_64	your	O
+refuse_64	calls	O

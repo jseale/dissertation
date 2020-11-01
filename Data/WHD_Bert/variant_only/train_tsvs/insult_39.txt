@@ -1,0 +1,10 @@
+insult_39	Emery	O
+insult_39	hurls	O
+insult_39	an	O
+insult_39	insult	insult_nou
+insult_39	at	O
+insult_39	Derrick	O
+insult_39	and	O
+insult_39	the	O
+insult_39	two	O
+insult_39	fight	O

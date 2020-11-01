@@ -1,0 +1,16 @@
+read_43	Some	O
+read_43	skills	O
+read_43	can	O
+read_43	only	O
+read_43	be	O
+read_43	taken	O
+read_43	by	O
+read_43	certain	O
+read_43	classes	O
+read_43	such	O
+read_43	as	O
+read_43	Read	read_present
+read_43	Lips	O
+read_43	or	O
+read_43	Animal	O
+read_43	Empathy	O

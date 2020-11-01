@@ -1,0 +1,17 @@
+advocate_9	He	O
+advocate_9	tweeted	O
+advocate_9	the	O
+advocate_9	party	O
+advocate_9	would	O
+advocate_9	advocate	advocate_vrb
+advocate_9	a	O
+advocate_9	pro	O
+advocate_9	Europe	O
+advocate_9	pro	O
+advocate_9	developing	O
+advocate_9	world	O
+advocate_9	and	O
+advocate_9	against	O
+advocate_9	military	O
+advocate_9	adventurism	O
+advocate_9	stance	O

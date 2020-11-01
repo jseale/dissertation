@@ -1,0 +1,7 @@
+precipitate_41	The	O
+precipitate_41	precipitate	precipitate_adj-nou
+precipitate_41	will	O
+precipitate_41	dissolve	O
+precipitate_41	back	O
+precipitate_41	into	O
+precipitate_41	solution	O

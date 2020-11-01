@@ -1,0 +1,11 @@
+refund_70	This	O
+refund_70	kind	O
+refund_70	of	O
+refund_70	refund	refund_nou
+refund_70	or	O
+refund_70	rebate	O
+refund_70	is	O
+refund_70	known	O
+refund_70	as	O
+refund_70	a	O
+refund_70	drawback	O

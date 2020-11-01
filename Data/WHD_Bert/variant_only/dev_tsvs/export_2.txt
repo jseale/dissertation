@@ -1,0 +1,17 @@
+export_2	This	O
+export_2	gave	O
+export_2	the	O
+export_2	President	O
+export_2	the	O
+export_2	power	O
+export_2	to	O
+export_2	regulate	O
+export_2	the	O
+export_2	distribution	O
+export_2	export	export_nou
+export_2	import	O
+export_2	purchase	O
+export_2	and	O
+export_2	storage	O
+export_2	of	O
+export_2	food	O

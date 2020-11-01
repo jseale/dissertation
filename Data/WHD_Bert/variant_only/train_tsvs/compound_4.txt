@@ -1,0 +1,8 @@
+compound_4	This	O
+compound_4	red	O
+compound_4	colored	O
+compound_4	compound	compound_nou
+compound_4	is	O
+compound_4	commonly	O
+compound_4	abbreviated	O
+compound_4	bda)Fe(CO)₃.	O

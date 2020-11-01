@@ -1,0 +1,13 @@
+reject_61	Kerry	O
+reject_61	stated	O
+reject_61	afterward	O
+reject_61	We	O
+reject_61	flatly	O
+reject_61	reject	reject_vrb
+reject_61	this	O
+reject_61	illegal	O
+reject_61	effort	O
+reject_61	to	O
+reject_61	further	O
+reject_61	divide	O
+reject_61	Ukraine	O

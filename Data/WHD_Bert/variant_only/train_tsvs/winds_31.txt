@@ -1,0 +1,17 @@
+winds_31	Summer	O
+winds_31	frequently	O
+winds_31	features	O
+winds_31	thunderstorms	O
+winds_31	that	O
+winds_31	are	O
+winds_31	preceded	O
+winds_31	with	O
+winds_31	persistent	O
+winds_31	winds	winds_nou
+winds_31	and	O
+winds_31	occasionally	O
+winds_31	produce	O
+winds_31	small	O
+winds_31	grain	O
+winds_31	sized	O
+winds_31	hail	O

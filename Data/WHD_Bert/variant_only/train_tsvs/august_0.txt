@@ -1,0 +1,12 @@
+august_0	In	O
+august_0	August	august
+august_0	of	O
+august_0	that	O
+august_0	year	O
+august_0	they	O
+august_0	played	O
+august_0	their	O
+august_0	first	O
+august_0	show	O
+august_0	at	O
+august_0	Hypefest	O

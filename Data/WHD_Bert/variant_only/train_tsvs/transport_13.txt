@@ -1,0 +1,17 @@
+transport_13	The	O
+transport_13	Indonesian	O
+transport_13	Transport	transport_nou
+transport_13	Minister	O
+transport_13	Hatta	O
+transport_13	Rajasa	O
+transport_13	said	O
+transport_13	that	O
+transport_13	the	O
+transport_13	ship	O
+transport_13	was	O
+transport_13	not	O
+transport_13	old	O
+transport_13	and	O
+transport_13	was	O
+transport_13	still	O
+transport_13	seaworthy	O

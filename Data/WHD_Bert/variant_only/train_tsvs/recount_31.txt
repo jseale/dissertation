@@ -1,0 +1,9 @@
+recount_31	Ethnohistoric	O
+recount_31	sources	O
+recount_31	recount	recount_vrb
+recount_31	the	O
+recount_31	process	O
+recount_31	of	O
+recount_31	prismatic	O
+recount_31	blade	O
+recount_31	production	O

@@ -1,0 +1,13 @@
+fragment_42	This	O
+fragment_42	fragment	fragment_nou
+fragment_42	of	O
+fragment_42	a	O
+fragment_42	stone	O
+fragment_42	cross	O
+fragment_42	is	O
+fragment_42	located	O
+fragment_42	in	O
+fragment_42	the	O
+fragment_42	church	O
+fragment_42	Kirk	O
+fragment_42	Michael	O

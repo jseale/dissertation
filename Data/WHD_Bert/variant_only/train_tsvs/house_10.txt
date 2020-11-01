@@ -1,0 +1,15 @@
+house_10	The	O
+house_10	first	O
+house_10	school	O
+house_10	house	house_nou
+house_10	in	O
+house_10	the	O
+house_10	township	O
+house_10	was	O
+house_10	built	O
+house_10	in	O
+house_10	1836	O
+house_10	near	O
+house_10	the	O
+house_10	Sprague	O
+house_10	homestead	O

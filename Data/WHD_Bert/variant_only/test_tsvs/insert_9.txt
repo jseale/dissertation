@@ -1,0 +1,16 @@
+insert_9	Delete	O
+insert_9	Common	O
+insert_9	Purpose	O
+insert_9	throughout	O
+insert_9	and	O
+insert_9	insert	insert_vrb
+insert_9	Jew	O
+insert_9	Etonian	O
+insert_9	or	O
+insert_9	Freemason	O
+insert_9	and	O
+insert_9	you	O
+insert_9	'd	O
+insert_9	rightly	O
+insert_9	feel	O
+insert_9	uneasy	O

@@ -1,0 +1,14 @@
+mate_4	During	O
+mate_4	the	O
+mate_4	War	O
+mate_4	of	O
+mate_4	1812	O
+mate_4	he	O
+mate_4	was	O
+mate_4	appointed	O
+mate_4	surgeon	O
+mate_4	's	O
+mate_4	mate	mate
+mate_4	or	O
+mate_4	assistant	O
+mate_4	surgeon	O

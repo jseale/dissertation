@@ -1,0 +1,14 @@
+pasty_59	The	O
+pasty_59	Black	O
+pasty_59	Ghoul	O
+pasty_59	appears	O
+pasty_59	to	O
+pasty_59	have	O
+pasty_59	pasty	pasty_nou
+pasty_59	white	O
+pasty_59	skin	O
+pasty_59	with	O
+pasty_59	red	O
+pasty_59	fingernails	O
+pasty_59	and	O
+pasty_59	lipstick	O

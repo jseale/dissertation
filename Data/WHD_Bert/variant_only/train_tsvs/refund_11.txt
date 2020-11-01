@@ -1,0 +1,13 @@
+refund_11	She	O
+refund_11	refund	refund_vrb
+refund_11	the	O
+refund_11	hotel	O
+refund_11	for	O
+refund_11	500,000	O
+refund_11	francs	O
+refund_11	to	O
+refund_11	the	O
+refund_11	banker	O
+refund_11	Jean	O
+refund_11	Frédéric	O
+refund_11	Perregaux	O

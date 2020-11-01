@@ -1,0 +1,17 @@
+insert_7	The	O
+insert_7	insert	insert_nou
+insert_7	DNA	O
+insert_7	is	O
+insert_7	replicated	O
+insert_7	with	O
+insert_7	the	O
+insert_7	viral	O
+insert_7	DNA	O
+insert_7	thus	O
+insert_7	together	O
+insert_7	they	O
+insert_7	are	O
+insert_7	packaged	O
+insert_7	into	O
+insert_7	viral	O
+insert_7	particles	O

@@ -1,0 +1,8 @@
+contest_24	Thirty	O
+contest_24	nine	O
+contest_24	countries	O
+contest_24	participated	O
+contest_24	in	O
+contest_24	the	O
+contest_24	2005	O
+contest_24	Contest	contest_nou

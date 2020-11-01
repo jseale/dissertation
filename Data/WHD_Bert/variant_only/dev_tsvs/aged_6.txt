@@ -1,0 +1,12 @@
+aged_6	Pupils	O
+aged_6	at	O
+aged_6	the	O
+aged_6	school	O
+aged_6	are	O
+aged_6	aged	aged
+aged_6	between	O
+aged_6	13	O
+aged_6	and	O
+aged_6	18	O
+aged_6	years	O
+aged_6	old	O

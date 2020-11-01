@@ -1,0 +1,13 @@
+compress_6	Emission	O
+compress_6	of	O
+compress_6	radiation	O
+compress_6	from	O
+compress_6	the	O
+compress_6	atomic	O
+compress_6	bomb	O
+compress_6	used	O
+compress_6	to	O
+compress_6	compress	compress
+compress_6	the	O
+compress_6	main	O
+compress_6	body	O

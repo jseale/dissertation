@@ -1,0 +1,13 @@
+graduate_71	An	O
+graduate_71	Annapolis	O
+graduate_71	graduate	graduate_adj-nou
+graduate_71	and	O
+graduate_71	expert	O
+graduate_71	marksman	O
+graduate_71	Captain	O
+graduate_71	Tomb	O
+graduate_71	had	O
+graduate_71	a	O
+graduate_71	distinguished	O
+graduate_71	naval	O
+graduate_71	career	O

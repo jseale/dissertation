@@ -1,0 +1,17 @@
+precipitate_68	Without	O
+precipitate_68	sufficient	O
+precipitate_68	force	O
+precipitate_68	of	O
+precipitate_68	gravity	O
+precipitate_68	settling	O
+precipitate_68	to	O
+precipitate_68	bring	O
+precipitate_68	the	O
+precipitate_68	solid	O
+precipitate_68	particles	O
+precipitate_68	together	O
+precipitate_68	the	O
+precipitate_68	precipitate	precipitate_adj-nou
+precipitate_68	remains	O
+precipitate_68	in	O
+precipitate_68	suspension	O

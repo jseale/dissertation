@@ -1,0 +1,13 @@
+retard_27	Procaine	O
+retard_27	's	O
+retard_27	ability	O
+retard_27	to	O
+retard_27	retard	retard_vrb
+retard_27	certain	O
+retard_27	wound	O
+retard_27	healing	O
+retard_27	processes	O
+retard_27	has	O
+retard_27	been	O
+retard_27	well	O
+retard_27	researched	O

@@ -1,0 +1,16 @@
+implant_2	By	O
+implant_2	coating	O
+implant_2	the	O
+implant_2	implant	implant_nou
+implant_2	with	O
+implant_2	NPCs	O
+implant_2	it	O
+implant_2	can	O
+implant_2	reduce	O
+implant_2	the	O
+implant_2	foreign	O
+implant_2	body	O
+implant_2	reaction	O
+implant_2	and	O
+implant_2	improve	O
+implant_2	biocompatibility	O

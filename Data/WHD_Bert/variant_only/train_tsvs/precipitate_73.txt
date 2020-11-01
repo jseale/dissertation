@@ -1,0 +1,16 @@
+precipitate_73	This	O
+precipitate_73	produces	O
+precipitate_73	a	O
+precipitate_73	solid	O
+precipitate_73	neutralisation	O
+precipitate_73	precipitate	precipitate_adj-nou
+precipitate_73	containing	O
+precipitate_73	largely	O
+precipitate_73	calcium	O
+precipitate_73	sulfate	O
+precipitate_73	basic	O
+precipitate_73	iron(III	O
+precipitate_73	arsenate	O
+precipitate_73	and	O
+precipitate_73	iron(III	O
+precipitate_73	hydroxide	O

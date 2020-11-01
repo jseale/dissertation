@@ -1,0 +1,10 @@
+pasty_34	They	O
+pasty_34	also	O
+pasty_34	brought	O
+pasty_34	their	O
+pasty_34	recipe	O
+pasty_34	and	O
+pasty_34	appetite	O
+pasty_34	for	O
+pasty_34	the	O
+pasty_34	pasty	pasty_adj

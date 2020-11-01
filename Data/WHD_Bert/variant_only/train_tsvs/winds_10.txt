@@ -1,0 +1,16 @@
+winds_10	In	O
+winds_10	North	O
+winds_10	Carolina	O
+winds_10	the	O
+winds_10	large	O
+winds_10	wind	O
+winds_10	field	O
+winds_10	of	O
+winds_10	Gladys	O
+winds_10	produced	O
+winds_10	tropical	O
+winds_10	storm	O
+winds_10	force	O
+winds_10	winds	winds_nou
+winds_10	near	O
+winds_10	Manteo	O

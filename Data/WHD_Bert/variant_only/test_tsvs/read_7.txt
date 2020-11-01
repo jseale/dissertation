@@ -1,0 +1,15 @@
+read_7	While	O
+read_7	in	O
+read_7	Brussels	O
+read_7	he	O
+read_7	read	read_past
+read_7	a	O
+read_7	paper	O
+read_7	on	O
+read_7	lead	O
+read_7	poisoning	O
+read_7	at	O
+read_7	a	O
+read_7	World	O
+read_7	Medical	O
+read_7	Conference	O

@@ -1,0 +1,14 @@
+contrast_39	By	O
+contrast_39	contrast	contrast_nou
+contrast_39	a	O
+contrast_39	hard	O
+contrast_39	conversion	O
+contrast_39	or	O
+contrast_39	an	O
+contrast_39	adaptive	O
+contrast_39	conversion	O
+contrast_39	may	O
+contrast_39	not	O
+contrast_39	be	O
+contrast_39	exactly	O
+contrast_39	equivalent	O

@@ -1,0 +1,9 @@
+articulate_76	The	O
+articulate_76	FE	O
+articulate_76	columns	O
+articulate_76	and	O
+articulate_76	editorials	O
+articulate_76	articulate	articulate_vrb
+articulate_76	this	O
+articulate_76	opinion	O
+articulate_76	succinctly	O

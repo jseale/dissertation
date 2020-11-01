@@ -1,0 +1,15 @@
+alternate_69	During	O
+alternate_69	that	O
+alternate_69	intervening	O
+alternate_69	three	O
+alternate_69	month	O
+alternate_69	period	O
+alternate_69	women	O
+alternate_69	are	O
+alternate_69	advised	O
+alternate_69	to	O
+alternate_69	use	O
+alternate_69	an	O
+alternate_69	alternate	alternate_adj-nou
+alternate_69	contraceptive	O
+alternate_69	method	O

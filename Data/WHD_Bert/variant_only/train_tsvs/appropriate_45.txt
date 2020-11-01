@@ -1,0 +1,17 @@
+appropriate_45	For	O
+appropriate_45	him	O
+appropriate_45	each	O
+appropriate_45	of	O
+appropriate_45	these	O
+appropriate_45	categories	O
+appropriate_45	of	O
+appropriate_45	nouns	O
+appropriate_45	had	O
+appropriate_45	to	O
+appropriate_45	be	O
+appropriate_45	used	O
+appropriate_45	in	O
+appropriate_45	their	O
+appropriate_45	own	O
+appropriate_45	appropriate	appropriate_adj
+appropriate_45	manner	O

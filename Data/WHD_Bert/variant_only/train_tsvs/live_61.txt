@@ -1,0 +1,11 @@
+live_61	The	O
+live_61	concert	O
+live_61	was	O
+live_61	also	O
+live_61	released	O
+live_61	as	O
+live_61	a	O
+live_61	live	live_adj
+live_61	VHS	O
+live_61	and	O
+live_61	DVD	O

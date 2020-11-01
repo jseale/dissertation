@@ -1,0 +1,13 @@
+estimate_40	The	O
+estimate_40	most	O
+estimate_40	widely	O
+estimate_40	accepted	O
+estimate_40	estimate	estimate_nou
+estimate_40	of	O
+estimate_40	the	O
+estimate_40	number	O
+estimate_40	of	O
+estimate_40	dead	O
+estimate_40	is	O
+estimate_40	about	O
+estimate_40	22,000	O

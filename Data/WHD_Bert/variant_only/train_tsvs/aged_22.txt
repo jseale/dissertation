@@ -1,0 +1,17 @@
+aged_22	She	O
+aged_22	made	O
+aged_22	her	O
+aged_22	senior	O
+aged_22	debut	O
+aged_22	aged	aged
+aged_22	17	O
+aged_22	in	O
+aged_22	a	O
+aged_22	3	O
+aged_22	0	O
+aged_22	win	O
+aged_22	over	O
+aged_22	Slovenia	O
+aged_22	in	O
+aged_22	August	O
+aged_22	2009	O

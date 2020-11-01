@@ -1,0 +1,16 @@
+intrigue_34	The	O
+intrigue_34	plot	O
+intrigue_34	of	O
+intrigue_34	In	O
+intrigue_34	Town	O
+intrigue_34	though	O
+intrigue_34	thin	O
+intrigue_34	is	O
+intrigue_34	a	O
+intrigue_34	smart	O
+intrigue_34	tale	O
+intrigue_34	of	O
+intrigue_34	backstage	O
+intrigue_34	and	O
+intrigue_34	society	O
+intrigue_34	intrigue	intrigue_nou

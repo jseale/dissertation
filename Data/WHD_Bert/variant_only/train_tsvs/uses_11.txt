@@ -1,0 +1,16 @@
+uses_11	This	O
+uses_11	is	O
+uses_11	consistent	O
+uses_11	with	O
+uses_11	the	O
+uses_11	ritual	O
+uses_11	uses	uses_nou
+uses_11	of	O
+uses_11	rood	O
+uses_11	lofts	O
+uses_11	being	O
+uses_11	substantially	O
+uses_11	a	O
+uses_11	late	O
+uses_11	medieval	O
+uses_11	development	O

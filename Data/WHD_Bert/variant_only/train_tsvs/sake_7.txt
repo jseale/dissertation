@@ -1,0 +1,15 @@
+sake_7	But	O
+sake_7	if	O
+sake_7	I	O
+sake_7	worship	O
+sake_7	You	O
+sake_7	for	O
+sake_7	Your	O
+sake_7	Own	O
+sake_7	sake	sake
+sake_7	grudge	O
+sake_7	me	O
+sake_7	not	O
+sake_7	Your	O
+sake_7	everlasting	O
+sake_7	Beauty	O

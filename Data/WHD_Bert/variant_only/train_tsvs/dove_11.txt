@@ -1,0 +1,14 @@
+dove_11	The	O
+dove_11	bar	O
+dove_11	shouldered	O
+dove_11	dove	dove
+dove_11	Geopelia	O
+dove_11	humeralis	O
+dove_11	is	O
+dove_11	native	O
+dove_11	to	O
+dove_11	Australia	O
+dove_11	and	O
+dove_11	southern	O
+dove_11	New	O
+dove_11	Guinea	O

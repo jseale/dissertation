@@ -1,0 +1,11 @@
+discount_65	The	O
+discount_65	partnership	O
+discount_65	narrowed	O
+discount_65	its	O
+discount_65	focus	O
+discount_65	to	O
+discount_65	banking	O
+discount_65	activities	O
+discount_65	primarily	O
+discount_65	discount	discount_nou
+discount_65	transactions	O

@@ -1,0 +1,13 @@
+project_0	In	O
+project_0	July	O
+project_0	1999	O
+project_0	he	O
+project_0	went	O
+project_0	on	O
+project_0	loan	O
+project_0	for	O
+project_0	two	O
+project_0	games	O
+project_0	with	O
+project_0	Project	project_nou
+project_0	40	O

@@ -1,0 +1,10 @@
+uses_24	Gabe	O
+uses_24	is	O
+uses_24	a	O
+uses_24	genius	O
+uses_24	of	O
+uses_24	technology	O
+uses_24	and	O
+uses_24	uses	uses_vrb
+uses_24	a	O
+uses_24	handheld	O

@@ -1,0 +1,17 @@
+rebel_17	Thomas	O
+rebel_17	was	O
+rebel_17	executed	O
+rebel_17	as	O
+rebel_17	a	O
+rebel_17	rebel	rebel_nou
+rebel_17	and	O
+rebel_17	replaced	O
+rebel_17	by	O
+rebel_17	his	O
+rebel_17	younger	O
+rebel_17	brother	O
+rebel_17	Henry	O
+rebel_17	3rd	O
+rebel_17	Earl	O
+rebel_17	of	O
+rebel_17	Lancaster	O

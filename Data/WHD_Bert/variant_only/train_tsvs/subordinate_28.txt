@@ -1,0 +1,9 @@
+subordinate_28	Subordinate	subordinate_adj-nou
+subordinate_28	commands	O
+subordinate_28	were	O
+subordinate_28	under	O
+subordinate_28	discussion	O
+subordinate_28	in	O
+subordinate_28	1954	O
+subordinate_28	and	O
+subordinate_28	1956	O

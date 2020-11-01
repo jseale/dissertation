@@ -1,0 +1,12 @@
+initiate_58	Price	O
+initiate_58	wars	O
+initiate_58	are	O
+initiate_58	easy	O
+initiate_58	to	O
+initiate_58	initiate	initiate_vrb
+initiate_58	but	O
+initiate_58	usually	O
+initiate_58	very	O
+initiate_58	expensive	O
+initiate_58	for	O
+initiate_58	companies	O

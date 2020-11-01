@@ -1,0 +1,9 @@
+isolate_8	The	O
+isolate_8	kill	O
+isolate_8	zone	O
+isolate_8	should	O
+isolate_8	isolate	isolate
+isolate_8	and	O
+isolate_8	trap	O
+isolate_8	the	O
+isolate_8	enemy	O

@@ -1,0 +1,17 @@
+articulate_19	Some	O
+articulate_19	thinkers	O
+articulate_19	seek	O
+articulate_19	to	O
+articulate_19	articulate	articulate_vrb
+articulate_19	axiomatic	O
+articulate_19	assumptions	O
+articulate_19	on	O
+articulate_19	which	O
+articulate_19	science	O
+articulate_19	may	O
+articulate_19	be	O
+articulate_19	based	O
+articulate_19	a	O
+articulate_19	form	O
+articulate_19	of	O
+articulate_19	foundationalism	O

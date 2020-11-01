@@ -1,0 +1,17 @@
+use_3	Hence	O
+use_3	consumers	O
+use_3	are	O
+use_3	advised	O
+use_3	to	O
+use_3	use	use_vrb
+use_3	a	O
+use_3	different	O
+use_3	phone	O
+use_3	when	O
+use_3	dialing	O
+use_3	a	O
+use_3	company	O
+use_3	's	O
+use_3	number	O
+use_3	to	O
+use_3	confirm	O

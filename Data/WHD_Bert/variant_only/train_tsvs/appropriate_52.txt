@@ -1,0 +1,16 @@
+appropriate_52	The	O
+appropriate_52	main	O
+appropriate_52	feature	O
+appropriate_52	of	O
+appropriate_52	from	O
+appropriate_52	Phostech	O
+appropriate_52	is	O
+appropriate_52	increased	O
+appropriate_52	capacitance	O
+appropriate_52	and	O
+appropriate_52	conductivity	O
+appropriate_52	by	O
+appropriate_52	an	O
+appropriate_52	appropriate	appropriate_adj
+appropriate_52	carbon	O
+appropriate_52	coating	O

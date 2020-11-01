@@ -1,0 +1,16 @@
+house_75	The	O
+house_75	Halliburton	O
+house_75	House	house_nou
+house_75	is	O
+house_75	a	O
+house_75	historic	O
+house_75	house	house_nou
+house_75	at	O
+house_75	300	O
+house_75	West	O
+house_75	Halliburton	O
+house_75	Street	O
+house_75	in	O
+house_75	De	O
+house_75	Witt	O
+house_75	Arkansas	O

@@ -1,0 +1,14 @@
+permit_47	105.9	O
+permit_47	FM	O
+permit_47	was	O
+permit_47	initially	O
+permit_47	a	O
+permit_47	construction	O
+permit_47	permit	permit_nou
+permit_47	with	O
+permit_47	the	O
+permit_47	call	O
+permit_47	letters	O
+permit_47	WVSL	O
+permit_47	in	O
+permit_47	1991	O

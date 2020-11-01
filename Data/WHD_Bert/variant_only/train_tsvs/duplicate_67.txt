@@ -1,0 +1,17 @@
+duplicate_67	However	O
+duplicate_67	Kandinsky	O
+duplicate_67	had	O
+duplicate_67	admired	O
+duplicate_67	the	O
+duplicate_67	completed	O
+duplicate_67	design	O
+duplicate_67	and	O
+duplicate_67	Breuer	O
+duplicate_67	fabricated	O
+duplicate_67	a	O
+duplicate_67	duplicate	duplicate_adj-nou
+duplicate_67	for	O
+duplicate_67	Kandinsky	O
+duplicate_67	's	O
+duplicate_67	personal	O
+duplicate_67	quarters	O

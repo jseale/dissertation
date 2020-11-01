@@ -1,0 +1,15 @@
+abstract_72	The	O
+abstract_72	suit	O
+abstract_72	led	O
+abstract_72	to	O
+abstract_72	legal	O
+abstract_72	changes	O
+abstract_72	permitting	O
+abstract_72	the	O
+abstract_72	importation	O
+abstract_72	of	O
+abstract_72	abstract	abstract_adj-nou
+abstract_72	art	O
+abstract_72	free	O
+abstract_72	of	O
+abstract_72	duty	O

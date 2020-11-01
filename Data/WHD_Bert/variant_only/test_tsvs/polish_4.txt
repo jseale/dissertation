@@ -1,0 +1,16 @@
+polish_4	Skowronek	O
+polish_4	a	O
+polish_4	name	O
+polish_4	meaning	O
+polish_4	lark	O
+polish_4	or	O
+polish_4	skylark	O
+polish_4	in	O
+polish_4	Polish	polish_geo
+polish_4	was	O
+polish_4	an	O
+polish_4	Arabian	O
+polish_4	stallion	O
+polish_4	foaled	O
+polish_4	in	O
+polish_4	1909	O

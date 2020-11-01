@@ -1,0 +1,11 @@
+increment_47	Coral	O
+increment_47	Ridge	O
+increment_47	Mall	O
+increment_47	was	O
+increment_47	built	O
+increment_47	in	O
+increment_47	a	O
+increment_47	tax	O
+increment_47	increment	increment_nou
+increment_47	financing	O
+increment_47	district	O

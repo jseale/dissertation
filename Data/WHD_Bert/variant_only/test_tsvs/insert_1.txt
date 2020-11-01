@@ -1,0 +1,12 @@
+insert_1	This	O
+insert_1	is	O
+insert_1	also	O
+insert_1	the	O
+insert_1	place	O
+insert_1	to	O
+insert_1	insert	insert_vrb
+insert_1	the	O
+insert_1	run	O
+insert_1	time	O
+insert_1	dependence	O
+insert_1	check	O

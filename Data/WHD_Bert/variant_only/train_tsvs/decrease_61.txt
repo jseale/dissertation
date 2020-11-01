@@ -1,0 +1,14 @@
+decrease_61	How	O
+decrease_61	the	O
+decrease_61	loss	O
+decrease_61	of	O
+decrease_61	IGSF1	O
+decrease_61	causes	O
+decrease_61	a	O
+decrease_61	decrease	decrease_nou
+decrease_61	in	O
+decrease_61	TRH	O
+decrease_61	receptors	O
+decrease_61	is	O
+decrease_61	presently	O
+decrease_61	unknown	O

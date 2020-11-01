@@ -1,0 +1,10 @@
+winds_7	Winds	winds_nou
+winds_7	gusted	O
+winds_7	to	O
+winds_7	92	O
+winds_7	knots	O
+winds_7	170	O
+winds_7	km	O
+winds_7	h	O
+winds_7	at	O
+winds_7	Tanabe	O

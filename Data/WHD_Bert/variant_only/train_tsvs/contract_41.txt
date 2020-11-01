@@ -1,0 +1,11 @@
+contract_41	He	O
+contract_41	signed	O
+contract_41	a	O
+contract_41	new	O
+contract_41	two	O
+contract_41	year	O
+contract_41	contract	contract_nou
+contract_41	with	O
+contract_41	Kidderminster	O
+contract_41	in	O
+contract_41	July	O

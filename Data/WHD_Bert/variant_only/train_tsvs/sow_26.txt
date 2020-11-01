@@ -1,0 +1,17 @@
+sow_26	To	O
+sow_26	sow	sow
+sow_26	dissension	O
+sow_26	among	O
+sow_26	the	O
+sow_26	vassals	O
+sow_26	the	O
+sow_26	Aztecs	O
+sow_26	demanded	O
+sow_26	human	O
+sow_26	victims	O
+sow_26	as	O
+sow_26	part	O
+sow_26	of	O
+sow_26	the	O
+sow_26	annual	O
+sow_26	tribute	O

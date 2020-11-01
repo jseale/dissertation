@@ -1,0 +1,14 @@
+advocate_29	Since	O
+advocate_29	then	O
+advocate_29	she	O
+advocate_29	has	O
+advocate_29	become	O
+advocate_29	a	O
+advocate_29	global	O
+advocate_29	advocate	advocate_nou
+advocate_29	in	O
+advocate_29	the	O
+advocate_29	fight	O
+advocate_29	against	O
+advocate_29	sexual	O
+advocate_29	violence	O

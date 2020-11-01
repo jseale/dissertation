@@ -1,0 +1,16 @@
+converse_1	The	O
+converse_1	Eleventh	O
+converse_1	Doctor	O
+converse_1	upon	O
+converse_1	meeting	O
+converse_1	his	O
+converse_1	previous	O
+converse_1	self	O
+converse_1	referred	O
+converse_1	to	O
+converse_1	his	O
+converse_1	Converse	converse_adj-nou
+converse_1	trainers	O
+converse_1	as	O
+converse_1	sand	O
+converse_1	shoes	O

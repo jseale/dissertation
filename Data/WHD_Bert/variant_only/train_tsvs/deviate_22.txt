@@ -1,0 +1,15 @@
+deviate_22	Balu	O
+deviate_22	gets	O
+deviate_22	deeply	O
+deviate_22	hurt	O
+deviate_22	by	O
+deviate_22	this	O
+deviate_22	and	O
+deviate_22	he	O
+deviate_22	resorts	O
+deviate_22	to	O
+deviate_22	cunning	O
+deviate_22	ways	O
+deviate_22	to	O
+deviate_22	deviate	deviate_vrb
+deviate_22	Mahalakshmi	O

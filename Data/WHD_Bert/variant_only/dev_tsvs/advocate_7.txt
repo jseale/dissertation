@@ -1,0 +1,14 @@
+advocate_7	An	O
+advocate_7	advocate	advocate_nou
+advocate_7	is	O
+advocate_7	a	O
+advocate_7	person	O
+advocate_7	who	O
+advocate_7	argues	O
+advocate_7	for	O
+advocate_7	or	O
+advocate_7	supports	O
+advocate_7	a	O
+advocate_7	cause	O
+advocate_7	or	O
+advocate_7	policy	O

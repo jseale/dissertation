@@ -1,0 +1,17 @@
+insert_35	This	O
+insert_35	allows	O
+insert_35	genes	O
+insert_35	that	O
+insert_35	have	O
+insert_35	restriction	O
+insert_35	sites	O
+insert_35	to	O
+insert_35	be	O
+insert_35	cloned	O
+insert_35	without	O
+insert_35	worry	O
+insert_35	of	O
+insert_35	chopping	O
+insert_35	up	O
+insert_35	the	O
+insert_35	insert	insert_nou

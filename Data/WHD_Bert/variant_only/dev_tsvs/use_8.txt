@@ -1,0 +1,17 @@
+use_8	The	O
+use_8	Western	O
+use_8	use	use_nou
+use_8	of	O
+use_8	yuri	O
+use_8	has	O
+use_8	broadened	O
+use_8	in	O
+use_8	the	O
+use_8	2000s	O
+use_8	picking	O
+use_8	up	O
+use_8	connotations	O
+use_8	from	O
+use_8	the	O
+use_8	Japanese	O
+use_8	use	use_nou

@@ -1,0 +1,13 @@
+invert_28	The	O
+invert_28	Park	O
+invert_28	opened	O
+invert_28	the	O
+invert_28	ride	O
+invert_28	in	O
+invert_28	1993	O
+invert_28	as	O
+invert_28	the	O
+invert_28	first	O
+invert_28	custom	O
+invert_28	B&M	O
+invert_28	Invert	invert_adj-nou

@@ -1,0 +1,15 @@
+attribute_67	Some	O
+attribute_67	attribute	attribute_vrb
+attribute_67	the	O
+attribute_67	decline	O
+attribute_67	to	O
+attribute_67	lower	O
+attribute_67	demand	O
+attribute_67	of	O
+attribute_67	Saris	O
+attribute_67	or	O
+attribute_67	higher	O
+attribute_67	number	O
+attribute_67	of	O
+attribute_67	imported	O
+attribute_67	Saris	O

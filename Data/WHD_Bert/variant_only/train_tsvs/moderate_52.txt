@@ -1,0 +1,10 @@
+moderate_52	Excalibur	O
+moderate_52	achieved	O
+moderate_52	moderate	moderate_adj-nou
+moderate_52	box	O
+moderate_52	office	O
+moderate_52	success	O
+moderate_52	while	O
+moderate_52	receiving	O
+moderate_52	mixed	O
+moderate_52	reviews	O

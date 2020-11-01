@@ -1,0 +1,13 @@
+conscript_42	Of	O
+conscript_42	the	O
+conscript_42	22	O
+conscript_42	soldiers	O
+conscript_42	requested	O
+conscript_42	to	O
+conscript_42	form	O
+conscript_42	the	O
+conscript_42	conscript	conscript_nou
+conscript_42	only	O
+conscript_42	5	O
+conscript_42	men	O
+conscript_42	volunteered	O

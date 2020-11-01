@@ -1,0 +1,15 @@
+pervert_30	It	O
+pervert_30	is	O
+pervert_30	referred	O
+pervert_30	to	O
+pervert_30	in	O
+pervert_30	slang	O
+pervert_30	as	O
+pervert_30	ringside	O
+pervert_30	gynecology	O
+pervert_30	row	O
+pervert_30	pervert	pervert_nou
+pervert_30	row	O
+pervert_30	and	O
+pervert_30	other	O
+pervert_30	names	O

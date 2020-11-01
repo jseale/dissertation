@@ -1,0 +1,12 @@
+affiliate_4	VSHL	O
+affiliate_4	is	O
+affiliate_4	the	O
+affiliate_4	Virginia	O
+affiliate_4	affiliate	affiliate_nou
+affiliate_4	of	O
+affiliate_4	the	O
+affiliate_4	National	O
+affiliate_4	Right	O
+affiliate_4	to	O
+affiliate_4	Life	O
+affiliate_4	Committee	O

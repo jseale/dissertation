@@ -1,0 +1,11 @@
+learned_67	Late	O
+learned_67	Neoplatonic	O
+learned_67	sources	O
+learned_67	state	O
+learned_67	that	O
+learned_67	Pythagoras	O
+learned_67	learned	learned_vrb
+learned_67	mathematics	O
+learned_67	from	O
+learned_67	the	O
+learned_67	Babylonians	O

@@ -1,0 +1,12 @@
+delegate_74	The	O
+delegate_74	primary	O
+delegate_74	had	O
+delegate_74	no	O
+delegate_74	impact	O
+delegate_74	on	O
+delegate_74	the	O
+delegate_74	Democratic	O
+delegate_74	Party	O
+delegate_74	delegate	delegate_nou
+delegate_74	selection	O
+delegate_74	process	O

@@ -1,0 +1,13 @@
+approximate_73	Gearhart	O
+approximate_73	Hall	O
+approximate_73	was	O
+approximate_73	expanded	O
+approximate_73	over	O
+approximate_73	the	O
+approximate_73	approximate	approximate_adj-nou
+approximate_73	location	O
+approximate_73	of	O
+approximate_73	the	O
+approximate_73	old	O
+approximate_73	Commerce	O
+approximate_73	Building	O

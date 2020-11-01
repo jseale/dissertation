@@ -1,0 +1,17 @@
+buffet_3	The	O
+buffet_3	second	O
+buffet_3	carbody	O
+buffet_3	consisted	O
+buffet_3	of	O
+buffet_3	a	O
+buffet_3	small	O
+buffet_3	baggage	O
+buffet_3	section	O
+buffet_3	and	O
+buffet_3	a	O
+buffet_3	short	O
+buffet_3	buffet	buffet_nou
+buffet_3	and	O
+buffet_3	20-passenger	O
+buffet_3	coach	O
+buffet_3	section	O

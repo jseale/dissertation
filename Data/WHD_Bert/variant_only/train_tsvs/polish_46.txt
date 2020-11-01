@@ -1,0 +1,11 @@
+polish_46	Polish	polish_geo
+polish_46	commandos	O
+polish_46	took	O
+polish_46	part	O
+polish_46	in	O
+polish_46	security	O
+polish_46	operations	O
+polish_46	on	O
+polish_46	Iraqi	O
+polish_46	Oil	O
+polish_46	Platforms	O

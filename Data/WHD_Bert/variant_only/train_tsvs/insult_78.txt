@@ -1,0 +1,15 @@
+insult_78	African	O
+insult_78	Americans	O
+insult_78	successfully	O
+insult_78	sued	O
+insult_78	the	O
+insult_78	Memphis	O
+insult_78	Street	O
+insult_78	Railway	O
+insult_78	Company	O
+insult_78	for	O
+insult_78	personal	O
+insult_78	injury	O
+insult_78	and	O
+insult_78	racial	O
+insult_78	insult	insult_nou

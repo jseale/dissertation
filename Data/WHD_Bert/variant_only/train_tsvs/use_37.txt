@@ -1,0 +1,16 @@
+use_37	Smiley	O
+use_37	is	O
+use_37	able	O
+use_37	to	O
+use_37	use	use_vrb
+use_37	this	O
+use_37	irregularity	O
+use_37	against	O
+use_37	Karla	O
+use_37	forcing	O
+use_37	him	O
+use_37	to	O
+use_37	defect	O
+use_37	to	O
+use_37	the	O
+use_37	West	O

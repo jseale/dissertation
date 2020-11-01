@@ -1,0 +1,9 @@
+sake_38	They	O
+sake_38	execute	O
+sake_38	the	O
+sake_38	practices	O
+sake_38	for	O
+sake_38	the	O
+sake_38	sake	sake
+sake_38	of	O
+sake_38	it	O

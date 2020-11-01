@@ -1,0 +1,15 @@
+buffet_49	HomeTown	O
+buffet_49	Buffet	buffet_nou
+buffet_49	popularized	O
+buffet_49	the	O
+buffet_49	scatter	O
+buffet_49	buffet	buffet_nou
+buffet_49	which	O
+buffet_49	refers	O
+buffet_49	to	O
+buffet_49	the	O
+buffet_49	layout	O
+buffet_49	of	O
+buffet_49	separate	O
+buffet_49	food	O
+buffet_49	pavilions	O

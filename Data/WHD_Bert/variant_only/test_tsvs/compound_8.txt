@@ -1,0 +1,17 @@
+compound_8	Coyne	O
+compound_8	lives	O
+compound_8	on	O
+compound_8	a	O
+compound_8	compound	compound_nou
+compound_8	of	O
+compound_8	four	O
+compound_8	houses	O
+compound_8	in	O
+compound_8	the	O
+compound_8	same	O
+compound_8	neighborhood	O
+compound_8	in	O
+compound_8	which	O
+compound_8	he	O
+compound_8	grew	O
+compound_8	up	O

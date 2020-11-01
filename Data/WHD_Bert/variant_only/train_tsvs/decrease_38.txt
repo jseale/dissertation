@@ -1,0 +1,9 @@
+decrease_38	Success	O
+decrease_38	is	O
+decrease_38	defined	O
+decrease_38	as	O
+decrease_38	a	O
+decrease_38	relative	O
+decrease_38	decrease	decrease_nou
+decrease_38	in	O
+decrease_38	pain	O

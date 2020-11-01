@@ -1,0 +1,13 @@
+syndicate_0	During	O
+syndicate_0	1945	O
+syndicate_0	King	O
+syndicate_0	Features	O
+syndicate_0	Syndicate	syndicate_nou
+syndicate_0	attempted	O
+syndicate_0	to	O
+syndicate_0	distribute	O
+syndicate_0	Jane	O
+syndicate_0	in	O
+syndicate_0	the	O
+syndicate_0	United	O
+syndicate_0	States	O

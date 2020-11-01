@@ -1,0 +1,13 @@
+document_70	Anna	O
+document_70	Maria	O
+document_70	used	O
+document_70	her	O
+document_70	artistic	O
+document_70	skills	O
+document_70	to	O
+document_70	help	O
+document_70	Jones	O
+document_70	document	document_vrb
+document_70	life	O
+document_70	in	O
+document_70	India	O

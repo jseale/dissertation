@@ -1,0 +1,13 @@
+initiate_68	It	O
+initiate_68	requires	O
+initiate_68	bishops	O
+initiate_68	throughout	O
+initiate_68	the	O
+initiate_68	Church	O
+initiate_68	to	O
+initiate_68	initiate	initiate_vrb
+initiate_68	biblical	O
+initiate_68	studies	O
+initiate_68	for	O
+initiate_68	lay	O
+initiate_68	people	O

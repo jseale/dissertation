@@ -1,0 +1,8 @@
+deviate_45	Pronunciation	O
+deviate_45	may	O
+deviate_45	also	O
+deviate_45	deviate	deviate_vrb
+deviate_45	from	O
+deviate_45	normal	O
+deviate_45	phonological	O
+deviate_45	rules	O

@@ -1,0 +1,9 @@
+invert_1	Reversing	O
+invert_1	the	O
+invert_1	magnetizing	O
+invert_1	field	O
+invert_1	can	O
+invert_1	actually	O
+invert_1	invert	invert_vrb
+invert_1	the	O
+invert_1	signature	O

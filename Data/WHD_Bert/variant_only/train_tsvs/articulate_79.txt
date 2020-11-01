@@ -1,0 +1,16 @@
+articulate_79	The	O
+articulate_79	developmental	O
+articulate_79	task	O
+articulate_79	for	O
+articulate_79	this	O
+articulate_79	stage	O
+articulate_79	is	O
+articulate_79	for	O
+articulate_79	each	O
+articulate_79	member	O
+articulate_79	to	O
+articulate_79	articulate	articulate_vrb
+articulate_79	their	O
+articulate_79	wants	O
+articulate_79	and	O
+articulate_79	needs	O

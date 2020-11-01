@@ -1,0 +1,9 @@
+defect_54	IBM	O
+defect_54	is	O
+defect_54	still	O
+defect_54	delivering	O
+defect_54	defect	defect_nou
+defect_54	support	O
+defect_54	for	O
+defect_54	a	O
+defect_54	fee	O

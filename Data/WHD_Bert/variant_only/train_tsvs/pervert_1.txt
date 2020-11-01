@@ -1,0 +1,17 @@
+pervert_1	In	O
+pervert_1	September	O
+pervert_1	2006	O
+pervert_1	Chinamasa	O
+pervert_1	was	O
+pervert_1	cleared	O
+pervert_1	by	O
+pervert_1	a	O
+pervert_1	judge	O
+pervert_1	of	O
+pervert_1	trying	O
+pervert_1	to	O
+pervert_1	pervert	pervert_vrb
+pervert_1	the	O
+pervert_1	course	O
+pervert_1	of	O
+pervert_1	justice	O

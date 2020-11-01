@@ -1,0 +1,16 @@
+subordinate_69	Subsequently	O
+subordinate_69	he	O
+subordinate_69	worked	O
+subordinate_69	for	O
+subordinate_69	Sun	O
+subordinate_69	Yuanhua	O
+subordinate_69	governor	O
+subordinate_69	of	O
+subordinate_69	Shandong	O
+subordinate_69	along	O
+subordinate_69	with	O
+subordinate_69	fellow	O
+subordinate_69	Mao	O
+subordinate_69	subordinate	subordinate_adj-nou
+subordinate_69	Geng	O
+subordinate_69	Zhongming	O

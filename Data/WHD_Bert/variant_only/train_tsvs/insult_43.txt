@@ -1,0 +1,8 @@
+insult_43	After	O
+insult_43	being	O
+insult_43	greeted	O
+insult_43	Vince	O
+insult_43	begins	O
+insult_43	to	O
+insult_43	insult	insult_vrb
+insult_43	Eminem	O

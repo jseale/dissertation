@@ -1,0 +1,13 @@
+nestle_4	There	O
+nestle_4	are	O
+nestle_4	clumps	O
+nestle_4	of	O
+nestle_4	palm	O
+nestle_4	and	O
+nestle_4	fruit	O
+nestle_4	trees	O
+nestle_4	in	O
+nestle_4	which	O
+nestle_4	village	O
+nestle_4	homesteads	O
+nestle_4	nestle	nestle_vrb

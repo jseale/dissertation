@@ -1,0 +1,14 @@
+diffuse_62	Diffuse	diffuse_adj
+diffuse_62	traumatic	O
+diffuse_62	injury	O
+diffuse_62	can	O
+diffuse_62	result	O
+diffuse_62	in	O
+diffuse_62	diffuse	diffuse_adj
+diffuse_62	or	O
+diffuse_62	more	O
+diffuse_62	moderate	O
+diffuse_62	gliosis	O
+diffuse_62	without	O
+diffuse_62	scar	O
+diffuse_62	formation	O

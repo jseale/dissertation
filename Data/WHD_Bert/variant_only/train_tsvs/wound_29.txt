@@ -1,0 +1,13 @@
+wound_29	Any	O
+wound_29	illness	O
+wound_29	injury	O
+wound_29	or	O
+wound_29	fatal	O
+wound_29	wound	wound_nou-vrb
+wound_29	was	O
+wound_29	healed	O
+wound_29	without	O
+wound_29	scarring	O
+wound_29	by	O
+wound_29	the	O
+wound_29	portrait	O

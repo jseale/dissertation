@@ -1,0 +1,16 @@
+bologna_41	He	O
+bologna_41	underwent	O
+bologna_41	a	O
+bologna_41	full	O
+bologna_41	rehabilitation	O
+bologna_41	in	O
+bologna_41	Bologna	bologna_geo
+bologna_41	and	O
+bologna_41	returned	O
+bologna_41	to	O
+bologna_41	the	O
+bologna_41	Villa	O
+bologna_41	side	O
+bologna_41	in	O
+bologna_41	August	O
+bologna_41	2006	O

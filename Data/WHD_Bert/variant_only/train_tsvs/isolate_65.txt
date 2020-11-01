@@ -1,0 +1,11 @@
+isolate_65	Websphere	O
+isolate_65	uses	O
+isolate_65	AspectJ	O
+isolate_65	internally	O
+isolate_65	to	O
+isolate_65	isolate	isolate
+isolate_65	features	O
+isolate_65	of	O
+isolate_65	the	O
+isolate_65	different	O
+isolate_65	editions	O

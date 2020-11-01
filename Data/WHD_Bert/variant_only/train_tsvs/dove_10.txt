@@ -1,0 +1,16 @@
+dove_10	Maldonado	O
+dove_10	dove	dove_vrb
+dove_10	for	O
+dove_10	the	O
+dove_10	pits	O
+dove_10	only	O
+dove_10	to	O
+dove_10	collect	O
+dove_10	the	O
+dove_10	second	O
+dove_10	Force	O
+dove_10	India	O
+dove_10	of	O
+dove_10	Paul	O
+dove_10	di	O
+dove_10	Resta	O

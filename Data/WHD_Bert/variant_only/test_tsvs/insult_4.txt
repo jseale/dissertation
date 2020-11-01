@@ -1,0 +1,12 @@
+insult_4	The	O
+insult_4	court	O
+insult_4	interpreted	O
+insult_4	the	O
+insult_4	demand	O
+insult_4	for	O
+insult_4	proof	O
+insult_4	of	O
+insult_4	nobility	O
+insult_4	as	O
+insult_4	an	O
+insult_4	insult	insult_nou

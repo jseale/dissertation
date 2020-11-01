@@ -1,0 +1,15 @@
+implement_52	Instead	O
+implement_52	they	O
+implement_52	implement	implement_vrb
+implement_52	hysteresis	O
+implement_52	allowing	O
+implement_52	for	O
+implement_52	a	O
+implement_52	small	O
+implement_52	amount	O
+implement_52	of	O
+implement_52	movement	O
+implement_52	between	O
+implement_52	the	O
+implement_52	two	O
+implement_52	clicks	O

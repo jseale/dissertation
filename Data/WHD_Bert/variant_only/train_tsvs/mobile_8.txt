@@ -1,0 +1,10 @@
+mobile_8	It	O
+mobile_8	can	O
+mobile_8	also	O
+mobile_8	affect	O
+mobile_8	mobile	mobile
+mobile_8	phones	O
+mobile_8	FM	O
+mobile_8	radios	O
+mobile_8	and	O
+mobile_8	televisions	O

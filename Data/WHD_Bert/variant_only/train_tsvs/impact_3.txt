@@ -1,0 +1,10 @@
+impact_3	Impact	impact_nou
+impact_3	of	O
+impact_3	adventure	O
+impact_3	interventions	O
+impact_3	of	O
+impact_3	traditional	O
+impact_3	counseling	O
+impact_3	interventions	O
+impact_3	ropes	O
+impact_3	course	O

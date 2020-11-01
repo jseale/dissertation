@@ -1,0 +1,14 @@
+transform_38	Mitochondria	O
+transform_38	are	O
+transform_38	organelles	O
+transform_38	which	O
+transform_38	function	O
+transform_38	to	O
+transform_38	transform	transform
+transform_38	energy	O
+transform_38	as	O
+transform_38	a	O
+transform_38	result	O
+transform_38	of	O
+transform_38	cellular	O
+transform_38	respiration	O

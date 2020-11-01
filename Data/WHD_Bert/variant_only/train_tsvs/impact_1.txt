@@ -1,0 +1,17 @@
+impact_1	Some	O
+impact_1	commercial	O
+impact_1	software	O
+impact_1	cost	O
+impact_1	estimators	O
+impact_1	may	O
+impact_1	have	O
+impact_1	productivity	O
+impact_1	settings	O
+impact_1	that	O
+impact_1	account	O
+impact_1	for	O
+impact_1	the	O
+impact_1	impact	impact_nou
+impact_1	of	O
+impact_1	non	O
+impact_1	functionality	O

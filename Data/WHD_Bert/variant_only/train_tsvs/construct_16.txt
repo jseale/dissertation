@@ -1,0 +1,17 @@
+construct_16	From	O
+construct_16	this	O
+construct_16	fact	O
+construct_16	it	O
+construct_16	is	O
+construct_16	straightforward	O
+construct_16	to	O
+construct_16	construct	construct_vrb
+construct_16	the	O
+construct_16	limiting	O
+construct_16	points	O
+construct_16	algebraically	O
+construct_16	or	O
+construct_16	by	O
+construct_16	compass	O
+construct_16	and	O
+construct_16	straightedge	O

@@ -1,0 +1,10 @@
+bow_12	The	O
+bow_12	presentation	O
+bow_12	is	O
+bow_12	to	O
+bow_12	be	O
+bow_12	accompanied	O
+bow_12	by	O
+bow_12	a	O
+bow_12	slight	O
+bow_12	bow	bow_nou-ship

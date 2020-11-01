@@ -1,0 +1,14 @@
+coordinate_24	The	O
+coordinate_24	penta	O
+coordinate_24	coordinate	coordinate_adj-nou
+coordinate_24	silicate	O
+coordinate_24	intermediate	O
+coordinate_24	3	O
+coordinate_24	is	O
+coordinate_24	postulated	O
+coordinate_24	but	O
+coordinate_24	no	O
+coordinate_24	proof	O
+coordinate_24	exists	O
+coordinate_24	to	O
+coordinate_24	date	O

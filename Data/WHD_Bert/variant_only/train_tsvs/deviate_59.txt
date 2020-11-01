@@ -1,0 +1,14 @@
+deviate_59	Quakers	O
+deviate_59	were	O
+deviate_59	severely	O
+deviate_59	persecuted	O
+deviate_59	in	O
+deviate_59	England	O
+deviate_59	for	O
+deviate_59	daring	O
+deviate_59	to	O
+deviate_59	deviate	deviate_vrb
+deviate_59	so	O
+deviate_59	far	O
+deviate_59	from	O
+deviate_59	Anglicanism	O

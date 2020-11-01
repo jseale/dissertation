@@ -1,0 +1,17 @@
+progress_48	Progress	progress_nou
+progress_48	of	O
+progress_48	the	O
+progress_48	development	O
+progress_48	of	O
+progress_48	each	O
+progress_48	learning	O
+progress_48	area	O
+progress_48	is	O
+progress_48	published	O
+progress_48	and	O
+progress_48	updated	O
+progress_48	regularly	O
+progress_48	on	O
+progress_48	the	O
+progress_48	official	O
+progress_48	site	O

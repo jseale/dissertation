@@ -1,0 +1,16 @@
+jesus_1	Jesus	jesus
+jesus_1	warned	O
+jesus_1	that	O
+jesus_1	the	O
+jesus_1	Pharisees	O
+jesus_1	were	O
+jesus_1	defiling	O
+jesus_1	others	O
+jesus_1	by	O
+jesus_1	their	O
+jesus_1	hypocrisy	O
+jesus_1	misplaced	O
+jesus_1	priorities	O
+jesus_1	and	O
+jesus_1	selfish	O
+jesus_1	ambition	O

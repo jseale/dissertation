@@ -1,0 +1,10 @@
+wind_54	The	O
+wind_54	wind	wind_nou
+wind_54	farm	O
+wind_54	has	O
+wind_54	36	O
+wind_54	Vestas	O
+wind_54	2	O
+wind_54	MW	O
+wind_54	wind	wind_nou
+wind_54	turbines	O

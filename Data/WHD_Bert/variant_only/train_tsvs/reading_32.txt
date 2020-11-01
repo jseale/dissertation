@@ -1,0 +1,11 @@
+reading_32	Signs	O
+reading_32	were	O
+reading_32	put	O
+reading_32	up	O
+reading_32	around	O
+reading_32	South	O
+reading_32	Armagh	O
+reading_32	reading	reading_en
+reading_32	Sniper	O
+reading_32	at	O
+reading_32	Work	O

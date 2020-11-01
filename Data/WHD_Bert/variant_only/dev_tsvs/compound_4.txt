@@ -1,0 +1,15 @@
+compound_4	Also	O
+compound_4	a	O
+compound_4	speaker	O
+compound_4	must	O
+compound_4	avoid	O
+compound_4	using	O
+compound_4	very	O
+compound_4	many	O
+compound_4	strange	O
+compound_4	words	O
+compound_4	compound	compound_nou
+compound_4	words	O
+compound_4	and	O
+compound_4	invented	O
+compound_4	words	O

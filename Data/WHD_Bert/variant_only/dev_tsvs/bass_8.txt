@@ -1,0 +1,11 @@
+bass_8	For	O
+bass_8	ballads	O
+bass_8	he	O
+bass_8	played	O
+bass_8	walking	O
+bass_8	bass	bass
+bass_8	lines	O
+bass_8	on	O
+bass_8	the	O
+bass_8	bass	bass
+bass_8	pedals	O

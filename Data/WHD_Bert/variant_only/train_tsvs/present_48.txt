@@ -1,0 +1,17 @@
+present_48	Eventually	O
+present_48	out	O
+present_48	of	O
+present_48	22	O
+present_48	present	present_adj-nou
+present_48	it	O
+present_48	is	O
+present_48	revealed	O
+present_48	that	O
+present_48	two	O
+present_48	characters	O
+present_48	share	O
+present_48	the	O
+present_48	same	O
+present_48	birthday	O
+present_48	May	O
+present_48	23	O

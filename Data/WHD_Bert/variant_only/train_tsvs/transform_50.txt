@@ -1,0 +1,15 @@
+transform_50	Orbitrap	O
+transform_50	instruments	O
+transform_50	are	O
+transform_50	similar	O
+transform_50	to	O
+transform_50	Fourier	O
+transform_50	transform	transform_nou
+transform_50	ion	O
+transform_50	cyclotron	O
+transform_50	resonance	O
+transform_50	mass	O
+transform_50	spectrometers	O
+transform_50	see	O
+transform_50	text	O
+transform_50	below	O

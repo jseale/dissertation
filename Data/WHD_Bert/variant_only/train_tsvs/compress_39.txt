@@ -1,0 +1,13 @@
+compress_39	The	O
+compress_39	larger	O
+compress_39	bombs	O
+compress_39	used	O
+compress_39	more	O
+compress_39	explosives	O
+compress_39	to	O
+compress_39	super	O
+compress_39	compress	compress
+compress_39	the	O
+compress_39	fissionables	O
+compress_39	increasing	O
+compress_39	efficiency	O

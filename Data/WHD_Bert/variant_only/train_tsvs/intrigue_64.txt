@@ -1,0 +1,17 @@
+intrigue_64	The	O
+intrigue_64	author	O
+intrigue_64	of	O
+intrigue_64	She	O
+intrigue_64	Ventures	O
+intrigue_64	and	O
+intrigue_64	He	O
+intrigue_64	Wins	O
+intrigue_64	amasses	O
+intrigue_64	almost	O
+intrigue_64	as	O
+intrigue_64	much	O
+intrigue_64	intrigue	intrigue_nou
+intrigue_64	as	O
+intrigue_64	the	O
+intrigue_64	play	O
+intrigue_64	itself	O

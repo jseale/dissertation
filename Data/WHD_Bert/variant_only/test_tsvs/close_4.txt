@@ -1,0 +1,8 @@
+close_4	Clarke	O
+close_4	was	O
+close_4	a	O
+close_4	close	close_adj-nou
+close_4	associate	O
+close_4	of	O
+close_4	Arthur	O
+close_4	Sullivan	O

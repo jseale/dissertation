@@ -1,0 +1,13 @@
+predicate_3	In	O
+predicate_3	Standard	O
+predicate_3	Mandarin	O
+predicate_3	certain	O
+predicate_3	object	O
+predicate_3	in	O
+predicate_3	predicate	predicate_nou
+predicate_3	structure	O
+predicate_3	are	O
+predicate_3	put	O
+predicate_3	after	O
+predicate_3	a	O
+predicate_3	complement	O

@@ -1,0 +1,9 @@
+syndicate_10	Sinister	O
+syndicate_10	Syndicate	syndicate_nou
+syndicate_10	appears	O
+syndicate_10	in	O
+syndicate_10	Marvel	O
+syndicate_10	Super	O
+syndicate_10	Hero	O
+syndicate_10	Squad	O
+syndicate_10	Online	O

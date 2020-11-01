@@ -1,0 +1,11 @@
+abstract_56	She	O
+abstract_56	gave	O
+abstract_56	us	O
+abstract_56	a	O
+abstract_56	lot	O
+abstract_56	of	O
+abstract_56	abstract	abstract_adj-nou
+abstract_56	themes	O
+abstract_56	to	O
+abstract_56	work	O
+abstract_56	with	O

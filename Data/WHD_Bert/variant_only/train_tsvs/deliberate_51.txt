@@ -1,0 +1,17 @@
+deliberate_51	In	O
+deliberate_51	these	O
+deliberate_51	ads	O
+deliberate_51	Graham	O
+deliberate_51	was	O
+deliberate_51	never	O
+deliberate_51	identified	O
+deliberate_51	by	O
+deliberate_51	name	O
+deliberate_51	which	O
+deliberate_51	Estee	O
+deliberate_51	Lauder	O
+deliberate_51	herself	O
+deliberate_51	frankly	O
+deliberate_51	admitted	O
+deliberate_51	was	O
+deliberate_51	deliberate	deliberate_adj

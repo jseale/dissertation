@@ -1,0 +1,16 @@
+estimate_23	The	O
+estimate_23	2011	O
+estimate_23	American	O
+estimate_23	Community	O
+estimate_23	Survey	O
+estimate_23	ACS	O
+estimate_23	estimate	estimate_nou
+estimate_23	found	O
+estimate_23	470,341	O
+estimate_23	Americans	O
+estimate_23	with	O
+estimate_23	full	O
+estimate_23	or	O
+estimate_23	partial	O
+estimate_23	Iranian	O
+estimate_23	ancestry	O

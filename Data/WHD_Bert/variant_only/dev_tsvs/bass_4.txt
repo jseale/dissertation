@@ -1,0 +1,16 @@
+bass_4	Kona	O
+bass_4	guitars	O
+bass_4	are	O
+bass_4	included	O
+bass_4	in	O
+bass_4	the	O
+bass_4	Acoustic	O
+bass_4	Electric	O
+bass_4	and	O
+bass_4	Electric	O
+bass_4	Bass	bass
+bass_4	Guitar	O
+bass_4	Starter	O
+bass_4	Packs	O
+bass_4	For	O
+bass_4	Dummies	O

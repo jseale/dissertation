@@ -1,0 +1,16 @@
+produce_78	At	O
+produce_78	16:00	O
+produce_78	p.m.	O
+produce_78	the	O
+produce_78	Serbian	O
+produce_78	1st	O
+produce_78	Army	O
+produce_78	's	O
+produce_78	thrust	O
+produce_78	on	O
+produce_78	Sokol	O
+produce_78	failed	O
+produce_78	to	O
+produce_78	produce	produce_vrb
+produce_78	intended	O
+produce_78	results	O

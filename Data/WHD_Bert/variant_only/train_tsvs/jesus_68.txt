@@ -1,0 +1,15 @@
+jesus_68	Strikingly	O
+jesus_68	only	O
+jesus_68	in	O
+jesus_68	the	O
+jesus_68	prologue	O
+jesus_68	of	O
+jesus_68	each	O
+jesus_68	is	O
+jesus_68	the	O
+jesus_68	logos	O
+jesus_68	to	O
+jesus_68	be	O
+jesus_68	identified	O
+jesus_68	with	O
+jesus_68	Jesus	jesus

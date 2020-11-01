@@ -1,0 +1,7 @@
+uses_53	He	O
+uses_53	also	O
+uses_53	uses	uses_vrb
+uses_53	a	O
+uses_53	Classic	O
+uses_53	Gibson	O
+uses_53	Firebird	O

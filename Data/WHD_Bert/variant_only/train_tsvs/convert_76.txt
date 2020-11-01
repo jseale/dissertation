@@ -1,0 +1,13 @@
+convert_76	Whether	O
+convert_76	the	O
+convert_76	Christmas	O
+convert_76	visions	O
+convert_76	would	O
+convert_76	or	O
+convert_76	would	O
+convert_76	not	O
+convert_76	convert	convert_vrb
+convert_76	Scrooge	O
+convert_76	they	O
+convert_76	convert	convert_vrb
+convert_76	us	O

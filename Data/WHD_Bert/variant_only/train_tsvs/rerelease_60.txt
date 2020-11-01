@@ -1,0 +1,14 @@
+rerelease_60	The	O
+rerelease_60	film	O
+rerelease_60	was	O
+rerelease_60	later	O
+rerelease_60	condensed	O
+rerelease_60	for	O
+rerelease_60	rerelease	rerelease
+rerelease_60	and	O
+rerelease_60	titled	O
+rerelease_60	The	O
+rerelease_60	Kaiser	O
+rerelease_60	's	O
+rerelease_60	Last	O
+rerelease_60	Squeal	O

@@ -1,0 +1,9 @@
+winds_0	The	O
+winds_0	strongest	O
+winds_0	winds	winds_nou
+winds_0	hit	O
+winds_0	Wales	O
+winds_0	and	O
+winds_0	Northwest	O
+winds_0	English	O
+winds_0	coasts	O

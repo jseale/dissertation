@@ -1,0 +1,13 @@
+retard_18	This	O
+retard_18	means	O
+retard_18	that	O
+retard_18	a	O
+retard_18	moment	O
+retard_18	occurs	O
+retard_18	that	O
+retard_18	tends	O
+retard_18	to	O
+retard_18	retard	retard_vrb
+retard_18	the	O
+retard_18	rolling	O
+retard_18	motion	O

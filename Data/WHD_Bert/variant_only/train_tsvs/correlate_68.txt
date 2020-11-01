@@ -1,0 +1,16 @@
+correlate_68	QSAR	O
+correlate_68	studies	O
+correlate_68	attempt	O
+correlate_68	to	O
+correlate_68	correlate	correlate_nou-vrb
+correlate_68	biological	O
+correlate_68	activity	O
+correlate_68	of	O
+correlate_68	drugs	O
+correlate_68	or	O
+correlate_68	a	O
+correlate_68	class	O
+correlate_68	of	O
+correlate_68	drugs	O
+correlate_68	with	O
+correlate_68	structures	O

@@ -1,0 +1,8 @@
+implant_5	The	O
+implant_5	implant	implant_nou
+implant_5	was	O
+implant_5	approved	O
+implant_5	in	O
+implant_5	Europe	O
+implant_5	in	O
+implant_5	2009	O

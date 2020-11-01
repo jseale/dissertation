@@ -1,0 +1,8 @@
+perfect_4	She	O
+perfect_4	produced	O
+perfect_4	his	O
+perfect_4	television	O
+perfect_4	series	O
+perfect_4	The	O
+perfect_4	Perfect	perfect_adj
+perfect_4	Match	O

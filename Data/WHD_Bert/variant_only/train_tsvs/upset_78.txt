@@ -1,0 +1,14 @@
+upset_78	When	O
+upset_78	taking	O
+upset_78	iron	O
+upset_78	supplements	O
+upset_78	stomach	O
+upset_78	upset	upset_nou
+upset_78	and/or	O
+upset_78	darkening	O
+upset_78	of	O
+upset_78	the	O
+upset_78	feces	O
+upset_78	are	O
+upset_78	commonly	O
+upset_78	experienced	O

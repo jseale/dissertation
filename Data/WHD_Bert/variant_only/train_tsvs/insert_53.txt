@@ -1,0 +1,16 @@
+insert_53	Instead	O
+insert_53	the	O
+insert_53	excuse	O
+insert_53	given	O
+insert_53	for	O
+insert_53	Gangrel	O
+insert_53	and	O
+insert_53	Viscera	O
+insert_53	's	O
+insert_53	insert	insert_nou
+insert_53	was	O
+insert_53	that	O
+insert_53	JBL	O
+insert_53	paid	O
+insert_53	them	O
+insert_53	off	O

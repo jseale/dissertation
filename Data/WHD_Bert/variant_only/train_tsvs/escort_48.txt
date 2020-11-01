@@ -1,0 +1,14 @@
+escort_48	She	O
+escort_48	served	O
+escort_48	primarily	O
+escort_48	as	O
+escort_48	an	O
+escort_48	ocean	O
+escort_48	convoy	O
+escort_48	escort	escort_nou
+escort_48	in	O
+escort_48	the	O
+escort_48	Battle	O
+escort_48	of	O
+escort_48	the	O
+escort_48	Atlantic	O

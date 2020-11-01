@@ -1,0 +1,15 @@
+initiate_19	Engineers	O
+initiate_19	can	O
+initiate_19	haul	O
+initiate_19	resources	O
+initiate_19	initiate	initiate_vrb
+initiate_19	the	O
+initiate_19	construction	O
+initiate_19	of	O
+initiate_19	new	O
+initiate_19	buildings	O
+initiate_19	and	O
+initiate_19	repair	O
+initiate_19	and	O
+initiate_19	dismantle	O
+initiate_19	buildings	O

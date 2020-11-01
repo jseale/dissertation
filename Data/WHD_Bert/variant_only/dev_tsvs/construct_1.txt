@@ -1,0 +1,14 @@
+construct_1	Plans	O
+construct_1	were	O
+construct_1	put	O
+construct_1	in	O
+construct_1	place	O
+construct_1	to	O
+construct_1	construct	construct_vrb
+construct_1	suitable	O
+construct_1	facilities	O
+construct_1	for	O
+construct_1	the	O
+construct_1	F-117A	O
+construct_1	at	O
+construct_1	Holloman	O

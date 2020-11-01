@@ -1,0 +1,12 @@
+record_29	He	O
+record_29	is	O
+record_29	also	O
+record_29	a	O
+record_29	record	record_nou
+record_29	producer	O
+record_29	for	O
+record_29	a	O
+record_29	number	O
+record_29	of	O
+record_29	musical	O
+record_29	projects	O

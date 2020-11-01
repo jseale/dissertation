@@ -1,0 +1,14 @@
+discharge_69	The	O
+discharge_69	court	O
+discharge_69	's	O
+discharge_69	verdict	O
+discharge_69	not	O
+discharge_69	only	O
+discharge_69	upheld	O
+discharge_69	his	O
+discharge_69	discharge	discharge_nou
+discharge_69	but	O
+discharge_69	ruled	O
+discharge_69	that	O
+discharge_69	he	O
+discharge_69	was	O

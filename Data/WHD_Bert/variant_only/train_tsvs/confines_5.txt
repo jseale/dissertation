@@ -1,0 +1,13 @@
+confines_5	Christie	O
+confines_5	confines	confines_vrb
+confines_5	the	O
+confines_5	events	O
+confines_5	of	O
+confines_5	1945	O
+confines_5	to	O
+confines_5	1965	O
+confines_5	to	O
+confines_5	just	O
+confines_5	twenty	O
+confines_5	three	O
+confines_5	pages	O

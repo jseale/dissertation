@@ -1,0 +1,17 @@
+moderate_26	By	O
+moderate_26	the	O
+moderate_26	time	O
+moderate_26	the	O
+moderate_26	thunderstorms	O
+moderate_26	started	O
+moderate_26	developing	O
+moderate_26	CAPE	O
+moderate_26	values	O
+moderate_26	were	O
+moderate_26	2000	O
+moderate_26	J	O
+moderate_26	kg	O
+moderate_26	indicating	O
+moderate_26	moderate	moderate_adj-nou
+moderate_26	atmospheric	O
+moderate_26	instability	O

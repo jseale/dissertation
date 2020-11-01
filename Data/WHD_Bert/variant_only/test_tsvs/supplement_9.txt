@@ -1,0 +1,14 @@
+supplement_9	The	O
+supplement_9	1934	O
+supplement_9	edition	O
+supplement_9	included	O
+supplement_9	6,900	O
+supplement_9	roots	O
+supplement_9	while	O
+supplement_9	Waringhien	O
+supplement_9	's	O
+supplement_9	supplement	supplement_nou
+supplement_9	added	O
+supplement_9	an	O
+supplement_9	extra	O
+supplement_9	966	O

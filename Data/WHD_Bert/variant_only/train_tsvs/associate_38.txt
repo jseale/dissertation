@@ -1,0 +1,12 @@
+associate_38	He	O
+associate_38	is	O
+associate_38	an	O
+associate_38	associate	associate_adj-nou
+associate_38	of	O
+associate_38	the	O
+associate_38	Quello	O
+associate_38	Center	O
+associate_38	at	O
+associate_38	Michigan	O
+associate_38	State	O
+associate_38	University	O

@@ -1,0 +1,11 @@
+contest_44	Vojnovic	O
+contest_44	authored	O
+contest_44	the	O
+contest_44	book	O
+contest_44	Contest	contest_nou
+contest_44	Theory	O
+contest_44	Incentive	O
+contest_44	Mechanisms	O
+contest_44	and	O
+contest_44	Ranking	O
+contest_44	Methods	O

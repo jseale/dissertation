@@ -1,0 +1,16 @@
+jesus_63	I	O
+jesus_63	've	O
+jesus_63	found	O
+jesus_63	strength	O
+jesus_63	in	O
+jesus_63	Jesus	jesus
+jesus_63	Christ	O
+jesus_63	and	O
+jesus_63	he	O
+jesus_63	's	O
+jesus_63	easier	O
+jesus_63	to	O
+jesus_63	follow	O
+jesus_63	than	O
+jesus_63	Zen	O
+jesus_63	Buddhism	O

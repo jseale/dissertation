@@ -1,0 +1,15 @@
+initiate_13	ABP	O
+initiate_13	is	O
+initiate_13	essential	O
+initiate_13	to	O
+initiate_13	concentrating	O
+initiate_13	testosterone	O
+initiate_13	in	O
+initiate_13	levels	O
+initiate_13	high	O
+initiate_13	enough	O
+initiate_13	to	O
+initiate_13	initiate	initiate_vrb
+initiate_13	and	O
+initiate_13	maintain	O
+initiate_13	spermatogenesis	O

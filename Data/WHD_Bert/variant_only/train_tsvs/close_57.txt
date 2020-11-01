@@ -1,0 +1,11 @@
+close_57	Judge	O
+close_57	's	O
+close_57	Hill	O
+close_57	stands	O
+close_57	close	close_adj-nou
+close_57	to	O
+close_57	the	O
+close_57	Hag	O
+close_57	or	O
+close_57	Bowhill	O
+close_57	Burn	O

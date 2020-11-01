@@ -1,0 +1,13 @@
+learned_52	Herb	O
+learned_52	Gelernter	O
+learned_52	did	O
+learned_52	n't	O
+learned_52	attend	O
+learned_52	but	O
+learned_52	was	O
+learned_52	influenced	O
+learned_52	later	O
+learned_52	by	O
+learned_52	what	O
+learned_52	Rochester	O
+learned_52	learned	learned_vrb

@@ -1,0 +1,16 @@
+tear_3	The	O
+tear_3	1990s	O
+tear_3	saw	O
+tear_3	the	O
+tear_3	FLNC	O
+tear_3	organisation	O
+tear_3	tear	tear_vrb
+tear_3	itself	O
+tear_3	apart	O
+tear_3	through	O
+tear_3	a	O
+tear_3	series	O
+tear_3	of	O
+tear_3	deadly	O
+tear_3	internal	O
+tear_3	feuds	O

@@ -1,0 +1,13 @@
+celtic_28	Weekday	O
+celtic_28	names	O
+celtic_28	used	O
+celtic_28	in	O
+celtic_28	game	O
+celtic_28	reflect	O
+celtic_28	the	O
+celtic_28	Celtic	celtic
+celtic_28	mythology	O
+celtic_28	that	O
+celtic_28	the	O
+celtic_28	game	O
+celtic_28	evokes	O

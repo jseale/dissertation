@@ -1,0 +1,7 @@
+syndicate_74	Peter	O
+syndicate_74	Anson	O
+syndicate_74	formed	O
+syndicate_74	a	O
+syndicate_74	band	O
+syndicate_74	the	O
+syndicate_74	Syndicate	syndicate_nou

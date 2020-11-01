@@ -1,0 +1,15 @@
+overthrow_70	The	O
+overthrow_70	clan	O
+overthrow_70	based	O
+overthrow_70	armed	O
+overthrow_70	opposition	O
+overthrow_70	groups	O
+overthrow_70	eventually	O
+overthrow_70	managed	O
+overthrow_70	to	O
+overthrow_70	overthrow	overthrow_vrb
+overthrow_70	the	O
+overthrow_70	Barre	O
+overthrow_70	government	O
+overthrow_70	in	O
+overthrow_70	1991	O

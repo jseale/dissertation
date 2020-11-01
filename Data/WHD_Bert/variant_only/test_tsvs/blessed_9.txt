@@ -1,0 +1,13 @@
+blessed_9	It	O
+blessed_9	is	O
+blessed_9	claimed	O
+blessed_9	that	O
+blessed_9	she	O
+blessed_9	developed	O
+blessed_9	a	O
+blessed_9	mysterious	O
+blessed_9	awareness	O
+blessed_9	of	O
+blessed_9	the	O
+blessed_9	Blessed	blessed_adj
+blessed_9	Sacrament	O

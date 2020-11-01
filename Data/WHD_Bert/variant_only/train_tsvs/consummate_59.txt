@@ -1,0 +1,15 @@
+consummate_59	An	O
+consummate_59	internationally	O
+consummate_59	known	O
+consummate_59	sculptor	O
+consummate_59	and	O
+consummate_59	consummate	consummate_adj
+consummate_59	academician	O
+consummate_59	he	O
+consummate_59	taught	O
+consummate_59	drawing	O
+consummate_59	and	O
+consummate_59	sculpture	O
+consummate_59	for	O
+consummate_59	3	O
+consummate_59	years	O

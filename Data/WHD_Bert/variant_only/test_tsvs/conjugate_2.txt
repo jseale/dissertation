@@ -1,0 +1,10 @@
+conjugate_2	The	O
+conjugate_2	conjugate	conjugate_adj-nou
+conjugate_2	partition	O
+conjugate_2	can	O
+conjugate_2	be	O
+conjugate_2	determined	O
+conjugate_2	by	O
+conjugate_2	a	O
+conjugate_2	Ferrers	O
+conjugate_2	diagram	O

@@ -1,0 +1,14 @@
+refuse_15	Both	O
+refuse_15	refuse	refuse_vrb
+refuse_15	to	O
+refuse_15	act	O
+refuse_15	on	O
+refuse_15	their	O
+refuse_15	feelings	O
+refuse_15	and	O
+refuse_15	try	O
+refuse_15	to	O
+refuse_15	keep	O
+refuse_15	their	O
+refuse_15	relationship	O
+refuse_15	professional	O

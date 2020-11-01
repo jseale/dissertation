@@ -1,0 +1,13 @@
+polish_43	It	O
+polish_43	was	O
+polish_43	one	O
+polish_43	of	O
+polish_43	the	O
+polish_43	biggest	O
+polish_43	economic	O
+polish_43	projects	O
+polish_43	of	O
+polish_43	the	O
+polish_43	Second	O
+polish_43	Polish	polish_geo
+polish_43	Republic	O

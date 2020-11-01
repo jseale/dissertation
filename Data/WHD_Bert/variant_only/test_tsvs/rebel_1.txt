@@ -1,0 +1,13 @@
+rebel_1	Rebel	rebel_nou
+rebel_1	soldiers	O
+rebel_1	said	O
+rebel_1	they	O
+rebel_1	posed	O
+rebel_1	as	O
+rebel_1	merchants	O
+rebel_1	as	O
+rebel_1	a	O
+rebel_1	trick	O
+rebel_1	for	O
+rebel_1	the	O
+rebel_1	NGOs	O

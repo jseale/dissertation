@@ -1,0 +1,11 @@
+delegate_71	He	O
+delegate_71	was	O
+delegate_71	also	O
+delegate_71	a	O
+delegate_71	delegate	delegate_nou
+delegate_71	to	O
+delegate_71	the	O
+delegate_71	1924	O
+delegate_71	Republican	O
+delegate_71	National	O
+delegate_71	Convention	O

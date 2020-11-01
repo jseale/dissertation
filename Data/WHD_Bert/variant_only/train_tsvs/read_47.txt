@@ -1,0 +1,17 @@
+read_47	He	O
+read_47	read	read_past
+read_47	works	O
+read_47	by	O
+read_47	Condillac	O
+read_47	Voltaire	O
+read_47	Rousseau	O
+read_47	Montesquieu	O
+read_47	and	O
+read_47	Bézout	O
+read_47	among	O
+read_47	others	O
+read_47	during	O
+read_47	his	O
+read_47	séjour	O
+read_47	in	O
+read_47	France	O

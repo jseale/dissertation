@@ -1,0 +1,8 @@
+aged_32	She	O
+aged_32	died	O
+aged_32	in	O
+aged_32	Sydney	O
+aged_32	in	O
+aged_32	2008	O
+aged_32	aged	aged
+aged_32	73	O

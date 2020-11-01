@@ -1,0 +1,17 @@
+frequent_33	During	O
+frequent_33	his	O
+frequent_33	later	O
+frequent_33	years	O
+frequent_33	Ramirez	O
+frequent_33	had	O
+frequent_33	frequent	frequent_adj
+frequent_33	problems	O
+frequent_33	with	O
+frequent_33	the	O
+frequent_33	law	O
+frequent_33	due	O
+frequent_33	to	O
+frequent_33	his	O
+frequent_33	consumption	O
+frequent_33	of	O
+frequent_33	narcotics	O

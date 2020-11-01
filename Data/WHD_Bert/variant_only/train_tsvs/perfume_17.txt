@@ -1,0 +1,16 @@
+perfume_17	When	O
+perfume_17	she	O
+perfume_17	poured	O
+perfume_17	this	O
+perfume_17	perfume	perfume_nou
+perfume_17	on	O
+perfume_17	my	O
+perfume_17	body	O
+perfume_17	she	O
+perfume_17	did	O
+perfume_17	it	O
+perfume_17	to	O
+perfume_17	prepare	O
+perfume_17	me	O
+perfume_17	for	O
+perfume_17	burial	O

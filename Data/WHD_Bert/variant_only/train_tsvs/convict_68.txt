@@ -1,0 +1,16 @@
+convict_68	Mascia	O
+convict_68	Lees	O
+convict_68	Frances	O
+convict_68	E.	O
+convict_68	Review	O
+convict_68	of	O
+convict_68	The	O
+convict_68	Convict	convict_nou
+convict_68	and	O
+convict_68	the	O
+convict_68	Colonel	O
+convict_68	in	O
+convict_68	American	O
+convict_68	Anthropologist	O
+convict_68	101(1999):217	O
+convict_68	218	O

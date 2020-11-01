@@ -1,0 +1,13 @@
+learned_55	It	O
+learned_55	is	O
+learned_55	a	O
+learned_55	Learned	learned_vrb
+learned_55	society	O
+learned_55	member	O
+learned_55	of	O
+learned_55	the	O
+learned_55	UK	O
+learned_55	Academy	O
+learned_55	of	O
+learned_55	Social	O
+learned_55	Sciences	O

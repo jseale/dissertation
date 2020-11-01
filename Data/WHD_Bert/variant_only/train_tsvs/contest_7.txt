@@ -1,0 +1,16 @@
+contest_7	The	O
+contest_7	contest	contest_nou
+contest_7	probably	O
+contest_7	was	O
+contest_7	n't	O
+contest_7	in	O
+contest_7	the	O
+contest_7	beginning	O
+contest_7	a	O
+contest_7	national	O
+contest_7	selection	O
+contest_7	for	O
+contest_7	the	O
+contest_7	Eurovision	O
+contest_7	Song	O
+contest_7	Contest	contest_nou

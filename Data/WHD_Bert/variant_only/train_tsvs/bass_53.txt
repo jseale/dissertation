@@ -1,0 +1,15 @@
+bass_53	TNN	O
+bass_53	Bass	bass_corp
+bass_53	Tournament	O
+bass_53	of	O
+bass_53	Champions	O
+bass_53	was	O
+bass_53	followed	O
+bass_53	by	O
+bass_53	the	O
+bass_53	sequel	O
+bass_53	TNN	O
+bass_53	Outdoors	O
+bass_53	Bass	bass_corp
+bass_53	Tournament	O
+bass_53	96	O

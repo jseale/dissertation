@@ -1,0 +1,11 @@
+progress_7	In	O
+progress_7	1935	O
+progress_7	workers	O
+progress_7	from	O
+progress_7	the	O
+progress_7	Works	O
+progress_7	Progress	progress_nou
+progress_7	Administration	O
+progress_7	improved	O
+progress_7	the	O
+progress_7	park	O

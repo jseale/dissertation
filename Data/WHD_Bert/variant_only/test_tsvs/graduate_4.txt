@@ -1,0 +1,17 @@
+graduate_4	Gilpin	O
+graduate_4	is	O
+graduate_4	a	O
+graduate_4	graduate	graduate_adj-nou
+graduate_4	of	O
+graduate_4	Phillips	O
+graduate_4	Exeter	O
+graduate_4	Academy	O
+graduate_4	class	O
+graduate_4	of	O
+graduate_4	1969	O
+graduate_4	and	O
+graduate_4	Harvard	O
+graduate_4	University	O
+graduate_4	class	O
+graduate_4	of	O
+graduate_4	1973	O

@@ -1,0 +1,12 @@
+supplement_68	He	O
+supplement_68	is	O
+supplement_68	a	O
+supplement_68	semi	O
+supplement_68	regular	O
+supplement_68	on	O
+supplement_68	Sky	O
+supplement_68	Sports	O
+supplement_68	1	O
+supplement_68	's	O
+supplement_68	Sunday	O
+supplement_68	Supplement	supplement_nou

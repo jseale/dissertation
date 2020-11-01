@@ -1,0 +1,11 @@
+compress_15	The	O
+compress_15	very	O
+compress_15	first	O
+compress_15	internal	O
+compress_15	combustion	O
+compress_15	engines	O
+compress_15	did	O
+compress_15	not	O
+compress_15	compress	compress
+compress_15	the	O
+compress_15	mixture	O

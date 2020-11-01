@@ -1,0 +1,14 @@
+construct_5	The	O
+construct_5	U.S.	O
+construct_5	Congress	O
+construct_5	appropriated	O
+construct_5	$	O
+construct_5	25,000	O
+construct_5	to	O
+construct_5	construct	construct_vrb
+construct_5	the	O
+construct_5	light	O
+construct_5	on	O
+construct_5	March	O
+construct_5	3	O
+construct_5	1891	O

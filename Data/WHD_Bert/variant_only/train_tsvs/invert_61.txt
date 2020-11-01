@@ -1,0 +1,13 @@
+invert_61	Next	O
+invert_61	invert	invert_vrb
+invert_61	the	O
+invert_61	slide	O
+invert_61	coverslip	O
+invert_61	stack	O
+invert_61	and	O
+invert_61	remove	O
+invert_61	the	O
+invert_61	microscope	O
+invert_61	slide	O
+invert_61	from	O
+invert_61	gel	O

@@ -1,0 +1,14 @@
+defect_43	Congenital	O
+defect_43	estrogen	O
+defect_43	deficiency	O
+defect_43	can	O
+defect_43	also	O
+defect_43	be	O
+defect_43	caused	O
+defect_43	by	O
+defect_43	a	O
+defect_43	defect	defect_nou
+defect_43	in	O
+defect_43	the	O
+defect_43	aromatase	O
+defect_43	enzyme	O

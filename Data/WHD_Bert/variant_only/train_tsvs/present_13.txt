@@ -1,0 +1,14 @@
+present_13	For	O
+present_13	example	O
+present_13	the	O
+present_13	term	O
+present_13	handshake	O
+present_13	is	O
+present_13	not	O
+present_13	present	present_adj-nou
+present_13	in	O
+present_13	RFCs	O
+present_13	covering	O
+present_13	FTP	O
+present_13	or	O
+present_13	SMTP	O

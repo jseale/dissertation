@@ -1,0 +1,9 @@
+compound_23	The	O
+compound_23	Rezeigat	O
+compound_23	attacked	O
+compound_23	and	O
+compound_23	reportedly	O
+compound_23	destroyed	O
+compound_23	a	O
+compound_23	Maaliya	O
+compound_23	compound	compound_nou

@@ -1,0 +1,15 @@
+refuse_11	Following	O
+refuse_11	her	O
+refuse_11	parents	O
+refuse_11	conversion	O
+refuse_11	Vicki	O
+refuse_11	became	O
+refuse_11	even	O
+refuse_11	more	O
+refuse_11	rebellious	O
+refuse_11	and	O
+refuse_11	continued	O
+refuse_11	to	O
+refuse_11	refuse	refuse_vrb
+refuse_11	to	O
+refuse_11	convert	O

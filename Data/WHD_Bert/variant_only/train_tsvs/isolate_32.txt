@@ -1,0 +1,16 @@
+isolate_32	The	O
+isolate_32	pop	O
+isolate_32	directional	O
+isolate_32	formatting	O
+isolate_32	characters	O
+isolate_32	terminate	O
+isolate_32	the	O
+isolate_32	scope	O
+isolate_32	of	O
+isolate_32	the	O
+isolate_32	most	O
+isolate_32	recent	O
+isolate_32	embedding	O
+isolate_32	override	O
+isolate_32	or	O
+isolate_32	isolate	isolate_nou

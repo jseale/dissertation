@@ -1,0 +1,17 @@
+appropriate_30	Although	O
+appropriate_30	Guy	O
+appropriate_30	struggles	O
+appropriate_30	with	O
+appropriate_30	the	O
+appropriate_30	developmentally	O
+appropriate_30	appropriate	appropriate_adj
+appropriate_30	process	O
+appropriate_30	of	O
+appropriate_30	adolescent	O
+appropriate_30	separation	O
+appropriate_30	from	O
+appropriate_30	his	O
+appropriate_30	mother	O
+appropriate_30	they	O
+appropriate_30	remain	O
+appropriate_30	close	O

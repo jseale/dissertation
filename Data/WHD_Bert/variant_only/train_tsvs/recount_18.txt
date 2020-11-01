@@ -1,0 +1,17 @@
+recount_18	Some	O
+recount_18	party	O
+recount_18	members	O
+recount_18	were	O
+recount_18	concerned	O
+recount_18	that	O
+recount_18	a	O
+recount_18	recount	recount_nou
+recount_18	would	O
+recount_18	damage	O
+recount_18	the	O
+recount_18	public	O
+recount_18	perception	O
+recount_18	of	O
+recount_18	the	O
+recount_18	Libertarian	O
+recount_18	party	O

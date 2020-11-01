@@ -1,0 +1,12 @@
+advocate_39	Luckenbach	O
+advocate_39	was	O
+advocate_39	also	O
+advocate_39	a	O
+advocate_39	strong	O
+advocate_39	advocate	advocate_nou
+advocate_39	of	O
+advocate_39	Federal	O
+advocate_39	control	O
+advocate_39	of	O
+advocate_39	shipping	O
+advocate_39	rates	O

@@ -1,0 +1,13 @@
+contrast_35	Iobitridol	O
+contrast_35	is	O
+contrast_35	a	O
+contrast_35	molecule	O
+contrast_35	used	O
+contrast_35	as	O
+contrast_35	a	O
+contrast_35	contrast	contrast_nou
+contrast_35	medium	O
+contrast_35	in	O
+contrast_35	X	O
+contrast_35	ray	O
+contrast_35	imaging	O

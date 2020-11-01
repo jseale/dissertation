@@ -1,0 +1,12 @@
+content_3	Not	O
+content_3	content	content_adj-nou-vrb
+content_3	with	O
+content_3	their	O
+content_3	own	O
+content_3	lands	O
+content_3	they	O
+content_3	've	O
+content_3	come	O
+content_3	to	O
+content_3	steal	O
+content_3	mine	O

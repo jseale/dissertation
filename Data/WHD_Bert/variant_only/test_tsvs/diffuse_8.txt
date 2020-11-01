@@ -1,0 +1,16 @@
+diffuse_8	He	O
+diffuse_8	called	O
+diffuse_8	on	O
+diffuse_8	members	O
+diffuse_8	to	O
+diffuse_8	seek	O
+diffuse_8	to	O
+diffuse_8	diffuse	diffuse_vrb
+diffuse_8	proper	O
+diffuse_8	Italian	O
+diffuse_8	fascist	O
+diffuse_8	ideas	O
+diffuse_8	wherever	O
+diffuse_8	they	O
+diffuse_8	were	O
+diffuse_8	living	O

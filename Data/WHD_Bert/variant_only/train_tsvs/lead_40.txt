@@ -1,0 +1,14 @@
+lead_40	The	O
+lead_40	escalating	O
+lead_40	attacks	O
+lead_40	lead	lead_nou-vrb
+lead_40	Amazon	O
+lead_40	leaders	O
+lead_40	Phillipus	O
+lead_40	and	O
+lead_40	Artemis	O
+lead_40	to	O
+lead_40	question	O
+lead_40	Hippolyta	O
+lead_40	's	O
+lead_40	motives	O

@@ -1,0 +1,16 @@
+diffuse_71	Over	O
+diffuse_71	the	O
+diffuse_71	next	O
+diffuse_71	hours	O
+diffuse_71	Fred	O
+diffuse_71	became	O
+diffuse_71	increasingly	O
+diffuse_71	diffuse	diffuse_adj
+diffuse_71	as	O
+diffuse_71	a	O
+diffuse_71	result	O
+diffuse_71	of	O
+diffuse_71	its	O
+diffuse_71	progressively	O
+diffuse_71	worsening	O
+diffuse_71	surroundings	O

@@ -1,0 +1,13 @@
+nestle_10	He	O
+nestle_10	also	O
+nestle_10	serves	O
+nestle_10	on	O
+nestle_10	the	O
+nestle_10	boards	O
+nestle_10	of	O
+nestle_10	GVK	O
+nestle_10	Nestle	nestle_nam
+nestle_10	India	O
+nestle_10	and	O
+nestle_10	Patni	O
+nestle_10	Computers	O

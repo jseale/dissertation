@@ -1,0 +1,12 @@
+nestle_4	Positive	O
+nestle_4	and	O
+nestle_4	negative	O
+nestle_4	charred	O
+nestle_4	and	O
+nestle_4	pristine	O
+nestle_4	ripeness	O
+nestle_4	and	O
+nestle_4	decay	O
+nestle_4	all	O
+nestle_4	nestle	nestle_vrb
+nestle_4	together	O

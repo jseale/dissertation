@@ -1,0 +1,15 @@
+document_29	XML	O
+document_29	allows	O
+document_29	parsers	O
+document_29	to	O
+document_29	separate	O
+document_29	the	O
+document_29	process	O
+document_29	of	O
+document_29	interpreting	O
+document_29	the	O
+document_29	document	document_nou
+document_29	syntax	O
+document_29	and	O
+document_29	its	O
+document_29	structure	O

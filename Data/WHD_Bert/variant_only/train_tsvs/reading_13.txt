@@ -1,0 +1,16 @@
+reading_13	After	O
+reading_13	the	O
+reading_13	break	O
+reading_13	Tshibola	O
+reading_13	put	O
+reading_13	Reading	reading_geo
+reading_13	ahead	O
+reading_13	before	O
+reading_13	a	O
+reading_13	West	O
+reading_13	Ham	O
+reading_13	own	O
+reading_13	goal	O
+reading_13	extended	O
+reading_13	the	O
+reading_13	lead	O

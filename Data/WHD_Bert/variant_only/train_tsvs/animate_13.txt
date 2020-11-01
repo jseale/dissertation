@@ -1,0 +1,14 @@
+animate_13	Dave	O
+animate_13	Feiten	O
+animate_13	was	O
+animate_13	then	O
+animate_13	brought	O
+animate_13	in	O
+animate_13	to	O
+animate_13	animate	animate_vrb
+animate_13	and	O
+animate_13	fix	O
+animate_13	story	O
+animate_13	and	O
+animate_13	staging	O
+animate_13	problems	O

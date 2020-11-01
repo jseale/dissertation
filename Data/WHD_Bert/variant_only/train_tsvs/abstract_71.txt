@@ -1,0 +1,15 @@
+abstract_71	She	O
+abstract_71	is	O
+abstract_71	well	O
+abstract_71	known	O
+abstract_71	for	O
+abstract_71	her	O
+abstract_71	architecturally	O
+abstract_71	inspired	O
+abstract_71	knitted	O
+abstract_71	wall	O
+abstract_71	hangings	O
+abstract_71	that	O
+abstract_71	were	O
+abstract_71	very	O
+abstract_71	abstract	abstract_adj-nou

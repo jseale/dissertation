@@ -1,0 +1,13 @@
+recount_35	The	O
+recount_35	following	O
+recount_35	day	O
+recount_35	it	O
+recount_35	was	O
+recount_35	announced	O
+recount_35	that	O
+recount_35	the	O
+recount_35	recount	recount_nou
+recount_35	resulted	O
+recount_35	in	O
+recount_35	another	O
+recount_35	tie	O

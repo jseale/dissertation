@@ -1,0 +1,17 @@
+conflict_10	Human	O
+conflict_10	Rights	O
+conflict_10	Watch	O
+conflict_10	a	O
+conflict_10	U.S.-based	O
+conflict_10	group	O
+conflict_10	accused	O
+conflict_10	both	O
+conflict_10	sides	O
+conflict_10	in	O
+conflict_10	the	O
+conflict_10	conflict	conflict_nou
+conflict_10	of	O
+conflict_10	torture	O
+conflict_10	and	O
+conflict_10	war	O
+conflict_10	crimes	O

@@ -1,0 +1,14 @@
+insert_40	They	O
+insert_40	are	O
+insert_40	used	O
+insert_40	by	O
+insert_40	viruses	O
+insert_40	to	O
+insert_40	insert	insert_vrb
+insert_40	their	O
+insert_40	genetic	O
+insert_40	material	O
+insert_40	into	O
+insert_40	the	O
+insert_40	host	O
+insert_40	genomes	O

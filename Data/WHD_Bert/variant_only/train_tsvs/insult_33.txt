@@ -1,0 +1,8 @@
+insult_33	The	O
+insult_33	Story	O
+insult_33	Behind	O
+insult_33	Campaign	O
+insult_33	82	O
+insult_33	's	O
+insult_33	Favorite	O
+insult_33	Insult	insult_nou

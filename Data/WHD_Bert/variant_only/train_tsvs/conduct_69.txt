@@ -1,0 +1,14 @@
+conduct_69	Luther	O
+conduct_69	also	O
+conduct_69	does	O
+conduct_69	not	O
+conduct_69	deny	O
+conduct_69	that	O
+conduct_69	the	O
+conduct_69	Christian	O
+conduct_69	may	O
+conduct_69	ever	O
+conduct_69	improve	O
+conduct_69	in	O
+conduct_69	his	O
+conduct_69	conduct	conduct_nou

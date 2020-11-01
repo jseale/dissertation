@@ -1,0 +1,10 @@
+estimate_51	Roger	O
+estimate_51	Cooper	O
+estimate_51	gives	O
+estimate_51	an	O
+estimate_51	estimate	estimate_nou
+estimate_51	of	O
+estimate_51	between	O
+estimate_51	150,000	O
+estimate_51	and	O
+estimate_51	300,000	O

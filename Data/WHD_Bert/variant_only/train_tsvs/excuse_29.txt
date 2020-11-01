@@ -1,0 +1,16 @@
+excuse_29	The	O
+excuse_29	District	O
+excuse_29	of	O
+excuse_29	Columbia	O
+excuse_29	does	O
+excuse_29	not	O
+excuse_29	require	O
+excuse_29	an	O
+excuse_29	excuse	excuse_nou
+excuse_29	for	O
+excuse_29	either	O
+excuse_29	early	O
+excuse_29	voting	O
+excuse_29	or	O
+excuse_29	absentee	O
+excuse_29	voting	O

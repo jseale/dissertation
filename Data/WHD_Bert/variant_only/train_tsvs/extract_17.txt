@@ -1,0 +1,13 @@
+extract_17	They	O
+extract_17	were	O
+extract_17	able	O
+extract_17	to	O
+extract_17	use	O
+extract_17	liver	O
+extract_17	extract	extract_nou
+extract_17	therapy	O
+extract_17	to	O
+extract_17	treat	O
+extract_17	tropical	O
+extract_17	sprue	O
+extract_17	successfully	O

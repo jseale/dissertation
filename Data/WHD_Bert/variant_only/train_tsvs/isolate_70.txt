@@ -1,0 +1,15 @@
+isolate_70	Now	O
+isolate_70	was	O
+isolate_70	the	O
+isolate_70	time	O
+isolate_70	for	O
+isolate_70	frank	O
+isolate_70	dialogue	O
+isolate_70	rather	O
+isolate_70	than	O
+isolate_70	rhetoric	O
+isolate_70	that	O
+isolate_70	would	O
+isolate_70	isolate	isolate
+isolate_70	a	O
+isolate_70	country	O

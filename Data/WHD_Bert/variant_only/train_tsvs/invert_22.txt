@@ -1,0 +1,12 @@
+invert_22	During	O
+invert_22	diffusion	O
+invert_22	a	O
+invert_22	portion	O
+invert_22	of	O
+invert_22	the	O
+invert_22	sucrose	O
+invert_22	breaks	O
+invert_22	down	O
+invert_22	into	O
+invert_22	invert	invert_vrb
+invert_22	sugars	O

@@ -1,0 +1,16 @@
+compress_3	If	O
+compress_3	applied	O
+compress_3	incorrectly	O
+compress_3	they	O
+compress_3	can	O
+compress_3	compress	compress
+compress_3	the	O
+compress_3	ribcage	O
+compress_3	so	O
+compress_3	greatly	O
+compress_3	as	O
+compress_3	to	O
+compress_3	make	O
+compress_3	normal	O
+compress_3	breathing	O
+compress_3	impossible	O

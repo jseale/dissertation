@@ -1,0 +1,13 @@
+discount_32	Seniors	O
+discount_32	can	O
+discount_32	get	O
+discount_32	10	O
+discount_32	discount	discount_nou
+discount_32	every	O
+discount_32	day	O
+discount_32	and	O
+discount_32	for	O
+discount_32	everyone	O
+discount_32	in	O
+discount_32	their	O
+discount_32	party	O

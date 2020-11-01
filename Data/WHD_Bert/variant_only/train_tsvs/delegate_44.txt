@@ -1,0 +1,12 @@
+delegate_44	He	O
+delegate_44	was	O
+delegate_44	a	O
+delegate_44	delegate	delegate_nou
+delegate_44	to	O
+delegate_44	the	O
+delegate_44	Fifth	O
+delegate_44	Ecumencial	O
+delegate_44	Conference	O
+delegate_44	London	O
+delegate_44	England	O
+delegate_44	1921	O

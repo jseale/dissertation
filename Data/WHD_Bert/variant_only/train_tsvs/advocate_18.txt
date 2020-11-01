@@ -1,0 +1,14 @@
+advocate_18	Kilmer	O
+advocate_18	is	O
+advocate_18	a	O
+advocate_18	supporter	O
+advocate_18	of	O
+advocate_18	Native	O
+advocate_18	American	O
+advocate_18	affairs	O
+advocate_18	and	O
+advocate_18	an	O
+advocate_18	advocate	advocate_nou
+advocate_18	of	O
+advocate_18	environmental	O
+advocate_18	protection	O

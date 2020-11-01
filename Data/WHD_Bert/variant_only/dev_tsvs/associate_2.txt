@@ -1,0 +1,14 @@
+associate_2	The	O
+associate_2	duke	O
+associate_2	was	O
+associate_2	followed	O
+associate_2	by	O
+associate_2	Florimond	O
+associate_2	Robertet	O
+associate_2	Catherine	O
+associate_2	's	O
+associate_2	secretary	O
+associate_2	and	O
+associate_2	a	O
+associate_2	Guise	O
+associate_2	associate	associate_adj-nou

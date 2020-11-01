@@ -1,0 +1,17 @@
+abuses_62	Various	O
+abuses_62	objections	O
+abuses_62	to	O
+abuses_62	the	O
+abuses_62	witch	O
+abuses_62	hunts	O
+abuses_62	were	O
+abuses_62	raised	O
+abuses_62	on	O
+abuses_62	the	O
+abuses_62	basis	O
+abuses_62	of	O
+abuses_62	their	O
+abuses_62	abuses	abuses_nou
+abuses_62	of	O
+abuses_62	the	O
+abuses_62	law	O

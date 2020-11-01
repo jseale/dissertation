@@ -1,0 +1,17 @@
+lives_42	They	O
+lives_42	must	O
+lives_42	aim	O
+lives_42	to	O
+lives_42	address	O
+lives_42	the	O
+lives_42	political	O
+lives_42	and	O
+lives_42	structural	O
+lives_42	inequalities	O
+lives_42	that	O
+lives_42	negatively	O
+lives_42	shape	O
+lives_42	the	O
+lives_42	lives	lives_nou
+lives_42	of	O
+lives_42	girls	O

@@ -1,0 +1,16 @@
+postulate_11	And	O
+postulate_11	so	O
+postulate_11	invoking	O
+postulate_11	Occam	O
+postulate_11	's	O
+postulate_11	razor	O
+postulate_11	he	O
+postulate_11	removed	O
+postulate_11	the	O
+postulate_11	postulate	postulate_nou
+postulate_11	of	O
+postulate_11	wavefunction	O
+postulate_11	collapse	O
+postulate_11	from	O
+postulate_11	the	O
+postulate_11	theory	O

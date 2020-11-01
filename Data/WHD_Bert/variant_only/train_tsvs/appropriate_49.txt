@@ -1,0 +1,15 @@
+appropriate_49	This	O
+appropriate_49	has	O
+appropriate_49	great	O
+appropriate_49	dignity	O
+appropriate_49	and	O
+appropriate_49	depth	O
+appropriate_49	and	O
+appropriate_49	at	O
+appropriate_49	times	O
+appropriate_49	an	O
+appropriate_49	appropriate	appropriate_adj
+appropriate_49	wildness	O
+appropriate_49	or	O
+appropriate_49	becoming	O
+appropriate_49	levity	O

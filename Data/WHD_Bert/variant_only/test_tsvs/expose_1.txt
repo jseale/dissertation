@@ -1,0 +1,15 @@
+expose_1	He	O
+expose_1	also	O
+expose_1	bullies	O
+expose_1	workers	O
+expose_1	especially	O
+expose_1	Lois	O
+expose_1	Lane	O
+expose_1	who	O
+expose_1	threatens	O
+expose_1	to	O
+expose_1	expose	expose_vrb
+expose_1	him	O
+expose_1	as	O
+expose_1	the	O
+expose_1	Kingpin	O

@@ -1,0 +1,14 @@
+present_8	He	O
+present_8	was	O
+present_8	consecrated	O
+present_8	as	O
+present_8	Mar	O
+present_8	Thoma	O
+present_8	V.	O
+present_8	No	O
+present_8	bishops	O
+present_8	were	O
+present_8	present	present_adj-nou
+present_8	for	O
+present_8	his	O
+present_8	consecration	O

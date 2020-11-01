@@ -1,0 +1,16 @@
+estimate_68	Various	O
+estimate_68	figures	O
+estimate_68	estimate	estimate_vrb
+estimate_68	that	O
+estimate_68	the	O
+estimate_68	ethnic	O
+estimate_68	Armenian	O
+estimate_68	population	O
+estimate_68	in	O
+estimate_68	Russia	O
+estimate_68	is	O
+estimate_68	actually	O
+estimate_68	more	O
+estimate_68	than	O
+estimate_68	2	O
+estimate_68	million	O

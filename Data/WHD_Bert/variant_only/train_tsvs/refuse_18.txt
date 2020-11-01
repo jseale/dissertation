@@ -1,0 +1,15 @@
+refuse_18	Wastes	O
+refuse_18	in	O
+refuse_18	Hong	O
+refuse_18	Kong	O
+refuse_18	are	O
+refuse_18	first	O
+refuse_18	collected	O
+refuse_18	from	O
+refuse_18	disposal	O
+refuse_18	bins	O
+refuse_18	to	O
+refuse_18	refuse	refuse_vrb
+refuse_18	transfer	O
+refuse_18	stations	O
+refuse_18	RTS	O

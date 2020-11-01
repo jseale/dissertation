@@ -1,0 +1,12 @@
+contrast_80	The	O
+contrast_80	colloidal	O
+contrast_80	synthesis	O
+contrast_80	of	O
+contrast_80	nanoparticles	O
+contrast_80	by	O
+contrast_80	contrast	contrast_nou
+contrast_80	is	O
+contrast_80	a	O
+contrast_80	low	O
+contrast_80	temperature	O
+contrast_80	process	O

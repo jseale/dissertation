@@ -1,0 +1,8 @@
+affiliate_42	The	O
+affiliate_42	Courage	O
+affiliate_42	Campaign	O
+affiliate_42	is	O
+affiliate_42	an	O
+affiliate_42	affiliate	affiliate_nou
+affiliate_42	of	O
+affiliate_42	ProgressNow	O

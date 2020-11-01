@@ -1,0 +1,16 @@
+articulate_5	She	O
+articulate_5	was	O
+articulate_5	really	O
+articulate_5	articulate	articulate_adj
+articulate_5	and	O
+articulate_5	string	O
+articulate_5	there	O
+articulate_5	's	O
+articulate_5	so	O
+articulate_5	much	O
+articulate_5	power	O
+articulate_5	in	O
+articulate_5	songs	O
+articulate_5	like	O
+articulate_5	Jigsaw	O
+articulate_5	Feeling	O

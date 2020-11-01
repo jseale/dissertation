@@ -1,0 +1,13 @@
+impact_6	Federal	O
+impact_6	funding	O
+impact_6	is	O
+impact_6	still	O
+impact_6	not	O
+impact_6	approved	O
+impact_6	the	O
+impact_6	Environmental	O
+impact_6	Impact	impact_nou
+impact_6	study	O
+impact_6	must	O
+impact_6	be	O
+impact_6	complete	O

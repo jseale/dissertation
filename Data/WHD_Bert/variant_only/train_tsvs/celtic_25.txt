@@ -1,0 +1,17 @@
+celtic_25	The	O
+celtic_25	Society	O
+celtic_25	does	O
+celtic_25	support	O
+celtic_25	Celtic	celtic
+celtic_25	heritage	O
+celtic_25	activities	O
+celtic_25	in	O
+celtic_25	the	O
+celtic_25	United	O
+celtic_25	States	O
+celtic_25	through	O
+celtic_25	an	O
+celtic_25	affiliated	O
+celtic_25	non	O
+celtic_25	profit	O
+celtic_25	organization	O

@@ -1,0 +1,16 @@
+postulate_60	This	O
+postulate_60	is	O
+postulate_60	also	O
+postulate_60	called	O
+postulate_60	the	O
+postulate_60	Drucker	O
+postulate_60	stability	O
+postulate_60	postulate	postulate_nou
+postulate_60	and	O
+postulate_60	eliminates	O
+postulate_60	the	O
+postulate_60	possibility	O
+postulate_60	of	O
+postulate_60	strain	O
+postulate_60	softening	O
+postulate_60	behavior	O

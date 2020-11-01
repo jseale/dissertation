@@ -1,0 +1,16 @@
+defect_33	In	O
+defect_33	rare	O
+defect_33	cases	O
+defect_33	congenital	O
+defect_33	defect	defect_nou
+defect_33	results	O
+defect_33	in	O
+defect_33	a	O
+defect_33	short	O
+defect_33	tail	O
+defect_33	like	O
+defect_33	structure	O
+defect_33	being	O
+defect_33	present	O
+defect_33	at	O
+defect_33	birth	O

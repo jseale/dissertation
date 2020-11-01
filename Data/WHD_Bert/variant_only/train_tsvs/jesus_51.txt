@@ -1,0 +1,16 @@
+jesus_51	Rood	O
+jesus_51	was	O
+jesus_51	originally	O
+jesus_51	the	O
+jesus_51	only	O
+jesus_51	Old	O
+jesus_51	English	O
+jesus_51	word	O
+jesus_51	for	O
+jesus_51	the	O
+jesus_51	instrument	O
+jesus_51	of	O
+jesus_51	Jesus	jesus
+jesus_51	Christ	O
+jesus_51	's	O
+jesus_51	death	O

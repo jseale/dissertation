@@ -1,0 +1,13 @@
+precipitate_6	This	O
+precipitate_6	produces	O
+precipitate_6	a	O
+precipitate_6	gel	O
+precipitate_6	like	O
+precipitate_6	precipitate	precipitate_adj-nou
+precipitate_6	that	O
+precipitate_6	can	O
+precipitate_6	then	O
+precipitate_6	be	O
+precipitate_6	dried	O
+precipitate_6	in	O
+precipitate_6	air	O

@@ -1,0 +1,12 @@
+analyses_5	However	O
+analyses_5	some	O
+analyses_5	phylogenetic	O
+analyses_5	analyses	analyses_nou
+analyses_5	continue	O
+analyses_5	to	O
+analyses_5	find	O
+analyses_5	support	O
+analyses_5	for	O
+analyses_5	the	O
+analyses_5	lepospondyl	O
+analyses_5	hypothesis	O

@@ -1,0 +1,17 @@
+wind_24	In	O
+wind_24	March	O
+wind_24	2009	O
+wind_24	Wind	wind_nou
+wind_24	Capital	O
+wind_24	Group	O
+wind_24	announced	O
+wind_24	the	O
+wind_24	sale	O
+wind_24	of	O
+wind_24	their	O
+wind_24	second	O
+wind_24	wind	wind_nou
+wind_24	farm	O
+wind_24	outside	O
+wind_24	of	O
+wind_24	Missouri	O

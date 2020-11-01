@@ -1,0 +1,15 @@
+animate_5	It	O
+animate_5	can	O
+animate_5	also	O
+animate_5	animate	animate_vrb
+animate_5	these	O
+animate_5	plots	O
+animate_5	using	O
+animate_5	up	O
+animate_5	to	O
+animate_5	23	O
+animate_5	variables	O
+animate_5	and	O
+animate_5	their	O
+animate_5	corresponding	O
+animate_5	sliders	O

@@ -1,0 +1,16 @@
+use_8	First	O
+use_8	takedown	O
+use_8	notices	O
+use_8	supersede	O
+use_8	the	O
+use_8	fair	O
+use_8	use	use_nou
+use_8	doctrine	O
+use_8	which	O
+use_8	goes	O
+use_8	against	O
+use_8	the	O
+use_8	freedom	O
+use_8	of	O
+use_8	speech	O
+use_8	act	O

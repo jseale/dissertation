@@ -1,0 +1,16 @@
+bow_8	Tamandaré	O
+bow_8	received	O
+bow_8	three	O
+bow_8	shots	O
+bow_8	in	O
+bow_8	her	O
+bow_8	bow	bow_nou-ship
+bow_8	and	O
+bow_8	was	O
+bow_8	making	O
+bow_8	6	O
+bow_8	inches	O
+bow_8	of	O
+bow_8	water	O
+bow_8	per	O
+bow_8	hour	O

@@ -1,0 +1,13 @@
+articulate_74	Meristella	O
+articulate_74	is	O
+articulate_74	placed	O
+articulate_74	in	O
+articulate_74	the	O
+articulate_74	family	O
+articulate_74	Meristellidae	O
+articulate_74	of	O
+articulate_74	the	O
+articulate_74	articulate	articulate_adj
+articulate_74	brachiopod	O
+articulate_74	order	O
+articulate_74	Athyridida	O

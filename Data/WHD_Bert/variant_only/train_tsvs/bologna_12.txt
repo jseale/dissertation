@@ -1,0 +1,7 @@
+bologna_12	He	O
+bologna_12	then	O
+bologna_12	joined	O
+bologna_12	Bologna	bologna_geo
+bologna_12	in	O
+bologna_12	January	O
+bologna_12	2009	O

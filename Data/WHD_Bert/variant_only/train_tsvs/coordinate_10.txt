@@ -1,0 +1,10 @@
+coordinate_10	It	O
+coordinate_10	helped	O
+coordinate_10	establish	O
+coordinate_10	conservation	O
+coordinate_10	areas	O
+coordinate_10	and	O
+coordinate_10	coordinate	coordinate_vrb
+coordinate_10	Heritage	O
+coordinate_10	Open	O
+coordinate_10	Days	O

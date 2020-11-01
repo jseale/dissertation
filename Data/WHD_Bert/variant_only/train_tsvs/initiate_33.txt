@@ -1,0 +1,8 @@
+initiate_33	PLCγ	O
+initiate_33	can	O
+initiate_33	also	O
+initiate_33	initiate	initiate_vrb
+initiate_33	the	O
+initiate_33	NF	O
+initiate_33	κB	O
+initiate_33	pathway	O

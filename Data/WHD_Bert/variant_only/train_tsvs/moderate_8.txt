@@ -1,0 +1,9 @@
+moderate_8	Its	O
+moderate_8	calculated	O
+moderate_8	relief	O
+moderate_8	is	O
+moderate_8	1.45	O
+moderate_8	1.461	O
+moderate_8	which	O
+moderate_8	is	O
+moderate_8	moderate	moderate_adj-nou

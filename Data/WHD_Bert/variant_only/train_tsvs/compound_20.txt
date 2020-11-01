@@ -1,0 +1,8 @@
+compound_20	2,4-Xylidine	O
+compound_20	is	O
+compound_20	an	O
+compound_20	organic	O
+compound_20	compound	compound_nou
+compound_20	with	O
+compound_20	formula	O
+compound_20	CH₃)₂C₆H₃NH₂.	O

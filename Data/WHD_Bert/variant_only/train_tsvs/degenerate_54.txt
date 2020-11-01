@@ -1,0 +1,13 @@
+degenerate_54	Thus	O
+degenerate_54	natural	O
+degenerate_54	laws	O
+degenerate_54	prove	O
+degenerate_54	to	O
+degenerate_54	be	O
+degenerate_54	degenerate	degenerate_adj-nou
+degenerate_54	limiting	O
+degenerate_54	cases	O
+degenerate_54	of	O
+degenerate_54	the	O
+degenerate_54	Bernoulli	O
+degenerate_54	Space	O

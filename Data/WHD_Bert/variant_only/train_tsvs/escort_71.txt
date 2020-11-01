@@ -1,0 +1,13 @@
+escort_71	She	O
+escort_71	fought	O
+escort_71	primarily	O
+escort_71	in	O
+escort_71	the	O
+escort_71	Battle	O
+escort_71	of	O
+escort_71	the	O
+escort_71	Atlantic	O
+escort_71	as	O
+escort_71	an	O
+escort_71	ocean	O
+escort_71	escort	escort_nou

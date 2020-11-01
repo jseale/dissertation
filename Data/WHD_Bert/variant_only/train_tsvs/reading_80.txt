@@ -1,0 +1,12 @@
+reading_80	He	O
+reading_80	attended	O
+reading_80	Reading	reading_geo
+reading_80	Academy	O
+reading_80	in	O
+reading_80	Flemington	O
+reading_80	and	O
+reading_80	Lafayette	O
+reading_80	College	O
+reading_80	in	O
+reading_80	Easton	O
+reading_80	Pennsylvania	O

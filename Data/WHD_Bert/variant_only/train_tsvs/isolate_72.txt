@@ -1,0 +1,12 @@
+isolate_72	Plinabulin	O
+isolate_72	is	O
+isolate_72	a	O
+isolate_72	fungal	O
+isolate_72	isolate	isolate_nou
+isolate_72	derivative	O
+isolate_72	currently	O
+isolate_72	being	O
+isolate_72	researched	O
+isolate_72	for	O
+isolate_72	anticancer	O
+isolate_72	applications	O

@@ -1,0 +1,14 @@
+approximate_48	Photographs	O
+approximate_48	of	O
+approximate_48	Earth	O
+approximate_48	from	O
+approximate_48	far	O
+approximate_48	enough	O
+approximate_48	away	O
+approximate_48	such	O
+approximate_48	as	O
+approximate_48	the	O
+approximate_48	Moon	O
+approximate_48	approximate	approximate_vrb
+approximate_48	this	O
+approximate_48	perspective	O

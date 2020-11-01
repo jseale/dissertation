@@ -1,0 +1,10 @@
+sake_68	Loving	O
+sake_68	sake	sake_jp
+sake_68	savoring	O
+sake_68	sake	sake_jp
+sake_68	enjoying	O
+sake_68	sake	sake_jp
+sake_68	is	O
+sake_68	not	O
+sake_68	so	O
+sake_68	bad	O

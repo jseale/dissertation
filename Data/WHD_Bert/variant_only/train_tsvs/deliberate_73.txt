@@ -1,0 +1,7 @@
+deliberate_73	They	O
+deliberate_73	further	O
+deliberate_73	accused	O
+deliberate_73	Fell	O
+deliberate_73	of	O
+deliberate_73	deliberate	deliberate_adj
+deliberate_73	fraud	O

@@ -1,0 +1,16 @@
+wind_21	6,788	O
+wind_21	yards	O
+wind_21	wind	wind_vrb
+wind_21	their	O
+wind_21	way	O
+wind_21	through	O
+wind_21	125	O
+wind_21	acres	O
+wind_21	0.51	O
+wind_21	km²	O
+wind_21	to	O
+wind_21	make	O
+wind_21	up	O
+wind_21	the	O
+wind_21	golf	O
+wind_21	course	O

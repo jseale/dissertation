@@ -1,0 +1,8 @@
+diffuse_9	The	O
+diffuse_9	third	O
+diffuse_9	term	O
+diffuse_9	corrects	O
+diffuse_9	for	O
+diffuse_9	the	O
+diffuse_9	diffuse	diffuse_adj
+diffuse_9	functions	O

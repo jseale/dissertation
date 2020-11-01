@@ -1,0 +1,12 @@
+diffuse_5	In	O
+diffuse_5	a	O
+diffuse_5	few	O
+diffuse_5	months	O
+diffuse_5	these	O
+diffuse_5	pioneers	O
+diffuse_5	built	O
+diffuse_5	a	O
+diffuse_5	highly	O
+diffuse_5	diffuse	diffuse_adj
+diffuse_5	underground	O
+diffuse_5	network	O

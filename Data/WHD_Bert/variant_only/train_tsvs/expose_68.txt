@@ -1,0 +1,15 @@
+expose_68	The	O
+expose_68	radioactive	O
+expose_68	second	O
+expose_68	dimension	O
+expose_68	gel	O
+expose_68	is	O
+expose_68	then	O
+expose_68	allowed	O
+expose_68	to	O
+expose_68	expose	expose_vrb
+expose_68	a	O
+expose_68	large	O
+expose_68	sheet	O
+expose_68	of	O
+expose_68	film	O

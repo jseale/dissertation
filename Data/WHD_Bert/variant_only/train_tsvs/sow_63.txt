@@ -1,0 +1,14 @@
+sow_63	In	O
+sow_63	January	O
+sow_63	sow	sow
+sow_63	your	O
+sow_63	oats	O
+sow_63	twill	O
+sow_63	bring	O
+sow_63	a	O
+sow_63	good	O
+sow_63	harvest	O
+sow_63	and	O
+sow_63	plenty	O
+sow_63	of	O
+sow_63	groats	O

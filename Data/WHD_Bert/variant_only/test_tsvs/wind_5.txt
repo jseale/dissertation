@@ -1,0 +1,15 @@
+wind_5	The	O
+wind_5	North	O
+wind_5	Wind	wind_nou
+wind_5	and	O
+wind_5	the	O
+wind_5	Sun	O
+wind_5	is	O
+wind_5	one	O
+wind_5	of	O
+wind_5	Aesop	O
+wind_5	's	O
+wind_5	Fables	O
+wind_5	Perry	O
+wind_5	Index	O
+wind_5	46	O

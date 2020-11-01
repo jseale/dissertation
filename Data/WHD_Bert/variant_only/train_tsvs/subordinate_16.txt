@@ -1,0 +1,15 @@
+subordinate_16	Voltaire	O
+subordinate_16	also	O
+subordinate_16	wonders	O
+subordinate_16	about	O
+subordinate_16	such	O
+subordinate_16	detention	O
+subordinate_16	measures	O
+subordinate_16	and	O
+subordinate_16	state	O
+subordinate_16	secrecy	O
+subordinate_16	around	O
+subordinate_16	a	O
+subordinate_16	simple	O
+subordinate_16	subordinate	subordinate_adj-nou
+subordinate_16	confidant	O

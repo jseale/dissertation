@@ -1,0 +1,14 @@
+combine_5	In	O
+combine_5	later	O
+combine_5	series	O
+combine_5	tournaments	O
+combine_5	he	O
+combine_5	would	O
+combine_5	combine	combine_vrb
+combine_5	fire	O
+combine_5	with	O
+combine_5	a	O
+combine_5	personal	O
+combine_5	style	O
+combine_5	of	O
+combine_5	kenpo	O

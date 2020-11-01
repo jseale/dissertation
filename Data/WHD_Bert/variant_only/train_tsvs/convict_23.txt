@@ -1,0 +1,16 @@
+convict_23	The	O
+convict_23	film	O
+convict_23	starts	O
+convict_23	off	O
+convict_23	with	O
+convict_23	Calvin	O
+convict_23	Babyface	O
+convict_23	Simms	O
+convict_23	Marlon	O
+convict_23	Wayans	O
+convict_23	who	O
+convict_23	is	O
+convict_23	a	O
+convict_23	very	O
+convict_23	short	O
+convict_23	convict	convict_nou

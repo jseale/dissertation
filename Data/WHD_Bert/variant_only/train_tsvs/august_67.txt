@@ -1,0 +1,9 @@
+august_67	These	O
+august_67	camps	O
+august_67	are	O
+august_67	only	O
+august_67	offered	O
+august_67	from	O
+august_67	August	august
+august_67	to	O
+august_67	May.	O

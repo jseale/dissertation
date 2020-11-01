@@ -1,0 +1,16 @@
+incline_54	Yokozawa	O
+incline_54	found	O
+incline_54	incline	incline_nou
+incline_54	running	O
+incline_54	to	O
+incline_54	produce	O
+incline_54	increased	O
+incline_54	activation	O
+incline_54	in	O
+incline_54	the	O
+incline_54	vasti	O
+incline_54	group	O
+incline_54	hamstrings	O
+incline_54	iliopsoas	O
+incline_54	and	O
+incline_54	adductors	O

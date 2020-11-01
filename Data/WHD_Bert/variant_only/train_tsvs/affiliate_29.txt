@@ -1,0 +1,11 @@
+affiliate_29	It	O
+affiliate_29	consists	O
+affiliate_29	out	O
+affiliate_29	of	O
+affiliate_29	members	O
+affiliate_29	of	O
+affiliate_29	all	O
+affiliate_29	affiliate	affiliate_nou
+affiliate_29	unions	O
+affiliate_29	represented	O
+affiliate_29	proportionally	O

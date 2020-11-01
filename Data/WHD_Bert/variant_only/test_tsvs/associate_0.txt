@@ -1,0 +1,16 @@
+associate_0	Tully	O
+associate_0	Hall	O
+associate_0	was	O
+associate_0	designed	O
+associate_0	by	O
+associate_0	architect	O
+associate_0	Pietro	O
+associate_0	Belluschi	O
+associate_0	and	O
+associate_0	associate	associate_adj-nou
+associate_0	architects	O
+associate_0	Eduardo	O
+associate_0	Catalano	O
+associate_0	and	O
+associate_0	Helge	O
+associate_0	Westermann	O

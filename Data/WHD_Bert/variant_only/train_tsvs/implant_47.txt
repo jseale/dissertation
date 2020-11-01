@@ -1,0 +1,11 @@
+implant_47	Matt	O
+implant_47	starts	O
+implant_47	manifesting	O
+implant_47	the	O
+implant_47	ability	O
+implant_47	to	O
+implant_47	implant	implant_vrb
+implant_47	suggestions	O
+implant_47	in	O
+implant_47	others	O
+implant_47	minds	O

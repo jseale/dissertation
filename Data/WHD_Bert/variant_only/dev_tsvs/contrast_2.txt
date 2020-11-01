@@ -1,0 +1,8 @@
+contrast_2	By	O
+contrast_2	contrast	contrast_nou
+contrast_2	the	O
+contrast_2	goal	O
+contrast_2	of	O
+contrast_2	Mahayana	O
+contrast_2	is	O
+contrast_2	Buddhahood	O

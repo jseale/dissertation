@@ -1,0 +1,12 @@
+reject_57	However	O
+reject_57	the	O
+reject_57	Mieu	O
+reject_57	reject	reject_vrb
+reject_57	this	O
+reject_57	and	O
+reject_57	see	O
+reject_57	themselves	O
+reject_57	as	O
+reject_57	a	O
+reject_57	distinct	O
+reject_57	ethnicity	O

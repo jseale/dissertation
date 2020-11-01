@@ -1,0 +1,16 @@
+discard_1	Custom	O
+discard_1	Alarms	O
+discard_1	creation	O
+discard_1	and	O
+discard_1	management	O
+discard_1	are	O
+discard_1	used	O
+discard_1	to	O
+discard_1	notify	O
+discard_1	acknowledge	O
+discard_1	and	O
+discard_1	discard	discard_vrb
+discard_1	for	O
+discard_1	custom	O
+discard_1	notifications	O
+discard_1	flow	O

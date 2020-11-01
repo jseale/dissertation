@@ -1,0 +1,15 @@
+isolate_79	The	O
+isolate_79	entire	O
+isolate_79	Indo	O
+isolate_79	European	O
+isolate_79	family	O
+isolate_79	itself	O
+isolate_79	is	O
+isolate_79	a	O
+isolate_79	language	O
+isolate_79	isolate	isolate_nou
+isolate_79	no	O
+isolate_79	further	O
+isolate_79	connections	O
+isolate_79	are	O
+isolate_79	known	O

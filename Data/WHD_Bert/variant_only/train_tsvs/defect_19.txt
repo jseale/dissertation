@@ -1,0 +1,11 @@
+defect_19	Females	O
+defect_19	with	O
+defect_19	this	O
+defect_19	defect	defect_nou
+defect_19	may	O
+defect_19	have	O
+defect_19	adducted	O
+defect_19	thumbs	O
+defect_19	or	O
+defect_19	subnormal	O
+defect_19	intelligence	O

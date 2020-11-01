@@ -1,0 +1,16 @@
+winds_7	Showers	O
+winds_7	and	O
+winds_7	storms	O
+winds_7	can	O
+winds_7	also	O
+winds_7	develop	O
+winds_7	along	O
+winds_7	stationary	O
+winds_7	fronts	O
+winds_7	and	O
+winds_7	winds	winds_nou
+winds_7	move	O
+winds_7	them	O
+winds_7	down	O
+winds_7	the	O
+winds_7	front	O

@@ -1,0 +1,13 @@
+graduate_10	In	O
+graduate_10	1979	O
+graduate_10	the	O
+graduate_10	School	O
+graduate_10	of	O
+graduate_10	Professional	O
+graduate_10	Psychology	O
+graduate_10	was	O
+graduate_10	established	O
+graduate_10	at	O
+graduate_10	Ferkauf	O
+graduate_10	Graduate	graduate_adj-nou
+graduate_10	School	O

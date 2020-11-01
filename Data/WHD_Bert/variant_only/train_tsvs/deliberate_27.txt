@@ -1,0 +1,14 @@
+deliberate_27	Deliberate	deliberate_adj
+deliberate_27	spreading	O
+deliberate_27	of	O
+deliberate_27	computer	O
+deliberate_27	viruses	O
+deliberate_27	is	O
+deliberate_27	also	O
+deliberate_27	illegal	O
+deliberate_27	in	O
+deliberate_27	the	O
+deliberate_27	United	O
+deliberate_27	States	O
+deliberate_27	and	O
+deliberate_27	elsewhere	O

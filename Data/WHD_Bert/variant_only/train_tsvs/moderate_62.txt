@@ -1,0 +1,9 @@
+moderate_62	Although	O
+moderate_62	connected	O
+moderate_62	with	O
+moderate_62	the	O
+moderate_62	elite	O
+moderate_62	he	O
+moderate_62	supported	O
+moderate_62	moderate	moderate_adj-nou
+moderate_62	reformers	O

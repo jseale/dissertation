@@ -1,0 +1,11 @@
+import_63	And	O
+import_63	the	O
+import_63	money	O
+import_63	of	O
+import_63	import	import_nou
+import_63	and	O
+import_63	export	O
+import_63	totaled	O
+import_63	$	O
+import_63	8.0118	O
+import_63	million	O

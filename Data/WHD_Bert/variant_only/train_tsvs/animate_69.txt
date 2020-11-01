@@ -1,0 +1,16 @@
+animate_69	Many	O
+animate_69	floats	O
+animate_69	along	O
+animate_69	with	O
+animate_69	their	O
+animate_69	drive	O
+animate_69	train	O
+animate_69	include	O
+animate_69	computer	O
+animate_69	controlled	O
+animate_69	robotic	O
+animate_69	mechanisms	O
+animate_69	to	O
+animate_69	animate	animate_vrb
+animate_69	the	O
+animate_69	floats	O

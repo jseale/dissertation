@@ -1,0 +1,17 @@
+precipitate_37	Electrolysis	O
+precipitate_37	of	O
+precipitate_37	bismuth(III	O
+precipitate_37	oxide	O
+precipitate_37	in	O
+precipitate_37	hot	O
+precipitate_37	concentrated	O
+precipitate_37	alkali	O
+precipitate_37	solution	O
+precipitate_37	gives	O
+precipitate_37	a	O
+precipitate_37	scarlet	O
+precipitate_37	red	O
+precipitate_37	precipitate	precipitate_adj-nou
+precipitate_37	of	O
+precipitate_37	bismuth(V	O
+precipitate_37	oxide	O

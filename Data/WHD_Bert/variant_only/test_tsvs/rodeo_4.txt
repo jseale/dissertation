@@ -1,0 +1,17 @@
+rodeo_4	Midway	O
+rodeo_4	through	O
+rodeo_4	1995	O
+rodeo_4	the	O
+rodeo_4	Rodeo	rodeo
+rodeo_4	received	O
+rodeo_4	an	O
+rodeo_4	updated	O
+rodeo_4	dashboard	O
+rodeo_4	and	O
+rodeo_4	steering	O
+rodeo_4	wheel	O
+rodeo_4	both	O
+rodeo_4	of	O
+rodeo_4	which	O
+rodeo_4	added	O
+rodeo_4	airbags	O

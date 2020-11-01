@@ -1,0 +1,16 @@
+intrigue_18	The	O
+intrigue_18	soap	O
+intrigue_18	opera	O
+intrigue_18	Capitol	O
+intrigue_18	allowed	O
+intrigue_18	for	O
+intrigue_18	stories	O
+intrigue_18	about	O
+intrigue_18	political	O
+intrigue_18	intrigue	intrigue_nou
+intrigue_18	alongside	O
+intrigue_18	the	O
+intrigue_18	traditional	O
+intrigue_18	class	O
+intrigue_18	struggle	O
+intrigue_18	sagas	O

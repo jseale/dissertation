@@ -1,0 +1,17 @@
+consummate_46	Sarah	O
+consummate_46	Berry	O
+consummate_46	Sally	O
+consummate_46	Seidman	O
+consummate_46	remember	O
+consummate_46	as	O
+consummate_46	consummate	consummate_adj
+consummate_46	mom	O
+consummate_46	instrumental	O
+consummate_46	in	O
+consummate_46	bringing	O
+consummate_46	La	O
+consummate_46	Grande	O
+consummate_46	Vitesse	O
+consummate_46	to	O
+consummate_46	Grand	O
+consummate_46	Rapids	O

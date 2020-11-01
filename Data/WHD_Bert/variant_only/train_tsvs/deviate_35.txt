@@ -1,0 +1,11 @@
+deviate_35	As	O
+deviate_35	a	O
+deviate_35	result	O
+deviate_35	prices	O
+deviate_35	can	O
+deviate_35	deviate	deviate_vrb
+deviate_35	from	O
+deviate_35	their	O
+deviate_35	full	O
+deviate_35	information	O
+deviate_35	values	O

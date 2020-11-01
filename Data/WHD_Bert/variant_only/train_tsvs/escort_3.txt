@@ -1,0 +1,14 @@
+escort_3	She	O
+escort_3	joined	O
+escort_3	the	O
+escort_3	Western	O
+escort_3	Local	O
+escort_3	Escort	escort_nou
+escort_3	Force	O
+escort_3	WLEF	O
+escort_3	in	O
+escort_3	late	O
+escort_3	June	O
+escort_3	1942	O
+escort_3	after	O
+escort_3	workups	O

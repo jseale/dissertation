@@ -1,0 +1,13 @@
+console_28	The	O
+console_28	planet	O
+console_28	Nintendu	O
+console_28	64	O
+console_28	is	O
+console_28	a	O
+console_28	reference	O
+console_28	to	O
+console_28	the	O
+console_28	game	O
+console_28	console	console_nou
+console_28	Nintendo	O
+console_28	64	O

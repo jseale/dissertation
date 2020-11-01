@@ -1,0 +1,15 @@
+console_7	The	O
+console_7	console	console_nou
+console_7	versions	O
+console_7	of	O
+console_7	the	O
+console_7	game	O
+console_7	feature	O
+console_7	1993	O
+console_7	94	O
+console_7	rosters	O
+console_7	and	O
+console_7	limited	O
+console_7	roster	O
+console_7	management	O
+console_7	functions	O

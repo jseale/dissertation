@@ -1,0 +1,13 @@
+deliberate_69	Georgia	O
+deliberate_69	's	O
+deliberate_69	Foreign	O
+deliberate_69	Ministry	O
+deliberate_69	condemned	O
+deliberate_69	Russia	O
+deliberate_69	's	O
+deliberate_69	deliberate	deliberate_adj
+deliberate_69	attempts	O
+deliberate_69	to	O
+deliberate_69	escalate	O
+deliberate_69	the	O
+deliberate_69	situation	O

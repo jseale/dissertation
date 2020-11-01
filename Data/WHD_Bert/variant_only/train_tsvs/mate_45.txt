@@ -1,0 +1,16 @@
+mate_45	Both	O
+mate_45	songs	O
+mate_45	were	O
+mate_45	written	O
+mate_45	by	O
+mate_45	Taiji	O
+mate_45	in	O
+mate_45	memory	O
+mate_45	of	O
+mate_45	his	O
+mate_45	former	O
+mate_45	band	O
+mate_45	mate	mate
+mate_45	hide	O
+mate_45	X	O
+mate_45	Japan	O

@@ -1,0 +1,16 @@
+extract_37	In	O
+extract_37	addition	O
+extract_37	ethanolic	O
+extract_37	extract	extract_nou
+extract_37	of	O
+extract_37	S.	O
+extract_37	saligna	O
+extract_37	has	O
+extract_37	steroidal	O
+extract_37	alkaloids	O
+extract_37	which	O
+extract_37	can	O
+extract_37	demonstrate	O
+extract_37	cholinesterase	O
+extract_37	inhibitory	O
+extract_37	activity	O

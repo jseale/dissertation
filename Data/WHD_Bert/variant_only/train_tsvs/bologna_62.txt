@@ -1,0 +1,15 @@
+bologna_62	In	O
+bologna_62	1518	O
+bologna_62	Hess	O
+bologna_62	moved	O
+bologna_62	to	O
+bologna_62	Bologna	bologna_geo
+bologna_62	to	O
+bologna_62	study	O
+bologna_62	theology	O
+bologna_62	completing	O
+bologna_62	his	O
+bologna_62	studies	O
+bologna_62	there	O
+bologna_62	in	O
+bologna_62	1519	O

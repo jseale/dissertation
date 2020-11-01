@@ -1,0 +1,12 @@
+axes_65	The	O
+axes_65	spacious	O
+axes_65	and	O
+axes_65	imposing	O
+axes_65	buildings	O
+axes_65	are	O
+axes_65	arranged	O
+axes_65	in	O
+axes_65	three	O
+axes_65	main	O
+axes_65	northsouth	O
+axes_65	axes	axes_nou

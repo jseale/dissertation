@@ -1,0 +1,9 @@
+pasty_4	Pasty	pasty_adj
+pasty_4	varieties	O
+pasty_4	include	O
+pasty_4	chicken	O
+pasty_4	venison	O
+pasty_4	pork	O
+pasty_4	hamburger	O
+pasty_4	and	O
+pasty_4	pizza	O

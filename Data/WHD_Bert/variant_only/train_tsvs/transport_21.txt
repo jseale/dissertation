@@ -1,0 +1,12 @@
+transport_21	This	O
+transport_21	card	O
+transport_21	is	O
+transport_21	issued	O
+transport_21	by	O
+transport_21	Seoul	O
+transport_21	Bus	O
+transport_21	Transport	transport_nou
+transport_21	Association	O
+transport_21	and	O
+transport_21	eB	O
+transport_21	Card	O

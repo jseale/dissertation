@@ -1,0 +1,15 @@
+import_22	There	O
+import_22	are	O
+import_22	few	O
+import_22	import	import_nou
+import_22	tariffs	O
+import_22	from	O
+import_22	Singapore	O
+import_22	who	O
+import_22	supports	O
+import_22	the	O
+import_22	World	O
+import_22	Trade	O
+import_22	Organisation	O
+import_22	process	O
+import_22	fully	O

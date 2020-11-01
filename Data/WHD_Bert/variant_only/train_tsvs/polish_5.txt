@@ -1,0 +1,16 @@
+polish_5	The	O
+polish_5	soldiers	O
+polish_5	of	O
+polish_5	the	O
+polish_5	First	O
+polish_5	Regiment	O
+polish_5	made	O
+polish_5	their	O
+polish_5	way	O
+polish_5	to	O
+polish_5	the	O
+polish_5	territory	O
+polish_5	of	O
+polish_5	Second	O
+polish_5	Polish	polish_geo
+polish_5	Republic	O

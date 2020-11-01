@@ -1,0 +1,11 @@
+celtic_48	The	O
+celtic_48	Heuneburg	O
+celtic_48	settlement	O
+celtic_48	reflects	O
+celtic_48	important	O
+celtic_48	sociopolitical	O
+celtic_48	developments	O
+celtic_48	in	O
+celtic_48	early	O
+celtic_48	Celtic	celtic
+celtic_48	Europe	O

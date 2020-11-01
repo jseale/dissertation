@@ -1,0 +1,14 @@
+discharge_18	Ozone	O
+discharge_18	is	O
+discharge_18	made	O
+discharge_18	by	O
+discharge_18	passing	O
+discharge_18	oxygen	O
+discharge_18	through	O
+discharge_18	ultraviolet	O
+discharge_18	light	O
+discharge_18	or	O
+discharge_18	a	O
+discharge_18	cold	O
+discharge_18	electrical	O
+discharge_18	discharge	discharge_nou

@@ -1,0 +1,9 @@
+console_73	It	O
+console_73	can	O
+console_73	be	O
+console_73	run	O
+console_73	from	O
+console_73	command	O
+console_73	line	O
+console_73	in	O
+console_73	console	console_nou

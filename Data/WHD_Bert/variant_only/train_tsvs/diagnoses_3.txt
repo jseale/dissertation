@@ -1,0 +1,16 @@
+diagnoses_3	His	O
+diagnoses_3	works	O
+diagnoses_3	started	O
+diagnoses_3	the	O
+diagnoses_3	Cyptogamic	O
+diagnoses_3	Italian	O
+diagnoses_3	Flora	O
+diagnoses_3	a	O
+diagnoses_3	series	O
+diagnoses_3	of	O
+diagnoses_3	books	O
+diagnoses_3	which	O
+diagnoses_3	describes	O
+diagnoses_3	and	O
+diagnoses_3	diagnoses	diagnoses_vrb
+diagnoses_3	fungi	O

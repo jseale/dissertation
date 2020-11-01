@@ -1,0 +1,16 @@
+frequent_21	Regardless	O
+frequent_21	of	O
+frequent_21	the	O
+frequent_21	season	O
+frequent_21	cloudy	O
+frequent_21	days	O
+frequent_21	are	O
+frequent_21	common	O
+frequent_21	being	O
+frequent_21	more	O
+frequent_21	frequent	frequent_adj
+frequent_21	in	O
+frequent_21	the	O
+frequent_21	days	O
+frequent_21	of	O
+frequent_21	winter	O

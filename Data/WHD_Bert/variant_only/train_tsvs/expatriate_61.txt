@@ -1,0 +1,14 @@
+expatriate_61	The	O
+expatriate_61	magazine	O
+expatriate_61	targeted	O
+expatriate_61	readers	O
+expatriate_61	among	O
+expatriate_61	expatriate	expatriate_nou
+expatriate_61	and	O
+expatriate_61	Omani	O
+expatriate_61	working	O
+expatriate_61	women	O
+expatriate_61	as	O
+expatriate_61	well	O
+expatriate_61	as	O
+expatriate_61	housewives	O

@@ -1,0 +1,14 @@
+separate_65	In	O
+separate_65	this	O
+separate_65	stream	O
+separate_65	there	O
+separate_65	are	O
+separate_65	two	O
+separate_65	targets	O
+separate_65	each	O
+separate_65	of	O
+separate_65	which	O
+separate_65	requires	O
+separate_65	a	O
+separate_65	separate	separate_adj
+separate_65	response	O

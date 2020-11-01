@@ -1,0 +1,17 @@
+insert_30	All	O
+insert_30	drivers	O
+insert_30	wear	O
+insert_30	helmets	O
+insert_30	and	O
+insert_30	their	O
+insert_30	cars	O
+insert_30	contain	O
+insert_30	either	O
+insert_30	duct	O
+insert_30	taped	O
+insert_30	windows	O
+insert_30	or	O
+insert_30	a	O
+insert_30	wire	O
+insert_30	mesh	O
+insert_30	insert	insert_nou

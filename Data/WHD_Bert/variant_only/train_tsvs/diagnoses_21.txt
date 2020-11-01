@@ -1,0 +1,9 @@
+diagnoses_21	The	O
+diagnoses_21	success	O
+diagnoses_21	of	O
+diagnoses_21	treatment	O
+diagnoses_21	depends	O
+diagnoses_21	on	O
+diagnoses_21	the	O
+diagnoses_21	correct	O
+diagnoses_21	diagnoses	diagnoses_nou

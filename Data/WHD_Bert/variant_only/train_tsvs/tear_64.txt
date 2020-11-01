@@ -1,0 +1,14 @@
+tear_64	Chemical	O
+tear_64	weapons	O
+tear_64	in	O
+tear_64	World	O
+tear_64	War	O
+tear_64	I	O
+tear_64	included	O
+tear_64	phosgene	O
+tear_64	tear	tear_nou
+tear_64	gas	O
+tear_64	chlorarsines	O
+tear_64	and	O
+tear_64	mustard	O
+tear_64	gas	O

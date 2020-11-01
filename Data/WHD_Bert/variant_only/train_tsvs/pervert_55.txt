@@ -1,0 +1,8 @@
+pervert_55	He	O
+pervert_55	is	O
+pervert_55	very	O
+pervert_55	racist	O
+pervert_55	misogynistic	O
+pervert_55	and	O
+pervert_55	a	O
+pervert_55	pervert	pervert_nou

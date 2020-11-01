@@ -1,0 +1,15 @@
+extract_6	The	O
+extract_6	50	O
+extract_6	inhibitory	O
+extract_6	concentration	O
+extract_6	LD₅₀	O
+extract_6	of	O
+extract_6	the	O
+extract_6	extract	extract_nou
+extract_6	against	O
+extract_6	Entamoeba	O
+extract_6	histolytica	O
+extract_6	was	O
+extract_6	33	O
+extract_6	µg	O
+extract_6	mL.	O

@@ -1,0 +1,16 @@
+transport_58	Phosphorylated	O
+transport_58	DAT	O
+transport_58	then	O
+transport_58	either	O
+transport_58	operates	O
+transport_58	in	O
+transport_58	reverse	O
+transport_58	or	O
+transport_58	withdraws	O
+transport_58	into	O
+transport_58	the	O
+transport_58	presynaptic	O
+transport_58	neuron	O
+transport_58	and	O
+transport_58	ceases	O
+transport_58	transport	transport_nou

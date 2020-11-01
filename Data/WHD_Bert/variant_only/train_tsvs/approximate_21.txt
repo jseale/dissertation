@@ -1,0 +1,8 @@
+approximate_21	Approximate	approximate_adj-nou
+approximate_21	population	O
+approximate_21	in	O
+approximate_21	the	O
+approximate_21	2001	O
+approximate_21	census	O
+approximate_21	was	O
+approximate_21	230,000	O

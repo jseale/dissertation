@@ -1,0 +1,11 @@
+attribute_34	Skill	O
+attribute_34	and	O
+attribute_34	attribute	attribute_nou
+attribute_34	development	O
+attribute_34	are	O
+attribute_34	dependent	O
+attribute_34	on	O
+attribute_34	Titles	O
+attribute_34	and	O
+attribute_34	their	O
+attribute_34	levels	O

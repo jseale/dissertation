@@ -1,0 +1,12 @@
+isolate_45	Isoemericellin	O
+isolate_45	is	O
+isolate_45	a	O
+isolate_45	bio	O
+isolate_45	active	O
+isolate_45	isolate	isolate_nou
+isolate_45	of	O
+isolate_45	the	O
+isolate_45	marine	O
+isolate_45	fungus	O
+isolate_45	Emericella	O
+isolate_45	variecolor	O

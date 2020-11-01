@@ -1,0 +1,16 @@
+perfect_2	There	O
+perfect_2	was	O
+perfect_2	however	O
+perfect_2	no	O
+perfect_2	consensus	O
+perfect_2	among	O
+perfect_2	the	O
+perfect_2	Greeks	O
+perfect_2	as	O
+perfect_2	to	O
+perfect_2	which	O
+perfect_2	numbers	O
+perfect_2	were	O
+perfect_2	perfect	perfect_adj
+perfect_2	or	O
+perfect_2	why	O

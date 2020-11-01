@@ -1,0 +1,17 @@
+invert_4	Some	O
+invert_4	songs	O
+invert_4	such	O
+invert_4	as	O
+invert_4	Invert	invert_vrb
+invert_4	the	O
+invert_4	Inverted	O
+invert_4	Cross	O
+invert_4	utilise	O
+invert_4	double	O
+invert_4	bass	O
+invert_4	drum	O
+invert_4	work	O
+invert_4	to	O
+invert_4	drive	O
+invert_4	the	O
+invert_4	song	O

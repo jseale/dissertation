@@ -1,0 +1,17 @@
+wound_57	On	O
+wound_57	February	O
+wound_57	4	O
+wound_57	2016	O
+wound_57	Mirra	O
+wound_57	died	O
+wound_57	from	O
+wound_57	an	O
+wound_57	apparent	O
+wound_57	self	O
+wound_57	inflicted	O
+wound_57	gunshot	O
+wound_57	wound	wound_nou-vrb
+wound_57	in	O
+wound_57	Greenville	O
+wound_57	North	O
+wound_57	Carolina	O

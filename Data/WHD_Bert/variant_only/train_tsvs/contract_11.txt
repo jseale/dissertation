@@ -1,0 +1,17 @@
+contract_11	On	O
+contract_11	31	O
+contract_11	August	O
+contract_11	2011	O
+contract_11	he	O
+contract_11	joined	O
+contract_11	Super	O
+contract_11	League	O
+contract_11	Greece	O
+contract_11	side	O
+contract_11	OFI	O
+contract_11	Crete	O
+contract_11	on	O
+contract_11	a	O
+contract_11	two	O
+contract_11	year	O
+contract_11	contract	contract_nou

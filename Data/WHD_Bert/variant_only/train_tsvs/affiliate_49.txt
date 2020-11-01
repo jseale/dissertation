@@ -1,0 +1,16 @@
+affiliate_49	As	O
+affiliate_49	a	O
+affiliate_49	result	O
+affiliate_49	WSMV	O
+affiliate_49	became	O
+affiliate_49	the	O
+affiliate_49	only	O
+affiliate_49	NBC	O
+affiliate_49	affiliate	affiliate_nou
+affiliate_49	in	O
+affiliate_49	Meredith	O
+affiliate_49	's	O
+affiliate_49	present	O
+affiliate_49	day	O
+affiliate_49	station	O
+affiliate_49	group	O

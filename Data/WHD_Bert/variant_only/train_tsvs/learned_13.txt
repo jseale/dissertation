@@ -1,0 +1,16 @@
+learned_13	He	O
+learned_13	first	O
+learned_13	learned	learned_vrb
+learned_13	to	O
+learned_13	sing	O
+learned_13	traditional	O
+learned_13	Mexican	O
+learned_13	ballads	O
+learned_13	his	O
+learned_13	mother	O
+learned_13	taught	O
+learned_13	him	O
+learned_13	as	O
+learned_13	a	O
+learned_13	young	O
+learned_13	kid	O

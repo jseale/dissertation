@@ -1,0 +1,11 @@
+suspect_0	Both	O
+suspect_0	were	O
+suspect_0	considered	O
+suspect_0	suspect	suspect_adj-nou
+suspect_0	by	O
+suspect_0	ideological	O
+suspect_0	conservatives	O
+suspect_0	within	O
+suspect_0	the	O
+suspect_0	Republican	O
+suspect_0	Party	O

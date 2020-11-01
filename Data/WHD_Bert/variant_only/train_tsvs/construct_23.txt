@@ -1,0 +1,12 @@
+construct_23	Next	O
+construct_23	construct	construct_vrb
+construct_23	a	O
+construct_23	necklace	O
+construct_23	of	O
+construct_23	smaller	O
+construct_23	linked	O
+construct_23	tori	O
+construct_23	that	O
+construct_23	lie	O
+construct_23	inside	O
+construct_23	A⁰.	O

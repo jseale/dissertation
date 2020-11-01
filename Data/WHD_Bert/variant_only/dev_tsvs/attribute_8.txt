@@ -1,0 +1,16 @@
+attribute_8	In	O
+attribute_8	application	O
+attribute_8	these	O
+attribute_8	patterns	O
+attribute_8	are	O
+attribute_8	individually	O
+attribute_8	assigned	O
+attribute_8	to	O
+attribute_8	each	O
+attribute_8	character	O
+attribute_8	attribute	attribute_nou
+attribute_8	to	O
+attribute_8	directly	O
+attribute_8	affect	O
+attribute_8	character	O
+attribute_8	growth	O

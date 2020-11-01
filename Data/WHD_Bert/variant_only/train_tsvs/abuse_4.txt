@@ -1,0 +1,7 @@
+abuse_4	This	O
+abuse_4	valve	O
+abuse_4	is	O
+abuse_4	weakened	O
+abuse_4	by	O
+abuse_4	drug	O
+abuse_4	abuse	abuse_nou

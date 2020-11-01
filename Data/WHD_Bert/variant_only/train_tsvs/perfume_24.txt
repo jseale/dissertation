@@ -1,0 +1,14 @@
+perfume_24	One	O
+perfume_24	of	O
+perfume_24	the	O
+perfume_24	customers	O
+perfume_24	for	O
+perfume_24	this	O
+perfume_24	perfume	perfume_nou
+perfume_24	was	O
+perfume_24	Boy	O
+perfume_24	Capel	O
+perfume_24	Coco	O
+perfume_24	Chanel	O
+perfume_24	's	O
+perfume_24	lover	O

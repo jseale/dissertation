@@ -1,0 +1,13 @@
+perfume_43	Jewels	O
+perfume_43	are	O
+perfume_43	another	O
+perfume_43	manifestation	O
+perfume_43	of	O
+perfume_43	beauty	O
+perfume_43	and	O
+perfume_43	certainly	O
+perfume_43	perfume	perfume_nou
+perfume_43	smells	O
+perfume_43	better	O
+perfume_43	than	O
+perfume_43	perspiration	O

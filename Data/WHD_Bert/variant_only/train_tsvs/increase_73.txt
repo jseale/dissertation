@@ -1,0 +1,16 @@
+increase_73	This	O
+increase_73	amount	O
+increase_73	was	O
+increase_73	a	O
+increase_73	$	O
+increase_73	233,290,000	O
+increase_73	increase	increase_nou
+increase_73	4.6	O
+increase_73	over	O
+increase_73	the	O
+increase_73	enacted	O
+increase_73	State	O
+increase_73	appropriation	O
+increase_73	for	O
+increase_73	2010	O
+increase_73	2011	O

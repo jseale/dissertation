@@ -1,0 +1,16 @@
+diffuse_4	The	O
+diffuse_4	nebulous	O
+diffuse_4	galaxy	O
+diffuse_4	features	O
+diffuse_4	a	O
+diffuse_4	bright	O
+diffuse_4	central	O
+diffuse_4	bulge	O
+diffuse_4	and	O
+diffuse_4	diffuse	diffuse_adj
+diffuse_4	arms	O
+diffuse_4	with	O
+diffuse_4	distinct	O
+diffuse_4	star	O
+diffuse_4	forming	O
+diffuse_4	regions	O

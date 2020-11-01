@@ -1,0 +1,15 @@
+bow_66	In	O
+bow_66	the	O
+bow_66	lower	O
+bow_66	pair	O
+bow_66	of	O
+bow_66	the	O
+bow_66	arms	O
+bow_66	he	O
+bow_66	holds	O
+bow_66	a	O
+bow_66	bow	bow_nou-knot
+bow_66	and	O
+bow_66	an	O
+bow_66	arrow	O
+bow_66	respectively	O

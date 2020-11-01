@@ -1,0 +1,10 @@
+correlate_22	Differences	O
+correlate_22	within	O
+correlate_22	languages	O
+correlate_22	directly	O
+correlate_22	correlate	correlate_nou-vrb
+correlate_22	to	O
+correlate_22	differences	O
+correlate_22	in	O
+correlate_22	emotion	O
+correlate_22	taxonomy	O

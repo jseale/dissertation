@@ -1,0 +1,10 @@
+intrigue_43	Espionage	O
+intrigue_43	and	O
+intrigue_43	intrigue	intrigue_nou
+intrigue_43	were	O
+intrigue_43	often	O
+intrigue_43	featured	O
+intrigue_43	instead	O
+intrigue_43	of	O
+intrigue_43	straightforward	O
+intrigue_43	battles	O

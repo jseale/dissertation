@@ -1,0 +1,16 @@
+attribute_1	Individuals	O
+attribute_1	with	O
+attribute_1	high	O
+attribute_1	self	O
+attribute_1	awareness	O
+attribute_1	attribute	attribute_vrb
+attribute_1	failure	O
+attribute_1	internally	O
+attribute_1	when	O
+attribute_1	they	O
+attribute_1	perceive	O
+attribute_1	a	O
+attribute_1	high	O
+attribute_1	probability	O
+attribute_1	of	O
+attribute_1	improvement	O

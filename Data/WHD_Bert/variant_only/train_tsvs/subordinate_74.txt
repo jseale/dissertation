@@ -1,0 +1,9 @@
+subordinate_74	Some	O
+subordinate_74	have	O
+subordinate_74	had	O
+subordinate_74	subordinate	subordinate_adj-nou
+subordinate_74	units	O
+subordinate_74	reallocated	O
+subordinate_74	to	O
+subordinate_74	other	O
+subordinate_74	commands	O

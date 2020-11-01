@@ -1,0 +1,17 @@
+perfect_11	The	O
+perfect_11	lens	O
+perfect_11	is	O
+perfect_11	said	O
+perfect_11	to	O
+perfect_11	be	O
+perfect_11	able	O
+perfect_11	to	O
+perfect_11	focus	O
+perfect_11	sunlight	O
+perfect_11	although	O
+perfect_11	the	O
+perfect_11	focus	O
+perfect_11	is	O
+perfect_11	far	O
+perfect_11	from	O
+perfect_11	perfect	perfect_adj

@@ -1,0 +1,13 @@
+affiliate_24	On	O
+affiliate_24	paper	O
+affiliate_24	the	O
+affiliate_24	new	O
+affiliate_24	channel	O
+affiliate_24	26	O
+affiliate_24	was	O
+affiliate_24	an	O
+affiliate_24	NBC	O
+affiliate_24	affiliate	affiliate_nou
+affiliate_24	at	O
+affiliate_24	its	O
+affiliate_24	launch	O

@@ -1,0 +1,10 @@
+extract_71	Recordings	O
+extract_71	from	O
+extract_71	Melbourne	O
+extract_71	and	O
+extract_71	Auckland	O
+extract_71	with	O
+extract_71	a	O
+extract_71	live	O
+extract_71	extract	extract_nou
+extract_71	Austria	O

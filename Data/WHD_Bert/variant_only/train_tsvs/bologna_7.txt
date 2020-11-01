@@ -1,0 +1,16 @@
+bologna_7	He	O
+bologna_7	soon	O
+bologna_7	obtained	O
+bologna_7	a	O
+bologna_7	prize	O
+bologna_7	at	O
+bologna_7	the	O
+bologna_7	Accademia	O
+bologna_7	Clementina	O
+bologna_7	in	O
+bologna_7	Bologna	bologna_geo
+bologna_7	for	O
+bologna_7	his	O
+bologna_7	painting	O
+bologna_7	of	O
+bologna_7	Erato	O

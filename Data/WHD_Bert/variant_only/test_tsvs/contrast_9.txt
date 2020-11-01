@@ -1,0 +1,10 @@
+contrast_9	In	O
+contrast_9	contrast	contrast_nou
+contrast_9	the	O
+contrast_9	bush	O
+contrast_9	folk	O
+contrast_9	are	O
+contrast_9	portrayed	O
+contrast_9	as	O
+contrast_9	heroic	O
+contrast_9	figures	O

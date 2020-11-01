@@ -1,0 +1,12 @@
+predicate_32	Probabilistic	O
+predicate_32	Predicate	predicate_nou
+predicate_32	Transformers	O
+predicate_32	are	O
+predicate_32	an	O
+predicate_32	extension	O
+predicate_32	of	O
+predicate_32	predicate	predicate_nou
+predicate_32	transformers	O
+predicate_32	for	O
+predicate_32	probabilistic	O
+predicate_32	programs	O

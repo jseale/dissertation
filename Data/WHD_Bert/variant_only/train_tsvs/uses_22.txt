@@ -1,0 +1,16 @@
+uses_22	Since	O
+uses_22	a	O
+uses_22	pacemaker	O
+uses_22	uses	uses_vrb
+uses_22	batteries	O
+uses_22	the	O
+uses_22	device	O
+uses_22	itself	O
+uses_22	will	O
+uses_22	need	O
+uses_22	replacement	O
+uses_22	as	O
+uses_22	the	O
+uses_22	batteries	O
+uses_22	lose	O
+uses_22	power	O

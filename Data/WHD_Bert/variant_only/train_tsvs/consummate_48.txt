@@ -1,0 +1,12 @@
+consummate_48	Take	O
+consummate_48	Two	O
+consummate_48	How	O
+consummate_48	Hillary	O
+consummate_48	Clinton	O
+consummate_48	turned	O
+consummate_48	herself	O
+consummate_48	into	O
+consummate_48	the	O
+consummate_48	consummate	consummate_adj
+consummate_48	Washington	O
+consummate_48	player	O

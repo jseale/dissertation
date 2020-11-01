@@ -1,0 +1,16 @@
+rodeo_13	Flank	O
+rodeo_13	cinches	O
+rodeo_13	were	O
+rodeo_13	added	O
+rodeo_13	after	O
+rodeo_13	the	O
+rodeo_13	rodeo	rodeo
+rodeo_13	sports	O
+rodeo_13	of	O
+rodeo_13	calf	O
+rodeo_13	roping	O
+rodeo_13	and	O
+rodeo_13	team	O
+rodeo_13	roping	O
+rodeo_13	became	O
+rodeo_13	popular	O

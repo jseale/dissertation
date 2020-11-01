@@ -1,0 +1,15 @@
+animate_42	Shade	O
+animate_42	could	O
+animate_42	then	O
+animate_42	rig	O
+animate_42	animate	animate_vrb
+animate_42	render	O
+animate_42	and	O
+animate_42	export	O
+animate_42	as	O
+animate_42	a	O
+animate_42	movie	O
+animate_42	for	O
+animate_42	video	O
+animate_42	editing	O
+animate_42	compositing	O

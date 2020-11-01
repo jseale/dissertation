@@ -1,0 +1,16 @@
+mobile_10	Both	O
+mobile_10	titles	O
+mobile_10	carried	O
+mobile_10	over	O
+mobile_10	the	O
+mobile_10	basic	O
+mobile_10	gameplay	O
+mobile_10	functions	O
+mobile_10	of	O
+mobile_10	the	O
+mobile_10	original	O
+mobile_10	games	O
+mobile_10	tailored	O
+mobile_10	for	O
+mobile_10	mobile	mobile
+mobile_10	phones	O

@@ -1,0 +1,14 @@
+invite_45	They	O
+invite_45	then	O
+invite_45	invite	invite_vrb
+invite_45	him	O
+invite_45	to	O
+invite_45	their	O
+invite_45	wedding	O
+invite_45	reception	O
+invite_45	that	O
+invite_45	evening	O
+invite_45	which	O
+invite_45	invitation	O
+invite_45	he	O
+invite_45	accepts	O

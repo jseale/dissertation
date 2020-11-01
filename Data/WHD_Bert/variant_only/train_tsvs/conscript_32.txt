@@ -1,0 +1,17 @@
+conscript_32	Maoz	O
+conscript_32	based	O
+conscript_32	the	O
+conscript_32	film	O
+conscript_32	on	O
+conscript_32	his	O
+conscript_32	experience	O
+conscript_32	as	O
+conscript_32	a	O
+conscript_32	young	O
+conscript_32	Israeli	O
+conscript_32	conscript	conscript_nou
+conscript_32	during	O
+conscript_32	the	O
+conscript_32	1982	O
+conscript_32	Lebanon	O
+conscript_32	War	O

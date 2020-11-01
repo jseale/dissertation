@@ -1,0 +1,15 @@
+pasty_9	When	O
+pasty_9	fried	O
+pasty_9	it	O
+pasty_9	is	O
+pasty_9	slightly	O
+pasty_9	crispy	O
+pasty_9	on	O
+pasty_9	the	O
+pasty_9	outside	O
+pasty_9	and	O
+pasty_9	remains	O
+pasty_9	pasty	pasty_nou
+pasty_9	on	O
+pasty_9	the	O
+pasty_9	inside	O

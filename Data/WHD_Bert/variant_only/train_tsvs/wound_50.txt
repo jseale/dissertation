@@ -1,0 +1,7 @@
+wound_50	In	O
+wound_50	1994	O
+wound_50	the	O
+wound_50	society	O
+wound_50	was	O
+wound_50	wound	wound_vrb
+wound_50	up	O

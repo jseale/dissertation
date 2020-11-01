@@ -1,0 +1,13 @@
+abuses_38	There	O
+abuses_38	were	O
+abuses_38	reports	O
+abuses_38	of	O
+abuses_38	societal	O
+abuses_38	abuses	abuses_nou
+abuses_38	based	O
+abuses_38	on	O
+abuses_38	religious	O
+abuses_38	affiliation	O
+abuses_38	belief	O
+abuses_38	or	O
+abuses_38	practice	O

@@ -1,0 +1,15 @@
+refuse_80	The	O
+refuse_80	lyrics	O
+refuse_80	of	O
+refuse_80	Refuse	refuse_vrb
+refuse_80	Resist	O
+refuse_80	mention	O
+refuse_80	tanks	O
+refuse_80	on	O
+refuse_80	the	O
+refuse_80	streets	O
+refuse_80	confronting	O
+refuse_80	police	O
+refuse_80	bleeding	O
+refuse_80	the	O
+refuse_80	plebs	O

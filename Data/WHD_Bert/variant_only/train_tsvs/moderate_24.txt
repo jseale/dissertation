@@ -1,0 +1,17 @@
+moderate_24	As	O
+moderate_24	a	O
+moderate_24	tropical	O
+moderate_24	cyclone	O
+moderate_24	Javier	O
+moderate_24	produce	O
+moderate_24	moderate	moderate_adj-nou
+moderate_24	rainfall	O
+moderate_24	peaking	O
+moderate_24	at	O
+moderate_24	3.14	O
+moderate_24	in	O
+moderate_24	80	O
+moderate_24	mm	O
+moderate_24	in	O
+moderate_24	Bacanuchi	O
+moderate_24	Mexico	O

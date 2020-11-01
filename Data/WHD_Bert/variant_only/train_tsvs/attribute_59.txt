@@ -1,0 +1,12 @@
+attribute_59	Similar	O
+attribute_59	to	O
+attribute_59	the	O
+attribute_59	standard	O
+attribute_59	column	O
+attribute_59	family	O
+attribute_59	sorting	O
+attribute_59	is	O
+attribute_59	defined	O
+attribute_59	by	O
+attribute_59	an	O
+attribute_59	attribute	attribute_nou

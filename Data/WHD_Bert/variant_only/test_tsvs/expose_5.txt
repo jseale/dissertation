@@ -1,0 +1,15 @@
+expose_5	It	O
+expose_5	clearly	O
+expose_5	expose	expose_vrb
+expose_5	this	O
+expose_5	new	O
+expose_5	interactive	O
+expose_5	technology	O
+expose_5	with	O
+expose_5	content	O
+expose_5	feeding	O
+expose_5	and	O
+expose_5	feedback	O
+expose_5	through	O
+expose_5	global	O
+expose_5	networking	O

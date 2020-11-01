@@ -1,0 +1,16 @@
+graduate_6	The	O
+graduate_6	Officers	O
+graduate_6	Training	O
+graduate_6	Academy	O
+graduate_6	on	O
+graduate_6	the	O
+graduate_6	other	O
+graduate_6	hand	O
+graduate_6	provides	O
+graduate_6	a	O
+graduate_6	49-week	O
+graduate_6	course	O
+graduate_6	to	O
+graduate_6	Graduate	graduate_adj-nou
+graduate_6	officer	O
+graduate_6	candidates	O

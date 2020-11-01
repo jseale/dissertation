@@ -1,0 +1,9 @@
+produce_80	This	O
+produce_80	may	O
+produce_80	produce	produce_vrb
+produce_80	severe	O
+produce_80	adverse	O
+produce_80	effects	O
+produce_80	or	O
+produce_80	even	O
+produce_80	death	O

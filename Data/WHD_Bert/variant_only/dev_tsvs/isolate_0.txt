@@ -1,0 +1,17 @@
+isolate_0	The	O
+isolate_0	hospital	O
+isolate_0	was	O
+isolate_0	extremely	O
+isolate_0	aggressive	O
+isolate_0	in	O
+isolate_0	trying	O
+isolate_0	to	O
+isolate_0	isolate	isolate
+isolate_0	and	O
+isolate_0	then	O
+isolate_0	eliminate	O
+isolate_0	the	O
+isolate_0	source	O
+isolate_0	of	O
+isolate_0	the	O
+isolate_0	fungus	O

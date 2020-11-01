@@ -1,0 +1,12 @@
+august_39	The	O
+august_39	company	O
+august_39	launched	O
+august_39	its	O
+august_39	flagship	O
+august_39	store	O
+august_39	in	O
+august_39	Waterloo	O
+august_39	Ontario	O
+august_39	in	O
+august_39	August	august
+august_39	2014	O

@@ -1,0 +1,15 @@
+impact_0	According	O
+impact_0	to	O
+impact_0	the	O
+impact_0	Journal	O
+impact_0	Citation	O
+impact_0	Reports	O
+impact_0	the	O
+impact_0	journal	O
+impact_0	has	O
+impact_0	a	O
+impact_0	2013	O
+impact_0	impact	impact_nou
+impact_0	factor	O
+impact_0	of	O
+impact_0	3.465	O

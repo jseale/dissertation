@@ -1,0 +1,16 @@
+pasty_19	SarmaSamosa	O
+pasty_19	a	O
+pasty_19	small	O
+pasty_19	fried	O
+pasty_19	or	O
+pasty_19	baked	O
+pasty_19	pasty	pasty_adj
+pasty_19	which	O
+pasty_19	may	O
+pasty_19	be	O
+pasty_19	either	O
+pasty_19	half	O
+pasty_19	moon	O
+pasty_19	shaped	O
+pasty_19	or	O
+pasty_19	triangular	O

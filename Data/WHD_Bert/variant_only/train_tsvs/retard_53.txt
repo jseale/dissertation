@@ -1,0 +1,17 @@
+retard_53	Seeds	O
+retard_53	that	O
+retard_53	do	O
+retard_53	not	O
+retard_53	germinate	O
+retard_53	because	O
+retard_53	they	O
+retard_53	have	O
+retard_53	fleshy	O
+retard_53	fruits	O
+retard_53	that	O
+retard_53	retard	retard_vrb
+retard_53	germination	O
+retard_53	are	O
+retard_53	quiescent	O
+retard_53	not	O
+retard_53	dormant	O

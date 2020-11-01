@@ -1,0 +1,17 @@
+minute_21	In	O
+minute_21	the	O
+minute_21	31st	O
+minute_21	minute	minute
+minute_21	a	O
+minute_21	break	O
+minute_21	away	O
+minute_21	by	O
+minute_21	Switzerland	O
+minute_21	saw	O
+minute_21	Josip	O
+minute_21	Drmic	O
+minute_21	setting	O
+minute_21	up	O
+minute_21	Shaqiri	O
+minute_21	to	O
+minute_21	convert	O

@@ -1,0 +1,14 @@
+contrast_4	By	O
+contrast_4	contrast	contrast_nou
+contrast_4	online	O
+contrast_4	models	O
+contrast_4	include	O
+contrast_4	some	O
+contrast_4	automatic	O
+contrast_4	procedure	O
+contrast_4	to	O
+contrast_4	adapt	O
+contrast_4	to	O
+contrast_4	new	O
+contrast_4	process	O
+contrast_4	data	O

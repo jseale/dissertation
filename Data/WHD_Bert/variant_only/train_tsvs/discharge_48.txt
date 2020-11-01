@@ -1,0 +1,12 @@
+discharge_48	Symptoms	O
+discharge_48	include	O
+discharge_48	lower	O
+discharge_48	abdominal	O
+discharge_48	pain	O
+discharge_48	fever	O
+discharge_48	and	O
+discharge_48	abnormal	O
+discharge_48	vaginal	O
+discharge_48	bleeding	O
+discharge_48	or	O
+discharge_48	discharge	discharge_nou

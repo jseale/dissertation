@@ -1,0 +1,15 @@
+pasty_33	The	O
+pasty_33	Cornish	O
+pasty_33	Pasty	pasty_adj
+pasty_33	Association	O
+pasty_33	is	O
+pasty_33	a	O
+pasty_33	British	O
+pasty_33	trade	O
+pasty_33	association	O
+pasty_33	based	O
+pasty_33	in	O
+pasty_33	Cornwall	O
+pasty_33	England	O
+pasty_33	United	O
+pasty_33	Kingdom	O

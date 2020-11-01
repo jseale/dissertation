@@ -1,0 +1,11 @@
+misuse_71	Penalties	O
+misuse_71	for	O
+misuse_71	misuse	misuse_nou
+misuse_71	of	O
+misuse_71	this	O
+misuse_71	facility	O
+misuse_71	include	O
+misuse_71	a	O
+misuse_71	fine	O
+misuse_71	of	O
+misuse_71	Rs	O

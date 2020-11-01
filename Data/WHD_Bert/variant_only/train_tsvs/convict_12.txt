@@ -1,0 +1,13 @@
+convict_12	The	O
+convict_12	judge	O
+convict_12	Sir	O
+convict_12	Anthony	O
+convict_12	McCowan	O
+convict_12	had	O
+convict_12	indicated	O
+convict_12	that	O
+convict_12	the	O
+convict_12	jury	O
+convict_12	should	O
+convict_12	convict	convict_vrb
+convict_12	him	O

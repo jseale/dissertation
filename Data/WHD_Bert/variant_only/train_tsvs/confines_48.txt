@@ -1,0 +1,14 @@
+confines_48	Cannon	O
+confines_48	were	O
+confines_48	used	O
+confines_48	but	O
+confines_48	in	O
+confines_48	such	O
+confines_48	confines	confines_nou
+confines_48	of	O
+confines_48	the	O
+confines_48	forest	O
+confines_48	road	O
+confines_48	they	O
+confines_48	were	O
+confines_48	ineffective	O

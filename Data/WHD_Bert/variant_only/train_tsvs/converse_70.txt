@@ -1,0 +1,14 @@
+converse_70	Converse	converse_adj-nou
+converse_70	is	O
+converse_70	an	O
+converse_70	unincorporated	O
+converse_70	community	O
+converse_70	in	O
+converse_70	Clinton	O
+converse_70	County	O
+converse_70	in	O
+converse_70	the	O
+converse_70	U.S.	O
+converse_70	state	O
+converse_70	of	O
+converse_70	Missouri	O

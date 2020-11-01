@@ -1,0 +1,11 @@
+defect_56	With	O
+defect_56	omphalocele	O
+defect_56	the	O
+defect_56	defect	defect_nou
+defect_56	is	O
+defect_56	usually	O
+defect_56	much	O
+defect_56	larger	O
+defect_56	than	O
+defect_56	in	O
+defect_56	gastroschisis	O

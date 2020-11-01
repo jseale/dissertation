@@ -1,0 +1,14 @@
+convert_9	The	O
+convert_9	first	O
+convert_9	step	O
+convert_9	is	O
+convert_9	to	O
+convert_9	convert	convert_vrb
+convert_9	P1	O
+convert_9	and	O
+convert_9	P2	O
+convert_9	into	O
+convert_9	their	O
+convert_9	equivalent	O
+convert_9	weak	O
+convert_9	formulations	O

@@ -1,0 +1,13 @@
+postulate_54	Technically	O
+postulate_54	Hammond	O
+postulate_54	's	O
+postulate_54	postulate	postulate_nou
+postulate_54	only	O
+postulate_54	describes	O
+postulate_54	the	O
+postulate_54	geometric	O
+postulate_54	structure	O
+postulate_54	of	O
+postulate_54	a	O
+postulate_54	chemical	O
+postulate_54	reaction	O

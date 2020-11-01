@@ -1,0 +1,9 @@
+isolate_4	Selenite	O
+isolate_4	broth	O
+isolate_4	is	O
+isolate_4	used	O
+isolate_4	to	O
+isolate_4	selectively	O
+isolate_4	isolate	isolate
+isolate_4	Salmonella	O
+isolate_4	species	O

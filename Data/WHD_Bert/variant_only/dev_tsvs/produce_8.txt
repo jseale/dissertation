@@ -1,0 +1,15 @@
+produce_8	The	O
+produce_8	organization	O
+produce_8	sold	O
+produce_8	milk	O
+produce_8	products	O
+produce_8	produced	O
+produce_8	from	O
+produce_8	the	O
+produce_8	buffalo	O
+produce_8	milk	O
+produce_8	and	O
+produce_8	produce	produce_nou
+produce_8	from	O
+produce_8	the	O
+produce_8	farm	O

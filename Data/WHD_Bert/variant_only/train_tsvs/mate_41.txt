@@ -1,0 +1,8 @@
+mate_41	Surtees	O
+mate_41	Austrian	O
+mate_41	team	O
+mate_41	mate	mate
+mate_41	Jochen	O
+mate_41	Rindt	O
+mate_41	finished	O
+mate_41	third	O

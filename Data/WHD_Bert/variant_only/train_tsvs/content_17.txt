@@ -1,0 +1,13 @@
+content_17	There	O
+content_17	is	O
+content_17	a	O
+content_17	policy	O
+content_17	to	O
+content_17	move	O
+content_17	to	O
+content_17	digital	O
+content_17	content	content_nou
+content_17	where	O
+content_17	there	O
+content_17	is	O
+content_17	choice	O

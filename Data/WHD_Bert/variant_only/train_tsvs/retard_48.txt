@@ -1,0 +1,17 @@
+retard_48	However	O
+retard_48	high	O
+retard_48	concentrations	O
+retard_48	of	O
+retard_48	sodium	O
+retard_48	chloride	O
+retard_48	and	O
+retard_48	many	O
+retard_48	other	O
+retard_48	salts	O
+retard_48	in	O
+retard_48	a	O
+retard_48	DNA	O
+retard_48	sample	O
+retard_48	retard	retard_vrb
+retard_48	its	O
+retard_48	mobility	O

@@ -1,0 +1,14 @@
+aggregate_75	The	O
+aggregate_75	team	O
+aggregate_75	which	O
+aggregate_75	scored	O
+aggregate_75	more	O
+aggregate_75	goals	O
+aggregate_75	on	O
+aggregate_75	aggregate	aggregate_adj-nou
+aggregate_75	was	O
+aggregate_75	qualifying	O
+aggregate_75	to	O
+aggregate_75	the	O
+aggregate_75	next	O
+aggregate_75	round	O

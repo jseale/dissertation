@@ -1,0 +1,9 @@
+postulate_70	Now	O
+postulate_70	let	O
+postulate_70	us	O
+postulate_70	consider	O
+postulate_70	the	O
+postulate_70	group	O
+postulate_70	postulate	postulate_nou
+postulate_70	inverse	O
+postulate_70	element	O

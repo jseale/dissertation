@@ -1,0 +1,15 @@
+celtic_8	The	O
+celtic_8	Greek	O
+celtic_8	historian	O
+celtic_8	Herodotus	O
+celtic_8	says	O
+celtic_8	Pyrene	O
+celtic_8	is	O
+celtic_8	the	O
+celtic_8	name	O
+celtic_8	of	O
+celtic_8	a	O
+celtic_8	town	O
+celtic_8	in	O
+celtic_8	Celtic	celtic
+celtic_8	Europe	O

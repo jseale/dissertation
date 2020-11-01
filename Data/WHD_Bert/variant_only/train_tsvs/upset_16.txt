@@ -1,0 +1,12 @@
+upset_16	Eve	O
+upset_16	is	O
+upset_16	upset	upset_nou
+upset_16	and	O
+upset_16	goes	O
+upset_16	to	O
+upset_16	France	O
+upset_16	to	O
+upset_16	sort	O
+upset_16	out	O
+upset_16	her	O
+upset_16	divorce	O

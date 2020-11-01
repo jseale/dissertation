@@ -1,0 +1,10 @@
+lives_53	He	O
+lives_53	lives	lives_vrb
+lives_53	in	O
+lives_53	the	O
+lives_53	Manor	O
+lives_53	of	O
+lives_53	Turville	O
+lives_53	in	O
+lives_53	Turville	O
+lives_53	Buckinghamshire	O

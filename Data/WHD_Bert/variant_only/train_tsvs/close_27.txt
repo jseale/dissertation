@@ -1,0 +1,17 @@
+close_27	Blue	O
+close_27	doors	O
+close_27	close	close_adj-nou
+close_27	at	O
+close_27	the	O
+close_27	end	O
+close_27	of	O
+close_27	the	O
+close_27	current	O
+close_27	wave	O
+close_27	of	O
+close_27	enemies	O
+close_27	but	O
+close_27	green	O
+close_27	ones	O
+close_27	remain	O
+close_27	open	O

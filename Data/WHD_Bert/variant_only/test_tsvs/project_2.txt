@@ -1,0 +1,15 @@
+project_2	The	O
+project_2	project	project_nou
+project_2	GYPSY	O
+project_2	A	O
+project_2	MAN	O
+project_2	was	O
+project_2	created	O
+project_2	by	O
+project_2	Martha	O
+project_2	Capello(producer	O
+project_2	and	O
+project_2	Guido	O
+project_2	Farinella	O
+project_2	the	O
+project_2	director	O

@@ -1,0 +1,10 @@
+ravel_14	She	O
+ravel_14	then	O
+ravel_14	studied	O
+ravel_14	Ravel	ravel_nam
+ravel_14	with	O
+ravel_14	Ricardo	O
+ravel_14	Vines	O
+ravel_14	and	O
+ravel_14	Spanish	O
+ravel_14	Literature	O

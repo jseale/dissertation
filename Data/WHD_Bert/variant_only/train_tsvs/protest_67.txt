@@ -1,0 +1,13 @@
+protest_67	Haultain	O
+protest_67	formed	O
+protest_67	a	O
+protest_67	protest	protest_nou
+protest_67	party	O
+protest_67	the	O
+protest_67	Provincial	O
+protest_67	Rights	O
+protest_67	Party	O
+protest_67	based	O
+protest_67	around	O
+protest_67	this	O
+protest_67	issue	O

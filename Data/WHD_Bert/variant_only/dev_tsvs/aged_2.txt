@@ -1,0 +1,17 @@
+aged_2	Putnam	O
+aged_2	died	O
+aged_2	of	O
+aged_2	a	O
+aged_2	stroke	O
+aged_2	at	O
+aged_2	Mercy	O
+aged_2	Hospital	O
+aged_2	in	O
+aged_2	Springfield	O
+aged_2	Massachusetts	O
+aged_2	on	O
+aged_2	November	O
+aged_2	24	O
+aged_2	1972	O
+aged_2	aged	aged
+aged_2	78	O

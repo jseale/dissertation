@@ -1,0 +1,14 @@
+contract_13	The	O
+contract_13	local	O
+contract_13	stations	O
+contract_13	then	O
+contract_13	contract	contract_vrb
+contract_13	with	O
+contract_13	program	O
+contract_13	distributors	O
+contract_13	and	O
+contract_13	also	O
+contract_13	provide	O
+contract_13	some	O
+contract_13	programming	O
+contract_13	themselves	O

@@ -1,0 +1,8 @@
+affiliate_28	Four	O
+affiliate_28	affiliate	affiliate_nou
+affiliate_28	members	O
+affiliate_28	each	O
+affiliate_28	participate	O
+affiliate_28	in	O
+affiliate_28	one	O
+affiliate_28	sport	O

@@ -1,0 +1,13 @@
+diffuse_74	Another	O
+diffuse_74	distinction	O
+diffuse_74	is	O
+diffuse_74	made	O
+diffuse_74	between	O
+diffuse_74	focal	O
+diffuse_74	areas	O
+diffuse_74	and	O
+diffuse_74	diffuse	diffuse_adj
+diffuse_74	involvement	O
+diffuse_74	of	O
+diffuse_74	the	O
+diffuse_74	bladder	O

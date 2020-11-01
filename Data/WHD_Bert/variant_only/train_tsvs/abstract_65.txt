@@ -1,0 +1,13 @@
+abstract_65	Deduction	O
+abstract_65	board	O
+abstract_65	games	O
+abstract_65	typically	O
+abstract_65	fall	O
+abstract_65	into	O
+abstract_65	two	O
+abstract_65	broad	O
+abstract_65	categories	O
+abstract_65	abstract	abstract_adj-nou
+abstract_65	and	O
+abstract_65	investigation	O
+abstract_65	games	O

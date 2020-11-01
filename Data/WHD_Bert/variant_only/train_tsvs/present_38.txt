@@ -1,0 +1,16 @@
+present_38	The	O
+present_38	episodes	O
+present_38	were	O
+present_38	divided	O
+present_38	by	O
+present_38	region	O
+present_38	to	O
+present_38	present	present_vrb
+present_38	the	O
+present_38	distinct	O
+present_38	cultural	O
+present_38	as	O
+present_38	well	O
+present_38	as	O
+present_38	ecological	O
+present_38	differences	O

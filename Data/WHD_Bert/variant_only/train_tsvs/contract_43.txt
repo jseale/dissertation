@@ -1,0 +1,14 @@
+contract_43	These	O
+contract_43	zones	O
+contract_43	can	O
+contract_43	expand	O
+contract_43	and	O
+contract_43	contract	contract_vrb
+contract_43	when	O
+contract_43	neighboring	O
+contract_43	foragers	O
+contract_43	are	O
+contract_43	removed	O
+contract_43	or	O
+contract_43	introduced	O
+contract_43	respectively	O

@@ -1,0 +1,16 @@
+construct_80	Lawrence	O
+construct_80	uses	O
+construct_80	the	O
+construct_80	technology	O
+construct_80	to	O
+construct_80	construct	construct_vrb
+construct_80	the	O
+construct_80	spaceship	O
+construct_80	he	O
+construct_80	has	O
+construct_80	wanted	O
+construct_80	since	O
+construct_80	he	O
+construct_80	was	O
+construct_80	a	O
+construct_80	teenager	O

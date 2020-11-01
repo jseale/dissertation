@@ -1,0 +1,15 @@
+abuses_59	Reported	O
+abuses_59	abuses	abuses_nou
+abuses_59	of	O
+abuses_59	human	O
+abuses_59	rights	O
+abuses_59	in	O
+abuses_59	Tibet	O
+abuses_59	include	O
+abuses_59	restricted	O
+abuses_59	freedom	O
+abuses_59	of	O
+abuses_59	religion	O
+abuses_59	belief	O
+abuses_59	and	O
+abuses_59	association	O

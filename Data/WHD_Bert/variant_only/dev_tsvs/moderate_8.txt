@@ -1,0 +1,12 @@
+moderate_8	The	O
+moderate_8	waters	O
+moderate_8	were	O
+moderate_8	very	O
+moderate_8	warm	O
+moderate_8	and	O
+moderate_8	there	O
+moderate_8	was	O
+moderate_8	only	O
+moderate_8	moderate	moderate_adj-nou
+moderate_8	wind	O
+moderate_8	shear	O

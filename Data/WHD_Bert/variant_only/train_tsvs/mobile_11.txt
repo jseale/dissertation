@@ -1,0 +1,16 @@
+mobile_11	The	O
+mobile_11	next	O
+mobile_11	wave	O
+mobile_11	of	O
+mobile_11	popular	O
+mobile_11	mobile	mobile
+mobile_11	enterprise	O
+mobile_11	application	O
+mobile_11	software	O
+mobile_11	was	O
+mobile_11	the	O
+mobile_11	advent	O
+mobile_11	of	O
+mobile_11	the	O
+mobile_11	CRM	O
+mobile_11	software	O

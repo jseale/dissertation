@@ -1,0 +1,8 @@
+affect_8	Hughes	O
+affect_8	demotion	O
+affect_8	did	O
+affect_8	not	O
+affect_8	affect	affect
+affect_8	his	O
+affect_8	batting	O
+affect_8	however	O

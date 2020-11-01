@@ -1,0 +1,14 @@
+implant_57	After	O
+implant_57	insemination	O
+implant_57	the	O
+implant_57	blastocyst	O
+implant_57	does	O
+implant_57	not	O
+implant_57	implant	implant_vrb
+implant_57	into	O
+implant_57	the	O
+implant_57	uterine	O
+implant_57	wall	O
+implant_57	of	O
+implant_57	the	O
+implant_57	female	O

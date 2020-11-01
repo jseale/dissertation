@@ -1,0 +1,17 @@
+polish_39	In	O
+polish_39	France	O
+polish_39	he	O
+polish_39	deserted	O
+polish_39	and	O
+polish_39	joined	O
+polish_39	the	O
+polish_39	2nd	O
+polish_39	Polish	polish_geo
+polish_39	Army	O
+polish_39	led	O
+polish_39	by	O
+polish_39	general	O
+polish_39	Wladyslaw	O
+polish_39	Anders	O
+polish_39	in	O
+polish_39	Italy	O

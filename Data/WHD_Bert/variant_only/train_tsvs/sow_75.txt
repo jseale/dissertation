@@ -1,0 +1,8 @@
+sow_75	They	O
+sow_75	plow	O
+sow_75	sow	sow
+sow_75	weed	O
+sow_75	harvest	O
+sow_75	and	O
+sow_75	transport	O
+sow_75	crops	O

@@ -1,0 +1,17 @@
+misuse_21	He	O
+misuse_21	strongly	O
+misuse_21	opposed	O
+misuse_21	direct	O
+misuse_21	democracy	O
+misuse_21	however	O
+misuse_21	particularly	O
+misuse_21	the	O
+misuse_21	use	O
+misuse_21	or	O
+misuse_21	misuse	misuse_nou
+misuse_21	of	O
+misuse_21	referendums	O
+misuse_21	as	O
+misuse_21	leading	O
+misuse_21	to	O
+misuse_21	totalitarianism	O

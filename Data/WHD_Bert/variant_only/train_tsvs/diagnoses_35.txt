@@ -1,0 +1,15 @@
+diagnoses_35	When	O
+diagnoses_35	blood	O
+diagnoses_35	begins	O
+diagnoses_35	to	O
+diagnoses_35	appear	O
+diagnoses_35	from	O
+diagnoses_35	everywhere	O
+diagnoses_35	Meredith	O
+diagnoses_35	diagnoses	diagnoses_vrb
+diagnoses_35	herself	O
+diagnoses_35	in	O
+diagnoses_35	as	O
+diagnoses_35	being	O
+diagnoses_35	in	O
+diagnoses_35	DIC	O

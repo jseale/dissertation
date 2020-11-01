@@ -1,0 +1,16 @@
+syndicate_50	The	O
+syndicate_50	contracts	O
+syndicate_50	stated	O
+syndicate_50	that	O
+syndicate_50	authors	O
+syndicate_50	could	O
+syndicate_50	not	O
+syndicate_50	use	O
+syndicate_50	their	O
+syndicate_50	Stratemeyer	O
+syndicate_50	Syndicate	syndicate_nou
+syndicate_50	pseudonyms	O
+syndicate_50	independently	O
+syndicate_50	of	O
+syndicate_50	the	O
+syndicate_50	Syndicate	syndicate_nou

@@ -1,0 +1,14 @@
+document_7	The	O
+document_7	arrival	O
+document_7	of	O
+document_7	SGML	O
+document_7	XML	O
+document_7	as	O
+document_7	the	O
+document_7	document	document_nou
+document_7	model	O
+document_7	made	O
+document_7	other	O
+document_7	typesetting	O
+document_7	engines	O
+document_7	popular	O

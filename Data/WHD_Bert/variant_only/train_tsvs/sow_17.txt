@@ -1,0 +1,15 @@
+sow_17	She	O
+sow_17	was	O
+sow_17	made	O
+sow_17	by	O
+sow_17	Gargamel	O
+sow_17	as	O
+sow_17	a	O
+sow_17	means	O
+sow_17	to	O
+sow_17	sow	sow
+sow_17	unrest	O
+sow_17	in	O
+sow_17	the	O
+sow_17	Smurf	O
+sow_17	village	O

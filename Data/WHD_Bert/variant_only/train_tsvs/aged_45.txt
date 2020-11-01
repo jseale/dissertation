@@ -1,0 +1,10 @@
+aged_45	He	O
+aged_45	died	O
+aged_45	unmarried	O
+aged_45	on	O
+aged_45	20	O
+aged_45	October	O
+aged_45	1787	O
+aged_45	aged	aged
+aged_45	about	O
+aged_45	78	O

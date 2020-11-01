@@ -1,0 +1,11 @@
+abuse_2	Barros	O
+abuse_2	has	O
+abuse_2	been	O
+abuse_2	accused	O
+abuse_2	of	O
+abuse_2	complicity	O
+abuse_2	in	O
+abuse_2	an	O
+abuse_2	abuse	abuse_nou
+abuse_2	case	O
+abuse_2	there	O

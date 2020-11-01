@@ -1,0 +1,13 @@
+wound_32	They	O
+wound_32	also	O
+wound_32	cleanse	O
+wound_32	the	O
+wound_32	wound	wound_nou-vrb
+wound_32	by	O
+wound_32	secreting	O
+wound_32	proteases	O
+wound_32	that	O
+wound_32	break	O
+wound_32	down	O
+wound_32	damaged	O
+wound_32	tissue	O

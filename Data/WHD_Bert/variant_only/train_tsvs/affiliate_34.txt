@@ -1,0 +1,16 @@
+affiliate_34	KTEL	O
+affiliate_34	CD	O
+affiliate_34	signed	O
+affiliate_34	on	O
+affiliate_34	in	O
+affiliate_34	late	O
+affiliate_34	1997	O
+affiliate_34	on	O
+affiliate_34	UHF	O
+affiliate_34	channel	O
+affiliate_34	15	O
+affiliate_34	as	O
+affiliate_34	an	O
+affiliate_34	affiliate	affiliate_nou
+affiliate_34	of	O
+affiliate_34	Telemundo	O

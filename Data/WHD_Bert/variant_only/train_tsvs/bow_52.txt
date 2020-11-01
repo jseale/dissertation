@@ -1,0 +1,16 @@
+bow_52	In	O
+bow_52	making	O
+bow_52	a	O
+bow_52	bow	bow_nou-knot
+bow_52	the	O
+bow_52	greater	O
+bow_52	part	O
+bow_52	of	O
+bow_52	the	O
+bow_52	woodworking	O
+bow_52	is	O
+bow_52	done	O
+bow_52	on	O
+bow_52	a	O
+bow_52	straight	O
+bow_52	stick	O

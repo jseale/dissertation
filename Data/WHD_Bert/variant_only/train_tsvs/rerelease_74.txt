@@ -1,0 +1,15 @@
+rerelease_74	Alan	O
+rerelease_74	Wilder	O
+rerelease_74	left	O
+rerelease_74	the	O
+rerelease_74	band	O
+rerelease_74	in	O
+rerelease_74	1995	O
+rerelease_74	and	O
+rerelease_74	declined	O
+rerelease_74	to	O
+rerelease_74	be	O
+rerelease_74	involved	O
+rerelease_74	with	O
+rerelease_74	the	O
+rerelease_74	rerelease	rerelease

@@ -1,0 +1,14 @@
+construct_79	In	O
+construct_79	1902	O
+construct_79	funds	O
+construct_79	were	O
+construct_79	raised	O
+construct_79	to	O
+construct_79	construct	construct_vrb
+construct_79	a	O
+construct_79	church	O
+construct_79	at	O
+construct_79	Washington	O
+construct_79	and	O
+construct_79	Maynard	O
+construct_79	streets	O

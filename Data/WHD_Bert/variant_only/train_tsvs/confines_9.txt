@@ -1,0 +1,16 @@
+confines_9	It	O
+confines_9	is	O
+confines_9	essentially	O
+confines_9	a	O
+confines_9	sad	O
+confines_9	love	O
+confines_9	song	O
+confines_9	where	O
+confines_9	a	O
+confines_9	woman	O
+confines_9	obsessively	O
+confines_9	stalks	O
+confines_9	and	O
+confines_9	confines	confines_vrb
+confines_9	her	O
+confines_9	lover	O

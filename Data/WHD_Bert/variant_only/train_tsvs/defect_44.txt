@@ -1,0 +1,8 @@
+defect_44	No	O
+defect_44	defect	defect_nou
+defect_44	in	O
+defect_44	the	O
+defect_44	aircraft	O
+defect_44	itself	O
+defect_44	was	O
+defect_44	found	O

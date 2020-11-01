@@ -1,0 +1,15 @@
+reading_40	Much	O
+reading_40	emphasis	O
+reading_40	is	O
+reading_40	given	O
+reading_40	to	O
+reading_40	the	O
+reading_40	importance	O
+reading_40	of	O
+reading_40	reading	reading_en
+reading_40	and	O
+reading_40	to	O
+reading_40	reflecting	O
+reading_40	on	O
+reading_40	the	O
+reading_40	reading	reading_en

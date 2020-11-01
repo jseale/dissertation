@@ -1,0 +1,17 @@
+import_17	Without	O
+import_17	the	O
+import_17	ability	O
+import_17	to	O
+import_17	import	import_vrb
+import_17	rice	O
+import_17	from	O
+import_17	China	O
+import_17	Burma	O
+import_17	was	O
+import_17	forced	O
+import_17	to	O
+import_17	import	import_vrb
+import_17	rice	O
+import_17	from	O
+import_17	the	O
+import_17	British	O

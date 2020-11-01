@@ -1,0 +1,16 @@
+pasty_47	Their	O
+pasty_47	pulp	O
+pasty_47	is	O
+pasty_47	orange	O
+pasty_47	salmon	O
+pasty_47	or	O
+pasty_47	yellowish	O
+pasty_47	in	O
+pasty_47	color	O
+pasty_47	with	O
+pasty_47	a	O
+pasty_47	somewhat	O
+pasty_47	juicy	O
+pasty_47	and	O
+pasty_47	pasty	pasty_nou
+pasty_47	texture	O

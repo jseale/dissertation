@@ -1,0 +1,15 @@
+degenerate_5	Degenerate	degenerate_adj-nou
+degenerate_5	stars	O
+degenerate_5	have	O
+degenerate_5	contracted	O
+degenerate_5	into	O
+degenerate_5	a	O
+degenerate_5	compact	O
+degenerate_5	mass	O
+degenerate_5	resulting	O
+degenerate_5	in	O
+degenerate_5	a	O
+degenerate_5	rapid	O
+degenerate_5	rate	O
+degenerate_5	of	O
+degenerate_5	rotation	O

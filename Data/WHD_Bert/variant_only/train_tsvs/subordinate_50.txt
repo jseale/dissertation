@@ -1,0 +1,12 @@
+subordinate_50	For	O
+subordinate_50	this	O
+subordinate_50	operation	O
+subordinate_50	Bradley	O
+subordinate_50	was	O
+subordinate_50	subordinate	subordinate_adj-nou
+subordinate_50	to	O
+subordinate_50	Patton	O
+subordinate_50	under	O
+subordinate_50	British	O
+subordinate_50	overall	O
+subordinate_50	direction	O

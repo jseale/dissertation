@@ -1,0 +1,15 @@
+degenerate_2	For	O
+degenerate_2	this	O
+degenerate_2	linear	O
+degenerate_2	algebra	O
+degenerate_2	and	O
+degenerate_2	this	O
+degenerate_2	matroid	O
+degenerate_2	the	O
+degenerate_2	bases	O
+degenerate_2	are	O
+degenerate_2	exactly	O
+degenerate_2	the	O
+degenerate_2	non	O
+degenerate_2	degenerate	degenerate_adj-nou
+degenerate_2	triangles	O

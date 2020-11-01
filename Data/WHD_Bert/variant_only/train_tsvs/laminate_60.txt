@@ -1,0 +1,9 @@
+laminate_60	In	O
+laminate_60	1973	O
+laminate_60	there	O
+laminate_60	started	O
+laminate_60	series	O
+laminate_60	production	O
+laminate_60	of	O
+laminate_60	laminate	laminate_nou
+laminate_60	gliders	O

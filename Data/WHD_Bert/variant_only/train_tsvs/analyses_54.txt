@@ -1,0 +1,11 @@
+analyses_54	Various	O
+analyses_54	elemental	O
+analyses_54	analyses	analyses_nou
+analyses_54	of	O
+analyses_54	diamond	O
+analyses_54	reveal	O
+analyses_54	a	O
+analyses_54	wide	O
+analyses_54	range	O
+analyses_54	of	O
+analyses_54	impurities	O

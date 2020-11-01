@@ -1,0 +1,11 @@
+wound_54	That	O
+wound_54	's	O
+wound_54	the	O
+wound_54	poisoned	O
+wound_54	and	O
+wound_54	mortal	O
+wound_54	wound	wound_nou-vrb
+wound_54	of	O
+wound_54	the	O
+wound_54	civilized	O
+wound_54	world	O

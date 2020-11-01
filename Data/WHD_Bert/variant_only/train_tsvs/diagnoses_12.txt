@@ -1,0 +1,11 @@
+diagnoses_12	Walker	O
+diagnoses_12	has	O
+diagnoses_12	argued	O
+diagnoses_12	that	O
+diagnoses_12	psychiatric	O
+diagnoses_12	diagnoses	diagnoses_nou
+diagnoses_12	are	O
+diagnoses_12	nothing	O
+diagnoses_12	but	O
+diagnoses_12	linguistic	O
+diagnoses_12	abstractions	O

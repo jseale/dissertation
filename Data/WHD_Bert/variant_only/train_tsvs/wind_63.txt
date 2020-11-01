@@ -1,0 +1,15 @@
+wind_63	Typically	O
+wind_63	the	O
+wind_63	most	O
+wind_63	important	O
+wind_63	weather	O
+wind_63	parameter	O
+wind_63	measured	O
+wind_63	at	O
+wind_63	this	O
+wind_63	height	O
+wind_63	is	O
+wind_63	wind	wind_nou
+wind_63	speed	O
+wind_63	and	O
+wind_63	direction	O

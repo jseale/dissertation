@@ -1,0 +1,15 @@
+moderate_25	It	O
+moderate_25	has	O
+moderate_25	had	O
+moderate_25	moderate	moderate_adj-nou
+moderate_25	success	O
+moderate_25	on	O
+moderate_25	the	O
+moderate_25	Irish	O
+moderate_25	Singles	O
+moderate_25	Chart	O
+moderate_25	peaking	O
+moderate_25	at	O
+moderate_25	11	O
+moderate_25	so	O
+moderate_25	far	O

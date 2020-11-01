@@ -1,0 +1,11 @@
+degenerate_41	These	O
+degenerate_41	states	O
+degenerate_41	are	O
+degenerate_41	degenerate	degenerate_adj-nou
+degenerate_41	that	O
+degenerate_41	is	O
+degenerate_41	they	O
+degenerate_41	have	O
+degenerate_41	the	O
+degenerate_41	same	O
+degenerate_41	energy	O

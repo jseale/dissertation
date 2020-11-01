@@ -1,0 +1,9 @@
+wind_58	The	O
+wind_58	trees	O
+wind_58	have	O
+wind_58	become	O
+wind_58	wind	wind_nou
+wind_58	beaten	O
+wind_58	gnarled	O
+wind_58	leafless	O
+wind_58	trunks	O

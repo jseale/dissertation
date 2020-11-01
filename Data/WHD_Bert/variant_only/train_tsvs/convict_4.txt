@@ -1,0 +1,11 @@
+convict_4	It	O
+convict_4	had	O
+convict_4	been	O
+convict_4	built	O
+convict_4	by	O
+convict_4	the	O
+convict_4	provincial	O
+convict_4	administration	O
+convict_4	using	O
+convict_4	convict	convict_nou
+convict_4	labour	O

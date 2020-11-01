@@ -1,0 +1,16 @@
+permit_4	The	O
+permit_4	containment	O
+permit_4	cell	O
+permit_4	currently	O
+permit_4	operates	O
+permit_4	under	O
+permit_4	a	O
+permit_4	Resource	O
+permit_4	Conservation	O
+permit_4	and	O
+permit_4	Recovery	O
+permit_4	Act	O
+permit_4	permit	permit_nou
+permit_4	issued	O
+permit_4	by	O
+permit_4	MPCA	O

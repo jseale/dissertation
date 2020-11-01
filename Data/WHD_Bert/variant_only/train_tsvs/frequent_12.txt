@@ -1,0 +1,9 @@
+frequent_12	Its	O
+frequent_12	most	O
+frequent_12	frequent	frequent_adj
+frequent_12	application	O
+frequent_12	is	O
+frequent_12	perhaps	O
+frequent_12	in	O
+frequent_12	probability	O
+frequent_12	theory	O

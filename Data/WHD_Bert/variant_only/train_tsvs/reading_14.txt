@@ -1,0 +1,12 @@
+reading_14	He	O
+reading_14	has	O
+reading_14	played	O
+reading_14	club	O
+reading_14	hockey	O
+reading_14	for	O
+reading_14	Holcombe	O
+reading_14	Royal	O
+reading_14	Racing	O
+reading_14	Club	O
+reading_14	and	O
+reading_14	Reading	reading_geo

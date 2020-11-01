@@ -1,0 +1,17 @@
+increment_8	During	O
+increment_8	his	O
+increment_8	term	O
+increment_8	in	O
+increment_8	2006	O
+increment_8	the	O
+increment_8	city	O
+increment_8	's	O
+increment_8	Tax	O
+increment_8	Increment	increment_nou
+increment_8	Reinvestment	O
+increment_8	Zone	O
+increment_8	for	O
+increment_8	downtown	O
+increment_8	Amarillo	O
+increment_8	was	O
+increment_8	created	O

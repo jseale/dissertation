@@ -1,0 +1,16 @@
+bow_5	During	O
+bow_5	its	O
+bow_5	scuttling	O
+bow_5	the	O
+bow_5	bow	bow_nou-ship
+bow_5	section	O
+bow_5	broke	O
+bow_5	off	O
+bow_5	exposing	O
+bow_5	the	O
+bow_5	forward	O
+bow_5	torpedoes	O
+bow_5	tubes	O
+bow_5	and	O
+bow_5	bow	bow_nou-ship
+bow_5	modifications	O

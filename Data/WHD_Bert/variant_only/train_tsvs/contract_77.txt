@@ -1,0 +1,8 @@
+contract_77	December	O
+contract_77	2015	O
+contract_77	contract	contract_nou
+contract_77	for	O
+contract_77	JWST	O
+contract_77	's	O
+contract_77	launcher	O
+contract_77	signed	O

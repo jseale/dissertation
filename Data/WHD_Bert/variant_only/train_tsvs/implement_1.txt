@@ -1,0 +1,12 @@
+implement_1	The	O
+implement_1	SunHammer	O
+implement_1	proved	O
+implement_1	to	O
+implement_1	be	O
+implement_1	the	O
+implement_1	implement	implement_nou
+implement_1	of	O
+implement_1	the	O
+implement_1	Trow	O
+implement_1	's	O
+implement_1	destruction	O

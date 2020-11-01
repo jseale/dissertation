@@ -1,0 +1,10 @@
+expose_57	These	O
+expose_57	relationship	O
+expose_57	objects	O
+expose_57	expose	expose_vrb
+expose_57	the	O
+expose_57	other	O
+expose_57	item	O
+expose_57	via	O
+expose_57	a	O
+expose_57	property	O

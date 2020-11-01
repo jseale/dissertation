@@ -1,0 +1,17 @@
+incline_2	Data	O
+incline_2	on	O
+incline_2	normal	O
+incline_2	GRF	O
+incline_2	during	O
+incline_2	incline	incline_nou
+incline_2	running	O
+incline_2	has	O
+incline_2	been	O
+incline_2	sparse	O
+incline_2	because	O
+incline_2	of	O
+incline_2	challenges	O
+incline_2	in	O
+incline_2	force	O
+incline_2	platform	O
+incline_2	construction	O

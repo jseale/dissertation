@@ -1,0 +1,17 @@
+upset_50	She	O
+upset_50	upset	upset_vrb
+upset_50	Martina	O
+upset_50	Hingis	O
+upset_50	to	O
+upset_50	win	O
+upset_50	the	O
+upset_50	women	O
+upset_50	's	O
+upset_50	singles	O
+upset_50	title	O
+upset_50	at	O
+upset_50	the	O
+upset_50	French	O
+upset_50	Open	O
+upset_50	in	O
+upset_50	1997	O

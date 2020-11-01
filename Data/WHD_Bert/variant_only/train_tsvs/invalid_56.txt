@@ -1,0 +1,13 @@
+invalid_56	Some	O
+invalid_56	of	O
+invalid_56	the	O
+invalid_56	currency	O
+invalid_56	became	O
+invalid_56	invalid	invalid_adj
+invalid_56	and	O
+invalid_56	many	O
+invalid_56	people	O
+invalid_56	lost	O
+invalid_56	their	O
+invalid_56	life	O
+invalid_56	savings	O

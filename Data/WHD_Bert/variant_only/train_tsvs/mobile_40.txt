@@ -1,0 +1,8 @@
+mobile_40	The	O
+mobile_40	Siemens	O
+mobile_40	M65	O
+mobile_40	is	O
+mobile_40	a	O
+mobile_40	robust	O
+mobile_40	mobile	mobile
+mobile_40	phone	O

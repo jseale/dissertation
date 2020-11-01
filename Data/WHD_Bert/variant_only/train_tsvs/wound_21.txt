@@ -1,0 +1,16 @@
+wound_21	Two	O
+wound_21	of	O
+wound_21	the	O
+wound_21	hacker	O
+wound_21	's	O
+wound_21	men	O
+wound_21	catch	O
+wound_21	up	O
+wound_21	and	O
+wound_21	wound	wound_nou-vrb
+wound_21	Hathaway	O
+wound_21	who	O
+wound_21	manages	O
+wound_21	to	O
+wound_21	kill	O
+wound_21	them	O

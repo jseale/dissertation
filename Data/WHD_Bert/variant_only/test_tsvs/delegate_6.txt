@@ -1,0 +1,16 @@
+delegate_6	In	O
+delegate_6	1943	O
+delegate_6	he	O
+delegate_6	was	O
+delegate_6	elected	O
+delegate_6	and	O
+delegate_6	served	O
+delegate_6	as	O
+delegate_6	a	O
+delegate_6	delegate	delegate_nou
+delegate_6	to	O
+delegate_6	the	O
+delegate_6	first	O
+delegate_6	Pro	O
+delegate_6	Independence	O
+delegate_6	Congress	O

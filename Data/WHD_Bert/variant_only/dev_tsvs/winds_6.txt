@@ -1,0 +1,15 @@
+winds_6	While	O
+winds_6	making	O
+winds_6	landfall	O
+winds_6	it	O
+winds_6	also	O
+winds_6	brought	O
+winds_6	tropical	O
+winds_6	storm	O
+winds_6	force	O
+winds_6	winds	winds_nou
+winds_6	along	O
+winds_6	the	O
+winds_6	northeastern	O
+winds_6	Mexican	O
+winds_6	coast	O

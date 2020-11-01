@@ -1,0 +1,15 @@
+construct_76	Native	O
+construct_76	Pewee	O
+construct_76	Valley	O
+construct_76	limestone	O
+construct_76	was	O
+construct_76	used	O
+construct_76	to	O
+construct_76	construct	construct_vrb
+construct_76	the	O
+construct_76	building	O
+construct_76	in	O
+construct_76	a	O
+construct_76	Gothic	O
+construct_76	Revival	O
+construct_76	style	O

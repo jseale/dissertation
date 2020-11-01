@@ -1,0 +1,15 @@
+affiliate_61	KYTX	O
+affiliate_61	CBS19	O
+affiliate_61	Owners	O
+affiliate_61	LBC	O
+affiliate_61	Buy	O
+affiliate_61	Tyler	O
+affiliate_61	Area	O
+affiliate_61	CW	O
+affiliate_61	Affiliate	affiliate_nou
+affiliate_61	Tyler	O
+affiliate_61	Morning	O
+affiliate_61	Telegraph	O
+affiliate_61	November	O
+affiliate_61	8	O
+affiliate_61	2009	O

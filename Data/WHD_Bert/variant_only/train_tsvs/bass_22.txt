@@ -1,0 +1,8 @@
+bass_22	The	O
+bass_22	search	O
+bass_22	for	O
+bass_22	a	O
+bass_22	new	O
+bass_22	bass	bass
+bass_22	player	O
+bass_22	continued	O

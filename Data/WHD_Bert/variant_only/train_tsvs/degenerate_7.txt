@@ -1,0 +1,17 @@
+degenerate_7	Unlike	O
+degenerate_7	regular	O
+degenerate_7	plasma	O
+degenerate_7	degenerate	degenerate_adj-nou
+degenerate_7	plasma	O
+degenerate_7	expands	O
+degenerate_7	little	O
+degenerate_7	when	O
+degenerate_7	heated	O
+degenerate_7	because	O
+degenerate_7	there	O
+degenerate_7	are	O
+degenerate_7	simply	O
+degenerate_7	no	O
+degenerate_7	momentum	O
+degenerate_7	states	O
+degenerate_7	left	O

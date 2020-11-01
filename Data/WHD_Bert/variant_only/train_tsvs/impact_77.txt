@@ -1,0 +1,13 @@
+impact_77	The	O
+impact_77	movie	O
+impact_77	had	O
+impact_77	little	O
+impact_77	impact	impact_nou
+impact_77	at	O
+impact_77	the	O
+impact_77	box	O
+impact_77	office	O
+impact_77	taking	O
+impact_77	only	O
+impact_77	A$	O
+impact_77	451,000	O

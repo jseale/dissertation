@@ -1,0 +1,9 @@
+wind_7	This	O
+wind_7	would	O
+wind_7	give	O
+wind_7	a	O
+wind_7	plausible	O
+wind_7	meaning	O
+wind_7	of	O
+wind_7	India	O
+wind_7	wind	wind_nou

@@ -1,0 +1,16 @@
+estimate_78	The	O
+estimate_78	estimate	estimate_nou
+estimate_78	of	O
+estimate_78	Pandits	O
+estimate_78	having	O
+estimate_78	fled	O
+estimate_78	Kashmir	O
+estimate_78	ranges	O
+estimate_78	from	O
+estimate_78	approximately	O
+estimate_78	100,000	O
+estimate_78	to	O
+estimate_78	as	O
+estimate_78	high	O
+estimate_78	as	O
+estimate_78	800,000	O

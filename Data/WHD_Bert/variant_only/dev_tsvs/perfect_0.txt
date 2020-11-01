@@ -1,0 +1,15 @@
+perfect_0	Bradley	O
+perfect_0	Wete	O
+perfect_0	from	O
+perfect_0	Entertainment	O
+perfect_0	Weekly	O
+perfect_0	agreed	O
+perfect_0	further	O
+perfect_0	commenting	O
+perfect_0	that	O
+perfect_0	Lopez	O
+perfect_0	is	O
+perfect_0	at	O
+perfect_0	her	O
+perfect_0	perfect	perfect_adj
+perfect_0	pitch	O

@@ -1,0 +1,15 @@
+deliberate_11	NATO	O
+deliberate_11	halted	O
+deliberate_11	the	O
+deliberate_11	bombing	O
+deliberate_11	on	O
+deliberate_11	14	O
+deliberate_11	September	O
+deliberate_11	1995	O
+deliberate_11	and	O
+deliberate_11	ended	O
+deliberate_11	Deliberate	deliberate_adj
+deliberate_11	Force	O
+deliberate_11	six	O
+deliberate_11	days	O
+deliberate_11	later	O

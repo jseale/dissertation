@@ -1,0 +1,14 @@
+close_74	Before	O
+close_74	passing	O
+close_74	next	O
+close_74	to	O
+close_74	the	O
+close_74	Coppermill	O
+close_74	and	O
+close_74	close	close_adj-nou
+close_74	to	O
+close_74	the	O
+close_74	Coppermills	O
+close_74	Water	O
+close_74	Treatment	O
+close_74	Works	O

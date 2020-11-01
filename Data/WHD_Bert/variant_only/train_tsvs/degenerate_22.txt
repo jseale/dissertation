@@ -1,0 +1,9 @@
+degenerate_22	The	O
+degenerate_22	non	O
+degenerate_22	degenerate	degenerate_adj-nou
+degenerate_22	cylindrical	O
+degenerate_22	sections	O
+degenerate_22	are	O
+degenerate_22	ellipses	O
+degenerate_22	or	O
+degenerate_22	circles	O

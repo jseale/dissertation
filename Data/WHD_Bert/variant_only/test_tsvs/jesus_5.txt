@@ -1,0 +1,15 @@
+jesus_5	Jesus	jesus
+jesus_5	had	O
+jesus_5	predicted	O
+jesus_5	his	O
+jesus_5	resurrection	O
+jesus_5	and	O
+jesus_5	returning	O
+jesus_5	to	O
+jesus_5	Galilee	O
+jesus_5	during	O
+jesus_5	the	O
+jesus_5	Last	O
+jesus_5	Supper	O
+jesus_5	in	O
+jesus_5	Mark	O

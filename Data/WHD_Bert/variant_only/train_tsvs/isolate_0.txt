@@ -1,0 +1,9 @@
+isolate_0	Eupenifeldin	O
+isolate_0	is	O
+isolate_0	a	O
+isolate_0	cytotoxic	O
+isolate_0	bistropolone	O
+isolate_0	isolate	isolate_nou
+isolate_0	of	O
+isolate_0	Eupenicillium	O
+isolate_0	brefeldianum	O

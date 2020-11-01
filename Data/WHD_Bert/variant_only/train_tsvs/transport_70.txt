@@ -1,0 +1,11 @@
+transport_70	The	O
+transport_70	British	O
+transport_70	Transport	transport_nou
+transport_70	Police	O
+transport_70	arrested	O
+transport_70	the	O
+transport_70	driver	O
+transport_70	on	O
+transport_70	suspicion	O
+transport_70	of	O
+transport_70	manslaughter	O

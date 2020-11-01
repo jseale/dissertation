@@ -1,0 +1,9 @@
+learned_33	The	O
+learned_33	girls	O
+learned_33	learned	learned_vrb
+learned_33	the	O
+learned_33	song	O
+learned_33	Delta	O
+learned_33	Nu	O
+learned_33	Nu	O
+learned_33	Nu	O

@@ -1,0 +1,13 @@
+misuse_35	The	O
+misuse_35	European	O
+misuse_35	Commission	O
+misuse_35	accused	O
+misuse_35	E.ON	O
+misuse_35	of	O
+misuse_35	the	O
+misuse_35	misuse	misuse_nou
+misuse_35	of	O
+misuse_35	markets	O
+misuse_35	in	O
+misuse_35	February	O
+misuse_35	2008	O

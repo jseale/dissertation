@@ -1,0 +1,16 @@
+winds_56	On	O
+winds_56	January	O
+winds_56	16	O
+winds_56	the	O
+winds_56	storm	O
+winds_56	developed	O
+winds_56	hurricane	O
+winds_56	force	O
+winds_56	winds	winds_nou
+winds_56	and	O
+winds_56	Eric	O
+winds_56	began	O
+winds_56	to	O
+winds_56	undergo	O
+winds_56	rapid	O
+winds_56	deepening	O

@@ -1,0 +1,12 @@
+permit_3	In	O
+permit_3	the	O
+permit_3	United	O
+permit_3	States	O
+permit_3	certain	O
+permit_3	shelters	O
+permit_3	do	O
+permit_3	not	O
+permit_3	permit	permit_vrb
+permit_3	access	O
+permit_3	to	O
+permit_3	men	O

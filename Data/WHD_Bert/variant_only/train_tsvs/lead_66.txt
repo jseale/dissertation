@@ -1,0 +1,12 @@
+lead_66	Any	O
+lead_66	decline	O
+lead_66	of	O
+lead_66	prices	O
+lead_66	or	O
+lead_66	opposition	O
+lead_66	in	O
+lead_66	trade	O
+lead_66	would	O
+lead_66	lead	lead_nou-vrb
+lead_66	to	O
+lead_66	violence	O

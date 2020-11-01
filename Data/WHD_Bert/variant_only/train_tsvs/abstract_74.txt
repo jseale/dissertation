@@ -1,0 +1,14 @@
+abstract_74	In	O
+abstract_74	his	O
+abstract_74	Foundations	O
+abstract_74	of	O
+abstract_74	Algebraic	O
+abstract_74	Geometry	O
+abstract_74	Weil	O
+abstract_74	defined	O
+abstract_74	an	O
+abstract_74	abstract	abstract_adj-nou
+abstract_74	algebraic	O
+abstract_74	variety	O
+abstract_74	using	O
+abstract_74	valuations	O

@@ -1,0 +1,13 @@
+polish_67	On	O
+polish_67	6	O
+polish_67	October	O
+polish_67	2015	O
+polish_67	he	O
+polish_67	became	O
+polish_67	the	O
+polish_67	manager	O
+polish_67	of	O
+polish_67	Polish	polish_geo
+polish_67	side	O
+polish_67	Legia	O
+polish_67	Warsaw	O

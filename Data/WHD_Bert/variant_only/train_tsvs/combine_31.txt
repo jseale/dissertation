@@ -1,0 +1,14 @@
+combine_31	One	O
+combine_31	has	O
+combine_31	to	O
+combine_31	combine	combine_vrb
+combine_31	visa	O
+combine_31	overstays	O
+combine_31	and	O
+combine_31	cross	O
+combine_31	border	O
+combine_31	illegal	O
+combine_31	entries	O
+combine_31	from	O
+combine_31	separate	O
+combine_31	reports	O

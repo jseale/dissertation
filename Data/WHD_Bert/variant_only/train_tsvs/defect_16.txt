@@ -1,0 +1,15 @@
+defect_16	Expression	O
+defect_16	of	O
+defect_16	the	O
+defect_16	biochemical	O
+defect_16	defect	defect_nou
+defect_16	of	O
+defect_16	methionine	O
+defect_16	dependence	O
+defect_16	in	O
+defect_16	fresh	O
+defect_16	patient	O
+defect_16	tumors	O
+defect_16	in	O
+defect_16	primary	O
+defect_16	histoculture	O

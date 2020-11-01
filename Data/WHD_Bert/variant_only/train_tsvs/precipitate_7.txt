@@ -1,0 +1,12 @@
+precipitate_7	These	O
+precipitate_7	phosphates	O
+precipitate_7	precipitate	precipitate_vrb
+precipitate_7	the	O
+precipitate_7	solids	O
+precipitate_7	to	O
+precipitate_7	the	O
+precipitate_7	bottom	O
+precipitate_7	of	O
+precipitate_7	the	O
+precipitate_7	boiler	O
+precipitate_7	drum	O

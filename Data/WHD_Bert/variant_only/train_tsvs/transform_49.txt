@@ -1,0 +1,15 @@
+transform_49	They	O
+transform_49	commissioned	O
+transform_49	designer	O
+transform_49	Cleon	O
+transform_49	Throckmorton	O
+transform_49	to	O
+transform_49	transform	transform
+transform_49	the	O
+transform_49	interior	O
+transform_49	of	O
+transform_49	the	O
+transform_49	barn	O
+transform_49	into	O
+transform_49	a	O
+transform_49	theatre	O

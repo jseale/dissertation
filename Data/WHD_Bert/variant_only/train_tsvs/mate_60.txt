@@ -1,0 +1,16 @@
+mate_60	On	O
+mate_60	August	O
+mate_60	5	O
+mate_60	2010	O
+mate_60	Hickenlooper	O
+mate_60	selected	O
+mate_60	CSU	O
+mate_60	Pueblo	O
+mate_60	president	O
+mate_60	Joseph	O
+mate_60	A.	O
+mate_60	Garcia	O
+mate_60	as	O
+mate_60	his	O
+mate_60	running	O
+mate_60	mate	mate

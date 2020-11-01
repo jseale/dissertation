@@ -1,0 +1,15 @@
+content_75	During	O
+content_75	September	O
+content_75	activists	O
+content_75	conducted	O
+content_75	several	O
+content_75	monitorings	O
+content_75	on	O
+content_75	presence	O
+content_75	of	O
+content_75	Russian	O
+content_75	content	content_nou
+content_75	in	O
+content_75	the	O
+content_75	Ukrainian	O
+content_75	television	O

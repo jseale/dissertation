@@ -1,0 +1,7 @@
+tear_73	Young	O
+tear_73	women	O
+tear_73	tear	tear_vrb
+tear_73	down	O
+tear_73	the	O
+tear_73	patriotic	O
+tear_73	posters	O

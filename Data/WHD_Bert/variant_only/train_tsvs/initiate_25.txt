@@ -1,0 +1,13 @@
+initiate_25	Ukrpryroda	O
+initiate_25	's	O
+initiate_25	regional	O
+initiate_25	organizations	O
+initiate_25	initiate	initiate_vrb
+initiate_25	community	O
+initiate_25	service	O
+initiate_25	days	O
+initiate_25	where	O
+initiate_25	communities	O
+initiate_25	clean	O
+initiate_25	their	O
+initiate_25	territories	O

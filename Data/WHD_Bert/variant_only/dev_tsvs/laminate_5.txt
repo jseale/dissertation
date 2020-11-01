@@ -1,0 +1,12 @@
+laminate_5	Because	O
+laminate_5	of	O
+laminate_5	the	O
+laminate_5	smartcard	O
+laminate_5	circuitry	O
+laminate_5	laminate	laminate_nou
+laminate_5	in	O
+laminate_5	between	O
+laminate_5	it	O
+laminate_5	is	O
+laminate_5	not	O
+laminate_5	recyclable	O

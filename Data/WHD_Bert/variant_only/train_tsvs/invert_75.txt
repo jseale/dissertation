@@ -1,0 +1,9 @@
+invert_75	They	O
+invert_75	function	O
+invert_75	to	O
+invert_75	invert	invert_vrb
+invert_75	the	O
+invert_75	effects	O
+invert_75	of	O
+invert_75	other	O
+invert_75	molecules	O

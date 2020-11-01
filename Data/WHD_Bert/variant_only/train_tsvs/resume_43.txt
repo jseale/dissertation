@@ -1,0 +1,17 @@
+resume_43	Normal	O
+resume_43	programming	O
+resume_43	would	O
+resume_43	not	O
+resume_43	resume	resume_vrb
+resume_43	until	O
+resume_43	the	O
+resume_43	transmission	O
+resume_43	of	O
+resume_43	an	O
+resume_43	Emergency	O
+resume_43	Action	O
+resume_43	Termination	O
+resume_43	message	O
+resume_43	SAME	O
+resume_43	code	O
+resume_43	EAT	O

@@ -1,0 +1,13 @@
+convert_54	The	O
+convert_54	invited	O
+convert_54	speaker	O
+convert_54	that	O
+convert_54	year	O
+convert_54	was	O
+convert_54	Orsetes	O
+convert_54	Brownson	O
+convert_54	a	O
+convert_54	philosopher	O
+convert_54	and	O
+convert_54	Catholic	O
+convert_54	convert	convert_nou

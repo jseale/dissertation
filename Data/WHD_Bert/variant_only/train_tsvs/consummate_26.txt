@@ -1,0 +1,7 @@
+consummate_26	Later	O
+consummate_26	that	O
+consummate_26	night	O
+consummate_26	Jeet	O
+consummate_26	and	O
+consummate_26	Chhavi	O
+consummate_26	consummate	consummate_vrb

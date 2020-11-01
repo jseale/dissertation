@@ -1,0 +1,11 @@
+estimate_22	This	O
+estimate_22	estimate	estimate_nou
+estimate_22	was	O
+estimate_22	given	O
+estimate_22	about	O
+estimate_22	a	O
+estimate_22	50	O
+estimate_22	chance	O
+estimate_22	of	O
+estimate_22	being	O
+estimate_22	correct	O

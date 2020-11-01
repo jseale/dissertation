@@ -1,0 +1,17 @@
+precipitate_7	Typically	O
+precipitate_7	an	O
+precipitate_7	acidic	O
+precipitate_7	solution	O
+precipitate_7	of	O
+precipitate_7	thallium(I	O
+precipitate_7	sulfate	O
+precipitate_7	is	O
+precipitate_7	treated	O
+precipitate_7	with	O
+precipitate_7	hydrochloric	O
+precipitate_7	acid	O
+precipitate_7	to	O
+precipitate_7	precipitate	precipitate_vrb
+precipitate_7	insoluble	O
+precipitate_7	thallium(I	O
+precipitate_7	chloride	O

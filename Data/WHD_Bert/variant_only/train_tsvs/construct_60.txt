@@ -1,0 +1,16 @@
+construct_60	He	O
+construct_60	also	O
+construct_60	reportedly	O
+construct_60	helped	O
+construct_60	construct	construct_vrb
+construct_60	the	O
+construct_60	bombs	O
+construct_60	and	O
+construct_60	was	O
+construct_60	one	O
+construct_60	of	O
+construct_60	the	O
+construct_60	first	O
+construct_60	to	O
+construct_60	be	O
+construct_60	arrested	O

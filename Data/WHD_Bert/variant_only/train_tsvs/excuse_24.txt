@@ -1,0 +1,16 @@
+excuse_24	Intel	O
+excuse_24	excuse	excuse_nou
+excuse_24	for	O
+excuse_24	no	O
+excuse_24	GMA900	O
+excuse_24	WDDM	O
+excuse_24	driver	O
+excuse_24	no	O
+excuse_24	HW	O
+excuse_24	Scheduler	O
+excuse_24	no	O
+excuse_24	driver	O
+excuse_24	Beyond3D	O
+excuse_24	October	O
+excuse_24	26	O
+excuse_24	2006	O

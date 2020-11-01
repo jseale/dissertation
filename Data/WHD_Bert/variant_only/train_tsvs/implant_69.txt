@@ -1,0 +1,12 @@
+implant_69	Cultured	O
+implant_69	pearls	O
+implant_69	are	O
+implant_69	the	O
+implant_69	response	O
+implant_69	of	O
+implant_69	the	O
+implant_69	shell	O
+implant_69	to	O
+implant_69	a	O
+implant_69	tissue	O
+implant_69	implant	implant_nou

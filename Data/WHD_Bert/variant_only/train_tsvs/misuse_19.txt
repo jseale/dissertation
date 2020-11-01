@@ -1,0 +1,17 @@
+misuse_19	The	O
+misuse_19	season	O
+misuse_19	focuses	O
+misuse_19	on	O
+misuse_19	Chad	O
+misuse_19	's	O
+misuse_19	misuse	misuse_nou
+misuse_19	of	O
+misuse_19	Jeremy	O
+misuse_19	and	O
+misuse_19	Maggie	O
+misuse_19	's	O
+misuse_19	attempts	O
+misuse_19	to	O
+misuse_19	ally	O
+misuse_19	with	O
+misuse_19	Jeremy	O

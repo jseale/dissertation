@@ -1,0 +1,14 @@
+excuse_66	Kailasam	O
+excuse_66	repeated	O
+excuse_66	several	O
+excuse_66	classes	O
+excuse_66	to	O
+excuse_66	have	O
+excuse_66	an	O
+excuse_66	excuse	excuse_nou
+excuse_66	to	O
+excuse_66	extend	O
+excuse_66	his	O
+excuse_66	stay	O
+excuse_66	in	O
+excuse_66	England	O

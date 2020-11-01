@@ -1,0 +1,17 @@
+contract_2	Needing	O
+contract_2	a	O
+contract_2	veteran	O
+contract_2	infielder	O
+contract_2	the	O
+contract_2	Reds	O
+contract_2	signed	O
+contract_2	Aurilia	O
+contract_2	to	O
+contract_2	a	O
+contract_2	minor	O
+contract_2	league	O
+contract_2	contract	contract_nou
+contract_2	on	O
+contract_2	January	O
+contract_2	22	O
+contract_2	2005	O

@@ -1,0 +1,12 @@
+invert_9	Stabilized	O
+invert_9	or	O
+invert_9	soft	O
+invert_9	nucleophiles	O
+invert_9	invert	invert_vrb
+invert_9	the	O
+invert_9	stereochemistry	O
+invert_9	of	O
+invert_9	the	O
+invert_9	π	O
+invert_9	allyl	O
+invert_9	complex	O

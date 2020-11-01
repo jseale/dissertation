@@ -1,0 +1,12 @@
+invalid_46	If	O
+invalid_46	the	O
+invalid_46	lexer	O
+invalid_46	finds	O
+invalid_46	an	O
+invalid_46	invalid	invalid_adj
+invalid_46	token	O
+invalid_46	it	O
+invalid_46	will	O
+invalid_46	report	O
+invalid_46	an	O
+invalid_46	error	O

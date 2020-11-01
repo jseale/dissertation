@@ -1,0 +1,13 @@
+appropriate_63	This	O
+appropriate_63	type	O
+appropriate_63	of	O
+appropriate_63	plan	O
+appropriate_63	can	O
+appropriate_63	increase	O
+appropriate_63	coverage	O
+appropriate_63	to	O
+appropriate_63	an	O
+appropriate_63	appropriate	appropriate_adj
+appropriate_63	level	O
+appropriate_63	of	O
+appropriate_63	protection	O

@@ -1,0 +1,17 @@
+increase_1	At	O
+increase_1	the	O
+increase_1	same	O
+increase_1	time	O
+increase_1	government	O
+increase_1	of	O
+increase_1	Assam	O
+increase_1	decided	O
+increase_1	to	O
+increase_1	increase	increase_vrb
+increase_1	the	O
+increase_1	undergraduate	O
+increase_1	seats	O
+increase_1	from	O
+increase_1	65	O
+increase_1	to	O
+increase_1	100	O

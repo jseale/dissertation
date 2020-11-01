@@ -1,0 +1,17 @@
+contrast_41	In	O
+contrast_41	contrast	contrast_nou
+contrast_41	marijuana	O
+contrast_41	is	O
+contrast_41	not	O
+contrast_41	physically	O
+contrast_41	addictive	O
+contrast_41	though	O
+contrast_41	some	O
+contrast_41	users	O
+contrast_41	do	O
+contrast_41	become	O
+contrast_41	psychologically	O
+contrast_41	dependent	O
+contrast_41	on	O
+contrast_41	the	O
+contrast_41	drug	O

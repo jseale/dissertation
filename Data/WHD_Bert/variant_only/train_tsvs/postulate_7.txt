@@ -1,0 +1,16 @@
+postulate_7	Hammond	O
+postulate_7	's	O
+postulate_7	postulate	postulate_nou
+postulate_7	is	O
+postulate_7	sometimes	O
+postulate_7	called	O
+postulate_7	the	O
+postulate_7	Hammond	O
+postulate_7	Leffler	O
+postulate_7	postulate	postulate_nou
+postulate_7	to	O
+postulate_7	give	O
+postulate_7	credit	O
+postulate_7	to	O
+postulate_7	both	O
+postulate_7	scientists	O

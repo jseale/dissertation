@@ -1,0 +1,16 @@
+combine_1	The	O
+combine_1	book	O
+combine_1	boards	O
+combine_1	are	O
+combine_1	a	O
+combine_1	trend	O
+combine_1	in	O
+combine_1	children	O
+combine_1	's	O
+combine_1	book	O
+combine_1	publishing	O
+combine_1	to	O
+combine_1	combine	combine_vrb
+combine_1	merchandise	O
+combine_1	and	O
+combine_1	books	O

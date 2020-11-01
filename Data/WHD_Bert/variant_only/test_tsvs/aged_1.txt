@@ -1,0 +1,15 @@
+aged_1	While	O
+aged_1	working	O
+aged_1	on	O
+aged_1	a	O
+aged_1	new	O
+aged_1	novel	O
+aged_1	on	O
+aged_1	20	O
+aged_1	February	O
+aged_1	2009	O
+aged_1	Nolan	O
+aged_1	died	O
+aged_1	suddenly	O
+aged_1	aged	aged
+aged_1	43	O

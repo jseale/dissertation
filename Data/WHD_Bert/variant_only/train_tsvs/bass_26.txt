@@ -1,0 +1,16 @@
+bass_26	The	O
+bass_26	left	O
+bass_26	hand	O
+bass_26	plays	O
+bass_26	the	O
+bass_26	ostinato	O
+bass_26	bass	bass
+bass_26	line	O
+bass_26	while	O
+bass_26	the	O
+bass_26	right	O
+bass_26	hand	O
+bass_26	plays	O
+bass_26	the	O
+bass_26	upper	O
+bass_26	melody	O

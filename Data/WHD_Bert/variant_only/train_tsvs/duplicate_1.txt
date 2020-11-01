@@ -1,0 +1,13 @@
+duplicate_1	Edmund	O
+duplicate_1	Warwick	O
+duplicate_1	later	O
+duplicate_1	played	O
+duplicate_1	a	O
+duplicate_1	robot	O
+duplicate_1	duplicate	duplicate_adj-nou
+duplicate_1	of	O
+duplicate_1	the	O
+duplicate_1	Doctor	O
+duplicate_1	in	O
+duplicate_1	The	O
+duplicate_1	Chase	O

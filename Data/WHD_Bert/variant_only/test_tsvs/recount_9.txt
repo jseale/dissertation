@@ -1,0 +1,10 @@
+recount_9	Bennett	O
+recount_9	was	O
+recount_9	subsequently	O
+recount_9	declared	O
+recount_9	the	O
+recount_9	winner	O
+recount_9	after	O
+recount_9	a	O
+recount_9	judicial	O
+recount_9	recount	recount_nou

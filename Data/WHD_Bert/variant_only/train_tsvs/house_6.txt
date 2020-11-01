@@ -1,0 +1,14 @@
+house_6	As	O
+house_6	the	O
+house_6	ruling	O
+house_6	house	house_nou
+house_6	in	O
+house_6	Portugal	O
+house_6	the	O
+house_6	Habsburg	O
+house_6	banner	O
+house_6	also	O
+house_6	included	O
+house_6	the	O
+house_6	Portuguese	O
+house_6	arms	O

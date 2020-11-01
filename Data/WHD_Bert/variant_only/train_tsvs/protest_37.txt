@@ -1,0 +1,17 @@
+protest_37	On	O
+protest_37	12	O
+protest_37	February	O
+protest_37	1989	O
+protest_37	a	O
+protest_37	10,000-strong	O
+protest_37	protest	protest_nou
+protest_37	against	O
+protest_37	Rushdie	O
+protest_37	and	O
+protest_37	the	O
+protest_37	book	O
+protest_37	took	O
+protest_37	place	O
+protest_37	in	O
+protest_37	Islamabad	O
+protest_37	Pakistan	O

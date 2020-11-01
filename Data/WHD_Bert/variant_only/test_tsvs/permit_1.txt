@@ -1,0 +1,12 @@
+permit_1	If	O
+permit_1	needed	O
+permit_1	the	O
+permit_1	ALO	O
+permit_1	can	O
+permit_1	be	O
+permit_1	pushed	O
+permit_1	up	O
+permit_1	to	O
+permit_1	permit	permit_vrb
+permit_1	automatic	O
+permit_1	fire	O

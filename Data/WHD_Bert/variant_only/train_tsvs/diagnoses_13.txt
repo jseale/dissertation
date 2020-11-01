@@ -1,0 +1,15 @@
+diagnoses_13	Stan	O
+diagnoses_13	goes	O
+diagnoses_13	to	O
+diagnoses_13	the	O
+diagnoses_13	doctor	O
+diagnoses_13	who	O
+diagnoses_13	after	O
+diagnoses_13	examining	O
+diagnoses_13	him	O
+diagnoses_13	diagnoses	diagnoses_vrb
+diagnoses_13	him	O
+diagnoses_13	as	O
+diagnoses_13	a	O
+diagnoses_13	cynical	O
+diagnoses_13	asshole	O

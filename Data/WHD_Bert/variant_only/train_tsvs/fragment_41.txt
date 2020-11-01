@@ -1,0 +1,10 @@
+fragment_41	The	O
+fragment_41	measurements	O
+fragment_41	of	O
+fragment_41	the	O
+fragment_41	fragment	fragment_nou
+fragment_41	are	O
+fragment_41	100	O
+fragment_41	by	O
+fragment_41	135	O
+fragment_41	mm	O

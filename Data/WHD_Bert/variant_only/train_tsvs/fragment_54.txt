@@ -1,0 +1,15 @@
+fragment_54	Multiple	O
+fragment_54	proteolytic	O
+fragment_54	events	O
+fragment_54	allow	O
+fragment_54	for	O
+fragment_54	the	O
+fragment_54	release	O
+fragment_54	of	O
+fragment_54	a	O
+fragment_54	cytoplasmic	O
+fragment_54	fragment	fragment_nou
+fragment_54	and	O
+fragment_54	an	O
+fragment_54	extracellular	O
+fragment_54	fragment	fragment_nou

@@ -1,0 +1,13 @@
+bass_15	Little	O
+bass_15	originally	O
+bass_15	played	O
+bass_15	piano	O
+bass_15	but	O
+bass_15	switched	O
+bass_15	to	O
+bass_15	bass	bass
+bass_15	after	O
+bass_15	serving	O
+bass_15	in	O
+bass_15	the	O
+bass_15	military	O

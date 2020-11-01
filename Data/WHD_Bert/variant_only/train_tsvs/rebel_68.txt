@@ -1,0 +1,10 @@
+rebel_68	Teeling	O
+rebel_68	was	O
+rebel_68	court	O
+rebel_68	martialled	O
+rebel_68	by	O
+rebel_68	Britain	O
+rebel_68	as	O
+rebel_68	an	O
+rebel_68	Irish	O
+rebel_68	rebel	rebel_nou

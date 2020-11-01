@@ -1,0 +1,7 @@
+impact_4	The	O
+impact_4	impact	impact_nou
+impact_4	of	O
+impact_4	the	O
+impact_4	attacks	O
+impact_4	remains	O
+impact_4	unclear	O

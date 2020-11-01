@@ -1,0 +1,14 @@
+refund_27	The	O
+refund_27	organising	O
+refund_27	committee	O
+refund_27	has	O
+refund_27	offered	O
+refund_27	to	O
+refund_27	refund	refund_vrb
+refund_27	all	O
+refund_27	tickets	O
+refund_27	not	O
+refund_27	redeemed	O
+refund_27	at	O
+refund_27	the	O
+refund_27	match	O

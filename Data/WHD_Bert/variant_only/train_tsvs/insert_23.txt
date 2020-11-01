@@ -1,0 +1,14 @@
+insert_23	Choanal	O
+insert_23	atresia	O
+insert_23	can	O
+insert_23	be	O
+insert_23	suspected	O
+insert_23	if	O
+insert_23	it	O
+insert_23	is	O
+insert_23	impossible	O
+insert_23	to	O
+insert_23	insert	insert_vrb
+insert_23	a	O
+insert_23	nasal	O
+insert_23	catheter	O

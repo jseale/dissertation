@@ -1,0 +1,7 @@
+extract_46	This	O
+extract_46	extract	extract_nou
+extract_46	transcribed	O
+extract_46	by	O
+extract_46	Roger	O
+extract_46	Pearse	O
+extract_46	2001	O

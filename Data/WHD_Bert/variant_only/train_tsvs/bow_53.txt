@@ -1,0 +1,10 @@
+bow_53	Karna	O
+bow_53	held	O
+bow_53	Vijaya	O
+bow_53	bow	bow_nou-knot
+bow_53	the	O
+bow_53	personal	O
+bow_53	bow	bow_nou-knot
+bow_53	of	O
+bow_53	Lord	O
+bow_53	Shiva	O

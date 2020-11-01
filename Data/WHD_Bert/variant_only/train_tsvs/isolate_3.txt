@@ -1,0 +1,17 @@
+isolate_3	His	O
+isolate_3	increasing	O
+isolate_3	tendencies	O
+isolate_3	would	O
+isolate_3	eventually	O
+isolate_3	start	O
+isolate_3	to	O
+isolate_3	isolate	isolate
+isolate_3	and	O
+isolate_3	alienate	O
+isolate_3	him	O
+isolate_3	from	O
+isolate_3	some	O
+isolate_3	of	O
+isolate_3	his	O
+isolate_3	own	O
+isolate_3	writers	O

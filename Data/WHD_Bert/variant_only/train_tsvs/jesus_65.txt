@@ -1,0 +1,11 @@
+jesus_65	The	O
+jesus_65	Parable	O
+jesus_65	of	O
+jesus_65	the	O
+jesus_65	Two	O
+jesus_65	Debtors	O
+jesus_65	is	O
+jesus_65	a	O
+jesus_65	parable	O
+jesus_65	of	O
+jesus_65	Jesus	jesus

@@ -1,0 +1,16 @@
+conjugate_0	Impedance	O
+conjugate_0	matching	O
+conjugate_0	is	O
+conjugate_0	achieved	O
+conjugate_0	when	O
+conjugate_0	the	O
+conjugate_0	source	O
+conjugate_0	impedance	O
+conjugate_0	is	O
+conjugate_0	the	O
+conjugate_0	complex	O
+conjugate_0	conjugate	conjugate_adj-nou
+conjugate_0	of	O
+conjugate_0	the	O
+conjugate_0	load	O
+conjugate_0	impedance	O

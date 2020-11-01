@@ -1,0 +1,17 @@
+abuses_25	In	O
+abuses_25	the	O
+abuses_25	past	O
+abuses_25	priests	O
+abuses_25	who	O
+abuses_25	committed	O
+abuses_25	abuses	abuses_nou
+abuses_25	were	O
+abuses_25	removed	O
+abuses_25	by	O
+abuses_25	bishops	O
+abuses_25	but	O
+abuses_25	bishops	O
+abuses_25	were	O
+abuses_25	rarely	O
+abuses_25	held	O
+abuses_25	accountable	O

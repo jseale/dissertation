@@ -1,0 +1,13 @@
+present_72	The	O
+present_72	diocese	O
+present_72	in	O
+present_72	present	present_adj-nou
+present_72	structure	O
+present_72	and	O
+present_72	territory	O
+present_72	was	O
+present_72	established	O
+present_72	on	O
+present_72	May	O
+present_72	27	O
+present_72	1997	O

@@ -1,0 +1,11 @@
+bologna_0	Gerald	O
+bologna_0	Strickland	O
+bologna_0	was	O
+bologna_0	also	O
+bologna_0	a	O
+bologna_0	resident	O
+bologna_0	of	O
+bologna_0	Attard	O
+bologna_0	at	O
+bologna_0	Villa	O
+bologna_0	Bologna	bologna_geo

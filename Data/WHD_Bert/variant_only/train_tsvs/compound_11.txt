@@ -1,0 +1,16 @@
+compound_11	Like	O
+compound_11	ǀXam	O
+compound_11	ǂUngkue	O
+compound_11	used	O
+compound_11	inclusory	O
+compound_11	pronouns	O
+compound_11	for	O
+compound_11	compound	compound_nou
+compound_11	subjects:'The	O
+compound_11	lion	O
+compound_11	and	O
+compound_11	jackal	O
+compound_11	and	O
+compound_11	ostrich	O
+compound_11	they	O
+compound_11	went	O

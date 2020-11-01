@@ -1,0 +1,7 @@
+postulate_17	Sociological	O
+postulate_17	theories	O
+postulate_17	postulate	postulate_vrb
+postulate_17	relationships	O
+postulate_17	between	O
+postulate_17	sociological	O
+postulate_17	concepts	O

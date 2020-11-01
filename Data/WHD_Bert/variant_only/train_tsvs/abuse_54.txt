@@ -1,0 +1,16 @@
+abuse_54	Etiological	O
+abuse_54	correlates	O
+abuse_54	of	O
+abuse_54	vaginismus	O
+abuse_54	Sexual	O
+abuse_54	and	O
+abuse_54	physical	O
+abuse_54	abuse	abuse_nou
+abuse_54	sexual	O
+abuse_54	knowledge	O
+abuse_54	sexual	O
+abuse_54	self	O
+abuse_54	schema	O
+abuse_54	and	O
+abuse_54	relationship	O
+abuse_54	adjustment	O

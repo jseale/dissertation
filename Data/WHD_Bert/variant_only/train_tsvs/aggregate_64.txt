@@ -1,0 +1,14 @@
+aggregate_64	If	O
+aggregate_64	equal	O
+aggregate_64	the	O
+aggregate_64	club	O
+aggregate_64	with	O
+aggregate_64	the	O
+aggregate_64	best	O
+aggregate_64	aggregate	aggregate_adj-nou
+aggregate_64	points	O
+aggregate_64	difference	O
+aggregate_64	from	O
+aggregate_64	the	O
+aggregate_64	pool	O
+aggregate_64	stage	O

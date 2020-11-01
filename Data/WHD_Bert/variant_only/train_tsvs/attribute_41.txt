@@ -1,0 +1,10 @@
+attribute_41	In	O
+attribute_41	an	O
+attribute_41	interview	O
+attribute_41	she	O
+attribute_41	said	O
+attribute_41	What	O
+attribute_41	I	O
+attribute_41	attribute	attribute_vrb
+attribute_41	my	O
+attribute_41	success	O

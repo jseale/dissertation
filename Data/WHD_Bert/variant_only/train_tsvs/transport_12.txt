@@ -1,0 +1,11 @@
+transport_12	The	O
+transport_12	civil	O
+transport_12	war	O
+transport_12	and	O
+transport_12	neglect	O
+transport_12	severely	O
+transport_12	damaged	O
+transport_12	Cambodia	O
+transport_12	's	O
+transport_12	transport	transport_nou
+transport_12	system	O

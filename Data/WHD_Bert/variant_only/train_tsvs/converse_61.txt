@@ -1,0 +1,7 @@
+converse_61	Scott	O
+converse_61	Converse	converse_adj-nou
+converse_61	How	O
+converse_61	the	O
+converse_61	OneNet	O
+converse_61	Started	O
+converse_61	OneNet	O

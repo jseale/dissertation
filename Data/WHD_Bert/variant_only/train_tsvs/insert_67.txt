@@ -1,0 +1,13 @@
+insert_67	The	O
+insert_67	insert	insert_nou
+insert_67	and	O
+insert_67	the	O
+insert_67	destination	O
+insert_67	vector	O
+insert_67	are	O
+insert_67	then	O
+insert_67	mixed	O
+insert_67	together	O
+insert_67	with	O
+insert_67	DNA	O
+insert_67	ligase	O

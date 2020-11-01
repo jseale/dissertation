@@ -1,0 +1,14 @@
+combine_8	SAM	O
+combine_8	I	O
+combine_8	IV	O
+combine_8	variant	O
+combine_8	riboswitches	O
+combine_8	combine	combine_vrb
+combine_8	features	O
+combine_8	of	O
+combine_8	SAM	O
+combine_8	I	O
+combine_8	and	O
+combine_8	SAM	O
+combine_8	IV	O
+combine_8	riboswitches	O

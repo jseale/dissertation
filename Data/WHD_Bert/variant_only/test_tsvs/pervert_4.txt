@@ -1,0 +1,10 @@
+pervert_4	He	O
+pervert_4	is	O
+pervert_4	condescending	O
+pervert_4	has	O
+pervert_4	meaty	O
+pervert_4	hands	O
+pervert_4	and	O
+pervert_4	is	O
+pervert_4	a	O
+pervert_4	pervert	pervert_nou

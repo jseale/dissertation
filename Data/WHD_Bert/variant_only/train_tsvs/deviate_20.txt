@@ -1,0 +1,8 @@
+deviate_20	The	O
+deviate_20	phenotypic	O
+deviate_20	standard	O
+deviate_20	deviate	deviate_nou
+deviate_20	σP(0	O
+deviate_20	is	O
+deviate_20	also	O
+deviate_20	needed	O

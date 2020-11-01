@@ -1,0 +1,13 @@
+live_39	One	O
+live_39	episode	O
+live_39	included	O
+live_39	a	O
+live_39	live	live_adj
+live_39	performance	O
+live_39	of	O
+live_39	My	O
+live_39	Little	O
+live_39	Angel	O
+live_39	by	O
+live_39	William	O
+live_39	Shakespeare	O

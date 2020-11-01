@@ -1,0 +1,12 @@
+sake_69	Sakawa	O
+sake_69	is	O
+sake_69	famous	O
+sake_69	for	O
+sake_69	the	O
+sake_69	production	O
+sake_69	of	O
+sake_69	Tsukasabotan	O
+sake_69	a	O
+sake_69	type	O
+sake_69	of	O
+sake_69	sake	sake_jp

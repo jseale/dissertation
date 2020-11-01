@@ -1,0 +1,17 @@
+deviate_15	He	O
+deviate_15	did	O
+deviate_15	not	O
+deviate_15	deviate	deviate_vrb
+deviate_15	in	O
+deviate_15	equipment	O
+deviate_15	from	O
+deviate_15	that	O
+deviate_15	available	O
+deviate_15	for	O
+deviate_15	a	O
+deviate_15	standard	O
+deviate_15	Captain	O
+deviate_15	as	O
+deviate_15	with	O
+deviate_15	his	O
+deviate_15	men	O

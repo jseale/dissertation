@@ -1,0 +1,11 @@
+present_15	The	O
+present_15	Bobtail	O
+present_15	gene	O
+present_15	only	O
+present_15	affects	O
+present_15	the	O
+present_15	number	O
+present_15	of	O
+present_15	tail	O
+present_15	vertebrae	O
+present_15	present	present_adj-nou

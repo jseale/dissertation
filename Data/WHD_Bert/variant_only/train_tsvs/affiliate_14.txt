@@ -1,0 +1,16 @@
+affiliate_14	Through	O
+affiliate_14	local	O
+affiliate_14	regional	O
+affiliate_14	and	O
+affiliate_14	international	O
+affiliate_14	partnerships	O
+affiliate_14	and	O
+affiliate_14	affiliate	affiliate_nou
+affiliate_14	centers	O
+affiliate_14	the	O
+affiliate_14	Museum	O
+affiliate_14	seeks	O
+affiliate_14	to	O
+affiliate_14	connect	O
+affiliate_14	Palestinians	O
+affiliate_14	worldwide	O

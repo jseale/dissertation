@@ -1,0 +1,14 @@
+estimate_38	According	O
+estimate_38	to	O
+estimate_38	one	O
+estimate_38	estimate	estimate_nou
+estimate_38	more	O
+estimate_38	than	O
+estimate_38	100	O
+estimate_38	Poles	O
+estimate_38	made	O
+estimate_38	the	O
+estimate_38	pilgrimage	O
+estimate_38	during	O
+estimate_38	that	O
+estimate_38	era	O

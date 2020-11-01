@@ -1,0 +1,9 @@
+suspect_16	Schuster	O
+suspect_16	sends	O
+suspect_16	Corky	O
+suspect_16	to	O
+suspect_16	put	O
+suspect_16	the	O
+suspect_16	suspect	suspect_adj-nou
+suspect_16	in	O
+suspect_16	jail	O

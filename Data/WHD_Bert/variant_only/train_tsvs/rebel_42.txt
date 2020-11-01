@@ -1,0 +1,9 @@
+rebel_42	Humayun	O
+rebel_42	sent	O
+rebel_42	another	O
+rebel_42	army	O
+rebel_42	and	O
+rebel_42	the	O
+rebel_42	rebel	rebel_nou
+rebel_42	was	O
+rebel_42	captured	O

@@ -1,0 +1,10 @@
+recount_24	The	O
+recount_24	recount	recount_nou
+recount_24	confirmed	O
+recount_24	the	O
+recount_24	result	O
+recount_24	but	O
+recount_24	by	O
+recount_24	a	O
+recount_24	narrower	O
+recount_24	margin	O

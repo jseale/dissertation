@@ -1,0 +1,16 @@
+delegate_3	He	O
+delegate_3	was	O
+delegate_3	ordained	O
+delegate_3	by	O
+delegate_3	the	O
+delegate_3	Apostolic	O
+delegate_3	Delegate	delegate_nou
+delegate_3	with	O
+delegate_3	the	O
+delegate_3	orders	O
+delegate_3	of	O
+delegate_3	porter	O
+delegate_3	lector	O
+delegate_3	exorcist	O
+delegate_3	and	O
+delegate_3	acolyte	O

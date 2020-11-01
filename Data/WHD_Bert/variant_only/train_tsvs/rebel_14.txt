@@ -1,0 +1,13 @@
+rebel_14	At	O
+rebel_14	the	O
+rebel_14	outbreak	O
+rebel_14	of	O
+rebel_14	the	O
+rebel_14	uprising	O
+rebel_14	the	O
+rebel_14	rebel	rebel_nou
+rebel_14	forces	O
+rebel_14	derailed	O
+rebel_14	a	O
+rebel_14	military	O
+rebel_14	train	O

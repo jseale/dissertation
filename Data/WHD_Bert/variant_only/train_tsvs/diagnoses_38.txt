@@ -1,0 +1,17 @@
+diagnoses_38	She	O
+diagnoses_38	goes	O
+diagnoses_38	to	O
+diagnoses_38	see	O
+diagnoses_38	Dr.	O
+diagnoses_38	Young	O
+diagnoses_38	who	O
+diagnoses_38	diagnoses	diagnoses_vrb
+diagnoses_38	functional	O
+diagnoses_38	euphonia	O
+diagnoses_38	a	O
+diagnoses_38	speaking	O
+diagnoses_38	disorder	O
+diagnoses_38	caused	O
+diagnoses_38	by	O
+diagnoses_38	shocking	O
+diagnoses_38	news	O

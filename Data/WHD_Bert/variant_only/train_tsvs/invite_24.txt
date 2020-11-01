@@ -1,0 +1,13 @@
+invite_24	It	O
+invite_24	was	O
+invite_24	the	O
+invite_24	first	O
+invite_24	popular	O
+invite_24	centre	O
+invite_24	to	O
+invite_24	invite	invite_vrb
+invite_24	teachers	O
+invite_24	gurus	O
+invite_24	monks	O
+invite_24	researchers	O
+invite_24	etc	O

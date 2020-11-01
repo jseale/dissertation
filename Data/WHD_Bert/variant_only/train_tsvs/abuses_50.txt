@@ -1,0 +1,12 @@
+abuses_50	If	O
+abuses_50	you	O
+abuses_50	can	O
+abuses_50	not	O
+abuses_50	permit	O
+abuses_50	abuses	abuses_nou
+abuses_50	you	O
+abuses_50	must	O
+abuses_50	at	O
+abuses_50	least	O
+abuses_50	tolerate	O
+abuses_50	them	O

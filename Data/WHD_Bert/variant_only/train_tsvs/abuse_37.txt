@@ -1,0 +1,17 @@
+abuse_37	Milwaukee	O
+abuse_37	Journal	O
+abuse_37	Sentinel	O
+abuse_37	Man	O
+abuse_37	recounts	O
+abuse_37	abuse	abuse_nou
+abuse_37	by	O
+abuse_37	priests	O
+abuse_37	says	O
+abuse_37	pope	O
+abuse_37	should	O
+abuse_37	be	O
+abuse_37	held	O
+abuse_37	accountable	O
+abuse_37	25	O
+abuse_37	March	O
+abuse_37	2010	O

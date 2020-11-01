@@ -1,0 +1,15 @@
+affiliate_40	The	O
+affiliate_40	school	O
+affiliate_40	was	O
+affiliate_40	supported	O
+affiliate_40	by	O
+affiliate_40	affiliate	affiliate_nou
+affiliate_40	unions	O
+affiliate_40	of	O
+affiliate_40	the	O
+affiliate_40	American	O
+affiliate_40	Federation	O
+affiliate_40	of	O
+affiliate_40	Labor	O
+affiliate_40	until	O
+affiliate_40	1928	O

@@ -1,0 +1,10 @@
+escort_3	The	O
+escort_3	convoy	O
+escort_3	escort	escort_nou
+escort_3	was	O
+escort_3	ineffective	O
+escort_3	in	O
+escort_3	guarding	O
+escort_3	against	O
+escort_3	the	O
+escort_3	attack	O

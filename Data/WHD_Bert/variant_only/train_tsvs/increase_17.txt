@@ -1,0 +1,15 @@
+increase_17	Their	O
+increase_17	obvious	O
+increase_17	incompetence	O
+increase_17	in	O
+increase_17	more	O
+increase_17	mundane	O
+increase_17	areas	O
+increase_17	of	O
+increase_17	life	O
+increase_17	only	O
+increase_17	seems	O
+increase_17	to	O
+increase_17	increase	increase_vrb
+increase_17	their	O
+increase_17	glamour	O

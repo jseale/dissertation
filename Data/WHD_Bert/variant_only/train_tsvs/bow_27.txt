@@ -1,0 +1,17 @@
+bow_27	When	O
+bow_27	worn	O
+bow_27	by	O
+bow_27	a	O
+bow_27	woman	O
+bow_27	the	O
+bow_27	medal	O
+bow_27	may	O
+bow_27	be	O
+bow_27	suspended	O
+bow_27	by	O
+bow_27	the	O
+bow_27	ribbon	O
+bow_27	shaped	O
+bow_27	into	O
+bow_27	a	O
+bow_27	bow	bow_nou-knot

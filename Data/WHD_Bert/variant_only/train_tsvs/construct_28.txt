@@ -1,0 +1,15 @@
+construct_28	Next	O
+construct_28	to	O
+construct_28	the	O
+construct_28	word	O
+construct_28	are	O
+construct_28	several	O
+construct_28	images	O
+construct_28	that	O
+construct_28	can	O
+construct_28	be	O
+construct_28	used	O
+construct_28	to	O
+construct_28	construct	construct_vrb
+construct_28	the	O
+construct_28	word	O

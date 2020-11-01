@@ -1,0 +1,14 @@
+axes_37	The	O
+axes_37	attack	O
+axes_37	was	O
+axes_37	initially	O
+axes_37	slowed	O
+axes_37	down	O
+axes_37	due	O
+axes_37	to	O
+axes_37	terrain	O
+axes_37	features	O
+axes_37	along	O
+axes_37	the	O
+axes_37	attack	O
+axes_37	axes	axes_nou

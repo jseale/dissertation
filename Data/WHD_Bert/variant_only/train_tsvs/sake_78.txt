@@ -1,0 +1,17 @@
+sake_78	Sure	O
+sake_78	that	O
+sake_78	she	O
+sake_78	is	O
+sake_78	the	O
+sake_78	murderer	O
+sake_78	Vivian	O
+sake_78	decides	O
+sake_78	to	O
+sake_78	commit	O
+sake_78	suicide	O
+sake_78	for	O
+sake_78	the	O
+sake_78	sake	sake
+sake_78	of	O
+sake_78	the	O
+sake_78	pack	O

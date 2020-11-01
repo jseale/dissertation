@@ -1,0 +1,17 @@
+compress_66	OpenSSL	O
+compress_66	is	O
+compress_66	open	O
+compress_66	source	O
+compress_66	software	O
+compress_66	that	O
+compress_66	can	O
+compress_66	encrypt	O
+compress_66	decrypt	O
+compress_66	sign	O
+compress_66	and	O
+compress_66	verify	O
+compress_66	compress	compress
+compress_66	and	O
+compress_66	uncompress	O
+compress_66	CMS	O
+compress_66	documents	O

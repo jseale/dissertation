@@ -1,0 +1,14 @@
+animate_37	Shortly	O
+animate_37	after	O
+animate_37	that	O
+animate_37	Toba	O
+animate_37	formally	O
+animate_37	made	O
+animate_37	the	O
+animate_37	proposal	O
+animate_37	to	O
+animate_37	P.A.Works	O
+animate_37	to	O
+animate_37	animate	animate_vrb
+animate_37	the	O
+animate_37	project	O

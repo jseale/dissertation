@@ -1,0 +1,16 @@
+buffet_2	Old	O
+buffet_2	Country	O
+buffet_2	Buffet	buffet_nou
+buffet_2	locations	O
+buffet_2	have	O
+buffet_2	a	O
+buffet_2	mascot	O
+buffet_2	named	O
+buffet_2	O.C.	O
+buffet_2	Bee	O
+buffet_2	or	O
+buffet_2	H.T.	O
+buffet_2	Bee	O
+buffet_2	at	O
+buffet_2	HomeTown	O
+buffet_2	Buffet	buffet_nou

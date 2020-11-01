@@ -1,0 +1,17 @@
+implement_37	They	O
+implement_37	wanted	O
+implement_37	to	O
+implement_37	retard	O
+implement_37	British	O
+implement_37	settlement	O
+implement_37	and	O
+implement_37	buy	O
+implement_37	time	O
+implement_37	for	O
+implement_37	France	O
+implement_37	to	O
+implement_37	implement	implement_vrb
+implement_37	its	O
+implement_37	Acadian	O
+implement_37	resettlement	O
+implement_37	scheme	O

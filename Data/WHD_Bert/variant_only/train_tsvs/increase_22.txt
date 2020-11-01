@@ -1,0 +1,15 @@
+increase_22	However	O
+increase_22	the	O
+increase_22	price	O
+increase_22	of	O
+increase_22	land	O
+increase_22	goes	O
+increase_22	up	O
+increase_22	with	O
+increase_22	every	O
+increase_22	increase	increase_nou
+increase_22	in	O
+increase_22	something	O
+increase_22	benefiting	O
+increase_22	the	O
+increase_22	landlord	O

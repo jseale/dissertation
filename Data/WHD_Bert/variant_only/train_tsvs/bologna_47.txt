@@ -1,0 +1,14 @@
+bologna_47	He	O
+bologna_47	was	O
+bologna_47	born	O
+bologna_47	to	O
+bologna_47	a	O
+bologna_47	family	O
+bologna_47	of	O
+bologna_47	noble	O
+bologna_47	ancestry	O
+bologna_47	but	O
+bologna_47	limited	O
+bologna_47	resources	O
+bologna_47	in	O
+bologna_47	Bologna	bologna_geo

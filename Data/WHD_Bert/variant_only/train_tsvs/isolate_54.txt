@@ -1,0 +1,9 @@
+isolate_54	Soybean	O
+isolate_54	protein	O
+isolate_54	isolate	isolate_nou
+isolate_54	has	O
+isolate_54	a	O
+isolate_54	biological	O
+isolate_54	value	O
+isolate_54	of	O
+isolate_54	74	O

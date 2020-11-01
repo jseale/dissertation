@@ -1,0 +1,13 @@
+transplant_12	He	O
+transplant_12	was	O
+transplant_12	part	O
+transplant_12	of	O
+transplant_12	the	O
+transplant_12	team	O
+transplant_12	that	O
+transplant_12	performed	O
+transplant_12	the	O
+transplant_12	first	O
+transplant_12	successful	O
+transplant_12	kidney	O
+transplant_12	transplant	transplant_nou

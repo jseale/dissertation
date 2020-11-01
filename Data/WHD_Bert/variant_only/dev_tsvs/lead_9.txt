@@ -1,0 +1,7 @@
+lead_9	Lead	lead_nou
+lead_9	is	O
+lead_9	easily	O
+lead_9	extracted	O
+lead_9	from	O
+lead_9	its	O
+lead_9	ores	O

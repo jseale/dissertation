@@ -1,0 +1,9 @@
+construct_21	When	O
+construct_21	development	O
+construct_21	is	O
+construct_21	completed	O
+construct_21	larvae	O
+construct_21	construct	construct_vrb
+construct_21	cocoons	O
+construct_21	to	O
+construct_21	pupate	O

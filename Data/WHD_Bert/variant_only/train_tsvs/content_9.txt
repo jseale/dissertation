@@ -1,0 +1,14 @@
+content_9	The	O
+content_9	channel	O
+content_9	was	O
+content_9	created	O
+content_9	as	O
+content_9	a	O
+content_9	result	O
+content_9	of	O
+content_9	YouTube	O
+content_9	's	O
+content_9	original	O
+content_9	content	content_nou
+content_9	partner	O
+content_9	scheme	O

@@ -1,0 +1,12 @@
+invite_46	The	O
+invite_46	administrators	O
+invite_46	invite	invite_vrb
+invite_46	certain	O
+invite_46	players	O
+invite_46	to	O
+invite_46	be	O
+invite_46	moderators	O
+invite_46	also	O
+invite_46	known	O
+invite_46	as	O
+invite_46	helpers	O

@@ -1,0 +1,16 @@
+rodeo_68	The	O
+rodeo_68	Jacksonville	O
+rodeo_68	Fishing	O
+rodeo_68	Rodeo	rodeo
+rodeo_68	begun	O
+rodeo_68	in	O
+rodeo_68	2010	O
+rodeo_68	is	O
+rodeo_68	a	O
+rodeo_68	popular	O
+rodeo_68	family	O
+rodeo_68	oriented	O
+rodeo_68	event	O
+rodeo_68	held	O
+rodeo_68	in	O
+rodeo_68	June	O

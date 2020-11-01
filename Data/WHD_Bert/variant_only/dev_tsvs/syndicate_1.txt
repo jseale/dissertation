@@ -1,0 +1,17 @@
+syndicate_1	The	O
+syndicate_1	Naramata	O
+syndicate_1	Syndicate	syndicate_nou
+syndicate_1	also	O
+syndicate_1	built	O
+syndicate_1	scows	O
+syndicate_1	for	O
+syndicate_1	freight	O
+syndicate_1	and	O
+syndicate_1	cargo	O
+syndicate_1	to	O
+syndicate_1	assist	O
+syndicate_1	Skookum	O
+syndicate_1	and	O
+syndicate_1	the	O
+syndicate_1	other	O
+syndicate_1	ferries	O

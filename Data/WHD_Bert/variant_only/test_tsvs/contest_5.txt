@@ -1,0 +1,15 @@
+contest_5	During	O
+contest_5	the	O
+contest_5	Dionysia	O
+contest_5	a	O
+contest_5	contest	contest_nou
+contest_5	took	O
+contest_5	place	O
+contest_5	between	O
+contest_5	three	O
+contest_5	plays	O
+contest_5	chosen	O
+contest_5	by	O
+contest_5	the	O
+contest_5	archon	O
+contest_5	eponymous	O

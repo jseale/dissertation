@@ -1,0 +1,11 @@
+aged_30	She	O
+aged_30	died	O
+aged_30	on	O
+aged_30	March	O
+aged_30	5	O
+aged_30	2015	O
+aged_30	in	O
+aged_30	Williamsburg	O
+aged_30	Virginia	O
+aged_30	aged	aged
+aged_30	98	O

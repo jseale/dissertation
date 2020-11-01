@@ -1,0 +1,11 @@
+rerelease_38	Metamorphosis	O
+rerelease_38	is	O
+rerelease_38	a	O
+rerelease_38	rerelease	rerelease
+rerelease_38	of	O
+rerelease_38	Zero	O
+rerelease_38	Hour	O
+rerelease_38	's	O
+rerelease_38	eponymous	O
+rerelease_38	debut	O
+rerelease_38	album	O

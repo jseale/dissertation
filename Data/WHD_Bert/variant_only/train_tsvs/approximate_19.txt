@@ -1,0 +1,14 @@
+approximate_19	The	O
+approximate_19	idea	O
+approximate_19	is	O
+approximate_19	that	O
+approximate_19	majorities	O
+approximate_19	voting	O
+approximate_19	in	O
+approximate_19	elections	O
+approximate_19	approximate	approximate_vrb
+approximate_19	the	O
+approximate_19	result	O
+approximate_19	of	O
+approximate_19	a	O
+approximate_19	coup	O

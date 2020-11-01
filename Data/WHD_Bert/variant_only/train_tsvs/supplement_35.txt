@@ -1,0 +1,16 @@
+supplement_35	Housing	O
+supplement_35	vouchers	O
+supplement_35	are	O
+supplement_35	provided	O
+supplement_35	to	O
+supplement_35	low	O
+supplement_35	income	O
+supplement_35	residents	O
+supplement_35	to	O
+supplement_35	pay	O
+supplement_35	to	O
+supplement_35	private	O
+supplement_35	landlords	O
+supplement_35	to	O
+supplement_35	supplement	supplement_vrb
+supplement_35	rent	O

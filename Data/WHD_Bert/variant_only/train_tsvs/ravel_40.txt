@@ -1,0 +1,13 @@
+ravel_40	Although	O
+ravel_40	The	O
+ravel_40	Wasps	O
+ravel_40	may	O
+ravel_40	reflect	O
+ravel_40	something	O
+ravel_40	of	O
+ravel_40	Ravel	ravel_nam
+ravel_40	it	O
+ravel_40	is	O
+ravel_40	quintessential	O
+ravel_40	Vaughan	O
+ravel_40	Williams	O

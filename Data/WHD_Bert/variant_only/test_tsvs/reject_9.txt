@@ -1,0 +1,15 @@
+reject_9	One	O
+reject_9	can	O
+reject_9	reject	reject_vrb
+reject_9	constructivism	O
+reject_9	without	O
+reject_9	claiming	O
+reject_9	that	O
+reject_9	mystical	O
+reject_9	experiences	O
+reject_9	reveal	O
+reject_9	a	O
+reject_9	cross	O
+reject_9	cultural	O
+reject_9	perennial	O
+reject_9	truth	O

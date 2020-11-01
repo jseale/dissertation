@@ -1,0 +1,17 @@
+excuse_45	The	O
+excuse_45	position	O
+excuse_45	of	O
+excuse_45	the	O
+excuse_45	Government	O
+excuse_45	does	O
+excuse_45	not	O
+excuse_45	excuse	excuse_vrb
+excuse_45	us	O
+excuse_45	from	O
+excuse_45	evaluating	O
+excuse_45	the	O
+excuse_45	circumstances	O
+excuse_45	of	O
+excuse_45	the	O
+excuse_45	whole	O
+excuse_45	case	O

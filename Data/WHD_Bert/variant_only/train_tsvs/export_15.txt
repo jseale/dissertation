@@ -1,0 +1,12 @@
+export_15	The	O
+export_15	government	O
+export_15	's	O
+export_15	colonial	O
+export_15	policy	O
+export_15	of	O
+export_15	export	export_nou
+export_15	restrictions	O
+export_15	however	O
+export_15	did	O
+export_15	not	O
+export_15	change	O

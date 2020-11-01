@@ -1,0 +1,11 @@
+conflict_4	The	O
+conflict_4	end	O
+conflict_4	of	O
+conflict_4	the	O
+conflict_4	conflict	conflict_nou
+conflict_4	saw	O
+conflict_4	Italy	O
+conflict_4	devastated	O
+conflict_4	and	O
+conflict_4	considerably	O
+conflict_4	depopulated	O

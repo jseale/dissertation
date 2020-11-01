@@ -1,0 +1,16 @@
+use_54	This	O
+use_54	is	O
+use_54	done	O
+use_54	through	O
+use_54	the	O
+use_54	use	use_nou
+use_54	of	O
+use_54	materials	O
+use_54	that	O
+use_54	readily	O
+use_54	form	O
+use_54	stable	O
+use_54	compounds	O
+use_54	with	O
+use_54	active	O
+use_54	gases	O

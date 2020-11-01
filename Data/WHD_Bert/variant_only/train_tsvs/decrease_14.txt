@@ -1,0 +1,16 @@
+decrease_14	T.	O
+decrease_14	oceanicus	O
+decrease_14	males	O
+decrease_14	that	O
+decrease_14	have	O
+decrease_14	been	O
+decrease_14	parasitized	O
+decrease_14	by	O
+decrease_14	O.	O
+decrease_14	ochracea	O
+decrease_14	show	O
+decrease_14	a	O
+decrease_14	decrease	decrease_nou
+decrease_14	in	O
+decrease_14	reproductive	O
+decrease_14	investment	O

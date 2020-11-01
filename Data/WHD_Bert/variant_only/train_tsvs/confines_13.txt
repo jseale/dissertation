@@ -1,0 +1,16 @@
+confines_13	Libertarianism	O
+confines_13	in	O
+confines_13	contrast	O
+confines_13	is	O
+confines_13	a	O
+confines_13	political	O
+confines_13	philosophy	O
+confines_13	which	O
+confines_13	confines	confines_vrb
+confines_13	its	O
+confines_13	attention	O
+confines_13	to	O
+confines_13	matters	O
+confines_13	of	O
+confines_13	public	O
+confines_13	policy	O

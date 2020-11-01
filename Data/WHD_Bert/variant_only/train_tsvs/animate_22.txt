@@ -1,0 +1,14 @@
+animate_22	SingularPluralNote	O
+animate_22	animate	animate_adj-nou
+animate_22	objects	O
+animate_22	people	O
+animate_22	and	O
+animate_22	animals	O
+animate_22	are	O
+animate_22	treated	O
+animate_22	differently	O
+animate_22	in	O
+animate_22	the	O
+animate_22	singular	O
+animate_22	masculine	O
+animate_22	accusative	O

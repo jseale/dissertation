@@ -1,0 +1,15 @@
+precipitate_62	Precipitate	precipitate_adj-nou
+precipitate_62	formation	O
+precipitate_62	is	O
+precipitate_62	useful	O
+precipitate_62	in	O
+precipitate_62	the	O
+precipitate_62	detection	O
+precipitate_62	of	O
+precipitate_62	the	O
+precipitate_62	type	O
+precipitate_62	of	O
+precipitate_62	cation	O
+precipitate_62	in	O
+precipitate_62	a	O
+precipitate_62	salt	O

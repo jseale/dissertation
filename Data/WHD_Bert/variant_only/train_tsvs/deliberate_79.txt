@@ -1,0 +1,17 @@
+deliberate_79	In	O
+deliberate_79	a	O
+deliberate_79	May	O
+deliberate_79	2009	O
+deliberate_79	interview	O
+deliberate_79	Scott	O
+deliberate_79	emphasised	O
+deliberate_79	the	O
+deliberate_79	deliberate	deliberate_adj
+deliberate_79	light	O
+deliberate_79	heartedness	O
+deliberate_79	of	O
+deliberate_79	the	O
+deliberate_79	Sockington	O
+deliberate_79	updates	O
+deliberate_79	and	O
+deliberate_79	pages	O

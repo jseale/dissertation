@@ -1,0 +1,17 @@
+deviate_28	It	O
+deviate_28	usually	O
+deviate_28	involves	O
+deviate_28	the	O
+deviate_28	repetition	O
+deviate_28	of	O
+deviate_28	moves	O
+deviate_28	in	O
+deviate_28	which	O
+deviate_28	neither	O
+deviate_28	side	O
+deviate_28	can	O
+deviate_28	make	O
+deviate_28	progress	O
+deviate_28	or	O
+deviate_28	safely	O
+deviate_28	deviate	deviate_vrb

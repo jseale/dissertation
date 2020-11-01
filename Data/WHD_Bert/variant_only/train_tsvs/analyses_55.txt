@@ -1,0 +1,15 @@
+analyses_55	In	O
+analyses_55	the	O
+analyses_55	1960s	O
+analyses_55	at	O
+analyses_55	UCLA	O
+analyses_55	Dixon	O
+analyses_55	developed	O
+analyses_55	BMDP	O
+analyses_55	a	O
+analyses_55	statistical	O
+analyses_55	software	O
+analyses_55	package	O
+analyses_55	for	O
+analyses_55	biomedical	O
+analyses_55	analyses	analyses_nou

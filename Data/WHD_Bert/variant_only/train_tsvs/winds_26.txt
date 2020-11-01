@@ -1,0 +1,17 @@
+winds_26	Pretty	O
+winds_26	good	O
+winds_26	strong	O
+winds_26	breeze	O
+winds_26	today	O
+winds_26	15	O
+winds_26	to	O
+winds_26	20	O
+winds_26	mile	O
+winds_26	per	O
+winds_26	hour	O
+winds_26	sustained	O
+winds_26	winds	winds_nou
+winds_26	coming	O
+winds_26	up	O
+winds_26	from	O
+winds_26	Orlando	O

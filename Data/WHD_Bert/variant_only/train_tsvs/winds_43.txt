@@ -1,0 +1,15 @@
+winds_43	High	O
+winds_43	winds	winds_nou
+winds_43	also	O
+winds_43	damaged	O
+winds_43	large	O
+winds_43	swaths	O
+winds_43	of	O
+winds_43	forest	O
+winds_43	and	O
+winds_43	crops	O
+winds_43	mostly	O
+winds_43	affecting	O
+winds_43	the	O
+winds_43	banana	O
+winds_43	industry	O

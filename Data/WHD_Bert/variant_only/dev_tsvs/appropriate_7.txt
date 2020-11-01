@@ -1,0 +1,17 @@
+appropriate_7	Third	O
+appropriate_7	it	O
+appropriate_7	needs	O
+appropriate_7	to	O
+appropriate_7	have	O
+appropriate_7	a	O
+appropriate_7	wireless	O
+appropriate_7	communication	O
+appropriate_7	system	O
+appropriate_7	that	O
+appropriate_7	has	O
+appropriate_7	an	O
+appropriate_7	appropriate	appropriate_adj
+appropriate_7	range	O
+appropriate_7	and	O
+appropriate_7	battery	O
+appropriate_7	life	O

@@ -1,0 +1,14 @@
+laminate_77	The	O
+laminate_77	mold	O
+laminate_77	and	O
+laminate_77	laminate	laminate_nou
+laminate_77	become	O
+laminate_77	separated	O
+laminate_77	from	O
+laminate_77	the	O
+laminate_77	circulating	O
+laminate_77	HTF	O
+laminate_77	by	O
+laminate_77	a	O
+laminate_77	flexible	O
+laminate_77	membrane	O

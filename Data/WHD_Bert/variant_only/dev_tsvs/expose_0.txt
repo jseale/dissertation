@@ -1,0 +1,8 @@
+expose_0	Do	O
+expose_0	not	O
+expose_0	expose	expose_vrb
+expose_0	to	O
+expose_0	air	O
+expose_0	or	O
+expose_0	light	O
+expose_0	unnecessarily	O

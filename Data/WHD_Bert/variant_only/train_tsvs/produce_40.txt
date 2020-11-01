@@ -1,0 +1,11 @@
+produce_40	He	O
+produce_40	also	O
+produce_40	contributes	O
+produce_40	to	O
+produce_40	or	O
+produce_40	helps	O
+produce_40	produce	produce_vrb
+produce_40	other	O
+produce_40	Washington	O
+produce_40	D.C.-area	O
+produce_40	recordings	O

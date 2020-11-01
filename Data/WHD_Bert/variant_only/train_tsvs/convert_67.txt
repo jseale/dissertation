@@ -1,0 +1,12 @@
+convert_67	Similar	O
+convert_67	reactions	O
+convert_67	are	O
+convert_67	used	O
+convert_67	industrially	O
+convert_67	to	O
+convert_67	convert	convert_vrb
+convert_67	cyclic	O
+convert_67	siloxanes	O
+convert_67	to	O
+convert_67	linear	O
+convert_67	polymers	O

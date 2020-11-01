@@ -1,0 +1,13 @@
+aggregate_74	Guangdong	O
+aggregate_74	captured	O
+aggregate_74	the	O
+aggregate_74	champion	O
+aggregate_74	by	O
+aggregate_74	winning	O
+aggregate_74	an	O
+aggregate_74	aggregate	aggregate_adj-nou
+aggregate_74	5	O
+aggregate_74	4	O
+aggregate_74	after	O
+aggregate_74	penalty	O
+aggregate_74	shootout	O

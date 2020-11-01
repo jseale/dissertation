@@ -1,0 +1,14 @@
+rodeo_32	Batwing	O
+rodeo_32	chaps	O
+rodeo_32	are	O
+rodeo_32	often	O
+rodeo_32	seen	O
+rodeo_32	on	O
+rodeo_32	rodeo	rodeo
+rodeo_32	contestants	O
+rodeo_32	particularly	O
+rodeo_32	those	O
+rodeo_32	who	O
+rodeo_32	ride	O
+rodeo_32	bucking	O
+rodeo_32	stock	O

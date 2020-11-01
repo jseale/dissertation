@@ -1,0 +1,12 @@
+blessed_18	There	O
+blessed_18	's	O
+blessed_18	no	O
+blessed_18	question	O
+blessed_18	Rimes	O
+blessed_18	has	O
+blessed_18	been	O
+blessed_18	blessed	blessed_vrb
+blessed_18	with	O
+blessed_18	a	O
+blessed_18	magnificent	O
+blessed_18	voice	O

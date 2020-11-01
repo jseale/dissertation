@@ -1,0 +1,16 @@
+resume_71	EU	O
+resume_71	Commissioner	O
+resume_71	Louis	O
+resume_71	Michel	O
+resume_71	likewise	O
+resume_71	called	O
+resume_71	for	O
+resume_71	the	O
+resume_71	TFG	O
+resume_71	and	O
+resume_71	ICU	O
+resume_71	to	O
+resume_71	resume	resume_vrb
+resume_71	talks	O
+resume_71	in	O
+resume_71	Khartoum	O

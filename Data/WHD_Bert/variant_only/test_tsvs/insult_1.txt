@@ -1,0 +1,11 @@
+insult_1	It	O
+insult_1	will	O
+insult_1	only	O
+insult_1	serve	O
+insult_1	to	O
+insult_1	offend	O
+insult_1	them	O
+insult_1	and	O
+insult_1	insult	insult_vrb
+insult_1	their	O
+insult_1	pride	O

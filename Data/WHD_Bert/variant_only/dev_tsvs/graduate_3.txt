@@ -1,0 +1,15 @@
+graduate_3	North	O
+graduate_3	is	O
+graduate_3	a	O
+graduate_3	2003	O
+graduate_3	graduate	graduate_adj-nou
+graduate_3	of	O
+graduate_3	Indiana	O
+graduate_3	University	O
+graduate_3	and	O
+graduate_3	currently	O
+graduate_3	resides	O
+graduate_3	in	O
+graduate_3	Manhattan	O
+graduate_3	Beach	O
+graduate_3	California	O

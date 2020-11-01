@@ -1,0 +1,11 @@
+animate_0	Weight	O
+animate_0	path	O
+animate_0	controlled	O
+animate_0	animation	O
+animate_0	between	O
+animate_0	multiple	O
+animate_0	curves	O
+animate_0	and	O
+animate_0	animate	animate_vrb
+animate_0	the	O
+animate_0	weight	O

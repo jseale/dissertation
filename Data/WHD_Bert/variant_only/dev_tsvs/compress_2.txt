@@ -1,0 +1,16 @@
+compress_2	The	O
+compress_2	musician	O
+compress_2	may	O
+compress_2	freely	O
+compress_2	stretch	O
+compress_2	or	O
+compress_2	compress	compress
+compress_2	its	O
+compress_2	rhythm	O
+compress_2	and	O
+compress_2	often	O
+compress_2	will	O
+compress_2	highly	O
+compress_2	ornament	O
+compress_2	each	O
+compress_2	note	O

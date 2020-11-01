@@ -1,0 +1,16 @@
+refund_17	Cardholder	O
+refund_17	originated	O
+refund_17	transactions	O
+refund_17	include	O
+refund_17	purchase	O
+refund_17	withdrawal	O
+refund_17	deposit	O
+refund_17	refund	refund_nou
+refund_17	reversal	O
+refund_17	balance	O
+refund_17	inquiry	O
+refund_17	payments	O
+refund_17	and	O
+refund_17	inter	O
+refund_17	account	O
+refund_17	transfers	O

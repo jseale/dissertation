@@ -1,0 +1,13 @@
+export_6	By	O
+export_6	2014	O
+export_6	the	O
+export_6	RMG	O
+export_6	industry	O
+export_6	represented	O
+export_6	81.13	O
+export_6	percent	O
+export_6	of	O
+export_6	Bangladesh	O
+export_6	's	O
+export_6	total	O
+export_6	export	export_nou

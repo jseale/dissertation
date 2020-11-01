@@ -1,0 +1,13 @@
+conscript_58	The	O
+conscript_58	steamer	O
+conscript_58	Bellingham	O
+conscript_58	was	O
+conscript_58	the	O
+conscript_58	conscript	conscript_nou
+conscript_58	boat	O
+conscript_58	for	O
+conscript_58	Fort	O
+conscript_58	Wightman	O
+conscript_58	on	O
+conscript_58	Long	O
+conscript_58	Island	O

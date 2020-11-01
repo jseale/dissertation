@@ -1,0 +1,15 @@
+precipitate_30	In	O
+precipitate_30	Phase	O
+precipitate_30	II	O
+precipitate_30	the	O
+precipitate_30	pH	O
+precipitate_30	of	O
+precipitate_30	the	O
+precipitate_30	effluent	O
+precipitate_30	is	O
+precipitate_30	raised	O
+precipitate_30	again	O
+precipitate_30	and	O
+precipitate_30	additional	O
+precipitate_30	metals	O
+precipitate_30	precipitate	precipitate_vrb

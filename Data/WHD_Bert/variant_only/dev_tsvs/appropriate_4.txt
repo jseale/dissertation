@@ -1,0 +1,13 @@
+appropriate_4	In	O
+appropriate_4	the	O
+appropriate_4	Austro	O
+appropriate_4	Hungarian	O
+appropriate_4	Navy	O
+appropriate_4	the	O
+appropriate_4	appropriate	appropriate_adj
+appropriate_4	rank	O
+appropriate_4	designations	O
+appropriate_4	were	O
+appropriate_4	derived	O
+appropriate_4	as	O
+appropriate_4	follows	O

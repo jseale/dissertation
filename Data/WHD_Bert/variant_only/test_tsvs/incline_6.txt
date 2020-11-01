@@ -1,0 +1,12 @@
+incline_6	The	O
+incline_6	incline	incline_nou
+incline_6	ended	O
+incline_6	at	O
+incline_6	the	O
+incline_6	top	O
+incline_6	of	O
+incline_6	the	O
+incline_6	hill	O
+incline_6	along	O
+incline_6	Meadville	O
+incline_6	Street	O

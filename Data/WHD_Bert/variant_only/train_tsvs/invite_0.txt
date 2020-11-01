@@ -1,0 +1,17 @@
+invite_0	Shiva	O
+invite_0	smiled	O
+invite_0	and	O
+invite_0	said	O
+invite_0	to	O
+invite_0	him	O
+invite_0	I	O
+invite_0	can	O
+invite_0	not	O
+invite_0	come	O
+invite_0	but	O
+invite_0	you	O
+invite_0	can	O
+invite_0	invite	invite_vrb
+invite_0	my	O
+invite_0	son	O
+invite_0	Ganesha	O

@@ -1,0 +1,15 @@
+pervert_9	His	O
+pervert_9	debut	O
+pervert_9	comedy	O
+pervert_9	album	O
+pervert_9	Pervert	pervert_nou
+pervert_9	has	O
+pervert_9	appeared	O
+pervert_9	in	O
+pervert_9	the	O
+pervert_9	top	O
+pervert_9	40	O
+pervert_9	comedy	O
+pervert_9	albums	O
+pervert_9	on	O
+pervert_9	iTunes	O

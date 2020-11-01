@@ -1,0 +1,8 @@
+insert_4	The	O
+insert_4	insert	insert_nou
+insert_4	arrangements	O
+insert_4	are	O
+insert_4	provided	O
+insert_4	in	O
+insert_4	the	O
+insert_4	specification	O

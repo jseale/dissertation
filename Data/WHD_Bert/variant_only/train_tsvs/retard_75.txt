@@ -1,0 +1,14 @@
+retard_75	Lack	O
+retard_75	of	O
+retard_75	education	O
+retard_75	continued	O
+retard_75	to	O
+retard_75	retard	retard_vrb
+retard_75	the	O
+retard_75	spread	O
+retard_75	of	O
+retard_75	advanced	O
+retard_75	technology	O
+retard_75	in	O
+retard_75	rural	O
+retard_75	areas	O

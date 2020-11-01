@@ -1,0 +1,10 @@
+abuse_8	Advocacy	O
+abuse_8	services	O
+abuse_8	that	O
+abuse_8	encourage	O
+abuse_8	victims	O
+abuse_8	to	O
+abuse_8	establish	O
+abuse_8	abuse	abuse_nou
+abuse_8	free	O
+abuse_8	lives	O

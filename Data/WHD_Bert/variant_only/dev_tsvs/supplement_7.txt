@@ -1,0 +1,8 @@
+supplement_7	There	O
+supplement_7	is	O
+supplement_7	also	O
+supplement_7	a	O
+supplement_7	monthly	O
+supplement_7	tabloid	O
+supplement_7	business	O
+supplement_7	supplement	supplement_nou

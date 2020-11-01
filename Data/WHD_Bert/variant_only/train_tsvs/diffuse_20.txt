@@ -1,0 +1,10 @@
+diffuse_20	Colour	O
+diffuse_20	is	O
+diffuse_20	whitish	O
+diffuse_20	with	O
+diffuse_20	diffuse	diffuse_adj
+diffuse_20	pale	O
+diffuse_20	brown	O
+diffuse_20	flames	O
+diffuse_20	and	O
+diffuse_20	blotches	O

@@ -1,0 +1,16 @@
+house_5	By	O
+house_5	rule	O
+house_5	the	O
+house_5	House	house_nou
+house_5	Ethics	O
+house_5	Committee	O
+house_5	's	O
+house_5	work	O
+house_5	votes	O
+house_5	and	O
+house_5	investigative	O
+house_5	findings	O
+house_5	are	O
+house_5	kept	O
+house_5	strictly	O
+house_5	confidential	O

@@ -1,0 +1,15 @@
+axes_17	The	O
+axes_17	output	O
+axes_17	for	O
+axes_17	the	O
+axes_17	orientation	O
+axes_17	tensor	O
+axes_17	is	O
+axes_17	in	O
+axes_17	the	O
+axes_17	three	O
+axes_17	orthogonal	O
+axes_17	perpendicular	O
+axes_17	axes	axes_nou
+axes_17	of	O
+axes_17	space	O

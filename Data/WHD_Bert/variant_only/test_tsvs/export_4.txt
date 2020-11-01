@@ -1,0 +1,10 @@
+export_4	Most	O
+export_4	of	O
+export_4	Jamaica	O
+export_4	's	O
+export_4	coffee	O
+export_4	production	O
+export_4	is	O
+export_4	grown	O
+export_4	for	O
+export_4	export	export_nou

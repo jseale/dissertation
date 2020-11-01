@@ -1,0 +1,15 @@
+affiliate_26	Crabbe	O
+affiliate_26	began	O
+affiliate_26	the	O
+affiliate_26	2002	O
+affiliate_26	season	O
+affiliate_26	at	O
+affiliate_26	the	O
+affiliate_26	Milwaukee	O
+affiliate_26	Brewers	O
+affiliate_26	rookie	O
+affiliate_26	league	O
+affiliate_26	affiliate	affiliate_nou
+affiliate_26	the	O
+affiliate_26	Ogden	O
+affiliate_26	Raptors	O

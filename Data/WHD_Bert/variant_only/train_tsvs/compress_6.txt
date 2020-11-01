@@ -1,0 +1,10 @@
+compress_6	Severe	O
+compress_6	cases	O
+compress_6	can	O
+compress_6	compress	compress
+compress_6	the	O
+compress_6	trachea	O
+compress_6	and	O
+compress_6	do	O
+compress_6	require	O
+compress_6	treatment	O

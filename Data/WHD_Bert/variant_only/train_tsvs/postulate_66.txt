@@ -1,0 +1,14 @@
+postulate_66	He	O
+postulate_66	began	O
+postulate_66	with	O
+postulate_66	studying	O
+postulate_66	geometry	O
+postulate_66	particularly	O
+postulate_66	Euclid	O
+postulate_66	's	O
+postulate_66	fifth	O
+postulate_66	postulate	postulate_nou
+postulate_66	and	O
+postulate_66	non	O
+postulate_66	Euclidean	O
+postulate_66	geometry	O

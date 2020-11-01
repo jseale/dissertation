@@ -1,0 +1,14 @@
+conjugate_71	Therefore	O
+conjugate_71	its	O
+conjugate_71	conjugate	conjugate_adj-nou
+conjugate_71	base	O
+conjugate_71	is	O
+conjugate_71	suitable	O
+conjugate_71	for	O
+conjugate_71	the	O
+conjugate_71	deprotonation	O
+conjugate_71	of	O
+conjugate_71	compounds	O
+conjugate_71	with	O
+conjugate_71	greater	O
+conjugate_71	acidity	O

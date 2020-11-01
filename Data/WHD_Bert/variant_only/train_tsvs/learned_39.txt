@@ -1,0 +1,14 @@
+learned_39	When	O
+learned_39	Robert	O
+learned_39	Macauley	O
+learned_39	learned	learned_vrb
+learned_39	about	O
+learned_39	the	O
+learned_39	situation	O
+learned_39	he	O
+learned_39	decided	O
+learned_39	to	O
+learned_39	respond	O
+learned_39	on	O
+learned_39	his	O
+learned_39	own	O

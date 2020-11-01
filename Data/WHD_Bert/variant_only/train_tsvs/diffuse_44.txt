@@ -1,0 +1,17 @@
+diffuse_44	The	O
+diffuse_44	Historia	O
+diffuse_44	though	O
+diffuse_44	written	O
+diffuse_44	in	O
+diffuse_44	a	O
+diffuse_44	diffuse	diffuse_adj
+diffuse_44	style	O
+diffuse_44	furnishes	O
+diffuse_44	a	O
+diffuse_44	mass	O
+diffuse_44	of	O
+diffuse_44	information	O
+diffuse_44	collected	O
+diffuse_44	at	O
+diffuse_44	first	O
+diffuse_44	hand	O

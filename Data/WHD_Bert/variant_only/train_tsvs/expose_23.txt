@@ -1,0 +1,16 @@
+expose_23	But	O
+expose_23	one	O
+expose_23	of	O
+expose_23	the	O
+expose_23	jealous	O
+expose_23	relatives	O
+expose_23	of	O
+expose_23	Chandra	O
+expose_23	Cochin	O
+expose_23	Haneefa	O
+expose_23	manages	O
+expose_23	to	O
+expose_23	expose	expose_vrb
+expose_23	Appukkuttan	O
+expose_23	before	O
+expose_23	everyone	O

@@ -1,0 +1,12 @@
+document_43	It	O
+document_43	is	O
+document_43	an	O
+document_43	XHTML	O
+document_43	document	document_nou
+document_43	type	O
+document_43	defined	O
+document_43	by	O
+document_43	the	O
+document_43	Open	O
+document_43	Mobile	O
+document_43	Alliance	O

@@ -1,0 +1,15 @@
+content_60	The	O
+content_60	Baba	O
+content_60	Yaga	O
+content_60	downloadable	O
+content_60	content	content_nou
+content_60	sees	O
+content_60	Lara	O
+content_60	investigating	O
+content_60	a	O
+content_60	disturbance	O
+content_60	within	O
+content_60	the	O
+content_60	Soviet	O
+content_60	mining	O
+content_60	facility	O

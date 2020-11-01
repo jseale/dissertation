@@ -1,0 +1,17 @@
+abuses_30	Canada	O
+abuses_30	became	O
+abuses_30	an	O
+abuses_30	outspoken	O
+abuses_30	critic	O
+abuses_30	of	O
+abuses_30	the	O
+abuses_30	Taliban	O
+abuses_30	's	O
+abuses_30	human	O
+abuses_30	rights	O
+abuses_30	abuses	abuses_nou
+abuses_30	against	O
+abuses_30	the	O
+abuses_30	citizens	O
+abuses_30	of	O
+abuses_30	Afghanistan	O

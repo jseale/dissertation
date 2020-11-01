@@ -1,0 +1,12 @@
+reject_50	One	O
+reject_50	must	O
+reject_50	either	O
+reject_50	reject	reject_vrb
+reject_50	the	O
+reject_50	norm	O
+reject_50	heterosexuality	O
+reject_50	or	O
+reject_50	embrace	O
+reject_50	it	O
+reject_50	full	O
+reject_50	force	O

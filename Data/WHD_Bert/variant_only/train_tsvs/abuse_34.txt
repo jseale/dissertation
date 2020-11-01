@@ -1,0 +1,10 @@
+abuse_34	Disqualifying	O
+abuse_34	events	O
+abuse_34	include	O
+abuse_34	convictions	O
+abuse_34	for	O
+abuse_34	domestic	O
+abuse_34	violence	O
+abuse_34	and	O
+abuse_34	child	O
+abuse_34	abuse	abuse_nou

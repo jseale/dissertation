@@ -1,0 +1,9 @@
+retard_24	These	O
+retard_24	inhibitors	O
+retard_24	chemically	O
+retard_24	retard	retard_vrb
+retard_24	the	O
+retard_24	formation	O
+retard_24	of	O
+retard_24	clathrate	O
+retard_24	hydrates	O

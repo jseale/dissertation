@@ -1,0 +1,17 @@
+tear_34	For	O
+tear_34	the	O
+tear_34	first	O
+tear_34	time	O
+tear_34	during	O
+tear_34	the	O
+tear_34	1989	O
+tear_34	Tiananmen	O
+tear_34	Protests	O
+tear_34	the	O
+tear_34	police	O
+tear_34	fired	O
+tear_34	tear	tear_nou
+tear_34	gas	O
+tear_34	to	O
+tear_34	repel	O
+tear_34	protesters	O

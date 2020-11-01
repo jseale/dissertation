@@ -1,0 +1,12 @@
+refuse_23	They	O
+refuse_23	soon	O
+refuse_23	become	O
+refuse_23	bored	O
+refuse_23	of	O
+refuse_23	him	O
+refuse_23	but	O
+refuse_23	refuse	refuse_vrb
+refuse_23	to	O
+refuse_23	let	O
+refuse_23	him	O
+refuse_23	go	O

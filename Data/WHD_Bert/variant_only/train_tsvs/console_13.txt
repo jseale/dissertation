@@ -1,0 +1,10 @@
+console_13	His	O
+console_13	father	O
+console_13	uses	O
+console_13	his	O
+console_13	wisdom	O
+console_13	of	O
+console_13	experience	O
+console_13	to	O
+console_13	console	console_vrb
+console_13	him	O

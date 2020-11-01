@@ -1,0 +1,17 @@
+import_70	He	O
+import_70	managed	O
+import_70	to	O
+import_70	import	import_vrb
+import_70	directly	O
+import_70	from	O
+import_70	England	O
+import_70	an	O
+import_70	automatic	O
+import_70	flatbed	O
+import_70	printing	O
+import_70	press	O
+import_70	the	O
+import_70	latest	O
+import_70	type	O
+import_70	then	O
+import_70	available	O

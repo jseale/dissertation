@@ -1,0 +1,17 @@
+august_35	The	O
+august_35	order	O
+august_35	's	O
+august_35	current	O
+august_35	head	O
+august_35	is	O
+august_35	Ernst	O
+august_35	August	august_nam
+august_35	Prinz	O
+august_35	von	O
+august_35	Hanover	O
+august_35	head	O
+august_35	of	O
+august_35	the	O
+august_35	house	O
+august_35	of	O
+august_35	Hanover	O

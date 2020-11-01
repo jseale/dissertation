@@ -1,0 +1,17 @@
+august_36	He	O
+august_36	was	O
+august_36	also	O
+august_36	selected	O
+august_36	in	O
+august_36	the	O
+august_36	Bangladesh	O
+august_36	national	O
+august_36	squad	O
+august_36	tour	O
+august_36	to	O
+august_36	Australia	O
+august_36	in	O
+august_36	August	august
+august_36	and	O
+august_36	September	O
+august_36	2008	O

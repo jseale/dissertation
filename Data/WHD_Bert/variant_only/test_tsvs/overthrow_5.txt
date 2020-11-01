@@ -1,0 +1,16 @@
+overthrow_5	In	O
+overthrow_5	1783	O
+overthrow_5	Fox	O
+overthrow_5	produced	O
+overthrow_5	his	O
+overthrow_5	India	O
+overthrow_5	Bill	O
+overthrow_5	which	O
+overthrow_5	led	O
+overthrow_5	to	O
+overthrow_5	the	O
+overthrow_5	overthrow	overthrow_nou
+overthrow_5	of	O
+overthrow_5	the	O
+overthrow_5	coalition	O
+overthrow_5	government	O

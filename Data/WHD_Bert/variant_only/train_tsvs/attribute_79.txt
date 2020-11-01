@@ -1,0 +1,15 @@
+attribute_79	We	O
+attribute_79	could	O
+attribute_79	attribute	attribute_vrb
+attribute_79	these	O
+attribute_79	changes	O
+attribute_79	to	O
+attribute_79	surrender	O
+attribute_79	devotion	O
+attribute_79	and	O
+attribute_79	their	O
+attribute_79	involvement	O
+attribute_79	in	O
+attribute_79	the	O
+attribute_79	premie	O
+attribute_79	community	O

@@ -1,0 +1,13 @@
+celtic_6	The	O
+celtic_6	exterior	O
+celtic_6	has	O
+celtic_6	some	O
+celtic_6	Celtic	celtic
+celtic_6	symbols	O
+celtic_6	such	O
+celtic_6	as	O
+celtic_6	the	O
+celtic_6	swastika	O
+celtic_6	and	O
+celtic_6	horned	O
+celtic_6	feet	O

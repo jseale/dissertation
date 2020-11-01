@@ -1,0 +1,17 @@
+confines_39	It	O
+confines_39	should	O
+confines_39	be	O
+confines_39	aware	O
+confines_39	of	O
+confines_39	the	O
+confines_39	impact	O
+confines_39	its	O
+confines_39	rulings	O
+confines_39	may	O
+confines_39	have	O
+confines_39	outside	O
+confines_39	the	O
+confines_39	confines	confines_nou
+confines_39	of	O
+confines_39	the	O
+confines_39	Community	O

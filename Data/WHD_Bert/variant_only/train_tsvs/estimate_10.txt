@@ -1,0 +1,8 @@
+estimate_10	Chiweta	O
+estimate_10	has	O
+estimate_10	an	O
+estimate_10	estimate	estimate_nou
+estimate_10	population	O
+estimate_10	of	O
+estimate_10	45,000	O
+estimate_10	people	O

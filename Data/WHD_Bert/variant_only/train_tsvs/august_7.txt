@@ -1,0 +1,16 @@
+august_7	In	O
+august_7	early	O
+august_7	August	august
+august_7	Sabato	O
+august_7	predicted	O
+august_7	a	O
+august_7	pro	O
+august_7	Democratic	O
+august_7	shift	O
+august_7	of	O
+august_7	12	O
+august_7	15	O
+august_7	seats	O
+august_7	in	O
+august_7	the	O
+august_7	House	O

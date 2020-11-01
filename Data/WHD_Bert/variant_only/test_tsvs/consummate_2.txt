@@ -1,0 +1,17 @@
+consummate_2	In	O
+consummate_2	1992	O
+consummate_2	Grupo	O
+consummate_2	Aeroméxico	O
+consummate_2	was	O
+consummate_2	among	O
+consummate_2	other	O
+consummate_2	investors	O
+consummate_2	that	O
+consummate_2	failed	O
+consummate_2	to	O
+consummate_2	consummate	consummate_vrb
+consummate_2	the	O
+consummate_2	acquisition	O
+consummate_2	of	O
+consummate_2	Continental	O
+consummate_2	Airlines	O

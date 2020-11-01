@@ -1,0 +1,17 @@
+suspect_26	Ricky	O
+suspect_26	took	O
+suspect_26	pictures	O
+suspect_26	of	O
+suspect_26	Heather	O
+suspect_26	kissing	O
+suspect_26	Adam	O
+suspect_26	Newman	O
+suspect_26	Michael	O
+suspect_26	Muhney	O
+suspect_26	a	O
+suspect_26	key	O
+suspect_26	suspect	suspect_adj-nou
+suspect_26	in	O
+suspect_26	Sharon	O
+suspect_26	's	O
+suspect_26	case	O

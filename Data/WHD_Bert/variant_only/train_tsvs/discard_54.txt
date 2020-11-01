@@ -1,0 +1,13 @@
+discard_54	The	O
+discard_54	player	O
+discard_54	must	O
+discard_54	have	O
+discard_54	a	O
+discard_54	discard	discard_nou
+discard_54	and	O
+discard_54	may	O
+discard_54	not	O
+discard_54	discard	discard_nou
+discard_54	a	O
+discard_54	playable	O
+discard_54	card	O

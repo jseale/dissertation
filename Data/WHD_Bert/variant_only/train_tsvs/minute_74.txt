@@ -1,0 +1,11 @@
+minute_74	The	O
+minute_74	15-minute	O
+minute_74	show	O
+minute_74	was	O
+minute_74	hosted	O
+minute_74	by	O
+minute_74	famous	O
+minute_74	sports	O
+minute_74	announcer	O
+minute_74	Russ	O
+minute_74	Hodges	O

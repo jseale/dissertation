@@ -1,0 +1,12 @@
+graduate_64	She	O
+graduate_64	did	O
+graduate_64	graduate	graduate_adj-nou
+graduate_64	work	O
+graduate_64	on	O
+graduate_64	strategic	O
+graduate_64	and	O
+graduate_64	international	O
+graduate_64	studies	O
+graduate_64	at	O
+graduate_64	Oxford	O
+graduate_64	University	O

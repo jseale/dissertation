@@ -1,0 +1,17 @@
+reject_3	In	O
+reject_3	1918	O
+reject_3	prior	O
+reject_3	to	O
+reject_3	Versailles	O
+reject_3	he	O
+reject_3	published	O
+reject_3	an	O
+reject_3	essay	O
+reject_3	titled	O
+reject_3	Reject	reject_vrb
+reject_3	the	O
+reject_3	Anglo	O
+reject_3	American	O
+reject_3	Centered	O
+reject_3	Peace	O
+reject_3	英米本位の平和主義を排す	O

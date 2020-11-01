@@ -1,0 +1,14 @@
+perfect_47	Fuller	O
+perfect_47	and	O
+perfect_47	Baker	O
+perfect_47	developed	O
+perfect_47	methods	O
+perfect_47	to	O
+perfect_47	perfect	perfect_vrb
+perfect_47	the	O
+perfect_47	chemical	O
+perfect_47	process	O
+perfect_47	for	O
+perfect_47	large	O
+perfect_47	scale	O
+perfect_47	manufacturing	O

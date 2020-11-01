@@ -1,0 +1,11 @@
+alternate_21	The	O
+alternate_21	alternate	alternate_adj-nou
+alternate_21	captains	O
+alternate_21	include	O
+alternate_21	Kelley	O
+alternate_21	Steadman	O
+alternate_21	Bailey	O
+alternate_21	Bram	O
+alternate_21	and	O
+alternate_21	Jess	O
+alternate_21	Jones	O

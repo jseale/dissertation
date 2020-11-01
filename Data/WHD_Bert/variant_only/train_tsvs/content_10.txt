@@ -1,0 +1,17 @@
+content_10	Content	content_nou
+content_10	from	O
+content_10	the	O
+content_10	United	O
+content_10	States	O
+content_10	diplomatic	O
+content_10	cables	O
+content_10	leak	O
+content_10	has	O
+content_10	depicted	O
+content_10	Sub	O
+content_10	Saharan	O
+content_10	Africa	O
+content_10	and	O
+content_10	related	O
+content_10	subjects	O
+content_10	extensively	O

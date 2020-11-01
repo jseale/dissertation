@@ -1,0 +1,16 @@
+reject_10	The	O
+reject_10	first	O
+reject_10	school	O
+reject_10	to	O
+reject_10	completely	O
+reject_10	reject	reject_vrb
+reject_10	mercantilism	O
+reject_10	was	O
+reject_10	the	O
+reject_10	physiocrats	O
+reject_10	who	O
+reject_10	developed	O
+reject_10	their	O
+reject_10	theories	O
+reject_10	in	O
+reject_10	France	O

@@ -1,0 +1,15 @@
+conscript_44	Enlistment	O
+conscript_44	is	O
+conscript_44	voluntary	O
+conscript_44	in	O
+conscript_44	peacetime	O
+conscript_44	but	O
+conscript_44	the	O
+conscript_44	government	O
+conscript_44	has	O
+conscript_44	the	O
+conscript_44	authority	O
+conscript_44	to	O
+conscript_44	conscript	conscript_vrb
+conscript_44	in	O
+conscript_44	emergencies	O

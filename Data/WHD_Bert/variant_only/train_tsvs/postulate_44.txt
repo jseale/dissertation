@@ -1,0 +1,16 @@
+postulate_44	Hammond	O
+postulate_44	's	O
+postulate_44	postulate	postulate_nou
+postulate_44	is	O
+postulate_44	sometimes	O
+postulate_44	called	O
+postulate_44	the	O
+postulate_44	Hammond	O
+postulate_44	Leffler	O
+postulate_44	postulate	postulate_nou
+postulate_44	to	O
+postulate_44	give	O
+postulate_44	credit	O
+postulate_44	to	O
+postulate_44	both	O
+postulate_44	scientists	O

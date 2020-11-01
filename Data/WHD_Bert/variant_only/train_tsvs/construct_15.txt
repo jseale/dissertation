@@ -1,0 +1,9 @@
+construct_15	We	O
+construct_15	construct	construct_vrb
+construct_15	a	O
+construct_15	new	O
+construct_15	POVM	O
+construct_15	to	O
+construct_15	distinguish	O
+construct_15	between	O
+construct_15	and	O

@@ -1,0 +1,17 @@
+deviate_9	If	O
+deviate_9	an	O
+deviate_9	individual	O
+deviate_9	were	O
+deviate_9	to	O
+deviate_9	deviate	deviate_vrb
+deviate_9	from	O
+deviate_9	the	O
+deviate_9	normative	O
+deviate_9	behavior	O
+deviate_9	they	O
+deviate_9	would	O
+deviate_9	then	O
+deviate_9	develop	O
+deviate_9	negative	O
+deviate_9	self	O
+deviate_9	views	O

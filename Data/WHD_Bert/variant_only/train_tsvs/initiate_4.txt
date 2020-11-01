@@ -1,0 +1,12 @@
+initiate_4	The	O
+initiate_4	inhibited	O
+initiate_4	form	O
+initiate_4	is	O
+initiate_4	described	O
+initiate_4	as	O
+initiate_4	a	O
+initiate_4	failure	O
+initiate_4	to	O
+initiate_4	initiate	initiate_vrb
+initiate_4	or	O
+initiate_4	respond	O

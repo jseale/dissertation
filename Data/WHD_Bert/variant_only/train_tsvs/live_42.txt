@@ -1,0 +1,15 @@
+live_42	Both	O
+live_42	the	O
+live_42	second	O
+live_42	television	O
+live_42	series	O
+live_42	and	O
+live_42	the	O
+live_42	live	live_adj
+live_42	action	O
+live_42	series	O
+live_42	were	O
+live_42	broadcast	O
+live_42	in	O
+live_42	1080i	O
+live_42	HDTV	O

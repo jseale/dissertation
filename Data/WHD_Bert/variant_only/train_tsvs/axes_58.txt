@@ -1,0 +1,10 @@
+axes_58	Taylor	O
+axes_58	articulates	O
+axes_58	these	O
+axes_58	moral	O
+axes_58	frameworks	O
+axes_58	in	O
+axes_58	terms	O
+axes_58	of	O
+axes_58	three	O
+axes_58	axes	axes_nou

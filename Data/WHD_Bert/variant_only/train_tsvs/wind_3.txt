@@ -1,0 +1,14 @@
+wind_3	Like	O
+wind_3	most	O
+wind_3	extremely	O
+wind_3	massive	O
+wind_3	stars	O
+wind_3	HD	O
+wind_3	151932	O
+wind_3	is	O
+wind_3	losing	O
+wind_3	mass	O
+wind_3	via	O
+wind_3	its	O
+wind_3	stellar	O
+wind_3	wind	wind_nou

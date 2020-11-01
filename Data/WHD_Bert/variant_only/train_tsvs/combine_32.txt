@@ -1,0 +1,17 @@
+combine_32	Metaphors	O
+combine_32	allow	O
+combine_32	people	O
+combine_32	to	O
+combine_32	combine	combine_vrb
+combine_32	concepts	O
+combine_32	from	O
+combine_32	one	O
+combine_32	area	O
+combine_32	and	O
+combine_32	apply	O
+combine_32	them	O
+combine_32	to	O
+combine_32	another	O
+combine_32	often	O
+combine_32	without	O
+combine_32	thought	O

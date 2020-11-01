@@ -1,0 +1,8 @@
+diagnoses_37	House	O
+diagnoses_37	diagnoses	diagnoses_vrb
+diagnoses_37	Flynn	O
+diagnoses_37	with	O
+diagnoses_37	tularemia	O
+diagnoses_37	from	O
+diagnoses_37	his	O
+diagnoses_37	rabbits	O

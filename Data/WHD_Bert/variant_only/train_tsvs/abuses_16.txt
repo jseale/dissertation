@@ -1,0 +1,14 @@
+abuses_16	He	O
+abuses_16	cruelly	O
+abuses_16	abuses	abuses_vrb
+abuses_16	her	O
+abuses_16	as	O
+abuses_16	Cathy	O
+abuses_16	's	O
+abuses_16	marriage	O
+abuses_16	to	O
+abuses_16	Edgar	O
+abuses_16	continues	O
+abuses_16	to	O
+abuses_16	torment	O
+abuses_16	him	O

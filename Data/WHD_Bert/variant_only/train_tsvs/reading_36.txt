@@ -1,0 +1,7 @@
+reading_36	He	O
+reading_36	enjoys	O
+reading_36	reading	reading_en
+reading_36	cycling	O
+reading_36	and	O
+reading_36	playing	O
+reading_36	golf	O

@@ -1,0 +1,15 @@
+celtic_5	He	O
+celtic_5	then	O
+celtic_5	moved	O
+celtic_5	into	O
+celtic_5	non	O
+celtic_5	league	O
+celtic_5	football	O
+celtic_5	with	O
+celtic_5	Stalybridge	O
+celtic_5	Celtic	celtic_adj-nou-sports
+celtic_5	Leigh	O
+celtic_5	RMI	O
+celtic_5	and	O
+celtic_5	Winsford	O
+celtic_5	United	O

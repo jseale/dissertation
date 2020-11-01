@@ -1,0 +1,17 @@
+transplant_40	Corneal	O
+transplant_40	transplant	transplant_nou
+transplant_40	may	O
+transplant_40	be	O
+transplant_40	considered	O
+transplant_40	for	O
+transplant_40	patients	O
+transplant_40	presenting	O
+transplant_40	with	O
+transplant_40	severely	O
+transplant_40	impaired	O
+transplant_40	vision	O
+transplant_40	caused	O
+transplant_40	by	O
+transplant_40	cholesterol	O
+transplant_40	corneal	O
+transplant_40	opacities	O

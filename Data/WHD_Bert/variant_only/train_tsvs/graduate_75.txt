@@ -1,0 +1,17 @@
+graduate_75	Graduate	graduate_adj-nou
+graduate_75	students	O
+graduate_75	spend	O
+graduate_75	a	O
+graduate_75	month	O
+graduate_75	training	O
+graduate_75	in	O
+graduate_75	Moscow	O
+graduate_75	while	O
+graduate_75	the	O
+graduate_75	undergraduates	O
+graduate_75	participate	O
+graduate_75	in	O
+graduate_75	a	O
+graduate_75	semester	O
+graduate_75	long	O
+graduate_75	program	O

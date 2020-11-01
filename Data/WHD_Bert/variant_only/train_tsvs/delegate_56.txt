@@ -1,0 +1,17 @@
+delegate_56	In	O
+delegate_56	1976	O
+delegate_56	Griffin	O
+delegate_56	ran	O
+delegate_56	as	O
+delegate_56	an	O
+delegate_56	alternate	O
+delegate_56	delegate	delegate_nou
+delegate_56	to	O
+delegate_56	the	O
+delegate_56	Democratic	O
+delegate_56	National	O
+delegate_56	Convention	O
+delegate_56	pledged	O
+delegate_56	to	O
+delegate_56	U.S.	O
+delegate_56	Rep.	O

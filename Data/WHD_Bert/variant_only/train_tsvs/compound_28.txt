@@ -1,0 +1,15 @@
+compound_28	The	O
+compound_28	same	O
+compound_28	compound	compound_nou
+compound_28	sans	O
+compound_28	the	O
+compound_28	quaternary	O
+compound_28	methyl	O
+compound_28	group	O
+compound_28	and	O
+compound_28	the	O
+compound_28	methoxy	O
+compound_28	ether	O
+compound_28	is	O
+compound_28	called	O
+compound_28	tipepidine	O

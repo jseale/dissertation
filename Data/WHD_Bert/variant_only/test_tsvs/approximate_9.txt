@@ -1,0 +1,16 @@
+approximate_9	This	O
+approximate_9	corresponds	O
+approximate_9	to	O
+approximate_9	180	O
+approximate_9	kpc	O
+approximate_9	600,000	O
+approximate_9	ly	O
+approximate_9	at	O
+approximate_9	an	O
+approximate_9	approximate	approximate_adj-nou
+approximate_9	distance	O
+approximate_9	of	O
+approximate_9	55	O
+approximate_9	kpc	O
+approximate_9	180,000	O
+approximate_9	ly	O

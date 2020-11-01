@@ -1,0 +1,11 @@
+decrease_10	This	O
+decrease_10	hardness	O
+decrease_10	decrease	decrease_nou
+decrease_10	is	O
+decrease_10	accompanied	O
+decrease_10	by	O
+decrease_10	the	O
+decrease_10	decrease	decrease_nou
+decrease_10	in	O
+decrease_10	magnetic	O
+decrease_10	susceptibility	O

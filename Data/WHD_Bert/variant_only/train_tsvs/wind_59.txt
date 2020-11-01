@@ -1,0 +1,13 @@
+wind_59	Paegam	O
+wind_59	also	O
+wind_59	has	O
+wind_59	the	O
+wind_59	highest	O
+wind_59	wind	wind_nou
+wind_59	speeds	O
+wind_59	of	O
+wind_59	any	O
+wind_59	district	O
+wind_59	in	O
+wind_59	North	O
+wind_59	Korea	O

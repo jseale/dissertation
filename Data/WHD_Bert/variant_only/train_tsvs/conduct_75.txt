@@ -1,0 +1,15 @@
+conduct_75	The	O
+conduct_75	Knights	O
+conduct_75	of	O
+conduct_75	Columbus	O
+conduct_75	help	O
+conduct_75	to	O
+conduct_75	conduct	conduct_vrb
+conduct_75	services	O
+conduct_75	within	O
+conduct_75	the	O
+conduct_75	Parish	O
+conduct_75	periodically	O
+conduct_75	throughout	O
+conduct_75	the	O
+conduct_75	year	O

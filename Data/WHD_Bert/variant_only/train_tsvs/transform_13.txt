@@ -1,0 +1,16 @@
+transform_13	It	O
+transform_13	is	O
+transform_13	no	O
+transform_13	longer	O
+transform_13	to	O
+transform_13	transform	transform
+transform_13	an	O
+transform_13	opinion	O
+transform_13	but	O
+transform_13	to	O
+transform_13	arouse	O
+transform_13	an	O
+transform_13	active	O
+transform_13	and	O
+transform_13	mythical	O
+transform_13	belief	O

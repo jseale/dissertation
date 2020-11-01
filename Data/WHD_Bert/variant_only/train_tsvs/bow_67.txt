@@ -1,0 +1,16 @@
+bow_67	The	O
+bow_67	bow	bow_nou-ship
+bow_67	above	O
+bow_67	the	O
+bow_67	waterline	O
+bow_67	was	O
+bow_67	nearly	O
+bow_67	straight	O
+bow_67	in	O
+bow_67	contrast	O
+bow_67	to	O
+bow_67	that	O
+bow_67	of	O
+bow_67	wooden	O
+bow_67	sailing	O
+bow_67	ships	O

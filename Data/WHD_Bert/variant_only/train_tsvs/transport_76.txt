@@ -1,0 +1,14 @@
+transport_76	River	O
+transport_76	transport	transport_nou
+transport_76	also	O
+transport_76	connects	O
+transport_76	to	O
+transport_76	dozens	O
+transport_76	of	O
+transport_76	ports	O
+transport_76	upstream	O
+transport_76	such	O
+transport_76	as	O
+transport_76	Kisangani	O
+transport_76	and	O
+transport_76	Bangui	O

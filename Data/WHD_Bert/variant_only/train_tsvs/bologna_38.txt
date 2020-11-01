@@ -1,0 +1,8 @@
+bologna_38	His	O
+bologna_38	remains	O
+bologna_38	rests	O
+bologna_38	at	O
+bologna_38	the	O
+bologna_38	Certosa	O
+bologna_38	di	O
+bologna_38	Bologna	bologna_geo

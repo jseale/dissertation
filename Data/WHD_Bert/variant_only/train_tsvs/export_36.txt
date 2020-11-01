@@ -1,0 +1,12 @@
+export_36	90	O
+export_36	of	O
+export_36	India	O
+export_36	's	O
+export_36	export	export_nou
+export_36	quality	O
+export_36	Cashew	O
+export_36	Kernels	O
+export_36	are	O
+export_36	prepared	O
+export_36	from	O
+export_36	Kollam	O

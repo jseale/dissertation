@@ -1,0 +1,13 @@
+read_60	For	O
+read_60	whatever	O
+read_60	reason	O
+read_60	MIT	O
+read_60	audiences	O
+read_60	would	O
+read_60	spontaneously	O
+read_60	read	read_present
+read_60	the	O
+read_60	announcements	O
+read_60	aloud	O
+read_60	in	O
+read_60	unison	O

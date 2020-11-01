@@ -1,0 +1,15 @@
+laminate_52	It	O
+laminate_52	is	O
+laminate_52	generally	O
+laminate_52	made	O
+laminate_52	of	O
+laminate_52	either	O
+laminate_52	a	O
+laminate_52	plywood	O
+laminate_52	laminate	laminate_nou
+laminate_52	or	O
+laminate_52	aluminum	O
+laminate_52	with	O
+laminate_52	a	O
+laminate_52	rubber	O
+laminate_52	laminate	laminate_nou

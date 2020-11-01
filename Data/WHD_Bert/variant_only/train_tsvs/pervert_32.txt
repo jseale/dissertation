@@ -1,0 +1,15 @@
+pervert_32	Anchovie	O
+pervert_32	Allcock	O
+pervert_32	also	O
+pervert_32	known	O
+pervert_32	as	O
+pervert_32	Pizza	O
+pervert_32	Guy	O
+pervert_32	is	O
+pervert_32	Germaine	O
+pervert_32	's	O
+pervert_32	stalker	O
+pervert_32	and	O
+pervert_32	a	O
+pervert_32	general	O
+pervert_32	pervert	pervert_nou

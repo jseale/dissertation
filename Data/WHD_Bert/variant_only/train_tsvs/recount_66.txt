@@ -1,0 +1,12 @@
+recount_66	After	O
+recount_66	a	O
+recount_66	lengthy	O
+recount_66	recount	recount_nou
+recount_66	Thompson	O
+recount_66	lost	O
+recount_66	the	O
+recount_66	general	O
+recount_66	election	O
+recount_66	to	O
+recount_66	Mark	O
+recount_66	Grisanti	O

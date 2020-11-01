@@ -1,0 +1,14 @@
+permit_17	The	O
+permit_17	permit	permit_nou
+permit_17	was	O
+permit_17	eventually	O
+permit_17	granted	O
+permit_17	on	O
+permit_17	3	O
+permit_17	July	O
+permit_17	2007	O
+permit_17	and	O
+permit_17	the	O
+permit_17	deal	O
+permit_17	was	O
+permit_17	completed	O

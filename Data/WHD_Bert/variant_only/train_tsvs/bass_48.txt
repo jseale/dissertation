@@ -1,0 +1,15 @@
+bass_48	Billy	O
+bass_48	was	O
+bass_48	originally	O
+bass_48	recruited	O
+bass_48	to	O
+bass_48	play	O
+bass_48	less	O
+bass_48	busy	O
+bass_48	bass	bass
+bass_48	parts	O
+bass_48	than	O
+bass_48	their	O
+bass_48	then	O
+bass_48	bass	bass
+bass_48	player	O

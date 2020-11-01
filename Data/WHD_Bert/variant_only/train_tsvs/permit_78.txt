@@ -1,0 +1,17 @@
+permit_78	Sgro	O
+permit_78	denied	O
+permit_78	she	O
+permit_78	had	O
+permit_78	done	O
+permit_78	anything	O
+permit_78	wrong	O
+permit_78	and	O
+permit_78	argued	O
+permit_78	that	O
+permit_78	she	O
+permit_78	granted	O
+permit_78	the	O
+permit_78	permit	permit_nou
+permit_78	on	O
+permit_78	compassionate	O
+permit_78	grounds	O

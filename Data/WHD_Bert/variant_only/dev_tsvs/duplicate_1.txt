@@ -1,0 +1,16 @@
+duplicate_1	The	O
+duplicate_1	map	O
+duplicate_1	of	O
+duplicate_1	preliminary	O
+duplicate_1	reports	O
+duplicate_1	does	O
+duplicate_1	not	O
+duplicate_1	take	O
+duplicate_1	into	O
+duplicate_1	account	O
+duplicate_1	storm	O
+duplicate_1	surveys	O
+duplicate_1	and	O
+duplicate_1	possible	O
+duplicate_1	duplicate	duplicate_adj-nou
+duplicate_1	reports	O

@@ -1,0 +1,13 @@
+winds_45	He	O
+winds_45	likes	O
+winds_45	to	O
+winds_45	sleep	O
+winds_45	on	O
+winds_45	the	O
+winds_45	school	O
+winds_45	roof	O
+winds_45	and	O
+winds_45	play	O
+winds_45	in	O
+winds_45	the	O
+winds_45	winds	winds_nou

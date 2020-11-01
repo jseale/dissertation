@@ -1,0 +1,12 @@
+learned_27	He	O
+learned_27	learned	learned_vrb
+learned_27	by	O
+learned_27	copying	O
+learned_27	the	O
+learned_27	The	O
+learned_27	Wedding	O
+learned_27	at	O
+learned_27	Cana	O
+learned_27	at	O
+learned_27	the	O
+learned_27	Louvre	O

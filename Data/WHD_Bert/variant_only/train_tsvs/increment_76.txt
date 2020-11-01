@@ -1,0 +1,16 @@
+increment_76	Tie	O
+increment_76	break	O
+increment_76	games	O
+increment_76	were	O
+increment_76	played	O
+increment_76	at	O
+increment_76	a	O
+increment_76	time	O
+increment_76	control	O
+increment_76	of	O
+increment_76	twenty	O
+increment_76	minutes	O
+increment_76	plus	O
+increment_76	ten	O
+increment_76	second	O
+increment_76	increment	increment_nou

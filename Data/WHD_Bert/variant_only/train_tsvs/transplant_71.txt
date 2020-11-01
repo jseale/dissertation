@@ -1,0 +1,15 @@
+transplant_71	In	O
+transplant_71	2004	O
+transplant_71	Parry	O
+transplant_71	was	O
+transplant_71	diagnosed	O
+transplant_71	with	O
+transplant_71	advanced	O
+transplant_71	dilated	O
+transplant_71	cardiomyopathy	O
+transplant_71	and	O
+transplant_71	placed	O
+transplant_71	on	O
+transplant_71	the	O
+transplant_71	transplant	transplant_nou
+transplant_71	list	O

@@ -1,0 +1,8 @@
+initiate_8	The	O
+initiate_8	fraternity	O
+initiate_8	after	O
+initiate_8	debate	O
+initiate_8	declined	O
+initiate_8	to	O
+initiate_8	initiate	initiate_vrb
+initiate_8	her	O

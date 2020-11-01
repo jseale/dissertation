@@ -1,0 +1,13 @@
+abuse_47	Allegations	O
+abuse_47	included	O
+abuse_47	rape	O
+abuse_47	sodomy	O
+abuse_47	fellatio	O
+abuse_47	and	O
+abuse_47	bizarre	O
+abuse_47	acts	O
+abuse_47	characteristic	O
+abuse_47	of	O
+abuse_47	satanic	O
+abuse_47	ritual	O
+abuse_47	abuse	abuse_nou

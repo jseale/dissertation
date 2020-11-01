@@ -1,0 +1,14 @@
+predicate_55	However	O
+predicate_55	in	O
+predicate_55	none	O
+predicate_55	of	O
+predicate_55	these	O
+predicate_55	cases	O
+predicate_55	does	O
+predicate_55	the	O
+predicate_55	subject	O
+predicate_55	concept	O
+predicate_55	contain	O
+predicate_55	the	O
+predicate_55	predicate	predicate_nou
+predicate_55	concept	O

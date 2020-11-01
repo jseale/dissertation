@@ -1,0 +1,14 @@
+decrease_0	The	O
+decrease_0	secretion	O
+decrease_0	of	O
+decrease_0	insulin	O
+decrease_0	and	O
+decrease_0	the	O
+decrease_0	body	O
+decrease_0	's	O
+decrease_0	response	O
+decrease_0	to	O
+decrease_0	insulin	O
+decrease_0	decrease	decrease_vrb
+decrease_0	by	O
+decrease_0	30	O

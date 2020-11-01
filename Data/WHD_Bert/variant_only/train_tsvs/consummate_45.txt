@@ -1,0 +1,17 @@
+consummate_45	The	O
+consummate_45	pit	O
+consummate_45	fiend	O
+consummate_45	engages	O
+consummate_45	the	O
+consummate_45	five	O
+consummate_45	and	O
+consummate_45	manages	O
+consummate_45	to	O
+consummate_45	kill	O
+consummate_45	the	O
+consummate_45	consummate	consummate_adj
+consummate_45	survivor	O
+consummate_45	Jarlaxle	O
+consummate_45	in	O
+consummate_45	one	O
+consummate_45	blow	O

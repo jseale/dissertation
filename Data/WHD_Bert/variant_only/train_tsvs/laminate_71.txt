@@ -1,0 +1,17 @@
+laminate_71	The	O
+laminate_71	company	O
+laminate_71	built	O
+laminate_71	maple	O
+laminate_71	laminate	laminate_nou
+laminate_71	propellers	O
+laminate_71	for	O
+laminate_71	engines	O
+laminate_71	of	O
+laminate_71	65	O
+laminate_71	to	O
+laminate_71	260	O
+laminate_71	hp	O
+laminate_71	48	O
+laminate_71	to	O
+laminate_71	194	O
+laminate_71	kW	O

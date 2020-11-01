@@ -1,0 +1,11 @@
+winds_6	In	O
+winds_6	the	O
+winds_6	Swiss	O
+winds_6	Alps	O
+winds_6	winds	winds_nou
+winds_6	over	O
+winds_6	200	O
+winds_6	km	O
+winds_6	h	O
+winds_6	were	O
+winds_6	recorded	O

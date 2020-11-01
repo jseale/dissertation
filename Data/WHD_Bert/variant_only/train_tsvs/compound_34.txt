@@ -1,0 +1,8 @@
+compound_34	In	O
+compound_34	2006	O
+compound_34	Arcilla	O
+compound_34	starred	O
+compound_34	in	O
+compound_34	the	O
+compound_34	film	O
+compound_34	Compound	compound_nou

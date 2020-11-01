@@ -1,0 +1,17 @@
+mobile_42	The	O
+mobile_42	Dutch	O
+mobile_42	company	O
+mobile_42	Artiq	O
+mobile_42	Mobile	mobile
+mobile_42	launched	O
+mobile_42	a	O
+mobile_42	website	O
+mobile_42	where	O
+mobile_42	people	O
+mobile_42	can	O
+mobile_42	upload	O
+mobile_42	homemade	O
+mobile_42	Loituma	O
+mobile_42	Girl	O
+mobile_42	spoof	O
+mobile_42	videos	O

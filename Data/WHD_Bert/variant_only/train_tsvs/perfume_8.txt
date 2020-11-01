@@ -1,0 +1,14 @@
+perfume_8	In	O
+perfume_8	Perfume	perfume_nou
+perfume_8	Whishaw	O
+perfume_8	played	O
+perfume_8	Jean	O
+perfume_8	Baptiste	O
+perfume_8	Grenouille	O
+perfume_8	a	O
+perfume_8	perfume	perfume_nou
+perfume_8	maker	O
+perfume_8	whose	O
+perfume_8	craft	O
+perfume_8	turns	O
+perfume_8	deadly	O

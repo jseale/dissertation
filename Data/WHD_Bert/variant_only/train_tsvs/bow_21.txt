@@ -1,0 +1,14 @@
+bow_21	These	O
+bow_21	include	O
+bow_21	dendrites	O
+bow_21	branch	O
+bow_21	type	O
+bow_21	bush	O
+bow_21	type	O
+bow_21	spikes	O
+bow_21	strings	O
+bow_21	bow	bow_nou-knot
+bow_21	ties	O
+bow_21	and	O
+bow_21	vented	O
+bow_21	trees	O

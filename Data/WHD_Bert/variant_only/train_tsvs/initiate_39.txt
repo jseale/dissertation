@@ -1,0 +1,15 @@
+initiate_39	However	O
+initiate_39	they	O
+initiate_39	were	O
+initiate_39	crippled	O
+initiate_39	with	O
+initiate_39	fear	O
+initiate_39	forcing	O
+initiate_39	Galvatron	O
+initiate_39	to	O
+initiate_39	initiate	initiate_vrb
+initiate_39	the	O
+initiate_39	attack	O
+initiate_39	on	O
+initiate_39	Unicron	O
+initiate_39	himself	O

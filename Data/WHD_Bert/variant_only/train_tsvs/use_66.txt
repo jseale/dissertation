@@ -1,0 +1,14 @@
+use_66	Even	O
+use_66	by	O
+use_66	that	O
+use_66	definition	O
+use_66	the	O
+use_66	use	use_nou
+use_66	of	O
+use_66	four	O
+use_66	wheels	O
+use_66	instead	O
+use_66	of	O
+use_66	two	O
+use_66	raises	O
+use_66	doubts	O

@@ -1,0 +1,12 @@
+pervert_15	And	O
+pervert_15	though	O
+pervert_15	he	O
+pervert_15	is	O
+pervert_15	somewhat	O
+pervert_15	of	O
+pervert_15	a	O
+pervert_15	pervert	pervert_nou
+pervert_15	he	O
+pervert_15	is	O
+pervert_15	also	O
+pervert_15	chivalric	O

@@ -1,0 +1,14 @@
+analyses_35	He	O
+analyses_35	analyses	analyses_vrb
+analyses_35	Indian	O
+analyses_35	resistance	O
+analyses_35	as	O
+analyses_35	it	O
+analyses_35	occurs	O
+analyses_35	in	O
+analyses_35	art	O
+analyses_35	cultural	O
+analyses_35	practice	O
+analyses_35	and	O
+analyses_35	activist	O
+analyses_35	struggle	O

@@ -1,0 +1,13 @@
+correlate_5	However	O
+correlate_5	they	O
+correlate_5	did	O
+correlate_5	correlate	correlate_nou-vrb
+correlate_5	but	O
+correlate_5	only	O
+correlate_5	faintly	O
+correlate_5	with	O
+correlate_5	measures	O
+correlate_5	of	O
+correlate_5	explicit	O
+correlate_5	self	O
+correlate_5	esteem	O

@@ -1,0 +1,15 @@
+defect_71	The	O
+defect_71	distraught	O
+defect_71	Brigitte	O
+defect_71	tries	O
+defect_71	to	O
+defect_71	persuade	O
+defect_71	him	O
+defect_71	to	O
+defect_71	defect	defect_vrb
+defect_71	but	O
+defect_71	he	O
+defect_71	returns	O
+defect_71	to	O
+defect_71	North	O
+defect_71	Africa	O

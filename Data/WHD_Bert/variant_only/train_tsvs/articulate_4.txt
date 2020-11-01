@@ -1,0 +1,16 @@
+articulate_4	The	O
+articulate_4	first	O
+articulate_4	semester	O
+articulate_4	curriculum	O
+articulate_4	is	O
+articulate_4	articulate	articulate_adj
+articulate_4	and	O
+articulate_4	provides	O
+articulate_4	an	O
+articulate_4	understanding	O
+articulate_4	of	O
+articulate_4	the	O
+articulate_4	major	O
+articulate_4	management	O
+articulate_4	sciences	O
+articulate_4	subjects	O

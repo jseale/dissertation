@@ -1,0 +1,13 @@
+perfume_32	Atkinsons	O
+perfume_32	of	O
+perfume_32	London	O
+perfume_32	is	O
+perfume_32	a	O
+perfume_32	British	O
+perfume_32	perfume	perfume_nou
+perfume_32	house	O
+perfume_32	founded	O
+perfume_32	in	O
+perfume_32	London	O
+perfume_32	in	O
+perfume_32	1799	O

@@ -1,0 +1,17 @@
+subordinate_47	He	O
+subordinate_47	had	O
+subordinate_47	entered	O
+subordinate_47	the	O
+subordinate_47	village	O
+subordinate_47	with	O
+subordinate_47	two	O
+subordinate_47	of	O
+subordinate_47	his	O
+subordinate_47	subordinate	subordinate_adj-nou
+subordinate_47	commanders	O
+subordinate_47	and	O
+subordinate_47	a	O
+subordinate_47	few	O
+subordinate_47	of	O
+subordinate_47	his	O
+subordinate_47	fighters	O

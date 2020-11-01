@@ -1,0 +1,13 @@
+sow_40	Pedraza	O
+sow_40	lost	O
+sow_40	his	O
+sow_40	second	O
+sow_40	preliminary	O
+sow_40	to	O
+sow_40	Daouda	O
+sow_40	Sow	sow_nou
+sow_40	of	O
+sow_40	France	O
+sow_40	by	O
+sow_40	points	O
+sow_40	13:9	O

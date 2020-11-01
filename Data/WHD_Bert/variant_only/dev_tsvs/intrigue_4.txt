@@ -1,0 +1,16 @@
+intrigue_4	David	O
+intrigue_4	is	O
+intrigue_4	an	O
+intrigue_4	idealistic	O
+intrigue_4	young	O
+intrigue_4	soldier	O
+intrigue_4	who	O
+intrigue_4	finds	O
+intrigue_4	himself	O
+intrigue_4	in	O
+intrigue_4	the	O
+intrigue_4	unfamiliar	O
+intrigue_4	world	O
+intrigue_4	of	O
+intrigue_4	court	O
+intrigue_4	intrigue	intrigue_nou

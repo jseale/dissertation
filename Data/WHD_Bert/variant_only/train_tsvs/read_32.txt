@@ -1,0 +1,14 @@
+read_32	Lewis	O
+read_32	went	O
+read_32	on	O
+read_32	to	O
+read_32	read	read_present
+read_32	government	O
+read_32	and	O
+read_32	law	O
+read_32	at	O
+read_32	the	O
+read_32	London	O
+read_32	School	O
+read_32	of	O
+read_32	Economics	O

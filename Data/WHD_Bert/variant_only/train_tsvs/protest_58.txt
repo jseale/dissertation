@@ -1,0 +1,15 @@
+protest_58	For	O
+protest_58	Nasir	O
+protest_58	Al	O
+protest_58	Din	O
+protest_58	Shah	O
+protest_58	the	O
+protest_58	protest	protest_nou
+protest_58	left	O
+protest_58	him	O
+protest_58	both	O
+protest_58	financially	O
+protest_58	handicapped	O
+protest_58	and	O
+protest_58	publicly	O
+protest_58	humiliated	O

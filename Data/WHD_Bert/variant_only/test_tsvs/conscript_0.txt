@@ -1,0 +1,11 @@
+conscript_0	Later	O
+conscript_0	conscript	conscript_nou
+conscript_0	officers	O
+conscript_0	were	O
+conscript_0	introduced	O
+conscript_0	with	O
+conscript_0	ranks	O
+conscript_0	of	O
+conscript_0	fanrik	O
+conscript_0	to	O
+conscript_0	kapten	O

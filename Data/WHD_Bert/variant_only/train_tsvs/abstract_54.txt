@@ -1,0 +1,14 @@
+abstract_54	Kasimir	O
+abstract_54	Malevich	O
+abstract_54	completed	O
+abstract_54	his	O
+abstract_54	first	O
+abstract_54	entirely	O
+abstract_54	abstract	abstract_adj-nou
+abstract_54	work	O
+abstract_54	the	O
+abstract_54	Suprematist	O
+abstract_54	Black	O
+abstract_54	Square	O
+abstract_54	in	O
+abstract_54	1915	O

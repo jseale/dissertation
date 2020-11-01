@@ -1,0 +1,12 @@
+moderate_47	It	O
+moderate_47	copes	O
+moderate_47	with	O
+moderate_47	a	O
+moderate_47	range	O
+moderate_47	of	O
+moderate_47	soil	O
+moderate_47	types	O
+moderate_47	and	O
+moderate_47	tolerates	O
+moderate_47	moderate	moderate_adj-nou
+moderate_47	frost	O

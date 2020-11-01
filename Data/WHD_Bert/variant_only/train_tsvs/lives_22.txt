@@ -1,0 +1,7 @@
+lives_22	He	O
+lives_22	currently	O
+lives_22	lives	lives_vrb
+lives_22	in	O
+lives_22	Santa	O
+lives_22	Rosa	O
+lives_22	California	O

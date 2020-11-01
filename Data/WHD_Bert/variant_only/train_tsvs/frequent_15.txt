@@ -1,0 +1,8 @@
+frequent_15	Despite	O
+frequent_15	the	O
+frequent_15	frequent	frequent_adj
+frequent_15	mating	O
+frequent_15	no	O
+frequent_15	cubs	O
+frequent_15	were	O
+frequent_15	produced	O

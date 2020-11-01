@@ -1,0 +1,8 @@
+uses_30	Her	O
+uses_30	film	O
+uses_30	uses	uses_vrb
+uses_30	both	O
+uses_30	interviews	O
+uses_30	and	O
+uses_30	archival	O
+uses_30	material	O

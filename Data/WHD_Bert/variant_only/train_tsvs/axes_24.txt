@@ -1,0 +1,17 @@
+axes_24	Later	O
+axes_24	in	O
+axes_24	the	O
+axes_24	day	O
+axes_24	a	O
+axes_24	further	O
+axes_24	counter	O
+axes_24	attack	O
+axes_24	was	O
+axes_24	put	O
+axes_24	in	O
+axes_24	by	O
+axes_24	the	O
+axes_24	enemy	O
+axes_24	on	O
+axes_24	two	O
+axes_24	axes	axes_nou

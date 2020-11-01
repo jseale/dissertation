@@ -1,0 +1,16 @@
+invert_78	Kokolo	O
+invert_78	aimed	O
+invert_78	to	O
+invert_78	invert	invert_vrb
+invert_78	the	O
+invert_78	negative	O
+invert_78	connotation	O
+invert_78	of	O
+invert_78	the	O
+invert_78	term	O
+invert_78	through	O
+invert_78	the	O
+invert_78	positivity	O
+invert_78	in	O
+invert_78	their	O
+invert_78	music	O

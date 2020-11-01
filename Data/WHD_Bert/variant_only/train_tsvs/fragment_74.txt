@@ -1,0 +1,16 @@
+fragment_74	The	O
+fragment_74	military	O
+fragment_74	engineering	O
+fragment_74	data	O
+fragment_74	showed	O
+fragment_74	that	O
+fragment_74	like	O
+fragment_74	the	O
+fragment_74	fragment	fragment_nou
+fragment_74	size	O
+fragment_74	the	O
+fragment_74	fragment	fragment_nou
+fragment_74	velocities	O
+fragment_74	had	O
+fragment_74	characteristic	O
+fragment_74	distributions	O

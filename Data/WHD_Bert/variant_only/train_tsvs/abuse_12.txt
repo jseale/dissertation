@@ -1,0 +1,17 @@
+abuse_12	The	O
+abuse_12	album	O
+abuse_12	's	O
+abuse_12	lyrics	O
+abuse_12	focus	O
+abuse_12	on	O
+abuse_12	subjects	O
+abuse_12	such	O
+abuse_12	as	O
+abuse_12	propaganda	O
+abuse_12	Catholic	O
+abuse_12	sex	O
+abuse_12	abuse	abuse_nou
+abuse_12	cases	O
+abuse_12	terrorism	O
+abuse_12	and	O
+abuse_12	fame	O

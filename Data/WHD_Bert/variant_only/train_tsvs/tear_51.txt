@@ -1,0 +1,14 @@
+tear_51	They	O
+tear_51	'd	O
+tear_51	rather	O
+tear_51	try	O
+tear_51	to	O
+tear_51	tear	tear_vrb
+tear_51	our	O
+tear_51	campaign	O
+tear_51	down	O
+tear_51	than	O
+tear_51	lift	O
+tear_51	this	O
+tear_51	country	O
+tear_51	up	O

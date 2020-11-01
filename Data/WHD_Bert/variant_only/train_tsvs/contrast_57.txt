@@ -1,0 +1,17 @@
+contrast_57	In	O
+contrast_57	contrast	contrast_nou
+contrast_57	to	O
+contrast_57	charter	O
+contrast_57	and	O
+contrast_57	private	O
+contrast_57	schools	O
+contrast_57	magnet	O
+contrast_57	schools	O
+contrast_57	generally	O
+contrast_57	foster	O
+contrast_57	racial	O
+contrast_57	integration	O
+contrast_57	rather	O
+contrast_57	than	O
+contrast_57	hinder	O
+contrast_57	it	O

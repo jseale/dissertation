@@ -1,0 +1,17 @@
+convert_36	It	O
+convert_36	has	O
+convert_36	the	O
+convert_36	ability	O
+convert_36	to	O
+convert_36	convert	convert_vrb
+convert_36	carbohydrates	O
+convert_36	to	O
+convert_36	butyrate	O
+convert_36	acetate	O
+convert_36	carbon	O
+convert_36	dioxide	O
+convert_36	and	O
+convert_36	molecular	O
+convert_36	hydrogen	O
+convert_36	through	O
+convert_36	fermentation	O

@@ -1,0 +1,17 @@
+bass_34	Lyons	O
+bass_34	asked	O
+bass_34	a	O
+bass_34	friend	O
+bass_34	to	O
+bass_34	build	O
+bass_34	a	O
+bass_34	2-string	O
+bass_34	bass	bass
+bass_34	for	O
+bass_34	him	O
+bass_34	and	O
+bass_34	started	O
+bass_34	learning	O
+bass_34	the	O
+bass_34	Morphine	O
+bass_34	repertoire	O

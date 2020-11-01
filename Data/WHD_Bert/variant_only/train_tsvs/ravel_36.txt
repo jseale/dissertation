@@ -1,0 +1,14 @@
+ravel_36	Ravel	ravel_nam
+ravel_36	employs	O
+ravel_36	sonata	O
+ravel_36	form	O
+ravel_36	in	O
+ravel_36	this	O
+ravel_36	movement	O
+ravel_36	but	O
+ravel_36	not	O
+ravel_36	without	O
+ravel_36	introducing	O
+ravel_36	his	O
+ravel_36	own	O
+ravel_36	touches	O

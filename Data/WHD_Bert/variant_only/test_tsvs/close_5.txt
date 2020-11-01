@@ -1,0 +1,13 @@
+close_5	The	O
+close_5	tendency	O
+close_5	is	O
+close_5	aggravated	O
+close_5	by	O
+close_5	objects	O
+close_5	close	close_adj-nou
+close_5	to	O
+close_5	the	O
+close_5	eye	O
+close_5	drawing	O
+close_5	focus	O
+close_5	closer	O

@@ -1,0 +1,11 @@
+export_47	In	O
+export_47	2009	O
+export_47	Malaysia	O
+export_47	government	O
+export_47	planning	O
+export_47	export	export_nou
+export_47	of	O
+export_47	frozen	O
+export_47	durians	O
+export_47	to	O
+export_47	China	O

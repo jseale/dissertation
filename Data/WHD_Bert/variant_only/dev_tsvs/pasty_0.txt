@@ -1,0 +1,17 @@
+pasty_0	In	O
+pasty_0	south	O
+pasty_0	India	O
+pasty_0	Thogayal	O
+pasty_0	or	O
+pasty_0	Thuvayal	O
+pasty_0	Tamil	O
+pasty_0	are	O
+pasty_0	preparations	O
+pasty_0	similar	O
+pasty_0	to	O
+pasty_0	chutney	O
+pasty_0	but	O
+pasty_0	with	O
+pasty_0	a	O
+pasty_0	pasty	pasty_nou
+pasty_0	consistency	O

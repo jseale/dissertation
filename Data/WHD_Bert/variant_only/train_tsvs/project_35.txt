@@ -1,0 +1,15 @@
+project_35	In	O
+project_35	1982	O
+project_35	MacGowan	O
+project_35	and	O
+project_35	Jem	O
+project_35	Finer	O
+project_35	were	O
+project_35	seeking	O
+project_35	an	O
+project_35	accordion	O
+project_35	player	O
+project_35	for	O
+project_35	their	O
+project_35	latest	O
+project_35	project	project_nou

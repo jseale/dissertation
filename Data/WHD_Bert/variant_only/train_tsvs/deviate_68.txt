@@ -1,0 +1,7 @@
+deviate_68	Keep	O
+deviate_68	it	O
+deviate_68	and	O
+deviate_68	you	O
+deviate_68	will	O
+deviate_68	not	O
+deviate_68	deviate	deviate_vrb

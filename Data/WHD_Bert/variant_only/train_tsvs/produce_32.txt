@@ -1,0 +1,14 @@
+produce_32	In	O
+produce_32	2011	O
+produce_32	Faisal	O
+produce_32	Tehrani	O
+produce_32	produce	produce_vrb
+produce_32	novel	O
+produce_32	Sebongkah	O
+produce_32	Batu	O
+produce_32	di	O
+produce_32	Kuala	O
+produce_32	Berang	O
+produce_32	with	O
+produce_32	PTS	O
+produce_32	Litera	O

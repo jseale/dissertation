@@ -1,0 +1,17 @@
+retard_56	Vitaphone	O
+retard_56	projectors	O
+retard_56	had	O
+retard_56	special	O
+retard_56	levers	O
+retard_56	and	O
+retard_56	linkages	O
+retard_56	to	O
+retard_56	advance	O
+retard_56	and	O
+retard_56	retard	retard_vrb
+retard_56	sync	O
+retard_56	but	O
+retard_56	only	O
+retard_56	within	O
+retard_56	certain	O
+retard_56	limits	O

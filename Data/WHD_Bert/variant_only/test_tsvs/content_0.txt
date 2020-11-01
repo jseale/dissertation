@@ -1,0 +1,12 @@
+content_0	Morphology	O
+content_0	and	O
+content_0	Galaxy	O
+content_0	Content	content_nou
+content_0	The	O
+content_0	Astrophysical	O
+content_0	Journal	O
+content_0	736	O
+content_0	1	O
+content_0	51	O
+content_0	arXiv:1105.1632	O
+content_0	Bibcode:2011ApJ.	O

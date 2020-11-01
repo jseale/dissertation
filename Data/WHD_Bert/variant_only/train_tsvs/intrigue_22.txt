@@ -1,0 +1,16 @@
+intrigue_22	The	O
+intrigue_22	Foundations	O
+intrigue_22	drew	O
+intrigue_22	much	O
+intrigue_22	interest	O
+intrigue_22	and	O
+intrigue_22	intrigue	intrigue_nou
+intrigue_22	due	O
+intrigue_22	to	O
+intrigue_22	the	O
+intrigue_22	size	O
+intrigue_22	and	O
+intrigue_22	structure	O
+intrigue_22	of	O
+intrigue_22	the	O
+intrigue_22	group	O

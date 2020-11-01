@@ -1,0 +1,17 @@
+close_8	Each	O
+close_8	of	O
+close_8	the	O
+close_8	plantations	O
+close_8	are	O
+close_8	located	O
+close_8	either	O
+close_8	adjacent	O
+close_8	to	O
+close_8	or	O
+close_8	in	O
+close_8	close	close_adj-nou
+close_8	proximity	O
+close_8	to	O
+close_8	the	O
+close_8	Congo	O
+close_8	River	O

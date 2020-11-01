@@ -1,0 +1,16 @@
+buffet_6	Customers	O
+buffet_6	have	O
+buffet_6	two	O
+buffet_6	options	O
+buffet_6	ordering	O
+buffet_6	from	O
+buffet_6	the	O
+buffet_6	menu	O
+buffet_6	or	O
+buffet_6	at	O
+buffet_6	designated	O
+buffet_6	times	O
+buffet_6	eating	O
+buffet_6	from	O
+buffet_6	the	O
+buffet_6	buffet	buffet_nou

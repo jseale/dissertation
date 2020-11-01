@@ -1,0 +1,14 @@
+celtic_11	The	O
+celtic_11	name	O
+celtic_11	is	O
+celtic_11	said	O
+celtic_11	to	O
+celtic_11	have	O
+celtic_11	come	O
+celtic_11	from	O
+celtic_11	the	O
+celtic_11	Celtic	celtic
+celtic_11	word	O
+celtic_11	for	O
+celtic_11	elm	O
+celtic_11	Lemo	O

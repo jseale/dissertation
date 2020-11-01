@@ -1,0 +1,17 @@
+discount_73	The	O
+discount_73	fortunes	O
+discount_73	of	O
+discount_73	war	O
+discount_73	could	O
+discount_73	be	O
+discount_73	traced	O
+discount_73	through	O
+discount_73	the	O
+discount_73	discount	discount_nou
+discount_73	rates	O
+discount_73	on	O
+discount_73	warrants	O
+discount_73	vouchers	O
+discount_73	and	O
+discount_73	Continental	O
+discount_73	dollars	O

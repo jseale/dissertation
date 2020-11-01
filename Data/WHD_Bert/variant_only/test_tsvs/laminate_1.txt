@@ -1,0 +1,15 @@
+laminate_1	Fabric	O
+laminate_1	layers	O
+laminate_1	or	O
+laminate_1	continuous	O
+laminate_1	strand	O
+laminate_1	mats	O
+laminate_1	are	O
+laminate_1	added	O
+laminate_1	into	O
+laminate_1	the	O
+laminate_1	laminate	laminate_nou
+laminate_1	depending	O
+laminate_1	on	O
+laminate_1	performance	O
+laminate_1	requirements	O

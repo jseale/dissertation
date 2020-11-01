@@ -1,0 +1,13 @@
+diffuse_9	Intellect	O
+diffuse_9	intuition	O
+diffuse_9	analytic	O
+diffuse_9	holistic	O
+diffuse_9	convergent	O
+diffuse_9	divergent	O
+diffuse_9	abstract	O
+diffuse_9	concrete	O
+diffuse_9	focal	O
+diffuse_9	diffuse	diffuse_adj
+diffuse_9	objective	O
+diffuse_9	subjective	O
+diffuse_9	etc	O

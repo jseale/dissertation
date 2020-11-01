@@ -1,0 +1,14 @@
+lead_16	The	O
+lead_16	contestant	O
+lead_16	in	O
+lead_16	the	O
+lead_16	lead	lead_nou-vrb
+lead_16	after	O
+lead_16	this	O
+lead_16	round	O
+lead_16	advanced	O
+lead_16	to	O
+lead_16	the	O
+lead_16	Grand	O
+lead_16	Savant	O
+lead_16	Round	O

@@ -1,0 +1,14 @@
+perfume_45	Sometimes	O
+perfume_45	they	O
+perfume_45	contained	O
+perfume_45	several	O
+perfume_45	partitions	O
+perfume_45	in	O
+perfume_45	each	O
+perfume_45	of	O
+perfume_45	which	O
+perfume_45	was	O
+perfume_45	placed	O
+perfume_45	a	O
+perfume_45	different	O
+perfume_45	perfume	perfume_nou

@@ -1,0 +1,16 @@
+invalid_51	Specifically	O
+invalid_51	the	O
+invalid_51	appellant	O
+invalid_51	claimed	O
+invalid_51	that	O
+invalid_51	the	O
+invalid_51	Louisiana	O
+invalid_51	law	O
+invalid_51	violated	O
+invalid_51	the	O
+invalid_51	Fourteenth	O
+invalid_51	Amendment	O
+invalid_51	and	O
+invalid_51	was	O
+invalid_51	therefore	O
+invalid_51	invalid	invalid_adj

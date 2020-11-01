@@ -1,0 +1,16 @@
+read_26	TIME	O
+read_26	Magazine	O
+read_26	recommended	O
+read_26	it	O
+read_26	as	O
+read_26	an	O
+read_26	engrossing	O
+read_26	read	read_present
+read_26	best	O
+read_26	consumed	O
+read_26	in	O
+read_26	as	O
+read_26	few	O
+read_26	sittings	O
+read_26	as	O
+read_26	possible	O

@@ -1,0 +1,7 @@
+learned_5	Nene	O
+learned_5	learned	learned_vrb
+learned_5	she	O
+learned_5	could	O
+learned_5	not	O
+learned_5	change	O
+learned_5	Gabby	O

@@ -1,0 +1,17 @@
+discharge_3	Despite	O
+discharge_3	his	O
+discharge_3	discharge	discharge_nou
+discharge_3	Varlamov	O
+discharge_3	did	O
+discharge_3	not	O
+discharge_3	leave	O
+discharge_3	the	O
+discharge_3	cosmonaut	O
+discharge_3	training	O
+discharge_3	centre	O
+discharge_3	as	O
+discharge_3	other	O
+discharge_3	unsuccessful	O
+discharge_3	candidates	O
+discharge_3	had	O
+discharge_3	done	O

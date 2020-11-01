@@ -1,0 +1,14 @@
+supplement_71	Jones	O
+supplement_71	had	O
+supplement_71	a	O
+supplement_71	weekly	O
+supplement_71	column	O
+supplement_71	in	O
+supplement_71	the	O
+supplement_71	magazine	O
+supplement_71	supplement	supplement_nou
+supplement_71	of	O
+supplement_71	the	O
+supplement_71	Mail	O
+supplement_71	on	O
+supplement_71	Sunday	O

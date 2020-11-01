@@ -1,0 +1,16 @@
+discount_48	It	O
+discount_48	further	O
+discount_48	extended	O
+discount_48	the	O
+discount_48	schedule	O
+discount_48	of	O
+discount_48	payments	O
+discount_48	by	O
+discount_48	several	O
+discount_48	years	O
+discount_48	with	O
+discount_48	a	O
+discount_48	discount	discount_nou
+discount_48	for	O
+discount_48	quick	O
+discount_48	payment	O

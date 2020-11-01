@@ -1,0 +1,12 @@
+construct_48	Lastly	O
+construct_48	the	O
+construct_48	construct	construct_nou
+construct_48	could	O
+construct_48	be	O
+construct_48	related	O
+construct_48	to	O
+construct_48	other	O
+construct_48	elements	O
+construct_48	of	O
+construct_48	the	O
+construct_48	work	O

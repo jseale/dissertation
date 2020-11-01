@@ -1,0 +1,12 @@
+intrigue_66	While	O
+intrigue_66	the	O
+intrigue_66	creatures	O
+intrigue_66	intrigue	intrigue_nou-vrb
+intrigue_66	Nancy	O
+intrigue_66	Charlie	O
+intrigue_66	continually	O
+intrigue_66	acts	O
+intrigue_66	with	O
+intrigue_66	fear	O
+intrigue_66	and	O
+intrigue_66	resistance	O

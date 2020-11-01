@@ -1,0 +1,12 @@
+frequent_44	These	O
+frequent_44	extended	O
+frequent_44	jams	O
+frequent_44	have	O
+frequent_44	become	O
+frequent_44	far	O
+frequent_44	less	O
+frequent_44	frequent	frequent_adj
+frequent_44	since	O
+frequent_44	Entwistle	O
+frequent_44	's	O
+frequent_44	death	O

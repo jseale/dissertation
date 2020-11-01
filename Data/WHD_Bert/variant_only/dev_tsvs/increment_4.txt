@@ -1,0 +1,11 @@
+increment_4	Increment	increment_vrb
+increment_4	the	O
+increment_4	program	O
+increment_4	counter	O
+increment_4	so	O
+increment_4	it	O
+increment_4	points	O
+increment_4	to	O
+increment_4	the	O
+increment_4	next	O
+increment_4	instruction	O

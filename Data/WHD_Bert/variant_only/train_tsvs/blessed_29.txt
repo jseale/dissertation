@@ -1,0 +1,13 @@
+blessed_29	The	O
+blessed_29	Christian	O
+blessed_29	proof	O
+blessed_29	of	O
+blessed_29	strength	O
+blessed_29	is	O
+blessed_29	Belief	O
+blessed_29	makes	O
+blessed_29	blessed	blessed_adj
+blessed_29	thus	O
+blessed_29	it	O
+blessed_29	is	O
+blessed_29	true	O

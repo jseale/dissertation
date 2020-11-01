@@ -1,0 +1,8 @@
+estimate_1	This	O
+estimate_1	estimate	estimate_nou
+estimate_1	was	O
+estimate_1	reinforced	O
+estimate_1	in	O
+estimate_1	the	O
+estimate_1	early	O
+estimate_1	1970s	O

@@ -1,0 +1,8 @@
+laminate_24	The	O
+laminate_24	floor	O
+laminate_24	is	O
+laminate_24	covered	O
+laminate_24	with	O
+laminate_24	laminate	laminate_nou
+laminate_24	hardwood	O
+laminate_24	flooring	O

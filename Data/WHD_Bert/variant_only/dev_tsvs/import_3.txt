@@ -1,0 +1,14 @@
+import_3	Energy	O
+import_3	in	O
+import_3	Kuwait	O
+import_3	describes	O
+import_3	energy	O
+import_3	and	O
+import_3	electricity	O
+import_3	production	O
+import_3	consumption	O
+import_3	import	import_nou
+import_3	and	O
+import_3	export	O
+import_3	in	O
+import_3	Kuwait	O

@@ -1,0 +1,12 @@
+bass_1	Striped	O
+bass_1	bass	bass_corp
+bass_1	and	O
+bass_1	hybrid	O
+bass_1	striped	O
+bass_1	bass	bass_corp
+bass_1	have	O
+bass_1	been	O
+bass_1	stocked	O
+bass_1	in	O
+bass_1	the	O
+bass_1	lake	O

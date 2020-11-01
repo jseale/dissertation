@@ -1,0 +1,17 @@
+axes_10	However	O
+axes_10	more	O
+axes_10	recent	O
+axes_10	research	O
+axes_10	demonstrated	O
+axes_10	that	O
+axes_10	hand	O
+axes_10	axes	axes_nou-vrb
+axes_10	from	O
+axes_10	Spain	O
+axes_10	were	O
+axes_10	made	O
+axes_10	more	O
+axes_10	than	O
+axes_10	900,000	O
+axes_10	years	O
+axes_10	ago	O

@@ -1,0 +1,14 @@
+separate_3	There	O
+separate_3	he	O
+separate_3	falls	O
+separate_3	prey	O
+separate_3	to	O
+separate_3	a	O
+separate_3	scheming	O
+separate_3	widow	O
+separate_3	and	O
+separate_3	he	O
+separate_3	and	O
+separate_3	his	O
+separate_3	wife	O
+separate_3	separate	separate_vrb

@@ -1,0 +1,13 @@
+perfect_60	While	O
+perfect_60	it	O
+perfect_60	's	O
+perfect_60	not	O
+perfect_60	perfect	perfect_adj
+perfect_60	2K9	O
+perfect_60	's	O
+perfect_60	certainly	O
+perfect_60	headed	O
+perfect_60	toward	O
+perfect_60	another	O
+perfect_60	title	O
+perfect_60	run	O

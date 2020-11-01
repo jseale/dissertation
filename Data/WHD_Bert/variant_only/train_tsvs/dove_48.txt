@@ -1,0 +1,12 @@
+dove_48	Zentrygon	O
+dove_48	is	O
+dove_48	a	O
+dove_48	bird	O
+dove_48	genus	O
+dove_48	in	O
+dove_48	the	O
+dove_48	pigeon	O
+dove_48	and	O
+dove_48	dove	dove
+dove_48	family	O
+dove_48	Columbidae	O

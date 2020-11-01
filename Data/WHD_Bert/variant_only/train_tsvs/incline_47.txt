@@ -1,0 +1,16 @@
+incline_47	Back	O
+incline_47	then	O
+incline_47	the	O
+incline_47	incline	incline_nou
+incline_47	railway	O
+incline_47	on	O
+incline_47	James	O
+incline_47	Street	O
+incline_47	was	O
+incline_47	known	O
+incline_47	as	O
+incline_47	the	O
+incline_47	Hamilton	O
+incline_47	Barton	O
+incline_47	Incline	incline_nou
+incline_47	Railway	O

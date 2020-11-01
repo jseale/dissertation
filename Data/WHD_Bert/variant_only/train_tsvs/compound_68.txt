@@ -1,0 +1,8 @@
+compound_68	Potassium	O
+compound_68	malate	O
+compound_68	is	O
+compound_68	a	O
+compound_68	compound	compound_nou
+compound_68	with	O
+compound_68	formula	O
+compound_68	K₂(C₂H₄O(COO)₂	O

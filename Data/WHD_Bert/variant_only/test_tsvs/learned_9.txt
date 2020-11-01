@@ -1,0 +1,12 @@
+learned_9	He	O
+learned_9	and	O
+learned_9	his	O
+learned_9	peers	O
+learned_9	learned	learned_vrb
+learned_9	from	O
+learned_9	their	O
+learned_9	work	O
+learned_9	and	O
+learned_9	from	O
+learned_9	each	O
+learned_9	other	O

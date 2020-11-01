@@ -1,0 +1,13 @@
+upset_37	In	O
+upset_37	a	O
+upset_37	few	O
+upset_37	cases	O
+upset_37	gastrointestinal	O
+upset_37	upset	upset_nou
+upset_37	headaches	O
+upset_37	skin	O
+upset_37	reactions	O
+upset_37	and	O
+upset_37	dizziness	O
+upset_37	were	O
+upset_37	reported	O

@@ -1,0 +1,10 @@
+live_34	Most	O
+live_34	Haunted	O
+live_34	Live	live_adj
+live_34	visited	O
+live_34	the	O
+live_34	castle	O
+live_34	on	O
+live_34	March	O
+live_34	26	O
+live_34	2010	O

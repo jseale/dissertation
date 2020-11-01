@@ -1,0 +1,14 @@
+convert_44	Multiplication	O
+convert_44	by	O
+convert_44	attaches	O
+convert_44	vortices	O
+convert_44	to	O
+convert_44	each	O
+convert_44	electron	O
+convert_44	to	O
+convert_44	convert	convert_vrb
+convert_44	it	O
+convert_44	into	O
+convert_44	a	O
+convert_44	composite	O
+convert_44	fermion	O

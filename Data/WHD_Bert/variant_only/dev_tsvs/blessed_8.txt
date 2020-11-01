@@ -1,0 +1,16 @@
+blessed_8	We	O
+blessed_8	get	O
+blessed_8	blessed	blessed_vrb
+blessed_8	and	O
+blessed_8	all	O
+blessed_8	our	O
+blessed_8	sins	O
+blessed_8	get	O
+blessed_8	cleared	O
+blessed_8	off	O
+blessed_8	watching	O
+blessed_8	and	O
+blessed_8	participating	O
+blessed_8	in	O
+blessed_8	the	O
+blessed_8	fair	O

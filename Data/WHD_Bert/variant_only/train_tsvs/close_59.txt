@@ -1,0 +1,15 @@
+close_59	It	O
+close_59	is	O
+close_59	designated	O
+close_59	Trap	O
+close_59	Town	O
+close_59	at	O
+close_59	the	O
+close_59	close	close_adj-nou
+close_59	of	O
+close_59	the	O
+close_59	18th	O
+close_59	century	O
+close_59	by	O
+close_59	Griffith	O
+close_59	1795	O

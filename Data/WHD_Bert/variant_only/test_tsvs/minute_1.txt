@@ -1,0 +1,8 @@
+minute_1	Thus	O
+minute_1	the	O
+minute_1	change	O
+minute_1	in	O
+minute_1	bitline	O
+minute_1	voltage	O
+minute_1	is	O
+minute_1	minute	minute_adj

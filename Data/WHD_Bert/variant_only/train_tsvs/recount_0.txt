@@ -1,0 +1,15 @@
+recount_0	However	O
+recount_0	a	O
+recount_0	recount	recount_nou
+recount_0	resulted	O
+recount_0	in	O
+recount_0	a	O
+recount_0	tie	O
+recount_0	with	O
+recount_0	both	O
+recount_0	Bezanson	O
+recount_0	and	O
+recount_0	Tidman	O
+recount_0	receiving	O
+recount_0	3735	O
+recount_0	votes	O

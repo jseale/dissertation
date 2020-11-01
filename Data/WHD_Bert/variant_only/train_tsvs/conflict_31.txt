@@ -1,0 +1,12 @@
+conflict_31	The	O
+conflict_31	British	O
+conflict_31	Empire	O
+conflict_31	including	O
+conflict_31	Nova	O
+conflict_31	Scotia	O
+conflict_31	declared	O
+conflict_31	itself	O
+conflict_31	neutral	O
+conflict_31	in	O
+conflict_31	the	O
+conflict_31	conflict	conflict_nou

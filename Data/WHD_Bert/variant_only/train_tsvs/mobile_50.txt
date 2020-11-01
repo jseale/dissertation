@@ -1,0 +1,17 @@
+mobile_50	Nokia	O
+mobile_50	X2	O
+mobile_50	05	O
+mobile_50	is	O
+mobile_50	an	O
+mobile_50	entry	O
+mobile_50	level	O
+mobile_50	mobile	mobile
+mobile_50	phone	O
+mobile_50	running	O
+mobile_50	on	O
+mobile_50	the	O
+mobile_50	Nokia	O
+mobile_50	Series	O
+mobile_50	40	O
+mobile_50	operating	O
+mobile_50	system	O

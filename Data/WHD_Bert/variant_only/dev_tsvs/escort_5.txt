@@ -1,0 +1,14 @@
+escort_5	For	O
+escort_5	escort	escort_nou
+escort_5	work	O
+escort_5	their	O
+escort_5	minesweeping	O
+escort_5	gear	O
+escort_5	could	O
+escort_5	be	O
+escort_5	exchanged	O
+escort_5	for	O
+escort_5	around	O
+escort_5	40	O
+escort_5	depth	O
+escort_5	charges	O

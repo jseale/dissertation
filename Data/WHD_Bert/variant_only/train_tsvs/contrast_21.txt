@@ -1,0 +1,16 @@
+contrast_21	In	O
+contrast_21	contrast	contrast_nou
+contrast_21	to	O
+contrast_21	Mein	O
+contrast_21	Kampf	O
+contrast_21	in	O
+contrast_21	Zweites	O
+contrast_21	Buch	O
+contrast_21	Hitler	O
+contrast_21	added	O
+contrast_21	a	O
+contrast_21	fourth	O
+contrast_21	stage	O
+contrast_21	to	O
+contrast_21	the	O
+contrast_21	Stufenplan	O

@@ -1,0 +1,14 @@
+rebel_27	This	O
+rebel_27	because	O
+rebel_27	of	O
+rebel_27	the	O
+rebel_27	different	O
+rebel_27	rebel	rebel_nou
+rebel_27	groups	O
+rebel_27	that	O
+rebel_27	infest	O
+rebel_27	the	O
+rebel_27	parks	O
+rebel_27	in	O
+rebel_27	this	O
+rebel_27	region	O

@@ -1,0 +1,16 @@
+upset_2	Upset	upset_nou
+upset_2	and	O
+upset_2	unaware	O
+upset_2	of	O
+upset_2	the	O
+upset_2	reason	O
+upset_2	for	O
+upset_2	Mme	O
+upset_2	Arnoux	O
+upset_2	's	O
+upset_2	absence	O
+upset_2	Frédéric	O
+upset_2	sleeps	O
+upset_2	with	O
+upset_2	Rosanette	O
+upset_2	instead	O

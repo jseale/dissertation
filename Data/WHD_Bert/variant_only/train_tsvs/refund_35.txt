@@ -1,0 +1,17 @@
+refund_35	In	O
+refund_35	April	O
+refund_35	they	O
+refund_35	expected	O
+refund_35	that	O
+refund_35	a	O
+refund_35	tax	O
+refund_35	refund	refund_nou
+refund_35	from	O
+refund_35	the	O
+refund_35	US	O
+refund_35	government	O
+refund_35	would	O
+refund_35	help	O
+refund_35	ease	O
+refund_35	the	O
+refund_35	burden	O

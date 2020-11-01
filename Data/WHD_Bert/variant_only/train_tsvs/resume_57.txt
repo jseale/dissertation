@@ -1,0 +1,12 @@
+resume_57	Mark	O
+resume_57	departs	O
+resume_57	from	O
+resume_57	Shanghai	O
+resume_57	and	O
+resume_57	Coco	O
+resume_57	and	O
+resume_57	Tian	O
+resume_57	Tian	O
+resume_57	resume	resume_vrb
+resume_57	living	O
+resume_57	together	O

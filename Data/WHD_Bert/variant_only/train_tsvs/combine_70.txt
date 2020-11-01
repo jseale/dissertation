@@ -1,0 +1,9 @@
+combine_70	Together	O
+combine_70	the	O
+combine_70	six	O
+combine_70	interior	O
+combine_70	robots	O
+combine_70	could	O
+combine_70	combine	combine_vrb
+combine_70	into	O
+combine_70	Monstructor	O

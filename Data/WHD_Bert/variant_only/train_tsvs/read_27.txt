@@ -1,0 +1,15 @@
+read_27	He	O
+read_27	also	O
+read_27	read	read_past
+read_27	only	O
+read_27	critical	O
+read_27	feedback	O
+read_27	from	O
+read_27	listeners	O
+read_27	without	O
+read_27	interjecting	O
+read_27	any	O
+read_27	commentary	O
+read_27	of	O
+read_27	his	O
+read_27	own	O

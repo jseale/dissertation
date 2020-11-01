@@ -1,0 +1,15 @@
+syndicate_44	The	O
+syndicate_44	syndicate	syndicate_nou
+syndicate_44	entered	O
+syndicate_44	Fine	O
+syndicate_44	Cotton	O
+syndicate_44	in	O
+syndicate_44	a	O
+syndicate_44	race	O
+syndicate_44	at	O
+syndicate_44	Eagle	O
+syndicate_44	Farm	O
+syndicate_44	on	O
+syndicate_44	18	O
+syndicate_44	August	O
+syndicate_44	1984	O

@@ -1,0 +1,16 @@
+lead_88	In	O
+lead_88	April	O
+lead_88	2010	O
+lead_88	he	O
+lead_88	replaced	O
+lead_88	Chris	O
+lead_88	Stapleton	O
+lead_88	as	O
+lead_88	the	O
+lead_88	lead	lead_nou-vrb
+lead_88	singer	O
+lead_88	and	O
+lead_88	guitarist	O
+lead_88	of	O
+lead_88	The	O
+lead_88	SteelDrivers	O

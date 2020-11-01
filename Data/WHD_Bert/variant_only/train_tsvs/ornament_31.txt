@@ -1,0 +1,16 @@
+ornament_31	In	O
+ornament_31	1992	O
+ornament_31	the	O
+ornament_31	National	O
+ornament_31	Park	O
+ornament_31	Service	O
+ornament_31	permitted	O
+ornament_31	the	O
+ornament_31	first	O
+ornament_31	National	O
+ornament_31	Christmas	O
+ornament_31	Tree	O
+ornament_31	ornament	ornament_nou
+ornament_31	to	O
+ornament_31	be	O
+ornament_31	produced	O

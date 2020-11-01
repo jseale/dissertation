@@ -1,0 +1,17 @@
+deviate_67	V.	O
+deviate_67	riparia	O
+deviate_67	has	O
+deviate_67	a	O
+deviate_67	wide	O
+deviate_67	range	O
+deviate_67	and	O
+deviate_67	may	O
+deviate_67	deviate	deviate_vrb
+deviate_67	considerably	O
+deviate_67	in	O
+deviate_67	detail	O
+deviate_67	from	O
+deviate_67	the	O
+deviate_67	above	O
+deviate_67	general	O
+deviate_67	description	O

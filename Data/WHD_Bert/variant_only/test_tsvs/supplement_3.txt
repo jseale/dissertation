@@ -1,0 +1,14 @@
+supplement_3	Gray	O
+supplement_3	wrote	O
+supplement_3	a	O
+supplement_3	Supplement	supplement_nou
+supplement_3	to	O
+supplement_3	the	O
+supplement_3	Pharmacopoeia	O
+supplement_3	published	O
+supplement_3	in	O
+supplement_3	1818	O
+supplement_3	with	O
+supplement_3	several	O
+supplement_3	subsequent	O
+supplement_3	editions	O

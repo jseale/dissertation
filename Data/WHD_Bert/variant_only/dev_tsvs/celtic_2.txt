@@ -1,0 +1,16 @@
+celtic_2	During	O
+celtic_2	the	O
+celtic_2	Celtic	celtic
+celtic_2	period	O
+celtic_2	it	O
+celtic_2	was	O
+celtic_2	one	O
+celtic_2	of	O
+celtic_2	the	O
+celtic_2	two	O
+celtic_2	administrative	O
+celtic_2	centres	O
+celtic_2	of	O
+celtic_2	the	O
+celtic_2	Cantiaci	O
+celtic_2	tribe	O

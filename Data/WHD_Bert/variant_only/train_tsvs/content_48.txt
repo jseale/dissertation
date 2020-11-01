@@ -1,0 +1,15 @@
+content_48	Salmon	O
+content_48	maintains	O
+content_48	that	O
+content_48	co	O
+content_48	designative	O
+content_48	proper	O
+content_48	names	O
+content_48	are	O
+content_48	inter	O
+content_48	substitutable	O
+content_48	with	O
+content_48	preservation	O
+content_48	of	O
+content_48	semantic	O
+content_48	content	content_nou

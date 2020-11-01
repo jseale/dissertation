@@ -1,0 +1,17 @@
+expatriate_76	The	O
+expatriate_76	number	O
+expatriate_76	of	O
+expatriate_76	expatriate	expatriate_nou
+expatriate_76	workers	O
+expatriate_76	have	O
+expatriate_76	been	O
+expatriate_76	ever	O
+expatriate_76	growing	O
+expatriate_76	as	O
+expatriate_76	well	O
+expatriate_76	as	O
+expatriate_76	the	O
+expatriate_76	remittances	O
+expatriate_76	they	O
+expatriate_76	send	O
+expatriate_76	back	O

@@ -1,0 +1,16 @@
+close_9	Postflight	O
+close_9	investigation	O
+close_9	found	O
+close_9	that	O
+close_9	the	O
+close_9	oxidizer	O
+close_9	isolation	O
+close_9	valve	O
+close_9	had	O
+close_9	failed	O
+close_9	to	O
+close_9	close	close_vrb
+close_9	after	O
+close_9	the	O
+close_9	first	O
+close_9	burn	O

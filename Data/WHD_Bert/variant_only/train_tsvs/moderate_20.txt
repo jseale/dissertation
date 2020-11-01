@@ -1,0 +1,17 @@
+moderate_20	He	O
+moderate_20	was	O
+moderate_20	also	O
+moderate_20	capable	O
+moderate_20	of	O
+moderate_20	appealing	O
+moderate_20	to	O
+moderate_20	both	O
+moderate_20	sides	O
+moderate_20	of	O
+moderate_20	an	O
+moderate_20	issue	O
+moderate_20	by	O
+moderate_20	maintaining	O
+moderate_20	a	O
+moderate_20	moderate	moderate_adj-nou
+moderate_20	record	O

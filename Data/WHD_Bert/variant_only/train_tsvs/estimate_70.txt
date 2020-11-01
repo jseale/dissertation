@@ -1,0 +1,12 @@
+estimate_70	For	O
+estimate_70	a	O
+estimate_70	given	O
+estimate_70	value	O
+estimate_70	for	O
+estimate_70	an	O
+estimate_70	estimate	estimate_nou
+estimate_70	of	O
+estimate_70	the	O
+estimate_70	functionusing	O
+estimate_70	kernel	O
+estimate_70	method	O

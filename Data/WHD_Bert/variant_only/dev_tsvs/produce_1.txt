@@ -1,0 +1,11 @@
+produce_1	He	O
+produce_1	adapted	O
+produce_1	and	O
+produce_1	restructured	O
+produce_1	several	O
+produce_1	classics	O
+produce_1	to	O
+produce_1	produce	produce_vrb
+produce_1	notable	O
+produce_1	radio	O
+produce_1	plays	O

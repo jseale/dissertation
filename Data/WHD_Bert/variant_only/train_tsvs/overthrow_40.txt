@@ -1,0 +1,16 @@
+overthrow_40	Following	O
+overthrow_40	the	O
+overthrow_40	overthrow	overthrow_nou
+overthrow_40	of	O
+overthrow_40	the	O
+overthrow_40	Ba'athist	O
+overthrow_40	government	O
+overthrow_40	of	O
+overthrow_40	Iraq	O
+overthrow_40	Jebara	O
+overthrow_40	began	O
+overthrow_40	working	O
+overthrow_40	with	O
+overthrow_40	the	O
+overthrow_40	Coalition	O
+overthrow_40	Forces	O

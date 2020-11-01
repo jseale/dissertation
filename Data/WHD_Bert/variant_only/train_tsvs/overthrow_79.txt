@@ -1,0 +1,15 @@
+overthrow_79	One	O
+overthrow_79	sells	O
+overthrow_79	his	O
+overthrow_79	services	O
+overthrow_79	to	O
+overthrow_79	the	O
+overthrow_79	Rebellion	O
+overthrow_79	while	O
+overthrow_79	the	O
+overthrow_79	other	O
+overthrow_79	attempts	O
+overthrow_79	to	O
+overthrow_79	overthrow	overthrow_vrb
+overthrow_79	the	O
+overthrow_79	Emperor	O

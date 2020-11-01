@@ -1,0 +1,9 @@
+impact_1	She	O
+impact_1	however	O
+impact_1	appeared	O
+impact_1	on	O
+impact_1	two	O
+impact_1	more	O
+impact_1	weeks	O
+impact_1	of	O
+impact_1	Impact	impact_nou

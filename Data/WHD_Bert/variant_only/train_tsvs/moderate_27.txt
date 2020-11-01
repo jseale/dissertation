@@ -1,0 +1,13 @@
+moderate_27	It	O
+moderate_27	had	O
+moderate_27	moderate	moderate_adj-nou
+moderate_27	commercial	O
+moderate_27	success	O
+moderate_27	and	O
+moderate_27	had	O
+moderate_27	sold	O
+moderate_27	a	O
+moderate_27	moderate	moderate_adj-nou
+moderate_27	amount	O
+moderate_27	of	O
+moderate_27	books	O

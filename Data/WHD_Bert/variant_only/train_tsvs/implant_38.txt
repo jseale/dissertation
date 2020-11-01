@@ -1,0 +1,17 @@
+implant_38	For	O
+implant_38	individual	O
+implant_38	tooth	O
+implant_38	replacement	O
+implant_38	an	O
+implant_38	implant	implant_nou
+implant_38	abutment	O
+implant_38	is	O
+implant_38	first	O
+implant_38	secured	O
+implant_38	to	O
+implant_38	the	O
+implant_38	implant	implant_nou
+implant_38	with	O
+implant_38	an	O
+implant_38	abutment	O
+implant_38	screw	O

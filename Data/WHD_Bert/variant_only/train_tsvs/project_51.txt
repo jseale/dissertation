@@ -1,0 +1,16 @@
+project_51	Mario	O
+project_51	Fiorentino	O
+project_51	Piero	O
+project_51	Maria	O
+project_51	Lugli	O
+project_51	Vincenzo	O
+project_51	Passarelli	O
+project_51	and	O
+project_51	Luigi	O
+project_51	Piccinato	O
+project_51	worked	O
+project_51	with	O
+project_51	him	O
+project_51	on	O
+project_51	this	O
+project_51	project	project_nou

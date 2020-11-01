@@ -1,0 +1,14 @@
+nestle_16	Russky	O
+nestle_16	Produkt	O
+nestle_16	's	O
+nestle_16	largest	O
+nestle_16	international	O
+nestle_16	competitors	O
+nestle_16	are	O
+nestle_16	Nestle	nestle_nam
+nestle_16	Kraft	O
+nestle_16	Foods	O
+nestle_16	Unilever	O
+nestle_16	and	O
+nestle_16	Mars	O
+nestle_16	Incorporated	O

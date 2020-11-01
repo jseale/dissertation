@@ -1,0 +1,14 @@
+live_20	When	O
+live_20	Kayla	O
+live_20	confesses	O
+live_20	that	O
+live_20	she	O
+live_20	lied	O
+live_20	Tom	O
+live_20	sends	O
+live_20	her	O
+live_20	to	O
+live_20	live	live_vrb
+live_20	with	O
+live_20	her	O
+live_20	grandparents	O

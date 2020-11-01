@@ -1,0 +1,15 @@
+lives_78	She	O
+lives_78	lives	lives_vrb
+lives_78	in	O
+lives_78	Washington	O
+lives_78	D.C.	O
+lives_78	with	O
+lives_78	her	O
+lives_78	husband	O
+lives_78	Bloomberg	O
+lives_78	editor	O
+lives_78	Max	O
+lives_78	Berley	O
+lives_78	and	O
+lives_78	their	O
+lives_78	children	O

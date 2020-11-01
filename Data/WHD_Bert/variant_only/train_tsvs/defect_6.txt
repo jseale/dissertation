@@ -1,0 +1,15 @@
+defect_6	The	O
+defect_6	difference	O
+defect_6	in	O
+defect_6	mass	O
+defect_6	between	O
+defect_6	bound	O
+defect_6	and	O
+defect_6	unbound	O
+defect_6	nucleons	O
+defect_6	is	O
+defect_6	known	O
+defect_6	as	O
+defect_6	the	O
+defect_6	mass	O
+defect_6	defect	defect_nou

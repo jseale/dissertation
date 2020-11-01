@@ -1,0 +1,15 @@
+recount_46	After	O
+recount_46	demanding	O
+recount_46	a	O
+recount_46	recount	recount_nou
+recount_46	West	O
+recount_46	finally	O
+recount_46	conceded	O
+recount_46	the	O
+recount_46	election	O
+recount_46	to	O
+recount_46	Murphy	O
+recount_46	on	O
+recount_46	November	O
+recount_46	20	O
+recount_46	2012	O

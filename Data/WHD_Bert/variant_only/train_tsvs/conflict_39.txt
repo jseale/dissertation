@@ -1,0 +1,15 @@
+conflict_39	Arbitration	O
+conflict_39	is	O
+conflict_39	best	O
+conflict_39	for	O
+conflict_39	low	O
+conflict_39	intensity	O
+conflict_39	conflict	conflict_nou
+conflict_39	but	O
+conflict_39	is	O
+conflict_39	the	O
+conflict_39	most	O
+conflict_39	favored	O
+conflict_39	mediation	O
+conflict_39	style	O
+conflict_39	overall	O

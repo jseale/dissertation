@@ -1,0 +1,9 @@
+perfect_1	She	O
+perfect_1	is	O
+perfect_1	the	O
+perfect_1	perfect	perfect_adj
+perfect_1	model	O
+perfect_1	of	O
+perfect_1	nineteenth	O
+perfect_1	century	O
+perfect_1	womanhood	O

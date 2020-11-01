@@ -1,0 +1,14 @@
+upset_74	Galway	O
+upset_74	produced	O
+upset_74	a	O
+upset_74	massive	O
+upset_74	upset	upset_nou
+upset_74	beating	O
+upset_74	Galway	O
+upset_74	lifted	O
+upset_74	their	O
+upset_74	first	O
+upset_74	Bob	O
+upset_74	O'Keefe	O
+upset_74	Cup	O
+upset_74	ever	O

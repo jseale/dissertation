@@ -1,0 +1,14 @@
+use_21	The	O
+use_21	company	O
+use_21	started	O
+use_21	to	O
+use_21	produced	O
+use_21	optical	O
+use_21	glass	O
+use_21	during	O
+use_21	the	O
+use_21	early	O
+use_21	1940s	O
+use_21	for	O
+use_21	military	O
+use_21	use	use_nou

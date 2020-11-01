@@ -1,0 +1,17 @@
+expose_40	Ching	O
+expose_40	gets	O
+expose_40	a	O
+expose_40	job	O
+expose_40	at	O
+expose_40	another	O
+expose_40	jewelry	O
+expose_40	company	O
+expose_40	and	O
+expose_40	collaborates	O
+expose_40	with	O
+expose_40	Lung	O
+expose_40	to	O
+expose_40	expose	expose_vrb
+expose_40	Yuen	O
+expose_40	's	O
+expose_40	wrongdoings	O

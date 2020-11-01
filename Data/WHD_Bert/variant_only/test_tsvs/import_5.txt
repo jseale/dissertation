@@ -1,0 +1,16 @@
+import_5	Ningbo	O
+import_5	is	O
+import_5	a	O
+import_5	growing	O
+import_5	economic	O
+import_5	port	O
+import_5	which	O
+import_5	provides	O
+import_5	import	import_nou
+import_5	and	O
+import_5	export	O
+import_5	routes	O
+import_5	for	O
+import_5	neighboring	O
+import_5	provincial	O
+import_5	cities	O

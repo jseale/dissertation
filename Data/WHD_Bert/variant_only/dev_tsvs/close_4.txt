@@ -1,0 +1,11 @@
+close_4	There	O
+close_4	is	O
+close_4	a	O
+close_4	small	O
+close_4	stadium	O
+close_4	called	O
+close_4	Waldstadion	O
+close_4	close	close_adj-nou
+close_4	to	O
+close_4	the	O
+close_4	Domholzschule	O

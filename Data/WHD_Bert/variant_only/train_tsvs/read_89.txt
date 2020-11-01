@@ -1,0 +1,10 @@
+read_89	Issue	O
+read_89	45	O
+read_89	a	O
+read_89	special	O
+read_89	long	O
+read_89	read	read_present
+read_89	edition	O
+read_89	was	O
+read_89	£	O
+read_89	2.99	O

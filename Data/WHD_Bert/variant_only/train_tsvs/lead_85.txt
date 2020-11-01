@@ -1,0 +1,17 @@
+lead_85	It	O
+lead_85	was	O
+lead_85	released	O
+lead_85	as	O
+lead_85	the	O
+lead_85	lead	lead_nou-vrb
+lead_85	single	O
+lead_85	from	O
+lead_85	the	O
+lead_85	EP	O
+lead_85	on	O
+lead_85	September	O
+lead_85	20	O
+lead_85	2011	O
+lead_85	through	O
+lead_85	604	O
+lead_85	Records	O

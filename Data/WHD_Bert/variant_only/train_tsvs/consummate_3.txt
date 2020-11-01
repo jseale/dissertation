@@ -1,0 +1,14 @@
+consummate_3	Romeo	O
+consummate_3	secretly	O
+consummate_3	spends	O
+consummate_3	the	O
+consummate_3	night	O
+consummate_3	in	O
+consummate_3	Juliet	O
+consummate_3	's	O
+consummate_3	chamber	O
+consummate_3	where	O
+consummate_3	they	O
+consummate_3	consummate	consummate_vrb
+consummate_3	their	O
+consummate_3	marriage	O

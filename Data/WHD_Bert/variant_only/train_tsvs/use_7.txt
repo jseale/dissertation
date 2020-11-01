@@ -1,0 +1,9 @@
+use_7	The	O
+use_7	Hadley	O
+use_7	Fund	O
+use_7	Endowment	O
+use_7	Charter	O
+use_7	and	O
+use_7	Terms	O
+use_7	of	O
+use_7	Use	use_nou

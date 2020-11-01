@@ -1,0 +1,14 @@
+house_2	Bradley	O
+house_2	House	house_nou
+house_2	the	O
+house_2	seat	O
+house_2	of	O
+house_2	the	O
+house_2	Duke	O
+house_2	of	O
+house_2	Somerset	O
+house_2	is	O
+house_2	adjacent	O
+house_2	to	O
+house_2	the	O
+house_2	village	O

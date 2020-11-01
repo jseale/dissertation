@@ -1,0 +1,6 @@
+winds_20	Storm	O
+winds_20	winds	winds_nou
+winds_20	damage	O
+winds_20	historic	O
+winds_20	downtown	O
+winds_20	buildings	O

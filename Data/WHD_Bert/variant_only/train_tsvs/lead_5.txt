@@ -1,0 +1,13 @@
+lead_5	Of	O
+lead_5	note	O
+lead_5	she	O
+lead_5	would	O
+lead_5	lead	lead_nou-vrb
+lead_5	the	O
+lead_5	Tigers	O
+lead_5	in	O
+lead_5	scoring	O
+lead_5	during	O
+lead_5	her	O
+lead_5	senior	O
+lead_5	season	O

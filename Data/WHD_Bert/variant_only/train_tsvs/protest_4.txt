@@ -1,0 +1,14 @@
+protest_4	The	O
+protest_4	protest	protest_nou
+protest_4	escalated	O
+protest_4	after	O
+protest_4	law	O
+protest_4	enforcers	O
+protest_4	opened	O
+protest_4	fire	O
+protest_4	on	O
+protest_4	protesters	O
+protest_4	killing	O
+protest_4	four	O
+protest_4	of	O
+protest_4	them	O

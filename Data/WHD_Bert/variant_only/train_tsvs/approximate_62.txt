@@ -1,0 +1,10 @@
+approximate_62	In	O
+approximate_62	2006	O
+approximate_62	the	O
+approximate_62	village	O
+approximate_62	had	O
+approximate_62	an	O
+approximate_62	approximate	approximate_adj-nou
+approximate_62	population	O
+approximate_62	of	O
+approximate_62	270	O

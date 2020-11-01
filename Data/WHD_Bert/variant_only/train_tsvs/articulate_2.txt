@@ -1,0 +1,14 @@
+articulate_2	His	O
+articulate_2	articulate	articulate_adj
+articulate_2	speeches	O
+articulate_2	throughout	O
+articulate_2	New	O
+articulate_2	England	O
+articulate_2	earned	O
+articulate_2	Morel	O
+articulate_2	an	O
+articulate_2	audience	O
+articulate_2	with	O
+articulate_2	President	O
+articulate_2	Theodore	O
+articulate_2	Roosevelt	O

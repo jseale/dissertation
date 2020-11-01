@@ -1,0 +1,15 @@
+refund_9	The	O
+refund_9	company	O
+refund_9	ended	O
+refund_9	production	O
+refund_9	without	O
+refund_9	any	O
+refund_9	type	O
+refund_9	of	O
+refund_9	notification	O
+refund_9	or	O
+refund_9	refund	refund_nou
+refund_9	to	O
+refund_9	subscribers	O
+refund_9	or	O
+refund_9	advertisers	O

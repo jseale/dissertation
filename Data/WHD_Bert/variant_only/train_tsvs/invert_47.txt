@@ -1,0 +1,7 @@
+invert_47	Invert	invert_vrb
+invert_47	the	O
+invert_47	images	O
+invert_47	to	O
+invert_47	create	O
+invert_47	four	O
+invert_47	negatives	O

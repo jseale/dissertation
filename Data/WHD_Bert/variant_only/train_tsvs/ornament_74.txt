@@ -1,0 +1,12 @@
+ornament_74	Many	O
+ornament_74	other	O
+ornament_74	gates	O
+ornament_74	in	O
+ornament_74	Javanese	O
+ornament_74	traditional	O
+ornament_74	buildings	O
+ornament_74	have	O
+ornament_74	this	O
+ornament_74	kind	O
+ornament_74	of	O
+ornament_74	ornament	ornament_nou

@@ -1,0 +1,9 @@
+appropriate_73	Where	O
+appropriate_73	the	O
+appropriate_73	gender	O
+appropriate_73	is	O
+appropriate_73	appropriate	appropriate_adj
+appropriate_73	the	O
+appropriate_73	form	O
+appropriate_73	is	O
+appropriate_73	gracilis	O

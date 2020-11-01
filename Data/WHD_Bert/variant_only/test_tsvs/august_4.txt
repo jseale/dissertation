@@ -1,0 +1,9 @@
+august_4	His	O
+august_4	father	O
+august_4	died	O
+august_4	in	O
+august_4	a	O
+august_4	car	O
+august_4	crash	O
+august_4	in	O
+august_4	August	august

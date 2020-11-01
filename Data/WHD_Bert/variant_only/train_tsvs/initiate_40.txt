@@ -1,0 +1,11 @@
+initiate_40	Variations	O
+initiate_40	of	O
+initiate_40	these	O
+initiate_40	factors	O
+initiate_40	will	O
+initiate_40	initiate	initiate_vrb
+initiate_40	dynamic	O
+initiate_40	modifications	O
+initiate_40	to	O
+initiate_40	the	O
+initiate_40	ecosystem	O

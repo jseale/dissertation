@@ -1,0 +1,17 @@
+perfect_35	Braden	O
+perfect_35	's	O
+perfect_35	perfect	perfect_adj
+perfect_35	game	O
+perfect_35	took	O
+perfect_35	place	O
+perfect_35	on	O
+perfect_35	May	O
+perfect_35	9	O
+perfect_35	2010	O
+perfect_35	Mother	O
+perfect_35	's	O
+perfect_35	Day	O
+perfect_35	in	O
+perfect_35	the	O
+perfect_35	United	O
+perfect_35	States	O

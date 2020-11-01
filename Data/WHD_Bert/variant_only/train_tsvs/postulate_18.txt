@@ -1,0 +1,11 @@
+postulate_18	Those	O
+postulate_18	who	O
+postulate_18	postulate	postulate_vrb
+postulate_18	other	O
+postulate_18	reasons	O
+postulate_18	for	O
+postulate_18	the	O
+postulate_18	withdrawal	O
+postulate_18	are	O
+postulate_18	simply	O
+postulate_18	wrong	O

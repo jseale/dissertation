@@ -1,0 +1,15 @@
+overthrow_4	In	O
+overthrow_4	order	O
+overthrow_4	to	O
+overthrow_4	achieve	O
+overthrow_4	this	O
+overthrow_4	they	O
+overthrow_4	wished	O
+overthrow_4	to	O
+overthrow_4	overthrow	overthrow_vrb
+overthrow_4	the	O
+overthrow_4	Doctor	O
+overthrow_4	's	O
+overthrow_4	homeworld	O
+overthrow_4	of	O
+overthrow_4	Gallifrey	O

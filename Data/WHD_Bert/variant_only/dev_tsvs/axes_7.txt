@@ -1,0 +1,14 @@
+axes_7	Unsuspecting	O
+axes_7	outnumbered	O
+axes_7	and	O
+axes_7	surrounded	O
+axes_7	the	O
+axes_7	Llancarfan	O
+axes_7	army	O
+axes_7	fell	O
+axes_7	to	O
+axes_7	the	O
+axes_7	Thrall	O
+axes_7	's	O
+axes_7	unforgiving	O
+axes_7	axes	axes_nou-vrb

@@ -1,0 +1,13 @@
+conflict_19	The	O
+conflict_19	different	O
+conflict_19	strategies	O
+conflict_19	resulted	O
+conflict_19	in	O
+conflict_19	a	O
+conflict_19	sharp	O
+conflict_19	conflict	conflict_nou
+conflict_19	between	O
+conflict_19	the	O
+conflict_19	two	O
+conflict_19	communist	O
+conflict_19	politicians	O

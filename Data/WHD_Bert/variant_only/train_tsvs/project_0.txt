@@ -1,0 +1,11 @@
+project_0	Financial	O
+project_0	burdens	O
+project_0	through	O
+project_0	this	O
+project_0	part	O
+project_0	of	O
+project_0	the	O
+project_0	project	project_nou
+project_0	caused	O
+project_0	further	O
+project_0	delays	O

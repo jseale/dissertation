@@ -1,0 +1,15 @@
+degenerate_33	His	O
+degenerate_33	squad	O
+degenerate_33	was	O
+degenerate_33	hunting	O
+degenerate_33	the	O
+degenerate_33	operators	O
+degenerate_33	of	O
+degenerate_33	gladiatorial	O
+degenerate_33	contests	O
+degenerate_33	in	O
+degenerate_33	the	O
+degenerate_33	degenerate	degenerate_adj-nou
+degenerate_33	slums	O
+degenerate_33	particularly	O
+degenerate_33	Megatron	O

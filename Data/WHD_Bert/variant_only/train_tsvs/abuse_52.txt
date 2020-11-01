@@ -1,0 +1,9 @@
+abuse_52	One	O
+abuse_52	student	O
+abuse_52	pleaded	O
+abuse_52	guilty	O
+abuse_52	to	O
+abuse_52	second	O
+abuse_52	degree	O
+abuse_52	sexual	O
+abuse_52	abuse	abuse_nou

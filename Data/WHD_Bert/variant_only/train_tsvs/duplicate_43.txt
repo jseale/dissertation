@@ -1,0 +1,17 @@
+duplicate_43	Doom	O
+duplicate_43	faced	O
+duplicate_43	his	O
+duplicate_43	duplicate	duplicate_adj-nou
+duplicate_43	and	O
+duplicate_43	in	O
+duplicate_43	the	O
+duplicate_43	battle	O
+duplicate_43	he	O
+duplicate_43	learned	O
+duplicate_43	that	O
+duplicate_43	the	O
+duplicate_43	duplicate	duplicate_adj-nou
+duplicate_43	was	O
+duplicate_43	a	O
+duplicate_43	false	O
+duplicate_43	Doom	O

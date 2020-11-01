@@ -1,0 +1,17 @@
+implant_25	It	O
+implant_25	is	O
+implant_25	utilized	O
+implant_25	when	O
+implant_25	the	O
+implant_25	implant	implant_nou
+implant_25	is	O
+implant_25	at	O
+implant_25	a	O
+implant_25	different	O
+implant_25	inclination	O
+implant_25	in	O
+implant_25	relation	O
+implant_25	to	O
+implant_25	the	O
+implant_25	proposed	O
+implant_25	prosthesis	O

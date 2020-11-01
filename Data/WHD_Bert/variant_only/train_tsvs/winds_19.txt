@@ -1,0 +1,11 @@
+winds_19	Winds	winds_nou
+winds_19	were	O
+winds_19	generally	O
+winds_19	light	O
+winds_19	peaking	O
+winds_19	at	O
+winds_19	45	O
+winds_19	mph	O
+winds_19	72	O
+winds_19	km	O
+winds_19	h	O

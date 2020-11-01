@@ -1,0 +1,15 @@
+invert_53	In	O
+invert_53	order	O
+invert_53	to	O
+invert_53	recover	O
+invert_53	the	O
+invert_53	original	O
+invert_53	signal	O
+invert_53	we	O
+invert_53	have	O
+invert_53	to	O
+invert_53	invert	invert_vrb
+invert_53	the	O
+invert_53	Lazy	O
+invert_53	Wavelet	O
+invert_53	Transform	O

@@ -1,0 +1,11 @@
+duplicate_38	Territorial	O
+duplicate_38	units	O
+duplicate_38	formed	O
+duplicate_38	duplicate	duplicate_adj-nou
+duplicate_38	battalions	O
+duplicate_38	from	O
+duplicate_38	August	O
+duplicate_38	1914	O
+duplicate_38	to	O
+duplicate_38	May	O
+duplicate_38	1915	O

@@ -1,0 +1,14 @@
+subordinate_76	The	O
+subordinate_76	two	O
+subordinate_76	B	O
+subordinate_76	sections	O
+subordinate_76	subordinate	subordinate_adj-nou
+subordinate_76	themes	O
+subordinate_76	are	O
+subordinate_76	in	O
+subordinate_76	G	O
+subordinate_76	major	O
+subordinate_76	and	O
+subordinate_76	C	O
+subordinate_76	major	O
+subordinate_76	respectively	O

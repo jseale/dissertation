@@ -1,0 +1,13 @@
+diagnoses_25	Vinnie	O
+diagnoses_25	visits	O
+diagnoses_25	doctor	O
+diagnoses_25	James	O
+diagnoses_25	Fraser	O
+diagnoses_25	Michael	O
+diagnoses_25	Piccirilli	O
+diagnoses_25	who	O
+diagnoses_25	diagnoses	diagnoses_vrb
+diagnoses_25	him	O
+diagnoses_25	with	O
+diagnoses_25	testicular	O
+diagnoses_25	cancer	O

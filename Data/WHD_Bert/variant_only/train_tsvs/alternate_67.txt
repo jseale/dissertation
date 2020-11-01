@@ -1,0 +1,10 @@
+alternate_67	The	O
+alternate_67	leaves	O
+alternate_67	are	O
+alternate_67	mostly	O
+alternate_67	alternate	alternate_adj-nou
+alternate_67	rarely	O
+alternate_67	opposite	O
+alternate_67	simple	O
+alternate_67	and	O
+alternate_67	entire	O

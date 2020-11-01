@@ -1,0 +1,15 @@
+ravel_46	Rosenthal	O
+ravel_46	records	O
+ravel_46	and	O
+ravel_46	discounts	O
+ravel_46	contemporary	O
+ravel_46	speculation	O
+ravel_46	that	O
+ravel_46	Ravel	ravel_nam
+ravel_46	a	O
+ravel_46	lifelong	O
+ravel_46	bachelor	O
+ravel_46	may	O
+ravel_46	have	O
+ravel_46	been	O
+ravel_46	homosexual	O

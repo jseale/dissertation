@@ -1,0 +1,15 @@
+wind_4	The	O
+wind_4	150	O
+wind_4	wind	wind_nou
+wind_4	turbines	O
+wind_4	are	O
+wind_4	Siemens	O
+wind_4	SWT-4.0	O
+wind_4	each	O
+wind_4	with	O
+wind_4	a	O
+wind_4	capacity	O
+wind_4	of	O
+wind_4	4	O
+wind_4	megawatts	O
+wind_4	MW	O

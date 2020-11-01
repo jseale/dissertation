@@ -1,0 +1,15 @@
+fragment_73	The	O
+fragment_73	only	O
+fragment_73	fragment	fragment_nou
+fragment_73	of	O
+fragment_73	Sappho	O
+fragment_73	to	O
+fragment_73	explicitly	O
+fragment_73	refer	O
+fragment_73	to	O
+fragment_73	female	O
+fragment_73	homosexual	O
+fragment_73	activity	O
+fragment_73	is	O
+fragment_73	Sappho	O
+fragment_73	94	O

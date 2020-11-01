@@ -1,0 +1,13 @@
+incline_9	The	O
+incline_9	maximum	O
+incline_9	incline	incline_nou
+incline_9	is	O
+incline_9	6	O
+incline_9	but	O
+incline_9	there	O
+incline_9	is	O
+incline_9	no	O
+incline_9	rack	O
+incline_9	and	O
+incline_9	pinion	O
+incline_9	used	O

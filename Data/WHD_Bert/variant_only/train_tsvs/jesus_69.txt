@@ -1,0 +1,12 @@
+jesus_69	Shortly	O
+jesus_69	after	O
+jesus_69	Rob	O
+jesus_69	attended	O
+jesus_69	their	O
+jesus_69	church	O
+jesus_69	and	O
+jesus_69	committed	O
+jesus_69	his	O
+jesus_69	life	O
+jesus_69	to	O
+jesus_69	Jesus	jesus

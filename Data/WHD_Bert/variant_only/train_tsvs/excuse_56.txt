@@ -1,0 +1,11 @@
+excuse_56	According	O
+excuse_56	to	O
+excuse_56	Paul	O
+excuse_56	he	O
+excuse_56	used	O
+excuse_56	his	O
+excuse_56	limited	O
+excuse_56	sight	O
+excuse_56	as	O
+excuse_56	an	O
+excuse_56	excuse	excuse_nou

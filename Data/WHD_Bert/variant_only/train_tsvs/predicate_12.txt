@@ -1,0 +1,14 @@
+predicate_12	In	O
+predicate_12	the	O
+predicate_12	example	O
+predicate_12	above	O
+predicate_12	ancestor	O
+predicate_12	is	O
+predicate_12	an	O
+predicate_12	intensional	O
+predicate_12	predicate	predicate_nou
+predicate_12	symbol	O
+predicate_12	and	O
+predicate_12	parent	O
+predicate_12	is	O
+predicate_12	extensional	O

@@ -1,0 +1,13 @@
+combine_67	Gasoline	O
+combine_67	engines	O
+combine_67	combine	combine_vrb
+combine_67	homogeneous	O
+combine_67	charge	O
+combine_67	HC	O
+combine_67	with	O
+combine_67	spark	O
+combine_67	ignition	O
+combine_67	SI	O
+combine_67	abbreviated	O
+combine_67	as	O
+combine_67	HCSI	O

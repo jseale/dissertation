@@ -1,0 +1,16 @@
+consummate_49	Riefenstahl	O
+consummate_49	was	O
+consummate_49	a	O
+consummate_49	consummate	consummate_adj
+consummate_49	stylist	O
+consummate_49	obsessed	O
+consummate_49	with	O
+consummate_49	bodies	O
+consummate_49	in	O
+consummate_49	motion	O
+consummate_49	particularly	O
+consummate_49	those	O
+consummate_49	of	O
+consummate_49	dancers	O
+consummate_49	and	O
+consummate_49	athletes	O

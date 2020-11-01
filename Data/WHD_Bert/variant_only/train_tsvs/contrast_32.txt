@@ -1,0 +1,12 @@
+contrast_32	This	O
+contrast_32	is	O
+contrast_32	a	O
+contrast_32	sharp	O
+contrast_32	contrast	contrast_nou
+contrast_32	to	O
+contrast_32	New	O
+contrast_32	Yorks	O
+contrast_32	system	O
+contrast_32	of	O
+contrast_32	Free	O
+contrast_32	Banking	O

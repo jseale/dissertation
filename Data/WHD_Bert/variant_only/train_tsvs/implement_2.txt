@@ -1,0 +1,17 @@
+implement_2	He	O
+implement_2	advocated	O
+implement_2	the	O
+implement_2	use	O
+implement_2	of	O
+implement_2	electoral	O
+implement_2	politics	O
+implement_2	to	O
+implement_2	implement	implement_vrb
+implement_2	reforms	O
+implement_2	and	O
+implement_2	thus	O
+implement_2	gradually	O
+implement_2	build	O
+implement_2	a	O
+implement_2	collectivist	O
+implement_2	society	O

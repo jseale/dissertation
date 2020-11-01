@@ -1,0 +1,17 @@
+suspect_15	Third	O
+suspect_15	the	O
+suspect_15	focus	O
+suspect_15	shifts	O
+suspect_15	to	O
+suspect_15	the	O
+suspect_15	identity	O
+suspect_15	of	O
+suspect_15	the	O
+suspect_15	suspect	suspect_adj-nou
+suspect_15	and	O
+suspect_15	actions	O
+suspect_15	taken	O
+suspect_15	to	O
+suspect_15	apprehend	O
+suspect_15	the	O
+suspect_15	perpetrator	O

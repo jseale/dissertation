@@ -1,0 +1,14 @@
+coordinate_38	Each	O
+coordinate_38	voxel	O
+coordinate_38	typically	O
+coordinate_38	represents	O
+coordinate_38	the	O
+coordinate_38	activity	O
+coordinate_38	of	O
+coordinate_38	a	O
+coordinate_38	particular	O
+coordinate_38	coordinate	coordinate_adj-nou
+coordinate_38	in	O
+coordinate_38	three	O
+coordinate_38	dimensional	O
+coordinate_38	space	O

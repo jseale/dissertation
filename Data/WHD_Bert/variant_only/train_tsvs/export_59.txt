@@ -1,0 +1,11 @@
+export_59	This	O
+export_59	free	O
+export_59	software	O
+export_59	tool	O
+export_59	allows	O
+export_59	to	O
+export_59	export	export_vrb
+export_59	transcriptions	O
+export_59	to	O
+export_59	X	O
+export_59	SAMPA	O

@@ -1,0 +1,17 @@
+defect_72	The	O
+defect_72	monster	O
+defect_72	however	O
+defect_72	is	O
+defect_72	very	O
+defect_72	cunning	O
+defect_72	when	O
+defect_72	trying	O
+defect_72	to	O
+defect_72	hide	O
+defect_72	this	O
+defect_72	defect	defect_nou
+defect_72	from	O
+defect_72	its	O
+defect_72	would	O
+defect_72	be	O
+defect_72	victims	O

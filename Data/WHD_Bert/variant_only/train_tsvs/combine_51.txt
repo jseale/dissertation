@@ -1,0 +1,17 @@
+combine_51	Is	O
+combine_51	it	O
+combine_51	impossible	O
+combine_51	to	O
+combine_51	combine	combine_vrb
+combine_51	the	O
+combine_51	hardiness	O
+combine_51	of	O
+combine_51	these	O
+combine_51	savages	O
+combine_51	with	O
+combine_51	the	O
+combine_51	intellectualness	O
+combine_51	of	O
+combine_51	the	O
+combine_51	civilized	O
+combine_51	man	O

@@ -1,0 +1,9 @@
+compound_15	The	O
+compound_15	charges	O
+compound_15	included	O
+compound_15	involvement	O
+compound_15	in	O
+compound_15	the	O
+compound_15	Riyadh	O
+compound_15	compound	compound_nou
+compound_15	bombings	O

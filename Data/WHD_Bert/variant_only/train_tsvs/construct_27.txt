@@ -1,0 +1,17 @@
+construct_27	Here	O
+construct_27	I	O
+construct_27	wanted	O
+construct_27	to	O
+construct_27	depart	O
+construct_27	from	O
+construct_27	the	O
+construct_27	standard	O
+construct_27	three	O
+construct_27	or	O
+construct_27	four	O
+construct_27	movement	O
+construct_27	concerto	O
+construct_27	and	O
+construct_27	construct	construct_vrb
+construct_27	something	O
+construct_27	different	O

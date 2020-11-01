@@ -1,0 +1,11 @@
+postulate_32	This	O
+postulate_32	conclusion	O
+postulate_32	by	O
+postulate_32	Bunnett	O
+postulate_32	is	O
+postulate_32	a	O
+postulate_32	contradiction	O
+postulate_32	from	O
+postulate_32	the	O
+postulate_32	Hammond	O
+postulate_32	postulate	postulate_nou

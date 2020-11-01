@@ -1,0 +1,14 @@
+estimate_45	Its	O
+estimate_45	report	O
+estimate_45	which	O
+estimate_45	was	O
+estimate_45	not	O
+estimate_45	released	O
+estimate_45	until	O
+estimate_45	2013	O
+estimate_45	concluded	O
+estimate_45	that	O
+estimate_45	as	O
+estimate_45	a	O
+estimate_45	conservative	O
+estimate_45	estimate	estimate_nou

@@ -1,0 +1,15 @@
+diffuse_65	During	O
+diffuse_65	this	O
+diffuse_65	process	O
+diffuse_65	water	O
+diffuse_65	is	O
+diffuse_65	added	O
+diffuse_65	to	O
+diffuse_65	the	O
+diffuse_65	emulsion	O
+diffuse_65	which	O
+diffuse_65	causes	O
+diffuse_65	the	O
+diffuse_65	solvent	O
+diffuse_65	to	O
+diffuse_65	diffuse	diffuse_vrb

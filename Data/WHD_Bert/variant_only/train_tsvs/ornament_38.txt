@@ -1,0 +1,17 @@
+ornament_38	Pearl	O
+ornament_38	shell	O
+ornament_38	ornament	ornament_nou
+ornament_38	decorated	O
+ornament_38	with	O
+ornament_38	incised	O
+ornament_38	images	O
+ornament_38	of	O
+ornament_38	Australian	O
+ornament_38	flora	O
+ornament_38	and	O
+ornament_38	fauna	O
+ornament_38	made	O
+ornament_38	by	O
+ornament_38	Butcher	O
+ornament_38	Joe	O
+ornament_38	Nangan	O

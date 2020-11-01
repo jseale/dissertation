@@ -1,0 +1,8 @@
+contrast_63	See	O
+contrast_63	unsharp	O
+contrast_63	masking	O
+contrast_63	local	O
+contrast_63	contrast	contrast_nou
+contrast_63	enhancement	O
+contrast_63	for	O
+contrast_63	details	O

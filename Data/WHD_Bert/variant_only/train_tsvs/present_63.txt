@@ -1,0 +1,13 @@
+present_63	IBM	O
+present_63	the	O
+present_63	present	present_adj-nou
+present_63	owner	O
+present_63	of	O
+present_63	the	O
+present_63	Lotus	O
+present_63	brand	O
+present_63	renamed	O
+present_63	it	O
+present_63	Lotus	O
+present_63	Word	O
+present_63	Pro	O

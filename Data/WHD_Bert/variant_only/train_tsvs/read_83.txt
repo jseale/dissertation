@@ -1,0 +1,17 @@
+read_83	He	O
+read_83	was	O
+read_83	educated	O
+read_83	at	O
+read_83	Eton	O
+read_83	and	O
+read_83	Magdalene	O
+read_83	College	O
+read_83	Cambridge	O
+read_83	where	O
+read_83	he	O
+read_83	read	read_past
+read_83	History	O
+read_83	B.A.	O
+read_83	1890	O
+read_83	M.A.	O
+read_83	1894	O

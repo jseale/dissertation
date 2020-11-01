@@ -1,0 +1,17 @@
+diagnoses_49	The	O
+diagnoses_49	vehicle	O
+diagnoses_49	computer	O
+diagnoses_49	diagnoses	diagnoses_vrb
+diagnoses_49	the	O
+diagnoses_49	tram	O
+diagnoses_49	displays	O
+diagnoses_49	the	O
+diagnoses_49	speedometer	O
+diagnoses_49	gives	O
+diagnoses_49	access	O
+diagnoses_49	to	O
+diagnoses_49	the	O
+diagnoses_49	sander	O
+diagnoses_49	status	O
+diagnoses_49	and	O
+diagnoses_49	more	O

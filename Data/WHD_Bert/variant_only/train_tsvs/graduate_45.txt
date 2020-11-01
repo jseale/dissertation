@@ -1,0 +1,8 @@
+graduate_45	The	O
+graduate_45	institute	O
+graduate_45	offers	O
+graduate_45	several	O
+graduate_45	post	O
+graduate_45	graduate	graduate_adj-nou
+graduate_45	diplomas	O
+graduate_45	also	O

@@ -1,0 +1,17 @@
+tear_3	Once	O
+tear_3	reunited	O
+tear_3	with	O
+tear_3	Keller	O
+tear_3	Cross	O
+tear_3	and	O
+tear_3	Green	O
+tear_3	work	O
+tear_3	to	O
+tear_3	seal	O
+tear_3	the	O
+tear_3	dimensional	O
+tear_3	tear	tear_vrb
+tear_3	to	O
+tear_3	stop	O
+tear_3	the	O
+tear_3	invasion	O

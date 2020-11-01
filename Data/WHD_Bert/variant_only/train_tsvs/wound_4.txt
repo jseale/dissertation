@@ -1,0 +1,15 @@
+wound_4	Wedorf	O
+wound_4	resumed	O
+wound_4	his	O
+wound_4	studies	O
+wound_4	one	O
+wound_4	year	O
+wound_4	later	O
+wound_4	after	O
+wound_4	suffering	O
+wound_4	a	O
+wound_4	battle	O
+wound_4	wound	wound_nou-vrb
+wound_4	to	O
+wound_4	his	O
+wound_4	arm	O

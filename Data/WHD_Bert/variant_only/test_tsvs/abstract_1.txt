@@ -1,0 +1,12 @@
+abstract_1	Over	O
+abstract_1	time	O
+abstract_1	the	O
+abstract_1	Egyptians	O
+abstract_1	developed	O
+abstract_1	more	O
+abstract_1	abstract	abstract_adj-nou
+abstract_1	perspectives	O
+abstract_1	on	O
+abstract_1	the	O
+abstract_1	creation	O
+abstract_1	process	O

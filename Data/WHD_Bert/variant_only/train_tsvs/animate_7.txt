@@ -1,0 +1,10 @@
+animate_7	Artschwager	O
+animate_7	's	O
+animate_7	efforts	O
+animate_7	to	O
+animate_7	animate	animate_vrb
+animate_7	the	O
+animate_7	space	O
+animate_7	became	O
+animate_7	increasingly	O
+animate_7	sophisticated	O

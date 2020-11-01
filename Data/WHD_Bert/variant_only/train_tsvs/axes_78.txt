@@ -1,0 +1,17 @@
+axes_78	However	O
+axes_78	none	O
+axes_78	of	O
+axes_78	the	O
+axes_78	axes	axes_nou-vrb
+axes_78	at	O
+axes_78	Mount	O
+axes_78	William	O
+axes_78	have	O
+axes_78	been	O
+axes_78	ground	O
+axes_78	and	O
+axes_78	polished	O
+axes_78	into	O
+axes_78	finished	O
+axes_78	hatchet	O
+axes_78	heads	O

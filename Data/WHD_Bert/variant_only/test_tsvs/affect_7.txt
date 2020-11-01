@@ -1,0 +1,15 @@
+affect_7	Studies	O
+affect_7	have	O
+affect_7	shown	O
+affect_7	that	O
+affect_7	phenolic	O
+affect_7	hydrocarbons	O
+affect_7	affect	affect
+affect_7	the	O
+affect_7	functional	O
+affect_7	and	O
+affect_7	structural	O
+affect_7	properties	O
+affect_7	of	O
+affect_7	cell	O
+affect_7	membranes	O

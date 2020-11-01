@@ -1,0 +1,9 @@
+decrease_8	Eggs	O
+decrease_8	decrease	decrease_vrb
+decrease_8	slightly	O
+decrease_8	in	O
+decrease_8	size	O
+decrease_8	from	O
+decrease_8	laying	O
+decrease_8	to	O
+decrease_8	hatching	O

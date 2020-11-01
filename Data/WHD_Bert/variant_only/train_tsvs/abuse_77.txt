@@ -1,0 +1,13 @@
+abuse_77	They	O
+abuse_77	also	O
+abuse_77	participate	O
+abuse_77	in	O
+abuse_77	events	O
+abuse_77	such	O
+abuse_77	as	O
+abuse_77	the	O
+abuse_77	World	O
+abuse_77	Elder	O
+abuse_77	Abuse	abuse_nou
+abuse_77	Awareness	O
+abuse_77	Day	O

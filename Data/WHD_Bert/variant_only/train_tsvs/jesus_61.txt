@@ -1,0 +1,16 @@
+jesus_61	It	O
+jesus_61	is	O
+jesus_61	currently	O
+jesus_61	a	O
+jesus_61	part	O
+jesus_61	of	O
+jesus_61	the	O
+jesus_61	Central	O
+jesus_61	Eastern	O
+jesus_61	Brazil	O
+jesus_61	Province	O
+jesus_61	of	O
+jesus_61	the	O
+jesus_61	Society	O
+jesus_61	of	O
+jesus_61	Jesus	jesus

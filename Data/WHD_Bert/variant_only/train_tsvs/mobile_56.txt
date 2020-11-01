@@ -1,0 +1,15 @@
+mobile_56	Context	O
+mobile_56	awareness	O
+mobile_56	is	O
+mobile_56	a	O
+mobile_56	property	O
+mobile_56	of	O
+mobile_56	mobile	mobile
+mobile_56	devices	O
+mobile_56	that	O
+mobile_56	is	O
+mobile_56	defined	O
+mobile_56	complementarily	O
+mobile_56	to	O
+mobile_56	location	O
+mobile_56	awareness	O

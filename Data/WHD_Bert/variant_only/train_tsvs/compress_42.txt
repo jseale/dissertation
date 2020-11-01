@@ -1,0 +1,15 @@
+compress_42	The	O
+compress_42	tube	O
+compress_42	is	O
+compress_42	drawn	O
+compress_42	through	O
+compress_42	a	O
+compress_42	die	O
+compress_42	to	O
+compress_42	compress	compress
+compress_42	the	O
+compress_42	powder	O
+compress_42	and	O
+compress_42	maximize	O
+compress_42	heat	O
+compress_42	transmission	O

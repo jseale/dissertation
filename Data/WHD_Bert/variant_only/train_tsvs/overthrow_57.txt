@@ -1,0 +1,17 @@
+overthrow_57	Ahuramazda	O
+overthrow_57	brought	O
+overthrow_57	me	O
+overthrow_57	help	O
+overthrow_57	by	O
+overthrow_57	the	O
+overthrow_57	grace	O
+overthrow_57	of	O
+overthrow_57	Ahuramazda	O
+overthrow_57	did	O
+overthrow_57	my	O
+overthrow_57	army	O
+overthrow_57	utterly	O
+overthrow_57	overthrow	overthrow_vrb
+overthrow_57	that	O
+overthrow_57	rebel	O
+overthrow_57	host	O

@@ -1,0 +1,14 @@
+coordinate_20	BAE	O
+coordinate_20	Systems	O
+coordinate_20	Lancashire	O
+coordinate_20	County	O
+coordinate_20	Council	O
+coordinate_20	and	O
+coordinate_20	Lancashire	O
+coordinate_20	Enterprise	O
+coordinate_20	Partnership	O
+coordinate_20	coordinate	coordinate_vrb
+coordinate_20	the	O
+coordinate_20	site	O
+coordinate_20	's	O
+coordinate_20	development	O

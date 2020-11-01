@@ -1,0 +1,14 @@
+close_7	By	O
+close_7	this	O
+close_7	time	O
+close_7	Engima	O
+close_7	has	O
+close_7	clocked	O
+close_7	close	close_adj-nou
+close_7	to	O
+close_7	an	O
+close_7	estimated	O
+close_7	30	O
+close_7	million	O
+close_7	sales	O
+close_7	worldwide	O

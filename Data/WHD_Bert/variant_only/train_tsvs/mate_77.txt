@@ -1,0 +1,9 @@
+mate_77	When	O
+mate_77	ready	O
+mate_77	to	O
+mate_77	mate	mate
+mate_77	the	O
+mate_77	pair	O
+mate_77	preened	O
+mate_77	each	O
+mate_77	other	O

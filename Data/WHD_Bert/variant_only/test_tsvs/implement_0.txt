@@ -1,0 +1,11 @@
+implement_0	It	O
+implement_0	is	O
+implement_0	also	O
+implement_0	possible	O
+implement_0	to	O
+implement_0	implement	implement_vrb
+implement_0	a	O
+implement_0	flat	O
+implement_0	frequency	O
+implement_0	response	O
+implement_0	attenuator	O

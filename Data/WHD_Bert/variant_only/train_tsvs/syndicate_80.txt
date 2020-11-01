@@ -1,0 +1,15 @@
+syndicate_80	It	O
+syndicate_80	was	O
+syndicate_80	syndicated	O
+syndicate_80	by	O
+syndicate_80	the	O
+syndicate_80	Register	O
+syndicate_80	and	O
+syndicate_80	Tribune	O
+syndicate_80	Syndicate	syndicate_nou
+syndicate_80	now	O
+syndicate_80	part	O
+syndicate_80	of	O
+syndicate_80	King	O
+syndicate_80	Features	O
+syndicate_80	Syndicate	syndicate_nou

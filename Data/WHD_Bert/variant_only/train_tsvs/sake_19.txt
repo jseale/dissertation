@@ -1,0 +1,10 @@
+sake_19	An	O
+sake_19	infinite	O
+sake_19	game	O
+sake_19	continues	O
+sake_19	play	O
+sake_19	for	O
+sake_19	the	O
+sake_19	sake	sake
+sake_19	of	O
+sake_19	play	O

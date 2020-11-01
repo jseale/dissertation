@@ -1,0 +1,13 @@
+mate_0	His	O
+mate_0	running	O
+mate_0	mate	mate
+mate_0	Senator	O
+mate_0	Jose	O
+mate_0	Laurel	O
+mate_0	Jr.	O
+mate_0	lost	O
+mate_0	to	O
+mate_0	Pampanga	O
+mate_0	Representative	O
+mate_0	Diosdado	O
+mate_0	Macapagal	O

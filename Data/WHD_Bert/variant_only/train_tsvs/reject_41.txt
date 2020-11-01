@@ -1,0 +1,12 @@
+reject_41	It	O
+reject_41	is	O
+reject_41	not	O
+reject_41	because	O
+reject_41	I	O
+reject_41	am	O
+reject_41	gay	O
+reject_41	that	O
+reject_41	I	O
+reject_41	will	O
+reject_41	reject	reject_vrb
+reject_41	it	O

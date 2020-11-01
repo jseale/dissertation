@@ -1,0 +1,11 @@
+approximate_26	Many	O
+approximate_26	have	O
+approximate_26	tried	O
+approximate_26	to	O
+approximate_26	approximate	approximate_vrb
+approximate_26	his	O
+approximate_26	diction	O
+approximate_26	but	O
+approximate_26	he	O
+approximate_26	stands	O
+approximate_26	alone	O

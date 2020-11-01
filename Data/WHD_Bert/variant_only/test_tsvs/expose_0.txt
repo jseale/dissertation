@@ -1,0 +1,17 @@
+expose_0	Concurrent	O
+expose_0	Collections	O
+expose_0	known	O
+expose_0	as	O
+expose_0	CnC	O
+expose_0	is	O
+expose_0	a	O
+expose_0	programming	O
+expose_0	model	O
+expose_0	for	O
+expose_0	software	O
+expose_0	frameworks	O
+expose_0	to	O
+expose_0	expose	expose_vrb
+expose_0	parallelism	O
+expose_0	in	O
+expose_0	applications	O

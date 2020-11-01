@@ -1,0 +1,14 @@
+deviate_8	At	O
+deviate_8	the	O
+deviate_8	interface	O
+deviate_8	these	O
+deviate_8	values	O
+deviate_8	may	O
+deviate_8	deviate	deviate_vrb
+deviate_8	from	O
+deviate_8	those	O
+deviate_8	present	O
+deviate_8	within	O
+deviate_8	the	O
+deviate_8	bulk	O
+deviate_8	phases	O

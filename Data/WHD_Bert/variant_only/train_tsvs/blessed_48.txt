@@ -1,0 +1,15 @@
+blessed_48	And	O
+blessed_48	I	O
+blessed_48	marveled	O
+blessed_48	and	O
+blessed_48	blessed	blessed_vrb
+blessed_48	the	O
+blessed_48	Lord	O
+blessed_48	God	O
+blessed_48	for	O
+blessed_48	all	O
+blessed_48	the	O
+blessed_48	things	O
+blessed_48	which	O
+blessed_48	I	O
+blessed_48	saw	O

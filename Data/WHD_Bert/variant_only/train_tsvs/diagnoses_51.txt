@@ -1,0 +1,14 @@
+diagnoses_51	Angiography	O
+diagnoses_51	is	O
+diagnoses_51	typically	O
+diagnoses_51	not	O
+diagnoses_51	necessary	O
+diagnoses_51	unless	O
+diagnoses_51	it	O
+diagnoses_51	is	O
+diagnoses_51	required	O
+diagnoses_51	to	O
+diagnoses_51	rule	O
+diagnoses_51	out	O
+diagnoses_51	other	O
+diagnoses_51	diagnoses	diagnoses_nou

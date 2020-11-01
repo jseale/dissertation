@@ -1,0 +1,9 @@
+uses_19	Millia	O
+uses_19	uses	uses_vrb
+uses_19	this	O
+uses_19	as	O
+uses_19	another	O
+uses_19	chance	O
+uses_19	to	O
+uses_19	find	O
+uses_19	Zato	O

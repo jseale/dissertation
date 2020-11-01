@@ -1,0 +1,16 @@
+retard_35	Prolonged	O
+retard_35	dry	O
+retard_35	or	O
+retard_35	cold	O
+retard_35	weather	O
+retard_35	retard	retard_vrb
+retard_35	growth	O
+retard_35	but	O
+retard_35	result	O
+retard_35	in	O
+retard_35	adaptative	O
+retard_35	strategy	O
+retard_35	in	O
+retard_35	the	O
+retard_35	genus	O
+retard_35	evolution	O

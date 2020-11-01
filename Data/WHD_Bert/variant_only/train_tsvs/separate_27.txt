@@ -1,0 +1,17 @@
+separate_27	In	O
+separate_27	1965	O
+separate_27	the	O
+separate_27	Armed	O
+separate_27	Forces	O
+separate_27	Maintenance	O
+separate_27	Corps	O
+separate_27	AFMC	O
+separate_27	was	O
+separate_27	disbanded	O
+separate_27	and	O
+separate_27	broken	O
+separate_27	up	O
+separate_27	into	O
+separate_27	three	O
+separate_27	separate	separate_adj
+separate_27	services	O

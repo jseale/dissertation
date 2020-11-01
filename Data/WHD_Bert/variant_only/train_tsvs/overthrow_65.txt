@@ -1,0 +1,17 @@
+overthrow_65	Chen	O
+overthrow_65	Jitang	O
+overthrow_65	and	O
+overthrow_65	Li	O
+overthrow_65	Zongren	O
+overthrow_65	conspired	O
+overthrow_65	to	O
+overthrow_65	overthrow	overthrow_vrb
+overthrow_65	Chiang	O
+overthrow_65	but	O
+overthrow_65	were	O
+overthrow_65	politically	O
+overthrow_65	outmaneuvered	O
+overthrow_65	by	O
+overthrow_65	bribes	O
+overthrow_65	and	O
+overthrow_65	defections	O

@@ -1,0 +1,17 @@
+convict_35	He	O
+convict_35	immediately	O
+convict_35	imposed	O
+convict_35	strict	O
+convict_35	cost	O
+convict_35	cutting	O
+convict_35	measures	O
+convict_35	including	O
+convict_35	using	O
+convict_35	convict	convict_nou
+convict_35	labour	O
+convict_35	instead	O
+convict_35	of	O
+convict_35	contract	O
+convict_35	labour	O
+convict_35	whenever	O
+convict_35	possible	O

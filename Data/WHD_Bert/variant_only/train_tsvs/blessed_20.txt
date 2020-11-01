@@ -1,0 +1,16 @@
+blessed_20	He	O
+blessed_20	kissed	O
+blessed_20	the	O
+blessed_20	blessed	blessed_adj
+blessed_20	feet	O
+blessed_20	of	O
+blessed_20	Hadrat	O
+blessed_20	and	O
+blessed_20	exhaled	O
+blessed_20	3	O
+blessed_20	times	O
+blessed_20	before	O
+blessed_20	coming	O
+blessed_20	down	O
+blessed_20	and	O
+blessed_20	leaving	O

@@ -1,0 +1,10 @@
+invite_11	He	O
+invite_11	later	O
+invite_11	would	O
+invite_11	invite	invite_vrb
+invite_11	Adam	O
+invite_11	Lazzara	O
+invite_11	to	O
+invite_11	join	O
+invite_11	the	O
+invite_11	band	O

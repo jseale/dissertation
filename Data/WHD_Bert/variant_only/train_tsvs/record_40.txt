@@ -1,0 +1,9 @@
+record_40	There	O
+record_40	were	O
+record_40	a	O
+record_40	record	record_nou
+record_40	15	O
+record_40	entries	O
+record_40	for	O
+record_40	the	O
+record_40	Championship	O

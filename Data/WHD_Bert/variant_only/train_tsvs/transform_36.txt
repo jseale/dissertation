@@ -1,0 +1,16 @@
+transform_36	In	O
+transform_36	defining	O
+transform_36	the	O
+transform_36	discrete	O
+transform_36	Zak	O
+transform_36	transform	transform_nou
+transform_36	the	O
+transform_36	input	O
+transform_36	function	O
+transform_36	is	O
+transform_36	a	O
+transform_36	function	O
+transform_36	of	O
+transform_36	an	O
+transform_36	integer	O
+transform_36	variable	O

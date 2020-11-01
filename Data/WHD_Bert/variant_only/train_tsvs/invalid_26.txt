@@ -1,0 +1,16 @@
+invalid_26	It	O
+invalid_26	was	O
+invalid_26	brought	O
+invalid_26	into	O
+invalid_26	effect	O
+invalid_26	after	O
+invalid_26	the	O
+invalid_26	European	O
+invalid_26	Union	O
+invalid_26	's	O
+invalid_26	Data	O
+invalid_26	Retention	O
+invalid_26	Directive	O
+invalid_26	was	O
+invalid_26	declared	O
+invalid_26	invalid	invalid_adj

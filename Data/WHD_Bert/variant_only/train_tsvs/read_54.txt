@@ -1,0 +1,14 @@
+read_54	She	O
+read_54	also	O
+read_54	read	read_past
+read_54	much	O
+read_54	and	O
+read_54	especially	O
+read_54	books	O
+read_54	on	O
+read_54	Eastern	O
+read_54	philosophies	O
+read_54	were	O
+read_54	important	O
+read_54	to	O
+read_54	her	O

@@ -1,0 +1,17 @@
+read_93	The	O
+read_93	articles	O
+read_93	were	O
+read_93	delivered	O
+read_93	to	O
+read_93	the	O
+read_93	Council	O
+read_93	in	O
+read_93	London	O
+read_93	and	O
+read_93	were	O
+read_93	probably	O
+read_93	read	read_past
+read_93	on	O
+read_93	22	O
+read_93	April	O
+read_93	1543	O

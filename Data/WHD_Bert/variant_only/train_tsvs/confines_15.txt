@@ -1,0 +1,9 @@
+confines_15	As	O
+confines_15	a	O
+confines_15	result	O
+confines_15	Picard	O
+confines_15	confines	confines_vrb
+confines_15	her	O
+confines_15	to	O
+confines_15	her	O
+confines_15	quarters	O

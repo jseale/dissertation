@@ -1,0 +1,17 @@
+affect_6	It	O
+affect_6	would	O
+affect_6	also	O
+affect_6	affect	affect
+affect_6	the	O
+affect_6	toddy	O
+affect_6	tappers(Render	O
+affect_6	caste)Merger	O
+affect_6	would	O
+affect_6	result	O
+affect_6	in	O
+affect_6	a	O
+affect_6	loss	O
+affect_6	of	O
+affect_6	jobs	O
+affect_6	for	O
+affect_6	Goans	O

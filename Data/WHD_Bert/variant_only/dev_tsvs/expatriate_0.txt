@@ -1,0 +1,15 @@
+expatriate_0	There	O
+expatriate_0	were	O
+expatriate_0	also	O
+expatriate_0	attempts	O
+expatriate_0	to	O
+expatriate_0	organise	O
+expatriate_0	expatriate	expatriate_nou
+expatriate_0	Indian	O
+expatriate_0	revolutionaries	O
+expatriate_0	in	O
+expatriate_0	Europe	O
+expatriate_0	and	O
+expatriate_0	the	O
+expatriate_0	United	O
+expatriate_0	States	O

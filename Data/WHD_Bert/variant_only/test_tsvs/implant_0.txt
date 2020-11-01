@@ -1,0 +1,7 @@
+implant_0	These	O
+implant_0	are	O
+implant_0	usually	O
+implant_0	called	O
+implant_0	prosthetic	O
+implant_0	implant	implant_nou
+implant_0	abutments	O

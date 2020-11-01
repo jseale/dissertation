@@ -1,0 +1,17 @@
+frequent_66	The	O
+frequent_66	tenor	O
+frequent_66	saxophone	O
+frequent_66	became	O
+frequent_66	best	O
+frequent_66	known	O
+frequent_66	to	O
+frequent_66	the	O
+frequent_66	general	O
+frequent_66	public	O
+frequent_66	through	O
+frequent_66	its	O
+frequent_66	frequent	frequent_adj
+frequent_66	use	O
+frequent_66	in	O
+frequent_66	jazz	O
+frequent_66	music	O

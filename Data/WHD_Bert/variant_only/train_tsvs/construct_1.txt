@@ -1,0 +1,17 @@
+construct_1	It	O
+construct_1	encourages	O
+construct_1	students	O
+construct_1	to	O
+construct_1	construct	construct_vrb
+construct_1	their	O
+construct_1	own	O
+construct_1	meaning	O
+construct_1	with	O
+construct_1	guidance	O
+construct_1	from	O
+construct_1	peers	O
+construct_1	and	O
+construct_1	facilitator	O
+construct_1	of	O
+construct_1	consensus	O
+construct_1	process	O

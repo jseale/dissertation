@@ -1,0 +1,16 @@
+implant_8	This	O
+implant_8	can	O
+implant_8	be	O
+implant_8	corrected	O
+implant_8	by	O
+implant_8	wearing	O
+implant_8	glasses	O
+implant_8	contact	O
+implant_8	lenses	O
+implant_8	or	O
+implant_8	by	O
+implant_8	implant	implant_nou
+implant_8	of	O
+implant_8	an	O
+implant_8	artificial	O
+implant_8	lens	O

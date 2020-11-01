@@ -1,0 +1,14 @@
+fragment_30	In	O
+fragment_30	addition	O
+fragment_30	a	O
+fragment_30	fragment	fragment_nou
+fragment_30	of	O
+fragment_30	a	O
+fragment_30	speech	O
+fragment_30	is	O
+fragment_30	preserved	O
+fragment_30	by	O
+fragment_30	Minucius	O
+fragment_30	Felix	O
+fragment_30	Octavius	O
+fragment_30	9	O

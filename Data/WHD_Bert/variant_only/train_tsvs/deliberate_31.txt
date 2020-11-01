@@ -1,0 +1,10 @@
+deliberate_31	This	O
+deliberate_31	is	O
+deliberate_31	apparent	O
+deliberate_31	in	O
+deliberate_31	his	O
+deliberate_31	deliberate	deliberate_adj
+deliberate_31	choice	O
+deliberate_31	of	O
+deliberate_31	film	O
+deliberate_31	roles	O

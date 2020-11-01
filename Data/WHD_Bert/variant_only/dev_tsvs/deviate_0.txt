@@ -1,0 +1,15 @@
+deviate_0	In	O
+deviate_0	this	O
+deviate_0	situation	O
+deviate_0	output	O
+deviate_0	values	O
+deviate_0	produced	O
+deviate_0	by	O
+deviate_0	enterprises	O
+deviate_0	will	O
+deviate_0	typically	O
+deviate_0	deviate	deviate_vrb
+deviate_0	from	O
+deviate_0	output	O
+deviate_0	prices	O
+deviate_0	realised	O

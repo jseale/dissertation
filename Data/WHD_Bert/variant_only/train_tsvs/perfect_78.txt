@@ -1,0 +1,17 @@
+perfect_78	At	O
+perfect_78	the	O
+perfect_78	Games	O
+perfect_78	on	O
+perfect_78	August	O
+perfect_78	14	O
+perfect_78	Watley	O
+perfect_78	went	O
+perfect_78	a	O
+perfect_78	perfect	perfect_adj
+perfect_78	4/4	O
+perfect_78	with	O
+perfect_78	a	O
+perfect_78	double	O
+perfect_78	and	O
+perfect_78	triple	O
+perfect_78	vs.	O

@@ -1,0 +1,10 @@
+graduate_44	The	O
+graduate_44	school	O
+graduate_44	has	O
+graduate_44	88	O
+graduate_44	doctoral	O
+graduate_44	students	O
+graduate_44	and	O
+graduate_44	279	O
+graduate_44	graduate	graduate_adj-nou
+graduate_44	students	O

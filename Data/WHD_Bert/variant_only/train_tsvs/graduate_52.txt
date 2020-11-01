@@ -1,0 +1,14 @@
+graduate_52	Wojciech	O
+graduate_52	is	O
+graduate_52	a	O
+graduate_52	graduate	graduate_adj-nou
+graduate_52	of	O
+graduate_52	history	O
+graduate_52	of	O
+graduate_52	John	O
+graduate_52	Paul	O
+graduate_52	II	O
+graduate_52	Catholic	O
+graduate_52	University	O
+graduate_52	of	O
+graduate_52	Lublin	O

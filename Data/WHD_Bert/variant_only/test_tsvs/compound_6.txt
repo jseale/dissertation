@@ -1,0 +1,14 @@
+compound_6	This	O
+compound_6	compound	compound_nou
+compound_6	showed	O
+compound_6	high	O
+compound_6	antifungal	O
+compound_6	activity	O
+compound_6	against	O
+compound_6	Colletotrichum	O
+compound_6	gloesporioides	O
+compound_6	a	O
+compound_6	pathogenic	O
+compound_6	fungus	O
+compound_6	of	O
+compound_6	papaya	O

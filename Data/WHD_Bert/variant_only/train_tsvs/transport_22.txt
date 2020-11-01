@@ -1,0 +1,11 @@
+transport_22	The	O
+transport_22	public	O
+transport_22	transport	transport_nou
+transport_22	of	O
+transport_22	Antwerp	O
+transport_22	was	O
+transport_22	exploited	O
+transport_22	by	O
+transport_22	9	O
+transport_22	different	O
+transport_22	companies	O

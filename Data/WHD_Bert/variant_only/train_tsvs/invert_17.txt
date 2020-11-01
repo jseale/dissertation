@@ -1,0 +1,11 @@
+invert_17	In	O
+invert_17	some	O
+invert_17	levels	O
+invert_17	the	O
+invert_17	player	O
+invert_17	can	O
+invert_17	invert	invert_vrb
+invert_17	the	O
+invert_17	gravity	O
+invert_17	by	O
+invert_17	himself	O

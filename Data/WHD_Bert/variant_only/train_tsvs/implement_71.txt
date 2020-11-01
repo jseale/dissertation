@@ -1,0 +1,11 @@
+implement_71	Clippinger	O
+implement_71	consulted	O
+implement_71	with	O
+implement_71	von	O
+implement_71	Neumann	O
+implement_71	on	O
+implement_71	what	O
+implement_71	instruction	O
+implement_71	set	O
+implement_71	to	O
+implement_71	implement	implement_vrb

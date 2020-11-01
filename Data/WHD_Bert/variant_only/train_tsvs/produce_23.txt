@@ -1,0 +1,16 @@
+produce_23	They	O
+produce_23	have	O
+produce_23	a	O
+produce_23	compact	O
+produce_23	body	O
+produce_23	and	O
+produce_23	produce	produce_vrb
+produce_23	an	O
+produce_23	average	O
+produce_23	of	O
+produce_23	one	O
+produce_23	liter	O
+produce_23	of	O
+produce_23	milk	O
+produce_23	each	O
+produce_23	day	O

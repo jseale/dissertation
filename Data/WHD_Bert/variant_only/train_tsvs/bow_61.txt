@@ -1,0 +1,14 @@
+bow_61	He	O
+bow_61	is	O
+bow_61	exceptionally	O
+bow_61	skilled	O
+bow_61	with	O
+bow_61	a	O
+bow_61	short	O
+bow_61	bow	bow_nou-knot
+bow_61	and	O
+bow_61	arrow	O
+bow_61	from	O
+bow_61	a	O
+bow_61	short	O
+bow_61	distance	O

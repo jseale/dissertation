@@ -1,0 +1,13 @@
+sow_11	In	O
+sow_11	bitterness	O
+sow_11	the	O
+sow_11	queen	O
+sow_11	sought	O
+sow_11	to	O
+sow_11	sow	sow
+sow_11	discord	O
+sow_11	between	O
+sow_11	Olaf	O
+sow_11	and	O
+sow_11	her	O
+sow_11	husband	O

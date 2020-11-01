@@ -1,0 +1,15 @@
+wound_73	Unashamed	O
+wound_73	of	O
+wound_73	the	O
+wound_73	sexual	O
+wound_73	relationship	O
+wound_73	she	O
+wound_73	had	O
+wound_73	with	O
+wound_73	Luis	O
+wound_73	Mariana	O
+wound_73	heals	O
+wound_73	her	O
+wound_73	uncle	O
+wound_73	father	O
+wound_73	wound	wound_nou-vrb

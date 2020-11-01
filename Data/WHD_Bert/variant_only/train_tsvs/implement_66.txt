@@ -1,0 +1,17 @@
+implement_66	Several	O
+implement_66	dynamic	O
+implement_66	languages	O
+implement_66	such	O
+implement_66	as	O
+implement_66	Perl	O
+implement_66	Python	O
+implement_66	JavaScript	O
+implement_66	Lua	O
+implement_66	and	O
+implement_66	Ruby	O
+implement_66	use	O
+implement_66	hash	O
+implement_66	tables	O
+implement_66	to	O
+implement_66	implement	implement_vrb
+implement_66	objects	O

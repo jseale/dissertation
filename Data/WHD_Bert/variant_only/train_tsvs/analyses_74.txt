@@ -1,0 +1,8 @@
+analyses_74	Later	O
+analyses_74	exact	O
+analyses_74	cladistic	O
+analyses_74	analyses	analyses_nou
+analyses_74	are	O
+analyses_74	not	O
+analyses_74	in	O
+analyses_74	agreement	O

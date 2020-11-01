@@ -1,0 +1,16 @@
+deliberate_76	Afterwards	O
+deliberate_76	Ricki	O
+deliberate_76	La	O
+deliberate_76	La	O
+deliberate_76	and	O
+deliberate_76	Stryker	O
+deliberate_76	deliberate	deliberate_vrb
+deliberate_76	which	O
+deliberate_76	girls	O
+deliberate_76	will	O
+deliberate_76	be	O
+deliberate_76	on	O
+deliberate_76	the	O
+deliberate_76	Dean	O
+deliberate_76	's	O
+deliberate_76	List	O

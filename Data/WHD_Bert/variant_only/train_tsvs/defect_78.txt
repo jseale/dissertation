@@ -1,0 +1,8 @@
+defect_78	The	O
+defect_78	difference	O
+defect_78	is	O
+defect_78	referred	O
+defect_78	to	O
+defect_78	as	O
+defect_78	the	O
+defect_78	defect	defect_nou

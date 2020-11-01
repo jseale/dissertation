@@ -1,0 +1,16 @@
+console_52	Prior	O
+console_52	to	O
+console_52	the	O
+console_52	Vectrex	O
+console_52	's	O
+console_52	discontinuation	O
+console_52	a	O
+console_52	successor	O
+console_52	console	console_nou
+console_52	with	O
+console_52	a	O
+console_52	color	O
+console_52	screen	O
+console_52	had	O
+console_52	been	O
+console_52	planned	O

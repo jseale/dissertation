@@ -1,0 +1,16 @@
+minute_8	His	O
+minute_8	first	O
+minute_8	film	O
+minute_8	was	O
+minute_8	a	O
+minute_8	30-minute	O
+minute_8	short	O
+minute_8	feature	O
+minute_8	called	O
+minute_8	55	O
+minute_8	is	O
+minute_8	the	O
+minute_8	Speed	O
+minute_8	Limit	O
+minute_8	you	O
+minute_8	Know	O

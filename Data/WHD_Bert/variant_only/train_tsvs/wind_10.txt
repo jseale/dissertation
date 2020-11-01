@@ -1,0 +1,16 @@
+wind_10	Conditions	O
+wind_10	deteriorated	O
+wind_10	on	O
+wind_10	26	O
+wind_10	January	O
+wind_10	when	O
+wind_10	the	O
+wind_10	system	O
+wind_10	ran	O
+wind_10	into	O
+wind_10	some	O
+wind_10	vertical	O
+wind_10	wind	wind_nou
+wind_10	shear	O
+wind_10	and	O
+wind_10	weakened	O

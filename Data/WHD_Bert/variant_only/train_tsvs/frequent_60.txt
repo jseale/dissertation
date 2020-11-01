@@ -1,0 +1,15 @@
+frequent_60	There	O
+frequent_60	may	O
+frequent_60	be	O
+frequent_60	many	O
+frequent_60	reasons	O
+frequent_60	as	O
+frequent_60	to	O
+frequent_60	why	O
+frequent_60	age	O
+frequent_60	hypogamous	O
+frequent_60	relationships	O
+frequent_60	are	O
+frequent_60	not	O
+frequent_60	very	O
+frequent_60	frequent	frequent_adj

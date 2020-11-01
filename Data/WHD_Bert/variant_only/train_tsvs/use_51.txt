@@ -1,0 +1,11 @@
+use_51	It	O
+use_51	is	O
+use_51	also	O
+use_51	available	O
+use_51	for	O
+use_51	use	use_nou
+use_51	by	O
+use_51	other	O
+use_51	institutions	O
+use_51	for	O
+use_51	seminars	O

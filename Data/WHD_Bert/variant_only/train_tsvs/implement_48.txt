@@ -1,0 +1,17 @@
+implement_48	They	O
+implement_48	had	O
+implement_48	to	O
+implement_48	make	O
+implement_48	governments	O
+implement_48	see	O
+implement_48	them	O
+implement_48	as	O
+implement_48	legitimate	O
+implement_48	citizens	O
+implement_48	with	O
+implement_48	knowledge	O
+implement_48	and	O
+implement_48	capacities	O
+implement_48	to	O
+implement_48	implement	implement_vrb
+implement_48	solutions	O

@@ -1,0 +1,10 @@
+moderate_5	It	O
+moderate_5	was	O
+moderate_5	located	O
+moderate_5	in	O
+moderate_5	an	O
+moderate_5	area	O
+moderate_5	of	O
+moderate_5	moderate	moderate_adj-nou
+moderate_5	wind	O
+moderate_5	shear	O

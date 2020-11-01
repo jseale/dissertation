@@ -1,0 +1,17 @@
+deliberate_19	This	O
+deliberate_19	may	O
+deliberate_19	have	O
+deliberate_19	been	O
+deliberate_19	a	O
+deliberate_19	deliberate	deliberate_adj
+deliberate_19	tactic	O
+deliberate_19	to	O
+deliberate_19	give	O
+deliberate_19	the	O
+deliberate_19	horse	O
+deliberate_19	a	O
+deliberate_19	clear	O
+deliberate_19	view	O
+deliberate_19	of	O
+deliberate_19	the	O
+deliberate_19	hurdles	O

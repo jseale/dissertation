@@ -1,0 +1,15 @@
+buffet_35	Amtrak	O
+buffet_35	converted	O
+buffet_35	four	O
+buffet_35	buffet	buffet_nou
+buffet_35	cars	O
+buffet_35	to	O
+buffet_35	automats	O
+buffet_35	in	O
+buffet_35	1985	O
+buffet_35	for	O
+buffet_35	use	O
+buffet_35	on	O
+buffet_35	the	O
+buffet_35	Auto	O
+buffet_35	Train	O

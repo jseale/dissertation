@@ -1,0 +1,16 @@
+implement_80	The	O
+implement_80	Government	O
+implement_80	of	O
+implement_80	India	O
+implement_80	decided	O
+implement_80	to	O
+implement_80	implement	implement_vrb
+implement_80	the	O
+implement_80	first	O
+implement_80	part	O
+implement_80	of	O
+implement_80	the	O
+implement_80	EPC	O
+implement_80	recommendations	O
+implement_80	in	O
+implement_80	1957	O

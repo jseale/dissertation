@@ -1,0 +1,15 @@
+graduate_53	Snyder	O
+graduate_53	born	O
+graduate_53	23	O
+graduate_53	November	O
+graduate_53	1958	O
+graduate_53	is	O
+graduate_53	a	O
+graduate_53	Civil	O
+graduate_53	Engineering	O
+graduate_53	graduate	graduate_adj-nou
+graduate_53	from	O
+graduate_53	the	O
+graduate_53	University	O
+graduate_53	of	O
+graduate_53	Waterloo	O

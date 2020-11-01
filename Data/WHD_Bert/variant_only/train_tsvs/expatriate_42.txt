@@ -1,0 +1,16 @@
+expatriate_42	The	O
+expatriate_42	group	O
+expatriate_42	was	O
+expatriate_42	founded	O
+expatriate_42	in	O
+expatriate_42	2004	O
+expatriate_42	and	O
+expatriate_42	is	O
+expatriate_42	made	O
+expatriate_42	up	O
+expatriate_42	of	O
+expatriate_42	expatriate	expatriate_nou
+expatriate_42	permanent	O
+expatriate_42	residents	O
+expatriate_42	and	O
+expatriate_42	locals	O

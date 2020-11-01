@@ -1,0 +1,15 @@
+permit_4	In	O
+permit_4	February	O
+permit_4	1999	O
+permit_4	he	O
+permit_4	signed	O
+permit_4	for	O
+permit_4	Wycombe	O
+permit_4	Wanderers	O
+permit_4	after	O
+permit_4	initially	O
+permit_4	being	O
+permit_4	refused	O
+permit_4	a	O
+permit_4	work	O
+permit_4	permit	permit_nou

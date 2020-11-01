@@ -1,0 +1,14 @@
+discharge_5	After	O
+discharge_5	his	O
+discharge_5	discharge	discharge_nou
+discharge_5	from	O
+discharge_5	the	O
+discharge_5	army	O
+discharge_5	he	O
+discharge_5	returned	O
+discharge_5	home	O
+discharge_5	to	O
+discharge_5	Kershaw	O
+discharge_5	County	O
+discharge_5	a	O
+discharge_5	hero	O

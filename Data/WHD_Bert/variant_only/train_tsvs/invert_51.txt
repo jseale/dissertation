@@ -1,0 +1,10 @@
+invert_51	The	O
+invert_51	next	O
+invert_51	step	O
+invert_51	is	O
+invert_51	to	O
+invert_51	invert	invert_vrb
+invert_51	each	O
+invert_51	of	O
+invert_51	these	O
+invert_51	separations	O

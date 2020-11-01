@@ -1,0 +1,12 @@
+transplant_3	Shumway	O
+transplant_3	conducted	O
+transplant_3	the	O
+transplant_3	first	O
+transplant_3	adult	O
+transplant_3	heart	O
+transplant_3	transplant	transplant_nou
+transplant_3	in	O
+transplant_3	the	O
+transplant_3	US	O
+transplant_3	in	O
+transplant_3	1968	O

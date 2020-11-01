@@ -1,0 +1,16 @@
+approximate_25	In	O
+approximate_25	general	O
+approximate_25	the	O
+approximate_25	approximate	approximate_adj-nou
+approximate_25	ratio	O
+approximate_25	of	O
+approximate_25	fresh	O
+approximate_25	leaves	O
+approximate_25	to	O
+approximate_25	produced	O
+approximate_25	tea	O
+approximate_25	is	O
+approximate_25	50,000	O
+approximate_25	buds	O
+approximate_25	500	O
+approximate_25	grams	O

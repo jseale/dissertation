@@ -1,0 +1,14 @@
+coordinate_6	In	O
+coordinate_6	1994	O
+coordinate_6	a	O
+coordinate_6	project	O
+coordinate_6	director	O
+coordinate_6	was	O
+coordinate_6	engaged	O
+coordinate_6	to	O
+coordinate_6	coordinate	coordinate_vrb
+coordinate_6	the	O
+coordinate_6	process	O
+coordinate_6	of	O
+coordinate_6	historical	O
+coordinate_6	research	O

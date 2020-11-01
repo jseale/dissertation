@@ -1,0 +1,16 @@
+expose_8	Classes	O
+expose_8	in	O
+expose_8	studio	O
+expose_8	and	O
+expose_8	location	O
+expose_8	lighting	O
+expose_8	expose	expose_vrb
+expose_8	students	O
+expose_8	to	O
+expose_8	daylight	O
+expose_8	tungsten	O
+expose_8	quartz	O
+expose_8	and	O
+expose_8	electronic	O
+expose_8	flash	O
+expose_8	options	O

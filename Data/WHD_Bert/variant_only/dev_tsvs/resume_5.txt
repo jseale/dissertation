@@ -1,0 +1,17 @@
+resume_5	Once	O
+resume_5	CNN	O
+resume_5	resumed	O
+resume_5	regular	O
+resume_5	programming	O
+resume_5	Chung	O
+resume_5	requested	O
+resume_5	that	O
+resume_5	CNN	O
+resume_5	resume	resume_vrb
+resume_5	broadcasting	O
+resume_5	her	O
+resume_5	show	O
+resume_5	as	O
+resume_5	soon	O
+resume_5	as	O
+resume_5	possible	O

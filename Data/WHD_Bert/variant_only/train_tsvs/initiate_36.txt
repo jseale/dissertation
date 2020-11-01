@@ -1,0 +1,17 @@
+initiate_36	Shareholder	O
+initiate_36	derivative	O
+initiate_36	suits	O
+initiate_36	permit	O
+initiate_36	a	O
+initiate_36	shareholder	O
+initiate_36	to	O
+initiate_36	initiate	initiate_vrb
+initiate_36	a	O
+initiate_36	suit	O
+initiate_36	when	O
+initiate_36	management	O
+initiate_36	has	O
+initiate_36	failed	O
+initiate_36	to	O
+initiate_36	do	O
+initiate_36	so	O

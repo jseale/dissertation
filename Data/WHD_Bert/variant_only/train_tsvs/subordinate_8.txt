@@ -1,0 +1,17 @@
+subordinate_8	The	O
+subordinate_8	members	O
+subordinate_8	of	O
+subordinate_8	the	O
+subordinate_8	court	O
+subordinate_8	can	O
+subordinate_8	be	O
+subordinate_8	divided	O
+subordinate_8	into	O
+subordinate_8	three	O
+subordinate_8	general	O
+subordinate_8	categories	O
+subordinate_8	royalty	O
+subordinate_8	ministers	O
+subordinate_8	and	O
+subordinate_8	subordinate	subordinate_adj-nou
+subordinate_8	officials	O

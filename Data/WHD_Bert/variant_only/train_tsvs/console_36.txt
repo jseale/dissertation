@@ -1,0 +1,14 @@
+console_36	This	O
+console_36	version	O
+console_36	is	O
+console_36	used	O
+console_36	by	O
+console_36	XNA	O
+console_36	Framework	O
+console_36	to	O
+console_36	run	O
+console_36	managed	O
+console_36	games	O
+console_36	on	O
+console_36	the	O
+console_36	console	console_nou

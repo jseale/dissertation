@@ -1,0 +1,7 @@
+frequent_47	She	O
+frequent_47	and	O
+frequent_47	Walter	O
+frequent_47	were	O
+frequent_47	frequent	frequent_adj
+frequent_47	traveling	O
+frequent_47	companions	O

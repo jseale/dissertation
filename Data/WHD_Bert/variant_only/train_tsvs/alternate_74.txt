@@ -1,0 +1,15 @@
+alternate_74	Chinnamul	O
+alternate_74	alternate	alternate_adj-nou
+alternate_74	spelling	O
+alternate_74	Chhinnamul	O
+alternate_74	The	O
+alternate_74	Uprooted	O
+alternate_74	was	O
+alternate_74	a	O
+alternate_74	1950	O
+alternate_74	Bengali	O
+alternate_74	film	O
+alternate_74	directed	O
+alternate_74	by	O
+alternate_74	Nemai	O
+alternate_74	Ghosh	O

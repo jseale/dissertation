@@ -1,0 +1,17 @@
+converse_1	While	O
+converse_1	navigating	O
+converse_1	the	O
+converse_1	overworld	O
+converse_1	the	O
+converse_1	player	O
+converse_1	may	O
+converse_1	converse	converse_vrb
+converse_1	with	O
+converse_1	non	O
+converse_1	player	O
+converse_1	characters	O
+converse_1	obtain	O
+converse_1	items	O
+converse_1	or	O
+converse_1	encounter	O
+converse_1	enemies	O

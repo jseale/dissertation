@@ -1,0 +1,15 @@
+invite_67	The	O
+invite_67	two	O
+invite_67	proceed	O
+invite_67	to	O
+invite_67	invite	invite_vrb
+invite_67	people	O
+invite_67	who	O
+invite_67	pass	O
+invite_67	by	O
+invite_67	into	O
+invite_67	their	O
+invite_67	house	O
+invite_67	for	O
+invite_67	a	O
+invite_67	meal	O

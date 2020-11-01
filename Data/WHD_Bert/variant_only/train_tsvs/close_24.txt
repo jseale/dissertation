@@ -1,0 +1,12 @@
+close_24	It	O
+close_24	is	O
+close_24	located	O
+close_24	in	O
+close_24	close	close_adj-nou
+close_24	proximity	O
+close_24	to	O
+close_24	the	O
+close_24	Playa	O
+close_24	de	O
+close_24	Los	O
+close_24	Ladrillos	O

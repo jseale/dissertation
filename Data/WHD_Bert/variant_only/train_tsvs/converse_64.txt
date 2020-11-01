@@ -1,0 +1,14 @@
+converse_64	Current	O
+converse_64	manufacturers	O
+converse_64	are	O
+converse_64	Altama	O
+converse_64	Bates	O
+converse_64	Belleville	O
+converse_64	Boot	O
+converse_64	McRae	O
+converse_64	Rocky	O
+converse_64	Warson	O
+converse_64	Brands	O
+converse_64	Converse	converse_adj-nou
+converse_64	and	O
+converse_64	Wellco	O

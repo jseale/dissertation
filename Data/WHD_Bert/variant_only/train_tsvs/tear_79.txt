@@ -1,0 +1,16 @@
+tear_79	Perhaps	O
+tear_79	most	O
+tear_79	important	O
+tear_79	coldly	O
+tear_79	efficient	O
+tear_79	bombings	O
+tear_79	tear	tear_vrb
+tear_79	at	O
+tear_79	the	O
+tear_79	fabric	O
+tear_79	of	O
+tear_79	trust	O
+tear_79	that	O
+tear_79	holds	O
+tear_79	societies	O
+tear_79	together	O

@@ -1,0 +1,14 @@
+august_2	By	O
+august_2	August	august
+august_2	wells	O
+august_2	water	O
+august_2	pumps	O
+august_2	and	O
+august_2	water	O
+august_2	supplies	O
+august_2	had	O
+august_2	begun	O
+august_2	to	O
+august_2	run	O
+august_2	completely	O
+august_2	dry	O

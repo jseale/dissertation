@@ -1,0 +1,11 @@
+defect_3	Quality	O
+defect_3	of	O
+defect_3	wood	O
+defect_3	never	O
+defect_3	varies	O
+defect_3	impossible	O
+defect_3	to	O
+defect_3	detect	O
+defect_3	the	O
+defect_3	smallest	O
+defect_3	defect	defect_nou

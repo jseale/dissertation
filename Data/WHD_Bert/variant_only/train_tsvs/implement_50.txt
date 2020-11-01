@@ -1,0 +1,14 @@
+implement_50	It	O
+implement_50	also	O
+implement_50	requires	O
+implement_50	each	O
+implement_50	signatory	O
+implement_50	state	O
+implement_50	to	O
+implement_50	implement	implement_vrb
+implement_50	certain	O
+implement_50	procedural	O
+implement_50	mechanisms	O
+implement_50	within	O
+implement_50	their	O
+implement_50	laws	O

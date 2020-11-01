@@ -1,0 +1,13 @@
+combine_42	The	O
+combine_42	German	O
+combine_42	Heereswaffenamt	O
+combine_42	decided	O
+combine_42	to	O
+combine_42	combine	combine_vrb
+combine_42	light	O
+combine_42	anti	O
+combine_42	aircraft	O
+combine_42	guns	O
+combine_42	with	O
+combine_42	tank	O
+combine_42	chassis	O

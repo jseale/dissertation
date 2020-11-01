@@ -1,0 +1,17 @@
+increment_69	This	O
+increment_69	sample	O
+increment_69	was	O
+increment_69	then	O
+increment_69	loaded	O
+increment_69	through	O
+increment_69	a	O
+increment_69	piston	O
+increment_69	incrementally	O
+increment_69	allowing	O
+increment_69	equilibrium	O
+increment_69	to	O
+increment_69	be	O
+increment_69	reached	O
+increment_69	after	O
+increment_69	each	O
+increment_69	increment	increment_nou

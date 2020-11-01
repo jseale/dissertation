@@ -1,0 +1,12 @@
+retard_50	Momentum	O
+retard_50	carries	O
+retard_50	the	O
+retard_50	blade	O
+retard_50	further	O
+retard_50	before	O
+retard_50	flanges	O
+retard_50	not	O
+retard_50	shown	O
+retard_50	retard	retard_vrb
+retard_50	its	O
+retard_50	motion	O

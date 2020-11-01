@@ -1,0 +1,14 @@
+implant_51	In	O
+implant_51	1991	O
+implant_51	he	O
+implant_51	developed	O
+implant_51	a	O
+implant_51	technique	O
+implant_51	for	O
+implant_51	ear	O
+implant_51	reconstruction	O
+implant_51	utilizing	O
+implant_51	a	O
+implant_51	porous	O
+implant_51	polyethelene	O
+implant_51	implant	implant_nou

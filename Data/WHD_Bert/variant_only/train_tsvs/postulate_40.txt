@@ -1,0 +1,13 @@
+postulate_40	But	O
+postulate_40	since	O
+postulate_40	there	O
+postulate_40	are	O
+postulate_40	no	O
+postulate_40	explicit	O
+postulate_40	representation	O
+postulate_40	one	O
+postulate_40	can	O
+postulate_40	only	O
+postulate_40	postulate	postulate_vrb
+postulate_40	a	O
+postulate_40	possibility	O

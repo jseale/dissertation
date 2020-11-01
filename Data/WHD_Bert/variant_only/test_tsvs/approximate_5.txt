@@ -1,0 +1,14 @@
+approximate_5	Repeat	O
+approximate_5	until	O
+approximate_5	an	O
+approximate_5	approximate	approximate_adj-nou
+approximate_5	minimum	O
+approximate_5	is	O
+approximate_5	obtained	O
+approximate_5	Randomly	O
+approximate_5	shuffle	O
+approximate_5	examples	O
+approximate_5	in	O
+approximate_5	the	O
+approximate_5	training	O
+approximate_5	set	O

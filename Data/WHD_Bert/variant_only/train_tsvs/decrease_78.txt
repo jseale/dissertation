@@ -1,0 +1,9 @@
+decrease_78	Taking	O
+decrease_78	prenatal	O
+decrease_78	vitamins	O
+decrease_78	before	O
+decrease_78	pregnancy	O
+decrease_78	may	O
+decrease_78	decrease	decrease_vrb
+decrease_78	the	O
+decrease_78	risk	O

@@ -1,0 +1,16 @@
+read_82	During	O
+read_82	the	O
+read_82	service	O
+read_82	a	O
+read_82	passage	O
+read_82	from	O
+read_82	St	O
+read_82	John	O
+read_82	's	O
+read_82	Gospel	O
+read_82	was	O
+read_82	read	read_past
+read_82	by	O
+read_82	grandson	O
+read_82	Simon	O
+read_82	Shilston	O

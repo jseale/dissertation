@@ -1,0 +1,14 @@
+confines_72	This	O
+confines_72	is	O
+confines_72	the	O
+confines_72	boy	O
+confines_72	's	O
+confines_72	first	O
+confines_72	step	O
+confines_72	beyond	O
+confines_72	the	O
+confines_72	confines	confines_nou
+confines_72	of	O
+confines_72	home	O
+confines_72	and	O
+confines_72	school	O

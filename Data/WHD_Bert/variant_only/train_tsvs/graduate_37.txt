@@ -1,0 +1,10 @@
+graduate_37	He	O
+graduate_37	is	O
+graduate_37	a	O
+graduate_37	graduate	graduate_adj-nou
+graduate_37	of	O
+graduate_37	the	O
+graduate_37	United	O
+graduate_37	States	O
+graduate_37	Military	O
+graduate_37	Academy	O

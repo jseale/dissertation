@@ -1,0 +1,16 @@
+attribute_65	An	O
+attribute_65	example	O
+attribute_65	of	O
+attribute_65	an	O
+attribute_65	attribute	attribute_nou
+attribute_65	is	O
+attribute_65	red	O
+attribute_65	gear	O
+attribute_65	which	O
+attribute_65	means	O
+attribute_65	that	O
+attribute_65	gear	O
+attribute_65	has	O
+attribute_65	the	O
+attribute_65	attribute	attribute_nou
+attribute_65	red	O

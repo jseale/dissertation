@@ -1,0 +1,15 @@
+wind_8	On	O
+wind_8	23	O
+wind_8	May	O
+wind_8	2014	O
+wind_8	it	O
+wind_8	was	O
+wind_8	announced	O
+wind_8	that	O
+wind_8	it	O
+wind_8	would	O
+wind_8	wind	wind_vrb
+wind_8	down	O
+wind_8	and	O
+wind_8	eventually	O
+wind_8	close	O

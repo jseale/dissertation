@@ -1,0 +1,14 @@
+increase_28	The	O
+increase_28	population	O
+increase_28	was	O
+increase_28	561	O
+increase_28	in	O
+increase_28	the	O
+increase_28	2013	O
+increase_28	Census	O
+increase_28	an	O
+increase_28	increase	increase_nou
+increase_28	of	O
+increase_28	30	O
+increase_28	from	O
+increase_28	2006	O

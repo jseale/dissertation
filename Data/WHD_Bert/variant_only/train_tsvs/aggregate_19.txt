@@ -1,0 +1,14 @@
+aggregate_19	POSCO	O
+aggregate_19	Atoms	O
+aggregate_19	won	O
+aggregate_19	the	O
+aggregate_19	1986	O
+aggregate_19	K	O
+aggregate_19	League	O
+aggregate_19	by	O
+aggregate_19	the	O
+aggregate_19	aggregate	aggregate_adj-nou
+aggregate_19	score	O
+aggregate_19	of	O
+aggregate_19	2	O
+aggregate_19	1	O

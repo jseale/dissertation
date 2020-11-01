@@ -1,0 +1,10 @@
+graduate_1	Duncan	O
+graduate_1	married	O
+graduate_1	another	O
+graduate_1	graduate	graduate_adj-nou
+graduate_1	of	O
+graduate_1	the	O
+graduate_1	Washington	O
+graduate_1	University	O
+graduate_1	Herb	O
+graduate_1	Duncan	O

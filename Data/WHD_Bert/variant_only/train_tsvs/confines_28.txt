@@ -1,0 +1,12 @@
+confines_28	The	O
+confines_28	fight	O
+confines_28	was	O
+confines_28	now	O
+confines_28	within	O
+confines_28	the	O
+confines_28	confines	confines_nou
+confines_28	of	O
+confines_28	the	O
+confines_28	greater	O
+confines_28	fortress	O
+confines_28	complex	O

@@ -1,0 +1,14 @@
+progress_0	Contemporary	O
+progress_0	progress	progress_nou
+progress_0	in	O
+progress_0	philosophy	O
+progress_0	was	O
+progress_0	at	O
+progress_0	a	O
+progress_0	point	O
+progress_0	where	O
+progress_0	Metochites	O
+progress_0	could	O
+progress_0	openly	O
+progress_0	attack	O
+progress_0	Aristotle	O

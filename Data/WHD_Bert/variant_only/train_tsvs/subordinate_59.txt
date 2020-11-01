@@ -1,0 +1,14 @@
+subordinate_59	It	O
+subordinate_59	is	O
+subordinate_59	subordinate	subordinate_adj-nou
+subordinate_59	to	O
+subordinate_59	the	O
+subordinate_59	Federal	O
+subordinate_59	Ministry	O
+subordinate_59	of	O
+subordinate_59	the	O
+subordinate_59	Interior	O
+subordinate_59	Bundesministerium	O
+subordinate_59	des	O
+subordinate_59	Innern	O
+subordinate_59	BMI	O

@@ -1,0 +1,7 @@
+conflict_40	However	O
+conflict_40	Bryant	O
+conflict_40	and	O
+conflict_40	Byrd	O
+conflict_40	came	O
+conflict_40	into	O
+conflict_40	conflict	conflict_nou

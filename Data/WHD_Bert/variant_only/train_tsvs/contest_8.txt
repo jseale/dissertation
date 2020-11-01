@@ -1,0 +1,17 @@
+contest_8	On	O
+contest_8	the	O
+contest_8	April	O
+contest_8	3	O
+contest_8	2007	O
+contest_8	show	O
+contest_8	Ryan	O
+contest_8	Seacrest	O
+contest_8	announced	O
+contest_8	the	O
+contest_8	first	O
+contest_8	American	O
+contest_8	Idol	O
+contest_8	Songwriter	O
+contest_8	a	O
+contest_8	songwriting	O
+contest_8	contest	contest_nou

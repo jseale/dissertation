@@ -1,0 +1,16 @@
+implant_30	In	O
+implant_30	body	O
+implant_30	modification	O
+implant_30	an	O
+implant_30	implant	implant_nou
+implant_30	is	O
+implant_30	a	O
+implant_30	device	O
+implant_30	placed	O
+implant_30	under	O
+implant_30	the	O
+implant_30	human	O
+implant_30	skin	O
+implant_30	for	O
+implant_30	decorative	O
+implant_30	purposes	O

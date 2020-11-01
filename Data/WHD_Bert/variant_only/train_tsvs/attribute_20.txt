@@ -1,0 +1,17 @@
+attribute_20	Textual	O
+attribute_20	scholars	O
+attribute_20	attribute	attribute_vrb
+attribute_20	the	O
+attribute_20	description	O
+attribute_20	of	O
+attribute_20	Gershom	O
+attribute_20	to	O
+attribute_20	a	O
+attribute_20	different	O
+attribute_20	source	O
+attribute_20	text	O
+attribute_20	to	O
+attribute_20	the	O
+attribute_20	genealogy	O
+attribute_20	involving	O
+attribute_20	Gershom	O

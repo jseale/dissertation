@@ -1,0 +1,12 @@
+decrease_43	Precipitation	O
+decrease_43	is	O
+decrease_43	estimated	O
+decrease_43	to	O
+decrease_43	continue	O
+decrease_43	to	O
+decrease_43	decrease	decrease_vrb
+decrease_43	over	O
+decrease_43	the	O
+decrease_43	next	O
+decrease_43	50	O
+decrease_43	years	O

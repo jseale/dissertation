@@ -1,0 +1,16 @@
+wound_42	Both	O
+wound_42	men	O
+wound_42	fired	O
+wound_42	their	O
+wound_42	revolvers	O
+wound_42	true	O
+wound_42	and	O
+wound_42	they	O
+wound_42	both	O
+wound_42	died	O
+wound_42	from	O
+wound_42	a	O
+wound_42	gunshot	O
+wound_42	wound	wound_nou-vrb
+wound_42	seconds	O
+wound_42	later	O

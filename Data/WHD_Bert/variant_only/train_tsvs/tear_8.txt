@@ -1,0 +1,14 @@
+tear_8	The	O
+tear_8	name	O
+tear_8	Dungibara	O
+tear_8	is	O
+tear_8	made	O
+tear_8	up	O
+tear_8	of	O
+tear_8	two	O
+tear_8	words	O
+tear_8	Dungi	O
+tear_8	meaning	O
+tear_8	wet	O
+tear_8	tear	tear_nou
+tear_8	etc	O

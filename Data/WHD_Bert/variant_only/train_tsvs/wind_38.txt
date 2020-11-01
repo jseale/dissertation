@@ -1,0 +1,17 @@
+wind_38	November	O
+wind_38	to	O
+wind_38	March	O
+wind_38	have	O
+wind_38	the	O
+wind_38	highest	O
+wind_38	mean	O
+wind_38	wind	wind_nou
+wind_38	speeds	O
+wind_38	and	O
+wind_38	June	O
+wind_38	to	O
+wind_38	August	O
+wind_38	have	O
+wind_38	the	O
+wind_38	lightest	O
+wind_38	winds	O

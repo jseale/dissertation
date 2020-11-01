@@ -1,0 +1,12 @@
+present_80	Later	O
+present_80	Laxman	O
+present_80	was	O
+present_80	even	O
+present_80	present	present_adj-nou
+present_80	during	O
+present_80	the	O
+present_80	screentest	O
+present_80	for	O
+present_80	the	O
+present_80	lead	O
+present_80	character	O

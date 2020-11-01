@@ -1,0 +1,17 @@
+subordinate_54	His	O
+subordinate_54	subordinate	subordinate_adj-nou
+subordinate_54	generals	O
+subordinate_54	were	O
+subordinate_54	supportive	O
+subordinate_54	of	O
+subordinate_54	this	O
+subordinate_54	line	O
+subordinate_54	of	O
+subordinate_54	reasoning	O
+subordinate_54	and	O
+subordinate_54	counseled	O
+subordinate_54	delay	O
+subordinate_54	all	O
+subordinate_54	except	O
+subordinate_54	for	O
+subordinate_54	Brig	O

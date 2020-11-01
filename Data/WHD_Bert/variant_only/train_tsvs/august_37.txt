@@ -1,0 +1,11 @@
+august_37	In	O
+august_37	July	O
+august_37	and	O
+august_37	August	august
+august_37	Beagle	O
+august_37	took	O
+august_37	part	O
+august_37	in	O
+august_37	the	O
+august_37	Scheldt	O
+august_37	operations	O

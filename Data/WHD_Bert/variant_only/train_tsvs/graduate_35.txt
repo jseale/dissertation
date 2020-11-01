@@ -1,0 +1,7 @@
+graduate_35	O'Meara	O
+graduate_35	is	O
+graduate_35	a	O
+graduate_35	graduate	graduate_adj-nou
+graduate_35	of	O
+graduate_35	American	O
+graduate_35	University	O

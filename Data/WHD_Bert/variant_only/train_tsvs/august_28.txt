@@ -1,0 +1,11 @@
+august_28	The	O
+august_28	tournament	O
+august_28	took	O
+august_28	place	O
+august_28	in	O
+august_28	Indianapolis	O
+august_28	Indiana	O
+august_28	from	O
+august_28	August	august
+august_28	4	O
+august_28	12	O

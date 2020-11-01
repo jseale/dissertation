@@ -1,0 +1,17 @@
+animate_14	In	O
+animate_14	German	O
+animate_14	heraldry	O
+animate_14	animate	animate_adj-nou
+animate_14	charges	O
+animate_14	in	O
+animate_14	combined	O
+animate_14	coats	O
+animate_14	usually	O
+animate_14	turn	O
+animate_14	to	O
+animate_14	face	O
+animate_14	the	O
+animate_14	centre	O
+animate_14	of	O
+animate_14	the	O
+animate_14	composition	O

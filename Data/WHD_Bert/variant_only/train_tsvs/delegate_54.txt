@@ -1,0 +1,16 @@
+delegate_54	The	O
+delegate_54	joint	O
+delegate_54	council	O
+delegate_54	was	O
+delegate_54	however	O
+delegate_54	permitted	O
+delegate_54	to	O
+delegate_54	delegate	delegate_vrb
+delegate_54	functions	O
+delegate_54	to	O
+delegate_54	either	O
+delegate_54	of	O
+delegate_54	the	O
+delegate_54	individual	O
+delegate_54	county	O
+delegate_54	councils	O

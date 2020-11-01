@@ -1,0 +1,8 @@
+celtic_6	There	O
+celtic_6	is	O
+celtic_6	a	O
+celtic_6	Celtic	celtic_adj-nou-sports
+celtic_6	supporters	O
+celtic_6	club	O
+celtic_6	in	O
+celtic_6	Gibraltar	O

@@ -1,0 +1,12 @@
+record_58	Lame	O
+record_58	O	O
+record_58	Records	O
+record_58	is	O
+record_58	an	O
+record_58	independent	O
+record_58	record	record_nou
+record_58	label	O
+record_58	based	O
+record_58	in	O
+record_58	Philadelphia	O
+record_58	Pennsylvania	O

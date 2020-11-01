@@ -1,0 +1,10 @@
+ornament_32	The	O
+ornament_32	top	O
+ornament_32	roof	O
+ornament_32	stone	O
+ornament_32	serves	O
+ornament_32	as	O
+ornament_32	an	O
+ornament_32	ornament	ornament_nou
+ornament_32	or	O
+ornament_32	finial	O

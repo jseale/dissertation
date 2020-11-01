@@ -1,0 +1,14 @@
+analyses_2	We	O
+analyses_2	present	O
+analyses_2	some	O
+analyses_2	analyses	analyses_nou
+analyses_2	of	O
+analyses_2	his	O
+analyses_2	contributions	O
+analyses_2	as	O
+analyses_2	reviewed	O
+analyses_2	by	O
+analyses_2	others	O
+analyses_2	in	O
+analyses_2	academic	O
+analyses_2	journals	O

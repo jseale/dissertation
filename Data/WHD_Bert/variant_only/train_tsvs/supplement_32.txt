@@ -1,0 +1,14 @@
+supplement_32	The	O
+supplement_32	Excelsior	O
+supplement_32	required	O
+supplement_32	eight	O
+supplement_32	passes	O
+supplement_32	to	O
+supplement_32	supplement	supplement_vrb
+supplement_32	the	O
+supplement_32	main	O
+supplement_32	beauty	O
+supplement_32	pass	O
+supplement_32	the	O
+supplement_32	Enterprise	O
+supplement_32	six	O

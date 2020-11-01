@@ -1,0 +1,14 @@
+document_0	The	O
+document_0	person	O
+document_0	may	O
+document_0	ask	O
+document_0	the	O
+document_0	authority	O
+document_0	for	O
+document_0	the	O
+document_0	document	document_nou
+document_0	in	O
+document_0	person	O
+document_0	or	O
+document_0	in	O
+document_0	writing	O

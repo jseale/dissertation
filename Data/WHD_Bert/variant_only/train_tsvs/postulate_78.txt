@@ -1,0 +1,17 @@
+postulate_78	In	O
+postulate_78	contrast	O
+postulate_78	Dennett	O
+postulate_78	states	O
+postulate_78	that	O
+postulate_78	it	O
+postulate_78	is	O
+postulate_78	incorrect	O
+postulate_78	to	O
+postulate_78	postulate	postulate_vrb
+postulate_78	an	O
+postulate_78	economic	O
+postulate_78	interpretation	O
+postulate_78	of	O
+postulate_78	the	O
+postulate_78	Abbasid	O
+postulate_78	revolution	O

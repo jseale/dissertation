@@ -1,0 +1,17 @@
+duplicate_2	Centralized	O
+duplicate_2	storage	O
+duplicate_2	eliminates	O
+duplicate_2	the	O
+duplicate_2	need	O
+duplicate_2	to	O
+duplicate_2	duplicate	duplicate_vrb
+duplicate_2	files	O
+duplicate_2	across	O
+duplicate_2	devices	O
+duplicate_2	or	O
+duplicate_2	wait	O
+duplicate_2	for	O
+duplicate_2	files	O
+duplicate_2	to	O
+duplicate_2	become	O
+duplicate_2	synchronized	O

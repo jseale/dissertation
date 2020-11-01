@@ -1,0 +1,12 @@
+transport_5	Even	O
+transport_5	a	O
+transport_5	few	O
+transport_5	exhibits	O
+transport_5	from	O
+transport_5	the	O
+transport_5	Nuremberg	O
+transport_5	Transport	transport_nou
+transport_5	Museum	O
+transport_5	may	O
+transport_5	be	O
+transport_5	seen	O

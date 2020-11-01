@@ -1,0 +1,11 @@
+close_62	We	O
+close_62	are	O
+close_62	not	O
+close_62	anywhere	O
+close_62	close	close_adj-nou
+close_62	to	O
+close_62	the	O
+close_62	age	O
+close_62	the	O
+close_62	Beatles	O
+close_62	were	O

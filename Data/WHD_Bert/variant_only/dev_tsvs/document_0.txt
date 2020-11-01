@@ -1,0 +1,15 @@
+document_0	What	O
+document_0	if	O
+document_0	the	O
+document_0	request	O
+document_0	is	O
+document_0	about	O
+document_0	Alice	O
+document_0	trying	O
+document_0	to	O
+document_0	view	O
+document_0	a	O
+document_0	document	document_nou
+document_0	at	O
+document_0	8	O
+document_0	am	O

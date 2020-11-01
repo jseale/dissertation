@@ -1,0 +1,12 @@
+dove_28	He	O
+dove_28	also	O
+dove_28	played	O
+dove_28	a	O
+dove_28	Klingon	O
+dove_28	in	O
+dove_28	the	O
+dove_28	episode	O
+dove_28	Day	O
+dove_28	of	O
+dove_28	the	O
+dove_28	Dove	dove

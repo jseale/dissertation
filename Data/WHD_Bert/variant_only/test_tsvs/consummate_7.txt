@@ -1,0 +1,15 @@
+consummate_7	Charlie	O
+consummate_7	suggests	O
+consummate_7	going	O
+consummate_7	back	O
+consummate_7	to	O
+consummate_7	the	O
+consummate_7	party	O
+consummate_7	but	O
+consummate_7	Ava	O
+consummate_7	suggests	O
+consummate_7	they	O
+consummate_7	consummate	consummate_vrb
+consummate_7	their	O
+consummate_7	marriage	O
+consummate_7	instead	O

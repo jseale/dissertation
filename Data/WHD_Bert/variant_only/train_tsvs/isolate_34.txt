@@ -1,0 +1,16 @@
+isolate_34	They	O
+isolate_34	isolate	isolate
+isolate_34	their	O
+isolate_34	servers	O
+isolate_34	by	O
+isolate_34	licensing	O
+isolate_34	software	O
+isolate_34	providers	O
+isolate_34	which	O
+isolate_34	are	O
+isolate_34	called	O
+isolate_34	MPI	O
+isolate_34	merchant	O
+isolate_34	plug	O
+isolate_34	in	O
+isolate_34	providers	O

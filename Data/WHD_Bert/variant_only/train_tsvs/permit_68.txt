@@ -1,0 +1,10 @@
+permit_68	This	O
+permit_68	type	O
+permit_68	of	O
+permit_68	interchange	O
+permit_68	does	O
+permit_68	not	O
+permit_68	usually	O
+permit_68	permit	permit_vrb
+permit_68	U	O
+permit_68	turns	O

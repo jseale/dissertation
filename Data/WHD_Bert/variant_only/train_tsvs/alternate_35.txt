@@ -1,0 +1,12 @@
+alternate_35	She	O
+alternate_35	will	O
+alternate_35	play	O
+alternate_35	in	O
+alternate_35	both	O
+alternate_35	the	O
+alternate_35	real	O
+alternate_35	dimension	O
+alternate_35	and	O
+alternate_35	the	O
+alternate_35	alternate	alternate_adj-nou
+alternate_35	dimension	O

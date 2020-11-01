@@ -1,0 +1,10 @@
+increment_12	Tax	O
+increment_12	Increment	increment_nou
+increment_12	Financing	O
+increment_12	and	O
+increment_12	Economic	O
+increment_12	Development	O
+increment_12	Uses	O
+increment_12	Structures	O
+increment_12	and	O
+increment_12	Impact	O

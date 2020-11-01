@@ -1,0 +1,16 @@
+initiate_70	Silane	O
+initiate_70	is	O
+initiate_70	also	O
+initiate_70	used	O
+initiate_70	in	O
+initiate_70	supersonic	O
+initiate_70	combustion	O
+initiate_70	ramjets	O
+initiate_70	to	O
+initiate_70	initiate	initiate_vrb
+initiate_70	combustion	O
+initiate_70	in	O
+initiate_70	the	O
+initiate_70	compressed	O
+initiate_70	air	O
+initiate_70	stream	O

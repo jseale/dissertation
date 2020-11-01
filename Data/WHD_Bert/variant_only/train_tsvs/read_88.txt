@@ -1,0 +1,9 @@
+read_88	This	O
+read_88	was	O
+read_88	an	O
+read_88	inspiring	O
+read_88	body	O
+read_88	of	O
+read_88	literature	O
+read_88	to	O
+read_88	read	read_present

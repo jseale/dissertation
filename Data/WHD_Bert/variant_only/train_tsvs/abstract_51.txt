@@ -1,0 +1,15 @@
+abstract_51	Kedrin	O
+abstract_51	is	O
+abstract_51	an	O
+abstract_51	abstract	abstract_adj-nou
+abstract_51	expressionist	O
+abstract_51	or	O
+abstract_51	mystical	O
+abstract_51	abstract	abstract_adj-nou
+abstract_51	romanticist	O
+abstract_51	and	O
+abstract_51	creates	O
+abstract_51	both	O
+abstract_51	paintings	O
+abstract_51	and	O
+abstract_51	sculpture	O

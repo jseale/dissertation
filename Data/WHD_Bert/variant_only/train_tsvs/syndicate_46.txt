@@ -1,0 +1,12 @@
+syndicate_46	From	O
+syndicate_46	1948	O
+syndicate_46	until	O
+syndicate_46	1971	O
+syndicate_46	his	O
+syndicate_46	work	O
+syndicate_46	was	O
+syndicate_46	syndicated	O
+syndicate_46	by	O
+syndicate_46	the	O
+syndicate_46	McNaught	O
+syndicate_46	Syndicate	syndicate_nou

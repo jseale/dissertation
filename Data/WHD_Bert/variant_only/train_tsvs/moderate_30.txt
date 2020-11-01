@@ -1,0 +1,9 @@
+moderate_30	It	O
+moderate_30	is	O
+moderate_30	able	O
+moderate_30	to	O
+moderate_30	withstand	O
+moderate_30	drought	O
+moderate_30	and	O
+moderate_30	moderate	moderate_adj-nou
+moderate_30	frost	O

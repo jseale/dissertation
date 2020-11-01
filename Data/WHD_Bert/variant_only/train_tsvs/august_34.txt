@@ -1,0 +1,10 @@
+august_34	Its	O
+august_34	flight	O
+august_34	period	O
+august_34	is	O
+august_34	from	O
+august_34	late	O
+august_34	May	O
+august_34	to	O
+august_34	early	O
+august_34	August	august

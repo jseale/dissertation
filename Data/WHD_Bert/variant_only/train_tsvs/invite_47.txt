@@ -1,0 +1,11 @@
+invite_47	Lastly	O
+invite_47	players	O
+invite_47	can	O
+invite_47	form	O
+invite_47	guilds	O
+invite_47	and	O
+invite_47	invite	invite_vrb
+invite_47	other	O
+invite_47	players	O
+invite_47	to	O
+invite_47	join	O

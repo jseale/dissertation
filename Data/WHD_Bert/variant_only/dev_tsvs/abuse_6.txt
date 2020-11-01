@@ -1,0 +1,8 @@
+abuse_6	He	O
+abuse_6	chaired	O
+abuse_6	the	O
+abuse_6	1992	O
+abuse_6	Orkney	O
+abuse_6	child	O
+abuse_6	abuse	abuse_nou
+abuse_6	inquiry	O

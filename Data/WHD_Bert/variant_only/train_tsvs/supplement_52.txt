@@ -1,0 +1,16 @@
+supplement_52	When	O
+supplement_52	published	O
+supplement_52	in	O
+supplement_52	1938	O
+supplement_52	Hussein	O
+supplement_52	An	O
+supplement_52	Entertainment	O
+supplement_52	received	O
+supplement_52	a	O
+supplement_52	British	O
+supplement_52	review	O
+supplement_52	in	O
+supplement_52	the	O
+supplement_52	Times	O
+supplement_52	Literary	O
+supplement_52	Supplement	supplement_nou

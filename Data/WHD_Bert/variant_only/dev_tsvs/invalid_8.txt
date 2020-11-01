@@ -1,0 +1,13 @@
+invalid_8	Accused	O
+invalid_8	of	O
+invalid_8	helping	O
+invalid_8	her	O
+invalid_8	husband	O
+invalid_8	cause	O
+invalid_8	the	O
+invalid_8	death	O
+invalid_8	of	O
+invalid_8	her	O
+invalid_8	wealthy	O
+invalid_8	invalid	invalid_nou
+invalid_8	employer	O

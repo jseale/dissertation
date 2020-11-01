@@ -1,0 +1,14 @@
+correlate_52	The	O
+correlate_52	histologic	O
+correlate_52	correlate	correlate_nou
+correlate_52	of	O
+correlate_52	acute	O
+correlate_52	prostatitis	O
+correlate_52	is	O
+correlate_52	a	O
+correlate_52	neutrophilic	O
+correlate_52	infiltration	O
+correlate_52	of	O
+correlate_52	the	O
+correlate_52	prostate	O
+correlate_52	gland	O

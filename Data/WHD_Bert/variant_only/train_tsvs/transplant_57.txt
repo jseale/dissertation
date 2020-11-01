@@ -1,0 +1,10 @@
+transplant_57	The	O
+transplant_57	transplant	transplant_nou
+transplant_57	is	O
+transplant_57	called	O
+transplant_57	an	O
+transplant_57	allograft	O
+transplant_57	allogeneic	O
+transplant_57	transplant	transplant_nou
+transplant_57	or	O
+transplant_57	homograft	O

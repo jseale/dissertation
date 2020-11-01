@@ -1,0 +1,15 @@
+increment_70	In	O
+increment_70	this	O
+increment_70	case	O
+increment_70	is	O
+increment_70	not	O
+increment_70	measured	O
+increment_70	in	O
+increment_70	years	O
+increment_70	but	O
+increment_70	rather	O
+increment_70	the	O
+increment_70	time	O
+increment_70	increment	increment_nou
+increment_70	between	O
+increment_70	broods	O

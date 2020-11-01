@@ -1,0 +1,15 @@
+bow_11	It	O
+bow_11	is	O
+bow_11	one	O
+bow_11	of	O
+bow_11	the	O
+bow_11	oldest	O
+bow_11	string	O
+bow_11	instruments	O
+bow_11	in	O
+bow_11	the	O
+bow_11	world	O
+bow_11	played	O
+bow_11	with	O
+bow_11	a	O
+bow_11	bow	bow_nou-knot

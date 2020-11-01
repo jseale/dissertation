@@ -1,0 +1,14 @@
+coordinate_4	Even	O
+coordinate_4	this	O
+coordinate_4	proved	O
+coordinate_4	impossible	O
+coordinate_4	to	O
+coordinate_4	coordinate	coordinate_vrb
+coordinate_4	and	O
+coordinate_4	many	O
+coordinate_4	ships	O
+coordinate_4	wandered	O
+coordinate_4	off	O
+coordinate_4	on	O
+coordinate_4	their	O
+coordinate_4	own	O

@@ -1,0 +1,15 @@
+overthrow_49	It	O
+overthrow_49	is	O
+overthrow_49	their	O
+overthrow_49	destiny	O
+overthrow_49	to	O
+overthrow_49	return	O
+overthrow_49	to	O
+overthrow_49	Patusan	O
+overthrow_49	overthrow	overthrow_vrb
+overthrow_49	Colonel	O
+overthrow_49	Chi	O
+overthrow_49	and	O
+overthrow_49	free	O
+overthrow_49	the	O
+overthrow_49	people	O

@@ -1,0 +1,9 @@
+bass_61	Anglers	O
+bass_61	also	O
+bass_61	fish	O
+bass_61	for	O
+bass_61	whitefish	O
+bass_61	largemouth	O
+bass_61	and	O
+bass_61	smallmouth	O
+bass_61	bass	bass_corp

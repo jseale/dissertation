@@ -1,0 +1,15 @@
+lead_4	1469	O
+lead_4	saw	O
+lead_4	a	O
+lead_4	wooden	O
+lead_4	bell	O
+lead_4	tower	O
+lead_4	covered	O
+lead_4	in	O
+lead_4	lead	lead_nou
+lead_4	constructed	O
+lead_4	50	O
+lead_4	feet	O
+lead_4	above	O
+lead_4	the	O
+lead_4	transept	O

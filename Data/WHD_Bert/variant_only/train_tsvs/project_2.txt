@@ -1,0 +1,13 @@
+project_2	The	O
+project_2	project	project_nou
+project_2	covered	O
+project_2	protection	O
+project_2	of	O
+project_2	546	O
+project_2	hectares	O
+project_2	and	O
+project_2	enhancement	O
+project_2	planting	O
+project_2	in	O
+project_2	39	O
+project_2	hectares	O

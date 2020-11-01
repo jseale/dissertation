@@ -1,0 +1,8 @@
+converse_65	For	O
+converse_65	many	O
+converse_65	years	O
+converse_65	Converse	converse_adj-nou
+converse_65	served	O
+converse_65	as	O
+converse_65	its	O
+converse_65	president	O

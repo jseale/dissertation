@@ -1,0 +1,16 @@
+read_9	The	O
+read_9	teacher	O
+read_9	would	O
+read_9	then	O
+read_9	read	read_present
+read_9	the	O
+read_9	first	O
+read_9	word	O
+read_9	of	O
+read_9	each	O
+read_9	pair	O
+read_9	and	O
+read_9	read	read_present
+read_9	four	O
+read_9	possible	O
+read_9	answers	O

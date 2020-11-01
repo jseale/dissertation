@@ -1,0 +1,13 @@
+conjugate_2	The	O
+conjugate_2	conjugate	conjugate_adj-nou
+conjugate_2	beam	O
+conjugate_2	is	O
+conjugate_2	loaded	O
+conjugate_2	with	O
+conjugate_2	the	O
+conjugate_2	real	O
+conjugate_2	beam	O
+conjugate_2	's	O
+conjugate_2	M	O
+conjugate_2	EI	O
+conjugate_2	diagram	O

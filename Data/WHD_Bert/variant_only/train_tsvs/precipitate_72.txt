@@ -1,0 +1,15 @@
+precipitate_72	This	O
+precipitate_72	test	O
+precipitate_72	is	O
+precipitate_72	used	O
+precipitate_72	to	O
+precipitate_72	precipitate	precipitate_vrb
+precipitate_72	the	O
+precipitate_72	ion	O
+precipitate_72	present	O
+precipitate_72	as	O
+precipitate_72	almost	O
+precipitate_72	all	O
+precipitate_72	carbonates	O
+precipitate_72	are	O
+precipitate_72	insoluble	O

@@ -1,0 +1,13 @@
+analyses_28	His	O
+analyses_28	analyses	analyses_nou
+analyses_28	suggest	O
+analyses_28	a	O
+analyses_28	phylogeny	O
+analyses_28	that	O
+analyses_28	is	O
+analyses_28	rather	O
+analyses_28	different	O
+analyses_28	from	O
+analyses_28	previous	O
+analyses_28	taxonomic	O
+analyses_28	arrangements	O

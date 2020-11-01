@@ -1,0 +1,10 @@
+read_10	She	O
+read_10	does	O
+read_10	not	O
+read_10	read	read_present
+read_10	music	O
+read_10	and	O
+read_10	has	O
+read_10	had	O
+read_10	to	O
+read_10	compensate	O

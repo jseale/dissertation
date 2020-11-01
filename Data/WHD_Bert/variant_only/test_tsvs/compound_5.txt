@@ -1,0 +1,13 @@
+compound_5	It	O
+compound_5	is	O
+compound_5	located	O
+compound_5	at	O
+compound_5	the	O
+compound_5	north	O
+compound_5	end	O
+compound_5	of	O
+compound_5	the	O
+compound_5	ranch	O
+compound_5	compound	compound_nou
+compound_5	facing	O
+compound_5	south	O

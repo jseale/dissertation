@@ -1,0 +1,16 @@
+ornament_0	Change	O
+ornament_0	to	O
+ornament_0	Japan	O
+ornament_0	F	O
+ornament_0	SPORT	O
+ornament_0	Package	O
+ornament_0	includes	O
+ornament_0	new	O
+ornament_0	dark	O
+ornament_0	rose	O
+ornament_0	interior	O
+ornament_0	colour	O
+ornament_0	medium	O
+ornament_0	silver	O
+ornament_0	ornament	ornament_nou
+ornament_0	panel	O

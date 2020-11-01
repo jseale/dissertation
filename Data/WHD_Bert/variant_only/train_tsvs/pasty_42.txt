@@ -1,0 +1,15 @@
+pasty_42	The	O
+pasty_42	town	O
+pasty_42	is	O
+pasty_42	renowned	O
+pasty_42	for	O
+pasty_42	its	O
+pasty_42	basketwork	O
+pasty_42	and	O
+pasty_42	the	O
+pasty_42	production	O
+pasty_42	of	O
+pasty_42	pastissets	O
+pasty_42	a	O
+pasty_42	sweet	O
+pasty_42	pasty	pasty_adj

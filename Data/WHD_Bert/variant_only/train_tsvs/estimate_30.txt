@@ -1,0 +1,17 @@
+estimate_30	The	O
+estimate_30	government	O
+estimate_30	of	O
+estimate_30	Bavaria	O
+estimate_30	regards	O
+estimate_30	this	O
+estimate_30	estimate	estimate_nou
+estimate_30	as	O
+estimate_30	too	O
+estimate_30	low	O
+estimate_30	mainly	O
+estimate_30	because	O
+estimate_30	it	O
+estimate_30	does	O
+estimate_30	not	O
+estimate_30	include	O
+estimate_30	electrification	O

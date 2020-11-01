@@ -1,0 +1,14 @@
+fragment_2	One	O
+fragment_2	story	O
+fragment_2	from	O
+fragment_2	the	O
+fragment_2	sequence	O
+fragment_2	the	O
+fragment_2	fragment	fragment_nou
+fragment_2	The	O
+fragment_2	House	O
+fragment_2	of	O
+fragment_2	Haon	O
+fragment_2	Dor	O
+fragment_2	is	O
+fragment_2	omitted	O

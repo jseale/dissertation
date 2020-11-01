@@ -1,0 +1,14 @@
+diagnoses_67	The	O
+diagnoses_67	psychiatric	O
+diagnoses_67	history	O
+diagnoses_67	frequently	O
+diagnoses_67	contains	O
+diagnoses_67	multiple	O
+diagnoses_67	previous	O
+diagnoses_67	diagnoses	diagnoses_nou
+diagnoses_67	of	O
+diagnoses_67	various	O
+diagnoses_67	disorders	O
+diagnoses_67	and	O
+diagnoses_67	treatment	O
+diagnoses_67	failures	O

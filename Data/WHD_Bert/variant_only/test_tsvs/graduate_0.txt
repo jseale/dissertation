@@ -1,0 +1,8 @@
+graduate_0	She	O
+graduate_0	is	O
+graduate_0	post	O
+graduate_0	graduate	graduate_adj-nou
+graduate_0	diploma	O
+graduate_0	in	O
+graduate_0	Business	O
+graduate_0	Administration	O

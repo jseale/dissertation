@@ -1,0 +1,13 @@
+bow_2	Sometimes	O
+bow_2	arm	O
+bow_2	protection	O
+bow_2	was	O
+bow_2	removed	O
+bow_2	so	O
+bow_2	that	O
+bow_2	a	O
+bow_2	rider	O
+bow_2	could	O
+bow_2	draw	O
+bow_2	their	O
+bow_2	bow	bow_nou-knot

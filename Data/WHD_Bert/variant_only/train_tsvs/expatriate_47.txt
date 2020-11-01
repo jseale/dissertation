@@ -1,0 +1,16 @@
+expatriate_47	More	O
+expatriate_47	than	O
+expatriate_47	370	O
+expatriate_47	expatriate	expatriate_nou
+expatriate_47	faculty	O
+expatriate_47	and	O
+expatriate_47	staff	O
+expatriate_47	members	O
+expatriate_47	contributed	O
+expatriate_47	to	O
+expatriate_47	the	O
+expatriate_47	success	O
+expatriate_47	and	O
+expatriate_47	operation	O
+expatriate_47	of	O
+expatriate_47	ISK	O

@@ -1,0 +1,15 @@
+contrast_0	The	O
+contrast_0	term	O
+contrast_0	is	O
+contrast_0	in	O
+contrast_0	conscious	O
+contrast_0	contrast	contrast_nou
+contrast_0	to	O
+contrast_0	Asatru	O
+contrast_0	the	O
+contrast_0	reconstructionist	O
+contrast_0	revival	O
+contrast_0	of	O
+contrast_0	medieval	O
+contrast_0	Norse	O
+contrast_0	polytheism	O

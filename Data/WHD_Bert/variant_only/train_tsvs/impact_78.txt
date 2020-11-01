@@ -1,0 +1,15 @@
+impact_78	The	O
+impact_78	dam	O
+impact_78	is	O
+impact_78	opposed	O
+impact_78	based	O
+impact_78	on	O
+impact_78	its	O
+impact_78	impact	impact_nou
+impact_78	of	O
+impact_78	the	O
+impact_78	environment	O
+impact_78	and	O
+impact_78	relocation	O
+impact_78	of	O
+impact_78	residents	O

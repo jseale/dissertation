@@ -1,0 +1,10 @@
+present_0	The	O
+present_0	station	O
+present_0	received	O
+present_0	its	O
+present_0	present	present_adj-nou
+present_0	name	O
+present_0	on	O
+present_0	13	O
+present_0	November	O
+present_0	1901	O

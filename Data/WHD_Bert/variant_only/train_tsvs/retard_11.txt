@@ -1,0 +1,15 @@
+retard_11	His	O
+retard_11	letter	O
+retard_11	expressed	O
+retard_11	concern	O
+retard_11	with	O
+retard_11	a	O
+retard_11	tweet	O
+retard_11	Coulter	O
+retard_11	made	O
+retard_11	using	O
+retard_11	retard	retard_nou
+retard_11	to	O
+retard_11	describe	O
+retard_11	President	O
+retard_11	Obama	O

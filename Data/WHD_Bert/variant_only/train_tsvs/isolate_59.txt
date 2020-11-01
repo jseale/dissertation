@@ -1,0 +1,16 @@
+isolate_59	The	O
+isolate_59	Isolate	isolate_nou
+isolate_59	grid	O
+isolate_59	must	O
+isolate_59	be	O
+isolate_59	partitioned	O
+isolate_59	into	O
+isolate_59	areas	O
+isolate_59	so	O
+isolate_59	that	O
+isolate_59	each	O
+isolate_59	area	O
+isolate_59	contains	O
+isolate_59	two	O
+isolate_59	dotted	O
+isolate_59	squares	O

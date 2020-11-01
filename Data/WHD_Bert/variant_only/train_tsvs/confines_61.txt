@@ -1,0 +1,11 @@
+confines_61	This	O
+confines_61	can	O
+confines_61	turn	O
+confines_61	quite	O
+confines_61	vicious	O
+confines_61	in	O
+confines_61	the	O
+confines_61	limited	O
+confines_61	confines	confines_nou
+confines_61	of	O
+confines_61	captivity	O

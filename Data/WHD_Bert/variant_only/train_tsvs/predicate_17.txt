@@ -1,0 +1,15 @@
+predicate_17	For	O
+predicate_17	this	O
+predicate_17	case	O
+predicate_17	the	O
+predicate_17	predicate	predicate_nou
+predicate_17	Covers	O
+predicate_17	has	O
+predicate_17	more	O
+predicate_17	intuitive	O
+predicate_17	semantics	O
+predicate_17	see	O
+predicate_17	definition	O
+predicate_17	avoiding	O
+predicate_17	boundary	O
+predicate_17	considerations	O

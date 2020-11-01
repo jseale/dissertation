@@ -1,0 +1,9 @@
+rodeo_62	Trump	O
+rodeo_62	also	O
+rodeo_62	hosted	O
+rodeo_62	rodeo	rodeo
+rodeo_62	competitions	O
+rodeo_62	between	O
+rodeo_62	local	O
+rodeo_62	ranch	O
+rodeo_62	hands	O

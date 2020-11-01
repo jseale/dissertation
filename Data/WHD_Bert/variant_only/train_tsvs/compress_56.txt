@@ -1,0 +1,16 @@
+compress_56	By	O
+compress_56	contrast	O
+compress_56	in	O
+compress_56	a	O
+compress_56	dipolar	O
+compress_56	magnetic	O
+compress_56	field	O
+compress_56	fluctuations	O
+compress_56	tend	O
+compress_56	to	O
+compress_56	compress	compress
+compress_56	the	O
+compress_56	plasma	O
+compress_56	without	O
+compress_56	energy	O
+compress_56	loss	O

@@ -1,0 +1,9 @@
+bass_10	Formally	O
+bass_10	Siddharta	O
+bass_10	continued	O
+bass_10	their	O
+bass_10	work	O
+bass_10	without	O
+bass_10	a	O
+bass_10	bass	bass
+bass_10	player	O

@@ -1,0 +1,12 @@
+reject_18	Jewish	O
+reject_18	texts	O
+reject_18	like	O
+reject_18	3	O
+reject_18	Baruch	O
+reject_18	began	O
+reject_18	to	O
+reject_18	reject	reject_vrb
+reject_18	a	O
+reject_18	restored	O
+reject_18	Temple	O
+reject_18	completely	O

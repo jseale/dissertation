@@ -1,0 +1,8 @@
+perfect_5	It	O
+perfect_5	is	O
+perfect_5	transparent	O
+perfect_5	to	O
+perfect_5	translucent	O
+perfect_5	with	O
+perfect_5	perfect	perfect_adj
+perfect_5	cleavage	O

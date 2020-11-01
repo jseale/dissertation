@@ -1,0 +1,17 @@
+duplicate_12	Nerys	O
+duplicate_12	Hughes	O
+duplicate_12	played	O
+duplicate_12	Rhys	O
+duplicate_12	mother	O
+duplicate_12	Brenda	O
+duplicate_12	Williams	O
+duplicate_12	in	O
+duplicate_12	addition	O
+duplicate_12	to	O
+duplicate_12	a	O
+duplicate_12	duplicate	duplicate_adj-nou
+duplicate_12	form	O
+duplicate_12	of	O
+duplicate_12	the	O
+duplicate_12	alien	O
+duplicate_12	Nostrovite	O

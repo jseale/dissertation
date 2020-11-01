@@ -1,0 +1,12 @@
+retard_39	Retard	retard_nou
+retard_39	was	O
+retard_39	not	O
+retard_39	used	O
+retard_39	to	O
+retard_39	refer	O
+retard_39	to	O
+retard_39	mentally	O
+retard_39	disabled	O
+retard_39	people	O
+retard_39	until	O
+retard_39	1985	O

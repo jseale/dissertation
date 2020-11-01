@@ -1,0 +1,17 @@
+august_48	The	O
+august_48	train	O
+august_48	and	O
+august_48	carousel	O
+august_48	operate	O
+august_48	weekends	O
+august_48	only	O
+august_48	in	O
+august_48	April	O
+august_48	and	O
+august_48	September	O
+august_48	and	O
+august_48	daily	O
+august_48	from	O
+august_48	May	O
+august_48	through	O
+august_48	August	august

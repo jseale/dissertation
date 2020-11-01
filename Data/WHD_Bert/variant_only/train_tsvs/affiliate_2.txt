@@ -1,0 +1,14 @@
+affiliate_2	It	O
+affiliate_2	is	O
+affiliate_2	the	O
+affiliate_2	Puerto	O
+affiliate_2	Rico	O
+affiliate_2	affiliate	affiliate_nou
+affiliate_2	of	O
+affiliate_2	the	O
+affiliate_2	national	O
+affiliate_2	Republican	O
+affiliate_2	Party	O
+affiliate_2	of	O
+affiliate_2	United	O
+affiliate_2	States	O

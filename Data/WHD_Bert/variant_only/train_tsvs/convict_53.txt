@@ -1,0 +1,11 @@
+convict_53	His	O
+convict_53	mother	O
+convict_53	Isabella	O
+convict_53	was	O
+convict_53	a	O
+convict_53	convict	convict_nou
+convict_53	sentenced	O
+convict_53	to	O
+convict_53	transportation	O
+convict_53	for	O
+convict_53	theft	O

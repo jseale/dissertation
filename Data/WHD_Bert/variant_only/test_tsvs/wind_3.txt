@@ -1,0 +1,15 @@
+wind_3	Wind	wind_nou
+wind_3	and	O
+wind_3	Rain	O
+wind_3	are	O
+wind_3	represented	O
+wind_3	by	O
+wind_3	images	O
+wind_3	of	O
+wind_3	their	O
+wind_3	associated	O
+wind_3	gods	O
+wind_3	Ehecatl	O
+wind_3	and	O
+wind_3	Tlaloc	O
+wind_3	respectively	O

@@ -1,0 +1,17 @@
+abuse_73	There	O
+abuse_73	were	O
+abuse_73	incidences	O
+abuse_73	of	O
+abuse_73	abuse	abuse_nou
+abuse_73	however	O
+abuse_73	with	O
+abuse_73	one	O
+abuse_73	example	O
+abuse_73	having	O
+abuse_73	been	O
+abuse_73	recorded	O
+abuse_73	in	O
+abuse_73	the	O
+abuse_73	Records	O
+abuse_73	of	O
+abuse_73	Officialdom	O

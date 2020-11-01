@@ -1,0 +1,17 @@
+export_22	The	O
+export_22	country	O
+export_22	consumes	O
+export_22	most	O
+export_22	of	O
+export_22	its	O
+export_22	oil	O
+export_22	output	O
+export_22	but	O
+export_22	does	O
+export_22	export	export_vrb
+export_22	some	O
+export_22	crude	O
+export_22	oil	O
+export_22	and	O
+export_22	oil	O
+export_22	products	O

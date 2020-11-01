@@ -1,0 +1,11 @@
+tear_1	Once	O
+tear_1	you	O
+tear_1	arrest	O
+tear_1	me	O
+tear_1	thousands	O
+tear_1	of	O
+tear_1	people	O
+tear_1	will	O
+tear_1	tear	tear_vrb
+tear_1	you	O
+tear_1	apart	O

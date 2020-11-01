@@ -1,0 +1,14 @@
+initiate_2	State	O
+initiate_2	legislatures	O
+initiate_2	can	O
+initiate_2	not	O
+initiate_2	initiate	initiate_vrb
+initiate_2	any	O
+initiate_2	Bill	O
+initiate_2	or	O
+initiate_2	proposal	O
+initiate_2	for	O
+initiate_2	amendment	O
+initiate_2	of	O
+initiate_2	the	O
+initiate_2	Constitution	O

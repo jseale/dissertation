@@ -1,0 +1,15 @@
+contest_80	Poland	O
+contest_80	has	O
+contest_80	participated	O
+contest_80	in	O
+contest_80	the	O
+contest_80	Eurovision	O
+contest_80	Song	O
+contest_80	Contest	contest_nou
+contest_80	19	O
+contest_80	times	O
+contest_80	since	O
+contest_80	its	O
+contest_80	debut	O
+contest_80	in	O
+contest_80	1994	O

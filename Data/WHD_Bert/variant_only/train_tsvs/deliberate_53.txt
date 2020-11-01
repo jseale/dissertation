@@ -1,0 +1,17 @@
+deliberate_53	Whether	O
+deliberate_53	this	O
+deliberate_53	was	O
+deliberate_53	deliberate	deliberate_adj
+deliberate_53	on	O
+deliberate_53	his	O
+deliberate_53	part	O
+deliberate_53	or	O
+deliberate_53	just	O
+deliberate_53	rather	O
+deliberate_53	poor	O
+deliberate_53	sub	O
+deliberate_53	editing	O
+deliberate_53	by	O
+deliberate_53	OUP	O
+deliberate_53	is	O
+deliberate_53	debatable	O

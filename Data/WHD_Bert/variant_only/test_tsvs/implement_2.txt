@@ -1,0 +1,11 @@
+implement_2	Using	O
+implement_2	tunnel	O
+implement_2	mode	O
+implement_2	capability	O
+implement_2	firewall	O
+implement_2	can	O
+implement_2	be	O
+implement_2	used	O
+implement_2	to	O
+implement_2	implement	implement_vrb
+implement_2	VPNs	O

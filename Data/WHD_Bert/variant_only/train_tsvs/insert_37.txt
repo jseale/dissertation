@@ -1,0 +1,17 @@
+insert_37	While	O
+insert_37	there	O
+insert_37	was	O
+insert_37	no	O
+insert_37	actual	O
+insert_37	insert	insert_nou
+insert_37	some	O
+insert_37	of	O
+insert_37	the	O
+insert_37	first	O
+insert_37	pressing	O
+insert_37	included	O
+insert_37	a	O
+insert_37	Misfits	O
+insert_37	Fiend	O
+insert_37	Club	O
+insert_37	ad	O

@@ -1,0 +1,10 @@
+impact_4	The	O
+impact_4	impact	impact_nou
+impact_4	of	O
+impact_4	World	O
+impact_4	War	O
+impact_4	II	O
+impact_4	drastically	O
+impact_4	affected	O
+impact_4	the	O
+impact_4	university	O

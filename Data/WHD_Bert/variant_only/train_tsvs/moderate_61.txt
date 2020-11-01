@@ -1,0 +1,13 @@
+moderate_61	Sale	O
+moderate_61	says	O
+moderate_61	of	O
+moderate_61	the	O
+moderate_61	lost	O
+moderate_61	Spanish	O
+moderate_61	manuscript	O
+moderate_61	The	O
+moderate_61	book	O
+moderate_61	is	O
+moderate_61	a	O
+moderate_61	moderate	moderate_adj-nou
+moderate_61	quarto	O

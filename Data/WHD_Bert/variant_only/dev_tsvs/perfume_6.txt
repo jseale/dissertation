@@ -1,0 +1,14 @@
+perfume_6	The	O
+perfume_6	Javal	O
+perfume_6	owned	O
+perfume_6	the	O
+perfume_6	perfume	perfume_nou
+perfume_6	house	O
+perfume_6	Houbigant	O
+perfume_6	the	O
+perfume_6	second	O
+perfume_6	oldest	O
+perfume_6	perfume	perfume_nou
+perfume_6	house	O
+perfume_6	in	O
+perfume_6	Europe	O

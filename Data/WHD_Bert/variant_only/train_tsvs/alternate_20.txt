@@ -1,0 +1,8 @@
+alternate_20	Similarly	O
+alternate_20	critics	O
+alternate_20	were	O
+alternate_20	ambivalent	O
+alternate_20	towards	O
+alternate_20	the	O
+alternate_20	alternate	alternate_adj-nou
+alternate_20	finale	O

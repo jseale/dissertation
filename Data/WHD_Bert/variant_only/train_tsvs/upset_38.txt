@@ -1,0 +1,16 @@
+upset_38	However	O
+upset_38	in	O
+upset_38	an	O
+upset_38	upset	upset_nou
+upset_38	lawmakers	O
+upset_38	chose	O
+upset_38	not	O
+upset_38	Leger	O
+upset_38	as	O
+upset_38	Speaker	O
+upset_38	but	O
+upset_38	New	O
+upset_38	Iberia	O
+upset_38	Republican	O
+upset_38	Taylor	O
+upset_38	Barras	O

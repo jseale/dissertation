@@ -1,0 +1,15 @@
+advocate_60	He	O
+advocate_60	held	O
+advocate_60	the	O
+advocate_60	part	O
+advocate_60	time	O
+advocate_60	statutory	O
+advocate_60	appointment	O
+advocate_60	as	O
+advocate_60	Defence	O
+advocate_60	Force	O
+advocate_60	Advocate	advocate_nou
+advocate_60	between	O
+advocate_60	1993	O
+advocate_60	and	O
+advocate_60	1995	O

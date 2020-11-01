@@ -1,0 +1,12 @@
+sow_44	Finally	O
+sow_44	the	O
+sow_44	flow	O
+sow_44	stops	O
+sow_44	and	O
+sow_44	so	O
+sow_44	does	O
+sow_44	the	O
+sow_44	grunting	O
+sow_44	of	O
+sow_44	the	O
+sow_44	sow	sow_nou

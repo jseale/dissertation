@@ -1,0 +1,15 @@
+laminate_34	Economical	O
+laminate_34	boards	O
+laminate_34	comprise	O
+laminate_34	paper	O
+laminate_34	plastic	O
+laminate_34	or	O
+laminate_34	laminate	laminate_nou
+laminate_34	which	O
+laminate_34	can	O
+laminate_34	easily	O
+laminate_34	be	O
+laminate_34	folded	O
+laminate_34	away	O
+laminate_34	and	O
+laminate_34	stored	O

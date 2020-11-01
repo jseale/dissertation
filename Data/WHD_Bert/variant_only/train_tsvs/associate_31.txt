@@ -1,0 +1,16 @@
+associate_31	Harryette	O
+associate_31	was	O
+associate_31	an	O
+associate_31	associate	associate_adj-nou
+associate_31	professor	O
+associate_31	and	O
+associate_31	lecturer	O
+associate_31	at	O
+associate_31	SMU	O
+associate_31	Texas	O
+associate_31	Women	O
+associate_31	's	O
+associate_31	University	O
+associate_31	and	O
+associate_31	other	O
+associate_31	colleges	O

@@ -1,0 +1,16 @@
+protest_6	Feng	O
+protest_6	wanted	O
+protest_6	to	O
+protest_6	peacefully	O
+protest_6	resolve	O
+protest_6	the	O
+protest_6	north	O
+protest_6	south	O
+protest_6	conflict	O
+protest_6	which	O
+protest_6	led	O
+protest_6	to	O
+protest_6	Duan	O
+protest_6	resigning	O
+protest_6	in	O
+protest_6	protest	protest_nou

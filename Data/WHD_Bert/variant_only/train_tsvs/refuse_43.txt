@@ -1,0 +1,17 @@
+refuse_43	Hypoglycemic	O
+refuse_43	cats	O
+refuse_43	that	O
+refuse_43	refuse	refuse_vrb
+refuse_43	to	O
+refuse_43	eat	O
+refuse_43	can	O
+refuse_43	be	O
+refuse_43	force	O
+refuse_43	fed	O
+refuse_43	honey	O
+refuse_43	or	O
+refuse_43	corn	O
+refuse_43	syrup	O
+refuse_43	until	O
+refuse_43	they	O
+refuse_43	stabilize	O

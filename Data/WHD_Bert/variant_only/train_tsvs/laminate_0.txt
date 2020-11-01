@@ -1,0 +1,13 @@
+laminate_0	Lee	O
+laminate_0	also	O
+laminate_0	set	O
+laminate_0	up	O
+laminate_0	a	O
+laminate_0	copper	O
+laminate_0	clad	O
+laminate_0	laminate	laminate_nou
+laminate_0	factory	O
+laminate_0	in	O
+laminate_0	Dongguan	O
+laminate_0	for	O
+laminate_0	Meadville	O

@@ -1,0 +1,15 @@
+pervert_29	He	O
+pervert_29	is	O
+pervert_29	a	O
+pervert_29	gambler	O
+pervert_29	pervert	pervert_nou
+pervert_29	and	O
+pervert_29	idiot	O
+pervert_29	but	O
+pervert_29	also	O
+pervert_29	capable	O
+pervert_29	of	O
+pervert_29	ruling	O
+pervert_29	a	O
+pervert_29	country	O
+pervert_29	justly	O

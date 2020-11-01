@@ -1,0 +1,16 @@
+escort_62	By	O
+escort_62	1918	O
+escort_62	they	O
+escort_62	were	O
+escort_62	back	O
+escort_62	on	O
+escort_62	escort	escort_nou
+escort_62	duty	O
+escort_62	under	O
+escort_62	Greek	O
+escort_62	colors	O
+escort_62	mainly	O
+escort_62	in	O
+escort_62	the	O
+escort_62	Aegean	O
+escort_62	Sea	O

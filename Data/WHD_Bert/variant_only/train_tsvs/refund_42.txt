@@ -1,0 +1,17 @@
+refund_42	In	O
+refund_42	return	O
+refund_42	the	O
+refund_42	manager	O
+refund_42	offers	O
+refund_42	to	O
+refund_42	refund	refund_vrb
+refund_42	their	O
+refund_42	tickets	O
+refund_42	as	O
+refund_42	well	O
+refund_42	as	O
+refund_42	pay	O
+refund_42	them	O
+refund_42	for	O
+refund_42	their	O
+refund_42	services	O

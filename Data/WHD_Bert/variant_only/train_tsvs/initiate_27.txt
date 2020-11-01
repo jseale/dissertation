@@ -1,0 +1,13 @@
+initiate_27	Magdeburg	O
+initiate_27	's	O
+initiate_27	Raugust	O
+initiate_27	Seguin	O
+initiate_27	and	O
+initiate_27	Decker	O
+initiate_27	were	O
+initiate_27	often	O
+initiate_27	able	O
+initiate_27	to	O
+initiate_27	initiate	initiate_vrb
+initiate_27	counter	O
+initiate_27	attacks	O

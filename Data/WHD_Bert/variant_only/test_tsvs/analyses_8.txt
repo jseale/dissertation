@@ -1,0 +1,17 @@
+analyses_8	Carbon	O
+analyses_8	isotopic	O
+analyses_8	analyses	analyses_nou
+analyses_8	of	O
+analyses_8	saturated	O
+analyses_8	and	O
+analyses_8	aromatic	O
+analyses_8	hydrocarbon	O
+analyses_8	fractions	O
+analyses_8	support	O
+analyses_8	hydrocarbon	O
+analyses_8	generation	O
+analyses_8	from	O
+analyses_8	a	O
+analyses_8	single	O
+analyses_8	source	O
+analyses_8	unit	O

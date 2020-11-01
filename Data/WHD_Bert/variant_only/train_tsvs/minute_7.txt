@@ -1,0 +1,17 @@
+minute_7	The	O
+minute_7	70	O
+minute_7	minute	minute
+minute_7	one	O
+minute_7	act	O
+minute_7	work	O
+minute_7	was	O
+minute_7	composed	O
+minute_7	by	O
+minute_7	Richard	O
+minute_7	Peaslee	O
+minute_7	to	O
+minute_7	a	O
+minute_7	libretto	O
+minute_7	by	O
+minute_7	Kenneth	O
+minute_7	Cavander	O

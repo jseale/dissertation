@@ -1,0 +1,13 @@
+misuse_30	Matsui	O
+misuse_30	supports	O
+misuse_30	firearms	O
+misuse_30	manufacturers	O
+misuse_30	being	O
+misuse_30	held	O
+misuse_30	responsible	O
+misuse_30	for	O
+misuse_30	product	O
+misuse_30	misuse	misuse_nou
+misuse_30	cases	O
+misuse_30	and	O
+misuse_30	lawsuits	O

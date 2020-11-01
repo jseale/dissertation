@@ -1,0 +1,9 @@
+conflict_7	Instead	O
+conflict_7	Pryor	O
+conflict_7	merely	O
+conflict_7	removes	O
+conflict_7	all	O
+conflict_7	memory	O
+conflict_7	of	O
+conflict_7	the	O
+conflict_7	conflict	conflict_nou

@@ -1,0 +1,16 @@
+conjugate_43	For	O
+conjugate_43	all	O
+conjugate_43	other	O
+conjugate_43	stem	O
+conjugate_43	vowels	O
+conjugate_43	the	O
+conjugate_43	transitive	O
+conjugate_43	suffix	O
+conjugate_43	has	O
+conjugate_43	its	O
+conjugate_43	default	O
+conjugate_43	form	O
+conjugate_43	/-em/:Verbs	O
+conjugate_43	do	O
+conjugate_43	not	O
+conjugate_43	conjugate	conjugate_vrb

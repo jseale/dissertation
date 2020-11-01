@@ -1,0 +1,11 @@
+initiate_56	She	O
+initiate_56	helped	O
+initiate_56	initiate	initiate_vrb
+initiate_56	voter	O
+initiate_56	registration	O
+initiate_56	campaigns	O
+initiate_56	and	O
+initiate_56	identify	O
+initiate_56	other	O
+initiate_56	local	O
+initiate_56	grievances	O

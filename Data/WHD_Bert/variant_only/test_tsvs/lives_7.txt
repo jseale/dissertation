@@ -1,0 +1,14 @@
+lives_7	An	O
+lives_7	exploration	O
+lives_7	of	O
+lives_7	the	O
+lives_7	magical	O
+lives_7	force	O
+lives_7	of	O
+lives_7	music	O
+lives_7	in	O
+lives_7	the	O
+lives_7	lives	lives_nou
+lives_7	of	O
+lives_7	human	O
+lives_7	beings	O

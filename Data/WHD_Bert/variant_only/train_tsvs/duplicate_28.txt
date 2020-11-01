@@ -1,0 +1,12 @@
+duplicate_28	However	O
+duplicate_28	the	O
+duplicate_28	film	O
+duplicate_28	did	O
+duplicate_28	not	O
+duplicate_28	duplicate	duplicate_vrb
+duplicate_28	the	O
+duplicate_28	success	O
+duplicate_28	of	O
+duplicate_28	The	O
+duplicate_28	Little	O
+duplicate_28	Mermaid	O

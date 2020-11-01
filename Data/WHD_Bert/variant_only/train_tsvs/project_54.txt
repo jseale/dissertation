@@ -1,0 +1,13 @@
+project_54	On	O
+project_54	February	O
+project_54	16	O
+project_54	2017	O
+project_54	they	O
+project_54	released	O
+project_54	their	O
+project_54	second	O
+project_54	project	project_nou
+project_54	single	O
+project_54	Do	O
+project_54	n't	O
+project_54	Recall	O

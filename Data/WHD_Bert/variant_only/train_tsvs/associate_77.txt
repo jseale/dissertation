@@ -1,0 +1,16 @@
+associate_77	In	O
+associate_77	1913	O
+associate_77	he	O
+associate_77	accepted	O
+associate_77	an	O
+associate_77	appointment	O
+associate_77	as	O
+associate_77	associate	associate_adj-nou
+associate_77	professor	O
+associate_77	and	O
+associate_77	successor	O
+associate_77	of	O
+associate_77	Felix	O
+associate_77	Hausdorff	O
+associate_77	in	O
+associate_77	Bonn	O

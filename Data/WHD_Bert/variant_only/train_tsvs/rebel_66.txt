@@ -1,0 +1,17 @@
+rebel_66	It	O
+rebel_66	will	O
+rebel_66	also	O
+rebel_66	help	O
+rebel_66	end	O
+rebel_66	the	O
+rebel_66	scourge	O
+rebel_66	of	O
+rebel_66	one	O
+rebel_66	of	O
+rebel_66	the	O
+rebel_66	most	O
+rebel_66	brutal	O
+rebel_66	rebel	rebel_nou
+rebel_66	groups	O
+rebel_66	in	O
+rebel_66	Africa	O

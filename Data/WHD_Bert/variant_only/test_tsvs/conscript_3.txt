@@ -1,0 +1,16 @@
+conscript_3	Peter	O
+conscript_3	ordered	O
+conscript_3	a	O
+conscript_3	yearly	O
+conscript_3	conscription	O
+conscript_3	of	O
+conscript_3	40,000	O
+conscript_3	serfs	O
+conscript_3	one	O
+conscript_3	conscript	conscript_nou
+conscript_3	for	O
+conscript_3	every	O
+conscript_3	nine	O
+conscript_3	to	O
+conscript_3	sixteen	O
+conscript_3	households	O

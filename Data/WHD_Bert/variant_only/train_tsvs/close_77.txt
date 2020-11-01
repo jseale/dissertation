@@ -1,0 +1,14 @@
+close_77	Second	O
+close_77	the	O
+close_77	vehicle	O
+close_77	operates	O
+close_77	very	O
+close_77	close	close_adj-nou
+close_77	to	O
+close_77	the	O
+close_77	ground	O
+close_77	rather	O
+close_77	than	O
+close_77	in	O
+close_77	free	O
+close_77	air	O

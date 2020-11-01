@@ -1,0 +1,7 @@
+project_36	Financing	O
+project_36	of	O
+project_36	the	O
+project_36	arena	O
+project_36	project	project_nou
+project_36	was	O
+project_36	difficult	O

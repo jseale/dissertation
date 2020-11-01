@@ -1,0 +1,14 @@
+contract_27	On	O
+contract_27	March	O
+contract_27	9	O
+contract_27	2017	O
+contract_27	Shipley	O
+contract_27	signed	O
+contract_27	a	O
+contract_27	two	O
+contract_27	year	O
+contract_27	contract	contract_nou
+contract_27	extension	O
+contract_27	with	O
+contract_27	the	O
+contract_27	Cardinals	O

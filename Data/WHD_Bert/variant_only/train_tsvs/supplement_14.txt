@@ -1,0 +1,15 @@
+supplement_14	This	O
+supplement_14	was	O
+supplement_14	in	O
+supplement_14	a	O
+supplement_14	review	O
+supplement_14	of	O
+supplement_14	a	O
+supplement_14	supplement	supplement_nou
+supplement_14	by	O
+supplement_14	Dugald	O
+supplement_14	Stewart	O
+supplement_14	to	O
+supplement_14	the	O
+supplement_14	Encyclopaedia	O
+supplement_14	Britannica	O

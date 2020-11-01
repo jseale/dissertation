@@ -1,0 +1,15 @@
+affect_59	Particle	O
+affect_59	size	O
+affect_59	and	O
+affect_59	distribution	O
+affect_59	will	O
+affect_59	affect	affect
+affect_59	a	O
+affect_59	soil	O
+affect_59	's	O
+affect_59	capacity	O
+affect_59	for	O
+affect_59	holding	O
+affect_59	water	O
+affect_59	and	O
+affect_59	nutrients	O

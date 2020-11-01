@@ -1,0 +1,14 @@
+degenerate_63	The	O
+degenerate_63	dual	O
+degenerate_63	ring	O
+degenerate_63	in	O
+degenerate_63	its	O
+degenerate_63	most	O
+degenerate_63	degenerate	degenerate_adj-nou
+degenerate_63	form	O
+degenerate_63	simply	O
+degenerate_63	collapses	O
+degenerate_63	into	O
+degenerate_63	a	O
+degenerate_63	single	O
+degenerate_63	device	O

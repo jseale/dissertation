@@ -1,0 +1,16 @@
+misuse_60	Penalties	O
+misuse_60	for	O
+misuse_60	misuse	misuse_nou
+misuse_60	of	O
+misuse_60	emergency	O
+misuse_60	door	O
+misuse_60	opening	O
+misuse_60	handles	O
+misuse_60	are	O
+misuse_60	similar	O
+misuse_60	to	O
+misuse_60	those	O
+misuse_60	for	O
+misuse_60	stop	O
+misuse_60	valve	O
+misuse_60	misuse	misuse_nou

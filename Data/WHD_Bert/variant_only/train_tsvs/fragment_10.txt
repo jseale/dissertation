@@ -1,0 +1,16 @@
+fragment_10	Its	O
+fragment_10	Fab	O
+fragment_10	fragment	fragment_nou
+fragment_10	was	O
+fragment_10	crystallized	O
+fragment_10	in	O
+fragment_10	complex	O
+fragment_10	with	O
+fragment_10	the	O
+fragment_10	ED3	O
+fragment_10	domains	O
+fragment_10	of	O
+fragment_10	DENV1	O
+fragment_10	DENV3	O
+fragment_10	and	O
+fragment_10	DENV4	O

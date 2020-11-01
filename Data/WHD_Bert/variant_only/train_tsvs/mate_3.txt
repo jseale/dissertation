@@ -1,0 +1,17 @@
+mate_3	Yet	O
+mate_3	she	O
+mate_3	's	O
+mate_3	tied	O
+mate_3	to	O
+mate_3	him	O
+mate_3	for	O
+mate_3	life	O
+mate_3	both	O
+mate_3	of	O
+mate_3	them	O
+mate_3	caught	O
+mate_3	in	O
+mate_3	an	O
+mate_3	unbreakable	O
+mate_3	mate	mate
+mate_3	bond	O

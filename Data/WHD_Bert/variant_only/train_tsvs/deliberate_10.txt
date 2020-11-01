@@ -1,0 +1,12 @@
+deliberate_10	One	O
+deliberate_10	account	O
+deliberate_10	says	O
+deliberate_10	the	O
+deliberate_10	raid	O
+deliberate_10	was	O
+deliberate_10	a	O
+deliberate_10	deliberate	deliberate_adj
+deliberate_10	attempt	O
+deliberate_10	to	O
+deliberate_10	provoke	O
+deliberate_10	war	O

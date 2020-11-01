@@ -1,0 +1,16 @@
+perfect_64	These	O
+perfect_64	sales	O
+perfect_64	are	O
+perfect_64	an	O
+perfect_64	opportunity	O
+perfect_64	to	O
+perfect_64	get	O
+perfect_64	near	O
+perfect_64	perfect	perfect_adj
+perfect_64	merchandise	O
+perfect_64	at	O
+perfect_64	a	O
+perfect_64	fraction	O
+perfect_64	of	O
+perfect_64	the	O
+perfect_64	price	O

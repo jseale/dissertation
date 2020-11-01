@@ -1,0 +1,16 @@
+sake_79	When	O
+sake_79	Alan	O
+sake_79	reflects	O
+sake_79	on	O
+sake_79	his	O
+sake_79	behavior	O
+sake_79	he	O
+sake_79	wants	O
+sake_79	Carol	O
+sake_79	back	O
+sake_79	for	O
+sake_79	the	O
+sake_79	sake	sake
+sake_79	of	O
+sake_79	the	O
+sake_79	children	O

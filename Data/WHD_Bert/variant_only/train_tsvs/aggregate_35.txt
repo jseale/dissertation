@@ -1,0 +1,14 @@
+aggregate_35	Bayern	O
+aggregate_35	moved	O
+aggregate_35	on	O
+aggregate_35	due	O
+aggregate_35	to	O
+aggregate_35	aggregate	aggregate_adj-nou
+aggregate_35	and	O
+aggregate_35	went	O
+aggregate_35	on	O
+aggregate_35	to	O
+aggregate_35	win	O
+aggregate_35	the	O
+aggregate_35	European	O
+aggregate_35	Cup	O

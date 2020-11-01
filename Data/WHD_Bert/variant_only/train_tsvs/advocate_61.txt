@@ -1,0 +1,10 @@
+advocate_61	The	O
+advocate_61	company	O
+advocate_61	is	O
+advocate_61	a	O
+advocate_61	strong	O
+advocate_61	advocate	advocate_nou
+advocate_61	towards	O
+advocate_61	low	O
+advocate_61	trading	O
+advocate_61	leverages	O

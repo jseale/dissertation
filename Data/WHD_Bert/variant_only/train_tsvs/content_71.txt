@@ -1,0 +1,16 @@
+content_71	It	O
+content_71	features	O
+content_71	pure	O
+content_71	CGI	O
+content_71	content	content_nou
+content_71	as	O
+content_71	well	O
+content_71	as	O
+content_71	CGI	O
+content_71	characters	O
+content_71	composited	O
+content_71	into	O
+content_71	filmed	O
+content_71	live	O
+content_71	action	O
+content_71	sequences	O

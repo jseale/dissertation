@@ -1,0 +1,12 @@
+ornament_8	The	O
+ornament_8	provenance	O
+ornament_8	of	O
+ornament_8	the	O
+ornament_8	standing	O
+ornament_8	Bodhisattva	O
+ornament_8	with	O
+ornament_8	triple	O
+ornament_8	head	O
+ornament_8	ornament	ornament_nou
+ornament_8	is	O
+ornament_8	unknown	O

@@ -1,0 +1,17 @@
+excuse_1	The	O
+excuse_1	Monitor	O
+excuse_1	believed	O
+excuse_1	that	O
+excuse_1	underappreciated	O
+excuse_1	at	O
+excuse_1	the	O
+excuse_1	box	O
+excuse_1	office	O
+excuse_1	this	O
+excuse_1	film	O
+excuse_1	is	O
+excuse_1	excuse	excuse_vrb
+excuse_1	the	O
+excuse_1	pun	O
+excuse_1	quietly	O
+excuse_1	powerful	O

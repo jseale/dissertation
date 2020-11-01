@@ -1,0 +1,9 @@
+postulate_45	Archaeologists	O
+postulate_45	postulate	postulate_vrb
+postulate_45	it	O
+postulate_45	could	O
+postulate_45	have	O
+postulate_45	been	O
+postulate_45	a	O
+postulate_45	Crusader	O
+postulate_45	fortress	O

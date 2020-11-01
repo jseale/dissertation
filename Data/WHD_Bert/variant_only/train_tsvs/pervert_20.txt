@@ -1,0 +1,8 @@
+pervert_20	He	O
+pervert_20	is	O
+pervert_20	described	O
+pervert_20	as	O
+pervert_20	being	O
+pervert_20	a	O
+pervert_20	major	O
+pervert_20	pervert	pervert_nou

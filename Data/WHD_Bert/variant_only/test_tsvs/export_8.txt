@@ -1,0 +1,16 @@
+export_8	An	O
+export_8	export	export_nou
+export_8	to	O
+export_8	blog	O
+export_8	feature	O
+export_8	allows	O
+export_8	for	O
+export_8	a	O
+export_8	1-click	O
+export_8	publication	O
+export_8	on	O
+export_8	the	O
+export_8	web	O
+export_8	of	O
+export_8	a	O
+export_8	figure	O

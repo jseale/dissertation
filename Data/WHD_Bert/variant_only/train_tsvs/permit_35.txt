@@ -1,0 +1,16 @@
+permit_35	This	O
+permit_35	station	O
+permit_35	received	O
+permit_35	its	O
+permit_35	original	O
+permit_35	construction	O
+permit_35	permit	permit_nou
+permit_35	from	O
+permit_35	the	O
+permit_35	Federal	O
+permit_35	Communications	O
+permit_35	Commission	O
+permit_35	on	O
+permit_35	August	O
+permit_35	10	O
+permit_35	2000	O

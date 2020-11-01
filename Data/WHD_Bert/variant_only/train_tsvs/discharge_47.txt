@@ -1,0 +1,17 @@
+discharge_47	SGLI	O
+discharge_47	policyholders	O
+discharge_47	may	O
+discharge_47	convert	O
+discharge_47	their	O
+discharge_47	policy	O
+discharge_47	to	O
+discharge_47	VGLI	O
+discharge_47	upon	O
+discharge_47	discharge	discharge_nou
+discharge_47	unless	O
+discharge_47	an	O
+discharge_47	exception	O
+discharge_47	for	O
+discharge_47	total	O
+discharge_47	disability	O
+discharge_47	applies	O

@@ -1,0 +1,17 @@
+contrast_72	The	O
+contrast_72	south	O
+contrast_72	part	O
+contrast_72	of	O
+contrast_72	the	O
+contrast_72	island	O
+contrast_72	is	O
+contrast_72	densely	O
+contrast_72	packed	O
+contrast_72	with	O
+contrast_72	trees	O
+contrast_72	a	O
+contrast_72	significant	O
+contrast_72	contrast	contrast_nou
+contrast_72	to	O
+contrast_72	the	O
+contrast_72	north	O

@@ -1,0 +1,13 @@
+lead_41	The	O
+lead_41	use	O
+lead_41	of	O
+lead_41	Siberian	O
+lead_41	red	O
+lead_41	lead	lead_nou
+lead_41	as	O
+lead_41	a	O
+lead_41	paint	O
+lead_41	pigment	O
+lead_41	then	O
+lead_41	developed	O
+lead_41	rapidly	O

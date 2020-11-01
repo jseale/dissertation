@@ -1,0 +1,8 @@
+syndicate_36	RSS	O
+syndicate_36	feeds	O
+syndicate_36	enable	O
+syndicate_36	publishers	O
+syndicate_36	to	O
+syndicate_36	syndicate	syndicate_vrb
+syndicate_36	data	O
+syndicate_36	automatically	O

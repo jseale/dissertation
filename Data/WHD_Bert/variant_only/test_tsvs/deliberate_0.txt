@@ -1,0 +1,13 @@
+deliberate_0	Together	O
+deliberate_0	they	O
+deliberate_0	deliberate	deliberate_vrb
+deliberate_0	on	O
+deliberate_0	how	O
+deliberate_0	services	O
+deliberate_0	are	O
+deliberate_0	delivered	O
+deliberate_0	and	O
+deliberate_0	pertinent	O
+deliberate_0	human	O
+deliberate_0	rights	O
+deliberate_0	issues	O

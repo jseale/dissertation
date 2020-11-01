@@ -1,0 +1,9 @@
+correlate_33	Poor	O
+correlate_33	leaving	O
+correlate_33	groups	O
+correlate_33	correlate	correlate_nou-vrb
+correlate_33	with	O
+correlate_33	large	O
+correlate_33	positive	O
+correlate_33	ρ	O
+correlate_33	values	O

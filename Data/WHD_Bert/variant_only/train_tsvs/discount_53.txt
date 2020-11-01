@@ -1,0 +1,17 @@
+discount_53	He	O
+discount_53	later	O
+discount_53	approached	O
+discount_53	the	O
+discount_53	stall	O
+discount_53	owner	O
+discount_53	who	O
+discount_53	clarified	O
+discount_53	he	O
+discount_53	had	O
+discount_53	given	O
+discount_53	him	O
+discount_53	undisclosed	O
+discount_53	discount	discount_nou
+discount_53	out	O
+discount_53	of	O
+discount_53	goodwill	O

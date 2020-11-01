@@ -1,0 +1,9 @@
+coordinate_23	Go	O
+coordinate_23	games	O
+coordinate_23	are	O
+coordinate_23	recorded	O
+coordinate_23	with	O
+coordinate_23	a	O
+coordinate_23	simple	O
+coordinate_23	coordinate	coordinate_adj-nou
+coordinate_23	system	O

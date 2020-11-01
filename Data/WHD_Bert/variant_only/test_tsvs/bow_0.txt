@@ -1,0 +1,13 @@
+bow_0	There	O
+bow_0	were	O
+bow_0	no	O
+bow_0	reported	O
+bow_0	casualties	O
+bow_0	and	O
+bow_0	she	O
+bow_0	sustained	O
+bow_0	minor	O
+bow_0	damages	O
+bow_0	to	O
+bow_0	the	O
+bow_0	bow	bow_nou-ship

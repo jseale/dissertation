@@ -1,0 +1,17 @@
+advocate_1	Bird	O
+advocate_1	was	O
+advocate_1	an	O
+advocate_1	advocate	advocate_nou
+advocate_1	for	O
+advocate_1	equality	O
+advocate_1	and	O
+advocate_1	sought	O
+advocate_1	to	O
+advocate_1	reform	O
+advocate_1	the	O
+advocate_1	race	O
+advocate_1	based	O
+advocate_1	exclusion	O
+advocate_1	laws	O
+advocate_1	in	O
+advocate_1	Canada	O

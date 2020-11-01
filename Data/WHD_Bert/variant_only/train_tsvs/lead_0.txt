@@ -1,0 +1,17 @@
+lead_0	Lewis	O
+lead_0	had	O
+lead_0	been	O
+lead_0	in	O
+lead_0	the	O
+lead_0	lead	lead_nou-vrb
+lead_0	in	O
+lead_0	four	O
+lead_0	of	O
+lead_0	the	O
+lead_0	seven	O
+lead_0	stages	O
+lead_0	of	O
+lead_0	this	O
+lead_0	Alternative	O
+lead_0	Vote	O
+lead_0	election	O

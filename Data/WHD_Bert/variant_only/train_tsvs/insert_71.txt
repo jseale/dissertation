@@ -1,0 +1,15 @@
+insert_71	One	O
+insert_71	insert	insert_nou
+insert_71	rotation	O
+insert_71	option	O
+insert_71	is	O
+insert_71	available	O
+insert_71	to	O
+insert_71	prevent	O
+insert_71	mating	O
+insert_71	of	O
+insert_71	similar	O
+insert_71	connectors	O
+insert_71	with	O
+insert_71	different	O
+insert_71	voltages	O

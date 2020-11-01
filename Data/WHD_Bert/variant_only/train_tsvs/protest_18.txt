@@ -1,0 +1,11 @@
+protest_18	The	O
+protest_18	students	O
+protest_18	of	O
+protest_18	Visva	O
+protest_18	Bharati	O
+protest_18	University	O
+protest_18	too	O
+protest_18	staged	O
+protest_18	a	O
+protest_18	protest	protest_nou
+protest_18	march	O

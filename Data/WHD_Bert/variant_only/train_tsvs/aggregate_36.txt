@@ -1,0 +1,15 @@
+aggregate_36	Skinner	O
+aggregate_36	suggests	O
+aggregate_36	that	O
+aggregate_36	cultural	O
+aggregate_36	evolution	O
+aggregate_36	is	O
+aggregate_36	a	O
+aggregate_36	way	O
+aggregate_36	to	O
+aggregate_36	describe	O
+aggregate_36	the	O
+aggregate_36	aggregate	aggregate_adj-nou
+aggregate_36	of	O
+aggregate_36	operant	O
+aggregate_36	behavior	O

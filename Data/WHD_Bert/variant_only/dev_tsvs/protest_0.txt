@@ -1,0 +1,15 @@
+protest_0	Turning	O
+protest_0	off	O
+protest_0	the	O
+protest_0	sign	O
+protest_0	provoked	O
+protest_0	outrage	O
+protest_0	and	O
+protest_0	protest	protest_nou
+protest_0	from	O
+protest_0	the	O
+protest_0	public	O
+protest_0	historians	O
+protest_0	and	O
+protest_0	architecture	O
+protest_0	buffs	O

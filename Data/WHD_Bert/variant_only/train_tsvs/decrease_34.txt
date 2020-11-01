@@ -1,0 +1,14 @@
+decrease_34	Bicycling	O
+decrease_34	to	O
+decrease_34	work	O
+decrease_34	has	O
+decrease_34	been	O
+decrease_34	shown	O
+decrease_34	to	O
+decrease_34	decrease	decrease_vrb
+decrease_34	mortality	O
+decrease_34	by	O
+decrease_34	as	O
+decrease_34	much	O
+decrease_34	as	O
+decrease_34	40	O

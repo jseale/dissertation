@@ -1,0 +1,16 @@
+deliberate_3	The	O
+deliberate_3	Squadron	O
+deliberate_3	saw	O
+deliberate_3	combat	O
+deliberate_3	action	O
+deliberate_3	in	O
+deliberate_3	Operation	O
+deliberate_3	Deliberate	deliberate_adj
+deliberate_3	Force	O
+deliberate_3	Operation	O
+deliberate_3	Deny	O
+deliberate_3	Flight	O
+deliberate_3	and	O
+deliberate_3	Operation	O
+deliberate_3	Decisive	O
+deliberate_3	Endeavor	O

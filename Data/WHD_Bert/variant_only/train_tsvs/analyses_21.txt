@@ -1,0 +1,13 @@
+analyses_21	The	O
+analyses_21	ABRP	O
+analyses_21	also	O
+analyses_21	collects	O
+analyses_21	fecal	O
+analyses_21	samples	O
+analyses_21	for	O
+analyses_21	genetic	O
+analyses_21	hormonal	O
+analyses_21	and	O
+analyses_21	intestinal	O
+analyses_21	bacterial	O
+analyses_21	analyses	analyses_nou

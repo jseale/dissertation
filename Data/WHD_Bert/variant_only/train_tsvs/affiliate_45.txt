@@ -1,0 +1,12 @@
+affiliate_45	Official	O
+affiliate_45	Webpage	O
+affiliate_45	of	O
+affiliate_45	the	O
+affiliate_45	Japanese	O
+affiliate_45	affiliate	affiliate_nou
+affiliate_45	of	O
+affiliate_45	the	O
+affiliate_45	Association	O
+affiliate_45	of	O
+affiliate_45	Baha'i	O
+affiliate_45	Studies	O

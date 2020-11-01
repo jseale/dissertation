@@ -1,0 +1,11 @@
+ornament_64	In	O
+ornament_64	the	O
+ornament_64	Classic	O
+ornament_64	style	O
+ornament_64	a	O
+ornament_64	shell	O
+ornament_64	serves	O
+ornament_64	as	O
+ornament_64	his	O
+ornament_64	ear	O
+ornament_64	ornament	ornament_nou

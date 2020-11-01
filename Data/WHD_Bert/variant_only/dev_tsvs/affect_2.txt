@@ -1,0 +1,17 @@
+affect_2	The	O
+affect_2	resulting	O
+affect_2	voltage	O
+affect_2	difference	O
+affect_2	can	O
+affect_2	affect	affect
+affect_2	electrical	O
+affect_2	equipment	O
+affect_2	change	O
+affect_2	surface	O
+affect_2	chemistry	O
+affect_2	erode	O
+affect_2	surfaces	O
+affect_2	and	O
+affect_2	levitate	O
+affect_2	Lunar	O
+affect_2	dust	O

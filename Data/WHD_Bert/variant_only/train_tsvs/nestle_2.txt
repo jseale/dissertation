@@ -1,0 +1,14 @@
+nestle_2	Ancient	O
+nestle_2	castles	O
+nestle_2	nestle	nestle_vrb
+nestle_2	on	O
+nestle_2	lonely	O
+nestle_2	hills	O
+nestle_2	the	O
+nestle_2	most	O
+nestle_2	famous	O
+nestle_2	being	O
+nestle_2	the	O
+nestle_2	magnificent	O
+nestle_2	Loarre	O
+nestle_2	Castle	O

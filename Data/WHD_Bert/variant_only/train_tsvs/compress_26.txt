@@ -1,0 +1,10 @@
+compress_26	ALZip	O
+compress_26	software	O
+compress_26	can	O
+compress_26	compress	compress
+compress_26	and	O
+compress_26	extract	O
+compress_26	the	O
+compress_26	EGG	O
+compress_26	file	O
+compress_26	format	O

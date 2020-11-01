@@ -1,0 +1,7 @@
+deviate_12	Dawkins	O
+deviate_12	did	O
+deviate_12	not	O
+deviate_12	deviate	deviate_vrb
+deviate_12	from	O
+deviate_12	this	O
+deviate_12	tradition	O

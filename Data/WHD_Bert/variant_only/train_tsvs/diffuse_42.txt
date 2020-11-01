@@ -1,0 +1,11 @@
+diffuse_42	The	O
+diffuse_42	cytoplasm	O
+diffuse_42	may	O
+diffuse_42	contain	O
+diffuse_42	diffuse	diffuse_adj
+diffuse_42	glycogen	O
+diffuse_42	and	O
+diffuse_42	chromatid	O
+diffuse_42	bodies	O
+diffuse_42	are	O
+diffuse_42	absent	O

@@ -1,0 +1,14 @@
+document_72	Brooklyn	O
+document_72	filmmakers	O
+document_72	use	O
+document_72	Google	O
+document_72	Glass	O
+document_72	technology	O
+document_72	to	O
+document_72	document	document_vrb
+document_72	long	O
+document_72	standing	O
+document_72	tensions	O
+document_72	in	O
+document_72	Crown	O
+document_72	Heights	O

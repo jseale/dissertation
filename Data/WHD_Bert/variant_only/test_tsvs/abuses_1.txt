@@ -1,0 +1,15 @@
+abuses_1	There	O
+abuses_1	were	O
+abuses_1	reports	O
+abuses_1	of	O
+abuses_1	societal	O
+abuses_1	abuses	abuses_nou
+abuses_1	and	O
+abuses_1	discrimination	O
+abuses_1	based	O
+abuses_1	on	O
+abuses_1	religious	O
+abuses_1	affiliation	O
+abuses_1	belief	O
+abuses_1	or	O
+abuses_1	practice	O

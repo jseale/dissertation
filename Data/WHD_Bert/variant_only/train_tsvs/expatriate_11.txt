@@ -1,0 +1,10 @@
+expatriate_11	One	O
+expatriate_11	restaurant	O
+expatriate_11	serves	O
+expatriate_11	crepes	O
+expatriate_11	because	O
+expatriate_11	of	O
+expatriate_11	its	O
+expatriate_11	French	O
+expatriate_11	expatriate	expatriate_nou
+expatriate_11	owner	O

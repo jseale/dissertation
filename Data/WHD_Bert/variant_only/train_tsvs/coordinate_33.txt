@@ -1,0 +1,16 @@
+coordinate_33	In	O
+coordinate_33	addition	O
+coordinate_33	we	O
+coordinate_33	can	O
+coordinate_33	formulate	O
+coordinate_33	force	O
+coordinate_33	using	O
+coordinate_33	the	O
+coordinate_33	concept	O
+coordinate_33	of	O
+coordinate_33	coordinate	coordinate_adj-nou
+coordinate_33	transformations	O
+coordinate_33	between	O
+coordinate_33	different	O
+coordinate_33	coordinate	coordinate_adj-nou
+coordinate_33	systems	O

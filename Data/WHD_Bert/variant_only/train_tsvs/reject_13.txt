@@ -1,0 +1,11 @@
+reject_13	We	O
+reject_13	reject	reject_vrb
+reject_13	your	O
+reject_13	claims	O
+reject_13	and	O
+reject_13	will	O
+reject_13	never	O
+reject_13	submit	O
+reject_13	to	O
+reject_13	your	O
+reject_13	authority	O

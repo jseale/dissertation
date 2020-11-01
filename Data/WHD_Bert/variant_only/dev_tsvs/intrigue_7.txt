@@ -1,0 +1,14 @@
+intrigue_7	Along	O
+intrigue_7	with	O
+intrigue_7	his	O
+intrigue_7	vast	O
+intrigue_7	estates	O
+intrigue_7	Gowrie	O
+intrigue_7	inherited	O
+intrigue_7	the	O
+intrigue_7	family	O
+intrigue_7	traditions	O
+intrigue_7	of	O
+intrigue_7	treason	O
+intrigue_7	and	O
+intrigue_7	intrigue	intrigue_nou

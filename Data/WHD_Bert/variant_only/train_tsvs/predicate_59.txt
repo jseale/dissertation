@@ -1,0 +1,13 @@
+predicate_59	Kant	O
+predicate_59	explains	O
+predicate_59	that	O
+predicate_59	being	O
+predicate_59	not	O
+predicate_59	being	O
+predicate_59	a	O
+predicate_59	predicate	predicate_nou
+predicate_59	could	O
+predicate_59	not	O
+predicate_59	characterize	O
+predicate_59	a	O
+predicate_59	thing	O

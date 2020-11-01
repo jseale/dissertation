@@ -1,0 +1,17 @@
+delegate_51	Space	O
+delegate_51	received	O
+delegate_51	103	O
+delegate_51	of	O
+delegate_51	the	O
+delegate_51	158	O
+delegate_51	delegate	delegate_nou
+delegate_51	votes	O
+delegate_51	cast	O
+delegate_51	defeating	O
+delegate_51	Bader	O
+delegate_51	Qarmout	O
+delegate_51	John	O
+delegate_51	Wroblewski	O
+delegate_51	and	O
+delegate_51	Mark	O
+delegate_51	Quick	O

@@ -1,0 +1,14 @@
+content_6	It	O
+content_6	generally	O
+content_6	provides	O
+content_6	viewers	O
+content_6	from	O
+content_6	the	O
+content_6	region	O
+content_6	with	O
+content_6	free	O
+content_6	streaming	O
+content_6	of	O
+content_6	premium	O
+content_6	Arabic	O
+content_6	content	content_nou

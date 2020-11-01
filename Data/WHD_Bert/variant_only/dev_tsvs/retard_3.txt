@@ -1,0 +1,16 @@
+retard_3	For	O
+retard_3	the	O
+retard_3	same	O
+retard_3	reason	O
+retard_3	it	O
+retard_3	can	O
+retard_3	prevent	O
+retard_3	or	O
+retard_3	retard	retard_vrb
+retard_3	food	O
+retard_3	oils	O
+retard_3	and	O
+retard_3	fats	O
+retard_3	from	O
+retard_3	becoming	O
+retard_3	rancid	O

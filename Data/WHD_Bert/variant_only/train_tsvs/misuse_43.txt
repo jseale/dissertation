@@ -1,0 +1,17 @@
+misuse_43	Import	O
+misuse_43	ban	O
+misuse_43	on	O
+misuse_43	psychoactive	O
+misuse_43	drug	O
+misuse_43	UK	O
+misuse_43	Home	O
+misuse_43	"Office""The"	O
+misuse_43	Misuse	misuse_nou
+misuse_43	of	O
+misuse_43	Drugs	O
+misuse_43	Act	O
+misuse_43	1971	O
+misuse_43	Amendment	O
+misuse_43	Order	O
+misuse_43	2012	O
+misuse_43	PDF	O

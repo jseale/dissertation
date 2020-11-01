@@ -1,0 +1,15 @@
+contrast_17	Variation	O
+contrast_17	X.In	O
+contrast_17	contrast	contrast_nou
+contrast_17	to	O
+contrast_17	the	O
+contrast_17	preceding	O
+contrast_17	number	O
+contrast_17	Variation	O
+contrast_17	10	O
+contrast_17	is	O
+contrast_17	Allegro	O
+contrast_17	energico	O
+contrast_17	fast	O
+contrast_17	and	O
+contrast_17	exhilarating	O

@@ -1,0 +1,17 @@
+invert_0	It	O
+invert_0	is	O
+invert_0	tempting	O
+invert_0	to	O
+invert_0	obtain	O
+invert_0	data	O
+invert_0	for	O
+invert_0	g¹(q;τ	O
+invert_0	and	O
+invert_0	attempt	O
+invert_0	to	O
+invert_0	invert	invert_vrb
+invert_0	the	O
+invert_0	above	O
+invert_0	to	O
+invert_0	extract	O
+invert_0	G(Γ	O

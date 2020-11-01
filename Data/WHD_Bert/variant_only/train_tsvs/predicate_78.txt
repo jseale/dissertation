@@ -1,0 +1,11 @@
+predicate_78	Only	O
+predicate_78	the	O
+predicate_78	evaluation	O
+predicate_78	of	O
+predicate_78	a	O
+predicate_78	defined	O
+predicate_78	predicate	predicate_nou
+predicate_78	appeals	O
+predicate_78	to	O
+predicate_78	the	O
+predicate_78	hypotheses	O

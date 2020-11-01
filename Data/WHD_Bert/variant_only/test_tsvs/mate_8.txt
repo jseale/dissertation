@@ -1,0 +1,13 @@
+mate_8	In	O
+mate_8	some	O
+mate_8	species	O
+mate_8	worker	O
+mate_8	females	O
+mate_8	retain	O
+mate_8	their	O
+mate_8	ability	O
+mate_8	to	O
+mate_8	mate	mate
+mate_8	and	O
+mate_8	lay	O
+mate_8	eggs	O

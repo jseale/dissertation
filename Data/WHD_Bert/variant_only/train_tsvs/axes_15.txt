@@ -1,0 +1,12 @@
+axes_15	Anisophyton	O
+axes_15	was	O
+axes_15	a	O
+axes_15	genus	O
+axes_15	of	O
+axes_15	Silu	O
+axes_15	Devonian	O
+axes_15	land	O
+axes_15	plant	O
+axes_15	with	O
+axes_15	branching	O
+axes_15	axes	axes_nou

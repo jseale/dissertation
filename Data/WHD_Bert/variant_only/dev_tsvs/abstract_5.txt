@@ -1,0 +1,17 @@
+abstract_5	Rimbaud	O
+abstract_5	's	O
+abstract_5	style	O
+abstract_5	and	O
+abstract_5	syntactical	O
+abstract_5	choices	O
+abstract_5	pointed	O
+abstract_5	to	O
+abstract_5	Symbolist	O
+abstract_5	tendencies	O
+abstract_5	including	O
+abstract_5	the	O
+abstract_5	use	O
+abstract_5	of	O
+abstract_5	abstract	abstract_adj-nou
+abstract_5	plural	O
+abstract_5	nouns	O

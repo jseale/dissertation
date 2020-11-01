@@ -1,0 +1,13 @@
+sow_60	While	O
+sow_60	he	O
+sow_60	is	O
+sow_60	distracted	O
+sow_60	by	O
+sow_60	this	O
+sow_60	a	O
+sow_60	sow	sow_nou
+sow_60	starts	O
+sow_60	to	O
+sow_60	drink	O
+sow_60	the	O
+sow_60	buttermilk	O

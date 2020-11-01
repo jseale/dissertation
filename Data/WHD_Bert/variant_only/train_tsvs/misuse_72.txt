@@ -1,0 +1,17 @@
+misuse_72	To	O
+misuse_72	prevent	O
+misuse_72	misuse	misuse_nou
+misuse_72	of	O
+misuse_72	their	O
+misuse_72	names	O
+misuse_72	in	O
+misuse_72	this	O
+misuse_72	way	O
+misuse_72	some	O
+misuse_72	legitimate	O
+misuse_72	academic	O
+misuse_72	institutions	O
+misuse_72	have	O
+misuse_72	registered	O
+misuse_72	.ac	O
+misuse_72	domains	O

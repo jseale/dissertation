@@ -1,0 +1,11 @@
+sow_23	Taiwan	O
+sow_23	enterprises	O
+sow_23	sow	sow
+sow_23	opportunity	O
+sow_23	in	O
+sow_23	Fujian	O
+sow_23	CCTV	O
+sow_23	International	O
+sow_23	28	O
+sow_23	June	O
+sow_23	2009	O

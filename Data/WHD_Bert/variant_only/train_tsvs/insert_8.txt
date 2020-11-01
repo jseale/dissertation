@@ -1,0 +1,9 @@
+insert_8	Credits	O
+insert_8	for	O
+insert_8	Welcome	O
+insert_8	To	O
+insert_8	Tokyo	O
+insert_8	adapted	O
+insert_8	from	O
+insert_8	album	O
+insert_8	insert	insert_nou

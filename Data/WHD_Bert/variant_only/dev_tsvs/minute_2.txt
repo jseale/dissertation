@@ -1,0 +1,14 @@
+minute_2	Their	O
+minute_2	legs	O
+minute_2	are	O
+minute_2	short	O
+minute_2	and	O
+minute_2	robust	O
+minute_2	while	O
+minute_2	the	O
+minute_2	claws	O
+minute_2	are	O
+minute_2	equipped	O
+minute_2	with	O
+minute_2	minute	minute_adj
+minute_2	teeth	O

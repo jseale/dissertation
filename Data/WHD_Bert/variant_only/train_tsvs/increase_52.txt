@@ -1,0 +1,11 @@
+increase_52	The	O
+increase_52	secession	O
+increase_52	issue	O
+increase_52	eventually	O
+increase_52	died	O
+increase_52	down	O
+increase_52	from	O
+increase_52	the	O
+increase_52	nominal	O
+increase_52	tax	O
+increase_52	increase	increase_nou

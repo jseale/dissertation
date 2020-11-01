@@ -1,0 +1,11 @@
+contrast_25	In	O
+contrast_25	contrast	contrast_nou
+contrast_25	SCOPE	O
+contrast_25	Maastricht	O
+contrast_25	organizes	O
+contrast_25	events	O
+contrast_25	for	O
+contrast_25	the	O
+contrast_25	whole	O
+contrast_25	student	O
+contrast_25	body	O

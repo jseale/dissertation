@@ -1,0 +1,15 @@
+convict_41	The	O
+convict_41	eight	O
+convict_41	black	O
+convict_41	jury	O
+convict_41	members	O
+convict_41	voted	O
+convict_41	to	O
+convict_41	acquit	O
+convict_41	and	O
+convict_41	the	O
+convict_41	four	O
+convict_41	whites	O
+convict_41	voted	O
+convict_41	to	O
+convict_41	convict	convict_vrb

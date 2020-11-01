@@ -1,0 +1,17 @@
+duplicate_25	Between	O
+duplicate_25	2008	O
+duplicate_25	and	O
+duplicate_25	2010	O
+duplicate_25	work	O
+duplicate_25	was	O
+duplicate_25	carried	O
+duplicate_25	out	O
+duplicate_25	to	O
+duplicate_25	duplicate	duplicate_vrb
+duplicate_25	the	O
+duplicate_25	tracks	O
+duplicate_25	between	O
+duplicate_25	Darra	O
+duplicate_25	and	O
+duplicate_25	Corinda	O
+duplicate_25	stations	O

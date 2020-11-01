@@ -1,0 +1,12 @@
+nestle_47	In	O
+nestle_47	February	O
+nestle_47	2016	O
+nestle_47	Nestle	nestle_nam
+nestle_47	announced	O
+nestle_47	that	O
+nestle_47	it	O
+nestle_47	was	O
+nestle_47	ending	O
+nestle_47	its	O
+nestle_47	IAAF	O
+nestle_47	sponsorship	O

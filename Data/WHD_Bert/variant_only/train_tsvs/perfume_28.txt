@@ -1,0 +1,13 @@
+perfume_28	They	O
+perfume_28	were	O
+perfume_28	used	O
+perfume_28	to	O
+perfume_28	perfume	perfume_vrb
+perfume_28	garments	O
+perfume_28	and	O
+perfume_28	bedclothes	O
+perfume_28	and	O
+perfume_28	even	O
+perfume_28	to	O
+perfume_28	kill	O
+perfume_28	insects	O

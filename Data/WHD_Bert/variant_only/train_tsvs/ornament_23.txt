@@ -1,0 +1,12 @@
+ornament_23	The	O
+ornament_23	exterior	O
+ornament_23	of	O
+ornament_23	the	O
+ornament_23	edifice	O
+ornament_23	is	O
+ornament_23	plain	O
+ornament_23	and	O
+ornament_23	almost	O
+ornament_23	devoid	O
+ornament_23	of	O
+ornament_23	ornament	ornament_nou

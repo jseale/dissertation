@@ -1,0 +1,15 @@
+invalid_7	Of	O
+invalid_7	the	O
+invalid_7	1,823	O
+invalid_7	Smith	O
+invalid_7	gathered	O
+invalid_7	492	O
+invalid_7	were	O
+invalid_7	deemed	O
+invalid_7	invalid	invalid_adj
+invalid_7	meaning	O
+invalid_7	he	O
+invalid_7	needed	O
+invalid_7	248	O
+invalid_7	more	O
+invalid_7	signatures	O

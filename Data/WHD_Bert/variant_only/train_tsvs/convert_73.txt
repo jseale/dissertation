@@ -1,0 +1,17 @@
+convert_73	Luteal	O
+convert_73	cells	O
+convert_73	possess	O
+convert_73	the	O
+convert_73	necessary	O
+convert_73	enzymes	O
+convert_73	to	O
+convert_73	convert	convert_vrb
+convert_73	cholesterol	O
+convert_73	to	O
+convert_73	pregnenolone	O
+convert_73	which	O
+convert_73	is	O
+convert_73	subsequently	O
+convert_73	converted	O
+convert_73	into	O
+convert_73	progesterone	O

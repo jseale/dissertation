@@ -1,0 +1,14 @@
+lead_34	Chris	O
+lead_34	Norman	O
+lead_34	founder	O
+lead_34	member	O
+lead_34	and	O
+lead_34	former	O
+lead_34	lead	lead_nou-vrb
+lead_34	singer	O
+lead_34	of	O
+lead_34	Smokie	O
+lead_34	was	O
+lead_34	born	O
+lead_34	in	O
+lead_34	Redcar	O

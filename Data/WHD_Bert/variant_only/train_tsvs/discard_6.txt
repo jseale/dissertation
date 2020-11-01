@@ -1,0 +1,13 @@
+discard_6	Here	O
+discard_6	we	O
+discard_6	use	O
+discard_6	Euler	O
+discard_6	's	O
+discard_6	formula	O
+discard_6	to	O
+discard_6	identify	O
+discard_6	and	O
+discard_6	discard	discard_vrb
+discard_6	the	O
+discard_6	negative	O
+discard_6	frequency	O

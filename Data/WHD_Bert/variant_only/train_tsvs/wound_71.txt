@@ -1,0 +1,17 @@
+wound_71	His	O
+wound_71	doctors	O
+wound_71	commented	O
+wound_71	in	O
+wound_71	their	O
+wound_71	report	O
+wound_71	on	O
+wound_71	how	O
+wound_71	clean	O
+wound_71	Marvin	O
+wound_71	's	O
+wound_71	head	O
+wound_71	wound	wound_nou-vrb
+wound_71	was	O
+wound_71	given	O
+wound_71	the	O
+wound_71	circumstances	O

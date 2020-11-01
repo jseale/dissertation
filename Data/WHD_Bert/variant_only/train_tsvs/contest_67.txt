@@ -1,0 +1,15 @@
+contest_67	This	O
+contest_67	event	O
+contest_67	gathers	O
+contest_67	big	O
+contest_67	wave	O
+contest_67	surfers	O
+contest_67	from	O
+contest_67	all	O
+contest_67	around	O
+contest_67	the	O
+contest_67	world	O
+contest_67	in	O
+contest_67	a	O
+contest_67	one	O
+contest_67	contest	contest_nou

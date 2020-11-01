@@ -1,0 +1,11 @@
+wind_39	Wind	wind_nou
+wind_39	dinosaurs	O
+wind_39	consist	O
+wind_39	of	O
+wind_39	smaller	O
+wind_39	theropods	O
+wind_39	such	O
+wind_39	as	O
+wind_39	Allosaurus	O
+wind_39	and	O
+wind_39	Utahraptor	O

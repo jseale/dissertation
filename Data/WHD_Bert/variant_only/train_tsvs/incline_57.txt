@@ -1,0 +1,15 @@
+incline_57	The	O
+incline_57	tunnel	O
+incline_57	and	O
+incline_57	deviation	O
+incline_57	opened	O
+incline_57	on	O
+incline_57	3	O
+incline_57	November	O
+incline_57	1955	O
+incline_57	five	O
+incline_57	days	O
+incline_57	after	O
+incline_57	the	O
+incline_57	Incline	incline_nou
+incline_57	closed	O

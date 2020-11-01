@@ -1,0 +1,14 @@
+ornament_18	The	O
+ornament_18	red	O
+ornament_18	cord	O
+ornament_18	would	O
+ornament_18	also	O
+ornament_18	have	O
+ornament_18	an	O
+ornament_18	ornament	ornament_nou
+ornament_18	of	O
+ornament_18	green	O
+ornament_18	blue	O
+ornament_18	and	O
+ornament_18	red	O
+ornament_18	feathers	O

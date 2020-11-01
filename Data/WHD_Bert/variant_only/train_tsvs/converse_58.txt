@@ -1,0 +1,12 @@
+converse_58	The	O
+converse_58	converse	converse_adj-nou
+converse_58	is	O
+converse_58	true	O
+converse_58	in	O
+converse_58	dimension	O
+converse_58	2	O
+converse_58	but	O
+converse_58	not	O
+converse_58	in	O
+converse_58	higher	O
+converse_58	dimensions	O

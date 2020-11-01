@@ -1,0 +1,10 @@
+compound_72	Divided	O
+compound_72	and	O
+compound_72	compound	compound_nou
+compound_72	leaves	O
+compound_72	reduce	O
+compound_72	wind	O
+compound_72	resistance	O
+compound_72	and	O
+compound_72	promote	O
+compound_72	cooling	O

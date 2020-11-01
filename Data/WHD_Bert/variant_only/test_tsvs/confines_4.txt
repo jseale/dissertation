@@ -1,0 +1,14 @@
+confines_4	It	O
+confines_4	assists	O
+confines_4	in	O
+confines_4	the	O
+confines_4	circulation	O
+confines_4	of	O
+confines_4	blood	O
+confines_4	and	O
+confines_4	protects	O
+confines_4	and	O
+confines_4	confines	confines_vrb
+confines_4	the	O
+confines_4	visceral	O
+confines_4	organs	O

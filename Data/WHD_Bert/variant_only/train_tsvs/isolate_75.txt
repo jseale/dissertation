@@ -1,0 +1,10 @@
+isolate_75	Contemporary	O
+isolate_75	linguists	O
+isolate_75	generally	O
+isolate_75	consider	O
+isolate_75	Yana	O
+isolate_75	to	O
+isolate_75	be	O
+isolate_75	a	O
+isolate_75	language	O
+isolate_75	isolate	isolate_nou

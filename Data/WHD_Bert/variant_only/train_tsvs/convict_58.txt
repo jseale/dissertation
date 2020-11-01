@@ -1,0 +1,17 @@
+convict_58	Yatheendran	O
+convict_58	Keerikkadan	O
+convict_58	Jose	O
+convict_58	another	O
+convict_58	convict	convict_nou
+convict_58	identifies	O
+convict_58	Mahi	O
+convict_58	as	O
+convict_58	Mayavi	O
+convict_58	and	O
+convict_58	Thottappally	O
+convict_58	brothers	O
+convict_58	entrusts	O
+convict_58	Yatheendran	O
+convict_58	to	O
+convict_58	kill	O
+convict_58	Mahi	O

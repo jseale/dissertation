@@ -1,0 +1,11 @@
+lead_65	The	O
+lead_65	film	O
+lead_65	stars	O
+lead_65	Vishnuvardhan	O
+lead_65	Aarathi	O
+lead_65	Madhavi	O
+lead_65	and	O
+lead_65	Jayamalini	O
+lead_65	in	O
+lead_65	lead	lead_nou-vrb
+lead_65	roles	O

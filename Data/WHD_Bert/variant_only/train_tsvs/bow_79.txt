@@ -1,0 +1,7 @@
+bow_79	To	O
+bow_79	the	O
+bow_79	west	O
+bow_79	lies	O
+bow_79	Bromley	O
+bow_79	by	O
+bow_79	Bow	bow_nou-knot

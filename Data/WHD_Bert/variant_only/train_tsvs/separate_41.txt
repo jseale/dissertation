@@ -1,0 +1,17 @@
+separate_41	The	O
+separate_41	Institutes	O
+separate_41	of	O
+separate_41	the	O
+separate_41	Law	O
+separate_41	of	O
+separate_41	Nations	O
+separate_41	a	O
+separate_41	Treatise	O
+separate_41	of	O
+separate_41	the	O
+separate_41	Jural	O
+separate_41	Relations	O
+separate_41	of	O
+separate_41	Separate	separate_adj
+separate_41	Political	O
+separate_41	Communities	O

@@ -1,0 +1,14 @@
+lead_7	Sahil	O
+lead_7	is	O
+lead_7	a	O
+lead_7	1959	O
+lead_7	Bollywood	O
+lead_7	film	O
+lead_7	starring	O
+lead_7	Shammi	O
+lead_7	Kapoor	O
+lead_7	and	O
+lead_7	Chitra	O
+lead_7	in	O
+lead_7	lead	lead_nou-vrb
+lead_7	roles	O

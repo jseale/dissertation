@@ -1,0 +1,17 @@
+syndicate_66	Singer	O
+syndicate_66	guitarist	O
+syndicate_66	Tench	O
+syndicate_66	Coxe	O
+syndicate_66	later	O
+syndicate_66	played	O
+syndicate_66	as	O
+syndicate_66	part	O
+syndicate_66	of	O
+syndicate_66	Three	O
+syndicate_66	On	O
+syndicate_66	a	O
+syndicate_66	Hill	O
+syndicate_66	and	O
+syndicate_66	Bedhead	O
+syndicate_66	Trance	O
+syndicate_66	Syndicate	syndicate_nou

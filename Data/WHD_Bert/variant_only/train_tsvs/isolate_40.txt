@@ -1,0 +1,13 @@
+isolate_40	The	O
+isolate_40	moving	O
+isolate_40	is	O
+isolate_40	intended	O
+isolate_40	to	O
+isolate_40	isolate	isolate
+isolate_40	them	O
+isolate_40	and	O
+isolate_40	cut	O
+isolate_40	drug	O
+isolate_40	circulation	O
+isolate_40	in	O
+isolate_40	Indonesia	O

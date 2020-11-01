@@ -1,0 +1,14 @@
+close_38	Sydney	O
+close_38	broke	O
+close_38	the	O
+close_38	trend	O
+close_38	of	O
+close_38	close	close_adj-nou
+close_38	games	O
+close_38	between	O
+close_38	the	O
+close_38	sides	O
+close_38	winning	O
+close_38	this	O
+close_38	match	O
+close_38	16.11	O

@@ -1,0 +1,17 @@
+polish_51	For	O
+polish_51	instance	O
+polish_51	the	O
+polish_51	Soviets	O
+polish_51	quickly	O
+polish_51	began	O
+polish_51	confiscating	O
+polish_51	nationalising	O
+polish_51	and	O
+polish_51	redistributing	O
+polish_51	all	O
+polish_51	private	O
+polish_51	and	O
+polish_51	state	O
+polish_51	owned	O
+polish_51	Polish	polish_geo
+polish_51	property	O

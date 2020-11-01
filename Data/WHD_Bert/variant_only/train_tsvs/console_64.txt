@@ -1,0 +1,11 @@
+console_64	The	O
+console_64	BGM	O
+console_64	is	O
+console_64	completed	O
+console_64	with	O
+console_64	tracks	O
+console_64	with	O
+console_64	noticeable	O
+console_64	console	console_nou
+console_64	RPG	O
+console_64	style	O

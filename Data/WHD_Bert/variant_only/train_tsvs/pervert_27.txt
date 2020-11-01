@@ -1,0 +1,15 @@
+pervert_27	During	O
+pervert_27	this	O
+pervert_27	announcement	O
+pervert_27	Bulldog	O
+pervert_27	entered	O
+pervert_27	the	O
+pervert_27	room	O
+pervert_27	and	O
+pervert_27	shouted	O
+pervert_27	That	O
+pervert_27	dirty	O
+pervert_27	rotten	O
+pervert_27	pervert	pervert_nou
+pervert_27	Shawn	O
+pervert_27	Michaels	O

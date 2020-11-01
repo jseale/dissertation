@@ -1,0 +1,9 @@
+coordinate_19	The	O
+coordinate_19	numbering	O
+coordinate_19	system	O
+coordinate_19	thus	O
+coordinate_19	resembles	O
+coordinate_19	a	O
+coordinate_19	Cartesian	O
+coordinate_19	coordinate	coordinate_adj-nou
+coordinate_19	system	O

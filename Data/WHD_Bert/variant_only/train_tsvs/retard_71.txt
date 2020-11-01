@@ -1,0 +1,16 @@
+retard_71	The	O
+retard_71	increased	O
+retard_71	hydrophobic	O
+retard_71	moment	O
+retard_71	is	O
+retard_71	thought	O
+retard_71	to	O
+retard_71	retard	retard_vrb
+retard_71	or	O
+retard_71	abolish	O
+retard_71	antimicrobial	O
+retard_71	peptide	O
+retard_71	insertion	O
+retard_71	and	O
+retard_71	pore	O
+retard_71	formation	O

@@ -1,0 +1,16 @@
+discount_68	The	O
+discount_68	commercial	O
+discount_68	continued	O
+discount_68	the	O
+discount_68	theme	O
+discount_68	of	O
+discount_68	State	O
+discount_68	Farm	O
+discount_68	commercials	O
+discount_68	featuring	O
+discount_68	Rodgers	O
+discount_68	using	O
+discount_68	the	O
+discount_68	discount	discount_nou
+discount_68	doublecheck	O
+discount_68	slogan	O

@@ -1,0 +1,12 @@
+house_69	They	O
+house_69	had	O
+house_69	no	O
+house_69	children	O
+house_69	and	O
+house_69	she	O
+house_69	inherited	O
+house_69	Red	O
+house_69	House	house_nou
+house_69	at	O
+house_69	his	O
+house_69	death	O

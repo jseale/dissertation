@@ -1,0 +1,17 @@
+delegate_48	Neusa	O
+delegate_48	Heloise	O
+delegate_48	Périssé	O
+delegate_48	the	O
+delegate_48	parent	O
+delegate_48	sister	O
+delegate_48	Batoré	O
+delegate_48	delegate	delegate_nou
+delegate_48	Osmar	O
+delegate_48	Prado	O
+delegate_48	is	O
+delegate_48	envied	O
+delegate_48	by	O
+delegate_48	all	O
+delegate_48	women	O
+delegate_48	of	O
+delegate_48	Brogodo	O

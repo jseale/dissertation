@@ -1,0 +1,16 @@
+compound_74	Twin	O
+compound_74	propellers	O
+compound_74	were	O
+compound_74	powered	O
+compound_74	by	O
+compound_74	two	O
+compound_74	lightweight	O
+compound_74	compound	compound_nou
+compound_74	steam	O
+compound_74	engines	O
+compound_74	each	O
+compound_74	delivering	O
+compound_74	180	O
+compound_74	horsepower	O
+compound_74	130	O
+compound_74	kW	O

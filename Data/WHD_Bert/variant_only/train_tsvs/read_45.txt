@@ -1,0 +1,13 @@
+read_45	He	O
+read_45	could	O
+read_45	also	O
+read_45	read	read_present
+read_45	not	O
+read_45	only	O
+read_45	Arabic	O
+read_45	and	O
+read_45	Coptic	O
+read_45	but	O
+read_45	Zulu	O
+read_45	and	O
+read_45	Hawaiian	O

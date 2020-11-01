@@ -1,0 +1,17 @@
+discharge_41	The	O
+discharge_41	average	O
+discharge_41	discharge	discharge_nou
+discharge_41	of	O
+discharge_41	the	O
+discharge_41	river	O
+discharge_41	at	O
+discharge_41	the	O
+discharge_41	mouth	O
+discharge_41	is	O
+discharge_41	2,377	O
+discharge_41	cubic	O
+discharge_41	feet	O
+discharge_41	per	O
+discharge_41	second	O
+discharge_41	67.3	O
+discharge_41	m³/s	O

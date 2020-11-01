@@ -1,0 +1,13 @@
+expatriate_33	Expatriate	expatriate_nou
+expatriate_33	Indians	O
+expatriate_33	in	O
+expatriate_33	UAE	O
+expatriate_33	not	O
+expatriate_33	hit	O
+expatriate_33	by	O
+expatriate_33	global	O
+expatriate_33	"meltdown""Qatar"	O
+expatriate_33	's	O
+expatriate_33	population	O
+expatriate_33	by	O
+expatriate_33	nationality	O

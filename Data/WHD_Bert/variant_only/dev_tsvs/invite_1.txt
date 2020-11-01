@@ -1,0 +1,13 @@
+invite_1	They	O
+invite_1	decide	O
+invite_1	on	O
+invite_1	a	O
+invite_1	small	O
+invite_1	country	O
+invite_1	church	O
+invite_1	and	O
+invite_1	invite	invite_vrb
+invite_1	all	O
+invite_1	family	O
+invite_1	and	O
+invite_1	friends	O

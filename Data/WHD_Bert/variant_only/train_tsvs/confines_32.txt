@@ -1,0 +1,12 @@
+confines_32	Matthews	O
+confines_32	printed	O
+confines_32	a	O
+confines_32	wide	O
+confines_32	range	O
+confines_32	of	O
+confines_32	work	O
+confines_32	beyond	O
+confines_32	the	O
+confines_32	confines	confines_nou
+confines_32	of	O
+confines_32	drama	O

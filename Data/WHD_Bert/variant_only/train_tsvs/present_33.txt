@@ -1,0 +1,12 @@
+present_33	The	O
+present_33	TBE	O
+present_33	virus	O
+present_33	may	O
+present_33	be	O
+present_33	present	present_adj-nou
+present_33	in	O
+present_33	a	O
+present_33	seronegative	O
+present_33	strain	O
+present_33	or	O
+present_33	subtype	O

@@ -1,0 +1,10 @@
+convert_30	Existing	O
+convert_30	treatment	O
+convert_30	plants	O
+convert_30	use	O
+convert_30	bacteria	O
+convert_30	that	O
+convert_30	convert	convert_vrb
+convert_30	ammonium	O
+convert_30	into	O
+convert_30	nitrate	O

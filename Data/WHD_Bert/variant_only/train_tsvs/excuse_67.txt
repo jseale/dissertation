@@ -1,0 +1,14 @@
+excuse_67	There	O
+excuse_67	is	O
+excuse_67	no	O
+excuse_67	excuse	excuse_nou
+excuse_67	for	O
+excuse_67	the	O
+excuse_67	way	O
+excuse_67	they	O
+excuse_67	are	O
+excuse_67	treated	O
+excuse_67	there	O
+excuse_67	are	O
+excuse_67	always	O
+excuse_67	alternatives	O

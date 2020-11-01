@@ -1,0 +1,14 @@
+diffuse_48	In	O
+diffuse_48	diffuse	diffuse_adj
+diffuse_48	light	O
+diffuse_48	i.e.	O
+diffuse_48	under	O
+diffuse_48	cloud	O
+diffuse_48	or	O
+diffuse_48	fog	O
+diffuse_48	tracking	O
+diffuse_48	has	O
+diffuse_48	little	O
+diffuse_48	or	O
+diffuse_48	no	O
+diffuse_48	value	O

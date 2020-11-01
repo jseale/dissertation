@@ -1,0 +1,8 @@
+impact_1	Reviews	O
+impact_1	development	O
+impact_1	plans	O
+impact_1	that	O
+impact_1	may	O
+impact_1	impact	impact_vrb
+impact_1	unrecorded	O
+impact_1	burials	O

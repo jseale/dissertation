@@ -1,0 +1,16 @@
+coordinate_71	The	O
+coordinate_71	division	O
+coordinate_71	lost	O
+coordinate_71	contact	O
+coordinate_71	with	O
+coordinate_71	its	O
+coordinate_71	artillery	O
+coordinate_71	support	O
+coordinate_71	and	O
+coordinate_71	was	O
+coordinate_71	unable	O
+coordinate_71	to	O
+coordinate_71	coordinate	coordinate_vrb
+coordinate_71	with	O
+coordinate_71	attached	O
+coordinate_71	tanks	O

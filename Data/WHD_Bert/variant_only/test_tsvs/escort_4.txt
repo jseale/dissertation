@@ -1,0 +1,12 @@
+escort_4	Her	O
+escort_4	duties	O
+escort_4	included	O
+escort_4	escort	escort_nou
+escort_4	of	O
+escort_4	convoys	O
+escort_4	through	O
+escort_4	the	O
+escort_4	Gulf	O
+escort_4	of	O
+escort_4	St.	O
+escort_4	Lawrence	O

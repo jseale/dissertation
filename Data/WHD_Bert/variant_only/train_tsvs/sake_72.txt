@@ -1,0 +1,15 @@
+sake_72	Lean	O
+sake_72	shouted	O
+sake_72	at	O
+sake_72	them	O
+sake_72	For	O
+sake_72	God	O
+sake_72	's	O
+sake_72	sake	sake
+sake_72	whistle	O
+sake_72	a	O
+sake_72	march	O
+sake_72	to	O
+sake_72	keep	O
+sake_72	time	O
+sake_72	to	O

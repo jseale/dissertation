@@ -1,0 +1,12 @@
+jesus_19	He	O
+jesus_19	wears	O
+jesus_19	a	O
+jesus_19	wrist	O
+jesus_19	band	O
+jesus_19	that	O
+jesus_19	says	O
+jesus_19	In	O
+jesus_19	Jesus	jesus
+jesus_19	Name	O
+jesus_19	I	O
+jesus_19	Play	O

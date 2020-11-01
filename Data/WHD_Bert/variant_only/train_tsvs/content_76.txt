@@ -1,0 +1,17 @@
+content_76	While	O
+content_76	the	O
+content_76	show	O
+content_76	did	O
+content_76	not	O
+content_76	excel	O
+content_76	due	O
+content_76	to	O
+content_76	some	O
+content_76	content	content_nou
+content_76	criticisms	O
+content_76	it	O
+content_76	had	O
+content_76	one	O
+content_76	long	O
+content_76	lasting	O
+content_76	effect	O

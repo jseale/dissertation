@@ -1,0 +1,17 @@
+tear_26	He	O
+tear_26	also	O
+tear_26	appeared	O
+tear_26	in	O
+tear_26	the	O
+tear_26	video	O
+tear_26	clip	O
+tear_26	for	O
+tear_26	Tear	tear_vrb
+tear_26	You	O
+tear_26	Apart	O
+tear_26	by	O
+tear_26	She	O
+tear_26	Wants	O
+tear_26	Revenge	O
+tear_26	as	O
+tear_26	Tommy	O

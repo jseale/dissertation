@@ -1,0 +1,9 @@
+import_41	The	O
+import_41	BIC	O
+import_41	claimed	O
+import_41	to	O
+import_41	be	O
+import_41	an	O
+import_41	import	import_nou
+import_41	export	O
+import_41	company	O

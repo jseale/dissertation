@@ -1,0 +1,13 @@
+extract_47	The	O
+extract_47	Romans	O
+extract_47	used	O
+extract_47	lead	O
+extract_47	salt	O
+extract_47	pans	O
+extract_47	to	O
+extract_47	extract	extract_vrb
+extract_47	the	O
+extract_47	salt	O
+extract_47	from	O
+extract_47	the	O
+extract_47	brine	O

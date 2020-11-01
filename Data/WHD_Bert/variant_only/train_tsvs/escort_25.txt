@@ -1,0 +1,16 @@
+escort_25	They	O
+escort_25	were	O
+escort_25	joined	O
+escort_25	by	O
+escort_25	Navy	O
+escort_25	radar	O
+escort_25	picket	O
+escort_25	destroyer	O
+escort_25	escorts	O
+escort_25	DERs	O
+escort_25	of	O
+escort_25	Escort	escort_nou
+escort_25	Squadrons	O
+escort_25	5	O
+escort_25	and	O
+escort_25	7	O

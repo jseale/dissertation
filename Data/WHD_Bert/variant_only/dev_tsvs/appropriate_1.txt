@@ -1,0 +1,11 @@
+appropriate_1	If	O
+appropriate_1	either	O
+appropriate_1	question	O
+appropriate_1	were	O
+appropriate_1	answered	O
+appropriate_1	affirmatively	O
+appropriate_1	what	O
+appropriate_1	was	O
+appropriate_1	the	O
+appropriate_1	appropriate	appropriate_adj
+appropriate_1	remedy	O

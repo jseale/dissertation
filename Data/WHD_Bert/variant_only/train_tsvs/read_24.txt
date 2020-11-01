@@ -1,0 +1,16 @@
+read_24	The	O
+read_24	book	O
+read_24	is	O
+read_24	also	O
+read_24	available	O
+read_24	in	O
+read_24	an	O
+read_24	audiobook	O
+read_24	adaptation	O
+read_24	read	read_present
+read_24	by	O
+read_24	James	O
+read_24	Doohan	O
+read_24	and	O
+read_24	Leonard	O
+read_24	Nimoy	O

@@ -1,0 +1,17 @@
+refuse_53	In	O
+refuse_53	spite	O
+refuse_53	of	O
+refuse_53	these	O
+refuse_53	evidences	O
+refuse_53	a	O
+refuse_53	significant	O
+refuse_53	proportion	O
+refuse_53	of	O
+refuse_53	Valencian	O
+refuse_53	population	O
+refuse_53	refuse	refuse_vrb
+refuse_53	to	O
+refuse_53	identify	O
+refuse_53	Valencian	O
+refuse_53	with	O
+refuse_53	Catalan	O

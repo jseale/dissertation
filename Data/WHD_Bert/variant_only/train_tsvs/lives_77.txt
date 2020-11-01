@@ -1,0 +1,10 @@
+lives_77	Altogether	O
+lives_77	around	O
+lives_77	3,500	O
+lives_77	lives	lives_nou
+lives_77	were	O
+lives_77	lost	O
+lives_77	from	O
+lives_77	the	O
+lives_77	various	O
+lives_77	ships	O

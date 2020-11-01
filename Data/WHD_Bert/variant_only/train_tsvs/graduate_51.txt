@@ -1,0 +1,10 @@
+graduate_51	Harding	O
+graduate_51	of	O
+graduate_51	Memphis	O
+graduate_51	Graduate	graduate_adj-nou
+graduate_51	School	O
+graduate_51	Bulletin	O
+graduate_51	13.8	O
+graduate_51	Nov.	O
+graduate_51	1974	O
+graduate_51	4	O

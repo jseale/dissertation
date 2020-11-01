@@ -1,0 +1,17 @@
+duplicate_64	If	O
+duplicate_64	the	O
+duplicate_64	join	O
+duplicate_64	query	O
+duplicate_64	is	O
+duplicate_64	not	O
+duplicate_64	written	O
+duplicate_64	correctly	O
+duplicate_64	it	O
+duplicate_64	may	O
+duplicate_64	return	O
+duplicate_64	duplicate	duplicate_adj-nou
+duplicate_64	rows	O
+duplicate_64	and/or	O
+duplicate_64	give	O
+duplicate_64	incorrect	O
+duplicate_64	answers	O

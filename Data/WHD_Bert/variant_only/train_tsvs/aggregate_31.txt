@@ -1,0 +1,14 @@
+aggregate_31	The	O
+aggregate_31	total	O
+aggregate_31	output	O
+aggregate_31	power	O
+aggregate_31	of	O
+aggregate_31	the	O
+aggregate_31	aggregate	aggregate_adj-nou
+aggregate_31	is	O
+aggregate_31	84,350	O
+aggregate_31	hp	O
+aggregate_31	achieved	O
+aggregate_31	at	O
+aggregate_31	94	O
+aggregate_31	rpm	O

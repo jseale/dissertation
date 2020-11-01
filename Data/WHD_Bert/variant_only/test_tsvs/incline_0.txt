@@ -1,0 +1,17 @@
+incline_0	This	O
+incline_0	would	O
+incline_0	allow	O
+incline_0	the	O
+incline_0	paving	O
+incline_0	equipment	O
+incline_0	to	O
+incline_0	pave	O
+incline_0	the	O
+incline_0	banking	O
+incline_0	without	O
+incline_0	slipping	O
+incline_0	or	O
+incline_0	rolling	O
+incline_0	down	O
+incline_0	the	O
+incline_0	incline	incline_nou

@@ -1,0 +1,13 @@
+predicate_74	The	O
+predicate_74	predicate	predicate_nou
+predicate_74	itself	O
+predicate_74	is	O
+predicate_74	considered	O
+predicate_74	as	O
+predicate_74	a	O
+predicate_74	resource	O
+predicate_74	and	O
+predicate_74	identified	O
+predicate_74	by	O
+predicate_74	a	O
+predicate_74	URI	O

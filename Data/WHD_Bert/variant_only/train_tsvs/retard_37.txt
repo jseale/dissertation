@@ -1,0 +1,12 @@
+retard_37	These	O
+retard_37	inhibitors	O
+retard_37	are	O
+retard_37	primarily	O
+retard_37	utilized	O
+retard_37	to	O
+retard_37	retard	retard_vrb
+retard_37	the	O
+retard_37	formation	O
+retard_37	of	O
+retard_37	clathrate	O
+retard_37	hydrates	O

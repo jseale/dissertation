@@ -1,0 +1,13 @@
+initiate_2	The	O
+initiate_2	receptor	O
+initiate_2	complex	O
+initiate_2	for	O
+initiate_2	IL-10	O
+initiate_2	also	O
+initiate_2	requires	O
+initiate_2	the	O
+initiate_2	IL10R2	O
+initiate_2	chain	O
+initiate_2	to	O
+initiate_2	initiate	initiate_vrb
+initiate_2	signalling	O

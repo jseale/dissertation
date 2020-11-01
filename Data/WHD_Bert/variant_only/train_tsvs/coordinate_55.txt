@@ -1,0 +1,17 @@
+coordinate_55	Chinese	O
+coordinate_55	regulations	O
+coordinate_55	mandate	O
+coordinate_55	that	O
+coordinate_55	approved	O
+coordinate_55	map	O
+coordinate_55	service	O
+coordinate_55	providers	O
+coordinate_55	in	O
+coordinate_55	China	O
+coordinate_55	use	O
+coordinate_55	a	O
+coordinate_55	specific	O
+coordinate_55	coordinate	coordinate_adj-nou
+coordinate_55	system	O
+coordinate_55	called	O
+coordinate_55	GCJ-02	O

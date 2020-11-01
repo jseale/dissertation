@@ -1,0 +1,16 @@
+close_8	The	O
+close_8	plan	O
+close_8	was	O
+close_8	to	O
+close_8	hide	O
+close_8	500	O
+close_8	infantry	O
+close_8	and	O
+close_8	horsemen	O
+close_8	in	O
+close_8	small	O
+close_8	groups	O
+close_8	close	close_adj-nou
+close_8	to	O
+close_8	the	O
+close_8	city	O

@@ -1,0 +1,9 @@
+mate_14	In	O
+mate_14	1997	O
+mate_14	following	O
+mate_14	the	O
+mate_14	band	O
+mate_14	's	O
+mate_14	demo	O
+mate_14	release	O
+mate_14	Mate	mate

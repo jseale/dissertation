@@ -1,0 +1,14 @@
+overthrow_3	After	O
+overthrow_3	Castro	O
+overthrow_3	's	O
+overthrow_3	overthrow	overthrow_nou
+overthrow_3	of	O
+overthrow_3	the	O
+overthrow_3	Batista	O
+overthrow_3	government	O
+overthrow_3	he	O
+overthrow_3	returned	O
+overthrow_3	to	O
+overthrow_3	Cuba	O
+overthrow_3	in	O
+overthrow_3	1960	O

@@ -1,0 +1,16 @@
+ornament_15	The	O
+ornament_15	Memorial	O
+ornament_15	Tower	O
+ornament_15	and	O
+ornament_15	the	O
+ornament_15	Provosts	O
+ornament_15	Tower	O
+ornament_15	are	O
+ornament_15	decorated	O
+ornament_15	with	O
+ornament_15	carved	O
+ornament_15	limestone	O
+ornament_15	ornament	ornament_nou
+ornament_15	by	O
+ornament_15	Edward	O
+ornament_15	Maene	O

@@ -1,0 +1,14 @@
+perfume_8	The	O
+perfume_8	perfume	perfume_nou
+perfume_8	debuted	O
+perfume_8	in	O
+perfume_8	the	O
+perfume_8	US	O
+perfume_8	in	O
+perfume_8	September	O
+perfume_8	2009	O
+perfume_8	with	O
+perfume_8	international	O
+perfume_8	distribution	O
+perfume_8	to	O
+perfume_8	follow	O

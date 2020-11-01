@@ -1,0 +1,9 @@
+advocate_2	He	O
+advocate_2	was	O
+advocate_2	also	O
+advocate_2	an	O
+advocate_2	advocate	advocate_nou
+advocate_2	of	O
+advocate_2	vegetarianism	O
+advocate_2	and	O
+advocate_2	abstinence	O

@@ -1,0 +1,12 @@
+resume_22	Karl	O
+resume_22	and	O
+resume_22	Tanya	O
+resume_22	decided	O
+resume_22	to	O
+resume_22	resume	resume_vrb
+resume_22	their	O
+resume_22	relationship	O
+resume_22	and	O
+resume_22	a	O
+resume_22	normal	O
+resume_22	life	O

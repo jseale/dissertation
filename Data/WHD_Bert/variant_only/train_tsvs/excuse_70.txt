@@ -1,0 +1,16 @@
+excuse_70	Poverty	O
+excuse_70	was	O
+excuse_70	not	O
+excuse_70	accepted	O
+excuse_70	as	O
+excuse_70	an	O
+excuse_70	excuse	excuse_nou
+excuse_70	and	O
+excuse_70	some	O
+excuse_70	help	O
+excuse_70	was	O
+excuse_70	supplied	O
+excuse_70	under	O
+excuse_70	the	O
+excuse_70	poor	O
+excuse_70	law	O

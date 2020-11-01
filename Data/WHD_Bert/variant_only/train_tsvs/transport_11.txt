@@ -1,0 +1,9 @@
+transport_11	All	O
+transport_11	services	O
+transport_11	are	O
+transport_11	operated	O
+transport_11	by	O
+transport_11	the	O
+transport_11	Public	O
+transport_11	Transport	transport_nou
+transport_11	Authority	O

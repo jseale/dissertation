@@ -1,0 +1,10 @@
+discount_33	Currently	O
+discount_33	the	O
+discount_33	Sears	O
+discount_33	is	O
+discount_33	a	O
+discount_33	location	O
+discount_33	of	O
+discount_33	discount	discount_nou
+discount_33	chain	O
+discount_33	Hart	O

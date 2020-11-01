@@ -1,0 +1,14 @@
+graduate_22	She	O
+graduate_22	is	O
+graduate_22	a	O
+graduate_22	graduate	graduate_adj-nou
+graduate_22	of	O
+graduate_22	New	O
+graduate_22	Trier	O
+graduate_22	High	O
+graduate_22	School	O
+graduate_22	and	O
+graduate_22	the	O
+graduate_22	University	O
+graduate_22	of	O
+graduate_22	Kansas	O

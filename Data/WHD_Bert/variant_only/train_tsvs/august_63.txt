@@ -1,0 +1,12 @@
+august_63	These	O
+august_63	animals	O
+august_63	feed	O
+august_63	on	O
+august_63	the	O
+august_63	seeds	O
+august_63	from	O
+august_63	late	O
+august_63	August	august
+august_63	to	O
+august_63	early	O
+august_63	April	O

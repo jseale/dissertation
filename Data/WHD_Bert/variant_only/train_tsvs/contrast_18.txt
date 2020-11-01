@@ -1,0 +1,10 @@
+contrast_18	The	O
+contrast_18	film	O
+contrast_18	by	O
+contrast_18	contrast	contrast_nou
+contrast_18	was	O
+contrast_18	released	O
+contrast_18	only	O
+contrast_18	in	O
+contrast_18	mono	O
+contrast_18	sound	O

@@ -1,0 +1,11 @@
+fragment_7	Angiostatin	O
+fragment_7	is	O
+fragment_7	a	O
+fragment_7	38	O
+fragment_7	kDa	O
+fragment_7	plasminogen	O
+fragment_7	fragment	fragment_nou
+fragment_7	with	O
+fragment_7	angiogenesis	O
+fragment_7	inhibitor	O
+fragment_7	activity	O

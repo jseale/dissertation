@@ -1,0 +1,7 @@
+contest_19	It	O
+contest_19	did	O
+contest_19	not	O
+contest_19	contest	contest_vrb
+contest_19	any	O
+contest_19	further	O
+contest_19	elections	O

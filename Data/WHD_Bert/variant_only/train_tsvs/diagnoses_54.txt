@@ -1,0 +1,13 @@
+diagnoses_54	Obesity	O
+diagnoses_54	and	O
+diagnoses_54	weight	O
+diagnoses_54	gain	O
+diagnoses_54	as	O
+diagnoses_54	an	O
+diagnoses_54	adult	O
+diagnoses_54	are	O
+diagnoses_54	associated	O
+diagnoses_54	with	O
+diagnoses_54	breast	O
+diagnoses_54	cancer	O
+diagnoses_54	diagnoses	diagnoses_nou

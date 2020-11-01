@@ -1,0 +1,15 @@
+invalid_68	In	O
+invalid_68	November	O
+invalid_68	1865	O
+invalid_68	British	O
+invalid_68	Columbia	O
+invalid_68	issued	O
+invalid_68	its	O
+invalid_68	own	O
+invalid_68	stamps	O
+invalid_68	and	O
+invalid_68	the	O
+invalid_68	unified	O
+invalid_68	stamp	O
+invalid_68	became	O
+invalid_68	invalid	invalid_adj

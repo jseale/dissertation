@@ -1,0 +1,10 @@
+deviate_4	Do	O
+deviate_4	not	O
+deviate_4	commit	O
+deviate_4	treachery	O
+deviate_4	or	O
+deviate_4	deviate	deviate_vrb
+deviate_4	from	O
+deviate_4	the	O
+deviate_4	right	O
+deviate_4	path	O

@@ -1,0 +1,12 @@
+rebel_7	However	O
+rebel_7	the	O
+rebel_7	rebel	rebel_nou
+rebel_7	force	O
+rebel_7	believed	O
+rebel_7	that	O
+rebel_7	the	O
+rebel_7	British	O
+rebel_7	had	O
+rebel_7	shouted	O
+rebel_7	contuirt	O
+rebel_7	bhais	O

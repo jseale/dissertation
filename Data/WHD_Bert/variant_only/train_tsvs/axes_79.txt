@@ -1,0 +1,14 @@
+axes_79	One	O
+axes_79	specifies	O
+axes_79	the	O
+axes_79	rectilinear	O
+axes_79	distances	O
+axes_79	of	O
+axes_79	any	O
+axes_79	point	O
+axes_79	from	O
+axes_79	the	O
+axes_79	axes	axes_nou
+axes_79	as	O
+axes_79	the	O
+axes_79	coordinates	O

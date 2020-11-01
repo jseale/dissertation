@@ -1,0 +1,17 @@
+approximate_44	However	O
+approximate_44	there	O
+approximate_44	are	O
+approximate_44	approximate	approximate_adj-nou
+approximate_44	protocols	O
+approximate_44	for	O
+approximate_44	estimating	O
+approximate_44	the	O
+approximate_44	parameter	O
+approximate_44	using	O
+approximate_44	the	O
+approximate_44	chi	O
+approximate_44	squared	O
+approximate_44	goodness	O
+approximate_44	of	O
+approximate_44	fit	O
+approximate_44	statistic	O

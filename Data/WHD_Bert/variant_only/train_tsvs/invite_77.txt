@@ -1,0 +1,11 @@
+invite_77	They	O
+invite_77	invite	invite_vrb
+invite_77	Rosie	O
+invite_77	to	O
+invite_77	be	O
+invite_77	the	O
+invite_77	best	O
+invite_77	man	O
+invite_77	at	O
+invite_77	their	O
+invite_77	wedding	O

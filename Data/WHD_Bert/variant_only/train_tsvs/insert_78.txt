@@ -1,0 +1,17 @@
+insert_78	TATP	O
+insert_78	executes	O
+insert_78	seven	O
+insert_78	pre	O
+insert_78	defined	O
+insert_78	transactions	O
+insert_78	that	O
+insert_78	insert	insert_vrb
+insert_78	update	O
+insert_78	delete	O
+insert_78	and	O
+insert_78	query	O
+insert_78	the	O
+insert_78	data	O
+insert_78	in	O
+insert_78	the	O
+insert_78	database	O

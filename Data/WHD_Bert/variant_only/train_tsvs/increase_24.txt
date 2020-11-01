@@ -1,0 +1,17 @@
+increase_24	After	O
+increase_24	viewing	O
+increase_24	the	O
+increase_24	museum	O
+increase_24	the	O
+increase_24	children	O
+increase_24	's	O
+increase_24	hatred	O
+increase_24	of	O
+increase_24	the	O
+increase_24	Japanese	O
+increase_24	people	O
+increase_24	was	O
+increase_24	reported	O
+increase_24	to	O
+increase_24	increase	increase_vrb
+increase_24	significantly	O

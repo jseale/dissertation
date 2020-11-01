@@ -1,0 +1,14 @@
+animate_6	Different	O
+animate_6	numbers	O
+animate_6	are	O
+animate_6	used	O
+animate_6	for	O
+animate_6	inanimate	O
+animate_6	objects	O
+animate_6	counting	O
+animate_6	and	O
+animate_6	animate	animate_adj-nou
+animate_6	objects	O
+animate_6	see	O
+animate_6	measure	O
+animate_6	word	O

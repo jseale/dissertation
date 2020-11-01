@@ -1,0 +1,13 @@
+attribute_5	People	O
+attribute_5	will	O
+attribute_5	attribute	attribute_vrb
+attribute_5	responsibility	O
+attribute_5	for	O
+attribute_5	the	O
+attribute_5	event	O
+attribute_5	and	O
+attribute_5	react	O
+attribute_5	emotionally	O
+attribute_5	to	O
+attribute_5	that	O
+attribute_5	event	O

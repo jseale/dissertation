@@ -1,0 +1,14 @@
+invite_68	He	O
+invite_68	also	O
+invite_68	said	O
+invite_68	Iceland	O
+invite_68	should	O
+invite_68	rather	O
+invite_68	invite	invite_vrb
+invite_68	Russia	O
+invite_68	to	O
+invite_68	use	O
+invite_68	the	O
+invite_68	Keflavik	O
+invite_68	Air	O
+invite_68	Base	O

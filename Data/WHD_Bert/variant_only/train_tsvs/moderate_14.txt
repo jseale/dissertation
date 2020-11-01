@@ -1,0 +1,11 @@
+moderate_14	Common	O
+moderate_14	beans	O
+moderate_14	in	O
+moderate_14	moderate	moderate_adj-nou
+moderate_14	temperature	O
+moderate_14	regions	O
+moderate_14	are	O
+moderate_14	victims	O
+moderate_14	of	O
+moderate_14	halo	O
+moderate_14	blights	O

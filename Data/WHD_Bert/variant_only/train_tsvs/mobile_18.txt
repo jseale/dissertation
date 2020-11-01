@@ -1,0 +1,12 @@
+mobile_18	Mobile	mobile
+mobile_18	devices	O
+mobile_18	have	O
+mobile_18	witnessed	O
+mobile_18	a	O
+mobile_18	phenomenal	O
+mobile_18	growth	O
+mobile_18	in	O
+mobile_18	the	O
+mobile_18	past	O
+mobile_18	few	O
+mobile_18	years	O

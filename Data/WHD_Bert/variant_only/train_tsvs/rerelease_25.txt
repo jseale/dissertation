@@ -1,0 +1,16 @@
+rerelease_25	It	O
+rerelease_25	is	O
+rerelease_25	a	O
+rerelease_25	2002	O
+rerelease_25	rerelease	rerelease
+rerelease_25	of	O
+rerelease_25	his	O
+rerelease_25	independent	O
+rerelease_25	CDs	O
+rerelease_25	from	O
+rerelease_25	1983	O
+rerelease_25	85	O
+rerelease_25	with	O
+rerelease_25	a	O
+rerelease_25	bonus	O
+rerelease_25	DVD	O

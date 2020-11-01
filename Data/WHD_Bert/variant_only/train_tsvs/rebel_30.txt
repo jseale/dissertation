@@ -1,0 +1,17 @@
+rebel_30	Dunn	O
+rebel_30	trained	O
+rebel_30	and	O
+rebel_30	rode	O
+rebel_30	his	O
+rebel_30	first	O
+rebel_30	World	O
+rebel_30	Grand	O
+rebel_30	Championship	O
+rebel_30	on	O
+rebel_30	the	O
+rebel_30	bay	O
+rebel_30	stallion	O
+rebel_30	Dark	O
+rebel_30	Spirit	O
+rebel_30	's	O
+rebel_30	Rebel	rebel_nou

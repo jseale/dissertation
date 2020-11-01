@@ -1,0 +1,12 @@
+buffet_31	Buffet	buffet_nou
+buffet_31	style	O
+buffet_31	restaurants	O
+buffet_31	where	O
+buffet_31	the	O
+buffet_31	server	O
+buffet_31	brings	O
+buffet_31	only	O
+buffet_31	beverages	O
+buffet_31	10	O
+buffet_31	is	O
+buffet_31	customary	O

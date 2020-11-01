@@ -1,0 +1,17 @@
+defect_23	Internal	O
+defect_23	hard	O
+defect_23	drive	O
+defect_23	defect	defect_nou
+defect_23	management	O
+defect_23	is	O
+defect_23	a	O
+defect_23	system	O
+defect_23	present	O
+defect_23	in	O
+defect_23	hard	O
+defect_23	drives	O
+defect_23	for	O
+defect_23	handling	O
+defect_23	of	O
+defect_23	bad	O
+defect_23	sectors	O

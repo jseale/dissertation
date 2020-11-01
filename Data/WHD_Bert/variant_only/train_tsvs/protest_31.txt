@@ -1,0 +1,16 @@
+protest_31	He	O
+protest_31	stated	O
+protest_31	that	O
+protest_31	this	O
+protest_31	was	O
+protest_31	in	O
+protest_31	protest	protest_nou
+protest_31	to	O
+protest_31	politics	O
+protest_31	playing	O
+protest_31	a	O
+protest_31	role	O
+protest_31	in	O
+protest_31	the	O
+protest_31	Games	O
+protest_31	itself	O

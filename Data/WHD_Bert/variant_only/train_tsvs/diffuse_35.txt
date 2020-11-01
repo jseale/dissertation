@@ -1,0 +1,16 @@
+diffuse_35	The	O
+diffuse_35	less	O
+diffuse_35	bound	O
+diffuse_35	a	O
+diffuse_35	drug	O
+diffuse_35	is	O
+diffuse_35	the	O
+diffuse_35	more	O
+diffuse_35	efficiently	O
+diffuse_35	it	O
+diffuse_35	can	O
+diffuse_35	traverse	O
+diffuse_35	cell	O
+diffuse_35	membranes	O
+diffuse_35	or	O
+diffuse_35	diffuse	diffuse_vrb

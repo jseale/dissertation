@@ -1,0 +1,16 @@
+isolate_55	Typical	O
+isolate_55	work	O
+isolate_55	is	O
+isolate_55	done	O
+isolate_55	with	O
+isolate_55	genes	O
+isolate_55	in	O
+isolate_55	order	O
+isolate_55	to	O
+isolate_55	isolate	isolate
+isolate_55	and	O
+isolate_55	then	O
+isolate_55	develop	O
+isolate_55	certain	O
+isolate_55	plant	O
+isolate_55	traits	O

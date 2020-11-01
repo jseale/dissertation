@@ -1,0 +1,14 @@
+predicate_54	This	O
+predicate_54	became	O
+predicate_54	popular	O
+predicate_54	mainly	O
+predicate_54	using	O
+predicate_54	the	O
+predicate_54	Horn	O
+predicate_54	Clause	O
+predicate_54	subset	O
+predicate_54	of	O
+predicate_54	first	O
+predicate_54	order	O
+predicate_54	predicate	predicate_nou
+predicate_54	calculus	O

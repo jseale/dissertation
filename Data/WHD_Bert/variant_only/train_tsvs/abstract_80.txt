@@ -1,0 +1,8 @@
+abstract_80	My	O
+abstract_80	problem	O
+abstract_80	was	O
+abstract_80	to	O
+abstract_80	abstract	abstract_vrb
+abstract_80	away	O
+abstract_80	the	O
+abstract_80	detail	O

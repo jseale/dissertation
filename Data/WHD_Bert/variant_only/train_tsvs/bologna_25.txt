@@ -1,0 +1,16 @@
+bologna_25	The	O
+bologna_25	most	O
+bologna_25	important	O
+bologna_25	commentators	O
+bologna_25	were	O
+bologna_25	probably	O
+bologna_25	Rufin	O
+bologna_25	of	O
+bologna_25	Bologna	bologna_geo
+bologna_25	died	O
+bologna_25	before	O
+bologna_25	1192	O
+bologna_25	and	O
+bologna_25	Huguccio	O
+bologna_25	died	O
+bologna_25	1210	O

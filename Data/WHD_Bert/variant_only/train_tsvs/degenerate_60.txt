@@ -1,0 +1,15 @@
+degenerate_60	Elsewhere	O
+degenerate_60	it	O
+degenerate_60	is	O
+degenerate_60	reported	O
+degenerate_60	of	O
+degenerate_60	that	O
+degenerate_60	son	O
+degenerate_60	that	O
+degenerate_60	he	O
+degenerate_60	became	O
+degenerate_60	a	O
+degenerate_60	degenerate	degenerate_adj-nou
+degenerate_60	associating	O
+degenerate_60	with	O
+degenerate_60	bandits	O

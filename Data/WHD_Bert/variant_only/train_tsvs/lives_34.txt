@@ -1,0 +1,9 @@
+lives_34	In	O
+lives_34	fear	O
+lives_34	for	O
+lives_34	their	O
+lives_34	lives	lives_nou
+lives_34	the	O
+lives_34	villagers	O
+lives_34	killed	O
+lives_34	Uvelel'yn	O

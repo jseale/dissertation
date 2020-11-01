@@ -1,0 +1,13 @@
+resume_70	He	O
+resume_70	returned	O
+resume_70	to	O
+resume_70	Queensland	O
+resume_70	in	O
+resume_70	1954	O
+resume_70	to	O
+resume_70	resume	resume_vrb
+resume_70	his	O
+resume_70	career	O
+resume_70	at	O
+resume_70	the	O
+resume_70	Bar	O

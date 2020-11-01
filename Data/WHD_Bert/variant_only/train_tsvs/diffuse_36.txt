@@ -1,0 +1,15 @@
+diffuse_36	Physical	O
+diffuse_36	control	O
+diffuse_36	of	O
+diffuse_36	diffuse	diffuse_adj
+diffuse_36	knapweed	O
+diffuse_36	primarily	O
+diffuse_36	comprises	O
+diffuse_36	cutting	O
+diffuse_36	digging	O
+diffuse_36	or	O
+diffuse_36	burning	O
+diffuse_36	to	O
+diffuse_36	remove	O
+diffuse_36	the	O
+diffuse_36	plants	O

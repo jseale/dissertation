@@ -1,0 +1,8 @@
+alternate_50	Players	O
+alternate_50	determine	O
+alternate_50	who	O
+alternate_50	moves	O
+alternate_50	first	O
+alternate_50	then	O
+alternate_50	turns	O
+alternate_50	alternate	alternate_adj-nou

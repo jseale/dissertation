@@ -1,0 +1,11 @@
+retard_43	Static	O
+retard_43	magnetic	O
+retard_43	fields	O
+retard_43	for	O
+retard_43	reasons	O
+retard_43	still	O
+retard_43	unknown	O
+retard_43	also	O
+retard_43	retard	retard_vrb
+retard_43	animal	O
+retard_43	development	O

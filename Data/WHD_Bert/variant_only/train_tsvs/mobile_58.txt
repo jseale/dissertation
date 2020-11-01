@@ -1,0 +1,10 @@
+mobile_58	In	O
+mobile_58	1972	O
+mobile_58	Bedsole	O
+mobile_58	was	O
+mobile_58	elected	O
+mobile_58	the	O
+mobile_58	First	O
+mobile_58	Lady	O
+mobile_58	of	O
+mobile_58	Mobile	mobile_geo

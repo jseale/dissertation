@@ -1,0 +1,13 @@
+laminate_57	Laminate	laminate_nou
+laminate_57	flooring	O
+laminate_57	is	O
+laminate_57	often	O
+laminate_57	made	O
+laminate_57	of	O
+laminate_57	melamine	O
+laminate_57	resin	O
+laminate_57	a	O
+laminate_57	compound	O
+laminate_57	made	O
+laminate_57	with	O
+laminate_57	formaldehyde	O

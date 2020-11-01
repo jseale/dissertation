@@ -1,0 +1,8 @@
+ornament_2	Bonner	O
+ornament_2	is	O
+ornament_2	an	O
+ornament_2	architect	O
+ornament_2	specialising	O
+ornament_2	in	O
+ornament_2	Islamic	O
+ornament_2	ornament	ornament_nou

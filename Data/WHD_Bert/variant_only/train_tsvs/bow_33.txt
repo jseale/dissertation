@@ -1,0 +1,17 @@
+bow_33	He	O
+bow_33	is	O
+bow_33	skillful	O
+bow_33	with	O
+bow_33	weaponries	O
+bow_33	such	O
+bow_33	as	O
+bow_33	the	O
+bow_33	sword	O
+bow_33	keris	O
+bow_33	long	O
+bow_33	keris	O
+bow_33	bow	bow_nou-knot
+bow_33	cross	O
+bow_33	bow	bow_nou-knot
+bow_33	and	O
+bow_33	spear	O

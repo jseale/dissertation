@@ -1,0 +1,10 @@
+retard_12	To	O
+retard_12	indicate	O
+retard_12	the	O
+retard_12	factors	O
+retard_12	that	O
+retard_12	tend	O
+retard_12	to	O
+retard_12	retard	retard_vrb
+retard_12	economic	O
+retard_12	development	O

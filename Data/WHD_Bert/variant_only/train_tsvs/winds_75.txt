@@ -1,0 +1,16 @@
+winds_75	In	O
+winds_75	the	O
+winds_75	southernmost	O
+winds_75	counties	O
+winds_75	in	O
+winds_75	the	O
+winds_75	state	O
+winds_75	the	O
+winds_75	winds	winds_nou
+winds_75	left	O
+winds_75	about	O
+winds_75	15,000	O
+winds_75	electrical	O
+winds_75	customers	O
+winds_75	without	O
+winds_75	power	O

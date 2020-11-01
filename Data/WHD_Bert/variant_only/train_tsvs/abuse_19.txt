@@ -1,0 +1,12 @@
+abuse_19	Members	O
+abuse_19	of	O
+abuse_19	all	O
+abuse_19	three	O
+abuse_19	groups	O
+abuse_19	have	O
+abuse_19	been	O
+abuse_19	involved	O
+abuse_19	in	O
+abuse_19	child	O
+abuse_19	sexual	O
+abuse_19	abuse	abuse_nou

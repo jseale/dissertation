@@ -1,0 +1,13 @@
+graduate_73	She	O
+graduate_73	's	O
+graduate_73	taught	O
+graduate_73	graduate	graduate_adj-nou
+graduate_73	level	O
+graduate_73	courses	O
+graduate_73	in	O
+graduate_73	Mediation	O
+graduate_73	Conflict	O
+graduate_73	Resolution	O
+graduate_73	and	O
+graduate_73	Family	O
+graduate_73	Law	O

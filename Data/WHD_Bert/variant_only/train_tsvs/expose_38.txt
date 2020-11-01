@@ -1,0 +1,17 @@
+expose_38	To	O
+expose_38	expose	expose_vrb
+expose_38	the	O
+expose_38	brand	O
+expose_38	he	O
+expose_38	gave	O
+expose_38	T	O
+expose_38	shirts	O
+expose_38	to	O
+expose_38	the	O
+expose_38	musician	O
+expose_38	Cornelius	O
+expose_38	who	O
+expose_38	wore	O
+expose_38	them	O
+expose_38	when	O
+expose_38	performing	O

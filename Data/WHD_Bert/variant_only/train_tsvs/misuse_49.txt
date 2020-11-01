@@ -1,0 +1,17 @@
+misuse_49	Nawaz	O
+misuse_49	and	O
+misuse_49	Shahbaz	O
+misuse_49	Sharif	O
+misuse_49	were	O
+misuse_49	accused	O
+misuse_49	of	O
+misuse_49	misuse	misuse_nou
+misuse_49	of	O
+misuse_49	authority	O
+misuse_49	and	O
+misuse_49	of	O
+misuse_49	wealth	O
+misuse_49	accumulation	O
+misuse_49	beyond	O
+misuse_49	their	O
+misuse_49	means	O

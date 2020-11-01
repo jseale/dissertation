@@ -1,0 +1,17 @@
+invite_51	The	O
+invite_51	would	O
+invite_51	be	O
+invite_51	guests	O
+invite_51	then	O
+invite_51	invite	invite_vrb
+invite_51	Mme	O
+invite_51	Sénéchal	O
+invite_51	to	O
+invite_51	join	O
+invite_51	them	O
+invite_51	for	O
+invite_51	dinner	O
+invite_51	at	O
+invite_51	a	O
+invite_51	nearby	O
+invite_51	inn	O

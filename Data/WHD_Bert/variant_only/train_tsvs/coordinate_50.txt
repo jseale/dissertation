@@ -1,0 +1,14 @@
+coordinate_50	The	O
+coordinate_50	RB-1	O
+coordinate_50	was	O
+coordinate_50	the	O
+coordinate_50	forerunner	O
+coordinate_50	of	O
+coordinate_50	modern	O
+coordinate_50	machine	O
+coordinate_50	vision	O
+coordinate_50	based	O
+coordinate_50	Coordinate	coordinate_adj-nou
+coordinate_50	measuring	O
+coordinate_50	machines	O
+coordinate_50	CMMs	O

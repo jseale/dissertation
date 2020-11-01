@@ -1,0 +1,10 @@
+invite_64	It	O
+invite_64	also	O
+invite_64	continued	O
+invite_64	to	O
+invite_64	invite	invite_vrb
+invite_64	guest	O
+invite_64	cooks	O
+invite_64	into	O
+invite_64	the	O
+invite_64	kitchen	O

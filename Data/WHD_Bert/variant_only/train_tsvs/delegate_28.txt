@@ -1,0 +1,8 @@
+delegate_28	Perry	O
+delegate_28	received	O
+delegate_28	no	O
+delegate_28	delegate	delegate_nou
+delegate_28	votes	O
+delegate_28	at	O
+delegate_28	the	O
+delegate_28	convention	O

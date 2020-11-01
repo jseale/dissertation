@@ -1,0 +1,17 @@
+appropriate_3	Allegations	O
+appropriate_3	of	O
+appropriate_3	corruption	O
+appropriate_3	or	O
+appropriate_3	the	O
+appropriate_3	commission	O
+appropriate_3	of	O
+appropriate_3	criminal	O
+appropriate_3	offences	O
+appropriate_3	are	O
+appropriate_3	handled	O
+appropriate_3	by	O
+appropriate_3	the	O
+appropriate_3	appropriate	appropriate_adj
+appropriate_3	law	O
+appropriate_3	enforcement	O
+appropriate_3	bodies	O

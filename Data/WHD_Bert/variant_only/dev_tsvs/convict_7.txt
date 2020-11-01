@@ -1,0 +1,14 @@
+convict_7	However	O
+convict_7	the	O
+convict_7	eldest	O
+convict_7	Gipsy	O
+convict_7	a	O
+convict_7	convict	convict_nou
+convict_7	judged	O
+convict_7	safer	O
+convict_7	to	O
+convict_7	bring	O
+convict_7	Strachey	O
+convict_7	to	O
+convict_7	the	O
+convict_7	mayor	O

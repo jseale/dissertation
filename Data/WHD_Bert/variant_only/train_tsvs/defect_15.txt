@@ -1,0 +1,8 @@
+defect_15	Patent	O
+defect_15	ductus	O
+defect_15	arteriosus	O
+defect_15	is	O
+defect_15	the	O
+defect_15	most	O
+defect_15	common	O
+defect_15	defect	defect_nou

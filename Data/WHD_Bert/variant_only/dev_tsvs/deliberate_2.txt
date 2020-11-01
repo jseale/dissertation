@@ -1,0 +1,10 @@
+deliberate_2	He	O
+deliberate_2	is	O
+deliberate_2	also	O
+deliberate_2	known	O
+deliberate_2	for	O
+deliberate_2	his	O
+deliberate_2	slow	O
+deliberate_2	deliberate	deliberate_adj
+deliberate_2	throwing	O
+deliberate_2	style	O

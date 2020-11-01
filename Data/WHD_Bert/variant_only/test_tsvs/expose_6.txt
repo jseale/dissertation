@@ -1,0 +1,14 @@
+expose_6	Figaro	O
+expose_6	Susanna	O
+expose_6	and	O
+expose_6	the	O
+expose_6	Countess	O
+expose_6	conspire	O
+expose_6	to	O
+expose_6	embarrass	O
+expose_6	the	O
+expose_6	Count	O
+expose_6	and	O
+expose_6	expose	expose_vrb
+expose_6	his	O
+expose_6	scheming	O

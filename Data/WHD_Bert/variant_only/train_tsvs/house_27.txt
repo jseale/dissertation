@@ -1,0 +1,11 @@
+house_27	The	O
+house_27	White	O
+house_27	House	house_nou
+house_27	the	O
+house_27	Capitol	O
+house_27	and	O
+house_27	various	O
+house_27	other	O
+house_27	buildings	O
+house_27	were	O
+house_27	evacuated	O

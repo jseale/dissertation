@@ -1,0 +1,14 @@
+deliberate_48	There	O
+deliberate_48	is	O
+deliberate_48	no	O
+deliberate_48	penalty	O
+deliberate_48	for	O
+deliberate_48	hitting	O
+deliberate_48	a	O
+deliberate_48	hurdle	O
+deliberate_48	provided	O
+deliberate_48	this	O
+deliberate_48	is	O
+deliberate_48	not	O
+deliberate_48	judged	O
+deliberate_48	deliberate	deliberate_adj

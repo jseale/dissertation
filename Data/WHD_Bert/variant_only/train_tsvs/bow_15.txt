@@ -1,0 +1,11 @@
+bow_15	Bow	bow_nou-knot
+bow_15	kites	O
+bow_15	are	O
+bow_15	popular	O
+bow_15	with	O
+bow_15	riders	O
+bow_15	from	O
+bow_15	beginner	O
+bow_15	to	O
+bow_15	advanced	O
+bow_15	levels	O

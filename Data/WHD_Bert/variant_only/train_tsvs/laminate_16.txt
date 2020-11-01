@@ -1,0 +1,17 @@
+laminate_16	The	O
+laminate_16	laminate	laminate_nou
+laminate_16	blade	O
+laminate_16	is	O
+laminate_16	deeply	O
+laminate_16	divided	O
+laminate_16	into	O
+laminate_16	linear	O
+laminate_16	segments	O
+laminate_16	and	O
+laminate_16	is	O
+laminate_16	yellowish	O
+laminate_16	brown	O
+laminate_16	with	O
+laminate_16	large	O
+laminate_16	digitate	O
+laminate_16	segments	O

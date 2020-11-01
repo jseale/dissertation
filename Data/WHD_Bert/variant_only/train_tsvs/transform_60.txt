@@ -1,0 +1,10 @@
+transform_60	Clown	O
+transform_60	quickly	O
+transform_60	shies	O
+transform_60	away	O
+transform_60	as	O
+transform_60	the	O
+transform_60	Freak	O
+transform_60	begins	O
+transform_60	to	O
+transform_60	transform	transform

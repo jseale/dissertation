@@ -1,0 +1,14 @@
+analyses_23	Chemical	O
+analyses_23	and	O
+analyses_23	lead	O
+analyses_23	isotopic	O
+analyses_23	analyses	analyses_nou
+analyses_23	revealed	O
+analyses_23	metals	O
+analyses_23	from	O
+analyses_23	multiple	O
+analyses_23	sources	O
+analyses_23	from	O
+analyses_23	Africa	O
+analyses_23	to	O
+analyses_23	Iran	O

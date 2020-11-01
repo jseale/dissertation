@@ -1,0 +1,17 @@
+console_15	Under	O
+console_15	Microsoft	O
+console_15	Windows	O
+console_15	XP	O
+console_15	SpeedStep	O
+console_15	support	O
+console_15	is	O
+console_15	built	O
+console_15	into	O
+console_15	the	O
+console_15	power	O
+console_15	management	O
+console_15	console	console_nou
+console_15	under	O
+console_15	the	O
+console_15	control	O
+console_15	panel	O

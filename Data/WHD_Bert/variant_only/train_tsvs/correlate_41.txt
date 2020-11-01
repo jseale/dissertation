@@ -1,0 +1,16 @@
+correlate_41	He	O
+correlate_41	suggests	O
+correlate_41	that	O
+correlate_41	mediums	O
+correlate_41	of	O
+correlate_41	communication	O
+correlate_41	directly	O
+correlate_41	correlate	correlate_nou-vrb
+correlate_41	to	O
+correlate_41	the	O
+correlate_41	spread	O
+correlate_41	of	O
+correlate_41	knowledge	O
+correlate_41	in	O
+correlate_41	a	O
+correlate_41	society	O

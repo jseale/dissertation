@@ -1,0 +1,8 @@
+lead_81	Lead	lead_nou
+lead_81	is	O
+lead_81	a	O
+lead_81	relatively	O
+lead_81	unreactive	O
+lead_81	post	O
+lead_81	transition	O
+lead_81	metal	O

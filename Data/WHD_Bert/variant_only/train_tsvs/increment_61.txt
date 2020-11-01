@@ -1,0 +1,9 @@
+increment_61	The	O
+increment_61	wrinkles	O
+increment_61	of	O
+increment_61	increment	increment_nou
+increment_61	are	O
+increment_61	more	O
+increment_61	or	O
+increment_61	less	O
+increment_61	prominent	O

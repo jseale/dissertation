@@ -1,0 +1,12 @@
+laminate_49	These	O
+laminate_49	use	O
+laminate_49	polyethylene	O
+laminate_49	coated	O
+laminate_49	liquid	O
+laminate_49	packaging	O
+laminate_49	board	O
+laminate_49	and	O
+laminate_49	sometimes	O
+laminate_49	a	O
+laminate_49	foil	O
+laminate_49	laminate	laminate_nou

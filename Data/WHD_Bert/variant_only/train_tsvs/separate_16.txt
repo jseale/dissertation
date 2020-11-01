@@ -1,0 +1,11 @@
+separate_16	Leftist	O
+separate_16	uprisings	O
+separate_16	and/or	O
+separate_16	a	O
+separate_16	separate	separate_adj
+separate_16	peace	O
+separate_16	by	O
+separate_16	these	O
+separate_16	States	O
+separate_16	were	O
+separate_16	feared	O

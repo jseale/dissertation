@@ -1,0 +1,17 @@
+winds_64	Major	O
+winds_64	employers	O
+winds_64	include	O
+winds_64	Chinook	O
+winds_64	Winds	winds_nou
+winds_64	Casino	O
+winds_64	city	O
+winds_64	government	O
+winds_64	Lincoln	O
+winds_64	County	O
+winds_64	School	O
+winds_64	District	O
+winds_64	and	O
+winds_64	Samaritan	O
+winds_64	North	O
+winds_64	Lincoln	O
+winds_64	Hospital	O

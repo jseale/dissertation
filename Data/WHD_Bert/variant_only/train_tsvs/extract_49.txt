@@ -1,0 +1,13 @@
+extract_49	This	O
+extract_49	diary	O
+extract_49	extract	extract_nou
+extract_49	was	O
+extract_49	adduced	O
+extract_49	and	O
+extract_49	shown	O
+extract_49	to	O
+extract_49	state	O
+extract_49	nothing	O
+extract_49	of	O
+extract_49	the	O
+extract_49	kind	O

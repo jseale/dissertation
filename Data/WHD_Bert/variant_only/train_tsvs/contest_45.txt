@@ -1,0 +1,16 @@
+contest_45	After	O
+contest_45	being	O
+contest_45	dismissed	O
+contest_45	by	O
+contest_45	Harding	O
+contest_45	Hunt	O
+contest_45	returned	O
+contest_45	to	O
+contest_45	Arizona	O
+contest_45	and	O
+contest_45	decided	O
+contest_45	to	O
+contest_45	contest	contest_vrb
+contest_45	his	O
+contest_45	old	O
+contest_45	seat	O

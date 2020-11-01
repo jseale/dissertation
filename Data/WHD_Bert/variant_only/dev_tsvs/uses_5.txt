@@ -1,0 +1,15 @@
+uses_5	Afterwards	O
+uses_5	Sable	O
+uses_5	uses	uses_vrb
+uses_5	Venom	O
+uses_5	as	O
+uses_5	bait	O
+uses_5	for	O
+uses_5	Spider	O
+uses_5	Man	O
+uses_5	but	O
+uses_5	Spider	O
+uses_5	Man	O
+uses_5	escapes	O
+uses_5	her	O
+uses_5	again	O

@@ -1,0 +1,7 @@
+rodeo_58	Album	O
+rodeo_58	credits	O
+rodeo_58	adapted	O
+rodeo_58	from	O
+rodeo_58	Rodeo	rodeo
+rodeo_58	digital	O
+rodeo_58	booklet	O

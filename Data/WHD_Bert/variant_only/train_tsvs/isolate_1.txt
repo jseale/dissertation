@@ -1,0 +1,17 @@
+isolate_1	On	O
+isolate_1	the	O
+isolate_1	one	O
+isolate_1	hand	O
+isolate_1	Western	O
+isolate_1	states	O
+isolate_1	are	O
+isolate_1	asking	O
+isolate_1	it	O
+isolate_1	to	O
+isolate_1	help	O
+isolate_1	isolate	isolate
+isolate_1	the	O
+isolate_1	new	O
+isolate_1	dictatorship	O
+isolate_1	in	O
+isolate_1	Fiji	O

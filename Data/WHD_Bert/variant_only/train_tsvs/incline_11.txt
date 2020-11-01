@@ -1,0 +1,16 @@
+incline_11	The	O
+incline_11	floor	O
+incline_11	is	O
+incline_11	angled	O
+incline_11	in	O
+incline_11	an	O
+incline_11	incline	incline_nou
+incline_11	so	O
+incline_11	that	O
+incline_11	melting	O
+incline_11	ice	O
+incline_11	water	O
+incline_11	flows	O
+incline_11	toward	O
+incline_11	the	O
+incline_11	floor	O

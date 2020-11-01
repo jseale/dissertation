@@ -1,0 +1,14 @@
+august_14	During	O
+august_14	the	O
+august_14	first	O
+august_14	part	O
+august_14	of	O
+august_14	August	august
+august_14	she	O
+august_14	made	O
+august_14	stops	O
+august_14	in	O
+august_14	Toronto	O
+august_14	Quebec	O
+august_14	and	O
+august_14	Halifax	O

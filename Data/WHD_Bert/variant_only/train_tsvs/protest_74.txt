@@ -1,0 +1,15 @@
+protest_74	Ruetz	O
+protest_74	first	O
+protest_74	became	O
+protest_74	known	O
+protest_74	through	O
+protest_74	his	O
+protest_74	photographs	O
+protest_74	of	O
+protest_74	the	O
+protest_74	student	O
+protest_74	protest	protest_nou
+protest_74	movement	O
+protest_74	in	O
+protest_74	West	O
+protest_74	Germany	O

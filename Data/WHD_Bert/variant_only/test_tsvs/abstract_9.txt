@@ -1,0 +1,10 @@
+abstract_9	Group	O
+abstract_9	theory	O
+abstract_9	is	O
+abstract_9	an	O
+abstract_9	abstract	abstract_adj-nou
+abstract_9	way	O
+abstract_9	of	O
+abstract_9	mathematically	O
+abstract_9	analyzing	O
+abstract_9	symmetries	O

@@ -1,0 +1,14 @@
+uses_74	The	O
+uses_74	episode	O
+uses_74	uses	uses_vrb
+uses_74	elements	O
+uses_74	from	O
+uses_74	The	O
+uses_74	Legend	O
+uses_74	of	O
+uses_74	Zelda	O
+uses_74	and	O
+uses_74	The	O
+uses_74	Adventure	O
+uses_74	of	O
+uses_74	Link	O

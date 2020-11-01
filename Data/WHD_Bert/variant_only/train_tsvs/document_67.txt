@@ -1,0 +1,13 @@
+document_67	It	O
+document_67	is	O
+document_67	considered	O
+document_67	the	O
+document_67	most	O
+document_67	important	O
+document_67	historical	O
+document_67	document	document_nou
+document_67	of	O
+document_67	the	O
+document_67	classical	O
+document_67	Gupta	O
+document_67	age	O

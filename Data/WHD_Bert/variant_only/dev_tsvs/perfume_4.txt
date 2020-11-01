@@ -1,0 +1,14 @@
+perfume_4	Grasse	O
+perfume_4	has	O
+perfume_4	had	O
+perfume_4	a	O
+perfume_4	prospering	O
+perfume_4	perfume	perfume_nou
+perfume_4	industry	O
+perfume_4	since	O
+perfume_4	the	O
+perfume_4	end	O
+perfume_4	of	O
+perfume_4	the	O
+perfume_4	18th	O
+perfume_4	century	O

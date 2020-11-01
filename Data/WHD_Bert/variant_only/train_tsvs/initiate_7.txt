@@ -1,0 +1,16 @@
+initiate_7	Instead	O
+initiate_7	the	O
+initiate_7	council	O
+initiate_7	voted	O
+initiate_7	to	O
+initiate_7	initiate	initiate_vrb
+initiate_7	a	O
+initiate_7	joint	O
+initiate_7	organizing	O
+initiate_7	drive	O
+initiate_7	similar	O
+initiate_7	to	O
+initiate_7	the	O
+initiate_7	failed	O
+initiate_7	1919	O
+initiate_7	campaign	O

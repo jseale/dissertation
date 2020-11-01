@@ -1,0 +1,13 @@
+duplicate_72	Backup	O
+duplicate_72	application	O
+duplicate_72	in	O
+duplicate_72	particular	O
+duplicate_72	commonly	O
+duplicate_72	generate	O
+duplicate_72	significant	O
+duplicate_72	portions	O
+duplicate_72	of	O
+duplicate_72	duplicate	duplicate_adj-nou
+duplicate_72	data	O
+duplicate_72	over	O
+duplicate_72	time	O

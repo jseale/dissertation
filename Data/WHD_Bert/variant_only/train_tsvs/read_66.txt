@@ -1,0 +1,11 @@
+read_66	Former	O
+read_66	Federal	O
+read_66	Board	O
+read_66	vice	O
+read_66	chair	O
+read_66	Blinder	O
+read_66	called	O
+read_66	it	O
+read_66	a	O
+read_66	crackling	O
+read_66	read	read_present

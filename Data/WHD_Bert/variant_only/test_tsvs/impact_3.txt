@@ -1,0 +1,8 @@
+impact_3	The	O
+impact_3	environmental	O
+impact_3	impact	impact_nou
+impact_3	of	O
+impact_3	cleaning	O
+impact_3	agents	O
+impact_3	is	O
+impact_3	diverse	O

@@ -1,0 +1,8 @@
+duplicate_78	The	O
+duplicate_78	technique	O
+duplicate_78	he	O
+duplicate_78	created	O
+duplicate_78	is	O
+duplicate_78	called	O
+duplicate_78	Duplicate	duplicate_adj-nou
+duplicate_78	Rain	O

@@ -1,0 +1,16 @@
+insult_36	This	O
+insult_36	started	O
+insult_36	off	O
+insult_36	as	O
+insult_36	an	O
+insult_36	insult	insult_nou
+insult_36	but	O
+insult_36	grew	O
+insult_36	into	O
+insult_36	a	O
+insult_36	kind	O
+insult_36	of	O
+insult_36	cute	O
+insult_36	and	O
+insult_36	affectionate	O
+insult_36	nickname	O

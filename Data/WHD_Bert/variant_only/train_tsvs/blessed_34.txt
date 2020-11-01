@@ -1,0 +1,11 @@
+blessed_34	Blessed	blessed_adj
+blessed_34	is	O
+blessed_34	He	O
+blessed_34	that	O
+blessed_34	cometh	O
+blessed_34	in	O
+blessed_34	the	O
+blessed_34	name	O
+blessed_34	of	O
+blessed_34	the	O
+blessed_34	Lord	O

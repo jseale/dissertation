@@ -1,0 +1,12 @@
+polish_48	The	O
+polish_48	Polish	polish_geo
+polish_48	Treasury	O
+polish_48	currently	O
+polish_48	owns	O
+polish_48	62.1	O
+polish_48	percent	O
+polish_48	while	O
+polish_48	LOT	O
+polish_48	retains	O
+polish_48	37.9	O
+polish_48	percent	O

@@ -1,0 +1,11 @@
+delegate_5	He	O
+delegate_5	served	O
+delegate_5	as	O
+delegate_5	delegate	delegate_nou
+delegate_5	to	O
+delegate_5	the	O
+delegate_5	Arkansas	O
+delegate_5	constitutional	O
+delegate_5	convention	O
+delegate_5	in	O
+delegate_5	1867	O

@@ -1,0 +1,11 @@
+blessed_38	God	O
+blessed_38	blessed	blessed_vrb
+blessed_38	him	O
+blessed_38	as	O
+blessed_38	a	O
+blessed_38	Wonderworker	O
+blessed_38	and	O
+blessed_38	he	O
+blessed_38	reposed	O
+blessed_38	in	O
+blessed_38	peace	O

@@ -1,0 +1,11 @@
+discount_3	Discount	discount_nou
+discount_3	passes	O
+discount_3	are	O
+discount_3	available	O
+discount_3	for	O
+discount_3	grade	O
+discount_3	school	O
+discount_3	and	O
+discount_3	higher	O
+discount_3	education	O
+discount_3	students	O

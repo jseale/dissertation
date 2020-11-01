@@ -1,0 +1,15 @@
+project_64	Syracuse	O
+project_64	University	O
+project_64	Project	project_nou
+project_64	Advance	O
+project_64	offers	O
+project_64	courses	O
+project_64	in	O
+project_64	Psychology	O
+project_64	Public	O
+project_64	Affairs	O
+project_64	Economics	O
+project_64	English	O
+project_64	Sociology	O
+project_64	and	O
+project_64	Speech	O

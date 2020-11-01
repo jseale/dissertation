@@ -1,0 +1,17 @@
+contract_5	His	O
+contract_5	contract	contract_nou
+contract_5	was	O
+contract_5	nonguaranteed	O
+contract_5	until	O
+contract_5	January	O
+contract_5	10	O
+contract_5	2009	O
+contract_5	after	O
+contract_5	which	O
+contract_5	time	O
+contract_5	the	O
+contract_5	contract	contract_nou
+contract_5	would	O
+contract_5	have	O
+contract_5	been	O
+contract_5	guaranteed	O

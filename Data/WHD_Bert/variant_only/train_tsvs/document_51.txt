@@ -1,0 +1,12 @@
+document_51	We	O
+document_51	have	O
+document_51	to	O
+document_51	do	O
+document_51	this	O
+document_51	to	O
+document_51	make	O
+document_51	sure	O
+document_51	your	O
+document_51	document	document_nou
+document_51	gets	O
+document_51	printed	O

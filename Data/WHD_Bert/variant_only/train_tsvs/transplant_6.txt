@@ -1,0 +1,16 @@
+transplant_6	In	O
+transplant_6	renal	O
+transplant_6	transplant	transplant_nou
+transplant_6	recipients	O
+transplant_6	such	O
+transplant_6	cells	O
+transplant_6	may	O
+transplant_6	be	O
+transplant_6	found	O
+transplant_6	in	O
+transplant_6	up	O
+transplant_6	to	O
+transplant_6	40	O
+transplant_6	percent	O
+transplant_6	of	O
+transplant_6	cases	O

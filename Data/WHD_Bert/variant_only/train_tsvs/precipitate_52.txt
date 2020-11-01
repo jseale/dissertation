@@ -1,0 +1,11 @@
+precipitate_52	Filtration	O
+precipitate_52	Collect	O
+precipitate_52	thorium	O
+precipitate_52	phosphate	O
+precipitate_52	precipitate	precipitate_adj-nou
+precipitate_52	during	O
+precipitate_52	filtration	O
+precipitate_52	of	O
+precipitate_52	neutralized	O
+precipitate_52	monazite	O
+precipitate_52	solution	O

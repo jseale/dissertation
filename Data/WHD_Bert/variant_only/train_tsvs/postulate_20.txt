@@ -1,0 +1,11 @@
+postulate_20	The	O
+postulate_20	fourth	O
+postulate_20	postulate	postulate_nou
+postulate_20	is	O
+postulate_20	subsidiary	O
+postulate_20	yet	O
+postulate_20	consistent	O
+postulate_20	with	O
+postulate_20	the	O
+postulate_20	first	O
+postulate_20	three:4	O

@@ -1,0 +1,9 @@
+abuse_18	This	O
+abuse_18	is	O
+abuse_18	how	O
+abuse_18	most	O
+abuse_18	partners	O
+abuse_18	adapt	O
+abuse_18	to	O
+abuse_18	verbal	O
+abuse_18	abuse	abuse_nou

@@ -1,0 +1,14 @@
+uses_1	Compared	O
+uses_1	to	O
+uses_1	other	O
+uses_1	mass	O
+uses_1	circulation	O
+uses_1	papers	O
+uses_1	in	O
+uses_1	Israel	O
+uses_1	Haaretz	O
+uses_1	uses	uses_vrb
+uses_1	smaller	O
+uses_1	headlines	O
+uses_1	and	O
+uses_1	print	O

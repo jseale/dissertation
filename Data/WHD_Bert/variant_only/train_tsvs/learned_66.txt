@@ -1,0 +1,12 @@
+learned_66	Also	O
+learned_66	the	O
+learned_66	assembly	O
+learned_66	witnessing	O
+learned_66	the	O
+learned_66	debate	O
+learned_66	is	O
+learned_66	classified	O
+learned_66	as	O
+learned_66	learned	learned_adj
+learned_66	and	O
+learned_66	ignorant	O

@@ -1,0 +1,16 @@
+live_63	Later	O
+live_63	Queen	O
+live_63	recorded	O
+live_63	a	O
+live_63	third	O
+live_63	live	live_adj
+live_63	version	O
+live_63	of	O
+live_63	the	O
+live_63	song	O
+live_63	at	O
+live_63	Wembley	O
+live_63	Stadium	O
+live_63	London	O
+live_63	in	O
+live_63	1986	O

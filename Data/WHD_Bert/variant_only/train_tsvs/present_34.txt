@@ -1,0 +1,17 @@
+present_34	It	O
+present_34	is	O
+present_34	at	O
+present_34	present	present_adj-nou
+present_34	a	O
+present_34	multi	O
+present_34	racial	O
+present_34	and	O
+present_34	co	O
+present_34	educational	O
+present_34	institution	O
+present_34	open	O
+present_34	to	O
+present_34	students	O
+present_34	of	O
+present_34	all	O
+present_34	communities	O

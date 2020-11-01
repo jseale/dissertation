@@ -1,0 +1,16 @@
+lives_62	This	O
+lives_62	concern	O
+lives_62	for	O
+lives_62	equality	O
+lives_62	and	O
+lives_62	humanity	O
+lives_62	extends	O
+lives_62	also	O
+lives_62	to	O
+lives_62	the	O
+lives_62	stranger	O
+lives_62	who	O
+lives_62	lives	lives_vrb
+lives_62	among	O
+lives_62	the	O
+lives_62	Israelites	O

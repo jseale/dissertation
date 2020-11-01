@@ -1,0 +1,12 @@
+transplant_4	In	O
+transplant_4	case	O
+transplant_4	of	O
+transplant_4	life	O
+transplant_4	threatening	O
+transplant_4	diseases	O
+transplant_4	bone	O
+transplant_4	marrow	O
+transplant_4	transplant	transplant_nou
+transplant_4	may	O
+transplant_4	be	O
+transplant_4	attempted	O

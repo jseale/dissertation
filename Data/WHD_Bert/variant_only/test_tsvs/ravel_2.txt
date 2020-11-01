@@ -1,0 +1,15 @@
+ravel_2	Born	O
+ravel_2	in	O
+ravel_2	Le	O
+ravel_2	Havre	O
+ravel_2	Aubry	O
+ravel_2	was	O
+ravel_2	a	O
+ravel_2	friend	O
+ravel_2	of	O
+ravel_2	several	O
+ravel_2	composers	O
+ravel_2	including	O
+ravel_2	Debussy	O
+ravel_2	and	O
+ravel_2	Ravel	ravel_nam

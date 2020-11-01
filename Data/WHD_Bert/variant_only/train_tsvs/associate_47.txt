@@ -1,0 +1,13 @@
+associate_47	Roselle	O
+associate_47	Huplander	O
+associate_47	an	O
+associate_47	obese	O
+associate_47	associate	associate_adj-nou
+associate_47	of	O
+associate_47	Thelma	O
+associate_47	and	O
+associate_47	Iola	O
+associate_47	who	O
+associate_47	is	O
+associate_47	never	O
+associate_47	seen	O

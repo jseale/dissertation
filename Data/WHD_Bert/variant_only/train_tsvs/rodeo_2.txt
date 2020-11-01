@@ -1,0 +1,12 @@
+rodeo_2	The	O
+rodeo_2	Rodeo	rodeo
+rodeo_2	is	O
+rodeo_2	held	O
+rodeo_2	traditionally	O
+rodeo_2	on	O
+rodeo_2	or	O
+rodeo_2	around	O
+rodeo_2	the	O
+rodeo_2	4th	O
+rodeo_2	of	O
+rodeo_2	July	O

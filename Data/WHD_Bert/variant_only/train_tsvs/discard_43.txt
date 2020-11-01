@@ -1,0 +1,14 @@
+discard_43	Specializes	O
+discard_43	in	O
+discard_43	Combat	O
+discard_43	and	O
+discard_43	drawing	O
+discard_43	new	O
+discard_43	cards	O
+discard_43	and	O
+discard_43	to	O
+discard_43	force	O
+discard_43	opponent	O
+discard_43	to	O
+discard_43	discard	discard_vrb
+discard_43	cards	O

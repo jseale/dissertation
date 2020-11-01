@@ -1,0 +1,10 @@
+refuse_76	Kuratov	O
+refuse_76	offers	O
+refuse_76	the	O
+refuse_76	Guardians	O
+refuse_76	to	O
+refuse_76	join	O
+refuse_76	him	O
+refuse_76	but	O
+refuse_76	they	O
+refuse_76	refuse	refuse_vrb

@@ -1,0 +1,17 @@
+deviate_62	The	O
+deviate_62	more	O
+deviate_62	topics	O
+deviate_62	there	O
+deviate_62	are	O
+deviate_62	in	O
+deviate_62	a	O
+deviate_62	sentence	O
+deviate_62	the	O
+deviate_62	more	O
+deviate_62	likely	O
+deviate_62	to	O
+deviate_62	deviate	deviate_vrb
+deviate_62	from	O
+deviate_62	the	O
+deviate_62	usual	O
+deviate_62	form	O

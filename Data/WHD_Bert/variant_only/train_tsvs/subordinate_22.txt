@@ -1,0 +1,12 @@
+subordinate_22	Typically	O
+subordinate_22	an	O
+subordinate_22	individual	O
+subordinate_22	may	O
+subordinate_22	work	O
+subordinate_22	with	O
+subordinate_22	or	O
+subordinate_22	be	O
+subordinate_22	subordinate	subordinate_adj-nou
+subordinate_22	to	O
+subordinate_22	a	O
+subordinate_22	conservator	O

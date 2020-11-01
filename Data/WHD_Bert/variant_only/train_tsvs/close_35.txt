@@ -1,0 +1,15 @@
+close_35	While	O
+close_35	program	O
+close_35	and	O
+close_35	support	O
+close_35	partners	O
+close_35	have	O
+close_35	close	close_adj-nou
+close_35	relationships	O
+close_35	each	O
+close_35	operates	O
+close_35	as	O
+close_35	an	O
+close_35	independent	O
+close_35	legal	O
+close_35	entity	O

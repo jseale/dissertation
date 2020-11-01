@@ -1,0 +1,17 @@
+abstract_25	Then	O
+abstract_25	this	O
+abstract_25	abstract	abstract_adj-nou
+abstract_25	measure	O
+abstract_25	is	O
+abstract_25	combined	O
+abstract_25	with	O
+abstract_25	the	O
+abstract_25	subjective	O
+abstract_25	probabilities	O
+abstract_25	through	O
+abstract_25	a	O
+abstract_25	linear	O
+abstract_25	combination	O
+abstract_25	of	O
+abstract_25	the	O
+abstract_25	utilities	O

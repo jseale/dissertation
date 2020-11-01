@@ -1,0 +1,17 @@
+abstract_64	Four	O
+abstract_64	abstract	abstract_adj-nou
+abstract_64	works	O
+abstract_64	titled	O
+abstract_64	Caravan	O
+abstract_64	are	O
+abstract_64	displayed	O
+abstract_64	beside	O
+abstract_64	each	O
+abstract_64	of	O
+abstract_64	the	O
+abstract_64	two	O
+abstract_64	escalators	O
+abstract_64	to	O
+abstract_64	the	O
+abstract_64	train	O
+abstract_64	platforms	O

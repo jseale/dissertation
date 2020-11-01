@@ -1,0 +1,13 @@
+decrease_3	The	O
+decrease_3	process	O
+decrease_3	is	O
+decrease_3	induced	O
+decrease_3	by	O
+decrease_3	a	O
+decrease_3	decrease	decrease_nou
+decrease_3	in	O
+decrease_3	oxygen	O
+decrease_3	partial	O
+decrease_3	pressure	O
+decrease_3	in	O
+decrease_3	blood	O

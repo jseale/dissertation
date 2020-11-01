@@ -1,0 +1,16 @@
+house_16	He	O
+house_16	entered	O
+house_16	the	O
+house_16	house	house_nou
+house_16	on	O
+house_16	Day	O
+house_16	1	O
+house_16	and	O
+house_16	finished	O
+house_16	fifth	O
+house_16	in	O
+house_16	the	O
+house_16	finale	O
+house_16	on	O
+house_16	Day	O
+house_16	29	O

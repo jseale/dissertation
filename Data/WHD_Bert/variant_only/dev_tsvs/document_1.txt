@@ -1,0 +1,15 @@
+document_1	The	O
+document_1	Assessment	O
+document_1	Framework	O
+document_1	document	document_nou
+document_1	gives	O
+document_1	a	O
+document_1	key	O
+document_1	to	O
+document_1	the	O
+document_1	Ministry	O
+document_1	's	O
+document_1	province	O
+document_1	wide	O
+document_1	standardized	O
+document_1	tests	O

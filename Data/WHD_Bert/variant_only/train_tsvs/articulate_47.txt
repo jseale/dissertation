@@ -1,0 +1,9 @@
+articulate_47	He	O
+articulate_47	is	O
+articulate_47	perfectly	O
+articulate_47	articulate	articulate_adj
+articulate_47	in	O
+articulate_47	both	O
+articulate_47	French	O
+articulate_47	and	O
+articulate_47	English	O

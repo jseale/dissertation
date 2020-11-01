@@ -1,0 +1,10 @@
+increment_21	The	O
+increment_21	right	O
+increment_21	most	O
+increment_21	disk	O
+increment_21	moves	O
+increment_21	one	O
+increment_21	increment	increment_nou
+increment_21	with	O
+increment_21	each	O
+increment_21	event	O

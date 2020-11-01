@@ -1,0 +1,16 @@
+upset_8	Duncan	O
+upset_8	attempts	O
+upset_8	to	O
+upset_8	kiss	O
+upset_8	Susanna	O
+upset_8	but	O
+upset_8	she	O
+upset_8	moves	O
+upset_8	away	O
+upset_8	which	O
+upset_8	makes	O
+upset_8	him	O
+upset_8	become	O
+upset_8	even	O
+upset_8	more	O
+upset_8	upset	upset_nou

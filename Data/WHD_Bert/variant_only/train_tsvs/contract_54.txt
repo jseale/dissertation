@@ -1,0 +1,12 @@
+contract_54	Demir	O
+contract_54	joined	O
+contract_54	Bursaspor	O
+contract_54	in	O
+contract_54	2005	O
+contract_54	and	O
+contract_54	signed	O
+contract_54	a	O
+contract_54	professional	O
+contract_54	contract	contract_nou
+contract_54	in	O
+contract_54	2007	O

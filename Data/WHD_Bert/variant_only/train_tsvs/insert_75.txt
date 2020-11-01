@@ -1,0 +1,16 @@
+insert_75	Users	O
+insert_75	are	O
+insert_75	also	O
+insert_75	able	O
+insert_75	to	O
+insert_75	insert	insert_vrb
+insert_75	a	O
+insert_75	USB	O
+insert_75	keyboard	O
+insert_75	into	O
+insert_75	the	O
+insert_75	Wii	O
+insert_75	system	O
+insert_75	for	O
+insert_75	text	O
+insert_75	input	O

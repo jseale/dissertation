@@ -1,0 +1,16 @@
+isolate_47	In	O
+isolate_47	some	O
+isolate_47	cases	O
+isolate_47	they	O
+isolate_47	isolate	isolate
+isolate_47	themselves	O
+isolate_47	in	O
+isolate_47	their	O
+isolate_47	living	O
+isolate_47	quarters	O
+isolate_47	for	O
+isolate_47	prolonged	O
+isolate_47	periods	O
+isolate_47	sometimes	O
+isolate_47	for	O
+isolate_47	years	O

@@ -1,0 +1,15 @@
+discard_47	Norbert	O
+discard_47	decides	O
+discard_47	to	O
+discard_47	discard	discard_vrb
+discard_47	their	O
+discard_47	next	O
+discard_47	project	O
+discard_47	John	O
+discard_47	the	O
+discard_47	Baptist	O
+discard_47	and	O
+discard_47	move	O
+discard_47	directly	O
+discard_47	to	O
+discard_47	Jesus	O

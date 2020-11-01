@@ -1,0 +1,17 @@
+consummate_6	Yash	O
+consummate_6	and	O
+consummate_6	Maya	O
+consummate_6	consummate	consummate_vrb
+consummate_6	their	O
+consummate_6	marriage	O
+consummate_6	however	O
+consummate_6	this	O
+consummate_6	proves	O
+consummate_6	to	O
+consummate_6	be	O
+consummate_6	their	O
+consummate_6	first	O
+consummate_6	and	O
+consummate_6	last	O
+consummate_6	night	O
+consummate_6	together	O

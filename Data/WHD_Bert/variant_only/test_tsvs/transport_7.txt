@@ -1,0 +1,8 @@
+transport_7	There	O
+transport_7	is	O
+transport_7	limited	O
+transport_7	public	O
+transport_7	transport	transport_nou
+transport_7	to	O
+transport_7	the	O
+transport_7	village	O

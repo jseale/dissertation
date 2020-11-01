@@ -1,0 +1,16 @@
+contest_6	In	O
+contest_6	2008	O
+contest_6	2009	O
+contest_6	a	O
+contest_6	national	O
+contest_6	essay	O
+contest_6	contest	contest_nou
+contest_6	was	O
+contest_6	sponsored	O
+contest_6	with	O
+contest_6	the	O
+contest_6	First	O
+contest_6	Freedom	O
+contest_6	Center	O
+contest_6	Richmond	O
+contest_6	VA	O

@@ -1,0 +1,15 @@
+syndicate_30	In	O
+syndicate_30	1986	O
+syndicate_30	Yeung	O
+syndicate_30	was	O
+syndicate_30	convicted	O
+syndicate_30	of	O
+syndicate_30	operating	O
+syndicate_30	an	O
+syndicate_30	illegal	O
+syndicate_30	bookmaking	O
+syndicate_30	syndicate	syndicate_nou
+syndicate_30	and	O
+syndicate_30	fined	O
+syndicate_30	$	O
+syndicate_30	50,000	O

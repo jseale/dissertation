@@ -1,0 +1,14 @@
+decrease_1	It	O
+decrease_1	would	O
+decrease_1	tend	O
+decrease_1	to	O
+decrease_1	decrease	decrease_vrb
+decrease_1	the	O
+decrease_1	political	O
+decrease_1	power	O
+decrease_1	and	O
+decrease_1	revenue	O
+decrease_1	flowing	O
+decrease_1	to	O
+decrease_1	government	O
+decrease_1	bureaucrats	O

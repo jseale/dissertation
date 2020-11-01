@@ -1,0 +1,11 @@
+excuse_21	Therefore	O
+excuse_21	every	O
+excuse_21	human	O
+excuse_21	being	O
+excuse_21	is	O
+excuse_21	without	O
+excuse_21	excuse	excuse_nou
+excuse_21	and	O
+excuse_21	without	O
+excuse_21	any	O
+excuse_21	excuse	excuse_nou

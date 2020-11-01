@@ -1,0 +1,11 @@
+resume_32	The	O
+resume_32	band	O
+resume_32	was	O
+resume_32	rumored	O
+resume_32	to	O
+resume_32	resume	resume_vrb
+resume_32	recording	O
+resume_32	in	O
+resume_32	June	O
+resume_32	or	O
+resume_32	July	O

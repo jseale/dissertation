@@ -1,0 +1,16 @@
+sow_43	He	O
+sow_43	also	O
+sow_43	stated	O
+sow_43	that	O
+sow_43	Turkey	O
+sow_43	would	O
+sow_43	not	O
+sow_43	give	O
+sow_43	in	O
+sow_43	to	O
+sow_43	efforts	O
+sow_43	to	O
+sow_43	sow	sow
+sow_43	division	O
+sow_43	in	O
+sow_43	society	O

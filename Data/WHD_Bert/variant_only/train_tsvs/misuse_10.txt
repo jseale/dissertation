@@ -1,0 +1,17 @@
+misuse_10	The	O
+misuse_10	substance	O
+misuse_10	could	O
+misuse_10	also	O
+misuse_10	be	O
+misuse_10	considered	O
+misuse_10	illegal	O
+misuse_10	in	O
+misuse_10	the	O
+misuse_10	UK	O
+misuse_10	under	O
+misuse_10	the	O
+misuse_10	Misuse	misuse_nou
+misuse_10	of	O
+misuse_10	Drugs	O
+misuse_10	Act	O
+misuse_10	1971	O

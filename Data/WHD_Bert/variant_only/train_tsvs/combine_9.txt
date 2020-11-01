@@ -1,0 +1,9 @@
+combine_9	Compound	O
+combine_9	therapies	O
+combine_9	combine	combine_vrb
+combine_9	antibodies	O
+combine_9	to	O
+combine_9	suppress	O
+combine_9	multiple	O
+combine_9	defensive	O
+combine_9	layers	O

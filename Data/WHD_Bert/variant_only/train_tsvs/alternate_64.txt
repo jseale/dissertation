@@ -1,0 +1,11 @@
+alternate_64	Wheat	O
+alternate_64	is	O
+alternate_64	the	O
+alternate_64	primary	O
+alternate_64	host	O
+alternate_64	and	O
+alternate_64	barberry	O
+alternate_64	is	O
+alternate_64	the	O
+alternate_64	alternate	alternate_adj-nou
+alternate_64	host	O

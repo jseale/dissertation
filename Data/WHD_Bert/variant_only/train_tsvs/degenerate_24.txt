@@ -1,0 +1,15 @@
+degenerate_24	Frequently	O
+degenerate_24	degenerate	degenerate_adj-nou
+degenerate_24	cases	O
+degenerate_24	correspond	O
+degenerate_24	to	O
+degenerate_24	singularities	O
+degenerate_24	either	O
+degenerate_24	in	O
+degenerate_24	the	O
+degenerate_24	object	O
+degenerate_24	or	O
+degenerate_24	in	O
+degenerate_24	some	O
+degenerate_24	configuration	O
+degenerate_24	space	O

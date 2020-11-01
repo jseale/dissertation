@@ -1,0 +1,16 @@
+lives_69	Snow	O
+lives_69	then	O
+lives_69	lives	lives_vrb
+lives_69	in	O
+lives_69	the	O
+lives_69	forest	O
+lives_69	meeting	O
+lives_69	Prince	O
+lives_69	David	O
+lives_69	while	O
+lives_69	robbing	O
+lives_69	him	O
+lives_69	who	O
+lives_69	she	O
+lives_69	nicknames	O
+lives_69	Charming	O

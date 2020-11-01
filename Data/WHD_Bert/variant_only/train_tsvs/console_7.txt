@@ -1,0 +1,13 @@
+console_7	The	O
+console_7	PlayStation	O
+console_7	Link	O
+console_7	Cable	O
+console_7	SCPH-1040	O
+console_7	is	O
+console_7	a	O
+console_7	peripheral	O
+console_7	cable	O
+console_7	for	O
+console_7	the	O
+console_7	PlayStation	O
+console_7	console	console_nou

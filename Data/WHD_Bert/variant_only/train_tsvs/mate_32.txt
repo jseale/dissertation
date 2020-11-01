@@ -1,0 +1,12 @@
+mate_32	He	O
+mate_32	was	O
+mate_32	nominated	O
+mate_32	as	O
+mate_32	His	O
+mate_32	running	O
+mate_32	mate	mate
+mate_32	was	O
+mate_32	Michael	O
+mate_32	Steinberg	O
+mate_32	of	O
+mate_32	Florida	O

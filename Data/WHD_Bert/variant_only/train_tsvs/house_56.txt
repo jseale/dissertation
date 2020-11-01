@@ -1,0 +1,16 @@
+house_56	McKinney	O
+house_56	is	O
+house_56	also	O
+house_56	represented	O
+house_56	in	O
+house_56	the	O
+house_56	Texas	O
+house_56	House	house_nou
+house_56	of	O
+house_56	Representatives	O
+house_56	by	O
+house_56	Republican	O
+house_56	Scott	O
+house_56	Sanford	O
+house_56	District	O
+house_56	70	O

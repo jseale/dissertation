@@ -1,0 +1,12 @@
+compress_41	Using	O
+compress_41	this	O
+compress_41	knowledge	O
+compress_41	encoders	O
+compress_41	can	O
+compress_41	be	O
+compress_41	designed	O
+compress_41	to	O
+compress_41	compress	compress
+compress_41	images	O
+compress_41	more	O
+compress_41	efficiently	O

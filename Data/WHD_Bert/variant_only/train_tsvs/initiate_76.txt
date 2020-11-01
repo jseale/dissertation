@@ -1,0 +1,16 @@
+initiate_76	When	O
+initiate_76	the	O
+initiate_76	lung	O
+initiate_76	expands	O
+initiate_76	the	O
+initiate_76	receptors	O
+initiate_76	initiate	initiate_vrb
+initiate_76	the	O
+initiate_76	Hering	O
+initiate_76	Breuer	O
+initiate_76	reflex	O
+initiate_76	which	O
+initiate_76	reduces	O
+initiate_76	the	O
+initiate_76	respiratory	O
+initiate_76	rate	O

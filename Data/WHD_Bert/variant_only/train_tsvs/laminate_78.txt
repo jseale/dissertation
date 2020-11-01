@@ -1,0 +1,15 @@
+laminate_78	Also	O
+laminate_78	the	O
+laminate_78	laminate	laminate_nou
+laminate_78	is	O
+laminate_78	still	O
+laminate_78	breathable	O
+laminate_78	which	O
+laminate_78	means	O
+laminate_78	that	O
+laminate_78	it	O
+laminate_78	will	O
+laminate_78	not	O
+laminate_78	trap	O
+laminate_78	body	O
+laminate_78	heat	O

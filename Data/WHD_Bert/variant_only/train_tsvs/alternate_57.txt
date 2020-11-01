@@ -1,0 +1,14 @@
+alternate_57	The	O
+alternate_57	game	O
+alternate_57	takes	O
+alternate_57	place	O
+alternate_57	on	O
+alternate_57	an	O
+alternate_57	alternate	alternate_adj-nou
+alternate_57	Earth	O
+alternate_57	in	O
+alternate_57	an	O
+alternate_57	era	O
+alternate_57	resembling	O
+alternate_57	the	O
+alternate_57	1940s	O

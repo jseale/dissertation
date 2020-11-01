@@ -1,0 +1,17 @@
+predicate_49	Where	O
+predicate_49	possible	O
+predicate_49	a	O
+predicate_49	relation	O
+predicate_49	understood	O
+predicate_49	as	O
+predicate_49	a	O
+predicate_49	binary	O
+predicate_49	predicate	predicate_nou
+predicate_49	is	O
+predicate_49	implemented	O
+predicate_49	as	O
+predicate_49	which	O
+predicate_49	may	O
+predicate_49	be	O
+predicate_49	written	O
+predicate_49	as	O

@@ -1,0 +1,17 @@
+bow_50	In	O
+bow_50	making	O
+bow_50	a	O
+bow_50	wooden	O
+bow_50	bow	bow_nou-knot
+bow_50	the	O
+bow_50	greater	O
+bow_50	part	O
+bow_50	of	O
+bow_50	the	O
+bow_50	woodworking	O
+bow_50	is	O
+bow_50	done	O
+bow_50	on	O
+bow_50	a	O
+bow_50	straight	O
+bow_50	stick	O

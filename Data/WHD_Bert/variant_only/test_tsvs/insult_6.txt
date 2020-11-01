@@ -1,0 +1,16 @@
+insult_6	Within	O
+insult_6	two	O
+insult_6	days	O
+insult_6	she	O
+insult_6	was	O
+insult_6	forced	O
+insult_6	to	O
+insult_6	return	O
+insult_6	to	O
+insult_6	Nijmegen	O
+insult_6	an	O
+insult_6	insult	insult_nou
+insult_6	not	O
+insult_6	unnoticed	O
+insult_6	in	O
+insult_6	Prussia	O

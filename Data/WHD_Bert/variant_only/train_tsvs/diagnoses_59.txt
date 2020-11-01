@@ -1,0 +1,15 @@
+diagnoses_59	He	O
+diagnoses_59	had	O
+diagnoses_59	been	O
+diagnoses_59	given	O
+diagnoses_59	various	O
+diagnoses_59	diagnoses	diagnoses_nou
+diagnoses_59	over	O
+diagnoses_59	time	O
+diagnoses_59	including	O
+diagnoses_59	paranoid	O
+diagnoses_59	schizophrenia	O
+diagnoses_59	and	O
+diagnoses_59	manic	O
+diagnoses_59	depressive	O
+diagnoses_59	psychosis	O

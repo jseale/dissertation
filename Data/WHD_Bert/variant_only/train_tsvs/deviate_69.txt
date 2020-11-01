@@ -1,0 +1,7 @@
+deviate_69	Modern	O
+deviate_69	weddings	O
+deviate_69	often	O
+deviate_69	deviate	deviate_vrb
+deviate_69	from	O
+deviate_69	these	O
+deviate_69	traditions	O

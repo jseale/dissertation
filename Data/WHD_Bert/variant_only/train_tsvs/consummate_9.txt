@@ -1,0 +1,15 @@
+consummate_9	He	O
+consummate_9	and	O
+consummate_9	Myriam	O
+consummate_9	are	O
+consummate_9	married	O
+consummate_9	beforehand	O
+consummate_9	however	O
+consummate_9	Myriam	O
+consummate_9	is	O
+consummate_9	too	O
+consummate_9	upset	O
+consummate_9	to	O
+consummate_9	consummate	consummate_vrb
+consummate_9	the	O
+consummate_9	marriage	O

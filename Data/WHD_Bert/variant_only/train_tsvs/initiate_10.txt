@@ -1,0 +1,15 @@
+initiate_10	These	O
+initiate_10	incidents	O
+initiate_10	led	O
+initiate_10	Israel	O
+initiate_10	to	O
+initiate_10	initiate	initiate_vrb
+initiate_10	the	O
+initiate_10	Second	O
+initiate_10	Lebanon	O
+initiate_10	War	O
+initiate_10	which	O
+initiate_10	lasted	O
+initiate_10	through	O
+initiate_10	August	O
+initiate_10	2006	O

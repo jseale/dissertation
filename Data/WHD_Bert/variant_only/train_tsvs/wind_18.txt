@@ -1,0 +1,10 @@
+wind_18	August	O
+wind_18	is	O
+wind_18	the	O
+wind_18	month	O
+wind_18	with	O
+wind_18	the	O
+wind_18	weakest	O
+wind_18	average	O
+wind_18	wind	wind_nou
+wind_18	speeds	O

@@ -1,0 +1,11 @@
+upset_31	In	O
+upset_31	the	O
+upset_31	second	O
+upset_31	round	O
+upset_31	she	O
+upset_31	upset	upset_vrb
+upset_31	26th	O
+upset_31	seed	O
+upset_31	Anabel	O
+upset_31	Medina	O
+upset_31	Garrigues	O

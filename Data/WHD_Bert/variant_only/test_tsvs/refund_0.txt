@@ -1,0 +1,12 @@
+refund_0	Elderkin	O
+refund_0	absconded	O
+refund_0	with	O
+refund_0	his	O
+refund_0	clients	O
+refund_0	money	O
+refund_0	and	O
+refund_0	left	O
+refund_0	Angel	O
+refund_0	to	O
+refund_0	refund	refund_vrb
+refund_0	them	O

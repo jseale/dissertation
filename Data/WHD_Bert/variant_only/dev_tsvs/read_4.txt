@@ -1,0 +1,9 @@
+read_4	The	O
+read_4	Manchester	O
+read_4	Guardian	O
+read_4	's	O
+read_4	review	O
+read_4	of	O
+read_4	her	O
+read_4	show	O
+read_4	read	read_past

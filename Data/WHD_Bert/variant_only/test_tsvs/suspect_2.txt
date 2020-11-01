@@ -1,0 +1,13 @@
+suspect_2	Susan	O
+suspect_2	Parker	O
+suspect_2	was	O
+suspect_2	loosely	O
+suspect_2	based	O
+suspect_2	upon	O
+suspect_2	Helen	O
+suspect_2	Mirren	O
+suspect_2	's	O
+suspect_2	character	O
+suspect_2	in	O
+suspect_2	Prime	O
+suspect_2	Suspect	suspect_adj-nou

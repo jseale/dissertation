@@ -1,0 +1,8 @@
+aged_60	He	O
+aged_60	died	O
+aged_60	on	O
+aged_60	5	O
+aged_60	April	O
+aged_60	1908	O
+aged_60	aged	aged
+aged_60	74	O

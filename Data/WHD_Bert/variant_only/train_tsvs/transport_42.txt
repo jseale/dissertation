@@ -1,0 +1,17 @@
+transport_42	Anniyur	O
+transport_42	is	O
+transport_42	well	O
+transport_42	connected	O
+transport_42	by	O
+transport_42	road	O
+transport_42	transport	transport_nou
+transport_42	facility	O
+transport_42	with	O
+transport_42	its	O
+transport_42	district	O
+transport_42	capital	O
+transport_42	Villupuram	O
+transport_42	by	O
+transport_42	four	O
+transport_42	different	O
+transport_42	routes	O

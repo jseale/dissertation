@@ -1,0 +1,11 @@
+conduct_55	The	O
+conduct_55	conduct	conduct_nou
+conduct_55	of	O
+conduct_55	hostilities	O
+conduct_55	under	O
+conduct_55	the	O
+conduct_55	law	O
+conduct_55	of	O
+conduct_55	international	O
+conduct_55	armed	O
+conduct_55	conflict	O

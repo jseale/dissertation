@@ -1,0 +1,15 @@
+laminate_56	These	O
+laminate_56	repairs	O
+laminate_56	are	O
+laminate_56	made	O
+laminate_56	by	O
+laminate_56	following	O
+laminate_56	the	O
+laminate_56	simple	O
+laminate_56	guidelines	O
+laminate_56	indicated	O
+laminate_56	for	O
+laminate_56	laminate	laminate_nou
+laminate_56	or	O
+laminate_56	sandwich	O
+laminate_56	panels	O

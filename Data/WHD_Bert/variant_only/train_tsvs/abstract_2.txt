@@ -1,0 +1,12 @@
+abstract_2	JFC	O
+abstract_2	consists	O
+abstract_2	of	O
+abstract_2	the	O
+abstract_2	Abstract	abstract_adj-nou
+abstract_2	Window	O
+abstract_2	Toolkit	O
+abstract_2	AWT	O
+abstract_2	Swing	O
+abstract_2	and	O
+abstract_2	Java	O
+abstract_2	2D.	O

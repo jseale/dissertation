@@ -1,0 +1,12 @@
+console_57	It	O
+console_57	received	O
+console_57	Gamasutra	O
+console_57	's	O
+console_57	award	O
+console_57	for	O
+console_57	Best	O
+console_57	Downloadable	O
+console_57	Console	console_nou
+console_57	Game	O
+console_57	for	O
+console_57	2010	O

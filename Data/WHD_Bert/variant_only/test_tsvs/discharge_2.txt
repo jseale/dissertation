@@ -1,0 +1,16 @@
+discharge_2	Owners	O
+discharge_2	or	O
+discharge_2	operators	O
+discharge_2	of	O
+discharge_2	facilities	O
+discharge_2	that	O
+discharge_2	discharge	discharge_nou
+discharge_2	regulated	O
+discharge_2	waste	O
+discharge_2	are	O
+discharge_2	then	O
+discharge_2	required	O
+discharge_2	to	O
+discharge_2	secure	O
+discharge_2	discharge	discharge_nou
+discharge_2	permits	O

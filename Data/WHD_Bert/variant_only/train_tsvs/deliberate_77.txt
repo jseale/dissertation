@@ -1,0 +1,17 @@
+deliberate_77	Behavior	O
+deliberate_77	Cycles	O
+deliberate_77	Represents	O
+deliberate_77	deliberate	deliberate_adj
+deliberate_77	communication	O
+deliberate_77	activities	O
+deliberate_77	on	O
+deliberate_77	the	O
+deliberate_77	part	O
+deliberate_77	of	O
+deliberate_77	an	O
+deliberate_77	organization	O
+deliberate_77	to	O
+deliberate_77	decrease	O
+deliberate_77	levels	O
+deliberate_77	of	O
+deliberate_77	ambiguity	O

@@ -1,0 +1,8 @@
+coordinate_60	The	O
+coordinate_60	two	O
+coordinate_60	companies	O
+coordinate_60	have	O
+coordinate_60	agreed	O
+coordinate_60	to	O
+coordinate_60	coordinate	coordinate_vrb
+coordinate_60	marketing	O

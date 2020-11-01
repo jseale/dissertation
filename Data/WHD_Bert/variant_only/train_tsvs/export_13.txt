@@ -1,0 +1,15 @@
+export_13	Around	O
+export_13	one	O
+export_13	third	O
+export_13	is	O
+export_13	produced	O
+export_13	for	O
+export_13	export	export_nou
+export_13	with	O
+export_13	the	O
+export_13	Nordic	O
+export_13	region	O
+export_13	as	O
+export_13	the	O
+export_13	principal	O
+export_13	market	O

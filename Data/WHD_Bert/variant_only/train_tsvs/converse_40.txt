@@ -1,0 +1,17 @@
+converse_40	Roy	O
+converse_40	L.	O
+converse_40	Day	O
+converse_40	Jr.	O
+converse_40	spoke	O
+converse_40	Japanese	O
+converse_40	and	O
+converse_40	was	O
+converse_40	able	O
+converse_40	to	O
+converse_40	converse	converse_vrb
+converse_40	with	O
+converse_40	some	O
+converse_40	of	O
+converse_40	the	O
+converse_40	North	O
+converse_40	Koreans	O

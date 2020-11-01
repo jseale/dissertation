@@ -1,0 +1,15 @@
+impact_19	According	O
+impact_19	to	O
+impact_19	Carey	O
+impact_19	the	O
+impact_19	video	O
+impact_19	for	O
+impact_19	Why	O
+impact_19	Me	O
+impact_19	made	O
+impact_19	a	O
+impact_19	slight	O
+impact_19	impact	impact_nou
+impact_19	on	O
+impact_19	early	O
+impact_19	MTV	O

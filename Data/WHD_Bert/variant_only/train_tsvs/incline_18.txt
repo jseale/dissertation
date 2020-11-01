@@ -1,0 +1,10 @@
+incline_18	It	O
+incline_18	is	O
+incline_18	flat	O
+incline_18	with	O
+incline_18	a	O
+incline_18	slight	O
+incline_18	incline	incline_nou
+incline_18	towards	O
+incline_18	the	O
+incline_18	sea	O

@@ -1,0 +1,14 @@
+document_22	This	O
+document_22	document	document_nou
+document_22	is	O
+document_22	the	O
+document_22	first	O
+document_22	written	O
+document_22	reference	O
+document_22	to	O
+document_22	the	O
+document_22	house	O
+document_22	now	O
+document_22	called	O
+document_22	Whiskey	O
+document_22	Hill	O

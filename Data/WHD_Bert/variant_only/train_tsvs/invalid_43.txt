@@ -1,0 +1,16 @@
+invalid_43	If	O
+invalid_43	a	O
+invalid_43	visa	O
+invalid_43	becomes	O
+invalid_43	invalid	invalid_adj
+invalid_43	its	O
+invalid_43	bearer	O
+invalid_43	must	O
+invalid_43	apply	O
+invalid_43	for	O
+invalid_43	a	O
+invalid_43	new	O
+invalid_43	visa	O
+invalid_43	before	O
+invalid_43	entering	O
+invalid_43	China	O

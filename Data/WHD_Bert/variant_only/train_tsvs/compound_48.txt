@@ -1,0 +1,10 @@
+compound_48	It	O
+compound_48	adopts	O
+compound_48	an	O
+compound_48	unusual	O
+compound_48	structure	O
+compound_48	being	O
+compound_48	a	O
+compound_48	mixed	O
+compound_48	valence	O
+compound_48	compound	compound_nou

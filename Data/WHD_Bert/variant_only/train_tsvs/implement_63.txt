@@ -1,0 +1,12 @@
+implement_63	The	O
+implement_63	first	O
+implement_63	SLR	O
+implement_63	to	O
+implement_63	implement	implement_vrb
+implement_63	trap	O
+implement_63	focusing	O
+implement_63	was	O
+implement_63	the	O
+implement_63	Yashica	O
+implement_63	230	O
+implement_63	AF	O

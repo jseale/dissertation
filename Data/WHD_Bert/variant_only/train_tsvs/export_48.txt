@@ -1,0 +1,8 @@
+export_48	Another	O
+export_48	gene	O
+export_48	btmA	O
+export_48	is	O
+export_48	proposed	O
+export_48	to	O
+export_48	export	export_vrb
+export_48	bottromycin	O

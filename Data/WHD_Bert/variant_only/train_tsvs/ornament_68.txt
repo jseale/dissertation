@@ -1,0 +1,11 @@
+ornament_68	In	O
+ornament_68	birds	O
+ornament_68	wattles	O
+ornament_68	are	O
+ornament_68	often	O
+ornament_68	an	O
+ornament_68	ornament	ornament_nou
+ornament_68	for	O
+ornament_68	courting	O
+ornament_68	potential	O
+ornament_68	mates	O

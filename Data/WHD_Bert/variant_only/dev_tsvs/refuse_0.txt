@@ -1,0 +1,10 @@
+refuse_0	We	O
+refuse_0	accept	O
+refuse_0	Edward	O
+refuse_0	of	O
+refuse_0	England	O
+refuse_0	and	O
+refuse_0	refuse	refuse_vrb
+refuse_0	Urban	O
+refuse_0	of	O
+refuse_0	Rome	O

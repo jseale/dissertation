@@ -1,0 +1,15 @@
+compress_3	As	O
+compress_3	liquids	O
+compress_3	are	O
+compress_3	nearly	O
+compress_3	impossible	O
+compress_3	to	O
+compress_3	compress	compress
+compress_3	a	O
+compress_3	hydraulic	O
+compress_3	actuator	O
+compress_3	can	O
+compress_3	exert	O
+compress_3	a	O
+compress_3	large	O
+compress_3	force	O

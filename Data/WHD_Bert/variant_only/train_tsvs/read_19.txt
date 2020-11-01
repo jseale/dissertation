@@ -1,0 +1,9 @@
+read_19	First	O
+read_19	year	O
+read_19	students	O
+read_19	also	O
+read_19	read	read_past
+read_19	short	O
+read_19	newscasts	O
+read_19	on	O
+read_19	KTCV	O

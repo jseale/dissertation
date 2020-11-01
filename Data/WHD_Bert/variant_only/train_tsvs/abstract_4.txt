@@ -1,0 +1,10 @@
+abstract_4	Indeterminates	O
+abstract_4	are	O
+abstract_4	useful	O
+abstract_4	in	O
+abstract_4	abstract	abstract_adj-nou
+abstract_4	algebra	O
+abstract_4	for	O
+abstract_4	generating	O
+abstract_4	mathematical	O
+abstract_4	structures	O

@@ -1,0 +1,17 @@
+protest_1	It	O
+protest_1	is	O
+protest_1	thought	O
+protest_1	that	O
+protest_1	many	O
+protest_1	unionists	O
+protest_1	voted	O
+protest_1	for	O
+protest_1	Alliance	O
+protest_1	as	O
+protest_1	a	O
+protest_1	protest	protest_nou
+protest_1	at	O
+protest_1	Robinson	O
+protest_1	's	O
+protest_1	financial	O
+protest_1	misdealings	O

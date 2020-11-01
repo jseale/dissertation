@@ -1,0 +1,10 @@
+conflict_20	It	O
+conflict_20	is	O
+conflict_20	designed	O
+conflict_20	to	O
+conflict_20	provide	O
+conflict_20	protection	O
+conflict_20	in	O
+conflict_20	low	O
+conflict_20	intensity	O
+conflict_20	conflict	conflict_nou

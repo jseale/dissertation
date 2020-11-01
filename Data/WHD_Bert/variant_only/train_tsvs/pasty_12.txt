@@ -1,0 +1,13 @@
+pasty_12	At	O
+pasty_12	room	O
+pasty_12	temperature	O
+pasty_12	it	O
+pasty_12	was	O
+pasty_12	a	O
+pasty_12	milky	O
+pasty_12	liquid	O
+pasty_12	but	O
+pasty_12	when	O
+pasty_12	cooled	O
+pasty_12	turned	O
+pasty_12	pasty	pasty_nou

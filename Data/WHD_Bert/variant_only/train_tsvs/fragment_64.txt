@@ -1,0 +1,14 @@
+fragment_64	The	O
+fragment_64	entire	O
+fragment_64	S	O
+fragment_64	segment	O
+fragment_64	and	O
+fragment_64	a	O
+fragment_64	fragment	fragment_nou
+fragment_64	of	O
+fragment_64	the	O
+fragment_64	M	O
+fragment_64	segment	O
+fragment_64	have	O
+fragment_64	been	O
+fragment_64	sequenced	O

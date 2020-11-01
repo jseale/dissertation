@@ -1,0 +1,13 @@
+reject_54	Mainstream	O
+reject_54	historical	O
+reject_54	linguists	O
+reject_54	reject	reject_vrb
+reject_54	Wang	O
+reject_54	's	O
+reject_54	hypothesis	O
+reject_54	continuing	O
+reject_54	to	O
+reject_54	adhere	O
+reject_54	to	O
+reject_54	Neogrammarian	O
+reject_54	exceptionlessness	O

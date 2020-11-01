@@ -1,0 +1,11 @@
+august_22	That	O
+august_22	August	august
+august_22	Studio	O
+august_22	Ghibli	O
+august_22	set	O
+august_22	up	O
+august_22	its	O
+august_22	headquarters	O
+august_22	in	O
+august_22	Koganei	O
+august_22	Tokyo	O

@@ -1,0 +1,17 @@
+expatriate_49	The	O
+expatriate_49	company	O
+expatriate_49	sends	O
+expatriate_49	him	O
+expatriate_49	to	O
+expatriate_49	Paris	O
+expatriate_49	where	O
+expatriate_49	he	O
+expatriate_49	meets	O
+expatriate_49	Marjorie	O
+expatriate_49	a	O
+expatriate_49	worldly	O
+expatriate_49	promiscuous	O
+expatriate_49	and	O
+expatriate_49	beautiful	O
+expatriate_49	British	O
+expatriate_49	expatriate	expatriate_nou

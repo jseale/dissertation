@@ -1,0 +1,14 @@
+intrigue_17	In	O
+intrigue_17	this	O
+intrigue_17	scenario	O
+intrigue_17	the	O
+intrigue_17	player	O
+intrigue_17	characters	O
+intrigue_17	become	O
+intrigue_17	involved	O
+intrigue_17	in	O
+intrigue_17	intrigue	intrigue_nou
+intrigue_17	among	O
+intrigue_17	Lankhmar	O
+intrigue_17	's	O
+intrigue_17	nobles	O

@@ -1,0 +1,15 @@
+conjugate_31	The	O
+conjugate_31	same	O
+conjugate_31	letter	O
+conjugate_31	is	O
+conjugate_31	used	O
+conjugate_31	to	O
+conjugate_31	indicate	O
+conjugate_31	a	O
+conjugate_31	conjugate	conjugate_adj-nou
+conjugate_31	relationship	O
+conjugate_31	either	O
+conjugate_31	between	O
+conjugate_31	points	O
+conjugate_31	or	O
+conjugate_31	distances	O

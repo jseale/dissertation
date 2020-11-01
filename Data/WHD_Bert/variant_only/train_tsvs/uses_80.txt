@@ -1,0 +1,15 @@
+uses_80	Herbalists	O
+uses_80	began	O
+uses_80	to	O
+uses_80	explore	O
+uses_80	the	O
+uses_80	use	O
+uses_80	of	O
+uses_80	plants	O
+uses_80	for	O
+uses_80	both	O
+uses_80	medicinal	O
+uses_80	purposes	O
+uses_80	and	O
+uses_80	agricultural	O
+uses_80	uses	uses_nou

@@ -1,0 +1,9 @@
+estimate_66	According	O
+estimate_66	to	O
+estimate_66	one	O
+estimate_66	estimate	estimate_nou
+estimate_66	150	O
+estimate_66	MiG-21s	O
+estimate_66	are	O
+estimate_66	in	O
+estimate_66	service	O

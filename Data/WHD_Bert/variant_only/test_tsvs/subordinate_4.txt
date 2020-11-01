@@ -1,0 +1,11 @@
+subordinate_4	He	O
+subordinate_4	left	O
+subordinate_4	his	O
+subordinate_4	subordinate	subordinate_adj-nou
+subordinate_4	Jia	O
+subordinate_4	Xun	O
+subordinate_4	賈循	O
+subordinate_4	in	O
+subordinate_4	charge	O
+subordinate_4	of	O
+subordinate_4	Fanyang	O

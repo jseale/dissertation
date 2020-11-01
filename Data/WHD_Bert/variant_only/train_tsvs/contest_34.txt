@@ -1,0 +1,11 @@
+contest_34	Moldova	O
+contest_34	participated	O
+contest_34	in	O
+contest_34	the	O
+contest_34	Eurovision	O
+contest_34	Song	O
+contest_34	Contest	contest_nou
+contest_34	2006	O
+contest_34	in	O
+contest_34	Athens	O
+contest_34	Greece	O

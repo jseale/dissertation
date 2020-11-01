@@ -1,0 +1,17 @@
+construct_71	In	O
+construct_71	particular	O
+construct_71	they	O
+construct_71	outlined	O
+construct_71	a	O
+construct_71	work	O
+construct_71	program	O
+construct_71	that	O
+construct_71	would	O
+construct_71	allow	O
+construct_71	poor	O
+construct_71	people	O
+construct_71	to	O
+construct_71	construct	construct_vrb
+construct_71	and	O
+construct_71	rehabilitate	O
+construct_71	housing	O

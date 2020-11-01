@@ -1,0 +1,16 @@
+lives_63	The	O
+lives_63	salamanders	O
+lives_63	are	O
+lives_63	totally	O
+lives_63	aquatic	O
+lives_63	and	O
+lives_63	spend	O
+lives_63	their	O
+lives_63	whole	O
+lives_63	lives	lives_nou
+lives_63	in	O
+lives_63	the	O
+lives_63	same	O
+lives_63	body	O
+lives_63	of	O
+lives_63	water	O

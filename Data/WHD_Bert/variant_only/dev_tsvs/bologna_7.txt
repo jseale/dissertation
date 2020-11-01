@@ -1,0 +1,15 @@
+bologna_7	He	O
+bologna_7	was	O
+bologna_7	active	O
+bologna_7	in	O
+bologna_7	his	O
+bologna_7	native	O
+bologna_7	Bologna	bologna_geo
+bologna_7	where	O
+bologna_7	he	O
+bologna_7	was	O
+bologna_7	a	O
+bologna_7	pupil	O
+bologna_7	of	O
+bologna_7	Antonio	O
+bologna_7	Dardani	O

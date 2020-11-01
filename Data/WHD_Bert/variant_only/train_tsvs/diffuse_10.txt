@@ -1,0 +1,16 @@
+diffuse_10	Radiosity	O
+diffuse_10	was	O
+diffuse_10	perhaps	O
+diffuse_10	the	O
+diffuse_10	first	O
+diffuse_10	rendering	O
+diffuse_10	algorithm	O
+diffuse_10	in	O
+diffuse_10	widespread	O
+diffuse_10	use	O
+diffuse_10	which	O
+diffuse_10	accounted	O
+diffuse_10	for	O
+diffuse_10	diffuse	diffuse_adj
+diffuse_10	indirect	O
+diffuse_10	lighting	O

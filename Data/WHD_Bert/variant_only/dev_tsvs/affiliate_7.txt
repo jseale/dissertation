@@ -1,0 +1,15 @@
+affiliate_7	Huml	O
+affiliate_7	spent	O
+affiliate_7	much	O
+affiliate_7	of	O
+affiliate_7	his	O
+affiliate_7	tenure	O
+affiliate_7	with	O
+affiliate_7	their	O
+affiliate_7	American	O
+affiliate_7	Hockey	O
+affiliate_7	League	O
+affiliate_7	affiliate	affiliate_nou
+affiliate_7	the	O
+affiliate_7	Providence	O
+affiliate_7	Bruins	O

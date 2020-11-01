@@ -1,0 +1,16 @@
+correlate_12	This	O
+correlate_12	relational	O
+correlate_12	technology	O
+correlate_12	allowed	O
+correlate_12	people	O
+correlate_12	to	O
+correlate_12	correlate	correlate_nou-vrb
+correlate_12	information	O
+correlate_12	stored	O
+correlate_12	in	O
+correlate_12	a	O
+correlate_12	primary	O
+correlate_12	table	O
+correlate_12	and	O
+correlate_12	its	O
+correlate_12	shadow	O

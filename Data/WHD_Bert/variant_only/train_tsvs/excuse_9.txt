@@ -1,0 +1,17 @@
+excuse_9	The	O
+excuse_9	verdict	O
+excuse_9	means	O
+excuse_9	that	O
+excuse_9	the	O
+excuse_9	killing	O
+excuse_9	was	O
+excuse_9	done	O
+excuse_9	without	O
+excuse_9	lawful	O
+excuse_9	excuse	excuse_nou
+excuse_9	and	O
+excuse_9	in	O
+excuse_9	breach	O
+excuse_9	of	O
+excuse_9	criminal	O
+excuse_9	law	O

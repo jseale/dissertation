@@ -1,0 +1,17 @@
+duplicate_9	There	O
+duplicate_9	is	O
+duplicate_9	also	O
+duplicate_9	an	O
+duplicate_9	imperfect	O
+duplicate_9	duplicate	duplicate_adj-nou
+duplicate_9	of	O
+duplicate_9	the	O
+duplicate_9	Statue	O
+duplicate_9	of	O
+duplicate_9	Liberty	O
+duplicate_9	visible	O
+duplicate_9	in	O
+duplicate_9	the	O
+duplicate_9	background	O
+duplicate_9	although	O
+duplicate_9	unnamed	O

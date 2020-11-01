@@ -1,0 +1,13 @@
+bologna_77	In	O
+bologna_77	Bologna	bologna_geo
+bologna_77	he	O
+bologna_77	obtained	O
+bologna_77	many	O
+bologna_77	commissions	O
+bologna_77	under	O
+bologna_77	the	O
+bologna_77	patronage	O
+bologna_77	of	O
+bologna_77	the	O
+bologna_77	Bentivoglio	O
+bologna_77	family	O

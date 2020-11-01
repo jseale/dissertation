@@ -1,0 +1,10 @@
+approximate_68	The	O
+approximate_68	displayed	O
+approximate_68	parallel	O
+approximate_68	is	O
+approximate_68	approximate	approximate_adj-nou
+approximate_68	and	O
+approximate_68	for	O
+approximate_68	illustration	O
+approximate_68	purposes	O
+approximate_68	only	O

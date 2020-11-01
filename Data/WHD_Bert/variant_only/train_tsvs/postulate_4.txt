@@ -1,0 +1,8 @@
+postulate_4	Postulate	postulate_nou
+postulate_4	7	O
+postulate_4	This	O
+postulate_4	postulate	postulate_nou
+postulate_4	contains	O
+postulate_4	two	O
+postulate_4	main	O
+postulate_4	concepts	O

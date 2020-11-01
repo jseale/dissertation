@@ -1,0 +1,11 @@
+graduate_14	Norton	O
+graduate_14	is	O
+graduate_14	a	O
+graduate_14	graduate	graduate_adj-nou
+graduate_14	of	O
+graduate_14	the	O
+graduate_14	Universities	O
+graduate_14	of	O
+graduate_14	Miami	O
+graduate_14	and	O
+graduate_14	Chicago	O

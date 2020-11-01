@@ -1,0 +1,13 @@
+diagnoses_3	The	O
+diagnoses_3	diagnoses	diagnoses_nou
+diagnoses_3	that	O
+diagnoses_3	gave	O
+diagnoses_3	the	O
+diagnoses_3	actor	O
+diagnoses_3	a	O
+diagnoses_3	respite	O
+diagnoses_3	from	O
+diagnoses_3	the	O
+diagnoses_3	army	O
+diagnoses_3	were	O
+diagnoses_3	cancelled	O

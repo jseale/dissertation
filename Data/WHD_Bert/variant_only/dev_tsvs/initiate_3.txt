@@ -1,0 +1,15 @@
+initiate_3	The	O
+initiate_3	use	O
+initiate_3	of	O
+initiate_3	a	O
+initiate_3	laser	O
+initiate_3	to	O
+initiate_3	initiate	initiate_vrb
+initiate_3	a	O
+initiate_3	carbon	O
+initiate_3	doped	O
+initiate_3	explosive	O
+initiate_3	via	O
+initiate_3	a	O
+initiate_3	fiber	O
+initiate_3	optic	O

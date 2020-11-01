@@ -1,0 +1,9 @@
+conduct_30	Israel	O
+conduct_30	has	O
+conduct_30	lodged	O
+conduct_30	multiple	O
+conduct_30	complaints	O
+conduct_30	regarding	O
+conduct_30	Lebanon	O
+conduct_30	's	O
+conduct_30	conduct	conduct_nou

@@ -1,0 +1,12 @@
+upset_52	The	O
+upset_52	Michigan	O
+upset_52	Stadium	O
+upset_52	crowd	O
+upset_52	sensing	O
+upset_52	a	O
+upset_52	major	O
+upset_52	upset	upset_nou
+upset_52	began	O
+upset_52	screaming	O
+upset_52	and	O
+upset_52	chanting	O

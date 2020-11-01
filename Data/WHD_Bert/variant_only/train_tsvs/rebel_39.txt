@@ -1,0 +1,17 @@
+rebel_39	Keith	O
+rebel_39	Richards	O
+rebel_39	of	O
+rebel_39	The	O
+rebel_39	Rolling	O
+rebel_39	Stones	O
+rebel_39	was	O
+rebel_39	once	O
+rebel_39	known	O
+rebel_39	to	O
+rebel_39	be	O
+rebel_39	an	O
+rebel_39	avid	O
+rebel_39	drinker	O
+rebel_39	of	O
+rebel_39	Rebel	rebel_nou
+rebel_39	Yell	O

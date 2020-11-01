@@ -1,0 +1,8 @@
+coordinate_34	Eliminations	O
+coordinate_34	from	O
+coordinate_34	the	O
+coordinate_34	three	O
+coordinate_34	coordinate	coordinate_adj-nou
+coordinate_34	compounds	O
+coordinate_34	are	O
+coordinate_34	faster	O

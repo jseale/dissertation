@@ -1,0 +1,15 @@
+articulate_53	Havard	O
+articulate_53	used	O
+articulate_53	songwriting	O
+articulate_53	as	O
+articulate_53	a	O
+articulate_53	tool	O
+articulate_53	throughout	O
+articulate_53	the	O
+articulate_53	writing	O
+articulate_53	process	O
+articulate_53	to	O
+articulate_53	help	O
+articulate_53	articulate	articulate_vrb
+articulate_53	key	O
+articulate_53	scenes	O

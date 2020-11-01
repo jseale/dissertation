@@ -1,0 +1,10 @@
+analyses_70	This	O
+analyses_70	in	O
+analyses_70	turn	O
+analyses_70	can	O
+analyses_70	influence	O
+analyses_70	a	O
+analyses_70	variety	O
+analyses_70	of	O
+analyses_70	downstream	O
+analyses_70	analyses	analyses_nou

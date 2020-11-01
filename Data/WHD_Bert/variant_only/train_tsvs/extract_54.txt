@@ -1,0 +1,16 @@
+extract_54	Its	O
+extract_54	wines	O
+extract_54	are	O
+extract_54	rich	O
+extract_54	in	O
+extract_54	extract	extract_nou
+extract_54	and	O
+extract_54	are	O
+extract_54	found	O
+extract_54	as	O
+extract_54	dry	O
+extract_54	medium	O
+extract_54	dry	O
+extract_54	and	O
+extract_54	sweet	O
+extract_54	wines	O

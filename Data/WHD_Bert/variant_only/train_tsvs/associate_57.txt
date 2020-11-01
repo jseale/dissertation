@@ -1,0 +1,14 @@
+associate_57	In	O
+associate_57	1930	O
+associate_57	he	O
+associate_57	was	O
+associate_57	appointed	O
+associate_57	as	O
+associate_57	an	O
+associate_57	associate	associate_adj-nou
+associate_57	to	O
+associate_57	Justice	O
+associate_57	Robert	O
+associate_57	Douglas	O
+associate_57	in	O
+associate_57	Townsville	O

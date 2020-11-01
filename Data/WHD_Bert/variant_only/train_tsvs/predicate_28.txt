@@ -1,0 +1,17 @@
+predicate_28	When	O
+predicate_28	used	O
+predicate_28	as	O
+predicate_28	a	O
+predicate_28	copula	O
+predicate_28	with	O
+predicate_28	a	O
+predicate_28	predicate	predicate_nou
+predicate_28	I	O
+predicate_28	am	O
+predicate_28	X	O
+predicate_28	then	O
+predicate_28	usage	O
+predicate_28	is	O
+predicate_28	equivalent	O
+predicate_28	to	O
+predicate_28	English	O

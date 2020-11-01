@@ -1,0 +1,16 @@
+affiliate_13	The	O
+affiliate_13	Avalanche	O
+affiliate_13	's	O
+affiliate_13	American	O
+affiliate_13	Hockey	O
+affiliate_13	League	O
+affiliate_13	affiliate	affiliate_nou
+affiliate_13	was	O
+affiliate_13	the	O
+affiliate_13	Lake	O
+affiliate_13	Erie	O
+affiliate_13	Monsters	O
+affiliate_13	based	O
+affiliate_13	in	O
+affiliate_13	Cleveland	O
+affiliate_13	Ohio	O

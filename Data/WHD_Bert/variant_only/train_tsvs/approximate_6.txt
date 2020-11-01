@@ -1,0 +1,13 @@
+approximate_6	The	O
+approximate_6	models	O
+approximate_6	are	O
+approximate_6	each	O
+approximate_6	named	O
+approximate_6	for	O
+approximate_6	their	O
+approximate_6	approximate	approximate_adj-nou
+approximate_6	wing	O
+approximate_6	area	O
+approximate_6	in	O
+approximate_6	square	O
+approximate_6	metres	O

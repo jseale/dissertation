@@ -1,0 +1,13 @@
+converse_46	Hige	O
+converse_46	likes	O
+converse_46	to	O
+converse_46	converse	converse_vrb
+converse_46	with	O
+converse_46	girls	O
+converse_46	and	O
+converse_46	to	O
+converse_46	eat	O
+converse_46	he	O
+converse_46	is	O
+converse_46	quite	O
+converse_46	chubby	O

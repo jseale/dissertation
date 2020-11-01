@@ -1,0 +1,16 @@
+mobile_24	Mechanized	O
+mobile_24	divisions	O
+mobile_24	had	O
+mobile_24	to	O
+mobile_24	rely	O
+mobile_24	on	O
+mobile_24	these	O
+mobile_24	becoming	O
+mobile_24	easy	O
+mobile_24	targets	O
+mobile_24	for	O
+mobile_24	the	O
+mobile_24	mobile	mobile
+mobile_24	Finnish	O
+mobile_24	ski	O
+mobile_24	troops	O

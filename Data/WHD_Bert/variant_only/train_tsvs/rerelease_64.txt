@@ -1,0 +1,12 @@
+rerelease_64	The	O
+rerelease_64	CD	O
+rerelease_64	rerelease	rerelease
+rerelease_64	of	O
+rerelease_64	the	O
+rerelease_64	Metal	O
+rerelease_64	Box	O
+rerelease_64	album	O
+rerelease_64	by	O
+rerelease_64	Public	O
+rerelease_64	Image	O
+rerelease_64	Ltd.	O

@@ -1,0 +1,12 @@
+polish_0	The	O
+polish_0	opera	O
+polish_0	was	O
+polish_0	in	O
+polish_0	German	O
+polish_0	although	O
+polish_0	the	O
+polish_0	librettist	O
+polish_0	Jerzy	O
+polish_0	Jarocki	O
+polish_0	was	O
+polish_0	Polish	polish_geo

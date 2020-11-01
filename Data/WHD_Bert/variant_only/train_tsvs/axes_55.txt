@@ -1,0 +1,16 @@
+axes_55	Weapons	O
+axes_55	include	O
+axes_55	black	O
+axes_55	holes	O
+axes_55	boxing	O
+axes_55	gloves	O
+axes_55	grenades	O
+axes_55	chainsaws	O
+axes_55	baseball	O
+axes_55	bats	O
+axes_55	chain	O
+axes_55	guns	O
+axes_55	axes	axes_nou-vrb
+axes_55	and	O
+axes_55	freeze	O
+axes_55	rays	O

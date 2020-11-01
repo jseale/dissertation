@@ -1,0 +1,13 @@
+duplicate_14	Alternately	O
+duplicate_14	duplicate	duplicate_adj-nou
+duplicate_14	cards	O
+duplicate_14	might	O
+duplicate_14	be	O
+duplicate_14	issued	O
+duplicate_14	without	O
+duplicate_14	the	O
+duplicate_14	knowledge	O
+duplicate_14	of	O
+duplicate_14	their	O
+duplicate_14	supposed	O
+duplicate_14	owner	O

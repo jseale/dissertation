@@ -1,0 +1,15 @@
+affect_39	In	O
+affect_39	traumatic	O
+affect_39	subarachnoid	O
+affect_39	hemorrhage	O
+affect_39	nimodipine	O
+affect_39	does	O
+affect_39	not	O
+affect_39	affect	affect
+affect_39	long	O
+affect_39	term	O
+affect_39	outcome	O
+affect_39	and	O
+affect_39	is	O
+affect_39	not	O
+affect_39	recommended	O

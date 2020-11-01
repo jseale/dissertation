@@ -1,0 +1,17 @@
+degenerate_66	The	O
+degenerate_66	case	O
+degenerate_66	of	O
+degenerate_66	S	O
+degenerate_66	is	O
+degenerate_66	degenerate	degenerate_adj-nou
+degenerate_66	S	O
+degenerate_66	is	O
+degenerate_66	projected	O
+degenerate_66	to	O
+degenerate_66	itself	O
+degenerate_66	along	O
+degenerate_66	a	O
+degenerate_66	circle	O
+degenerate_66	of	O
+degenerate_66	radius	O
+degenerate_66	0	O

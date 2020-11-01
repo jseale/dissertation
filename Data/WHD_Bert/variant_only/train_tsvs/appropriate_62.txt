@@ -1,0 +1,16 @@
+appropriate_62	The	O
+appropriate_62	appropriate	appropriate_adj
+appropriate_62	cure	O
+appropriate_62	here	O
+appropriate_62	though	O
+appropriate_62	is	O
+appropriate_62	the	O
+appropriate_62	use	O
+appropriate_62	of	O
+appropriate_62	a	O
+appropriate_62	chemical	O
+appropriate_62	inhibitor	O
+appropriate_62	rather	O
+appropriate_62	than	O
+appropriate_62	continual	O
+appropriate_62	bleeding	O

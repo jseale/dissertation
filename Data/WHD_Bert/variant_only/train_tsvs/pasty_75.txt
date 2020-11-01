@@ -1,0 +1,16 @@
+pasty_75	In	O
+pasty_75	1989	O
+pasty_75	Spring	O
+pasty_75	Home	O
+pasty_75	won	O
+pasty_75	the	O
+pasty_75	Monde	O
+pasty_75	Selection	O
+pasty_75	's	O
+pasty_75	Gold	O
+pasty_75	Medal	O
+pasty_75	for	O
+pasty_75	its	O
+pasty_75	spring	O
+pasty_75	roll	O
+pasty_75	pasty	pasty_adj

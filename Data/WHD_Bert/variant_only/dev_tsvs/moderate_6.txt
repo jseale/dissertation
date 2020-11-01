@@ -1,0 +1,17 @@
+moderate_6	Located	O
+moderate_6	in	O
+moderate_6	an	O
+moderate_6	area	O
+moderate_6	of	O
+moderate_6	weak	O
+moderate_6	to	O
+moderate_6	moderate	moderate_adj-nou
+moderate_6	wind	O
+moderate_6	shear	O
+moderate_6	the	O
+moderate_6	convection	O
+moderate_6	gradually	O
+moderate_6	organized	O
+moderate_6	while	O
+moderate_6	developing	O
+moderate_6	outflow	O

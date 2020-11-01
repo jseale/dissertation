@@ -1,0 +1,10 @@
+mate_27	His	O
+mate_27	team	O
+mate_27	mate	mate
+mate_27	Sanderlei	O
+mate_27	Parrela	O
+mate_27	was	O
+mate_27	the	O
+mate_27	400	O
+mate_27	m	O
+mate_27	winner	O

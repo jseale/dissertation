@@ -1,0 +1,14 @@
+reject_8	As	O
+reject_8	a	O
+reject_8	result	O
+reject_8	it	O
+reject_8	motivated	O
+reject_8	this	O
+reject_8	movement	O
+reject_8	to	O
+reject_8	reject	reject_vrb
+reject_8	traditional	O
+reject_8	gender	O
+reject_8	and	O
+reject_8	racial	O
+reject_8	rules	O

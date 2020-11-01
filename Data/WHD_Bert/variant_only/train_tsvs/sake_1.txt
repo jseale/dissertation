@@ -1,0 +1,16 @@
+sake_1	Whatever	O
+sake_1	repercussions	O
+sake_1	come	O
+sake_1	I	O
+sake_1	'm	O
+sake_1	willing	O
+sake_1	to	O
+sake_1	be	O
+sake_1	on	O
+sake_1	that	O
+sake_1	chopping	O
+sake_1	block	O
+sake_1	for	O
+sake_1	entertainment	O
+sake_1	's	O
+sake_1	sake	sake

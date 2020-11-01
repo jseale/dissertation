@@ -1,0 +1,16 @@
+axes_11	Early	O
+axes_11	artefacts	O
+axes_11	found	O
+axes_11	in	O
+axes_11	the	O
+axes_11	vicinity	O
+axes_11	include	O
+axes_11	Neolithic	O
+axes_11	hand	O
+axes_11	axes	axes_nou-vrb
+axes_11	and	O
+axes_11	Bronze	O
+axes_11	and	O
+axes_11	Iron	O
+axes_11	Age	O
+axes_11	pottery	O

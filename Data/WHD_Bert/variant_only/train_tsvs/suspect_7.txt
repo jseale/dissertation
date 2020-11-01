@@ -1,0 +1,11 @@
+suspect_7	His	O
+suspect_7	book	O
+suspect_7	Tattoos	O
+suspect_7	reflects	O
+suspect_7	his	O
+suspect_7	experience	O
+suspect_7	as	O
+suspect_7	being	O
+suspect_7	a	O
+suspect_7	murder	O
+suspect_7	suspect	suspect_adj-nou

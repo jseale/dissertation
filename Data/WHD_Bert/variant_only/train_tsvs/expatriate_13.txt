@@ -1,0 +1,15 @@
+expatriate_13	In	O
+expatriate_13	1981	O
+expatriate_13	expatriate	expatriate_nou
+expatriate_13	families	O
+expatriate_13	began	O
+expatriate_13	a	O
+expatriate_13	cooperative	O
+expatriate_13	to	O
+expatriate_13	educate	O
+expatriate_13	their	O
+expatriate_13	children	O
+expatriate_13	from	O
+expatriate_13	a	O
+expatriate_13	biblical	O
+expatriate_13	worldview	O

@@ -1,0 +1,13 @@
+suspect_78	British	O
+suspect_78	Film	O
+suspect_78	InstitutePrime	O
+suspect_78	Suspect	suspect_adj-nou
+suspect_78	Character	O
+suspect_78	list	O
+suspect_78	on	O
+suspect_78	"TV.com""A"	O
+suspect_78	Royal	O
+suspect_78	Scandal	O
+suspect_78	TV	O
+suspect_78	Movie	O
+suspect_78	1997	O

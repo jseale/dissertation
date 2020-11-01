@@ -1,0 +1,17 @@
+close_31	Tracing	O
+close_31	a	O
+close_31	line	O
+close_31	from	O
+close_31	Gacrux	O
+close_31	to	O
+close_31	Acrux	O
+close_31	leads	O
+close_31	to	O
+close_31	a	O
+close_31	point	O
+close_31	close	close_adj-nou
+close_31	to	O
+close_31	the	O
+close_31	Southern	O
+close_31	Celestial	O
+close_31	Pole	O

@@ -1,0 +1,14 @@
+convert_49	The	O
+convert_49	conversion	O
+convert_49	part	O
+convert_49	comes	O
+convert_49	in	O
+convert_49	when	O
+convert_49	they	O
+convert_49	plan	O
+convert_49	to	O
+convert_49	have	O
+convert_49	Gallicanus	O
+convert_49	convert	convert_vrb
+convert_49	to	O
+convert_49	Christianity	O

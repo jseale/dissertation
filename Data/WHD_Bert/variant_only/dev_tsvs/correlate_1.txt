@@ -1,0 +1,15 @@
+correlate_1	The	O
+correlate_1	short	O
+correlate_1	story	O
+correlate_1	can	O
+correlate_1	correlate	correlate_nou-vrb
+correlate_1	to	O
+correlate_1	real	O
+correlate_1	life	O
+correlate_1	by	O
+correlate_1	the	O
+correlate_1	family	O
+correlate_1	values	O
+correlate_1	of	O
+correlate_1	the	O
+correlate_1	characters	O

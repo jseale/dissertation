@@ -1,0 +1,13 @@
+contract_62	He	O
+contract_62	returned	O
+contract_62	to	O
+contract_62	San	O
+contract_62	Luis	O
+contract_62	F.C.	O
+contract_62	when	O
+contract_62	his	O
+contract_62	loan	O
+contract_62	contract	contract_nou
+contract_62	ended	O
+contract_62	with	O
+contract_62	América	O

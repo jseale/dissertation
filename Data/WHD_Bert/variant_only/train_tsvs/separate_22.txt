@@ -1,0 +1,17 @@
+separate_22	He	O
+separate_22	claimed	O
+separate_22	they	O
+separate_22	served	O
+separate_22	as	O
+separate_22	and	O
+separate_22	promoted	O
+separate_22	exactly	O
+separate_22	the	O
+separate_22	type	O
+separate_22	of	O
+separate_22	separate	separate_adj
+separate_22	abolitionism	O
+separate_22	he	O
+separate_22	was	O
+separate_22	fighting	O
+separate_22	against	O

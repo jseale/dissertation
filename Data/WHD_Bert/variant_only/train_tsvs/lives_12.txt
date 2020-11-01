@@ -1,0 +1,10 @@
+lives_12	The	O
+lives_12	family	O
+lives_12	lives	lives_vrb
+lives_12	in	O
+lives_12	the	O
+lives_12	Jerusalem	O
+lives_12	neighborhood	O
+lives_12	of	O
+lives_12	Beit	O
+lives_12	HaKerem	O

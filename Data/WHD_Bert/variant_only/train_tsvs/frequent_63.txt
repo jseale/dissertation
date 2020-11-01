@@ -1,0 +1,15 @@
+frequent_63	For	O
+frequent_63	more	O
+frequent_63	than	O
+frequent_63	forty	O
+frequent_63	five	O
+frequent_63	years	O
+frequent_63	Bridges	O
+frequent_63	was	O
+frequent_63	a	O
+frequent_63	frequent	frequent_adj
+frequent_63	guest	O
+frequent_63	star	O
+frequent_63	on	O
+frequent_63	television	O
+frequent_63	series	O

@@ -1,0 +1,11 @@
+refund_30	Caracal	O
+refund_30	stated	O
+refund_30	that	O
+refund_30	a	O
+refund_30	refund	refund_nou
+refund_30	will	O
+refund_30	be	O
+refund_30	made	O
+refund_30	to	O
+refund_30	its	O
+refund_30	customers	O

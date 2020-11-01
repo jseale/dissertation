@@ -1,0 +1,16 @@
+contract_33	He	O
+contract_33	signed	O
+contract_33	his	O
+contract_33	first	O
+contract_33	professional	O
+contract_33	contract	contract_nou
+contract_33	with	O
+contract_33	the	O
+contract_33	club	O
+contract_33	in	O
+contract_33	the	O
+contract_33	summer	O
+contract_33	of	O
+contract_33	2009	O
+contract_33	aged	O
+contract_33	17	O

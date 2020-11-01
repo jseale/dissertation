@@ -1,0 +1,17 @@
+contrast_27	In	O
+contrast_27	contrast	contrast_nou
+contrast_27	a	O
+contrast_27	modern	O
+contrast_27	757	O
+contrast_27	carries	O
+contrast_27	up	O
+contrast_27	to	O
+contrast_27	220	O
+contrast_27	passengers	O
+contrast_27	and	O
+contrast_27	burns	O
+contrast_27	around	O
+contrast_27	7000	O
+contrast_27	pounds	O
+contrast_27	per	O
+contrast_27	hour	O

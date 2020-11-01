@@ -1,0 +1,14 @@
+estimate_79	The	O
+estimate_79	minimum	O
+estimate_79	proportion	O
+estimate_79	is	O
+estimate_79	8	O
+estimate_79	of	O
+estimate_79	Izmir	O
+estimate_79	population	O
+estimate_79	while	O
+estimate_79	the	O
+estimate_79	maximum	O
+estimate_79	estimate	estimate_nou
+estimate_79	is	O
+estimate_79	17	O

@@ -1,0 +1,15 @@
+axes_62	The	O
+axes_62	axes	axes_nou
+axes_62	of	O
+axes_62	the	O
+axes_62	skull	O
+axes_62	and	O
+axes_62	muzzle	O
+axes_62	are	O
+axes_62	parallel	O
+axes_62	or	O
+axes_62	slightly	O
+axes_62	divergent	O
+axes_62	towards	O
+axes_62	the	O
+axes_62	front	O

@@ -1,0 +1,16 @@
+resume_73	Corbett	O
+resume_73	awoke	O
+resume_73	after	O
+resume_73	surgery	O
+resume_73	and	O
+resume_73	was	O
+resume_73	cleared	O
+resume_73	to	O
+resume_73	resume	resume_vrb
+resume_73	power	O
+resume_73	approximately	O
+resume_73	85	O
+resume_73	minutes	O
+resume_73	after	O
+resume_73	going	O
+resume_73	under	O

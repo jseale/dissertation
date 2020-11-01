@@ -1,0 +1,14 @@
+mobile_68	Texture	O
+mobile_68	data	O
+mobile_68	is	O
+mobile_68	often	O
+mobile_68	the	O
+mobile_68	largest	O
+mobile_68	source	O
+mobile_68	of	O
+mobile_68	memory	O
+mobile_68	usage	O
+mobile_68	in	O
+mobile_68	a	O
+mobile_68	mobile	mobile
+mobile_68	application	O

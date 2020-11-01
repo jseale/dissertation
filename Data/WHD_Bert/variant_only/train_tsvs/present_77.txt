@@ -1,0 +1,13 @@
+present_77	They	O
+present_77	settled	O
+present_77	on	O
+present_77	the	O
+present_77	lands	O
+present_77	that	O
+present_77	were	O
+present_77	near	O
+present_77	the	O
+present_77	present	present_adj-nou
+present_77	city	O
+present_77	of	O
+present_77	Perryville	O

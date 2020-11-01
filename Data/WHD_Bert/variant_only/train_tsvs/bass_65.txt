@@ -1,0 +1,14 @@
+bass_65	He	O
+bass_65	studied	O
+bass_65	cello	O
+bass_65	and	O
+bass_65	double	O
+bass_65	bass	bass
+bass_65	at	O
+bass_65	the	O
+bass_65	Royal	O
+bass_65	Academy	O
+bass_65	of	O
+bass_65	Music	O
+bass_65	in	O
+bass_65	London	O

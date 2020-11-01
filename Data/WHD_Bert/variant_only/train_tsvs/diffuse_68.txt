@@ -1,0 +1,15 @@
+diffuse_68	The	O
+diffuse_68	underside	O
+diffuse_68	hindwings	O
+diffuse_68	of	O
+diffuse_68	the	O
+diffuse_68	females	O
+diffuse_68	shows	O
+diffuse_68	a	O
+diffuse_68	diffuse	diffuse_adj
+diffuse_68	clear	O
+diffuse_68	or	O
+diffuse_68	whitish	O
+diffuse_68	band	O
+diffuse_68	strongly	O
+diffuse_68	dentate	O

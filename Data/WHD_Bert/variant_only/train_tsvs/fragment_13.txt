@@ -1,0 +1,13 @@
+fragment_13	Note	O
+fragment_13	that	O
+fragment_13	side	O
+fragment_13	chains	O
+fragment_13	are	O
+fragment_13	typically	O
+fragment_13	not	O
+fragment_13	modeled	O
+fragment_13	using	O
+fragment_13	the	O
+fragment_13	fragment	fragment_nou
+fragment_13	library	O
+fragment_13	approach	O

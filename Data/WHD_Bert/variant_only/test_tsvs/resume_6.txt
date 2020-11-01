@@ -1,0 +1,12 @@
+resume_6	In	O
+resume_6	some	O
+resume_6	cases	O
+resume_6	the	O
+resume_6	boundary	O
+resume_6	conditions	O
+resume_6	resume	resume_vrb
+resume_6	to	O
+resume_6	a	O
+resume_6	simple	O
+resume_6	interface	O
+resume_6	condition	O

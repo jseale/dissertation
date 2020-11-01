@@ -1,0 +1,9 @@
+misuse_67	He	O
+misuse_67	also	O
+misuse_67	denied	O
+misuse_67	authorizing	O
+misuse_67	any	O
+misuse_67	misuse	misuse_nou
+misuse_67	of	O
+misuse_67	customer	O
+misuse_67	funds	O

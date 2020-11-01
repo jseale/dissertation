@@ -1,0 +1,15 @@
+articulate_23	Thus	O
+articulate_23	the	O
+articulate_23	process	O
+articulate_23	itself	O
+articulate_23	helps	O
+articulate_23	to	O
+articulate_23	negotiate	O
+articulate_23	and	O
+articulate_23	articulate	articulate_vrb
+articulate_23	delicately	O
+articulate_23	sexual	O
+articulate_23	difference	O
+articulate_23	in	O
+articulate_23	the	O
+articulate_23	present	O

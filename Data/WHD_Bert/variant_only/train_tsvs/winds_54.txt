@@ -1,0 +1,12 @@
+winds_54	The	O
+winds_54	prevailing	O
+winds_54	winds	winds_nou
+winds_54	are	O
+winds_54	out	O
+winds_54	of	O
+winds_54	the	O
+winds_54	northwest	O
+winds_54	and	O
+winds_54	west	O
+winds_54	all	O
+winds_54	year	O

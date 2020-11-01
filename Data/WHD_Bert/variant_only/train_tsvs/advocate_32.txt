@@ -1,0 +1,15 @@
+advocate_32	Eric	O
+advocate_32	was	O
+advocate_32	a	O
+advocate_32	keen	O
+advocate_32	advocate	advocate_nou
+advocate_32	of	O
+advocate_32	human	O
+advocate_32	rights	O
+advocate_32	and	O
+advocate_32	the	O
+advocate_32	separation	O
+advocate_32	of	O
+advocate_32	church	O
+advocate_32	and	O
+advocate_32	state	O

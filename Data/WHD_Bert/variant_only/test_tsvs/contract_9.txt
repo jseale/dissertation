@@ -1,0 +1,16 @@
+contract_9	Following	O
+contract_9	this	O
+contract_9	Cha	O
+contract_9	signed	O
+contract_9	a	O
+contract_9	new	O
+contract_9	contract	contract_nou
+contract_9	with	O
+contract_9	the	O
+contract_9	club	O
+contract_9	signing	O
+contract_9	a	O
+contract_9	one	O
+contract_9	year	O
+contract_9	contract	contract_nou
+contract_9	extension	O

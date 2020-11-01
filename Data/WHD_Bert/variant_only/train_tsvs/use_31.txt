@@ -1,0 +1,12 @@
+use_31	MOD	O
+use_31	and	O
+use_31	TOD	O
+use_31	are	O
+use_31	recording	O
+use_31	formats	O
+use_31	for	O
+use_31	use	use_nou
+use_31	in	O
+use_31	digital	O
+use_31	tapeless	O
+use_31	camcorders	O

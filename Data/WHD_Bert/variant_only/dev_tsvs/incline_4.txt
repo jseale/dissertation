@@ -1,0 +1,14 @@
+incline_4	Center	O
+incline_4	of	O
+incline_4	Gravity	O
+incline_4	at	O
+incline_4	Work	O
+incline_4	video	O
+incline_4	showing	O
+incline_4	bjects	O
+incline_4	climbing	O
+incline_4	up	O
+incline_4	an	O
+incline_4	incline	incline_nou
+incline_4	by	O
+incline_4	themselves	O

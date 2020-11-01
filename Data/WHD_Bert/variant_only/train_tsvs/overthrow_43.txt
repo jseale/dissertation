@@ -1,0 +1,11 @@
+overthrow_43	The	O
+overthrow_43	group	O
+overthrow_43	started	O
+overthrow_43	an	O
+overthrow_43	armed	O
+overthrow_43	struggle	O
+overthrow_43	to	O
+overthrow_43	overthrow	overthrow_vrb
+overthrow_43	the	O
+overthrow_43	British	O
+overthrow_43	Raj	O

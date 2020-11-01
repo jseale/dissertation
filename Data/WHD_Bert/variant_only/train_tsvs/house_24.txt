@@ -1,0 +1,13 @@
+house_24	She	O
+house_24	lives	O
+house_24	in	O
+house_24	Parminder	O
+house_24	's	O
+house_24	house	house_nou
+house_24	and	O
+house_24	secretly	O
+house_24	helps	O
+house_24	all	O
+house_24	the	O
+house_24	Galli	O
+house_24	members	O

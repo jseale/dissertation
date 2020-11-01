@@ -1,0 +1,10 @@
+record_0	It	O
+record_0	was	O
+record_0	released	O
+record_0	in	O
+record_0	1981	O
+record_0	by	O
+record_0	record	record_nou
+record_0	label	O
+record_0	Beggars	O
+record_0	Banquet	O

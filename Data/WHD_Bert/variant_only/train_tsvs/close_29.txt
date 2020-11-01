@@ -1,0 +1,16 @@
+close_29	Ever	O
+close_29	since	O
+close_29	Emmett	O
+close_29	's	O
+close_29	death	O
+close_29	she	O
+close_29	had	O
+close_29	a	O
+close_29	close	close_adj-nou
+close_29	relationship	O
+close_29	with	O
+close_29	many	O
+close_29	African	O
+close_29	American	O
+close_29	media	O
+close_29	outlets	O

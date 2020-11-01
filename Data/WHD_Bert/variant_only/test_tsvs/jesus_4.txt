@@ -1,0 +1,16 @@
+jesus_4	Constantine	O
+jesus_4	the	O
+jesus_4	Great	O
+jesus_4	applied	O
+jesus_4	it	O
+jesus_4	for	O
+jesus_4	the	O
+jesus_4	tomb	O
+jesus_4	of	O
+jesus_4	Jesus	jesus
+jesus_4	at	O
+jesus_4	the	O
+jesus_4	Anastasis	O
+jesus_4	in	O
+jesus_4	Jerusalem	O
+jesus_4	ca	O

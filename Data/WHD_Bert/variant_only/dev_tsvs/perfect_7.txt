@@ -1,0 +1,11 @@
+perfect_7	But	O
+perfect_7	Ace	O
+perfect_7	's	O
+perfect_7	life	O
+perfect_7	is	O
+perfect_7	not	O
+perfect_7	as	O
+perfect_7	perfect	perfect_adj
+perfect_7	as	O
+perfect_7	everyone	O
+perfect_7	thinks	O

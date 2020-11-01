@@ -1,0 +1,15 @@
+reading_23	The	O
+reading_23	concept	O
+reading_23	of	O
+reading_23	the	O
+reading_23	triple	O
+reading_23	goddess	O
+reading_23	has	O
+reading_23	been	O
+reading_23	applied	O
+reading_23	to	O
+reading_23	a	O
+reading_23	feminist	O
+reading_23	reading	reading_en
+reading_23	of	O
+reading_23	Shakespeare	O

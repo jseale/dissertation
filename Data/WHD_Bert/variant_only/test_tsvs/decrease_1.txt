@@ -1,0 +1,12 @@
+decrease_1	Rates	O
+decrease_1	of	O
+decrease_1	polygynous	O
+decrease_1	marriages	O
+decrease_1	decrease	decrease_vrb
+decrease_1	as	O
+decrease_1	education	O
+decrease_1	level	O
+decrease_1	and	O
+decrease_1	wealth	O
+decrease_1	level	O
+decrease_1	increase	O

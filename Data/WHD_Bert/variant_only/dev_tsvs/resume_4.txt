@@ -1,0 +1,17 @@
+resume_4	Charles	O
+resume_4	I	O
+resume_4	was	O
+resume_4	compelled	O
+resume_4	to	O
+resume_4	call	O
+resume_4	the	O
+resume_4	Short	O
+resume_4	Parliament	O
+resume_4	in	O
+resume_4	1640	O
+resume_4	allowing	O
+resume_4	protest	O
+resume_4	to	O
+resume_4	resume	resume_vrb
+resume_4	political	O
+resume_4	channels	O

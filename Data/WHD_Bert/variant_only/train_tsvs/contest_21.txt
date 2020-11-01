@@ -1,0 +1,14 @@
+contest_21	The	O
+contest_21	judges	O
+contest_21	then	O
+contest_21	realized	O
+contest_21	that	O
+contest_21	numskull	O
+contest_21	was	O
+contest_21	an	O
+contest_21	acceptable	O
+contest_21	spelling	O
+contest_21	and	O
+contest_21	the	O
+contest_21	contest	contest_nou
+contest_21	continued	O

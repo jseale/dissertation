@@ -1,0 +1,14 @@
+jesus_8	His	O
+jesus_8	first	O
+jesus_8	graffiti	O
+jesus_8	message	O
+jesus_8	was	O
+jesus_8	the	O
+jesus_8	Bible	O
+jesus_8	verse	O
+jesus_8	John	O
+jesus_8	11:35	O
+jesus_8	which	O
+jesus_8	reads	O
+jesus_8	Jesus	jesus
+jesus_8	wept	O

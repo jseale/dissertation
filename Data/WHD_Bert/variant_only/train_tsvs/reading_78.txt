@@ -1,0 +1,15 @@
+reading_78	His	O
+reading_78	reading	reading_en
+reading_78	was	O
+reading_78	fast	O
+reading_78	and	O
+reading_78	accurate	O
+reading_78	and	O
+reading_78	his	O
+reading_78	intuition	O
+reading_78	and	O
+reading_78	positional	O
+reading_78	judgment	O
+reading_78	were	O
+reading_78	often	O
+reading_78	praised	O

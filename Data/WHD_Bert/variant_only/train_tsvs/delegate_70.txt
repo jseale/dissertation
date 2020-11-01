@@ -1,0 +1,13 @@
+delegate_70	The	O
+delegate_70	school	O
+delegate_70	delegate	delegate_nou
+delegate_70	was	O
+delegate_70	sent	O
+delegate_70	to	O
+delegate_70	London	O
+delegate_70	and	O
+delegate_70	won	O
+delegate_70	the	O
+delegate_70	international	O
+delegate_70	level	O
+delegate_70	competition	O

@@ -1,0 +1,11 @@
+reading_1	Elizabeth	O
+reading_1	Margaret	O
+reading_1	Stevens	O
+reading_1	was	O
+reading_1	born	O
+reading_1	on	O
+reading_1	1930	O
+reading_1	in	O
+reading_1	Reading	reading_geo
+reading_1	Berkshire	O
+reading_1	England	O

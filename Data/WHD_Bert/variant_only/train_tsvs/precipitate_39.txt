@@ -1,0 +1,12 @@
+precipitate_39	The	O
+precipitate_39	eggs	O
+precipitate_39	of	O
+precipitate_39	macroinvertebrates	O
+precipitate_39	and	O
+precipitate_39	fish	O
+precipitate_39	are	O
+precipitate_39	also	O
+precipitate_39	smothered	O
+precipitate_39	by	O
+precipitate_39	the	O
+precipitate_39	precipitate	precipitate_adj-nou

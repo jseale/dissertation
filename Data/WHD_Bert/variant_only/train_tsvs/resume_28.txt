@@ -1,0 +1,11 @@
+resume_28	Without	O
+resume_28	armor	O
+resume_28	support	O
+resume_28	the	O
+resume_28	47th	O
+resume_28	Army	O
+resume_28	could	O
+resume_28	not	O
+resume_28	resume	resume_vrb
+resume_28	the	O
+resume_28	offensive	O

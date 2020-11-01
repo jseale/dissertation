@@ -1,0 +1,14 @@
+mobile_5	The	O
+mobile_5	AT&T	O
+mobile_5	Variant	O
+mobile_5	has	O
+mobile_5	been	O
+mobile_5	heavily	O
+mobile_5	modified	O
+mobile_5	from	O
+mobile_5	the	O
+mobile_5	unlocked	O
+mobile_5	and	O
+mobile_5	T	O
+mobile_5	Mobile	mobile
+mobile_5	versions	O

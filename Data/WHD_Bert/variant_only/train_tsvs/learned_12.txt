@@ -1,0 +1,14 @@
+learned_12	Kurnaz	O
+learned_12	learned	learned_vrb
+learned_12	two	O
+learned_12	others	O
+learned_12	were	O
+learned_12	removed	O
+learned_12	from	O
+learned_12	their	O
+learned_12	cages	O
+learned_12	dead	O
+learned_12	in	O
+learned_12	a	O
+learned_12	similar	O
+learned_12	state	O

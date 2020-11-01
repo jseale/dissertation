@@ -1,0 +1,15 @@
+pasty_54	The	O
+pasty_54	town	O
+pasty_54	of	O
+pasty_54	Real	O
+pasty_54	del	O
+pasty_54	Monte	O
+pasty_54	in	O
+pasty_54	Mexico	O
+pasty_54	is	O
+pasty_54	home	O
+pasty_54	of	O
+pasty_54	the	O
+pasty_54	International	O
+pasty_54	Pasty	pasty_adj
+pasty_54	Festival	O

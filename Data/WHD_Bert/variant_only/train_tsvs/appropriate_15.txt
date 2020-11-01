@@ -1,0 +1,16 @@
+appropriate_15	However	O
+appropriate_15	interpretation	O
+appropriate_15	of	O
+appropriate_15	scores	O
+appropriate_15	should	O
+appropriate_15	be	O
+appropriate_15	carried	O
+appropriate_15	out	O
+appropriate_15	by	O
+appropriate_15	individuals	O
+appropriate_15	with	O
+appropriate_15	appropriate	appropriate_adj
+appropriate_15	training	O
+appropriate_15	in	O
+appropriate_15	psychological	O
+appropriate_15	science	O

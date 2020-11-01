@@ -1,0 +1,11 @@
+delegate_38	He	O
+delegate_38	was	O
+delegate_38	a	O
+delegate_38	delegate	delegate_nou
+delegate_38	at	O
+delegate_38	the	O
+delegate_38	Arkansas	O
+delegate_38	Constitutional	O
+delegate_38	Convention	O
+delegate_38	in	O
+delegate_38	1868	O

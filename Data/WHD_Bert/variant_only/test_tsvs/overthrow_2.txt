@@ -1,0 +1,13 @@
+overthrow_2	The	O
+overthrow_2	defeat	O
+overthrow_2	of	O
+overthrow_2	the	O
+overthrow_2	Central	O
+overthrow_2	Powers	O
+overthrow_2	lead	O
+overthrow_2	to	O
+overthrow_2	the	O
+overthrow_2	overthrow	overthrow_nou
+overthrow_2	of	O
+overthrow_2	both	O
+overthrow_2	monarchies	O

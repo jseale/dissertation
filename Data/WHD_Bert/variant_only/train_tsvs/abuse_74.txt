@@ -1,0 +1,15 @@
+abuse_74	In	O
+abuse_74	adoptive	O
+abuse_74	homes	O
+abuse_74	child	O
+abuse_74	neglect	O
+abuse_74	and	O
+abuse_74	abuse	abuse_nou
+abuse_74	and	O
+abuse_74	even	O
+abuse_74	divorce	O
+abuse_74	between	O
+abuse_74	the	O
+abuse_74	parents	O
+abuse_74	is	O
+abuse_74	uncommon	O

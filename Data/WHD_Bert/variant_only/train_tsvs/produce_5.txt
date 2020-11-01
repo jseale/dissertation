@@ -1,0 +1,16 @@
+produce_5	Plants	O
+produce_5	grow	O
+produce_5	from	O
+produce_5	egg	O
+produce_5	shaped	O
+produce_5	tubers	O
+produce_5	that	O
+produce_5	produce	produce_vrb
+produce_5	short	O
+produce_5	runners	O
+produce_5	and	O
+produce_5	a	O
+produce_5	basal	O
+produce_5	rosette	O
+produce_5	of	O
+produce_5	leaves	O

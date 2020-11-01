@@ -1,0 +1,13 @@
+rebel_79	However	O
+rebel_79	in	O
+rebel_79	Jangheung	O
+rebel_79	the	O
+rebel_79	rebel	rebel_nou
+rebel_79	leader	O
+rebel_79	Yi	O
+rebel_79	Bangeon	O
+rebel_79	captured	O
+rebel_79	Gangjin	O
+rebel_79	in	O
+rebel_79	December	O
+rebel_79	7	O

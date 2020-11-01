@@ -1,0 +1,10 @@
+lives_49	He	O
+lives_49	is	O
+lives_49	married	O
+lives_49	with	O
+lives_49	four	O
+lives_49	children	O
+lives_49	and	O
+lives_49	lives	lives_vrb
+lives_49	in	O
+lives_49	France	O

@@ -1,0 +1,15 @@
+conduct_0	The	O
+conduct_0	Think	O
+conduct_0	Tank	O
+conduct_0	features	O
+conduct_0	several	O
+conduct_0	interactive	O
+conduct_0	displays	O
+conduct_0	that	O
+conduct_0	teach	O
+conduct_0	visitors	O
+conduct_0	how	O
+conduct_0	zoologists	O
+conduct_0	conduct	conduct_vrb
+conduct_0	their	O
+conduct_0	studies	O

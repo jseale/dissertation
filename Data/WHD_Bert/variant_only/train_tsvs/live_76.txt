@@ -1,0 +1,16 @@
+live_76	Samson	O
+live_76	and	O
+live_76	Delilah	O
+live_76	are	O
+live_76	two	O
+live_76	14-year	O
+live_76	olds	O
+live_76	who	O
+live_76	live	live_vrb
+live_76	in	O
+live_76	an	O
+live_76	Aboriginal	O
+live_76	community	O
+live_76	near	O
+live_76	Alice	O
+live_76	Springs	O

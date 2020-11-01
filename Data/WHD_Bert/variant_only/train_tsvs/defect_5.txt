@@ -1,0 +1,17 @@
+defect_5	Mice	O
+defect_5	that	O
+defect_5	lack	O
+defect_5	casein	O
+defect_5	kinase	O
+defect_5	2	O
+defect_5	alpha	O
+defect_5	prime	O
+defect_5	have	O
+defect_5	a	O
+defect_5	defect	defect_nou
+defect_5	in	O
+defect_5	the	O
+defect_5	morphology	O
+defect_5	of	O
+defect_5	developing	O
+defect_5	sperm	O

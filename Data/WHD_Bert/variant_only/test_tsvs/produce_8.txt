@@ -1,0 +1,14 @@
+produce_8	Marshall	O
+produce_8	Gardiner	O
+produce_8	would	O
+produce_8	produce	produce_vrb
+produce_8	the	O
+produce_8	same	O
+produce_8	type	O
+produce_8	of	O
+produce_8	images	O
+produce_8	in	O
+produce_8	Florida	O
+produce_8	Bermuda	O
+produce_8	and	O
+produce_8	Nantucket	O

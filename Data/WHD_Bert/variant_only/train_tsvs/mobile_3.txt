@@ -1,0 +1,13 @@
+mobile_3	Lloyd	O
+mobile_3	drives	O
+mobile_3	Cheryl	O
+mobile_3	to	O
+mobile_3	work	O
+mobile_3	and	O
+mobile_3	she	O
+mobile_3	leaves	O
+mobile_3	her	O
+mobile_3	mobile	mobile
+mobile_3	in	O
+mobile_3	his	O
+mobile_3	taxi	O

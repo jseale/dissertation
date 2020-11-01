@@ -1,0 +1,16 @@
+fragment_6	Cognos	O
+fragment_6	is	O
+fragment_6	a	O
+fragment_6	fragment	fragment_nou
+fragment_6	scissored	O
+fragment_6	off	O
+fragment_6	the	O
+fragment_6	Latin	O
+fragment_6	word	O
+fragment_6	cognosco	O
+fragment_6	which	O
+fragment_6	means	O
+fragment_6	knowledge	O
+fragment_6	from	O
+fragment_6	personal	O
+fragment_6	experience	O

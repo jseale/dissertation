@@ -1,0 +1,12 @@
+attribute_3	They	O
+attribute_3	attribute	attribute_vrb
+attribute_3	to	O
+attribute_3	mistranslation	O
+attribute_3	and	O
+attribute_3	as	O
+attribute_3	a	O
+attribute_3	later	O
+attribute_3	creation	O
+attribute_3	of	O
+attribute_3	the	O
+attribute_3	church	O

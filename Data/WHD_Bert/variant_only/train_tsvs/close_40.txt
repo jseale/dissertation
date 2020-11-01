@@ -1,0 +1,7 @@
+close_40	They	O
+close_40	used	O
+close_40	sands	O
+close_40	dredged	O
+close_40	close	close_adj-nou
+close_40	to	O
+close_40	shore	O

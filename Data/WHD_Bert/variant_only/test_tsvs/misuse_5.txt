@@ -1,0 +1,13 @@
+misuse_5	She	O
+misuse_5	cautioned	O
+misuse_5	against	O
+misuse_5	the	O
+misuse_5	misuse	misuse_nou
+misuse_5	of	O
+misuse_5	history	O
+misuse_5	to	O
+misuse_5	diminish	O
+misuse_5	expectations	O
+misuse_5	of	O
+misuse_5	the	O
+misuse_5	future	O

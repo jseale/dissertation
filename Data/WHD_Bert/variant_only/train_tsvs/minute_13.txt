@@ -1,0 +1,13 @@
+minute_13	Audio	O
+minute_13	conversations	O
+minute_13	with	O
+minute_13	20-second	O
+minute_13	responses	O
+minute_13	and	O
+minute_13	a	O
+minute_13	two	O
+minute_13	minute	minute
+minute_13	presentation	O
+minute_13	complete	O
+minute_13	the	O
+minute_13	exam	O

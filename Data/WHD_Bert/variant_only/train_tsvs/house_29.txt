@@ -1,0 +1,16 @@
+house_29	Jojo	O
+house_29	and	O
+house_29	Bobby	O
+house_29	plan	O
+house_29	a	O
+house_29	house	house_nou
+house_29	party	O
+house_29	but	O
+house_29	first	O
+house_29	they	O
+house_29	need	O
+house_29	to	O
+house_29	acquire	O
+house_29	alcohol	O
+house_29	for	O
+house_29	same	O

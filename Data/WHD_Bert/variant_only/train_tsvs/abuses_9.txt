@@ -1,0 +1,17 @@
+abuses_9	Chinese	O
+abuses_9	Human	O
+abuses_9	Rights	O
+abuses_9	Defenders	O
+abuses_9	Re	O
+abuses_9	education	O
+abuses_9	through	O
+abuses_9	Labor	O
+abuses_9	Abuses	abuses_nou
+abuses_9	Continue	O
+abuses_9	Unabated	O
+abuses_9	Overhaul	O
+abuses_9	Long	O
+abuses_9	Overdue	O
+abuses_9	4	O
+abuses_9	February	O
+abuses_9	2009	O

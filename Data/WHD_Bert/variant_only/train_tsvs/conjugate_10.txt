@@ -1,0 +1,8 @@
+conjugate_10	Lorvotuzumab	O
+conjugate_10	mertansine	O
+conjugate_10	IMGN901	O
+conjugate_10	is	O
+conjugate_10	an	O
+conjugate_10	antibody	O
+conjugate_10	drug	O
+conjugate_10	conjugate	conjugate_adj-nou

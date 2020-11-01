@@ -1,0 +1,17 @@
+advocate_74	Muloki	O
+advocate_74	was	O
+advocate_74	a	O
+advocate_74	strong	O
+advocate_74	advocate	advocate_nou
+advocate_74	for	O
+advocate_74	the	O
+advocate_74	Girl	O
+advocate_74	Child	O
+advocate_74	Education	O
+advocate_74	programmes	O
+advocate_74	and	O
+advocate_74	various	O
+advocate_74	other	O
+advocate_74	programmes	O
+advocate_74	in	O
+advocate_74	Busoga	O

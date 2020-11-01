@@ -1,0 +1,11 @@
+isolate_62	Berkelic	O
+isolate_62	acid	O
+isolate_62	is	O
+isolate_62	a	O
+isolate_62	fungal	O
+isolate_62	isolate	isolate_nou
+isolate_62	with	O
+isolate_62	anticancer	O
+isolate_62	activity	O
+isolate_62	in	O
+isolate_62	vitro	O

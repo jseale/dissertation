@@ -1,0 +1,11 @@
+bologna_1	Amico	O
+bologna_1	Bignami	O
+bologna_1	was	O
+bologna_1	born	O
+bologna_1	in	O
+bologna_1	Bologna	bologna_geo
+bologna_1	to	O
+bologna_1	Eugenia	O
+bologna_1	and	O
+bologna_1	Francesco	O
+bologna_1	Mazzoni	O

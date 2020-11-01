@@ -1,0 +1,15 @@
+intrigue_51	It	O
+intrigue_51	was	O
+intrigue_51	diametrically	O
+intrigue_51	opposed	O
+intrigue_51	to	O
+intrigue_51	abstract	O
+intrigue_51	art	O
+intrigue_51	and	O
+intrigue_51	far	O
+intrigue_51	removed	O
+intrigue_51	from	O
+intrigue_51	the	O
+intrigue_51	intrigue	intrigue_nou
+intrigue_51	of	O
+intrigue_51	surrealism	O

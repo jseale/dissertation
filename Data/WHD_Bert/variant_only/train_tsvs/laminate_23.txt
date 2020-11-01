@@ -1,0 +1,14 @@
+laminate_23	Construction	O
+laminate_23	is	O
+laminate_23	a	O
+laminate_23	laminate	laminate_nou
+laminate_23	of	O
+laminate_23	fibreglass	O
+laminate_23	with	O
+laminate_23	a	O
+laminate_23	12	O
+laminate_23	mm	O
+laminate_23	end	O
+laminate_23	grain	O
+laminate_23	balsa	O
+laminate_23	core	O

@@ -1,0 +1,17 @@
+progress_60	Progress	progress_nou
+progress_60	was	O
+progress_60	rapid	O
+progress_60	and	O
+progress_60	very	O
+progress_60	encouraging	O
+progress_60	with	O
+progress_60	hundreds	O
+progress_60	of	O
+progress_60	children	O
+progress_60	turning	O
+progress_60	up	O
+progress_60	on	O
+progress_60	Saturday	O
+progress_60	morning	O
+progress_60	coaching	O
+progress_60	clinics	O

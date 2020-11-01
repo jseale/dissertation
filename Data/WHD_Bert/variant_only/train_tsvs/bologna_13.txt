@@ -1,0 +1,15 @@
+bologna_13	Negri	O
+bologna_13	was	O
+bologna_13	born	O
+bologna_13	in	O
+bologna_13	Bologna	bologna_geo
+bologna_13	and	O
+bologna_13	made	O
+bologna_13	her	O
+bologna_13	debut	O
+bologna_13	there	O
+bologna_13	at	O
+bologna_13	the	O
+bologna_13	age	O
+bologna_13	of	O
+bologna_13	15	O

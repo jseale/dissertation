@@ -1,0 +1,17 @@
+initiate_46	She	O
+initiate_46	then	O
+initiate_46	served	O
+initiate_46	during	O
+initiate_46	the	O
+initiate_46	American	O
+initiate_46	Revolutionary	O
+initiate_46	War	O
+initiate_46	where	O
+initiate_46	she	O
+initiate_46	helped	O
+initiate_46	initiate	initiate_vrb
+initiate_46	the	O
+initiate_46	Battle	O
+initiate_46	of	O
+initiate_46	Bunker	O
+initiate_46	Hill	O

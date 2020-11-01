@@ -1,0 +1,12 @@
+record_23	The	O
+record_23	22	O
+record_23	innings	O
+record_23	bested	O
+record_23	the	O
+record_23	previous	O
+record_23	21	O
+record_23	inning	O
+record_23	South	O
+record_23	Atlantic	O
+record_23	League	O
+record_23	record	record_nou

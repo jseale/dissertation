@@ -1,0 +1,15 @@
+abstract_40	Kotu	O
+abstract_40	Ellima	O
+abstract_40	is	O
+abstract_40	a	O
+abstract_40	two	O
+abstract_40	player	O
+abstract_40	abstract	abstract_adj-nou
+abstract_40	strategy	O
+abstract_40	board	O
+abstract_40	game	O
+abstract_40	from	O
+abstract_40	Sri	O
+abstract_40	Lanka	O
+abstract_40	and	O
+abstract_40	India	O

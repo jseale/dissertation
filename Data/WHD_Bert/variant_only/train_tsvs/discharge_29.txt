@@ -1,0 +1,12 @@
+discharge_29	After	O
+discharge_29	his	O
+discharge_29	honorable	O
+discharge_29	discharge	discharge_nou
+discharge_29	Dolarhyde	O
+discharge_29	gets	O
+discharge_29	a	O
+discharge_29	job	O
+discharge_29	with	O
+discharge_29	the	O
+discharge_29	Gateway	O
+discharge_29	Corp.	O

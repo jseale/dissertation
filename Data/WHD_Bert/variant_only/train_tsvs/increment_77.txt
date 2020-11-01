@@ -1,0 +1,15 @@
+increment_77	However	O
+increment_77	in	O
+increment_77	practice	O
+increment_77	buyers	O
+increment_77	increase	O
+increment_77	the	O
+increment_77	displayed	O
+increment_77	price	O
+increment_77	much	O
+increment_77	more	O
+increment_77	than	O
+increment_77	the	O
+increment_77	minimal	O
+increment_77	allowed	O
+increment_77	increment	increment_nou

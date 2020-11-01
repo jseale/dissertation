@@ -1,0 +1,15 @@
+dove_2	Crosby	O
+dove_2	's	O
+dove_2	poetry	O
+dove_2	remained	O
+dove_2	relatively	O
+dove_2	conventional	O
+dove_2	still	O
+dove_2	rhyming	O
+dove_2	love	O
+dove_2	with	O
+dove_2	dove	dove
+dove_2	by	O
+dove_2	her	O
+dove_2	own	O
+dove_2	admission	O

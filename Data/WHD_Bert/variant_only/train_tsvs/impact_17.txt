@@ -1,0 +1,17 @@
+impact_17	The	O
+impact_17	novel	O
+impact_17	was	O
+impact_17	first	O
+impact_17	published	O
+impact_17	in	O
+impact_17	1939	O
+impact_17	although	O
+impact_17	the	O
+impact_17	impact	impact_nou
+impact_17	of	O
+impact_17	World	O
+impact_17	War	O
+impact_17	II	O
+impact_17	stunted	O
+impact_17	its	O
+impact_17	popularity	O

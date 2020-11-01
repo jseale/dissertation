@@ -1,0 +1,9 @@
+increase_1	The	O
+increase_1	latest	O
+increase_1	general	O
+increase_1	speed	O
+increase_1	increase	increase_nou
+increase_1	was	O
+increase_1	in	O
+increase_1	March	O
+increase_1	2015	O

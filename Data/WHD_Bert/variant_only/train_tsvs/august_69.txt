@@ -1,0 +1,17 @@
+august_69	Once	O
+august_69	the	O
+august_69	due	O
+august_69	planning	O
+august_69	had	O
+august_69	been	O
+august_69	carried	O
+august_69	out	O
+august_69	it	O
+august_69	was	O
+august_69	decided	O
+august_69	to	O
+august_69	begin	O
+august_69	the	O
+august_69	operation	O
+august_69	in	O
+august_69	August	august

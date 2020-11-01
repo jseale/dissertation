@@ -1,0 +1,15 @@
+insert_51	Progesterone	O
+insert_51	for	O
+insert_51	vaginal	O
+insert_51	administration	O
+insert_51	is	O
+insert_51	available	O
+insert_51	in	O
+insert_51	the	O
+insert_51	form	O
+insert_51	of	O
+insert_51	a	O
+insert_51	gel	O
+insert_51	or	O
+insert_51	insert	insert_nou
+insert_51	suppository	O

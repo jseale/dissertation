@@ -1,0 +1,10 @@
+separate_4	There	O
+separate_4	were	O
+separate_4	2	O
+separate_4	groups	O
+separate_4	of	O
+separate_4	heavy	O
+separate_4	artillery	O
+separate_4	like	O
+separate_4	separate	separate_adj
+separate_4	units	O

@@ -1,0 +1,17 @@
+retard_46	As	O
+retard_46	a	O
+retard_46	result	O
+retard_46	a	O
+retard_46	boundary	O
+retard_46	may	O
+retard_46	be	O
+retard_46	associated	O
+retard_46	with	O
+retard_46	a	O
+retard_46	solute	O
+retard_46	atmosphere	O
+retard_46	that	O
+retard_46	will	O
+retard_46	retard	retard_vrb
+retard_46	its	O
+retard_46	movement	O

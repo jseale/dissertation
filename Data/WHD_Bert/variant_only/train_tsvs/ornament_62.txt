@@ -1,0 +1,16 @@
+ornament_62	This	O
+ornament_62	included	O
+ornament_62	a	O
+ornament_62	shield	O
+ornament_62	ornament	ornament_nou
+ornament_62	containing	O
+ornament_62	an	O
+ornament_62	Assyrian	O
+ornament_62	style	O
+ornament_62	subject	O
+ornament_62	of	O
+ornament_62	lions	O
+ornament_62	and	O
+ornament_62	men	O
+ornament_62	being	O
+ornament_62	trampled	O

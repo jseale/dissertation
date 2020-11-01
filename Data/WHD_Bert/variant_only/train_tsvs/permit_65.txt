@@ -1,0 +1,17 @@
+permit_65	The	O
+permit_65	use	O
+permit_65	of	O
+permit_65	low	O
+permit_65	fire	O
+permit_65	clay	O
+permit_65	and	O
+permit_65	glazes	O
+permit_65	permit	permit_vrb
+permit_65	the	O
+permit_65	construction	O
+permit_65	of	O
+permit_65	large	O
+permit_65	objects	O
+permit_65	and	O
+permit_65	brighter	O
+permit_65	colours	O

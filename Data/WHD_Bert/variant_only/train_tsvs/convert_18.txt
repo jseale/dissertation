@@ -1,0 +1,13 @@
+convert_18	He	O
+convert_18	was	O
+convert_18	the	O
+convert_18	first	O
+convert_18	convert	convert_nou
+convert_18	of	O
+convert_18	George	O
+convert_18	Hughes	O
+convert_18	the	O
+convert_18	puritan	O
+convert_18	vicar	O
+convert_18	of	O
+convert_18	Tavistock	O

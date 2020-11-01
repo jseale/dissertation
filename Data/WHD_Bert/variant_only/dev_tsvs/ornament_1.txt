@@ -1,0 +1,12 @@
+ornament_1	This	O
+ornament_1	is	O
+ornament_1	typically	O
+ornament_1	Norman	O
+ornament_1	with	O
+ornament_1	round	O
+ornament_1	headed	O
+ornament_1	windows	O
+ornament_1	and	O
+ornament_1	much	O
+ornament_1	chevron	O
+ornament_1	ornament	ornament_nou

@@ -1,0 +1,17 @@
+deviate_2	Thus	O
+deviate_2	old	O
+deviate_2	samples	O
+deviate_2	of	O
+deviate_2	ammonia	O
+deviate_2	solution	O
+deviate_2	will	O
+deviate_2	deviate	deviate_vrb
+deviate_2	from	O
+deviate_2	18	O
+deviate_2	M	O
+deviate_2	as	O
+deviate_2	can	O
+deviate_2	be	O
+deviate_2	verified	O
+deviate_2	by	O
+deviate_2	titration	O

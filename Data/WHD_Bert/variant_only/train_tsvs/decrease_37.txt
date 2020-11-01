@@ -1,0 +1,11 @@
+decrease_37	Naltrexone	O
+decrease_37	is	O
+decrease_37	used	O
+decrease_37	to	O
+decrease_37	decrease	decrease_vrb
+decrease_37	cravings	O
+decrease_37	for	O
+decrease_37	alcohol	O
+decrease_37	and	O
+decrease_37	encourage	O
+decrease_37	abstinence	O

@@ -1,0 +1,12 @@
+insult_52	To	O
+insult_52	call	O
+insult_52	the	O
+insult_52	characters	O
+insult_52	cardboard	O
+insult_52	is	O
+insult_52	to	O
+insult_52	insult	insult_vrb
+insult_52	a	O
+insult_52	useful	O
+insult_52	packing	O
+insult_52	material	O

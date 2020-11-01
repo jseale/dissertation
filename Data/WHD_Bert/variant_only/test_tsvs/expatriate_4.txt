@@ -1,0 +1,14 @@
+expatriate_4	An	O
+expatriate_4	international	O
+expatriate_4	school	O
+expatriate_4	exists	O
+expatriate_4	to	O
+expatriate_4	serve	O
+expatriate_4	the	O
+expatriate_4	community	O
+expatriate_4	of	O
+expatriate_4	expatriate	expatriate_nou
+expatriate_4	residents	O
+expatriate_4	of	O
+expatriate_4	Porto	O
+expatriate_4	Montenegro	O

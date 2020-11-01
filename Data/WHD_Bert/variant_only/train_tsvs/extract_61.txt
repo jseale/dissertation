@@ -1,0 +1,9 @@
+extract_61	The	O
+extract_61	malt	O
+extract_61	extract	extract_nou
+extract_61	is	O
+extract_61	stabilized	O
+extract_61	and	O
+extract_61	sterilised	O
+extract_61	during	O
+extract_61	boiling	O

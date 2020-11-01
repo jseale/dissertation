@@ -1,0 +1,17 @@
+wound_28	In	O
+wound_28	1982	O
+wound_28	he	O
+wound_28	belatedly	O
+wound_28	received	O
+wound_28	the	O
+wound_28	Purple	O
+wound_28	Heart	O
+wound_28	for	O
+wound_28	the	O
+wound_28	wound	wound_nou-vrb
+wound_28	he	O
+wound_28	received	O
+wound_28	on	O
+wound_28	26	O
+wound_28	August	O
+wound_28	1918	O

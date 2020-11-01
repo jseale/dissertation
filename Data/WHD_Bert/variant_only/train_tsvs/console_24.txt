@@ -1,0 +1,15 @@
+console_24	After	O
+console_24	the	O
+console_24	announcement	O
+console_24	several	O
+console_24	journalists	O
+console_24	classified	O
+console_24	the	O
+console_24	system	O
+console_24	as	O
+console_24	the	O
+console_24	first	O
+console_24	eighth	O
+console_24	generation	O
+console_24	home	O
+console_24	console	console_nou

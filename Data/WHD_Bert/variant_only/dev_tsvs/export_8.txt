@@ -1,0 +1,17 @@
+export_8	He	O
+export_8	emigrated	O
+export_8	to	O
+export_8	the	O
+export_8	US	O
+export_8	in	O
+export_8	1970	O
+export_8	and	O
+export_8	ran	O
+export_8	an	O
+export_8	export	export_nou
+export_8	business	O
+export_8	selling	O
+export_8	golf	O
+export_8	balls	O
+export_8	to	O
+export_8	Japan	O

@@ -1,0 +1,15 @@
+fragment_8	This	O
+fragment_8	fragment	fragment_nou
+fragment_8	can	O
+fragment_8	not	O
+fragment_8	be	O
+fragment_8	clearly	O
+fragment_8	attributed	O
+fragment_8	to	O
+fragment_8	a	O
+fragment_8	specific	O
+fragment_8	wall	O
+fragment_8	of	O
+fragment_8	the	O
+fragment_8	mastaba	O
+fragment_8	either	O

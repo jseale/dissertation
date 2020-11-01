@@ -1,0 +1,17 @@
+read_0	When	O
+read_0	he	O
+read_0	turned	O
+read_0	110	O
+read_0	Koide	O
+read_0	could	O
+read_0	still	O
+read_0	read	read_present
+read_0	newspapers	O
+read_0	without	O
+read_0	Eye	O
+read_0	glasses	O
+read_0	and	O
+read_0	could	O
+read_0	eat	O
+read_0	without	O
+read_0	dentures	O

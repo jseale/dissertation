@@ -1,0 +1,8 @@
+aggregate_20	Metacritic	O
+aggregate_20	gives	O
+aggregate_20	it	O
+aggregate_20	an	O
+aggregate_20	aggregate	aggregate_adj-nou
+aggregate_20	score	O
+aggregate_20	of	O
+aggregate_20	52	O

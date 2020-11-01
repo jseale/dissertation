@@ -1,0 +1,13 @@
+delegate_52	He	O
+delegate_52	served	O
+delegate_52	as	O
+delegate_52	delegate	delegate_nou
+delegate_52	from	O
+delegate_52	Mobile	O
+delegate_52	to	O
+delegate_52	the	O
+delegate_52	State	O
+delegate_52	constitutional	O
+delegate_52	convention	O
+delegate_52	in	O
+delegate_52	1861	O

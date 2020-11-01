@@ -1,0 +1,8 @@
+house_64	Fischer	O
+house_64	house	house_nou
+house_64	sold	O
+house_64	at	O
+house_64	loss	O
+house_64	of	O
+house_64	$	O
+house_64	18,000	O

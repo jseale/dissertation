@@ -1,0 +1,14 @@
+live_59	The	O
+live_59	May	O
+live_59	8	O
+live_59	performance	O
+live_59	was	O
+live_59	broadcast	O
+live_59	nationally	O
+live_59	on	O
+live_59	Live	live_adj
+live_59	from	O
+live_59	Lincoln	O
+live_59	Center	O
+live_59	on	O
+live_59	PBS	O

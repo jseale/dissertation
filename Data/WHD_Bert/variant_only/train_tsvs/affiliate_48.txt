@@ -1,0 +1,17 @@
+affiliate_48	It	O
+affiliate_48	violated	O
+affiliate_48	Federal	O
+affiliate_48	Communications	O
+affiliate_48	Commission	O
+affiliate_48	FCC	O
+affiliate_48	rules	O
+affiliate_48	regarding	O
+affiliate_48	station	O
+affiliate_48	ownership	O
+affiliate_48	because	O
+affiliate_48	Raycom	O
+affiliate_48	already	O
+affiliate_48	owned	O
+affiliate_48	Fox	O
+affiliate_48	affiliate	affiliate_nou
+affiliate_48	WFXL	O

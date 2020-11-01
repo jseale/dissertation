@@ -1,0 +1,9 @@
+abuse_48	The	O
+abuse_48	charges	O
+abuse_48	of	O
+abuse_48	third	O
+abuse_48	degree	O
+abuse_48	sexual	O
+abuse_48	abuse	abuse_nou
+abuse_48	were	O
+abuse_48	dropped	O

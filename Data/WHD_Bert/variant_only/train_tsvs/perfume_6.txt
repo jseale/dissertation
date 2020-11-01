@@ -1,0 +1,12 @@
+perfume_6	The	O
+perfume_6	Perfume	perfume_nou
+perfume_6	Shop	O
+perfume_6	is	O
+perfume_6	a	O
+perfume_6	United	O
+perfume_6	Kingdom	O
+perfume_6	perfume	perfume_nou
+perfume_6	retailer	O
+perfume_6	founded	O
+perfume_6	in	O
+perfume_6	1992	O

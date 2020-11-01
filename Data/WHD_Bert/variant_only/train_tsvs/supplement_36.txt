@@ -1,0 +1,17 @@
+supplement_36	It	O
+supplement_36	holds	O
+supplement_36	to	O
+supplement_36	the	O
+supplement_36	principle	O
+supplement_36	that	O
+supplement_36	government	O
+supplement_36	activity	O
+supplement_36	should	O
+supplement_36	supplement	supplement_vrb
+supplement_36	but	O
+supplement_36	not	O
+supplement_36	supplant	O
+supplement_36	communal	O
+supplement_36	action	O
+supplement_36	by	O
+supplement_36	citizens	O

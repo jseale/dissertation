@@ -1,0 +1,17 @@
+pasty_70	Spatter	O
+pasty_70	cones	O
+pasty_70	are	O
+pasty_70	created	O
+pasty_70	by	O
+pasty_70	accumulations	O
+pasty_70	of	O
+pasty_70	pasty	pasty_nou
+pasty_70	gas	O
+pasty_70	poor	O
+pasty_70	lava	O
+pasty_70	as	O
+pasty_70	they	O
+pasty_70	erupt	O
+pasty_70	from	O
+pasty_70	a	O
+pasty_70	vent	O

@@ -1,0 +1,10 @@
+import_73	We	O
+import_73	know	O
+import_73	that	O
+import_73	our	O
+import_73	food	O
+import_73	import	import_nou
+import_73	bill	O
+import_73	is	O
+import_73	too	O
+import_73	high	O

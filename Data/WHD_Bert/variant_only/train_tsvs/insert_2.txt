@@ -1,0 +1,17 @@
+insert_2	There	O
+insert_2	he	O
+insert_2	will	O
+insert_2	insert	insert_vrb
+insert_2	himself	O
+insert_2	into	O
+insert_2	their	O
+insert_2	journey	O
+insert_2	costumed	O
+insert_2	as	O
+insert_2	a	O
+insert_2	ridiculous	O
+insert_2	antagonist	O
+insert_2	of	O
+insert_2	his	O
+insert_2	own	O
+insert_2	invention	O

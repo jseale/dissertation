@@ -1,0 +1,7 @@
+frequent_4	The	O
+frequent_4	town	O
+frequent_4	is	O
+frequent_4	subject	O
+frequent_4	to	O
+frequent_4	frequent	frequent_adj
+frequent_4	typhoons	O

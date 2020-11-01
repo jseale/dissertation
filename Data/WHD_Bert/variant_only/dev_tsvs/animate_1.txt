@@ -1,0 +1,16 @@
+animate_1	It	O
+animate_1	is	O
+animate_1	a	O
+animate_1	facial	O
+animate_1	animation	O
+animate_1	tool	O
+animate_1	that	O
+animate_1	uses	O
+animate_1	voice	O
+animate_1	and	O
+animate_1	text	O
+animate_1	to	O
+animate_1	vividly	O
+animate_1	animate	animate_vrb
+animate_1	facial	O
+animate_1	images	O

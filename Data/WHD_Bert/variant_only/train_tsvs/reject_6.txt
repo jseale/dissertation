@@ -1,0 +1,15 @@
+reject_6	This	O
+reject_6	type	O
+reject_6	of	O
+reject_6	structure	O
+reject_6	would	O
+reject_6	be	O
+reject_6	known	O
+reject_6	as	O
+reject_6	a	O
+reject_6	band	O
+reject_6	reject	reject_nou
+reject_6	or	O
+reject_6	band	O
+reject_6	stop	O
+reject_6	filter	O

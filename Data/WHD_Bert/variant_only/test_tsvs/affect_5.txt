@@ -1,0 +1,16 @@
+affect_5	This	O
+affect_5	does	O
+affect_5	not	O
+affect_5	affect	affect
+affect_5	movie	O
+affect_5	distribution	O
+affect_5	via	O
+affect_5	physical	O
+affect_5	tapes	O
+affect_5	or	O
+affect_5	discs	O
+affect_5	cable	O
+affect_5	TV	O
+affect_5	or	O
+affect_5	the	O
+affect_5	Internet	O

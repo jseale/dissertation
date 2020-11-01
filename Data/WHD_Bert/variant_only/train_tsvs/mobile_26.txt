@@ -1,0 +1,7 @@
+mobile_26	However	O
+mobile_26	his	O
+mobile_26	mobile	mobile
+mobile_26	phone	O
+mobile_26	is	O
+mobile_26	still	O
+mobile_26	working	O

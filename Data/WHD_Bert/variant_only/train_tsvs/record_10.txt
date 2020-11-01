@@ -1,0 +1,13 @@
+record_10	The	O
+record_10	first	O
+record_10	known	O
+record_10	record	record_nou
+record_10	of	O
+record_10	the	O
+record_10	chapel	O
+record_10	dates	O
+record_10	from	O
+record_10	between	O
+record_10	1220	O
+record_10	and	O
+record_10	1227	O

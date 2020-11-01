@@ -1,0 +1,11 @@
+predicate_6	In	O
+predicate_6	1922	O
+predicate_6	Behmann	O
+predicate_6	proved	O
+predicate_6	that	O
+predicate_6	the	O
+predicate_6	monadic	O
+predicate_6	predicate	predicate_nou
+predicate_6	calculus	O
+predicate_6	is	O
+predicate_6	decidable	O

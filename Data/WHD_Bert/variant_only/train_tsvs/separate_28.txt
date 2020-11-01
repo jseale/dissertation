@@ -1,0 +1,16 @@
+separate_28	The	O
+separate_28	wheel	O
+separate_28	was	O
+separate_28	sprung	O
+separate_28	and	O
+separate_28	had	O
+separate_28	its	O
+separate_28	own	O
+separate_28	wheel	O
+separate_28	housing	O
+separate_28	separate	separate_adj
+separate_28	from	O
+separate_28	the	O
+separate_28	internal	O
+separate_28	fuselage	O
+separate_28	space	O

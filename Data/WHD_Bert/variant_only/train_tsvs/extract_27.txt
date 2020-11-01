@@ -1,0 +1,17 @@
+extract_27	However	O
+extract_27	before	O
+extract_27	Aaron	O
+extract_27	can	O
+extract_27	extract	extract_vrb
+extract_27	Inigo	O
+extract_27	Accelerator	O
+extract_27	agents	O
+extract_27	destroy	O
+extract_27	Aaron	O
+extract_27	's	O
+extract_27	starship	O
+extract_27	leaving	O
+extract_27	him	O
+extract_27	marooned	O
+extract_27	on	O
+extract_27	Hanko	O

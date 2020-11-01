@@ -1,0 +1,17 @@
+convert_6	Senders	O
+convert_6	convert	convert_vrb
+convert_6	their	O
+convert_6	messages	O
+convert_6	written	O
+convert_6	with	O
+convert_6	Chinese	O
+convert_6	characters	O
+convert_6	to	O
+convert_6	a	O
+convert_6	sequence	O
+convert_6	of	O
+convert_6	digits	O
+convert_6	according	O
+convert_6	to	O
+convert_6	the	O
+convert_6	codebook	O

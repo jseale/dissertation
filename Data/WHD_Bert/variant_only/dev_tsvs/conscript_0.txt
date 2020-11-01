@@ -1,0 +1,13 @@
+conscript_0	Iraqi	O
+conscript_0	forces	O
+conscript_0	consisted	O
+conscript_0	mostly	O
+conscript_0	of	O
+conscript_0	conscript	conscript_nou
+conscript_0	infantry	O
+conscript_0	backed	O
+conscript_0	by	O
+conscript_0	Republican	O
+conscript_0	Guard	O
+conscript_0	tank	O
+conscript_0	brigades	O

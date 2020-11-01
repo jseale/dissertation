@@ -1,0 +1,17 @@
+expatriate_77	Guiluxe	O
+expatriate_77	a	O
+expatriate_77	favorite	O
+expatriate_77	of	O
+expatriate_77	expatriate	expatriate_nou
+expatriate_77	Peace	O
+expatriate_77	Corps	O
+expatriate_77	Volunteers	O
+expatriate_77	is	O
+expatriate_77	the	O
+expatriate_77	only	O
+expatriate_77	known	O
+expatriate_77	locally	O
+expatriate_77	brewed	O
+expatriate_77	beer	O
+expatriate_77	in	O
+expatriate_77	Guinea	O

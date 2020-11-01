@@ -1,0 +1,14 @@
+compound_1	Tungsten	O
+compound_1	hexachloride	O
+compound_1	is	O
+compound_1	the	O
+compound_1	chemical	O
+compound_1	compound	compound_nou
+compound_1	of	O
+compound_1	tungsten	O
+compound_1	and	O
+compound_1	chlorine	O
+compound_1	with	O
+compound_1	the	O
+compound_1	formula	O
+compound_1	WCl₆.	O

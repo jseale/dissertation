@@ -1,0 +1,17 @@
+decrease_63	This	O
+decrease_63	was	O
+decrease_63	a	O
+decrease_63	moderate	O
+decrease_63	decrease	decrease_nou
+decrease_63	from	O
+decrease_63	the	O
+decrease_63	previous	O
+decrease_63	episode	O
+decrease_63	Un	O
+decrease_63	American	O
+decrease_63	Graffiti	O
+decrease_63	which	O
+decrease_63	earned	O
+decrease_63	2.35	O
+decrease_63	million	O
+decrease_63	viewers	O

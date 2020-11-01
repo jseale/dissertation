@@ -1,0 +1,11 @@
+blessed_19	This	O
+blessed_19	is	O
+blessed_19	an	O
+blessed_19	allegory	O
+blessed_19	for	O
+blessed_19	Nocturnal	O
+blessed_19	Adoration	O
+blessed_19	of	O
+blessed_19	the	O
+blessed_19	Blessed	blessed_adj
+blessed_19	Sacrament	O

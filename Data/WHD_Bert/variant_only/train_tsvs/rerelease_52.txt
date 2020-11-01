@@ -1,0 +1,14 @@
+rerelease_52	The	O
+rerelease_52	puppet	O
+rerelease_52	was	O
+rerelease_52	replaced	O
+rerelease_52	with	O
+rerelease_52	a	O
+rerelease_52	computer	O
+rerelease_52	generated	O
+rerelease_52	image	O
+rerelease_52	for	O
+rerelease_52	the	O
+rerelease_52	Special	O
+rerelease_52	Edition	O
+rerelease_52	rerelease	rerelease

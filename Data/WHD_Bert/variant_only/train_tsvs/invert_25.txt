@@ -1,0 +1,16 @@
+invert_25	It	O
+invert_25	is	O
+invert_25	an	O
+invert_25	optional	O
+invert_25	bit	O
+invert_25	flipper	O
+invert_25	the	O
+invert_25	deciding	O
+invert_25	input	O
+invert_25	chooses	O
+invert_25	whether	O
+invert_25	to	O
+invert_25	invert	invert_vrb
+invert_25	the	O
+invert_25	data	O
+invert_25	input	O

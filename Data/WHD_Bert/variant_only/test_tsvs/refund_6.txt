@@ -1,0 +1,8 @@
+refund_6	Reacher	O
+refund_6	forces	O
+refund_6	Rutter	O
+refund_6	to	O
+refund_6	refund	refund_vrb
+refund_6	the	O
+refund_6	Hobies	O
+refund_6	money	O

@@ -1,0 +1,15 @@
+celtic_33	From	O
+celtic_33	1913	O
+celtic_33	to	O
+celtic_33	1954	O
+celtic_33	he	O
+celtic_33	was	O
+celtic_33	Professor	O
+celtic_33	in	O
+celtic_33	Celtic	celtic
+celtic_33	languages	O
+celtic_33	at	O
+celtic_33	the	O
+celtic_33	University	O
+celtic_33	of	O
+celtic_33	Oslo	O

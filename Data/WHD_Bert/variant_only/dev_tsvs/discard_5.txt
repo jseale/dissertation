@@ -1,0 +1,13 @@
+discard_5	Condon	O
+discard_5	should	O
+discard_5	discard	discard_vrb
+discard_5	the	O
+discard_5	rest	O
+discard_5	of	O
+discard_5	the	O
+discard_5	book	O
+discard_5	and	O
+discard_5	rebuild	O
+discard_5	on	O
+discard_5	this	O
+discard_5	foundation	O

@@ -1,0 +1,7 @@
+winds_47	High	O
+winds_47	winds	winds_nou
+winds_47	cause	O
+winds_47	power	O
+winds_47	outages	O
+winds_47	in	O
+winds_47	Wellington	O

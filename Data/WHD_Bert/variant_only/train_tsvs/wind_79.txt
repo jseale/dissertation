@@ -1,0 +1,17 @@
+wind_79	This	O
+wind_79	emergent	O
+wind_79	coastal	O
+wind_79	plain	O
+wind_79	is	O
+wind_79	made	O
+wind_79	up	O
+wind_79	of	O
+wind_79	sand	O
+wind_79	and	O
+wind_79	mud	O
+wind_79	deposited	O
+wind_79	by	O
+wind_79	rivers	O
+wind_79	and	O
+wind_79	by	O
+wind_79	wind	wind_nou

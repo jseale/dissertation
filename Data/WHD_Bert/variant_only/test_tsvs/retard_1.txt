@@ -1,0 +1,13 @@
+retard_1	The	O
+retard_1	topographical	O
+retard_1	setting	O
+retard_1	may	O
+retard_1	either	O
+retard_1	hasten	O
+retard_1	or	O
+retard_1	retard	retard_vrb
+retard_1	the	O
+retard_1	work	O
+retard_1	of	O
+retard_1	climatic	O
+retard_1	forces	O

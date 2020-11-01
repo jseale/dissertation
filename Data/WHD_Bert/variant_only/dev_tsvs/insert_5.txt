@@ -1,0 +1,16 @@
+insert_5	The	O
+insert_5	insert	insert_nou
+insert_5	previews	O
+insert_5	began	O
+insert_5	with	O
+insert_5	The	O
+insert_5	New	O
+insert_5	Teen	O
+insert_5	Titans	O
+insert_5	in	O
+insert_5	DC	O
+insert_5	Comics	O
+insert_5	Presents	O
+insert_5	26	O
+insert_5	Oct.	O
+insert_5	1980	O

@@ -1,0 +1,11 @@
+refund_73	If	O
+refund_73	the	O
+refund_73	man	O
+refund_73	broke	O
+refund_73	off	O
+refund_73	the	O
+refund_73	engagement	O
+refund_73	he	O
+refund_73	got	O
+refund_73	no	O
+refund_73	refund	refund_nou

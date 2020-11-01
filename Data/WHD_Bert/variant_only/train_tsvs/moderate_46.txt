@@ -1,0 +1,10 @@
+moderate_46	The	O
+moderate_46	film	O
+moderate_46	released	O
+moderate_46	on	O
+moderate_46	7	O
+moderate_46	May	O
+moderate_46	2010	O
+moderate_46	to	O
+moderate_46	Moderate	moderate_adj-nou
+moderate_46	responses	O

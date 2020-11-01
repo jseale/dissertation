@@ -1,0 +1,17 @@
+insert_1	The	O
+insert_1	book	O
+insert_1	runs	O
+insert_1	160	O
+insert_1	pages	O
+insert_1	and	O
+insert_1	contains	O
+insert_1	a	O
+insert_1	four	O
+insert_1	page	O
+insert_1	insert	insert_nou
+insert_1	of	O
+insert_1	black	O
+insert_1	and	O
+insert_1	white	O
+insert_1	movie	O
+insert_1	stills	O

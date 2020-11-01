@@ -1,0 +1,16 @@
+discharge_33	He	O
+discharge_33	remained	O
+discharge_33	as	O
+discharge_33	supernumerary	O
+discharge_33	until	O
+discharge_33	November	O
+discharge_33	12	O
+discharge_33	1883	O
+discharge_33	when	O
+discharge_33	he	O
+discharge_33	received	O
+discharge_33	an	O
+discharge_33	honorable	O
+discharge_33	discharge	discharge_nou
+discharge_33	from	O
+discharge_33	Gov.	O

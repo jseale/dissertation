@@ -1,0 +1,11 @@
+sake_63	Padmapriya	O
+sake_63	says	O
+sake_63	she	O
+sake_63	accepted	O
+sake_63	this	O
+sake_63	offer	O
+sake_63	for	O
+sake_63	the	O
+sake_63	sake	sake
+sake_63	of	O
+sake_63	friendship	O

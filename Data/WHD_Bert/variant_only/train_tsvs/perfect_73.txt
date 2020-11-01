@@ -1,0 +1,11 @@
+perfect_73	What	O
+perfect_73	followed	O
+perfect_73	was	O
+perfect_73	a	O
+perfect_73	perfect	perfect_adj
+perfect_73	octaves	O
+perfect_73	lower	O
+perfect_73	performance	O
+perfect_73	of	O
+perfect_73	that	O
+perfect_73	part	O

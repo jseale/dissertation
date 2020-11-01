@@ -1,0 +1,9 @@
+conscript_4	The	O
+conscript_4	system	O
+conscript_4	was	O
+conscript_4	called	O
+conscript_4	conscript	conscript_nou
+conscript_4	obligation	O
+conscript_4	Russian	O
+conscript_4	рекрутская	O
+conscript_4	повинность	O

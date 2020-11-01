@@ -1,0 +1,15 @@
+increase_3	As	O
+increase_3	a	O
+increase_3	result	O
+increase_3	he	O
+increase_3	was	O
+increase_3	able	O
+increase_3	to	O
+increase_3	increase	increase_vrb
+increase_3	membership	O
+increase_3	from	O
+increase_3	537	O
+increase_3	to	O
+increase_3	4,500	O
+increase_3	by	O
+increase_3	1906	O

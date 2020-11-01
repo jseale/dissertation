@@ -1,0 +1,10 @@
+celtic_26	The	O
+celtic_26	Duero	O
+celtic_26	group	O
+celtic_26	possibly	O
+celtic_26	the	O
+celtic_26	precursor	O
+celtic_26	of	O
+celtic_26	the	O
+celtic_26	Celtic	celtic
+celtic_26	Vaccei	O

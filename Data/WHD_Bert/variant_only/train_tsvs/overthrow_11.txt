@@ -1,0 +1,7 @@
+overthrow_11	The	O
+overthrow_11	front	O
+overthrow_11	vowed	O
+overthrow_11	to	O
+overthrow_11	overthrow	overthrow_vrb
+overthrow_11	Saddam	O
+overthrow_11	Hussein	O

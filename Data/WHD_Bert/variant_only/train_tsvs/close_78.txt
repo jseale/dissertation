@@ -1,0 +1,16 @@
+close_78	The	O
+close_78	power	O
+close_78	station	O
+close_78	is	O
+close_78	located	O
+close_78	in	O
+close_78	Buseruka	O
+close_78	Village	O
+close_78	close	close_adj-nou
+close_78	to	O
+close_78	the	O
+close_78	eastern	O
+close_78	shores	O
+close_78	of	O
+close_78	Lake	O
+close_78	Albert	O

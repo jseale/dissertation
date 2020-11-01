@@ -1,0 +1,17 @@
+convert_64	Church	O
+convert_64	leaders	O
+convert_64	and	O
+convert_64	Christian	O
+convert_64	communities	O
+convert_64	received	O
+convert_64	letters	O
+convert_64	warning	O
+convert_64	them	O
+convert_64	to	O
+convert_64	convert	convert_vrb
+convert_64	to	O
+convert_64	Islam	O
+convert_64	or	O
+convert_64	face	O
+convert_64	suicide	O
+convert_64	bombings	O

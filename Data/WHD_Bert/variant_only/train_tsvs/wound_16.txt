@@ -1,0 +1,11 @@
+wound_16	Once	O
+wound_16	they	O
+wound_16	are	O
+wound_16	in	O
+wound_16	the	O
+wound_16	wound	wound_nou-vrb
+wound_16	site	O
+wound_16	monocytes	O
+wound_16	mature	O
+wound_16	into	O
+wound_16	macrophages	O

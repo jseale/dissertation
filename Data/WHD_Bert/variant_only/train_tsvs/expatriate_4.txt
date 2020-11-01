@@ -1,0 +1,14 @@
+expatriate_4	This	O
+expatriate_4	tradition	O
+expatriate_4	continued	O
+expatriate_4	until	O
+expatriate_4	the	O
+expatriate_4	late	O
+expatriate_4	70	O
+expatriate_4	's	O
+expatriate_4	when	O
+expatriate_4	the	O
+expatriate_4	local	O
+expatriate_4	expatriate	expatriate_nou
+expatriate_4	population	O
+expatriate_4	diminished	O

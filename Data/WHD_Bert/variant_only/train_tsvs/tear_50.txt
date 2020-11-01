@@ -1,0 +1,13 @@
+tear_50	The	O
+tear_50	police	O
+tear_50	again	O
+tear_50	used	O
+tear_50	tear	tear_nou
+tear_50	gas	O
+tear_50	and	O
+tear_50	a	O
+tear_50	water	O
+tear_50	cannon	O
+tear_50	to	O
+tear_50	control	O
+tear_50	crowds	O

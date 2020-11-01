@@ -1,0 +1,15 @@
+consummate_61	In	O
+consummate_61	this	O
+consummate_61	context	O
+consummate_61	it	O
+consummate_61	means	O
+consummate_61	of	O
+consummate_61	a	O
+consummate_61	degree	O
+consummate_61	highest	O
+consummate_61	of	O
+consummate_61	its	O
+consummate_61	kind	O
+consummate_61	or	O
+consummate_61	consummate	consummate_adj
+consummate_61	cf	O

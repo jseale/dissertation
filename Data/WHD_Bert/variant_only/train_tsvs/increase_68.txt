@@ -1,0 +1,15 @@
+increase_68	CiU	O
+increase_68	supported	O
+increase_68	changes	O
+increase_68	to	O
+increase_68	the	O
+increase_68	Catalan	O
+increase_68	Statute	O
+increase_68	of	O
+increase_68	Autonomy	O
+increase_68	to	O
+increase_68	further	O
+increase_68	increase	increase_vrb
+increase_68	Catalonia	O
+increase_68	's	O
+increase_68	autonomy	O

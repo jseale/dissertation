@@ -1,0 +1,15 @@
+decrease_72	These	O
+decrease_72	programs	O
+decrease_72	have	O
+decrease_72	been	O
+decrease_72	proven	O
+decrease_72	to	O
+decrease_72	decrease	decrease_vrb
+decrease_72	substance	O
+decrease_72	abuse	O
+decrease_72	and	O
+decrease_72	increase	O
+decrease_72	communal	O
+decrease_72	connections	O
+decrease_72	and	O
+decrease_72	support	O

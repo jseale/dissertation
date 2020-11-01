@@ -1,0 +1,13 @@
+moderate_9	This	O
+moderate_9	scale	O
+moderate_9	indicates	O
+moderate_9	the	O
+moderate_9	impact	O
+moderate_9	of	O
+moderate_9	the	O
+moderate_9	film	O
+moderate_9	low	O
+moderate_9	mild	O
+moderate_9	moderate	moderate_adj-nou
+moderate_9	or	O
+moderate_9	strong	O

@@ -1,0 +1,9 @@
+degenerate_21	In	O
+degenerate_21	this	O
+degenerate_21	respect	O
+degenerate_21	they	O
+degenerate_21	resemble	O
+degenerate_21	degenerate	degenerate_adj-nou
+degenerate_21	semiconductors	O
+degenerate_21	more	O
+degenerate_21	closely	O

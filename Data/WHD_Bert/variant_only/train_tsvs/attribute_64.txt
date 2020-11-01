@@ -1,0 +1,16 @@
+attribute_64	Other	O
+attribute_64	historians	O
+attribute_64	point	O
+attribute_64	out	O
+attribute_64	Minton	O
+attribute_64	's	O
+attribute_64	strong	O
+attribute_64	commitment	O
+attribute_64	to	O
+attribute_64	his	O
+attribute_64	judicial	O
+attribute_64	principles	O
+attribute_64	as	O
+attribute_64	a	O
+attribute_64	valuable	O
+attribute_64	attribute	attribute_nou

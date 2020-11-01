@@ -1,0 +1,9 @@
+invert_5	These	O
+invert_5	combine	O
+invert_5	proper	O
+invert_5	rotations	O
+invert_5	with	O
+invert_5	reflections	O
+invert_5	which	O
+invert_5	invert	invert_vrb
+invert_5	orientation	O

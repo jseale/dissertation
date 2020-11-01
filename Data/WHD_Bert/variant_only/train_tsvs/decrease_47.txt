@@ -1,0 +1,13 @@
+decrease_47	Moreover	O
+decrease_47	the	O
+decrease_47	water	O
+decrease_47	vapour	O
+decrease_47	continuum	O
+decrease_47	absorptivity	O
+decrease_47	molecule	O
+decrease_47	for	O
+decrease_47	molecule	O
+decrease_47	decreases	O
+decrease_47	with	O
+decrease_47	pressure	O
+decrease_47	decrease	decrease_nou

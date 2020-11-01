@@ -1,0 +1,9 @@
+mate_74	Therefore	O
+mate_74	less	O
+mate_74	attractive	O
+mate_74	females	O
+mate_74	are	O
+mate_74	less	O
+mate_74	likely	O
+mate_74	to	O
+mate_74	mate	mate

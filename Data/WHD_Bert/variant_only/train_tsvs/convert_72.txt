@@ -1,0 +1,13 @@
+convert_72	Sambhaji	O
+convert_72	dared	O
+convert_72	Aurangzeb	O
+convert_72	in	O
+convert_72	open	O
+convert_72	court	O
+convert_72	and	O
+convert_72	faltly	O
+convert_72	refused	O
+convert_72	to	O
+convert_72	convert	convert_vrb
+convert_72	to	O
+convert_72	Islam	O

@@ -1,0 +1,12 @@
+conduct_9	He	O
+conduct_9	also	O
+conduct_9	arranged	O
+conduct_9	a	O
+conduct_9	Safe	O
+conduct_9	conduct	conduct_nou
+conduct_9	to	O
+conduct_9	visit	O
+conduct_9	the	O
+conduct_9	captive	O
+conduct_9	King	O
+conduct_9	David	O

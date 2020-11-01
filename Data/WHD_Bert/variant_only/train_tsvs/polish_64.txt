@@ -1,0 +1,12 @@
+polish_64	Some	O
+polish_64	Polish	polish_geo
+polish_64	towns	O
+polish_64	mainly	O
+polish_64	in	O
+polish_64	northeastern	O
+polish_64	Poland	O
+polish_64	in	O
+polish_64	Podlaskie	O
+polish_64	Voivodeship	O
+polish_64	have	O
+polish_64	mosques	O

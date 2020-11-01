@@ -1,0 +1,10 @@
+converse_57	Semantic	O
+converse_57	completeness	O
+converse_57	is	O
+converse_57	the	O
+converse_57	converse	converse_adj-nou
+converse_57	of	O
+converse_57	soundness	O
+converse_57	for	O
+converse_57	formal	O
+converse_57	systems	O

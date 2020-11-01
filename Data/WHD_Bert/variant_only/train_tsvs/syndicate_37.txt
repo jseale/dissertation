@@ -1,0 +1,17 @@
+syndicate_37	In	O
+syndicate_37	1919	O
+syndicate_37	the	O
+syndicate_37	Mauritius	O
+syndicate_37	Sugar	O
+syndicate_37	Syndicate	syndicate_nou
+syndicate_37	came	O
+syndicate_37	into	O
+syndicate_37	being	O
+syndicate_37	and	O
+syndicate_37	it	O
+syndicate_37	included	O
+syndicate_37	70	O
+syndicate_37	of	O
+syndicate_37	all	O
+syndicate_37	sugar	O
+syndicate_37	producers	O

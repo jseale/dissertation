@@ -1,0 +1,14 @@
+resume_14	As	O
+resume_14	luck	O
+resume_14	would	O
+resume_14	have	O
+resume_14	it	O
+resume_14	Marjorie	O
+resume_14	and	O
+resume_14	her	O
+resume_14	crew	O
+resume_14	have	O
+resume_14	returned	O
+resume_14	to	O
+resume_14	resume	resume_vrb
+resume_14	filming	O

@@ -1,0 +1,15 @@
+decrease_66	The	O
+decrease_66	idea	O
+decrease_66	is	O
+decrease_66	that	O
+decrease_66	can	O
+decrease_66	be	O
+decrease_66	chosen	O
+decrease_66	to	O
+decrease_66	decrease	decrease_vrb
+decrease_66	the	O
+decrease_66	variance	O
+decrease_66	of	O
+decrease_66	the	O
+decrease_66	measurement	O
+decrease_66	QN	O

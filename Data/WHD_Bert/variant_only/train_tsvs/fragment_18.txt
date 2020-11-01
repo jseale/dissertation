@@ -1,0 +1,15 @@
+fragment_18	This	O
+fragment_18	slightly	O
+fragment_18	improves	O
+fragment_18	the	O
+fragment_18	fragment	fragment_nou
+fragment_18	velocity	O
+fragment_18	and	O
+fragment_18	protects	O
+fragment_18	the	O
+fragment_18	steel	O
+fragment_18	fragments	O
+fragment_18	from	O
+fragment_18	the	O
+fragment_18	corrosive	O
+fragment_18	explosive	O

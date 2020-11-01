@@ -1,0 +1,13 @@
+buffet_50	In	O
+buffet_50	the	O
+buffet_50	gold	O
+buffet_50	room	O
+buffet_50	a	O
+buffet_50	marble	O
+buffet_50	buffet	buffet_nou
+buffet_50	and	O
+buffet_50	mirror	O
+buffet_50	face	O
+buffet_50	a	O
+buffet_50	marble	O
+buffet_50	fireplace	O

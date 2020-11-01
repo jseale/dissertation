@@ -1,0 +1,8 @@
+learned_50	She	O
+learned_50	learned	learned_vrb
+learned_50	an	O
+learned_50	Australian	O
+learned_50	accent	O
+learned_50	for	O
+learned_50	the	O
+learned_50	role	O

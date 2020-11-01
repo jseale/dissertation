@@ -1,0 +1,15 @@
+conscript_8	There	O
+conscript_8	were	O
+conscript_8	additionally	O
+conscript_8	567	O
+conscript_8	female	O
+conscript_8	volunteers	O
+conscript_8	in	O
+conscript_8	2010	O
+conscript_8	who	O
+conscript_8	pass	O
+conscript_8	training	O
+conscript_8	on	O
+conscript_8	conscript	conscript_nou
+conscript_8	like	O
+conscript_8	conditions	O

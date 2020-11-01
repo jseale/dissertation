@@ -1,0 +1,13 @@
+upset_0	Unable	O
+upset_0	to	O
+upset_0	revive	O
+upset_0	him	O
+upset_0	the	O
+upset_0	girl	O
+upset_0	throws	O
+upset_0	the	O
+upset_0	potion	O
+upset_0	away	O
+upset_0	in	O
+upset_0	her	O
+upset_0	upset	upset_nou

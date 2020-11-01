@@ -1,0 +1,17 @@
+pasty_21	They	O
+pasty_21	are	O
+pasty_21	however	O
+pasty_21	commercially	O
+pasty_21	available	O
+pasty_21	in	O
+pasty_21	the	O
+pasty_21	British	O
+pasty_21	supermarket	O
+pasty_21	chain	O
+pasty_21	Morrisons	O
+pasty_21	under	O
+pasty_21	the	O
+pasty_21	name	O
+pasty_21	Tin	O
+pasty_21	Miner	O
+pasty_21	Pasty	pasty_adj

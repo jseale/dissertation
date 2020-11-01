@@ -1,0 +1,12 @@
+subordinate_29	It	O
+subordinate_29	is	O
+subordinate_29	subordinate	subordinate_adj-nou
+subordinate_29	to	O
+subordinate_29	St	O
+subordinate_29	Mary	O
+subordinate_29	's	O
+subordinate_29	parish	O
+subordinate_29	church	O
+subordinate_29	at	O
+subordinate_29	West	O
+subordinate_29	Dean	O

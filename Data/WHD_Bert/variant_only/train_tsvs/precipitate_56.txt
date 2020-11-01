@@ -1,0 +1,14 @@
+precipitate_56	Initially	O
+precipitate_56	at	O
+precipitate_56	low	O
+precipitate_56	antigen	O
+precipitate_56	concentration	O
+precipitate_56	all	O
+precipitate_56	of	O
+precipitate_56	the	O
+precipitate_56	antibody	O
+precipitate_56	is	O
+precipitate_56	contained	O
+precipitate_56	in	O
+precipitate_56	the	O
+precipitate_56	precipitate	precipitate_adj-nou

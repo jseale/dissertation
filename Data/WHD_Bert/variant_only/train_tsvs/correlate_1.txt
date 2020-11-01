@@ -1,0 +1,10 @@
+correlate_1	Large	O
+correlate_1	eruptions	O
+correlate_1	correlate	correlate_nou-vrb
+correlate_1	well	O
+correlate_1	with	O
+correlate_1	some	O
+correlate_1	significant	O
+correlate_1	climate	O
+correlate_1	change	O
+correlate_1	events	O

@@ -1,0 +1,10 @@
+incline_73	This	O
+incline_73	incline	incline_nou
+incline_73	was	O
+incline_73	later	O
+incline_73	continued	O
+incline_73	downwards	O
+incline_73	to	O
+incline_73	the	O
+incline_73	main	O
+incline_73	level	O

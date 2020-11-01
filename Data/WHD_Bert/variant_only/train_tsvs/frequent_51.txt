@@ -1,0 +1,11 @@
+frequent_51	Microsoft	O
+frequent_51	aims	O
+frequent_51	to	O
+frequent_51	release	O
+frequent_51	frequent	frequent_adj
+frequent_51	updates	O
+frequent_51	to	O
+frequent_51	the	O
+frequent_51	Xbox	O
+frequent_51	One	O
+frequent_51	console	O

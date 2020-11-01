@@ -1,0 +1,17 @@
+fragment_36	Calypso	O
+fragment_36	uses	O
+fragment_36	her	O
+fragment_36	fragment	fragment_nou
+fragment_36	of	O
+fragment_36	the	O
+fragment_36	Tablet	O
+fragment_36	of	O
+fragment_36	Order	O
+fragment_36	and	O
+fragment_36	Chaos	O
+fragment_36	to	O
+fragment_36	raise	O
+fragment_36	an	O
+fragment_36	army	O
+fragment_36	of	O
+fragment_36	zombies	O

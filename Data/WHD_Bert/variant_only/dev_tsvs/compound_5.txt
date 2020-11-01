@@ -1,0 +1,12 @@
+compound_5	This	O
+compound_5	latter	O
+compound_5	compound	compound_nou
+compound_5	shows	O
+compound_5	antifungal	O
+compound_5	activity	O
+compound_5	towards	O
+compound_5	Mycocentrospora	O
+compound_5	acerina	O
+compound_5	and	O
+compound_5	Cladosporium	O
+compound_5	cladosporioides	O

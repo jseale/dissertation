@@ -1,0 +1,10 @@
+aged_18	He	O
+aged_18	died	O
+aged_18	aged	aged
+aged_18	89	O
+aged_18	in	O
+aged_18	the	O
+aged_18	Hopital	O
+aged_18	Pasteur	O
+aged_18	in	O
+aged_18	Paris	O

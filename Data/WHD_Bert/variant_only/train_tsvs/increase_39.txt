@@ -1,0 +1,16 @@
+increase_39	This	O
+increase_39	was	O
+increase_39	a	O
+increase_39	6.11	O
+increase_39	increase	increase_nou
+increase_39	yielding	O
+increase_39	a	O
+increase_39	$	O
+increase_39	189,481	O
+increase_39	increase	increase_nou
+increase_39	over	O
+increase_39	the	O
+increase_39	previous	O
+increase_39	school	O
+increase_39	year	O
+increase_39	funding	O

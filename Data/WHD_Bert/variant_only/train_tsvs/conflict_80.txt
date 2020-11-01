@@ -1,0 +1,15 @@
+conflict_80	Their	O
+conflict_80	rivals	O
+conflict_80	the	O
+conflict_80	Ekstremi	O
+conflict_80	set	O
+conflict_80	the	O
+conflict_80	banner	O
+conflict_80	on	O
+conflict_80	fire	O
+conflict_80	and	O
+conflict_80	than	O
+conflict_80	the	O
+conflict_80	conflict	conflict_nou
+conflict_80	broke	O
+conflict_80	out	O

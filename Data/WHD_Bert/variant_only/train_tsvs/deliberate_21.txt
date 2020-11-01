@@ -1,0 +1,15 @@
+deliberate_21	The	O
+deliberate_21	deliberate	deliberate_adj
+deliberate_21	introduction	O
+deliberate_21	of	O
+deliberate_21	pigs	O
+deliberate_21	into	O
+deliberate_21	previously	O
+deliberate_21	pig	O
+deliberate_21	free	O
+deliberate_21	areas	O
+deliberate_21	seems	O
+deliberate_21	to	O
+deliberate_21	have	O
+deliberate_21	been	O
+deliberate_21	common	O

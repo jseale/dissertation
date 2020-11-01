@@ -1,0 +1,14 @@
+laminate_45	The	O
+laminate_45	polyethylene	O
+laminate_45	side	O
+laminate_45	of	O
+laminate_45	such	O
+laminate_45	a	O
+laminate_45	laminate	laminate_nou
+laminate_45	appears	O
+laminate_45	dull	O
+laminate_45	and	O
+laminate_45	the	O
+laminate_45	PET	O
+laminate_45	side	O
+laminate_45	shiny	O

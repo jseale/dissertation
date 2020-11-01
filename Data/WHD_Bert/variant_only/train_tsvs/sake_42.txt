@@ -1,0 +1,13 @@
+sake_42	In	O
+sake_42	1867	O
+sake_42	his	O
+sake_42	doctor	O
+sake_42	suggested	O
+sake_42	Sabin	O
+sake_42	relocate	O
+sake_42	for	O
+sake_42	the	O
+sake_42	sake	sake
+sake_42	of	O
+sake_42	his	O
+sake_42	health	O

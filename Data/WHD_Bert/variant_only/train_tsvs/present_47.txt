@@ -1,0 +1,12 @@
+present_47	This	O
+present_47	festival	O
+present_47	continues	O
+present_47	to	O
+present_47	the	O
+present_47	present	present_adj-nou
+present_47	day	O
+present_47	as	O
+present_47	the	O
+present_47	Atlanta	O
+present_47	Music	O
+present_47	Festival	O

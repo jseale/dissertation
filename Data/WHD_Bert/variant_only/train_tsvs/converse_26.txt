@@ -1,0 +1,8 @@
+converse_26	Partners	O
+converse_26	and	O
+converse_26	sponsors	O
+converse_26	included	O
+converse_26	Bacardi	O
+converse_26	Converse	converse_adj-nou
+converse_26	and	O
+converse_26	Neocha.com	O

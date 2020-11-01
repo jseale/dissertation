@@ -1,0 +1,17 @@
+subordinate_35	On	O
+subordinate_35	23	O
+subordinate_35	July	O
+subordinate_35	1930	O
+subordinate_35	the	O
+subordinate_35	okrugs	O
+subordinate_35	were	O
+subordinate_35	abolished	O
+subordinate_35	and	O
+subordinate_35	the	O
+subordinate_35	districts	O
+subordinate_35	became	O
+subordinate_35	directly	O
+subordinate_35	subordinate	subordinate_adj-nou
+subordinate_35	to	O
+subordinate_35	the	O
+subordinate_35	oblasts	O

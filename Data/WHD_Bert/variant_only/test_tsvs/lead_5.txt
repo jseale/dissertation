@@ -1,0 +1,7 @@
+lead_5	When	O
+lead_5	freshly	O
+lead_5	cut	O
+lead_5	lead	lead_nou
+lead_5	is	O
+lead_5	bluish	O
+lead_5	white	O

@@ -1,0 +1,11 @@
+lead_92	Vishnu	O
+lead_92	featured	O
+lead_92	in	O
+lead_92	the	O
+lead_92	male	O
+lead_92	lead	lead_nou-vrb
+lead_92	role	O
+lead_92	in	O
+lead_92	both	O
+lead_92	these	O
+lead_92	films	O

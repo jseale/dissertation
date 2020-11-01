@@ -1,0 +1,17 @@
+minute_17	Crisilla	O
+minute_17	is	O
+minute_17	a	O
+minute_17	genus	O
+minute_17	of	O
+minute_17	minute	minute_adj
+minute_17	sea	O
+minute_17	snails	O
+minute_17	marine	O
+minute_17	gastropod	O
+minute_17	mollusks	O
+minute_17	or	O
+minute_17	micromollusks	O
+minute_17	in	O
+minute_17	the	O
+minute_17	family	O
+minute_17	Rissoidae	O

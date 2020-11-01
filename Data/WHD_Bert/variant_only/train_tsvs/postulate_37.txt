@@ -1,0 +1,13 @@
+postulate_37	Hahnemann	O
+postulate_37	's	O
+postulate_37	law	O
+postulate_37	of	O
+postulate_37	similars	O
+postulate_37	is	O
+postulate_37	a	O
+postulate_37	postulate	postulate_nou
+postulate_37	rather	O
+postulate_37	than	O
+postulate_37	a	O
+postulate_37	scientific	O
+postulate_37	law	O

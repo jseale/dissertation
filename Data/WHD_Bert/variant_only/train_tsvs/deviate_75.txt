@@ -1,0 +1,13 @@
+deviate_75	The	O
+deviate_75	director	O
+deviate_75	has	O
+deviate_75	taken	O
+deviate_75	the	O
+deviate_75	liberty	O
+deviate_75	to	O
+deviate_75	widely	O
+deviate_75	deviate	deviate_vrb
+deviate_75	from	O
+deviate_75	the	O
+deviate_75	original	O
+deviate_75	story	O

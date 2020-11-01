@@ -1,0 +1,17 @@
+convert_21	The	O
+convert_21	One	O
+convert_21	armed	O
+convert_21	Boxer	O
+convert_21	then	O
+convert_21	proceeds	O
+convert_21	to	O
+convert_21	convert	convert_vrb
+convert_21	a	O
+convert_21	coffin	O
+convert_21	maker	O
+convert_21	's	O
+convert_21	shop	O
+convert_21	into	O
+convert_21	an	O
+convert_21	elaborate	O
+convert_21	trap	O

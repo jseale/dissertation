@@ -1,0 +1,8 @@
+lives_1	Bork	O
+lives_1	now	O
+lives_1	lives	lives_vrb
+lives_1	and	O
+lives_1	works	O
+lives_1	in	O
+lives_1	Heidelberg	O
+lives_1	Germany	O

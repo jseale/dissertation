@@ -1,0 +1,15 @@
+rodeo_19	Welling	O
+rodeo_19	is	O
+rodeo_19	the	O
+rodeo_19	historic	O
+rodeo_19	site	O
+rodeo_19	of	O
+rodeo_19	the	O
+rodeo_19	world	O
+rodeo_19	's	O
+rodeo_19	first	O
+rodeo_19	side	O
+rodeo_19	delivery	O
+rodeo_19	rodeo	rodeo
+rodeo_19	bucking	O
+rodeo_19	chute	O

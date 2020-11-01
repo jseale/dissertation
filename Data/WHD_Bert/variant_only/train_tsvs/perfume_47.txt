@@ -1,0 +1,10 @@
+perfume_47	Methyl	O
+perfume_47	cinnamate	O
+perfume_47	is	O
+perfume_47	used	O
+perfume_47	in	O
+perfume_47	the	O
+perfume_47	flavor	O
+perfume_47	and	O
+perfume_47	perfume	perfume_nou
+perfume_47	industries	O

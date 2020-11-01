@@ -1,0 +1,9 @@
+appropriate_8	The	O
+appropriate_8	post	O
+appropriate_8	was	O
+appropriate_8	titled	O
+appropriate_8	Is	O
+appropriate_8	This	O
+appropriate_8	Appropriate	appropriate_adj
+appropriate_8	For	O
+appropriate_8	LinkedIn	O

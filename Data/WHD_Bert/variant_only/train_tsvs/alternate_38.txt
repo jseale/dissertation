@@ -1,0 +1,17 @@
+alternate_38	Nie	O
+alternate_38	was	O
+alternate_38	made	O
+alternate_38	an	O
+alternate_38	alternate	alternate_adj-nou
+alternate_38	member	O
+alternate_38	of	O
+alternate_38	the	O
+alternate_38	9th	O
+alternate_38	Central	O
+alternate_38	Committee	O
+alternate_38	of	O
+alternate_38	the	O
+alternate_38	Communist	O
+alternate_38	Party	O
+alternate_38	of	O
+alternate_38	China	O

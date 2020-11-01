@@ -1,0 +1,15 @@
+aggregate_8	In	O
+aggregate_8	the	O
+aggregate_8	play	O
+aggregate_8	off	O
+aggregate_8	round	O
+aggregate_8	Levski	O
+aggregate_8	was	O
+aggregate_8	eliminated	O
+aggregate_8	by	O
+aggregate_8	Debreceni	O
+aggregate_8	VSC	O
+aggregate_8	with	O
+aggregate_8	4:1	O
+aggregate_8	on	O
+aggregate_8	aggregate	aggregate_adj-nou

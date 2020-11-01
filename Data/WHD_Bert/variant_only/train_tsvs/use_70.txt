@@ -1,0 +1,12 @@
+use_70	Instead	O
+use_70	it	O
+use_70	should	O
+use_70	put	O
+use_70	the	O
+use_70	lands	O
+use_70	to	O
+use_70	their	O
+use_70	highest	O
+use_70	and	O
+use_70	best	O
+use_70	use	use_nou

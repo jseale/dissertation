@@ -1,0 +1,16 @@
+sake_9	Walking	O
+sake_9	on	O
+sake_9	the	O
+sake_9	street	O
+sake_9	while	O
+sake_9	drinking	O
+sake_9	sake	sake_jp
+sake_9	Yoshida	O
+sake_9	passes	O
+sake_9	out	O
+sake_9	from	O
+sake_9	an	O
+sake_9	attack	O
+sake_9	of	O
+sake_9	abdominal	O
+sake_9	pain	O

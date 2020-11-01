@@ -1,0 +1,8 @@
+export_72	It	O
+export_72	was	O
+export_72	destined	O
+export_72	for	O
+export_72	export	export_nou
+export_72	to	O
+export_72	Saudi	O
+export_72	Arabia	O

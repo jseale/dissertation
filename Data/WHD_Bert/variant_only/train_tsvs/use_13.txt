@@ -1,0 +1,17 @@
+use_13	The	O
+use_13	CNT	O
+use_13	was	O
+use_13	the	O
+use_13	first	O
+use_13	to	O
+use_13	use	use_vrb
+use_13	this	O
+use_13	technology	O
+use_13	for	O
+use_13	its	O
+use_13	stations	O
+use_13	and	O
+use_13	affiliates	O
+use_13	starting	O
+use_13	in	O
+use_13	1999	O

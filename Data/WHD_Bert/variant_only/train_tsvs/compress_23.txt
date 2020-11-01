@@ -1,0 +1,12 @@
+compress_23	Most	O
+compress_23	binary	O
+compress_23	images	O
+compress_23	also	O
+compress_23	compress	compress
+compress_23	well	O
+compress_23	with	O
+compress_23	simple	O
+compress_23	run	O
+compress_23	length	O
+compress_23	compression	O
+compress_23	schemes	O

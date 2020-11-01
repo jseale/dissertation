@@ -1,0 +1,16 @@
+minute_10	In	O
+minute_10	1975	O
+minute_10	Lauda	O
+minute_10	had	O
+minute_10	been	O
+minute_10	the	O
+minute_10	first	O
+minute_10	and	O
+minute_10	only	O
+minute_10	driver	O
+minute_10	to	O
+minute_10	break	O
+minute_10	the	O
+minute_10	seven	O
+minute_10	minute	minute
+minute_10	mark	O

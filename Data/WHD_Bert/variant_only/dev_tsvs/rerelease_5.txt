@@ -1,0 +1,10 @@
+rerelease_5	DeMille	O
+rerelease_5	himself	O
+rerelease_5	supervised	O
+rerelease_5	a	O
+rerelease_5	new	O
+rerelease_5	version	O
+rerelease_5	for	O
+rerelease_5	its	O
+rerelease_5	1944	O
+rerelease_5	rerelease	rerelease

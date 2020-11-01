@@ -1,0 +1,16 @@
+reading_5	After	O
+reading_5	a	O
+reading_5	bill	O
+reading_5	takes	O
+reading_5	its	O
+reading_5	second	O
+reading_5	reading	reading_en
+reading_5	it	O
+reading_5	is	O
+reading_5	open	O
+reading_5	to	O
+reading_5	debate	O
+reading_5	on	O
+reading_5	amendments	O
+reading_5	and	O
+reading_5	motions	O

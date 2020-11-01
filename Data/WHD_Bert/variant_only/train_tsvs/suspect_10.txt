@@ -1,0 +1,8 @@
+suspect_10	Agents	O
+suspect_10	question	O
+suspect_10	whether	O
+suspect_10	airliner	O
+suspect_10	bomb	O
+suspect_10	suspect	suspect_adj-nou
+suspect_10	had	O
+suspect_10	help	O

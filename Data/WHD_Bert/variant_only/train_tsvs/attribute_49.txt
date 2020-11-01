@@ -1,0 +1,17 @@
+attribute_49	The	O
+attribute_49	attribute	attribute_nou
+attribute_49	tumtumaniyya	O
+attribute_49	was	O
+attribute_49	given	O
+attribute_49	in	O
+attribute_49	the	O
+attribute_49	literature	O
+attribute_49	to	O
+attribute_49	the	O
+attribute_49	Himyaritic	O
+attribute_49	dialect	O
+attribute_49	as	O
+attribute_49	a	O
+attribute_49	form	O
+attribute_49	of	O
+attribute_49	mockery	O

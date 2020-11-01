@@ -1,0 +1,17 @@
+diffuse_6	In	O
+diffuse_6	2011	O
+diffuse_6	diffuse	diffuse_adj
+diffuse_6	white	O
+diffuse_6	plumes	O
+diffuse_6	were	O
+diffuse_6	seen	O
+diffuse_6	rising	O
+diffuse_6	from	O
+diffuse_6	Anak	O
+diffuse_6	Ranakah	O
+diffuse_6	Dome	O
+diffuse_6	although	O
+diffuse_6	no	O
+diffuse_6	ash	O
+diffuse_6	was	O
+diffuse_6	detected	O

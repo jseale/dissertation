@@ -1,0 +1,17 @@
+discount_62	It	O
+discount_62	assumes	O
+discount_62	that	O
+discount_62	dividends	O
+discount_62	will	O
+discount_62	increase	O
+discount_62	at	O
+discount_62	a	O
+discount_62	constant	O
+discount_62	growth	O
+discount_62	rate	O
+discount_62	less	O
+discount_62	than	O
+discount_62	the	O
+discount_62	discount	discount_nou
+discount_62	rate	O
+discount_62	forever	O

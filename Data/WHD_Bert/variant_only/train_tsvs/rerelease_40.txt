@@ -1,0 +1,16 @@
+rerelease_40	The	O
+rerelease_40	1991	O
+rerelease_40	CD	O
+rerelease_40	rerelease	rerelease
+rerelease_40	was	O
+rerelease_40	titled	O
+rerelease_40	Magnitude	O
+rerelease_40	and	O
+rerelease_40	featured	O
+rerelease_40	three	O
+rerelease_40	previously	O
+rerelease_40	unreleased	O
+rerelease_40	tracks	O
+rerelease_40	from	O
+rerelease_40	the	O
+rerelease_40	sessions	O

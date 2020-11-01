@@ -1,0 +1,15 @@
+celtic_4	His	O
+celtic_4	57	O
+celtic_4	League	O
+celtic_4	and	O
+celtic_4	Cup	O
+celtic_4	goals	O
+celtic_4	in	O
+celtic_4	season	O
+celtic_4	1926	O
+celtic_4	27	O
+celtic_4	remains	O
+celtic_4	a	O
+celtic_4	record	O
+celtic_4	at	O
+celtic_4	Celtic	celtic_adj-nou-sports

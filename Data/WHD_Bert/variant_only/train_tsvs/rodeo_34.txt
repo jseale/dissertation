@@ -1,0 +1,10 @@
+rodeo_34	This	O
+rodeo_34	has	O
+rodeo_34	always	O
+rodeo_34	been	O
+rodeo_34	a	O
+rodeo_34	special	O
+rodeo_34	rodeo	rodeo
+rodeo_34	in	O
+rodeo_34	my	O
+rodeo_34	family	O

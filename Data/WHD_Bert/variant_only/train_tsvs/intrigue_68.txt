@@ -1,0 +1,14 @@
+intrigue_68	Escoiquiz	O
+intrigue_68	was	O
+intrigue_68	the	O
+intrigue_68	brains	O
+intrigue_68	as	O
+intrigue_68	far	O
+intrigue_68	as	O
+intrigue_68	there	O
+intrigue_68	were	O
+intrigue_68	any	O
+intrigue_68	brains	O
+intrigue_68	of	O
+intrigue_68	the	O
+intrigue_68	intrigue	intrigue_nou

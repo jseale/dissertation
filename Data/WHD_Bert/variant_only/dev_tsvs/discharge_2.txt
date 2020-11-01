@@ -1,0 +1,11 @@
+discharge_2	Post	O
+discharge_2	discharge	discharge_nou
+discharge_2	care	O
+discharge_2	of	O
+discharge_2	the	O
+discharge_2	cardiothoracic	O
+discharge_2	surgical	O
+discharge_2	patient	O
+discharge_2	in	O
+discharge_2	Filsoufi	O
+discharge_2	ed	O

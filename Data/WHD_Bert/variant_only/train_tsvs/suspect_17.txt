@@ -1,0 +1,16 @@
+suspect_17	Amatuna	O
+suspect_17	was	O
+suspect_17	later	O
+suspect_17	a	O
+suspect_17	suspect	suspect_adj-nou
+suspect_17	in	O
+suspect_17	the	O
+suspect_17	murders	O
+suspect_17	of	O
+suspect_17	Powers	O
+suspect_17	supporters	O
+suspect_17	Harry	O
+suspect_17	Raimondi	O
+suspect_17	and	O
+suspect_17	Gaetano	O
+suspect_17	Esposito	O

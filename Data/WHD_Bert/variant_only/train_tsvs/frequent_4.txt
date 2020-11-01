@@ -1,0 +1,14 @@
+frequent_4	However	O
+frequent_4	he	O
+frequent_4	remained	O
+frequent_4	a	O
+frequent_4	frequent	frequent_adj
+frequent_4	visitor	O
+frequent_4	to	O
+frequent_4	The	O
+frequent_4	Club	O
+frequent_4	a	O
+frequent_4	gym	O
+frequent_4	located	O
+frequent_4	in	O
+frequent_4	Woodbridge	O

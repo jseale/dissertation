@@ -1,0 +1,12 @@
+moderate_6	Mild	O
+moderate_6	to	O
+moderate_6	moderate	moderate_adj-nou
+moderate_6	earthquakes	O
+moderate_6	have	O
+moderate_6	been	O
+moderate_6	reported	O
+moderate_6	to	O
+moderate_6	originate	O
+moderate_6	at	O
+moderate_6	the	O
+moderate_6	fault	O

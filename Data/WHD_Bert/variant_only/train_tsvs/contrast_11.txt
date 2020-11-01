@@ -1,0 +1,16 @@
+contrast_11	Lighting	O
+contrast_11	creates	O
+contrast_11	the	O
+contrast_11	2D	O
+contrast_11	pattern	O
+contrast_11	of	O
+contrast_11	contrast	contrast_nou
+contrast_11	the	O
+contrast_11	brain	O
+contrast_11	interprets	O
+contrast_11	to	O
+contrast_11	recognize	O
+contrast_11	3D	O
+contrast_11	objects	O
+contrast_11	in	O
+contrast_11	photographs	O

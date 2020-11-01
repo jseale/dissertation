@@ -1,0 +1,13 @@
+live_19	Anders	O
+live_19	retired	O
+live_19	from	O
+live_19	acting	O
+live_19	in	O
+live_19	1972	O
+live_19	in	O
+live_19	order	O
+live_19	to	O
+live_19	live	live_vrb
+live_19	a	O
+live_19	normal	O
+live_19	life	O

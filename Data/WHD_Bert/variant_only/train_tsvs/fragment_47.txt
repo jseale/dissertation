@@ -1,0 +1,14 @@
+fragment_47	The	O
+fragment_47	tungsten	O
+fragment_47	housing	O
+fragment_47	is	O
+fragment_47	designed	O
+fragment_47	to	O
+fragment_47	fragment	fragment_vrb
+fragment_47	and	O
+fragment_47	produce	O
+fragment_47	maximum	O
+fragment_47	damage	O
+fragment_47	inside	O
+fragment_47	the	O
+fragment_47	target	O

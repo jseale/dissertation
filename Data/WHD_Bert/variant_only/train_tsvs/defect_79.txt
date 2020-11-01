@@ -1,0 +1,11 @@
+defect_79	The	O
+defect_79	following	O
+defect_79	table	O
+defect_79	lists	O
+defect_79	some	O
+defect_79	binding	O
+defect_79	energies	O
+defect_79	and	O
+defect_79	mass	O
+defect_79	defect	defect_nou
+defect_79	values	O

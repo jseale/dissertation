@@ -1,0 +1,16 @@
+aged_67	She	O
+aged_67	died	O
+aged_67	at	O
+aged_67	10	O
+aged_67	p.m.	O
+aged_67	on	O
+aged_67	February	O
+aged_67	14	O
+aged_67	1971	O
+aged_67	aged	aged
+aged_67	59	O
+aged_67	at	O
+aged_67	her	O
+aged_67	Miami	O
+aged_67	Beach	O
+aged_67	home	O

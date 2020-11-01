@@ -1,0 +1,16 @@
+insult_68	Vowing	O
+insult_68	to	O
+insult_68	take	O
+insult_68	revenge	O
+insult_68	against	O
+insult_68	the	O
+insult_68	insult	insult_nou
+insult_68	the	O
+insult_68	minister	O
+insult_68	goes	O
+insult_68	in	O
+insult_68	search	O
+insult_68	of	O
+insult_68	a	O
+insult_68	foolish	O
+insult_68	groom	O

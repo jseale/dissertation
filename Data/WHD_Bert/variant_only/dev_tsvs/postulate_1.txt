@@ -1,0 +1,15 @@
+postulate_1	The	O
+postulate_1	phrase	O
+postulate_1	single	O
+postulate_1	postulate	postulate_nou
+postulate_1	is	O
+postulate_1	just	O
+postulate_1	used	O
+postulate_1	in	O
+postulate_1	comparison	O
+postulate_1	with	O
+postulate_1	the	O
+postulate_1	original	O
+postulate_1	two	O
+postulate_1	postulate	postulate_nou
+postulate_1	formulation	O

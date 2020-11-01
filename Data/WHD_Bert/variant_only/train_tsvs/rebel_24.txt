@@ -1,0 +1,15 @@
+rebel_24	Following	O
+rebel_24	the	O
+rebel_24	1993	O
+rebel_24	Embassy	O
+rebel_24	World	O
+rebel_24	Championship	O
+rebel_24	the	O
+rebel_24	BDO	O
+rebel_24	suspended	O
+rebel_24	the	O
+rebel_24	rebel	rebel_nou
+rebel_24	players	O
+rebel_24	from	O
+rebel_24	all	O
+rebel_24	tournaments	O

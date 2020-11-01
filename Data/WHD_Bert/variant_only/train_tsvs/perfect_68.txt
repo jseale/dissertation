@@ -1,0 +1,12 @@
+perfect_68	In	O
+perfect_68	that	O
+perfect_68	respect	O
+perfect_68	Jessica	O
+perfect_68	finds	O
+perfect_68	Elizabeth	O
+perfect_68	and	O
+perfect_68	Todd	O
+perfect_68	perfect	perfect_adj
+perfect_68	for	O
+perfect_68	each	O
+perfect_68	other	O

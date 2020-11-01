@@ -1,0 +1,15 @@
+combine_78	Hesston	O
+combine_78	is	O
+combine_78	the	O
+combine_78	home	O
+combine_78	to	O
+combine_78	AGCO	O
+combine_78	Corporation	O
+combine_78	's	O
+combine_78	large	O
+combine_78	swather	O
+combine_78	and	O
+combine_78	combine	combine_nou
+combine_78	harvester	O
+combine_78	manufacturing	O
+combine_78	plants	O

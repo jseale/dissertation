@@ -1,0 +1,13 @@
+diffuse_45	To	O
+diffuse_45	diffuse	diffuse_vrb
+diffuse_45	among	O
+diffuse_45	people	O
+diffuse_45	the	O
+diffuse_45	knowledge	O
+diffuse_45	of	O
+diffuse_45	the	O
+diffuse_45	laws	O
+diffuse_45	inherent	O
+diffuse_45	in	O
+diffuse_45	the	O
+diffuse_45	Universe	O

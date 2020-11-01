@@ -1,0 +1,16 @@
+compress_19	In	O
+compress_19	2007	O
+compress_19	Compress	compress_nou
+compress_19	Technologies	O
+compress_19	Inc.	O
+compress_19	announced	O
+compress_19	on	O
+compress_19	their	O
+compress_19	web	O
+compress_19	site	O
+compress_19	that	O
+compress_19	they	O
+compress_19	had	O
+compress_19	acquired	O
+compress_19	VMSK	O
+compress_19	Technology	O

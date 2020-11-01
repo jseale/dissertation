@@ -1,0 +1,15 @@
+intrigue_4	Groombridge	O
+intrigue_4	Place	O
+intrigue_4	was	O
+intrigue_4	the	O
+intrigue_4	main	O
+intrigue_4	location	O
+intrigue_4	in	O
+intrigue_4	this	O
+intrigue_4	tale	O
+intrigue_4	of	O
+intrigue_4	17th	O
+intrigue_4	Century	O
+intrigue_4	intrigue	intrigue_nou
+intrigue_4	and	O
+intrigue_4	murder	O

@@ -1,0 +1,10 @@
+bologna_5	He	O
+bologna_5	won	O
+bologna_5	the	O
+bologna_5	Coppa	O
+bologna_5	Alta	O
+bologna_5	Italia	O
+bologna_5	with	O
+bologna_5	Bologna	bologna_geo
+bologna_5	in	O
+bologna_5	1946	O

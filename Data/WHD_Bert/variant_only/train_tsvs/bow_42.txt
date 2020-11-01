@@ -1,0 +1,12 @@
+bow_42	They	O
+bow_42	were	O
+bow_42	married	O
+bow_42	at	O
+bow_42	Trinity	O
+bow_42	Church	O
+bow_42	Bow	bow_nou-knot
+bow_42	London	O
+bow_42	on	O
+bow_42	15	O
+bow_42	November	O
+bow_42	1866	O

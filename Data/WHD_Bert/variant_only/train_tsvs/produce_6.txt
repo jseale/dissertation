@@ -1,0 +1,13 @@
+produce_6	Their	O
+produce_6	vision	O
+produce_6	was	O
+produce_6	to	O
+produce_6	produce	produce_vrb
+produce_6	a	O
+produce_6	woodland	O
+produce_6	garden	O
+produce_6	composed	O
+produce_6	of	O
+produce_6	many	O
+produce_6	individual	O
+produce_6	gardens	O

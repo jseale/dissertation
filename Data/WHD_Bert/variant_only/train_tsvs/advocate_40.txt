@@ -1,0 +1,15 @@
+advocate_40	She	O
+advocate_40	now	O
+advocate_40	works	O
+advocate_40	as	O
+advocate_40	an	O
+advocate_40	advocate	advocate_nou
+advocate_40	fostering	O
+advocate_40	understanding	O
+advocate_40	for	O
+advocate_40	survivors	O
+advocate_40	of	O
+advocate_40	burns	O
+advocate_40	or	O
+advocate_40	other	O
+advocate_40	disfigurements	O

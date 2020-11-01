@@ -1,0 +1,10 @@
+compound_19	Dichlorine	O
+compound_19	heptoxide	O
+compound_19	is	O
+compound_19	the	O
+compound_19	chemical	O
+compound_19	compound	compound_nou
+compound_19	with	O
+compound_19	the	O
+compound_19	formula	O
+compound_19	Cl₂O₇.	O

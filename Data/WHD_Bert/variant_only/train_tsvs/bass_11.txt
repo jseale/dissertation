@@ -1,0 +1,15 @@
+bass_11	The	O
+bass_11	lyrics	O
+bass_11	accompany	O
+bass_11	a	O
+bass_11	punchy	O
+bass_11	octave	O
+bass_11	synth	O
+bass_11	figure	O
+bass_11	synchronized	O
+bass_11	with	O
+bass_11	a	O
+bass_11	drum	O
+bass_11	and	O
+bass_11	bass	bass
+bass_11	beat	O

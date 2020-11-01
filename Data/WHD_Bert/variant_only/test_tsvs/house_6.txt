@@ -1,0 +1,13 @@
+house_6	The	O
+house_6	two	O
+house_6	stalk	O
+house_6	to	O
+house_6	different	O
+house_6	parts	O
+house_6	of	O
+house_6	the	O
+house_6	house	house_nou
+house_6	with	O
+house_6	no	O
+house_6	decision	O
+house_6	resolved	O

@@ -1,0 +1,15 @@
+pasty_28	In	O
+pasty_28	Central	O
+pasty_28	American	O
+pasty_28	cuisine	O
+pasty_28	it	O
+pasty_28	more	O
+pasty_28	closely	O
+pasty_28	resembles	O
+pasty_28	a	O
+pasty_28	British	O
+pasty_28	pasty	pasty_adj
+pasty_28	or	O
+pasty_28	an	O
+pasty_28	Italian	O
+pasty_28	calzone	O

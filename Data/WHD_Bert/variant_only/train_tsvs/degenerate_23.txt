@@ -1,0 +1,13 @@
+degenerate_23	The	O
+degenerate_23	architect	O
+degenerate_23	was	O
+degenerate_23	thought	O
+degenerate_23	to	O
+degenerate_23	be	O
+degenerate_23	a	O
+degenerate_23	degenerate	degenerate_adj-nou
+degenerate_23	disciple	O
+degenerate_23	of	O
+degenerate_23	William	O
+degenerate_23	of	O
+degenerate_23	Wykeham	O

@@ -1,0 +1,14 @@
+converse_45	He	O
+converse_45	travels	O
+converse_45	to	O
+converse_45	the	O
+converse_45	hometown	O
+converse_45	of	O
+converse_45	the	O
+converse_45	Hamilton	O
+converse_45	's	O
+converse_45	to	O
+converse_45	converse	converse_vrb
+converse_45	with	O
+converse_45	Maurice	O
+converse_45	Oakley	O

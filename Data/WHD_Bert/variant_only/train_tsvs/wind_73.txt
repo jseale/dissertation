@@ -1,0 +1,16 @@
+wind_73	For	O
+wind_73	higher	O
+wind_73	altitude	O
+wind_73	drops	O
+wind_73	the	O
+wind_73	effect	O
+wind_73	of	O
+wind_73	wind	wind_nou
+wind_73	and	O
+wind_73	bomb	O
+wind_73	trajectory	O
+wind_73	could	O
+wind_73	no	O
+wind_73	longer	O
+wind_73	be	O
+wind_73	ignored	O

@@ -1,0 +1,14 @@
+implant_22	He	O
+implant_22	has	O
+implant_22	also	O
+implant_22	published	O
+implant_22	a	O
+implant_22	textbook	O
+implant_22	on	O
+implant_22	complications	O
+implant_22	related	O
+implant_22	to	O
+implant_22	surgical	O
+implant_22	dental	O
+implant_22	implant	implant_nou
+implant_22	therapy	O

@@ -1,0 +1,12 @@
+bass_40	The	O
+bass_40	design	O
+bass_40	of	O
+bass_40	the	O
+bass_40	bass	bass
+bass_40	guitar	O
+bass_40	changed	O
+bass_40	several	O
+bass_40	times	O
+bass_40	during	O
+bass_40	the	O
+bass_40	1960s	O

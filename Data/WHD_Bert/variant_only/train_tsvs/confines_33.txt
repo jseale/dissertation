@@ -1,0 +1,16 @@
+confines_33	One	O
+confines_33	day	O
+confines_33	Jerusalem	O
+confines_33	escaped	O
+confines_33	from	O
+confines_33	her	O
+confines_33	confines	confines_nou
+confines_33	into	O
+confines_33	a	O
+confines_33	nearby	O
+confines_33	forest	O
+confines_33	and	O
+confines_33	became	O
+confines_33	aggressive	O
+confines_33	and	O
+confines_33	wild	O

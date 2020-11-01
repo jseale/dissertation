@@ -1,0 +1,11 @@
+duplicate_8	There	O
+duplicate_8	are	O
+duplicate_8	two	O
+duplicate_8	main	O
+duplicate_8	categories	O
+duplicate_8	of	O
+duplicate_8	scoring	O
+duplicate_8	duplicate	duplicate_adj-nou
+duplicate_8	and	O
+duplicate_8	rubber	O
+duplicate_8	scoring	O

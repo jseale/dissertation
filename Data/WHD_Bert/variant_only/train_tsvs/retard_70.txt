@@ -1,0 +1,14 @@
+retard_70	Calcium	O
+retard_70	propionate	O
+retard_70	is	O
+retard_70	commonly	O
+retard_70	added	O
+retard_70	by	O
+retard_70	commercial	O
+retard_70	bakeries	O
+retard_70	to	O
+retard_70	retard	retard_vrb
+retard_70	the	O
+retard_70	growth	O
+retard_70	of	O
+retard_70	molds	O

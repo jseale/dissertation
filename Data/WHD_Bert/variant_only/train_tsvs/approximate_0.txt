@@ -1,0 +1,16 @@
+approximate_0	The	O
+approximate_0	method	O
+approximate_0	yields	O
+approximate_0	approximate	approximate_adj-nou
+approximate_0	values	O
+approximate_0	of	O
+approximate_0	the	O
+approximate_0	unknowns	O
+approximate_0	at	O
+approximate_0	discrete	O
+approximate_0	number	O
+approximate_0	of	O
+approximate_0	points	O
+approximate_0	over	O
+approximate_0	the	O
+approximate_0	domain	O

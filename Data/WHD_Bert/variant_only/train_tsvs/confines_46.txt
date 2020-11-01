@@ -1,0 +1,7 @@
+confines_46	His	O
+confines_46	paraplegia	O
+confines_46	confines	confines_vrb
+confines_46	Bruce	O
+confines_46	to	O
+confines_46	a	O
+confines_46	wheelchair	O

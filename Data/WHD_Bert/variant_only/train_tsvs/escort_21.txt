@@ -1,0 +1,17 @@
+escort_21	Gruppe	O
+escort_21	was	O
+escort_21	a	O
+escort_21	Stuka	O
+escort_21	escort	escort_nou
+escort_21	mission	O
+escort_21	to	O
+escort_21	Grodno	O
+escort_21	at	O
+escort_21	6:00	O
+escort_21	am	O
+escort_21	during	O
+escort_21	which	O
+escort_21	Wilcke	O
+escort_21	claimed	O
+escort_21	another	O
+escort_21	victory	O

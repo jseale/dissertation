@@ -1,0 +1,15 @@
+refund_4	After	O
+refund_4	delays	O
+refund_4	of	O
+refund_4	180	O
+refund_4	days	O
+refund_4	BC	O
+refund_4	Ferries	O
+refund_4	could	O
+refund_4	rescind	O
+refund_4	the	O
+refund_4	contract	O
+refund_4	for	O
+refund_4	a	O
+refund_4	full	O
+refund_4	refund	refund_nou

@@ -1,0 +1,11 @@
+subordinate_23	PM	O
+subordinate_23	JBC	O
+subordinate_23	P	O
+subordinate_23	transitioned	O
+subordinate_23	into	O
+subordinate_23	a	O
+subordinate_23	subordinate	subordinate_adj-nou
+subordinate_23	product	O
+subordinate_23	of	O
+subordinate_23	PM	O
+subordinate_23	MC	O

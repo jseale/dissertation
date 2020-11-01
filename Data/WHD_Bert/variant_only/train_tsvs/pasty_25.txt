@@ -1,0 +1,10 @@
+pasty_25	Today	O
+pasty_25	the	O
+pasty_25	pasty	pasty_adj
+pasty_25	is	O
+pasty_25	the	O
+pasty_25	food	O
+pasty_25	most	O
+pasty_25	associated	O
+pasty_25	with	O
+pasty_25	Cornwall	O

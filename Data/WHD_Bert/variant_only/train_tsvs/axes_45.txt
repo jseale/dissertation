@@ -1,0 +1,14 @@
+axes_45	The	O
+axes_45	dimensions	O
+axes_45	of	O
+axes_45	valence	O
+axes_45	and	O
+axes_45	arousal	O
+axes_45	lay	O
+axes_45	at	O
+axes_45	a	O
+axes_45	45-degree	O
+axes_45	rotation	O
+axes_45	over	O
+axes_45	these	O
+axes_45	axes	axes_nou

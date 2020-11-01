@@ -1,0 +1,16 @@
+coordinate_46	The	O
+coordinate_46	two	O
+coordinate_46	coordinate	coordinate_adj-nou
+coordinate_46	description	O
+coordinate_46	of	O
+coordinate_46	the	O
+coordinate_46	plane	O
+coordinate_46	was	O
+coordinate_46	later	O
+coordinate_46	generalized	O
+coordinate_46	into	O
+coordinate_46	the	O
+coordinate_46	concept	O
+coordinate_46	of	O
+coordinate_46	vector	O
+coordinate_46	spaces	O

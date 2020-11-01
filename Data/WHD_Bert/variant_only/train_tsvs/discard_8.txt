@@ -1,0 +1,15 @@
+discard_8	Magdalana	O
+discard_8	's	O
+discard_8	presence	O
+discard_8	ends	O
+discard_8	when	O
+discard_8	Eve	O
+discard_8	punches	O
+discard_8	her	O
+discard_8	unconscious	O
+discard_8	and	O
+discard_8	orders	O
+discard_8	Summerset	O
+discard_8	to	O
+discard_8	discard	discard_vrb
+discard_8	her	O

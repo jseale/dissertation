@@ -1,0 +1,14 @@
+decrease_56	Additionally	O
+decrease_56	there	O
+decrease_56	was	O
+decrease_56	a	O
+decrease_56	decrease	decrease_nou
+decrease_56	in	O
+decrease_56	the	O
+decrease_56	amount	O
+decrease_56	of	O
+decrease_56	businesses	O
+decrease_56	present	O
+decrease_56	in	O
+decrease_56	the	O
+decrease_56	community	O

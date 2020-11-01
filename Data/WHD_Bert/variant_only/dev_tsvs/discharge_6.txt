@@ -1,0 +1,14 @@
+discharge_6	The	O
+discharge_6	electrical	O
+discharge_6	discharge	discharge_nou
+discharge_6	of	O
+discharge_6	M.	O
+discharge_6	electricus	O
+discharge_6	is	O
+discharge_6	not	O
+discharge_6	known	O
+discharge_6	to	O
+discharge_6	be	O
+discharge_6	fatal	O
+discharge_6	to	O
+discharge_6	humans	O

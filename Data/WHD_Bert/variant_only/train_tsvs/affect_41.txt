@@ -1,0 +1,10 @@
+affect_41	It	O
+affect_41	is	O
+affect_41	known	O
+affect_41	to	O
+affect_41	affect	affect
+affect_41	mainly	O
+affect_41	tea	O
+affect_41	plants	O
+affect_41	Thea	O
+affect_41	genus	O

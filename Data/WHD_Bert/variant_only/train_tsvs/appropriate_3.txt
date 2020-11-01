@@ -1,0 +1,14 @@
+appropriate_3	Be	O
+appropriate_3	appropriate	appropriate_adj
+appropriate_3	demonstrate	O
+appropriate_3	behavior	O
+appropriate_3	that	O
+appropriate_3	is	O
+appropriate_3	considerate	O
+appropriate_3	of	O
+appropriate_3	the	O
+appropriate_3	community	O
+appropriate_3	the	O
+appropriate_3	campus	O
+appropriate_3	and	O
+appropriate_3	yourself	O

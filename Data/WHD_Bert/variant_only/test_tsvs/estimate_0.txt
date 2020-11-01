@@ -1,0 +1,11 @@
+estimate_0	It	O
+estimate_0	is	O
+estimate_0	carried	O
+estimate_0	by	O
+estimate_0	approximately	O
+estimate_0	110	O
+estimate_0	million	O
+estimate_0	European	O
+estimate_0	men	O
+estimate_0	2010	O
+estimate_0	estimate	estimate_nou

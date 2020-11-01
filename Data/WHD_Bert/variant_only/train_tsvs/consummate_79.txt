@@ -1,0 +1,13 @@
+consummate_79	He	O
+consummate_79	decides	O
+consummate_79	that	O
+consummate_79	the	O
+consummate_79	solution	O
+consummate_79	is	O
+consummate_79	to	O
+consummate_79	force	O
+consummate_79	Emma	O
+consummate_79	to	O
+consummate_79	consummate	consummate_vrb
+consummate_79	their	O
+consummate_79	marriage	O

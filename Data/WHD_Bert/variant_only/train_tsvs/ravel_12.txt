@@ -1,0 +1,17 @@
+ravel_12	Tiago	O
+ravel_12	then	O
+ravel_12	puts	O
+ravel_12	his	O
+ravel_12	support	O
+ravel_12	behind	O
+ravel_12	Ravel	ravel_nam
+ravel_12	giving	O
+ravel_12	him	O
+ravel_12	the	O
+ravel_12	upper	O
+ravel_12	hand	O
+ravel_12	over	O
+ravel_12	his	O
+ravel_12	two	O
+ravel_12	priestess	O
+ravel_12	sisters	O

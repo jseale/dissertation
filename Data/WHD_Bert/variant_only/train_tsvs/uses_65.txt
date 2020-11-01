@@ -1,0 +1,16 @@
+uses_65	Shock	O
+uses_65	rarely	O
+uses_65	speaks	O
+uses_65	directly	O
+uses_65	instead	O
+uses_65	he	O
+uses_65	beat	O
+uses_65	boxes	O
+uses_65	and	O
+uses_65	uses	uses_vrb
+uses_65	his	O
+uses_65	hands	O
+uses_65	to	O
+uses_65	act	O
+uses_65	out	O
+uses_65	ideas	O

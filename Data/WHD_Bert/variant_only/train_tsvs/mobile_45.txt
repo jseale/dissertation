@@ -1,0 +1,15 @@
+mobile_45	Land	O
+mobile_45	line	O
+mobile_45	telephone	O
+mobile_45	services	O
+mobile_45	and	O
+mobile_45	mobile	mobile
+mobile_45	telephone	O
+mobile_45	services	O
+mobile_45	are	O
+mobile_45	available	O
+mobile_45	to	O
+mobile_45	the	O
+mobile_45	majority	O
+mobile_45	of	O
+mobile_45	areas	O

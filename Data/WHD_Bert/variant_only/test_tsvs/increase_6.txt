@@ -1,0 +1,16 @@
+increase_6	Cinobufagin	O
+increase_6	has	O
+increase_6	been	O
+increase_6	shown	O
+increase_6	to	O
+increase_6	increase	increase_vrb
+increase_6	pain	O
+increase_6	threshold	O
+increase_6	levels	O
+increase_6	in	O
+increase_6	mice	O
+increase_6	to	O
+increase_6	thermal	O
+increase_6	and	O
+increase_6	mechanical	O
+increase_6	stimuli	O

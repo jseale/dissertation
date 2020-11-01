@@ -1,0 +1,16 @@
+articulate_31	His	O
+articulate_31	finished	O
+articulate_31	drawing	O
+articulate_31	and	O
+articulate_31	paintings	O
+articulate_31	are	O
+articulate_31	highly	O
+articulate_31	articulate	articulate_adj
+articulate_31	and	O
+articulate_31	precise	O
+articulate_31	in	O
+articulate_31	the	O
+articulate_31	way	O
+articulate_31	he	O
+articulate_31	renders	O
+articulate_31	forms	O

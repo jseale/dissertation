@@ -1,0 +1,11 @@
+transform_9	His	O
+transform_9	consultancy	O
+transform_9	has	O
+transform_9	helped	O
+transform_9	transform	transform
+transform_9	profitability	O
+transform_9	for	O
+transform_9	well	O
+transform_9	known	O
+transform_9	international	O
+transform_9	companies	O

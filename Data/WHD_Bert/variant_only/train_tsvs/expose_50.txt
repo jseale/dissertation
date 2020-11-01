@@ -1,0 +1,14 @@
+expose_50	He	O
+expose_50	was	O
+expose_50	expose	expose_vrb
+expose_50	the	O
+expose_50	villain	O
+expose_50	and	O
+expose_50	restore	O
+expose_50	peace	O
+expose_50	forms	O
+expose_50	the	O
+expose_50	rest	O
+expose_50	of	O
+expose_50	the	O
+expose_50	point	O

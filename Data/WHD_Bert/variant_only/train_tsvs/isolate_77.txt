@@ -1,0 +1,11 @@
+isolate_77	It	O
+isolate_77	is	O
+isolate_77	designed	O
+isolate_77	to	O
+isolate_77	isolate	isolate
+isolate_77	signals	O
+isolate_77	travelling	O
+isolate_77	in	O
+isolate_77	a	O
+isolate_77	particular	O
+isolate_77	direction	O

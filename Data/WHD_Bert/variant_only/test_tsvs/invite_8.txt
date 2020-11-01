@@ -1,0 +1,14 @@
+invite_8	He	O
+invite_8	would	O
+invite_8	invite	invite_vrb
+invite_8	any	O
+invite_8	passengers	O
+invite_8	by	O
+invite_8	especially	O
+invite_8	Brahmins	O
+invite_8	for	O
+invite_8	grand	O
+invite_8	feast	O
+invite_8	at	O
+invite_8	his	O
+invite_8	home	O

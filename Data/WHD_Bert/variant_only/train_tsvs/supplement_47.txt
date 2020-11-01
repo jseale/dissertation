@@ -1,0 +1,8 @@
+supplement_47	Is	O
+supplement_47	coral	O
+supplement_47	calcium	O
+supplement_47	a	O
+supplement_47	safe	O
+supplement_47	and	O
+supplement_47	effective	O
+supplement_47	supplement	supplement_nou

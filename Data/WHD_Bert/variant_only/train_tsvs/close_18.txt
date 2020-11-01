@@ -1,0 +1,12 @@
+close_18	Ferrybridge	O
+close_18	and	O
+close_18	Eggborough	O
+close_18	power	O
+close_18	stations	O
+close_18	were	O
+close_18	scheduled	O
+close_18	to	O
+close_18	close	close_adj-nou
+close_18	in	O
+close_18	March	O
+close_18	2016	O

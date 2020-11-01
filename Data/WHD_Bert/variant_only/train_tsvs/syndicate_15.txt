@@ -1,0 +1,15 @@
+syndicate_15	Spit	O
+syndicate_15	Syndicate	syndicate_nou
+syndicate_15	are	O
+syndicate_15	an	O
+syndicate_15	ARIA	O
+syndicate_15	Award	O
+syndicate_15	nominated	O
+syndicate_15	Australian	O
+syndicate_15	hip	O
+syndicate_15	hop	O
+syndicate_15	duo	O
+syndicate_15	based	O
+syndicate_15	in	O
+syndicate_15	Sydney	O
+syndicate_15	Australia	O

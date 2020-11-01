@@ -1,0 +1,14 @@
+initiate_26	The	O
+initiate_26	initiate	initiate_nou
+initiate_26	puts	O
+initiate_26	on	O
+initiate_26	Christ	O
+initiate_26	Galatians	O
+initiate_26	3:27	O
+initiate_26	and	O
+initiate_26	is	O
+initiate_26	buried	O
+initiate_26	with	O
+initiate_26	him	O
+initiate_26	in	O
+initiate_26	baptism	O

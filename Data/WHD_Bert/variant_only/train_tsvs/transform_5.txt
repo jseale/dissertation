@@ -1,0 +1,15 @@
+transform_5	Extended	O
+transform_5	precision	O
+transform_5	processing	O
+transform_5	using	O
+transform_5	an	O
+transform_5	extended	O
+transform_5	dynamic	O
+transform_5	range	O
+transform_5	for	O
+transform_5	inter	O
+transform_5	prediction	O
+transform_5	interpolation	O
+transform_5	and	O
+transform_5	inverse	O
+transform_5	transform	transform_nou

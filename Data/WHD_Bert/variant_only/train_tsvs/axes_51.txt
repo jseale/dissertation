@@ -1,0 +1,16 @@
+axes_51	They	O
+axes_51	fought	O
+axes_51	with	O
+axes_51	spears	O
+axes_51	javelins	O
+axes_51	falxes	O
+axes_51	one	O
+axes_51	sided	O
+axes_51	battle	O
+axes_51	axes	axes_nou-vrb
+axes_51	and	O
+axes_51	used	O
+axes_51	Draco	O
+axes_51	Carnyxes	O
+axes_51	as	O
+axes_51	standards	O

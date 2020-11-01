@@ -1,0 +1,9 @@
+convict_50	ReferencesBateson	O
+convict_50	Charles	O
+convict_50	The	O
+convict_50	Convict	convict_nou
+convict_50	Ships	O
+convict_50	1787	O
+convict_50	1868	O
+convict_50	Sydney	O
+convict_50	1974	O

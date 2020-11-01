@@ -1,0 +1,14 @@
+discharge_45	By	O
+discharge_45	mean	O
+discharge_45	annual	O
+discharge_45	discharge	discharge_nou
+discharge_45	it	O
+discharge_45	ranks	O
+discharge_45	third	O
+discharge_45	in	O
+discharge_45	Europe	O
+discharge_45	after	O
+discharge_45	the	O
+discharge_45	Volga	O
+discharge_45	and	O
+discharge_45	Danube	O

@@ -1,0 +1,14 @@
+perfume_23	Azarius	O
+perfume_23	assures	O
+perfume_23	him	O
+perfume_23	that	O
+perfume_23	he	O
+perfume_23	will	O
+perfume_23	make	O
+perfume_23	a	O
+perfume_23	perfume	perfume_nou
+perfume_23	that	O
+perfume_23	will	O
+perfume_23	dispel	O
+perfume_23	the	O
+perfume_23	spirit	O

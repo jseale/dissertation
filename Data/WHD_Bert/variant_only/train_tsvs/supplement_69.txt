@@ -1,0 +1,17 @@
+supplement_69	Hunting	O
+supplement_69	and	O
+supplement_69	fishing	O
+supplement_69	were	O
+supplement_69	initially	O
+supplement_69	an	O
+supplement_69	important	O
+supplement_69	supplement	supplement_nou
+supplement_69	but	O
+supplement_69	lost	O
+supplement_69	a	O
+supplement_69	lot	O
+supplement_69	of	O
+supplement_69	their	O
+supplement_69	significance	O
+supplement_69	over	O
+supplement_69	time	O

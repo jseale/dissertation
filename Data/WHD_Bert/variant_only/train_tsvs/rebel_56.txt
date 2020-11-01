@@ -1,0 +1,8 @@
+rebel_56	Canister	O
+rebel_56	shots	O
+rebel_56	killed	O
+rebel_56	more	O
+rebel_56	civilians	O
+rebel_56	than	O
+rebel_56	rebel	rebel_nou
+rebel_56	soldiers	O

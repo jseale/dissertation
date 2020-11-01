@@ -1,0 +1,11 @@
+bow_58	Drawing	O
+bow_58	a	O
+bow_58	bow	bow_nou-knot
+bow_58	across	O
+bow_58	the	O
+bow_58	strings	O
+bow_58	causes	O
+bow_58	the	O
+bow_58	strings	O
+bow_58	to	O
+bow_58	vibrate	O

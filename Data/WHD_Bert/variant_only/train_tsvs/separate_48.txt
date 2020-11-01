@@ -1,0 +1,12 @@
+separate_48	It	O
+separate_48	consists	O
+separate_48	of	O
+separate_48	the	O
+separate_48	originally	O
+separate_48	separate	separate_adj
+separate_48	villages	O
+separate_48	of	O
+separate_48	Ober-	O
+separate_48	and	O
+separate_48	Unter	O
+separate_48	Berikon	O

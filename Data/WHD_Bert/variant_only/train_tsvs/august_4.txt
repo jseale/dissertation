@@ -1,0 +1,10 @@
+august_4	It	O
+august_4	was	O
+august_4	founded	O
+august_4	in	O
+august_4	1885	O
+august_4	by	O
+august_4	master	O
+august_4	builder	O
+august_4	August	august_nam
+august_4	Mayer	O

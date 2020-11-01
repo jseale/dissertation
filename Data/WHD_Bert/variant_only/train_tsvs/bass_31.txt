@@ -1,0 +1,13 @@
+bass_31	At	O
+bass_31	school	O
+bass_31	in	O
+bass_31	South	O
+bass_31	Yorkshire	O
+bass_31	he	O
+bass_31	learnt	O
+bass_31	to	O
+bass_31	play	O
+bass_31	guitar	O
+bass_31	and	O
+bass_31	bass	bass
+bass_31	guitar	O

@@ -1,0 +1,13 @@
+articulate_3	Blair	O
+articulate_3	has	O
+articulate_3	been	O
+articulate_3	noted	O
+articulate_3	as	O
+articulate_3	a	O
+articulate_3	charismatic	O
+articulate_3	articulate	articulate_adj
+articulate_3	speaker	O
+articulate_3	with	O
+articulate_3	an	O
+articulate_3	informal	O
+articulate_3	style	O

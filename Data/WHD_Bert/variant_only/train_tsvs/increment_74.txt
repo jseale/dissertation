@@ -1,0 +1,9 @@
+increment_74	The	O
+increment_74	minimum	O
+increment_74	possible	O
+increment_74	increment	increment_nou
+increment_74	of	O
+increment_74	horizontal	O
+increment_74	movement	O
+increment_74	is	O
+increment_74	1/120	O

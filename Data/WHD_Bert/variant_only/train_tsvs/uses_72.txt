@@ -1,0 +1,7 @@
+uses_72	The	O
+uses_72	Medicinal	O
+uses_72	Uses	uses_nou
+uses_72	of	O
+uses_72	Cannabis	O
+uses_72	and	O
+uses_72	Cannabinoids	O

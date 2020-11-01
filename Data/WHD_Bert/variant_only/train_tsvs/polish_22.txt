@@ -1,0 +1,11 @@
+polish_22	Hanna	O
+polish_22	Elzbieta	O
+polish_22	Zdanowska	O
+polish_22	born	O
+polish_22	March	O
+polish_22	29	O
+polish_22	1959	O
+polish_22	is	O
+polish_22	a	O
+polish_22	Polish	polish_geo
+polish_22	politician	O

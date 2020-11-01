@@ -1,0 +1,7 @@
+wound_68	The	O
+wound_68	evidence	O
+wound_68	regarding	O
+wound_68	wound	wound_nou-vrb
+wound_68	healing	O
+wound_68	is	O
+wound_68	contradictory	O

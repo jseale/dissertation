@@ -1,0 +1,14 @@
+aggregate_18	SeqA	O
+aggregate_18	tetramers	O
+aggregate_18	are	O
+aggregate_18	able	O
+aggregate_18	to	O
+aggregate_18	aggregate	aggregate_vrb
+aggregate_18	or	O
+aggregate_18	multimerize	O
+aggregate_18	in	O
+aggregate_18	a	O
+aggregate_18	reversible	O
+aggregate_18	concentration	O
+aggregate_18	dependent	O
+aggregate_18	manner	O

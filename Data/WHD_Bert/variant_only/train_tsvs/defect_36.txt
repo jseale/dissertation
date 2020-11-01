@@ -1,0 +1,17 @@
+defect_36	The	O
+defect_36	main	O
+defect_36	defect	defect_nou
+defect_36	of	O
+defect_36	ID	O
+defect_36	speakers	O
+defect_36	was	O
+defect_36	very	O
+defect_36	poor	O
+defect_36	treble	O
+defect_36	response	O
+defect_36	giving	O
+defect_36	them	O
+defect_36	a	O
+defect_36	characteristic	O
+defect_36	dull	O
+defect_36	drone	O

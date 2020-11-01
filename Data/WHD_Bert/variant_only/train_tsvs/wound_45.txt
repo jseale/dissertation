@@ -1,0 +1,14 @@
+wound_45	An	O
+wound_45	autopsy	O
+wound_45	later	O
+wound_45	revealed	O
+wound_45	that	O
+wound_45	she	O
+wound_45	died	O
+wound_45	from	O
+wound_45	a	O
+wound_45	gunshot	O
+wound_45	wound	wound_nou-vrb
+wound_45	of	O
+wound_45	the	O
+wound_45	chest	O

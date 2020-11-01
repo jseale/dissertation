@@ -1,0 +1,17 @@
+analyses_6	The	O
+analyses_6	ESP	O
+analyses_6	also	O
+analyses_6	archives	O
+analyses_6	samples	O
+analyses_6	so	O
+analyses_6	that	O
+analyses_6	further	O
+analyses_6	analyses	analyses_nou
+analyses_6	may	O
+analyses_6	be	O
+analyses_6	done	O
+analyses_6	after	O
+analyses_6	the	O
+analyses_6	instrument	O
+analyses_6	is	O
+analyses_6	recovered	O

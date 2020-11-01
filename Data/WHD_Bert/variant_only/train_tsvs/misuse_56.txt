@@ -1,0 +1,17 @@
+misuse_56	The	O
+misuse_56	long	O
+misuse_56	standing	O
+misuse_56	misuse	misuse_nou
+misuse_56	of	O
+misuse_56	the	O
+misuse_56	terms	O
+misuse_56	and	O
+misuse_56	its	O
+misuse_56	inclusion	O
+misuse_56	in	O
+misuse_56	scholarly	O
+misuse_56	articles	O
+misuse_56	has	O
+misuse_56	compounded	O
+misuse_56	the	O
+misuse_56	confusion	O

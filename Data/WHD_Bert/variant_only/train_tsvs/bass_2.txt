@@ -1,0 +1,10 @@
+bass_2	It	O
+bass_2	has	O
+bass_2	two	O
+bass_2	Vintage	O
+bass_2	Jazz	O
+bass_2	Bass	bass
+bass_2	Single	O
+bass_2	Coil	O
+bass_2	Pickups	O
+bass_2	stock	O

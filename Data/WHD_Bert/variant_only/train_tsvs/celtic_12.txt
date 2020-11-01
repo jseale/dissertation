@@ -1,0 +1,14 @@
+celtic_12	Flatfoot	O
+celtic_12	56	O
+celtic_12	has	O
+celtic_12	been	O
+celtic_12	playing	O
+celtic_12	a	O
+celtic_12	positive	O
+celtic_12	natured	O
+celtic_12	brand	O
+celtic_12	of	O
+celtic_12	hardcore	O
+celtic_12	tinged	O
+celtic_12	Celtic	celtic
+celtic_12	punk	O

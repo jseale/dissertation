@@ -1,0 +1,15 @@
+console_3	Ghost	O
+console_3	6.0	O
+console_3	released	O
+console_3	in	O
+console_3	2000	O
+console_3	includes	O
+console_3	a	O
+console_3	management	O
+console_3	console	console_nou
+console_3	for	O
+console_3	managing	O
+console_3	large	O
+console_3	numbers	O
+console_3	of	O
+console_3	machines	O

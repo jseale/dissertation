@@ -1,0 +1,14 @@
+dove_4	The	O
+dove_4	Chalcophaps	O
+dove_4	indica	O
+dove_4	augusta	O
+dove_4	Bonaparte	O
+dove_4	1855	O
+dove_4	is	O
+dove_4	also	O
+dove_4	known	O
+dove_4	as	O
+dove_4	Princess	O
+dove_4	Gabrielli	O
+dove_4	's	O
+dove_4	dove	dove

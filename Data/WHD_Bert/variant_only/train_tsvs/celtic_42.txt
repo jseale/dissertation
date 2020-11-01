@@ -1,0 +1,17 @@
+celtic_42	Sports	O
+celtic_42	Hotline	O
+celtic_42	Celtic	celtic_adj-nou-sports
+celtic_42	fans	O
+celtic_42	reckon	O
+celtic_42	they	O
+celtic_42	've	O
+celtic_42	swapped	O
+celtic_42	one	O
+celtic_42	£	O
+celtic_42	10	O
+celtic_42	m	O
+celtic_42	keeper	O
+celtic_42	for	O
+celtic_42	another	O
+celtic_42	Daily	O
+celtic_42	Record	O

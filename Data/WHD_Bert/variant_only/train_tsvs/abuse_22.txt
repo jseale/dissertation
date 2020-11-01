@@ -1,0 +1,7 @@
+abuse_22	Developing	O
+abuse_22	and	O
+abuse_22	implementing	O
+abuse_22	AOD	O
+abuse_22	abuse	abuse_nou
+abuse_22	prevention	O
+abuse_22	strategies	O

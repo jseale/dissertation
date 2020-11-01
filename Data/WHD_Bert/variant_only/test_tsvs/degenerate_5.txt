@@ -1,0 +1,15 @@
+degenerate_5	The	O
+degenerate_5	figure	O
+degenerate_5	was	O
+degenerate_5	exhibited	O
+degenerate_5	in	O
+degenerate_5	the	O
+degenerate_5	National	O
+degenerate_5	Socialism	O
+degenerate_5	as	O
+degenerate_5	degenerate	degenerate_adj-nou
+degenerate_5	and	O
+degenerate_5	was	O
+degenerate_5	probably	O
+degenerate_5	destroyed	O
+degenerate_5	latter	O

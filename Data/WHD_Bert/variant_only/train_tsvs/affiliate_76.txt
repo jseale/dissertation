@@ -1,0 +1,13 @@
+affiliate_76	The	O
+affiliate_76	station	O
+affiliate_76	is	O
+affiliate_76	an	O
+affiliate_76	affiliate	affiliate_nou
+affiliate_76	of	O
+affiliate_76	the	O
+affiliate_76	Dallas	O
+affiliate_76	Cowboys	O
+affiliate_76	Spanish	O
+affiliate_76	Language	O
+affiliate_76	Radio	O
+affiliate_76	Network	O

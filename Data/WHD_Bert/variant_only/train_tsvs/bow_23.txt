@@ -1,0 +1,17 @@
+bow_23	People	O
+bow_23	should	O
+bow_23	bow	bow_nou-ship
+bow_23	one	O
+bow_23	time	O
+bow_23	for	O
+bow_23	those	O
+bow_23	who	O
+bow_23	are	O
+bow_23	alive	O
+bow_23	and	O
+bow_23	twice	O
+bow_23	for	O
+bow_23	those	O
+bow_23	who	O
+bow_23	are	O
+bow_23	deceased	O

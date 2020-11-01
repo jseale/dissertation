@@ -1,0 +1,7 @@
+august_5	The	O
+august_5	North	O
+august_5	American	O
+august_5	leg	O
+august_5	began	O
+august_5	in	O
+august_5	August	august

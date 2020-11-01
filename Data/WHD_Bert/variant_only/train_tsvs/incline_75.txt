@@ -1,0 +1,14 @@
+incline_75	The	O
+incline_75	asphalt	O
+incline_75	is	O
+incline_75	taken	O
+incline_75	by	O
+incline_75	trucks	O
+incline_75	to	O
+incline_75	railway	O
+incline_75	cars	O
+incline_75	which	O
+incline_75	are	O
+incline_75	on	O
+incline_75	the	O
+incline_75	incline	incline_nou

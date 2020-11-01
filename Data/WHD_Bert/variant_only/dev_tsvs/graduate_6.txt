@@ -1,0 +1,13 @@
+graduate_6	Some	O
+graduate_6	policy	O
+graduate_6	study	O
+graduate_6	experts	O
+graduate_6	graduate	graduate_vrb
+graduate_6	from	O
+graduate_6	public	O
+graduate_6	policy	O
+graduate_6	schools	O
+graduate_6	with	O
+graduate_6	public	O
+graduate_6	policy	O
+graduate_6	degrees	O

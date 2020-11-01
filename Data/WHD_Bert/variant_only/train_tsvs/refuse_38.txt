@@ -1,0 +1,14 @@
+refuse_38	She	O
+refuse_38	could	O
+refuse_38	not	O
+refuse_38	refuse	refuse_vrb
+refuse_38	anyone	O
+refuse_38	who	O
+refuse_38	appealed	O
+refuse_38	for	O
+refuse_38	financial	O
+refuse_38	help	O
+refuse_38	whether	O
+refuse_38	deserving	O
+refuse_38	or	O
+refuse_38	not	O

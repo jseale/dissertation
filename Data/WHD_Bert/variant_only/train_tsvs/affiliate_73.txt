@@ -1,0 +1,14 @@
+affiliate_73	This	O
+affiliate_73	makes	O
+affiliate_73	it	O
+affiliate_73	a	O
+affiliate_73	sister	O
+affiliate_73	station	O
+affiliate_73	to	O
+affiliate_73	CW	O
+affiliate_73	affiliate	affiliate_nou
+affiliate_73	WBMM	O
+affiliate_73	and	O
+affiliate_73	CBS	O
+affiliate_73	affiliate	affiliate_nou
+affiliate_73	WAKA	O

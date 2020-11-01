@@ -1,0 +1,13 @@
+export_69	This	O
+export_69	number	O
+export_69	includes	O
+export_69	the	O
+export_69	5,200-MW	O
+export_69	Churchill	O
+export_69	Falls	O
+export_69	lines	O
+export_69	which	O
+export_69	have	O
+export_69	no	O
+export_69	export	export_nou
+export_69	capability	O

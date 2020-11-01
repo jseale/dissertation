@@ -1,0 +1,9 @@
+rebel_4	The	O
+rebel_4	Rebel	rebel_nou
+rebel_4	Yell	O
+rebel_4	is	O
+rebel_4	the	O
+rebel_4	student	O
+rebel_4	newspaper	O
+rebel_4	on	O
+rebel_4	campus	O

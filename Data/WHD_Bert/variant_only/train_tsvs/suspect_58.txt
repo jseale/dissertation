@@ -1,0 +1,17 @@
+suspect_58	Right	O
+suspect_58	after	O
+suspect_58	the	O
+suspect_58	shooting	O
+suspect_58	the	O
+suspect_58	suspect	suspect_adj-nou
+suspect_58	fled	O
+suspect_58	the	O
+suspect_58	house	O
+suspect_58	after	O
+suspect_58	realizing	O
+suspect_58	he	O
+suspect_58	had	O
+suspect_58	run	O
+suspect_58	out	O
+suspect_58	of	O
+suspect_58	ammunition	O

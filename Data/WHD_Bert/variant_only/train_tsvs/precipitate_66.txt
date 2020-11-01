@@ -1,0 +1,11 @@
+precipitate_66	They	O
+precipitate_66	are	O
+precipitate_66	contraindicated	O
+precipitate_66	in	O
+precipitate_66	variant	O
+precipitate_66	angina	O
+precipitate_66	and	O
+precipitate_66	can	O
+precipitate_66	precipitate	precipitate_vrb
+precipitate_66	heart	O
+precipitate_66	failure	O

@@ -1,0 +1,14 @@
+advocate_5	Ashok	O
+advocate_5	H.	O
+advocate_5	Desai	O
+advocate_5	is	O
+advocate_5	a	O
+advocate_5	Senior	O
+advocate_5	Advocate	advocate_nou
+advocate_5	practicing	O
+advocate_5	in	O
+advocate_5	the	O
+advocate_5	Supreme	O
+advocate_5	Court	O
+advocate_5	of	O
+advocate_5	India	O

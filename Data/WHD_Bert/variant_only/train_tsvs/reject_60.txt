@@ -1,0 +1,15 @@
+reject_60	Postmodernism	O
+reject_60	describes	O
+reject_60	movements	O
+reject_60	which	O
+reject_60	both	O
+reject_60	arise	O
+reject_60	from	O
+reject_60	and	O
+reject_60	react	O
+reject_60	against	O
+reject_60	or	O
+reject_60	reject	reject_vrb
+reject_60	trends	O
+reject_60	in	O
+reject_60	modernism	O

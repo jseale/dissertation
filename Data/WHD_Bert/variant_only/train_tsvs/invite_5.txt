@@ -1,0 +1,17 @@
+invite_5	Invite	invite_vrb
+invite_5	public	O
+invite_5	officials	O
+invite_5	local	O
+invite_5	civic	O
+invite_5	leaders	O
+invite_5	American	O
+invite_5	Legion	O
+invite_5	dignitaries	O
+invite_5	and	O
+invite_5	members	O
+invite_5	of	O
+invite_5	the	O
+invite_5	sponsoring	O
+invite_5	Post	O
+invite_5	o	O
+invite_5	attend	O

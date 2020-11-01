@@ -1,0 +1,17 @@
+isolate_44	Consequently	O
+isolate_44	high	O
+isolate_44	level	O
+isolate_44	radioactive	O
+isolate_44	waste	O
+isolate_44	requires	O
+isolate_44	sophisticated	O
+isolate_44	treatment	O
+isolate_44	and	O
+isolate_44	management	O
+isolate_44	to	O
+isolate_44	successfully	O
+isolate_44	isolate	isolate
+isolate_44	it	O
+isolate_44	from	O
+isolate_44	the	O
+isolate_44	biosphere	O

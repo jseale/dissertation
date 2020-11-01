@@ -1,0 +1,10 @@
+delegate_53	He	O
+delegate_53	was	O
+delegate_53	a	O
+delegate_53	delegate	delegate_nou
+delegate_53	to	O
+delegate_53	the	O
+delegate_53	1844	O
+delegate_53	Whig	O
+delegate_53	National	O
+delegate_53	Convention	O

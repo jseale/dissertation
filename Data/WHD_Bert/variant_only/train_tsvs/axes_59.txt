@@ -1,0 +1,16 @@
+axes_59	San	O
+axes_59	Jorge	O
+axes_59	and	O
+axes_59	Castilla	O
+axes_59	streets	O
+axes_59	are	O
+axes_59	the	O
+axes_59	main	O
+axes_59	axes	axes_nou
+axes_59	on	O
+axes_59	the	O
+axes_59	north	O
+axes_59	side	O
+axes_59	of	O
+axes_59	the	O
+axes_59	neighbourhood	O

@@ -1,0 +1,17 @@
+moderate_33	Murray	O
+moderate_33	provoked	O
+moderate_33	a	O
+moderate_33	revitalization	O
+moderate_33	plan	O
+moderate_33	to	O
+moderate_33	help	O
+moderate_33	create	O
+moderate_33	more	O
+moderate_33	affordable	O
+moderate_33	housing	O
+moderate_33	for	O
+moderate_33	low	O
+moderate_33	and	O
+moderate_33	moderate	moderate_adj-nou
+moderate_33	income	O
+moderate_33	citizens	O

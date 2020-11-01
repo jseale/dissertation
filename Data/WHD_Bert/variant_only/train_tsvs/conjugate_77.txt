@@ -1,0 +1,16 @@
+conjugate_77	At	O
+conjugate_77	present	O
+conjugate_77	SimScale	O
+conjugate_77	allows	O
+conjugate_77	uncoupled	O
+conjugate_77	thermo	O
+conjugate_77	mechanical	O
+conjugate_77	simulations	O
+conjugate_77	conjugate	conjugate_adj-nou
+conjugate_77	heat	O
+conjugate_77	transfer	O
+conjugate_77	and	O
+conjugate_77	convective	O
+conjugate_77	heat	O
+conjugate_77	transfer	O
+conjugate_77	analysis	O

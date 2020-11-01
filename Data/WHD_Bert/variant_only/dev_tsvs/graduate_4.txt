@@ -1,0 +1,13 @@
+graduate_4	In	O
+graduate_4	1961	O
+graduate_4	he	O
+graduate_4	graduated	O
+graduate_4	from	O
+graduate_4	Stanford	O
+graduate_4	Graduate	graduate_adj-nou
+graduate_4	School	O
+graduate_4	of	O
+graduate_4	Business	O
+graduate_4	with	O
+graduate_4	an	O
+graduate_4	MBA	O

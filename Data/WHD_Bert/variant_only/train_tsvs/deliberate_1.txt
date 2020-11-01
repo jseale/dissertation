@@ -1,0 +1,17 @@
+deliberate_1	The	O
+deliberate_1	first	O
+deliberate_1	two	O
+deliberate_1	mistakes	O
+deliberate_1	in	O
+deliberate_1	this	O
+deliberate_1	list	O
+deliberate_1	were	O
+deliberate_1	deliberate	deliberate_adj
+deliberate_1	intended	O
+deliberate_1	to	O
+deliberate_1	be	O
+deliberate_1	examples	O
+deliberate_1	of	O
+deliberate_1	anti	O
+deliberate_1	time	O
+deliberate_1	contamination	O

@@ -1,0 +1,11 @@
+discharge_34	The	O
+discharge_34	average	O
+discharge_34	discharge	discharge_nou
+discharge_34	quantity	O
+discharge_34	amounts	O
+discharge_34	to	O
+discharge_34	3	O
+discharge_34	m³/s	O
+discharge_34	at	O
+discharge_34	the	O
+discharge_34	delta	O

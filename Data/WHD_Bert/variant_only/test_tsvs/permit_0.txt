@@ -1,0 +1,12 @@
+permit_0	If	O
+permit_0	carrying	O
+permit_0	a	O
+permit_0	camera	O
+permit_0	you	O
+permit_0	will	O
+permit_0	be	O
+permit_0	stopped	O
+permit_0	and	O
+permit_0	asked	O
+permit_0	for	O
+permit_0	permit	permit_nou

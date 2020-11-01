@@ -1,0 +1,12 @@
+discard_36	Players	O
+discard_36	can	O
+discard_36	make	O
+discard_36	a	O
+discard_36	meld	O
+discard_36	by	O
+discard_36	calling	O
+discard_36	for	O
+discard_36	another	O
+discard_36	player	O
+discard_36	's	O
+discard_36	discard	discard_nou

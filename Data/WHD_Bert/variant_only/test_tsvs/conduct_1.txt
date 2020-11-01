@@ -1,0 +1,14 @@
+conduct_1	Arrests	O
+conduct_1	for	O
+conduct_1	public	O
+conduct_1	intoxication	O
+conduct_1	disorderly	O
+conduct_1	conduct	conduct_nou
+conduct_1	fights	O
+conduct_1	and	O
+conduct_1	drug	O
+conduct_1	possession	O
+conduct_1	were	O
+conduct_1	frequent	O
+conduct_1	and	O
+conduct_1	common	O

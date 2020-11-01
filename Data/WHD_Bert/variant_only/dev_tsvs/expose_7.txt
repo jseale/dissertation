@@ -1,0 +1,9 @@
+expose_7	Indian	O
+expose_7	techies	O
+expose_7	in	O
+expose_7	S	O
+expose_7	Korea	O
+expose_7	expose	expose_vrb
+expose_7	fat	O
+expose_7	salary	O
+expose_7	lie	O

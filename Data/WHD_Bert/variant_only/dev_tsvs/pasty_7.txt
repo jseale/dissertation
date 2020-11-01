@@ -1,0 +1,14 @@
+pasty_7	The	O
+pasty_7	shop	O
+pasty_7	focuses	O
+pasty_7	on	O
+pasty_7	pasty	pasty_adj
+pasty_7	as	O
+pasty_7	art	O
+pasty_7	and	O
+pasty_7	is	O
+pasty_7	described	O
+pasty_7	as	O
+pasty_7	interactive	O
+pasty_7	edible	O
+pasty_7	art	O

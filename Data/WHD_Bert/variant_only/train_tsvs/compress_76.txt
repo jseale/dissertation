@@ -1,0 +1,15 @@
+compress_76	In	O
+compress_76	the	O
+compress_76	following	O
+compress_76	sections	O
+compress_76	a	O
+compress_76	Rake	O
+compress_76	Compress	compress_nou
+compress_76	algorithm	O
+compress_76	will	O
+compress_76	be	O
+compress_76	proposed	O
+compress_76	to	O
+compress_76	fulfill	O
+compress_76	this	O
+compress_76	goal	O

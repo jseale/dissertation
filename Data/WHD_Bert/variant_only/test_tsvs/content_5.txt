@@ -1,0 +1,13 @@
+content_5	The	O
+content_5	whole	O
+content_5	refined	O
+content_5	cheese	O
+content_5	must	O
+content_5	have	O
+content_5	less	O
+content_5	than	O
+content_5	50	O
+content_5	of	O
+content_5	dry	O
+content_5	matter	O
+content_5	content	content_nou

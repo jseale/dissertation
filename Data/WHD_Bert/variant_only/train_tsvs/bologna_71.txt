@@ -1,0 +1,7 @@
+bologna_71	It	O
+bologna_71	is	O
+bologna_71	very	O
+bologna_71	similar	O
+bologna_71	to	O
+bologna_71	American	O
+bologna_71	Bologna	bologna_geo

@@ -1,0 +1,14 @@
+animate_21	Studio	O
+animate_21	Pierrot	O
+animate_21	was	O
+animate_21	eventually	O
+animate_21	called	O
+animate_21	in	O
+animate_21	to	O
+animate_21	fill	O
+animate_21	the	O
+animate_21	void	O
+animate_21	and	O
+animate_21	animate	animate_vrb
+animate_21	Book	O
+animate_21	2	O

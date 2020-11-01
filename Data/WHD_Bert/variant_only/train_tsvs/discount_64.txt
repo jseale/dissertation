@@ -1,0 +1,15 @@
+discount_64	Task	O
+discount_64	Review	O
+discount_64	Connexus	O
+discount_64	offered	O
+discount_64	a	O
+discount_64	mini	O
+discount_64	Olympian	O
+discount_64	party	O
+discount_64	acquiring	O
+discount_64	several	O
+discount_64	activities	O
+discount_64	at	O
+discount_64	a	O
+discount_64	reasonable	O
+discount_64	discount	discount_nou

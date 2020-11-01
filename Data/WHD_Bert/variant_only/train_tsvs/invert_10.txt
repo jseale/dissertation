@@ -1,0 +1,13 @@
+invert_10	The	O
+invert_10	application	O
+invert_10	includes	O
+invert_10	an	O
+invert_10	invert	invert_adj-nou
+invert_10	colors	O
+invert_10	option	O
+invert_10	and	O
+invert_10	a	O
+invert_10	crop	O
+invert_10	selected	O
+invert_10	area	O
+invert_10	function	O

@@ -1,0 +1,14 @@
+ornament_43	Inside	O
+ornament_43	another	O
+ornament_43	strange	O
+ornament_43	ornament	ornament_nou
+ornament_43	hangs	O
+ornament_43	from	O
+ornament_43	the	O
+ornament_43	ceiling	O
+ornament_43	in	O
+ornament_43	the	O
+ornament_43	middle	O
+ornament_43	of	O
+ornament_43	a	O
+ornament_43	hallway	O

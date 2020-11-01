@@ -1,0 +1,14 @@
+coordinate_62	The	O
+coordinate_62	programmer	O
+coordinate_62	must	O
+coordinate_62	carefully	O
+coordinate_62	coordinate	coordinate_vrb
+coordinate_62	actions	O
+coordinate_62	to	O
+coordinate_62	manage	O
+coordinate_62	their	O
+coordinate_62	side	O
+coordinate_62	effects	O
+coordinate_62	upon	O
+coordinate_62	each	O
+coordinate_62	other	O

@@ -1,0 +1,17 @@
+appropriate_32	Further	O
+appropriate_32	generalizations	O
+appropriate_32	of	O
+appropriate_32	the	O
+appropriate_32	product	O
+appropriate_32	rule	O
+appropriate_32	have	O
+appropriate_32	been	O
+appropriate_32	demonstrated	O
+appropriate_32	for	O
+appropriate_32	appropriate	appropriate_adj
+appropriate_32	products	O
+appropriate_32	of	O
+appropriate_32	hypermatrices	O
+appropriate_32	of	O
+appropriate_32	boundary	O
+appropriate_32	format	O

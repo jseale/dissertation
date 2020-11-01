@@ -1,0 +1,12 @@
+learned_53	Syed	O
+learned_53	Waheed	O
+learned_53	Ashraf	O
+learned_53	learned	learned_vrb
+learned_53	Islamic	O
+learned_53	theology	O
+learned_53	from	O
+learned_53	his	O
+learned_53	brother	O
+learned_53	Syed	O
+learned_53	Hameed	O
+learned_53	Ashraf	O

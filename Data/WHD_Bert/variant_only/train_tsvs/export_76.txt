@@ -1,0 +1,7 @@
+export_76	Cultivated	O
+export_76	shrimp	O
+export_76	is	O
+export_76	another	O
+export_76	important	O
+export_76	export	export_nou
+export_76	sector	O

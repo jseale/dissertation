@@ -1,0 +1,17 @@
+separate_40	Modern	O
+separate_40	molecular	O
+separate_40	evidence	O
+separate_40	supports	O
+separate_40	the	O
+separate_40	recognition	O
+separate_40	of	O
+separate_40	Phaeonematoloma	O
+separate_40	as	O
+separate_40	an	O
+separate_40	independent	O
+separate_40	genus	O
+separate_40	separate	separate_adj
+separate_40	from	O
+separate_40	Hypholoma	O
+separate_40	and	O
+separate_40	Pholiota	O

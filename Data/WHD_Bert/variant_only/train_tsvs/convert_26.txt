@@ -1,0 +1,12 @@
+convert_26	The	O
+convert_26	company	O
+convert_26	started	O
+convert_26	to	O
+convert_26	convert	convert_vrb
+convert_26	former	O
+convert_26	passenger	O
+convert_26	aircraft	O
+convert_26	into	O
+convert_26	freighters	O
+convert_26	in	O
+convert_26	1996	O

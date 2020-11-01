@@ -1,0 +1,12 @@
+produce_34	Prism	O
+produce_34	rotators	O
+produce_34	use	O
+produce_34	multiple	O
+produce_34	internal	O
+produce_34	reflections	O
+produce_34	to	O
+produce_34	produce	produce_vrb
+produce_34	beams	O
+produce_34	with	O
+produce_34	rotated	O
+produce_34	polarization	O

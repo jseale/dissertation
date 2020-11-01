@@ -1,0 +1,14 @@
+degenerate_9	That	O
+degenerate_9	is	O
+degenerate_9	non	O
+degenerate_9	degenerate	degenerate_adj-nou
+degenerate_9	means	O
+degenerate_9	there	O
+degenerate_9	are	O
+degenerate_9	no	O
+degenerate_9	non	O
+degenerate_9	zero	O
+degenerate_9	such	O
+degenerate_9	that	O
+degenerate_9	for	O
+degenerate_9	all	O

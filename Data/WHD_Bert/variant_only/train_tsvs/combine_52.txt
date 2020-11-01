@@ -1,0 +1,9 @@
+combine_52	The	O
+combine_52	much	O
+combine_52	enlarged	O
+combine_52	group	O
+combine_52	became	O
+combine_52	known	O
+combine_52	as	O
+combine_52	the	O
+combine_52	Combine	combine_nou

@@ -1,0 +1,11 @@
+transplant_1	The	O
+transplant_1	first	O
+transplant_1	successful	O
+transplant_1	uterine	O
+transplant_1	transplant	transplant_nou
+transplant_1	took	O
+transplant_1	place	O
+transplant_1	in	O
+transplant_1	Turkey	O
+transplant_1	in	O
+transplant_1	2011	O

@@ -1,0 +1,15 @@
+frequent_8	Frequent	frequent_adj
+frequent_8	disturbance	O
+frequent_8	often	O
+frequent_8	perturbs	O
+frequent_8	agricultural	O
+frequent_8	habitats	O
+frequent_8	and	O
+frequent_8	the	O
+frequent_8	response	O
+frequent_8	to	O
+frequent_8	disturbance	O
+frequent_8	varies	O
+frequent_8	among	O
+frequent_8	EPN	O
+frequent_8	species	O

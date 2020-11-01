@@ -1,0 +1,15 @@
+coordinate_59	This	O
+coordinate_59	can	O
+coordinate_59	be	O
+coordinate_59	defined	O
+coordinate_59	by	O
+coordinate_59	this	O
+coordinate_59	formula	O
+coordinate_59	for	O
+coordinate_59	xᵢ	O
+coordinate_59	and	O
+coordinate_59	yᵢ	O
+coordinate_59	representing	O
+coordinate_59	each	O
+coordinate_59	respective	O
+coordinate_59	coordinate	coordinate_adj-nou

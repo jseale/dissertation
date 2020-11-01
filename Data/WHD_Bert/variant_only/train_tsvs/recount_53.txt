@@ -1,0 +1,15 @@
+recount_53	The	O
+recount_53	recount	recount_nou
+recount_53	did	O
+recount_53	not	O
+recount_53	change	O
+recount_53	the	O
+recount_53	outcome	O
+recount_53	with	O
+recount_53	Harman	O
+recount_53	's	O
+recount_53	lead	O
+recount_53	shrinking	O
+recount_53	to	O
+recount_53	225	O
+recount_53	votes	O

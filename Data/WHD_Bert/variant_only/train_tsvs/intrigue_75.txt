@@ -1,0 +1,14 @@
+intrigue_75	Since	O
+intrigue_75	2008	O
+intrigue_75	Intrigue	intrigue_nou
+intrigue_75	in	O
+intrigue_75	Tangiers	O
+intrigue_75	have	O
+intrigue_75	released	O
+intrigue_75	6	O
+intrigue_75	studio	O
+intrigue_75	albums	O
+intrigue_75	and	O
+intrigue_75	a	O
+intrigue_75	best	O
+intrigue_75	of	O

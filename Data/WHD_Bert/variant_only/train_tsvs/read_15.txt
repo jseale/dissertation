@@ -1,0 +1,12 @@
+read_15	All	O
+read_15	the	O
+read_15	File	O
+read_15	I	O
+read_15	O	O
+read_15	verbs	O
+read_15	such	O
+read_15	as	O
+read_15	READ	read_present
+read_15	WRITE	O
+read_15	DELETE	O
+read_15	etc	O

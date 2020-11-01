@@ -1,0 +1,11 @@
+bologna_9	He	O
+bologna_9	received	O
+bologna_9	his	O
+bologna_9	education	O
+bologna_9	at	O
+bologna_9	the	O
+bologna_9	Universities	O
+bologna_9	of	O
+bologna_9	Paris	O
+bologna_9	and	O
+bologna_9	Bologna	bologna_geo

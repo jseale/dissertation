@@ -1,0 +1,16 @@
+degenerate_9	This	O
+degenerate_9	and	O
+degenerate_9	other	O
+degenerate_9	arguments	O
+degenerate_9	caused	O
+degenerate_9	the	O
+degenerate_9	conference	O
+degenerate_9	to	O
+degenerate_9	degenerate	degenerate_vrb
+degenerate_9	into	O
+degenerate_9	a	O
+degenerate_9	shouting	O
+degenerate_9	shooting	O
+degenerate_9	and	O
+degenerate_9	blasting	O
+degenerate_9	match	O

@@ -1,0 +1,16 @@
+pasty_5	The	O
+pasty_5	swede	O
+pasty_5	is	O
+pasty_5	also	O
+pasty_5	one	O
+pasty_5	of	O
+pasty_5	the	O
+pasty_5	four	O
+pasty_5	traditional	O
+pasty_5	ingredients	O
+pasty_5	of	O
+pasty_5	the	O
+pasty_5	pasty	pasty_adj
+pasty_5	originating	O
+pasty_5	in	O
+pasty_5	Cornwall	O

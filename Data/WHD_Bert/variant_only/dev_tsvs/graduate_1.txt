@@ -1,0 +1,17 @@
+graduate_1	He	O
+graduate_1	enrolled	O
+graduate_1	in	O
+graduate_1	the	O
+graduate_1	English	O
+graduate_1	graduate	graduate_adj-nou
+graduate_1	program	O
+graduate_1	at	O
+graduate_1	Duke	O
+graduate_1	University	O
+graduate_1	but	O
+graduate_1	never	O
+graduate_1	completed	O
+graduate_1	his	O
+graduate_1	Master	O
+graduate_1	's	O
+graduate_1	degree	O

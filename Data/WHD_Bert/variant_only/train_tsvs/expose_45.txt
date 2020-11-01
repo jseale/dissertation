@@ -1,0 +1,17 @@
+expose_45	The	O
+expose_45	player	O
+expose_45	then	O
+expose_45	receives	O
+expose_45	a	O
+expose_45	third	O
+expose_45	card	O
+expose_45	and	O
+expose_45	must	O
+expose_45	immediately	O
+expose_45	expose	expose_vrb
+expose_45	another	O
+expose_45	card	O
+expose_45	in	O
+expose_45	his	O
+expose_45	her	O
+expose_45	hand	O

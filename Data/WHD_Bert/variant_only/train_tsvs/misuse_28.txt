@@ -1,0 +1,10 @@
+misuse_28	There	O
+misuse_28	was	O
+misuse_28	widespread	O
+misuse_28	criticism	O
+misuse_28	of	O
+misuse_28	the	O
+misuse_28	misuse	misuse_nou
+misuse_28	of	O
+misuse_28	Emergency	O
+misuse_28	powers	O

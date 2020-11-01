@@ -1,0 +1,13 @@
+coordinate_78	While	O
+coordinate_78	physical	O
+coordinate_78	effects	O
+coordinate_78	can	O
+coordinate_78	not	O
+coordinate_78	propagate	O
+coordinate_78	from	O
+coordinate_78	inside	O
+coordinate_78	to	O
+coordinate_78	outside	O
+coordinate_78	coordinate	coordinate_adj-nou
+coordinate_78	effects	O
+coordinate_78	could	O

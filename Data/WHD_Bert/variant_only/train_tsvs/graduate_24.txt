@@ -1,0 +1,15 @@
+graduate_24	Ellis	O
+graduate_24	born	O
+graduate_24	in	O
+graduate_24	Spartanburg	O
+graduate_24	South	O
+graduate_24	Carolina	O
+graduate_24	is	O
+graduate_24	a	O
+graduate_24	1969	O
+graduate_24	graduate	graduate_adj-nou
+graduate_24	of	O
+graduate_24	the	O
+graduate_24	U.S.	O
+graduate_24	Naval	O
+graduate_24	Academy	O

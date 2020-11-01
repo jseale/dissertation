@@ -1,0 +1,16 @@
+diffuse_37	Phosphorus	O
+diffuse_37	also	O
+diffuse_37	traps	O
+diffuse_37	gold	O
+diffuse_37	atoms	O
+diffuse_37	which	O
+diffuse_37	otherwise	O
+diffuse_37	quickly	O
+diffuse_37	diffuse	diffuse_vrb
+diffuse_37	through	O
+diffuse_37	silicon	O
+diffuse_37	and	O
+diffuse_37	act	O
+diffuse_37	as	O
+diffuse_37	recombination	O
+diffuse_37	centers	O

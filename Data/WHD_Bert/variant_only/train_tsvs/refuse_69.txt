@@ -1,0 +1,14 @@
+refuse_69	Vista	O
+refuse_69	does	O
+refuse_69	not	O
+refuse_69	degrade	O
+refuse_69	or	O
+refuse_69	refuse	refuse_vrb
+refuse_69	to	O
+refuse_69	play	O
+refuse_69	any	O
+refuse_69	existing	O
+refuse_69	media	O
+refuse_69	CDs	O
+refuse_69	or	O
+refuse_69	DVDs	O

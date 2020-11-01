@@ -1,0 +1,17 @@
+moderate_7	The	O
+moderate_7	fund	O
+moderate_7	aimed	O
+moderate_7	to	O
+moderate_7	preserve	O
+moderate_7	or	O
+moderate_7	create	O
+moderate_7	4,300	O
+moderate_7	units	O
+moderate_7	of	O
+moderate_7	low-	O
+moderate_7	and	O
+moderate_7	moderate	moderate_adj-nou
+moderate_7	income	O
+moderate_7	housing	O
+moderate_7	by	O
+moderate_7	2009	O

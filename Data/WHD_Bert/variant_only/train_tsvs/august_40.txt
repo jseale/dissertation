@@ -1,0 +1,16 @@
+august_40	The	O
+august_40	RE	O
+august_40	had	O
+august_40	been	O
+august_40	authorized	O
+august_40	134	O
+august_40	bomb	O
+august_40	disposal	O
+august_40	sections	O
+august_40	by	O
+august_40	July	O
+august_40	1940	O
+august_40	and	O
+august_40	220	O
+august_40	by	O
+august_40	August	august

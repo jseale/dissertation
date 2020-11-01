@@ -1,0 +1,9 @@
+upset_6	Teddy	O
+upset_6	Bridgewater	O
+upset_6	paces	O
+upset_6	Louisville	O
+upset_6	to	O
+upset_6	stunning	O
+upset_6	upset	upset_nou
+upset_6	of	O
+upset_6	Florida	O

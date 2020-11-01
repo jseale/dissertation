@@ -1,0 +1,9 @@
+buffet_40	Where'n	O
+buffet_40	the	O
+buffet_40	Hell	O
+buffet_40	is	O
+buffet_40	the	O
+buffet_40	God	O
+buffet_40	damn	O
+buffet_40	buffet	buffet_nou
+buffet_40	at	O

@@ -1,0 +1,14 @@
+attribute_39	Rajputs	O
+attribute_39	attribute	attribute_vrb
+attribute_39	a	O
+attribute_39	sword	O
+attribute_39	and	O
+attribute_39	shield	O
+attribute_39	as	O
+attribute_39	symbol	O
+attribute_39	of	O
+attribute_39	Rajput	O
+attribute_39	chivalry	O
+attribute_39	in	O
+attribute_39	every	O
+attribute_39	darshan	O

@@ -1,0 +1,15 @@
+bass_12	In	O
+bass_12	2010	O
+bass_12	he	O
+bass_12	contributed	O
+bass_12	bass	bass
+bass_12	to	O
+bass_12	the	O
+bass_12	debut	O
+bass_12	album	O
+bass_12	by	O
+bass_12	Swahili	O
+bass_12	Blonde	O
+bass_12	with	O
+bass_12	ex	O
+bass_12	Weave	O

@@ -1,0 +1,15 @@
+use_35	The	O
+use_35	player	O
+use_35	can	O
+use_35	also	O
+use_35	make	O
+use_35	use	use_nou
+use_35	of	O
+use_35	several	O
+use_35	weapons	O
+use_35	of	O
+use_35	opportunity	O
+use_35	such	O
+use_35	as	O
+use_35	fire	O
+use_35	extinguishers	O

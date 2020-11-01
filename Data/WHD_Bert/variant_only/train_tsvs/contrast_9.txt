@@ -1,0 +1,14 @@
+contrast_9	In	O
+contrast_9	contrast	contrast_nou
+contrast_9	the	O
+contrast_9	analytical	O
+contrast_9	stereoplotter	O
+contrast_9	has	O
+contrast_9	no	O
+contrast_9	substantial	O
+contrast_9	limitations	O
+contrast_9	on	O
+contrast_9	focal	O
+contrast_9	length	O
+contrast_9	or	O
+contrast_9	scale	O

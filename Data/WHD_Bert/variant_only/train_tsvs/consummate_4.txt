@@ -1,0 +1,16 @@
+consummate_4	He	O
+consummate_4	was	O
+consummate_4	considered	O
+consummate_4	a	O
+consummate_4	consummate	consummate_adj
+consummate_4	planner	O
+consummate_4	especially	O
+consummate_4	in	O
+consummate_4	the	O
+consummate_4	area	O
+consummate_4	of	O
+consummate_4	combined	O
+consummate_4	operations	O
+consummate_4	with	O
+consummate_4	land	O
+consummate_4	forces	O

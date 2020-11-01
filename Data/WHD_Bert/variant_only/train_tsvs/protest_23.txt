@@ -1,0 +1,12 @@
+protest_23	In	O
+protest_23	Australia	O
+protest_23	thousands	O
+protest_23	joined	O
+protest_23	protest	protest_nou
+protest_23	marches	O
+protest_23	in	O
+protest_23	Adelaide	O
+protest_23	Melbourne	O
+protest_23	Brisbane	O
+protest_23	and	O
+protest_23	Sydney	O

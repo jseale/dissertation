@@ -1,0 +1,15 @@
+expose_3	Lankester	O
+expose_3	was	O
+expose_3	active	O
+expose_3	in	O
+expose_3	attempting	O
+expose_3	to	O
+expose_3	expose	expose_vrb
+expose_3	the	O
+expose_3	frauds	O
+expose_3	of	O
+expose_3	Spiritualist	O
+expose_3	mediums	O
+expose_3	during	O
+expose_3	the	O
+expose_3	1920s	O

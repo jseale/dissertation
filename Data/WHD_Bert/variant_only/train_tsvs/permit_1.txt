@@ -1,0 +1,17 @@
+permit_1	Most	O
+permit_1	U.S.	O
+permit_1	States	O
+permit_1	with	O
+permit_1	low	O
+permit_1	population	O
+permit_1	densities	O
+permit_1	commonly	O
+permit_1	permit	permit_vrb
+permit_1	bicycle	O
+permit_1	use	O
+permit_1	on	O
+permit_1	interstate	O
+permit_1	freeways	O
+permit_1	outside	O
+permit_1	urban	O
+permit_1	areas	O

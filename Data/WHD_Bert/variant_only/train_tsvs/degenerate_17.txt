@@ -1,0 +1,8 @@
+degenerate_17	Neutron	O
+degenerate_17	degenerate	degenerate_adj-nou
+degenerate_17	matter	O
+degenerate_17	is	O
+degenerate_17	found	O
+degenerate_17	in	O
+degenerate_17	neutron	O
+degenerate_17	stars	O

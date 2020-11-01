@@ -1,0 +1,12 @@
+reject_6	In	O
+reject_6	2009	O
+reject_6	Harper	O
+reject_6	and	O
+reject_6	Harvie	O
+reject_6	voted	O
+reject_6	to	O
+reject_6	reject	reject_vrb
+reject_6	an	O
+reject_6	SNP	O
+reject_6	government	O
+reject_6	budget	O

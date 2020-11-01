@@ -1,0 +1,17 @@
+upset_22	It	O
+upset_22	was	O
+upset_22	the	O
+upset_22	biggest	O
+upset_22	surprise	O
+upset_22	upset	upset_nou
+upset_22	of	O
+upset_22	the	O
+upset_22	season	O
+upset_22	with	O
+upset_22	LMOB	O
+upset_22	winning	O
+upset_22	the	O
+upset_22	Sevens	O
+upset_22	and	O
+upset_22	grand	O
+upset_22	slam	O

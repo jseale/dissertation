@@ -1,0 +1,15 @@
+project_21	The	O
+project_21	entire	O
+project_21	operation	O
+project_21	known	O
+project_21	as	O
+project_21	the	O
+project_21	Under	O
+project_21	One	O
+project_21	Roof	O
+project_21	project	project_nou
+project_21	totaled	O
+project_21	over	O
+project_21	15	O
+project_21	million	O
+project_21	dollars	O

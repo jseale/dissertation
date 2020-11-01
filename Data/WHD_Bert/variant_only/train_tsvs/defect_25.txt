@@ -1,0 +1,17 @@
+defect_25	He	O
+defect_25	stated	O
+defect_25	that	O
+defect_25	he	O
+defect_25	does	O
+defect_25	not	O
+defect_25	regret	O
+defect_25	his	O
+defect_25	decision	O
+defect_25	to	O
+defect_25	defect	defect_vrb
+defect_25	from	O
+defect_25	North	O
+defect_25	Korea	O
+defect_25	to	O
+defect_25	South	O
+defect_25	Korea	O

@@ -1,0 +1,12 @@
+increment_46	There	O
+increment_46	was	O
+increment_46	a	O
+increment_46	30	O
+increment_46	seconds	O
+increment_46	increment	increment_nou
+increment_46	for	O
+increment_46	every	O
+increment_46	move	O
+increment_46	from	O
+increment_46	the	O
+increment_46	start	O

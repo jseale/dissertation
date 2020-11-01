@@ -1,0 +1,7 @@
+jesus_0	The	O
+jesus_0	voice	O
+jesus_0	from	O
+jesus_0	heaven	O
+jesus_0	calls	O
+jesus_0	Jesus	jesus
+jesus_0	beloved	O

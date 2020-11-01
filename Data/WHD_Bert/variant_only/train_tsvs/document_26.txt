@@ -1,0 +1,8 @@
+document_26	The	O
+document_26	document	document_nou
+document_26	was	O
+document_26	written	O
+document_26	by	O
+document_26	an	O
+document_26	unknown	O
+document_26	copyist	O

@@ -1,0 +1,7 @@
+reading_4	His	O
+reading_4	interests	O
+reading_4	include	O
+reading_4	rugby	O
+reading_4	reading	reading_en
+reading_4	and	O
+reading_4	music	O

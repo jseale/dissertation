@@ -1,0 +1,15 @@
+abuses_8	The	O
+abuses_8	Wolf	O
+abuses_8	Brigade	O
+abuses_8	become	O
+abuses_8	closely	O
+abuses_8	and	O
+abuses_8	publicly	O
+abuses_8	associated	O
+abuses_8	with	O
+abuses_8	detainee	O
+abuses_8	and	O
+abuses_8	other	O
+abuses_8	human	O
+abuses_8	rights	O
+abuses_8	abuses	abuses_nou

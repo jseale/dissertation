@@ -1,0 +1,13 @@
+rodeo_1	He	O
+rodeo_1	bucked	O
+rodeo_1	at	O
+rodeo_1	the	O
+rodeo_1	inaugural	O
+rodeo_1	National	O
+rodeo_1	Western	O
+rodeo_1	Stock	O
+rodeo_1	Show	O
+rodeo_1	and	O
+rodeo_1	Rodeo	rodeo
+rodeo_1	in	O
+rodeo_1	1931	O

@@ -1,0 +1,11 @@
+isolate_23	HPLC	O
+isolate_23	can	O
+isolate_23	be	O
+isolate_23	used	O
+isolate_23	to	O
+isolate_23	isolate	isolate
+isolate_23	products	O
+isolate_23	with	O
+isolate_23	the	O
+isolate_23	proper	O
+isolate_23	sequence	O

@@ -1,0 +1,14 @@
+abstract_4	The	O
+abstract_4	environments	O
+abstract_4	were	O
+abstract_4	abstract	abstract_adj-nou
+abstract_4	with	O
+abstract_4	simple	O
+abstract_4	gameplay	O
+abstract_4	focused	O
+abstract_4	on	O
+abstract_4	hopping	O
+abstract_4	from	O
+abstract_4	trampoline	O
+abstract_4	like	O
+abstract_4	platforms	O

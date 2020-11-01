@@ -1,0 +1,11 @@
+perfect_28	The	O
+perfect_28	ingredients	O
+perfect_28	are	O
+perfect_28	there	O
+perfect_28	she	O
+perfect_28	just	O
+perfect_28	needs	O
+perfect_28	to	O
+perfect_28	perfect	perfect_vrb
+perfect_28	the	O
+perfect_28	mix	O

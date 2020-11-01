@@ -1,0 +1,16 @@
+impact_12	Clinical	O
+impact_12	trials	O
+impact_12	of	O
+impact_12	vaccines	O
+impact_12	against	O
+impact_12	HPV	O
+impact_12	and	O
+impact_12	evaluation	O
+impact_12	of	O
+impact_12	the	O
+impact_12	impact	impact_nou
+impact_12	of	O
+impact_12	the	O
+impact_12	HPV	O
+impact_12	vaccine	O
+impact_12	programmes	O

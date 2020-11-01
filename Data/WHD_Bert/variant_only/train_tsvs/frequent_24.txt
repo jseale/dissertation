@@ -1,0 +1,14 @@
+frequent_24	He	O
+frequent_24	is	O
+frequent_24	also	O
+frequent_24	a	O
+frequent_24	frequent	frequent_adj
+frequent_24	commentator	O
+frequent_24	on	O
+frequent_24	Korean	O
+frequent_24	affairs	O
+frequent_24	on	O
+frequent_24	radio	O
+frequent_24	television	O
+frequent_24	and	O
+frequent_24	print	O

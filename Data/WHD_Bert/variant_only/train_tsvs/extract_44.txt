@@ -1,0 +1,16 @@
+extract_44	The	O
+extract_44	Adams	O
+extract_44	Extract	extract_nou
+extract_44	building	O
+extract_44	continued	O
+extract_44	production	O
+extract_44	in	O
+extract_44	Austin	O
+extract_44	Texas	O
+extract_44	under	O
+extract_44	direction	O
+extract_44	of	O
+extract_44	John	O
+extract_44	G.	O
+extract_44	Adams	O
+extract_44	Sr	O

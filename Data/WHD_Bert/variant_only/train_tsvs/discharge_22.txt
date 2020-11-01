@@ -1,0 +1,14 @@
+discharge_22	Murphy	O
+discharge_22	briefly	O
+discharge_22	found	O
+discharge_22	a	O
+discharge_22	creative	O
+discharge_22	stress	O
+discharge_22	outlet	O
+discharge_22	in	O
+discharge_22	writing	O
+discharge_22	poetry	O
+discharge_22	after	O
+discharge_22	his	O
+discharge_22	Army	O
+discharge_22	discharge	discharge_nou

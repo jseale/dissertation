@@ -1,0 +1,17 @@
+read_7	Acts	O
+read_7	was	O
+read_7	read	read_past
+read_7	as	O
+read_7	a	O
+read_7	reliable	O
+read_7	history	O
+read_7	of	O
+read_7	the	O
+read_7	early	O
+read_7	church	O
+read_7	well	O
+read_7	into	O
+read_7	the	O
+read_7	post	O
+read_7	Reformation	O
+read_7	era	O

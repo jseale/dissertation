@@ -1,0 +1,8 @@
+close_73	The	O
+close_73	settlement	O
+close_73	is	O
+close_73	close	close_adj-nou
+close_73	to	O
+close_73	Edworth	O
+close_73	and	O
+close_73	Langford	O

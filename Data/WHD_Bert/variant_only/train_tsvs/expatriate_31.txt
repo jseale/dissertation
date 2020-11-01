@@ -1,0 +1,17 @@
+expatriate_31	Americans	O
+expatriate_31	in	O
+expatriate_31	the	O
+expatriate_31	United	O
+expatriate_31	Arab	O
+expatriate_31	Emirates	O
+expatriate_31	form	O
+expatriate_31	one	O
+expatriate_31	of	O
+expatriate_31	the	O
+expatriate_31	largest	O
+expatriate_31	Western	O
+expatriate_31	expatriate	expatriate_nou
+expatriate_31	communities	O
+expatriate_31	in	O
+expatriate_31	the	O
+expatriate_31	UAE	O

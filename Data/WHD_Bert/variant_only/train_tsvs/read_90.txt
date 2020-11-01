@@ -1,0 +1,16 @@
+read_90	In	O
+read_90	2003	O
+read_90	a	O
+read_90	CD	O
+read_90	was	O
+read_90	published	O
+read_90	with	O
+read_90	Charles	O
+read_90	Dickens	O
+read_90	A	O
+read_90	Christmas	O
+read_90	Carol	O
+read_90	read	read_past
+read_90	by	O
+read_90	Wolfgang	O
+read_90	Thierse	O

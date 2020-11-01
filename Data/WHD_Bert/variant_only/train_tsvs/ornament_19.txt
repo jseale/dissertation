@@ -1,0 +1,14 @@
+ornament_19	The	O
+ornament_19	grille	O
+ornament_19	header	O
+ornament_19	bar	O
+ornament_19	and	O
+ornament_19	hood	O
+ornament_19	ornament	ornament_nou
+ornament_19	trim	O
+ornament_19	strip	O
+ornament_19	were	O
+ornament_19	deleted	O
+ornament_19	in	O
+ornament_19	the	O
+ornament_19	process	O

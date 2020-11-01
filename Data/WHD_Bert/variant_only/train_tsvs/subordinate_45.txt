@@ -1,0 +1,15 @@
+subordinate_45	The	O
+subordinate_45	Task	O
+subordinate_45	Force	O
+subordinate_45	and	O
+subordinate_45	its	O
+subordinate_45	subordinate	subordinate_adj-nou
+subordinate_45	formations	O
+subordinate_45	comprised	O
+subordinate_45	a	O
+subordinate_45	shifting	O
+subordinate_45	group	O
+subordinate_45	of	O
+subordinate_45	units	O
+subordinate_45	and	O
+subordinate_45	formations	O

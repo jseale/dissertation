@@ -1,0 +1,14 @@
+lead_63	NOAA	O
+lead_63	was	O
+lead_63	one	O
+lead_63	of	O
+lead_63	the	O
+lead_63	lead	lead_nou-vrb
+lead_63	agencies	O
+lead_63	responsible	O
+lead_63	for	O
+lead_63	responding	O
+lead_63	to	O
+lead_63	the	O
+lead_63	oil	O
+lead_63	spill	O

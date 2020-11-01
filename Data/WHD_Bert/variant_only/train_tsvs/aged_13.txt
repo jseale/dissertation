@@ -1,0 +1,7 @@
+aged_13	He	O
+aged_13	died	O
+aged_13	in	O
+aged_13	Thanet	O
+aged_13	Kent	O
+aged_13	aged	aged
+aged_13	71	O

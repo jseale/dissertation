@@ -1,0 +1,14 @@
+expatriate_28	While	O
+expatriate_28	in	O
+expatriate_28	Venezuela	O
+expatriate_28	Porro	O
+expatriate_28	met	O
+expatriate_28	two	O
+expatriate_28	Italian	O
+expatriate_28	expatriate	expatriate_nou
+expatriate_28	architects	O
+expatriate_28	Roberto	O
+expatriate_28	Gottardi	O
+expatriate_28	and	O
+expatriate_28	Vittorio	O
+expatriate_28	Garatti	O

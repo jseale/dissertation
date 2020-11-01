@@ -1,0 +1,16 @@
+correlate_45	The	O
+correlate_45	length	O
+correlate_45	of	O
+correlate_45	a	O
+correlate_45	story	O
+correlate_45	on	O
+correlate_45	Archive	O
+correlate_45	of	O
+correlate_45	Our	O
+correlate_45	Own	O
+correlate_45	tends	O
+correlate_45	to	O
+correlate_45	correlate	correlate_nou-vrb
+correlate_45	with	O
+correlate_45	its	O
+correlate_45	popularity	O

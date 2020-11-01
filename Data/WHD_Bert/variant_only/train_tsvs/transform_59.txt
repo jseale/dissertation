@@ -1,0 +1,11 @@
+transform_59	It	O
+transform_59	may	O
+transform_59	also	O
+transform_59	be	O
+transform_59	extended	O
+transform_59	to	O
+transform_59	work	O
+transform_59	for	O
+transform_59	evaluating	O
+transform_59	Laplace	O
+transform_59	transform	transform_nou

@@ -1,0 +1,16 @@
+increment_19	When	O
+increment_19	recipients	O
+increment_19	fail	O
+increment_19	to	O
+increment_19	demonstrate	O
+increment_19	an	O
+increment_19	adequate	O
+increment_19	post	O
+increment_19	transfusion	O
+increment_19	increment	increment_nou
+increment_19	this	O
+increment_19	is	O
+increment_19	termed	O
+increment_19	platelet	O
+increment_19	transfusion	O
+increment_19	refractoriness	O

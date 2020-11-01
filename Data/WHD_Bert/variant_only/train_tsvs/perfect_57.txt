@@ -1,0 +1,10 @@
+perfect_57	The	O
+perfect_57	past	O
+perfect_57	participle	O
+perfect_57	is	O
+perfect_57	needed	O
+perfect_57	to	O
+perfect_57	form	O
+perfect_57	the	O
+perfect_57	Present	O
+perfect_57	Perfect	perfect_adj

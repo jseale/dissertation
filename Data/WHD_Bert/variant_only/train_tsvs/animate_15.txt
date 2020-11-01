@@ -1,0 +1,14 @@
+animate_15	They	O
+animate_15	can	O
+animate_15	change	O
+animate_15	into	O
+animate_15	normal	O
+animate_15	members	O
+animate_15	of	O
+animate_15	human	O
+animate_15	society	O
+animate_15	or	O
+animate_15	any	O
+animate_15	animate	animate_adj-nou
+animate_15	inanimate	O
+animate_15	object	O

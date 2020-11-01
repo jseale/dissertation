@@ -1,0 +1,16 @@
+initiate_28	SWAT	O
+initiate_28	arrived	O
+initiate_28	on	O
+initiate_28	the	O
+initiate_28	scene	O
+initiate_28	shortly	O
+initiate_28	thereafter	O
+initiate_28	while	O
+initiate_28	a	O
+initiate_28	negotiator	O
+initiate_28	attempted	O
+initiate_28	to	O
+initiate_28	initiate	initiate_vrb
+initiate_28	contact	O
+initiate_28	with	O
+initiate_28	Penley	O

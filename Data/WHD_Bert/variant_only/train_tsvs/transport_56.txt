@@ -1,0 +1,12 @@
+transport_56	Transport	transport_nou
+transport_56	Canberra	O
+transport_56	manage	O
+transport_56	all	O
+transport_56	public	O
+transport_56	transport	transport_nou
+transport_56	operations	O
+transport_56	within	O
+transport_56	the	O
+transport_56	Australian	O
+transport_56	Capital	O
+transport_56	Territory	O

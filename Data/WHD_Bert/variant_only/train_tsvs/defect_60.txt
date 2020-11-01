@@ -1,0 +1,12 @@
+defect_60	The	O
+defect_60	seller	O
+defect_60	is	O
+defect_60	also	O
+defect_60	liable	O
+defect_60	if	O
+defect_60	the	O
+defect_60	defect	defect_nou
+defect_60	was	O
+defect_60	unknown	O
+defect_60	to	O
+defect_60	him	O

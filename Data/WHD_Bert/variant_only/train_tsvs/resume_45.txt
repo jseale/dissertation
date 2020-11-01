@@ -1,0 +1,17 @@
+resume_45	Only	O
+resume_45	the	O
+resume_45	Madeira	O
+resume_45	region	O
+resume_45	could	O
+resume_45	continue	O
+resume_45	its	O
+resume_45	work	O
+resume_45	it	O
+resume_45	helped	O
+resume_45	the	O
+resume_45	organization	O
+resume_45	to	O
+resume_45	resume	resume_vrb
+resume_45	activities	O
+resume_45	in	O
+resume_45	1952	O

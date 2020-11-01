@@ -1,0 +1,17 @@
+import_35	While	O
+import_35	the	O
+import_35	EU	O
+import_35	has	O
+import_35	the	O
+import_35	capacity	O
+import_35	to	O
+import_35	import	import_vrb
+import_35	200	O
+import_35	billion	O
+import_35	m³/year	O
+import_35	it	O
+import_35	only	O
+import_35	imported	O
+import_35	45	O
+import_35	billion	O
+import_35	m³/year	O

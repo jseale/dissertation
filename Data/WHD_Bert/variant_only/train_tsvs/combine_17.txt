@@ -1,0 +1,16 @@
+combine_17	As	O
+combine_17	a	O
+combine_17	hesder	O
+combine_17	yeshiva	O
+combine_17	the	O
+combine_17	students	O
+combine_17	of	O
+combine_17	Shilo	O
+combine_17	combine	combine_vrb
+combine_17	intensive	O
+combine_17	studies	O
+combine_17	with	O
+combine_17	service	O
+combine_17	in	O
+combine_17	the	O
+combine_17	IDF	O

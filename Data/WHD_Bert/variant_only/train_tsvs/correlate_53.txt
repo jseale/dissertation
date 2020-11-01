@@ -1,0 +1,13 @@
+correlate_53	High	O
+correlate_53	scores	O
+correlate_53	correlate	correlate_nou-vrb
+correlate_53	with	O
+correlate_53	good	O
+correlate_53	functional	O
+correlate_53	communication	O
+correlate_53	skills	O
+correlate_53	in	O
+correlate_53	stroke	O
+correlate_53	patients	O
+correlate_53	with	O
+correlate_53	aphasia	O

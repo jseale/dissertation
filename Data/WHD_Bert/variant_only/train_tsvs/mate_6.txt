@@ -1,0 +1,15 @@
+mate_6	On	O
+mate_6	average	O
+mate_6	females	O
+mate_6	birth	O
+mate_6	offspring	O
+mate_6	every	O
+mate_6	27	O
+mate_6	months	O
+mate_6	even	O
+mate_6	though	O
+mate_6	they	O
+mate_6	mate	mate
+mate_6	throughout	O
+mate_6	the	O
+mate_6	year	O

@@ -1,0 +1,10 @@
+discharge_4	They	O
+discharge_4	all	O
+discharge_4	flow	O
+discharge_4	northwestward	O
+discharge_4	and	O
+discharge_4	discharge	discharge_vrb
+discharge_4	into	O
+discharge_4	the	O
+discharge_4	Baltic	O
+discharge_4	Sea	O

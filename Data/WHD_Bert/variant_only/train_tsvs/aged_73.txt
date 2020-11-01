@@ -1,0 +1,10 @@
+aged_73	He	O
+aged_73	died	O
+aged_73	in	O
+aged_73	2007	O
+aged_73	in	O
+aged_73	Leigh	O
+aged_73	in	O
+aged_73	Dorset	O
+aged_73	aged	aged
+aged_73	98	O

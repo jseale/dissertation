@@ -1,0 +1,11 @@
+increase_43	This	O
+increase_43	effect	O
+increase_43	will	O
+increase_43	increase	increase_vrb
+increase_43	over	O
+increase_43	the	O
+increase_43	years	O
+increase_43	and	O
+increase_43	centuries	O
+increase_43	to	O
+increase_43	come	O

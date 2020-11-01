@@ -1,0 +1,12 @@
+deviate_53	The	O
+deviate_53	projectile	O
+deviate_53	had	O
+deviate_53	several	O
+deviate_53	small	O
+deviate_53	rockets	O
+deviate_53	in	O
+deviate_53	order	O
+deviate_53	to	O
+deviate_53	deviate	deviate_vrb
+deviate_53	the	O
+deviate_53	trajectory	O

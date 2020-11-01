@@ -1,0 +1,14 @@
+separate_30	In	O
+separate_30	2000	O
+separate_30	relics	O
+separate_30	of	O
+separate_30	the	O
+separate_30	8th	O
+separate_30	Tai	O
+separate_30	Situ	O
+separate_30	were	O
+separate_30	enthroned	O
+separate_30	in	O
+separate_30	a	O
+separate_30	separate	separate_adj
+separate_30	temple	O

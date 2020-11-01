@@ -1,0 +1,15 @@
+pervert_6	At	O
+pervert_6	first	O
+pervert_6	she	O
+pervert_6	hated	O
+pervert_6	him	O
+pervert_6	thinking	O
+pervert_6	he	O
+pervert_6	is	O
+pervert_6	a	O
+pervert_6	pervert	pervert_nou
+pervert_6	because	O
+pervert_6	of	O
+pervert_6	an	O
+pervert_6	earlier	O
+pervert_6	misunderstanding	O

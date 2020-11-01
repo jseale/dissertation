@@ -1,0 +1,17 @@
+conscript_45	In	O
+conscript_45	the	O
+conscript_45	revision	O
+conscript_45	of	O
+conscript_45	1995	O
+conscript_45	the	O
+conscript_45	introduction	O
+conscript_45	of	O
+conscript_45	a	O
+conscript_45	professional	O
+conscript_45	army	O
+conscript_45	replacing	O
+conscript_45	the	O
+conscript_45	conscript	conscript_nou
+conscript_45	army	O
+conscript_45	was	O
+conscript_45	regulated	O

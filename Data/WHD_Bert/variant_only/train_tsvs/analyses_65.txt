@@ -1,0 +1,14 @@
+analyses_65	Boileau	O
+analyses_65	rules	O
+analyses_65	on	O
+analyses_65	the	O
+analyses_65	language	O
+analyses_65	of	O
+analyses_65	poetry	O
+analyses_65	and	O
+analyses_65	analyses	analyses_nou
+analyses_65	various	O
+analyses_65	kinds	O
+analyses_65	of	O
+analyses_65	verse	O
+analyses_65	composition	O

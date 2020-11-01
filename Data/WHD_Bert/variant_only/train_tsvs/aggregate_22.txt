@@ -1,0 +1,17 @@
+aggregate_22	England	O
+aggregate_22	won	O
+aggregate_22	2	O
+aggregate_22	0	O
+aggregate_22	on	O
+aggregate_22	aggregate	aggregate_adj-nou
+aggregate_22	and	O
+aggregate_22	qualified	O
+aggregate_22	for	O
+aggregate_22	the	O
+aggregate_22	UEFA	O
+aggregate_22	U21	O
+aggregate_22	Championships	O
+aggregate_22	in	O
+aggregate_22	2013	O
+aggregate_22	in	O
+aggregate_22	Israel	O

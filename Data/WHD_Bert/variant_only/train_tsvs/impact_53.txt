@@ -1,0 +1,15 @@
+impact_53	Understanding	O
+impact_53	the	O
+impact_53	ultimate	O
+impact_53	financial	O
+impact_53	impact	impact_nou
+impact_53	of	O
+impact_53	any	O
+impact_53	value	O
+impact_53	creating	O
+impact_53	activity	O
+impact_53	is	O
+impact_53	critical	O
+impact_53	for	O
+impact_53	ongoing	O
+impact_53	sustainability	O

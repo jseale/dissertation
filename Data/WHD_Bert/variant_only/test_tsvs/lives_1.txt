@@ -1,0 +1,14 @@
+lives_1	Norman	O
+lives_1	lives	lives_vrb
+lives_1	at	O
+lives_1	Greenwood	O
+lives_1	children	O
+lives_1	's	O
+lives_1	home	O
+lives_1	south	O
+lives_1	of	O
+lives_1	London	O
+lives_1	where	O
+lives_1	he	O
+lives_1	grew	O
+lives_1	up	O

@@ -1,0 +1,12 @@
+aged_68	They	O
+aged_68	honour	O
+aged_68	outstanding	O
+aged_68	achievement	O
+aged_68	by	O
+aged_68	young	O
+aged_68	people	O
+aged_68	aged	aged
+aged_68	between	O
+aged_68	11	O
+aged_68	and	O
+aged_68	20	O

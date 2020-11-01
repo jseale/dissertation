@@ -1,0 +1,14 @@
+insert_29	These	O
+insert_29	lead	O
+insert_29	weights	O
+insert_29	were	O
+insert_29	decorated	O
+insert_29	with	O
+insert_29	enameling	O
+insert_29	insert	insert_vrb
+insert_29	coins	O
+insert_29	or	O
+insert_29	cut	O
+insert_29	up	O
+insert_29	ornamental	O
+insert_29	metalwork	O

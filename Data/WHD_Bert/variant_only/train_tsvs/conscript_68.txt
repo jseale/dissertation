@@ -1,0 +1,17 @@
+conscript_68	Militia	O
+conscript_68	officers	O
+conscript_68	state	O
+conscript_68	's	O
+conscript_68	attorneys	O
+conscript_68	lawyers	O
+conscript_68	professors	O
+conscript_68	and	O
+conscript_68	schoolteachers	O
+conscript_68	were	O
+conscript_68	in	O
+conscript_68	the	O
+conscript_68	van	O
+conscript_68	of	O
+conscript_68	this	O
+conscript_68	conscript	conscript_nou
+conscript_68	army	O

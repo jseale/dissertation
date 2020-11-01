@@ -1,0 +1,15 @@
+august_75	Because	O
+august_75	of	O
+august_75	the	O
+august_75	1991	O
+august_75	August	august
+august_75	Putsch	O
+august_75	in	O
+august_75	Moscow	O
+august_75	the	O
+august_75	Communist	O
+august_75	Party	O
+august_75	was	O
+august_75	prohibited	O
+august_75	in	O
+august_75	Ukraine	O

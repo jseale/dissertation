@@ -1,0 +1,17 @@
+winds_61	Coupled	O
+winds_61	with	O
+winds_61	this	O
+winds_61	were	O
+winds_61	high	O
+winds_61	winds	winds_nou
+winds_61	which	O
+winds_61	reached	O
+winds_61	gale	O
+winds_61	force	O
+winds_61	in	O
+winds_61	many	O
+winds_61	areas	O
+winds_61	leading	O
+winds_61	to	O
+winds_61	blizzard	O
+winds_61	conditions	O

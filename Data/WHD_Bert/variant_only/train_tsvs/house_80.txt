@@ -1,0 +1,14 @@
+house_80	Back	O
+house_80	at	O
+house_80	her	O
+house_80	house	house_nou
+house_80	Beth	O
+house_80	finds	O
+house_80	Jodie	O
+house_80	but	O
+house_80	they	O
+house_80	are	O
+house_80	attacked	O
+house_80	by	O
+house_80	the	O
+house_80	creature	O

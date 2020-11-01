@@ -1,0 +1,15 @@
+pasty_1	He	O
+pasty_1	is	O
+pasty_1	described	O
+pasty_1	as	O
+pasty_1	having	O
+pasty_1	a	O
+pasty_1	lank	O
+pasty_1	blonde	O
+pasty_1	coloured	O
+pasty_1	ponytail	O
+pasty_1	pasty	pasty_nou
+pasty_1	skin	O
+pasty_1	and	O
+pasty_1	washy	O
+pasty_1	eyes	O

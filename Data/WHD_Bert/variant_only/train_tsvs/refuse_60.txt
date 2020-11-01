@@ -1,0 +1,8 @@
+refuse_60	Godfather	O
+refuse_60	is	O
+refuse_60	the	O
+refuse_60	offer	O
+refuse_60	you	O
+refuse_60	ca	O
+refuse_60	n't	O
+refuse_60	refuse	refuse_vrb

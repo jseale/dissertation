@@ -1,0 +1,14 @@
+associate_7	In	O
+associate_7	2016	O
+associate_7	he	O
+associate_7	was	O
+associate_7	named	O
+associate_7	associate	associate_adj-nou
+associate_7	editor	O
+associate_7	of	O
+associate_7	The	O
+associate_7	New	O
+associate_7	York	O
+associate_7	Times	O
+associate_7	Upfront	O
+associate_7	magazine	O

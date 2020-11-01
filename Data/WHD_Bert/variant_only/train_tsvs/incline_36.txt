@@ -1,0 +1,14 @@
+incline_36	While	O
+incline_36	Spelling	O
+incline_36	was	O
+incline_36	dropped	O
+incline_36	down	O
+incline_36	an	O
+incline_36	eighty	O
+incline_36	degree	O
+incline_36	incline	incline_nou
+incline_36	wall	O
+incline_36	into	O
+incline_36	a	O
+incline_36	water	O
+incline_36	tank	O

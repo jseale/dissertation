@@ -1,0 +1,15 @@
+resume_23	Glaeser	O
+resume_23	tried	O
+resume_23	to	O
+resume_23	resume	resume_vrb
+resume_23	writing	O
+resume_23	after	O
+resume_23	the	O
+resume_23	war	O
+resume_23	but	O
+resume_23	did	O
+resume_23	not	O
+resume_23	produce	O
+resume_23	any	O
+resume_23	important	O
+resume_23	works	O

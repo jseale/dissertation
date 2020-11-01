@@ -1,0 +1,15 @@
+appropriate_5	The	O
+appropriate_5	second	O
+appropriate_5	part	O
+appropriate_5	drove	O
+appropriate_5	the	O
+appropriate_5	data	O
+appropriate_5	bus	O
+appropriate_5	from	O
+appropriate_5	this	O
+appropriate_5	latch	O
+appropriate_5	at	O
+appropriate_5	the	O
+appropriate_5	appropriate	appropriate_adj
+appropriate_5	logic	O
+appropriate_5	level	O

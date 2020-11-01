@@ -1,0 +1,15 @@
+lives_37	Lemuel	O
+lives_37	Christopher	O
+lives_37	de	O
+lives_37	Leon	O
+lives_37	has	O
+lives_37	come	O
+lives_37	out	O
+lives_37	of	O
+lives_37	hiding	O
+lives_37	to	O
+lives_37	make	O
+lives_37	their	O
+lives_37	lives	lives_nou
+lives_37	miserables	O
+lives_37	again	O

@@ -1,0 +1,16 @@
+insert_13	Almost	O
+insert_13	eight	O
+insert_13	months	O
+insert_13	later	O
+insert_13	came	O
+insert_13	the	O
+insert_13	new	O
+insert_13	EP	O
+insert_13	with	O
+insert_13	a	O
+insert_13	new	O
+insert_13	added	O
+insert_13	cover	O
+insert_13	and	O
+insert_13	insert	insert_nou
+insert_13	art	O

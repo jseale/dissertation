@@ -1,0 +1,11 @@
+duplicate_30	Powerglide	O
+duplicate_30	is	O
+duplicate_30	a	O
+duplicate_30	mirror	O
+duplicate_30	universe	O
+duplicate_30	duplicate	duplicate_adj-nou
+duplicate_30	of	O
+duplicate_30	the	O
+duplicate_30	Generation	O
+duplicate_30	1	O
+duplicate_30	character	O

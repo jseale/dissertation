@@ -1,0 +1,8 @@
+subordinate_2	It	O
+subordinate_2	is	O
+subordinate_2	a	O
+subordinate_2	subordinate	subordinate_adj-nou
+subordinate_2	unit	O
+subordinate_2	of	O
+subordinate_2	I	O
+subordinate_2	Corps	O

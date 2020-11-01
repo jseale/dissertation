@@ -1,0 +1,14 @@
+increase_77	Consider	O
+increase_77	what	O
+increase_77	happens	O
+increase_77	when	O
+increase_77	TCP	O
+increase_77	sends	O
+increase_77	a	O
+increase_77	segment	O
+increase_77	after	O
+increase_77	a	O
+increase_77	sharp	O
+increase_77	increase	increase_nou
+increase_77	in	O
+increase_77	delay	O

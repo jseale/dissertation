@@ -1,0 +1,12 @@
+refuse_20	You	O
+refuse_20	refuse	refuse_vrb
+refuse_20	to	O
+refuse_20	betray	O
+refuse_20	Chu	O
+refuse_20	because	O
+refuse_20	you	O
+refuse_20	think	O
+refuse_20	that	O
+refuse_20	Han	O
+refuse_20	is	O
+refuse_20	weak	O

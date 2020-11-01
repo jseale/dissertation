@@ -1,0 +1,10 @@
+protest_61	They	O
+protest_61	also	O
+protest_61	distributed	O
+protest_61	fliers	O
+protest_61	explaining	O
+protest_61	the	O
+protest_61	reason	O
+protest_61	of	O
+protest_61	the	O
+protest_61	protest	protest_nou

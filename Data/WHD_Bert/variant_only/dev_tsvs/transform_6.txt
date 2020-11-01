@@ -1,0 +1,8 @@
+transform_6	The	O
+transform_6	ogre	O
+transform_6	implores	O
+transform_6	Mikito	O
+transform_6	to	O
+transform_6	transform	transform
+transform_6	and	O
+transform_6	help	O

@@ -1,0 +1,12 @@
+import_47	It	O
+import_47	was	O
+import_47	funded	O
+import_47	by	O
+import_47	the	O
+import_47	Export	O
+import_47	Import	import_nou
+import_47	Bank	O
+import_47	of	O
+import_47	the	O
+import_47	United	O
+import_47	States	O

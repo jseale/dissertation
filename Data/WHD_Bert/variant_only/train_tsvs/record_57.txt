@@ -1,0 +1,17 @@
+record_57	One	O
+record_57	of	O
+record_57	the	O
+record_57	first	O
+record_57	British	O
+record_57	athletes	O
+record_57	to	O
+record_57	throw	O
+record_57	the	O
+record_57	discus	O
+record_57	he	O
+record_57	set	O
+record_57	a	O
+record_57	British	O
+record_57	record	record_nou
+record_57	in	O
+record_57	1908	O

@@ -1,0 +1,17 @@
+decrease_6	When	O
+decrease_6	left	O
+decrease_6	sided	O
+decrease_6	heart	O
+decrease_6	failure	O
+decrease_6	is	O
+decrease_6	the	O
+decrease_6	cause	O
+decrease_6	the	O
+decrease_6	individual	O
+decrease_6	is	O
+decrease_6	instructed	O
+decrease_6	to	O
+decrease_6	decrease	decrease_vrb
+decrease_6	intake	O
+decrease_6	of	O
+decrease_6	salt	O

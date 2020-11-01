@@ -1,0 +1,16 @@
+recount_65	McLean	O
+recount_65	was	O
+recount_65	personally	O
+recount_65	defeated	O
+recount_65	in	O
+recount_65	by	O
+recount_65	New	O
+recount_65	Democrat	O
+recount_65	Peter	O
+recount_65	Burtniak	O
+recount_65	after	O
+recount_65	a	O
+recount_65	recount	recount_nou
+recount_65	by	O
+recount_65	41	O
+recount_65	votes	O

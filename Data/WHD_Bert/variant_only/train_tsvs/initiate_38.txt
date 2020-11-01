@@ -1,0 +1,17 @@
+initiate_38	School	O
+initiate_38	resource	O
+initiate_38	officer	O
+initiate_38	The	O
+initiate_38	SRO	O
+initiate_38	program	O
+initiate_38	is	O
+initiate_38	meant	O
+initiate_38	to	O
+initiate_38	initiate	initiate_vrb
+initiate_38	more	O
+initiate_38	positive	O
+initiate_38	contact	O
+initiate_38	between	O
+initiate_38	police	O
+initiate_38	and	O
+initiate_38	youth	O

@@ -1,0 +1,14 @@
+diagnoses_39	He	O
+diagnoses_39	diagnoses	diagnoses_vrb
+diagnoses_39	it	O
+diagnoses_39	as	O
+diagnoses_39	Cosmic	O
+diagnoses_39	Rust	O
+diagnoses_39	and	O
+diagnoses_39	uses	O
+diagnoses_39	some	O
+diagnoses_39	of	O
+diagnoses_39	the	O
+diagnoses_39	formula	O
+diagnoses_39	on	O
+diagnoses_39	Megatron	O

@@ -1,0 +1,16 @@
+separate_60	Prior	O
+separate_60	to	O
+separate_60	1996	O
+separate_60	there	O
+separate_60	were	O
+separate_60	two	O
+separate_60	separate	separate_adj
+separate_60	team	O
+separate_60	pursuit	O
+separate_60	championship	O
+separate_60	events	O
+separate_60	for	O
+separate_60	amateur	O
+separate_60	and	O
+separate_60	professional	O
+separate_60	riders	O

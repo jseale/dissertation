@@ -1,0 +1,14 @@
+postulate_5	Lobachevsky	O
+postulate_5	would	O
+postulate_5	instead	O
+postulate_5	develop	O
+postulate_5	a	O
+postulate_5	geometry	O
+postulate_5	in	O
+postulate_5	which	O
+postulate_5	the	O
+postulate_5	fifth	O
+postulate_5	postulate	postulate_nou
+postulate_5	was	O
+postulate_5	not	O
+postulate_5	true	O

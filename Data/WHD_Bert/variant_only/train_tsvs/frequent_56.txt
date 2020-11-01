@@ -1,0 +1,16 @@
+frequent_56	Frequent	frequent_adj
+frequent_56	guests	O
+frequent_56	included	O
+frequent_56	Margaret	O
+frequent_56	Cho	O
+frequent_56	Janeane	O
+frequent_56	Garofalo	O
+frequent_56	David	O
+frequent_56	Cross	O
+frequent_56	Louis	O
+frequent_56	C.K.	O
+frequent_56	Zachery	O
+frequent_56	Bacik	O
+frequent_56	and	O
+frequent_56	Casey	O
+frequent_56	Hardmeyer	O

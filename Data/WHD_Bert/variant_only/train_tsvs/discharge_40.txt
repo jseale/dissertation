@@ -1,0 +1,17 @@
+discharge_40	He	O
+discharge_40	received	O
+discharge_40	an	O
+discharge_40	honorable	O
+discharge_40	discharge	discharge_nou
+discharge_40	from	O
+discharge_40	the	O
+discharge_40	Navy	O
+discharge_40	in	O
+discharge_40	1965	O
+discharge_40	when	O
+discharge_40	he	O
+discharge_40	was	O
+discharge_40	a	O
+discharge_40	Lieutenant	O
+discharge_40	junior	O
+discharge_40	grade	O

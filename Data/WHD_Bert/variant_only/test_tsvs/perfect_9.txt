@@ -1,0 +1,8 @@
+perfect_9	Here	O
+perfect_9	Infiltration	O
+perfect_9	beat	O
+perfect_9	Fuudo	O
+perfect_9	delivering	O
+perfect_9	three	O
+perfect_9	perfect	perfect_adj
+perfect_9	rounds	O

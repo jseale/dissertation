@@ -1,0 +1,17 @@
+export_37	Because	O
+export_37	sherry	O
+export_37	was	O
+export_37	a	O
+export_37	major	O
+export_37	wine	O
+export_37	export	export_nou
+export_37	to	O
+export_37	the	O
+export_37	United	O
+export_37	Kingdom	O
+export_37	many	O
+export_37	English	O
+export_37	companies	O
+export_37	and	O
+export_37	styles	O
+export_37	developed	O

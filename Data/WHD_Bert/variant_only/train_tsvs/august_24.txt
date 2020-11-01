@@ -1,0 +1,9 @@
+august_24	Adult	O
+august_24	specimens	O
+august_24	can	O
+august_24	be	O
+august_24	found	O
+august_24	from	O
+august_24	June	O
+august_24	to	O
+august_24	August	august

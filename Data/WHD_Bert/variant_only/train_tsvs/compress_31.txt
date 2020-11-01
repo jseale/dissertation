@@ -1,0 +1,13 @@
+compress_31	Additional	O
+compress_31	post	O
+compress_31	processing	O
+compress_31	is	O
+compress_31	then	O
+compress_31	applied	O
+compress_31	to	O
+compress_31	compress	compress
+compress_31	this	O
+compress_31	fingerprint	O
+compress_31	while	O
+compress_31	retaining	O
+compress_31	patterns	O

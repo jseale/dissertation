@@ -1,0 +1,15 @@
+postulate_21	We	O
+postulate_21	can	O
+postulate_21	draw	O
+postulate_21	conclusions	O
+postulate_21	about	O
+postulate_21	the	O
+postulate_21	invisible	O
+postulate_21	we	O
+postulate_21	can	O
+postulate_21	postulate	postulate_vrb
+postulate_21	its	O
+postulate_21	existence	O
+postulate_21	with	O
+postulate_21	relative	O
+postulate_21	certainty	O

@@ -1,0 +1,11 @@
+estimate_18	Modern	O
+estimate_18	historians	O
+estimate_18	find	O
+estimate_18	the	O
+estimate_18	latter	O
+estimate_18	estimate	estimate_nou
+estimate_18	to	O
+estimate_18	be	O
+estimate_18	the	O
+estimate_18	most	O
+estimate_18	credible	O

@@ -1,0 +1,16 @@
+refuse_4	Today	O
+refuse_4	it	O
+refuse_4	is	O
+refuse_4	a	O
+refuse_4	common	O
+refuse_4	fixture	O
+refuse_4	at	O
+refuse_4	refuse	refuse_nou
+refuse_4	dumps	O
+refuse_4	both	O
+refuse_4	along	O
+refuse_4	coasts	O
+refuse_4	and	O
+refuse_4	relatively	O
+refuse_4	far	O
+refuse_4	inland	O

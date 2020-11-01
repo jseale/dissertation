@@ -1,0 +1,16 @@
+overthrow_48	In	O
+overthrow_48	1936	O
+overthrow_48	Heydrich	O
+overthrow_48	learned	O
+overthrow_48	that	O
+overthrow_48	a	O
+overthrow_48	top	O
+overthrow_48	ranking	O
+overthrow_48	Soviet	O
+overthrow_48	officer	O
+overthrow_48	was	O
+overthrow_48	plotting	O
+overthrow_48	to	O
+overthrow_48	overthrow	overthrow_vrb
+overthrow_48	Joseph	O
+overthrow_48	Stalin	O

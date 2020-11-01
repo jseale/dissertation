@@ -1,0 +1,13 @@
+pasty_66	Between	O
+pasty_66	2002	O
+pasty_66	and	O
+pasty_66	2011	O
+pasty_66	the	O
+pasty_66	club	O
+pasty_66	was	O
+pasty_66	sponsored	O
+pasty_66	by	O
+pasty_66	Cornish	O
+pasty_66	pasty	pasty_adj
+pasty_66	makers	O
+pasty_66	Ginsters	O

@@ -1,0 +1,13 @@
+abuse_60	In	O
+abuse_60	1934	O
+abuse_60	the	O
+abuse_60	New	O
+abuse_60	York	O
+abuse_60	Parental	O
+abuse_60	School	O
+abuse_60	was	O
+abuse_60	investigated	O
+abuse_60	amid	O
+abuse_60	rumors	O
+abuse_60	of	O
+abuse_60	abuse	abuse_nou

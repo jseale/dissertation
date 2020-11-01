@@ -1,0 +1,15 @@
+house_0	The	O
+house_0	Anthony	O
+house_0	House	house_nou
+house_0	was	O
+house_0	an	O
+house_0	upscale	O
+house_0	hotel	O
+house_0	on	O
+house_0	Markham	O
+house_0	Street	O
+house_0	in	O
+house_0	downtown	O
+house_0	Little	O
+house_0	Rock	O
+house_0	Arkansas	O

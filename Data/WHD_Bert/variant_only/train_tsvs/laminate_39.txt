@@ -1,0 +1,16 @@
+laminate_39	Woodworking	O
+laminate_39	applicationsIn	O
+laminate_39	commercial	O
+laminate_39	woodworking	O
+laminate_39	facilities	O
+laminate_39	vacuum	O
+laminate_39	bags	O
+laminate_39	are	O
+laminate_39	used	O
+laminate_39	to	O
+laminate_39	laminate	laminate_vrb
+laminate_39	curved	O
+laminate_39	and	O
+laminate_39	irregular	O
+laminate_39	shaped	O
+laminate_39	workpieces	O

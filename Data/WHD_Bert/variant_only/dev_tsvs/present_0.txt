@@ -1,0 +1,17 @@
+present_0	He	O
+present_0	was	O
+present_0	also	O
+present_0	a	O
+present_0	Minister	O
+present_0	in	O
+present_0	Mulayam	O
+present_0	Singh	O
+present_0	's	O
+present_0	cabinet	O
+present_0	in	O
+present_0	UP.At	O
+present_0	present	present_adj-nou
+present_0	he	O
+present_0	is	O
+present_0	representing	O
+present_0	Zamania	O

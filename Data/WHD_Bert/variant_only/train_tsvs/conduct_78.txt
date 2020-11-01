@@ -1,0 +1,11 @@
+conduct_78	His	O
+conduct_78	conduct	conduct_nou
+conduct_78	was	O
+conduct_78	highly	O
+conduct_78	meritorious	O
+conduct_78	and	O
+conduct_78	he	O
+conduct_78	has	O
+conduct_78	been	O
+conduct_78	since	O
+conduct_78	promoted	O

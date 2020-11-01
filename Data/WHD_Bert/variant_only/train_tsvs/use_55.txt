@@ -1,0 +1,13 @@
+use_55	After	O
+use_55	the	O
+use_55	war	O
+use_55	Shinano	O
+use_55	Maru	O
+use_55	reverted	O
+use_55	to	O
+use_55	civilian	O
+use_55	use	use_nou
+use_55	being	O
+use_55	scrapped	O
+use_55	in	O
+use_55	1951	O

@@ -1,0 +1,14 @@
+blessed_46	Perpetual	O
+blessed_46	adoration	O
+blessed_46	of	O
+blessed_46	the	O
+blessed_46	Blessed	blessed_adj
+blessed_46	Sacrament	O
+blessed_46	is	O
+blessed_46	one	O
+blessed_46	of	O
+blessed_46	the	O
+blessed_46	pillars	O
+blessed_46	of	O
+blessed_46	their	O
+blessed_46	life	O

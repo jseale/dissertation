@@ -1,0 +1,16 @@
+pasty_2	Most	O
+pasty_2	bathed	O
+pasty_2	in	O
+pasty_2	the	O
+pasty_2	Nile	O
+pasty_2	and	O
+pasty_2	used	O
+pasty_2	a	O
+pasty_2	pasty	pasty_nou
+pasty_2	soap	O
+pasty_2	made	O
+pasty_2	from	O
+pasty_2	animal	O
+pasty_2	fat	O
+pasty_2	and	O
+pasty_2	chalk	O

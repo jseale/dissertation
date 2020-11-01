@@ -1,0 +1,17 @@
+reading_24	Reading	reading_en
+reading_24	Leviticus	O
+reading_24	8:23	O
+reading_24	Milgrom	O
+reading_24	noted	O
+reading_24	that	O
+reading_24	abundant	O
+reading_24	attestation	O
+reading_24	exists	O
+reading_24	of	O
+reading_24	ritual	O
+reading_24	daubing	O
+reading_24	in	O
+reading_24	the	O
+reading_24	ancient	O
+reading_24	Near	O
+reading_24	East	O

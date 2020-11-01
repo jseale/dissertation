@@ -1,0 +1,16 @@
+deviate_7	It	O
+deviate_7	is	O
+deviate_7	tempting	O
+deviate_7	for	O
+deviate_7	the	O
+deviate_7	trader	O
+deviate_7	to	O
+deviate_7	deviate	deviate_vrb
+deviate_7	from	O
+deviate_7	the	O
+deviate_7	strategy	O
+deviate_7	which	O
+deviate_7	usually	O
+deviate_7	reduces	O
+deviate_7	its	O
+deviate_7	performance	O

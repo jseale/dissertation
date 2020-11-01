@@ -1,0 +1,17 @@
+incline_30	The	O
+incline_30	area	O
+incline_30	was	O
+incline_30	developed	O
+incline_30	in	O
+incline_30	the	O
+incline_30	early	O
+incline_30	1900s	O
+incline_30	as	O
+incline_30	a	O
+incline_30	resort	O
+incline_30	with	O
+incline_30	a	O
+incline_30	hotel	O
+incline_30	and	O
+incline_30	incline	incline_nou
+incline_30	railway	O

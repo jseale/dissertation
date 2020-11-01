@@ -1,0 +1,11 @@
+abstract_8	Camelot	O
+abstract_8	was	O
+abstract_8	featured	O
+abstract_8	in	O
+abstract_8	Abstract	abstract_adj-nou
+abstract_8	Games	O
+abstract_8	magazine	O
+abstract_8	in	O
+abstract_8	2001	O
+abstract_8	and	O
+abstract_8	2002	O

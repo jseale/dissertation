@@ -1,0 +1,13 @@
+learned_14	We	O
+learned_14	learned	learned_vrb
+learned_14	that	O
+learned_14	our	O
+learned_14	minds	O
+learned_14	and	O
+learned_14	bodies	O
+learned_14	never	O
+learned_14	stopped	O
+learned_14	adjusting	O
+learned_14	to	O
+learned_14	the	O
+learned_14	situation	O

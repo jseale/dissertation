@@ -1,0 +1,13 @@
+deliberate_26	This	O
+deliberate_26	ghosting	O
+deliberate_26	effect	O
+deliberate_26	is	O
+deliberate_26	deliberate	deliberate_adj
+deliberate_26	on	O
+deliberate_26	some	O
+deliberate_26	monitors	O
+deliberate_26	known	O
+deliberate_26	as	O
+deliberate_26	long	O
+deliberate_26	persistence	O
+deliberate_26	monitors	O

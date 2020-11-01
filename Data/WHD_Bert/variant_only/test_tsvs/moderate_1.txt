@@ -1,0 +1,13 @@
+moderate_1	Usually	O
+moderate_1	in	O
+moderate_1	full	O
+moderate_1	march	O
+moderate_1	form	O
+moderate_1	this	O
+moderate_1	difficulty	O
+moderate_1	requires	O
+moderate_1	moderate	moderate_adj-nou
+moderate_1	technique	O
+moderate_1	and	O
+moderate_1	endurance	O
+moderate_1	skills	O

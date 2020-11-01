@@ -1,0 +1,16 @@
+rodeo_7	Lenox	O
+rodeo_7	is	O
+rodeo_7	home	O
+rodeo_7	to	O
+rodeo_7	the	O
+rodeo_7	Lenox	O
+rodeo_7	Rodeo	rodeo
+rodeo_7	held	O
+rodeo_7	annually	O
+rodeo_7	by	O
+rodeo_7	the	O
+rodeo_7	Lenox	O
+rodeo_7	Stock	O
+rodeo_7	and	O
+rodeo_7	Saddle	O
+rodeo_7	Club	O

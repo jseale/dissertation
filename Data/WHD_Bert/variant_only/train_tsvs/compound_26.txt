@@ -1,0 +1,7 @@
+compound_26	These	O
+compound_26	compound	compound_vrb
+compound_26	the	O
+compound_26	weaknesses	O
+compound_26	of	O
+compound_26	ordinary	O
+compound_26	joints	O

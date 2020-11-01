@@ -1,0 +1,17 @@
+alternate_39	Gerhard	O
+alternate_39	Larsson	O
+alternate_39	alludes	O
+alternate_39	to	O
+alternate_39	an	O
+alternate_39	alternate	alternate_adj-nou
+alternate_39	reading	O
+alternate_39	which	O
+alternate_39	gives	O
+alternate_39	Heber	O
+alternate_39	's	O
+alternate_39	age	O
+alternate_39	at	O
+alternate_39	death	O
+alternate_39	as	O
+alternate_39	304	O
+alternate_39	years	O

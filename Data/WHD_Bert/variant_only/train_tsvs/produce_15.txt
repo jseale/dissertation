@@ -1,0 +1,17 @@
+produce_15	P.	O
+produce_15	lutea	O
+produce_15	can	O
+produce_15	produce	produce_vrb
+produce_15	multiple	O
+produce_15	flower	O
+produce_15	stalks	O
+produce_15	in	O
+produce_15	spring	O
+produce_15	and	O
+produce_15	can	O
+produce_15	reach	O
+produce_15	as	O
+produce_15	high	O
+produce_15	as	O
+produce_15	50	O
+produce_15	cm	O

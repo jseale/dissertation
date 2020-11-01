@@ -1,0 +1,12 @@
+august_43	May	O
+august_43	Nusku	O
+august_43	the	O
+august_43	august	august_adj
+august_43	vizier	O
+august_43	hear	O
+august_43	my	O
+august_43	prayer	O
+august_43	and	O
+august_43	intercede	O
+august_43	for	O
+august_43	me	O

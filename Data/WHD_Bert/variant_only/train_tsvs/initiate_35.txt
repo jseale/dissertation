@@ -1,0 +1,17 @@
+initiate_35	When	O
+initiate_35	there	O
+initiate_35	is	O
+initiate_35	an	O
+initiate_35	interaction	O
+initiate_35	between	O
+initiate_35	the	O
+initiate_35	two	O
+initiate_35	the	O
+initiate_35	infant	O
+initiate_35	would	O
+initiate_35	be	O
+initiate_35	the	O
+initiate_35	one	O
+initiate_35	to	O
+initiate_35	initiate	initiate_vrb
+initiate_35	it	O

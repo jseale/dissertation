@@ -1,0 +1,12 @@
+recount_27	He	O
+recount_27	represented	O
+recount_27	Thomas	O
+recount_27	Kean	O
+recount_27	during	O
+recount_27	the	O
+recount_27	recount	recount_nou
+recount_27	for	O
+recount_27	the	O
+recount_27	1981	O
+recount_27	gubernatorial	O
+recount_27	election	O

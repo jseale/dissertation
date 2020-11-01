@@ -1,0 +1,15 @@
+moderate_19	In	O
+moderate_19	1992	O
+moderate_19	he	O
+moderate_19	challenged	O
+moderate_19	six	O
+moderate_19	term	O
+moderate_19	Congresswoman	O
+moderate_19	Marge	O
+moderate_19	Roukema	O
+moderate_19	a	O
+moderate_19	moderate	moderate_adj-nou
+moderate_19	in	O
+moderate_19	the	O
+moderate_19	Republican	O
+moderate_19	primary	O

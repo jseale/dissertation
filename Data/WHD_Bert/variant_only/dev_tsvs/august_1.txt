@@ -1,0 +1,17 @@
+august_1	The	O
+august_1	August	august
+august_1	Offensive	O
+august_1	failed	O
+august_1	to	O
+august_1	halt	O
+august_1	the	O
+august_1	Volunteer	O
+august_1	Army	O
+august_1	's	O
+august_1	advance	O
+august_1	and	O
+august_1	the	O
+august_1	Don	O
+august_1	Army	O
+august_1	captured	O
+august_1	Voronezh	O

@@ -1,0 +1,15 @@
+ravel_8	The	O
+ravel_8	scale	O
+ravel_8	also	O
+ravel_8	may	O
+ravel_8	be	O
+ravel_8	found	O
+ravel_8	in	O
+ravel_8	the	O
+ravel_8	music	O
+ravel_8	of	O
+ravel_8	Claude	O
+ravel_8	Debussy	O
+ravel_8	and	O
+ravel_8	Maurice	O
+ravel_8	Ravel	ravel_nam

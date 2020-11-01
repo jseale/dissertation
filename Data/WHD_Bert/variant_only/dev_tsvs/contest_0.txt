@@ -1,0 +1,10 @@
+contest_0	The	O
+contest_0	contest	contest_nou
+contest_0	includes	O
+contest_0	only	O
+contest_0	athletes	O
+contest_0	weighing	O
+contest_0	105	O
+contest_0	kg	O
+contest_0	231	O
+contest_0	lbs	O

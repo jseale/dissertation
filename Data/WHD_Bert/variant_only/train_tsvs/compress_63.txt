@@ -1,0 +1,15 @@
+compress_63	In	O
+compress_63	proof	O
+compress_63	compression	O
+compress_63	LowerUnits	O
+compress_63	LU	O
+compress_63	is	O
+compress_63	an	O
+compress_63	algorithm	O
+compress_63	used	O
+compress_63	to	O
+compress_63	compress	compress
+compress_63	propositional	O
+compress_63	logic	O
+compress_63	resolution	O
+compress_63	proofs	O

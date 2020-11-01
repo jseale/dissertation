@@ -1,0 +1,16 @@
+incline_34	He	O
+incline_34	came	O
+incline_34	to	O
+incline_34	Pittsburgh	O
+incline_34	and	O
+incline_34	was	O
+incline_34	associated	O
+incline_34	with	O
+incline_34	John	O
+incline_34	Endres	O
+incline_34	the	O
+incline_34	builder	O
+incline_34	of	O
+incline_34	the	O
+incline_34	Monongahela	O
+incline_34	Incline	incline_nou

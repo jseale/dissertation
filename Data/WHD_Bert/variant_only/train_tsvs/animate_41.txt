@@ -1,0 +1,13 @@
+animate_41	The	O
+animate_41	artists	O
+animate_41	also	O
+animate_41	discovered	O
+animate_41	that	O
+animate_41	it	O
+animate_41	would	O
+animate_41	be	O
+animate_41	challenging	O
+animate_41	to	O
+animate_41	animate	animate_vrb
+animate_41	deer	O
+animate_41	realistically	O

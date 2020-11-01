@@ -1,0 +1,16 @@
+coordinate_53	No	O
+coordinate_53	coordinate	coordinate_adj-nou
+coordinate_53	condition	O
+coordinate_53	is	O
+coordinate_53	generally	O
+coordinate_53	covariant	O
+coordinate_53	but	O
+coordinate_53	many	O
+coordinate_53	coordinate	coordinate_adj-nou
+coordinate_53	conditions	O
+coordinate_53	are	O
+coordinate_53	Lorentz	O
+coordinate_53	covariant	O
+coordinate_53	or	O
+coordinate_53	rotationally	O
+coordinate_53	covariant	O

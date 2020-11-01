@@ -1,0 +1,14 @@
+ornament_7	He	O
+ornament_7	works	O
+ornament_7	with	O
+ornament_7	the	O
+ornament_7	simplest	O
+ornament_7	ornament	ornament_nou
+ornament_7	consisting	O
+ornament_7	of	O
+ornament_7	wavy	O
+ornament_7	lines	O
+ornament_7	broken	O
+ornament_7	arches	O
+ornament_7	or	O
+ornament_7	loops	O

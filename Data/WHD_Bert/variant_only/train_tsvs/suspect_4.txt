@@ -1,0 +1,16 @@
+suspect_4	Bayliss	O
+suspect_4	reveals	O
+suspect_4	that	O
+suspect_4	the	O
+suspect_4	girl	O
+suspect_4	's	O
+suspect_4	father	O
+suspect_4	who	O
+suspect_4	had	O
+suspect_4	been	O
+suspect_4	a	O
+suspect_4	suspect	suspect_adj-nou
+suspect_4	also	O
+suspect_4	has	O
+suspect_4	an	O
+suspect_4	alibi	O

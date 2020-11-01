@@ -1,0 +1,17 @@
+transform_76	The	O
+transform_76	result	O
+transform_76	of	O
+transform_76	this	O
+transform_76	state	O
+transform_76	atheism	O
+transform_76	was	O
+transform_76	to	O
+transform_76	transform	transform
+transform_76	the	O
+transform_76	Church	O
+transform_76	into	O
+transform_76	a	O
+transform_76	persecuted	O
+transform_76	and	O
+transform_76	martyred	O
+transform_76	Church	O

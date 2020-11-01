@@ -1,0 +1,13 @@
+diffuse_1	Also	O
+diffuse_1	carried	O
+diffuse_1	in	O
+diffuse_1	the	O
+diffuse_1	payload	O
+diffuse_1	bay	O
+diffuse_1	was	O
+diffuse_1	the	O
+diffuse_1	Diffuse	diffuse_adj
+diffuse_1	X	O
+diffuse_1	Ray	O
+diffuse_1	Spectrometer	O
+diffuse_1	DXS	O

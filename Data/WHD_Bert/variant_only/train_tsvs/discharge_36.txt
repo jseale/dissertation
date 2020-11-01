@@ -1,0 +1,12 @@
+discharge_36	Upon	O
+discharge_36	discharge	discharge_nou
+discharge_36	he	O
+discharge_36	sought	O
+discharge_36	the	O
+discharge_36	office	O
+discharge_36	of	O
+discharge_36	Ohio	O
+discharge_36	Attorney	O
+discharge_36	General	O
+discharge_36	but	O
+discharge_36	lost	O

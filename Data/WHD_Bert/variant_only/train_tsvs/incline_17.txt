@@ -1,0 +1,7 @@
+incline_17	Operation	O
+incline_17	of	O
+incline_17	the	O
+incline_17	incline	incline_nou
+incline_17	ended	O
+incline_17	in	O
+incline_17	1952	O

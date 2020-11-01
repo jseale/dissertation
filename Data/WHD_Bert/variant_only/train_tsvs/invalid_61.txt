@@ -1,0 +1,7 @@
+invalid_61	Turnstiles	O
+invalid_61	are	O
+invalid_61	used	O
+invalid_61	to	O
+invalid_61	obstruct	O
+invalid_61	invalid	invalid_adj
+invalid_61	access	O

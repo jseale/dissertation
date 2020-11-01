@@ -1,0 +1,9 @@
+conjugate_72	Minimal	O
+conjugate_72	polynomials	O
+conjugate_72	are	O
+conjugate_72	also	O
+conjugate_72	used	O
+conjugate_72	to	O
+conjugate_72	define	O
+conjugate_72	conjugate	conjugate_adj-nou
+conjugate_72	elements	O

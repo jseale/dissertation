@@ -1,0 +1,12 @@
+upset_30	Finkel	O
+upset_30	was	O
+upset_30	said	O
+upset_30	to	O
+upset_30	be	O
+upset_30	very	O
+upset_30	upset	upset_nou
+upset_30	by	O
+upset_30	this	O
+upset_30	state	O
+upset_30	of	O
+upset_30	affairs	O

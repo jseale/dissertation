@@ -1,0 +1,14 @@
+close_12	During	O
+close_12	sexual	O
+close_12	reproduction	O
+close_12	mating	O
+close_12	with	O
+close_12	a	O
+close_12	close	close_adj-nou
+close_12	relative	O
+close_12	inbreeding	O
+close_12	often	O
+close_12	leads	O
+close_12	to	O
+close_12	inbreeding	O
+close_12	depression	O

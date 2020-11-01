@@ -1,0 +1,12 @@
+upset_43	In	O
+upset_43	a	O
+upset_43	surprising	O
+upset_43	upset	upset_nou
+upset_43	the	O
+upset_43	Knesset	O
+upset_43	elected	O
+upset_43	Katsav	O
+upset_43	by	O
+upset_43	63	O
+upset_43	to	O
+upset_43	57	O

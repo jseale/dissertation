@@ -1,0 +1,15 @@
+refuse_31	This	O
+refuse_31	decision	O
+refuse_31	coincided	O
+refuse_31	with	O
+refuse_31	changing	O
+refuse_31	the	O
+refuse_31	bank	O
+refuse_31	's	O
+refuse_31	strategy	O
+refuse_31	to	O
+refuse_31	refuse	refuse_vrb
+refuse_31	risky	O
+refuse_31	and	O
+refuse_31	unpromising	O
+refuse_31	assets	O

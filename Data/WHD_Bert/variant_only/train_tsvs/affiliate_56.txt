@@ -1,0 +1,12 @@
+affiliate_56	Its	O
+affiliate_56	academic	O
+affiliate_56	affiliate	affiliate_nou
+affiliate_56	is	O
+affiliate_56	the	O
+affiliate_56	New	O
+affiliate_56	York	O
+affiliate_56	Medical	O
+affiliate_56	College	O
+affiliate_56	School	O
+affiliate_56	of	O
+affiliate_56	Medicine	O

@@ -1,0 +1,16 @@
+animate_32	The	O
+animate_32	six	O
+animate_32	minute	O
+animate_32	sequence	O
+animate_32	follows	O
+animate_32	an	O
+animate_32	animate	animate_adj-nou
+animate_32	paper	O
+animate_32	lantern	O
+animate_32	gradually	O
+animate_32	making	O
+animate_32	it	O
+animate_32	back	O
+animate_32	for	O
+animate_32	a	O
+animate_32	festival	O

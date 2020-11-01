@@ -1,0 +1,9 @@
+protest_72	The	O
+protest_72	protest	protest_nou
+protest_72	reaching	O
+protest_72	the	O
+protest_72	army	O
+protest_72	was	O
+protest_72	sent	O
+protest_72	to	O
+protest_72	Columbia	O

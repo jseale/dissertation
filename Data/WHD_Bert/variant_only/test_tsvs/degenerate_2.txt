@@ -1,0 +1,13 @@
+degenerate_2	The	O
+degenerate_2	people	O
+degenerate_2	participating	O
+degenerate_2	in	O
+degenerate_2	Government	O
+degenerate_2	in	O
+degenerate_2	an	O
+degenerate_2	organic	O
+degenerate_2	manner	O
+degenerate_2	not	O
+degenerate_2	by	O
+degenerate_2	degenerate	degenerate_adj-nou
+degenerate_2	democracy	O

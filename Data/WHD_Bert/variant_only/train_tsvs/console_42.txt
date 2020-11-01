@@ -1,0 +1,16 @@
+console_42	The	O
+console_42	console	console_nou
+console_42	launched	O
+console_42	in	O
+console_42	the	O
+console_42	United	O
+console_42	States	O
+console_42	with	O
+console_42	a	O
+console_42	line	O
+console_42	up	O
+console_42	of	O
+console_42	eight	O
+console_42	titles	O
+console_42	including	O
+console_42	Trailblazer	O

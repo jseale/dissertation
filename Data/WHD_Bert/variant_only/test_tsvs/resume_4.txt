@@ -1,0 +1,13 @@
+resume_4	The	O
+resume_4	morning	O
+resume_4	she	O
+resume_4	leaves	O
+resume_4	and	O
+resume_4	he	O
+resume_4	pursues	O
+resume_4	her	O
+resume_4	hoping	O
+resume_4	to	O
+resume_4	resume	resume_vrb
+resume_4	the	O
+resume_4	relationship	O

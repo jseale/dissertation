@@ -1,0 +1,10 @@
+august_2	Rehearsals	O
+august_2	were	O
+august_2	held	O
+august_2	from	O
+august_2	August	august
+august_2	to	O
+august_2	October	O
+august_2	in	O
+august_2	Mexico	O
+august_2	City	O

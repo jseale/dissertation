@@ -1,0 +1,10 @@
+ornament_4	Her	O
+ornament_4	bow	O
+ornament_4	ornament	ornament_nou
+ornament_4	is	O
+ornament_4	preserved	O
+ornament_4	at	O
+ornament_4	the	O
+ornament_4	Laboe	O
+ornament_4	Naval	O
+ornament_4	Memorial	O

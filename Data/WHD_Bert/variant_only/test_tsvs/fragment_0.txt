@@ -1,0 +1,13 @@
+fragment_0	II	O
+fragment_0	244	O
+fragment_0	is	O
+fragment_0	a	O
+fragment_0	fragment	fragment_nou
+fragment_0	describing	O
+fragment_0	a	O
+fragment_0	transfer	O
+fragment_0	of	O
+fragment_0	cattle	O
+fragment_0	written	O
+fragment_0	in	O
+fragment_0	Greek	O

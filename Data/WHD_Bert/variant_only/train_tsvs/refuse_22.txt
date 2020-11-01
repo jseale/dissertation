@@ -1,0 +1,14 @@
+refuse_22	For	O
+refuse_22	example	O
+refuse_22	many	O
+refuse_22	Chinese	O
+refuse_22	employers	O
+refuse_22	and	O
+refuse_22	universities	O
+refuse_22	refuse	refuse_vrb
+refuse_22	to	O
+refuse_22	accept	O
+refuse_22	anyone	O
+refuse_22	who	O
+refuse_22	tests	O
+refuse_22	positive	O

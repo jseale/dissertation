@@ -1,0 +1,15 @@
+diffuse_75	Being	O
+diffuse_75	a	O
+diffuse_75	diffuse	diffuse_adj
+diffuse_75	object	O
+diffuse_75	its	O
+diffuse_75	visibility	O
+diffuse_75	is	O
+diffuse_75	strongly	O
+diffuse_75	affected	O
+diffuse_75	by	O
+diffuse_75	small	O
+diffuse_75	amounts	O
+diffuse_75	of	O
+diffuse_75	light	O
+diffuse_75	pollution	O

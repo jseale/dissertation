@@ -1,0 +1,14 @@
+coordinate_75	Burgos	O
+coordinate_75	and	O
+coordinate_75	San	O
+coordinate_75	Juan	O
+coordinate_75	de	O
+coordinate_75	los	O
+coordinate_75	Lagos	O
+coordinate_75	sponsor	O
+coordinate_75	and	O
+coordinate_75	coordinate	coordinate_vrb
+coordinate_75	activities	O
+coordinate_75	between	O
+coordinate_75	both	O
+coordinate_75	populations	O

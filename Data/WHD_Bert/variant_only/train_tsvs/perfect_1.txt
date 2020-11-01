@@ -1,0 +1,8 @@
+perfect_1	Urth	O
+perfect_1	requests	O
+perfect_1	a	O
+perfect_1	perfect	perfect_adj
+perfect_1	bell	O
+perfect_1	as	O
+perfect_1	his	O
+perfect_1	fee	O

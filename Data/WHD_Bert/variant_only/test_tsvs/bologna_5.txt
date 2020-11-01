@@ -1,0 +1,16 @@
+bologna_5	It	O
+bologna_5	is	O
+bologna_5	located	O
+bologna_5	around	O
+bologna_5	12	O
+bologna_5	kilometres	O
+bologna_5	7	O
+bologna_5	miles	O
+bologna_5	away	O
+bologna_5	from	O
+bologna_5	Bologna	bologna_geo
+bologna_5	the	O
+bologna_5	capital	O
+bologna_5	of	O
+bologna_5	Emilia	O
+bologna_5	Romagna	O

@@ -1,0 +1,9 @@
+export_16	This	O
+export_16	model	O
+export_16	has	O
+export_16	125	O
+export_16	PS	O
+export_16	92	O
+export_16	kW	O
+export_16	for	O
+export_16	export	export_nou

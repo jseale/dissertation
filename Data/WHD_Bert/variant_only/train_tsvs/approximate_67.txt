@@ -1,0 +1,10 @@
+approximate_67	The	O
+approximate_67	earliest	O
+approximate_67	atlas	O
+approximate_67	Ptolemy	O
+approximate_67	's	O
+approximate_67	Geography	O
+approximate_67	is	O
+approximate_67	made	O
+approximate_67	approximate	approximate_adj-nou
+approximate_67	date	O

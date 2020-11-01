@@ -1,0 +1,14 @@
+nestle_55	Soon	O
+nestle_55	after	O
+nestle_55	the	O
+nestle_55	firm	O
+nestle_55	landed	O
+nestle_55	the	O
+nestle_55	account	O
+nestle_55	to	O
+nestle_55	redesign	O
+nestle_55	the	O
+nestle_55	Nestle	nestle_nam
+nestle_55	brand	O
+nestle_55	in	O
+nestle_55	Canada	O

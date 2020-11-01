@@ -1,0 +1,14 @@
+discard_42	His	O
+discard_42	Postmaster	O
+discard_42	General	O
+discard_42	Amos	O
+discard_42	Kendall	O
+discard_42	gave	O
+discard_42	Southern	O
+discard_42	postmasters	O
+discard_42	discretionary	O
+discard_42	powers	O
+discard_42	to	O
+discard_42	discard	discard_vrb
+discard_42	the	O
+discard_42	tracts	O

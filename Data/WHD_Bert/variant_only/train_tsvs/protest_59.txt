@@ -1,0 +1,13 @@
+protest_59	The	O
+protest_59	most	O
+protest_59	common	O
+protest_59	electoral	O
+protest_59	consequences	O
+protest_59	of	O
+protest_59	political	O
+protest_59	alienation	O
+protest_59	are	O
+protest_59	abstention	O
+protest_59	and	O
+protest_59	protest	protest_nou
+protest_59	voting	O

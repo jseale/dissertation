@@ -1,0 +1,12 @@
+perfume_3	She	O
+perfume_3	also	O
+perfume_3	starred	O
+perfume_3	in	O
+perfume_3	independent	O
+perfume_3	films	O
+perfume_3	Perfume	perfume_nou
+perfume_3	G	O
+perfume_3	and	O
+perfume_3	The	O
+perfume_3	Killing	O
+perfume_3	Zone	O

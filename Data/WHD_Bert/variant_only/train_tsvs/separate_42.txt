@@ -1,0 +1,12 @@
+separate_42	Separate	separate_adj
+separate_42	parking	O
+separate_42	fees	O
+separate_42	must	O
+separate_42	be	O
+separate_42	paid	O
+separate_42	for	O
+separate_42	the	O
+separate_42	park	O
+separate_42	and	O
+separate_42	the	O
+separate_42	falls	O

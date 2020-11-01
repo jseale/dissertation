@@ -1,0 +1,13 @@
+perfect_3	Rehtmeyer	O
+perfect_3	Inc.	O
+perfect_3	becomes	O
+perfect_3	Mazza	O
+perfect_3	's	O
+perfect_3	agent	O
+perfect_3	and	O
+perfect_3	represents	O
+perfect_3	The	O
+perfect_3	Perfect	perfect_adj
+perfect_3	Present	O
+perfect_3	to	O
+perfect_3	publishers	O

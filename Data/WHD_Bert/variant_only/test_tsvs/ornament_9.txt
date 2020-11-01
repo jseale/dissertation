@@ -1,0 +1,7 @@
+ornament_9	Therefore	O
+ornament_9	they	O
+ornament_9	invented	O
+ornament_9	tattoos	O
+ornament_9	as	O
+ornament_9	permanent	O
+ornament_9	ornament	ornament_nou

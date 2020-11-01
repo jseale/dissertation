@@ -1,0 +1,14 @@
+recount_6	The	O
+recount_6	Secretary	O
+recount_6	of	O
+recount_6	State	O
+recount_6	issued	O
+recount_6	the	O
+recount_6	order	O
+recount_6	for	O
+recount_6	a	O
+recount_6	recount	recount_nou
+recount_6	on	O
+recount_6	Monday	O
+recount_6	December	O
+recount_6	6	O

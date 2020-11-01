@@ -1,0 +1,12 @@
+content_45	The	O
+content_45	content	content_nou
+content_45	of	O
+content_45	Commercial	O
+content_45	Motor	O
+content_45	consists	O
+content_45	of	O
+content_45	editorial	O
+content_45	followed	O
+content_45	by	O
+content_45	classified	O
+content_45	advertising	O

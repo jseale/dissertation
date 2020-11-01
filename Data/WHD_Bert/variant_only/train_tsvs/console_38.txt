@@ -1,0 +1,16 @@
+console_38	This	O
+console_38	is	O
+console_38	the	O
+console_38	first	O
+console_38	game	O
+console_38	in	O
+console_38	the	O
+console_38	series	O
+console_38	to	O
+console_38	be	O
+console_38	released	O
+console_38	on	O
+console_38	console	console_nou
+console_38	specifically	O
+console_38	Xbox	O
+console_38	360	O

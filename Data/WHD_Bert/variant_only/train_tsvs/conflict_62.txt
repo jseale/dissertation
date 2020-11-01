@@ -1,0 +1,17 @@
+conflict_62	Although	O
+conflict_62	this	O
+conflict_62	conflict	conflict_nou
+conflict_62	occurred	O
+conflict_62	in	O
+conflict_62	what	O
+conflict_62	is	O
+conflict_62	now	O
+conflict_62	Canada	O
+conflict_62	the	O
+conflict_62	militias	O
+conflict_62	involved	O
+conflict_62	were	O
+conflict_62	formed	O
+conflict_62	mostly	O
+conflict_62	of	O
+conflict_62	Americans	O

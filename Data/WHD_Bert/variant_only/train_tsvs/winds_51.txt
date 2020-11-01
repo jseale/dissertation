@@ -1,0 +1,13 @@
+winds_51	Typhoon	O
+winds_51	Della	O
+winds_51	struck	O
+winds_51	Kyushu	O
+winds_51	Island	O
+winds_51	in	O
+winds_51	southern	O
+winds_51	Japan	O
+winds_51	with	O
+winds_51	winds	winds_nou
+winds_51	of	O
+winds_51	100	O
+winds_51	mph	O

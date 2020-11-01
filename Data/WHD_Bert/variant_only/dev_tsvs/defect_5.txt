@@ -1,0 +1,10 @@
+defect_5	Like	O
+defect_5	all	O
+defect_5	train	O
+defect_5	safety	O
+defect_5	equipment	O
+defect_5	defect	defect_nou
+defect_5	detectors	O
+defect_5	are	O
+defect_5	not	O
+defect_5	foolproof	O

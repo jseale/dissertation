@@ -1,0 +1,9 @@
+upset_23	Ogle	O
+upset_23	upset	upset_vrb
+upset_23	Walsh	O
+upset_23	winning	O
+upset_23	the	O
+upset_23	fight	O
+upset_23	via	O
+upset_23	unanimous	O
+upset_23	decision	O

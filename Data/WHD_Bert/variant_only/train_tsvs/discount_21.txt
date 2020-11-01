@@ -1,0 +1,12 @@
+discount_21	This	O
+discount_21	article	O
+discount_21	covers	O
+discount_21	the	O
+discount_21	history	O
+discount_21	of	O
+discount_21	Target	O
+discount_21	Corporation	O
+discount_21	a	O
+discount_21	discount	discount_nou
+discount_21	retail	O
+discount_21	chain	O

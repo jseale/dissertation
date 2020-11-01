@@ -1,0 +1,11 @@
+mobile_34	Being	O
+mobile_34	a	O
+mobile_34	highly	O
+mobile_34	mobile	mobile
+mobile_34	molecule	O
+mobile_34	it	O
+mobile_34	moves	O
+mobile_34	ahead	O
+mobile_34	of	O
+mobile_34	most	O
+mobile_34	proteins	O

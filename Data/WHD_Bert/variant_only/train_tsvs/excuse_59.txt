@@ -1,0 +1,17 @@
+excuse_59	The	O
+excuse_59	same	O
+excuse_59	excuse	excuse_nou
+excuse_59	was	O
+excuse_59	made	O
+excuse_59	that	O
+excuse_59	they	O
+excuse_59	could	O
+excuse_59	not	O
+excuse_59	be	O
+excuse_59	trusted	O
+excuse_59	to	O
+excuse_59	march	O
+excuse_59	unbound	O
+excuse_59	to	O
+excuse_59	the	O
+excuse_59	camp	O

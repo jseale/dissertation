@@ -1,0 +1,15 @@
+discard_56	It	O
+discard_56	was	O
+discard_56	then	O
+discard_56	decided	O
+discard_56	to	O
+discard_56	discard	discard_vrb
+discard_56	the	O
+discard_56	result	O
+discard_56	and	O
+discard_56	replay	O
+discard_56	the	O
+discard_56	game	O
+discard_56	two	O
+discard_56	days	O
+discard_56	later	O

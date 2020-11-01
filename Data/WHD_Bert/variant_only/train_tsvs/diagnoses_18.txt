@@ -1,0 +1,14 @@
+diagnoses_18	This	O
+diagnoses_18	database	O
+diagnoses_18	provided	O
+diagnoses_18	a	O
+diagnoses_18	depository	O
+diagnoses_18	for	O
+diagnoses_18	historical	O
+diagnoses_18	data	O
+diagnoses_18	of	O
+diagnoses_18	diagnoses	diagnoses_nou
+diagnoses_18	research	O
+diagnoses_18	treatments	O
+diagnoses_18	and	O
+diagnoses_18	results	O

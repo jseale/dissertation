@@ -1,0 +1,15 @@
+confines_20	This	O
+confines_20	ward	O
+confines_20	stretches	O
+confines_20	beyond	O
+confines_20	the	O
+confines_20	confines	confines_nou
+confines_20	of	O
+confines_20	Beckermet	O
+confines_20	parish	O
+confines_20	with	O
+confines_20	a	O
+confines_20	total	O
+confines_20	population	O
+confines_20	of	O
+confines_20	3,024	O

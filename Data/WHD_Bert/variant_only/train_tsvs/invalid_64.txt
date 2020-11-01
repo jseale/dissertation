@@ -1,0 +1,16 @@
+invalid_64	If	O
+invalid_64	its	O
+invalid_64	top	O
+invalid_64	is	O
+invalid_64	broken	O
+invalid_64	off	O
+invalid_64	or	O
+invalid_64	its	O
+invalid_64	leaves	O
+invalid_64	detached	O
+invalid_64	from	O
+invalid_64	the	O
+invalid_64	stem	O
+invalid_64	it	O
+invalid_64	is	O
+invalid_64	invalid	invalid_adj

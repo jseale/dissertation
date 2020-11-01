@@ -1,0 +1,10 @@
+polish_44	Polish	polish_geo
+polish_44	orthography	O
+polish_44	is	O
+polish_44	the	O
+polish_44	system	O
+polish_44	of	O
+polish_44	writing	O
+polish_44	the	O
+polish_44	Polish	polish_geo
+polish_44	language	O

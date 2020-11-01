@@ -1,0 +1,10 @@
+deviate_19	Individual	O
+deviate_19	satellites	O
+deviate_19	never	O
+deviate_19	deviate	deviate_vrb
+deviate_19	in	O
+deviate_19	their	O
+deviate_19	velocity	O
+deviate_19	speed	O
+deviate_19	and	O
+deviate_19	direction	O

@@ -1,0 +1,9 @@
+articulate_44	Greenberg	O
+articulate_44	helped	O
+articulate_44	to	O
+articulate_44	articulate	articulate_vrb
+articulate_44	a	O
+articulate_44	concept	O
+articulate_44	of	O
+articulate_44	medium	O
+articulate_44	specificity	O

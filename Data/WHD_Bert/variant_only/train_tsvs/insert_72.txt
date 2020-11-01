@@ -1,0 +1,14 @@
+insert_72	The	O
+insert_72	writers	O
+insert_72	and	O
+insert_72	star	O
+insert_72	would	O
+insert_72	insert	insert_vrb
+insert_72	musical	O
+insert_72	interludes	O
+insert_72	from	O
+insert_72	Phil	O
+insert_72	Harris	O
+insert_72	and	O
+insert_72	Dennis	O
+insert_72	Day	O

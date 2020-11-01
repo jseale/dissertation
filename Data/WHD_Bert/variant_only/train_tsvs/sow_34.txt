@@ -1,0 +1,9 @@
+sow_34	In	O
+sow_34	this	O
+sow_34	regard	O
+sow_34	sow	sow
+sow_34	thistles	O
+sow_34	make	O
+sow_34	excellent	O
+sow_34	sacrificial	O
+sow_34	plants	O

@@ -1,0 +1,14 @@
+laminate_73	There	O
+laminate_73	are	O
+laminate_73	many	O
+laminate_73	benefits	O
+laminate_73	to	O
+laminate_73	choosing	O
+laminate_73	a	O
+laminate_73	laminate	laminate_nou
+laminate_73	floor	O
+laminate_73	over	O
+laminate_73	other	O
+laminate_73	types	O
+laminate_73	of	O
+laminate_73	flooring	O

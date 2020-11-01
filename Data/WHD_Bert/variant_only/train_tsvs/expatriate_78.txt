@@ -1,0 +1,14 @@
+expatriate_78	In	O
+expatriate_78	modern	O
+expatriate_78	times	O
+expatriate_78	1960	O
+expatriate_78	onwards	O
+expatriate_78	Jumeirah	O
+expatriate_78	was	O
+expatriate_78	the	O
+expatriate_78	principal	O
+expatriate_78	area	O
+expatriate_78	for	O
+expatriate_78	western	O
+expatriate_78	expatriate	expatriate_nou
+expatriate_78	residences	O

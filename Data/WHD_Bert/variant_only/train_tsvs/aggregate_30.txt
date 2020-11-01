@@ -1,0 +1,15 @@
+aggregate_30	The	O
+aggregate_30	film	O
+aggregate_30	holds	O
+aggregate_30	an	O
+aggregate_30	86	O
+aggregate_30	Certified	O
+aggregate_30	Fresh	O
+aggregate_30	rating	O
+aggregate_30	on	O
+aggregate_30	the	O
+aggregate_30	review	O
+aggregate_30	aggregate	aggregate_adj-nou
+aggregate_30	website	O
+aggregate_30	Rotten	O
+aggregate_30	Tomatoes	O

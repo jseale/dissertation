@@ -1,0 +1,11 @@
+wind_77	Therefore	O
+wind_77	vertical	O
+wind_77	axis	O
+wind_77	wind	wind_nou
+wind_77	mills	O
+wind_77	e.g.	O
+wind_77	Savonius	O
+wind_77	turbines	O
+wind_77	are	O
+wind_77	sometimes	O
+wind_77	preferred	O

@@ -1,0 +1,11 @@
+discard_4	Proteus	O
+discard_4	intends	O
+discard_4	to	O
+discard_4	discard	discard_vrb
+discard_4	his	O
+discard_4	current	O
+discard_4	body	O
+discard_4	and	O
+discard_4	possess	O
+discard_4	the	O
+discard_4	Maestro	O

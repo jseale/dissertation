@@ -1,0 +1,11 @@
+axes_2	The	O
+axes_2	arms	O
+axes_2	show	O
+axes_2	two	O
+axes_2	crossed	O
+axes_2	silver	O
+axes_2	axes	axes_nou-vrb
+axes_2	on	O
+axes_2	a	O
+axes_2	blue	O
+axes_2	background	O

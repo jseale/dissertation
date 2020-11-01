@@ -1,0 +1,15 @@
+contract_56	The	O
+contract_56	winner	O
+contract_56	was	O
+contract_56	chosen	O
+contract_56	in	O
+contract_56	January	O
+contract_56	2006	O
+contract_56	and	O
+contract_56	the	O
+contract_56	contract	contract_nou
+contract_56	was	O
+contract_56	signed	O
+contract_56	in	O
+contract_56	March	O
+contract_56	2006	O

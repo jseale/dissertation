@@ -1,0 +1,15 @@
+discard_79	From	O
+discard_79	the	O
+discard_79	13	O
+discard_79	card	O
+discard_79	each	O
+discard_79	player	O
+discard_79	must	O
+discard_79	create	O
+discard_79	4	O
+discard_79	card	O
+discard_79	groups	O
+discard_79	and	O
+discard_79	discard	discard_vrb
+discard_79	one	O
+discard_79	card	O

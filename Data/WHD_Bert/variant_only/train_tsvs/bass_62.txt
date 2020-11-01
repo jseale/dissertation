@@ -1,0 +1,15 @@
+bass_62	The	O
+bass_62	band	O
+bass_62	brought	O
+bass_62	in	O
+bass_62	Gustaf	O
+bass_62	Hielm	O
+bass_62	ex	O
+bass_62	Meshuggah	O
+bass_62	to	O
+bass_62	play	O
+bass_62	the	O
+bass_62	bass	bass
+bass_62	on	O
+bass_62	the	O
+bass_62	record	O

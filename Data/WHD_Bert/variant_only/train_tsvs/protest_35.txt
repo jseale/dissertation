@@ -1,0 +1,11 @@
+protest_35	General	O
+protest_35	strikes	O
+protest_35	in	O
+protest_35	protest	protest_nou
+protest_35	against	O
+protest_35	the	O
+protest_35	decision	O
+protest_35	began	O
+protest_35	in	O
+protest_35	February	O
+protest_35	1948	O

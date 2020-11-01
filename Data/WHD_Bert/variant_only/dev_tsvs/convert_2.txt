@@ -1,0 +1,8 @@
+convert_2	Games	O
+convert_2	that	O
+convert_2	do	O
+convert_2	not	O
+convert_2	convert	convert_vrb
+convert_2	are	O
+convert_2	quickly	O
+convert_2	buried	O

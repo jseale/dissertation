@@ -1,0 +1,11 @@
+separate_1	In	O
+separate_1	1938	O
+separate_1	the	O
+separate_1	building	O
+separate_1	was	O
+separate_1	extended	O
+separate_1	and	O
+separate_1	a	O
+separate_1	separate	separate_adj
+separate_1	gymnasium	O
+separate_1	added	O

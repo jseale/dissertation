@@ -1,0 +1,11 @@
+ornament_13	CWAAS	O
+ornament_13	extra	O
+ornament_13	series	O
+ornament_13	XXXIIMary	O
+ornament_13	C	O
+ornament_13	Fair	O
+ornament_13	Romanesque	O
+ornament_13	beakhead	O
+ornament_13	ornament	ornament_nou
+ornament_13	in	O
+ornament_13	Cumberland	O

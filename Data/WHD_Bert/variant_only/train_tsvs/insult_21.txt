@@ -1,0 +1,17 @@
+insult_21	Associating	O
+insult_21	a	O
+insult_21	man	O
+insult_21	with	O
+insult_21	something	O
+insult_21	feminine	O
+insult_21	and	O
+insult_21	calling	O
+insult_21	him	O
+insult_21	girl	O
+insult_21	or	O
+insult_21	sissy	O
+insult_21	is	O
+insult_21	usually	O
+insult_21	considered	O
+insult_21	an	O
+insult_21	insult	insult_nou

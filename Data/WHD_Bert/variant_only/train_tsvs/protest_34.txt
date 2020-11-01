@@ -1,0 +1,17 @@
+protest_34	With	O
+protest_34	the	O
+protest_34	song	O
+protest_34	Machine	O
+protest_34	Gun	O
+protest_34	dedicated	O
+protest_34	to	O
+protest_34	those	O
+protest_34	fighting	O
+protest_34	in	O
+protest_34	Vietnam	O
+protest_34	this	O
+protest_34	protest	protest_nou
+protest_34	of	O
+protest_34	violence	O
+protest_34	is	O
+protest_34	manifest	O

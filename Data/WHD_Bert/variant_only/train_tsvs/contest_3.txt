@@ -1,0 +1,11 @@
+contest_3	Walls	O
+contest_3	however	O
+contest_3	plead	O
+contest_3	no	O
+contest_3	contest	contest_nou
+contest_3	to	O
+contest_3	the	O
+contest_3	rape	O
+contest_3	of	O
+contest_3	Heath	O
+contest_3	Stocks	O

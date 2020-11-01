@@ -1,0 +1,15 @@
+expatriate_59	Fogle	O
+expatriate_59	is	O
+expatriate_59	the	O
+expatriate_59	son	O
+expatriate_59	of	O
+expatriate_59	English	O
+expatriate_59	actress	O
+expatriate_59	Julia	O
+expatriate_59	Foster	O
+expatriate_59	and	O
+expatriate_59	Canadian	O
+expatriate_59	expatriate	expatriate_nou
+expatriate_59	veterinarian	O
+expatriate_59	Bruce	O
+expatriate_59	Fogle	O

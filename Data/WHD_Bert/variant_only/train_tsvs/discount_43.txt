@@ -1,0 +1,16 @@
+discount_43	He	O
+discount_43	used	O
+discount_43	the	O
+discount_43	staff	O
+discount_43	discount	discount_nou
+discount_43	offer	O
+discount_43	to	O
+discount_43	purchase	O
+discount_43	a	O
+discount_43	new	O
+discount_43	bass	O
+discount_43	a	O
+discount_43	Rickenbacker	O
+discount_43	4001	O
+discount_43	in	O
+discount_43	1965	O

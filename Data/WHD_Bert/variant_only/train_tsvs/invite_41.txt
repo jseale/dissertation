@@ -1,0 +1,15 @@
+invite_41	Now	O
+invite_41	Thaitanium	O
+invite_41	invite	invite_vrb
+invite_41	Nas	O
+invite_41	that	O
+invite_41	is	O
+invite_41	the	O
+invite_41	best	O
+invite_41	of	O
+invite_41	the	O
+invite_41	hip	O
+invite_41	hop	O
+invite_41	band	O
+invite_41	from	O
+invite_41	USA	O

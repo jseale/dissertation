@@ -1,0 +1,8 @@
+house_9	Conservative	O
+house_9	Tim	O
+house_9	Shallenburger	O
+house_9	became	O
+house_9	Speaker	O
+house_9	of	O
+house_9	the	O
+house_9	House	house_nou

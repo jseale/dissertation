@@ -1,0 +1,14 @@
+initiate_75	However	O
+initiate_75	NCTE	O
+initiate_75	may	O
+initiate_75	also	O
+initiate_75	initiate	initiate_vrb
+initiate_75	the	O
+initiate_75	process	O
+initiate_75	of	O
+initiate_75	withdrawal	O
+initiate_75	of	O
+initiate_75	recognition	O
+initiate_75	to	O
+initiate_75	these	O
+initiate_75	colleges	O

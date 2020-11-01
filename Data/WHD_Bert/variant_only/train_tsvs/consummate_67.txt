@@ -1,0 +1,16 @@
+consummate_67	He	O
+consummate_67	has	O
+consummate_67	done	O
+consummate_67	so	O
+consummate_67	with	O
+consummate_67	consummate	consummate_adj
+consummate_67	skill	O
+consummate_67	and	O
+consummate_67	outstanding	O
+consummate_67	personal	O
+consummate_67	leadership	O
+consummate_67	and	O
+consummate_67	under	O
+consummate_67	direct	O
+consummate_67	enemy	O
+consummate_67	fire	O

@@ -1,0 +1,17 @@
+convict_6	The	O
+convict_6	town	O
+convict_6	has	O
+convict_6	a	O
+convict_6	monument	O
+convict_6	that	O
+convict_6	indicates	O
+convict_6	that	O
+convict_6	the	O
+convict_6	highway	O
+convict_6	was	O
+convict_6	built	O
+convict_6	by	O
+convict_6	convict	convict_nou
+convict_6	labor	O
+convict_6	in	O
+convict_6	1925	O

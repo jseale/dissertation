@@ -1,0 +1,13 @@
+blessed_59	Blessed	blessed_adj
+blessed_59	Joachim	O
+blessed_59	Piccolomini	O
+blessed_59	was	O
+blessed_59	beatified	O
+blessed_59	by	O
+blessed_59	Pope	O
+blessed_59	Paul	O
+blessed_59	V	O
+blessed_59	on	O
+blessed_59	21	O
+blessed_59	March	O
+blessed_59	1609	O

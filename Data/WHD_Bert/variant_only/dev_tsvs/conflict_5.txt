@@ -1,0 +1,15 @@
+conflict_5	In	O
+conflict_5	the	O
+conflict_5	meantime	O
+conflict_5	the	O
+conflict_5	conflict	conflict_nou
+conflict_5	had	O
+conflict_5	widened	O
+conflict_5	out	O
+conflict_5	into	O
+conflict_5	the	O
+conflict_5	War	O
+conflict_5	of	O
+conflict_5	the	O
+conflict_5	Austrian	O
+conflict_5	Succession	O

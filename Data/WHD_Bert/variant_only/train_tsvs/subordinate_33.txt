@@ -1,0 +1,16 @@
+subordinate_33	At	O
+subordinate_33	the	O
+subordinate_33	time	O
+subordinate_33	it	O
+subordinate_33	was	O
+subordinate_33	a	O
+subordinate_33	fortress	O
+subordinate_33	subordinate	subordinate_adj-nou
+subordinate_33	to	O
+subordinate_33	Pskov	O
+subordinate_33	and	O
+subordinate_33	protecting	O
+subordinate_33	it	O
+subordinate_33	from	O
+subordinate_33	the	O
+subordinate_33	south	O

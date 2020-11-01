@@ -1,0 +1,11 @@
+bologna_56	He	O
+bologna_56	died	O
+bologna_56	in	O
+bologna_56	Bologna	bologna_geo
+bologna_56	in	O
+bologna_56	1873	O
+bologna_56	at	O
+bologna_56	the	O
+bologna_56	age	O
+bologna_56	of	O
+bologna_56	83	O

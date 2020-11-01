@@ -1,0 +1,15 @@
+compound_2	Nowadays	O
+compound_2	it	O
+compound_2	's	O
+compound_2	largely	O
+compound_2	replaced	O
+compound_2	by	O
+compound_2	Compound	compound_nou
+compound_2	forms	O
+compound_2	tinha	O
+compound_2	amado	O
+compound_2	or	O
+compound_2	havia	O
+compound_2	amado	O
+compound_2	had	O
+compound_2	loved	O

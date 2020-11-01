@@ -1,0 +1,17 @@
+rerelease_70	The	O
+rerelease_70	rerelease	rerelease
+rerelease_70	was	O
+rerelease_70	exclusive	O
+rerelease_70	to	O
+rerelease_70	Enjoy	O
+rerelease_70	The	O
+rerelease_70	Ride	O
+rerelease_70	Records	O
+rerelease_70	with	O
+rerelease_70	copies	O
+rerelease_70	also	O
+rerelease_70	being	O
+rerelease_70	available	O
+rerelease_70	through	O
+rerelease_70	Hot	O
+rerelease_70	Topic	O

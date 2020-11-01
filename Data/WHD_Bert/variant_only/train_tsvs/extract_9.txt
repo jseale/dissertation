@@ -1,0 +1,14 @@
+extract_9	Exemplified	O
+extract_9	copies	O
+extract_9	are	O
+extract_9	also	O
+extract_9	usually	O
+extract_9	an	O
+extract_9	extract	extract_nou
+extract_9	or	O
+extract_9	transcript	O
+extract_9	made	O
+extract_9	directly	O
+extract_9	from	O
+extract_9	the	O
+extract_9	original	O

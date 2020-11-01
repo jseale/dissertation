@@ -1,0 +1,16 @@
+approximate_30	The	O
+approximate_30	bit	O
+approximate_30	error	O
+approximate_30	ratio	O
+approximate_30	can	O
+approximate_30	be	O
+approximate_30	considered	O
+approximate_30	as	O
+approximate_30	an	O
+approximate_30	approximate	approximate_adj-nou
+approximate_30	estimate	O
+approximate_30	of	O
+approximate_30	the	O
+approximate_30	bit	O
+approximate_30	error	O
+approximate_30	probability	O

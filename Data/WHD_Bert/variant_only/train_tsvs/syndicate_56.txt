@@ -1,0 +1,11 @@
+syndicate_56	He	O
+syndicate_56	worked	O
+syndicate_56	his	O
+syndicate_56	way	O
+syndicate_56	up	O
+syndicate_56	to	O
+syndicate_56	editor	O
+syndicate_56	of	O
+syndicate_56	United	O
+syndicate_56	Features	O
+syndicate_56	Syndicate	syndicate_nou

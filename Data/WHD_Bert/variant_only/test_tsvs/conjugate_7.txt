@@ -1,0 +1,17 @@
+conjugate_7	The	O
+conjugate_7	sacral	O
+conjugate_7	angle	O
+conjugate_7	is	O
+conjugate_7	the	O
+conjugate_7	angle	O
+conjugate_7	formed	O
+conjugate_7	by	O
+conjugate_7	the	O
+conjugate_7	true	O
+conjugate_7	conjugate	conjugate_adj-nou
+conjugate_7	with	O
+conjugate_7	the	O
+conjugate_7	two	O
+conjugate_7	pieces	O
+conjugate_7	of	O
+conjugate_7	sacrum	O

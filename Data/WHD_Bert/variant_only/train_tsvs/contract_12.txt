@@ -1,0 +1,15 @@
+contract_12	The	O
+contract_12	deal	O
+contract_12	was	O
+contract_12	concluded	O
+contract_12	the	O
+contract_12	following	O
+contract_12	day	O
+contract_12	with	O
+contract_12	the	O
+contract_12	player	O
+contract_12	signing	O
+contract_12	a	O
+contract_12	two	O
+contract_12	year	O
+contract_12	contract	contract_nou

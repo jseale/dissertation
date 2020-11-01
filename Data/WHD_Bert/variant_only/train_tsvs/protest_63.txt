@@ -1,0 +1,13 @@
+protest_63	During	O
+protest_63	the	O
+protest_63	1960s	O
+protest_63	the	O
+protest_63	UNC	O
+protest_63	campus	O
+protest_63	was	O
+protest_63	the	O
+protest_63	location	O
+protest_63	of	O
+protest_63	significant	O
+protest_63	political	O
+protest_63	protest	protest_nou

@@ -1,0 +1,8 @@
+learned_8	People	O
+learned_8	not	O
+learned_8	only	O
+learned_8	Episcopalians	O
+learned_8	learned	learned_vrb
+learned_8	to	O
+learned_8	respect	O
+learned_8	Kerfoot	O

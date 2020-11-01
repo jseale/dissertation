@@ -1,0 +1,17 @@
+contrast_66	In	O
+contrast_66	urban	O
+contrast_66	and	O
+contrast_66	suburban	O
+contrast_66	areas	O
+contrast_66	in	O
+contrast_66	contrast	contrast_nou
+contrast_66	clouds	O
+contrast_66	enhance	O
+contrast_66	the	O
+contrast_66	effect	O
+contrast_66	of	O
+contrast_66	skyglow	O
+contrast_66	particularly	O
+contrast_66	for	O
+contrast_66	longer	O
+contrast_66	wavelengths	O

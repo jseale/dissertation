@@ -1,0 +1,16 @@
+wind_31	The	O
+wind_31	yacht	O
+wind_31	's	O
+wind_31	sophisticated	O
+wind_31	computer	O
+wind_31	detects	O
+wind_31	parameters	O
+wind_31	such	O
+wind_31	as	O
+wind_31	wind	wind_nou
+wind_31	speed	O
+wind_31	automatically	O
+wind_31	and	O
+wind_31	displays	O
+wind_31	key	O
+wind_31	data	O

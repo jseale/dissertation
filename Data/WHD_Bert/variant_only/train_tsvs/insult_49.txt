@@ -1,0 +1,12 @@
+insult_49	With	O
+insult_49	unbearable	O
+insult_49	insult	insult_nou
+insult_49	pain	O
+insult_49	grief	O
+insult_49	and	O
+insult_49	anger	O
+insult_49	she	O
+insult_49	destroyed	O
+insult_49	everything	O
+insult_49	she	O
+insult_49	saw	O

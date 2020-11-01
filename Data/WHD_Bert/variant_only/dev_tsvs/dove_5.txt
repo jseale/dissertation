@@ -1,0 +1,13 @@
+dove_5	The	O
+dove_5	blue	O
+dove_5	cotinga	O
+dove_5	is	O
+dove_5	a	O
+dove_5	plump	O
+dove_5	dove	dove
+dove_5	like	O
+dove_5	bird	O
+dove_5	with	O
+dove_5	a	O
+dove_5	small	O
+dove_5	head	O

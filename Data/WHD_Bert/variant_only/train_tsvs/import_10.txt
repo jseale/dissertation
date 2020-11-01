@@ -1,0 +1,7 @@
+import_10	The	O
+import_10	receptionist	O
+import_10	is	O
+import_10	the	O
+import_10	Russian	O
+import_10	import	import_nou
+import_10	Marika	O

@@ -1,0 +1,11 @@
+rerelease_1	Taiji	O
+rerelease_1	will	O
+rerelease_1	rerelease	rerelease_vrb
+rerelease_1	all	O
+rerelease_1	7	O
+rerelease_1	of	O
+rerelease_1	his	O
+rerelease_1	albums	O
+rerelease_1	from	O
+rerelease_1	Nan	O
+rerelease_1	Arayo	O

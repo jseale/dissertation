@@ -1,0 +1,16 @@
+present_68	At	O
+present_68	present	present_adj-nou
+present_68	prototype	O
+present_68	F-35	O
+present_68	's	O
+present_68	have	O
+present_68	the	O
+present_68	equivalent	O
+present_68	of	O
+present_68	a	O
+present_68	Lockheed	O
+present_68	Martin	O
+present_68	Sniper	O
+present_68	XR	O
+present_68	built	O
+present_68	in	O

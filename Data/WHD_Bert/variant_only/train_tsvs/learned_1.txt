@@ -1,0 +1,14 @@
+learned_1	In	O
+learned_1	September	O
+learned_1	he	O
+learned_1	learned	learned_vrb
+learned_1	he	O
+learned_1	had	O
+learned_1	passed	O
+learned_1	the	O
+learned_1	entrance	O
+learned_1	exam	O
+learned_1	for	O
+learned_1	Clare	O
+learned_1	College	O
+learned_1	Cambridge	O

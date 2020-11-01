@@ -1,0 +1,17 @@
+bow_10	The	O
+bow_10	reverse	O
+bow_10	shows	O
+bow_10	a	O
+bow_10	view	O
+bow_10	of	O
+bow_10	the	O
+bow_10	starboard	O
+bow_10	quarter	O
+bow_10	of	O
+bow_10	the	O
+bow_10	Lusitania	O
+bow_10	correctly	O
+bow_10	depicted	O
+bow_10	sinking	O
+bow_10	bow	bow_nou-ship
+bow_10	first	O

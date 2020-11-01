@@ -1,0 +1,13 @@
+read_12	Ferenc	O
+read_12	unlike	O
+read_12	his	O
+read_12	wife	O
+read_12	could	O
+read_12	barely	O
+read_12	read	read_present
+read_12	and	O
+read_12	write	O
+read_12	in	O
+read_12	his	O
+read_12	mother	O
+read_12	tongue	O

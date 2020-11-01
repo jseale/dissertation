@@ -1,0 +1,17 @@
+combine_3	At	O
+combine_3	elevated	O
+combine_3	temperatures	O
+combine_3	the	O
+combine_3	vapors	O
+combine_3	of	O
+combine_3	the	O
+combine_3	metal	O
+combine_3	combine	combine_vrb
+combine_3	rapidly	O
+combine_3	with	O
+combine_3	oxygen	O
+combine_3	forming	O
+combine_3	the	O
+combine_3	yellow	O
+combine_3	trioxide	O
+combine_3	Bi2O3	O

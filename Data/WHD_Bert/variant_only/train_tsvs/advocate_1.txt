@@ -1,0 +1,17 @@
+advocate_1	After	O
+advocate_1	leaving	O
+advocate_1	HADITU	O
+advocate_1	ash	O
+advocate_1	Shafi	O
+advocate_1	became	O
+advocate_1	an	O
+advocate_1	active	O
+advocate_1	advocate	advocate_nou
+advocate_1	for	O
+advocate_1	greater	O
+advocate_1	unity	O
+advocate_1	in	O
+advocate_1	the	O
+advocate_1	Egyptian	O
+advocate_1	communist	O
+advocate_1	movement	O

@@ -1,0 +1,15 @@
+graduate_42	In	O
+graduate_42	1949	O
+graduate_42	he	O
+graduate_42	obtained	O
+graduate_42	a	O
+graduate_42	Master	O
+graduate_42	of	O
+graduate_42	Arts	O
+graduate_42	from	O
+graduate_42	Claremont	O
+graduate_42	Graduate	graduate_adj-nou
+graduate_42	University	O
+graduate_42	also	O
+graduate_42	in	O
+graduate_42	California	O

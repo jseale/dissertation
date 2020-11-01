@@ -1,0 +1,17 @@
+transform_23	Vorbis	O
+transform_23	I	O
+transform_23	is	O
+transform_23	a	O
+transform_23	forward	O
+transform_23	adaptive	O
+transform_23	monolithic	O
+transform_23	transform	transform_nou
+transform_23	codec	O
+transform_23	based	O
+transform_23	on	O
+transform_23	the	O
+transform_23	modified	O
+transform_23	discrete	O
+transform_23	cosine	O
+transform_23	transform	transform_nou
+transform_23	MDCT	O

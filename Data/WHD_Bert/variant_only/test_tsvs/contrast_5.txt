@@ -1,0 +1,12 @@
+contrast_5	Conventional	O
+contrast_5	phase	O
+contrast_5	contrast	contrast_nou
+contrast_5	microscopy	O
+contrast_5	is	O
+contrast_5	primarily	O
+contrast_5	used	O
+contrast_5	to	O
+contrast_5	observed	O
+contrast_5	unstained	O
+contrast_5	living	O
+contrast_5	cells	O

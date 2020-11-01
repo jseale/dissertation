@@ -1,0 +1,11 @@
+predicate_31	These	O
+predicate_31	healthiness	O
+predicate_31	conditions	O
+predicate_31	are	O
+predicate_31	typically	O
+predicate_31	expressed	O
+predicate_31	as	O
+predicate_31	monotonic	O
+predicate_31	idempotent	O
+predicate_31	predicate	predicate_nou
+predicate_31	transformers	O

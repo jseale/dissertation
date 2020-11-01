@@ -1,0 +1,14 @@
+analyses_69	The	O
+analyses_69	Laurasiatheria	O
+analyses_69	clade	O
+analyses_69	is	O
+analyses_69	based	O
+analyses_69	on	O
+analyses_69	DNA	O
+analyses_69	sequence	O
+analyses_69	analyses	analyses_nou
+analyses_69	and	O
+analyses_69	retrotransposon	O
+analyses_69	presence	O
+analyses_69	absence	O
+analyses_69	data	O

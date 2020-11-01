@@ -1,0 +1,9 @@
+construct_29	In	O
+construct_29	all	O
+construct_29	over	O
+construct_29	1,500	O
+construct_29	workers	O
+construct_29	helped	O
+construct_29	construct	construct_vrb
+construct_29	the	O
+construct_29	building	O

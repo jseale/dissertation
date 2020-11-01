@@ -1,0 +1,16 @@
+initiate_5	The	O
+initiate_5	emerging	O
+initiate_5	combined	O
+initiate_5	group	O
+initiate_5	may	O
+initiate_5	then	O
+initiate_5	initiate	initiate_vrb
+initiate_5	a	O
+initiate_5	recurrent	O
+initiate_5	expansionist	O
+initiate_5	process	O
+initiate_5	of	O
+initiate_5	ethnic	O
+initiate_5	and	O
+initiate_5	language	O
+initiate_5	shift	O

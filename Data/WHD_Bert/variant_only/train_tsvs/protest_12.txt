@@ -1,0 +1,12 @@
+protest_12	The	O
+protest_12	protest	protest_nou
+protest_12	of	O
+protest_12	the	O
+protest_12	league	O
+protest_12	involved	O
+protest_12	picketing	O
+protest_12	and	O
+protest_12	beatings	O
+protest_12	of	O
+protest_12	the	O
+protest_12	Issei	O

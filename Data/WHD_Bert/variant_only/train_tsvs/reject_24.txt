@@ -1,0 +1,16 @@
+reject_24	The	O
+reject_24	Armenian	O
+reject_24	Church	O
+reject_24	would	O
+reject_24	reject	reject_vrb
+reject_24	the	O
+reject_24	decisions	O
+reject_24	of	O
+reject_24	the	O
+reject_24	Council	O
+reject_24	of	O
+reject_24	Chalcedon	O
+reject_24	instead	O
+reject_24	adhering	O
+reject_24	to	O
+reject_24	Miaphysitism	O

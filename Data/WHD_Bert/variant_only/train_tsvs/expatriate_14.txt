@@ -1,0 +1,13 @@
+expatriate_14	During	O
+expatriate_14	the	O
+expatriate_14	Perestroika	O
+expatriate_14	era	O
+expatriate_14	KVN	O
+expatriate_14	spread	O
+expatriate_14	to	O
+expatriate_14	Russian	O
+expatriate_14	expatriate	expatriate_nou
+expatriate_14	communities	O
+expatriate_14	around	O
+expatriate_14	the	O
+expatriate_14	world	O

@@ -1,0 +1,14 @@
+syndicate_69	His	O
+syndicate_69	most	O
+syndicate_69	recent	O
+syndicate_69	published	O
+syndicate_69	project	O
+syndicate_69	is	O
+syndicate_69	Assassin	O
+syndicate_69	's	O
+syndicate_69	Creed	O
+syndicate_69	Syndicate	syndicate_nou
+syndicate_69	released	O
+syndicate_69	in	O
+syndicate_69	October	O
+syndicate_69	2015	O

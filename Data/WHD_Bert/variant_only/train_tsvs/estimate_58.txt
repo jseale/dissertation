@@ -1,0 +1,12 @@
+estimate_58	It	O
+estimate_58	represents	O
+estimate_58	an	O
+estimate_58	estimate	estimate_nou
+estimate_58	of	O
+estimate_58	the	O
+estimate_58	genetic	O
+estimate_58	significance	O
+estimate_58	of	O
+estimate_58	gonad	O
+estimate_58	radiation	O
+estimate_58	doses	O

@@ -1,0 +1,7 @@
+conscript_74	Its	O
+conscript_74	commanders	O
+conscript_74	conscript	conscript_vrb
+conscript_74	slaves	O
+conscript_74	into	O
+conscript_74	its	O
+conscript_74	armies	O

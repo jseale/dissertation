@@ -1,0 +1,15 @@
+initiate_34	The	O
+initiate_34	purpose	O
+initiate_34	of	O
+initiate_34	the	O
+initiate_34	Board	O
+initiate_34	is	O
+initiate_34	to	O
+initiate_34	initiate	initiate_vrb
+initiate_34	and	O
+initiate_34	coordinate	O
+initiate_34	the	O
+initiate_34	activities	O
+initiate_34	of	O
+initiate_34	the	O
+initiate_34	Society	O

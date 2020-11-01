@@ -1,0 +1,17 @@
+nestle_6	Nestle	nestle_nam
+nestle_6	Purina	O
+nestle_6	also	O
+nestle_6	produced	O
+nestle_6	television	O
+nestle_6	advertisements	O
+nestle_6	intended	O
+nestle_6	for	O
+nestle_6	Austria	O
+nestle_6	that	O
+nestle_6	had	O
+nestle_6	audio	O
+nestle_6	effects	O
+nestle_6	only	O
+nestle_6	pets	O
+nestle_6	could	O
+nestle_6	hear	O

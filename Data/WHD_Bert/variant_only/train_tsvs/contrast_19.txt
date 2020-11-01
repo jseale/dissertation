@@ -1,0 +1,17 @@
+contrast_19	The	O
+contrast_19	S.V.	O
+contrast_19	cars	O
+contrast_19	continued	O
+contrast_19	now	O
+contrast_19	known	O
+contrast_19	as	O
+contrast_19	Morris	O
+contrast_19	Minors	O
+contrast_19	in	O
+contrast_19	contrast	contrast_nou
+contrast_19	to	O
+contrast_19	the	O
+contrast_19	Morris	O
+contrast_19	Family	O
+contrast_19	Eight	O
+contrast_19	cars	O

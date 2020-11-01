@@ -1,0 +1,16 @@
+sake_65	This	O
+sake_65	is	O
+sake_65	used	O
+sake_65	when	O
+sake_65	he	O
+sake_65	ultimately	O
+sake_65	has	O
+sake_65	to	O
+sake_65	defeat	O
+sake_65	his	O
+sake_65	master	O
+sake_65	for	O
+sake_65	the	O
+sake_65	sake	sake
+sake_65	of	O
+sake_65	love	O

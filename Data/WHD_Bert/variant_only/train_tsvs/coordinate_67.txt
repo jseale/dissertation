@@ -1,0 +1,11 @@
+coordinate_67	However	O
+coordinate_67	the	O
+coordinate_67	school	O
+coordinate_67	continues	O
+coordinate_67	to	O
+coordinate_67	coordinate	coordinate_vrb
+coordinate_67	with	O
+coordinate_67	Cornwall	O
+coordinate_67	Council	O
+coordinate_67	for	O
+coordinate_67	admissions	O

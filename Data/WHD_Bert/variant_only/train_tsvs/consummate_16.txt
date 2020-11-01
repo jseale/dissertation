@@ -1,0 +1,10 @@
+consummate_16	During	O
+consummate_16	their	O
+consummate_16	visit	O
+consummate_16	Molly	O
+consummate_16	and	O
+consummate_16	Johnny	O
+consummate_16	secretly	O
+consummate_16	consummate	consummate_vrb
+consummate_16	their	O
+consummate_16	love	O

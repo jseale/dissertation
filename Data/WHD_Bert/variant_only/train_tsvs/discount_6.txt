@@ -1,0 +1,11 @@
+discount_6	He	O
+discount_6	worked	O
+discount_6	in	O
+discount_6	the	O
+discount_6	discount	discount_nou
+discount_6	market	O
+discount_6	in	O
+discount_6	the	O
+discount_6	City	O
+discount_6	of	O
+discount_6	London	O

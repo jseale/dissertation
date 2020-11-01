@@ -1,0 +1,17 @@
+increment_41	Based	O
+increment_41	on	O
+increment_41	his	O
+increment_41	statistical	O
+increment_41	analysis	O
+increment_41	he	O
+increment_41	concluded	O
+increment_41	that	O
+increment_41	the	O
+increment_41	rate	O
+increment_41	constant	O
+increment_41	is	O
+increment_41	proportional	O
+increment_41	to	O
+increment_41	the	O
+increment_41	critical	O
+increment_41	increment	increment_nou

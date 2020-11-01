@@ -1,0 +1,15 @@
+delegate_32	Delegate	delegate_nou
+delegate_32	Mason	O
+delegate_32	Mathews	O
+delegate_32	from	O
+delegate_32	Greenbrier	O
+delegate_32	County	O
+delegate_32	instead	O
+delegate_32	attended	O
+delegate_32	the	O
+delegate_32	Virginia	O
+delegate_32	General	O
+delegate_32	Assembly	O
+delegate_32	in	O
+delegate_32	Confederate	O
+delegate_32	Richmond	O

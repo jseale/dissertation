@@ -1,0 +1,16 @@
+sake_5	Both	O
+sake_5	Case	O
+sake_5	and	O
+sake_5	Hanabusa	O
+sake_5	proposed	O
+sake_5	that	O
+sake_5	the	O
+sake_5	other	O
+sake_5	drop	O
+sake_5	out	O
+sake_5	for	O
+sake_5	the	O
+sake_5	sake	sake
+sake_5	of	O
+sake_5	party	O
+sake_5	unity	O

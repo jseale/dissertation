@@ -1,0 +1,17 @@
+uses_49	Vesicants	O
+uses_49	have	O
+uses_49	medical	O
+uses_49	uses	uses_nou
+uses_49	including	O
+uses_49	wart	O
+uses_49	removal	O
+uses_49	but	O
+uses_49	can	O
+uses_49	be	O
+uses_49	fatal	O
+uses_49	if	O
+uses_49	even	O
+uses_49	small	O
+uses_49	amounts	O
+uses_49	are	O
+uses_49	ingested	O

@@ -1,0 +1,15 @@
+consummate_65	Piper	O
+consummate_65	and	O
+consummate_65	Tyler	O
+consummate_65	reconcile	O
+consummate_65	at	O
+consummate_65	Brad	O
+consummate_65	and	O
+consummate_65	Lauren	O
+consummate_65	's	O
+consummate_65	wedding	O
+consummate_65	and	O
+consummate_65	finally	O
+consummate_65	consummate	consummate_vrb
+consummate_65	their	O
+consummate_65	relationship	O

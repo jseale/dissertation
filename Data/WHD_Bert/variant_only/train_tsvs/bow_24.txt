@@ -1,0 +1,12 @@
+bow_24	She	O
+bow_24	was	O
+bow_24	armed	O
+bow_24	with	O
+bow_24	ten	O
+bow_24	12-pounder	O
+bow_24	carronades	O
+bow_24	and	O
+bow_24	two	O
+bow_24	6-pounder	O
+bow_24	bow	bow_nou-ship
+bow_24	guns	O

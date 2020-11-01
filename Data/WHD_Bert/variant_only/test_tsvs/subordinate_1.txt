@@ -1,0 +1,12 @@
+subordinate_1	The	O
+subordinate_1	subordinate	subordinate_adj-nou
+subordinate_1	suffix	O
+subordinate_1	can	O
+subordinate_1	be	O
+subordinate_1	followed	O
+subordinate_1	by	O
+subordinate_1	either	O
+subordinate_1	nominative	O
+subordinate_1	or	O
+subordinate_1	accusative	O
+subordinate_1	cases	O

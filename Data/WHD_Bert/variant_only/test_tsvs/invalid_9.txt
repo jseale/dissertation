@@ -1,0 +1,13 @@
+invalid_9	Central	O
+invalid_9	Tibetan	O
+invalid_9	Administration	O
+invalid_9	considers	O
+invalid_9	it	O
+invalid_9	invalid	invalid_adj
+invalid_9	and	O
+invalid_9	as	O
+invalid_9	having	O
+invalid_9	been	O
+invalid_9	signed	O
+invalid_9	under	O
+invalid_9	duress	O

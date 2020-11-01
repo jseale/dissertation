@@ -1,0 +1,11 @@
+axes_23	Most	O
+axes_23	civilian	O
+axes_23	victims	O
+axes_23	in	O
+axes_23	Dominopol	O
+axes_23	were	O
+axes_23	killed	O
+axes_23	by	O
+axes_23	axes	axes_nou-vrb
+axes_23	and	O
+axes_23	knives	O

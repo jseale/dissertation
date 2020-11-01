@@ -1,0 +1,14 @@
+rerelease_16	There	O
+rerelease_16	She	O
+rerelease_16	Goes	O
+rerelease_16	did	O
+rerelease_16	not	O
+rerelease_16	appear	O
+rerelease_16	on	O
+rerelease_16	the	O
+rerelease_16	album	O
+rerelease_16	until	O
+rerelease_16	a	O
+rerelease_16	rerelease	rerelease
+rerelease_16	in	O
+rerelease_16	1999	O

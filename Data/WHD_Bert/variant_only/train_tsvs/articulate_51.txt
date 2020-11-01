@@ -1,0 +1,15 @@
+articulate_51	Deep	O
+articulate_51	inside	O
+articulate_51	ferments	O
+articulate_51	a	O
+articulate_51	disconnect	O
+articulate_51	and	O
+articulate_51	unease	O
+articulate_51	that	O
+articulate_51	she	O
+articulate_51	is	O
+articulate_51	unable	O
+articulate_51	to	O
+articulate_51	articulate	articulate_vrb
+articulate_51	to	O
+articulate_51	anyone	O

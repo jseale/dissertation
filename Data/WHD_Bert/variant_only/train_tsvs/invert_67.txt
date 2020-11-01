@@ -1,0 +1,15 @@
+invert_67	The	O
+invert_67	proof	O
+invert_67	roughly	O
+invert_67	goes	O
+invert_67	as	O
+invert_67	below	O
+invert_67	Invert	invert_vrb
+invert_67	with	O
+invert_67	respect	O
+invert_67	to	O
+invert_67	the	O
+invert_67	incircle	O
+invert_67	of	O
+invert_67	triangle	O
+invert_67	ABC	O

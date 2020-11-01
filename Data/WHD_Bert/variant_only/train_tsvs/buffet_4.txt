@@ -1,0 +1,14 @@
+buffet_4	The	O
+buffet_4	current	O
+buffet_4	station	O
+buffet_4	building	O
+buffet_4	together	O
+buffet_4	with	O
+buffet_4	its	O
+buffet_4	buffet	buffet_nou
+buffet_4	and	O
+buffet_4	hotel	O
+buffet_4	was	O
+buffet_4	opened	O
+buffet_4	in	O
+buffet_4	1926	O

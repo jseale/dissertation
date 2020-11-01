@@ -1,0 +1,16 @@
+transplant_8	Accordingly	O
+transplant_8	plans	O
+transplant_8	for	O
+transplant_8	transfer	O
+transplant_8	to	O
+transplant_8	a	O
+transplant_8	transplant	transplant_nou
+transplant_8	center	O
+transplant_8	should	O
+transplant_8	begin	O
+transplant_8	in	O
+transplant_8	patients	O
+transplant_8	with	O
+transplant_8	any	O
+transplant_8	abnormal	O
+transplant_8	mentation	O

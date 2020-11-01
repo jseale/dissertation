@@ -1,0 +1,13 @@
+transform_1	That	O
+transform_1	is	O
+transform_1	the	O
+transform_1	inverse	O
+transform_1	wavelet	O
+transform_1	transform	transform_nou
+transform_1	is	O
+transform_1	the	O
+transform_1	adjoint	O
+transform_1	of	O
+transform_1	the	O
+transform_1	wavelet	O
+transform_1	transform	transform_nou

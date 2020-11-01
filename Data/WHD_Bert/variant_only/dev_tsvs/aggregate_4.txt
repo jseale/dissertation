@@ -1,0 +1,15 @@
+aggregate_4	The	O
+aggregate_4	final	O
+aggregate_4	is	O
+aggregate_4	decided	O
+aggregate_4	over	O
+aggregate_4	two	O
+aggregate_4	legs	O
+aggregate_4	with	O
+aggregate_4	aggregate	aggregate_adj-nou
+aggregate_4	goals	O
+aggregate_4	used	O
+aggregate_4	to	O
+aggregate_4	determine	O
+aggregate_4	the	O
+aggregate_4	winner	O

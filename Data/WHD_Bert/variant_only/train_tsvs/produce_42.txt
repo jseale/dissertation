@@ -1,0 +1,17 @@
+produce_42	Hanhart	O
+produce_42	used	O
+produce_42	a	O
+produce_42	complex	O
+produce_42	layering	O
+produce_42	of	O
+produce_42	tint	O
+produce_42	stones	O
+produce_42	to	O
+produce_42	produce	produce_vrb
+produce_42	work	O
+produce_42	unique	O
+produce_42	in	O
+produce_42	colouration	O
+produce_42	and	O
+produce_42	tonal	O
+produce_42	values	O

@@ -1,0 +1,16 @@
+initiate_0	To	O
+initiate_0	initiate	initiate_vrb
+initiate_0	the	O
+initiate_0	program	O
+initiate_0	the	O
+initiate_0	Maryland	O
+initiate_0	state	O
+initiate_0	senate	O
+initiate_0	purchased	O
+initiate_0	ten	O
+initiate_0	Mud	O
+initiate_0	Machines	O
+initiate_0	from	O
+initiate_0	the	O
+initiate_0	Ellicott	O
+initiate_0	brothers	O

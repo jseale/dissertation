@@ -1,0 +1,10 @@
+combine_21	Their	O
+combine_21	faces	O
+combine_21	combine	combine_vrb
+combine_21	the	O
+combine_21	features	O
+combine_21	of	O
+combine_21	both	O
+combine_21	parrots	O
+combine_21	and	O
+combine_21	eagles	O

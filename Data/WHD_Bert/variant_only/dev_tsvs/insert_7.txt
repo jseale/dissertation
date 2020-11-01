@@ -1,0 +1,14 @@
+insert_7	Backdrops	O
+insert_7	allowed	O
+insert_7	users	O
+insert_7	to	O
+insert_7	insert	insert_vrb
+insert_7	movies	O
+insert_7	or	O
+insert_7	photos	O
+insert_7	as	O
+insert_7	a	O
+insert_7	backdrop	O
+insert_7	in	O
+insert_7	video	O
+insert_7	chats	O

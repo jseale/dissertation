@@ -1,0 +1,10 @@
+attribute_1	Others	O
+attribute_1	scholars	O
+attribute_1	attribute	attribute_vrb
+attribute_1	the	O
+attribute_1	founding	O
+attribute_1	of	O
+attribute_1	Brescia	O
+attribute_1	to	O
+attribute_1	the	O
+attribute_1	Etruscans	O

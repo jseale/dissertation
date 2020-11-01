@@ -1,0 +1,10 @@
+incline_9	The	O
+incline_9	incline	incline_nou
+incline_9	system	O
+incline_9	was	O
+incline_9	used	O
+incline_9	in	O
+incline_9	revenue	O
+incline_9	service	O
+incline_9	till	O
+incline_9	1982	O

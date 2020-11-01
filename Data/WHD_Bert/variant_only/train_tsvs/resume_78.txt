@@ -1,0 +1,16 @@
+resume_78	As	O
+resume_78	of	O
+resume_78	November	O
+resume_78	9	O
+resume_78	2013	O
+resume_78	WGRV	O
+resume_78	LP	O
+resume_78	remains	O
+resume_78	silent	O
+resume_78	with	O
+resume_78	no	O
+resume_78	immediate	O
+resume_78	plans	O
+resume_78	to	O
+resume_78	resume	resume_vrb
+resume_78	broadcasting	O

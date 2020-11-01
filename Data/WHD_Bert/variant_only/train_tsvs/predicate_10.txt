@@ -1,0 +1,17 @@
+predicate_10	For	O
+predicate_10	pieces	O
+predicate_10	of	O
+predicate_10	code	O
+predicate_10	that	O
+predicate_10	apply	O
+predicate_10	more	O
+predicate_10	than	O
+predicate_10	one	O
+predicate_10	design	O
+predicate_10	predicate	predicate_nou
+predicate_10	integration	O
+predicate_10	complexity	O
+predicate_10	ratings	O
+predicate_10	can	O
+predicate_10	be	O
+predicate_10	combined	O

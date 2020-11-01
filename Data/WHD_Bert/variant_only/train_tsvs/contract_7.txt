@@ -1,0 +1,13 @@
+contract_7	He	O
+contract_7	left	O
+contract_7	the	O
+contract_7	Senators	O
+contract_7	organization	O
+contract_7	at	O
+contract_7	the	O
+contract_7	end	O
+contract_7	of	O
+contract_7	the	O
+contract_7	contract	contract_nou
+contract_7	in	O
+contract_7	2012	O

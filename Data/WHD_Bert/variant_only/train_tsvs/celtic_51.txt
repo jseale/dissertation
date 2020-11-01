@@ -1,0 +1,17 @@
+celtic_51	Heusaff	O
+celtic_51	was	O
+celtic_51	amongst	O
+celtic_51	the	O
+celtic_51	founders	O
+celtic_51	of	O
+celtic_51	the	O
+celtic_51	Celtic	celtic
+celtic_51	League	O
+celtic_51	and	O
+celtic_51	Breton	O
+celtic_51	News	O
+celtic_51	became	O
+celtic_51	merged	O
+celtic_51	into	O
+celtic_51	Carn	O
+celtic_51	magazine	O

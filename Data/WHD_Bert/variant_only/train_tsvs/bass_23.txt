@@ -1,0 +1,11 @@
+bass_23	Yet	O
+bass_23	BHarv	O
+bass_23	is	O
+bass_23	best	O
+bass_23	known	O
+bass_23	for	O
+bass_23	his	O
+bass_23	mastery	O
+bass_23	of	O
+bass_23	the	O
+bass_23	bass	bass

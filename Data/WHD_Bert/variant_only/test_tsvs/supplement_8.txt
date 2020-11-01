@@ -1,0 +1,13 @@
+supplement_8	Spirulina	O
+supplement_8	is	O
+supplement_8	also	O
+supplement_8	a	O
+supplement_8	rich	O
+supplement_8	source	O
+supplement_8	and	O
+supplement_8	can	O
+supplement_8	serve	O
+supplement_8	as	O
+supplement_8	a	O
+supplement_8	dietary	O
+supplement_8	supplement	supplement_nou

@@ -1,0 +1,16 @@
+rerelease_23	The	O
+rerelease_23	album	O
+rerelease_23	's	O
+rerelease_23	relative	O
+rerelease_23	success	O
+rerelease_23	drew	O
+rerelease_23	attention	O
+rerelease_23	from	O
+rerelease_23	larger	O
+rerelease_23	indie	O
+rerelease_23	labels	O
+rerelease_23	looking	O
+rerelease_23	to	O
+rerelease_23	rerelease	rerelease_vrb
+rerelease_23	the	O
+rerelease_23	album	O

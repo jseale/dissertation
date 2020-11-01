@@ -1,0 +1,14 @@
+implement_68	CDCL	O
+implement_68	SAT	O
+implement_68	solvers	O
+implement_68	implement	implement_vrb
+implement_68	DPLL	O
+implement_68	but	O
+implement_68	can	O
+implement_68	learn	O
+implement_68	new	O
+implement_68	clauses	O
+implement_68	and	O
+implement_68	backtrack	O
+implement_68	non	O
+implement_68	chronologically	O

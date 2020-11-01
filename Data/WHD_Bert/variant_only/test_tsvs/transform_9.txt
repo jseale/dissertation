@@ -1,0 +1,17 @@
+transform_9	He	O
+transform_9	was	O
+transform_9	the	O
+transform_9	first	O
+transform_9	to	O
+transform_9	understand	O
+transform_9	that	O
+transform_9	simple	O
+transform_9	machines	O
+transform_9	do	O
+transform_9	not	O
+transform_9	create	O
+transform_9	energy	O
+transform_9	they	O
+transform_9	merely	O
+transform_9	transform	transform
+transform_9	it	O

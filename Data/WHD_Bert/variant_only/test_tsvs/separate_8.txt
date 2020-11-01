@@ -1,0 +1,10 @@
+separate_8	It	O
+separate_8	also	O
+separate_8	issued	O
+separate_8	separate	separate_adj
+separate_8	guidelines	O
+separate_8	for	O
+separate_8	foreign	O
+separate_8	funded	O
+separate_8	payment	O
+separate_8	institutions	O

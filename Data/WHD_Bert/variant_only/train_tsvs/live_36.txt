@@ -1,0 +1,17 @@
+live_36	She	O
+live_36	was	O
+live_36	replaced	O
+live_36	by	O
+live_36	Nancy	O
+live_36	Skinner	O
+live_36	who	O
+live_36	was	O
+live_36	broadcast	O
+live_36	live	live_adj
+live_36	until	O
+live_36	the	O
+live_36	closure	O
+live_36	of	O
+live_36	On	O
+live_36	Second	O
+live_36	Thought	O

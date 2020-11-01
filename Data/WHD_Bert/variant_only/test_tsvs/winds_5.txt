@@ -1,0 +1,12 @@
+winds_5	High	O
+winds_5	winds	winds_nou
+winds_5	left	O
+winds_5	heavy	O
+winds_5	crop	O
+winds_5	damage	O
+winds_5	mostly	O
+winds_5	to	O
+winds_5	banana	O
+winds_5	trees	O
+winds_5	and	O
+winds_5	vegetables	O

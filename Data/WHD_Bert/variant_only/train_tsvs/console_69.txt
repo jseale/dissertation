@@ -1,0 +1,16 @@
+console_69	The	O
+console_69	vertical	O
+console_69	stand	O
+console_69	is	O
+console_69	attached	O
+console_69	to	O
+console_69	the	O
+console_69	PlayStation	O
+console_69	2	O
+console_69	console	console_nou
+console_69	to	O
+console_69	allow	O
+console_69	it	O
+console_69	to	O
+console_69	stand	O
+console_69	vertically	O

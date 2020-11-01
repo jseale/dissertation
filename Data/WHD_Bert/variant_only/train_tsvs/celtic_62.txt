@@ -1,0 +1,8 @@
+celtic_62	Celtic	celtic
+celtic_62	Tiger	O
+celtic_62	is	O
+celtic_62	my	O
+celtic_62	finest	O
+celtic_62	work	O
+celtic_62	to	O
+celtic_62	date	O

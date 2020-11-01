@@ -1,0 +1,14 @@
+lead_32	The	O
+lead_32	film	O
+lead_32	stars	O
+lead_32	Kalyan	O
+lead_32	Kumar	O
+lead_32	Jayanthi	O
+lead_32	K.	O
+lead_32	S.	O
+lead_32	Ashwath	O
+lead_32	and	O
+lead_32	Narasimharaju	O
+lead_32	in	O
+lead_32	lead	lead_nou-vrb
+lead_32	roles	O

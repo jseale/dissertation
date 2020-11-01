@@ -1,0 +1,17 @@
+suspect_57	It	O
+suspect_57	was	O
+suspect_57	produced	O
+suspect_57	by	O
+suspect_57	music	O
+suspect_57	engineer	O
+suspect_57	Johnny	O
+suspect_57	Lima	O
+suspect_57	and	O
+suspect_57	was	O
+suspect_57	recorded	O
+suspect_57	at	O
+suspect_57	Suspect	suspect_adj-nou
+suspect_57	Studios	O
+suspect_57	San	O
+suspect_57	Jose	O
+suspect_57	California	O

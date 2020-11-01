@@ -1,0 +1,11 @@
+wind_35	As	O
+wind_35	of	O
+wind_35	2008	O
+wind_35	Sweden	O
+wind_35	produced	O
+wind_35	1.6	O
+wind_35	of	O
+wind_35	electricity	O
+wind_35	with	O
+wind_35	wind	wind_nou
+wind_35	power	O

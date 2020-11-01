@@ -1,0 +1,14 @@
+defect_0	There	O
+defect_0	are	O
+defect_0	four	O
+defect_0	manifestations	O
+defect_0	of	O
+defect_0	deviant	O
+defect_0	development	O
+defect_0	Death	O
+defect_0	Malformation	O
+defect_0	Growth	O
+defect_0	Retardation	O
+defect_0	and	O
+defect_0	Functional	O
+defect_0	Defect	defect_nou

@@ -1,0 +1,17 @@
+jesus_4	Mark	O
+jesus_4	says	O
+jesus_4	the	O
+jesus_4	soldiers	O
+jesus_4	took	O
+jesus_4	Jesus	jesus
+jesus_4	to	O
+jesus_4	the	O
+jesus_4	Praetorium	O
+jesus_4	either	O
+jesus_4	Herod	O
+jesus_4	's	O
+jesus_4	palace	O
+jesus_4	or	O
+jesus_4	the	O
+jesus_4	Fortress	O
+jesus_4	Antonia	O

@@ -1,0 +1,12 @@
+contrast_60	In	O
+contrast_60	contrast	contrast_nou
+contrast_60	sea	O
+contrast_60	otters	O
+contrast_60	and	O
+contrast_60	manatees	O
+contrast_60	often	O
+contrast_60	drink	O
+contrast_60	sea	O
+contrast_60	and	O
+contrast_60	fresh	O
+contrast_60	water	O

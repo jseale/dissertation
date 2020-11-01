@@ -1,0 +1,13 @@
+extract_1	It	O
+extract_1	can	O
+extract_1	also	O
+extract_1	be	O
+extract_1	used	O
+extract_1	to	O
+extract_1	extract	extract_vrb
+extract_1	sperm	O
+extract_1	for	O
+extract_1	intracytoplasmic	O
+extract_1	sperm	O
+extract_1	injection	O
+extract_1	ICSI	O

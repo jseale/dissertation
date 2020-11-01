@@ -1,0 +1,14 @@
+present_64	The	O
+present_64	provinces	O
+present_64	were	O
+present_64	supplanted	O
+present_64	by	O
+present_64	the	O
+present_64	present	present_adj-nou
+present_64	system	O
+present_64	of	O
+present_64	counties	O
+present_64	after	O
+present_64	the	O
+present_64	Norman	O
+present_64	invasion	O

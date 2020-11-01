@@ -1,0 +1,13 @@
+present_4	Jogaila	O
+present_4	and	O
+present_4	Vytautas	O
+present_4	agreed	O
+present_4	to	O
+present_4	present	present_vrb
+present_4	their	O
+present_4	case	O
+present_4	to	O
+present_4	the	O
+present_4	Council	O
+present_4	of	O
+present_4	Constance	O

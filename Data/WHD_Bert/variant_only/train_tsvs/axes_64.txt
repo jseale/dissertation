@@ -1,0 +1,15 @@
+axes_64	Also	O
+axes_64	discovered	O
+axes_64	were	O
+axes_64	crude	O
+axes_64	hammers	O
+axes_64	axes	axes_nou-vrb
+axes_64	grinding	O
+axes_64	tools	O
+axes_64	antlers	O
+axes_64	and	O
+axes_64	weapons	O
+axes_64	made	O
+axes_64	of	O
+axes_64	animal	O
+axes_64	bone	O

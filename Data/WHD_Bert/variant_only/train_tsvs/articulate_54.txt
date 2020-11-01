@@ -1,0 +1,9 @@
+articulate_54	Bostic	O
+articulate_54	was	O
+articulate_54	always	O
+articulate_54	well	O
+articulate_54	dressed	O
+articulate_54	and	O
+articulate_54	articulate	articulate_adj
+articulate_54	during	O
+articulate_54	interviews	O

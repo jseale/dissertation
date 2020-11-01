@@ -1,0 +1,9 @@
+compound_57	Dimethylcadmium	O
+compound_57	is	O
+compound_57	the	O
+compound_57	organocadmium	O
+compound_57	compound	compound_nou
+compound_57	with	O
+compound_57	the	O
+compound_57	formula	O
+compound_57	Cd(CH₃)₂.	O

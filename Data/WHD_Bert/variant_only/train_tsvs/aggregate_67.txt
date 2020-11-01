@@ -1,0 +1,13 @@
+aggregate_67	From	O
+aggregate_67	the	O
+aggregate_67	first	O
+aggregate_67	instar	O
+aggregate_67	the	O
+aggregate_67	caterpillars	O
+aggregate_67	will	O
+aggregate_67	aggregate	aggregate_vrb
+aggregate_67	and	O
+aggregate_67	build	O
+aggregate_67	large	O
+aggregate_67	tent	O
+aggregate_67	structures	O

@@ -1,0 +1,16 @@
+contract_21	The	O
+contract_21	Venice	O
+contract_21	Cup	O
+contract_21	is	O
+contract_21	a	O
+contract_21	biennial	O
+contract_21	world	O
+contract_21	championship	O
+contract_21	contract	contract_nou
+contract_21	bridge	O
+contract_21	tournament	O
+contract_21	for	O
+contract_21	national	O
+contract_21	teams	O
+contract_21	of	O
+contract_21	Women	O

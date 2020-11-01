@@ -1,0 +1,17 @@
+expatriate_6	Nostromo	O
+expatriate_6	is	O
+expatriate_6	an	O
+expatriate_6	Italian	O
+expatriate_6	expatriate	expatriate_nou
+expatriate_6	who	O
+expatriate_6	has	O
+expatriate_6	risen	O
+expatriate_6	to	O
+expatriate_6	his	O
+expatriate_6	position	O
+expatriate_6	through	O
+expatriate_6	his	O
+expatriate_6	bravery	O
+expatriate_6	and	O
+expatriate_6	daring	O
+expatriate_6	exploits	O

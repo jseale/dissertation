@@ -1,0 +1,17 @@
+use_58	The	O
+use_58	Sugpiaq	O
+use_58	Alaska	O
+use_58	also	O
+use_58	use	use_vrb
+use_58	it	O
+use_58	for	O
+use_58	bandages	O
+use_58	and	O
+use_58	as	O
+use_58	a	O
+use_58	hot	O
+use_58	compress	O
+use_58	in	O
+use_58	medicinal	O
+use_58	steam	O
+use_58	baths	O

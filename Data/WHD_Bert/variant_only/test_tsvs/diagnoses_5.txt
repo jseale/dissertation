@@ -1,0 +1,15 @@
+diagnoses_5	Richard	O
+diagnoses_5	collapses	O
+diagnoses_5	and	O
+diagnoses_5	Mr	O
+diagnoses_5	Woodcourt	O
+diagnoses_5	diagnoses	diagnoses_vrb
+diagnoses_5	him	O
+diagnoses_5	as	O
+diagnoses_5	being	O
+diagnoses_5	in	O
+diagnoses_5	the	O
+diagnoses_5	last	O
+diagnoses_5	stages	O
+diagnoses_5	of	O
+diagnoses_5	tuberculosis	O

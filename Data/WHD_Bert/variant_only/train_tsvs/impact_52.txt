@@ -1,0 +1,9 @@
+impact_52	The	O
+impact_52	book	O
+impact_52	had	O
+impact_52	an	O
+impact_52	enormous	O
+impact_52	impact	impact_nou
+impact_52	on	O
+impact_52	Armenian	O
+impact_52	historiography	O

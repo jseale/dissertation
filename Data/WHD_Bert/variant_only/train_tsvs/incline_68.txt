@@ -1,0 +1,12 @@
+incline_68	These	O
+incline_68	inversions	O
+incline_68	can	O
+incline_68	include	O
+incline_68	vertical	O
+incline_68	loops	O
+incline_68	incline	incline_nou
+incline_68	loops	O
+incline_68	dive	O
+incline_68	loops	O
+incline_68	and	O
+incline_68	corkscrews	O

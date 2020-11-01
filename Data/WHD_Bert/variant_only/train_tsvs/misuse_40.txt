@@ -1,0 +1,15 @@
+misuse_40	One	O
+misuse_40	night	O
+misuse_40	the	O
+misuse_40	real	O
+misuse_40	Chad	O
+misuse_40	arrives	O
+misuse_40	after	O
+misuse_40	learning	O
+misuse_40	about	O
+misuse_40	Sid	O
+misuse_40	's	O
+misuse_40	misuse	misuse_nou
+misuse_40	of	O
+misuse_40	the	O
+misuse_40	device	O

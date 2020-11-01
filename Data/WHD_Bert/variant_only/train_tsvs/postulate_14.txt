@@ -1,0 +1,10 @@
+postulate_14	Bekenstein	O
+postulate_14	was	O
+postulate_14	the	O
+postulate_14	first	O
+postulate_14	physicist	O
+postulate_14	to	O
+postulate_14	postulate	postulate_vrb
+postulate_14	such	O
+postulate_14	a	O
+postulate_14	theorem	O

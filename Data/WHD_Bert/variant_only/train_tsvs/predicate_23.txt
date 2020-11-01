@@ -1,0 +1,11 @@
+predicate_23	Capell	O
+predicate_23	puts	O
+predicate_23	the	O
+predicate_23	structures	O
+predicate_23	in	O
+predicate_23	term	O
+predicate_23	of	O
+predicate_23	actor	O
+predicate_23	predicate	predicate_nou
+predicate_23	and	O
+predicate_23	goal	O

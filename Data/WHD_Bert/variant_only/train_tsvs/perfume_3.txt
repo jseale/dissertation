@@ -1,0 +1,15 @@
+perfume_3	Jade	O
+perfume_3	considers	O
+perfume_3	releasing	O
+perfume_3	her	O
+perfume_3	own	O
+perfume_3	perfume	perfume_nou
+perfume_3	brand	O
+perfume_3	and	O
+perfume_3	opening	O
+perfume_3	up	O
+perfume_3	more	O
+perfume_3	branches	O
+perfume_3	of	O
+perfume_3	her	O
+perfume_3	salon	O

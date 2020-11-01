@@ -1,0 +1,16 @@
+mate_4	On	O
+mate_4	17	O
+mate_4	December	O
+mate_4	APC	O
+mate_4	chose	O
+mate_4	Professor	O
+mate_4	Yemi	O
+mate_4	Osinbajo	O
+mate_4	as	O
+mate_4	the	O
+mate_4	running	O
+mate_4	mate	mate
+mate_4	of	O
+mate_4	General	O
+mate_4	M.	O
+mate_4	Buhari	O

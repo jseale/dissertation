@@ -1,0 +1,16 @@
+correlate_23	In	O
+correlate_23	melanoma	O
+correlate_23	and	O
+correlate_23	certain	O
+correlate_23	other	O
+correlate_23	cancers	O
+correlate_23	the	O
+correlate_23	numbers	O
+correlate_23	of	O
+correlate_23	mutations	O
+correlate_23	and	O
+correlate_23	neoantigens	O
+correlate_23	correlate	correlate_nou-vrb
+correlate_23	with	O
+correlate_23	patient	O
+correlate_23	response	O

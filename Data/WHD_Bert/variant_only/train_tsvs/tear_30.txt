@@ -1,0 +1,11 @@
+tear_30	The	O
+tear_30	soldiers	O
+tear_30	fired	O
+tear_30	tear	tear_nou
+tear_30	gas	O
+tear_30	and	O
+tear_30	stun	O
+tear_30	grenades	O
+tear_30	at	O
+tear_30	the	O
+tear_30	demonstrators	O

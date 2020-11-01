@@ -1,0 +1,15 @@
+convert_3	From	O
+convert_3	2005	O
+convert_3	university	O
+convert_3	colleges	O
+convert_3	were	O
+convert_3	allowed	O
+convert_3	to	O
+convert_3	convert	convert_vrb
+convert_3	into	O
+convert_3	universities	O
+convert_3	if	O
+convert_3	they	O
+convert_3	met	O
+convert_3	certain	O
+convert_3	requirements	O

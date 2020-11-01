@@ -1,0 +1,15 @@
+diffuse_29	Terzan	O
+diffuse_29	has	O
+diffuse_29	also	O
+diffuse_29	discovered	O
+diffuse_29	158	O
+diffuse_29	diffuse	diffuse_adj
+diffuse_29	nebulae	O
+diffuse_29	124	O
+diffuse_29	galaxies	O
+diffuse_29	and	O
+diffuse_29	1428	O
+diffuse_29	high	O
+diffuse_29	proper	O
+diffuse_29	motion	O
+diffuse_29	stars	O

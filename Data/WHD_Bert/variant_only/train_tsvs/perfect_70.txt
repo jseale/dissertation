@@ -1,0 +1,11 @@
+perfect_70	It	O
+perfect_70	has	O
+perfect_70	one	O
+perfect_70	direction	O
+perfect_70	of	O
+perfect_70	perfect	perfect_adj
+perfect_70	cleavage	O
+perfect_70	and	O
+perfect_70	exhibits	O
+perfect_70	conchoidal	O
+perfect_70	fracture	O

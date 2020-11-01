@@ -1,0 +1,15 @@
+supplement_55	After	O
+supplement_55	selection	O
+supplement_55	the	O
+supplement_55	students	O
+supplement_55	are	O
+supplement_55	taught	O
+supplement_55	to	O
+supplement_55	supplement	supplement_vrb
+supplement_55	their	O
+supplement_55	training	O
+supplement_55	in	O
+supplement_55	French	O
+supplement_55	language	O
+supplement_55	and	O
+supplement_55	civilization	O

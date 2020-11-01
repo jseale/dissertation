@@ -1,0 +1,8 @@
+predicate_71	From	O
+predicate_71	where	O
+predicate_71	does	O
+predicate_71	such	O
+predicate_71	a	O
+predicate_71	predicate	predicate_nou
+predicate_71	enter	O
+predicate_71	logic	O

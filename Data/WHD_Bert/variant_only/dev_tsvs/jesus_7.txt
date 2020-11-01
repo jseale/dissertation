@@ -1,0 +1,10 @@
+jesus_7	Okung	O
+jesus_7	has	O
+jesus_7	spoken	O
+jesus_7	about	O
+jesus_7	his	O
+jesus_7	faith	O
+jesus_7	saying	O
+jesus_7	Jesus	jesus
+jesus_7	is	O
+jesus_7	everything	O

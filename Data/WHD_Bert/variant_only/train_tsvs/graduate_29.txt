@@ -1,0 +1,17 @@
+graduate_29	Vaidas	O
+graduate_29	Sakalauskas	O
+graduate_29	is	O
+graduate_29	a	O
+graduate_29	graduate	graduate_adj-nou
+graduate_29	of	O
+graduate_29	the	O
+graduate_29	Faculty	O
+graduate_29	of	O
+graduate_29	History	O
+graduate_29	of	O
+graduate_29	the	O
+graduate_29	Vilnius	O
+graduate_29	Pedagogical	O
+graduate_29	University	O
+graduate_29	in	O
+graduate_29	1994	O

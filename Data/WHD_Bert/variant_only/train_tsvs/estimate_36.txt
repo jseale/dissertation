@@ -1,0 +1,13 @@
+estimate_36	As	O
+estimate_36	of	O
+estimate_36	1992	O
+estimate_36	the	O
+estimate_36	proposed	O
+estimate_36	cost	O
+estimate_36	estimate	estimate_nou
+estimate_36	for	O
+estimate_36	Townview	O
+estimate_36	was	O
+estimate_36	$	O
+estimate_36	30	O
+estimate_36	million	O

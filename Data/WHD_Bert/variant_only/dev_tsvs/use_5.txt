@@ -1,0 +1,17 @@
+use_5	For	O
+use_5	media	O
+use_5	CS	O
+use_5	networks	O
+use_5	use	use_vrb
+use_5	Pulse	O
+use_5	code	O
+use_5	modulation	O
+use_5	PCM	O
+use_5	while	O
+use_5	IMS	O
+use_5	uses	O
+use_5	Real	O
+use_5	time	O
+use_5	Transport	O
+use_5	Protocol	O
+use_5	RTP	O

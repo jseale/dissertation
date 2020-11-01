@@ -1,0 +1,13 @@
+read_96	It	O
+read_96	recently	O
+read_96	marked	O
+read_96	its	O
+read_96	20th	O
+read_96	anniversary	O
+read_96	and	O
+read_96	is	O
+read_96	read	read_past
+read_96	throughout	O
+read_96	the	O
+read_96	United	O
+read_96	States	O

@@ -1,0 +1,10 @@
+attribute_66	XHTML	O
+attribute_66	uses	O
+attribute_66	XML	O
+attribute_66	's	O
+attribute_66	built	O
+attribute_66	in	O
+attribute_66	language	O
+attribute_66	defining	O
+attribute_66	functionality	O
+attribute_66	attribute	attribute_nou

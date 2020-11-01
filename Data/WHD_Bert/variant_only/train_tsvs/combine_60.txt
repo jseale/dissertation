@@ -1,0 +1,15 @@
+combine_60	It	O
+combine_60	is	O
+combine_60	also	O
+combine_60	possible	O
+combine_60	to	O
+combine_60	combine	combine_vrb
+combine_60	near	O
+combine_60	and	O
+combine_60	offset	O
+combine_60	layouts	O
+combine_60	but	O
+combine_60	not	O
+combine_60	far	O
+combine_60	and	O
+combine_60	offset	O

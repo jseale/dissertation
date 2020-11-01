@@ -1,0 +1,15 @@
+buffet_59	Some	O
+buffet_59	restaurants	O
+buffet_59	also	O
+buffet_59	offer	O
+buffet_59	buffets	O
+buffet_59	such	O
+buffet_59	as	O
+buffet_59	a	O
+buffet_59	lunch	O
+buffet_59	buffet	buffet_nou
+buffet_59	or	O
+buffet_59	are	O
+buffet_59	specifically	O
+buffet_59	buffet	buffet_nou
+buffet_59	restaurants	O

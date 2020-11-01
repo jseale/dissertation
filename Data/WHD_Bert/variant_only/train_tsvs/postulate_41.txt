@@ -1,0 +1,14 @@
+postulate_41	The	O
+postulate_41	postulate	postulate_nou
+postulate_41	has	O
+postulate_41	also	O
+postulate_41	been	O
+postulate_41	used	O
+postulate_41	to	O
+postulate_41	predict	O
+postulate_41	the	O
+postulate_41	shape	O
+postulate_41	of	O
+postulate_41	reaction	O
+postulate_41	coordinate	O
+postulate_41	diagrams	O

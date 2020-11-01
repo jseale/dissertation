@@ -1,0 +1,17 @@
+lead_67	He	O
+lead_67	performed	O
+lead_67	the	O
+lead_67	lead	lead_nou-vrb
+lead_67	role	O
+lead_67	of	O
+lead_67	Romeo	O
+lead_67	with	O
+lead_67	British	O
+lead_67	ballerina	O
+lead_67	Patricia	O
+lead_67	Ruanne	O
+lead_67	creating	O
+lead_67	the	O
+lead_67	role	O
+lead_67	of	O
+lead_67	Juliet	O

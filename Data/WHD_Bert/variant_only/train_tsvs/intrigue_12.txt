@@ -1,0 +1,15 @@
+intrigue_12	Hot	O
+intrigue_12	guys	O
+intrigue_12	intrigue	intrigue_nou
+intrigue_12	and	O
+intrigue_12	gossip	O
+intrigue_12	all	O
+intrigue_12	add	O
+intrigue_12	up	O
+intrigue_12	to	O
+intrigue_12	more	O
+intrigue_12	trouble	O
+intrigue_12	than	O
+intrigue_12	ever	O
+intrigue_12	for	O
+intrigue_12	Jenny	O

@@ -1,0 +1,17 @@
+aggregate_44	The	O
+aggregate_44	quarter-	O
+aggregate_44	and	O
+aggregate_44	semifinals	O
+aggregate_44	will	O
+aggregate_44	be	O
+aggregate_44	played	O
+aggregate_44	over	O
+aggregate_44	two	O
+aggregate_44	legs	O
+aggregate_44	where	O
+aggregate_44	the	O
+aggregate_44	team	O
+aggregate_44	winning	O
+aggregate_44	on	O
+aggregate_44	aggregate	aggregate_adj-nou
+aggregate_44	advances	O

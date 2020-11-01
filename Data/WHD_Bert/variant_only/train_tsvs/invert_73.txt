@@ -1,0 +1,14 @@
+invert_73	The	O
+invert_73	knot	O
+invert_73	will	O
+invert_73	invert	invert_vrb
+invert_73	much	O
+invert_73	the	O
+invert_73	same	O
+invert_73	as	O
+invert_73	a	O
+invert_73	mitten	O
+invert_73	is	O
+invert_73	turned	O
+invert_73	inside	O
+invert_73	out	O

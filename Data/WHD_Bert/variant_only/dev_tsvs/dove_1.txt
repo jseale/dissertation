@@ -1,0 +1,13 @@
+dove_1	Artistic	O
+dove_1	style	O
+dove_1	must	O
+dove_1	be	O
+dove_1	carefully	O
+dove_1	dove	dove
+dove_1	tailed	O
+dove_1	with	O
+dove_1	the	O
+dove_1	constraints	O
+dove_1	of	O
+dove_1	the	O
+dove_1	law	O

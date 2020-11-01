@@ -1,0 +1,12 @@
+retard_51	These	O
+retard_51	compounds	O
+retard_51	improve	O
+retard_51	the	O
+retard_51	grain	O
+retard_51	refining	O
+retard_51	and	O
+retard_51	retard	retard_vrb
+retard_51	recrystallization	O
+retard_51	and	O
+retard_51	precipitation	O
+retard_51	hardening	O

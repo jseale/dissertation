@@ -1,0 +1,9 @@
+defect_4	Dopant	O
+defect_4	dopant	O
+defect_4	and	O
+defect_4	dopant	O
+defect_4	defect	defect_nou
+defect_4	processes	O
+defect_4	underlying	O
+defect_4	activation	O
+defect_4	kinetics	O

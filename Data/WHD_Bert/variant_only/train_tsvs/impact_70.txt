@@ -1,0 +1,11 @@
+impact_70	Some	O
+impact_70	of	O
+impact_70	the	O
+impact_70	Graphic	O
+impact_70	composographs	O
+impact_70	have	O
+impact_70	an	O
+impact_70	unforgettable	O
+impact_70	eerie	O
+impact_70	visual	O
+impact_70	impact	impact_nou

@@ -1,0 +1,11 @@
+abstract_1	Smith	O
+abstract_1	uses	O
+abstract_1	his	O
+abstract_1	name	O
+abstract_1	as	O
+abstract_1	a	O
+abstract_1	base	O
+abstract_1	for	O
+abstract_1	building	O
+abstract_1	abstract	abstract_adj-nou
+abstract_1	imagery	O

@@ -1,0 +1,16 @@
+animate_51	He	O
+animate_51	is	O
+animate_51	shortly	O
+animate_51	thereafter	O
+animate_51	put	O
+animate_51	down	O
+animate_51	by	O
+animate_51	her	O
+animate_51	before	O
+animate_51	he	O
+animate_51	has	O
+animate_51	the	O
+animate_51	chance	O
+animate_51	to	O
+animate_51	re	O
+animate_51	animate	animate_vrb

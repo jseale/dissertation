@@ -1,0 +1,14 @@
+transplant_5	The	O
+transplant_5	Declaration	O
+transplant_5	of	O
+transplant_5	Istanbul	O
+transplant_5	distinguishes	O
+transplant_5	between	O
+transplant_5	ethically	O
+transplant_5	problematic	O
+transplant_5	transplant	transplant_nou
+transplant_5	tourism	O
+transplant_5	and	O
+transplant_5	travel	O
+transplant_5	for	O
+transplant_5	transplantation	O

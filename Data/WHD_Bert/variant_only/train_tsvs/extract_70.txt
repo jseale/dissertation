@@ -1,0 +1,16 @@
+extract_70	Burdock	O
+extract_70	root	O
+extract_70	oil	O
+extract_70	extract	extract_nou
+extract_70	also	O
+extract_70	called	O
+extract_70	Bur	O
+extract_70	oil	O
+extract_70	is	O
+extract_70	used	O
+extract_70	in	O
+extract_70	Europe	O
+extract_70	as	O
+extract_70	a	O
+extract_70	scalp	O
+extract_70	treatment	O

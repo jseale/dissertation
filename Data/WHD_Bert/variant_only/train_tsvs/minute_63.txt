@@ -1,0 +1,15 @@
+minute_63	Munditia	O
+minute_63	owengaensis	O
+minute_63	is	O
+minute_63	a	O
+minute_63	minute	minute_adj
+minute_63	sea	O
+minute_63	snail	O
+minute_63	a	O
+minute_63	marine	O
+minute_63	gastropod	O
+minute_63	mollusc	O
+minute_63	in	O
+minute_63	the	O
+minute_63	family	O
+minute_63	Liotiidae	O

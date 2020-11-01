@@ -1,0 +1,14 @@
+progress_46	The	O
+progress_46	win	O
+progress_46	allowed	O
+progress_46	the	O
+progress_46	team	O
+progress_46	to	O
+progress_46	progress	progress_vrb
+progress_46	to	O
+progress_46	the	O
+progress_46	fourth	O
+progress_46	round	O
+progress_46	of	O
+progress_46	the	O
+progress_46	competition	O

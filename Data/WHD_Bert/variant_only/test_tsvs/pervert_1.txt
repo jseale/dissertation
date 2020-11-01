@@ -1,0 +1,17 @@
+pervert_1	After	O
+pervert_1	the	O
+pervert_1	war	O
+pervert_1	a	O
+pervert_1	Pervert	pervert_nou
+pervert_1	Elimination	O
+pervert_1	Campaign	O
+pervert_1	was	O
+pervert_1	initiated	O
+pervert_1	in	O
+pervert_1	Washington	O
+pervert_1	D.C.	O
+pervert_1	by	O
+pervert_1	the	O
+pervert_1	U.S.	O
+pervert_1	Park	O
+pervert_1	Police	O

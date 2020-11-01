@@ -1,0 +1,15 @@
+diagnoses_48	It	O
+diagnoses_48	includes	O
+diagnoses_48	the	O
+diagnoses_48	research	O
+diagnoses_48	diagnoses	diagnoses_nou
+diagnoses_48	of	O
+diagnoses_48	recurrent	O
+diagnoses_48	brief	O
+diagnoses_48	depression	O
+diagnoses_48	and	O
+diagnoses_48	minor	O
+diagnoses_48	depressive	O
+diagnoses_48	disorder	O
+diagnoses_48	listed	O
+diagnoses_48	below	O

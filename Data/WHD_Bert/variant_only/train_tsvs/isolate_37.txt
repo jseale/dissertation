@@ -1,0 +1,15 @@
+isolate_37	The	O
+isolate_37	Council	O
+isolate_37	appreciated	O
+isolate_37	efforts	O
+isolate_37	by	O
+isolate_37	Albania	O
+isolate_37	to	O
+isolate_37	promote	O
+isolate_37	peace	O
+isolate_37	in	O
+isolate_37	the	O
+isolate_37	region	O
+isolate_37	and	O
+isolate_37	isolate	isolate
+isolate_37	extremists	O

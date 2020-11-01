@@ -1,0 +1,14 @@
+perfect_77	According	O
+perfect_77	to	O
+perfect_77	Tarzan	O
+perfect_77	creator	O
+perfect_77	Edgar	O
+perfect_77	Rice	O
+perfect_77	Burroughs	O
+perfect_77	he	O
+perfect_77	was	O
+perfect_77	the	O
+perfect_77	perfect	perfect_adj
+perfect_77	portrayal	O
+perfect_77	of	O
+perfect_77	Tarzan	O

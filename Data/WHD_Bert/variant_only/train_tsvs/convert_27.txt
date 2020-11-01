@@ -1,0 +1,14 @@
+convert_27	In	O
+convert_27	January	O
+convert_27	1962	O
+convert_27	planning	O
+convert_27	permission	O
+convert_27	was	O
+convert_27	granted	O
+convert_27	to	O
+convert_27	convert	convert_vrb
+convert_27	the	O
+convert_27	mill	O
+convert_27	into	O
+convert_27	a	O
+convert_27	house	O

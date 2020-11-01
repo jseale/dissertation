@@ -1,0 +1,10 @@
+degenerate_13	Collapse	O
+degenerate_13	of	O
+degenerate_13	massive	O
+degenerate_13	non	O
+degenerate_13	degenerate	degenerate_adj-nou
+degenerate_13	cores	O
+degenerate_13	will	O
+degenerate_13	ignite	O
+degenerate_13	further	O
+degenerate_13	fusion	O

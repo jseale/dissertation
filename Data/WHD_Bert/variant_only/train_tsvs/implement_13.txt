@@ -1,0 +1,17 @@
+implement_13	There	O
+implement_13	are	O
+implement_13	several	O
+implement_13	software	O
+implement_13	implementations	O
+implement_13	of	O
+implement_13	additional	O
+implement_13	protocols	O
+implement_13	that	O
+implement_13	essentially	O
+implement_13	implement	implement_vrb
+implement_13	a	O
+implement_13	polling	O
+implement_13	or	O
+implement_13	token	O
+implement_13	passing	O
+implement_13	strategy	O

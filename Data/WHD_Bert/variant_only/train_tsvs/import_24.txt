@@ -1,0 +1,16 @@
+import_24	Iran	O
+import_24	was	O
+import_24	among	O
+import_24	the	O
+import_24	earliest	O
+import_24	countries	O
+import_24	to	O
+import_24	import	import_vrb
+import_24	the	O
+import_24	TOW	O
+import_24	missile	O
+import_24	as	O
+import_24	far	O
+import_24	back	O
+import_24	as	O
+import_24	1971	O

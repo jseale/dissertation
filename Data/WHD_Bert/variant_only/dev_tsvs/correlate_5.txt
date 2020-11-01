@@ -1,0 +1,14 @@
+correlate_5	It	O
+correlate_5	is	O
+correlate_5	normal	O
+correlate_5	to	O
+correlate_5	correlate	correlate_nou-vrb
+correlate_5	the	O
+correlate_5	erection	O
+correlate_5	of	O
+correlate_5	the	O
+correlate_5	penis	O
+correlate_5	with	O
+correlate_5	male	O
+correlate_5	sexual	O
+correlate_5	arousal	O

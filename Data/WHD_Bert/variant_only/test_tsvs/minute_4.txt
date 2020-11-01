@@ -1,0 +1,16 @@
+minute_4	After	O
+minute_4	they	O
+minute_4	've	O
+minute_4	been	O
+minute_4	sauced	O
+minute_4	they	O
+minute_4	throw	O
+minute_4	them	O
+minute_4	on	O
+minute_4	the	O
+minute_4	grill	O
+minute_4	for	O
+minute_4	a	O
+minute_4	minute	minute
+minute_4	or	O
+minute_4	two	O

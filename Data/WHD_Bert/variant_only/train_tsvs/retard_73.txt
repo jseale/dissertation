@@ -1,0 +1,13 @@
+retard_73	In	O
+retard_73	case	O
+retard_73	this	O
+retard_73	does	O
+retard_73	not	O
+retard_73	happen	O
+retard_73	the	O
+retard_73	capitalist	O
+retard_73	savings	O
+retard_73	would	O
+retard_73	only	O
+retard_73	retard	retard_vrb
+retard_73	growth	O

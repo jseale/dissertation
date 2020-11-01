@@ -1,0 +1,16 @@
+frequent_46	He	O
+frequent_46	is	O
+frequent_46	a	O
+frequent_46	frequent	frequent_adj
+frequent_46	contributor	O
+frequent_46	to	O
+frequent_46	the	O
+frequent_46	Catalan	O
+frequent_46	edition	O
+frequent_46	of	O
+frequent_46	El	O
+frequent_46	Pais	O
+frequent_46	and	O
+frequent_46	the	O
+frequent_46	Sunday	O
+frequent_46	supplement	O

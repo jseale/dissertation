@@ -1,0 +1,12 @@
+console_9	Nintendo	O
+console_9	broadcast	O
+console_9	an	O
+console_9	ad	O
+console_9	showcasing	O
+console_9	its	O
+console_9	upcoming	O
+console_9	Nintendo	O
+console_9	Switch	O
+console_9	video	O
+console_9	game	O
+console_9	console	console_nou

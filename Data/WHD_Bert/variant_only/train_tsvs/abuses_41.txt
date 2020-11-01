@@ -1,0 +1,17 @@
+abuses_41	Tension	O
+abuses_41	arises	O
+abuses_41	in	O
+abuses_41	their	O
+abuses_41	marriage	O
+abuses_41	as	O
+abuses_41	Jake	O
+abuses_41	continually	O
+abuses_41	upbraids	O
+abuses_41	and	O
+abuses_41	abuses	abuses_vrb
+abuses_41	Gitl	O
+abuses_41	despite	O
+abuses_41	her	O
+abuses_41	efforts	O
+abuses_41	to	O
+abuses_41	assimilate	O

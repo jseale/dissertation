@@ -1,0 +1,13 @@
+convert_40	Schlumberger	O
+convert_40	Chart	O
+convert_40	SP-2	O
+convert_40	can	O
+convert_40	then	O
+convert_40	be	O
+convert_40	used	O
+convert_40	to	O
+convert_40	convert	convert_vrb
+convert_40	Rwe	O
+convert_40	to	O
+convert_40	obtain	O
+convert_40	Rw	O

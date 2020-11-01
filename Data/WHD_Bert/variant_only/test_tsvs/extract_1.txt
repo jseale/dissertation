@@ -1,0 +1,14 @@
+extract_1	Major	O
+extract_1	industries	O
+extract_1	include	O
+extract_1	the	O
+extract_1	canning	O
+extract_1	juicing	O
+extract_1	and	O
+extract_1	extract	extract_nou
+extract_1	of	O
+extract_1	citrus	O
+extract_1	fruit	O
+extract_1	and	O
+extract_1	other	O
+extract_1	produce	O

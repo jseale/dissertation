@@ -1,0 +1,13 @@
+conflict_3	Prior	O
+conflict_3	to	O
+conflict_3	the	O
+conflict_3	prolonged	O
+conflict_3	conflict	conflict_nou
+conflict_3	Girdi	O
+conflict_3	Kas	O
+conflict_3	was	O
+conflict_3	famous	O
+conflict_3	for	O
+conflict_3	its	O
+conflict_3	agricultural	O
+conflict_3	production	O

@@ -1,0 +1,12 @@
+resume_9	He	O
+resume_9	returned	O
+resume_9	home	O
+resume_9	in	O
+resume_9	December	O
+resume_9	1945	O
+resume_9	to	O
+resume_9	resume	resume_vrb
+resume_9	his	O
+resume_9	career	O
+resume_9	at	O
+resume_9	Tuzigoot	O

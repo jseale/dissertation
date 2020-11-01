@@ -1,0 +1,10 @@
+learned_54	It	O
+learned_54	was	O
+learned_54	created	O
+learned_54	after	O
+learned_54	lessons	O
+learned_54	learned	learned_vrb
+learned_54	in	O
+learned_54	Afghanistan	O
+learned_54	and	O
+learned_54	Iraq	O

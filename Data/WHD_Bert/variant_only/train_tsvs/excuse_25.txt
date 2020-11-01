@@ -1,0 +1,16 @@
+excuse_25	She	O
+excuse_25	said	O
+excuse_25	I	O
+excuse_25	was	O
+excuse_25	just	O
+excuse_25	watching	O
+excuse_25	Fame	O
+excuse_25	on	O
+excuse_25	video	O
+excuse_25	and	O
+excuse_25	I	O
+excuse_25	thought	O
+excuse_25	what	O
+excuse_25	a	O
+excuse_25	great	O
+excuse_25	excuse	excuse_nou

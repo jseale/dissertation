@@ -1,0 +1,14 @@
+subordinate_60	It	O
+subordinate_60	is	O
+subordinate_60	subordinate	subordinate_adj-nou
+subordinate_60	to	O
+subordinate_60	the	O
+subordinate_60	National	O
+subordinate_60	Security	O
+subordinate_60	Directorate	O
+subordinate_60	of	O
+subordinate_60	the	O
+subordinate_60	Egyptian	O
+subordinate_60	Ministry	O
+subordinate_60	of	O
+subordinate_60	Interior	O

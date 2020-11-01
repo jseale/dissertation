@@ -1,0 +1,13 @@
+degenerate_48	Of	O
+degenerate_48	course	O
+degenerate_48	backface	O
+degenerate_48	culling	O
+degenerate_48	can	O
+degenerate_48	not	O
+degenerate_48	be	O
+degenerate_48	used	O
+degenerate_48	with	O
+degenerate_48	degenerate	degenerate_adj-nou
+degenerate_48	and	O
+degenerate_48	unclosed	O
+degenerate_48	volumes	O

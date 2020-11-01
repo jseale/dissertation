@@ -1,0 +1,13 @@
+perfect_21	In	O
+perfect_21	conditions	O
+perfect_21	described	O
+perfect_21	as	O
+perfect_21	perfect	perfect_adj
+perfect_21	Cambridge	O
+perfect_21	took	O
+perfect_21	an	O
+perfect_21	early	O
+perfect_21	lead	O
+perfect_21	out	O
+perfect_21	rating	O
+perfect_21	Oxford	O

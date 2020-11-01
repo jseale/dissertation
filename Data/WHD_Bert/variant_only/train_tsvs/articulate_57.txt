@@ -1,0 +1,10 @@
+articulate_57	Ancient	O
+articulate_57	texts	O
+articulate_57	of	O
+articulate_57	the	O
+articulate_57	Hindu	O
+articulate_57	tradition	O
+articulate_57	formulate	O
+articulate_57	and	O
+articulate_57	articulate	articulate_vrb
+articulate_57	punishment	O

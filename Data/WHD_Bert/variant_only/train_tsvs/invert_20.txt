@@ -1,0 +1,16 @@
+invert_20	Because	O
+invert_20	fructose	O
+invert_20	is	O
+invert_20	sweeter	O
+invert_20	than	O
+invert_20	either	O
+invert_20	glucose	O
+invert_20	or	O
+invert_20	sucrose	O
+invert_20	invert	invert_adj-nou
+invert_20	sugar	O
+invert_20	is	O
+invert_20	sweeter	O
+invert_20	than	O
+invert_20	white	O
+invert_20	sugar	O

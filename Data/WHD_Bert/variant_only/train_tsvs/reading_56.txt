@@ -1,0 +1,12 @@
+reading_56	The	O
+reading_56	station	O
+reading_56	is	O
+reading_56	licensed	O
+reading_56	to	O
+reading_56	Boyertown	O
+reading_56	Pennsylvania	O
+reading_56	and	O
+reading_56	serves	O
+reading_56	the	O
+reading_56	Reading	reading_geo
+reading_56	area	O

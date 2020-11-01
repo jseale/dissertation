@@ -1,0 +1,16 @@
+bow_4	The	O
+bow_4	video	O
+bow_4	begins	O
+bow_4	with	O
+bow_4	Bow	bow_nou-ship
+bow_4	Wow	O
+bow_4	reading	O
+bow_4	a	O
+bow_4	letter	O
+bow_4	from	O
+bow_4	his	O
+bow_4	fiancé	O
+bow_4	breaking	O
+bow_4	off	O
+bow_4	their	O
+bow_4	engagement	O

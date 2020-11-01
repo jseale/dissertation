@@ -1,0 +1,16 @@
+refund_39	In	O
+refund_39	2011	O
+refund_39	the	O
+refund_39	FTC	O
+refund_39	mailed	O
+refund_39	450,177	O
+refund_39	refund	refund_nou
+refund_39	checks	O
+refund_39	to	O
+refund_39	homeowners	O
+refund_39	who	O
+refund_39	were	O
+refund_39	allegedly	O
+refund_39	overcharged	O
+refund_39	by	O
+refund_39	Countrywide	O

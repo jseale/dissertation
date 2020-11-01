@@ -1,0 +1,12 @@
+contract_67	In	O
+contract_67	December	O
+contract_67	2013	O
+contract_67	Ponga	O
+contract_67	signed	O
+contract_67	a	O
+contract_67	contract	contract_nou
+contract_67	with	O
+contract_67	the	O
+contract_67	North	O
+contract_67	Queensland	O
+contract_67	Cowboys	O

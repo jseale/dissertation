@@ -1,0 +1,13 @@
+convert_23	Bahrain	O
+convert_23	was	O
+convert_23	one	O
+convert_23	of	O
+convert_23	the	O
+convert_23	earliest	O
+convert_23	areas	O
+convert_23	to	O
+convert_23	convert	convert_vrb
+convert_23	to	O
+convert_23	Islam	O
+convert_23	AD	O
+convert_23	628	O

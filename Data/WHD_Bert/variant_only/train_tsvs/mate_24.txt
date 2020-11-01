@@ -1,0 +1,11 @@
+mate_24	Anne	O
+mate_24	Goeke	O
+mate_24	was	O
+mate_24	Nader	O
+mate_24	's	O
+mate_24	running	O
+mate_24	mate	mate
+mate_24	in	O
+mate_24	Iowa	O
+mate_24	and	O
+mate_24	Vermont	O

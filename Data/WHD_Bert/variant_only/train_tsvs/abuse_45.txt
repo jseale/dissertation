@@ -1,0 +1,14 @@
+abuse_45	It	O
+abuse_45	smashed	O
+abuse_45	taboos	O
+abuse_45	surrounding	O
+abuse_45	mental	O
+abuse_45	health	O
+abuse_45	abuse	abuse_nou
+abuse_45	sexuality	O
+abuse_45	and	O
+abuse_45	religion	O
+abuse_45	with	O
+abuse_45	humor	O
+abuse_45	and	O
+abuse_45	optimism	O

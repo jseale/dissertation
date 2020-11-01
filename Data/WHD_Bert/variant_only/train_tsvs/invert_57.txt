@@ -1,0 +1,15 @@
+invert_57	In	O
+invert_57	1860	O
+invert_57	Marcellin	O
+invert_57	Berthelot	O
+invert_57	isolated	O
+invert_57	invertase	O
+invert_57	and	O
+invert_57	showed	O
+invert_57	that	O
+invert_57	succinic	O
+invert_57	acid	O
+invert_57	did	O
+invert_57	not	O
+invert_57	invert	invert_vrb
+invert_57	sucrose	O

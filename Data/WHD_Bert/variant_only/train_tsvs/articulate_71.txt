@@ -1,0 +1,17 @@
+articulate_71	Nevertheless	O
+articulate_71	any	O
+articulate_71	attempt	O
+articulate_71	to	O
+articulate_71	articulate	articulate_vrb
+articulate_71	solid	O
+articulate_71	links	O
+articulate_71	between	O
+articulate_71	Dada	O
+articulate_71	and	O
+articulate_71	these	O
+articulate_71	movements	O
+articulate_71	must	O
+articulate_71	be	O
+articulate_71	tenuous	O
+articulate_71	at	O
+articulate_71	best	O

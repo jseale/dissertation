@@ -1,0 +1,8 @@
+predicate_7	The	O
+predicate_7	descriptor	O
+predicate_7	is	O
+predicate_7	also	O
+predicate_7	known	O
+predicate_7	as	O
+predicate_7	a	O
+predicate_7	Predicate	predicate_nou

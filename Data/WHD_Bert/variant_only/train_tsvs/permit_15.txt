@@ -1,0 +1,15 @@
+permit_15	Coral	O
+permit_15	collection	O
+permit_15	is	O
+permit_15	not	O
+permit_15	allowed	O
+permit_15	in	O
+permit_15	the	O
+permit_15	state	O
+permit_15	waters	O
+permit_15	of	O
+permit_15	Hawaii	O
+permit_15	without	O
+permit_15	a	O
+permit_15	research	O
+permit_15	permit	permit_nou

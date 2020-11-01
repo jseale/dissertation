@@ -1,0 +1,16 @@
+uses_52	Victoria	O
+uses_52	's	O
+uses_52	Secret	O
+uses_52	uses	uses_vrb
+uses_52	the	O
+uses_52	show	O
+uses_52	to	O
+uses_52	promote	O
+uses_52	and	O
+uses_52	market	O
+uses_52	its	O
+uses_52	goods	O
+uses_52	in	O
+uses_52	high	O
+uses_52	profile	O
+uses_52	settings	O

@@ -1,0 +1,12 @@
+intrigue_76	Information	O
+intrigue_76	and	O
+intrigue_76	Intrigue	intrigue_nou
+intrigue_76	From	O
+intrigue_76	Index	O
+intrigue_76	Cards	O
+intrigue_76	to	O
+intrigue_76	Dewey	O
+intrigue_76	Decimals	O
+intrigue_76	to	O
+intrigue_76	Alger	O
+intrigue_76	Hiss	O

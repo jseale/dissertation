@@ -1,0 +1,16 @@
+permit_74	Interested	O
+permit_74	parties	O
+permit_74	must	O
+permit_74	file	O
+permit_74	an	O
+permit_74	application	O
+permit_74	for	O
+permit_74	construction	O
+permit_74	permit	permit_nou
+permit_74	during	O
+permit_74	the	O
+permit_74	appropriate	O
+permit_74	AM	O
+permit_74	application	O
+permit_74	filing	O
+permit_74	window	O

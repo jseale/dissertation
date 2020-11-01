@@ -1,0 +1,11 @@
+winds_32	Strong	O
+winds_32	winds	winds_nou
+winds_32	contributed	O
+winds_32	to	O
+winds_32	power	O
+winds_32	outages	O
+winds_32	and	O
+winds_32	blowing	O
+winds_32	and	O
+winds_32	drifting	O
+winds_32	snow	O

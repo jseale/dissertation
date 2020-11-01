@@ -1,0 +1,15 @@
+transform_1	Like	O
+transform_1	Dante	O
+transform_1	she	O
+transform_1	can	O
+transform_1	Devil	O
+transform_1	Trigger	O
+transform_1	transform	transform
+transform_1	into	O
+transform_1	a	O
+transform_1	harpy	O
+transform_1	a	O
+transform_1	birdlike	O
+transform_1	demon	O
+transform_1	of	O
+transform_1	light	O

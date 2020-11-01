@@ -1,0 +1,9 @@
+axes_16	Today	O
+axes_16	CNC	O
+axes_16	mills	O
+axes_16	can	O
+axes_16	have	O
+axes_16	4	O
+axes_16	to	O
+axes_16	6	O
+axes_16	axes	axes_nou

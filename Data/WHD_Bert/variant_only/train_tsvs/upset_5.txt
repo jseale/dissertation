@@ -1,0 +1,15 @@
+upset_5	Once	O
+upset_5	everyone	O
+upset_5	is	O
+upset_5	gone	O
+upset_5	she	O
+upset_5	is	O
+upset_5	shown	O
+upset_5	to	O
+upset_5	be	O
+upset_5	physically	O
+upset_5	upset	upset_nou
+upset_5	by	O
+upset_5	everything	O
+upset_5	just	O
+upset_5	happened	O

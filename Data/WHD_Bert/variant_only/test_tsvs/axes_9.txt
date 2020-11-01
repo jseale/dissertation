@@ -1,0 +1,14 @@
+axes_9	When	O
+axes_9	the	O
+axes_9	flock	O
+axes_9	gets	O
+axes_9	going	O
+axes_9	the	O
+axes_9	courtyard	O
+axes_9	gates	O
+axes_9	open	O
+axes_9	wide	O
+axes_9	and	O
+axes_9	axes	axes_nou-vrb
+axes_9	are	O
+axes_9	thrown	O

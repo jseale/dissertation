@@ -1,0 +1,12 @@
+bologna_35	He	O
+bologna_35	painted	O
+bologna_35	in	O
+bologna_35	the	O
+bologna_35	church	O
+bologna_35	of	O
+bologna_35	the	O
+bologna_35	Madonna	O
+bologna_35	del	O
+bologna_35	Baraccano	O
+bologna_35	in	O
+bologna_35	Bologna	bologna_geo

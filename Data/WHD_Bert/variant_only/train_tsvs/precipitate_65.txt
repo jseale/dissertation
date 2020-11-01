@@ -1,0 +1,15 @@
+precipitate_65	Reactions	O
+precipitate_65	conducted	O
+precipitate_65	in	O
+precipitate_65	DMSO	O
+precipitate_65	are	O
+precipitate_65	often	O
+precipitate_65	diluted	O
+precipitate_65	with	O
+precipitate_65	water	O
+precipitate_65	to	O
+precipitate_65	precipitate	precipitate_vrb
+precipitate_65	or	O
+precipitate_65	phase	O
+precipitate_65	separate	O
+precipitate_65	products	O

@@ -1,0 +1,7 @@
+contract_26	He	O
+contract_26	cancelled	O
+contract_26	his	O
+contract_26	contract	contract_nou
+contract_26	in	O
+contract_26	March	O
+contract_26	2008	O

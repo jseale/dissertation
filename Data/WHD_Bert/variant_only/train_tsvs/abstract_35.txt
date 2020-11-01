@@ -1,0 +1,9 @@
+abstract_35	The	O
+abstract_35	learning	O
+abstract_35	characteristics	O
+abstract_35	are	O
+abstract_35	abstract	abstract_adj-nou
+abstract_35	conceptualization	O
+abstract_35	and	O
+abstract_35	active	O
+abstract_35	experimentation	O

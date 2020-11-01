@@ -1,0 +1,11 @@
+supplement_18	Specialized	O
+supplement_18	exercise	O
+supplement_18	therapy	O
+supplement_18	may	O
+supplement_18	supplement	supplement_vrb
+supplement_18	treatment	O
+supplement_18	to	O
+supplement_18	enhance	O
+supplement_18	quality	O
+supplement_18	of	O
+supplement_18	life	O

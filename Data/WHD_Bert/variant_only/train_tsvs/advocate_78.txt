@@ -1,0 +1,11 @@
+advocate_78	Darbishire	O
+advocate_78	was	O
+advocate_78	a	O
+advocate_78	particular	O
+advocate_78	advocate	advocate_nou
+advocate_78	of	O
+advocate_78	women	O
+advocate_78	's	O
+advocate_78	right	O
+advocate_78	to	O
+advocate_78	education	O

@@ -1,0 +1,14 @@
+console_7	The	O
+console_7	console	console_nou
+console_7	also	O
+console_7	features	O
+console_7	high	O
+console_7	definition	O
+console_7	HD	O
+console_7	Internet	O
+console_7	access	O
+console_7	and	O
+console_7	allows	O
+console_7	running	O
+console_7	Windows	O
+console_7	games	O

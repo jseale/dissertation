@@ -1,0 +1,17 @@
+discharge_71	Burlison	O
+discharge_71	began	O
+discharge_71	or	O
+discharge_71	renewed	O
+discharge_71	his	O
+discharge_71	friendship	O
+discharge_71	with	O
+discharge_71	the	O
+discharge_71	Burnette	O
+discharge_71	Brothers	O
+discharge_71	depending	O
+discharge_71	upon	O
+discharge_71	which	O
+discharge_71	discharge	discharge_nou
+discharge_71	date	O
+discharge_71	is	O
+discharge_71	correct	O

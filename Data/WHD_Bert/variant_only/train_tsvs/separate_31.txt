@@ -1,0 +1,17 @@
+separate_31	The	O
+separate_31	purpose	O
+separate_31	of	O
+separate_31	a	O
+separate_31	separate	separate_adj
+separate_31	court	O
+separate_31	is	O
+separate_31	that	O
+separate_31	its	O
+separate_31	purpose	O
+separate_31	is	O
+separate_31	socio	O
+separate_31	legal	O
+separate_31	reformation	O
+separate_31	but	O
+separate_31	not	O
+separate_31	punishment	O

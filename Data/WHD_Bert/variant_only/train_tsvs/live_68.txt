@@ -1,0 +1,10 @@
+live_68	They	O
+live_68	currently	O
+live_68	live	live_vrb
+live_68	in	O
+live_68	Los	O
+live_68	Angeles	O
+live_68	and	O
+live_68	have	O
+live_68	two	O
+live_68	children	O

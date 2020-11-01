@@ -1,0 +1,15 @@
+celtic_59	San	O
+celtic_59	Juan	O
+celtic_59	Jabloteh	O
+celtic_59	signed	O
+celtic_59	a	O
+celtic_59	three	O
+celtic_59	year	O
+celtic_59	partnership	O
+celtic_59	with	O
+celtic_59	Celtic	celtic_adj-nou-sports
+celtic_59	of	O
+celtic_59	the	O
+celtic_59	Scottish	O
+celtic_59	Premier	O
+celtic_59	League	O

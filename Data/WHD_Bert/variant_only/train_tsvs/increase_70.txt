@@ -1,0 +1,7 @@
+increase_70	Such	O
+increase_70	an	O
+increase_70	increase	increase_nou
+increase_70	has	O
+increase_70	never	O
+increase_70	happened	O
+increase_70	again	O

@@ -1,0 +1,14 @@
+degenerate_40	Due	O
+degenerate_40	to	O
+degenerate_40	federal	O
+degenerate_40	investigations	O
+degenerate_40	and	O
+degenerate_40	the	O
+degenerate_40	lack	O
+degenerate_40	of	O
+degenerate_40	funds	O
+degenerate_40	the	O
+degenerate_40	plans	O
+degenerate_40	may	O
+degenerate_40	degenerate	degenerate_vrb
+degenerate_40	further	O

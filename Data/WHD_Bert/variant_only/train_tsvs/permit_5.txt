@@ -1,0 +1,12 @@
+permit_5	For	O
+permit_5	example	O
+permit_5	these	O
+permit_5	methods	O
+permit_5	permit	permit_vrb
+permit_5	preventing	O
+permit_5	R	O
+permit_5	rated	O
+permit_5	content	O
+permit_5	from	O
+permit_5	being	O
+permit_5	played	O

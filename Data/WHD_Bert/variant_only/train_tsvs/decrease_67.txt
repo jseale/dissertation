@@ -1,0 +1,9 @@
+decrease_67	High	O
+decrease_67	intakes	O
+decrease_67	of	O
+decrease_67	zinc	O
+decrease_67	can	O
+decrease_67	significantly	O
+decrease_67	decrease	decrease_vrb
+decrease_67	copper	O
+decrease_67	absorption	O

@@ -1,0 +1,16 @@
+reading_57	Following	O
+reading_57	graduation	O
+reading_57	he	O
+reading_57	began	O
+reading_57	his	O
+reading_57	professional	O
+reading_57	career	O
+reading_57	with	O
+reading_57	the	O
+reading_57	Reading	reading_geo
+reading_57	Rage	O
+reading_57	of	O
+reading_57	the	O
+reading_57	Premier	O
+reading_57	Development	O
+reading_57	League	O

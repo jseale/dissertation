@@ -1,0 +1,15 @@
+mate_2	Among	O
+mate_2	Frank	O
+mate_2	's	O
+mate_2	pallbearers	O
+mate_2	was	O
+mate_2	his	O
+mate_2	former	O
+mate_2	Yorkshire	O
+mate_2	prop	O
+mate_2	forward	O
+mate_2	and	O
+mate_2	team	O
+mate_2	mate	mate
+mate_2	Rodney	O
+mate_2	Childs	O

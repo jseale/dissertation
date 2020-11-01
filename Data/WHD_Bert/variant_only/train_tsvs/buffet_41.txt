@@ -1,0 +1,11 @@
+buffet_41	One	O
+buffet_41	buffet	buffet_nou
+buffet_41	car	O
+buffet_41	survived	O
+buffet_41	and	O
+buffet_41	is	O
+buffet_41	at	O
+buffet_41	the	O
+buffet_41	Great	O
+buffet_41	Central	O
+buffet_41	Railway	O

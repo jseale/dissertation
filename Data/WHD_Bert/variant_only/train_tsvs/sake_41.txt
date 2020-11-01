@@ -1,0 +1,16 @@
+sake_41	She	O
+sake_41	is	O
+sake_41	in	O
+sake_41	love	O
+sake_41	with	O
+sake_41	Naoya	O
+sake_41	but	O
+sake_41	regretfully	O
+sake_41	gives	O
+sake_41	up	O
+sake_41	her	O
+sake_41	feelings	O
+sake_41	for	O
+sake_41	Nagisa	O
+sake_41	's	O
+sake_41	sake	sake

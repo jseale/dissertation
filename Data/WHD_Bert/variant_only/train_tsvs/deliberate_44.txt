@@ -1,0 +1,16 @@
+deliberate_44	It	O
+deliberate_44	was	O
+deliberate_44	n't	O
+deliberate_44	a	O
+deliberate_44	deliberate	deliberate_adj
+deliberate_44	dedication	O
+deliberate_44	to	O
+deliberate_44	Jim	O
+deliberate_44	Reeves	O
+deliberate_44	it	O
+deliberate_44	's	O
+deliberate_44	just	O
+deliberate_44	worked	O
+deliberate_44	out	O
+deliberate_44	that	O
+deliberate_44	way	O

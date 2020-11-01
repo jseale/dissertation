@@ -1,0 +1,15 @@
+reject_6	The	O
+reject_6	new	O
+reject_6	EA	O
+reject_6	focused	O
+reject_6	on	O
+reject_6	the	O
+reject_6	use	O
+reject_6	of	O
+reject_6	EDT	O
+reject_6	for	O
+reject_6	destroying	O
+reject_6	overpacked	O
+reject_6	and	O
+reject_6	reject	reject_nou
+reject_6	munitions	O

@@ -1,0 +1,14 @@
+duplicate_4	This	O
+duplicate_4	was	O
+duplicate_4	to	O
+duplicate_4	eliminate	O
+duplicate_4	duplicate	duplicate_adj-nou
+duplicate_4	services	O
+duplicate_4	and	O
+duplicate_4	allocate	O
+duplicate_4	resources	O
+duplicate_4	more	O
+duplicate_4	efficiently	O
+duplicate_4	across	O
+duplicate_4	the	O
+duplicate_4	region	O

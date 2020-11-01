@@ -1,0 +1,17 @@
+attribute_71	Most	O
+attribute_71	noticeable	O
+attribute_71	was	O
+attribute_71	that	O
+attribute_71	he	O
+attribute_71	did	O
+attribute_71	not	O
+attribute_71	attribute	attribute_vrb
+attribute_71	sexual	O
+attribute_71	factors	O
+attribute_71	to	O
+attribute_71	the	O
+attribute_71	conditions	O
+attribute_71	of	O
+attribute_71	his	O
+attribute_71	male	O
+attribute_71	patients	O

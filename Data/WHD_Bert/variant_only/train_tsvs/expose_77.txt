@@ -1,0 +1,16 @@
+expose_77	Ducane	O
+expose_77	must	O
+expose_77	decide	O
+expose_77	whether	O
+expose_77	or	O
+expose_77	not	O
+expose_77	to	O
+expose_77	expose	expose_vrb
+expose_77	Biranne	O
+expose_77	when	O
+expose_77	he	O
+expose_77	makes	O
+expose_77	his	O
+expose_77	report	O
+expose_77	to	O
+expose_77	Octavian	O

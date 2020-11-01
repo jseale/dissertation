@@ -1,0 +1,10 @@
+correlate_80	Second	O
+correlate_80	self	O
+correlate_80	interacting	O
+correlate_80	domains	O
+correlate_80	correlate	correlate_nou-vrb
+correlate_80	with	O
+correlate_80	regulation	O
+correlate_80	of	O
+correlate_80	gene	O
+correlate_80	expression	O

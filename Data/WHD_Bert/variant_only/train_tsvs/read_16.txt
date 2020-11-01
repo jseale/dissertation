@@ -1,0 +1,13 @@
+read_16	The	O
+read_16	sign	O
+read_16	was	O
+read_16	made	O
+read_16	by	O
+read_16	Radcliffe	O
+read_16	's	O
+read_16	husband	O
+read_16	and	O
+read_16	read	read_past
+read_16	EPO	O
+read_16	Cheats	O
+read_16	Out	O

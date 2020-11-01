@@ -1,0 +1,17 @@
+upset_5	Author	O
+upset_5	Hugh	O
+upset_5	M.	O
+upset_5	Cole	O
+upset_5	mentioned	O
+upset_5	Bouck	O
+upset_5	's	O
+upset_5	platoon	O
+upset_5	in	O
+upset_5	passing	O
+upset_5	which	O
+upset_5	upset	upset_vrb
+upset_5	platoon	O
+upset_5	member	O
+upset_5	William	O
+upset_5	James	O
+upset_5	Tsakanikas	O

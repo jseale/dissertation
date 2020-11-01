@@ -1,0 +1,15 @@
+separate_47	Separate	separate_adj
+separate_47	local	O
+separate_47	government	O
+separate_47	began	O
+separate_47	in	O
+separate_47	1890	O
+separate_47	when	O
+separate_47	the	O
+separate_47	Scunthorpe	O
+separate_47	local	O
+separate_47	board	O
+separate_47	of	O
+separate_47	health	O
+separate_47	was	O
+separate_47	formed	O

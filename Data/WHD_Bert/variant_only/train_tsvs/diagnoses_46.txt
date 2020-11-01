@@ -1,0 +1,11 @@
+diagnoses_46	During	O
+diagnoses_46	a	O
+diagnoses_46	routine	O
+diagnoses_46	check	O
+diagnoses_46	they	O
+diagnoses_46	are	O
+diagnoses_46	confronted	O
+diagnoses_46	with	O
+diagnoses_46	a	O
+diagnoses_46	terrifying	O
+diagnoses_46	diagnoses	diagnoses_nou

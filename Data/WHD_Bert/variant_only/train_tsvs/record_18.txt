@@ -1,0 +1,16 @@
+record_18	The	O
+record_18	record	record_nou
+record_18	of	O
+record_18	known	O
+record_18	occurrences	O
+record_18	therefore	O
+record_18	may	O
+record_18	poorly	O
+record_18	reflect	O
+record_18	the	O
+record_18	actual	O
+record_18	extent	O
+record_18	of	O
+record_18	the	O
+record_18	species	O
+record_18	distribution	O

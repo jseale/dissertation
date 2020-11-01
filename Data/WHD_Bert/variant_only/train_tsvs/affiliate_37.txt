@@ -1,0 +1,11 @@
+affiliate_37	Tatto	O
+affiliate_37	Media	O
+affiliate_37	is	O
+affiliate_37	an	O
+affiliate_37	affiliate	affiliate_nou
+affiliate_37	marketing	O
+affiliate_37	advertising	O
+affiliate_37	network	O
+affiliate_37	based	O
+affiliate_37	in	O
+affiliate_37	Boston	O

@@ -1,0 +1,12 @@
+estimate_2	An	O
+estimate_2	estimate	estimate_nou
+estimate_2	of	O
+estimate_2	the	O
+estimate_2	cost	O
+estimate_2	of	O
+estimate_2	such	O
+estimate_2	an	O
+estimate_2	undertaking	O
+estimate_2	was	O
+estimate_2	$	O
+estimate_2	500,000	O

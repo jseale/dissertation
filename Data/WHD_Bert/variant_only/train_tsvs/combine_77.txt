@@ -1,0 +1,9 @@
+combine_77	It	O
+combine_77	would	O
+combine_77	combine	combine_vrb
+combine_77	puppets	O
+combine_77	dancers	O
+combine_77	acrobats	O
+combine_77	and	O
+combine_77	animated	O
+combine_77	backdrops	O

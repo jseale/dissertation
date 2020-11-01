@@ -1,0 +1,17 @@
+contrast_13	For	O
+contrast_13	one	O
+contrast_13	16	O
+contrast_13	of	O
+contrast_13	Skopjans	O
+contrast_13	graduated	O
+contrast_13	university	O
+contrast_13	in	O
+contrast_13	contrast	contrast_nou
+contrast_13	to	O
+contrast_13	10	O
+contrast_13	for	O
+contrast_13	the	O
+contrast_13	rest	O
+contrast_13	of	O
+contrast_13	the	O
+contrast_13	country	O

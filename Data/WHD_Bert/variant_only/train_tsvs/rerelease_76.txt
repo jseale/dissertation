@@ -1,0 +1,11 @@
+rerelease_76	The	O
+rerelease_76	series	O
+rerelease_76	was	O
+rerelease_76	a	O
+rerelease_76	rerelease	rerelease
+rerelease_76	version	O
+rerelease_76	of	O
+rerelease_76	Walt	O
+rerelease_76	Disney	O
+rerelease_76	Mini	O
+rerelease_76	Classics	O

@@ -1,0 +1,7 @@
+affiliate_4	WYKT	O
+affiliate_4	is	O
+affiliate_4	a	O
+affiliate_4	CBS	O
+affiliate_4	Sports	O
+affiliate_4	Radio	O
+affiliate_4	affiliate	affiliate_nou

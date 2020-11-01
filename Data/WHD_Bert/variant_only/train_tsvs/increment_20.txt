@@ -1,0 +1,10 @@
+increment_20	But	O
+increment_20	unlike	O
+increment_20	Fischer	O
+increment_20	not	O
+increment_20	always	O
+increment_20	the	O
+increment_20	maximum	O
+increment_20	increment	increment_nou
+increment_20	is	O
+increment_20	added	O

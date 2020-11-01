@@ -1,0 +1,16 @@
+celtic_46	The	O
+celtic_46	presence	O
+celtic_46	of	O
+celtic_46	a	O
+celtic_46	Land	O
+celtic_46	of	O
+celtic_46	Faerie	O
+celtic_46	or	O
+celtic_46	an	O
+celtic_46	Otherworld	O
+celtic_46	betrays	O
+celtic_46	the	O
+celtic_46	story	O
+celtic_46	's	O
+celtic_46	Celtic	celtic
+celtic_46	roots	O

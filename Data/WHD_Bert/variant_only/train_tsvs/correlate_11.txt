@@ -1,0 +1,17 @@
+correlate_11	As	O
+correlate_11	the	O
+correlate_11	three	O
+correlate_11	sections	O
+correlate_11	evaluate	O
+correlate_11	distinct	O
+correlate_11	sets	O
+correlate_11	of	O
+correlate_11	knowledge	O
+correlate_11	and	O
+correlate_11	skills	O
+correlate_11	scores	O
+correlate_11	do	O
+correlate_11	not	O
+correlate_11	correlate	correlate_nou-vrb
+correlate_11	across	O
+correlate_11	sections	O

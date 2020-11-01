@@ -1,0 +1,16 @@
+initiate_53	The	O
+initiate_53	International	O
+initiate_53	Genomics	O
+initiate_53	Consortium	O
+initiate_53	was	O
+initiate_53	awarded	O
+initiate_53	the	O
+initiate_53	contract	O
+initiate_53	to	O
+initiate_53	initiate	initiate_vrb
+initiate_53	the	O
+initiate_53	BCR	O
+initiate_53	for	O
+initiate_53	the	O
+initiate_53	pilot	O
+initiate_53	project	O

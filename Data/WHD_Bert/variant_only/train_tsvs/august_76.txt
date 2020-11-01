@@ -1,0 +1,15 @@
+august_76	After	O
+august_76	two	O
+august_76	weeks	O
+august_76	of	O
+august_76	intense	O
+august_76	activity	O
+august_76	during	O
+august_76	August	august
+august_76	the	O
+august_76	Anne	O
+august_76	Beadell	O
+august_76	Highway	O
+august_76	reached	O
+august_76	Neale	O
+august_76	Junction	O

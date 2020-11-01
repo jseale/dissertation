@@ -1,0 +1,12 @@
+wound_58	He	O
+wound_58	sustains	O
+wound_58	a	O
+wound_58	million	O
+wound_58	dollar	O
+wound_58	wound	wound_nou-vrb
+wound_58	during	O
+wound_58	combat	O
+wound_58	and	O
+wound_58	is	O
+wound_58	sent	O
+wound_58	home	O

@@ -1,0 +1,10 @@
+pasty_0	Additionally	O
+pasty_0	used	O
+pasty_0	as	O
+pasty_0	a	O
+pasty_0	filling	O
+pasty_0	for	O
+pasty_0	the	O
+pasty_0	traditional	O
+pasty_0	Karelian	O
+pasty_0	pasty	pasty_adj

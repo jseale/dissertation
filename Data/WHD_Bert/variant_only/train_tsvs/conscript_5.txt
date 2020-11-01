@@ -1,0 +1,14 @@
+conscript_5	The	O
+conscript_5	FRDF	O
+conscript_5	service	O
+conscript_5	itself	O
+conscript_5	does	O
+conscript_5	not	O
+conscript_5	differ	O
+conscript_5	radically	O
+conscript_5	from	O
+conscript_5	the	O
+conscript_5	standard	O
+conscript_5	Finnish	O
+conscript_5	conscript	conscript_nou
+conscript_5	service	O

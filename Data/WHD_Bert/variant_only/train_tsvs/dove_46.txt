@@ -1,0 +1,10 @@
+dove_46	As	O
+dove_46	it	O
+dove_46	crosses	O
+dove_46	the	O
+dove_46	River	O
+dove_46	Dove	dove
+dove_46	the	O
+dove_46	road	O
+dove_46	enters	O
+dove_46	Derbyshire	O

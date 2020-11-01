@@ -1,0 +1,17 @@
+increase_5	On	O
+increase_5	November	O
+increase_5	4	O
+increase_5	2008	O
+increase_5	voters	O
+increase_5	in	O
+increase_5	King	O
+increase_5	County	O
+increase_5	Seattle	O
+increase_5	approved	O
+increase_5	a	O
+increase_5	0.5	O
+increase_5	increase	increase_nou
+increase_5	in	O
+increase_5	the	O
+increase_5	sales	O
+increase_5	tax	O

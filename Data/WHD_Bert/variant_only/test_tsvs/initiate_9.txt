@@ -1,0 +1,16 @@
+initiate_9	Indonesians	O
+initiate_9	smile	O
+initiate_9	a	O
+initiate_9	lot	O
+initiate_9	to	O
+initiate_9	initiate	initiate_vrb
+initiate_9	contact	O
+initiate_9	it	O
+initiate_9	is	O
+initiate_9	highly	O
+initiate_9	recommended	O
+initiate_9	to	O
+initiate_9	smile	O
+initiate_9	back	O
+initiate_9	in	O
+initiate_9	return	O

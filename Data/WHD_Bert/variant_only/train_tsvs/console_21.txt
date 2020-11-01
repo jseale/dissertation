@@ -1,0 +1,16 @@
+console_21	The	O
+console_21	Game	O
+console_21	Boy	O
+console_21	Color	O
+console_21	release	O
+console_21	features	O
+console_21	entirely	O
+console_21	different	O
+console_21	game	O
+console_21	play	O
+console_21	from	O
+console_21	its	O
+console_21	console	console_nou
+console_21	and	O
+console_21	PC	O
+console_21	counterparts	O

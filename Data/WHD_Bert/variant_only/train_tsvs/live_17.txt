@@ -1,0 +1,15 @@
+live_17	The	O
+live_17	album	O
+live_17	titled	O
+live_17	Live	live_adj
+live_17	at	O
+live_17	the	O
+live_17	Club	O
+live_17	47	O
+live_17	was	O
+live_17	recorded	O
+live_17	in	O
+live_17	Cambridge	O
+live_17	Massachusetts	O
+live_17	in	O
+live_17	1963	O

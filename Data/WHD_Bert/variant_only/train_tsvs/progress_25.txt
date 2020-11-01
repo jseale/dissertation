@@ -1,0 +1,17 @@
+progress_25	The	O
+progress_25	pink	O
+progress_25	ribbon	O
+progress_25	is	O
+progress_25	associated	O
+progress_25	with	O
+progress_25	individual	O
+progress_25	generosity	O
+progress_25	faith	O
+progress_25	in	O
+progress_25	scientific	O
+progress_25	progress	progress_nou
+progress_25	and	O
+progress_25	a	O
+progress_25	can	O
+progress_25	do	O
+progress_25	attitude	O

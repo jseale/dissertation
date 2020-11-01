@@ -1,0 +1,13 @@
+transform_34	To	O
+transform_34	do	O
+transform_34	so	O
+transform_34	we	O
+transform_34	first	O
+transform_34	transform	transform
+transform_34	into	O
+transform_34	the	O
+transform_34	barycentric	O
+transform_34	coordinates	O
+transform_34	of	O
+transform_34	each	O
+transform_34	triangle	O

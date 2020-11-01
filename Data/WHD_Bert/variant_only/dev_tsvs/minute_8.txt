@@ -1,0 +1,17 @@
+minute_8	In	O
+minute_8	the	O
+minute_8	100	O
+minute_8	Butterfly	O
+minute_8	Yeo	O
+minute_8	also	O
+minute_8	finally	O
+minute_8	finished	O
+minute_8	in	O
+minute_8	under	O
+minute_8	one	O
+minute_8	minute	minute
+minute_8	winning	O
+minute_8	the	O
+minute_8	race	O
+minute_8	in	O
+minute_8	59.91s	O

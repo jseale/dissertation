@@ -1,0 +1,13 @@
+attribute_16	Lenses	O
+attribute_16	with	O
+attribute_16	the	O
+attribute_16	model	O
+attribute_16	name	O
+attribute_16	attribute	attribute_nou
+attribute_16	DG	O
+attribute_16	are	O
+attribute_16	made	O
+attribute_16	by	O
+attribute_16	Panasonic	O
+attribute_16	under	O
+attribute_16	licence	O

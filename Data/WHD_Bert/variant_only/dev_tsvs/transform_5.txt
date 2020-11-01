@@ -1,0 +1,9 @@
+transform_5	However	O
+transform_5	note	O
+transform_5	that	O
+transform_5	this	O
+transform_5	transform	transform_nou
+transform_5	becomes	O
+transform_5	the	O
+transform_5	original	O
+transform_5	transformas	O

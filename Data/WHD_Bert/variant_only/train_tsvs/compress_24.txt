@@ -1,0 +1,16 @@
+compress_24	Elastomeric	O
+compress_24	bearing	O
+compress_24	pads	O
+compress_24	compress	compress
+compress_24	on	O
+compress_24	vertical	O
+compress_24	load	O
+compress_24	and	O
+compress_24	accommodate	O
+compress_24	horizontal	O
+compress_24	rotation	O
+compress_24	and	O
+compress_24	provide	O
+compress_24	lateral	O
+compress_24	shear	O
+compress_24	movement	O

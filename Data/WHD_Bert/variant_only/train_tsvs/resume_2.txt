@@ -1,0 +1,15 @@
+resume_2	In	O
+resume_2	2011	O
+resume_2	citing	O
+resume_2	economic	O
+resume_2	concerns	O
+resume_2	the	O
+resume_2	County	O
+resume_2	permitted	O
+resume_2	the	O
+resume_2	annual	O
+resume_2	signature	O
+resume_2	event	O
+resume_2	to	O
+resume_2	fully	O
+resume_2	resume	resume_vrb

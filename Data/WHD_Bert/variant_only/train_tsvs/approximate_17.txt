@@ -1,0 +1,15 @@
+approximate_17	She	O
+approximate_17	died	O
+approximate_17	in	O
+approximate_17	Pakistan	O
+approximate_17	on	O
+approximate_17	6	O
+approximate_17	December	O
+approximate_17	1982	O
+approximate_17	at	O
+approximate_17	the	O
+approximate_17	approximate	approximate_adj-nou
+approximate_17	age	O
+approximate_17	of	O
+approximate_17	sixty	O
+approximate_17	five	O

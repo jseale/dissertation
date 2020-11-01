@@ -1,0 +1,15 @@
+contract_9	Phillips	O
+contract_9	signed	O
+contract_9	a	O
+contract_9	minor	O
+contract_9	league	O
+contract_9	contract	contract_nou
+contract_9	with	O
+contract_9	the	O
+contract_9	Chicago	O
+contract_9	White	O
+contract_9	Sox	O
+contract_9	on	O
+contract_9	January	O
+contract_9	11	O
+contract_9	2008	O

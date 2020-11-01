@@ -1,0 +1,16 @@
+aggregate_2	Groundwater	O
+aggregate_2	aquifer	O
+aggregate_2	dewatering	O
+aggregate_2	to	O
+aggregate_2	lower	O
+aggregate_2	the	O
+aggregate_2	water	O
+aggregate_2	table	O
+aggregate_2	for	O
+aggregate_2	access	O
+aggregate_2	to	O
+aggregate_2	additional	O
+aggregate_2	aggregate	aggregate_adj-nou
+aggregate_2	would	O
+aggregate_2	be	O
+aggregate_2	allowed	O

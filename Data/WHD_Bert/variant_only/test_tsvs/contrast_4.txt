@@ -1,0 +1,16 @@
+contrast_4	In	O
+contrast_4	contrast	contrast_nou
+contrast_4	Richard	O
+contrast_4	Eisenbeis	O
+contrast_4	of	O
+contrast_4	Kotaku	O
+contrast_4	felt	O
+contrast_4	that	O
+contrast_4	Kileak	O
+contrast_4	had	O
+contrast_4	tons	O
+contrast_4	of	O
+contrast_4	bad	O
+contrast_4	CG	O
+contrast_4	cut	O
+contrast_4	scenes	O

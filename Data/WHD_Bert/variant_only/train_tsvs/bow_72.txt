@@ -1,0 +1,12 @@
+bow_72	The	O
+bow_72	wreck	O
+bow_72	is	O
+bow_72	marked	O
+bow_72	with	O
+bow_72	red	O
+bow_72	buoys	O
+bow_72	at	O
+bow_72	the	O
+bow_72	bow	bow_nou-ship
+bow_72	and	O
+bow_72	stern	O

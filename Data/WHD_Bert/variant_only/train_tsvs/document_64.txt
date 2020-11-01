@@ -1,0 +1,17 @@
+document_64	It	O
+document_64	is	O
+document_64	a	O
+document_64	pull	O
+document_64	parser	O
+document_64	which	O
+document_64	means	O
+document_64	it	O
+document_64	reads	O
+document_64	a	O
+document_64	little	O
+document_64	bit	O
+document_64	of	O
+document_64	the	O
+document_64	document	document_nou
+document_64	at	O
+document_64	once	O

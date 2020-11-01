@@ -1,0 +1,16 @@
+document_73	Rudelsheim	O
+document_73	had	O
+document_73	its	O
+document_73	first	O
+document_73	documentary	O
+document_73	mention	O
+document_73	in	O
+document_73	766	O
+document_73	in	O
+document_73	a	O
+document_73	donation	O
+document_73	document	document_nou
+document_73	from	O
+document_73	the	O
+document_73	Lorsch	O
+document_73	Abbey	O

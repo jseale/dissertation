@@ -1,0 +1,17 @@
+invalid_4	Although	O
+invalid_4	the	O
+invalid_4	Major	O
+invalid_4	did	O
+invalid_4	return	O
+invalid_4	from	O
+invalid_4	the	O
+invalid_4	war	O
+invalid_4	he	O
+invalid_4	was	O
+invalid_4	an	O
+invalid_4	invalid	invalid_nou
+invalid_4	and	O
+invalid_4	died	O
+invalid_4	ten	O
+invalid_4	years	O
+invalid_4	later	O

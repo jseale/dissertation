@@ -1,0 +1,8 @@
+approximate_66	Approximate	approximate_adj-nou
+approximate_66	running	O
+approximate_66	time	O
+approximate_66	36	O
+approximate_66	minutes	O
+approximate_66	in	O
+approximate_66	4	O
+approximate_66	parts	O

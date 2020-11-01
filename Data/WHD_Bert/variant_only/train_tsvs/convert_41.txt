@@ -1,0 +1,17 @@
+convert_41	It	O
+convert_41	can	O
+convert_41	convert	convert_vrb
+convert_41	into	O
+convert_41	a	O
+convert_41	muzzle	O
+convert_41	a	O
+convert_41	plastic	O
+convert_41	blue	O
+convert_41	bucket	O
+convert_41	filled	O
+convert_41	with	O
+convert_41	water	O
+convert_41	and	O
+convert_41	a	O
+convert_41	magic	O
+convert_41	hand	O

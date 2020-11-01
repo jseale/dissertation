@@ -1,0 +1,16 @@
+estimate_64	The	O
+estimate_64	final	O
+estimate_64	population	O
+estimate_64	estimate	estimate_nou
+estimate_64	as	O
+estimate_64	of	O
+estimate_64	April	O
+estimate_64	2014	O
+estimate_64	is	O
+estimate_64	127,136,000	O
+estimate_64	or	O
+estimate_64	a	O
+estimate_64	return	O
+estimate_64	to	O
+estimate_64	2003	O
+estimate_64	levels	O

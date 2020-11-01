@@ -1,0 +1,15 @@
+separate_7	The	O
+separate_7	station	O
+separate_7	consists	O
+separate_7	of	O
+separate_7	three	O
+separate_7	separate	separate_adj
+separate_7	island	O
+separate_7	platforms	O
+separate_7	serving	O
+separate_7	two	O
+separate_7	tracks	O
+separate_7	for	O
+separate_7	each	O
+separate_7	respective	O
+separate_7	line	O

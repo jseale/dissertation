@@ -1,0 +1,10 @@
+refund_3	If	O
+refund_3	ATF	O
+refund_3	denies	O
+refund_3	an	O
+refund_3	application	O
+refund_3	it	O
+refund_3	must	O
+refund_3	refund	refund_vrb
+refund_3	the	O
+refund_3	tax	O

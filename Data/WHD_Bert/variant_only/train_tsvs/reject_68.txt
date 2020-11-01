@@ -1,0 +1,14 @@
+reject_68	Although	O
+reject_68	he	O
+reject_68	received	O
+reject_68	the	O
+reject_68	crown	O
+reject_68	he	O
+reject_68	did	O
+reject_68	n't	O
+reject_68	reject	reject_vrb
+reject_68	his	O
+reject_68	former	O
+reject_68	attribute	O
+reject_68	of	O
+reject_68	authority	O

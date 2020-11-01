@@ -1,0 +1,12 @@
+graduate_13	It	O
+graduate_13	has	O
+graduate_13	about	O
+graduate_13	1,100	O
+graduate_13	students	O
+graduate_13	enrolled	O
+graduate_13	in	O
+graduate_13	its	O
+graduate_13	undergraduate	O
+graduate_13	and	O
+graduate_13	graduate	graduate_adj-nou
+graduate_13	programs	O

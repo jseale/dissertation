@@ -1,0 +1,12 @@
+live_27	In	O
+live_27	heaven	O
+live_27	he	O
+live_27	will	O
+live_27	live	live_vrb
+live_27	as	O
+live_27	long	O
+live_27	as	O
+live_27	Visakha	O
+live_27	and	O
+live_27	Sakka	O
+live_27	DA.iii.740	O

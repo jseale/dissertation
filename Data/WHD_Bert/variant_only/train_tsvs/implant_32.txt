@@ -1,0 +1,17 @@
+implant_32	This	O
+implant_32	prompts	O
+implant_32	Karamat	O
+implant_32	into	O
+implant_32	starting	O
+implant_32	the	O
+implant_32	proceedings	O
+implant_32	to	O
+implant_32	implant	implant_vrb
+implant_32	Ahmed	O
+implant_32	as	O
+implant_32	a	O
+implant_32	spy	O
+implant_32	in	O
+implant_32	the	O
+implant_32	Indian	O
+implant_32	Army	O

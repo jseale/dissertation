@@ -1,0 +1,12 @@
+animate_34	The	O
+animate_34	demonstratives	O
+animate_34	are	O
+animate_34	used	O
+animate_34	of	O
+animate_34	non	O
+animate_34	human	O
+animate_34	animate	animate_adj-nou
+animate_34	entities	O
+animate_34	and	O
+animate_34	inanimate	O
+animate_34	objects	O

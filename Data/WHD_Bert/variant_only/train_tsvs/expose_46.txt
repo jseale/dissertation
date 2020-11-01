@@ -1,0 +1,16 @@
+expose_46	British	O
+expose_46	forces	O
+expose_46	placed	O
+expose_46	there	O
+expose_46	would	O
+expose_46	expose	expose_vrb
+expose_46	the	O
+expose_46	colonial	O
+expose_46	forces	O
+expose_46	in	O
+expose_46	Boston	O
+expose_46	to	O
+expose_46	attack	O
+expose_46	from	O
+expose_46	the	O
+expose_46	rear	O

@@ -1,0 +1,12 @@
+suspect_31	He	O
+suspect_31	becomes	O
+suspect_31	the	O
+suspect_31	primary	O
+suspect_31	suspect	suspect_adj-nou
+suspect_31	and	O
+suspect_31	is	O
+suspect_31	asked	O
+suspect_31	not	O
+suspect_31	to	O
+suspect_31	leave	O
+suspect_31	town	O

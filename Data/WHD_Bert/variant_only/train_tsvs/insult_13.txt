@@ -1,0 +1,11 @@
+insult_13	Now	O
+insult_13	that	O
+insult_13	's	O
+insult_13	what	O
+insult_13	you	O
+insult_13	might	O
+insult_13	call	O
+insult_13	adding	O
+insult_13	insult	insult_nou
+insult_13	to	O
+insult_13	injury	O

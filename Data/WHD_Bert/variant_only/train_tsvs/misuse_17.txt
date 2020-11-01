@@ -1,0 +1,16 @@
+misuse_17	In	O
+misuse_17	2015	O
+misuse_17	however	O
+misuse_17	case	O
+misuse_17	reports	O
+misuse_17	of	O
+misuse_17	extremely	O
+misuse_17	high	O
+misuse_17	dose	O
+misuse_17	loperamide	O
+misuse_17	resulting	O
+misuse_17	in	O
+misuse_17	opioid	O
+misuse_17	misuse	misuse_nou
+misuse_17	were	O
+misuse_17	published	O

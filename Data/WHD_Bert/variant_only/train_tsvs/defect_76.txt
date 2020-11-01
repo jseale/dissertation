@@ -1,0 +1,17 @@
+defect_76	They	O
+defect_76	decided	O
+defect_76	to	O
+defect_76	treat	O
+defect_76	the	O
+defect_76	newborn	O
+defect_76	with	O
+defect_76	antibiotics	O
+defect_76	and	O
+defect_76	bandages	O
+defect_76	rather	O
+defect_76	than	O
+defect_76	surgery	O
+defect_76	to	O
+defect_76	repair	O
+defect_76	the	O
+defect_76	defect	defect_nou

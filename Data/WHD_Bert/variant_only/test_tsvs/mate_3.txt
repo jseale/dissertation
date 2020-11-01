@@ -1,0 +1,14 @@
+mate_3	By	O
+mate_3	pure	O
+mate_3	coincidence	O
+mate_3	Hannay	O
+mate_3	's	O
+mate_3	train	O
+mate_3	carriage	O
+mate_3	mate	mate
+mate_3	turned	O
+mate_3	out	O
+mate_3	to	O
+mate_3	be	O
+mate_3	Lombard	O
+mate_3	himself	O

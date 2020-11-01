@@ -1,0 +1,13 @@
+aged_41	This	O
+aged_41	made	O
+aged_41	her	O
+aged_41	the	O
+aged_41	oldest	O
+aged_41	ever	O
+aged_41	major	O
+aged_41	champion	O
+aged_41	aged	aged
+aged_41	46	O
+aged_41	years	O
+aged_41	8	O
+aged_41	months	O

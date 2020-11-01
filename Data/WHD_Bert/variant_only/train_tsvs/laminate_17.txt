@@ -1,0 +1,16 @@
+laminate_17	The	O
+laminate_17	application	O
+laminate_17	can	O
+laminate_17	carry	O
+laminate_17	out	O
+laminate_17	laminate	laminate_nou
+laminate_17	analyses	O
+laminate_17	including	O
+laminate_17	calculation	O
+laminate_17	of	O
+laminate_17	laminate	laminate_nou
+laminate_17	stiffness	O
+laminate_17	stress	O
+laminate_17	strain	O
+laminate_17	and	O
+laminate_17	failure	O

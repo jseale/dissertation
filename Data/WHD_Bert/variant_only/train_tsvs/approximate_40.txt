@@ -1,0 +1,11 @@
+approximate_40	The	O
+approximate_40	model	O
+approximate_40	number	O
+approximate_40	indicates	O
+approximate_40	the	O
+approximate_40	approximate	approximate_adj-nou
+approximate_40	wing	O
+approximate_40	area	O
+approximate_40	in	O
+approximate_40	square	O
+approximate_40	meters	O

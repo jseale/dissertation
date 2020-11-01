@@ -1,0 +1,14 @@
+advocate_77	The	O
+advocate_77	main	O
+advocate_77	goal	O
+advocate_77	of	O
+advocate_77	the	O
+advocate_77	organisation	O
+advocate_77	is	O
+advocate_77	to	O
+advocate_77	advocate	advocate_vrb
+advocate_77	against	O
+advocate_77	pseudoscience	O
+advocate_77	astrology	O
+advocate_77	and	O
+advocate_77	mysticism	O

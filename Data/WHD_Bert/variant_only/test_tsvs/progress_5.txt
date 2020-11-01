@@ -1,0 +1,15 @@
+progress_5	Conversations	O
+progress_5	with	O
+progress_5	these	O
+progress_5	characters	O
+progress_5	may	O
+progress_5	yield	O
+progress_5	insights	O
+progress_5	or	O
+progress_5	items	O
+progress_5	necessary	O
+progress_5	to	O
+progress_5	progress	progress_vrb
+progress_5	in	O
+progress_5	the	O
+progress_5	game	O

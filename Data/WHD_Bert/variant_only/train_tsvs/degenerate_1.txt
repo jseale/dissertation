@@ -1,0 +1,16 @@
+degenerate_1	If	O
+degenerate_1	one	O
+degenerate_1	of	O
+degenerate_1	the	O
+degenerate_1	four	O
+degenerate_1	fields	O
+degenerate_1	is	O
+degenerate_1	degenerate	degenerate_adj-nou
+degenerate_1	then	O
+degenerate_1	the	O
+degenerate_1	corresponding	O
+degenerate_1	conformal	O
+degenerate_1	blocks	O
+degenerate_1	obey	O
+degenerate_1	BPZ	O
+degenerate_1	equations	O

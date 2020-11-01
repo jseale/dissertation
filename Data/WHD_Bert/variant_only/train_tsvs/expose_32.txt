@@ -1,0 +1,14 @@
+expose_32	Its	O
+expose_32	stated	O
+expose_32	goal	O
+expose_32	is	O
+expose_32	to	O
+expose_32	investigate	O
+expose_32	and	O
+expose_32	expose	expose_vrb
+expose_32	crimes	O
+expose_32	against	O
+expose_32	wildlife	O
+expose_32	and	O
+expose_32	the	O
+expose_32	environment	O

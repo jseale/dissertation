@@ -1,0 +1,17 @@
+suspect_37	He	O
+suspect_37	proves	O
+suspect_37	Solomon	O
+suspect_37	's	O
+suspect_37	innocence	O
+suspect_37	but	O
+suspect_37	a	O
+suspect_37	new	O
+suspect_37	piece	O
+suspect_37	of	O
+suspect_37	evidence	O
+suspect_37	places	O
+suspect_37	Athena	O
+suspect_37	as	O
+suspect_37	the	O
+suspect_37	prime	O
+suspect_37	suspect	suspect_adj-nou

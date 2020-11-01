@@ -1,0 +1,11 @@
+laminate_40	The	O
+laminate_40	laminate	laminate_nou
+laminate_40	encapsulation	O
+laminate_40	material	O
+laminate_40	was	O
+laminate_40	durable	O
+laminate_40	ETFE	O
+laminate_40	high	O
+laminate_40	light	O
+laminate_40	transmissive	O
+laminate_40	polymer	O

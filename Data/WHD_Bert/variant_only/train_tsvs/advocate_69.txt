@@ -1,0 +1,12 @@
+advocate_69	He	O
+advocate_69	was	O
+advocate_69	reappointed	O
+advocate_69	as	O
+advocate_69	the	O
+advocate_69	Judge	O
+advocate_69	Advocate	advocate_nou
+advocate_69	General	O
+advocate_69	in	O
+advocate_69	1952	O
+advocate_69	and	O
+advocate_69	1956	O

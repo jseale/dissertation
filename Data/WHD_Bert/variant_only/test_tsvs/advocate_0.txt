@@ -1,0 +1,9 @@
+advocate_0	He	O
+advocate_0	was	O
+advocate_0	also	O
+advocate_0	an	O
+advocate_0	early	O
+advocate_0	advocate	advocate_nou
+advocate_0	of	O
+advocate_0	organic	O
+advocate_0	gardening	O

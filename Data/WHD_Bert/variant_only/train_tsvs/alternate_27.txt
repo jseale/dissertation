@@ -1,0 +1,15 @@
+alternate_27	Di	O
+alternate_27	Meola	O
+alternate_27	used	O
+alternate_27	alternate	alternate_adj-nou
+alternate_27	picking	O
+alternate_27	to	O
+alternate_27	perform	O
+alternate_27	very	O
+alternate_27	rapid	O
+alternate_27	sequences	O
+alternate_27	of	O
+alternate_27	notes	O
+alternate_27	in	O
+alternate_27	his	O
+alternate_27	solos	O

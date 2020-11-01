@@ -1,0 +1,17 @@
+extract_18	Some	O
+extract_18	liquorice	O
+extract_18	candy	O
+extract_18	is	O
+extract_18	flavoured	O
+extract_18	with	O
+extract_18	anise	O
+extract_18	oil	O
+extract_18	instead	O
+extract_18	of	O
+extract_18	or	O
+extract_18	in	O
+extract_18	combination	O
+extract_18	with	O
+extract_18	liquorice	O
+extract_18	root	O
+extract_18	extract	extract_nou

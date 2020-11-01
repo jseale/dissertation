@@ -1,0 +1,17 @@
+bass_1	The	O
+bass_1	band	O
+bass_1	's	O
+bass_1	permanent	O
+bass_1	members	O
+bass_1	were	O
+bass_1	Mick	O
+bass_1	Murphy	O
+bass_1	lead	O
+bass_1	vocals	O
+bass_1	Bob	O
+bass_1	Collins	O
+bass_1	guitar	O
+bass_1	and	O
+bass_1	Mark	O
+bass_1	Matthews	O
+bass_1	bass	bass

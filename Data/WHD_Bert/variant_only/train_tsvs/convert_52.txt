@@ -1,0 +1,14 @@
+convert_52	Some	O
+convert_52	reports	O
+convert_52	also	O
+convert_52	show	O
+convert_52	that	O
+convert_52	many	O
+convert_52	of	O
+convert_52	the	O
+convert_52	Chinese	O
+convert_52	Indonesians	O
+convert_52	minority	O
+convert_52	convert	convert_vrb
+convert_52	to	O
+convert_52	Christianity	O

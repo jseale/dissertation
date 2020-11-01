@@ -1,0 +1,16 @@
+mate_16	One	O
+mate_16	day	O
+mate_16	he	O
+mate_16	corrected	O
+mate_16	a	O
+mate_16	college	O
+mate_16	mate	mate
+mate_16	for	O
+mate_16	not	O
+mate_16	hitting	O
+mate_16	right	O
+mate_16	notes	O
+mate_16	while	O
+mate_16	singing	O
+mate_16	a	O
+mate_16	song	O

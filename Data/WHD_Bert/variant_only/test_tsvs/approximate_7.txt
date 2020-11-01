@@ -1,0 +1,9 @@
+approximate_7	Within	O
+approximate_7	each	O
+approximate_7	subsection	O
+approximate_7	changes	O
+approximate_7	are	O
+approximate_7	in	O
+approximate_7	approximate	approximate_adj-nou
+approximate_7	chronological	O
+approximate_7	order	O

@@ -1,0 +1,17 @@
+construct_4	It	O
+construct_4	is	O
+construct_4	often	O
+construct_4	advantageous	O
+construct_4	to	O
+construct_4	construct	construct_vrb
+construct_4	a	O
+construct_4	CLIN	O
+construct_4	Schedule	O
+construct_4	that	O
+construct_4	matches	O
+construct_4	an	O
+construct_4	outline	O
+construct_4	of	O
+construct_4	the	O
+construct_4	work	O
+construct_4	statement	O

@@ -1,0 +1,10 @@
+aged_14	On	O
+aged_14	2	O
+aged_14	August	O
+aged_14	1934	O
+aged_14	the	O
+aged_14	aged	aged_adj
+aged_14	President	O
+aged_14	von	O
+aged_14	Hindenberg	O
+aged_14	died	O

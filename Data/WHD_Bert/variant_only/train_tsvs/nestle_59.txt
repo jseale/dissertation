@@ -1,0 +1,12 @@
+nestle_59	Towards	O
+nestle_59	the	O
+nestle_59	sound	O
+nestle_59	side	O
+nestle_59	sea	O
+nestle_59	grasses	O
+nestle_59	Yucca	O
+nestle_59	Aloifolia	O
+nestle_59	and	O
+nestle_59	Wax	O
+nestle_59	Myrtles	O
+nestle_59	nestle	nestle_vrb

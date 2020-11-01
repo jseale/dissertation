@@ -1,0 +1,14 @@
+jesus_38	For	O
+jesus_38	the	O
+jesus_38	law	O
+jesus_38	was	O
+jesus_38	given	O
+jesus_38	through	O
+jesus_38	Moses	O
+jesus_38	grace	O
+jesus_38	and	O
+jesus_38	truth	O
+jesus_38	came	O
+jesus_38	through	O
+jesus_38	Jesus	jesus
+jesus_38	Christ	O

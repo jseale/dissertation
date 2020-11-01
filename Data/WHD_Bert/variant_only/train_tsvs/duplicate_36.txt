@@ -1,0 +1,16 @@
+duplicate_36	It	O
+duplicate_36	is	O
+duplicate_36	shot	O
+duplicate_36	down	O
+duplicate_36	over	O
+duplicate_36	their	O
+duplicate_36	duplicate	duplicate_adj-nou
+duplicate_36	Atlantis	O
+duplicate_36	though	O
+duplicate_36	not	O
+duplicate_36	before	O
+duplicate_36	transmitting	O
+duplicate_36	data	O
+duplicate_36	back	O
+duplicate_36	to	O
+duplicate_36	Asuras	O

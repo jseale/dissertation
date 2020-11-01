@@ -1,0 +1,10 @@
+graduate_8	She	O
+graduate_8	is	O
+graduate_8	a	O
+graduate_8	graduate	graduate_adj-nou
+graduate_8	of	O
+graduate_8	the	O
+graduate_8	University	O
+graduate_8	of	O
+graduate_8	Southern	O
+graduate_8	California	O

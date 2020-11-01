@@ -1,0 +1,17 @@
+moderate_38	DCC	O
+moderate_38	Server	O
+moderate_38	has	O
+moderate_38	moderate	moderate_adj-nou
+moderate_38	support	O
+moderate_38	but	O
+moderate_38	is	O
+moderate_38	not	O
+moderate_38	standard	O
+moderate_38	on	O
+moderate_38	all	O
+moderate_38	clients	O
+moderate_38	see	O
+moderate_38	comparison	O
+moderate_38	of	O
+moderate_38	IRC	O
+moderate_38	clients	O

@@ -1,0 +1,12 @@
+permit_53	Because	O
+permit_53	of	O
+permit_53	this	O
+permit_53	many	O
+permit_53	competition	O
+permit_53	production	O
+permit_53	companies	O
+permit_53	permit	permit_vrb
+permit_53	photography	O
+permit_53	at	O
+permit_53	their	O
+permit_53	competitions	O

@@ -1,0 +1,17 @@
+record_1	After	O
+record_1	finishing	O
+record_1	third	O
+record_1	in	O
+record_1	The	O
+record_1	X	O
+record_1	Factor	O
+record_1	in	O
+record_1	2008	O
+record_1	Quigg	O
+record_1	was	O
+record_1	signed	O
+record_1	by	O
+record_1	record	record_nou
+record_1	label	O
+record_1	RCA	O
+record_1	Records	O

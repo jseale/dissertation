@@ -1,0 +1,14 @@
+ornament_41	He	O
+ornament_41	was	O
+ornament_41	much	O
+ornament_41	influenced	O
+ornament_41	by	O
+ornament_41	Song	O
+ornament_41	poetry	O
+ornament_41	with	O
+ornament_41	its	O
+ornament_41	directness	O
+ornament_41	and	O
+ornament_41	lack	O
+ornament_41	or	O
+ornament_41	ornament	ornament_nou

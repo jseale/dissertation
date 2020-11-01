@@ -1,0 +1,13 @@
+insult_11	This	O
+insult_11	is	O
+insult_11	probably	O
+insult_11	intended	O
+insult_11	to	O
+insult_11	insult	insult_vrb
+insult_11	Gilbert	O
+insult_11	as	O
+insult_11	a	O
+insult_11	traitor	O
+insult_11	to	O
+insult_11	the	O
+insult_11	King	O

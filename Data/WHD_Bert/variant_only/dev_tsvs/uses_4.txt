@@ -1,0 +1,9 @@
+uses_4	He	O
+uses_4	frequently	O
+uses_4	uses	uses_vrb
+uses_4	the	O
+uses_4	theme	O
+uses_4	"game""/""play"	O
+uses_4	in	O
+uses_4	his	O
+uses_4	songs	O

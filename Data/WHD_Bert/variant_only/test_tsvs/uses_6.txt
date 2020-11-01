@@ -1,0 +1,9 @@
+uses_6	Tibetan	O
+uses_6	uses	uses_vrb
+uses_6	an	O
+uses_6	alphabet	O
+uses_6	based	O
+uses_6	on	O
+uses_6	an	O
+uses_6	Indic	O
+uses_6	script	O

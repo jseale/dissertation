@@ -1,0 +1,11 @@
+insert_44	Plastic	O
+insert_44	spiral	O
+insert_44	binding	O
+insert_44	is	O
+insert_44	a	O
+insert_44	three	O
+insert_44	step	O
+insert_44	process	O
+insert_44	punch	O
+insert_44	insert	insert_vrb
+insert_44	crimp	O

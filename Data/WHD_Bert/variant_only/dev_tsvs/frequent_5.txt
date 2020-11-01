@@ -1,0 +1,17 @@
+frequent_5	In	O
+frequent_5	1978	O
+frequent_5	she	O
+frequent_5	became	O
+frequent_5	a	O
+frequent_5	lifetime	O
+frequent_5	Honorary	O
+frequent_5	Member	O
+frequent_5	and	O
+frequent_5	frequent	frequent_adj
+frequent_5	exhibitor	O
+frequent_5	in	O
+frequent_5	the	O
+frequent_5	group	O
+frequent_5	's	O
+frequent_5	juried	O
+frequent_5	shows	O

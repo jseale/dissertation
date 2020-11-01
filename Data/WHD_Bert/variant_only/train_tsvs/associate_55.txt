@@ -1,0 +1,14 @@
+associate_55	Institut	O
+associate_55	Mines	O
+associate_55	Télécom	O
+associate_55	also	O
+associate_55	includes	O
+associate_55	eleven	O
+associate_55	associate	associate_adj-nou
+associate_55	schools	O
+associate_55	Télécom	O
+associate_55	Nancy	O
+associate_55	in	O
+associate_55	Nancy	O
+associate_55	ex	O
+associate_55	ESIAL	O

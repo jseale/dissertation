@@ -1,0 +1,16 @@
+reading_61	It	O
+reading_61	combines	O
+reading_61	a	O
+reading_61	reading	reading_en
+reading_61	of	O
+reading_61	Hegel	O
+reading_61	's	O
+reading_61	philosophical	O
+reading_61	works	O
+reading_61	and	O
+reading_61	of	O
+reading_61	Jean	O
+reading_61	Genet	O
+reading_61	's	O
+reading_61	autobiographical	O
+reading_61	writing	O

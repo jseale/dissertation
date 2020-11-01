@@ -1,0 +1,17 @@
+rodeo_60	In	O
+rodeo_60	Chile	O
+rodeo_60	they	O
+rodeo_60	organize	O
+rodeo_60	annual	O
+rodeo_60	marches	O
+rodeo_60	against	O
+rodeo_60	the	O
+rodeo_60	mistreatment	O
+rodeo_60	undergone	O
+rodeo_60	by	O
+rodeo_60	young	O
+rodeo_60	bulls	O
+rodeo_60	in	O
+rodeo_60	the	O
+rodeo_60	Chilean	O
+rodeo_60	rodeo	rodeo

@@ -1,0 +1,16 @@
+protest_5	He	O
+protest_5	also	O
+protest_5	instigated	O
+protest_5	the	O
+protest_5	protest	protest_nou
+protest_5	against	O
+protest_5	Indonesia	O
+protest_5	's	O
+protest_5	April	O
+protest_5	Manganang	O
+protest_5	over	O
+protest_5	claims	O
+protest_5	of	O
+protest_5	being	O
+protest_5	a	O
+protest_5	hermaphrodite	O

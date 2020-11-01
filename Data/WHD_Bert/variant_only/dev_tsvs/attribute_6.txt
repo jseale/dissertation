@@ -1,0 +1,12 @@
+attribute_6	Miniature	O
+attribute_6	Cards	O
+attribute_6	support	O
+attribute_6	Attribute	attribute_nou
+attribute_6	Information	O
+attribute_6	Structure	O
+attribute_6	AIS	O
+attribute_6	in	O
+attribute_6	the	O
+attribute_6	I²C	O
+attribute_6	identification	O
+attribute_6	EEPROM	O

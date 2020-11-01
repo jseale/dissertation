@@ -1,0 +1,17 @@
+ravel_47	At	O
+ravel_47	first	O
+ravel_47	it	O
+ravel_47	recalls	O
+ravel_47	Prokofiev	O
+ravel_47	or	O
+ravel_47	Shostakovich	O
+ravel_47	but	O
+ravel_47	later	O
+ravel_47	is	O
+ravel_47	given	O
+ravel_47	a	O
+ravel_47	context	O
+ravel_47	more	O
+ravel_47	suggestive	O
+ravel_47	of	O
+ravel_47	Ravel	ravel_nam

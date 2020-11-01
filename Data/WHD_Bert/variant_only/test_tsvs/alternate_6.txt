@@ -1,0 +1,8 @@
+alternate_6	Brady	O
+alternate_6	portrays	O
+alternate_6	both	O
+alternate_6	the	O
+alternate_6	prime	O
+alternate_6	and	O
+alternate_6	alternate	alternate_adj-nou
+alternate_6	versions	O

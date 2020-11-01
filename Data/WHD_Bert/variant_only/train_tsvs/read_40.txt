@@ -1,0 +1,14 @@
+read_40	There	O
+read_40	is	O
+read_40	also	O
+read_40	a	O
+read_40	client	O
+read_40	guest	O
+read_40	mode	O
+read_40	which	O
+read_40	works	O
+read_40	like	O
+read_40	a	O
+read_40	read	read_present
+read_40	only	O
+read_40	mode	O

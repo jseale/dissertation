@@ -1,0 +1,15 @@
+tear_4	Because	O
+tear_4	ribbon	O
+tear_4	seal	O
+tear_4	skins	O
+tear_4	tear	tear_vrb
+tear_4	easily	O
+tear_4	they	O
+tear_4	are	O
+tear_4	most	O
+tear_4	suitable	O
+tear_4	for	O
+tear_4	decoration	O
+tear_4	or	O
+tear_4	ceremonial	O
+tear_4	clothing	O

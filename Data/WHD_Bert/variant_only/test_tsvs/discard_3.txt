@@ -1,0 +1,16 @@
+discard_3	On	O
+discard_3	arriving	O
+discard_3	at	O
+discard_3	the	O
+discard_3	threshold	O
+discard_3	of	O
+discard_3	the	O
+discard_3	church	O
+discard_3	pilgrims	O
+discard_3	discard	discard_vrb
+discard_3	their	O
+discard_3	robes	O
+discard_3	at	O
+discard_3	the	O
+discard_3	midnight	O
+discard_3	hour	O

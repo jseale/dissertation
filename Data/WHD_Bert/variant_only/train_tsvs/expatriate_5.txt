@@ -1,0 +1,11 @@
+expatriate_5	She	O
+expatriate_5	brought	O
+expatriate_5	together	O
+expatriate_5	expatriate	expatriate_nou
+expatriate_5	Modernists	O
+expatriate_5	with	O
+expatriate_5	members	O
+expatriate_5	of	O
+expatriate_5	the	O
+expatriate_5	French	O
+expatriate_5	Academy	O

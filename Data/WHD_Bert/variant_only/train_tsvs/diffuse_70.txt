@@ -1,0 +1,13 @@
+diffuse_70	Esophageal	O
+diffuse_70	motility	O
+diffuse_70	study	O
+diffuse_70	is	O
+diffuse_70	useful	O
+diffuse_70	in	O
+diffuse_70	cases	O
+diffuse_70	of	O
+diffuse_70	achalasia	O
+diffuse_70	and	O
+diffuse_70	diffuse	diffuse_adj
+diffuse_70	esophageal	O
+diffuse_70	spasms	O

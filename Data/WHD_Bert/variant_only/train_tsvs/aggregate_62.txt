@@ -1,0 +1,16 @@
+aggregate_62	These	O
+aggregate_62	fishes	O
+aggregate_62	usually	O
+aggregate_62	aggregate	aggregate_vrb
+aggregate_62	in	O
+aggregate_62	small	O
+aggregate_62	groups	O
+aggregate_62	often	O
+aggregate_62	in	O
+aggregate_62	mixed	O
+aggregate_62	species	O
+aggregate_62	and	O
+aggregate_62	mainly	O
+aggregate_62	feed	O
+aggregate_62	on	O
+aggregate_62	plankton	O

@@ -1,0 +1,13 @@
+ravel_79	He	O
+ravel_79	gave	O
+ravel_79	the	O
+ravel_79	premieres	O
+ravel_79	of	O
+ravel_79	works	O
+ravel_79	by	O
+ravel_79	Ravel	ravel_nam
+ravel_79	Debussy	O
+ravel_79	Satie	O
+ravel_79	Falla	O
+ravel_79	and	O
+ravel_79	Albéniz	O

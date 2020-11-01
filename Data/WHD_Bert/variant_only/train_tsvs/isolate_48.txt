@@ -1,0 +1,15 @@
+isolate_48	The	O
+isolate_48	system	O
+isolate_48	helps	O
+isolate_48	marketers	O
+isolate_48	to	O
+isolate_48	isolate	isolate
+isolate_48	motives	O
+isolate_48	likely	O
+isolate_48	to	O
+isolate_48	be	O
+isolate_48	involved	O
+isolate_48	in	O
+isolate_48	various	O
+isolate_48	consumption	O
+isolate_48	situations	O

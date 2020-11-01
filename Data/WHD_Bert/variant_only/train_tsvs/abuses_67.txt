@@ -1,0 +1,17 @@
+abuses_67	The	O
+abuses_67	specific	O
+abuses_67	purposes	O
+abuses_67	of	O
+abuses_67	the	O
+abuses_67	shortwave	O
+abuses_67	radio	O
+abuses_67	program	O
+abuses_67	are:-	O
+abuses_67	Helping	O
+abuses_67	victims	O
+abuses_67	of	O
+abuses_67	oppressions	O
+abuses_67	labor	O
+abuses_67	abuses	abuses_nou
+abuses_67	corruptions	O
+abuses_67	etc	O

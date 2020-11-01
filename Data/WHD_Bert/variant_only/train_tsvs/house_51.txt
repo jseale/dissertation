@@ -1,0 +1,16 @@
+house_51	Fiz	O
+house_51	has	O
+house_51	taken	O
+house_51	a	O
+house_51	dislike	O
+house_51	to	O
+house_51	Julie	O
+house_51	who	O
+house_51	then	O
+house_51	moved	O
+house_51	in	O
+house_51	with	O
+house_51	them	O
+house_51	at	O
+house_51	their	O
+house_51	house	house_nou

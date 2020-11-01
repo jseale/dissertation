@@ -1,0 +1,11 @@
+progress_54	Instead	O
+progress_54	you	O
+progress_54	alternate	O
+progress_54	between	O
+progress_54	suits	O
+progress_54	as	O
+progress_54	you	O
+progress_54	progress	progress_vrb
+progress_54	through	O
+progress_54	the	O
+progress_54	story	O

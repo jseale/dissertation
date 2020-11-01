@@ -1,0 +1,11 @@
+abuses_73	It	O
+abuses_73	also	O
+abuses_73	reported	O
+abuses_73	on	O
+abuses_73	other	O
+abuses_73	human	O
+abuses_73	rights	O
+abuses_73	abuses	abuses_nou
+abuses_73	in	O
+abuses_73	the	O
+abuses_73	country	O

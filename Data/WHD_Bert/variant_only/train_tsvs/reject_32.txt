@@ -1,0 +1,12 @@
+reject_32	Finally	O
+reject_32	a	O
+reject_32	provider	O
+reject_32	can	O
+reject_32	petition	O
+reject_32	the	O
+reject_32	FISA	O
+reject_32	Court	O
+reject_32	to	O
+reject_32	reject	reject_vrb
+reject_32	the	O
+reject_32	directive	O

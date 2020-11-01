@@ -1,0 +1,12 @@
+project_1	New	O
+project_1	York	O
+project_1	City	O
+project_1	Guide	O
+project_1	Volume	O
+project_1	1	O
+project_1	Federal	O
+project_1	Writer	O
+project_1	's	O
+project_1	Project	project_nou
+project_1	1939	O
+project_1	pg	O

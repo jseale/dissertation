@@ -1,0 +1,16 @@
+moderate_67	Abolitionists	O
+moderate_67	however	O
+moderate_67	were	O
+moderate_67	angry	O
+moderate_67	at	O
+moderate_67	the	O
+moderate_67	selection	O
+moderate_67	of	O
+moderate_67	a	O
+moderate_67	moderate	moderate_adj-nou
+moderate_67	and	O
+moderate_67	had	O
+moderate_67	little	O
+moderate_67	faith	O
+moderate_67	in	O
+moderate_67	Lincoln	O

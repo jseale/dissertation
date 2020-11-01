@@ -1,0 +1,16 @@
+rerelease_4	The	O
+rerelease_4	DVD	O
+rerelease_4	rerelease	rerelease
+rerelease_4	of	O
+rerelease_4	Green	O
+rerelease_4	Green	O
+rerelease_4	contained	O
+rerelease_4	features	O
+rerelease_4	not	O
+rerelease_4	available	O
+rerelease_4	in	O
+rerelease_4	the	O
+rerelease_4	original	O
+rerelease_4	CD	O
+rerelease_4	ROM	O
+rerelease_4	release	O

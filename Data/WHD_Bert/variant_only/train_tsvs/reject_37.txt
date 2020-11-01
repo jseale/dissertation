@@ -1,0 +1,16 @@
+reject_37	Within	O
+reject_37	the	O
+reject_37	Jewish	O
+reject_37	community	O
+reject_37	many	O
+reject_37	reject	reject_vrb
+reject_37	Fackenheim	O
+reject_37	's	O
+reject_37	assertion	O
+reject_37	that	O
+reject_37	this	O
+reject_37	could	O
+reject_37	be	O
+reject_37	called	O
+reject_37	a	O
+reject_37	commandment	O

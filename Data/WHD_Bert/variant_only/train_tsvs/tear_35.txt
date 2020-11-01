@@ -1,0 +1,11 @@
+tear_35	Police	O
+tear_35	ultimately	O
+tear_35	resorted	O
+tear_35	to	O
+tear_35	tear	tear_nou
+tear_35	gas	O
+tear_35	to	O
+tear_35	break	O
+tear_35	up	O
+tear_35	the	O
+tear_35	crowd	O

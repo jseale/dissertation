@@ -1,0 +1,17 @@
+suspect_39	Prime	O
+suspect_39	Suspect	suspect_adj-nou
+suspect_39	4	O
+suspect_39	through	O
+suspect_39	7	O
+suspect_39	were	O
+suspect_39	co	O
+suspect_39	produced	O
+suspect_39	by	O
+suspect_39	WGBH	O
+suspect_39	Boston	O
+suspect_39	for	O
+suspect_39	its	O
+suspect_39	Masterpiece	O
+suspect_39	Mystery	O
+suspect_39	anthology	O
+suspect_39	series	O

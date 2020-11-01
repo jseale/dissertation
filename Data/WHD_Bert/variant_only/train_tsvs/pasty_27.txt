@@ -1,0 +1,10 @@
+pasty_27	The	O
+pasty_27	crew	O
+pasty_27	were	O
+pasty_27	greeted	O
+pasty_27	with	O
+pasty_27	a	O
+pasty_27	pint	O
+pasty_27	and	O
+pasty_27	a	O
+pasty_27	pasty	pasty_adj

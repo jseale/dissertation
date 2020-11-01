@@ -1,0 +1,13 @@
+abuses_21	Student	O
+abuses_21	Loan	O
+abuses_21	Law	O
+abuses_21	Collections	O
+abuses_21	Intercepts	O
+abuses_21	Deferments	O
+abuses_21	Discharges	O
+abuses_21	Repayment	O
+abuses_21	Plans	O
+abuses_21	and	O
+abuses_21	Trade	O
+abuses_21	School	O
+abuses_21	Abuses	abuses_nou

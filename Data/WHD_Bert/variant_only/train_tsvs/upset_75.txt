@@ -1,0 +1,8 @@
+upset_75	Li	O
+upset_75	and	O
+upset_75	Sun	O
+upset_75	upset	upset_vrb
+upset_75	the	O
+upset_75	favourites	O
+upset_75	in	O
+upset_75	Taicang	O

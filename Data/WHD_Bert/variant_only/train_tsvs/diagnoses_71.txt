@@ -1,0 +1,17 @@
+diagnoses_71	The	O
+diagnoses_71	majority	O
+diagnoses_71	of	O
+diagnoses_71	diagnoses	diagnoses_nou
+diagnoses_71	of	O
+diagnoses_71	CCM	O
+diagnoses_71	are	O
+diagnoses_71	in	O
+diagnoses_71	adults	O
+diagnoses_71	however	O
+diagnoses_71	25	O
+diagnoses_71	of	O
+diagnoses_71	cases	O
+diagnoses_71	of	O
+diagnoses_71	CCM	O
+diagnoses_71	are	O
+diagnoses_71	children	O

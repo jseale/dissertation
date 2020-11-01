@@ -1,0 +1,13 @@
+abuse_58	In	O
+abuse_58	2010	O
+abuse_58	more	O
+abuse_58	than	O
+abuse_58	16,000	O
+abuse_58	deaths	O
+abuse_58	were	O
+abuse_58	attributed	O
+abuse_58	to	O
+abuse_58	abuse	abuse_nou
+abuse_58	of	O
+abuse_58	opioid	O
+abuse_58	drugs	O

@@ -1,0 +1,15 @@
+confines_30	While	O
+confines_30	Shakespeare	O
+confines_30	establishes	O
+confines_30	himself	O
+confines_30	Judith	O
+confines_30	is	O
+confines_30	trapped	O
+confines_30	by	O
+confines_30	the	O
+confines_30	confines	confines_nou
+confines_30	of	O
+confines_30	the	O
+confines_30	expectations	O
+confines_30	of	O
+confines_30	women	O

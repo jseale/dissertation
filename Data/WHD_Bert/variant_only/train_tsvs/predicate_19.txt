@@ -1,0 +1,10 @@
+predicate_19	This	O
+predicate_19	predicate	predicate_nou
+predicate_19	is	O
+predicate_19	defined	O
+predicate_19	recursively	O
+predicate_19	in	O
+predicate_19	Lines	O
+predicate_19	4	O
+predicate_19	and	O
+predicate_19	5	O

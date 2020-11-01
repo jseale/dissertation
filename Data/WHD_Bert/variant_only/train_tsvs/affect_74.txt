@@ -1,0 +1,17 @@
+affect_74	In	O
+affect_74	turn	O
+affect_74	the	O
+affect_74	events	O
+affect_74	of	O
+affect_74	suspense	O
+affect_74	must	O
+affect_74	also	O
+affect_74	directly	O
+affect_74	affect	affect
+affect_74	the	O
+affect_74	relationship	O
+affect_74	and	O
+affect_74	move	O
+affect_74	the	O
+affect_74	story	O
+affect_74	forward	O

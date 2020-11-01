@@ -1,0 +1,17 @@
+abuses_77	He	O
+abuses_77	has	O
+abuses_77	focused	O
+abuses_77	on	O
+abuses_77	how	O
+abuses_77	multinational	O
+abuses_77	corporations	O
+abuses_77	operate	O
+abuses_77	in	O
+abuses_77	foreign	O
+abuses_77	countries	O
+abuses_77	documenting	O
+abuses_77	human	O
+abuses_77	rights	O
+abuses_77	and	O
+abuses_77	environmental	O
+abuses_77	abuses	abuses_nou

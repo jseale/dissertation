@@ -1,0 +1,9 @@
+invite_38	Aust	O
+invite_38	wins	O
+invite_38	invite	invite_nou
+invite_38	to	O
+invite_38	next	O
+invite_38	year	O
+invite_38	's	O
+invite_38	ASEAN	O
+invite_38	summit	O

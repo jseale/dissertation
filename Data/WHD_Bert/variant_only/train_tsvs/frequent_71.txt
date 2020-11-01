@@ -1,0 +1,14 @@
+frequent_71	These	O
+frequent_71	symptoms	O
+frequent_71	may	O
+frequent_71	appear	O
+frequent_71	more	O
+frequent_71	frequent	frequent_adj
+frequent_71	when	O
+frequent_71	initiating	O
+frequent_71	treatment	O
+frequent_71	or	O
+frequent_71	increasing	O
+frequent_71	the	O
+frequent_71	donepezil	O
+frequent_71	dose	O

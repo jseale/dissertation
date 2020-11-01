@@ -1,0 +1,15 @@
+winds_29	Cyclone	O
+winds_29	Bobby	O
+winds_29	brings	O
+winds_29	powerful	O
+winds_29	winds	winds_nou
+winds_29	and	O
+winds_29	rare	O
+winds_29	heavy	O
+winds_29	rains	O
+winds_29	to	O
+winds_29	much	O
+winds_29	of	O
+winds_29	Western	O
+winds_29	Australia	O
+winds_29	PNG	O

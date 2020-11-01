@@ -1,0 +1,16 @@
+deliberate_1	Lippmann	O
+deliberate_1	's	O
+deliberate_1	prescription	O
+deliberate_1	in	O
+deliberate_1	Drift	O
+deliberate_1	and	O
+deliberate_1	Mastery	O
+deliberate_1	was	O
+deliberate_1	deliberate	deliberate_adj
+deliberate_1	and	O
+deliberate_1	scientific	O
+deliberate_1	governing	O
+deliberate_1	what	O
+deliberate_1	he	O
+deliberate_1	termed	O
+deliberate_1	mastery	O

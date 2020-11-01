@@ -1,0 +1,12 @@
+transport_4	Biochemical	O
+transport_4	evidence	O
+transport_4	suggests	O
+transport_4	that	O
+transport_4	phosphate	O
+transport_4	transport	transport_nou
+transport_4	may	O
+transport_4	be	O
+transport_4	involved	O
+transport_4	in	O
+transport_4	this	O
+transport_4	disease	O

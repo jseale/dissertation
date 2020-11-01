@@ -1,0 +1,16 @@
+correlate_18	Nest	O
+correlate_18	thickness	O
+correlate_18	nest	O
+correlate_18	mass	O
+correlate_18	and	O
+correlate_18	nest	O
+correlate_18	dimensions	O
+correlate_18	therefore	O
+correlate_18	correlate	correlate_nou-vrb
+correlate_18	with	O
+correlate_18	the	O
+correlate_18	mass	O
+correlate_18	of	O
+correlate_18	the	O
+correlate_18	adult	O
+correlate_18	bird	O

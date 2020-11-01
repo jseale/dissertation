@@ -1,0 +1,15 @@
+bass_64	One	O
+bass_64	week	O
+bass_64	before	O
+bass_64	their	O
+bass_64	first	O
+bass_64	show	O
+bass_64	they	O
+bass_64	brought	O
+bass_64	Marrs	O
+bass_64	in	O
+bass_64	to	O
+bass_64	replace	O
+bass_64	Louis	O
+bass_64	on	O
+bass_64	bass	bass

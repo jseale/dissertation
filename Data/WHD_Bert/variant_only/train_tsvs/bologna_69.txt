@@ -1,0 +1,16 @@
+bologna_69	The	O
+bologna_69	Palazzo	O
+bologna_69	Felicini	O
+bologna_69	is	O
+bologna_69	a	O
+bologna_69	Renaissance	O
+bologna_69	style	O
+bologna_69	palace	O
+bologna_69	in	O
+bologna_69	Via	O
+bologna_69	Galliera	O
+bologna_69	14	O
+bologna_69	in	O
+bologna_69	central	O
+bologna_69	Bologna	bologna_geo
+bologna_69	Italy	O

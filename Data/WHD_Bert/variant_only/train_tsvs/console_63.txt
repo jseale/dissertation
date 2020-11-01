@@ -1,0 +1,12 @@
+console_63	The	O
+console_63	dignitaries	O
+console_63	at	O
+console_63	the	O
+console_63	court	O
+console_63	of	O
+console_63	King	O
+console_63	Kavus	O
+console_63	try	O
+console_63	to	O
+console_63	console	console_vrb
+console_63	her	O

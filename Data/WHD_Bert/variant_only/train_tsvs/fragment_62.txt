@@ -1,0 +1,13 @@
+fragment_62	It	O
+fragment_62	represents	O
+fragment_62	a	O
+fragment_62	fragment	fragment_nou
+fragment_62	of	O
+fragment_62	a	O
+fragment_62	substantial	O
+fragment_62	hotel	O
+fragment_62	that	O
+fragment_62	served	O
+fragment_62	the	O
+fragment_62	Furness	O
+fragment_62	Railway	O

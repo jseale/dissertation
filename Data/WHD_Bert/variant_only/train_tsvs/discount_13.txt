@@ -1,0 +1,15 @@
+discount_13	The	O
+discount_13	dividend	O
+discount_13	discount	discount_nou
+discount_13	model	O
+discount_13	is	O
+discount_13	closely	O
+discount_13	related	O
+discount_13	to	O
+discount_13	both	O
+discount_13	discounted	O
+discount_13	earnings	O
+discount_13	and	O
+discount_13	discounted	O
+discount_13	cashflow	O
+discount_13	models	O

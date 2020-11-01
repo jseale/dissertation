@@ -1,0 +1,8 @@
+progress_0	As	O
+progress_0	night	O
+progress_0	falls	O
+progress_0	the	O
+progress_0	bombardment	O
+progress_0	continues	O
+progress_0	forestalling	O
+progress_0	progress	progress_nou

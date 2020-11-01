@@ -1,0 +1,9 @@
+diagnoses_22	In	O
+diagnoses_22	most	O
+diagnoses_22	clinical	O
+diagnoses_22	diagnoses	diagnoses_nou
+diagnoses_22	these	O
+diagnoses_22	signs	O
+diagnoses_22	are	O
+diagnoses_22	seldom	O
+diagnoses_22	noticed	O

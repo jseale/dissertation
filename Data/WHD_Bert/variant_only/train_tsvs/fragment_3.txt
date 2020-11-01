@@ -1,0 +1,15 @@
+fragment_3	The	O
+fragment_3	title	O
+fragment_3	came	O
+fragment_3	from	O
+fragment_3	a	O
+fragment_3	fragment	fragment_nou
+fragment_3	Bryan	O
+fragment_3	Adams	O
+fragment_3	and	O
+fragment_3	Jim	O
+fragment_3	Vallance	O
+fragment_3	wrote	O
+fragment_3	in	O
+fragment_3	late	O
+fragment_3	1980s	O

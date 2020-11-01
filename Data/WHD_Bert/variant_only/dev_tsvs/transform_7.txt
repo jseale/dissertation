@@ -1,0 +1,15 @@
+transform_7	The	O
+transform_7	main	O
+transform_7	purpose	O
+transform_7	of	O
+transform_7	matte	O
+transform_7	glass	O
+transform_7	is	O
+transform_7	to	O
+transform_7	transform	transform
+transform_7	the	O
+transform_7	specular	O
+transform_7	reflection	O
+transform_7	into	O
+transform_7	reflection	O
+transform_7	haze	O

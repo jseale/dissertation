@@ -1,0 +1,15 @@
+diffuse_18	At	O
+diffuse_18	high	O
+diffuse_18	temperature	O
+diffuse_18	and	O
+diffuse_18	high	O
+diffuse_18	hydrogen	O
+diffuse_18	partial	O
+diffuse_18	pressure	O
+diffuse_18	hydrogen	O
+diffuse_18	can	O
+diffuse_18	diffuse	diffuse_vrb
+diffuse_18	into	O
+diffuse_18	carbon	O
+diffuse_18	steel	O
+diffuse_18	alloys	O

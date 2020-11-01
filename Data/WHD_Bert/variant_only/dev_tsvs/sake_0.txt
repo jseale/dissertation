@@ -1,0 +1,15 @@
+sake_0	As	O
+sake_0	the	O
+sake_0	old	O
+sake_0	legend	O
+sake_0	says	O
+sake_0	For	O
+sake_0	the	O
+sake_0	sake	sake
+sake_0	of	O
+sake_0	Rome	O
+sake_0	brother	O
+sake_0	shall	O
+sake_0	fight	O
+sake_0	against	O
+sake_0	brother	O

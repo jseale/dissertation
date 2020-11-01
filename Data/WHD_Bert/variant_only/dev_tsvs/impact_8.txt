@@ -1,0 +1,13 @@
+impact_8	He	O
+impact_8	was	O
+impact_8	traded	O
+impact_8	to	O
+impact_8	Montreal	O
+impact_8	Impact	impact_nou
+impact_8	on	O
+impact_8	27	O
+impact_8	January	O
+impact_8	2015	O
+impact_8	for	O
+impact_8	allocation	O
+impact_8	money	O

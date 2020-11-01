@@ -1,0 +1,9 @@
+compound_58	This	O
+compound_58	compound	compound_nou
+compound_58	exhibits	O
+compound_58	ability	O
+compound_58	to	O
+compound_58	lower	O
+compound_58	levels	O
+compound_58	of	O
+compound_58	Aromatase	O

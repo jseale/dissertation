@@ -1,0 +1,17 @@
+document_1	They	O
+document_1	only	O
+document_1	prerequisite	O
+document_1	for	O
+document_1	issue	O
+document_1	of	O
+document_1	this	O
+document_1	document	document_nou
+document_1	shall	O
+document_1	be	O
+document_1	where	O
+document_1	applicable	O
+document_1	holding	O
+document_1	of	O
+document_1	the	O
+document_1	appropriate	O
+document_1	qualification	O

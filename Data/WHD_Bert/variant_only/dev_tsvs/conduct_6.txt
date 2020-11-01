@@ -1,0 +1,9 @@
+conduct_6	She	O
+conduct_6	and	O
+conduct_6	her	O
+conduct_6	mother	O
+conduct_6	were	O
+conduct_6	charged	O
+conduct_6	with	O
+conduct_6	disorderly	O
+conduct_6	conduct	conduct_nou

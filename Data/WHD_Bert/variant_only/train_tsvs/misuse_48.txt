@@ -1,0 +1,13 @@
+misuse_48	It	O
+misuse_48	is	O
+misuse_48	controlled	O
+misuse_48	in	O
+misuse_48	the	O
+misuse_48	UK	O
+misuse_48	by	O
+misuse_48	the	O
+misuse_48	Misuse	misuse_nou
+misuse_48	of	O
+misuse_48	Drugs	O
+misuse_48	Act	O
+misuse_48	1971	O

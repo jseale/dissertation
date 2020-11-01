@@ -1,0 +1,14 @@
+record_26	However	O
+record_26	the	O
+record_26	record	record_nou
+record_26	company	O
+record_26	insisted	O
+record_26	on	O
+record_26	using	O
+record_26	the	O
+record_26	T.	O
+record_26	Rex	O
+record_26	name	O
+record_26	on	O
+record_26	the	O
+record_26	cover	O

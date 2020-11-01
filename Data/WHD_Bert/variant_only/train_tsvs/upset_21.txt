@@ -1,0 +1,9 @@
+upset_21	Feinsinger	O
+upset_21	too	O
+upset_21	was	O
+upset_21	deeply	O
+upset_21	upset	upset_nou
+upset_21	by	O
+upset_21	Wilson	O
+upset_21	's	O
+upset_21	remarks	O

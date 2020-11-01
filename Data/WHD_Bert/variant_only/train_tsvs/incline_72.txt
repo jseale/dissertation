@@ -1,0 +1,10 @@
+incline_72	Children	O
+incline_72	naturally	O
+incline_72	incline	incline_vrb
+incline_72	to	O
+incline_72	activity	O
+incline_72	to	O
+incline_72	conversation	O
+incline_72	creation	O
+incline_72	and	O
+incline_72	inquiry	O

@@ -1,0 +1,12 @@
+affiliate_66	CPJ	O
+affiliate_66	is	O
+affiliate_66	an	O
+affiliate_66	affiliate	affiliate_nou
+affiliate_66	member	O
+affiliate_66	of	O
+affiliate_66	the	O
+affiliate_66	Canadian	O
+affiliate_66	Council	O
+affiliate_66	of	O
+affiliate_66	Churches	O
+affiliate_66	CCC	O

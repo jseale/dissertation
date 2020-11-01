@@ -1,0 +1,14 @@
+contract_1	Later	O
+contract_1	that	O
+contract_1	year	O
+contract_1	he	O
+contract_1	signed	O
+contract_1	a	O
+contract_1	contract	contract_nou
+contract_1	with	O
+contract_1	Columbia	O
+contract_1	Records	O
+contract_1	as	O
+contract_1	a	O
+contract_1	solo	O
+contract_1	artist	O

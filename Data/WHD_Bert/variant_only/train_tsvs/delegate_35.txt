@@ -1,0 +1,11 @@
+delegate_35	Conover	O
+delegate_35	was	O
+delegate_35	a	O
+delegate_35	delegate	delegate_nou
+delegate_35	to	O
+delegate_35	the	O
+delegate_35	State	O
+delegate_35	constitutional	O
+delegate_35	convention	O
+delegate_35	in	O
+delegate_35	1868	O

@@ -1,0 +1,12 @@
+project_41	The	O
+project_41	project	project_nou
+project_41	was	O
+project_41	published	O
+project_41	as	O
+project_41	a	O
+project_41	monograph	O
+project_41	by	O
+project_41	Chronicle	O
+project_41	Books	O
+project_41	in	O
+project_41	2008	O

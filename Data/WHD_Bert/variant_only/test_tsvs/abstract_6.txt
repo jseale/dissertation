@@ -1,0 +1,15 @@
+abstract_6	BIND	O
+abstract_6	is	O
+abstract_6	based	O
+abstract_6	on	O
+abstract_6	a	O
+abstract_6	data	O
+abstract_6	specification	O
+abstract_6	written	O
+abstract_6	using	O
+abstract_6	Abstract	abstract_adj-nou
+abstract_6	Syntax	O
+abstract_6	Notation	O
+abstract_6	1	O
+abstract_6	ASN.1	O
+abstract_6	language	O

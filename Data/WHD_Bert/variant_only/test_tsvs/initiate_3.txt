@@ -1,0 +1,17 @@
+initiate_3	In	O
+initiate_3	December	O
+initiate_3	2009	O
+initiate_3	the	O
+initiate_3	FTC	O
+initiate_3	announced	O
+initiate_3	it	O
+initiate_3	would	O
+initiate_3	initiate	initiate_vrb
+initiate_3	an	O
+initiate_3	administrative	O
+initiate_3	proceeding	O
+initiate_3	against	O
+initiate_3	Intel	O
+initiate_3	in	O
+initiate_3	September	O
+initiate_3	2010	O

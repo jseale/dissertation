@@ -1,0 +1,12 @@
+rebel_64	In	O
+rebel_64	June	O
+rebel_64	1974	O
+rebel_64	Cockney	O
+rebel_64	Rebel	rebel_nou
+rebel_64	released	O
+rebel_64	their	O
+rebel_64	second	O
+rebel_64	studio	O
+rebel_64	album	O
+rebel_64	The	O
+rebel_64	Psychomodo	O

@@ -1,0 +1,12 @@
+precipitate_2	For	O
+precipitate_2	the	O
+precipitate_2	precipitate	precipitate_adj-nou
+precipitate_2	a	O
+precipitate_2	reagent	O
+precipitate_2	is	O
+precipitate_2	added	O
+precipitate_2	until	O
+precipitate_2	the	O
+precipitate_2	precipitate	precipitate_adj-nou
+precipitate_2	stops	O
+precipitate_2	forming	O

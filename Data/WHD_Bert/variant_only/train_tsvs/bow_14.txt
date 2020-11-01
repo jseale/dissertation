@@ -1,0 +1,8 @@
+bow_14	This	O
+bow_14	trimming	O
+bow_14	effect	O
+bow_14	is	O
+bow_14	mistakenly	O
+bow_14	called	O
+bow_14	bow	bow_nou-ship
+bow_14	lift	O

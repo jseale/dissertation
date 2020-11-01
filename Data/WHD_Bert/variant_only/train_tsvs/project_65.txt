@@ -1,0 +1,14 @@
+project_65	Tomaselli	O
+project_65	is	O
+project_65	gay	O
+project_65	and	O
+project_65	was	O
+project_65	involved	O
+project_65	with	O
+project_65	a	O
+project_65	project	project_nou
+project_65	called	O
+project_65	Gay	O
+project_65	of	O
+project_65	the	O
+project_65	Dead	O

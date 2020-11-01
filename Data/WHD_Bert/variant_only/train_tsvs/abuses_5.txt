@@ -1,0 +1,14 @@
+abuses_5	The	O
+abuses_5	opportunity	O
+abuses_5	to	O
+abuses_5	denounce	O
+abuses_5	the	O
+abuses_5	abuses	abuses_nou
+abuses_5	of	O
+abuses_5	the	O
+abuses_5	Protectorate	O
+abuses_5	authorities	O
+abuses_5	was	O
+abuses_5	given	O
+abuses_5	to	O
+abuses_5	me	O

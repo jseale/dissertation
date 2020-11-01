@@ -1,0 +1,9 @@
+lives_60	He	O
+lives_60	currently	O
+lives_60	lives	lives_vrb
+lives_60	in	O
+lives_60	Nashville	O
+lives_60	Tennessee	O
+lives_60	with	O
+lives_60	his	O
+lives_60	wife	O

@@ -1,0 +1,17 @@
+deliberate_68	Its	O
+deliberate_68	deliberate	deliberate_adj
+deliberate_68	nature	O
+deliberate_68	is	O
+deliberate_68	underscored	O
+deliberate_68	by	O
+deliberate_68	the	O
+deliberate_68	fact	O
+deliberate_68	that	O
+deliberate_68	no	O
+deliberate_68	physical	O
+deliberate_68	basis	O
+deliberate_68	for	O
+deliberate_68	famine	O
+deliberate_68	existed	O
+deliberate_68	in	O
+deliberate_68	Ukraine	O

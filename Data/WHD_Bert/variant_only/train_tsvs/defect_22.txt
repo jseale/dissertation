@@ -1,0 +1,12 @@
+defect_22	This	O
+defect_22	response	O
+defect_22	is	O
+defect_22	a	O
+defect_22	relative	O
+defect_22	afferent	O
+defect_22	pupillary	O
+defect_22	defect	defect_nou
+defect_22	or	O
+defect_22	Marcus	O
+defect_22	Gunn	O
+defect_22	pupil	O

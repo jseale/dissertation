@@ -1,0 +1,17 @@
+appropriate_9	Advertisements	O
+appropriate_9	are	O
+appropriate_9	carefully	O
+appropriate_9	paired	O
+appropriate_9	with	O
+appropriate_9	time	O
+appropriate_9	segments	O
+appropriate_9	and	O
+appropriate_9	or	O
+appropriate_9	linked	O
+appropriate_9	with	O
+appropriate_9	appropriate	appropriate_adj
+appropriate_9	programming	O
+appropriate_9	known	O
+appropriate_9	as	O
+appropriate_9	media	O
+appropriate_9	vehicles	O

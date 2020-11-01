@@ -1,0 +1,16 @@
+bologna_34	He	O
+bologna_34	worked	O
+bologna_34	with	O
+bologna_34	the	O
+bologna_34	poor	O
+bologna_34	and	O
+bologna_34	homeless	O
+bologna_34	in	O
+bologna_34	Bologna	bologna_geo
+bologna_34	and	O
+bologna_34	amassed	O
+bologna_34	funds	O
+bologna_34	for	O
+bologna_34	shelters	O
+bologna_34	and	O
+bologna_34	chapels	O

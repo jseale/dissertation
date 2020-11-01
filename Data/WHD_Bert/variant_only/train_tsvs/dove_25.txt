@@ -1,0 +1,14 @@
+dove_25	Unlike	O
+dove_25	the	O
+dove_25	sovereign	O
+dove_25	's	O
+dove_25	dove	dove
+dove_25	this	O
+dove_25	one	O
+dove_25	has	O
+dove_25	folded	O
+dove_25	wings	O
+dove_25	and	O
+dove_25	is	O
+dove_25	relatively	O
+dove_25	small	O

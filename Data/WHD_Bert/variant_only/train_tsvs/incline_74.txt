@@ -1,0 +1,9 @@
+incline_74	The	O
+incline_74	route	O
+incline_74	heads	O
+incline_74	north	O
+incline_74	northeast	O
+incline_74	on	O
+incline_74	a	O
+incline_74	slight	O
+incline_74	incline	incline_nou

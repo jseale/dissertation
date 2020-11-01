@@ -1,0 +1,7 @@
+combine_6	To	O
+combine_6	form	O
+combine_6	a	O
+combine_6	substance	O
+combine_6	they	O
+combine_6	must	O
+combine_6	combine	combine_vrb

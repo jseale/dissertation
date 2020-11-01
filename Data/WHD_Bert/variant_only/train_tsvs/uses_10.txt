@@ -1,0 +1,16 @@
+uses_10	Jimmy	O
+uses_10	Page	O
+uses_10	uses	uses_vrb
+uses_10	a	O
+uses_10	double	O
+uses_10	dropped	O
+uses_10	D	O
+uses_10	guitar	O
+uses_10	tuning	O
+uses_10	similar	O
+uses_10	to	O
+uses_10	the	O
+uses_10	alternative	O
+uses_10	tunings	O
+uses_10	Mitchell	O
+uses_10	uses	uses_vrb

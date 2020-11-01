@@ -1,0 +1,13 @@
+articulate_80	Ed	O
+articulate_80	Japhet	O
+articulate_80	is	O
+articulate_80	sixteen	O
+articulate_80	years	O
+articulate_80	old	O
+articulate_80	and	O
+articulate_80	he	O
+articulate_80	is	O
+articulate_80	a	O
+articulate_80	bright	O
+articulate_80	articulate	articulate_adj
+articulate_80	boy	O

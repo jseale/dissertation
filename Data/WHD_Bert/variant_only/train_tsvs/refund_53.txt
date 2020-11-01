@@ -1,0 +1,15 @@
+refund_53	An	O
+refund_53	additional	O
+refund_53	$	O
+refund_53	5,000	O
+refund_53	can	O
+refund_53	be	O
+refund_53	purchased	O
+refund_53	using	O
+refund_53	your	O
+refund_53	income	O
+refund_53	tax	O
+refund_53	refund	refund_nou
+refund_53	on	O
+refund_53	form	O
+refund_53	1040	O

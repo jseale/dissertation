@@ -1,0 +1,10 @@
+transform_45	This	O
+transform_45	is	O
+transform_45	obtained	O
+transform_45	by	O
+transform_45	applying	O
+transform_45	the	O
+transform_45	inverse	O
+transform_45	transform	transform_nou
+transform_45	sampling	O
+transform_45	method	O

@@ -1,0 +1,16 @@
+recount_79	However	O
+recount_79	a	O
+recount_79	recount	recount_nou
+recount_79	was	O
+recount_79	held	O
+recount_79	and	O
+recount_79	Stevenson	O
+recount_79	gained	O
+recount_79	five	O
+recount_79	more	O
+recount_79	votes	O
+recount_79	for	O
+recount_79	a	O
+recount_79	total	O
+recount_79	of	O
+recount_79	601	O

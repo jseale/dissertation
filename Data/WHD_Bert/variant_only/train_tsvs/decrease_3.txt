@@ -1,0 +1,12 @@
+decrease_3	Instead	O
+decrease_3	he	O
+decrease_3	sent	O
+decrease_3	Li	O
+decrease_3	Wu	O
+decrease_3	away	O
+decrease_3	to	O
+decrease_3	try	O
+decrease_3	to	O
+decrease_3	decrease	decrease_vrb
+decrease_3	the	O
+decrease_3	friction	O

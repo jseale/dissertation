@@ -1,0 +1,8 @@
+estimate_48	On	O
+estimate_48	1	O
+estimate_48	January	O
+estimate_48	2005	O
+estimate_48	the	O
+estimate_48	estimate	estimate_nou
+estimate_48	was	O
+estimate_48	83	O

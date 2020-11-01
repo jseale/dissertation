@@ -1,0 +1,17 @@
+abuses_2	The	O
+abuses_2	anarcho	O
+abuses_2	syndicalist	O
+abuses_2	periodical	O
+abuses_2	Solidaridad	O
+abuses_2	Obrera	O
+abuses_2	reported	O
+abuses_2	that	O
+abuses_2	Certain	O
+abuses_2	abuses	abuses_nou
+abuses_2	have	O
+abuses_2	been	O
+abuses_2	committed	O
+abuses_2	that	O
+abuses_2	we	O
+abuses_2	consider	O
+abuses_2	counterproductive	O

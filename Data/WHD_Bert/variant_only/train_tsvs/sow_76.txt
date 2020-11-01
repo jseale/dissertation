@@ -1,0 +1,7 @@
+sow_76	Behold	O
+sow_76	a	O
+sow_76	sower	O
+sow_76	went	O
+sow_76	forth	O
+sow_76	to	O
+sow_76	sow	sow

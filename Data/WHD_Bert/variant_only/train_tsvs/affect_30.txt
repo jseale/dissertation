@@ -1,0 +1,14 @@
+affect_30	They	O
+affect_30	do	O
+affect_30	not	O
+affect_30	affect	affect
+affect_30	those	O
+affect_30	sources	O
+affect_30	that	O
+affect_30	release	O
+affect_30	mercury	O
+affect_30	incidentally	O
+affect_30	as	O
+affect_30	a	O
+affect_30	by	O
+affect_30	product	O

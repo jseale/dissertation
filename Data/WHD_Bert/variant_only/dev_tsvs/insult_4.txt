@@ -1,0 +1,13 @@
+insult_4	Jules	O
+insult_4	Dreyfus	O
+insult_4	Brodsky	O
+insult_4	and	O
+insult_4	Marcus	O
+insult_4	Cohen	O
+insult_4	sued	O
+insult_4	them	O
+insult_4	for	O
+insult_4	insult	insult_nou
+insult_4	to	O
+insult_4	Jewish	O
+insult_4	honor	O

@@ -1,0 +1,15 @@
+implement_8	The	O
+implement_8	district	O
+implement_8	uses	O
+implement_8	the	O
+implement_8	funding	O
+implement_8	to	O
+implement_8	implement	implement_vrb
+implement_8	Research	O
+implement_8	Based	O
+implement_8	Improvement	O
+implement_8	Strategies	O
+implement_8	for	O
+implement_8	the	O
+implement_8	7th	O
+implement_8	year	O

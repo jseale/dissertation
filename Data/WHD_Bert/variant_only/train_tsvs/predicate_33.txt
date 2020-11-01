@@ -1,0 +1,17 @@
+predicate_33	When	O
+predicate_33	used	O
+predicate_33	alone	O
+predicate_33	without	O
+predicate_33	a	O
+predicate_33	predicate	predicate_nou
+predicate_33	I	O
+predicate_33	am	O
+predicate_33	he	O
+predicate_33	is	O
+predicate_33	they	O
+predicate_33	are	O
+predicate_33	typically	O
+predicate_33	mean	O
+predicate_33	I	O
+predicate_33	exist	O
+predicate_33	etc	O

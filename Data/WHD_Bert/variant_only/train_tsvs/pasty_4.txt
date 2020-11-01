@@ -1,0 +1,13 @@
+pasty_4	Generally	O
+pasty_4	speaking	O
+pasty_4	vacuum	O
+pasty_4	fillers	O
+pasty_4	can	O
+pasty_4	be	O
+pasty_4	used	O
+pasty_4	for	O
+pasty_4	filling	O
+pasty_4	pasty	pasty_adj
+pasty_4	and	O
+pasty_4	compressible	O
+pasty_4	products	O

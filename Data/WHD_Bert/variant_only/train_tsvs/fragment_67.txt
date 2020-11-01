@@ -1,0 +1,10 @@
+fragment_67	This	O
+fragment_67	skull	O
+fragment_67	fragment	fragment_nou
+fragment_67	was	O
+fragment_67	first	O
+fragment_67	described	O
+fragment_67	by	O
+fragment_67	Sartono	O
+fragment_67	in	O
+fragment_67	1982	O

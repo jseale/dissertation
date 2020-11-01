@@ -1,0 +1,15 @@
+precipitate_38	Seawater	O
+precipitate_38	is	O
+precipitate_38	pumped	O
+precipitate_38	through	O
+precipitate_38	the	O
+precipitate_38	condenser	O
+precipitate_38	section	O
+precipitate_38	to	O
+precipitate_38	cool	O
+precipitate_38	the	O
+precipitate_38	vapour	O
+precipitate_38	sufficiently	O
+precipitate_38	to	O
+precipitate_38	precipitate	precipitate_vrb
+precipitate_38	it	O

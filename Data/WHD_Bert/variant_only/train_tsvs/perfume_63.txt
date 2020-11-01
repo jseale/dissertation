@@ -1,0 +1,7 @@
+perfume_63	Perry	O
+perfume_63	also	O
+perfume_63	described	O
+perfume_63	the	O
+perfume_63	perfume	perfume_nou
+perfume_63	as	O
+perfume_63	edible	O

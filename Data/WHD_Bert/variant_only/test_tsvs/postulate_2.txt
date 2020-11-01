@@ -1,0 +1,15 @@
+postulate_2	The	O
+postulate_2	segment	O
+postulate_2	addition	O
+postulate_2	postulate	postulate_nou
+postulate_2	is	O
+postulate_2	often	O
+postulate_2	useful	O
+postulate_2	in	O
+postulate_2	proving	O
+postulate_2	results	O
+postulate_2	on	O
+postulate_2	the	O
+postulate_2	congruence	O
+postulate_2	of	O
+postulate_2	segments	O

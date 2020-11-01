@@ -1,0 +1,8 @@
+winds_3	Three	O
+winds_3	other	O
+winds_3	ships	O
+winds_3	reported	O
+winds_3	tropical	O
+winds_3	storm	O
+winds_3	force	O
+winds_3	winds	winds_nou

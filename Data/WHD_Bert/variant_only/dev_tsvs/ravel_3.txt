@@ -1,0 +1,17 @@
+ravel_3	She	O
+ravel_3	's	O
+ravel_3	been	O
+ravel_3	hit	O
+ravel_3	by	O
+ravel_3	Deano	O
+ravel_3	's	O
+ravel_3	car	O
+ravel_3	watched	O
+ravel_3	her	O
+ravel_3	parents	O
+ravel_3	marriage	O
+ravel_3	unravel	O
+ravel_3	ravel	ravel_nou
+ravel_3	unravel	O
+ravel_3	again	O
+ravel_3	etc	O

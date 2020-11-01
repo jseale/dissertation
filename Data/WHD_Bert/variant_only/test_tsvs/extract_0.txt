@@ -1,0 +1,16 @@
+extract_0	To	O
+extract_0	keep	O
+extract_0	the	O
+extract_0	chocolate	O
+extract_0	extract	extract_nou
+extract_0	in	O
+extract_0	suspension	O
+extract_0	and	O
+extract_0	make	O
+extract_0	the	O
+extract_0	liqueur	O
+extract_0	thicker	O
+extract_0	glycerine	O
+extract_0	may	O
+extract_0	be	O
+extract_0	added	O

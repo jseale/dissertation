@@ -1,0 +1,11 @@
+predicate_47	The	O
+predicate_47	normal	O
+predicate_47	word	O
+predicate_47	order	O
+predicate_47	is	O
+predicate_47	that	O
+predicate_47	subject	O
+predicate_47	is	O
+predicate_47	preceded	O
+predicate_47	by	O
+predicate_47	predicate	predicate_nou

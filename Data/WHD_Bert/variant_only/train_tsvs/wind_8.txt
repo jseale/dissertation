@@ -1,0 +1,9 @@
+wind_8	Suddenly	O
+wind_8	the	O
+wind_8	lights	O
+wind_8	go	O
+wind_8	out	O
+wind_8	and	O
+wind_8	the	O
+wind_8	wind	wind_nou
+wind_8	rises	O

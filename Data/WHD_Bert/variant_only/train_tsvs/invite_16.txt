@@ -1,0 +1,12 @@
+invite_16	It	O
+invite_16	is	O
+invite_16	the	O
+invite_16	only	O
+invite_16	competition	O
+invite_16	to	O
+invite_16	invite	invite_vrb
+invite_16	entries	O
+invite_16	in	O
+invite_16	all	O
+invite_16	official	O
+invite_16	languages	O

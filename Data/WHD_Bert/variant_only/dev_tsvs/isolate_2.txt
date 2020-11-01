@@ -1,0 +1,11 @@
+isolate_2	Psoriasis	O
+isolate_2	improvement	O
+isolate_2	in	O
+isolate_2	patients	O
+isolate_2	using	O
+isolate_2	glutathione	O
+isolate_2	enhancing	O
+isolate_2	nondenatured	O
+isolate_2	whey	O
+isolate_2	protein	O
+isolate_2	isolate	isolate_nou

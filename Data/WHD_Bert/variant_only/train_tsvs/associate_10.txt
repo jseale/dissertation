@@ -1,0 +1,10 @@
+associate_10	He	O
+associate_10	became	O
+associate_10	an	O
+associate_10	associate	associate_adj-nou
+associate_10	of	O
+associate_10	Deloitte	O
+associate_10	Touche	O
+associate_10	in	O
+associate_10	the	O
+associate_10	1980s	O

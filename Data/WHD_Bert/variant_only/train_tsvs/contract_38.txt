@@ -1,0 +1,15 @@
+contract_38	In	O
+contract_38	2003	O
+contract_38	Case	O
+contract_38	was	O
+contract_38	off	O
+contract_38	screen	O
+contract_38	from	O
+contract_38	February	O
+contract_38	17	O
+contract_38	to	O
+contract_38	May	O
+contract_38	1	O
+contract_38	during	O
+contract_38	contract	contract_nou
+contract_38	negotiations	O

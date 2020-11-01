@@ -1,0 +1,17 @@
+expose_69	In	O
+expose_69	2010	O
+expose_69	Ben	O
+expose_69	Menashe	O
+expose_69	helped	O
+expose_69	expose	expose_vrb
+expose_69	questionable	O
+expose_69	dealing	O
+expose_69	by	O
+expose_69	Arthur	O
+expose_69	Porter	O
+expose_69	which	O
+expose_69	led	O
+expose_69	to	O
+expose_69	Porter	O
+expose_69	's	O
+expose_69	resignations	O

@@ -1,0 +1,16 @@
+coordinate_76	Typically	O
+coordinate_76	the	O
+coordinate_76	origin	O
+coordinate_76	and	O
+coordinate_76	at	O
+coordinate_76	least	O
+coordinate_76	some	O
+coordinate_76	of	O
+coordinate_76	the	O
+coordinate_76	coordinate	coordinate_adj-nou
+coordinate_76	axes	O
+coordinate_76	of	O
+coordinate_76	each	O
+coordinate_76	space	O
+coordinate_76	are	O
+coordinate_76	different	O

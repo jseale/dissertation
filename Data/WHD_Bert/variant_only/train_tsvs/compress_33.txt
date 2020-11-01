@@ -1,0 +1,14 @@
+compress_33	Its	O
+compress_33	memory	O
+compress_33	capability	O
+compress_33	helps	O
+compress_33	compress	compress
+compress_33	the	O
+compress_33	joint	O
+compress_33	into	O
+compress_33	its	O
+compress_33	proper	O
+compress_33	shape	O
+compress_33	encouraging	O
+compress_33	rapid	O
+compress_33	fusion	O

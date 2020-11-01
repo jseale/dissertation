@@ -1,0 +1,14 @@
+degenerate_8	Therefore	O
+degenerate_8	distal	O
+degenerate_8	nerve	O
+degenerate_8	fibers	O
+degenerate_8	do	O
+degenerate_8	not	O
+degenerate_8	degenerate	degenerate_vrb
+degenerate_8	and	O
+degenerate_8	the	O
+degenerate_8	myelin	O
+degenerate_8	damage	O
+degenerate_8	can	O
+degenerate_8	be	O
+degenerate_8	repaired	O

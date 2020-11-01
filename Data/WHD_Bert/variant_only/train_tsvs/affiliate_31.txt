@@ -1,0 +1,16 @@
+affiliate_31	Owned	O
+affiliate_31	by	O
+affiliate_31	the	O
+affiliate_31	Meredith	O
+affiliate_31	Corporation	O
+affiliate_31	the	O
+affiliate_31	station	O
+affiliate_31	is	O
+affiliate_31	sister	O
+affiliate_31	to	O
+affiliate_31	ABC	O
+affiliate_31	Fox	O
+affiliate_31	MyNetworkTV	O
+affiliate_31	affiliate	affiliate_nou
+affiliate_31	WGGB	O
+affiliate_31	TV	O

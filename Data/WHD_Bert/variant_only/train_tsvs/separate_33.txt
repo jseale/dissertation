@@ -1,0 +1,13 @@
+separate_33	Over	O
+separate_33	the	O
+separate_33	years	O
+separate_33	there	O
+separate_33	were	O
+separate_33	three	O
+separate_33	separate	separate_adj
+separate_33	Methodist	O
+separate_33	churches	O
+separate_33	located	O
+separate_33	within	O
+separate_33	North	O
+separate_33	Augusta	O

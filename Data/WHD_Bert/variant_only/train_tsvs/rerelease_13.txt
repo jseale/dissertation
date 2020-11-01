@@ -1,0 +1,9 @@
+rerelease_13	No	O
+rerelease_13	limited	O
+rerelease_13	edition	O
+rerelease_13	sticker	O
+rerelease_13	has	O
+rerelease_13	yet	O
+rerelease_13	seen	O
+rerelease_13	a	O
+rerelease_13	rerelease	rerelease

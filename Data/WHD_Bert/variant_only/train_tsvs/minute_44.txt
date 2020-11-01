@@ -1,0 +1,10 @@
+minute_44	Wilson	O
+minute_44	recognizes	O
+minute_44	the	O
+minute_44	flier	O
+minute_44	as	O
+minute_44	a	O
+minute_44	last	O
+minute_44	minute	minute
+minute_44	smear	O
+minute_44	attempt	O

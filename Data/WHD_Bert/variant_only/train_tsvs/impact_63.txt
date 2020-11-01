@@ -1,0 +1,11 @@
+impact_63	Acta	O
+impact_63	Neuropathologica	O
+impact_63	is	O
+impact_63	the	O
+impact_63	neuropathology	O
+impact_63	journal	O
+impact_63	with	O
+impact_63	the	O
+impact_63	highest	O
+impact_63	impact	impact_nou
+impact_63	factor	O

@@ -1,0 +1,14 @@
+upset_18	Back	O
+upset_18	at	O
+upset_18	their	O
+upset_18	camp	O
+upset_18	they	O
+upset_18	see	O
+upset_18	a	O
+upset_18	blonde	O
+upset_18	woman	O
+upset_18	upset	upset_nou
+upset_18	over	O
+upset_18	their	O
+upset_18	dead	O
+upset_18	gators	O

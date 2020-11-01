@@ -1,0 +1,12 @@
+present_53	Furthermore	O
+present_53	α	O
+present_53	methyl	O
+present_53	amino	O
+present_53	acids	O
+present_53	are	O
+present_53	generally	O
+present_53	not	O
+present_53	present	present_adj-nou
+present_53	in	O
+present_53	terrestrial	O
+present_53	chemistry	O

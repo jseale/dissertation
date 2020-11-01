@@ -1,0 +1,15 @@
+retard_32	An	O
+retard_32	advance	O
+retard_32	mechanism	O
+retard_32	is	O
+retard_32	used	O
+retard_32	to	O
+retard_32	retard	retard_vrb
+retard_32	the	O
+retard_32	timing	O
+retard_32	for	O
+retard_32	easy	O
+retard_32	starting	O
+retard_32	and	O
+retard_32	smooth	O
+retard_32	idle	O

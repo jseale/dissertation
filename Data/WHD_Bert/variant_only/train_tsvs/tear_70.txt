@@ -1,0 +1,15 @@
+tear_70	Both	O
+tear_70	medals	O
+tear_70	the	O
+tear_70	twelve	O
+tear_70	and	O
+tear_70	twenty	O
+tear_70	five	O
+tear_70	year	O
+tear_70	medals	O
+tear_70	have	O
+tear_70	the	O
+tear_70	tear	tear_nou
+tear_70	drop	O
+tear_70	suspension	O
+tear_70	loop	O

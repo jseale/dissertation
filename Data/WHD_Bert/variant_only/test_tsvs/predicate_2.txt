@@ -1,0 +1,13 @@
+predicate_2	These	O
+predicate_2	sentences	O
+predicate_2	contain	O
+predicate_2	a	O
+predicate_2	subject	O
+predicate_2	a	O
+predicate_2	non	O
+predicate_2	verbal	O
+predicate_2	predicate	predicate_nou
+predicate_2	and	O
+predicate_2	an	O
+predicate_2	optional	O
+predicate_2	copula	O

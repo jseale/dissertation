@@ -1,0 +1,10 @@
+approximate_5	The	O
+approximate_5	Matigsalug	O
+approximate_5	of	O
+approximate_5	Bukidnon	O
+approximate_5	have	O
+approximate_5	an	O
+approximate_5	approximate	approximate_adj-nou
+approximate_5	population	O
+approximate_5	of	O
+approximate_5	146,500	O

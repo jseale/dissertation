@@ -1,0 +1,11 @@
+abuse_72	After	O
+abuse_72	a	O
+abuse_72	long	O
+abuse_72	struggle	O
+abuse_72	with	O
+abuse_72	drug	O
+abuse_72	abuse	abuse_nou
+abuse_72	Breau	O
+abuse_72	was	O
+abuse_72	finally	O
+abuse_72	sober	O

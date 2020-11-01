@@ -1,0 +1,10 @@
+conjugate_69	It	O
+conjugate_69	was	O
+conjugate_69	the	O
+conjugate_69	first	O
+conjugate_69	antibody	O
+conjugate_69	drug	O
+conjugate_69	conjugate	conjugate_adj-nou
+conjugate_69	to	O
+conjugate_69	be	O
+conjugate_69	approved	O

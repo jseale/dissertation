@@ -1,0 +1,17 @@
+pasty_5	For	O
+pasty_5	instance	O
+pasty_5	the	O
+pasty_5	licky	O
+pasty_5	pasty	pasty_adj
+pasty_5	contained	O
+pasty_5	mostly	O
+pasty_5	leeks	O
+pasty_5	and	O
+pasty_5	the	O
+pasty_5	herb	O
+pasty_5	pasty	pasty_adj
+pasty_5	contained	O
+pasty_5	watercress	O
+pasty_5	parsley	O
+pasty_5	and	O
+pasty_5	shallots	O

@@ -1,0 +1,16 @@
+extract_6	By	O
+extract_6	forcing	O
+extract_6	the	O
+extract_6	liquid	O
+extract_6	extract	extract_nou
+extract_6	through	O
+extract_6	a	O
+extract_6	nozzle	O
+extract_6	the	O
+extract_6	solution	O
+extract_6	atomizes	O
+extract_6	or	O
+extract_6	becomes	O
+extract_6	very	O
+extract_6	fine	O
+extract_6	droplets	O

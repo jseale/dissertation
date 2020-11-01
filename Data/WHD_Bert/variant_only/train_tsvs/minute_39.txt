@@ -1,0 +1,9 @@
+minute_39	The	O
+minute_39	deneuralyzer	O
+minute_39	took	O
+minute_39	a	O
+minute_39	minute	minute
+minute_39	to	O
+minute_39	complete	O
+minute_39	its	O
+minute_39	job	O

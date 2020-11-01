@@ -1,0 +1,17 @@
+learned_24	Jones	O
+learned_24	joined	O
+learned_24	the	O
+learned_24	guild	O
+learned_24	and	O
+learned_24	learned	learned_vrb
+learned_24	wood	O
+learned_24	and	O
+learned_24	copper	O
+learned_24	engraving	O
+learned_24	as	O
+learned_24	well	O
+learned_24	as	O
+learned_24	experimenting	O
+learned_24	with	O
+learned_24	wood	O
+learned_24	carving	O

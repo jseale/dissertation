@@ -1,0 +1,13 @@
+increment_6	When	O
+increment_6	accessed	O
+increment_6	via	O
+increment_6	memory	O
+increment_6	indirect	O
+increment_6	addressing	O
+increment_6	these	O
+increment_6	locations	O
+increment_6	would	O
+increment_6	automatically	O
+increment_6	increment	increment_vrb
+increment_6	after	O
+increment_6	use	O

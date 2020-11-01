@@ -1,0 +1,16 @@
+protest_3	Hundreds	O
+protest_3	of	O
+protest_3	people	O
+protest_3	organised	O
+protest_3	a	O
+protest_3	gathering	O
+protest_3	outside	O
+protest_3	the	O
+protest_3	American	O
+protest_3	consulate	O
+protest_3	in	O
+protest_3	Karachi	O
+protest_3	to	O
+protest_3	lodge	O
+protest_3	a	O
+protest_3	protest	protest_nou

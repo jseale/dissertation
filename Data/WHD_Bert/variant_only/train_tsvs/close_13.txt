@@ -1,0 +1,17 @@
+close_13	Close	close_adj-nou
+close_13	range	O
+close_13	anti	O
+close_13	submarine	O
+close_13	defense	O
+close_13	was	O
+close_13	provided	O
+close_13	by	O
+close_13	two	O
+close_13	twin	O
+close_13	12.75-inch	O
+close_13	324	O
+close_13	mm	O
+close_13	Mk	O
+close_13	32	O
+close_13	torpedo	O
+close_13	tubes	O

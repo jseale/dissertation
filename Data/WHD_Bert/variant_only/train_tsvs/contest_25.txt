@@ -1,0 +1,16 @@
+contest_25	Following	O
+contest_25	the	O
+contest_25	introduction	O
+contest_25	of	O
+contest_25	semi	O
+contest_25	finals	O
+contest_25	for	O
+contest_25	the	O
+contest_25	2004	O
+contest_25	contest	contest_nou
+contest_25	Croatia	O
+contest_25	had	O
+contest_25	featured	O
+contest_25	in	O
+contest_25	six	O
+contest_25	finals	O

@@ -1,0 +1,13 @@
+delegate_50	For	O
+delegate_50	a	O
+delegate_50	period	O
+delegate_50	he	O
+delegate_50	was	O
+delegate_50	the	O
+delegate_50	delegate	delegate_nou
+delegate_50	visitor	O
+delegate_50	for	O
+delegate_50	the	O
+delegate_50	Sector	O
+delegate_50	of	O
+delegate_50	India	O

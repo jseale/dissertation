@@ -1,0 +1,11 @@
+mobile_49	Challenges	O
+mobile_49	of	O
+mobile_49	mobile	mobile
+mobile_49	money	O
+mobile_49	include	O
+mobile_49	security	O
+mobile_49	concerns	O
+mobile_49	and	O
+mobile_49	questions	O
+mobile_49	around	O
+mobile_49	regulation	O

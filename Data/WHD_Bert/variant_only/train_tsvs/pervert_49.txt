@@ -1,0 +1,8 @@
+pervert_49	Or	O
+pervert_49	pervert	pervert_vrb
+pervert_49	it	O
+pervert_49	he	O
+pervert_49	rescued	O
+pervert_49	it	O
+pervert_49	from	O
+pervert_49	extinction	O

@@ -1,0 +1,16 @@
+discount_45	Another	O
+discount_45	method	O
+discount_45	of	O
+discount_45	quantifying	O
+discount_45	the	O
+discount_45	lack	O
+discount_45	of	O
+discount_45	marketability	O
+discount_45	discount	discount_nou
+discount_45	is	O
+discount_45	the	O
+discount_45	Quantifying	O
+discount_45	Marketability	O
+discount_45	Discounts	O
+discount_45	Model	O
+discount_45	QMDM	O

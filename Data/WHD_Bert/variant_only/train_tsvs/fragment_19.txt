@@ -1,0 +1,13 @@
+fragment_19	In	O
+fragment_19	addition	O
+fragment_19	there	O
+fragment_19	is	O
+fragment_19	a	O
+fragment_19	skull	O
+fragment_19	fragment	fragment_nou
+fragment_19	from	O
+fragment_19	the	O
+fragment_19	Troublesome	O
+fragment_19	Formation	O
+fragment_19	of	O
+fragment_19	Colorado	O

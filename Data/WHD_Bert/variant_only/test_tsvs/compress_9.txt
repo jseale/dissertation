@@ -1,0 +1,14 @@
+compress_9	An	O
+compress_9	electric	O
+compress_9	motor	O
+compress_9	drives	O
+compress_9	an	O
+compress_9	anvil	O
+compress_9	to	O
+compress_9	compress	compress
+compress_9	a	O
+compress_9	tablet	O
+compress_9	at	O
+compress_9	a	O
+compress_9	constant	O
+compress_9	rate	O

@@ -1,0 +1,15 @@
+close_61	Kusgoan	O
+close_61	is	O
+close_61	towards	O
+close_61	the	O
+close_61	South	O
+close_61	East	O
+close_61	of	O
+close_61	Lonavla	O
+close_61	City	O
+close_61	Very	O
+close_61	close	close_adj-nou
+close_61	to	O
+close_61	Mumbai-	O
+close_61	Pune	O
+close_61	Expresway	O

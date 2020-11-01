@@ -1,0 +1,12 @@
+protest_26	This	O
+protest_26	further	O
+protest_26	led	O
+protest_26	to	O
+protest_26	the	O
+protest_26	turn	O
+protest_26	from	O
+protest_26	peaceful	O
+protest_26	protest	protest_nou
+protest_26	to	O
+protest_26	violent	O
+protest_26	terrorism	O

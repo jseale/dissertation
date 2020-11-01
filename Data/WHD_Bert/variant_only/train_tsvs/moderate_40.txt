@@ -1,0 +1,13 @@
+moderate_40	Three	O
+moderate_40	weeks	O
+moderate_40	later	O
+moderate_40	the	O
+moderate_40	moderate	moderate_adj-nou
+moderate_40	Abdul	O
+moderate_40	Gani	O
+moderate_40	Lone	O
+moderate_40	was	O
+moderate_40	killed	O
+moderate_40	on	O
+moderate_40	May	O
+moderate_40	21	O

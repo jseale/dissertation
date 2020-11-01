@@ -1,0 +1,14 @@
+diagnoses_41	Working	O
+diagnoses_41	with	O
+diagnoses_41	the	O
+diagnoses_41	substance	O
+diagnoses_41	abuse	O
+diagnoses_41	patients	O
+diagnoses_41	and	O
+diagnoses_41	other	O
+diagnoses_41	Axis	O
+diagnoses_41	I	O
+diagnoses_41	and	O
+diagnoses_41	Axis	O
+diagnoses_41	II	O
+diagnoses_41	diagnoses	diagnoses_nou

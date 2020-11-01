@@ -1,0 +1,11 @@
+house_15	The	O
+house_15	attached	O
+house_15	carriage	O
+house_15	house	house_nou
+house_15	is	O
+house_15	a	O
+house_15	unique	O
+house_15	feature	O
+house_15	in	O
+house_15	the	O
+house_15	city	O

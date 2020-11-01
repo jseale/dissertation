@@ -1,0 +1,12 @@
+compress_69	Conversion	O
+compress_69	of	O
+compress_69	radiant	O
+compress_69	energy	O
+compress_69	into	O
+compress_69	mechanical	O
+compress_69	energy	O
+compress_69	to	O
+compress_69	compress	compress
+compress_69	the	O
+compress_69	main	O
+compress_69	body	O

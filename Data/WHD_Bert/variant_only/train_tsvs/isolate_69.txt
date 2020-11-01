@@ -1,0 +1,16 @@
+isolate_69	Like	O
+isolate_69	various	O
+isolate_69	other	O
+isolate_69	anaerobes	O
+isolate_69	Actinomyces	O
+isolate_69	species	O
+isolate_69	are	O
+isolate_69	fastidious	O
+isolate_69	and	O
+isolate_69	thus	O
+isolate_69	not	O
+isolate_69	easy	O
+isolate_69	to	O
+isolate_69	culture	O
+isolate_69	and	O
+isolate_69	isolate	isolate

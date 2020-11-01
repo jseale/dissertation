@@ -1,0 +1,17 @@
+resume_24	Because	O
+resume_24	his	O
+resume_24	resume	resume_nou
+resume_24	was	O
+resume_24	so	O
+resume_24	exaggerated	O
+resume_24	it	O
+resume_24	angered	O
+resume_24	other	O
+resume_24	contestants	O
+resume_24	who	O
+resume_24	were	O
+resume_24	given	O
+resume_24	criticism	O
+resume_24	on	O
+resume_24	their	O
+resume_24	resumes	O

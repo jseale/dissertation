@@ -1,0 +1,11 @@
+transport_33	The	O
+transport_33	Ministry	O
+transport_33	of	O
+transport_33	Transport	transport_nou
+transport_33	has	O
+transport_33	its	O
+transport_33	head	O
+transport_33	office	O
+transport_33	in	O
+transport_33	the	O
+transport_33	district	O

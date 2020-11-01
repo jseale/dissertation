@@ -1,0 +1,13 @@
+overthrow_58	This	O
+overthrow_58	position	O
+overthrow_58	helped	O
+overthrow_58	him	O
+overthrow_58	launch	O
+overthrow_58	his	O
+overthrow_58	plans	O
+overthrow_58	to	O
+overthrow_58	overthrow	overthrow_vrb
+overthrow_58	the	O
+overthrow_58	government	O
+overthrow_58	of	O
+overthrow_58	Vasquez	O

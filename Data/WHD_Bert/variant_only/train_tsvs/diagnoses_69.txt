@@ -1,0 +1,17 @@
+diagnoses_69	The	O
+diagnoses_69	diagnoses	diagnoses_nou
+diagnoses_69	led	O
+diagnoses_69	to	O
+diagnoses_69	Roddy	O
+diagnoses_69	becoming	O
+diagnoses_69	a	O
+diagnoses_69	spokesperson	O
+diagnoses_69	for	O
+diagnoses_69	early	O
+diagnoses_69	detection	O
+diagnoses_69	of	O
+diagnoses_69	cancer	O
+diagnoses_69	in	O
+diagnoses_69	his	O
+diagnoses_69	last	O
+diagnoses_69	years	O

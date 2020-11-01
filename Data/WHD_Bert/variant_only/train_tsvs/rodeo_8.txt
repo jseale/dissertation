@@ -1,0 +1,16 @@
+rodeo_8	With	O
+rodeo_8	all	O
+rodeo_8	of	O
+rodeo_8	the	O
+rodeo_8	attention	O
+rodeo_8	rodeo	rodeo
+rodeo_8	began	O
+rodeo_8	to	O
+rodeo_8	get	O
+rodeo_8	from	O
+rodeo_8	the	O
+rodeo_8	media	O
+rodeo_8	animal	O
+rodeo_8	rights	O
+rodeo_8	concerns	O
+rodeo_8	escalated	O

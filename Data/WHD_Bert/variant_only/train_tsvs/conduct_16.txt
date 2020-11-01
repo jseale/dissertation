@@ -1,0 +1,14 @@
+conduct_16	The	O
+conduct_16	conduct	conduct_nou
+conduct_16	of	O
+conduct_16	the	O
+conduct_16	Civil	O
+conduct_16	War	O
+conduct_16	resulted	O
+conduct_16	in	O
+conduct_16	long	O
+conduct_16	lasting	O
+conduct_16	bitterness	O
+conduct_16	on	O
+conduct_16	both	O
+conduct_16	sides	O

@@ -1,0 +1,12 @@
+discharge_30	The	O
+discharge_30	eastern	O
+discharge_30	platform	O
+discharge_30	is	O
+discharge_30	a	O
+discharge_30	side	O
+discharge_30	platform	O
+discharge_30	used	O
+discharge_30	only	O
+discharge_30	to	O
+discharge_30	discharge	discharge_vrb
+discharge_30	passengers	O

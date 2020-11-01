@@ -1,0 +1,17 @@
+abstract_70	Police	O
+abstract_70	Gazette	O
+abstract_70	is	O
+abstract_70	a	O
+abstract_70	1955	O
+abstract_70	abstract	abstract_adj-nou
+abstract_70	painting	O
+abstract_70	by	O
+abstract_70	Willem	O
+abstract_70	de	O
+abstract_70	Kooning	O
+abstract_70	which	O
+abstract_70	is	O
+abstract_70	currently	O
+abstract_70	in	O
+abstract_70	private	O
+abstract_70	hands	O

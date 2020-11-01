@@ -1,0 +1,16 @@
+convert_3	The	O
+convert_3	second	O
+convert_3	part	O
+convert_3	is	O
+convert_3	of	O
+convert_3	those	O
+convert_3	writings	O
+convert_3	inviting	O
+convert_3	other	O
+convert_3	rulers	O
+convert_3	and	O
+convert_3	kings	O
+convert_3	to	O
+convert_3	convert	convert_vrb
+convert_3	to	O
+convert_3	Islam	O

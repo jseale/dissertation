@@ -1,0 +1,16 @@
+conduct_56	Its	O
+conduct_56	primary	O
+conduct_56	responsibility	O
+conduct_56	is	O
+conduct_56	to	O
+conduct_56	secure	O
+conduct_56	Indian	O
+conduct_56	airspace	O
+conduct_56	and	O
+conduct_56	to	O
+conduct_56	conduct	conduct_vrb
+conduct_56	aerial	O
+conduct_56	warfare	O
+conduct_56	during	O
+conduct_56	a	O
+conduct_56	conflict	O

@@ -1,0 +1,13 @@
+insult_3	Adding	O
+insult_3	insult	insult_nou
+insult_3	to	O
+insult_3	injury	O
+insult_3	the	O
+insult_3	entire	O
+insult_3	1st	O
+insult_3	squad	O
+insult_3	with	O
+insult_3	the	O
+insult_3	exception	O
+insult_3	of	O
+insult_3	Pvt	O

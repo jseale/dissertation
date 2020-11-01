@@ -1,0 +1,13 @@
+intrigue_1	It	O
+intrigue_1	is	O
+intrigue_1	an	O
+intrigue_1	adaptation	O
+intrigue_1	of	O
+intrigue_1	Friedrich	O
+intrigue_1	Schiller	O
+intrigue_1	's	O
+intrigue_1	1784	O
+intrigue_1	play	O
+intrigue_1	Intrigue	intrigue_nou
+intrigue_1	and	O
+intrigue_1	Love	O

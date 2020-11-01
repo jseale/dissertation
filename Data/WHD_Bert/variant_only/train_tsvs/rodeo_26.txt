@@ -1,0 +1,7 @@
+rodeo_26	In	O
+rodeo_26	the	O
+rodeo_26	1970s	O
+rodeo_26	rodeo	rodeo
+rodeo_26	saw	O
+rodeo_26	unprecedented	O
+rodeo_26	growth	O

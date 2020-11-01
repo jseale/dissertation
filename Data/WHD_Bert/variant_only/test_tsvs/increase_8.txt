@@ -1,0 +1,11 @@
+increase_8	It	O
+increase_8	was	O
+increase_8	an	O
+increase_8	increase	increase_nou
+increase_8	of	O
+increase_8	6.3	O
+increase_8	percent	O
+increase_8	from	O
+increase_8	the	O
+increase_8	2000	O
+increase_8	census	O

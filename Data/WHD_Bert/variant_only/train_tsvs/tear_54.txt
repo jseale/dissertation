@@ -1,0 +1,15 @@
+tear_54	The	O
+tear_54	main	O
+tear_54	construction	O
+tear_54	fabric	O
+tear_54	is	O
+tear_54	Hypalon	O
+tear_54	coated	O
+tear_54	Nylon	O
+tear_54	which	O
+tear_54	provides	O
+tear_54	a	O
+tear_54	durable	O
+tear_54	non	O
+tear_54	tear	tear_vrb
+tear_54	surface	O

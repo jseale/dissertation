@@ -1,0 +1,11 @@
+buffet_44	Only	O
+buffet_44	Platform	O
+buffet_44	1	O
+buffet_44	has	O
+buffet_44	amenities	O
+buffet_44	including	O
+buffet_44	toilets	O
+buffet_44	refreshments	O
+buffet_44	and	O
+buffet_44	a	O
+buffet_44	buffet	buffet_nou

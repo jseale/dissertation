@@ -1,0 +1,11 @@
+dove_3	The	O
+dove_3	dove	dove
+dove_3	is	O
+dove_3	the	O
+dove_3	symbol	O
+dove_3	of	O
+dove_3	peace	O
+dove_3	that	O
+dove_3	unites	O
+dove_3	the	O
+dove_3	towns	O

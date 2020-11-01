@@ -1,0 +1,14 @@
+predicate_68	In	O
+predicate_68	other	O
+predicate_68	cases	O
+predicate_68	the	O
+predicate_68	value	O
+predicate_68	of	O
+predicate_68	the	O
+predicate_68	predicate	predicate_nou
+predicate_68	is	O
+predicate_68	automatically	O
+predicate_68	converted	O
+predicate_68	to	O
+predicate_68	a	O
+predicate_68	boolean	O

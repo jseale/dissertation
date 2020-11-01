@@ -1,0 +1,17 @@
+bass_45	It	O
+bass_45	is	O
+bass_45	one	O
+bass_45	of	O
+bass_45	the	O
+bass_45	few	O
+bass_45	Deep	O
+bass_45	Purple	O
+bass_45	songs	O
+bass_45	to	O
+bass_45	feature	O
+bass_45	Ian	O
+bass_45	Paice	O
+bass_45	using	O
+bass_45	double	O
+bass_45	bass	bass
+bass_45	drums	O

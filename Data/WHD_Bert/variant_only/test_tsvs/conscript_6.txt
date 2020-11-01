@@ -1,0 +1,9 @@
+conscript_6	The	O
+conscript_6	Tunisian	O
+conscript_6	army	O
+conscript_6	is	O
+conscript_6	in	O
+conscript_6	part	O
+conscript_6	a	O
+conscript_6	conscript	conscript_nou
+conscript_6	army	O

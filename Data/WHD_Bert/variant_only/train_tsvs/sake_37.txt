@@ -1,0 +1,11 @@
+sake_37	This	O
+sake_37	section	O
+sake_37	drawn	O
+sake_37	from	O
+sake_37	Art	O
+sake_37	for	O
+sake_37	History	O
+sake_37	's	O
+sake_37	Sake	sake
+sake_37	by	O
+sake_37	Steinfelt	O

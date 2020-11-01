@@ -1,0 +1,14 @@
+blessed_43	Guru	O
+blessed_43	Nanak	O
+blessed_43	not	O
+blessed_43	only	O
+blessed_43	blessed	blessed_vrb
+blessed_43	Kempegowda	O
+blessed_43	but	O
+blessed_43	also	O
+blessed_43	advised	O
+blessed_43	him	O
+blessed_43	to	O
+blessed_43	develop	O
+blessed_43	the	O
+blessed_43	place	O

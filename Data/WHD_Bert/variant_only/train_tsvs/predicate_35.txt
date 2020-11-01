@@ -1,0 +1,14 @@
+predicate_35	This	O
+predicate_35	particular	O
+predicate_35	type	O
+predicate_35	of	O
+predicate_35	copular	O
+predicate_35	comes	O
+predicate_35	before	O
+predicate_35	the	O
+predicate_35	predicate	predicate_nou
+predicate_35	in	O
+predicate_35	Lishanid	O
+predicate_35	Noshan	O
+predicate_35	very	O
+predicate_35	often	O

@@ -1,0 +1,17 @@
+reading_48	The	O
+reading_48	Scranton	O
+reading_48	Wilkes	O
+reading_48	Barre	O
+reading_48	RailRiders	O
+reading_48	were	O
+reading_48	founded	O
+reading_48	in	O
+reading_48	1919	O
+reading_48	in	O
+reading_48	Reading	reading_geo
+reading_48	Pennsylvania	O
+reading_48	as	O
+reading_48	the	O
+reading_48	Reading	reading_geo
+reading_48	Coal	O
+reading_48	Barons	O

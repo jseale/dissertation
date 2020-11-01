@@ -1,0 +1,8 @@
+tear_25	Various	O
+tear_25	tear	tear_vrb
+tear_25	patterns	O
+tear_25	and	O
+tear_25	configurations	O
+tear_25	have	O
+tear_25	been	O
+tear_25	described	O

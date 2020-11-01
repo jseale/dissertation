@@ -1,0 +1,14 @@
+appropriate_0	It	O
+appropriate_0	can	O
+appropriate_0	occur	O
+appropriate_0	in	O
+appropriate_0	suburban	O
+appropriate_0	and	O
+appropriate_0	urban	O
+appropriate_0	areas	O
+appropriate_0	if	O
+appropriate_0	appropriate	appropriate_adj
+appropriate_0	host	O
+appropriate_0	plants	O
+appropriate_0	are	O
+appropriate_0	available	O

@@ -1,0 +1,15 @@
+abstract_15	Whitehead	O
+abstract_15	's	O
+abstract_15	lemma	O
+abstract_15	is	O
+abstract_15	a	O
+abstract_15	technical	O
+abstract_15	result	O
+abstract_15	in	O
+abstract_15	abstract	abstract_adj-nou
+abstract_15	algebra	O
+abstract_15	used	O
+abstract_15	in	O
+abstract_15	algebraic	O
+abstract_15	K	O
+abstract_15	theory	O

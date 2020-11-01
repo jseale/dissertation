@@ -1,0 +1,12 @@
+correlate_21	IB5k	O
+correlate_21	has	O
+correlate_21	three	O
+correlate_21	divisions	O
+correlate_21	Correlate	correlate_nou
+correlate_21	Analytics	O
+correlate_21	IB5k	O
+correlate_21	Interactive	O
+correlate_21	Media	O
+correlate_21	and	O
+correlate_21	IB5k	O
+correlate_21	Network	O

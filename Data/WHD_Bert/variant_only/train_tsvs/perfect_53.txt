@@ -1,0 +1,10 @@
+perfect_53	He	O
+perfect_53	told	O
+perfect_53	tales	O
+perfect_53	with	O
+perfect_53	perfect	perfect_adj
+perfect_53	aplomb	O
+perfect_53	and	O
+perfect_53	in	O
+perfect_53	complete	O
+perfect_53	paragraphs	O

@@ -1,0 +1,17 @@
+document_50	The	O
+document_50	notary	O
+document_50	's	O
+document_50	log	O
+document_50	is	O
+document_50	the	O
+document_50	only	O
+document_50	document	document_nou
+document_50	for	O
+document_50	which	O
+document_50	a	O
+document_50	notary	O
+document_50	may	O
+document_50	write	O
+document_50	their	O
+document_50	own	O
+document_50	certificate	O

@@ -1,0 +1,12 @@
+discharge_38	Its	O
+discharge_38	mean	O
+discharge_38	annual	O
+discharge_38	discharge	discharge_nou
+discharge_38	is	O
+discharge_38	79	O
+discharge_38	m³/s	O
+discharge_38	2,790	O
+discharge_38	cfs	O
+discharge_38	at	O
+discharge_38	its	O
+discharge_38	mouth	O

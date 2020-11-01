@@ -1,0 +1,13 @@
+frequent_11	There	O
+frequent_11	are	O
+frequent_11	frequent	frequent_adj
+frequent_11	buses	O
+frequent_11	running	O
+frequent_11	between	O
+frequent_11	Fuyang	O
+frequent_11	and	O
+frequent_11	Hangzhou	O
+frequent_11	and	O
+frequent_11	other	O
+frequent_11	nearby	O
+frequent_11	cities	O

@@ -1,0 +1,8 @@
+axes_60	Battle	O
+axes_60	axes	axes_nou-vrb
+axes_60	were	O
+axes_60	specialized	O
+axes_60	versions	O
+axes_60	of	O
+axes_60	utility	O
+axes_60	axes	axes_nou-vrb

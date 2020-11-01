@@ -1,0 +1,8 @@
+contract_39	Curb	O
+contract_39	Records	O
+contract_39	signed	O
+contract_39	Bomshel	O
+contract_39	to	O
+contract_39	a	O
+contract_39	recording	O
+contract_39	contract	contract_nou

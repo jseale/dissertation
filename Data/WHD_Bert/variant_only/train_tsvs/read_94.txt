@@ -1,0 +1,17 @@
+read_94	XML	O
+read_94	based	O
+read_94	documents	O
+read_94	can	O
+read_94	be	O
+read_94	seamlessly	O
+read_94	read	read_past
+read_94	edited	O
+read_94	and	O
+read_94	saved	O
+read_94	back	O
+read_94	to	O
+read_94	the	O
+read_94	original	O
+read_94	format	O
+read_94	without	O
+read_94	corruption	O

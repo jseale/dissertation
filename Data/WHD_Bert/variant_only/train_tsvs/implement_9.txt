@@ -1,0 +1,12 @@
+implement_9	Aloha	O
+implement_9	Editor	O
+implement_9	tries	O
+implement_9	to	O
+implement_9	implement	implement_vrb
+implement_9	its	O
+implement_9	functionality	O
+implement_9	respecting	O
+implement_9	the	O
+implement_9	HTML5	O
+implement_9	Specification	O
+implement_9	Draft	O

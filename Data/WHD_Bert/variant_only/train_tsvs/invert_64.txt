@@ -1,0 +1,17 @@
+invert_64	Another	O
+invert_64	common	O
+invert_64	offense	O
+invert_64	is	O
+invert_64	known	O
+invert_64	as	O
+invert_64	the	O
+invert_64	invert	invert_adj-nou
+invert_64	and	O
+invert_64	is	O
+invert_64	more	O
+invert_64	commonly	O
+invert_64	used	O
+invert_64	at	O
+invert_64	the	O
+invert_64	college	O
+invert_64	level	O

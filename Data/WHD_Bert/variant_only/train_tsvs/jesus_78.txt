@@ -1,0 +1,14 @@
+jesus_78	Jesus	jesus
+jesus_78	Boy	O
+jesus_78	is	O
+jesus_78	about	O
+jesus_78	to	O
+jesus_78	fight	O
+jesus_78	him	O
+jesus_78	back	O
+jesus_78	when	O
+jesus_78	Trevor	O
+jesus_78	falls	O
+jesus_78	in	O
+jesus_78	the	O
+jesus_78	snow	O

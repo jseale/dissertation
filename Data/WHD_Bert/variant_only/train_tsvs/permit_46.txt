@@ -1,0 +1,9 @@
+permit_46	Utah	O
+permit_46	requires	O
+permit_46	a	O
+permit_46	permit	permit_nou
+permit_46	to	O
+permit_46	carry	O
+permit_46	a	O
+permit_46	concealed	O
+permit_46	firearm	O

@@ -1,0 +1,17 @@
+ravel_7	Lapped	O
+ravel_7	seams	O
+ravel_7	are	O
+ravel_7	typically	O
+ravel_7	used	O
+ravel_7	for	O
+ravel_7	bulky	O
+ravel_7	materials	O
+ravel_7	that	O
+ravel_7	do	O
+ravel_7	not	O
+ravel_7	ravel	ravel_nou
+ravel_7	such	O
+ravel_7	as	O
+ravel_7	leather	O
+ravel_7	and	O
+ravel_7	felt	O

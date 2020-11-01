@@ -1,0 +1,17 @@
+present_6	The	O
+present_6	cycle	O
+present_6	is	O
+present_6	present	present_adj-nou
+present_6	in	O
+present_6	microorganisms	O
+present_6	that	O
+present_6	cause	O
+present_6	disease	O
+present_6	but	O
+present_6	is	O
+present_6	absent	O
+present_6	in	O
+present_6	mammals	O
+present_6	for	O
+present_6	example	O
+present_6	humans	O

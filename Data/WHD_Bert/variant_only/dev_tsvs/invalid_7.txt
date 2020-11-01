@@ -1,0 +1,13 @@
+invalid_7	Also	O
+invalid_7	those	O
+invalid_7	instructions	O
+invalid_7	generate	O
+invalid_7	invalid	invalid_adj
+invalid_7	opcode	O
+invalid_7	exception	O
+invalid_7	on	O
+invalid_7	any	O
+invalid_7	CPU	O
+invalid_7	newer	O
+invalid_7	than	O
+invalid_7	80486	O

@@ -1,0 +1,9 @@
+lives_5	She	O
+lives_5	lives	lives_vrb
+lives_5	in	O
+lives_5	the	O
+lives_5	Lasalle	O
+lives_5	borough	O
+lives_5	of	O
+lives_5	Montreal	O
+lives_5	Quebec	O

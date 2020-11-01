@@ -1,0 +1,16 @@
+contract_28	McKie	O
+contract_28	became	O
+contract_28	the	O
+contract_28	Bears	O
+contract_28	full	O
+contract_28	time	O
+contract_28	starter	O
+contract_28	in	O
+contract_28	2006	O
+contract_28	and	O
+contract_28	signed	O
+contract_28	a	O
+contract_28	5-year	O
+contract_28	contract	contract_nou
+contract_28	extension	O
+contract_28	11/2/06	O

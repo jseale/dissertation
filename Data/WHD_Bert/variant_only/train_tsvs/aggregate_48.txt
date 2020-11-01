@@ -1,0 +1,16 @@
+aggregate_48	The	O
+aggregate_48	Ashes	O
+aggregate_48	series	O
+aggregate_48	against	O
+aggregate_48	Great	O
+aggregate_48	Britain	O
+aggregate_48	saw	O
+aggregate_48	an	O
+aggregate_48	aggregate	aggregate_adj-nou
+aggregate_48	crowd	O
+aggregate_48	of	O
+aggregate_48	53,353	O
+aggregate_48	attending	O
+aggregate_48	the	O
+aggregate_48	Test	O
+aggregate_48	series	O

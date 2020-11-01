@@ -1,0 +1,12 @@
+diffuse_41	They	O
+diffuse_41	were	O
+diffuse_41	the	O
+diffuse_41	first	O
+diffuse_41	to	O
+diffuse_41	use	O
+diffuse_41	the	O
+diffuse_41	term	O
+diffuse_41	diffuse	diffuse_adj
+diffuse_41	for	O
+diffuse_41	the	O
+diffuse_41	lines	O

@@ -1,0 +1,13 @@
+degenerate_4	Once	O
+degenerate_4	the	O
+degenerate_4	thyroglossal	O
+degenerate_4	duct	O
+degenerate_4	involutes	O
+degenerate_4	the	O
+degenerate_4	cells	O
+degenerate_4	will	O
+degenerate_4	begin	O
+degenerate_4	to	O
+degenerate_4	degenerate	degenerate_vrb
+degenerate_4	and	O
+degenerate_4	disappear	O

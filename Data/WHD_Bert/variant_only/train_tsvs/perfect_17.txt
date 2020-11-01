@@ -1,0 +1,13 @@
+perfect_17	This	O
+perfect_17	whole	O
+perfect_17	episode	O
+perfect_17	was	O
+perfect_17	Maddy	O
+perfect_17	living	O
+perfect_17	out	O
+perfect_17	her	O
+perfect_17	perfect	perfect_adj
+perfect_17	day	O
+perfect_17	in	O
+perfect_17	her	O
+perfect_17	head	O

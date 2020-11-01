@@ -1,0 +1,14 @@
+buffet_54	Destitute	O
+buffet_54	he	O
+buffet_54	wanders	O
+buffet_54	into	O
+buffet_54	the	O
+buffet_54	Columbia	O
+buffet_54	Buffet	buffet_nou
+buffet_54	where	O
+buffet_54	he	O
+buffet_54	meets	O
+buffet_54	Camilla	O
+buffet_54	Lopez	O
+buffet_54	a	O
+buffet_54	waitress	O

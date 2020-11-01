@@ -1,0 +1,15 @@
+console_1	The	O
+console_1	MorphOS	O
+console_1	Shell	O
+console_1	is	O
+console_1	an	O
+console_1	example	O
+console_1	of	O
+console_1	Z	O
+console_1	shell	O
+console_1	mixed	O
+console_1	with	O
+console_1	the	O
+console_1	KingCON	O
+console_1	console	console_nou
+console_1	handler	O

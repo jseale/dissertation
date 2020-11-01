@@ -1,0 +1,17 @@
+transplant_7	Should	O
+transplant_7	we	O
+transplant_7	legalize	O
+transplant_7	the	O
+transplant_7	sale	O
+transplant_7	of	O
+transplant_7	organs	O
+transplant_7	such	O
+transplant_7	as	O
+transplant_7	kidneys	O
+transplant_7	to	O
+transplant_7	save	O
+transplant_7	the	O
+transplant_7	lives	O
+transplant_7	of	O
+transplant_7	transplant	transplant_nou
+transplant_7	patients	O

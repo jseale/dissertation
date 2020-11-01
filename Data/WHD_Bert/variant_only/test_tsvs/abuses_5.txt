@@ -1,0 +1,15 @@
+abuses_5	The	O
+abuses_5	people	O
+abuses_5	needed	O
+abuses_5	more	O
+abuses_5	time	O
+abuses_5	for	O
+abuses_5	productive	O
+abuses_5	pursuits	O
+abuses_5	while	O
+abuses_5	correcting	O
+abuses_5	social	O
+abuses_5	abuses	abuses_nou
+abuses_5	of	O
+abuses_5	the	O
+abuses_5	past	O

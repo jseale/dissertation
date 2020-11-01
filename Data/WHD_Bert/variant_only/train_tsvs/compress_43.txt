@@ -1,0 +1,16 @@
+compress_43	One	O
+compress_43	would	O
+compress_43	expect	O
+compress_43	a	O
+compress_43	higher	O
+compress_43	fuel	O
+compress_43	consumption	O
+compress_43	because	O
+compress_43	of	O
+compress_43	the	O
+compress_43	power	O
+compress_43	required	O
+compress_43	to	O
+compress_43	compress	compress
+compress_43	the	O
+compress_43	aerosol	O

@@ -1,0 +1,16 @@
+isolate_46	The	O
+isolate_46	complete	O
+isolate_46	sequence	O
+isolate_46	of	O
+isolate_46	the	O
+isolate_46	genomic	O
+isolate_46	RNA	O
+isolate_46	of	O
+isolate_46	an	O
+isolate_46	isolate	isolate_nou
+isolate_46	of	O
+isolate_46	Lily	O
+isolate_46	virus	O
+isolate_46	X	O
+isolate_46	genus	O
+isolate_46	Potexvirus	O

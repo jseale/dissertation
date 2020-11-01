@@ -1,0 +1,17 @@
+increment_42	Subsequently	O
+increment_42	the	O
+increment_42	requirements	O
+increment_42	for	O
+increment_42	the	O
+increment_42	Small	O
+increment_42	Diameter	O
+increment_42	Bomb	O
+increment_42	SDB	O
+increment_42	Increment	increment_nou
+increment_42	2	O
+increment_42	were	O
+increment_42	modified	O
+increment_42	to	O
+increment_42	incorporate	O
+increment_42	the	O
+increment_42	capability	O

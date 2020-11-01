@@ -1,0 +1,17 @@
+appropriate_4	Information	O
+appropriate_4	about	O
+appropriate_4	appropriate	appropriate_adj
+appropriate_4	fungicides	O
+appropriate_4	specific	O
+appropriate_4	to	O
+appropriate_4	a	O
+appropriate_4	particular	O
+appropriate_4	area	O
+appropriate_4	can	O
+appropriate_4	be	O
+appropriate_4	found	O
+appropriate_4	at	O
+appropriate_4	a	O
+appropriate_4	local	O
+appropriate_4	extension	O
+appropriate_4	office	O

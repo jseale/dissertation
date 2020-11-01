@@ -1,0 +1,7 @@
+transform_66	The	O
+transform_66	loop	O
+transform_66	transform	transform_nou
+transform_66	defines	O
+transform_66	the	O
+transform_66	loop	O
+transform_66	representation	O

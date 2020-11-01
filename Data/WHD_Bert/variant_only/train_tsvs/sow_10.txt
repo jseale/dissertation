@@ -1,0 +1,17 @@
+sow_10	Horses	O
+sow_10	may	O
+sow_10	also	O
+sow_10	experience	O
+sow_10	an	O
+sow_10	overbite	O
+sow_10	brachygnathism	O
+sow_10	parrot	O
+sow_10	mouth	O
+sow_10	or	O
+sow_10	an	O
+sow_10	underbite	O
+sow_10	prognathism	O
+sow_10	sow	sow_nou
+sow_10	mouth	O
+sow_10	monkey	O
+sow_10	mouth	O

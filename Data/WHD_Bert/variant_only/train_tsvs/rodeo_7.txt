@@ -1,0 +1,8 @@
+rodeo_7	In	O
+rodeo_7	1984	O
+rodeo_7	Anderson	O
+rodeo_7	started	O
+rodeo_7	rehearsals	O
+rodeo_7	with	O
+rodeo_7	Blue	O
+rodeo_7	Rodeo	rodeo

@@ -1,0 +1,16 @@
+degenerate_43	With	O
+degenerate_43	the	O
+degenerate_43	looted	O
+degenerate_43	degenerate	degenerate_adj-nou
+degenerate_43	art	O
+degenerate_43	sold	O
+degenerate_43	onwards	O
+degenerate_43	via	O
+degenerate_43	Switzerland	O
+degenerate_43	Rosenberg	O
+degenerate_43	's	O
+degenerate_43	collection	O
+degenerate_43	was	O
+degenerate_43	scattered	O
+degenerate_43	across	O
+degenerate_43	Europe	O

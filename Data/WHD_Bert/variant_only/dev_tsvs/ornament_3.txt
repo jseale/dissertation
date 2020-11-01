@@ -1,0 +1,14 @@
+ornament_3	It	O
+ornament_3	features	O
+ornament_3	hand	O
+ornament_3	carved	O
+ornament_3	ornament	ornament_nou
+ornament_3	on	O
+ornament_3	the	O
+ornament_3	main	O
+ornament_3	cornice	O
+ornament_3	the	O
+ornament_3	porches	O
+ornament_3	and	O
+ornament_3	the	O
+ornament_3	dormer	O

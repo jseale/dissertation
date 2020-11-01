@@ -1,0 +1,11 @@
+laminate_30	Adhesives	O
+laminate_30	are	O
+laminate_30	used	O
+laminate_30	as	O
+laminate_30	the	O
+laminate_30	bonding	O
+laminate_30	medium	O
+laminate_30	for	O
+laminate_30	creating	O
+laminate_30	a	O
+laminate_30	laminate	laminate_nou

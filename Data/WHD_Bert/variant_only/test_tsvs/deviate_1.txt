@@ -1,0 +1,14 @@
+deviate_1	The	O
+deviate_1	Chiefs	O
+deviate_1	were	O
+deviate_1	forced	O
+deviate_1	to	O
+deviate_1	deviate	deviate_vrb
+deviate_1	from	O
+deviate_1	their	O
+deviate_1	game	O
+deviate_1	plan	O
+deviate_1	and	O
+deviate_1	that	O
+deviate_1	hurt	O
+deviate_1	them	O

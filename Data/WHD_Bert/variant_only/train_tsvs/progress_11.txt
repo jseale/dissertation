@@ -1,0 +1,17 @@
+progress_11	Since	O
+progress_11	its	O
+progress_11	establishment	O
+progress_11	around	O
+progress_11	2009	O
+progress_11	according	O
+progress_11	to	O
+progress_11	some	O
+progress_11	sources	O
+progress_11	the	O
+progress_11	Chinatown	O
+progress_11	has	O
+progress_11	been	O
+progress_11	a	O
+progress_11	work	O
+progress_11	in	O
+progress_11	progress	progress_nou

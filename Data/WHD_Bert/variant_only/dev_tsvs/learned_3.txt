@@ -1,0 +1,17 @@
+learned_3	But	O
+learned_3	the	O
+learned_3	quaintness	O
+learned_3	of	O
+learned_3	the	O
+learned_3	name	O
+learned_3	grew	O
+learned_3	on	O
+learned_3	us	O
+learned_3	so	O
+learned_3	that	O
+learned_3	we	O
+learned_3	've	O
+learned_3	learned	learned_vrb
+learned_3	to	O
+learned_3	love	O
+learned_3	it	O

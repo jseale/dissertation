@@ -1,0 +1,17 @@
+intrigue_61	It	O
+intrigue_61	was	O
+intrigue_61	preceded	O
+intrigue_61	by	O
+intrigue_61	Clans	O
+intrigue_61	of	O
+intrigue_61	Intrigue	intrigue_nou
+intrigue_61	1977	O
+intrigue_61	and	O
+intrigue_61	followed	O
+intrigue_61	by	O
+intrigue_61	Perils	O
+intrigue_61	of	O
+intrigue_61	the	O
+intrigue_61	Sentimental	O
+intrigue_61	Swordsman	O
+intrigue_61	1982	O

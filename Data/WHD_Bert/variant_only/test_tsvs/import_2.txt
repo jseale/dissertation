@@ -1,0 +1,14 @@
+import_2	Import	import_nou
+import_2	scene	O
+import_2	/JDM	O
+import_2	Japanese	O
+import_2	Scene	O
+import_2	that	O
+import_2	uses	O
+import_2	Japanese	O
+import_2	vehicles	O
+import_2	aftermarket	O
+import_2	parts	O
+import_2	and	O
+import_2	Race	O
+import_2	details	O

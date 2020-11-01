@@ -1,0 +1,14 @@
+delegate_19	Karcher	O
+delegate_19	was	O
+delegate_19	a	O
+delegate_19	delegate	delegate_nou
+delegate_19	to	O
+delegate_19	the	O
+delegate_19	Democratic	O
+delegate_19	National	O
+delegate_19	Convention	O
+delegate_19	in	O
+delegate_19	both	O
+delegate_19	1984	O
+delegate_19	and	O
+delegate_19	1988	O

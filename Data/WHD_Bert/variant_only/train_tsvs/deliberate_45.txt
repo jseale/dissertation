@@ -1,0 +1,15 @@
+deliberate_45	The	O
+deliberate_45	powerful	O
+deliberate_45	owl	O
+deliberate_45	typically	O
+deliberate_45	flies	O
+deliberate_45	in	O
+deliberate_45	a	O
+deliberate_45	slow	O
+deliberate_45	and	O
+deliberate_45	deliberate	deliberate_adj
+deliberate_45	way	O
+deliberate_45	on	O
+deliberate_45	its	O
+deliberate_45	large	O
+deliberate_45	wings	O

@@ -1,0 +1,17 @@
+axes_35	Accelerometer	O
+axes_35	measures	O
+axes_35	acceleration	O
+axes_35	along	O
+axes_35	X	O
+axes_35	Y	O
+axes_35	Z	O
+axes_35	axes	axes_nou
+axes_35	of	O
+axes_35	the	O
+axes_35	body	O
+axes_35	part	O
+axes_35	to	O
+axes_35	which	O
+axes_35	it	O
+axes_35	is	O
+axes_35	affixed	O

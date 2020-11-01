@@ -1,0 +1,7 @@
+abstract_79	Here	O
+abstract_79	he	O
+abstract_79	was	O
+abstract_79	introduced	O
+abstract_79	to	O
+abstract_79	Abstract	abstract_adj-nou
+abstract_79	Expressionism	O

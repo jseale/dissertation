@@ -1,0 +1,12 @@
+aggregate_0	Relegation	O
+aggregate_0	promotion	O
+aggregate_0	play	O
+aggregate_0	off	O
+aggregate_0	participant	O
+aggregate_0	VfL	O
+aggregate_0	Bochum	O
+aggregate_0	won	O
+aggregate_0	on	O
+aggregate_0	aggregate	aggregate_adj-nou
+aggregate_0	against	O
+aggregate_0	1	O

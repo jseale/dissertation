@@ -1,0 +1,17 @@
+moderate_0	Further	O
+moderate_0	north	O
+moderate_0	Long	O
+moderate_0	Island	O
+moderate_0	also	O
+moderate_0	suffered	O
+moderate_0	moderate	moderate_adj-nou
+moderate_0	to	O
+moderate_0	strong	O
+moderate_0	winds	O
+moderate_0	blowing	O
+moderate_0	from	O
+moderate_0	the	O
+moderate_0	north	O
+moderate_0	at	O
+moderate_0	their	O
+moderate_0	peak	O

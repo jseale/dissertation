@@ -1,0 +1,13 @@
+close_19	The	O
+close_19	regional	O
+close_19	checkoff	O
+close_19	is	O
+close_19	within	O
+close_19	their	O
+close_19	state	O
+close_19	or	O
+close_19	very	O
+close_19	close	close_adj-nou
+close_19	to	O
+close_19	the	O
+close_19	state	O

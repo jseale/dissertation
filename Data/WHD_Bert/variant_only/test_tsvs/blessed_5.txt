@@ -1,0 +1,9 @@
+blessed_5	He	O
+blessed_5	was	O
+blessed_5	blessed	blessed_vrb
+blessed_5	with	O
+blessed_5	fertile	O
+blessed_5	farmland	O
+blessed_5	and	O
+blessed_5	adequate	O
+blessed_5	wealth	O

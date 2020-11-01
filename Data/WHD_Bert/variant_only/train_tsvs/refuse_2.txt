@@ -1,0 +1,12 @@
+refuse_2	The	O
+refuse_2	Network	O
+refuse_2	offers	O
+refuse_2	them	O
+refuse_2	eternal	O
+refuse_2	youth	O
+refuse_2	by	O
+refuse_2	becoming	O
+refuse_2	androids	O
+refuse_2	but	O
+refuse_2	they	O
+refuse_2	refuse	refuse_vrb

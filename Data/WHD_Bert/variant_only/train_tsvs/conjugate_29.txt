@@ -1,0 +1,14 @@
+conjugate_29	Conjugate	conjugate_adj-nou
+conjugate_29	matching	O
+conjugate_29	versus	O
+conjugate_29	reflectionless	O
+conjugate_29	matching	O
+conjugate_29	PDF	O
+conjugate_29	taken	O
+conjugate_29	from	O
+conjugate_29	Electromagnetic	O
+conjugate_29	Waves	O
+conjugate_29	and	O
+conjugate_29	AntennasThe	O
+conjugate_29	Spark	O
+conjugate_29	Transmitter	O

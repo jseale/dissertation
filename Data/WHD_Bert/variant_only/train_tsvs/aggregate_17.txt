@@ -1,0 +1,15 @@
+aggregate_17	He	O
+aggregate_17	had	O
+aggregate_17	6	O
+aggregate_17	caps	O
+aggregate_17	from	O
+aggregate_17	1994	O
+aggregate_17	to	O
+aggregate_17	1999	O
+aggregate_17	scoring	O
+aggregate_17	1	O
+aggregate_17	try	O
+aggregate_17	5	O
+aggregate_17	points	O
+aggregate_17	on	O
+aggregate_17	aggregate	aggregate_adj-nou

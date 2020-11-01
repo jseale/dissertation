@@ -1,0 +1,15 @@
+uses_7	This	O
+uses_7	version	O
+uses_7	uses	uses_vrb
+uses_7	electric	O
+uses_7	guitars	O
+uses_7	instead	O
+uses_7	of	O
+uses_7	fiddles	O
+uses_7	though	O
+uses_7	the	O
+uses_7	original	O
+uses_7	lyrics	O
+uses_7	are	O
+uses_7	still	O
+uses_7	performed	O

@@ -1,0 +1,17 @@
+invalid_38	Each	O
+invalid_38	day	O
+invalid_38	a	O
+invalid_38	new	O
+invalid_38	code	O
+invalid_38	is	O
+invalid_38	printed	O
+invalid_38	on	O
+invalid_38	the	O
+invalid_38	wristband	O
+invalid_38	meaning	O
+invalid_38	wristbands	O
+invalid_38	from	O
+invalid_38	previous	O
+invalid_38	days	O
+invalid_38	become	O
+invalid_38	invalid	invalid_adj

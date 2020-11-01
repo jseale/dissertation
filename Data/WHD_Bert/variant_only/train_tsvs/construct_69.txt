@@ -1,0 +1,8 @@
+construct_69	Requires	O
+construct_69	30	O
+construct_69	crystals	O
+construct_69	to	O
+construct_69	construct	construct_vrb
+construct_69	limit	O
+construct_69	of	O
+construct_69	3	O

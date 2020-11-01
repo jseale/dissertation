@@ -1,0 +1,17 @@
+postulate_35	They	O
+postulate_35	also	O
+postulate_35	postulate	postulate_vrb
+postulate_35	the	O
+postulate_35	existence	O
+postulate_35	of	O
+postulate_35	a	O
+postulate_35	quantity	O
+postulate_35	named	O
+postulate_35	entropy	O
+postulate_35	which	O
+postulate_35	can	O
+postulate_35	be	O
+postulate_35	defined	O
+postulate_35	for	O
+postulate_35	any	O
+postulate_35	system	O

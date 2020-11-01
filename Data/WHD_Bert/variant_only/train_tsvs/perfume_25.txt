@@ -1,0 +1,12 @@
+perfume_25	Galimard	O
+perfume_25	is	O
+perfume_25	the	O
+perfume_25	first	O
+perfume_25	French	O
+perfume_25	perfume	perfume_nou
+perfume_25	creator	O
+perfume_25	manufacturer	O
+perfume_25	and	O
+perfume_25	based	O
+perfume_25	in	O
+perfume_25	Grasse	O

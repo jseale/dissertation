@@ -1,0 +1,10 @@
+converse_5	Most	O
+converse_5	Gibraltarians	O
+converse_5	converse	converse_vrb
+converse_5	in	O
+converse_5	Llanito	O
+converse_5	an	O
+converse_5	Andalusian	O
+converse_5	Spanish	O
+converse_5	based	O
+converse_5	vernacular	O

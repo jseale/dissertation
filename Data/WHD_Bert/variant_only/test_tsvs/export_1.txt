@@ -1,0 +1,13 @@
+export_1	Recently	O
+export_1	Kyrgyzstan	O
+export_1	concluded	O
+export_1	accords	O
+export_1	to	O
+export_1	export	export_vrb
+export_1	meat	O
+export_1	to	O
+export_1	Saudi	O
+export_1	Arabia	O
+export_1	from	O
+export_1	September	O
+export_1	2012	O

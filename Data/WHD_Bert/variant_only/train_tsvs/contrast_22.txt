@@ -1,0 +1,14 @@
+contrast_22	By	O
+contrast_22	contrast	contrast_nou
+contrast_22	the	O
+contrast_22	Tosa	O
+contrast_22	is	O
+contrast_22	written	O
+contrast_22	in	O
+contrast_22	the	O
+contrast_22	Japanese	O
+contrast_22	language	O
+contrast_22	using	O
+contrast_22	phonetic	O
+contrast_22	kana	O
+contrast_22	characters	O

@@ -1,0 +1,17 @@
+axes_50	One	O
+axes_50	team	O
+axes_50	member	O
+axes_50	would	O
+axes_50	throw	O
+axes_50	axes	axes_nou-vrb
+axes_50	until	O
+axes_50	they	O
+axes_50	hit	O
+axes_50	the	O
+axes_50	target	O
+axes_50	and	O
+axes_50	then	O
+axes_50	their	O
+axes_50	partner	O
+axes_50	would	O
+axes_50	go	O

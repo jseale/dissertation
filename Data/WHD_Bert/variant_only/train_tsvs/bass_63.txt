@@ -1,0 +1,16 @@
+bass_63	The	O
+bass_63	original	O
+bass_63	three	O
+bass_63	band	O
+bass_63	members	O
+bass_63	were	O
+bass_63	James	O
+bass_63	Bellizia	O
+bass_63	guitar	O
+bass_63	Jason	O
+bass_63	Cooley	O
+bass_63	bass	bass
+bass_63	and	O
+bass_63	Luke	O
+bass_63	Hughett	O
+bass_63	drums	O

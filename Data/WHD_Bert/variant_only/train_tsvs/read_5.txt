@@ -1,0 +1,11 @@
+read_5	During	O
+read_5	his	O
+read_5	first	O
+read_5	audition	O
+read_5	Daggs	O
+read_5	read	read_past
+read_5	four	O
+read_5	scenes	O
+read_5	from	O
+read_5	the	O
+read_5	pilot	O

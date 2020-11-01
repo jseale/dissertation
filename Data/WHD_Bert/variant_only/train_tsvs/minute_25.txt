@@ -1,0 +1,10 @@
+minute_25	Minute	minute
+minute_25	Muffler	O
+minute_25	which	O
+minute_25	began	O
+minute_25	in	O
+minute_25	1969	O
+minute_25	is	O
+minute_25	based	O
+minute_25	in	O
+minute_25	Lethbridge	O

@@ -1,0 +1,14 @@
+aged_25	His	O
+aged_25	wife	O
+aged_25	died	O
+aged_25	in	O
+aged_25	1897	O
+aged_25	and	O
+aged_25	Holmes	O
+aged_25	died	O
+aged_25	on	O
+aged_25	27	O
+aged_25	September	O
+aged_25	1901	O
+aged_25	aged	aged
+aged_25	84	O

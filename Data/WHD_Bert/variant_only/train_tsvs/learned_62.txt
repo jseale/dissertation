@@ -1,0 +1,11 @@
+learned_62	He	O
+learned_62	learned	learned_vrb
+learned_62	to	O
+learned_62	play	O
+learned_62	the	O
+learned_62	accordion	O
+learned_62	and	O
+learned_62	piano	O
+learned_62	as	O
+learned_62	a	O
+learned_62	child	O

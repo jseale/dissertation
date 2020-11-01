@@ -1,0 +1,15 @@
+postulate_28	Meaning	O
+postulate_28	Postulate	postulate_nou
+postulate_28	is	O
+postulate_28	a	O
+postulate_28	formula	O
+postulate_28	to	O
+postulate_28	express	O
+postulate_28	an	O
+postulate_28	aspect	O
+postulate_28	of	O
+postulate_28	the	O
+postulate_28	sense	O
+postulate_28	of	O
+postulate_28	a	O
+postulate_28	predicate	O

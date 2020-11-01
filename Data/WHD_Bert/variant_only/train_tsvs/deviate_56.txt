@@ -1,0 +1,16 @@
+deviate_56	But	O
+deviate_56	the	O
+deviate_56	roles	O
+deviate_56	often	O
+deviate_56	deviate	deviate_vrb
+deviate_56	and	O
+deviate_56	consume	O
+deviate_56	time	O
+deviate_56	that	O
+deviate_56	would	O
+deviate_56	be	O
+deviate_56	devoted	O
+deviate_56	to	O
+deviate_56	the	O
+deviate_56	emotional	O
+deviate_56	expressions	O

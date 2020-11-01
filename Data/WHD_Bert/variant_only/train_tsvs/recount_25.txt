@@ -1,0 +1,14 @@
+recount_25	After	O
+recount_25	a	O
+recount_25	recount	recount_nou
+recount_25	Gingrich	O
+recount_25	prevailed	O
+recount_25	by	O
+recount_25	980	O
+recount_25	votes	O
+recount_25	with	O
+recount_25	a	O
+recount_25	51	O
+recount_25	to	O
+recount_25	49	O
+recount_25	result	O

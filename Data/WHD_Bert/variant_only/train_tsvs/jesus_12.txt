@@ -1,0 +1,11 @@
+jesus_12	Kelly	O
+jesus_12	also	O
+jesus_12	stated	O
+jesus_12	that	O
+jesus_12	Jesus	jesus
+jesus_12	was	O
+jesus_12	white	O
+jesus_12	later	O
+jesus_12	in	O
+jesus_12	the	O
+jesus_12	segment	O

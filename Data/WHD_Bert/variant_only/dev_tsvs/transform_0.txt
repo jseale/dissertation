@@ -1,0 +1,8 @@
+transform_0	The	O
+transform_0	most	O
+transform_0	important	O
+transform_0	one	O
+transform_0	is	O
+transform_0	the	O
+transform_0	Fourier	O
+transform_0	transform	transform_nou

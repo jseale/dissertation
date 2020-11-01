@@ -1,0 +1,12 @@
+animate_62	He	O
+animate_62	uses	O
+animate_62	it	O
+animate_62	to	O
+animate_62	animate	animate_vrb
+animate_62	the	O
+animate_62	wooden	O
+animate_62	Sawhorse	O
+animate_62	for	O
+animate_62	Jack	O
+animate_62	to	O
+animate_62	ride	O

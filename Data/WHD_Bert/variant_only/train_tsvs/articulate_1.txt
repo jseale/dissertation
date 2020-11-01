@@ -1,0 +1,17 @@
+articulate_1	This	O
+articulate_1	requires	O
+articulate_1	a	O
+articulate_1	difficult	O
+articulate_1	balancing	O
+articulate_1	of	O
+articulate_1	the	O
+articulate_1	need	O
+articulate_1	to	O
+articulate_1	articulate	articulate_vrb
+articulate_1	clear	O
+articulate_1	answers	O
+articulate_1	and	O
+articulate_1	the	O
+articulate_1	little	O
+articulate_1	founded	O
+articulate_1	fears	O

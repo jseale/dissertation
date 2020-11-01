@@ -1,0 +1,15 @@
+recount_41	The	O
+recount_41	first	O
+recount_41	independent	O
+recount_41	recount	recount_nou
+recount_41	of	O
+recount_41	undervotes	O
+recount_41	was	O
+recount_41	conducted	O
+recount_41	by	O
+recount_41	the	O
+recount_41	Miami	O
+recount_41	Herald	O
+recount_41	and	O
+recount_41	USA	O
+recount_41	Today	O

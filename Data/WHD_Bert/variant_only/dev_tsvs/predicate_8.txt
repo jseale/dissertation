@@ -1,0 +1,17 @@
+predicate_8	Each	O
+predicate_8	predicate	predicate_nou
+predicate_8	is	O
+predicate_8	available	O
+predicate_8	for	O
+predicate_8	an	O
+predicate_8	interrogative	O
+predicate_8	and	O
+predicate_8	declarative	O
+predicate_8	statement	O
+predicate_8	and	O
+predicate_8	can	O
+predicate_8	also	O
+predicate_8	have	O
+predicate_8	multiple	O
+predicate_8	predicates	O
+predicate_8	conjoined	O

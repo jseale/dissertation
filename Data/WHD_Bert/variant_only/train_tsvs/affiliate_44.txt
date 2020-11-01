@@ -1,0 +1,17 @@
+affiliate_44	It	O
+affiliate_44	was	O
+affiliate_44	once	O
+affiliate_44	an	O
+affiliate_44	affiliate	affiliate_nou
+affiliate_44	of	O
+affiliate_44	Urban	O
+affiliate_44	America	O
+affiliate_44	Television	O
+affiliate_44	prior	O
+affiliate_44	to	O
+affiliate_44	that	O
+affiliate_44	network	O
+affiliate_44	suspending	O
+affiliate_44	its	O
+affiliate_44	operations	O
+affiliate_44	indefinitely	O

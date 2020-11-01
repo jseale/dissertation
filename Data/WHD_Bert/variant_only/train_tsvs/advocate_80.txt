@@ -1,0 +1,15 @@
+advocate_80	Lyddiard	O
+advocate_80	has	O
+advocate_80	always	O
+advocate_80	been	O
+advocate_80	a	O
+advocate_80	strong	O
+advocate_80	advocate	advocate_nou
+advocate_80	of	O
+advocate_80	an	O
+advocate_80	internationalisation	O
+advocate_80	of	O
+advocate_80	the	O
+advocate_80	UK	O
+advocate_80	theatre	O
+advocate_80	scene	O

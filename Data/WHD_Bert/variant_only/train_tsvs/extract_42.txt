@@ -1,0 +1,11 @@
+extract_42	Thus	O
+extract_42	the	O
+extract_42	adsorbed	O
+extract_42	gas	O
+extract_42	molecules	O
+extract_42	continue	O
+extract_42	to	O
+extract_42	extract	extract_vrb
+extract_42	electrons	O
+extract_42	from	O
+extract_42	them	O

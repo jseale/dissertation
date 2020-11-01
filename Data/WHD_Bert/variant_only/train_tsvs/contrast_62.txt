@@ -1,0 +1,10 @@
+contrast_62	In	O
+contrast_62	contrast	contrast_nou
+contrast_62	the	O
+contrast_62	long	O
+contrast_62	nosed	O
+contrast_62	Rolfosteus	O
+contrast_62	measured	O
+contrast_62	just	O
+contrast_62	15	O
+contrast_62	cm	O

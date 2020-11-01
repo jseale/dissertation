@@ -1,0 +1,17 @@
+conduct_11	The	O
+conduct_11	stick	O
+conduct_11	was	O
+conduct_11	deemed	O
+conduct_11	illegal	O
+conduct_11	and	O
+conduct_11	McSorley	O
+conduct_11	was	O
+conduct_11	given	O
+conduct_11	a	O
+conduct_11	two	O
+conduct_11	minute	O
+conduct_11	minor	O
+conduct_11	penalty	O
+conduct_11	for	O
+conduct_11	unsportsmanlike	O
+conduct_11	conduct	conduct_nou

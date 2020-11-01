@@ -1,0 +1,11 @@
+perfect_36	While	O
+perfect_36	not	O
+perfect_36	perfect	perfect_adj
+perfect_36	the	O
+perfect_36	Flaming	O
+perfect_36	Sword	O
+perfect_36	of	O
+perfect_36	Samoa	O
+perfect_36	became	O
+perfect_36	a	O
+perfect_36	reality	O

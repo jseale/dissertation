@@ -1,0 +1,17 @@
+pervert_28	In	O
+pervert_28	2008	O
+pervert_28	Newton	O
+pervert_28	was	O
+pervert_28	found	O
+pervert_28	guilty	O
+pervert_28	of	O
+pervert_28	nine	O
+pervert_28	counts	O
+pervert_28	of	O
+pervert_28	attempting	O
+pervert_28	to	O
+pervert_28	pervert	pervert_vrb
+pervert_28	the	O
+pervert_28	course	O
+pervert_28	of	O
+pervert_28	justice	O

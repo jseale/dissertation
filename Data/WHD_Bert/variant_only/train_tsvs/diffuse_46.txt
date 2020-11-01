@@ -1,0 +1,17 @@
+diffuse_46	The	O
+diffuse_46	interior	O
+diffuse_46	lit	O
+diffuse_46	by	O
+diffuse_46	diffuse	diffuse_adj
+diffuse_46	light	O
+diffuse_46	is	O
+diffuse_46	illuminated	O
+diffuse_46	by	O
+diffuse_46	cracks	O
+diffuse_46	in	O
+diffuse_46	the	O
+diffuse_46	apse	O
+diffuse_46	and	O
+diffuse_46	the	O
+diffuse_46	rose	O
+diffuse_46	window	O

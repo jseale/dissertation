@@ -1,0 +1,13 @@
+moderate_3	Annual	O
+moderate_3	precipitation	O
+moderate_3	is	O
+moderate_3	831	O
+moderate_3	millimeters	O
+moderate_3	32.7	O
+moderate_3	in	O
+moderate_3	with	O
+moderate_3	moderate	moderate_adj-nou
+moderate_3	rainfall	O
+moderate_3	throughout	O
+moderate_3	the	O
+moderate_3	year	O

@@ -1,0 +1,14 @@
+jesus_1	She	O
+jesus_1	is	O
+jesus_1	a	O
+jesus_1	member	O
+jesus_1	of	O
+jesus_1	The	O
+jesus_1	Church	O
+jesus_1	of	O
+jesus_1	Jesus	jesus
+jesus_1	Christ	O
+jesus_1	of	O
+jesus_1	Latter	O
+jesus_1	day	O
+jesus_1	Saints	O

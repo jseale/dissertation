@@ -1,0 +1,13 @@
+transform_55	Through	O
+transform_55	the	O
+transform_55	process	O
+transform_55	of	O
+transform_55	projection	O
+transform_55	they	O
+transform_55	psychologically	O
+transform_55	transform	transform
+transform_55	genetically	O
+transform_55	unrelated	O
+transform_55	individuals	O
+transform_55	into	O
+transform_55	kin	O

@@ -1,0 +1,10 @@
+winds_35	He	O
+winds_35	offers	O
+winds_35	her	O
+winds_35	play	O
+winds_35	North	O
+winds_35	Winds	winds_nou
+winds_35	to	O
+winds_35	producer	O
+winds_35	Sam	O
+winds_35	Woods	O

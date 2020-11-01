@@ -1,0 +1,14 @@
+aggregate_4	Their	O
+aggregate_4	aggregate	aggregate_adj-nou
+aggregate_4	emissions	O
+aggregate_4	were	O
+aggregate_4	0.1	O
+aggregate_4	billion	O
+aggregate_4	tonnes	O
+aggregate_4	with	O
+aggregate_4	per	O
+aggregate_4	capita	O
+aggregate_4	emissions	O
+aggregate_4	of	O
+aggregate_4	5.1	O
+aggregate_4	tonnes	O

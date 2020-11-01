@@ -1,0 +1,13 @@
+animate_17	They	O
+animate_17	also	O
+animate_17	helped	O
+animate_17	animate	animate_vrb
+animate_17	G.A.M.M.A.	O
+animate_17	Force	O
+animate_17	which	O
+animate_17	consisted	O
+animate_17	of	O
+animate_17	13	O
+animate_17	half	O
+animate_17	hour	O
+animate_17	cartoons	O

@@ -1,0 +1,16 @@
+retard_4	Despite	O
+retard_4	nonlinearity	O
+retard_4	in	O
+retard_4	benzylic	O
+retard_4	SN2	O
+retard_4	reactions	O
+retard_4	electron	O
+retard_4	withdrawing	O
+retard_4	groups	O
+retard_4	could	O
+retard_4	either	O
+retard_4	accelerate	O
+retard_4	or	O
+retard_4	retard	retard_vrb
+retard_4	the	O
+retard_4	reaction	O

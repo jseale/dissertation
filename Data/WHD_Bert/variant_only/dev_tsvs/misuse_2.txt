@@ -1,0 +1,16 @@
+misuse_2	Due	O
+misuse_2	to	O
+misuse_2	the	O
+misuse_2	nature	O
+misuse_2	of	O
+misuse_2	quad	O
+misuse_2	charts	O
+misuse_2	as	O
+misuse_2	relatively	O
+misuse_2	short	O
+misuse_2	documents	O
+misuse_2	there	O
+misuse_2	are	O
+misuse_2	opportunities	O
+misuse_2	for	O
+misuse_2	misuse	misuse_nou

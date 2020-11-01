@@ -1,0 +1,15 @@
+progress_3	What	O
+progress_3	I	O
+progress_3	work	O
+progress_3	on	O
+progress_3	changes	O
+progress_3	irregularly	O
+progress_3	and	O
+progress_3	unpredictably	O
+progress_3	with	O
+progress_3	the	O
+progress_3	progress	progress_nou
+progress_3	of	O
+progress_3	theory	O
+progress_3	and	O
+progress_3	knowledge	O

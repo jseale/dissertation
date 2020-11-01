@@ -1,0 +1,14 @@
+winds_60	Intensification	O
+winds_60	renewed	O
+winds_60	but	O
+winds_60	maximum	O
+winds_60	sustained	O
+winds_60	winds	winds_nou
+winds_60	leveled	O
+winds_60	off	O
+winds_60	at	O
+winds_60	45	O
+winds_60	knots	O
+winds_60	83	O
+winds_60	km	O
+winds_60	h	O

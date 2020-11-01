@@ -1,0 +1,13 @@
+aggregate_2	There	O
+aggregate_2	are	O
+aggregate_2	a	O
+aggregate_2	number	O
+aggregate_2	of	O
+aggregate_2	items	O
+aggregate_2	performed	O
+aggregate_2	from	O
+aggregate_2	which	O
+aggregate_2	the	O
+aggregate_2	aggregate	aggregate_adj-nou
+aggregate_2	is	O
+aggregate_2	awarded	O

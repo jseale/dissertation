@@ -1,0 +1,14 @@
+transport_6	Taxis	O
+transport_6	and	O
+transport_6	buses	O
+transport_6	can	O
+transport_6	be	O
+transport_6	found	O
+transport_6	on	O
+transport_6	both	O
+transport_6	ends	O
+transport_6	of	O
+transport_6	the	O
+transport_6	public	O
+transport_6	transport	transport_nou
+transport_6	spectrum	O

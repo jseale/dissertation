@@ -1,0 +1,10 @@
+frequent_0	The	O
+frequent_0	song	O
+frequent_0	receives	O
+frequent_0	frequent	frequent_adj
+frequent_0	airplay	O
+frequent_0	on	O
+frequent_0	classic	O
+frequent_0	rock	O
+frequent_0	radio	O
+frequent_0	stations	O

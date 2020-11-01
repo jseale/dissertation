@@ -1,0 +1,14 @@
+separate_69	As	O
+separate_69	is	O
+separate_69	tradition	O
+separate_69	the	O
+separate_69	mosque	O
+separate_69	has	O
+separate_69	separate	separate_adj
+separate_69	entrances	O
+separate_69	and	O
+separate_69	rooms	O
+separate_69	for	O
+separate_69	men	O
+separate_69	and	O
+separate_69	women	O

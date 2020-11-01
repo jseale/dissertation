@@ -1,0 +1,8 @@
+articulate_5	Suddarth	O
+articulate_5	was	O
+articulate_5	articulate	articulate_adj
+articulate_5	in	O
+articulate_5	Arabic	O
+articulate_5	French	O
+articulate_5	and	O
+articulate_5	Spanish	O

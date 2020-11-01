@@ -1,0 +1,9 @@
+polish_15	On	O
+polish_15	May	O
+polish_15	15	O
+polish_15	1919	O
+polish_15	he	O
+polish_15	joined	O
+polish_15	the	O
+polish_15	Polish	polish_geo
+polish_15	Army	O

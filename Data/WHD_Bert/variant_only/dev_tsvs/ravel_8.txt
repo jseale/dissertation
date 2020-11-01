@@ -1,0 +1,12 @@
+ravel_8	Ravel	ravel_nam
+ravel_8	and	O
+ravel_8	Debussy	O
+ravel_8	were	O
+ravel_8	at	O
+ravel_8	work	O
+ravel_8	developing	O
+ravel_8	and	O
+ravel_8	performing	O
+ravel_8	their	O
+ravel_8	Impressionistic	O
+ravel_8	music	O

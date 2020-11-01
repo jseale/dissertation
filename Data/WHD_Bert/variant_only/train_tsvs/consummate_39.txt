@@ -1,0 +1,7 @@
+consummate_39	Thus	O
+consummate_39	consummate	consummate_adj
+consummate_39	love	O
+consummate_39	may	O
+consummate_39	not	O
+consummate_39	be	O
+consummate_39	permanent	O

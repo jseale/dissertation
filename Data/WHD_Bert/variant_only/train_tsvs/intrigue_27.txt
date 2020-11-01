@@ -1,0 +1,16 @@
+intrigue_27	This	O
+intrigue_27	poetic	O
+intrigue_27	and	O
+intrigue_27	initiatory	O
+intrigue_27	account	O
+intrigue_27	with	O
+intrigue_27	its	O
+intrigue_27	rather	O
+intrigue_27	obscure	O
+intrigue_27	intrigue	intrigue_nou
+intrigue_27	bears	O
+intrigue_27	the	O
+intrigue_27	imprint	O
+intrigue_27	of	O
+intrigue_27	German	O
+intrigue_27	Romanticism	O

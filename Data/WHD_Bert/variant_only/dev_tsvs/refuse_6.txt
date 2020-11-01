@@ -1,0 +1,17 @@
+refuse_6	Back	O
+refuse_6	on	O
+refuse_6	Earth	O
+refuse_6	both	O
+refuse_6	Leelas	O
+refuse_6	refuse	refuse_vrb
+refuse_6	to	O
+refuse_6	talk	O
+refuse_6	to	O
+refuse_6	Fry	O
+refuse_6	because	O
+refuse_6	of	O
+refuse_6	the	O
+refuse_6	freakiness	O
+refuse_6	of	O
+refuse_6	the	O
+refuse_6	situation	O

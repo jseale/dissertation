@@ -1,0 +1,15 @@
+contract_51	However	O
+contract_51	US	O
+contract_51	government	O
+contract_51	pressure	O
+contract_51	on	O
+contract_51	the	O
+contract_51	Czech	O
+contract_51	government	O
+contract_51	resulted	O
+contract_51	in	O
+contract_51	the	O
+contract_51	cancellation	O
+contract_51	of	O
+contract_51	this	O
+contract_51	contract	contract_nou

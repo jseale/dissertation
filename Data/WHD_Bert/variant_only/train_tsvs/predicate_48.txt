@@ -1,0 +1,15 @@
+predicate_48	Definitions	O
+predicate_48	in	O
+predicate_48	KL	O
+predicate_48	ONE	O
+predicate_48	can	O
+predicate_48	be	O
+predicate_48	directly	O
+predicate_48	mapped	O
+predicate_48	to	O
+predicate_48	set	O
+predicate_48	theory	O
+predicate_48	and	O
+predicate_48	the	O
+predicate_48	predicate	predicate_nou
+predicate_48	calculus	O

@@ -1,0 +1,15 @@
+present_8	Authors	O
+present_8	of	O
+present_8	accepted	O
+present_8	papers	O
+present_8	who	O
+present_8	present	present_vrb
+present_8	their	O
+present_8	papers	O
+present_8	workshops	O
+present_8	posters	O
+present_8	receive	O
+present_8	a	O
+present_8	discount	O
+present_8	upon	O
+present_8	registration	O

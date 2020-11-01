@@ -1,0 +1,15 @@
+content_2	This	O
+content_2	reduces	O
+content_2	the	O
+content_2	moisture	O
+content_2	content	content_nou
+content_2	by	O
+content_2	5	O
+content_2	and	O
+content_2	prevents	O
+content_2	the	O
+content_2	pieces	O
+content_2	from	O
+content_2	sticking	O
+content_2	and	O
+content_2	flattening	O

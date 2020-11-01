@@ -1,0 +1,15 @@
+close_23	The	O
+close_23	state	O
+close_23	of	O
+close_23	the	O
+close_23	school	O
+close_23	now	O
+close_23	is	O
+close_23	extremely	O
+close_23	close	close_adj-nou
+close_23	to	O
+close_23	how	O
+close_23	it	O
+close_23	was	O
+close_23	once	O
+close_23	decorated	O

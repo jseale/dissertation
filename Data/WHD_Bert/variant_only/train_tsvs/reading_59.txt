@@ -1,0 +1,15 @@
+reading_59	Certain	O
+reading_59	statistics	O
+reading_59	such	O
+reading_59	as	O
+reading_59	combat	O
+reading_59	skill	O
+reading_59	and	O
+reading_59	endurance	O
+reading_59	attributes	O
+reading_59	are	O
+reading_59	determined	O
+reading_59	randomly	O
+reading_59	before	O
+reading_59	play	O
+reading_59	reading	reading_en

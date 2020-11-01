@@ -1,0 +1,12 @@
+suspect_63	The	O
+suspect_63	female	O
+suspect_63	suspect	suspect_adj-nou
+suspect_63	whose	O
+suspect_63	surname	O
+suspect_63	is	O
+suspect_63	Ko	O
+suspect_63	was	O
+suspect_63	apprehended	O
+suspect_63	on	O
+suspect_63	October	O
+suspect_63	16	O

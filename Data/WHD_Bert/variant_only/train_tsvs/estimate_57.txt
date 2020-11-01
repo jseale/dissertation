@@ -1,0 +1,15 @@
+estimate_57	Voice	O
+estimate_57	assessment	O
+estimate_57	is	O
+estimate_57	necessary	O
+estimate_57	to	O
+estimate_57	plan	O
+estimate_57	and	O
+estimate_57	estimate	estimate_vrb
+estimate_57	the	O
+estimate_57	success	O
+estimate_57	of	O
+estimate_57	a	O
+estimate_57	possible	O
+estimate_57	speech	O
+estimate_57	therapy	O

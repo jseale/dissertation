@@ -1,0 +1,16 @@
+delegate_1	He	O
+delegate_1	was	O
+delegate_1	also	O
+delegate_1	a	O
+delegate_1	delegate	delegate_nou
+delegate_1	to	O
+delegate_1	the	O
+delegate_1	Democratic	O
+delegate_1	National	O
+delegate_1	Convention	O
+delegate_1	at	O
+delegate_1	St.	O
+delegate_1	Louis	O
+delegate_1	Missouri	O
+delegate_1	in	O
+delegate_1	1888	O

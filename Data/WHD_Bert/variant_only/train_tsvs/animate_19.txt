@@ -1,0 +1,11 @@
+animate_19	Stillworld	O
+animate_19	is	O
+animate_19	the	O
+animate_19	sophomore	O
+animate_19	album	O
+animate_19	from	O
+animate_19	American	O
+animate_19	metalcore	O
+animate_19	band	O
+animate_19	Invent	O
+animate_19	Animate	animate_vrb

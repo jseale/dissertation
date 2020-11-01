@@ -1,0 +1,15 @@
+diffuse_57	During	O
+diffuse_57	the	O
+diffuse_57	second	O
+diffuse_57	most	O
+diffuse_57	densification	O
+diffuse_57	occurs	O
+diffuse_57	the	O
+diffuse_57	structure	O
+diffuse_57	recrystallizes	O
+diffuse_57	and	O
+diffuse_57	particles	O
+diffuse_57	diffuse	diffuse_vrb
+diffuse_57	into	O
+diffuse_57	each	O
+diffuse_57	other	O

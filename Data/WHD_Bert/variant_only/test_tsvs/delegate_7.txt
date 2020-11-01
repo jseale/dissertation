@@ -1,0 +1,13 @@
+delegate_7	He	O
+delegate_7	was	O
+delegate_7	an	O
+delegate_7	alternate	O
+delegate_7	delegate	delegate_nou
+delegate_7	to	O
+delegate_7	the	O
+delegate_7	1960	O
+delegate_7	and	O
+delegate_7	1964	O
+delegate_7	Republican	O
+delegate_7	National	O
+delegate_7	Conventions	O

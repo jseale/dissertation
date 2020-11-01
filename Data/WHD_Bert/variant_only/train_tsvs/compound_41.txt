@@ -1,0 +1,12 @@
+compound_41	On	O
+compound_41	top	O
+compound_41	was	O
+compound_41	a	O
+compound_41	compound	compound_nou
+compound_41	or	O
+compound_41	altar	O
+compound_41	where	O
+compound_41	priests	O
+compound_41	probably	O
+compound_41	performed	O
+compound_41	rituals	O

@@ -1,0 +1,17 @@
+conscript_73	Ehsanullah	O
+conscript_73	acknowledged	O
+conscript_73	having	O
+conscript_73	once	O
+conscript_73	served	O
+conscript_73	as	O
+conscript_73	a	O
+conscript_73	Taliban	O
+conscript_73	foot	O
+conscript_73	soldier	O
+conscript_73	but	O
+conscript_73	stated	O
+conscript_73	he	O
+conscript_73	was	O
+conscript_73	an	O
+conscript_73	involuntary	O
+conscript_73	conscript	conscript_nou

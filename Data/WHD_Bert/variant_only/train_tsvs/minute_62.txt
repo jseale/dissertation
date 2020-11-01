@@ -1,0 +1,14 @@
+minute_62	At	O
+minute_62	the	O
+minute_62	last	O
+minute_62	minute	minute
+minute_62	CBS	O
+minute_62	decided	O
+minute_62	to	O
+minute_62	renew	O
+minute_62	the	O
+minute_62	series	O
+minute_62	for	O
+minute_62	a	O
+minute_62	seventh	O
+minute_62	season	O

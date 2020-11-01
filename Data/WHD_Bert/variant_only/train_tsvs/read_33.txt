@@ -1,0 +1,17 @@
+read_33	CVIPtools	O
+read_33	can	O
+read_33	read	read_present
+read_33	many	O
+read_33	image	O
+read_33	formats	O
+read_33	including	O
+read_33	TIFF	O
+read_33	PNG	O
+read_33	GIF	O
+read_33	JPEG	O
+read_33	BMP	O
+read_33	as	O
+read_33	well	O
+read_33	as	O
+read_33	raw	O
+read_33	formats	O

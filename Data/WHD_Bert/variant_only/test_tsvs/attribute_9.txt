@@ -1,0 +1,12 @@
+attribute_9	So	O
+attribute_9	some	O
+attribute_9	scholars	O
+attribute_9	were	O
+attribute_9	inclined	O
+attribute_9	to	O
+attribute_9	attribute	attribute_vrb
+attribute_9	them	O
+attribute_9	to	O
+attribute_9	the	O
+attribute_9	Alupa	O
+attribute_9	rulers	O

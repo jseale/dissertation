@@ -1,0 +1,13 @@
+excuse_4	He	O
+excuse_4	apparently	O
+excuse_4	used	O
+excuse_4	that	O
+excuse_4	as	O
+excuse_4	an	O
+excuse_4	excuse	excuse_nou
+excuse_4	to	O
+excuse_4	carry	O
+excuse_4	out	O
+excuse_4	his	O
+excuse_4	evil	O
+excuse_4	deeds	O

@@ -1,0 +1,17 @@
+rebel_47	Sedara	O
+rebel_47	is	O
+rebel_47	a	O
+rebel_47	rebel	rebel_nou
+rebel_47	in	O
+rebel_47	Afghanistan	O
+rebel_47	before	O
+rebel_47	she	O
+rebel_47	is	O
+rebel_47	recruited	O
+rebel_47	by	O
+rebel_47	Psi	O
+rebel_47	Force	O
+rebel_47	in	O
+rebel_47	the	O
+rebel_47	final	O
+rebel_47	issue	O

@@ -1,0 +1,17 @@
+attribute_4	Some	O
+attribute_4	scholars	O
+attribute_4	attribute	attribute_vrb
+attribute_4	this	O
+attribute_4	to	O
+attribute_4	the	O
+attribute_4	fact	O
+attribute_4	that	O
+attribute_4	Jews	O
+attribute_4	are	O
+attribute_4	not	O
+attribute_4	expected	O
+attribute_4	to	O
+attribute_4	proselytize	O
+attribute_4	derived	O
+attribute_4	from	O
+attribute_4	Halakha	O

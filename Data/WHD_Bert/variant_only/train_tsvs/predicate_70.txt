@@ -1,0 +1,12 @@
+predicate_70	All	O
+predicate_70	edges	O
+predicate_70	have	O
+predicate_70	associated	O
+predicate_70	with	O
+predicate_70	them	O
+predicate_70	a	O
+predicate_70	condition	O
+predicate_70	or	O
+predicate_70	a	O
+predicate_70	branch	O
+predicate_70	predicate	predicate_nou

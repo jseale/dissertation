@@ -1,0 +1,10 @@
+record_22	Rotterdam	O
+record_22	records	O
+record_22	was	O
+record_22	a	O
+record_22	Dutch	O
+record_22	record	record_nou
+record_22	label	O
+record_22	begun	O
+record_22	in	O
+record_22	1992	O

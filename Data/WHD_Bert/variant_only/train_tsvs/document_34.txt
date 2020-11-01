@@ -1,0 +1,8 @@
+document_34	The	O
+document_34	resulting	O
+document_34	document	document_nou
+document_34	was	O
+document_34	titled	O
+document_34	the	O
+document_34	Palmdale	O
+document_34	Statement	O

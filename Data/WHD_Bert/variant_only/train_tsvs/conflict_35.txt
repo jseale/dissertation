@@ -1,0 +1,13 @@
+conflict_35	Conflict	conflict_nou
+conflict_35	had	O
+conflict_35	arisen	O
+conflict_35	between	O
+conflict_35	defensive	O
+conflict_35	coordinator	O
+conflict_35	Buddy	O
+conflict_35	Ryan	O
+conflict_35	and	O
+conflict_35	offensive	O
+conflict_35	coordinator	O
+conflict_35	Kevin	O
+conflict_35	Gilbride	O

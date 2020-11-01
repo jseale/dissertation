@@ -1,0 +1,16 @@
+confines_76	Within	O
+confines_76	the	O
+confines_76	confines	confines_nou
+confines_76	of	O
+confines_76	Stonebridge	O
+confines_76	there	O
+confines_76	is	O
+confines_76	a	O
+confines_76	hospital	O
+confines_76	five	O
+confines_76	elementary	O
+confines_76	schools	O
+confines_76	and	O
+confines_76	two	O
+confines_76	middle	O
+confines_76	schools	O

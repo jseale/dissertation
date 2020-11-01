@@ -1,0 +1,9 @@
+misuse_8	There	O
+misuse_8	is	O
+misuse_8	widespread	O
+misuse_8	misuse	misuse_nou
+misuse_8	of	O
+misuse_8	the	O
+misuse_8	programme	O
+misuse_8	by	O
+misuse_8	hospitals	O

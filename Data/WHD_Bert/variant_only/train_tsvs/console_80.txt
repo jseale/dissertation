@@ -1,0 +1,15 @@
+console_80	The	O
+console_80	arcade	O
+console_80	version	O
+console_80	debuted	O
+console_80	on	O
+console_80	the	O
+console_80	Wii	O
+console_80	Virtual	O
+console_80	Console	console_nou
+console_80	in	O
+console_80	Japan	O
+console_80	on	O
+console_80	April	O
+console_80	27	O
+console_80	2010	O

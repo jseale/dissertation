@@ -1,0 +1,13 @@
+overthrow_76	The	O
+overthrow_76	first	O
+overthrow_76	major	O
+overthrow_76	demonstrations	O
+overthrow_76	to	O
+overthrow_76	overthrow	overthrow_vrb
+overthrow_76	Mohammad	O
+overthrow_76	Reza	O
+overthrow_76	Pahlavi	O
+overthrow_76	began	O
+overthrow_76	in	O
+overthrow_76	January	O
+overthrow_76	1978	O

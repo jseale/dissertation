@@ -1,0 +1,17 @@
+ravel_30	Reporting	O
+ravel_30	this	O
+ravel_30	development	O
+ravel_30	to	O
+ravel_30	Ravel	ravel_nam
+ravel_30	on	O
+ravel_30	March	O
+ravel_30	4	O
+ravel_30	Satie	O
+ravel_30	wrote	O
+ravel_30	That	O
+ravel_30	's	O
+ravel_30	something	O
+ravel_30	I	O
+ravel_30	owe	O
+ravel_30	to	O
+ravel_30	you	O

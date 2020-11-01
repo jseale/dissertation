@@ -1,0 +1,10 @@
+uses_7	To	O
+uses_7	express	O
+uses_7	past	O
+uses_7	tense	O
+uses_7	negative	O
+uses_7	Hawaiian	O
+uses_7	Pidgin	O
+uses_7	uses	uses_vrb
+uses_7	neva	O
+uses_7	never	O

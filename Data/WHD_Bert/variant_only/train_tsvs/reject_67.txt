@@ -1,0 +1,17 @@
+reject_67	The	O
+reject_67	Parliament	O
+reject_67	has	O
+reject_67	no	O
+reject_67	power	O
+reject_67	to	O
+reject_67	reject	reject_vrb
+reject_67	or	O
+reject_67	amend	O
+reject_67	the	O
+reject_67	final	O
+reject_67	determination	O
+reject_67	of	O
+reject_67	the	O
+reject_67	augmented	O
+reject_67	Electoral	O
+reject_67	Commission	O

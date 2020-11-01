@@ -1,0 +1,10 @@
+expatriate_48	He	O
+expatriate_48	is	O
+expatriate_48	an	O
+expatriate_48	English	O
+expatriate_48	expatriate	expatriate_nou
+expatriate_48	in	O
+expatriate_48	the	O
+expatriate_48	U.S.	O
+expatriate_48	since	O
+expatriate_48	1992	O

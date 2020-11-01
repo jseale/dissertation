@@ -1,0 +1,16 @@
+mobile_20	Documents	O
+mobile_20	To	O
+mobile_20	Go	O
+mobile_20	is	O
+mobile_20	also	O
+mobile_20	available	O
+mobile_20	for	O
+mobile_20	Microsoft	O
+mobile_20	Windows	O
+mobile_20	Mobile	mobile
+mobile_20	5.0	O
+mobile_20	Smartphone	O
+mobile_20	and	O
+mobile_20	6	O
+mobile_20	Standard	O
+mobile_20	devices	O

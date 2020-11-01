@@ -1,0 +1,13 @@
+convict_70	In	O
+convict_70	addition	O
+convict_70	four	O
+convict_70	free	O
+convict_70	women	O
+convict_70	accompanied	O
+convict_70	their	O
+convict_70	convict	convict_nou
+convict_70	husbands	O
+convict_70	together	O
+convict_70	with	O
+convict_70	two	O
+convict_70	children	O

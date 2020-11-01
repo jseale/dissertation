@@ -1,0 +1,16 @@
+axes_25	This	O
+axes_25	product	O
+axes_25	is	O
+axes_25	where	O
+axes_25	a	O
+axes_25	and	O
+axes_25	b	O
+axes_25	are	O
+axes_25	the	O
+axes_25	semi	O
+axes_25	major	O
+axes_25	and	O
+axes_25	semi	O
+axes_25	minor	O
+axes_25	axes	axes_nou
+axes_25	respectively	O

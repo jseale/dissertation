@@ -1,0 +1,16 @@
+protest_55	On	O
+protest_55	27	O
+protest_55	December	O
+protest_55	2011	O
+protest_55	a	O
+protest_55	protest	protest_nou
+protest_55	against	O
+protest_55	extremism	O
+protest_55	near	O
+protest_55	the	O
+protest_55	Orot	O
+protest_55	Banot	O
+protest_55	school	O
+protest_55	drew	O
+protest_55	10,000	O
+protest_55	people	O

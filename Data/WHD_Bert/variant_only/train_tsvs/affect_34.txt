@@ -1,0 +1,17 @@
+affect_34	Engagement	O
+affect_34	is	O
+affect_34	complex	O
+affect_34	because	O
+affect_34	a	O
+affect_34	variety	O
+affect_34	of	O
+affect_34	exposure	O
+affect_34	and	O
+affect_34	relationship	O
+affect_34	factors	O
+affect_34	affect	affect
+affect_34	engagement	O
+affect_34	making	O
+affect_34	simplified	O
+affect_34	rankings	O
+affect_34	misleading	O

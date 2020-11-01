@@ -1,0 +1,15 @@
+correlate_71	The	O
+correlate_71	QT	O
+correlate_71	results	O
+correlate_71	correlate	correlate_nou-vrb
+correlate_71	well	O
+correlate_71	with	O
+correlate_71	the	O
+correlate_71	Wechsler	O
+correlate_71	Adult	O
+correlate_71	Intelligence	O
+correlate_71	Scale	O
+correlate_71	WAIS	O
+correlate_71	Full	O
+correlate_71	Scale	O
+correlate_71	IQ	O

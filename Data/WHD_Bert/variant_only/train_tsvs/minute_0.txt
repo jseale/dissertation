@@ -1,0 +1,12 @@
+minute_0	King	O
+minute_0	delivered	O
+minute_0	a	O
+minute_0	17-minute	O
+minute_0	speech	O
+minute_0	later	O
+minute_0	known	O
+minute_0	as	O
+minute_0	I	O
+minute_0	Have	O
+minute_0	a	O
+minute_0	Dream	O

@@ -1,0 +1,12 @@
+bologna_6	He	O
+bologna_6	is	O
+bologna_6	the	O
+bologna_6	Chairman	O
+bologna_6	of	O
+bologna_6	the	O
+bologna_6	Italian	O
+bologna_6	football	O
+bologna_6	club	O
+bologna_6	Bologna	bologna_geo
+bologna_6	F.C.	O
+bologna_6	1909	O

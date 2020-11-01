@@ -1,0 +1,11 @@
+moderate_16	And	O
+moderate_16	even	O
+moderate_16	the	O
+moderate_16	more	O
+moderate_16	moderate	moderate_adj-nou
+moderate_16	chiropractors	O
+moderate_16	have	O
+moderate_16	ideas	O
+moderate_16	above	O
+moderate_16	their	O
+moderate_16	station	O

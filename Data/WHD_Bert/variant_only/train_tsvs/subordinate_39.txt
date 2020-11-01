@@ -1,0 +1,17 @@
+subordinate_39	Someone	O
+subordinate_39	would	O
+subordinate_39	have	O
+subordinate_39	to	O
+subordinate_39	run	O
+subordinate_39	from	O
+subordinate_39	one	O
+subordinate_39	commander	O
+subordinate_39	to	O
+subordinate_39	a	O
+subordinate_39	subordinate	subordinate_adj-nou
+subordinate_39	to	O
+subordinate_39	tell	O
+subordinate_39	them	O
+subordinate_39	what	O
+subordinate_39	to	O
+subordinate_39	do	O

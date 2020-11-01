@@ -1,0 +1,15 @@
+excuse_63	This	O
+excuse_63	gave	O
+excuse_63	carpaccio	O
+excuse_63	an	O
+excuse_63	excuse	excuse_nou
+excuse_63	for	O
+excuse_63	filling	O
+excuse_63	his	O
+excuse_63	canvas	O
+excuse_63	with	O
+excuse_63	picturesque	O
+excuse_63	oriental	O
+excuse_63	costumes	O
+excuse_63	and	O
+excuse_63	architecture	O

@@ -1,0 +1,10 @@
+lives_8	Cash	O
+lives_8	lives	lives_vrb
+lives_8	with	O
+lives_8	her	O
+lives_8	husband	O
+lives_8	and	O
+lives_8	son	O
+lives_8	in	O
+lives_8	Chelsea	O
+lives_8	Manhattan	O

@@ -1,0 +1,9 @@
+expatriate_2	For	O
+expatriate_2	welfare	O
+expatriate_2	services	O
+expatriate_2	to	O
+expatriate_2	the	O
+expatriate_2	expatriate	expatriate_nou
+expatriate_2	community	O
+expatriate_2	in	O
+expatriate_2	Spain	O

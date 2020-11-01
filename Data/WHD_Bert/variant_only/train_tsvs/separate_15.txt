@@ -1,0 +1,13 @@
+separate_15	Since	O
+separate_15	2008	O
+separate_15	four	O
+separate_15	editions	O
+separate_15	of	O
+separate_15	two	O
+separate_15	separate	separate_adj
+separate_15	events	O
+separate_15	have	O
+separate_15	been	O
+separate_15	organized	O
+separate_15	each	O
+separate_15	year	O

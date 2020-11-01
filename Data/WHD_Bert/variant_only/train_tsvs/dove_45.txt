@@ -1,0 +1,15 @@
+dove_45	The	O
+dove_45	Barusan	O
+dove_45	cuckoo	O
+dove_45	dove	dove
+dove_45	Macropygia	O
+dove_45	modiglianii	O
+dove_45	is	O
+dove_45	a	O
+dove_45	species	O
+dove_45	of	O
+dove_45	bird	O
+dove_45	in	O
+dove_45	the	O
+dove_45	family	O
+dove_45	Columbidae	O

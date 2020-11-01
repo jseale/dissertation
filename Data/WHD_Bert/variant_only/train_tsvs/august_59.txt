@@ -1,0 +1,17 @@
+august_59	In	O
+august_59	August	august
+august_59	he	O
+august_59	completed	O
+august_59	a	O
+august_59	test	O
+august_59	for	O
+august_59	the	O
+august_59	BMW	O
+august_59	Motorsport	O
+august_59	DTM	O
+august_59	team	O
+august_59	with	O
+august_59	a	O
+august_59	BMW	O
+august_59	M4	O
+august_59	DTM	O

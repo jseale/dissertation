@@ -1,0 +1,13 @@
+protest_0	Tens	O
+protest_0	of	O
+protest_0	thousands	O
+protest_0	have	O
+protest_0	learned	O
+protest_0	that	O
+protest_0	protest	protest_nou
+protest_0	and	O
+protest_0	marches	O
+protest_0	do	O
+protest_0	n't	O
+protest_0	do	O
+protest_0	it	O

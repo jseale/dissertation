@@ -1,0 +1,15 @@
+fragment_6	This	O
+fragment_6	fragment	fragment_nou
+fragment_6	punctured	O
+fragment_6	a	O
+fragment_6	tyre	O
+fragment_6	on	O
+fragment_6	Concorde	O
+fragment_6	's	O
+fragment_6	left	O
+fragment_6	main	O
+fragment_6	wheel	O
+fragment_6	bogie	O
+fragment_6	during	O
+fragment_6	take	O
+fragment_6	off	O

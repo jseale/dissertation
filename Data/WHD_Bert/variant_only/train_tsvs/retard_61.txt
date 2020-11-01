@@ -1,0 +1,16 @@
+retard_61	Depending	O
+retard_61	on	O
+retard_61	their	O
+retard_61	size	O
+retard_61	and	O
+retard_61	distribution	O
+retard_61	such	O
+retard_61	particles	O
+retard_61	may	O
+retard_61	act	O
+retard_61	to	O
+retard_61	either	O
+retard_61	encourage	O
+retard_61	or	O
+retard_61	retard	retard_vrb
+retard_61	recrystallization	O

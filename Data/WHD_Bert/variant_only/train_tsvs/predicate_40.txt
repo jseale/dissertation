@@ -1,0 +1,17 @@
+predicate_40	Such	O
+predicate_40	a	O
+predicate_40	relation	O
+predicate_40	predicate	predicate_nou
+predicate_40	is	O
+predicate_40	implemented	O
+predicate_40	as	O
+predicate_40	a	O
+predicate_40	relation	O
+predicate_40	set	O
+predicate_40	exactly	O
+predicate_40	as	O
+predicate_40	described	O
+predicate_40	in	O
+predicate_40	the	O
+predicate_40	previous	O
+predicate_40	section	O

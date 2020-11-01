@@ -1,0 +1,14 @@
+ravel_5	Ravel	ravel_nam
+ravel_5	wrote	O
+ravel_5	this	O
+ravel_5	impressionism	O
+ravel_5	is	O
+ravel_5	certainly	O
+ravel_5	very	O
+ravel_5	different	O
+ravel_5	from	O
+ravel_5	that	O
+ravel_5	of	O
+ravel_5	present	O
+ravel_5	day	O
+ravel_5	composers	O

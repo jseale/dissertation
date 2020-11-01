@@ -1,0 +1,13 @@
+ornament_8	For	O
+ornament_8	each	O
+ornament_8	function	O
+ornament_8	its	O
+ornament_8	material	O
+ornament_8	for	O
+ornament_8	each	O
+ornament_8	material	O
+ornament_8	its	O
+ornament_8	form	O
+ornament_8	and	O
+ornament_8	it	O
+ornament_8	ornament	ornament_nou

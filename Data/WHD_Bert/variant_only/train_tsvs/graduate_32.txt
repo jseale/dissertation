@@ -1,0 +1,17 @@
+graduate_32	He	O
+graduate_32	graduated	O
+graduate_32	in	O
+graduate_32	1984	O
+graduate_32	and	O
+graduate_32	went	O
+graduate_32	on	O
+graduate_32	to	O
+graduate_32	graduate	graduate_adj-nou
+graduate_32	school	O
+graduate_32	at	O
+graduate_32	Berkeley	O
+graduate_32	receiving	O
+graduate_32	his	O
+graduate_32	Ph.D.	O
+graduate_32	in	O
+graduate_32	1989	O

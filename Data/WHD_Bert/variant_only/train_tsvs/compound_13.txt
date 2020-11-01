@@ -1,0 +1,7 @@
+compound_13	Carbazole	O
+compound_13	is	O
+compound_13	an	O
+compound_13	aromatic	O
+compound_13	heterocyclic	O
+compound_13	organic	O
+compound_13	compound	compound_nou

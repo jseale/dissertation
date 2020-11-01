@@ -1,0 +1,16 @@
+combine_46	In	O
+combine_46	Maryland	O
+combine_46	the	O
+combine_46	Catholic	O
+combine_46	planter	O
+combine_46	urban	O
+combine_46	vote	O
+combine_46	could	O
+combine_46	combine	combine_vrb
+combine_46	to	O
+combine_46	establish	O
+combine_46	a	O
+combine_46	pro	O
+combine_46	slavery	O
+combine_46	state	O
+combine_46	government	O

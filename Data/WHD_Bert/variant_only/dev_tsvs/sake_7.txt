@@ -1,0 +1,11 @@
+sake_7	The	O
+sake_7	coalescence	O
+sake_7	is	O
+sake_7	not	O
+sake_7	simply	O
+sake_7	for	O
+sake_7	the	O
+sake_7	sake	sake
+sake_7	of	O
+sake_7	alliterative	O
+sake_7	effect	O

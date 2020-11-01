@@ -1,0 +1,14 @@
+deviate_44	In	O
+deviate_44	general	O
+deviate_44	spin	O
+deviate_44	orbit	O
+deviate_44	coupling	O
+deviate_44	causes	O
+deviate_44	μeff	O
+deviate_44	to	O
+deviate_44	deviate	deviate_vrb
+deviate_44	from	O
+deviate_44	the	O
+deviate_44	spin	O
+deviate_44	only	O
+deviate_44	formula	O

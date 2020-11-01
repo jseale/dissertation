@@ -1,0 +1,14 @@
+rebel_54	Since	O
+rebel_54	1998	O
+rebel_54	government	O
+rebel_54	and	O
+rebel_54	rebel	rebel_nou
+rebel_54	forces	O
+rebel_54	have	O
+rebel_54	fought	O
+rebel_54	with	O
+rebel_54	little	O
+rebel_54	progress	O
+rebel_54	on	O
+rebel_54	either	O
+rebel_54	side	O

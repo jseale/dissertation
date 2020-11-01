@@ -1,0 +1,17 @@
+diffuse_1	Higher	O
+diffuse_1	density	O
+diffuse_1	regions	O
+diffuse_1	of	O
+diffuse_1	the	O
+diffuse_1	interstellar	O
+diffuse_1	medium	O
+diffuse_1	form	O
+diffuse_1	clouds	O
+diffuse_1	or	O
+diffuse_1	diffuse	diffuse_adj
+diffuse_1	nebulae	O
+diffuse_1	where	O
+diffuse_1	star	O
+diffuse_1	formation	O
+diffuse_1	takes	O
+diffuse_1	place	O

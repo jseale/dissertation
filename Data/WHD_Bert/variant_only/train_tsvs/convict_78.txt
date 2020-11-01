@@ -1,0 +1,16 @@
+convict_78	He	O
+convict_78	worked	O
+convict_78	the	O
+convict_78	land	O
+convict_78	with	O
+convict_78	convict	convict_nou
+convict_78	labour	O
+convict_78	supplying	O
+convict_78	timber	O
+convict_78	to	O
+convict_78	the	O
+convict_78	colony	O
+convict_78	of	O
+convict_78	New	O
+convict_78	South	O
+convict_78	Wales	O

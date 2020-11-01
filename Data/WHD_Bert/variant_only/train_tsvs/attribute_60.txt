@@ -1,0 +1,13 @@
+attribute_60	Some	O
+attribute_60	accounts	O
+attribute_60	attribute	attribute_vrb
+attribute_60	his	O
+attribute_60	death	O
+attribute_60	to	O
+attribute_60	poison	O
+attribute_60	but	O
+attribute_60	he	O
+attribute_60	probably	O
+attribute_60	succumbed	O
+attribute_60	to	O
+attribute_60	pneumonia	O

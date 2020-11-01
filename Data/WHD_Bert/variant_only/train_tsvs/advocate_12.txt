@@ -1,0 +1,15 @@
+advocate_12	Shashank	O
+advocate_12	's	O
+advocate_12	younger	O
+advocate_12	brother	O
+advocate_12	Sunil	O
+advocate_12	Manohar	O
+advocate_12	has	O
+advocate_12	also	O
+advocate_12	served	O
+advocate_12	as	O
+advocate_12	the	O
+advocate_12	Advocate	advocate_nou
+advocate_12	General	O
+advocate_12	of	O
+advocate_12	Maharashtra	O

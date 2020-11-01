@@ -1,0 +1,17 @@
+minute_23	It	O
+minute_23	is	O
+minute_23	only	O
+minute_23	a	O
+minute_23	short	O
+minute_23	twenty	O
+minute_23	minute	minute
+minute_23	drive	O
+minute_23	from	O
+minute_23	Western	O
+minute_23	Carolina	O
+minute_23	University	O
+minute_23	and	O
+minute_23	the	O
+minute_23	town	O
+minute_23	of	O
+minute_23	Sylva	O

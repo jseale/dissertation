@@ -1,0 +1,17 @@
+ravel_26	In	O
+ravel_26	1930	O
+ravel_26	she	O
+ravel_26	made	O
+ravel_26	a	O
+ravel_26	tour	O
+ravel_26	of	O
+ravel_26	Europe	O
+ravel_26	as	O
+ravel_26	interpreter	O
+ravel_26	for	O
+ravel_26	the	O
+ravel_26	famous	O
+ravel_26	French	O
+ravel_26	composer	O
+ravel_26	Maurice	O
+ravel_26	Ravel	ravel_nam

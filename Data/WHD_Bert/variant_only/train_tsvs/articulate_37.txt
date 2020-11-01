@@ -1,0 +1,7 @@
+articulate_37	The	O
+articulate_37	human	O
+articulate_37	figure	O
+articulate_37	appears	O
+articulate_37	flexible	O
+articulate_37	and	O
+articulate_37	articulate	articulate_adj

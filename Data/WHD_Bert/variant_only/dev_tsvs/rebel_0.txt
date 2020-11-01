@@ -1,0 +1,17 @@
+rebel_0	An	O
+rebel_0	incorrigible	O
+rebel_0	rebel	rebel_nou
+rebel_0	that	O
+rebel_0	lives	O
+rebel_0	for	O
+rebel_0	babes	O
+rebel_0	beers	O
+rebel_0	cartoons	O
+rebel_0	and	O
+rebel_0	chaos	O
+rebel_0	and	O
+rebel_0	not	O
+rebel_0	necessarily	O
+rebel_0	in	O
+rebel_0	that	O
+rebel_0	order	O

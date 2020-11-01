@@ -1,0 +1,13 @@
+diffuse_3	L.	O
+diffuse_3	mexicana	O
+diffuse_3	can	O
+diffuse_3	induce	O
+diffuse_3	the	O
+diffuse_3	cutaneous	O
+diffuse_3	and	O
+diffuse_3	diffuse	diffuse_adj
+diffuse_3	cutaneous	O
+diffuse_3	clinical	O
+diffuse_3	manifestations	O
+diffuse_3	in	O
+diffuse_3	humans	O

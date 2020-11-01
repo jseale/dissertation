@@ -1,0 +1,16 @@
+sow_28	His	O
+sow_28	nickname	O
+sow_28	Syr	O
+sow_28	can	O
+sow_28	be	O
+sow_28	translated	O
+sow_28	as	O
+sow_28	meaning	O
+sow_28	sow	sow_nou
+sow_28	or	O
+sow_28	swine	O
+sow_28	related	O
+sow_28	to	O
+sow_28	Old	O
+sow_28	Norse	O
+sow_28	svin	O

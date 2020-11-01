@@ -1,0 +1,9 @@
+winds_12	However	O
+winds_12	contrary	O
+winds_12	winds	winds_nou
+winds_12	delayed	O
+winds_12	him	O
+winds_12	and	O
+winds_12	the	O
+winds_12	frigate	O
+winds_12	sailed	O

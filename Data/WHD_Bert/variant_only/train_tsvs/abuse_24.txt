@@ -1,0 +1,14 @@
+abuse_24	His	O
+abuse_24	abuse	abuse_nou
+abuse_24	is	O
+abuse_24	interrupted	O
+abuse_24	by	O
+abuse_24	the	O
+abuse_24	arrival	O
+abuse_24	of	O
+abuse_24	Ramvati	O
+abuse_24	's	O
+abuse_24	son	O
+abuse_24	Jeeva	O
+abuse_24	who	O
+abuse_24	intervenes	O

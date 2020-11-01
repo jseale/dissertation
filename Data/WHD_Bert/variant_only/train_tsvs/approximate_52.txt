@@ -1,0 +1,14 @@
+approximate_52	We	O
+approximate_52	know	O
+approximate_52	nothing	O
+approximate_52	about	O
+approximate_52	him	O
+approximate_52	personally	O
+approximate_52	other	O
+approximate_52	than	O
+approximate_52	the	O
+approximate_52	approximate	approximate_adj-nou
+approximate_52	date	O
+approximate_52	of	O
+approximate_52	his	O
+approximate_52	work	O

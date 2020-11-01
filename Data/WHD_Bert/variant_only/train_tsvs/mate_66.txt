@@ -1,0 +1,14 @@
+mate_66	Goldsmith	O
+mate_66	easily	O
+mate_66	won	O
+mate_66	the	O
+mate_66	primary	O
+mate_66	and	O
+mate_66	soon	O
+mate_66	after	O
+mate_66	chose	O
+mate_66	Witwer	O
+mate_66	as	O
+mate_66	his	O
+mate_66	running	O
+mate_66	mate	mate

@@ -1,0 +1,14 @@
+polish_79	An	O
+polish_79	Exclusive	O
+polish_79	novella	O
+polish_79	was	O
+polish_79	adapted	O
+polish_79	and	O
+polish_79	directed	O
+polish_79	by	O
+polish_79	the	O
+polish_79	young	O
+polish_79	Polish	polish_geo
+polish_79	director	O
+polish_79	Krzysztof	O
+polish_79	Szot	O

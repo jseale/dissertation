@@ -1,0 +1,14 @@
+sake_22	This	O
+sake_22	is	O
+sake_22	for	O
+sake_22	the	O
+sake_22	sake	sake
+sake_22	of	O
+sake_22	accuracy	O
+sake_22	as	O
+sake_22	the	O
+sake_22	translation	O
+sake_22	of	O
+sake_22	Sabaoth	O
+sake_22	is	O
+sake_22	uncertain	O

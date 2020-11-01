@@ -1,0 +1,14 @@
+house_67	Leakes	O
+house_67	failed	O
+house_67	to	O
+house_67	win	O
+house_67	any	O
+house_67	money	O
+house_67	for	O
+house_67	her	O
+house_67	selected	O
+house_67	charity	O
+house_67	My	O
+house_67	Sister	O
+house_67	's	O
+house_67	House	house_nou

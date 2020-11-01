@@ -1,0 +1,15 @@
+associate_1	He	O
+associate_1	was	O
+associate_1	Associate	associate_adj-nou
+associate_1	Professor	O
+associate_1	at	O
+associate_1	the	O
+associate_1	Ohio	O
+associate_1	University	O
+associate_1	School	O
+associate_1	of	O
+associate_1	Art	O
+associate_1	from	O
+associate_1	1957	O
+associate_1	until	O
+associate_1	2014	O

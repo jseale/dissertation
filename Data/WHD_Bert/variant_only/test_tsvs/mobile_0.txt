@@ -1,0 +1,9 @@
+mobile_0	These	O
+mobile_0	are	O
+mobile_0	delivered	O
+mobile_0	via	O
+mobile_0	their	O
+mobile_0	website	O
+mobile_0	and	O
+mobile_0	mobile	mobile
+mobile_0	apps	O

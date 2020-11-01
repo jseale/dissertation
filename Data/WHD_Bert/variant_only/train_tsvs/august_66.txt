@@ -1,0 +1,17 @@
+august_66	Adults	O
+august_66	are	O
+august_66	on	O
+august_66	wing	O
+august_66	from	O
+august_66	August	august
+august_66	to	O
+august_66	November	O
+august_66	and	O
+august_66	from	O
+august_66	February	O
+august_66	to	O
+august_66	April	O
+august_66	in	O
+august_66	two	O
+august_66	main	O
+august_66	generations	O

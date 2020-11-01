@@ -1,0 +1,17 @@
+mobile_63	The	O
+mobile_63	number	O
+mobile_63	of	O
+mobile_63	musketeers	O
+mobile_63	relative	O
+mobile_63	to	O
+mobile_63	pikemen	O
+mobile_63	grew	O
+mobile_63	partly	O
+mobile_63	because	O
+mobile_63	they	O
+mobile_63	were	O
+mobile_63	now	O
+mobile_63	more	O
+mobile_63	mobile	mobile
+mobile_63	than	O
+mobile_63	pikemen	O

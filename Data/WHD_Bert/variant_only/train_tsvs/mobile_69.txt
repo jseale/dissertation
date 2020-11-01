@@ -1,0 +1,17 @@
+mobile_69	Continental	O
+mobile_69	Airlines	O
+mobile_69	became	O
+mobile_69	the	O
+mobile_69	first	O
+mobile_69	airline	O
+mobile_69	to	O
+mobile_69	launch	O
+mobile_69	a	O
+mobile_69	mobile	mobile
+mobile_69	boarding	O
+mobile_69	pass	O
+mobile_69	service	O
+mobile_69	to	O
+mobile_69	London	O
+mobile_69	's	O
+mobile_69	Heathrow	O

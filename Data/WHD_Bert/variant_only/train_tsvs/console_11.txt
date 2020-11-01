@@ -1,0 +1,10 @@
+console_11	The	O
+console_11	Tapwave	O
+console_11	Zodiac	O
+console_11	Console	console_nou
+console_11	Now	O
+console_11	ShippingTapwave	O
+console_11	Discontinues	O
+console_11	Zodiac	O
+console_11	BusinessNow	O
+console_11	closed	O

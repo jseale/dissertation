@@ -1,0 +1,14 @@
+mate_15	Females	O
+mate_15	are	O
+mate_15	also	O
+mate_15	known	O
+mate_15	to	O
+mate_15	mate	mate
+mate_15	with	O
+mate_15	multiple	O
+mate_15	males	O
+mate_15	especially	O
+mate_15	with	O
+mate_15	non	O
+mate_15	nest	O
+mate_15	mates	O

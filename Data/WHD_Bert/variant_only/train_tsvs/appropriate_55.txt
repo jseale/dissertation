@@ -1,0 +1,14 @@
+appropriate_55	Such	O
+appropriate_55	pregnancies	O
+appropriate_55	should	O
+appropriate_55	be	O
+appropriate_55	considered	O
+appropriate_55	high	O
+appropriate_55	risk	O
+appropriate_55	and	O
+appropriate_55	appropriate	appropriate_adj
+appropriate_55	obstetric	O
+appropriate_55	care	O
+appropriate_55	should	O
+appropriate_55	be	O
+appropriate_55	provided	O

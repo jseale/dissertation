@@ -1,0 +1,15 @@
+resume_7	As	O
+resume_7	of	O
+resume_7	January	O
+resume_7	30	O
+resume_7	2009	O
+resume_7	development	O
+resume_7	was	O
+resume_7	halted	O
+resume_7	with	O
+resume_7	no	O
+resume_7	plans	O
+resume_7	to	O
+resume_7	resume	resume_vrb
+resume_7	its	O
+resume_7	development	O

@@ -1,0 +1,12 @@
+animate_4	For	O
+animate_4	animate	animate_adj-nou
+animate_4	nouns	O
+animate_4	the	O
+animate_4	accusative	O
+animate_4	singular	O
+animate_4	is	O
+animate_4	identical	O
+animate_4	to	O
+animate_4	the	O
+animate_4	genitive	O
+animate_4	singular	O

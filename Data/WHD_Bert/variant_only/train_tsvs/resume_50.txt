@@ -1,0 +1,13 @@
+resume_50	Michael	O
+resume_50	decided	O
+resume_50	to	O
+resume_50	resume	resume_vrb
+resume_50	the	O
+resume_50	search	O
+resume_50	for	O
+resume_50	information	O
+resume_50	on	O
+resume_50	his	O
+resume_50	father	O
+resume_50	River	O
+resume_50	Baldwin	O

@@ -1,0 +1,16 @@
+isolate_6	Nothing	O
+isolate_6	is	O
+isolate_6	definitely	O
+isolate_6	known	O
+isolate_6	about	O
+isolate_6	their	O
+isolate_6	language	O
+isolate_6	believed	O
+isolate_6	to	O
+isolate_6	be	O
+isolate_6	related	O
+isolate_6	to	O
+isolate_6	Tunica	O
+isolate_6	a	O
+isolate_6	language	O
+isolate_6	isolate	isolate_nou

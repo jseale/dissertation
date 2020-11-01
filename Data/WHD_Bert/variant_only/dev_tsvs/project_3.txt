@@ -1,0 +1,15 @@
+project_3	The	O
+project_3	goal	O
+project_3	of	O
+project_3	the	O
+project_3	project	project_nou
+project_3	is	O
+project_3	to	O
+project_3	create	O
+project_3	a	O
+project_3	distinct	O
+project_3	style	O
+project_3	of	O
+project_3	beer	O
+project_3	for	O
+project_3	Quebec	O

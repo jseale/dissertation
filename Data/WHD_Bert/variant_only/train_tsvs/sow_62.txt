@@ -1,0 +1,13 @@
+sow_62	His	O
+sow_62	book	O
+sow_62	The	O
+sow_62	Sow	sow_nou
+sow_62	Improving	O
+sow_62	Her	O
+sow_62	Efficiency	O
+sow_62	has	O
+sow_62	been	O
+sow_62	translated	O
+sow_62	into	O
+sow_62	23	O
+sow_62	languages	O

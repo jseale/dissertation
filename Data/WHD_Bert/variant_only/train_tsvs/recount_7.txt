@@ -1,0 +1,14 @@
+recount_7	Ian	O
+recount_7	Cole	O
+recount_7	was	O
+recount_7	elected	O
+recount_7	as	O
+recount_7	his	O
+recount_7	replacement	O
+recount_7	at	O
+recount_7	a	O
+recount_7	recount	recount_nou
+recount_7	on	O
+recount_7	27	O
+recount_7	April	O
+recount_7	1974	O

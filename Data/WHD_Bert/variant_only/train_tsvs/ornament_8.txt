@@ -1,0 +1,14 @@
+ornament_8	The	O
+ornament_8	latter	O
+ornament_8	cross	O
+ornament_8	was	O
+ornament_8	removed	O
+ornament_8	here	O
+ornament_8	from	O
+ornament_8	Lanlivery	O
+ornament_8	and	O
+ornament_8	has	O
+ornament_8	some	O
+ornament_8	curious	O
+ornament_8	incised	O
+ornament_8	ornament	ornament_nou

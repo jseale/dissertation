@@ -1,0 +1,17 @@
+celtic_29	Porto	O
+celtic_29	had	O
+celtic_29	made	O
+celtic_29	it	O
+celtic_29	to	O
+celtic_29	the	O
+celtic_29	Super	O
+celtic_29	Cup	O
+celtic_29	after	O
+celtic_29	beating	O
+celtic_29	Celtic	celtic_adj-nou-sports
+celtic_29	in	O
+celtic_29	the	O
+celtic_29	2003	O
+celtic_29	UEFA	O
+celtic_29	Cup	O
+celtic_29	Final	O

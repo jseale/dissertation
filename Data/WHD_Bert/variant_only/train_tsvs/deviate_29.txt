@@ -1,0 +1,17 @@
+deviate_29	Also	O
+deviate_29	it	O
+deviate_29	clarifies	O
+deviate_29	that	O
+deviate_29	the	O
+deviate_29	experimentally	O
+deviate_29	found	O
+deviate_29	best	O
+deviate_29	fitting	O
+deviate_29	probability	O
+deviate_29	distribution	O
+deviate_29	may	O
+deviate_29	deviate	deviate_vrb
+deviate_29	from	O
+deviate_29	the	O
+deviate_29	true	O
+deviate_29	distribution	O

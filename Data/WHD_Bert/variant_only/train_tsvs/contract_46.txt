@@ -1,0 +1,13 @@
+contract_46	It	O
+contract_46	was	O
+contract_46	with	O
+contract_46	Browne	O
+contract_46	's	O
+contract_46	assistance	O
+contract_46	that	O
+contract_46	Zevon	O
+contract_46	got	O
+contract_46	a	O
+contract_46	major	O
+contract_46	record	O
+contract_46	contract	contract_nou

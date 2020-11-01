@@ -1,0 +1,16 @@
+invalid_15	It	O
+invalid_15	can	O
+invalid_15	hold	O
+invalid_15	a	O
+invalid_15	rule	O
+invalid_15	to	O
+invalid_15	be	O
+invalid_15	invalid	invalid_adj
+invalid_15	even	O
+invalid_15	though	O
+invalid_15	it	O
+invalid_15	is	O
+invalid_15	contained	O
+invalid_15	in	O
+invalid_15	a	O
+invalid_15	contract	O

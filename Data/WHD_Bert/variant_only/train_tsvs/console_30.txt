@@ -1,0 +1,14 @@
+console_30	It	O
+console_30	's	O
+console_30	the	O
+console_30	only	O
+console_30	console	console_nou
+console_30	game	O
+console_30	in	O
+console_30	the	O
+console_30	series	O
+console_30	to	O
+console_30	lack	O
+console_30	a	O
+console_30	multiplayer	O
+console_30	mode	O

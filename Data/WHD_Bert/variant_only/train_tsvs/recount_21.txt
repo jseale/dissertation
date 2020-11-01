@@ -1,0 +1,13 @@
+recount_21	The	O
+recount_21	events	O
+recount_21	of	O
+recount_21	the	O
+recount_21	late	O
+recount_21	afternoon	O
+recount_21	and	O
+recount_21	evening	O
+recount_21	hours	O
+recount_21	are	O
+recount_21	difficult	O
+recount_21	to	O
+recount_21	recount	recount_vrb

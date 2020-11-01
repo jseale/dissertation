@@ -1,0 +1,17 @@
+precipitate_22	It	O
+precipitate_22	is	O
+precipitate_22	then	O
+precipitate_22	a	O
+precipitate_22	simple	O
+precipitate_22	matter	O
+precipitate_22	for	O
+precipitate_22	her	O
+precipitate_22	to	O
+precipitate_22	bring	O
+precipitate_22	about	O
+precipitate_22	a	O
+precipitate_22	reconciliation	O
+precipitate_22	and	O
+precipitate_22	precipitate	precipitate_vrb
+precipitate_22	the	O
+precipitate_22	ceremony	O

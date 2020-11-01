@@ -1,0 +1,17 @@
+expose_35	To	O
+expose_35	record	O
+expose_35	on	O
+expose_35	film	O
+expose_35	DeForest	O
+expose_35	tried	O
+expose_35	using	O
+expose_35	a	O
+expose_35	standard	O
+expose_35	light	O
+expose_35	bulb	O
+expose_35	to	O
+expose_35	expose	expose_vrb
+expose_35	amplified	O
+expose_35	sound	O
+expose_35	onto	O
+expose_35	film	O

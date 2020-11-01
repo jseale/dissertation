@@ -1,0 +1,11 @@
+produce_45	Selling	O
+produce_45	index	O
+produce_45	options	O
+produce_45	12	O
+produce_45	times	O
+produce_45	per	O
+produce_45	year	O
+produce_45	can	O
+produce_45	produce	produce_vrb
+produce_45	significant	O
+produce_45	income	O

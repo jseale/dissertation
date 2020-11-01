@@ -1,0 +1,15 @@
+progress_27	Both	O
+progress_27	the	O
+progress_27	President	O
+progress_27	and	O
+progress_27	Anthony	O
+progress_27	Van	O
+progress_27	Jones	O
+progress_27	have	O
+progress_27	applauded	O
+progress_27	the	O
+progress_27	commitment	O
+progress_27	to	O
+progress_27	progress	progress_nou
+progress_27	over	O
+progress_27	party	O

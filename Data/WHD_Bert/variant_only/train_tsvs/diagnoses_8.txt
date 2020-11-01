@@ -1,0 +1,15 @@
+diagnoses_8	The	O
+diagnoses_8	diagnoses	diagnoses_nou
+diagnoses_8	of	O
+diagnoses_8	two	O
+diagnoses_8	hearing	O
+diagnoses_8	examinations	O
+diagnoses_8	in	O
+diagnoses_8	March	O
+diagnoses_8	1975	O
+diagnoses_8	was	O
+diagnoses_8	hearing	O
+diagnoses_8	loss	O
+diagnoses_8	in	O
+diagnoses_8	both	O
+diagnoses_8	ears	O

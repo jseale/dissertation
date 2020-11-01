@@ -1,0 +1,15 @@
+aggregate_1	In	O
+aggregate_1	some	O
+aggregate_1	cases	O
+aggregate_1	aggregate	aggregate_adj-nou
+aggregate_1	risk	O
+aggregate_1	exists	O
+aggregate_1	due	O
+aggregate_1	to	O
+aggregate_1	institutional	O
+aggregate_1	or	O
+aggregate_1	other	O
+aggregate_1	constraints	O
+aggregate_1	on	O
+aggregate_1	market	O
+aggregate_1	completeness	O

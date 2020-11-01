@@ -1,0 +1,14 @@
+project_60	Like	O
+project_60	the	O
+project_60	Copan	O
+project_60	Mosaics	O
+project_60	Project	project_nou
+project_60	this	O
+project_60	project	project_nou
+project_60	also	O
+project_60	aided	O
+project_60	the	O
+project_60	architectural	O
+project_60	sculpture	O
+project_60	cataloguing	O
+project_60	process	O

@@ -1,0 +1,11 @@
+sake_4	Basically	O
+sake_4	Aristotle	O
+sake_4	claims	O
+sake_4	that	O
+sake_4	potentiality	O
+sake_4	exists	O
+sake_4	for	O
+sake_4	the	O
+sake_4	sake	sake
+sake_4	of	O
+sake_4	actuality	O

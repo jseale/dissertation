@@ -1,0 +1,14 @@
+supplement_37	It	O
+supplement_37	is	O
+supplement_37	used	O
+supplement_37	as	O
+supplement_37	a	O
+supplement_37	food	O
+supplement_37	and	O
+supplement_37	nutritional	O
+supplement_37	supplement	supplement_nou
+supplement_37	and	O
+supplement_37	has	O
+supplement_37	reputed	O
+supplement_37	pharmaceutical	O
+supplement_37	properties	O

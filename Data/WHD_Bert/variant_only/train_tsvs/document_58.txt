@@ -1,0 +1,11 @@
+document_58	It	O
+document_58	was	O
+document_58	a	O
+document_58	simple	O
+document_58	document	document_nou
+document_58	consisting	O
+document_58	of	O
+document_58	only	O
+document_58	23	O
+document_58	short	O
+document_58	articles	O

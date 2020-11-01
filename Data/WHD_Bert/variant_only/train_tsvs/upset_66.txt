@@ -1,0 +1,15 @@
+upset_66	Sinatra	O
+upset_66	became	O
+upset_66	angry	O
+upset_66	during	O
+upset_66	Cohen	O
+upset_66	's	O
+upset_66	explanation	O
+upset_66	and	O
+upset_66	upset	upset_vrb
+upset_66	the	O
+upset_66	table	O
+upset_66	where	O
+upset_66	Cohen	O
+upset_66	was	O
+upset_66	seated	O

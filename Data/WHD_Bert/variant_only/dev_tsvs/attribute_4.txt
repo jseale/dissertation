@@ -1,0 +1,17 @@
+attribute_4	The	O
+attribute_4	fly	O
+attribute_4	whisk	O
+attribute_4	is	O
+attribute_4	frequently	O
+attribute_4	seen	O
+attribute_4	as	O
+attribute_4	an	O
+attribute_4	attribute	attribute_nou
+attribute_4	of	O
+attribute_4	both	O
+attribute_4	Hindu	O
+attribute_4	Jainism	O
+attribute_4	Daoist	O
+attribute_4	and	O
+attribute_4	Buddhist	O
+attribute_4	deities	O

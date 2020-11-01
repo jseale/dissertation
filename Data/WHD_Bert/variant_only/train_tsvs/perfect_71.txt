@@ -1,0 +1,15 @@
+perfect_71	In	O
+perfect_71	1966	O
+perfect_71	he	O
+perfect_71	led	O
+perfect_71	the	O
+perfect_71	National	O
+perfect_71	League	O
+perfect_71	with	O
+perfect_71	a	O
+perfect_71	perfect	perfect_adj
+perfect_71	1.000	O
+perfect_71	fielding	O
+perfect_71	average	O
+perfect_71	as	O
+perfect_71	pitcher	O

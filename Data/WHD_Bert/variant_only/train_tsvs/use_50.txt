@@ -1,0 +1,13 @@
+use_50	In	O
+use_50	order	O
+use_50	to	O
+use_50	test	O
+use_50	effects	O
+use_50	within	O
+use_50	an	O
+use_50	omnibus	O
+use_50	test	O
+use_50	researchers	O
+use_50	often	O
+use_50	use	use_vrb
+use_50	contrasts	O

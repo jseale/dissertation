@@ -1,0 +1,11 @@
+converse_0	Nimbus	O
+converse_0	Software	O
+converse_0	and	O
+converse_0	Converse	converse_adj-nou
+converse_0	Software	O
+converse_0	merged	O
+converse_0	in	O
+converse_0	2004	O
+converse_0	to	O
+converse_0	form	O
+converse_0	Nimsoft	O

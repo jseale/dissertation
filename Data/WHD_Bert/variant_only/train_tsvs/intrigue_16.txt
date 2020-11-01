@@ -1,0 +1,11 @@
+intrigue_16	There	O
+intrigue_16	were	O
+intrigue_16	accusations	O
+intrigue_16	of	O
+intrigue_16	political	O
+intrigue_16	intrigue	intrigue_nou
+intrigue_16	of	O
+intrigue_16	which	O
+intrigue_16	Olinga	O
+intrigue_16	was	O
+intrigue_16	acquitted	O

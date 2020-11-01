@@ -1,0 +1,15 @@
+coordinate_8	The	O
+coordinate_8	generals	O
+coordinate_8	defending	O
+coordinate_8	Shuozhou	O
+coordinate_8	and	O
+coordinate_8	Yunzhou	O
+coordinate_8	would	O
+coordinate_8	be	O
+coordinate_8	notified	O
+coordinate_8	of	O
+coordinate_8	the	O
+coordinate_8	plan	O
+coordinate_8	to	O
+coordinate_8	coordinate	coordinate_vrb
+coordinate_8	activities	O

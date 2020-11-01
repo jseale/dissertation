@@ -1,0 +1,10 @@
+read_1	Years	O
+read_1	later	O
+read_1	he	O
+read_1	observed	O
+read_1	My	O
+read_1	parents	O
+read_1	never	O
+read_1	read	read_past
+read_1	a	O
+read_1	book	O

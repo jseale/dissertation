@@ -1,0 +1,11 @@
+diffuse_28	In	O
+diffuse_28	this	O
+diffuse_28	case	O
+diffuse_28	the	O
+diffuse_28	diffuse	diffuse_adj
+diffuse_28	layer	O
+diffuse_28	potential	O
+diffuse_28	will	O
+diffuse_28	increase	O
+diffuse_28	upon	O
+diffuse_28	approach	O

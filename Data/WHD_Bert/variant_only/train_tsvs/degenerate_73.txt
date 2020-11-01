@@ -1,0 +1,15 @@
+degenerate_73	In	O
+degenerate_73	1937	O
+degenerate_73	he	O
+degenerate_73	was	O
+degenerate_73	declared	O
+degenerate_73	a	O
+degenerate_73	degenerate	degenerate_adj-nou
+degenerate_73	artist	O
+degenerate_73	by	O
+degenerate_73	the	O
+degenerate_73	Nazis	O
+degenerate_73	and	O
+degenerate_73	forbidden	O
+degenerate_73	to	O
+degenerate_73	exhibit	O

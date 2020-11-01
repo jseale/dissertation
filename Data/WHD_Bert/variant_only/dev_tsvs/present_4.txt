@@ -1,0 +1,8 @@
+present_4	The	O
+present_4	present	present_adj-nou
+present_4	hotel	O
+present_4	's	O
+present_4	restaurant	O
+present_4	was	O
+present_4	a	O
+present_4	conservatory	O

@@ -1,0 +1,17 @@
+august_46	She	O
+august_46	went	O
+august_46	to	O
+august_46	Bombay	O
+august_46	in	O
+august_46	April	O
+august_46	1919	O
+august_46	and	O
+august_46	returned	O
+august_46	to	O
+august_46	Britain	O
+august_46	before	O
+august_46	returning	O
+august_46	to	O
+august_46	Australia	O
+august_46	in	O
+august_46	August	august

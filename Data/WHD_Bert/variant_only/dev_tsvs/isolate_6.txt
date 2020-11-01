@@ -1,0 +1,14 @@
+isolate_6	The	O
+isolate_6	condition	O
+isolate_6	of	O
+isolate_6	no	O
+isolate_6	torque	O
+isolate_6	is	O
+isolate_6	necessary	O
+isolate_6	to	O
+isolate_6	isolate	isolate
+isolate_6	the	O
+isolate_6	phenomenon	O
+isolate_6	of	O
+isolate_6	Thomas	O
+isolate_6	precession	O

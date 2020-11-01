@@ -1,0 +1,17 @@
+use_40	The	O
+use_40	Government	O
+use_40	of	O
+use_40	the	O
+use_40	Netherlands	O
+use_40	donated	O
+use_40	US$	O
+use_40	370,000	O
+use_40	for	O
+use_40	use	use_nou
+use_40	in	O
+use_40	the	O
+use_40	relief	O
+use_40	efforts	O
+use_40	following	O
+use_40	the	O
+use_40	storm	O

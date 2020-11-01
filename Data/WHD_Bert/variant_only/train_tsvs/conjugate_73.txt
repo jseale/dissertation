@@ -1,0 +1,16 @@
+conjugate_73	Sacituzumab	O
+conjugate_73	govitecan	O
+conjugate_73	IMMU-132	O
+conjugate_73	is	O
+conjugate_73	an	O
+conjugate_73	anti	O
+conjugate_73	Trop-2-SN-38	O
+conjugate_73	antibody	O
+conjugate_73	drug	O
+conjugate_73	conjugate	conjugate_adj-nou
+conjugate_73	for	O
+conjugate_73	breast	O
+conjugate_73	cancer	O
+conjugate_73	and	O
+conjugate_73	solid	O
+conjugate_73	tumors	O

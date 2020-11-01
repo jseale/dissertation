@@ -1,0 +1,14 @@
+ornament_21	The	O
+ornament_21	style	O
+ornament_21	of	O
+ornament_21	the	O
+ornament_21	miniatures	O
+ornament_21	is	O
+ornament_21	characterized	O
+ornament_21	by	O
+ornament_21	brilliant	O
+ornament_21	colour	O
+ornament_21	and	O
+ornament_21	exuberant	O
+ornament_21	acanthus	O
+ornament_21	ornament	ornament_nou

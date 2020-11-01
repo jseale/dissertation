@@ -1,0 +1,13 @@
+lives_1	The	O
+lives_1	family	O
+lives_1	lives	lives_vrb
+lives_1	on	O
+lives_1	the	O
+lives_1	Pointefield	O
+lives_1	Landing	O
+lives_1	of	O
+lives_1	the	O
+lives_1	Severn	O
+lives_1	River	O
+lives_1	in	O
+lives_1	Maryland	O

@@ -1,0 +1,13 @@
+expatriate_3	He	O
+expatriate_3	dismissed	O
+expatriate_3	two	O
+expatriate_3	senior	O
+expatriate_3	national	O
+expatriate_3	executives	O
+expatriate_3	as	O
+expatriate_3	well	O
+expatriate_3	as	O
+expatriate_3	the	O
+expatriate_3	expatriate	expatriate_nou
+expatriate_3	general	O
+expatriate_3	manager	O

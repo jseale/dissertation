@@ -1,0 +1,12 @@
+misuse_6	There	O
+misuse_6	have	O
+misuse_6	also	O
+misuse_6	been	O
+misuse_6	works	O
+misuse_6	that	O
+misuse_6	describe	O
+misuse_6	the	O
+misuse_6	possible	O
+misuse_6	misuse	misuse_nou
+misuse_6	of	O
+misuse_6	Wikipedia	O

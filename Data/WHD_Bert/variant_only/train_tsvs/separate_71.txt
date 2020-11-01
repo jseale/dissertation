@@ -1,0 +1,17 @@
+separate_71	The	O
+separate_71	school	O
+separate_71	was	O
+separate_71	opened	O
+separate_71	in	O
+separate_71	1941	O
+separate_71	and	O
+separate_71	originally	O
+separate_71	consisted	O
+separate_71	of	O
+separate_71	two	O
+separate_71	separate	separate_adj
+separate_71	single	O
+separate_71	sex	O
+separate_71	secondary	O
+separate_71	modern	O
+separate_71	schools	O

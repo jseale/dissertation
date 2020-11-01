@@ -1,0 +1,16 @@
+perfume_15	Without	O
+perfume_15	perfume	perfume_nou
+perfume_15	or	O
+perfume_15	aftershave	O
+perfume_15	we	O
+perfume_15	unconsciously	O
+perfume_15	detect	O
+perfume_15	people	O
+perfume_15	's	O
+perfume_15	natural	O
+perfume_15	scents	O
+perfume_15	in	O
+perfume_15	the	O
+perfume_15	form	O
+perfume_15	of	O
+perfume_15	pheromones	O

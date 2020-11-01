@@ -1,0 +1,11 @@
+ravel_20	Ravel	ravel_nam
+ravel_20	then	O
+ravel_20	attempts	O
+ravel_20	to	O
+ravel_20	keep	O
+ravel_20	The	O
+ravel_20	Nameless	O
+ravel_20	One	O
+ravel_20	there	O
+ravel_20	by	O
+ravel_20	force	O

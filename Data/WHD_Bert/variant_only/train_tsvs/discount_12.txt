@@ -1,0 +1,14 @@
+discount_12	The	O
+discount_12	following	O
+discount_12	year	O
+discount_12	Shopko	O
+discount_12	acquired	O
+discount_12	Penn	O
+discount_12	Daniels	O
+discount_12	Inc.	O
+discount_12	and	O
+discount_12	its	O
+discount_12	eighteen	O
+discount_12	Jacks	O
+discount_12	Discount	discount_nou
+discount_12	Stores	O

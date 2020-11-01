@@ -1,0 +1,17 @@
+alternate_51	Season	O
+alternate_51	206/17	O
+alternate_51	Ilya	O
+alternate_51	Antonovsky	O
+alternate_51	return	O
+alternate_51	to	O
+alternate_51	the	O
+alternate_51	hockey	O
+alternate_51	team	O
+alternate_51	Saryarka	O
+alternate_51	Karaganda	O
+alternate_51	Kazakhstan	O
+alternate_51	SHL	O
+alternate_51	as	O
+alternate_51	an	O
+alternate_51	alternate	alternate_adj-nou
+alternate_51	captain	O

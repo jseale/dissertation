@@ -1,0 +1,13 @@
+sow_33	The	O
+sow_33	sow	sow_nou
+sow_33	will	O
+sow_33	stay	O
+sow_33	in	O
+sow_33	the	O
+sow_33	hole	O
+sow_33	for	O
+sow_33	several	O
+sow_33	weeks	O
+sow_33	nursing	O
+sow_33	her	O
+sow_33	piglets	O

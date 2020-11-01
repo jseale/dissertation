@@ -1,0 +1,8 @@
+sow_5	Snipers	O
+sow_5	sow	sow
+sow_5	panic	O
+sow_5	in	O
+sow_5	Aleppo	O
+sow_5	as	O
+sow_5	fighting	O
+sow_5	rages	O

@@ -1,0 +1,17 @@
+use_42	Without	O
+use_42	the	O
+use_42	use	use_nou
+use_42	of	O
+use_42	that	O
+use_42	confession	O
+use_42	it	O
+use_42	is	O
+use_42	unlikely	O
+use_42	that	O
+use_42	there	O
+use_42	is	O
+use_42	sufficient	O
+use_42	evidence	O
+use_42	to	O
+use_42	retry	O
+use_42	him	O

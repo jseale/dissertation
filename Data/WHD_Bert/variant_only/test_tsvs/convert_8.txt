@@ -1,0 +1,16 @@
+convert_8	The	O
+convert_8	military	O
+convert_8	issued	O
+convert_8	field	O
+convert_8	conversion	O
+convert_8	kits	O
+convert_8	T17	O
+convert_8	and	O
+convert_8	T18	O
+convert_8	to	O
+convert_8	convert	convert_vrb
+convert_8	an	O
+convert_8	M1	O
+convert_8	to	O
+convert_8	an	O
+convert_8	M2	O

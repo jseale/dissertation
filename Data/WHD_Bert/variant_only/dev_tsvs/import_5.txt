@@ -1,0 +1,14 @@
+import_5	In	O
+import_5	the	O
+import_5	year	O
+import_5	2000	O
+import_5	the	O
+import_5	album	O
+import_5	Touching	O
+import_5	Cloth	O
+import_5	was	O
+import_5	released	O
+import_5	as	O
+import_5	an	O
+import_5	import	import_nou
+import_5	only	O

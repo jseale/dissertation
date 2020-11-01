@@ -1,0 +1,15 @@
+console_41	Comm100	O
+console_41	Live	O
+console_41	Chat	O
+console_41	consists	O
+console_41	of	O
+console_41	3	O
+console_41	parts	O
+console_41	web	O
+console_41	chat	O
+console_41	window	O
+console_41	operator	O
+console_41	console	console_nou
+console_41	and	O
+console_41	control	O
+console_41	panel	O

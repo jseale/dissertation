@@ -1,0 +1,12 @@
+deliberate_33	Genocide	O
+deliberate_33	is	O
+deliberate_33	the	O
+deliberate_33	deliberate	deliberate_adj
+deliberate_33	mass	O
+deliberate_33	murder	O
+deliberate_33	of	O
+deliberate_33	individuals	O
+deliberate_33	with	O
+deliberate_33	a	O
+deliberate_33	shared	O
+deliberate_33	identity	O

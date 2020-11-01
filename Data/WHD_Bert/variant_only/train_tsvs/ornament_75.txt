@@ -1,0 +1,14 @@
+ornament_75	The	O
+ornament_75	silver	O
+ornament_75	spaceship	O
+ornament_75	is	O
+ornament_75	or	O
+ornament_75	strongly	O
+ornament_75	resembles	O
+ornament_75	the	O
+ornament_75	hood	O
+ornament_75	ornament	ornament_nou
+ornament_75	of	O
+ornament_75	a	O
+ornament_75	1955	O
+ornament_75	Chevrolet	O

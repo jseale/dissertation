@@ -1,0 +1,9 @@
+diffuse_79	Protium	O
+diffuse_79	and	O
+diffuse_79	deuterium	O
+diffuse_79	readily	O
+diffuse_79	diffuse	diffuse_vrb
+diffuse_79	through	O
+diffuse_79	the	O
+diffuse_79	alloy	O
+diffuse_79	membrane	O

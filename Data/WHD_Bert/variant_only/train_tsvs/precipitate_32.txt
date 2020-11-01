@@ -1,0 +1,12 @@
+precipitate_32	Either	O
+precipitate_32	a	O
+precipitate_32	precipitate	precipitate_adj-nou
+precipitate_32	of	O
+precipitate_32	barium	O
+precipitate_32	or	O
+precipitate_32	evidence	O
+precipitate_32	of	O
+precipitate_32	radiopacity	O
+precipitate_32	indicates	O
+precipitate_32	a	O
+precipitate_32	fistula	O

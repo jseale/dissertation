@@ -1,0 +1,16 @@
+expose_6	The	O
+expose_6	fear	O
+expose_6	that	O
+expose_6	this	O
+expose_6	research	O
+expose_6	can	O
+expose_6	expose	expose_vrb
+expose_6	the	O
+expose_6	internal	O
+expose_6	fraud	O
+expose_6	detection	O
+expose_6	system	O
+expose_6	of	O
+expose_6	middlemen	O
+expose_6	still	O
+expose_6	applies	O

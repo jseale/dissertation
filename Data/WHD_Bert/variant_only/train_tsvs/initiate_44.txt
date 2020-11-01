@@ -1,0 +1,11 @@
+initiate_44	Once	O
+initiate_44	the	O
+initiate_44	electric	O
+initiate_44	field	O
+initiate_44	is	O
+initiate_44	turned	O
+initiate_44	on	O
+initiate_44	protein	O
+initiate_44	migration	O
+initiate_44	will	O
+initiate_44	initiate	initiate_vrb

@@ -1,0 +1,14 @@
+refuse_27	However	O
+refuse_27	they	O
+refuse_27	refuse	refuse_vrb
+refuse_27	to	O
+refuse_27	serve	O
+refuse_27	light	O
+refuse_27	beer	O
+refuse_27	deigning	O
+refuse_27	that	O
+refuse_27	as	O
+refuse_27	unfit	O
+refuse_27	for	O
+refuse_27	human	O
+refuse_27	consumption	O

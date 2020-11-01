@@ -1,0 +1,14 @@
+jesus_26	The	O
+jesus_26	Jesus	jesus
+jesus_26	Legend	O
+jesus_26	A	O
+jesus_26	Case	O
+jesus_26	for	O
+jesus_26	the	O
+jesus_26	Historical	O
+jesus_26	Reliability	O
+jesus_26	of	O
+jesus_26	the	O
+jesus_26	Synoptic	O
+jesus_26	Jesus	jesus
+jesus_26	Tradition	O

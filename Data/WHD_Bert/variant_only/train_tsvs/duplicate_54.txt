@@ -1,0 +1,16 @@
+duplicate_54	Practice	O
+duplicate_54	varies	O
+duplicate_54	and	O
+duplicate_54	occasionally	O
+duplicate_54	the	O
+duplicate_54	affidavit	O
+duplicate_54	will	O
+duplicate_54	duplicate	duplicate_vrb
+duplicate_54	all	O
+duplicate_54	of	O
+duplicate_54	the	O
+duplicate_54	information	O
+duplicate_54	contained	O
+duplicate_54	in	O
+duplicate_54	the	O
+duplicate_54	petition	O

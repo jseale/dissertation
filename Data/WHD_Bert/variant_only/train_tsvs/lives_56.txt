@@ -1,0 +1,16 @@
+lives_56	She	O
+lives_56	and	O
+lives_56	Casey	O
+lives_56	became	O
+lives_56	deathly	O
+lives_56	ill	O
+lives_56	because	O
+lives_56	of	O
+lives_56	the	O
+lives_56	perfume	O
+lives_56	but	O
+lives_56	Chris	O
+lives_56	antidote	O
+lives_56	saved	O
+lives_56	their	O
+lives_56	lives	lives_nou

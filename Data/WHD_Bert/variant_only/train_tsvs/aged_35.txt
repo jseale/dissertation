@@ -1,0 +1,16 @@
+aged_35	Porter	O
+aged_35	died	O
+aged_35	suddenly	O
+aged_35	aged	aged
+aged_35	78	O
+aged_35	at	O
+aged_35	his	O
+aged_35	Dublin	O
+aged_35	home	O
+aged_35	on	O
+aged_35	12	O
+aged_35	September	O
+aged_35	1944	O
+aged_35	of	O
+aged_35	heart	O
+aged_35	failure	O

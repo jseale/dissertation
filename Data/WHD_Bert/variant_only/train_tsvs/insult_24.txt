@@ -1,0 +1,11 @@
+insult_24	This	O
+insult_24	was	O
+insult_24	seen	O
+insult_24	as	O
+insult_24	an	O
+insult_24	affront	O
+insult_24	and	O
+insult_24	insult	insult_nou
+insult_24	to	O
+insult_24	Genghis	O
+insult_24	Khan	O

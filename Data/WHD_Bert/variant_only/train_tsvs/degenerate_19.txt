@@ -1,0 +1,15 @@
+degenerate_19	Degenerate	degenerate_adj-nou
+degenerate_19	zeroth	O
+degenerate_19	order	O
+degenerate_19	states	O
+degenerate_19	of	O
+degenerate_19	opposite	O
+degenerate_19	parity	O
+degenerate_19	occur	O
+degenerate_19	for	O
+degenerate_19	excited	O
+degenerate_19	hydrogen	O
+degenerate_19	like	O
+degenerate_19	one	O
+degenerate_19	electron	O
+degenerate_19	atoms	O

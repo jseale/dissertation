@@ -1,0 +1,14 @@
+deliberate_32	Prosecutors	O
+deliberate_32	considered	O
+deliberate_32	that	O
+deliberate_32	this	O
+deliberate_32	shape	O
+deliberate_32	was	O
+deliberate_32	deliberate	deliberate_adj
+deliberate_32	and	O
+deliberate_32	intended	O
+deliberate_32	to	O
+deliberate_32	humiliate	O
+deliberate_32	Pahl	O
+deliberate_32	in	O
+deliberate_32	death	O

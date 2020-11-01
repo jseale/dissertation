@@ -1,0 +1,14 @@
+rebel_74	She	O
+rebel_74	released	O
+rebel_74	her	O
+rebel_74	debut	O
+rebel_74	album	O
+rebel_74	Rebel	rebel_nou
+rebel_74	Soul	O
+rebel_74	while	O
+rebel_74	affiliated	O
+rebel_74	with	O
+rebel_74	that	O
+rebel_74	group	O
+rebel_74	in	O
+rebel_74	1990	O

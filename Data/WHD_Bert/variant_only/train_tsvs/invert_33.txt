@@ -1,0 +1,15 @@
+invert_33	Finally	O
+invert_33	one	O
+invert_33	can	O
+invert_33	invert	invert_vrb
+invert_33	the	O
+invert_33	view	O
+invert_33	switching	O
+invert_33	from	O
+invert_33	functions	O
+invert_33	of	O
+invert_33	orders	O
+invert_33	to	O
+invert_33	orders	O
+invert_33	of	O
+invert_33	functions	O

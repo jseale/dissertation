@@ -1,0 +1,10 @@
+wind_50	The	O
+wind_50	plant	O
+wind_50	is	O
+wind_50	thought	O
+wind_50	to	O
+wind_50	be	O
+wind_50	anemophilous	O
+wind_50	pollinated	O
+wind_50	by	O
+wind_50	wind	wind_nou

@@ -1,0 +1,15 @@
+learned_15	Esther	O
+learned_15	Weeks	O
+learned_15	taught	O
+learned_15	the	O
+learned_15	painters	O
+learned_15	at	O
+learned_15	Ceres	O
+learned_15	techniques	O
+learned_15	she	O
+learned_15	learned	learned_vrb
+learned_15	from	O
+learned_15	Joseph	O
+learned_15	Nekola	O
+learned_15	at	O
+learned_15	Bovey	O

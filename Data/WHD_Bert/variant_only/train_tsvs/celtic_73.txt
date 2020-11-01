@@ -1,0 +1,16 @@
+celtic_73	This	O
+celtic_73	collaborative	O
+celtic_73	venture	O
+celtic_73	between	O
+celtic_73	the	O
+celtic_73	Manx	O
+celtic_73	and	O
+celtic_73	London	O
+celtic_73	branches	O
+celtic_73	of	O
+celtic_73	the	O
+celtic_73	Celtic	celtic
+celtic_73	League	O
+celtic_73	was	O
+celtic_73	ultimately	O
+celtic_73	successful	O

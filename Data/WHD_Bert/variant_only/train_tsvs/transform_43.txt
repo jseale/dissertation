@@ -1,0 +1,17 @@
+transform_43	Such	O
+transform_43	settlements	O
+transform_43	are	O
+transform_43	often	O
+transform_43	understood	O
+transform_43	to	O
+transform_43	transform	transform
+transform_43	government	O
+transform_43	from	O
+transform_43	an	O
+transform_43	autocratic	O
+transform_43	mode	O
+transform_43	into	O
+transform_43	more	O
+transform_43	pluralistic	O
+transform_43	democratic	O
+transform_43	form	O

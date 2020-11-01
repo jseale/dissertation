@@ -1,0 +1,11 @@
+tear_60	The	O
+tear_60	police	O
+tear_60	refused	O
+tear_60	to	O
+tear_60	release	O
+tear_60	them	O
+tear_60	and	O
+tear_60	used	O
+tear_60	tear	tear_nou
+tear_60	gas	O
+tear_60	shells	O

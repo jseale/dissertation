@@ -1,0 +1,12 @@
+invalid_3	On	O
+invalid_3	September	O
+invalid_3	4	O
+invalid_3	2013	O
+invalid_3	the	O
+invalid_3	court	O
+invalid_3	declared	O
+invalid_3	the	O
+invalid_3	EIA	O
+invalid_3	report	O
+invalid_3	as	O
+invalid_3	invalid	invalid_adj

@@ -1,0 +1,10 @@
+animate_40	Kinect	O
+animate_40	can	O
+animate_40	be	O
+animate_40	used	O
+animate_40	to	O
+animate_40	animate	animate_vrb
+animate_40	models	O
+animate_40	and	O
+animate_40	record	O
+animate_40	audio	O

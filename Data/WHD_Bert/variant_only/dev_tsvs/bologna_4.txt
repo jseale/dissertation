@@ -1,0 +1,17 @@
+bologna_4	In	O
+bologna_4	1888	O
+bologna_4	he	O
+bologna_4	also	O
+bologna_4	exhibited	O
+bologna_4	in	O
+bologna_4	Bologna	bologna_geo
+bologna_4	paintings	O
+bologna_4	depicting	O
+bologna_4	antique	O
+bologna_4	sites	O
+bologna_4	demolished	O
+bologna_4	in	O
+bologna_4	Rome	O
+bologna_4	with	O
+bologna_4	urban	O
+bologna_4	renewal	O

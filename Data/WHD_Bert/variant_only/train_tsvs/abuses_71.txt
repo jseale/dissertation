@@ -1,0 +1,14 @@
+abuses_71	Some	O
+abuses_71	groups	O
+abuses_71	are	O
+abuses_71	especially	O
+abuses_71	vulnerable	O
+abuses_71	to	O
+abuses_71	human	O
+abuses_71	rights	O
+abuses_71	abuses	abuses_nou
+abuses_71	collateral	O
+abuses_71	to	O
+abuses_71	drug	O
+abuses_71	law	O
+abuses_71	enforcement	O

@@ -1,0 +1,10 @@
+attribute_55	For	O
+attribute_55	example	O
+attribute_55	suppose	O
+attribute_55	the	O
+attribute_55	training	O
+attribute_55	data	O
+attribute_55	contains	O
+attribute_55	a	O
+attribute_55	continuous	O
+attribute_55	attribute	attribute_nou

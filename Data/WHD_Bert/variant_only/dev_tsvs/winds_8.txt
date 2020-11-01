@@ -1,0 +1,16 @@
+winds_8	The	O
+winds_8	procession	O
+winds_8	winds	winds_vrb
+winds_8	its	O
+winds_8	way	O
+winds_8	along	O
+winds_8	the	O
+winds_8	main	O
+winds_8	streets	O
+winds_8	of	O
+winds_8	the	O
+winds_8	historic	O
+winds_8	center	O
+winds_8	completely	O
+winds_8	in	O
+winds_8	silence	O

@@ -1,0 +1,14 @@
+jesus_32	Jehiel	O
+jesus_32	Heilprin	O
+jesus_32	held	O
+jesus_32	that	O
+jesus_32	Yeshu	O
+jesus_32	the	O
+jesus_32	student	O
+jesus_32	of	O
+jesus_32	Yehoshua	O
+jesus_32	ben	O
+jesus_32	Perachiah	O
+jesus_32	was	O
+jesus_32	not	O
+jesus_32	Jesus	jesus

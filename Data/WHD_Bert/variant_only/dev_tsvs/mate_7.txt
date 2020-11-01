@@ -1,0 +1,15 @@
+mate_7	In	O
+mate_7	the	O
+mate_7	novel	O
+mate_7	Frankenstein	O
+mate_7	creates	O
+mate_7	a	O
+mate_7	mate	mate
+mate_7	but	O
+mate_7	destroys	O
+mate_7	it	O
+mate_7	without	O
+mate_7	bringing	O
+mate_7	it	O
+mate_7	to	O
+mate_7	life	O

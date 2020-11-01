@@ -1,0 +1,10 @@
+fragment_11	The	O
+fragment_11	measurements	O
+fragment_11	of	O
+fragment_11	the	O
+fragment_11	fragment	fragment_nou
+fragment_11	are	O
+fragment_11	232	O
+fragment_11	by	O
+fragment_11	183	O
+fragment_11	mm	O

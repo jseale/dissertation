@@ -1,0 +1,16 @@
+perfume_22	In	O
+perfume_22	September	O
+perfume_22	2011	O
+perfume_22	the	O
+perfume_22	second	O
+perfume_22	perfume	perfume_nou
+perfume_22	series	O
+perfume_22	Michalsky	O
+perfume_22	Urban	O
+perfume_22	Nomads	O
+perfume_22	for	O
+perfume_22	men	O
+perfume_22	and	O
+perfume_22	women	O
+perfume_22	was	O
+perfume_22	launched	O

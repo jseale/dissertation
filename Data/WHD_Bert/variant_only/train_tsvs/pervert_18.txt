@@ -1,0 +1,10 @@
+pervert_18	Word	O
+pervert_18	spreads	O
+pervert_18	that	O
+pervert_18	a	O
+pervert_18	pervert	pervert_nou
+pervert_18	is	O
+pervert_18	molesting	O
+pervert_18	chickens	O
+pervert_18	in	O
+pervert_18	town	O

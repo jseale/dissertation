@@ -1,0 +1,17 @@
+abuse_51	Despite	O
+abuse_51	periodic	O
+abuse_51	investigations	O
+abuse_51	changes	O
+abuse_51	of	O
+abuse_51	leadership	O
+abuse_51	and	O
+abuse_51	promises	O
+abuse_51	to	O
+abuse_51	improve	O
+abuse_51	the	O
+abuse_51	allegations	O
+abuse_51	of	O
+abuse_51	cruelty	O
+abuse_51	and	O
+abuse_51	abuse	abuse_nou
+abuse_51	continued	O

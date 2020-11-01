@@ -1,0 +1,17 @@
+extract_21	Upon	O
+extract_21	arrival	O
+extract_21	at	O
+extract_21	the	O
+extract_21	mill	O
+extract_21	cane	O
+extract_21	stalks	O
+extract_21	are	O
+extract_21	washed	O
+extract_21	cut	O
+extract_21	and	O
+extract_21	juiced	O
+extract_21	to	O
+extract_21	extract	extract_vrb
+extract_21	the	O
+extract_21	sugar	O
+extract_21	syrup	O

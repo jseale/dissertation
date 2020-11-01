@@ -1,0 +1,14 @@
+progress_33	Asides	O
+progress_33	from	O
+progress_33	the	O
+progress_33	progress	progress_nou
+progress_33	of	O
+progress_33	Sipe	O
+progress_33	another	O
+progress_33	diamond	O
+progress_33	in	O
+progress_33	the	O
+progress_33	rough	O
+progress_33	was	O
+progress_33	Greg	O
+progress_33	Pruitt	O

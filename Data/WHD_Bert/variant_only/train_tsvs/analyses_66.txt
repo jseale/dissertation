@@ -1,0 +1,17 @@
+analyses_66	According	O
+analyses_66	to	O
+analyses_66	recent	O
+analyses_66	genetic	O
+analyses_66	analyses	analyses_nou
+analyses_66	the	O
+analyses_66	genus	O
+analyses_66	Catananche	O
+analyses_66	is	O
+analyses_66	related	O
+analyses_66	to	O
+analyses_66	the	O
+analyses_66	genera	O
+analyses_66	Hymenonema	O
+analyses_66	Scolymus	O
+analyses_66	and	O
+analyses_66	Gundelia	O

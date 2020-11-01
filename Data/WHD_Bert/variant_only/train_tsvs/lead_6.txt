@@ -1,0 +1,14 @@
+lead_6	Earlier	O
+lead_6	harvesting	O
+lead_6	of	O
+lead_6	the	O
+lead_6	grasses	O
+lead_6	during	O
+lead_6	the	O
+lead_6	breeding	O
+lead_6	season	O
+lead_6	lead	lead_nou-vrb
+lead_6	to	O
+lead_6	more	O
+lead_6	female	O
+lead_6	deaths	O

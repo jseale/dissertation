@@ -1,0 +1,12 @@
+insert_28	The	O
+insert_28	insert	insert_nou
+insert_28	song	O
+insert_28	for	O
+insert_28	Episode	O
+insert_28	12	O
+insert_28	is	O
+insert_28	GRADUATION	O
+insert_28	COLOR	O
+insert_28	by	O
+insert_28	Mao	O
+insert_28	Amatsuka	O

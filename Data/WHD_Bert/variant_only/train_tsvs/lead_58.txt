@@ -1,0 +1,14 @@
+lead_58	It	O
+lead_58	was	O
+lead_58	released	O
+lead_58	as	O
+lead_58	the	O
+lead_58	lead	lead_nou-vrb
+lead_58	single	O
+lead_58	from	O
+lead_58	their	O
+lead_58	third	O
+lead_58	studio	O
+lead_58	album	O
+lead_58	La	O
+lead_58	Liberacion	O

@@ -1,0 +1,16 @@
+expose_21	In	O
+expose_21	cleavage	O
+expose_21	the	O
+expose_21	magnesium	O
+expose_21	ions	O
+expose_21	activate	O
+expose_21	oxygen	O
+expose_21	from	O
+expose_21	water	O
+expose_21	molecules	O
+expose_21	and	O
+expose_21	expose	expose_vrb
+expose_21	them	O
+expose_21	to	O
+expose_21	nucleophilic	O
+expose_21	attack	O

@@ -1,0 +1,16 @@
+animate_27	The	O
+animate_27	Metal	O
+animate_27	Master	O
+animate_27	possesses	O
+animate_27	the	O
+animate_27	ability	O
+animate_27	to	O
+animate_27	animate	animate_vrb
+animate_27	and	O
+animate_27	control	O
+animate_27	virtually	O
+animate_27	all	O
+animate_27	known	O
+animate_27	forms	O
+animate_27	of	O
+animate_27	metal	O

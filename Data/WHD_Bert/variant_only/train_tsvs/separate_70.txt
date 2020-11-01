@@ -1,0 +1,12 @@
+separate_70	It	O
+separate_70	was	O
+separate_70	shown	O
+separate_70	with	O
+separate_70	a	O
+separate_70	separate	separate_adj
+separate_70	English	O
+separate_70	dub	O
+separate_70	produced	O
+separate_70	in	O
+separate_70	the	O
+separate_70	U.S	O

@@ -1,0 +1,16 @@
+invert_16	Monte	O
+invert_16	Carlo	O
+invert_16	simulations	O
+invert_16	invert	invert_vrb
+invert_16	this	O
+invert_16	approach	O
+invert_16	solving	O
+invert_16	deterministic	O
+invert_16	problems	O
+invert_16	using	O
+invert_16	a	O
+invert_16	probabilistic	O
+invert_16	analog	O
+invert_16	see	O
+invert_16	Simulated	O
+invert_16	annealing	O

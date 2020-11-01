@@ -1,0 +1,14 @@
+contest_1	She	O
+contest_1	represented	O
+contest_1	Sweden	O
+contest_1	in	O
+contest_1	Eurovision	O
+contest_1	Song	O
+contest_1	Contest	contest_nou
+contest_1	1987	O
+contest_1	with	O
+contest_1	Boogaloo	O
+contest_1	after	O
+contest_1	winning	O
+contest_1	Melodifestivalen	O
+contest_1	1987	O

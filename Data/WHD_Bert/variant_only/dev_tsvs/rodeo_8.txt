@@ -1,0 +1,11 @@
+rodeo_8	Chilean	O
+rodeo_8	rodeo	rodeo
+rodeo_8	is	O
+rodeo_8	different	O
+rodeo_8	from	O
+rodeo_8	the	O
+rodeo_8	rodeo	rodeo
+rodeo_8	found	O
+rodeo_8	in	O
+rodeo_8	North	O
+rodeo_8	America	O

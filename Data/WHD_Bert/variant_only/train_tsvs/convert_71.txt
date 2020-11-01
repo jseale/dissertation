@@ -1,0 +1,13 @@
+convert_71	Techniques	O
+convert_71	from	O
+convert_71	control	O
+convert_71	theory	O
+convert_71	convert	convert_vrb
+convert_71	the	O
+convert_71	task	O
+convert_71	into	O
+convert_71	commands	O
+convert_71	that	O
+convert_71	drive	O
+convert_71	the	O
+convert_71	actuators	O

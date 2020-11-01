@@ -1,0 +1,17 @@
+contrast_5	In	O
+contrast_5	contrast	contrast_nou
+contrast_5	sharia	O
+contrast_5	in	O
+contrast_5	its	O
+contrast_5	traditional	O
+contrast_5	form	O
+contrast_5	had	O
+contrast_5	no	O
+contrast_5	appeals	O
+contrast_5	system	O
+contrast_5	and	O
+contrast_5	gave	O
+contrast_5	local	O
+contrast_5	judges	O
+contrast_5	final	O
+contrast_5	say	O

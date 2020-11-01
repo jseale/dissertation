@@ -1,0 +1,16 @@
+sake_75	Eventually	O
+sake_75	Philip	O
+sake_75	the	O
+sake_75	Bold	O
+sake_75	paid	O
+sake_75	the	O
+sake_75	ransom	O
+sake_75	for	O
+sake_75	the	O
+sake_75	sake	sake
+sake_75	of	O
+sake_75	their	O
+sake_75	uncle	O
+sake_75	Malouel	O
+sake_75	his	O
+sake_75	painter	O

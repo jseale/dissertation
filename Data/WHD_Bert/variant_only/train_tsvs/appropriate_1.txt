@@ -1,0 +1,16 @@
+appropriate_1	She	O
+appropriate_1	found	O
+appropriate_1	this	O
+appropriate_1	pen	O
+appropriate_1	name	O
+appropriate_1	appropriate	appropriate_adj
+appropriate_1	as	O
+appropriate_1	she	O
+appropriate_1	writes	O
+appropriate_1	gender	O
+appropriate_1	neutral	O
+appropriate_1	novels	O
+appropriate_1	and	O
+appropriate_1	it	O
+appropriate_1	spelled	O
+appropriate_1	asking	O

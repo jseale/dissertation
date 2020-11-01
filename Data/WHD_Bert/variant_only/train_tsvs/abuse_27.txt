@@ -1,0 +1,8 @@
+abuse_27	Such	O
+abuse_27	abuse	abuse_nou
+abuse_27	was	O
+abuse_27	unlawful	O
+abuse_27	and	O
+abuse_27	unacceptable	O
+abuse_27	Naidu	O
+abuse_27	said	O

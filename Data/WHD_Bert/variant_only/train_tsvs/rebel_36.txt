@@ -1,0 +1,17 @@
+rebel_36	He	O
+rebel_36	was	O
+rebel_36	present	O
+rebel_36	at	O
+rebel_36	the	O
+rebel_36	time	O
+rebel_36	of	O
+rebel_36	the	O
+rebel_36	uprising	O
+rebel_36	of	O
+rebel_36	the	O
+rebel_36	rebel	rebel_nou
+rebel_36	army	O
+rebel_36	on	O
+rebel_36	July	O
+rebel_36	18	O
+rebel_36	1936	O

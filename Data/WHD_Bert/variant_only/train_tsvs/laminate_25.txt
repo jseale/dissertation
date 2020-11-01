@@ -1,0 +1,13 @@
+laminate_25	Thin	O
+laminate_25	walled	O
+laminate_25	beams	O
+laminate_25	are	O
+laminate_25	particularly	O
+laminate_25	useful	O
+laminate_25	when	O
+laminate_25	the	O
+laminate_25	material	O
+laminate_25	is	O
+laminate_25	a	O
+laminate_25	composite	O
+laminate_25	laminate	laminate_nou

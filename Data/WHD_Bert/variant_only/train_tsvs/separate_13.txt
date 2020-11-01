@@ -1,0 +1,14 @@
+separate_13	There	O
+separate_13	is	O
+separate_13	a	O
+separate_13	high	O
+separate_13	school	O
+separate_13	for	O
+separate_13	girls	O
+separate_13	and	O
+separate_13	a	O
+separate_13	separate	separate_adj
+separate_13	high	O
+separate_13	school	O
+separate_13	for	O
+separate_13	boys	O

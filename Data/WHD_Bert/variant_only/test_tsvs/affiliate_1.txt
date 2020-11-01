@@ -1,0 +1,17 @@
+affiliate_1	January	O
+affiliate_1	2	O
+affiliate_1	2013	O
+affiliate_1	AM	O
+affiliate_1	610	O
+affiliate_1	becomes	O
+affiliate_1	a	O
+affiliate_1	full	O
+affiliate_1	time	O
+affiliate_1	affiliate	affiliate_nou
+affiliate_1	of	O
+affiliate_1	the	O
+affiliate_1	new	O
+affiliate_1	CBS	O
+affiliate_1	Sports	O
+affiliate_1	Radio	O
+affiliate_1	network	O

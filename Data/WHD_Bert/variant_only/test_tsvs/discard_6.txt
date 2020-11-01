@@ -1,0 +1,15 @@
+discard_6	The	O
+discard_6	time	O
+discard_6	has	O
+discard_6	come	O
+discard_6	to	O
+discard_6	discard	discard_vrb
+discard_6	old	O
+discard_6	conceptions	O
+discard_6	and	O
+discard_6	look	O
+discard_6	anew	O
+discard_6	at	O
+discard_6	Late	O
+discard_6	Gothic	O
+discard_6	architecture	O

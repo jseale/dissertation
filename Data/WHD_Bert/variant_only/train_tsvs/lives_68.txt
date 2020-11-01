@@ -1,0 +1,9 @@
+lives_68	Savithiri	O
+lives_68	does	O
+lives_68	not	O
+lives_68	like	O
+lives_68	the	O
+lives_68	life	O
+lives_68	that	O
+lives_68	M.G.R.	O
+lives_68	lives	lives_vrb

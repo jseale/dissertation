@@ -1,0 +1,16 @@
+wound_22	In	O
+wound_22	microangiopathy	O
+wound_22	neuropathy	O
+wound_22	and	O
+wound_22	autoregulation	O
+wound_22	of	O
+wound_22	capillaries	O
+wound_22	leads	O
+wound_22	to	O
+wound_22	poor	O
+wound_22	perfusion	O
+wound_22	of	O
+wound_22	tissues	O
+wound_22	especially	O
+wound_22	wound	wound_nou-vrb
+wound_22	base	O

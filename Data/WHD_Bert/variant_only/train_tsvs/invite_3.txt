@@ -1,0 +1,17 @@
+invite_3	The	O
+invite_3	game	O
+invite_3	originally	O
+invite_3	gave	O
+invite_3	an	O
+invite_3	automatic	O
+invite_3	invite	invite_nou
+invite_3	to	O
+invite_3	a	O
+invite_3	team	O
+invite_3	from	O
+invite_3	the	O
+invite_3	now	O
+invite_3	defunct	O
+invite_3	Southwest	O
+invite_3	Conference	O
+invite_3	SWC	O

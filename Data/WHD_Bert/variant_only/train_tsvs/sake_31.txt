@@ -1,0 +1,15 @@
+sake_31	In	O
+sake_31	general	O
+sake_31	the	O
+sake_31	Hesychast	O
+sake_31	restricts	O
+sake_31	his	O
+sake_31	external	O
+sake_31	activities	O
+sake_31	for	O
+sake_31	the	O
+sake_31	sake	sake
+sake_31	of	O
+sake_31	his	O
+sake_31	Hesychastic	O
+sake_31	practice	O

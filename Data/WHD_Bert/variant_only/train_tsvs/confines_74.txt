@@ -1,0 +1,17 @@
+confines_74	Gradually	O
+confines_74	the	O
+confines_74	Germans	O
+confines_74	were	O
+confines_74	pushed	O
+confines_74	back	O
+confines_74	to	O
+confines_74	the	O
+confines_74	confines	confines_nou
+confines_74	of	O
+confines_74	the	O
+confines_74	narrow	O
+confines_74	perimeter	O
+confines_74	around	O
+confines_74	the	O
+confines_74	traffic	O
+confines_74	bridge	O

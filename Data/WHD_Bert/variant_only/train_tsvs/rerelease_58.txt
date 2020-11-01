@@ -1,0 +1,14 @@
+rerelease_58	There	O
+rerelease_58	was	O
+rerelease_58	a	O
+rerelease_58	rerelease	rerelease
+rerelease_58	of	O
+rerelease_58	the	O
+rerelease_58	album	O
+rerelease_58	by	O
+rerelease_58	Revolver	O
+rerelease_58	USA	O
+rerelease_58	on	O
+rerelease_58	September	O
+rerelease_58	25	O
+rerelease_58	2000	O

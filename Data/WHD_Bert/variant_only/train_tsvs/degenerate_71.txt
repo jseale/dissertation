@@ -1,0 +1,16 @@
+degenerate_71	Cooling	O
+degenerate_71	fermions	O
+degenerate_71	to	O
+degenerate_71	extremely	O
+degenerate_71	low	O
+degenerate_71	temperatures	O
+degenerate_71	has	O
+degenerate_71	created	O
+degenerate_71	degenerate	degenerate_adj-nou
+degenerate_71	gases	O
+degenerate_71	subject	O
+degenerate_71	to	O
+degenerate_71	the	O
+degenerate_71	Pauli	O
+degenerate_71	exclusion	O
+degenerate_71	principle	O

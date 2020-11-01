@@ -1,0 +1,11 @@
+compress_2	Simply	O
+compress_2	compress	compress
+compress_2	the	O
+compress_2	take	O
+compress_2	up	O
+compress_2	springs	O
+compress_2	and	O
+compress_2	your	O
+compress_2	problem	O
+compress_2	goes	O
+compress_2	away	O

@@ -1,0 +1,15 @@
+correlate_67	In	O
+correlate_67	addition	O
+correlate_67	brain	O
+correlate_67	volumes	O
+correlate_67	do	O
+correlate_67	not	O
+correlate_67	correlate	correlate_nou-vrb
+correlate_67	strongly	O
+correlate_67	with	O
+correlate_67	other	O
+correlate_67	and	O
+correlate_67	more	O
+correlate_67	specific	O
+correlate_67	cognitive	O
+correlate_67	measures	O

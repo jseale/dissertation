@@ -1,0 +1,13 @@
+lead_49	The	O
+lead_49	film	O
+lead_49	stars	O
+lead_49	Vijayakashi	O
+lead_49	Vaishali	O
+lead_49	Kasaravalli	O
+lead_49	Padmashree	O
+lead_49	and	O
+lead_49	Chandrakumar	O
+lead_49	Jain	O
+lead_49	in	O
+lead_49	lead	lead_nou-vrb
+lead_49	roles	O

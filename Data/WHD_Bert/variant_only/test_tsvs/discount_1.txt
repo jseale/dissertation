@@ -1,0 +1,9 @@
+discount_1	Discount	discount_nou
+discount_1	items	O
+discount_1	can	O
+discount_1	include	O
+discount_1	clothing	O
+discount_1	toys	O
+discount_1	flowers	O
+discount_1	and	O
+discount_1	gifts	O

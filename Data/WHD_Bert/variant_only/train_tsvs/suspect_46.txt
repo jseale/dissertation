@@ -1,0 +1,17 @@
+suspect_46	Asterix	O
+suspect_46	finds	O
+suspect_46	out	O
+suspect_46	that	O
+suspect_46	some	O
+suspect_46	people	O
+suspect_46	suspect	suspect_vrb
+suspect_46	the	O
+suspect_46	baby	O
+suspect_46	is	O
+suspect_46	his	O
+suspect_46	illegitimate	O
+suspect_46	child	O
+suspect_46	leaving	O
+suspect_46	him	O
+suspect_46	mildly	O
+suspect_46	shocked	O

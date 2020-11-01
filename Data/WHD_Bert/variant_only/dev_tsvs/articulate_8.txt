@@ -1,0 +1,11 @@
+articulate_8	Sarah	O
+articulate_8	Palin	O
+articulate_8	is	O
+articulate_8	secretly	O
+articulate_8	an	O
+articulate_8	extremely	O
+articulate_8	intelligent	O
+articulate_8	poised	O
+articulate_8	and	O
+articulate_8	articulate	articulate_adj
+articulate_8	Englishwoman	O

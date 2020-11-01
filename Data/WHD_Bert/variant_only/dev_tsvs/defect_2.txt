@@ -1,0 +1,16 @@
+defect_2	The	O
+defect_2	ECG	O
+defect_2	findings	O
+defect_2	in	O
+defect_2	atrial	O
+defect_2	septal	O
+defect_2	defect	defect_nou
+defect_2	vary	O
+defect_2	with	O
+defect_2	the	O
+defect_2	type	O
+defect_2	of	O
+defect_2	defect	defect_nou
+defect_2	the	O
+defect_2	individual	O
+defect_2	has	O

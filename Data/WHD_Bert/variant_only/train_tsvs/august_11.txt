@@ -1,0 +1,17 @@
+august_11	It	O
+august_11	reaches	O
+august_11	its	O
+august_11	greatest	O
+august_11	size	O
+august_11	between	O
+august_11	April	O
+august_11	and	O
+august_11	August	august
+august_11	and	O
+august_11	can	O
+august_11	be	O
+august_11	good	O
+august_11	in	O
+august_11	October	O
+august_11	and	O
+august_11	November	O

@@ -1,0 +1,12 @@
+animate_29	Intransitive	O
+animate_29	active	O
+animate_29	verbs	O
+animate_29	are	O
+animate_29	those	O
+animate_29	which	O
+animate_29	involve	O
+animate_29	only	O
+animate_29	human	O
+animate_29	or	O
+animate_29	animate	animate_adj-nou
+animate_29	agents	O

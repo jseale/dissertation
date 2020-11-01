@@ -1,0 +1,17 @@
+predicate_80	This	O
+predicate_80	logic	O
+predicate_80	functional	O
+predicate_80	programming	O
+predicate_80	language	O
+predicate_80	establish	O
+predicate_80	different	O
+predicate_80	determinism	O
+predicate_80	categories	O
+predicate_80	for	O
+predicate_80	predicate	predicate_nou
+predicate_80	modes	O
+predicate_80	as	O
+predicate_80	explained	O
+predicate_80	in	O
+predicate_80	the	O
+predicate_80	ref	O

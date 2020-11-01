@@ -1,0 +1,17 @@
+transport_30	ASP	O
+transport_30	is	O
+transport_30	also	O
+transport_30	known	O
+transport_30	for	O
+transport_30	its	O
+transport_30	augmentation	O
+transport_30	of	O
+transport_30	glucose	O
+transport_30	transport	transport_nou
+transport_30	and	O
+transport_30	inhibiting	O
+transport_30	action	O
+transport_30	on	O
+transport_30	hormone	O
+transport_30	sensitive	O
+transport_30	lipase	O

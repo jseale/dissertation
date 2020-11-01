@@ -1,0 +1,17 @@
+implement_56	However	O
+implement_56	it	O
+implement_56	does	O
+implement_56	also	O
+implement_56	implement	implement_vrb
+implement_56	an	O
+implement_56	intent	O
+implement_56	log	O
+implement_56	to	O
+implement_56	provide	O
+implement_56	better	O
+implement_56	performance	O
+implement_56	when	O
+implement_56	synchronous	O
+implement_56	writes	O
+implement_56	are	O
+implement_56	requested	O

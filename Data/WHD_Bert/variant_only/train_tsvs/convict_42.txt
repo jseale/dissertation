@@ -1,0 +1,15 @@
+convict_42	In	O
+convict_42	1844	O
+convict_42	Thomas	O
+convict_42	married	O
+convict_42	Mary	O
+convict_42	Ann	O
+convict_42	Shone	O
+convict_42	who	O
+convict_42	was	O
+convict_42	also	O
+convict_42	the	O
+convict_42	child	O
+convict_42	of	O
+convict_42	a	O
+convict_42	convict	convict_nou

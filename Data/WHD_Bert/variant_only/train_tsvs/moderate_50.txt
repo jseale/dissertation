@@ -1,0 +1,10 @@
+moderate_50	More	O
+moderate_50	than	O
+moderate_50	65	O
+moderate_50	additional	O
+moderate_50	homes	O
+moderate_50	sustained	O
+moderate_50	minor	O
+moderate_50	to	O
+moderate_50	moderate	moderate_adj-nou
+moderate_50	damage	O

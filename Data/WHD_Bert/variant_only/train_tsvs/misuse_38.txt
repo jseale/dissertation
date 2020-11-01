@@ -1,0 +1,14 @@
+misuse_38	And	O
+misuse_38	that	O
+misuse_38	is	O
+misuse_38	not	O
+misuse_38	patent	O
+misuse_38	misuse	misuse_nou
+misuse_38	under	O
+misuse_38	any	O
+misuse_38	court	O
+misuse_38	's	O
+misuse_38	definition	O
+misuse_38	of	O
+misuse_38	the	O
+misuse_38	term	O

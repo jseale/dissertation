@@ -1,0 +1,12 @@
+separate_51	This	O
+separate_51	has	O
+separate_51	already	O
+separate_51	yielded	O
+separate_51	separate	separate_adj
+separate_51	complementary	O
+separate_51	standards	O
+separate_51	for	O
+separate_51	symmetric	O
+separate_51	multiprocessing	O
+separate_51	namely	O
+separate_51	OpenMP	O

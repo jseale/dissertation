@@ -1,0 +1,15 @@
+august_44	Elizabeth	O
+august_44	Tilley	O
+august_44	was	O
+august_44	born	O
+august_44	in	O
+august_44	Henlow	O
+august_44	Bedfordshire	O
+august_44	England	O
+august_44	where	O
+august_44	she	O
+august_44	was	O
+august_44	baptized	O
+august_44	in	O
+august_44	August	august
+august_44	1607	O

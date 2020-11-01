@@ -1,0 +1,15 @@
+lives_15	This	O
+lives_15	ministry	O
+lives_15	works	O
+lives_15	and	O
+lives_15	dedicates	O
+lives_15	their	O
+lives_15	time	O
+lives_15	to	O
+lives_15	have	O
+lives_15	a	O
+lives_15	positive	O
+lives_15	impact	O
+lives_15	on	O
+lives_15	others	O
+lives_15	lives	lives_nou

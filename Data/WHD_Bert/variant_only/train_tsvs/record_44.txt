@@ -1,0 +1,11 @@
+record_44	The	O
+record_44	42	O
+record_44	point	O
+record_44	margin	O
+record_44	of	O
+record_44	victory	O
+record_44	is	O
+record_44	a	O
+record_44	bowl	O
+record_44	game	O
+record_44	record	record_nou

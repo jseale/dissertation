@@ -1,0 +1,13 @@
+buffet_0	They	O
+buffet_0	already	O
+buffet_0	run	O
+buffet_0	a	O
+buffet_0	buffet	buffet_nou
+buffet_0	business	O
+buffet_0	but	O
+buffet_0	aspire	O
+buffet_0	to	O
+buffet_0	open	O
+buffet_0	their	O
+buffet_0	own	O
+buffet_0	restaurant	O

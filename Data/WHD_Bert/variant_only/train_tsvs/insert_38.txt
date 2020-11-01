@@ -1,0 +1,14 @@
+insert_38	During	O
+insert_38	feeding	O
+insert_38	the	O
+insert_38	bee	O
+insert_38	will	O
+insert_38	insert	insert_vrb
+insert_38	its	O
+insert_38	proboscis	O
+insert_38	into	O
+insert_38	the	O
+insert_38	keel	O
+insert_38	of	O
+insert_38	the	O
+insert_38	plant	O

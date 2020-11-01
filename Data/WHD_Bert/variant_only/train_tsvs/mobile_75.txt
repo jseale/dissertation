@@ -1,0 +1,12 @@
+mobile_75	Police	O
+mobile_75	resources	O
+mobile_75	include;uniformed	O
+mobile_75	and	O
+mobile_75	plain	O
+mobile_75	clothes	O
+mobile_75	police	O
+mobile_75	officers	O
+mobile_75	sniffer	O
+mobile_75	dogs	O
+mobile_75	mobile	mobile
+mobile_75	scanners	O

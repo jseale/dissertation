@@ -1,0 +1,11 @@
+live_12	It	O
+live_12	was	O
+live_12	recorded	O
+live_12	live	live_adj
+live_12	during	O
+live_12	their	O
+live_12	K.F.D.	O
+live_12	World	O
+live_12	Tour	O
+live_12	in	O
+live_12	1997	O

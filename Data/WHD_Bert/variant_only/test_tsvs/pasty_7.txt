@@ -1,0 +1,17 @@
+pasty_7	For	O
+pasty_7	example	O
+pasty_7	a	O
+pasty_7	giant	O
+pasty_7	pasty	pasty_adj
+pasty_7	is	O
+pasty_7	paraded	O
+pasty_7	from	O
+pasty_7	Polruan	O
+pasty_7	to	O
+pasty_7	Fowey	O
+pasty_7	through	O
+pasty_7	the	O
+pasty_7	streets	O
+pasty_7	during	O
+pasty_7	regatta	O
+pasty_7	week	O

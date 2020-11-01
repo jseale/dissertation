@@ -1,0 +1,17 @@
+record_56	The	O
+record_56	1996	O
+record_56	Florida	O
+record_56	Marlins	O
+record_56	season	O
+record_56	began	O
+record_56	with	O
+record_56	the	O
+record_56	team	O
+record_56	trying	O
+record_56	to	O
+record_56	improve	O
+record_56	on	O
+record_56	their	O
+record_56	record	record_nou
+record_56	from	O
+record_56	1995	O

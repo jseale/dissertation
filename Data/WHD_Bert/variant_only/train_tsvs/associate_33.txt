@@ -1,0 +1,14 @@
+associate_33	Being	O
+associate_33	able	O
+associate_33	to	O
+associate_33	leave	O
+associate_33	Romania	O
+associate_33	he	O
+associate_33	worked	O
+associate_33	as	O
+associate_33	Associate	associate_adj-nou
+associate_33	Professor	O
+associate_33	of	O
+associate_33	the	O
+associate_33	Paris	O
+associate_33	University	O

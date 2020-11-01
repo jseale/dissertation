@@ -1,0 +1,15 @@
+upset_67	They	O
+upset_67	talk	O
+upset_67	and	O
+upset_67	Jody	O
+upset_67	being	O
+upset_67	upset	upset_nou
+upset_67	with	O
+upset_67	her	O
+upset_67	parents	O
+upset_67	tries	O
+upset_67	to	O
+upset_67	pressure	O
+upset_67	sex	O
+upset_67	on	O
+upset_67	Kenny	O

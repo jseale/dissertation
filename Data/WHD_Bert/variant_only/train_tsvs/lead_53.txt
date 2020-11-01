@@ -1,0 +1,13 @@
+lead_53	It	O
+lead_53	stars	O
+lead_53	Tarun	O
+lead_53	Chandra	O
+lead_53	Radhika	O
+lead_53	Pandit	O
+lead_53	and	O
+lead_53	Dileep	O
+lead_53	Raj	O
+lead_53	in	O
+lead_53	the	O
+lead_53	lead	lead_nou-vrb
+lead_53	roles	O

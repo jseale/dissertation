@@ -1,0 +1,11 @@
+separate_56	There	O
+separate_56	are	O
+separate_56	two	O
+separate_56	distinct	O
+separate_56	forms	O
+separate_56	of	O
+separate_56	rowing	O
+separate_56	on	O
+separate_56	two	O
+separate_56	separate	separate_adj
+separate_56	days	O

@@ -1,0 +1,15 @@
+august_65	Though	O
+august_65	the	O
+august_65	actual	O
+august_65	celebration	O
+august_65	is	O
+august_65	in	O
+august_65	October	O
+august_65	an	O
+august_65	August	august
+august_65	celebration	O
+august_65	is	O
+august_65	held	O
+august_65	for	O
+august_65	tourist	O
+august_65	reasons	O

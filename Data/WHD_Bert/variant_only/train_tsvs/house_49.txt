@@ -1,0 +1,14 @@
+house_49	He	O
+house_49	remained	O
+house_49	the	O
+house_49	provost	O
+house_49	until	O
+house_49	he	O
+house_49	died	O
+house_49	at	O
+house_49	the	O
+house_49	Provost	O
+house_49	's	O
+house_49	House	house_nou
+house_49	in	O
+house_49	1914	O

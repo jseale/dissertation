@@ -1,0 +1,15 @@
+convert_14	People	O
+convert_14	and	O
+convert_14	non	O
+convert_14	governmental	O
+convert_14	organisations	O
+convert_14	are	O
+convert_14	pressing	O
+convert_14	hard	O
+convert_14	to	O
+convert_14	convert	convert_vrb
+convert_14	it	O
+convert_14	into	O
+convert_14	an	O
+convert_14	wildlife	O
+convert_14	sanctuary	O

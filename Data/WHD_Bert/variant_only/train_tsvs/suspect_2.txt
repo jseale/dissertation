@@ -1,0 +1,8 @@
+suspect_2	Who	O
+suspect_2	was	O
+suspect_2	the	O
+suspect_2	main	O
+suspect_2	suspect	suspect_adj-nou
+suspect_2	of	O
+suspect_2	the	O
+suspect_2	hostage	O

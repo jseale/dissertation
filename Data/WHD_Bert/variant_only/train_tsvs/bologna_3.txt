@@ -1,0 +1,16 @@
+bologna_3	He	O
+bologna_3	did	O
+bologna_3	not	O
+bologna_3	receive	O
+bologna_3	special	O
+bologna_3	training	O
+bologna_3	as	O
+bologna_3	a	O
+bologna_3	physician	O
+bologna_3	or	O
+bologna_3	attend	O
+bologna_3	the	O
+bologna_3	famous	O
+bologna_3	university	O
+bologna_3	in	O
+bologna_3	Bologna	bologna_geo

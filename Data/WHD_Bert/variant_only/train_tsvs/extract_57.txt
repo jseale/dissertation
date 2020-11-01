@@ -1,0 +1,13 @@
+extract_57	McCrory	O
+extract_57	signs	O
+extract_57	9	O
+extract_57	bills	O
+extract_57	including	O
+extract_57	changes	O
+extract_57	to	O
+extract_57	law	O
+extract_57	allowing	O
+extract_57	use	O
+extract_57	of	O
+extract_57	marijuana	O
+extract_57	extract	extract_nou

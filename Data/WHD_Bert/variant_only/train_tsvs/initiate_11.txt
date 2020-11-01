@@ -1,0 +1,14 @@
+initiate_11	He	O
+initiate_11	was	O
+initiate_11	the	O
+initiate_11	first	O
+initiate_11	to	O
+initiate_11	initiate	initiate_vrb
+initiate_11	the	O
+initiate_11	company	O
+initiate_11	's	O
+initiate_11	exports	O
+initiate_11	to	O
+initiate_11	France	O
+initiate_11	and	O
+initiate_11	Italy	O

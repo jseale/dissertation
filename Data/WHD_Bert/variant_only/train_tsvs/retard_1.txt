@@ -1,0 +1,9 @@
+retard_1	These	O
+retard_1	effects	O
+retard_1	consequently	O
+retard_1	retard	retard_vrb
+retard_1	the	O
+retard_1	production	O
+retard_1	of	O
+retard_1	sperm	O
+retard_1	cell	O

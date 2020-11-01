@@ -1,0 +1,11 @@
+increment_28	On	O
+increment_28	December	O
+increment_28	12	O
+increment_28	1990	O
+increment_28	Houston	O
+increment_28	's	O
+increment_28	Tax	O
+increment_28	Increment	increment_nou
+increment_28	Reinvestment	O
+increment_28	Zone	O
+increment_28	No	O

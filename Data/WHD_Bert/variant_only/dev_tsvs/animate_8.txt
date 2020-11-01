@@ -1,0 +1,9 @@
+animate_8	Trees	O
+animate_8	and	O
+animate_8	grass	O
+animate_8	animate	animate_vrb
+animate_8	in	O
+animate_8	the	O
+animate_8	real	O
+animate_8	time	O
+animate_8	preview	O

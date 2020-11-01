@@ -1,0 +1,15 @@
+pasty_45	The	O
+pasty_45	flesh	O
+pasty_45	is	O
+pasty_45	somewhat	O
+pasty_45	pasty	pasty_nou
+pasty_45	although	O
+pasty_45	the	O
+pasty_45	best	O
+pasty_45	varieties	O
+pasty_45	have	O
+pasty_45	a	O
+pasty_45	creamy	O
+pasty_45	mousse	O
+pasty_45	like	O
+pasty_45	texture	O

@@ -1,0 +1,15 @@
+laminate_50	Laser	O
+laminate_50	resist	O
+laminate_50	ablation	O
+laminate_50	Spray	O
+laminate_50	black	O
+laminate_50	paint	O
+laminate_50	onto	O
+laminate_50	copper	O
+laminate_50	clad	O
+laminate_50	laminate	laminate_nou
+laminate_50	place	O
+laminate_50	into	O
+laminate_50	CNC	O
+laminate_50	laser	O
+laminate_50	plotter	O

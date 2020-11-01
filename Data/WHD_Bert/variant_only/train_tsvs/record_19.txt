@@ -1,0 +1,15 @@
+record_19	At	O
+record_19	Yale	O
+record_19	he	O
+record_19	was	O
+record_19	on	O
+record_19	the	O
+record_19	editorial	O
+record_19	staff	O
+record_19	of	O
+record_19	campus	O
+record_19	humor	O
+record_19	magazine	O
+record_19	The	O
+record_19	Yale	O
+record_19	Record	record_nou

@@ -1,0 +1,13 @@
+construct_57	Conversely	O
+construct_57	every	O
+construct_57	utility	O
+construct_57	function	O
+construct_57	can	O
+construct_57	be	O
+construct_57	used	O
+construct_57	to	O
+construct_57	construct	construct_vrb
+construct_57	a	O
+construct_57	unique	O
+construct_57	preference	O
+construct_57	relation	O

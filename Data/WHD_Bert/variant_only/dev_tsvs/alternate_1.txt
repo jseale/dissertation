@@ -1,0 +1,17 @@
+alternate_1	On	O
+alternate_1	October	O
+alternate_1	3	O
+alternate_1	2008	O
+alternate_1	Heatley	O
+alternate_1	was	O
+alternate_1	named	O
+alternate_1	alternate	alternate_adj-nou
+alternate_1	captain	O
+alternate_1	to	O
+alternate_1	Daniel	O
+alternate_1	Alfredsson	O
+alternate_1	along	O
+alternate_1	with	O
+alternate_1	defenceman	O
+alternate_1	Chris	O
+alternate_1	Phillips	O

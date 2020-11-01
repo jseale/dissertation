@@ -1,0 +1,17 @@
+appropriate_31	Ward	O
+appropriate_31	also	O
+appropriate_31	criticized	O
+appropriate_31	the	O
+appropriate_31	oversight	O
+appropriate_31	of	O
+appropriate_31	the	O
+appropriate_31	Fijian	O
+appropriate_31	government	O
+appropriate_31	in	O
+appropriate_31	failing	O
+appropriate_31	to	O
+appropriate_31	enact	O
+appropriate_31	appropriate	appropriate_adj
+appropriate_31	court	O
+appropriate_31	martial	O
+appropriate_31	legislation	O

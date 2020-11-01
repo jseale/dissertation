@@ -1,0 +1,16 @@
+wound_6	Simon	O
+wound_6	despite	O
+wound_6	his	O
+wound_6	fears	O
+wound_6	bravely	O
+wound_6	tries	O
+wound_6	to	O
+wound_6	fight	O
+wound_6	it	O
+wound_6	off	O
+wound_6	suffering	O
+wound_6	a	O
+wound_6	wound	wound_nou-vrb
+wound_6	in	O
+wound_6	the	O
+wound_6	process	O

@@ -1,0 +1,14 @@
+misuse_51	In	O
+misuse_51	theory	O
+misuse_51	misuse	misuse_nou
+misuse_51	detection	O
+misuse_51	assumes	O
+misuse_51	that	O
+misuse_51	abnormal	O
+misuse_51	behaviour	O
+misuse_51	has	O
+misuse_51	a	O
+misuse_51	simple	O
+misuse_51	to	O
+misuse_51	define	O
+misuse_51	model	O

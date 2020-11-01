@@ -1,0 +1,17 @@
+discount_19	There	O
+discount_19	is	O
+discount_19	no	O
+discount_19	discount	discount_nou
+discount_19	on	O
+discount_19	fares	O
+discount_19	for	O
+discount_19	travel	O
+discount_19	on	O
+discount_19	the	O
+discount_19	Tube	O
+discount_19	DLR	O
+discount_19	London	O
+discount_19	Overground	O
+discount_19	or	O
+discount_19	National	O
+discount_19	Rail	O

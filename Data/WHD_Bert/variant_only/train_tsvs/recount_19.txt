@@ -1,0 +1,17 @@
+recount_19	About	O
+recount_19	two	O
+recount_19	years	O
+recount_19	after	O
+recount_19	the	O
+recount_19	war	O
+recount_19	Aanenson	O
+recount_19	met	O
+recount_19	a	O
+recount_19	new	O
+recount_19	neighbor	O
+recount_19	who	O
+recount_19	started	O
+recount_19	to	O
+recount_19	recount	recount_vrb
+recount_19	the	O
+recount_19	story	O

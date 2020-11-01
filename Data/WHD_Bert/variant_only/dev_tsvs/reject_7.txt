@@ -1,0 +1,15 @@
+reject_7	As	O
+reject_7	a	O
+reject_7	result	O
+reject_7	the	O
+reject_7	reject	reject_nou
+reject_7	stream	O
+reject_7	is	O
+reject_7	concentrated	O
+reject_7	up	O
+reject_7	while	O
+reject_7	the	O
+reject_7	product	O
+reject_7	stream	O
+reject_7	is	O
+reject_7	desalted	O

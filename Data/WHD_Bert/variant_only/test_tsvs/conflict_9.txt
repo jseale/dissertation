@@ -1,0 +1,10 @@
+conflict_9	The	O
+conflict_9	outcome	O
+conflict_9	dictates	O
+conflict_9	how	O
+conflict_9	we	O
+conflict_9	refer	O
+conflict_9	to	O
+conflict_9	a	O
+conflict_9	given	O
+conflict_9	conflict	conflict_nou

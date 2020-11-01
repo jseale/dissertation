@@ -1,0 +1,15 @@
+permit_12	The	O
+permit_12	King	O
+permit_12	was	O
+permit_12	persuaded	O
+permit_12	to	O
+permit_12	permit	permit_vrb
+permit_12	d'Arlandes	O
+permit_12	and	O
+permit_12	de	O
+permit_12	Rozier	O
+permit_12	to	O
+permit_12	become	O
+permit_12	the	O
+permit_12	first	O
+permit_12	pilots	O

@@ -1,0 +1,13 @@
+upset_60	In	O
+upset_60	the	O
+upset_60	33rd	O
+upset_60	round	O
+upset_60	Corinthians	O
+upset_60	lost	O
+upset_60	against	O
+upset_60	América	O
+upset_60	MG	O
+upset_60	in	O
+upset_60	a	O
+upset_60	great	O
+upset_60	upset	upset_nou

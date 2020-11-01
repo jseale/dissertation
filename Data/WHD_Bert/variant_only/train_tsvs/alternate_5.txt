@@ -1,0 +1,10 @@
+alternate_5	The	O
+alternate_5	alternate	alternate_adj-nou
+alternate_5	term	O
+alternate_5	body	O
+alternate_5	color	O
+alternate_5	is	O
+alternate_5	sometimes	O
+alternate_5	one	O
+alternate_5	word	O
+alternate_5	bodycolor	O

@@ -1,0 +1,15 @@
+animate_5	We	O
+animate_5	have	O
+animate_5	not	O
+animate_5	forgotten	O
+animate_5	that	O
+animate_5	you	O
+animate_5	are	O
+animate_5	anxious	O
+animate_5	to	O
+animate_5	animate	animate_vrb
+animate_5	here	O
+animate_5	at	O
+animate_5	the	O
+animate_5	studio	O
+animate_5	but	O

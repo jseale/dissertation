@@ -1,0 +1,12 @@
+dove_3	The	O
+dove_3	jambu	O
+dove_3	fruit	O
+dove_3	dove	dove
+dove_3	Ptilinopus	O
+dove_3	jambu	O
+dove_3	is	O
+dove_3	a	O
+dove_3	smallish	O
+dove_3	colourful	O
+dove_3	fruit	O
+dove_3	dove	dove

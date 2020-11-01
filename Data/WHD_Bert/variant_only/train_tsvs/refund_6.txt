@@ -1,0 +1,10 @@
+refund_6	The	O
+refund_6	refund	refund_nou
+refund_6	was	O
+refund_6	about	O
+refund_6	$	O
+refund_6	5,000	O
+refund_6	for	O
+refund_6	all	O
+refund_6	20	O
+refund_6	workers	O

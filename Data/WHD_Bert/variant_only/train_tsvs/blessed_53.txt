@@ -1,0 +1,9 @@
+blessed_53	Linxia	O
+blessed_53	is	O
+blessed_53	blessed	blessed_vrb
+blessed_53	with	O
+blessed_53	both	O
+blessed_53	natural	O
+blessed_53	and	O
+blessed_53	cultural	O
+blessed_53	wonders	O

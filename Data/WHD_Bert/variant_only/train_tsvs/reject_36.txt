@@ -1,0 +1,14 @@
+reject_36	But	O
+reject_36	you	O
+reject_36	do	O
+reject_36	n't	O
+reject_36	want	O
+reject_36	to	O
+reject_36	push	O
+reject_36	too	O
+reject_36	hard	O
+reject_36	or	O
+reject_36	they	O
+reject_36	'll	O
+reject_36	reject	reject_vrb
+reject_36	it	O

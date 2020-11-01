@@ -1,0 +1,16 @@
+overthrow_5	They	O
+overthrow_5	regrouped	O
+overthrow_5	and	O
+overthrow_5	devised	O
+overthrow_5	a	O
+overthrow_5	desperate	O
+overthrow_5	plan	O
+overthrow_5	to	O
+overthrow_5	overthrow	overthrow_vrb
+overthrow_5	Darutos	O
+overthrow_5	and	O
+overthrow_5	regain	O
+overthrow_5	control	O
+overthrow_5	of	O
+overthrow_5	the	O
+overthrow_5	kingdom	O

@@ -1,0 +1,16 @@
+ornament_11	In	O
+ornament_11	each	O
+ornament_11	chamber	O
+ornament_11	is	O
+ornament_11	a	O
+ornament_11	central	O
+ornament_11	octagonal	O
+ornament_11	stone	O
+ornament_11	table	O
+ornament_11	carved	O
+ornament_11	with	O
+ornament_11	up	O
+ornament_11	to	O
+ornament_11	date	O
+ornament_11	Renaissance	O
+ornament_11	ornament	ornament_nou

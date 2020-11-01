@@ -1,0 +1,14 @@
+rebel_70	These	O
+rebel_70	rebel	rebel_nou
+rebel_70	soldiers	O
+rebel_70	on	O
+rebel_70	their	O
+rebel_70	way	O
+rebel_70	to	O
+rebel_70	reach	O
+rebel_70	Manipur	O
+rebel_70	pitched	O
+rebel_70	their	O
+rebel_70	tents	O
+rebel_70	at	O
+rebel_70	Malegarh	O

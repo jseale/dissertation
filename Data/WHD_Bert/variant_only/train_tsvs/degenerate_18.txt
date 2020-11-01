@@ -1,0 +1,10 @@
+degenerate_18	This	O
+degenerate_18	kind	O
+degenerate_18	of	O
+degenerate_18	situation	O
+degenerate_18	is	O
+degenerate_18	called	O
+degenerate_18	a	O
+degenerate_18	degenerate	degenerate_adj-nou
+degenerate_18	critical	O
+degenerate_18	point	O

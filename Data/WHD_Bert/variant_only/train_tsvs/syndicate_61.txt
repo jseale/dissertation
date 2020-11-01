@@ -1,0 +1,16 @@
+syndicate_61	Another	O
+syndicate_61	syndicate	syndicate_nou
+syndicate_61	he	O
+syndicate_61	headed	O
+syndicate_61	purchased	O
+syndicate_61	the	O
+syndicate_61	Indians	O
+syndicate_61	in	O
+syndicate_61	1972	O
+syndicate_61	for	O
+syndicate_61	$	O
+syndicate_61	10	O
+syndicate_61	million	O
+syndicate_61	from	O
+syndicate_61	Vernon	O
+syndicate_61	Stouffer	O

@@ -1,0 +1,12 @@
+record_17	By	O
+record_17	1940	O
+record_17	they	O
+record_17	had	O
+record_17	a	O
+record_17	record	record_nou
+record_17	of	O
+record_17	338	O
+record_17	wins	O
+record_17	and	O
+record_17	12	O
+record_17	losses	O

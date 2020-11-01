@@ -1,0 +1,12 @@
+expatriate_45	In	O
+expatriate_45	mid-2010	O
+expatriate_45	there	O
+expatriate_45	were	O
+expatriate_45	more	O
+expatriate_45	than	O
+expatriate_45	1.8	O
+expatriate_45	million	O
+expatriate_45	Sri	O
+expatriate_45	Lankan	O
+expatriate_45	expatriate	expatriate_nou
+expatriate_45	workers	O

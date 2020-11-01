@@ -1,0 +1,13 @@
+permit_6	There	O
+permit_6	is	O
+permit_6	a	O
+permit_6	trail	O
+permit_6	in	O
+permit_6	the	O
+permit_6	park	O
+permit_6	but	O
+permit_6	using	O
+permit_6	it	O
+permit_6	requires	O
+permit_6	a	O
+permit_6	permit	permit_nou

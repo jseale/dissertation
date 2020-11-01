@@ -1,0 +1,15 @@
+ornament_26	In	O
+ornament_26	1984	O
+ornament_26	the	O
+ornament_26	hood	O
+ornament_26	ornament	ornament_nou
+ornament_26	was	O
+ornament_26	removed	O
+ornament_26	and	O
+ornament_26	the	O
+ornament_26	Chrysler	O
+ornament_26	Pentastar	O
+ornament_26	moved	O
+ornament_26	to	O
+ornament_26	the	O
+ornament_26	grille	O

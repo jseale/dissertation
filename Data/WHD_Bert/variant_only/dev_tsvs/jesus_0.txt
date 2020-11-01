@@ -1,0 +1,15 @@
+jesus_0	Currently	O
+jesus_0	The	O
+jesus_0	Church	O
+jesus_0	of	O
+jesus_0	Jesus	jesus
+jesus_0	Christ	O
+jesus_0	of	O
+jesus_0	Latter	O
+jesus_0	day	O
+jesus_0	Saints	O
+jesus_0	uses	O
+jesus_0	water	O
+jesus_0	instead	O
+jesus_0	of	O
+jesus_0	wine	O

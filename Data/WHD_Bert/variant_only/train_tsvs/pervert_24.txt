@@ -1,0 +1,17 @@
+pervert_24	Sean	O
+pervert_24	is	O
+pervert_24	released	O
+pervert_24	and	O
+pervert_24	Deano	O
+pervert_24	and	O
+pervert_24	Chelsea	O
+pervert_24	are	O
+pervert_24	arrested	O
+pervert_24	for	O
+pervert_24	conspiracy	O
+pervert_24	to	O
+pervert_24	pervert	pervert_vrb
+pervert_24	the	O
+pervert_24	course	O
+pervert_24	of	O
+pervert_24	justice	O

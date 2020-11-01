@@ -1,0 +1,16 @@
+resume_63	During	O
+resume_63	the	O
+resume_63	pastoral	O
+resume_63	visit	O
+resume_63	on	O
+resume_63	17	O
+resume_63	August	O
+resume_63	of	O
+resume_63	the	O
+resume_63	same	O
+resume_63	year	O
+resume_63	he	O
+resume_63	ordered	O
+resume_63	work	O
+resume_63	to	O
+resume_63	resume	resume_vrb

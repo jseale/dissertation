@@ -1,0 +1,15 @@
+excuse_52	Before	O
+excuse_52	forming	O
+excuse_52	Sleater	O
+excuse_52	Kinney	O
+excuse_52	Tucker	O
+excuse_52	played	O
+excuse_52	in	O
+excuse_52	Heartless	O
+excuse_52	Martin	O
+excuse_52	with	O
+excuse_52	Becca	O
+excuse_52	Albee	O
+excuse_52	of	O
+excuse_52	Excuse	excuse_nou
+excuse_52	17	O

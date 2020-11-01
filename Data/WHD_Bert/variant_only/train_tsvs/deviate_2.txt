@@ -1,0 +1,17 @@
+deviate_2	Due	O
+deviate_2	to	O
+deviate_2	combustion	O
+deviate_2	a	O
+deviate_2	TGA	O
+deviate_2	trace	O
+deviate_2	can	O
+deviate_2	deviate	deviate_vrb
+deviate_2	from	O
+deviate_2	the	O
+deviate_2	normal	O
+deviate_2	form	O
+deviate_2	of	O
+deviate_2	a	O
+deviate_2	well	O
+deviate_2	behaved	O
+deviate_2	function	O

@@ -1,0 +1,17 @@
+live_70	Members	O
+live_70	of	O
+live_70	the	O
+live_70	genus	O
+live_70	live	live_vrb
+live_70	solitarily	O
+live_70	with	O
+live_70	the	O
+live_70	exception	O
+live_70	of	O
+live_70	the	O
+live_70	time	O
+live_70	cubs	O
+live_70	spend	O
+live_70	with	O
+live_70	their	O
+live_70	mothers	O

@@ -1,0 +1,16 @@
+intrigue_11	Two	O
+intrigue_11	years	O
+intrigue_11	later	O
+intrigue_11	he	O
+intrigue_11	retired	O
+intrigue_11	from	O
+intrigue_11	public	O
+intrigue_11	life	O
+intrigue_11	in	O
+intrigue_11	disgrace	O
+intrigue_11	as	O
+intrigue_11	the	O
+intrigue_11	result	O
+intrigue_11	of	O
+intrigue_11	court	O
+intrigue_11	intrigue	intrigue_nou

@@ -1,0 +1,12 @@
+transform_37	He	O
+transform_37	can	O
+transform_37	transform	transform
+transform_37	again	O
+transform_37	after	O
+transform_37	he	O
+transform_37	accepts	O
+transform_37	rats	O
+transform_37	back	O
+transform_37	into	O
+transform_37	his	O
+transform_37	heart	O

@@ -1,0 +1,14 @@
+bow_6	The	O
+bow_6	gaunt	O
+bow_6	honesty	O
+bow_6	of	O
+bow_6	those	O
+bow_6	projecting	O
+bow_6	concrete	O
+bow_6	frames	O
+bow_6	carrying	O
+bow_6	boxed	O
+bow_6	out	O
+bow_6	bow	bow_nou-knot
+bow_6	windows	O
+bow_6	persists	O

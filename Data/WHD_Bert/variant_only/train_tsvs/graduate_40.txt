@@ -1,0 +1,17 @@
+graduate_40	Graphmatica	O
+graduate_40	is	O
+graduate_40	a	O
+graduate_40	graphing	O
+graduate_40	program	O
+graduate_40	created	O
+graduate_40	by	O
+graduate_40	Keith	O
+graduate_40	Hertzer	O
+graduate_40	a	O
+graduate_40	graduate	graduate_adj-nou
+graduate_40	of	O
+graduate_40	the	O
+graduate_40	University	O
+graduate_40	of	O
+graduate_40	California	O
+graduate_40	Berkeley	O

@@ -1,0 +1,11 @@
+insult_18	It	O
+insult_18	is	O
+insult_18	a	O
+insult_18	disgrace	O
+insult_18	and	O
+insult_18	an	O
+insult_18	insult	insult_nou
+insult_18	to	O
+insult_18	British	O
+insult_18	Asian	O
+insult_18	actors	O

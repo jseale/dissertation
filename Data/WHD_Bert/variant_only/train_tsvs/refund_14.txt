@@ -1,0 +1,15 @@
+refund_14	As	O
+refund_14	of	O
+refund_14	April	O
+refund_14	2	O
+refund_14	2008	O
+refund_14	customer	O
+refund_14	support	O
+refund_14	states	O
+refund_14	We	O
+refund_14	do	O
+refund_14	not	O
+refund_14	refund	refund_vrb
+refund_14	quick	O
+refund_14	checkout	O
+refund_14	balances	O

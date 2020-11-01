@@ -1,0 +1,10 @@
+transform_70	Naively	O
+transform_70	we	O
+transform_70	might	O
+transform_70	try	O
+transform_70	to	O
+transform_70	apply	O
+transform_70	the	O
+transform_70	MTF	O
+transform_70	transform	transform_nou
+transform_70	directly	O

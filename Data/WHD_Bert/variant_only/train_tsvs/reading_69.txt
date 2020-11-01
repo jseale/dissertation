@@ -1,0 +1,16 @@
+reading_69	Its	O
+reading_69	genome	O
+reading_69	has	O
+reading_69	been	O
+reading_69	sequenced	O
+reading_69	and	O
+reading_69	contains	O
+reading_69	approximately	O
+reading_69	6600	O
+reading_69	nucleotides	O
+reading_69	organized	O
+reading_69	into	O
+reading_69	four	O
+reading_69	open	O
+reading_69	reading	reading_en
+reading_69	frames	O

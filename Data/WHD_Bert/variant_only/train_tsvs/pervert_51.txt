@@ -1,0 +1,17 @@
+pervert_51	In	O
+pervert_51	the	O
+pervert_51	OVA	O
+pervert_51	he	O
+pervert_51	is	O
+pervert_51	a	O
+pervert_51	pervert	pervert_nou
+pervert_51	who	O
+pervert_51	sneaks	O
+pervert_51	in	O
+pervert_51	to	O
+pervert_51	the	O
+pervert_51	Women	O
+pervert_51	's	O
+pervert_51	dorm	O
+pervert_51	and	O
+pervert_51	bath	O

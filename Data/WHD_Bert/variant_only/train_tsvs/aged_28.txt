@@ -1,0 +1,17 @@
+aged_28	Gnarl	O
+aged_28	the	O
+aged_28	aged	aged_adj
+aged_28	Minion	O
+aged_28	advisor	O
+aged_28	from	O
+aged_28	the	O
+aged_28	previous	O
+aged_28	games	O
+aged_28	is	O
+aged_28	the	O
+aged_28	main	O
+aged_28	recurring	O
+aged_28	character	O
+aged_28	in	O
+aged_28	Overlord	O
+aged_28	II	O

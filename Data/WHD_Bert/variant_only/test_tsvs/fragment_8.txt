@@ -1,0 +1,8 @@
+fragment_8	Early	O
+fragment_8	Neanderthal	O
+fragment_8	jaw	O
+fragment_8	fragment	fragment_nou
+fragment_8	c.	O
+fragment_8	230,000	O
+fragment_8	years	O
+fragment_8	old	O

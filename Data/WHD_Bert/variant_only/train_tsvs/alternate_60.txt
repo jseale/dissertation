@@ -1,0 +1,14 @@
+alternate_60	In	O
+alternate_60	the	O
+alternate_60	alternate	alternate_adj-nou
+alternate_60	timeline	O
+alternate_60	of	O
+alternate_60	the	O
+alternate_60	Flashpoint	O
+alternate_60	Madame	O
+alternate_60	Xanadu	O
+alternate_60	is	O
+alternate_60	still	O
+alternate_60	a	O
+alternate_60	fortune	O
+alternate_60	teller	O

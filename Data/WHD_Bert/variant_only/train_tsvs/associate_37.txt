@@ -1,0 +1,17 @@
+associate_37	The	O
+associate_37	doctrine	O
+associate_37	of	O
+associate_37	Tabarra	O
+associate_37	itself	O
+associate_37	does	O
+associate_37	not	O
+associate_37	dictate	O
+associate_37	whom	O
+associate_37	to	O
+associate_37	dissociate	O
+associate_37	from	O
+associate_37	or	O
+associate_37	whom	O
+associate_37	to	O
+associate_37	associate	associate_vrb
+associate_37	with	O

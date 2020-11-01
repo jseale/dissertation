@@ -1,0 +1,16 @@
+excuse_6	First	O
+excuse_6	it	O
+excuse_6	was	O
+excuse_6	implemented	O
+excuse_6	as	O
+excuse_6	a	O
+excuse_6	preventive	O
+excuse_6	war	O
+excuse_6	and	O
+excuse_6	as	O
+excuse_6	an	O
+excuse_6	excuse	excuse_nou
+excuse_6	to	O
+excuse_6	act	O
+excuse_6	pre	O
+excuse_6	emptively	O

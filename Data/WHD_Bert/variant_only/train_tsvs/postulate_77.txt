@@ -1,0 +1,13 @@
+postulate_77	Another	O
+postulate_77	postulate	postulate_nou
+postulate_77	of	O
+postulate_77	special	O
+postulate_77	relativity	O
+postulate_77	is	O
+postulate_77	the	O
+postulate_77	constancy	O
+postulate_77	of	O
+postulate_77	the	O
+postulate_77	speed	O
+postulate_77	of	O
+postulate_77	light	O

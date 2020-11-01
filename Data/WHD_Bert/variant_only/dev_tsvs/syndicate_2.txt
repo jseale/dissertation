@@ -1,0 +1,17 @@
+syndicate_2	In	O
+syndicate_2	the	O
+syndicate_2	Franco	O
+syndicate_2	era	O
+syndicate_2	he	O
+syndicate_2	served	O
+syndicate_2	as	O
+syndicate_2	provincial	O
+syndicate_2	president	O
+syndicate_2	of	O
+syndicate_2	the	O
+syndicate_2	metal	O
+syndicate_2	syndicate	syndicate_nou
+syndicate_2	from	O
+syndicate_2	1963	O
+syndicate_2	to	O
+syndicate_2	1966	O

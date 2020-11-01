@@ -1,0 +1,12 @@
+separate_17	Stationing	O
+separate_17	10,000	O
+separate_17	troops	O
+separate_17	to	O
+separate_17	separate	separate_vrb
+separate_17	American	O
+separate_17	Indians	O
+separate_17	and	O
+separate_17	frontiersmen	O
+separate_17	was	O
+separate_17	one	O
+separate_17	role	O

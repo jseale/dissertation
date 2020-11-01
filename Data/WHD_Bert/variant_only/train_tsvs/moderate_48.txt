@@ -1,0 +1,13 @@
+moderate_48	Kuala	O
+moderate_48	Lumpur	O
+moderate_48	has	O
+moderate_48	moderate	moderate_adj-nou
+moderate_48	pollution	O
+moderate_48	compared	O
+moderate_48	to	O
+moderate_48	other	O
+moderate_48	modern	O
+moderate_48	cities	O
+moderate_48	in	O
+moderate_48	the	O
+moderate_48	world	O

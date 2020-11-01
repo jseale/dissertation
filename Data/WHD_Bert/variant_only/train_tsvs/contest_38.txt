@@ -1,0 +1,16 @@
+contest_38	He	O
+contest_38	was	O
+contest_38	eliminated	O
+contest_38	from	O
+contest_38	the	O
+contest_38	contest	contest_nou
+contest_38	and	O
+contest_38	gave	O
+contest_38	his	O
+contest_38	support	O
+contest_38	to	O
+contest_38	Grossman	O
+contest_38	a	O
+contest_38	fellow	O
+contest_38	Red	O
+contest_38	Tory	O

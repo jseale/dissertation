@@ -1,0 +1,17 @@
+fragment_49	Sword	O
+fragment_49	Art	O
+fragment_49	Online	O
+fragment_49	Hollow	O
+fragment_49	Fragment	fragment_nou
+fragment_49	is	O
+fragment_49	a	O
+fragment_49	PlayStation	O
+fragment_49	Vita	O
+fragment_49	game	O
+fragment_49	released	O
+fragment_49	in	O
+fragment_49	Japan	O
+fragment_49	on	O
+fragment_49	April	O
+fragment_49	24	O
+fragment_49	2014	O

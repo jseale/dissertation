@@ -1,0 +1,14 @@
+implement_49	Knives	O
+implement_49	are	O
+implement_49	also	O
+implement_49	used	O
+implement_49	as	O
+implement_49	a	O
+implement_49	traditional	O
+implement_49	or	O
+implement_49	religious	O
+implement_49	implement	implement_nou
+implement_49	such	O
+implement_49	as	O
+implement_49	the	O
+implement_49	kirpan	O

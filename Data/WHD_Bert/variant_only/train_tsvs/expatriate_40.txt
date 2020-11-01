@@ -1,0 +1,16 @@
+expatriate_40	He	O
+expatriate_40	was	O
+expatriate_40	assisted	O
+expatriate_40	by	O
+expatriate_40	his	O
+expatriate_40	brother	O
+expatriate_40	Emmanuel	O
+expatriate_40	as	O
+expatriate_40	well	O
+expatriate_40	as	O
+expatriate_40	two	O
+expatriate_40	expatriate	expatriate_nou
+expatriate_40	Poles	O
+expatriate_40	Marek	O
+expatriate_40	and	O
+expatriate_40	Podrabsky	O

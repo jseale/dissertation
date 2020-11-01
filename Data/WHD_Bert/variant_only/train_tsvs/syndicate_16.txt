@@ -1,0 +1,16 @@
+syndicate_16	The	O
+syndicate_16	syndicate	syndicate_nou
+syndicate_16	distributed	O
+syndicate_16	both	O
+syndicate_16	Montague	O
+syndicate_16	's	O
+syndicate_16	poems	O
+syndicate_16	and	O
+syndicate_16	light	O
+syndicate_16	fiction	O
+syndicate_16	pieces	O
+syndicate_16	all	O
+syndicate_16	under	O
+syndicate_16	his	O
+syndicate_16	own	O
+syndicate_16	copyright	O

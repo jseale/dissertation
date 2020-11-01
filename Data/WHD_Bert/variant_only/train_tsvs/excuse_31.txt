@@ -1,0 +1,15 @@
+excuse_31	The	O
+excuse_31	excuse	excuse_nou
+excuse_31	provides	O
+excuse_31	a	O
+excuse_31	mitigating	O
+excuse_31	factor	O
+excuse_31	for	O
+excuse_31	a	O
+excuse_31	group	O
+excuse_31	of	O
+excuse_31	persons	O
+excuse_31	sharing	O
+excuse_31	a	O
+excuse_31	common	O
+excuse_31	characteristic	O

@@ -1,0 +1,12 @@
+discard_73	Singaporean	O
+discard_73	Mahjong	O
+discard_73	uses	O
+discard_73	the	O
+discard_73	Traditional	O
+discard_73	Prohibition	O
+discard_73	Rules	O
+discard_73	concerning	O
+discard_73	Sacred	O
+discard_73	Discard	discard_nou
+discard_73	Missed	O
+discard_73	Discard	discard_nou

@@ -1,0 +1,16 @@
+delegate_37	She	O
+delegate_37	served	O
+delegate_37	as	O
+delegate_37	a	O
+delegate_37	federal	O
+delegate_37	delegate	delegate_nou
+delegate_37	from	O
+delegate_37	the	O
+delegate_37	state	O
+delegate_37	of	O
+delegate_37	Guanajuato	O
+delegate_37	to	O
+delegate_37	the	O
+delegate_37	53rd	O
+delegate_37	Mexican	O
+delegate_37	legislature	O

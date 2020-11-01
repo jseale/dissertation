@@ -1,0 +1,14 @@
+buffet_14	The	O
+buffet_14	waiting	O
+buffet_14	room	O
+buffet_14	on	O
+buffet_14	platform	O
+buffet_14	2	O
+buffet_14	and	O
+buffet_14	the	O
+buffet_14	station	O
+buffet_14	buffet	buffet_nou
+buffet_14	have	O
+buffet_14	also	O
+buffet_14	been	O
+buffet_14	refurbished	O

@@ -1,0 +1,13 @@
+transform_14	There	O
+transform_14	is	O
+transform_14	also	O
+transform_14	an	O
+transform_14	analogue	O
+transform_14	of	O
+transform_14	the	O
+transform_14	convolution	O
+transform_14	theorem	O
+transform_14	for	O
+transform_14	the	O
+transform_14	Hartley	O
+transform_14	transform	transform_nou

@@ -1,0 +1,14 @@
+deviate_3	Once	O
+deviate_3	budget	O
+deviate_3	is	O
+deviate_3	approved	O
+deviate_3	the	O
+deviate_3	Government	O
+deviate_3	has	O
+deviate_3	no	O
+deviate_3	right	O
+deviate_3	to	O
+deviate_3	deviate	deviate_vrb
+deviate_3	from	O
+deviate_3	these	O
+deviate_3	sanctions	O

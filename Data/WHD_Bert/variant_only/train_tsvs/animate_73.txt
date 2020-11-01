@@ -1,0 +1,13 @@
+animate_73	The	O
+animate_73	late	O
+animate_73	release	O
+animate_73	was	O
+animate_73	due	O
+animate_73	to	O
+animate_73	the	O
+animate_73	decision	O
+animate_73	to	O
+animate_73	animate	animate_vrb
+animate_73	a	O
+animate_73	new	O
+animate_73	ending	O

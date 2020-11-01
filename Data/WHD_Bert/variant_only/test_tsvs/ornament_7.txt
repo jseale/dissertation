@@ -1,0 +1,12 @@
+ornament_7	Carey	O
+ornament_7	is	O
+ornament_7	relegated	O
+ornament_7	to	O
+ornament_7	a	O
+ornament_7	virtual	O
+ornament_7	hood	O
+ornament_7	ornament	ornament_nou
+ornament_7	of	O
+ornament_7	Do	O
+ornament_7	n't	O
+ornament_7	Stop	O

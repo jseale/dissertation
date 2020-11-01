@@ -1,0 +1,12 @@
+aggregate_5	The	O
+aggregate_5	film	O
+aggregate_5	's	O
+aggregate_5	aggregate	aggregate_adj-nou
+aggregate_5	score	O
+aggregate_5	at	O
+aggregate_5	Metacritic	O
+aggregate_5	is	O
+aggregate_5	64	O
+aggregate_5	out	O
+aggregate_5	of	O
+aggregate_5	100	O

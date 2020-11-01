@@ -1,0 +1,8 @@
+approximate_75	An	O
+approximate_75	approximate	approximate_adj-nou
+approximate_75	chemical	O
+approximate_75	formula	O
+approximate_75	for	O
+approximate_75	beeswax	O
+approximate_75	is	O
+approximate_75	C₁₅H₃₁COOC₃₀H₆₁.	O

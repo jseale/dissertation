@@ -1,0 +1,13 @@
+initiate_6	The	O
+initiate_6	patient	O
+initiate_6	can	O
+initiate_6	also	O
+initiate_6	initiate	initiate_vrb
+initiate_6	plan	O
+initiate_6	execute	O
+initiate_6	and	O
+initiate_6	assume	O
+initiate_6	responsibilities	O
+initiate_6	associated	O
+initiate_6	with	O
+initiate_6	homemaking	O

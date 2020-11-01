@@ -1,0 +1,15 @@
+resume_74	June	O
+resume_74	1	O
+resume_74	1935	O
+resume_74	Full	O
+resume_74	page	O
+resume_74	Sunday	O
+resume_74	strips	O
+resume_74	resume	resume_vrb
+resume_74	now	O
+resume_74	in	O
+resume_74	color	O
+resume_74	until	O
+resume_74	Herriman	O
+resume_74	's	O
+resume_74	death	O

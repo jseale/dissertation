@@ -1,0 +1,12 @@
+advocate_64	At	O
+advocate_64	Microsoft	O
+advocate_64	Hedrick	O
+advocate_64	was	O
+advocate_64	a	O
+advocate_64	prominent	O
+advocate_64	advocate	advocate_nou
+advocate_64	of	O
+advocate_64	bridging	O
+advocate_64	the	O
+advocate_64	digital	O
+advocate_64	divide	O

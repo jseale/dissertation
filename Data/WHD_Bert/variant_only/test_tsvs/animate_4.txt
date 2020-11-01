@@ -1,0 +1,14 @@
+animate_4	After	O
+animate_4	viewing	O
+animate_4	Duncan	O
+animate_4	's	O
+animate_4	online	O
+animate_4	portfolio	O
+animate_4	LaPlegua	O
+animate_4	quickly	O
+animate_4	asked	O
+animate_4	Duncan	O
+animate_4	to	O
+animate_4	animate	animate_vrb
+animate_4	the	O
+animate_4	video	O

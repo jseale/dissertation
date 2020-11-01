@@ -1,0 +1,14 @@
+axes_75	Reeling	O
+axes_75	from	O
+axes_75	the	O
+axes_75	impact	O
+axes_75	the	O
+axes_75	warriors	O
+axes_75	drew	O
+axes_75	their	O
+axes_75	axes	axes_nou-vrb
+axes_75	and	O
+axes_75	charged	O
+axes_75	a	O
+axes_75	fourth	O
+axes_75	time	O

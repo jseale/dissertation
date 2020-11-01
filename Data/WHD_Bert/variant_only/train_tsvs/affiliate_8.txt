@@ -1,0 +1,17 @@
+affiliate_8	KERO	O
+affiliate_8	TV	O
+affiliate_8	went	O
+affiliate_8	on	O
+affiliate_8	the	O
+affiliate_8	air	O
+affiliate_8	on	O
+affiliate_8	September	O
+affiliate_8	26	O
+affiliate_8	1953	O
+affiliate_8	on	O
+affiliate_8	channel	O
+affiliate_8	10	O
+affiliate_8	as	O
+affiliate_8	an	O
+affiliate_8	NBC	O
+affiliate_8	affiliate	affiliate_nou

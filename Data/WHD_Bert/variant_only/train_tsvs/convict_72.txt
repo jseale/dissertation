@@ -1,0 +1,17 @@
+convict_72	His	O
+convict_72	early	O
+convict_72	activity	O
+convict_72	involved	O
+convict_72	lobbying	O
+convict_72	for	O
+convict_72	increased	O
+convict_72	European	O
+convict_72	immigration	O
+convict_72	and	O
+convict_72	the	O
+convict_72	widespread	O
+convict_72	anti	O
+convict_72	convict	convict_nou
+convict_72	agitation	O
+convict_72	of	O
+convict_72	1849	O

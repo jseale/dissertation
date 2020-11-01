@@ -1,0 +1,17 @@
+discard_0	He	O
+discard_0	took	O
+discard_0	a	O
+discard_0	leading	O
+discard_0	part	O
+discard_0	in	O
+discard_0	the	O
+discard_0	vestiarian	O
+discard_0	controversy	O
+discard_0	and	O
+discard_0	persuaded	O
+discard_0	the	O
+discard_0	college	O
+discard_0	to	O
+discard_0	discard	discard_vrb
+discard_0	the	O
+discard_0	surplice	O

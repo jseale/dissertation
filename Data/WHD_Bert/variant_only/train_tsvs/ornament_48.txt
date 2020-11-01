@@ -1,0 +1,8 @@
+ornament_48	The	O
+ornament_48	garment	O
+ornament_48	varied	O
+ornament_48	in	O
+ornament_48	fineness	O
+ornament_48	colour	O
+ornament_48	and	O
+ornament_48	ornament	ornament_nou

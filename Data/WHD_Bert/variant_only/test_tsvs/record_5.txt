@@ -1,0 +1,13 @@
+record_5	The	O
+record_5	game	O
+record_5	occurred	O
+record_5	before	O
+record_5	a	O
+record_5	record	record_nou
+record_5	crowd	O
+record_5	of	O
+record_5	63,442	O
+record_5	at	O
+record_5	Doak	O
+record_5	Campbell	O
+record_5	Stadium	O

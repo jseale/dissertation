@@ -1,0 +1,17 @@
+axes_73	The	O
+axes_73	axes	axes_nou-vrb
+axes_73	dated	O
+axes_73	from	O
+axes_73	the	O
+axes_73	first	O
+axes_73	through	O
+axes_73	nineteenth	O
+axes_73	centuries	O
+axes_73	are	O
+axes_73	considered	O
+axes_73	particularly	O
+axes_73	characteristic	O
+axes_73	of	O
+axes_73	the	O
+axes_73	Tsebelda	O
+axes_73	culture	O

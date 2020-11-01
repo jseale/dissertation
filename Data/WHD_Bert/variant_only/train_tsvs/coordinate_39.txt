@@ -1,0 +1,7 @@
+coordinate_39	The	O
+coordinate_39	independent	O
+coordinate_39	coordinate	coordinate_adj-nou
+coordinate_39	has	O
+coordinate_39	sense	O
+coordinate_39	of	O
+coordinate_39	time	O

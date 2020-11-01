@@ -1,0 +1,16 @@
+separate_3	The	O
+separate_3	club	O
+separate_3	was	O
+separate_3	part	O
+separate_3	of	O
+separate_3	the	O
+separate_3	separate	separate_adj
+separate_3	football	O
+separate_3	competition	O
+separate_3	that	O
+separate_3	emerged	O
+separate_3	in	O
+separate_3	Soviet	O
+separate_3	occupied	O
+separate_3	East	O
+separate_3	Germany	O

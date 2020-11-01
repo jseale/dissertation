@@ -1,0 +1,13 @@
+contrast_20	In	O
+contrast_20	contrast	contrast_nou
+contrast_20	to	O
+contrast_20	other	O
+contrast_20	types	O
+contrast_20	of	O
+contrast_20	generators	O
+contrast_20	the	O
+contrast_20	output	O
+contrast_20	voltage	O
+contrast_20	never	O
+contrast_20	changes	O
+contrast_20	polarity	O

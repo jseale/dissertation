@@ -1,0 +1,16 @@
+analyses_73	Match	O
+analyses_73	previews	O
+analyses_73	point	O
+analyses_73	tables	O
+analyses_73	graphics	O
+analyses_73	key	O
+analyses_73	factors	O
+analyses_73	graphics	O
+analyses_73	and	O
+analyses_73	other	O
+analyses_73	analyses	analyses_nou
+analyses_73	are	O
+analyses_73	displayed	O
+analyses_73	and	O
+analyses_73	discussed	O
+analyses_73	graphically	O

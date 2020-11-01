@@ -1,0 +1,14 @@
+contrast_28	In	O
+contrast_28	contrast	contrast_nou
+contrast_28	carbon	O
+contrast_28	dioxide	O
+contrast_28	is	O
+contrast_28	mostly	O
+contrast_28	transported	O
+contrast_28	extracellularly	O
+contrast_28	as	O
+contrast_28	bicarbonate	O
+contrast_28	ion	O
+contrast_28	transported	O
+contrast_28	in	O
+contrast_28	plasma	O

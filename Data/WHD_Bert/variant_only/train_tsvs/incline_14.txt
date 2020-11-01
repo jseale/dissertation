@@ -1,0 +1,17 @@
+incline_14	Whichever	O
+incline_14	way	O
+incline_14	the	O
+incline_14	branches	O
+incline_14	of	O
+incline_14	the	O
+incline_14	bit	O
+incline_14	incline	incline_vrb
+incline_14	the	O
+incline_14	horse	O
+incline_14	's	O
+incline_14	mouth	O
+incline_14	always	O
+incline_14	goes	O
+incline_14	to	O
+incline_14	the	O
+incline_14	contrary	O

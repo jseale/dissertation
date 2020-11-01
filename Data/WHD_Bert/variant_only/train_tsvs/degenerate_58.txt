@@ -1,0 +1,15 @@
+degenerate_58	The	O
+degenerate_58	role	O
+degenerate_58	of	O
+degenerate_58	degenerate	degenerate_adj-nou
+degenerate_58	robustness	O
+degenerate_58	in	O
+degenerate_58	the	O
+degenerate_58	evolvability	O
+degenerate_58	of	O
+degenerate_58	multi	O
+degenerate_58	agent	O
+degenerate_58	systems	O
+degenerate_58	in	O
+degenerate_58	dynamic	O
+degenerate_58	environments	O

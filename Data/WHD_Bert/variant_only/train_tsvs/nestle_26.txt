@@ -1,0 +1,13 @@
+nestle_26	When	O
+nestle_26	Nestle	nestle_nam
+nestle_26	decided	O
+nestle_26	to	O
+nestle_26	invest	O
+nestle_26	in	O
+nestle_26	an	O
+nestle_26	intranet	O
+nestle_26	they	O
+nestle_26	quickly	O
+nestle_26	realized	O
+nestle_26	the	O
+nestle_26	savings	O

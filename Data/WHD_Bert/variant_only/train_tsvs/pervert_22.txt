@@ -1,0 +1,16 @@
+pervert_22	Sir	O
+pervert_22	Richard	O
+pervert_22	testified	O
+pervert_22	that	O
+pervert_22	he	O
+pervert_22	disliked	O
+pervert_22	their	O
+pervert_22	intercourse	O
+pervert_22	because	O
+pervert_22	Mrs.	O
+pervert_22	Vaux	O
+pervert_22	tried	O
+pervert_22	to	O
+pervert_22	pervert	pervert_vrb
+pervert_22	his	O
+pervert_22	wife	O

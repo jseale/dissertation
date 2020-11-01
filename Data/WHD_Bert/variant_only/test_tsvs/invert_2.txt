@@ -1,0 +1,16 @@
+invert_2	On	O
+invert_2	this	O
+invert_2	original	O
+invert_2	I	O
+invert_2	attempted	O
+invert_2	to	O
+invert_2	invert	invert_vrb
+invert_2	the	O
+invert_2	tragic	O
+invert_2	and	O
+invert_2	magic	O
+invert_2	or	O
+invert_2	was	O
+invert_2	I	O
+invert_2	just	O
+invert_2	tired	O

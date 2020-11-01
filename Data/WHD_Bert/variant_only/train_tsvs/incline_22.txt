@@ -1,0 +1,16 @@
+incline_22	During	O
+incline_22	incline	incline_nou
+incline_22	running	O
+incline_22	increases	O
+incline_22	in	O
+incline_22	activation	O
+incline_22	of	O
+incline_22	the	O
+incline_22	rectus	O
+incline_22	femoris	O
+incline_22	and	O
+incline_22	gastrocnemius	O
+incline_22	were	O
+incline_22	noted	O
+incline_22	by	O
+incline_22	Cai	O

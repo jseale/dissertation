@@ -1,0 +1,17 @@
+combine_73	So	O
+combine_73	you	O
+combine_73	combine	combine_vrb
+combine_73	all	O
+combine_73	that	O
+combine_73	with	O
+combine_73	the	O
+combine_73	heavy	O
+combine_73	riffs	O
+combine_73	and	O
+combine_73	the	O
+combine_73	speed	O
+combine_73	and	O
+combine_73	you	O
+combine_73	've	O
+combine_73	got	O
+combine_73	it	O

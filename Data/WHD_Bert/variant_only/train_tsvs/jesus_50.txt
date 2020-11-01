@@ -1,0 +1,12 @@
+jesus_50	One	O
+jesus_50	change	O
+jesus_50	is	O
+jesus_50	that	O
+jesus_50	in	O
+jesus_50	Mark	O
+jesus_50	the	O
+jesus_50	Jesus	jesus
+jesus_50	is	O
+jesus_50	called	O
+jesus_50	the	O
+jesus_50	Nazarean	O

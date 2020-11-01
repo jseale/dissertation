@@ -1,0 +1,12 @@
+contract_70	Rule	O
+contract_70	's	O
+contract_70	Warner	O
+contract_70	contract	contract_nou
+contract_70	was	O
+contract_70	allowed	O
+contract_70	to	O
+contract_70	lapse	O
+contract_70	after	O
+contract_70	only	O
+contract_70	two	O
+contract_70	films	O

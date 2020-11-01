@@ -1,0 +1,10 @@
+project_44	The	O
+project_44	project	project_nou
+project_44	implementation	O
+project_44	was	O
+project_44	assisted	O
+project_44	by	O
+project_44	China	O
+project_44	for	O
+project_44	sugarcane	O
+project_44	cultivation	O

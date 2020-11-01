@@ -1,0 +1,11 @@
+retard_45	Bence	O
+retard_45	Jones	O
+retard_45	protein	O
+retard_45	may	O
+retard_45	bind	O
+retard_45	to	O
+retard_45	and	O
+retard_45	retard	retard_vrb
+retard_45	the	O
+retard_45	alpha-1	O
+retard_45	band	O

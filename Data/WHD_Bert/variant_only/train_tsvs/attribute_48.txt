@@ -1,0 +1,15 @@
+attribute_48	Algorithmic	O
+attribute_48	requirements	O
+attribute_48	differ	O
+attribute_48	substantially	O
+attribute_48	for	O
+attribute_48	relational	O
+attribute_48	attribute	attribute_nou
+attribute_48	data	O
+attribute_48	management	O
+attribute_48	and	O
+attribute_48	for	O
+attribute_48	topological	O
+attribute_48	feature	O
+attribute_48	data	O
+attribute_48	management	O

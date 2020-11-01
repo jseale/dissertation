@@ -1,0 +1,15 @@
+reject_43	The	O
+reject_43	books	O
+reject_43	of	O
+reject_43	Ruth	O
+reject_43	and	O
+reject_43	Jonah	O
+reject_43	reject	reject_vrb
+reject_43	the	O
+reject_43	racialization	O
+reject_43	of	O
+reject_43	the	O
+reject_43	Israelite	O
+reject_43	religion	O
+reject_43	by	O
+reject_43	Ezra	O

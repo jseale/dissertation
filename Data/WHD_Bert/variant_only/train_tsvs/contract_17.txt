@@ -1,0 +1,15 @@
+contract_17	On	O
+contract_17	July	O
+contract_17	20	O
+contract_17	he	O
+contract_17	agreed	O
+contract_17	to	O
+contract_17	terms	O
+contract_17	on	O
+contract_17	a	O
+contract_17	four	O
+contract_17	year	O
+contract_17	contract	contract_nou
+contract_17	with	O
+contract_17	the	O
+contract_17	team	O

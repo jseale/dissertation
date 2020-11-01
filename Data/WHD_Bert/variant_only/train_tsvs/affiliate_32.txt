@@ -1,0 +1,15 @@
+affiliate_32	In	O
+affiliate_32	1978	O
+affiliate_32	HSBC	O
+affiliate_32	was	O
+affiliate_32	forced	O
+affiliate_32	to	O
+affiliate_32	convert	O
+affiliate_32	its	O
+affiliate_32	branches	O
+affiliate_32	into	O
+affiliate_32	an	O
+affiliate_32	affiliate	affiliate_nou
+affiliate_32	Saudi	O
+affiliate_32	British	O
+affiliate_32	Bank	O

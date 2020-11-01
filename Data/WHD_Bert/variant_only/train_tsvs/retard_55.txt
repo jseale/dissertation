@@ -1,0 +1,14 @@
+retard_55	It	O
+retard_55	is	O
+retard_55	unclear	O
+retard_55	how	O
+retard_55	long	O
+retard_55	the	O
+retard_55	ceramic	O
+retard_55	form	O
+retard_55	will	O
+retard_55	retard	retard_vrb
+retard_55	the	O
+retard_55	release	O
+retard_55	of	O
+retard_55	radioactivity	O

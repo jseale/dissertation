@@ -1,0 +1,14 @@
+deviate_37	To	O
+deviate_37	deviate	deviate_vrb
+deviate_37	from	O
+deviate_37	a	O
+deviate_37	bloody	O
+deviate_37	approach	O
+deviate_37	the	O
+deviate_37	Sultan	O
+deviate_37	had	O
+deviate_37	come	O
+deviate_37	up	O
+deviate_37	with	O
+deviate_37	this	O
+deviate_37	decision	O

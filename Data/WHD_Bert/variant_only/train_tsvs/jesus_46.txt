@@ -1,0 +1,14 @@
+jesus_46	There	O
+jesus_46	Jesus	jesus
+jesus_46	encounters	O
+jesus_46	the	O
+jesus_46	Pharisees	O
+jesus_46	who	O
+jesus_46	ask	O
+jesus_46	him	O
+jesus_46	to	O
+jesus_46	perform	O
+jesus_46	a	O
+jesus_46	miracle	O
+jesus_46	for	O
+jesus_46	them	O

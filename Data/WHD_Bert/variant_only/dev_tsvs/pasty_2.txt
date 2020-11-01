@@ -1,0 +1,14 @@
+pasty_2	Cornish	O
+pasty_2	food	O
+pasty_2	like	O
+pasty_2	the	O
+pasty_2	Cornish	O
+pasty_2	pasty	pasty_adj
+pasty_2	is	O
+pasty_2	still	O
+pasty_2	popular	O
+pasty_2	amongst	O
+pasty_2	the	O
+pasty_2	Cornish	O
+pasty_2	Australian	O
+pasty_2	communities	O

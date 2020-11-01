@@ -1,0 +1,16 @@
+invalid_30	They	O
+invalid_30	claimed	O
+invalid_30	therefore	O
+invalid_30	that	O
+invalid_30	the	O
+invalid_30	decision	O
+invalid_30	was	O
+invalid_30	invalid	invalid_adj
+invalid_30	and	O
+invalid_30	unlawful	O
+invalid_30	and	O
+invalid_30	sought	O
+invalid_30	a	O
+invalid_30	declaration	O
+invalid_30	and	O
+invalid_30	injunction	O

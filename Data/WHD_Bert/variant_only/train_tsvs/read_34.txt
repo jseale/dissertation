@@ -1,0 +1,14 @@
+read_34	He	O
+read_34	is	O
+read_34	the	O
+read_34	author	O
+read_34	of	O
+read_34	original	O
+read_34	treatises	O
+read_34	of	O
+read_34	metaphysics	O
+read_34	which	O
+read_34	Descartes	O
+read_34	would	O
+read_34	later	O
+read_34	read	read_present

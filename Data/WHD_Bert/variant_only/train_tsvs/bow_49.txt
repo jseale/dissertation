@@ -1,0 +1,9 @@
+bow_49	At	O
+bow_49	bow	bow_nou-ship
+bow_49	and	O
+bow_49	stern	O
+bow_49	it	O
+bow_49	was	O
+bow_49	six	O
+bow_49	inches	O
+bow_49	thick	O

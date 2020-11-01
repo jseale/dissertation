@@ -1,0 +1,17 @@
+suspect_32	The	O
+suspect_32	FBI	O
+suspect_32	also	O
+suspect_32	had	O
+suspect_32	information	O
+suspect_32	that	O
+suspect_32	Adams	O
+suspect_32	was	O
+suspect_32	a	O
+suspect_32	contributing	O
+suspect_32	member	O
+suspect_32	of	O
+suspect_32	a	O
+suspect_32	suspect	suspect_adj-nou
+suspect_32	Japanese	O
+suspect_32	propaganda	O
+suspect_32	magazine	O

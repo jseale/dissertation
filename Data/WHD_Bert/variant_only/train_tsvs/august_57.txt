@@ -1,0 +1,12 @@
+august_57	In	O
+august_57	August	august
+august_57	Baglioni	O
+august_57	was	O
+august_57	at	O
+august_57	the	O
+august_57	siege	O
+august_57	of	O
+august_57	Mahdia	O
+august_57	with	O
+august_57	Giordano	O
+august_57	Orsini	O

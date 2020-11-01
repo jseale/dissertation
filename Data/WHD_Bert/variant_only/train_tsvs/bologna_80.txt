@@ -1,0 +1,17 @@
+bologna_80	He	O
+bologna_80	obtained	O
+bologna_80	a	O
+bologna_80	theology	O
+bologna_80	degree	O
+bologna_80	in	O
+bologna_80	1653	O
+bologna_80	and	O
+bologna_80	was	O
+bologna_80	appointed	O
+bologna_80	a	O
+bologna_80	canon	O
+bologna_80	in	O
+bologna_80	Bologna	bologna_geo
+bologna_80	Cathedral	O
+bologna_80	in	O
+bologna_80	1662	O

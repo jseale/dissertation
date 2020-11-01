@@ -1,0 +1,15 @@
+fragment_45	The	O
+fragment_45	fragment	fragment_nou
+fragment_45	is	O
+fragment_45	not	O
+fragment_45	cited	O
+fragment_45	in	O
+fragment_45	critical	O
+fragment_45	editions	O
+fragment_45	of	O
+fragment_45	the	O
+fragment_45	Greek	O
+fragment_45	New	O
+fragment_45	Testament	O
+fragment_45	UBS4	O
+fragment_45	NA28	O

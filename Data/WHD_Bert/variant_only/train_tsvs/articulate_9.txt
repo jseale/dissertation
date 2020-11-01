@@ -1,0 +1,14 @@
+articulate_9	He	O
+articulate_9	was	O
+articulate_9	articulate	articulate_adj
+articulate_9	in	O
+articulate_9	several	O
+articulate_9	fields	O
+articulate_9	of	O
+articulate_9	the	O
+articulate_9	arts	O
+articulate_9	and	O
+articulate_9	a	O
+articulate_9	very	O
+articulate_9	impressive	O
+articulate_9	scientist	O

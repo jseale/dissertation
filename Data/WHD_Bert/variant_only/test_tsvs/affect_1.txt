@@ -1,0 +1,16 @@
+affect_1	These	O
+affect_1	forms	O
+affect_1	of	O
+affect_1	the	O
+affect_1	virus	O
+affect_1	can	O
+affect_1	cause	O
+affect_1	human	O
+affect_1	illness	O
+affect_1	but	O
+affect_1	generally	O
+affect_1	do	O
+affect_1	not	O
+affect_1	affect	affect
+affect_1	equine	O
+affect_1	health	O

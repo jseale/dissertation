@@ -1,0 +1,16 @@
+increase_42	The	O
+increase_42	use	O
+increase_42	of	O
+increase_42	antibiotics	O
+increase_42	to	O
+increase_42	increase	increase_vrb
+increase_42	the	O
+increase_42	growth	O
+increase_42	of	O
+increase_42	pigs	O
+increase_42	is	O
+increase_42	most	O
+increase_42	studied	O
+increase_42	of	O
+increase_42	all	O
+increase_42	livestock	O

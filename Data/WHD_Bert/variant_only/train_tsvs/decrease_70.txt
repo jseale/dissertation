@@ -1,0 +1,14 @@
+decrease_70	If	O
+decrease_70	either	O
+decrease_70	residue	O
+decrease_70	exhibits	O
+decrease_70	a	O
+decrease_70	mutation	O
+decrease_70	can	O
+decrease_70	result	O
+decrease_70	in	O
+decrease_70	a	O
+decrease_70	decrease	decrease_nou
+decrease_70	in	O
+decrease_70	CRAT	O
+decrease_70	activity	O

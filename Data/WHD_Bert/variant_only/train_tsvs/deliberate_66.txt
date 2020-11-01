@@ -1,0 +1,14 @@
+deliberate_66	Opera	O
+deliberate_66	was	O
+deliberate_66	developed	O
+deliberate_66	as	O
+deliberate_66	a	O
+deliberate_66	deliberate	deliberate_adj
+deliberate_66	attempt	O
+deliberate_66	to	O
+deliberate_66	resurrect	O
+deliberate_66	the	O
+deliberate_66	music	O
+deliberate_66	of	O
+deliberate_66	ancient	O
+deliberate_66	Greece	O

@@ -1,0 +1,15 @@
+invert_50	The	O
+invert_50	board	O
+invert_50	of	O
+invert_50	directors	O
+invert_50	induce	O
+invert_50	Nelson	O
+invert_50	to	O
+invert_50	partake	O
+invert_50	in	O
+invert_50	an	O
+invert_50	experiment	O
+invert_50	to	O
+invert_50	re	O
+invert_50	invert	invert_vrb
+invert_50	him	O

@@ -1,0 +1,9 @@
+misuse_16	Short	O
+misuse_16	sighted	O
+misuse_16	misuse	misuse_nou
+misuse_16	of	O
+misuse_16	that	O
+misuse_16	power	O
+misuse_16	can	O
+misuse_16	ruin	O
+misuse_16	everything	O

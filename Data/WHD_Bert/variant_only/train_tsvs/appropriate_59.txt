@@ -1,0 +1,15 @@
+appropriate_59	The	O
+appropriate_59	keyboard	O
+appropriate_59	plays	O
+appropriate_59	a	O
+appropriate_59	chord	O
+appropriate_59	voicing	O
+appropriate_59	and	O
+appropriate_59	rhythm	O
+appropriate_59	which	O
+appropriate_59	is	O
+appropriate_59	appropriate	appropriate_adj
+appropriate_59	for	O
+appropriate_59	the	O
+appropriate_59	selected	O
+appropriate_59	genre	O

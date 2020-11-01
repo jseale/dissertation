@@ -1,0 +1,15 @@
+recount_13	An	O
+recount_13	official	O
+recount_13	recount	recount_nou
+recount_13	was	O
+recount_13	held	O
+recount_13	November	O
+recount_13	5	O
+recount_13	and	O
+recount_13	was	O
+recount_13	still	O
+recount_13	found	O
+recount_13	to	O
+recount_13	be	O
+recount_13	a	O
+recount_13	tie	O

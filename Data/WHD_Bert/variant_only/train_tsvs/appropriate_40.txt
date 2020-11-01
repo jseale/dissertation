@@ -1,0 +1,17 @@
+appropriate_40	Examples	O
+appropriate_40	of	O
+appropriate_40	appropriate	appropriate_adj
+appropriate_40	live	O
+appropriate_40	foods	O
+appropriate_40	include	O
+appropriate_40	scorpions	O
+appropriate_40	centipedes	O
+appropriate_40	mealworms	O
+appropriate_40	crickets	O
+appropriate_40	shrimps	O
+appropriate_40	feeder	O
+appropriate_40	fish	O
+appropriate_40	small	O
+appropriate_40	frogs	O
+appropriate_40	and	O
+appropriate_40	earthworms	O

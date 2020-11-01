@@ -1,0 +1,16 @@
+defect_80	The	O
+defect_80	mesh	O
+defect_80	is	O
+defect_80	placed	O
+defect_80	either	O
+defect_80	over	O
+defect_80	the	O
+defect_80	defect	defect_nou
+defect_80	anterior	O
+defect_80	repair	O
+defect_80	or	O
+defect_80	under	O
+defect_80	the	O
+defect_80	defect	defect_nou
+defect_80	posterior	O
+defect_80	repair	O

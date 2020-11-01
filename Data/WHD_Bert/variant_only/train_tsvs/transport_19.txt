@@ -1,0 +1,14 @@
+transport_19	It	O
+transport_19	runs	O
+transport_19	as	O
+transport_19	one	O
+transport_19	of	O
+transport_19	the	O
+transport_19	important	O
+transport_19	German	O
+transport_19	transport	transport_nou
+transport_19	routes	O
+transport_19	along	O
+transport_19	the	O
+transport_19	Regnitz	O
+transport_19	Valley	O

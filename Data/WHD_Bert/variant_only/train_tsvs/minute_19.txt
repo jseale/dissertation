@@ -1,0 +1,12 @@
+minute_19	However	O
+minute_19	if	O
+minute_19	the	O
+minute_19	live	O
+minute_19	player	O
+minute_19	was	O
+minute_19	ahead	O
+minute_19	a	O
+minute_19	free	O
+minute_19	minute	minute
+minute_19	was	O
+minute_19	earned	O

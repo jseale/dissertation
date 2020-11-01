@@ -1,0 +1,11 @@
+subordinate_49	The	O
+subordinate_49	major	O
+subordinate_49	subordinate	subordinate_adj-nou
+subordinate_49	Army	O
+subordinate_49	commands	O
+subordinate_49	were	O
+subordinate_49	Eighth	O
+subordinate_49	Army	O
+subordinate_49	commanded	O
+subordinate_49	by	O
+subordinate_49	Lt	O

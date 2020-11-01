@@ -1,0 +1,16 @@
+lead_18	Artificial	O
+lead_18	Heart	O
+lead_18	is	O
+lead_18	also	O
+lead_18	the	O
+lead_18	first	O
+lead_18	Coulton	O
+lead_18	album	O
+lead_18	to	O
+lead_18	feature	O
+lead_18	guest	O
+lead_18	lead	lead_nou-vrb
+lead_18	vocals	O
+lead_18	and	O
+lead_18	a	O
+lead_18	duet	O

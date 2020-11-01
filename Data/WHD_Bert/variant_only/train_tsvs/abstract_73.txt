@@ -1,0 +1,12 @@
+abstract_73	He	O
+abstract_73	creates	O
+abstract_73	both	O
+abstract_73	figurative	O
+abstract_73	and	O
+abstract_73	abstract	abstract_adj-nou
+abstract_73	sculptures	O
+abstract_73	in	O
+abstract_73	marble	O
+abstract_73	metal	O
+abstract_73	and	O
+abstract_73	wood	O

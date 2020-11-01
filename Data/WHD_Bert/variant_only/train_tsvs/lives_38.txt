@@ -1,0 +1,8 @@
+lives_38	It	O
+lives_38	was	O
+lives_38	a	O
+lives_38	central	O
+lives_38	experience	O
+lives_38	in	O
+lives_38	our	O
+lives_38	lives	lives_nou

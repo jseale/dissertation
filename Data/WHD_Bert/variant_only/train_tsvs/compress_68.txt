@@ -1,0 +1,16 @@
+compress_68	After	O
+compress_68	stripping	O
+compress_68	the	O
+compress_68	compress	compress_nou
+compress_68	from	O
+compress_68	the	O
+compress_68	conveyor	O
+compress_68	the	O
+compress_68	compacted	O
+compress_68	mass	O
+compress_68	is	O
+compress_68	introduced	O
+compress_68	into	O
+compress_68	a	O
+compress_68	sintering	O
+compress_68	furnace	O

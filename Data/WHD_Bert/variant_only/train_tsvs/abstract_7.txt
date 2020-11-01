@@ -1,0 +1,15 @@
+abstract_7	EFSA	O
+abstract_7	later	O
+abstract_7	modified	O
+abstract_7	the	O
+abstract_7	abstract	abstract_adj-nou
+abstract_7	to	O
+abstract_7	correct	O
+abstract_7	this	O
+abstract_7	error	O
+abstract_7	though	O
+abstract_7	the	O
+abstract_7	press	O
+abstract_7	release	O
+abstract_7	remains	O
+abstract_7	unchanged	O

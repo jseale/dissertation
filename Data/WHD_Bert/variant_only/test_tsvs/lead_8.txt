@@ -1,0 +1,15 @@
+lead_8	He	O
+lead_8	eventually	O
+lead_8	lands	O
+lead_8	the	O
+lead_8	lead	lead_nou-vrb
+lead_8	role	O
+lead_8	as	O
+lead_8	Jesus	O
+lead_8	at	O
+lead_8	Rika	O
+lead_8	's	O
+lead_8	Easter	O
+lead_8	and	O
+lead_8	Christmas	O
+lead_8	pageants	O

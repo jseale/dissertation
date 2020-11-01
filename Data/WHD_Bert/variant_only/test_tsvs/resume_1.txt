@@ -1,0 +1,15 @@
+resume_1	With	O
+resume_1	law	O
+resume_1	and	O
+resume_1	order	O
+resume_1	restored	O
+resume_1	Chisum	O
+resume_1	can	O
+resume_1	resume	resume_vrb
+resume_1	his	O
+resume_1	iconic	O
+resume_1	vigil	O
+resume_1	over	O
+resume_1	the	O
+resume_1	Pecos	O
+resume_1	valley	O

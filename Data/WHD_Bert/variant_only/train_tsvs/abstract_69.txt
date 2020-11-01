@@ -1,0 +1,11 @@
+abstract_69	An	O
+abstract_69	abstract	abstract_adj-nou
+abstract_69	data	O
+abstract_69	structure	O
+abstract_69	is	O
+abstract_69	a	O
+abstract_69	collection	O
+abstract_69	or	O
+abstract_69	aggregate	O
+abstract_69	of	O
+abstract_69	data	O

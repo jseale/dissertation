@@ -1,0 +1,12 @@
+tear_3	The	O
+tear_3	man	O
+tear_3	seeing	O
+tear_3	another	O
+tear_3	innocent	O
+tear_3	man	O
+tear_3	proceeds	O
+tear_3	to	O
+tear_3	tear	tear_vrb
+tear_3	up	O
+tear_3	his	O
+tear_3	coat	O

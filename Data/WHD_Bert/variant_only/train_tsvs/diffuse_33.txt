@@ -1,0 +1,15 @@
+diffuse_33	The	O
+diffuse_33	university	O
+diffuse_33	leadership	O
+diffuse_33	stepped	O
+diffuse_33	in	O
+diffuse_33	to	O
+diffuse_33	diffuse	diffuse_vrb
+diffuse_33	what	O
+diffuse_33	it	O
+diffuse_33	saw	O
+diffuse_33	as	O
+diffuse_33	a	O
+diffuse_33	potentially	O
+diffuse_33	explosive	O
+diffuse_33	situation	O

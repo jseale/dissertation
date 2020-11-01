@@ -1,0 +1,8 @@
+present_2	Paxton	O
+present_2	contributed	O
+present_2	to	O
+present_2	Brinsmead	O
+present_2	's	O
+present_2	Present	present_adj-nou
+present_2	Truth	O
+present_2	Magazine	O

@@ -1,0 +1,12 @@
+transport_3	Bullock	O
+transport_3	carts	O
+transport_3	have	O
+transport_3	been	O
+transport_3	traditionally	O
+transport_3	used	O
+transport_3	for	O
+transport_3	transport	transport_nou
+transport_3	especially	O
+transport_3	in	O
+transport_3	rural	O
+transport_3	India	O

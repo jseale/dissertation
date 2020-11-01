@@ -1,0 +1,15 @@
+appropriate_6	Where	O
+appropriate_6	appropriate	appropriate_adj
+appropriate_6	the	O
+appropriate_6	statutes	O
+appropriate_6	determine	O
+appropriate_6	the	O
+appropriate_6	method	O
+appropriate_6	by	O
+appropriate_6	which	O
+appropriate_6	can	O
+appropriate_6	be	O
+appropriate_6	purchased	O
+appropriate_6	shares	O
+appropriate_6	in	O
+appropriate_6	industry	O

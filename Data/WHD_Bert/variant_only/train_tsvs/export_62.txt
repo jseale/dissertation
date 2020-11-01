@@ -1,0 +1,16 @@
+export_62	Export	export_nou
+export_62	models	O
+export_62	produced	O
+export_62	at	O
+export_62	the	O
+export_62	plant	O
+export_62	in	O
+export_62	Graz	O
+export_62	Austria	O
+export_62	were	O
+export_62	given	O
+export_62	the	O
+export_62	vehicle	O
+export_62	designation	O
+export_62	of	O
+export_62	ZG	O

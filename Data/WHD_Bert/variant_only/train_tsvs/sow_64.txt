@@ -1,0 +1,15 @@
+sow_64	Let	O
+sow_64	there	O
+sow_64	be	O
+sow_64	a	O
+sow_64	reconciliation	O
+sow_64	of	O
+sow_64	disputes	O
+sow_64	that	O
+sow_64	often	O
+sow_64	sow	sow
+sow_64	the	O
+sow_64	seeds	O
+sow_64	of	O
+sow_64	further	O
+sow_64	misfortunes	O

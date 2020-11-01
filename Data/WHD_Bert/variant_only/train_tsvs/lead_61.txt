@@ -1,0 +1,17 @@
+lead_61	Chronic	O
+lead_61	stress	O
+lead_61	can	O
+lead_61	lead	lead_nou-vrb
+lead_61	to	O
+lead_61	memory	O
+lead_61	loss	O
+lead_61	damage	O
+lead_61	spatial	O
+lead_61	recognition	O
+lead_61	and	O
+lead_61	produce	O
+lead_61	a	O
+lead_61	decreased	O
+lead_61	drive	O
+lead_61	of	O
+lead_61	eating	O

@@ -1,0 +1,16 @@
+diagnoses_45	Complications	O
+diagnoses_45	ensue	O
+diagnoses_45	such	O
+diagnoses_45	as	O
+diagnoses_45	male	O
+diagnoses_45	breast	O
+diagnoses_45	development	O
+diagnoses_45	and	O
+diagnoses_45	after	O
+diagnoses_45	several	O
+diagnoses_45	false	O
+diagnoses_45	diagnoses	diagnoses_nou
+diagnoses_45	the	O
+diagnoses_45	patient	O
+diagnoses_45	is	O
+diagnoses_45	saved	O

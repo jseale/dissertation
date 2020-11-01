@@ -1,0 +1,13 @@
+compound_43	The	O
+compound_43	fading	O
+compound_43	and	O
+compound_43	cracking	O
+compound_43	of	O
+compound_43	older	O
+compound_43	types	O
+compound_43	of	O
+compound_43	plastic	O
+compound_43	siding	O
+compound_43	compound	compound_vrb
+compound_43	this	O
+compound_43	issue	O

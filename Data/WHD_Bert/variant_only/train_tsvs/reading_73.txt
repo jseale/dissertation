@@ -1,0 +1,13 @@
+reading_73	On	O
+reading_73	this	O
+reading_73	reading	reading_en
+reading_73	formula	O
+reading_73	is	O
+reading_73	valid	O
+reading_73	if	O
+reading_73	all	O
+reading_73	such	O
+reading_73	interpretations	O
+reading_73	make	O
+reading_73	it	O
+reading_73	true	O

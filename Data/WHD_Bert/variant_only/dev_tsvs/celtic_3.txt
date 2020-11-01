@@ -1,0 +1,15 @@
+celtic_3	The	O
+celtic_3	studio	O
+celtic_3	album	O
+celtic_3	titled	O
+celtic_3	Celtic	celtic
+celtic_3	Woman	O
+celtic_3	A	O
+celtic_3	New	O
+celtic_3	Journey	O
+celtic_3	was	O
+celtic_3	released	O
+celtic_3	on	O
+celtic_3	30	O
+celtic_3	January	O
+celtic_3	2007	O

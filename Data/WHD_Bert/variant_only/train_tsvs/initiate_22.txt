@@ -1,0 +1,9 @@
+initiate_22	To	O
+initiate_22	their	O
+initiate_22	right	O
+initiate_22	the	O
+initiate_22	initiate	initiate_nou
+initiate_22	is	O
+initiate_22	in	O
+initiate_22	a	O
+initiate_22	panic	O

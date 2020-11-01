@@ -1,0 +1,14 @@
+produce_5	While	O
+produce_5	opioids	O
+produce_5	can	O
+produce_5	produce	produce_vrb
+produce_5	unconsciousness	O
+produce_5	they	O
+produce_5	do	O
+produce_5	so	O
+produce_5	unreliably	O
+produce_5	and	O
+produce_5	with	O
+produce_5	significant	O
+produce_5	side	O
+produce_5	effects	O

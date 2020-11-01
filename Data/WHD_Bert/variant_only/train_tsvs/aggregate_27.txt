@@ -1,0 +1,16 @@
+aggregate_27	Flexibility	O
+aggregate_27	and	O
+aggregate_27	plasticity	O
+aggregate_27	allow	O
+aggregate_27	proteins	O
+aggregate_27	to	O
+aggregate_27	bind	O
+aggregate_27	to	O
+aggregate_27	ligands	O
+aggregate_27	form	O
+aggregate_27	oligomers	O
+aggregate_27	aggregate	aggregate_vrb
+aggregate_27	and	O
+aggregate_27	perform	O
+aggregate_27	mechanical	O
+aggregate_27	work	O

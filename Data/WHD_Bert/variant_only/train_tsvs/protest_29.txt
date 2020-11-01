@@ -1,0 +1,12 @@
+protest_29	Anonymous	O
+protest_29	held	O
+protest_29	its	O
+protest_29	third	O
+protest_29	international	O
+protest_29	protest	protest_nou
+protest_29	against	O
+protest_29	Scientology	O
+protest_29	on	O
+protest_29	April	O
+protest_29	12	O
+protest_29	2008	O

@@ -1,0 +1,17 @@
+protest_70	In	O
+protest_70	addition	O
+protest_70	he	O
+protest_70	had	O
+protest_70	retooled	O
+protest_70	the	O
+protest_70	story	O
+protest_70	to	O
+protest_70	incorporate	O
+protest_70	events	O
+protest_70	leading	O
+protest_70	up	O
+protest_70	to	O
+protest_70	and	O
+protest_70	after	O
+protest_70	his	O
+protest_70	protest	protest_nou

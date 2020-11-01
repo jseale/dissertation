@@ -1,0 +1,16 @@
+export_29	These	O
+export_29	Tiles	O
+export_29	are	O
+export_29	export	export_vrb
+export_29	to	O
+export_29	Fareast	O
+export_29	Europe	O
+export_29	Australia	O
+export_29	Africa	O
+export_29	and	O
+export_29	as	O
+export_29	close	O
+export_29	as	O
+export_29	Middle	O
+export_29	Eastern	O
+export_29	Countries	O

@@ -1,0 +1,12 @@
+discard_31	As	O
+discard_31	a	O
+discard_31	result	O
+discard_31	employees	O
+discard_31	tend	O
+discard_31	to	O
+discard_31	discard	discard_vrb
+discard_31	employers	O
+discard_31	with	O
+discard_31	a	O
+discard_31	bad	O
+discard_31	reputation	O

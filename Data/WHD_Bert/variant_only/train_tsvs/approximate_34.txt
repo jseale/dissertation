@@ -1,0 +1,17 @@
+approximate_34	The	O
+approximate_34	book	O
+approximate_34	contains	O
+approximate_34	descriptions	O
+approximate_34	of	O
+approximate_34	surgery	O
+approximate_34	illnesses	O
+approximate_34	medicinal	O
+approximate_34	plants	O
+approximate_34	and	O
+approximate_34	a	O
+approximate_34	detailed	O
+approximate_34	study	O
+approximate_34	on	O
+approximate_34	anatomy	O
+approximate_34	approximate	approximate_adj-nou
+approximate_34	date	O

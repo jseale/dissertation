@@ -1,0 +1,16 @@
+analyses_31	Recent	O
+analyses_31	phylogenetic	O
+analyses_31	analyses	analyses_nou
+analyses_31	confirmed	O
+analyses_31	that	O
+analyses_31	Bruktererpeton	O
+analyses_31	is	O
+analyses_31	a	O
+analyses_31	sister	O
+analyses_31	taxon	O
+analyses_31	of	O
+analyses_31	the	O
+analyses_31	better	O
+analyses_31	known	O
+analyses_31	genus	O
+analyses_31	Gephyrostegus	O

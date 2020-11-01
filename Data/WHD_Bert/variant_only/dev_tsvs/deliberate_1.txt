@@ -1,0 +1,16 @@
+deliberate_1	He	O
+deliberate_1	later	O
+deliberate_1	claimed	O
+deliberate_1	that	O
+deliberate_1	the	O
+deliberate_1	throw	O
+deliberate_1	was	O
+deliberate_1	deliberate	deliberate_adj
+deliberate_1	and	O
+deliberate_1	came	O
+deliberate_1	out	O
+deliberate_1	of	O
+deliberate_1	frustration	O
+deliberate_1	with	O
+deliberate_1	his	O
+deliberate_1	fielders	O

@@ -1,0 +1,16 @@
+articulate_1	Perhaps	O
+articulate_1	the	O
+articulate_1	first	O
+articulate_1	to	O
+articulate_1	articulate	articulate_vrb
+articulate_1	this	O
+articulate_1	notion	O
+articulate_1	was	O
+articulate_1	an	O
+articulate_1	European	O
+articulate_1	emigre	O
+articulate_1	who	O
+articulate_1	remains	O
+articulate_1	in	O
+articulate_1	undeserved	O
+articulate_1	obscurity	O

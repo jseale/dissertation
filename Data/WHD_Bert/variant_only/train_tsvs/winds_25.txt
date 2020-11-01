@@ -1,0 +1,13 @@
+winds_25	The	O
+winds_25	severe	O
+winds_25	waves	O
+winds_25	can	O
+winds_25	be	O
+winds_25	a	O
+winds_25	result	O
+winds_25	of	O
+winds_25	high	O
+winds_25	winds	winds_nou
+winds_25	landslides	O
+winds_25	and	O
+winds_25	earthquakes	O

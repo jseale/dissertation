@@ -1,0 +1,13 @@
+invalid_7	Marriages	O
+invalid_7	nevertheless	O
+invalid_7	concluded	O
+invalid_7	are	O
+invalid_7	invalid	invalid_adj
+invalid_7	even	O
+invalid_7	if	O
+invalid_7	concluded	O
+invalid_7	abroad	O
+invalid_7	to	O
+invalid_7	circumvent	O
+invalid_7	this	O
+invalid_7	law	O

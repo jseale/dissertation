@@ -1,0 +1,15 @@
+polish_23	He	O
+polish_23	was	O
+polish_23	also	O
+polish_23	a	O
+polish_23	member	O
+polish_23	of	O
+polish_23	the	O
+polish_23	Polish	polish_geo
+polish_23	Writers	O
+polish_23	Association	O
+polish_23	and	O
+polish_23	the	O
+polish_23	Polish	polish_geo
+polish_23	Philosophical	O
+polish_23	Association	O

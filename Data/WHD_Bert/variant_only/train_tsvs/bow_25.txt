@@ -1,0 +1,12 @@
+bow_25	For	O
+bow_25	maneuvering	O
+bow_25	at	O
+bow_25	ports	O
+bow_25	Hansa	O
+bow_25	Brandenburg	O
+bow_25	has	O
+bow_25	a	O
+bow_25	900	O
+bow_25	kW	O
+bow_25	bow	bow_nou-ship
+bow_25	thruster	O

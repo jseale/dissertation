@@ -1,0 +1,14 @@
+decrease_77	Its	O
+decrease_77	population	O
+decrease_77	was	O
+decrease_77	303	O
+decrease_77	at	O
+decrease_77	the	O
+decrease_77	2010	O
+decrease_77	census	O
+decrease_77	a	O
+decrease_77	decrease	decrease_nou
+decrease_77	from	O
+decrease_77	369	O
+decrease_77	in	O
+decrease_77	2000	O

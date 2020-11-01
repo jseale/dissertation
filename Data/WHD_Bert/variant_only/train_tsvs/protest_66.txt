@@ -1,0 +1,11 @@
+protest_66	However	O
+protest_66	the	O
+protest_66	UDD	O
+protest_66	said	O
+protest_66	they	O
+protest_66	did	O
+protest_66	not	O
+protest_66	protest	protest_vrb
+protest_66	against	O
+protest_66	the	O
+protest_66	verdict	O

@@ -1,0 +1,15 @@
+winds_67	Strong	O
+winds_67	winds	winds_nou
+winds_67	uprooted	O
+winds_67	trees	O
+winds_67	or	O
+winds_67	snapped	O
+winds_67	their	O
+winds_67	limbs	O
+winds_67	damaging	O
+winds_67	power	O
+winds_67	lines	O
+winds_67	and	O
+winds_67	knocking	O
+winds_67	out	O
+winds_67	power	O

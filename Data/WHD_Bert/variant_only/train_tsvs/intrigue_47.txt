@@ -1,0 +1,17 @@
+intrigue_47	It	O
+intrigue_47	includes	O
+intrigue_47	fascinating	O
+intrigue_47	stories	O
+intrigue_47	including	O
+intrigue_47	traditional	O
+intrigue_47	local	O
+intrigue_47	gossip	O
+intrigue_47	about	O
+intrigue_47	murder	O
+intrigue_47	intrigue	intrigue_nou
+intrigue_47	ghosts	O
+intrigue_47	secret	O
+intrigue_47	rooms	O
+intrigue_47	and	O
+intrigue_47	secret	O
+intrigue_47	passages	O

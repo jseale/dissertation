@@ -1,0 +1,11 @@
+increment_50	Growth	O
+increment_50	increment	increment_nou
+increment_50	slows	O
+increment_50	earlier	O
+increment_50	in	O
+increment_50	maturation	O
+increment_50	in	O
+increment_50	females	O
+increment_50	than	O
+increment_50	in	O
+increment_50	males	O

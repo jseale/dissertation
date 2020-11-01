@@ -1,0 +1,16 @@
+dove_38	It	O
+dove_38	's	O
+dove_38	eaten	O
+dove_38	by	O
+dove_38	various	O
+dove_38	rainforest	O
+dove_38	inhabitants	O
+dove_38	including	O
+dove_38	the	O
+dove_38	topknot	O
+dove_38	pigeon	O
+dove_38	and	O
+dove_38	the	O
+dove_38	wompoo	O
+dove_38	fruit	O
+dove_38	dove	dove

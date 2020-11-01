@@ -1,0 +1,14 @@
+laminate_38	The	O
+laminate_38	demisters	O
+laminate_38	were	O
+laminate_38	located	O
+laminate_38	on	O
+laminate_38	the	O
+laminate_38	edge	O
+laminate_38	of	O
+laminate_38	the	O
+laminate_38	rack	O
+laminate_38	within	O
+laminate_38	a	O
+laminate_38	laminate	laminate_nou
+laminate_38	strip	O

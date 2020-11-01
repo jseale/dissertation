@@ -1,0 +1,11 @@
+abuses_4	Mujahid	O
+abuses_4	has	O
+abuses_4	Zoofi	O
+abuses_4	forcibly	O
+abuses_4	marry	O
+abuses_4	Shakeel	O
+abuses_4	who	O
+abuses_4	taunts	O
+abuses_4	and	O
+abuses_4	abuses	abuses_vrb
+abuses_4	her	O

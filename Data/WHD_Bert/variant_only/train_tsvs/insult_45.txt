@@ -1,0 +1,14 @@
+insult_45	Schemp	O
+insult_45	and	O
+insult_45	Mo	O
+insult_45	never	O
+insult_45	get	O
+insult_45	tired	O
+insult_45	of	O
+insult_45	trying	O
+insult_45	to	O
+insult_45	insult	insult_vrb
+insult_45	and	O
+insult_45	outdo	O
+insult_45	each	O
+insult_45	other	O

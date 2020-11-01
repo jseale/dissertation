@@ -1,0 +1,14 @@
+retard_4	The	O
+retard_4	slope	O
+retard_4	was	O
+retard_4	also	O
+retard_4	designed	O
+retard_4	to	O
+retard_4	retard	retard_vrb
+retard_4	or	O
+retard_4	stop	O
+retard_4	cannon	O
+retard_4	shot	O
+retard_4	from	O
+retard_4	naval	O
+retard_4	ships	O

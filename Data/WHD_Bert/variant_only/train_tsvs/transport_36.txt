@@ -1,0 +1,12 @@
+transport_36	Road	O
+transport_36	based	O
+transport_36	transport	transport_nou
+transport_36	is	O
+transport_36	the	O
+transport_36	primary	O
+transport_36	source	O
+transport_36	of	O
+transport_36	transport	transport_nou
+transport_36	in	O
+transport_36	Phnom	O
+transport_36	Penh	O

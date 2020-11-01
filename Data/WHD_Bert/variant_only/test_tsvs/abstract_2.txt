@@ -1,0 +1,11 @@
+abstract_2	He	O
+abstract_2	sought	O
+abstract_2	to	O
+abstract_2	express	O
+abstract_2	his	O
+abstract_2	sense	O
+abstract_2	of	O
+abstract_2	heritage	O
+abstract_2	in	O
+abstract_2	abstract	abstract_adj-nou
+abstract_2	painting	O

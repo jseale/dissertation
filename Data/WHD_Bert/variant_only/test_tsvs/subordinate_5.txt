@@ -1,0 +1,16 @@
+subordinate_5	Svalbard	O
+subordinate_5	is	O
+subordinate_5	subordinate	subordinate_adj-nou
+subordinate_5	Nord	O
+subordinate_5	Troms	O
+subordinate_5	District	O
+subordinate_5	Court	O
+subordinate_5	and	O
+subordinate_5	Halogaland	O
+subordinate_5	Court	O
+subordinate_5	of	O
+subordinate_5	Appeal	O
+subordinate_5	both	O
+subordinate_5	located	O
+subordinate_5	in	O
+subordinate_5	Tromso	O

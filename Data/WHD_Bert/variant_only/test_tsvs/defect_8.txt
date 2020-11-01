@@ -1,0 +1,11 @@
+defect_8	An	O
+defect_8	excess	O
+defect_8	of	O
+defect_8	fusel	O
+defect_8	oils	O
+defect_8	in	O
+defect_8	whisky	O
+defect_8	is	O
+defect_8	considered	O
+defect_8	a	O
+defect_8	defect	defect_nou

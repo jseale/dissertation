@@ -1,0 +1,10 @@
+read_51	The	O
+read_51	Poems	O
+read_51	are	O
+read_51	simple	O
+read_51	to	O
+read_51	read	read_present
+read_51	and	O
+read_51	easy	O
+read_51	to	O
+read_51	comprehend	O

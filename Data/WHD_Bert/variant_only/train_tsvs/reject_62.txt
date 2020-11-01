@@ -1,0 +1,13 @@
+reject_62	As	O
+reject_62	verses	O
+reject_62	15	O
+reject_62	19	O
+reject_62	reject	reject_vrb
+reject_62	any	O
+reject_62	familial	O
+reject_62	ties	O
+reject_62	between	O
+reject_62	God	O
+reject_62	and	O
+reject_62	the	O
+reject_62	angels	O

@@ -1,0 +1,15 @@
+isolate_17	The	O
+isolate_17	parent	O
+isolate_17	of	O
+isolate_17	Vedda	O
+isolate_17	language	O
+isolate_17	is	O
+isolate_17	of	O
+isolate_17	unknown	O
+isolate_17	linguistic	O
+isolate_17	origin	O
+isolate_17	is	O
+isolate_17	considered	O
+isolate_17	a	O
+isolate_17	linguistic	O
+isolate_17	isolate	isolate_nou

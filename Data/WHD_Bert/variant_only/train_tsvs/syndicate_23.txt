@@ -1,0 +1,9 @@
+syndicate_23	She	O
+syndicate_23	was	O
+syndicate_23	a	O
+syndicate_23	writer	O
+syndicate_23	on	O
+syndicate_23	the	O
+syndicate_23	video	O
+syndicate_23	game	O
+syndicate_23	Syndicate	syndicate_nou

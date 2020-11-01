@@ -1,0 +1,17 @@
+insult_12	When	O
+insult_12	Rick	O
+insult_12	accuses	O
+insult_12	Johnny	O
+insult_12	of	O
+insult_12	harboring	O
+insult_12	a	O
+insult_12	prejudice	O
+insult_12	against	O
+insult_12	whites	O
+insult_12	Johnny	O
+insult_12	sends	O
+insult_12	him	O
+insult_12	away	O
+insult_12	with	O
+insult_12	an	O
+insult_12	insult	insult_nou

@@ -1,0 +1,9 @@
+polish_53	10	O
+polish_53	BRDM-2M-96ik	O
+polish_53	were	O
+polish_53	used	O
+polish_53	by	O
+polish_53	Polish	polish_geo
+polish_53	forces	O
+polish_53	of	O
+polish_53	ISAF	O

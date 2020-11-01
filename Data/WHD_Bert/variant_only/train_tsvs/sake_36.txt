@@ -1,0 +1,10 @@
+sake_36	Nine	O
+sake_36	to	O
+sake_36	twelve	O
+sake_36	months	O
+sake_36	are	O
+sake_36	required	O
+sake_36	for	O
+sake_36	sake	sake_jp
+sake_36	to	O
+sake_36	mature	O

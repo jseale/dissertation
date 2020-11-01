@@ -1,0 +1,15 @@
+approximate_70	The	O
+approximate_70	same	O
+approximate_70	approximate	approximate_adj-nou
+approximate_70	meaning	O
+approximate_70	is	O
+approximate_70	used	O
+approximate_70	across	O
+approximate_70	the	O
+approximate_70	Finnic	O
+approximate_70	languages	O
+approximate_70	such	O
+approximate_70	as	O
+approximate_70	in	O
+approximate_70	Estonian	O
+approximate_70	leil	O

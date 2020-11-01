@@ -1,0 +1,15 @@
+transplant_74	Mo	O
+transplant_74	wanted	O
+transplant_74	to	O
+transplant_74	save	O
+transplant_74	her	O
+transplant_74	patient	O
+transplant_74	Hattie	O
+transplant_74	Edison	O
+transplant_74	Sophie	O
+transplant_74	Jones	O
+transplant_74	who	O
+transplant_74	needed	O
+transplant_74	a	O
+transplant_74	heart	O
+transplant_74	transplant	transplant_nou

@@ -1,0 +1,14 @@
+approximate_4	The	O
+approximate_4	school	O
+approximate_4	has	O
+approximate_4	an	O
+approximate_4	approximate	approximate_adj-nou
+approximate_4	population	O
+approximate_4	of	O
+approximate_4	over	O
+approximate_4	700	O
+approximate_4	students	O
+approximate_4	and	O
+approximate_4	around	O
+approximate_4	90	O
+approximate_4	staff	O

@@ -1,0 +1,15 @@
+convert_22	The	O
+convert_22	points	O
+convert_22	earned	O
+convert_22	in	O
+convert_22	qualifying	O
+convert_22	runs	O
+convert_22	convert	convert_vrb
+convert_22	to	O
+convert_22	additional	O
+convert_22	seconds	O
+convert_22	on	O
+convert_22	the	O
+convert_22	solo	O
+convert_22	run	O
+convert_22	timer	O

@@ -1,0 +1,15 @@
+bologna_60	Gibbs	O
+bologna_60	is	O
+bologna_60	wrong	O
+bologna_60	in	O
+bologna_60	suggesting	O
+bologna_60	that	O
+bologna_60	for	O
+bologna_60	a	O
+bologna_60	few	O
+bologna_60	minutes	O
+bologna_60	Grimoard	O
+bologna_60	was	O
+bologna_60	lord	O
+bologna_60	of	O
+bologna_60	Bologna	bologna_geo

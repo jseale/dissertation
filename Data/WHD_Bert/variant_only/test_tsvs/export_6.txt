@@ -1,0 +1,16 @@
+export_6	The	O
+export_6	EU	O
+export_6	argued	O
+export_6	that	O
+export_6	the	O
+export_6	ETI	O
+export_6	effectively	O
+export_6	retained	O
+export_6	the	O
+export_6	export	export_nou
+export_6	subsidy	O
+export_6	albeit	O
+export_6	under	O
+export_6	a	O
+export_6	different	O
+export_6	name	O

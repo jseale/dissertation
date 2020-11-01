@@ -1,0 +1,12 @@
+contest_49	Croatia	O
+contest_49	competed	O
+contest_49	in	O
+contest_49	the	O
+contest_49	Eurovision	O
+contest_49	Song	O
+contest_49	Contest	contest_nou
+contest_49	1999	O
+contest_49	held	O
+contest_49	in	O
+contest_49	Jerusalem	O
+contest_49	Israel	O

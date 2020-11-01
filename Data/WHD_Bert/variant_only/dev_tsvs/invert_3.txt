@@ -1,0 +1,17 @@
+invert_3	During	O
+invert_3	the	O
+invert_3	AXIS	O
+invert_3	storyline	O
+invert_3	the	O
+invert_3	Red	O
+invert_3	Skull	O
+invert_3	and	O
+invert_3	Scarlet	O
+invert_3	Witch	O
+invert_3	accidentally	O
+invert_3	morally	O
+invert_3	invert	invert_vrb
+invert_3	various	O
+invert_3	heroes	O
+invert_3	and	O
+invert_3	villains	O

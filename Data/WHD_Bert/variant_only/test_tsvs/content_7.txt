@@ -1,0 +1,16 @@
+content_7	The	O
+content_7	starchy	O
+content_7	crop	O
+content_7	with	O
+content_7	highest	O
+content_7	energy	O
+content_7	content	content_nou
+content_7	per	O
+content_7	acre	O
+content_7	is	O
+content_7	cassava	O
+content_7	which	O
+content_7	grows	O
+content_7	in	O
+content_7	tropical	O
+content_7	countries	O

@@ -1,0 +1,11 @@
+compress_14	Both	O
+compress_14	methods	O
+compress_14	compress	compress
+compress_14	the	O
+compress_14	fuel	O
+compress_14	so	O
+compress_14	that	O
+compress_14	fusion	O
+compress_14	can	O
+compress_14	take	O
+compress_14	place	O

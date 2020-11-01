@@ -1,0 +1,14 @@
+suspect_21	Stopping	O
+suspect_21	someone	O
+suspect_21	means	O
+suspect_21	holding	O
+suspect_21	the	O
+suspect_21	suspect	suspect_adj-nou
+suspect_21	while	O
+suspect_21	waiting	O
+suspect_21	for	O
+suspect_21	the	O
+suspect_21	arrival	O
+suspect_21	of	O
+suspect_21	the	O
+suspect_21	police	O

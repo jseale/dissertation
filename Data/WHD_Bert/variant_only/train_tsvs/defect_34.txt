@@ -1,0 +1,12 @@
+defect_34	The	O
+defect_34	defect	defect_nou
+defect_34	must	O
+defect_34	substantially	O
+defect_34	hinder	O
+defect_34	the	O
+defect_34	vehicle	O
+defect_34	's	O
+defect_34	use	O
+defect_34	value	O
+defect_34	or	O
+defect_34	safety	O

@@ -1,0 +1,16 @@
+construct_51	The	O
+construct_51	design	O
+construct_51	is	O
+construct_51	such	O
+construct_51	that	O
+construct_51	a	O
+construct_51	person	O
+construct_51	with	O
+construct_51	normal	O
+construct_51	mechanical	O
+construct_51	skills	O
+construct_51	can	O
+construct_51	construct	construct_vrb
+construct_51	and	O
+construct_51	operate	O
+construct_51	one	O

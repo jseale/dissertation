@@ -1,0 +1,17 @@
+extract_36	Bromelain	O
+extract_36	extract	extract_nou
+extract_36	is	O
+extract_36	a	O
+extract_36	mixture	O
+extract_36	of	O
+extract_36	protein	O
+extract_36	digesting	O
+extract_36	proteolytic	O
+extract_36	enzymes	O
+extract_36	and	O
+extract_36	several	O
+extract_36	other	O
+extract_36	substances	O
+extract_36	in	O
+extract_36	smaller	O
+extract_36	quantities	O

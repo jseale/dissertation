@@ -1,0 +1,12 @@
+conflict_71	Louis	O
+conflict_71	feared	O
+conflict_71	a	O
+conflict_71	further	O
+conflict_71	escalation	O
+conflict_71	of	O
+conflict_71	the	O
+conflict_71	conflict	conflict_nou
+conflict_71	against	O
+conflict_71	this	O
+conflict_71	formidable	O
+conflict_71	coalition	O

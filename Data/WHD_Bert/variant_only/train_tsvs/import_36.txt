@@ -1,0 +1,16 @@
+import_36	Indian	O
+import_36	pharmaceutical	O
+import_36	companies	O
+import_36	in	O
+import_36	Moldova	O
+import_36	are	O
+import_36	among	O
+import_36	the	O
+import_36	top	O
+import_36	ten	O
+import_36	based	O
+import_36	on	O
+import_36	medicine	O
+import_36	import	import_nou
+import_36	by	O
+import_36	Moldova	O

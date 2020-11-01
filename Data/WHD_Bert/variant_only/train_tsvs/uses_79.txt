@@ -1,0 +1,15 @@
+uses_79	The	O
+uses_79	missile	O
+uses_79	uses	uses_vrb
+uses_79	a	O
+uses_79	multi	O
+uses_79	function	O
+uses_79	doppler	O
+uses_79	monopulse	O
+uses_79	active	O
+uses_79	radar	O
+uses_79	seeker	O
+uses_79	developed	O
+uses_79	by	O
+uses_79	OAO	O
+uses_79	Agat	O

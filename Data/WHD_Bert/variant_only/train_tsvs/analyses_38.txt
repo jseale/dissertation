@@ -1,0 +1,15 @@
+analyses_38	Conventional	O
+analyses_38	monetary	O
+analyses_38	analyses	analyses_nou
+analyses_38	are	O
+analyses_38	unable	O
+analyses_38	to	O
+analyses_38	detect	O
+analyses_38	or	O
+analyses_38	deal	O
+analyses_38	with	O
+analyses_38	these	O
+analyses_38	sorts	O
+analyses_38	of	O
+analyses_38	ecological	O
+analyses_38	problems	O

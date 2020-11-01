@@ -1,0 +1,11 @@
+conjugate_49	Conjugate	conjugate_adj-nou
+conjugate_49	subgroups	O
+conjugate_49	are	O
+conjugate_49	isomorphic	O
+conjugate_49	but	O
+conjugate_49	isomorphic	O
+conjugate_49	subgroups	O
+conjugate_49	need	O
+conjugate_49	not	O
+conjugate_49	be	O
+conjugate_49	conjugate	conjugate_adj-nou

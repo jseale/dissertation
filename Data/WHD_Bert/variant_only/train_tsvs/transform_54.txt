@@ -1,0 +1,17 @@
+transform_54	Naturally	O
+transform_54	occurring	O
+transform_54	bacteria	O
+transform_54	in	O
+transform_54	the	O
+transform_54	Everglades	O
+transform_54	that	O
+transform_54	function	O
+transform_54	to	O
+transform_54	reduce	O
+transform_54	sulfur	O
+transform_54	also	O
+transform_54	transform	transform
+transform_54	mercury	O
+transform_54	deposits	O
+transform_54	into	O
+transform_54	methylmercury	O

@@ -1,0 +1,14 @@
+syndicate_45	Others	O
+syndicate_45	who	O
+syndicate_45	took	O
+syndicate_45	a	O
+syndicate_45	stand	O
+syndicate_45	against	O
+syndicate_45	the	O
+syndicate_45	Syndicate	syndicate_nou
+syndicate_45	were	O
+syndicate_45	James	O
+syndicate_45	A.	O
+syndicate_45	Herne	O
+syndicate_45	James	O
+syndicate_45	O'Neill	O

@@ -1,0 +1,16 @@
+separate_20	It	O
+separate_20	had	O
+separate_20	separate	separate_adj
+separate_20	Tx	O
+separate_20	and	O
+separate_20	Rx	O
+separate_20	antennas	O
+separate_20	combined	O
+separate_20	in	O
+separate_20	Type	O
+separate_20	279	O
+separate_20	M	O
+separate_20	to	O
+separate_20	single	O
+separate_20	antenna	O
+separate_20	operation	O

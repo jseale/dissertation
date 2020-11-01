@@ -1,0 +1,16 @@
+misuse_4	In	O
+misuse_4	2002	O
+misuse_4	the	O
+misuse_4	UN	O
+misuse_4	GA	O
+misuse_4	adopted	O
+misuse_4	a	O
+misuse_4	second	O
+misuse_4	resolution	O
+misuse_4	on	O
+misuse_4	the	O
+misuse_4	criminal	O
+misuse_4	misuse	misuse_nou
+misuse_4	of	O
+misuse_4	information	O
+misuse_4	technology	O

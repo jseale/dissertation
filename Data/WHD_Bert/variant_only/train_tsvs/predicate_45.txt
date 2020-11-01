@@ -1,0 +1,12 @@
+predicate_45	Pure	O
+predicate_45	reason	O
+predicate_45	however	O
+predicate_45	wrongly	O
+predicate_45	wants	O
+predicate_45	to	O
+predicate_45	know	O
+predicate_45	the	O
+predicate_45	subject	O
+predicate_45	of	O
+predicate_45	every	O
+predicate_45	predicate	predicate_nou

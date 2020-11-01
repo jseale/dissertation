@@ -1,0 +1,15 @@
+impact_28	According	O
+impact_28	to	O
+impact_28	the	O
+impact_28	Journal	O
+impact_28	Citation	O
+impact_28	Reports	O
+impact_28	the	O
+impact_28	journal	O
+impact_28	has	O
+impact_28	a	O
+impact_28	2014	O
+impact_28	impact	impact_nou
+impact_28	factor	O
+impact_28	of	O
+impact_28	2.60	O

@@ -1,0 +1,17 @@
+advocate_73	As	O
+advocate_73	a	O
+advocate_73	pioneer	O
+advocate_73	advocate	advocate_nou
+advocate_73	of	O
+advocate_73	democracy	O
+advocate_73	in	O
+advocate_73	the	O
+advocate_73	land	O
+advocate_73	of	O
+advocate_73	okpe	O
+advocate_73	he	O
+advocate_73	also	O
+advocate_73	was	O
+advocate_73	pivotal	O
+advocate_73	to	O
+advocate_73	Nigeria	O

@@ -1,0 +1,17 @@
+live_67	Also	O
+live_67	hosts	O
+live_67	are	O
+live_67	required	O
+live_67	to	O
+live_67	perform	O
+live_67	hours	O
+live_67	of	O
+live_67	free	O
+live_67	live	live_adj
+live_67	chat	O
+live_67	in	O
+live_67	which	O
+live_67	they	O
+live_67	are	O
+live_67	not	O
+live_67	paid	O

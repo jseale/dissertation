@@ -1,0 +1,10 @@
+august_2	The	O
+august_2	August	august_nam
+august_2	Town	O
+august_2	Formation	O
+august_2	is	O
+august_2	a	O
+august_2	geologic	O
+august_2	formation	O
+august_2	in	O
+august_2	Jamaica	O

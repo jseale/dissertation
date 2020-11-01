@@ -1,0 +1,13 @@
+precipitate_40	The	O
+precipitate_40	moments	O
+precipitate_40	of	O
+precipitate_40	exhaustion	O
+precipitate_40	might	O
+precipitate_40	consequently	O
+precipitate_40	precipitate	precipitate_vrb
+precipitate_40	an	O
+precipitate_40	inversion	O
+precipitate_40	in	O
+precipitate_40	the	O
+precipitate_40	thematic	O
+precipitate_40	flux	O

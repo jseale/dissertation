@@ -1,0 +1,16 @@
+estimate_2	Statistics	O
+estimate_2	Canada	O
+estimate_2	's	O
+estimate_2	estimate	estimate_nou
+estimate_2	of	O
+estimate_2	the	O
+estimate_2	Winnipeg	O
+estimate_2	CMA	O
+estimate_2	population	O
+estimate_2	as	O
+estimate_2	of	O
+estimate_2	1	O
+estimate_2	July	O
+estimate_2	2016	O
+estimate_2	is	O
+estimate_2	811,874	O

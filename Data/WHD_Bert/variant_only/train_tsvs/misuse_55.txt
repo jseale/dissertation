@@ -1,0 +1,11 @@
+misuse_55	Misuse	misuse_nou
+misuse_55	of	O
+misuse_55	an	O
+misuse_55	administrator	O
+misuse_55	's	O
+misuse_55	privileges	O
+misuse_55	can	O
+misuse_55	also	O
+misuse_55	be	O
+misuse_55	easily	O
+misuse_55	appealed	O

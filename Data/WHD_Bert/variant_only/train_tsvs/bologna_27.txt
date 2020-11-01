@@ -1,0 +1,13 @@
+bologna_27	It	O
+bologna_27	was	O
+bologna_27	debuted	O
+bologna_27	as	O
+bologna_27	redesigned	O
+bologna_27	Tata	O
+bologna_27	TL	O
+bologna_27	at	O
+bologna_27	the	O
+bologna_27	2006	O
+bologna_27	Bologna	bologna_geo
+bologna_27	Motor	O
+bologna_27	Show	O

@@ -1,0 +1,15 @@
+import_75	In	O
+import_75	Selangor	O
+import_75	import	import_nou
+import_75	tax	O
+import_75	on	O
+import_75	opium	O
+import_75	were	O
+import_75	collected	O
+import_75	by	O
+import_75	the	O
+import_75	Chinese	O
+import_75	People	O
+import_75	Affairs	O
+import_75	Protection	O
+import_75	Officers	O

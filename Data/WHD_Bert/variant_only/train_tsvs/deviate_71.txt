@@ -1,0 +1,9 @@
+deviate_71	The	O
+deviate_71	orientation	O
+deviate_71	of	O
+deviate_71	all	O
+deviate_71	structures	O
+deviate_71	deviate	deviate_vrb
+deviate_71	from	O
+deviate_71	cardinal	O
+deviate_71	directions	O

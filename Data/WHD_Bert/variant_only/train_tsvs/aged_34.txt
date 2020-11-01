@@ -1,0 +1,14 @@
+aged_34	He	O
+aged_34	then	O
+aged_34	become	O
+aged_34	the	O
+aged_34	youngest	O
+aged_34	diocesan	O
+aged_34	bishop	O
+aged_34	in	O
+aged_34	the	O
+aged_34	Church	O
+aged_34	of	O
+aged_34	England	O
+aged_34	aged	aged
+aged_34	48	O

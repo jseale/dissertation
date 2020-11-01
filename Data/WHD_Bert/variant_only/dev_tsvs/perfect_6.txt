@@ -1,0 +1,8 @@
+perfect_6	The	O
+perfect_6	perfect	perfect_adj
+perfect_6	indicates	O
+perfect_6	that	O
+perfect_6	an	O
+perfect_6	action	O
+perfect_6	is	O
+perfect_6	complete	O

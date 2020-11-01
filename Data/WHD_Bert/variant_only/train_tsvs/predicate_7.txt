@@ -1,0 +1,16 @@
+predicate_7	Embedded	O
+predicate_7	queries	O
+predicate_7	supported	O
+predicate_7	include	O
+predicate_7	subquery	O
+predicate_7	expressions	O
+predicate_7	expr	O
+predicate_7	IN	O
+predicate_7	subselect	O
+predicate_7	quantified	O
+predicate_7	comparisons	O
+predicate_7	and	O
+predicate_7	the	O
+predicate_7	EXISTS	O
+predicate_7	subselect	O
+predicate_7	predicate	predicate_nou

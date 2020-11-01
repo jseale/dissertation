@@ -1,0 +1,15 @@
+export_46	This	O
+export_46	is	O
+export_46	because	O
+export_46	eIF4E	O
+export_46	promotes	O
+export_46	the	O
+export_46	export	export_nou
+export_46	of	O
+export_46	cyclin	O
+export_46	D	O
+export_46	mRNAs	O
+export_46	out	O
+export_46	of	O
+export_46	the	O
+export_46	nucleus	O

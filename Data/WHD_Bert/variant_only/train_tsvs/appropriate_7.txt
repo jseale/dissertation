@@ -1,0 +1,13 @@
+appropriate_7	Solar	O
+appropriate_7	cookers	O
+appropriate_7	are	O
+appropriate_7	appropriate	appropriate_adj
+appropriate_7	to	O
+appropriate_7	some	O
+appropriate_7	settings	O
+appropriate_7	depending	O
+appropriate_7	on	O
+appropriate_7	climate	O
+appropriate_7	and	O
+appropriate_7	cooking	O
+appropriate_7	style	O

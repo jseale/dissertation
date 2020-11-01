@@ -1,0 +1,16 @@
+separate_80	Works	O
+separate_80	of	O
+separate_80	certain	O
+separate_80	international	O
+separate_80	organisations	O
+separate_80	also	O
+separate_80	qualify	O
+separate_80	for	O
+separate_80	protection	O
+separate_80	under	O
+separate_80	separate	separate_adj
+separate_80	provisions	O
+separate_80	in	O
+separate_80	the	O
+separate_80	1988	O
+separate_80	Act	O

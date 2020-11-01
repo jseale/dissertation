@@ -1,0 +1,14 @@
+delegate_45	His	O
+delegate_45	grandfather	O
+delegate_45	Judge	O
+delegate_45	Simplicio	O
+delegate_45	Sempio	O
+delegate_45	del	O
+delegate_45	Rosario	O
+delegate_45	was	O
+delegate_45	a	O
+delegate_45	delegate	delegate_nou
+delegate_45	to	O
+delegate_45	the	O
+delegate_45	Malolos	O
+delegate_45	Congress	O

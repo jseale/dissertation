@@ -1,0 +1,12 @@
+excuse_68	For	O
+excuse_68	this	O
+excuse_68	admixture	O
+excuse_68	of	O
+excuse_68	secular	O
+excuse_68	with	O
+excuse_68	spiritual	O
+excuse_68	aims	O
+excuse_68	there	O
+excuse_68	was	O
+excuse_68	considerable	O
+excuse_68	excuse	excuse_nou

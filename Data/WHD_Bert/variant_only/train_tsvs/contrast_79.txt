@@ -1,0 +1,14 @@
+contrast_79	By	O
+contrast_79	contrast	contrast_nou
+contrast_79	the	O
+contrast_79	summer	O
+contrast_79	months	O
+contrast_79	are	O
+contrast_79	some	O
+contrast_79	of	O
+contrast_79	the	O
+contrast_79	most	O
+contrast_79	cloud	O
+contrast_79	free	O
+contrast_79	in	O
+contrast_79	Canada	O

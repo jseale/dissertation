@@ -1,0 +1,15 @@
+initiate_63	As	O
+initiate_63	a	O
+initiate_63	result	O
+initiate_63	the	O
+initiate_63	Senate	O
+initiate_63	does	O
+initiate_63	not	O
+initiate_63	have	O
+initiate_63	the	O
+initiate_63	power	O
+initiate_63	to	O
+initiate_63	initiate	initiate_vrb
+initiate_63	bills	O
+initiate_63	imposing	O
+initiate_63	taxes	O

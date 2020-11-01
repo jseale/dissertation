@@ -1,0 +1,13 @@
+project_70	The	O
+project_70	project	project_nou
+project_70	was	O
+project_70	cut	O
+project_70	short	O
+project_70	for	O
+project_70	lack	O
+project_70	of	O
+project_70	funding	O
+project_70	but	O
+project_70	the	O
+project_70	name	O
+project_70	remained	O

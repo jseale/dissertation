@@ -1,0 +1,14 @@
+rerelease_71	It	O
+rerelease_71	was	O
+rerelease_71	taken	O
+rerelease_71	from	O
+rerelease_71	the	O
+rerelease_71	2008	O
+rerelease_71	rerelease	rerelease
+rerelease_71	of	O
+rerelease_71	her	O
+rerelease_71	2007	O
+rerelease_71	album	O
+rerelease_71	Over	O
+rerelease_71	the	O
+rerelease_71	Rainbow	O

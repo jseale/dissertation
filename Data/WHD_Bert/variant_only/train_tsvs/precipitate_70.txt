@@ -1,0 +1,8 @@
+precipitate_70	If	O
+precipitate_70	a	O
+precipitate_70	white	O
+precipitate_70	precipitate	precipitate_adj-nou
+precipitate_70	forms	O
+precipitate_70	Zinc	O
+precipitate_70	is	O
+precipitate_70	present	O

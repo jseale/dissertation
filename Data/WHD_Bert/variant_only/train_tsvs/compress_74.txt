@@ -1,0 +1,10 @@
+compress_74	BOCU-1	O
+compress_74	and	O
+compress_74	SCSU	O
+compress_74	are	O
+compress_74	two	O
+compress_74	ways	O
+compress_74	to	O
+compress_74	compress	compress
+compress_74	Unicode	O
+compress_74	data	O

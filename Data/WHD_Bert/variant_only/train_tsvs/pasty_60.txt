@@ -1,0 +1,7 @@
+pasty_60	Mexican	O
+pasty_60	Pasty	pasty_adj
+pasty_60	Makers	O
+pasty_60	Get	O
+pasty_60	Tips	O
+pasty_60	From	O
+pasty_60	Cornwall	O

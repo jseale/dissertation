@@ -1,0 +1,14 @@
+wound_0	The	O
+wound_0	two	O
+wound_0	hide	O
+wound_0	in	O
+wound_0	a	O
+wound_0	nearby	O
+wound_0	cell	O
+wound_0	where	O
+wound_0	Billy	O
+wound_0	dies	O
+wound_0	from	O
+wound_0	a	O
+wound_0	chest	O
+wound_0	wound	wound_nou-vrb

@@ -1,0 +1,8 @@
+animate_54	Motion	O
+animate_54	capturing	O
+animate_54	was	O
+animate_54	used	O
+animate_54	to	O
+animate_54	animate	animate_vrb
+animate_54	the	O
+animate_54	film	O

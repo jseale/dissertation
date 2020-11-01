@@ -1,0 +1,13 @@
+compound_10	Buddhist	O
+compound_10	temple	O
+compound_10	compound	compound_nou
+compound_10	located	O
+compound_10	few	O
+compound_10	kilometers	O
+compound_10	east	O
+compound_10	from	O
+compound_10	Sewu	O
+compound_10	temple	O
+compound_10	probably	O
+compound_10	9th	O
+compound_10	century	O

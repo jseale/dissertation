@@ -1,0 +1,11 @@
+ornament_47	Six	O
+ornament_47	decorative	O
+ornament_47	relief	O
+ornament_47	panels	O
+ornament_47	ornament	ornament_vrb
+ornament_47	the	O
+ornament_47	upper	O
+ornament_47	portion	O
+ornament_47	of	O
+ornament_47	the	O
+ornament_47	structure	O

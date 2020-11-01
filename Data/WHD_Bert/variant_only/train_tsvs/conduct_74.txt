@@ -1,0 +1,16 @@
+conduct_74	He	O
+conduct_74	served	O
+conduct_74	with	O
+conduct_74	distinction	O
+conduct_74	in	O
+conduct_74	Egypt	O
+conduct_74	and	O
+conduct_74	was	O
+conduct_74	awarded	O
+conduct_74	a	O
+conduct_74	sabre	O
+conduct_74	of	O
+conduct_74	honour	O
+conduct_74	for	O
+conduct_74	his	O
+conduct_74	conduct	conduct_nou

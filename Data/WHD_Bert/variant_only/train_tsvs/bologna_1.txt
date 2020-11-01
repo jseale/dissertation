@@ -1,0 +1,16 @@
+bologna_1	He	O
+bologna_1	was	O
+bologna_1	a	O
+bologna_1	pupil	O
+bologna_1	of	O
+bologna_1	Carlo	O
+bologna_1	Cignani	O
+bologna_1	in	O
+bologna_1	Bologna	bologna_geo
+bologna_1	and	O
+bologna_1	worked	O
+bologna_1	in	O
+bologna_1	Lombardy	O
+bologna_1	then	O
+bologna_1	in	O
+bologna_1	Rome	O

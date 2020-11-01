@@ -1,0 +1,14 @@
+implement_18	Editors	O
+implement_18	that	O
+implement_18	implement	implement_vrb
+implement_18	folding	O
+implement_18	without	O
+implement_18	programing	O
+implement_18	specific	O
+implement_18	features	O
+implement_18	are	O
+implement_18	usually	O
+implement_18	called	O
+implement_18	outliners	O
+implement_18	see	O
+implement_18	below	O

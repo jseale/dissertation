@@ -1,0 +1,16 @@
+close_76	For	O
+close_76	unknown	O
+close_76	reasons	O
+close_76	the	O
+close_76	Poles	O
+close_76	did	O
+close_76	not	O
+close_76	use	O
+close_76	the	O
+close_76	grenades	O
+close_76	prepared	O
+close_76	for	O
+close_76	defence	O
+close_76	in	O
+close_76	close	close_adj-nou
+close_76	quarters	O

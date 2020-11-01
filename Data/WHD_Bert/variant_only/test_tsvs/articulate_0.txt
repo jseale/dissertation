@@ -1,0 +1,16 @@
+articulate_0	Such	O
+articulate_0	a	O
+articulate_0	grace	O
+articulate_0	filled	O
+articulate_0	perspective	O
+articulate_0	has	O
+articulate_0	challenged	O
+articulate_0	some	O
+articulate_0	Adventists	O
+articulate_0	who	O
+articulate_0	articulate	articulate_vrb
+articulate_0	Last	O
+articulate_0	Generation	O
+articulate_0	Theology	O
+articulate_0	within	O
+articulate_0	Adventism	O

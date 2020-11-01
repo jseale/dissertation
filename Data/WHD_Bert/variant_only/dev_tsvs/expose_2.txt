@@ -1,0 +1,15 @@
+expose_2	One	O
+expose_2	way	O
+expose_2	of	O
+expose_2	doing	O
+expose_2	so	O
+expose_2	was	O
+expose_2	to	O
+expose_2	avoid	O
+expose_2	foreign	O
+expose_2	publicity	O
+expose_2	in	O
+expose_2	order	O
+expose_2	to	O
+expose_2	expose	expose_vrb
+expose_2	problems	O

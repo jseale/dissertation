@@ -1,0 +1,10 @@
+graduate_1	She	O
+graduate_1	is	O
+graduate_1	a	O
+graduate_1	graduate	graduate_adj-nou
+graduate_1	of	O
+graduate_1	the	O
+graduate_1	London	O
+graduate_1	School	O
+graduate_1	of	O
+graduate_1	Journalism	O

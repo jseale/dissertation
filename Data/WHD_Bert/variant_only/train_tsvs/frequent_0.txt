@@ -1,0 +1,15 @@
+frequent_0	Fishermen	O
+frequent_0	frequent	frequent_vrb
+frequent_0	the	O
+frequent_0	local	O
+frequent_0	beaches	O
+frequent_0	and	O
+frequent_0	the	O
+frequent_0	Pacifica	O
+frequent_0	Pier	O
+frequent_0	often	O
+frequent_0	catching	O
+frequent_0	Striped	O
+frequent_0	Bass	O
+frequent_0	and	O
+frequent_0	Salmon	O

@@ -1,0 +1,13 @@
+perfect_66	He	O
+perfect_66	wrote	O
+perfect_66	Imagine	O
+perfect_66	a	O
+perfect_66	society	O
+perfect_66	of	O
+perfect_66	saints	O
+perfect_66	a	O
+perfect_66	perfect	perfect_adj
+perfect_66	cloister	O
+perfect_66	of	O
+perfect_66	exemplary	O
+perfect_66	individuals	O

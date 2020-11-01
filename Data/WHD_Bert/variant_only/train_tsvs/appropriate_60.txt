@@ -1,0 +1,12 @@
+appropriate_60	To	O
+appropriate_60	get	O
+appropriate_60	appropriate	appropriate_adj
+appropriate_60	tuition	O
+appropriate_60	he	O
+appropriate_60	had	O
+appropriate_60	to	O
+appropriate_60	travel	O
+appropriate_60	to	O
+appropriate_60	Birmingham	O
+appropriate_60	Technical	O
+appropriate_60	College	O

@@ -1,0 +1,15 @@
+animate_8	This	O
+animate_8	book	O
+animate_8	of	O
+animate_8	the	O
+animate_8	Duchess	O
+animate_8	is	O
+animate_8	a	O
+animate_8	learned	O
+animate_8	invention	O
+animate_8	and	O
+animate_8	yet	O
+animate_8	a	O
+animate_8	fully	O
+animate_8	animate	animate_adj-nou
+animate_8	one	O

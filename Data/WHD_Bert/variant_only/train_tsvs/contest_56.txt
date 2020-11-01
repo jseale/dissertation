@@ -1,0 +1,15 @@
+contest_56	He	O
+contest_56	qualified	O
+contest_56	for	O
+contest_56	the	O
+contest_56	final	O
+contest_56	and	O
+contest_56	finished	O
+contest_56	the	O
+contest_56	contest	contest_nou
+contest_56	at	O
+contest_56	8th	O
+contest_56	position	O
+contest_56	with	O
+contest_56	229	O
+contest_56	points	O

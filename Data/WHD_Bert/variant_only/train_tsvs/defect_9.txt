@@ -1,0 +1,12 @@
+defect_9	The	O
+defect_9	exact	O
+defect_9	chromosomal	O
+defect_9	defect	defect_nou
+defect_9	in	O
+defect_9	isolated	O
+defect_9	cleft	O
+defect_9	hand	O
+defect_9	is	O
+defect_9	not	O
+defect_9	yet	O
+defect_9	defined	O

@@ -1,0 +1,11 @@
+alternate_42	The	O
+alternate_42	scenes	O
+alternate_42	constantly	O
+alternate_42	alternate	alternate_vrb
+alternate_42	between	O
+alternate_42	a	O
+alternate_42	single	O
+alternate_42	frame	O
+alternate_42	to	O
+alternate_42	a	O
+alternate_42	grid	O

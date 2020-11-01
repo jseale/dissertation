@@ -1,0 +1,16 @@
+advocate_33	Rohrbach	O
+advocate_33	was	O
+advocate_33	an	O
+advocate_33	advocate	advocate_nou
+advocate_33	of	O
+advocate_33	eradicating	O
+advocate_33	native	O
+advocate_33	Africans	O
+advocate_33	in	O
+advocate_33	order	O
+advocate_33	to	O
+advocate_33	make	O
+advocate_33	room	O
+advocate_33	for	O
+advocate_33	German	O
+advocate_33	colonists	O

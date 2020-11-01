@@ -1,0 +1,13 @@
+delegate_58	Another	O
+delegate_58	Mexican	O
+delegate_58	delegate	delegate_nou
+delegate_58	reported	O
+delegate_58	1,000	O
+delegate_58	free	O
+delegate_58	beds	O
+delegate_58	for	O
+delegate_58	maternity	O
+delegate_58	service	O
+delegate_58	in	O
+delegate_58	Mexico	O
+delegate_58	City	O

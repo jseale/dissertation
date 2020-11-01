@@ -1,0 +1,9 @@
+perfume_18	Their	O
+perfume_18	perfume	perfume_nou
+perfume_18	is	O
+perfume_18	described	O
+perfume_18	as	O
+perfume_18	fruity	O
+perfume_18	with	O
+perfume_18	citrus	O
+perfume_18	undertones	O

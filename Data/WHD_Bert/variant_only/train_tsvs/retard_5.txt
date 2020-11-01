@@ -1,0 +1,13 @@
+retard_5	During	O
+retard_5	the	O
+retard_5	flare	O
+retard_5	pilots	O
+retard_5	retard	retard_vrb
+retard_5	the	O
+retard_5	throttles	O
+retard_5	to	O
+retard_5	idle	O
+retard_5	to	O
+retard_5	reduce	O
+retard_5	engine	O
+retard_5	thrust	O

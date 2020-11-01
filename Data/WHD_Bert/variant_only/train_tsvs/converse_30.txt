@@ -1,0 +1,12 @@
+converse_30	He	O
+converse_30	also	O
+converse_30	argued	O
+converse_30	that	O
+converse_30	Kripal	O
+converse_30	was	O
+converse_30	unable	O
+converse_30	even	O
+converse_30	to	O
+converse_30	converse	converse_vrb
+converse_30	in	O
+converse_30	Bengali	O

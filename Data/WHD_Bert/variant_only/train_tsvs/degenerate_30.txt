@@ -1,0 +1,15 @@
+degenerate_30	If	O
+degenerate_30	and	O
+degenerate_30	are	O
+degenerate_30	independent	O
+degenerate_30	this	O
+degenerate_30	model	O
+degenerate_30	will	O
+degenerate_30	degenerate	degenerate_vrb
+degenerate_30	to	O
+degenerate_30	a	O
+degenerate_30	probit	O
+degenerate_30	model	O
+degenerate_30	with	O
+degenerate_30	unobservable	O
+degenerate_30	heterogeneity	O

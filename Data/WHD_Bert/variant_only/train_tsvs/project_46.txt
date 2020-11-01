@@ -1,0 +1,12 @@
+project_46	Tango	O
+project_46	3.0	O
+project_46	is	O
+project_46	a	O
+project_46	studio	O
+project_46	album	O
+project_46	by	O
+project_46	the	O
+project_46	electronic	O
+project_46	band	O
+project_46	Gotan	O
+project_46	Project	project_nou

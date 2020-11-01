@@ -1,0 +1,14 @@
+isolate_73	Pectolinarigenin	O
+isolate_73	is	O
+isolate_73	a	O
+isolate_73	Cirsium	O
+isolate_73	isolate	isolate_nou
+isolate_73	with	O
+isolate_73	anti	O
+isolate_73	inflammatory	O
+isolate_73	activity	O
+isolate_73	and	O
+isolate_73	belongs	O
+isolate_73	to	O
+isolate_73	the	O
+isolate_73	flavones	O

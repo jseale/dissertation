@@ -1,0 +1,15 @@
+escort_1	Cubitt	O
+escort_1	was	O
+escort_1	assigned	O
+escort_1	to	O
+escort_1	Nore	O
+escort_1	Command	O
+escort_1	serving	O
+escort_1	in	O
+escort_1	the	O
+escort_1	21st	O
+escort_1	Escort	escort_nou
+escort_1	Group	O
+escort_1	based	O
+escort_1	at	O
+escort_1	Harwich	O

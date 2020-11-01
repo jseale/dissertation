@@ -1,0 +1,12 @@
+refund_59	Instead	O
+refund_59	of	O
+refund_59	getting	O
+refund_59	a	O
+refund_59	refund	refund_nou
+refund_59	subscribers	O
+refund_59	were	O
+refund_59	sent	O
+refund_59	copies	O
+refund_59	of	O
+refund_59	The	O
+refund_59	Week	O

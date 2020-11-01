@@ -1,0 +1,8 @@
+aged_9	Catherine	O
+aged_9	Lydon	O
+aged_9	sister	O
+aged_9	unmarried	O
+aged_9	aged	aged
+aged_9	18	O
+aged_9	birthplace	O
+aged_9	Ireland	O

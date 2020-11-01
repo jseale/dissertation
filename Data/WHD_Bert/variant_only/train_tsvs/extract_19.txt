@@ -1,0 +1,17 @@
+extract_19	In	O
+extract_19	order	O
+extract_19	to	O
+extract_19	extract	extract_vrb
+extract_19	more	O
+extract_19	information	O
+extract_19	from	O
+extract_19	Simmons	O
+extract_19	Sylar	O
+extract_19	invades	O
+extract_19	the	O
+extract_19	house	O
+extract_19	of	O
+extract_19	Luke	O
+extract_19	and	O
+extract_19	Mary	O
+extract_19	Campbell	O

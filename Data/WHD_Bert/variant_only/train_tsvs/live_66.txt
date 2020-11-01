@@ -1,0 +1,13 @@
+live_66	Live	live_adj
+live_66	oaks	O
+live_66	drop	O
+live_66	their	O
+live_66	leaves	O
+live_66	immediately	O
+live_66	before	O
+live_66	new	O
+live_66	leaves	O
+live_66	emerge	O
+live_66	in	O
+live_66	the	O
+live_66	spring	O

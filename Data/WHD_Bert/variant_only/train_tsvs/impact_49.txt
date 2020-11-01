@@ -1,0 +1,15 @@
+impact_49	Its	O
+impact_49	overall	O
+impact_49	impact	impact_nou
+impact_49	however	O
+impact_49	was	O
+impact_49	insufficient	O
+impact_49	to	O
+impact_49	reverse	O
+impact_49	the	O
+impact_49	tide	O
+impact_49	of	O
+impact_49	action	O
+impact_49	in	O
+impact_49	the	O
+impact_49	streets	O

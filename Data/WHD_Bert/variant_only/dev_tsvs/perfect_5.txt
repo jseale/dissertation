@@ -1,0 +1,16 @@
+perfect_5	Strength	O
+perfect_5	Through	O
+perfect_5	Vengeance	O
+perfect_5	is	O
+perfect_5	third	O
+perfect_5	full	O
+perfect_5	length	O
+perfect_5	album	O
+perfect_5	by	O
+perfect_5	Canadian	O
+perfect_5	heavy	O
+perfect_5	metal	O
+perfect_5	band	O
+perfect_5	A	O
+perfect_5	Perfect	perfect_adj
+perfect_5	Murder	O

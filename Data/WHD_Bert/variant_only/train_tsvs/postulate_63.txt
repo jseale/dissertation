@@ -1,0 +1,10 @@
+postulate_63	The	O
+postulate_63	Hammond	O
+postulate_63	postulate	postulate_nou
+postulate_63	is	O
+postulate_63	the	O
+postulate_63	opposite	O
+postulate_63	of	O
+postulate_63	what	O
+postulate_63	Bunnett	O
+postulate_63	theorized	O

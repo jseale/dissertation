@@ -1,0 +1,8 @@
+lives_46	Critical	O
+lives_46	response	O
+lives_46	to	O
+lives_46	Other	O
+lives_46	Lives	lives_nou
+lives_46	was	O
+lives_46	generally	O
+lives_46	positive	O

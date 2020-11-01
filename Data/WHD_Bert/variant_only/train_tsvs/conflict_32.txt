@@ -1,0 +1,12 @@
+conflict_32	An	O
+conflict_32	occasion	O
+conflict_32	for	O
+conflict_32	war	O
+conflict_32	civil	O
+conflict_32	conflict	conflict_nou
+conflict_32	in	O
+conflict_32	Lebanon	O
+conflict_32	and	O
+conflict_32	Damascus	O
+conflict_32	in	O
+conflict_32	1860	O

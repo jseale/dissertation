@@ -1,0 +1,13 @@
+escort_0	It	O
+escort_0	saw	O
+escort_0	action	O
+escort_0	as	O
+escort_0	a	O
+escort_0	convoy	O
+escort_0	escort	escort_nou
+escort_0	during	O
+escort_0	the	O
+escort_0	Battle	O
+escort_0	of	O
+escort_0	the	O
+escort_0	Atlantic	O

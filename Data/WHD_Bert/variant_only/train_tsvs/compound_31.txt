@@ -1,0 +1,17 @@
+compound_31	The	O
+compound_31	head	O
+compound_31	has	O
+compound_31	a	O
+compound_31	pair	O
+compound_31	of	O
+compound_31	long	O
+compound_31	slender	O
+compound_31	antennae	O
+compound_31	two	O
+compound_31	large	O
+compound_31	compound	compound_nou
+compound_31	eyes	O
+compound_31	and	O
+compound_31	two	O
+compound_31	protuberant	O
+compound_31	ocelli	O

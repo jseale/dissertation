@@ -1,0 +1,16 @@
+reject_23	In	O
+reject_23	particular	O
+reject_23	the	O
+reject_23	context	O
+reject_23	driven	O
+reject_23	community	O
+reject_23	and	O
+reject_23	the	O
+reject_23	International	O
+reject_23	Society	O
+reject_23	for	O
+reject_23	Software	O
+reject_23	Testing	O
+reject_23	reject	reject_vrb
+reject_23	these	O
+reject_23	standards	O

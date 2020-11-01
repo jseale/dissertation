@@ -1,0 +1,15 @@
+intrigue_38	Evans	O
+intrigue_38	political	O
+intrigue_38	intrigue	intrigue_nou
+intrigue_38	provoked	O
+intrigue_38	Swift	O
+intrigue_38	during	O
+intrigue_38	an	O
+intrigue_38	inspection	O
+intrigue_38	of	O
+intrigue_38	the	O
+intrigue_38	clergy	O
+intrigue_38	of	O
+intrigue_38	Meath	O
+intrigue_38	at	O
+intrigue_38	Trim	O

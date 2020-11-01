@@ -1,0 +1,17 @@
+construct_2	The	O
+construct_2	crew	O
+construct_2	from	O
+construct_2	the	O
+construct_2	new	O
+construct_2	camp	O
+construct_2	went	O
+construct_2	on	O
+construct_2	in	O
+construct_2	1942	O
+construct_2	to	O
+construct_2	construct	construct_vrb
+construct_2	a	O
+construct_2	campground	O
+construct_2	at	O
+construct_2	Graves	O
+construct_2	Creek	O

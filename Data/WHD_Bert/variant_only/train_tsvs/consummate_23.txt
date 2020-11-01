@@ -1,0 +1,10 @@
+consummate_23	Nix	O
+consummate_23	is	O
+consummate_23	recognized	O
+consummate_23	as	O
+consummate_23	a	O
+consummate_23	consummate	consummate_adj
+consummate_23	storyteller	O
+consummate_23	of	O
+consummate_23	early	O
+consummate_23	Adventism	O

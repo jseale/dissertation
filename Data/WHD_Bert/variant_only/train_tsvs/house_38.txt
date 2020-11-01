@@ -1,0 +1,14 @@
+house_38	This	O
+house_38	meant	O
+house_38	the	O
+house_38	oil	O
+house_38	could	O
+house_38	flow	O
+house_38	into	O
+house_38	each	O
+house_38	house	house_nou
+house_38	under	O
+house_38	the	O
+house_38	influence	O
+house_38	of	O
+house_38	gravity	O

@@ -1,0 +1,7 @@
+associate_4	Two	O
+associate_4	dimers	O
+associate_4	then	O
+associate_4	associate	associate_vrb
+associate_4	into	O
+associate_4	a	O
+associate_4	tetramer	O

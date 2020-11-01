@@ -1,0 +1,13 @@
+abstract_24	Jack	O
+abstract_24	Coulter	O
+abstract_24	born	O
+abstract_24	1994	O
+abstract_24	is	O
+abstract_24	an	O
+abstract_24	abstract	abstract_adj-nou
+abstract_24	expressionist	O
+abstract_24	painter	O
+abstract_24	and	O
+abstract_24	photographer	O
+abstract_24	from	O
+abstract_24	Belfast	O

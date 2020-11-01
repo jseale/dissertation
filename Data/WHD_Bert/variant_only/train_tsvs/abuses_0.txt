@@ -1,0 +1,16 @@
+abuses_0	While	O
+abuses_0	the	O
+abuses_0	Chipmunks	O
+abuses_0	like	O
+abuses_0	Samantha	O
+abuses_0	her	O
+abuses_0	son	O
+abuses_0	Miles	O
+abuses_0	is	O
+abuses_0	a	O
+abuses_0	bully	O
+abuses_0	who	O
+abuses_0	physically	O
+abuses_0	abuses	abuses_vrb
+abuses_0	the	O
+abuses_0	trio	O

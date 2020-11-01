@@ -1,0 +1,16 @@
+syndicate_76	French	O
+syndicate_76	Steel	O
+syndicate_76	Construction	O
+syndicate_76	Syndicate	syndicate_nou
+syndicate_76	declared	O
+syndicate_76	it	O
+syndicate_76	as	O
+syndicate_76	the	O
+syndicate_76	most	O
+syndicate_76	beautiful	O
+syndicate_76	steel	O
+syndicate_76	work	O
+syndicate_76	Bridges	O
+syndicate_76	Category	O
+syndicate_76	in	O
+syndicate_76	2008	O

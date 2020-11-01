@@ -1,0 +1,9 @@
+isolate_50	At	O
+isolate_50	the	O
+isolate_50	same	O
+isolate_50	time	O
+isolate_50	he	O
+isolate_50	began	O
+isolate_50	to	O
+isolate_50	isolate	isolate
+isolate_50	himself	O

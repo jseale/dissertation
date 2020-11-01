@@ -1,0 +1,12 @@
+live_0	Dead	O
+live_0	End	O
+live_0	recorded	O
+live_0	their	O
+live_0	live	live_adj
+live_0	video	O
+live_0	Psychoscape	O
+live_0	here	O
+live_0	on	O
+live_0	September	O
+live_0	24	O
+live_0	1988	O

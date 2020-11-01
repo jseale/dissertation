@@ -1,0 +1,14 @@
+progress_71	District	O
+progress_71	AYP	O
+progress_71	status	O
+progress_71	historyIn	O
+progress_71	2011	O
+progress_71	Claysburg	O
+progress_71	Kimmel	O
+progress_71	School	O
+progress_71	District	O
+progress_71	achieved	O
+progress_71	Adequate	O
+progress_71	Yearly	O
+progress_71	Progress	progress_nou
+progress_71	AYP	O

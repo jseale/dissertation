@@ -1,0 +1,9 @@
+abstract_14	Jarmo	O
+abstract_14	is	O
+abstract_14	a	O
+abstract_14	two	O
+abstract_14	player	O
+abstract_14	abstract	abstract_adj-nou
+abstract_14	strategy	O
+abstract_14	board	O
+abstract_14	game	O

@@ -1,0 +1,15 @@
+implement_26	Speargun	O
+implement_26	A	O
+implement_26	speargun	O
+implement_26	is	O
+implement_26	an	O
+implement_26	underwater	O
+implement_26	fishing	O
+implement_26	implement	implement_nou
+implement_26	designed	O
+implement_26	to	O
+implement_26	fire	O
+implement_26	a	O
+implement_26	spear	O
+implement_26	at	O
+implement_26	fish	O

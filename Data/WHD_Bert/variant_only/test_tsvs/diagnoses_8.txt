@@ -1,0 +1,16 @@
+diagnoses_8	Subsequent	O
+diagnoses_8	cases	O
+diagnoses_8	throughout	O
+diagnoses_8	the	O
+diagnoses_8	20th	O
+diagnoses_8	century	O
+diagnoses_8	reflect	O
+diagnoses_8	advancements	O
+diagnoses_8	in	O
+diagnoses_8	diagnoses	diagnoses_nou
+diagnoses_8	of	O
+diagnoses_8	both	O
+diagnoses_8	hearing	O
+diagnoses_8	loss	O
+diagnoses_8	and	O
+diagnoses_8	stroke	O

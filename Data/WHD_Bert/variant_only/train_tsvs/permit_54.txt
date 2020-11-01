@@ -1,0 +1,11 @@
+permit_54	In	O
+permit_54	the	O
+permit_54	U.S.	O
+permit_54	a	O
+permit_54	construction	O
+permit_54	permit	permit_nou
+permit_54	is	O
+permit_54	valid	O
+permit_54	for	O
+permit_54	three	O
+permit_54	years	O

@@ -1,0 +1,14 @@
+initiate_48	Certain	O
+initiate_48	inflammatory	O
+initiate_48	chemokines	O
+initiate_48	activate	O
+initiate_48	cells	O
+initiate_48	to	O
+initiate_48	initiate	initiate_vrb
+initiate_48	an	O
+initiate_48	immune	O
+initiate_48	response	O
+initiate_48	or	O
+initiate_48	promote	O
+initiate_48	wound	O
+initiate_48	healing	O

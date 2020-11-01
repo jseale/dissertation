@@ -1,0 +1,15 @@
+reject_38	Carcetti	O
+reject_38	's	O
+reject_38	decision	O
+reject_38	to	O
+reject_38	reject	reject_vrb
+reject_38	the	O
+reject_38	governor	O
+reject_38	's	O
+reject_38	bailout	O
+reject_38	leaves	O
+reject_38	him	O
+reject_38	with	O
+reject_38	intractable	O
+reject_38	budget	O
+reject_38	problems	O

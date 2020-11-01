@@ -1,0 +1,14 @@
+separate_32	While	O
+separate_32	numerous	O
+separate_32	6502-based	O
+separate_32	processors	O
+separate_32	could	O
+separate_32	do	O
+separate_32	bank	O
+separate_32	switching	O
+separate_32	they	O
+separate_32	did	O
+separate_32	this	O
+separate_32	via	O
+separate_32	separate	separate_adj
+separate_32	logic	O

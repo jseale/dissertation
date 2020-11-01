@@ -1,0 +1,15 @@
+mobile_1	They	O
+mobile_1	make	O
+mobile_1	use	O
+mobile_1	of	O
+mobile_1	a	O
+mobile_1	mobile	mobile
+mobile_1	ball	O
+mobile_1	and	O
+mobile_1	liquid	O
+mobile_1	ink	O
+mobile_1	to	O
+mobile_1	produce	O
+mobile_1	a	O
+mobile_1	smoother	O
+mobile_1	line	O

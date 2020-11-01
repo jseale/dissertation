@@ -1,0 +1,14 @@
+associate_71	Kishen	O
+associate_71	murders	O
+associate_71	Mehaboob	O
+associate_71	Nadirshah	O
+associate_71	a	O
+associate_71	close	O
+associate_71	associate	associate_adj-nou
+associate_71	of	O
+associate_71	Muhammed	O
+associate_71	Ibrahim	O
+associate_71	which	O
+associate_71	upsets	O
+associate_71	him	O
+associate_71	greatly	O

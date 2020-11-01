@@ -1,0 +1,15 @@
+conscript_14	As	O
+conscript_14	predominantly	O
+conscript_14	conscript	conscript_nou
+conscript_14	units	O
+conscript_14	the	O
+conscript_14	Zouaves	O
+conscript_14	did	O
+conscript_14	not	O
+conscript_14	serve	O
+conscript_14	in	O
+conscript_14	Indochina	O
+conscript_14	between	O
+conscript_14	1945	O
+conscript_14	and	O
+conscript_14	1954	O

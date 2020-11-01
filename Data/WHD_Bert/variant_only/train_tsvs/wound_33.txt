@@ -1,0 +1,11 @@
+wound_33	It	O
+wound_33	is	O
+wound_33	a	O
+wound_33	weakly	O
+wound_33	barred	O
+wound_33	spiral	O
+wound_33	galaxy	O
+wound_33	with	O
+wound_33	loosely	O
+wound_33	wound	wound_vrb
+wound_33	arms	O

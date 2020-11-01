@@ -1,0 +1,11 @@
+transport_73	The	O
+transport_73	transport	transport_nou
+transport_73	volume	O
+transport_73	in	O
+transport_73	2008	O
+transport_73	amounted	O
+transport_73	to	O
+transport_73	over	O
+transport_73	90	O
+transport_73	million	O
+transport_73	tons	O

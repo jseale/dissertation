@@ -1,0 +1,15 @@
+abstract_45	Gorin	O
+abstract_45	participated	O
+abstract_45	in	O
+abstract_45	many	O
+abstract_45	other	O
+abstract_45	exhibitions	O
+abstract_45	of	O
+abstract_45	abstract	abstract_adj-nou
+abstract_45	art	O
+abstract_45	in	O
+abstract_45	Europe	O
+abstract_45	and	O
+abstract_45	the	O
+abstract_45	United	O
+abstract_45	States	O

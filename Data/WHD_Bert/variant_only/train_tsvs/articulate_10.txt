@@ -1,0 +1,17 @@
+articulate_10	One	O
+articulate_10	historian	O
+articulate_10	of	O
+articulate_10	modern	O
+articulate_10	Germany	O
+articulate_10	described	O
+articulate_10	him	O
+articulate_10	as	O
+articulate_10	the	O
+articulate_10	most	O
+articulate_10	articulate	articulate_adj
+articulate_10	anti	O
+articulate_10	Nazi	O
+articulate_10	in	O
+articulate_10	the	O
+articulate_10	Catholic	O
+articulate_10	hierarchy	O

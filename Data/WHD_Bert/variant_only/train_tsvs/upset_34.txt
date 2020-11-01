@@ -1,0 +1,16 @@
+upset_34	He	O
+upset_34	heads	O
+upset_34	to	O
+upset_34	Berlin	O
+upset_34	leaving	O
+upset_34	behind	O
+upset_34	an	O
+upset_34	upset	upset_nou
+upset_34	Marianna	O
+upset_34	who	O
+upset_34	tells	O
+upset_34	him	O
+upset_34	not	O
+upset_34	to	O
+upset_34	return	O
+upset_34	Paradise	O

@@ -1,0 +1,14 @@
+expatriate_66	The	O
+expatriate_66	film	O
+expatriate_66	thus	O
+expatriate_66	tries	O
+expatriate_66	to	O
+expatriate_66	form	O
+expatriate_66	an	O
+expatriate_66	emotional	O
+expatriate_66	connection	O
+expatriate_66	with	O
+expatriate_66	the	O
+expatriate_66	expatriate	expatriate_nou
+expatriate_66	Indian	O
+expatriate_66	audiences	O

@@ -1,0 +1,17 @@
+deviate_8	However	O
+deviate_8	church	O
+deviate_8	leaders	O
+deviate_8	say	O
+deviate_8	chances	O
+deviate_8	are	O
+deviate_8	slim	O
+deviate_8	it	O
+deviate_8	would	O
+deviate_8	deviate	deviate_vrb
+deviate_8	from	O
+deviate_8	its	O
+deviate_8	sanctions	O
+deviate_8	against	O
+deviate_8	active	O
+deviate_8	gay	O
+deviate_8	relationships	O

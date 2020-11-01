@@ -1,0 +1,14 @@
+contract_42	Modern	O
+contract_42	banknotes	O
+contract_42	are	O
+contract_42	printed	O
+contract_42	by	O
+contract_42	contract	contract_nou
+contract_42	with	O
+contract_42	De	O
+contract_42	La	O
+contract_42	Rue	O
+contract_42	Currency	O
+contract_42	in	O
+contract_42	Loughton	O
+contract_42	Essex	O

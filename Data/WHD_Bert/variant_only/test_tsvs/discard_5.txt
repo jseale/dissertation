@@ -1,0 +1,15 @@
+discard_5	The	O
+discard_5	zone	O
+discard_5	of	O
+discard_5	assimilation	O
+discard_5	and	O
+discard_5	zone	O
+discard_5	of	O
+discard_5	discard	discard_nou
+discard_5	are	O
+discard_5	together	O
+discard_5	called	O
+discard_5	the	O
+discard_5	zone	O
+discard_5	of	O
+discard_5	transition	O

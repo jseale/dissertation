@@ -1,0 +1,13 @@
+conjugate_37	Conjugate	conjugate_adj-nou
+conjugate_37	coding	O
+conjugate_37	is	O
+conjugate_37	a	O
+conjugate_37	cryptographic	O
+conjugate_37	tool	O
+conjugate_37	introduced	O
+conjugate_37	by	O
+conjugate_37	Stephen	O
+conjugate_37	Wiesner	O
+conjugate_37	in	O
+conjugate_37	the	O
+conjugate_37	1960s	O

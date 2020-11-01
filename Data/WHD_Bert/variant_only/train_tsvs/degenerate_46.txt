@@ -1,0 +1,14 @@
+degenerate_46	Then	O
+degenerate_46	the	O
+degenerate_46	lines	O
+degenerate_46	connecting	O
+degenerate_46	corresponding	O
+degenerate_46	points	O
+degenerate_46	form	O
+degenerate_46	a	O
+degenerate_46	dual	O
+degenerate_46	non	O
+degenerate_46	degenerate	degenerate_adj-nou
+degenerate_46	projective	O
+degenerate_46	conic	O
+degenerate_46	section	O

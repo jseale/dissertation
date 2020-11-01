@@ -1,0 +1,8 @@
+confines_34	Its	O
+confines_34	confines	confines_nou
+confines_34	are	O
+confines_34	within	O
+confines_34	the	O
+confines_34	10th	O
+confines_34	Police	O
+confines_34	Precinct	O

@@ -1,0 +1,15 @@
+rebel_43	In	O
+rebel_43	1936	O
+rebel_43	a	O
+rebel_43	rebel	rebel_nou
+rebel_43	group	O
+rebel_43	led	O
+rebel_43	by	O
+rebel_43	Taurino	O
+rebel_43	Lopez	O
+rebel_43	burned	O
+rebel_43	the	O
+rebel_43	municipal	O
+rebel_43	archives	O
+rebel_43	of	O
+rebel_43	Penamiller	O

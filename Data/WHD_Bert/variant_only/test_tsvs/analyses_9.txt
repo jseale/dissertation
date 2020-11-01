@@ -1,0 +1,9 @@
+analyses_9	Some	O
+analyses_9	analyses	analyses_nou
+analyses_9	see	O
+analyses_9	aspects	O
+analyses_9	of	O
+analyses_9	shamanism	O
+analyses_9	in	O
+analyses_9	his	O
+analyses_9	writing	O

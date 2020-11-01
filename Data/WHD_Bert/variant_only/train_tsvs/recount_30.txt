@@ -1,0 +1,11 @@
+recount_30	Because	O
+recount_30	of	O
+recount_30	this	O
+recount_30	losing	O
+recount_30	candidate	O
+recount_30	Lorene	O
+recount_30	Coates	O
+recount_30	asked	O
+recount_30	for	O
+recount_30	a	O
+recount_30	recount	recount_nou

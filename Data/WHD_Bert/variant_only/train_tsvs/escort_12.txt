@@ -1,0 +1,17 @@
+escort_12	Cowra	O
+escort_12	began	O
+escort_12	active	O
+escort_12	service	O
+escort_12	in	O
+escort_12	November	O
+escort_12	1943	O
+escort_12	as	O
+escort_12	a	O
+escort_12	convoy	O
+escort_12	escort	escort_nou
+escort_12	along	O
+escort_12	the	O
+escort_12	east	O
+escort_12	coast	O
+escort_12	of	O
+escort_12	Australia	O

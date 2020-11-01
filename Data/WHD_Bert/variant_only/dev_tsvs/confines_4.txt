@@ -1,0 +1,17 @@
+confines_4	Its	O
+confines_4	length	O
+confines_4	is	O
+confines_4	209	O
+confines_4	km	O
+confines_4	130	O
+confines_4	mi	O
+confines_4	and	O
+confines_4	it	O
+confines_4	flows	O
+confines_4	only	O
+confines_4	within	O
+confines_4	the	O
+confines_4	geographical	O
+confines_4	confines	confines_nou
+confines_4	of	O
+confines_4	Lithuania	O

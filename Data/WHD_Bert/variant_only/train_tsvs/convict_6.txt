@@ -1,0 +1,17 @@
+convict_6	The	O
+convict_6	Albany	O
+convict_6	Convict	convict_nou
+convict_6	Gaol	O
+convict_6	was	O
+convict_6	established	O
+convict_6	in	O
+convict_6	1852	O
+convict_6	for	O
+convict_6	imperial	O
+convict_6	convicts	O
+convict_6	transported	O
+convict_6	to	O
+convict_6	Albany	O
+convict_6	as	O
+convict_6	skilled	O
+convict_6	labourers	O

@@ -1,0 +1,12 @@
+implement_21	An	O
+implement_21	application	O
+implement_21	can	O
+implement_21	implement	implement_vrb
+implement_21	synchronized	O
+implement_21	distributed	O
+implement_21	rendering	O
+implement_21	using	O
+implement_21	802.1AS	O
+implement_21	and	O
+implement_21	higher	O
+implement_21	layers	O

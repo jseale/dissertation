@@ -1,0 +1,17 @@
+subordinate_30	Although	O
+subordinate_30	the	O
+subordinate_30	mafia	O
+subordinate_30	leader	O
+subordinate_30	can	O
+subordinate_30	not	O
+subordinate_30	get	O
+subordinate_30	to	O
+subordinate_30	Kwan	O
+subordinate_30	they	O
+subordinate_30	manage	O
+subordinate_30	to	O
+subordinate_30	kill	O
+subordinate_30	Pao	O
+subordinate_30	's	O
+subordinate_30	subordinate	subordinate_adj-nou
+subordinate_30	Yung	O

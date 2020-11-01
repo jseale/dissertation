@@ -1,0 +1,9 @@
+precipitate_58	This	O
+precipitate_58	split	O
+precipitate_58	would	O
+precipitate_58	eventually	O
+precipitate_58	precipitate	precipitate_vrb
+precipitate_58	the	O
+precipitate_58	Fall	O
+precipitate_58	of	O
+precipitate_58	Numenor	O

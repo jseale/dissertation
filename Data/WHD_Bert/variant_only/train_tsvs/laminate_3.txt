@@ -1,0 +1,10 @@
+laminate_3	Vacuum	O
+laminate_3	pressure	O
+laminate_3	is	O
+laminate_3	used	O
+laminate_3	to	O
+laminate_3	drive	O
+laminate_3	resin	O
+laminate_3	into	O
+laminate_3	the	O
+laminate_3	laminate	laminate_nou

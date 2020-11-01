@@ -1,0 +1,15 @@
+pervert_4	She	O
+pervert_4	is	O
+pervert_4	athletic	O
+pervert_4	and	O
+pervert_4	is	O
+pervert_4	often	O
+pervert_4	violent	O
+pervert_4	towards	O
+pervert_4	Haruki	O
+pervert_4	calling	O
+pervert_4	him	O
+pervert_4	Baka	O
+pervert_4	Eroki	O
+pervert_4	stupid	O
+pervert_4	pervert	pervert_nou

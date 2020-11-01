@@ -1,0 +1,17 @@
+rerelease_8	At	O
+rerelease_8	the	O
+rerelease_8	time	O
+rerelease_8	of	O
+rerelease_8	the	O
+rerelease_8	game	O
+rerelease_8	's	O
+rerelease_8	Virtual	O
+rerelease_8	Console	O
+rerelease_8	rerelease	rerelease
+rerelease_8	he	O
+rerelease_8	felt	O
+rerelease_8	the	O
+rerelease_8	game	O
+rerelease_8	had	O
+rerelease_8	aged	O
+rerelease_8	well	O

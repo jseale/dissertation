@@ -1,0 +1,12 @@
+construct_73	Miller	O
+construct_73	and	O
+construct_73	her	O
+construct_73	husband	O
+construct_73	decided	O
+construct_73	to	O
+construct_73	construct	construct_vrb
+construct_73	their	O
+construct_73	own	O
+construct_73	winery	O
+construct_73	in	O
+construct_73	1980	O

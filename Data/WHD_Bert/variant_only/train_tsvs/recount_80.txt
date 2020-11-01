@@ -1,0 +1,12 @@
+recount_80	Nevada	O
+recount_80	's	O
+recount_80	partial	O
+recount_80	recount	recount_nou
+recount_80	was	O
+recount_80	completed	O
+recount_80	December	O
+recount_80	8	O
+recount_80	finding	O
+recount_80	no	O
+recount_80	significant	O
+recount_80	discrepancies	O

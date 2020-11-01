@@ -1,0 +1,15 @@
+expatriate_79	It	O
+expatriate_79	was	O
+expatriate_79	the	O
+expatriate_79	first	O
+expatriate_79	football	O
+expatriate_79	club	O
+expatriate_79	in	O
+expatriate_79	Cairo	O
+expatriate_79	emerged	O
+expatriate_79	from	O
+expatriate_79	its	O
+expatriate_79	non	O
+expatriate_79	English	O
+expatriate_79	expatriate	expatriate_nou
+expatriate_79	communities	O

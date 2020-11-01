@@ -1,0 +1,11 @@
+implement_20	He	O
+implement_20	urged	O
+implement_20	FEMA	O
+implement_20	to	O
+implement_20	implement	implement_vrb
+implement_20	the	O
+implement_20	reforms	O
+implement_20	at	O
+implement_20	a	O
+implement_20	quicker	O
+implement_20	pace	O

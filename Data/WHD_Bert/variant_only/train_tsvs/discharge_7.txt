@@ -1,0 +1,14 @@
+discharge_7	After	O
+discharge_7	his	O
+discharge_7	discharge	discharge_nou
+discharge_7	from	O
+discharge_7	the	O
+discharge_7	Army	O
+discharge_7	McConnell	O
+discharge_7	was	O
+discharge_7	a	O
+discharge_7	gospel	O
+discharge_7	vocalist	O
+discharge_7	with	O
+discharge_7	several	O
+discharge_7	evangelists	O

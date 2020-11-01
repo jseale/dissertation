@@ -1,0 +1,16 @@
+consummate_14	The	O
+consummate_14	two	O
+consummate_14	quickly	O
+consummate_14	decide	O
+consummate_14	to	O
+consummate_14	marry	O
+consummate_14	and	O
+consummate_14	consummate	consummate_vrb
+consummate_14	their	O
+consummate_14	marriage	O
+consummate_14	after	O
+consummate_14	receiving	O
+consummate_14	the	O
+consummate_14	King	O
+consummate_14	's	O
+consummate_14	approval	O

@@ -1,0 +1,17 @@
+syndicate_12	An	O
+syndicate_12	alternate	O
+syndicate_12	version	O
+syndicate_12	of	O
+syndicate_12	Mary	O
+syndicate_12	appeared	O
+syndicate_12	on	O
+syndicate_12	a	O
+syndicate_12	computer	O
+syndicate_12	page	O
+syndicate_12	of	O
+syndicate_12	the	O
+syndicate_12	lesser	O
+syndicate_12	members	O
+syndicate_12	of	O
+syndicate_12	the	O
+syndicate_12	Syndicate	syndicate_nou

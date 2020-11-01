@@ -1,0 +1,12 @@
+wound_77	The	O
+wound_77	coil	O
+wound_77	is	O
+wound_77	wound	wound_vrb
+wound_77	around	O
+wound_77	the	O
+wound_77	permanent	O
+wound_77	magnet	O
+wound_77	to	O
+wound_77	form	O
+wound_77	a	O
+wound_77	solenoid	O

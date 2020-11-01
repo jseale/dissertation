@@ -1,0 +1,13 @@
+house_19	In	O
+house_19	July	O
+house_19	2010	O
+house_19	Levi	O
+house_19	interviewed	O
+house_19	U.S.	O
+house_19	President	O
+house_19	Barack	O
+house_19	Obama	O
+house_19	at	O
+house_19	the	O
+house_19	White	O
+house_19	House	house_nou

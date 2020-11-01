@@ -1,0 +1,17 @@
+duplicate_77	The	O
+duplicate_77	uniqueness	O
+duplicate_77	of	O
+duplicate_77	the	O
+duplicate_77	address	O
+duplicate_77	on	O
+duplicate_77	the	O
+duplicate_77	subnet	O
+duplicate_77	is	O
+duplicate_77	tested	O
+duplicate_77	with	O
+duplicate_77	the	O
+duplicate_77	Duplicate	duplicate_adj-nou
+duplicate_77	Address	O
+duplicate_77	Detection	O
+duplicate_77	DAD	O
+duplicate_77	method	O

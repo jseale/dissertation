@@ -1,0 +1,12 @@
+postulate_2	According	O
+postulate_2	to	O
+postulate_2	Hammond	O
+postulate_2	's	O
+postulate_2	postulate	postulate_nou
+postulate_2	the	O
+postulate_2	more	O
+postulate_2	stable	O
+postulate_2	diastereomer	O
+postulate_2	is	O
+postulate_2	formed	O
+postulate_2	faster	O

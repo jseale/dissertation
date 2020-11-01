@@ -1,0 +1,17 @@
+deliberate_13	The	O
+deliberate_13	deliberate	deliberate_adj
+deliberate_13	and	O
+deliberate_13	systematic	O
+deliberate_13	manner	O
+deliberate_13	in	O
+deliberate_13	which	O
+deliberate_13	these	O
+deliberate_13	extrajudicial	O
+deliberate_13	executions	O
+deliberate_13	took	O
+deliberate_13	place	O
+deliberate_13	constitutes	O
+deliberate_13	a	O
+deliberate_13	crime	O
+deliberate_13	against	O
+deliberate_13	humanity	O

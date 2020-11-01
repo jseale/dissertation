@@ -1,0 +1,11 @@
+attribute_69	Sex	O
+attribute_69	is	O
+attribute_69	a	O
+attribute_69	ubiquitous	O
+attribute_69	ancient	O
+attribute_69	and	O
+attribute_69	inherent	O
+attribute_69	attribute	attribute_nou
+attribute_69	of	O
+attribute_69	eukaryotic	O
+attribute_69	life	O

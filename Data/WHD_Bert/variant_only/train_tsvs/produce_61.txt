@@ -1,0 +1,10 @@
+produce_61	The	O
+produce_61	beam	O
+produce_61	is	O
+produce_61	frequency	O
+produce_61	doubled	O
+produce_61	to	O
+produce_61	produce	produce_vrb
+produce_61	a	O
+produce_61	green	O
+produce_61	laser	O

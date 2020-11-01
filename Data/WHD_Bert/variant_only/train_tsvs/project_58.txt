@@ -1,0 +1,13 @@
+project_58	This	O
+project_58	patrimony	O
+project_58	made	O
+project_58	difficult	O
+project_58	for	O
+project_58	project	project_nou
+project_58	members	O
+project_58	to	O
+project_58	claim	O
+project_58	their	O
+project_58	right	O
+project_58	of	O
+project_58	ownership	O

@@ -1,0 +1,14 @@
+supplement_40	The	O
+supplement_40	supplement	supplement_nou
+supplement_40	comes	O
+supplement_40	in	O
+supplement_40	two	O
+supplement_40	parts	O
+supplement_40	either	O
+supplement_40	in	O
+supplement_40	the	O
+supplement_40	July	O
+supplement_40	August	O
+supplement_40	or	O
+supplement_40	September	O
+supplement_40	issue	O

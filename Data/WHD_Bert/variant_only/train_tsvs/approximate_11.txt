@@ -1,0 +1,15 @@
+approximate_11	The	O
+approximate_11	old	O
+approximate_11	castle	O
+approximate_11	today	O
+approximate_11	demolished	O
+approximate_11	had	O
+approximate_11	an	O
+approximate_11	approximate	approximate_adj-nou
+approximate_11	rectangular	O
+approximate_11	plan	O
+approximate_11	with	O
+approximate_11	towers	O
+approximate_11	on	O
+approximate_11	each	O
+approximate_11	vertice	O

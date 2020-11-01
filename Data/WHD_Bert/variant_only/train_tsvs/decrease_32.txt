@@ -1,0 +1,17 @@
+decrease_32	This	O
+decrease_32	season	O
+decrease_32	drew	O
+decrease_32	an	O
+decrease_32	overall	O
+decrease_32	3.8	O
+decrease_32	million	O
+decrease_32	votes	O
+decrease_32	which	O
+decrease_32	displayed	O
+decrease_32	a	O
+decrease_32	significant	O
+decrease_32	decrease	decrease_nou
+decrease_32	from	O
+decrease_32	the	O
+decrease_32	previous	O
+decrease_32	season	O

@@ -1,0 +1,12 @@
+syndicate_11	The	O
+syndicate_11	syndicate	syndicate_nou
+syndicate_11	ordered	O
+syndicate_11	Gray	O
+syndicate_11	to	O
+syndicate_11	drop	O
+syndicate_11	the	O
+syndicate_11	sequence	O
+syndicate_11	and	O
+syndicate_11	develop	O
+syndicate_11	another	O
+syndicate_11	adventure	O

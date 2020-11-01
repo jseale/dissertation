@@ -1,0 +1,12 @@
+initiate_71	Ribosomes	O
+initiate_71	engage	O
+initiate_71	this	O
+initiate_71	nascent	O
+initiate_71	mRNA	O
+initiate_71	and	O
+initiate_71	initiate	initiate_vrb
+initiate_71	translation	O
+initiate_71	of	O
+initiate_71	the	O
+initiate_71	leader	O
+initiate_71	peptide	O

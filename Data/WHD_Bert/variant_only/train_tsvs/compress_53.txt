@@ -1,0 +1,16 @@
+compress_53	By	O
+compress_53	operation	O
+compress_53	of	O
+compress_53	the	O
+compress_53	pigeonhole	O
+compress_53	principle	O
+compress_53	no	O
+compress_53	lossless	O
+compress_53	compression	O
+compress_53	algorithm	O
+compress_53	can	O
+compress_53	efficiently	O
+compress_53	compress	compress
+compress_53	all	O
+compress_53	possible	O
+compress_53	data	O

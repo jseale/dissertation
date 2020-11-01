@@ -1,0 +1,10 @@
+graduate_62	Haight	O
+graduate_62	graduated	O
+graduate_62	as	O
+graduate_62	a	O
+graduate_62	lawyer	O
+graduate_62	from	O
+graduate_62	Yale	O
+graduate_62	Graduate	graduate_adj-nou
+graduate_62	in	O
+graduate_62	1892	O

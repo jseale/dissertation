@@ -1,0 +1,14 @@
+implant_42	Reports	O
+implant_42	on	O
+implant_42	implant	implant_nou
+implant_42	research	O
+implant_42	at	O
+implant_42	Technology	O
+implant_42	ReviewSuccessful	O
+implant_42	photoreceptor	O
+implant_42	transplantation	O
+implant_42	MIT	O
+implant_42	Technology	O
+implant_42	Review	O
+implant_42	November	O
+implant_42	2006	O

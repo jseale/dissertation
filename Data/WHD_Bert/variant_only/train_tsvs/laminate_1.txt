@@ -1,0 +1,17 @@
+laminate_1	The	O
+laminate_1	machines	O
+laminate_1	used	O
+laminate_1	to	O
+laminate_1	laminate	laminate_vrb
+laminate_1	waterproof	O
+laminate_1	and	O
+laminate_1	join	O
+laminate_1	the	O
+laminate_1	individual	O
+laminate_1	bamboo	O
+laminate_1	bikes	O
+laminate_1	are	O
+laminate_1	state	O
+laminate_1	of	O
+laminate_1	the	O
+laminate_1	art	O

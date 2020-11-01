@@ -1,0 +1,15 @@
+decrease_58	Between	O
+decrease_58	the	O
+decrease_58	headwaters	O
+decrease_58	and	O
+decrease_58	the	O
+decrease_58	mouth	O
+decrease_58	there	O
+decrease_58	is	O
+decrease_58	a	O
+decrease_58	705-foot	O
+decrease_58	215	O
+decrease_58	m	O
+decrease_58	decrease	decrease_nou
+decrease_58	in	O
+decrease_58	elevation	O

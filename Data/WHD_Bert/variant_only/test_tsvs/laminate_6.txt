@@ -1,0 +1,15 @@
+laminate_6	The	O
+laminate_6	stock	O
+laminate_6	is	O
+laminate_6	made	O
+laminate_6	from	O
+laminate_6	a	O
+laminate_6	brown	O
+laminate_6	laminate	laminate_nou
+laminate_6	and	O
+laminate_6	has	O
+laminate_6	a	O
+laminate_6	basic	O
+laminate_6	rubber	O
+laminate_6	recoil	O
+laminate_6	pad	O

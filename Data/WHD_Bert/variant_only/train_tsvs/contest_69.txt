@@ -1,0 +1,11 @@
+contest_69	Kind	O
+contest_69	did	O
+contest_69	n't	O
+contest_69	face	O
+contest_69	another	O
+contest_69	contest	contest_nou
+contest_69	nearly	O
+contest_69	that	O
+contest_69	close	O
+contest_69	until	O
+contest_69	2010	O

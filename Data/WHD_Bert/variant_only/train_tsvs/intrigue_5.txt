@@ -1,0 +1,10 @@
+intrigue_5	During	O
+intrigue_5	these	O
+intrigue_5	years	O
+intrigue_5	Thugut	O
+intrigue_5	was	O
+intrigue_5	engaged	O
+intrigue_5	in	O
+intrigue_5	a	O
+intrigue_5	mean	O
+intrigue_5	intrigue	intrigue_nou

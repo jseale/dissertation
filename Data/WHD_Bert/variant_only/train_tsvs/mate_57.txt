@@ -1,0 +1,10 @@
+mate_57	Paul	O
+mate_57	Ryan	O
+mate_57	of	O
+mate_57	Wisconsin	O
+mate_57	as	O
+mate_57	his	O
+mate_57	vice	O
+mate_57	presidential	O
+mate_57	running	O
+mate_57	mate	mate

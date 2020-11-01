@@ -1,0 +1,11 @@
+wind_5	During	O
+wind_5	the	O
+wind_5	races	O
+wind_5	the	O
+wind_5	wind	wind_nou
+wind_5	was	O
+wind_5	pretty	O
+wind_5	light	O
+wind_5	and	O
+wind_5	quite	O
+wind_5	unpredictable	O

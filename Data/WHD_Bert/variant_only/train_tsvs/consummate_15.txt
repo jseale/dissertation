@@ -1,0 +1,15 @@
+consummate_15	Daystar	O
+consummate_15	failed	O
+consummate_15	to	O
+consummate_15	consummate	consummate_vrb
+consummate_15	the	O
+consummate_15	transaction	O
+consummate_15	by	O
+consummate_15	tendering	O
+consummate_15	cash	O
+consummate_15	and	O
+consummate_15	shares	O
+consummate_15	as	O
+consummate_15	per	O
+consummate_15	this	O
+consummate_15	agreement	O

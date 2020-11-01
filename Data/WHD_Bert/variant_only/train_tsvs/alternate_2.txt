@@ -1,0 +1,11 @@
+alternate_2	Slider	O
+alternate_2	wears	O
+alternate_2	the	O
+alternate_2	Patriots	O
+alternate_2	navy	O
+alternate_2	blue	O
+alternate_2	alternate	alternate_adj-nou
+alternate_2	jersey	O
+alternate_2	with	O
+alternate_2	gray	O
+alternate_2	pants	O

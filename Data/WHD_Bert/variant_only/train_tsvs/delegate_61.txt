@@ -1,0 +1,12 @@
+delegate_61	In	O
+delegate_61	1927	O
+delegate_61	he	O
+delegate_61	was	O
+delegate_61	the	O
+delegate_61	Cuban	O
+delegate_61	delegate	delegate_nou
+delegate_61	to	O
+delegate_61	the	O
+delegate_61	League	O
+delegate_61	of	O
+delegate_61	Nations	O

@@ -1,0 +1,15 @@
+misuse_34	As	O
+misuse_34	a	O
+misuse_34	governor	O
+misuse_34	he	O
+misuse_34	tried	O
+misuse_34	his	O
+misuse_34	best	O
+misuse_34	to	O
+misuse_34	fight	O
+misuse_34	corruption	O
+misuse_34	and	O
+misuse_34	misuse	misuse_nou
+misuse_34	of	O
+misuse_34	public	O
+misuse_34	funds	O

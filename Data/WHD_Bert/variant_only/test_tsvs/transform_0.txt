@@ -1,0 +1,15 @@
+transform_0	Rochester	O
+transform_0	scientists	O
+transform_0	used	O
+transform_0	frequency	O
+transform_0	tripling	O
+transform_0	crystals	O
+transform_0	to	O
+transform_0	transform	transform
+transform_0	the	O
+transform_0	infrared	O
+transform_0	laser	O
+transform_0	beams	O
+transform_0	into	O
+transform_0	ultraviolet	O
+transform_0	beams	O

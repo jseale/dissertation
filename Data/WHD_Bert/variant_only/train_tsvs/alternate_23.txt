@@ -1,0 +1,9 @@
+alternate_23	It	O
+alternate_23	has	O
+alternate_23	alternate	alternate_adj-nou
+alternate_23	entire	O
+alternate_23	smooth	O
+alternate_23	leaves	O
+alternate_23	and	O
+alternate_23	reticulate	O
+alternate_23	veins	O

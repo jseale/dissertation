@@ -1,0 +1,13 @@
+wound_59	He	O
+wound_59	wound	wound_vrb
+wound_59	up	O
+wound_59	Brax	O
+wound_59	when	O
+wound_59	his	O
+wound_59	relationship	O
+wound_59	with	O
+wound_59	Charlie	O
+wound_59	made	O
+wound_59	front	O
+wound_59	page	O
+wound_59	news	O

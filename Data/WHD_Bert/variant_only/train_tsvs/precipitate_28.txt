@@ -1,0 +1,16 @@
+precipitate_28	Most	O
+precipitate_28	particularly	O
+precipitate_28	this	O
+precipitate_28	art	O
+precipitate_28	can	O
+precipitate_28	identify	O
+precipitate_28	the	O
+precipitate_28	single	O
+precipitate_28	person	O
+precipitate_28	whose	O
+precipitate_28	death	O
+precipitate_28	would	O
+precipitate_28	precipitate	precipitate_vrb
+precipitate_28	a	O
+precipitate_28	societal	O
+precipitate_28	change	O

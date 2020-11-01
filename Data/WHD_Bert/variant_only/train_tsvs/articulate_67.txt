@@ -1,0 +1,15 @@
+articulate_67	The	O
+articulate_67	same	O
+articulate_67	10	O
+articulate_67	digits	O
+articulate_67	are	O
+articulate_67	used	O
+articulate_67	to	O
+articulate_67	record	O
+articulate_67	all	O
+articulate_67	articulate	articulate_adj
+articulate_67	sounds	O
+articulate_67	uttered	O
+articulate_67	by	O
+articulate_67	homo	O
+articulate_67	sapiens	O

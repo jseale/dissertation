@@ -1,0 +1,7 @@
+invalid_5	To	O
+invalid_5	that	O
+invalid_5	extent	O
+invalid_5	the	O
+invalid_5	act	O
+invalid_5	was	O
+invalid_5	invalid	invalid_adj

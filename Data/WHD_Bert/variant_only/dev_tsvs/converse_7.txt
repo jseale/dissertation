@@ -1,0 +1,11 @@
+converse_7	In	O
+converse_7	2012	O
+converse_7	she	O
+converse_7	performed	O
+converse_7	in	O
+converse_7	Mexico	O
+converse_7	City	O
+converse_7	at	O
+converse_7	the	O
+converse_7	Converse	converse_adj-nou
+converse_7	Festival	O

@@ -1,0 +1,15 @@
+diffuse_53	Similar	O
+diffuse_53	but	O
+diffuse_53	the	O
+diffuse_53	tawny	O
+diffuse_53	yellow	O
+diffuse_53	on	O
+diffuse_53	the	O
+diffuse_53	upperside	O
+diffuse_53	paler	O
+diffuse_53	the	O
+diffuse_53	markings	O
+diffuse_53	larger	O
+diffuse_53	and	O
+diffuse_53	somewhat	O
+diffuse_53	diffuse	diffuse_adj

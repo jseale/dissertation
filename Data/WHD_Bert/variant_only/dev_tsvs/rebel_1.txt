@@ -1,0 +1,17 @@
+rebel_1	Involving	O
+rebel_1	himself	O
+rebel_1	with	O
+rebel_1	this	O
+rebel_1	rebel	rebel_nou
+rebel_1	group	O
+rebel_1	he	O
+rebel_1	gets	O
+rebel_1	into	O
+rebel_1	trouble	O
+rebel_1	and	O
+rebel_1	has	O
+rebel_1	his	O
+rebel_1	house	O
+rebel_1	and	O
+rebel_1	goods	O
+rebel_1	confiscated	O

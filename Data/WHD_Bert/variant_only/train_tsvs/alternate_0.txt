@@ -1,0 +1,9 @@
+alternate_0	This	O
+alternate_0	Committee	O
+alternate_0	had	O
+alternate_0	170	O
+alternate_0	members	O
+alternate_0	and	O
+alternate_0	109	O
+alternate_0	alternate	alternate_adj-nou
+alternate_0	members	O

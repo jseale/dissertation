@@ -1,0 +1,13 @@
+aged_51	He	O
+aged_51	moved	O
+aged_51	to	O
+aged_51	Moscow	O
+aged_51	aged	aged
+aged_51	3yrs	O
+aged_51	after	O
+aged_51	his	O
+aged_51	father	O
+aged_51	a	O
+aged_51	Soviet	O
+aged_51	official	O
+aged_51	died	O

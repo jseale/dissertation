@@ -1,0 +1,14 @@
+record_65	He	O
+record_65	also	O
+record_65	runs	O
+record_65	Ecstatic	O
+record_65	Yod	O
+record_65	a	O
+record_65	record	record_nou
+record_65	label	O
+record_65	and	O
+record_65	shop	O
+record_65	based	O
+record_65	in	O
+record_65	Florence	O
+record_65	Massachusetts	O

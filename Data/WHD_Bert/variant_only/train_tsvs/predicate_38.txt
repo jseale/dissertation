@@ -1,0 +1,14 @@
+predicate_38	Two	O
+predicate_38	fundamental	O
+predicate_38	kinds	O
+predicate_38	of	O
+predicate_38	quantification	O
+predicate_38	in	O
+predicate_38	predicate	predicate_nou
+predicate_38	logic	O
+predicate_38	are	O
+predicate_38	universal	O
+predicate_38	quantification	O
+predicate_38	and	O
+predicate_38	existential	O
+predicate_38	quantification	O

@@ -1,0 +1,16 @@
+frequent_58	Su	O
+frequent_58	Shi	O
+frequent_58	and	O
+frequent_58	friends	O
+frequent_58	continued	O
+frequent_58	to	O
+frequent_58	write	O
+frequent_58	poetry	O
+frequent_58	despite	O
+frequent_58	or	O
+frequent_58	perhaps	O
+frequent_58	encouraged	O
+frequent_58	by	O
+frequent_58	their	O
+frequent_58	frequent	frequent_adj
+frequent_58	banishment	O

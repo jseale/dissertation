@@ -1,0 +1,16 @@
+convict_40	Then	O
+convict_40	in	O
+convict_40	January	O
+convict_40	1833	O
+convict_40	she	O
+convict_40	was	O
+convict_40	fitted	O
+convict_40	as	O
+convict_40	a	O
+convict_40	convict	convict_nou
+convict_40	ship	O
+convict_40	and	O
+convict_40	F.W.R.	O
+convict_40	Sadler	O
+convict_40	took	O
+convict_40	command	O

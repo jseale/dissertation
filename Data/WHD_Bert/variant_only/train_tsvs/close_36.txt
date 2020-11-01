@@ -1,0 +1,15 @@
+close_36	Phillip	O
+close_36	was	O
+close_36	content	O
+close_36	to	O
+close_36	have	O
+close_36	Justin	O
+close_36	and	O
+close_36	Jackie	O
+close_36	as	O
+close_36	stepparents	O
+close_36	and	O
+close_36	became	O
+close_36	close	close_adj-nou
+close_36	to	O
+close_36	both	O

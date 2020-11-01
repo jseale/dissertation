@@ -1,0 +1,15 @@
+expatriate_44	The	O
+expatriate_44	Club	O
+expatriate_44	consists	O
+expatriate_44	of	O
+expatriate_44	a	O
+expatriate_44	diversified	O
+expatriate_44	membership	O
+expatriate_44	base	O
+expatriate_44	of	O
+expatriate_44	expatriate	expatriate_nou
+expatriate_44	residents	O
+expatriate_44	foreign	O
+expatriate_44	nationals	O
+expatriate_44	and	O
+expatriate_44	supporters	O

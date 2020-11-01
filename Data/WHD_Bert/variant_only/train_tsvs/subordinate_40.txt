@@ -1,0 +1,9 @@
+subordinate_40	He	O
+subordinate_40	expected	O
+subordinate_40	his	O
+subordinate_40	subordinate	subordinate_adj-nou
+subordinate_40	commanders	O
+subordinate_40	to	O
+subordinate_40	do	O
+subordinate_40	the	O
+subordinate_40	same	O

@@ -1,0 +1,15 @@
+mate_0	Because	O
+mate_0	of	O
+mate_0	this	O
+mate_0	they	O
+mate_0	do	O
+mate_0	not	O
+mate_0	mate	mate
+mate_0	with	O
+mate_0	any	O
+mate_0	of	O
+mate_0	the	O
+mate_0	standardized	O
+mate_0	Mini	O
+mate_0	DIN	O
+mate_0	connectors	O

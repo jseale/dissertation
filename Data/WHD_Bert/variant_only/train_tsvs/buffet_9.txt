@@ -1,0 +1,17 @@
+buffet_9	Jensen	O
+buffet_9	was	O
+buffet_9	brought	O
+buffet_9	into	O
+buffet_9	Old	O
+buffet_9	Country	O
+buffet_9	Buffet	buffet_nou
+buffet_9	in	O
+buffet_9	by	O
+buffet_9	Roe	O
+buffet_9	Hatlen	O
+buffet_9	and	O
+buffet_9	C.	O
+buffet_9	Dennis	O
+buffet_9	Scott	O
+buffet_9	in	O
+buffet_9	1983	O
