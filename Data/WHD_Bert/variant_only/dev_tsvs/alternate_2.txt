@@ -1,9 +1,0 @@
-alternate_2	She	O
-alternate_2	acted	O
-alternate_2	as	O
-alternate_2	the	O
-alternate_2	event	O
-alternate_2	alternate	alternate_adj-nou
-alternate_2	throughout	O
-alternate_2	the	O
-alternate_2	season	O

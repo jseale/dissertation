@@ -1,9 +1,0 @@
-pasty_3	In	O
-pasty_3	consistency	O
-pasty_3	it	O
-pasty_3	may	O
-pasty_3	be	O
-pasty_3	hard	O
-pasty_3	or	O
-pasty_3	rather	O
-pasty_3	pasty	pasty_nou

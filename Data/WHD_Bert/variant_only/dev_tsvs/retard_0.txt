@@ -1,9 +1,0 @@
-retard_0	APP	O
-retard_0	is	O
-retard_0	also	O
-retard_0	applied	O
-retard_0	to	O
-retard_0	flame	O
-retard_0	retard	retard_vrb
-retard_0	polyurethane	O
-retard_0	foams	O

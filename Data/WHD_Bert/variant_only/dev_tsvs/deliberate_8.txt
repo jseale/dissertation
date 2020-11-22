@@ -1,7 +1,0 @@
-deliberate_8	Another	O
-deliberate_8	policy	O
-deliberate_8	was	O
-deliberate_8	one	O
-deliberate_8	of	O
-deliberate_8	deliberate	deliberate_adj
-deliberate_8	humiliation	O

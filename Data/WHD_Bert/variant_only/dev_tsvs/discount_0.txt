@@ -1,9 +1,0 @@
-discount_0	Members	O
-discount_0	of	O
-discount_0	the	O
-discount_0	association	O
-discount_0	received	O
-discount_0	a	O
-discount_0	$	O
-discount_0	100	O
-discount_0	discount	discount_nou

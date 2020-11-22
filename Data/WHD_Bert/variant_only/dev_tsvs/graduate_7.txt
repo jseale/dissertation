@@ -1,8 +1,0 @@
-graduate_7	His	O
-graduate_7	sister	O
-graduate_7	is	O
-graduate_7	a	O
-graduate_7	graduate	graduate_adj-nou
-graduate_7	of	O
-graduate_7	Boston	O
-graduate_7	College	O

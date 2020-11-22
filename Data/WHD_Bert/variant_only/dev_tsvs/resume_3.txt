@@ -1,9 +1,0 @@
-resume_3	Habré	O
-resume_3	fled	O
-resume_3	to	O
-resume_3	Sudan	O
-resume_3	vowing	O
-resume_3	to	O
-resume_3	resume	resume_vrb
-resume_3	the	O
-resume_3	struggle	O

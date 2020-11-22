@@ -1,9 +1,0 @@
-wound_7	To	O
-wound_7	Europe	O
-wound_7	and	O
-wound_7	his	O
-wound_7	band	O
-wound_7	the	O
-wound_7	wound	wound_nou-vrb
-wound_7	seemed	O
-wound_7	superficial	O

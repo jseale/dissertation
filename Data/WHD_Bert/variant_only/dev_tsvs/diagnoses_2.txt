@@ -1,9 +1,0 @@
-diagnoses_2	Its	O
-diagnoses_2	use	O
-diagnoses_2	was	O
-diagnoses_2	not	O
-diagnoses_2	found	O
-diagnoses_2	to	O
-diagnoses_2	mask	O
-diagnoses_2	serious	O
-diagnoses_2	diagnoses	diagnoses_nou

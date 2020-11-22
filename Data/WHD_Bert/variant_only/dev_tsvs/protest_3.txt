@@ -1,9 +1,0 @@
-protest_3	Those	O
-protest_3	who	O
-protest_3	would	O
-protest_3	protest	protest_vrb
-protest_3	will	O
-protest_3	find	O
-protest_3	their	O
-protest_3	objections	O
-protest_3	overruled	O

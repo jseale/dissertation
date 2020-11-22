@@ -1,9 +1,0 @@
-abstract_7	Contains	O
-abstract_7	diary	O
-abstract_7	entries	O
-abstract_7	autobiographical	O
-abstract_7	writing	O
-abstract_7	photographs	O
-abstract_7	and	O
-abstract_7	abstract	abstract_adj-nou
-abstract_7	poetry	O

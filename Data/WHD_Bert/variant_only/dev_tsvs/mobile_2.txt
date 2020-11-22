@@ -1,9 +1,0 @@
-mobile_2	The	O
-mobile_2	Australian	O
-mobile_2	Mobile	mobile
-mobile_2	PDA	O
-mobile_2	EDITIONBoland	O
-mobile_2	Michaela	O
-mobile_2	6	O
-mobile_2	December	O
-mobile_2	2007	O

@@ -1,9 +1,0 @@
-bologna_8	He	O
-bologna_8	left	O
-bologna_8	Bologna	bologna_geo
-bologna_8	and	O
-bologna_8	went	O
-bologna_8	to	O
-bologna_8	Mens	O
-bologna_8	Sana	O
-bologna_8	Siena	O

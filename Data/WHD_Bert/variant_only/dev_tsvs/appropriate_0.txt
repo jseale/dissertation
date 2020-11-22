@@ -1,9 +1,0 @@
-appropriate_0	We	O
-appropriate_0	provide	O
-appropriate_0	links	O
-appropriate_0	to	O
-appropriate_0	help	O
-appropriate_0	you	O
-appropriate_0	find	O
-appropriate_0	appropriate	appropriate_adj
-appropriate_0	information	O

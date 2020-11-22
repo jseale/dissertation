@@ -1,9 +1,0 @@
-abuses_3	There	O
-abuses_3	are	O
-abuses_3	also	O
-abuses_3	abuses	abuses_nou
-abuses_3	of	O
-abuses_3	media	O
-abuses_3	rights	O
-abuses_3	and	O
-abuses_3	access	O

@@ -1,9 +1,0 @@
-ornament_7	She	O
-ornament_7	wears	O
-ornament_7	a	O
-ornament_7	hair	O
-ornament_7	ornament	ornament_nou
-ornament_7	shaped	O
-ornament_7	like	O
-ornament_7	a	O
-ornament_7	fish	O

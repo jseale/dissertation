@@ -1,9 +1,0 @@
-approximate_2	MBP	O
-approximate_2	has	O
-approximate_2	an	O
-approximate_2	approximate	approximate_adj-nou
-approximate_2	molecular	O
-approximate_2	mass	O
-approximate_2	of	O
-approximate_2	42.5	O
-approximate_2	kilodaltons	O

@@ -1,8 +1,0 @@
-expose_6	The	O
-expose_6	expose	expose_nou
-expose_6	was	O
-expose_6	based	O
-expose_6	on	O
-expose_6	three	O
-expose_6	month	O
-expose_6	investigation	O

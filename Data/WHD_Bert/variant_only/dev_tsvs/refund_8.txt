@@ -1,8 +1,0 @@
-refund_8	No	O
-refund_8	proper	O
-refund_8	reason	O
-refund_8	refund	refund_nou
-refund_8	or	O
-refund_8	compensation	O
-refund_8	was	O
-refund_8	made	O

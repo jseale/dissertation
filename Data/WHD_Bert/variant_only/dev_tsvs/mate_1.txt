@@ -1,9 +1,0 @@
-mate_1	Females	O
-mate_1	attack	O
-mate_1	human	O
-mate_1	soon	O
-mate_1	after	O
-mate_1	they	O
-mate_1	mate	mate
-mate_1	with	O
-mate_1	males	O

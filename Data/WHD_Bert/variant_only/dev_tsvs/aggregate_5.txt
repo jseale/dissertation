@@ -1,9 +1,0 @@
-aggregate_5	Grand	O
-aggregate_5	Final	O
-aggregate_5	decided	O
-aggregate_5	by	O
-aggregate_5	aggregate	aggregate_adj-nou
-aggregate_5	scores	O
-aggregate_5	over	O
-aggregate_5	two	O
-aggregate_5	legs	O

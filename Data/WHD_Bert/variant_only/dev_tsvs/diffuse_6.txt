@@ -1,7 +1,0 @@
-diffuse_6	The	O
-diffuse_6	gland	O
-diffuse_6	affected	O
-diffuse_6	has	O
-diffuse_6	a	O
-diffuse_6	diffuse	diffuse_adj
-diffuse_6	swelling	O

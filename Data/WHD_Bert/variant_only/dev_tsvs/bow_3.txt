@@ -1,8 +1,0 @@
-bow_3	Inlay	O
-bow_3	sections	O
-bow_3	could	O
-bow_3	be	O
-bow_3	sawed	O
-bow_3	by	O
-bow_3	bow	bow_nou-knot
-bow_3	saws	O

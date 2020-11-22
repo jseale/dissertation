@@ -1,9 +1,0 @@
-house_8	No	O
-house_8	one	O
-house_8	burns	O
-house_8	the	O
-house_8	house	house_nou
-house_8	of	O
-house_8	a	O
-house_8	good	O
-house_8	man	O

@@ -1,8 +1,0 @@
-sake_4	Everyone	O
-sake_4	must	O
-sake_4	fight	O
-sake_4	for	O
-sake_4	the	O
-sake_4	sake	sake
-sake_4	of	O
-sake_4	survival	O

@@ -1,9 +1,0 @@
-syndicate_8	Dundurn	O
-syndicate_8	Park	O
-syndicate_8	predates	O
-syndicate_8	the	O
-syndicate_8	syndicate	syndicate_nou
-syndicate_8	and	O
-syndicate_8	the	O
-syndicate_8	other	O
-syndicate_8	subdivisions	O

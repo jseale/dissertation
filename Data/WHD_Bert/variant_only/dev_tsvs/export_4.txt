@@ -1,9 +1,0 @@
-export_4	It	O
-export_4	is	O
-export_4	also	O
-export_4	the	O
-export_4	member	O
-export_4	of	O
-export_4	Export	export_nou
-export_4	Alabama	O
-export_4	Alliance	O

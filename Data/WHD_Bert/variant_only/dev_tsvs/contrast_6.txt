@@ -1,9 +1,0 @@
-contrast_6	By	O
-contrast_6	contrast	contrast_nou
-contrast_6	most	O
-contrast_6	of	O
-contrast_6	the	O
-contrast_6	townspeople	O
-contrast_6	favored	O
-contrast_6	the	O
-contrast_6	rebels	O

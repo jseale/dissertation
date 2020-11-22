@@ -1,9 +1,0 @@
-attribute_2	Many	O
-attribute_2	attribute	attribute_vrb
-attribute_2	the	O
-attribute_2	feeling	O
-attribute_2	to	O
-attribute_2	walking	O
-attribute_2	on	O
-attribute_2	a	O
-attribute_2	walnut	O

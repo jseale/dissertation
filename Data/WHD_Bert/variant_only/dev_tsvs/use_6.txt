@@ -1,9 +1,0 @@
-use_6	Especially	O
-use_6	people	O
-use_6	who	O
-use_6	often	O
-use_6	use	use_vrb
-use_6	them	O
-use_6	for	O
-use_6	various	O
-use_6	purposes	O

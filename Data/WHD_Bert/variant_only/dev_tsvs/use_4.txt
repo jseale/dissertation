@@ -1,8 +1,0 @@
-use_4	The	O
-use_4	effect	O
-use_4	of	O
-use_4	preventive	O
-use_4	use	use_nou
-use_4	is	O
-use_4	not	O
-use_4	clear	O

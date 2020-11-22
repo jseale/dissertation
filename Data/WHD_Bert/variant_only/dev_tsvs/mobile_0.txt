@@ -1,9 +1,0 @@
-mobile_0	There	O
-mobile_0	is	O
-mobile_0	no	O
-mobile_0	mobile	mobile
-mobile_0	phone	O
-mobile_0	reception	O
-mobile_0	on	O
-mobile_0	the	O
-mobile_0	island	O

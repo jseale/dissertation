@@ -1,8 +1,0 @@
-august_0	Adults	O
-august_0	are	O
-august_0	on	O
-august_0	wing	O
-august_0	from	O
-august_0	July	O
-august_0	to	O
-august_0	August	august

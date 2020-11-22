@@ -1,9 +1,0 @@
-combine_0	AOGCMs	O
-combine_0	e.g.	O
-combine_0	HadCM3	O
-combine_0	GFDL	O
-combine_0	CM2.X	O
-combine_0	combine	combine_vrb
-combine_0	the	O
-combine_0	two	O
-combine_0	submodels	O

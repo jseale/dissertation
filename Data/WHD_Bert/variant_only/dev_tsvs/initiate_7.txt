@@ -1,9 +1,0 @@
-initiate_7	They	O
-initiate_7	initiate	initiate_vrb
-initiate_7	a	O
-initiate_7	prison	O
-initiate_7	riot	O
-initiate_7	to	O
-initiate_7	distract	O
-initiate_7	the	O
-initiate_7	guards	O

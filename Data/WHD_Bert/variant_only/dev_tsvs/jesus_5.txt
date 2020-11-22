@@ -1,7 +1,0 @@
-jesus_5	That	O
-jesus_5	man	O
-jesus_5	was	O
-jesus_5	called	O
-jesus_5	Jesus	jesus
-jesus_5	of	O
-jesus_5	Nazareth	O

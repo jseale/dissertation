@@ -1,8 +1,0 @@
-predicate_5	The	O
-predicate_5	notion	O
-predicate_5	of	O
-predicate_5	predicate	predicate_nou
-predicate_5	entrenchment	O
-predicate_5	is	O
-predicate_5	not	O
-predicate_5	required	O

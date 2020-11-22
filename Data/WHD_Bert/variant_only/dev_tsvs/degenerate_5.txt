@@ -1,9 +1,0 @@
-degenerate_5	As	O
-degenerate_5	the	O
-degenerate_5	ameloblasts	O
-degenerate_5	degenerate	degenerate_vrb
-degenerate_5	a	O
-degenerate_5	gingival	O
-degenerate_5	sulcus	O
-degenerate_5	is	O
-degenerate_5	created	O

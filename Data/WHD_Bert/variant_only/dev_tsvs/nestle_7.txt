@@ -1,9 +1,0 @@
-nestle_7	The	O
-nestle_7	loggerhead	O
-nestle_7	sea	O
-nestle_7	turtle	O
-nestle_7	is	O
-nestle_7	known	O
-nestle_7	to	O
-nestle_7	nestle	nestle_vrb
-nestle_7	here	O

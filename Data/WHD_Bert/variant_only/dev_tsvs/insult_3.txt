@@ -1,9 +1,0 @@
-insult_3	Genda	O
-insult_3	refuses	O
-insult_3	to	O
-insult_3	comply	O
-insult_3	and	O
-insult_3	continues	O
-insult_3	to	O
-insult_3	insult	insult_vrb
-insult_3	Chulbul	O

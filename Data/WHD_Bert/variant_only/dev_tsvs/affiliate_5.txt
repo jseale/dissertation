@@ -1,7 +1,0 @@
-affiliate_5	It	O
-affiliate_5	was	O
-affiliate_5	originally	O
-affiliate_5	a	O
-affiliate_5	CBC	O
-affiliate_5	Television	O
-affiliate_5	affiliate	affiliate_nou

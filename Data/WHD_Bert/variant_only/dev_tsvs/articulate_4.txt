@@ -1,8 +1,0 @@
-articulate_4	He	O
-articulate_4	's	O
-articulate_4	incredibly	O
-articulate_4	well	O
-articulate_4	educated	O
-articulate_4	and	O
-articulate_4	very	O
-articulate_4	articulate	articulate_adj

@@ -1,7 +1,0 @@
-recount_4	Case	O
-recount_4	won	O
-recount_4	the	O
-recount_4	recount	recount_nou
-recount_4	by	O
-recount_4	3,507	O
-recount_4	votes	O

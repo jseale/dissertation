@@ -1,9 +1,0 @@
-produce_7	To	O
-produce_7	impart	O
-produce_7	education	O
-produce_7	in	O
-produce_7	regulated	O
-produce_7	marketing	O
-produce_7	of	O
-produce_7	agricultural	O
-produce_7	produce	produce_nou

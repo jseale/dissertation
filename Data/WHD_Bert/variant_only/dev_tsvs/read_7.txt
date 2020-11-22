@@ -1,7 +1,0 @@
-read_7	We	O
-read_7	want	O
-read_7	to	O
-read_7	read	read_present
-read_7	out	O
-read_7	the	O
-read_7	phenotypes	O

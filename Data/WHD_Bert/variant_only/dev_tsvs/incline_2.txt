@@ -1,7 +1,0 @@
-incline_2	The	O
-incline_2	house	O
-incline_2	has	O
-incline_2	a	O
-incline_2	12	O
-incline_2	degree	O
-incline_2	incline	incline_nou

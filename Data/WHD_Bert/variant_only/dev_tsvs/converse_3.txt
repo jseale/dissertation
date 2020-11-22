@@ -1,9 +1,0 @@
-converse_3	Epstein	O
-converse_3	F	O
-converse_3	Ransohoff	O
-converse_3	J	O
-converse_3	Wood	O
-converse_3	Smith	O
-converse_3	D	O
-converse_3	Converse	converse_adj-nou
-converse_3	JM	O

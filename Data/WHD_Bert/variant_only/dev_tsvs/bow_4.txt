@@ -1,8 +1,0 @@
-bow_4	Overture	O
-bow_4	More	O
-bow_4	Strings	O
-bow_4	to	O
-bow_4	Our	O
-bow_4	Bow	bow_nou-knot
-bow_4	Opening	O
-bow_4	number	O

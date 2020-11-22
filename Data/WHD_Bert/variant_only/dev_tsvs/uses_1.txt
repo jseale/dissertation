@@ -1,9 +1,0 @@
-uses_1	For	O
-uses_1	specialty	O
-uses_1	units	O
-uses_1	FDNY	O
-uses_1	uses	uses_vrb
-uses_1	a	O
-uses_1	variety	O
-uses_1	of	O
-uses_1	manufacturers	O

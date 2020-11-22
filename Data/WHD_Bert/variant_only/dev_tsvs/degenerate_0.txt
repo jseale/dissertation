@@ -1,9 +1,0 @@
-degenerate_0	The	O
-degenerate_0	Fleuve	O
-degenerate_0	has	O
-degenerate_0	been	O
-degenerate_0	described	O
-degenerate_0	as	O
-degenerate_0	a	O
-degenerate_0	degenerate	degenerate_adj-nou
-degenerate_0	Barb	O

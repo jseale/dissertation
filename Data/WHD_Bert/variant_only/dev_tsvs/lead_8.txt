@@ -1,8 +1,0 @@
-lead_8	The	O
-lead_8	Yankees	O
-lead_8	extended	O
-lead_8	their	O
-lead_8	lead	lead_nou-vrb
-lead_8	to	O
-lead_8	3½	O
-lead_8	games	O

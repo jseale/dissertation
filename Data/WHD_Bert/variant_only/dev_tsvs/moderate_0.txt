@@ -1,9 +1,0 @@
-moderate_0	Mesotrophic	O
-moderate_0	soils	O
-moderate_0	are	O
-moderate_0	soils	O
-moderate_0	with	O
-moderate_0	a	O
-moderate_0	moderate	moderate_adj-nou
-moderate_0	inherent	O
-moderate_0	fertility	O

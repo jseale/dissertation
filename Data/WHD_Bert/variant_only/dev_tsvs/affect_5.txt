@@ -1,8 +1,0 @@
-affect_5	It	O
-affect_5	has	O
-affect_5	the	O
-affect_5	power	O
-affect_5	to	O
-affect_5	affect	affect
-affect_5	people	O
-affect_5	deeply	O

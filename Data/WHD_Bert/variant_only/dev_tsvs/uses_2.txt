@@ -1,8 +1,0 @@
-uses_2	So	O
-uses_2	now	O
-uses_2	Metamath	O
-uses_2	uses	uses_vrb
-uses_2	the	O
-uses_2	premise	O
-uses_2	of	O
-uses_2	opreq2i	O

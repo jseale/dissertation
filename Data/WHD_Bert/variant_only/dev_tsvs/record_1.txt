@@ -1,9 +1,0 @@
-record_1	Pop	O
-record_1	Matters	O
-record_1	gave	O
-record_1	the	O
-record_1	record	record_nou
-record_1	a	O
-record_1	rating	O
-record_1	of	O
-record_1	6/10	O

@@ -1,9 +1,0 @@
-sow_1	Do	O
-sow_1	not	O
-sow_1	sow	sow
-sow_1	your	O
-sow_1	fields	O
-sow_1	or	O
-sow_1	prune	O
-sow_1	your	O
-sow_1	vineyards	O

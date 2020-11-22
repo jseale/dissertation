@@ -1,8 +1,0 @@
-refuse_7	Production	O
-refuse_7	of	O
-refuse_7	equipment	O
-refuse_7	for	O
-refuse_7	recovery	O
-refuse_7	of	O
-refuse_7	building	O
-refuse_7	refuse	refuse_nou
