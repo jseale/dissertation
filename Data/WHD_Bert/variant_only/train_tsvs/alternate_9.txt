@@ -1,7 +1,0 @@
-alternate_9	Johann	O
-alternate_9	Georg	O
-alternate_9	Albrechtsberger	O
-alternate_9	wrote	O
-alternate_9	an	O
-alternate_9	alternate	alternate_adj-nou
-alternate_9	Benedictus	O

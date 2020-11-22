@@ -1,7 +1,0 @@
-implement_38	States	O
-implement_38	may	O
-implement_38	implement	implement_vrb
-implement_38	their	O
-implement_38	own	O
-implement_38	NICS	O
-implement_38	programs	O

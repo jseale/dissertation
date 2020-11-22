@@ -1,8 +1,0 @@
-convert_42	Houthis	O
-convert_42	militants	O
-convert_42	to	O
-convert_42	Jews	O
-convert_42	Convert	convert_vrb
-convert_42	or	O
-convert_42	leave	O
-convert_42	Yemen	O

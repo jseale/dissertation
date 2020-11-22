@@ -1,7 +1,0 @@
-perfume_66	Heat	O
-perfume_66	is	O
-perfume_66	a	O
-perfume_66	perfume	perfume_nou
-perfume_66	endorsed	O
-perfume_66	by	O
-perfume_66	Beyoncé	O

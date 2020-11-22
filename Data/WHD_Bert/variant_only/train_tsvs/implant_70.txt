@@ -1,8 +1,0 @@
-implant_70	He	O
-implant_70	has	O
-implant_70	performed	O
-implant_70	over	O
-implant_70	2300	O
-implant_70	cochlear	O
-implant_70	implant	implant_nou
-implant_70	surgeries	O

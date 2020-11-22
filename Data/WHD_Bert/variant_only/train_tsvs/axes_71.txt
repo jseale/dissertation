@@ -1,8 +1,0 @@
-axes_71	In	O
-axes_71	melee	O
-axes_71	combat	O
-axes_71	they	O
-axes_71	used	O
-axes_71	axes	axes_nou-vrb
-axes_71	and	O
-axes_71	kilijs	O

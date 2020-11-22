@@ -1,8 +1,0 @@
-compound_14	Ytterbium(III	O
-compound_14	chloride	O
-compound_14	YbCl₃	O
-compound_14	is	O
-compound_14	an	O
-compound_14	inorganic	O
-compound_14	chemical	O
-compound_14	compound	compound_nou

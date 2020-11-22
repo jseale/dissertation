@@ -1,9 +1,0 @@
-protest_21	Pro	O
-protest_21	Moscow	O
-protest_21	protest	protest_nou
-protest_21	leader	O
-protest_21	arrested	O
-protest_21	in	O
-protest_21	Ukraine	O
-protest_21	's	O
-protest_21	Donetsk	O

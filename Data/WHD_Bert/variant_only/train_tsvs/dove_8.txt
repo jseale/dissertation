@@ -1,9 +1,0 @@
-dove_8	The	O
-dove_8	unknown	O
-dove_8	sub	O
-dove_8	quickly	O
-dove_8	dove	dove_vrb
-dove_8	probably	O
-dove_8	after	O
-dove_8	sighting	O
-dove_8	Bonefish	O

@@ -1,9 +1,0 @@
-insert_16	Drops	O
-insert_16	function	O
-insert_16	for	O
-insert_16	Insert	insert_vrb
-insert_16	Picture	O
-insert_16	From	O
-insert_16	Scanner	O
-insert_16	or	O
-insert_16	Camera	O

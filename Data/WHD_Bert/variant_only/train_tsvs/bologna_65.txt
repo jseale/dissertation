@@ -1,9 +1,0 @@
-bologna_65	On	O
-bologna_65	9	O
-bologna_65	July	O
-bologna_65	2013	O
-bologna_65	Bianchi	O
-bologna_65	was	O
-bologna_65	signed	O
-bologna_65	by	O
-bologna_65	Bologna	bologna_geo

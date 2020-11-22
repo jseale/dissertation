@@ -1,7 +1,0 @@
-aged_16	He	O
-aged_16	died	O
-aged_16	in	O
-aged_16	Claremont	O
-aged_16	California	O
-aged_16	aged	aged
-aged_16	82	O

@@ -1,9 +1,0 @@
-house_70	The	O
-house_70	tremors	O
-house_70	damage	O
-house_70	the	O
-house_70	house	house_nou
-house_70	shutting	O
-house_70	down	O
-house_70	the	O
-house_70	receiver	O

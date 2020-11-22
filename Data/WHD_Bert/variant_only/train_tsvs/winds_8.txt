@@ -1,9 +1,0 @@
-winds_8	Regionally	O
-winds_8	these	O
-winds_8	winds	winds_nou
-winds_8	are	O
-winds_8	known	O
-winds_8	by	O
-winds_8	many	O
-winds_8	different	O
-winds_8	names	O

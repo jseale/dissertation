@@ -1,9 +1,0 @@
-bologna_73	Fini	O
-bologna_73	was	O
-bologna_73	born	O
-bologna_73	on	O
-bologna_73	January	O
-bologna_73	3	O
-bologna_73	1952	O
-bologna_73	in	O
-bologna_73	Bologna	bologna_geo

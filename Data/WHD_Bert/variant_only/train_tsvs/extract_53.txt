@@ -1,8 +1,0 @@
-extract_53	An	O
-extract_53	extract	extract_nou
-extract_53	from	O
-extract_53	the	O
-extract_53	advertisement	O
-extract_53	is	O
-extract_53	as	O
-extract_53	follows	O

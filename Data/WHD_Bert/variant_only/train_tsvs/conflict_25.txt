@@ -1,8 +1,0 @@
-conflict_25	Most	O
-conflict_25	represented	O
-conflict_25	compromises	O
-conflict_25	designed	O
-conflict_25	to	O
-conflict_25	avert	O
-conflict_25	military	O
-conflict_25	conflict	conflict_nou

@@ -1,7 +1,0 @@
-approximate_1	Titles	O
-approximate_1	in	O
-approximate_1	brackets	O
-approximate_1	are	O
-approximate_1	an	O
-approximate_1	approximate	approximate_adj-nou
-approximate_1	translation	O

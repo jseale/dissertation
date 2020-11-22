@@ -1,8 +1,0 @@
-reject_34	Based	O
-reject_34	on	O
-reject_34	this	O
-reject_34	they	O
-reject_34	chose	O
-reject_34	to	O
-reject_34	reject	reject_vrb
-reject_34	secession	O

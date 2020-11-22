@@ -1,8 +1,0 @@
-minute_6	The	O
-minute_6	first	O
-minute_6	failed	O
-minute_6	at	O
-minute_6	the	O
-minute_6	five	O
-minute_6	minute	minute
-minute_6	mark	O

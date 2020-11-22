@@ -1,8 +1,0 @@
-articulate_30	It	O
-articulate_30	's	O
-articulate_30	hard	O
-articulate_30	for	O
-articulate_30	her	O
-articulate_30	to	O
-articulate_30	articulate	articulate_vrb
-articulate_30	it	O

@@ -1,8 +1,0 @@
-bologna_53	It	O
-bologna_53	was	O
-bologna_53	printed	O
-bologna_53	and	O
-bologna_53	handcrafted	O
-bologna_53	in	O
-bologna_53	Bologna	bologna_geo
-bologna_53	Italy	O

@@ -1,9 +1,0 @@
-transplant_27	Slaughter	O
-transplant_27	's	O
-transplant_27	last	O
-transplant_27	novel	O
-transplant_27	Transplant	transplant_nou
-transplant_27	was	O
-transplant_27	published	O
-transplant_27	in	O
-transplant_27	1987	O

@@ -1,8 +1,0 @@
-initiate_60	That	O
-initiate_60	could	O
-initiate_60	initiate	initiate_vrb
-initiate_60	a	O
-initiate_60	continuation	O
-initiate_60	of	O
-initiate_60	representational	O
-initiate_60	painting	O

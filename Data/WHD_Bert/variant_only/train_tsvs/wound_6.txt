@@ -1,8 +1,0 @@
-wound_6	He	O
-wound_6	eventually	O
-wound_6	wound	wound_vrb
-wound_6	up	O
-wound_6	in	O
-wound_6	the	O
-wound_6	United	O
-wound_6	States	O

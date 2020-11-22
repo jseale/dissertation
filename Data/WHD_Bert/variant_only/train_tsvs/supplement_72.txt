@@ -1,8 +1,0 @@
-supplement_72	Gilt	O
-supplement_72	bronze	O
-supplement_72	nails	O
-supplement_72	supplement	supplement_vrb
-supplement_72	the	O
-supplement_72	wooden	O
-supplement_72	tenon	O
-supplement_72	joints	O

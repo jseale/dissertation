@@ -1,7 +1,0 @@
-attribute_10	Attribute	attribute_nou
-attribute_10	comparison	O
-attribute_10	may	O
-attribute_10	be	O
-attribute_10	vulnerable	O
-attribute_10	to	O
-attribute_10	forgery	O

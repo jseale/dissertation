@@ -1,8 +1,0 @@
-decrease_30	Civil	O
-decrease_30	conflicts	O
-decrease_30	can	O
-decrease_30	also	O
-decrease_30	decrease	decrease_vrb
-decrease_30	access	O
-decrease_30	to	O
-decrease_30	food	O

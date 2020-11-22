@@ -1,9 +1,0 @@
-reject_44	The	O
-reject_44	speaker	O
-reject_44	can	O
-reject_44	decide	O
-reject_44	to	O
-reject_44	accept	O
-reject_44	or	O
-reject_44	reject	reject_vrb
-reject_44	it	O

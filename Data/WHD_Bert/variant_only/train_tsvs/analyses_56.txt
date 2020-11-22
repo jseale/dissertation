@@ -1,7 +1,0 @@
-analyses_56	Nattiez	O
-analyses_56	distinguishes	O
-analyses_56	between	O
-analyses_56	nonformalized	O
-analyses_56	and	O
-analyses_56	formalized	O
-analyses_56	analyses	analyses_nou

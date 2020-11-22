@@ -1,8 +1,0 @@
-converse_59	The	O
-converse_59	Jailor	O
-converse_59	can	O
-converse_59	converse	converse_vrb
-converse_59	with	O
-converse_59	their	O
-converse_59	jailed	O
-converse_59	target	O

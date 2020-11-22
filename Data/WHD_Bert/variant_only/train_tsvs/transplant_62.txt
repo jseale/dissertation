@@ -1,7 +1,0 @@
-transplant_62	However	O
-transplant_62	Phil	O
-transplant_62	eventually	O
-transplant_62	gets	O
-transplant_62	a	O
-transplant_62	liver	O
-transplant_62	transplant	transplant_nou

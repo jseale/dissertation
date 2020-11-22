@@ -1,8 +1,0 @@
-laminate_36	Every	O
-laminate_36	person	O
-laminate_36	in	O
-laminate_36	the	O
-laminate_36	crowd	O
-laminate_36	had	O
-laminate_36	a	O
-laminate_36	laminate	laminate_nou

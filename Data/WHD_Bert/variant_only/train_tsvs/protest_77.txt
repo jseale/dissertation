@@ -1,7 +1,0 @@
-protest_77	They	O
-protest_77	conducted	O
-protest_77	frequent	O
-protest_77	voting	O
-protest_77	boycotts	O
-protest_77	in	O
-protest_77	protest	protest_nou

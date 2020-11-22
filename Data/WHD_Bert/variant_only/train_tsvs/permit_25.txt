@@ -1,9 +1,0 @@
-permit_25	Colleen	O
-permit_25	had	O
-permit_25	to	O
-permit_25	acquire	O
-permit_25	a	O
-permit_25	special	O
-permit_25	permit	permit_nou
-permit_25	to	O
-permit_25	drive	O

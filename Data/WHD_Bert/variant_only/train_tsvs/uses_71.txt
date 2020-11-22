@@ -1,8 +1,0 @@
-uses_71	Ring	O
-uses_71	often	O
-uses_71	uses	uses_vrb
-uses_71	doors	O
-uses_71	and	O
-uses_71	windows	O
-uses_71	as	O
-uses_71	thresholds	O

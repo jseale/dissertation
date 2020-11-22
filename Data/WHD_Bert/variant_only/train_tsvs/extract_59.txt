@@ -1,8 +1,0 @@
-extract_59	The	O
-extract_59	extract	extract_nou
-extract_59	is	O
-extract_59	from	O
-extract_59	Rudolf	O
-extract_59	Hoernle	O
-extract_59	's	O
-extract_59	translation	O

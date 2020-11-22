@@ -1,8 +1,0 @@
-mate_53	These	O
-mate_53	eggs	O
-mate_53	later	O
-mate_53	hatch	O
-mate_53	and	O
-mate_53	the	O
-mate_53	progeny	O
-mate_53	mate	mate

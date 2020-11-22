@@ -1,8 +1,0 @@
-bow_56	The	O
-bow_56	deluxe	O
-bow_56	Arcee	O
-bow_56	has	O
-bow_56	a	O
-bow_56	similar	O
-bow_56	bow	bow_nou-knot
-bow_56	weapon	O

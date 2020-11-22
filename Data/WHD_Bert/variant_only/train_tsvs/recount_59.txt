@@ -1,7 +1,0 @@
-recount_59	They	O
-recount_59	frequently	O
-recount_59	recount	recount_vrb
-recount_59	stories	O
-recount_59	used	O
-recount_59	in	O
-recount_59	wayang	O

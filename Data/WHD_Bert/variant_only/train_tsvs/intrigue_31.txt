@@ -1,7 +1,0 @@
-intrigue_31	She	O
-intrigue_31	is	O
-intrigue_31	involved	O
-intrigue_31	in	O
-intrigue_31	a	O
-intrigue_31	Catholic	O
-intrigue_31	intrigue	intrigue_nou

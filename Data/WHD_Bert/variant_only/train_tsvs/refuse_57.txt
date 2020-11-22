@@ -1,7 +1,0 @@
-refuse_57	When	O
-refuse_57	the	O
-refuse_57	Reunciates	O
-refuse_57	refuse	refuse_vrb
-refuse_57	a	O
-refuse_57	fight	O
-refuse_57	ensues	O

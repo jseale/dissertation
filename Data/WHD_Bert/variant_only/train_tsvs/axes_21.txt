@@ -1,9 +1,0 @@
-axes_21	Characteristic	O
-axes_21	tools	O
-axes_21	include	O
-axes_21	flake	O
-axes_21	axes	axes_nou-vrb
-axes_21	lanceolates	O
-axes_21	and	O
-axes_21	tanged	O
-axes_21	arrowheads	O

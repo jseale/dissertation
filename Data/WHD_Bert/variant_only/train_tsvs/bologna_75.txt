@@ -1,8 +1,0 @@
-bologna_75	His	O
-bologna_75	tomb	O
-bologna_75	is	O
-bologna_75	in	O
-bologna_75	the	O
-bologna_75	Certosa	O
-bologna_75	di	O
-bologna_75	Bologna	bologna_geo

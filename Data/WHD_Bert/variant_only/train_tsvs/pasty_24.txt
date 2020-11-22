@@ -1,7 +1,0 @@
-pasty_24	Uricotelic	O
-pasty_24	organisms	O
-pasty_24	typically	O
-pasty_24	have	O
-pasty_24	white	O
-pasty_24	pasty	pasty_nou
-pasty_24	excreta	O

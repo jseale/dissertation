@@ -1,7 +1,0 @@
-rebel_53	The	O
-rebel_53	Spanish	O
-rebel_53	weapons	O
-rebel_53	fell	O
-rebel_53	into	O
-rebel_53	rebel	rebel_nou
-rebel_53	hands	O

@@ -1,9 +1,0 @@
-perfume_80	The	O
-perfume_80	Nuvo	O
-perfume_80	bottle	O
-perfume_80	looks	O
-perfume_80	like	O
-perfume_80	a	O
-perfume_80	large	O
-perfume_80	perfume	perfume_nou
-perfume_80	bottle	O

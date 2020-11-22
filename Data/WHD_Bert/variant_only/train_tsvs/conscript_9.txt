@@ -1,8 +1,0 @@
-conscript_9	The	O
-conscript_9	Finnish	O
-conscript_9	Defense	O
-conscript_9	Forces	O
-conscript_9	does	O
-conscript_9	not	O
-conscript_9	conscript	conscript_vrb
-conscript_9	women	O

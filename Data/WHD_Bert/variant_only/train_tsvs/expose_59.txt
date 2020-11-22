@@ -1,8 +1,0 @@
-expose_59	Kings	O
-expose_59	wear	O
-expose_59	long	O
-expose_59	robes	O
-expose_59	that	O
-expose_59	expose	expose_vrb
-expose_59	their	O
-expose_59	feet	O

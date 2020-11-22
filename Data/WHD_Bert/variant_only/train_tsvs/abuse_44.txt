@@ -1,9 +1,0 @@
-abuse_44	The	O
-abuse_44	Speed	O
-abuse_44	Culture	O
-abuse_44	Amphetamine	O
-abuse_44	Use	O
-abuse_44	and	O
-abuse_44	Abuse	abuse_nou
-abuse_44	in	O
-abuse_44	America	O

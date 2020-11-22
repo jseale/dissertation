@@ -1,9 +1,0 @@
-abstract_0	Both	O
-abstract_0	stances	O
-abstract_0	are	O
-abstract_0	verbalized	O
-abstract_0	with	O
-abstract_0	the	O
-abstract_0	same	O
-abstract_0	abstract	abstract_adj-nou
-abstract_0	vocabulary	O

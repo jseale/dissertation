@@ -1,9 +1,0 @@
-axes_38	Pottery	O
-axes_38	burnt	O
-axes_38	stones	O
-axes_38	and	O
-axes_38	broken	O
-axes_38	stone	O
-axes_38	axes	axes_nou-vrb
-axes_38	were	O
-axes_38	found	O

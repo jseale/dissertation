@@ -1,9 +1,0 @@
-implement_77	Languages	O
-implement_77	that	O
-implement_77	implement	implement_vrb
-implement_77	data	O
-implement_77	abstraction	O
-implement_77	include	O
-implement_77	Ada	O
-implement_77	and	O
-implement_77	Modula-2	O

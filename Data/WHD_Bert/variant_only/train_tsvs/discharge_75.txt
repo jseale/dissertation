@@ -1,8 +1,0 @@
-discharge_75	He	O
-discharge_75	ended	O
-discharge_75	his	O
-discharge_75	tour	O
-discharge_75	with	O
-discharge_75	an	O
-discharge_75	honorable	O
-discharge_75	discharge	discharge_nou

@@ -1,9 +1,0 @@
-discard_70	You	O
-discard_70	may	O
-discard_70	not	O
-discard_70	discard	discard_vrb
-discard_70	the	O
-discard_70	blue	O
-discard_70	in	O
-discard_70	any	O
-discard_70	situation	O

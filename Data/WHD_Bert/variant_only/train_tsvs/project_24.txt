@@ -1,8 +1,0 @@
-project_24	The	O
-project_24	project	project_nou
-project_24	is	O
-project_24	currently	O
-project_24	directed	O
-project_24	by	O
-project_24	Peter	O
-project_24	Funke	O

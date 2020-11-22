@@ -1,9 +1,0 @@
-live_35	He	O
-live_35	also	O
-live_35	has	O
-live_35	a	O
-live_35	tendency	O
-live_35	to	O
-live_35	eat	O
-live_35	live	live_adj
-live_35	animals	O

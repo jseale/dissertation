@@ -1,7 +1,0 @@
-animate_9	No	O
-animate_9	gender	O
-animate_9	or	O
-animate_9	animate	animate_adj-nou
-animate_9	distinction	O
-animate_9	is	O
-animate_9	made	O

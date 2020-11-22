@@ -1,7 +1,0 @@
-laminate_70	Flooring	O
-laminate_70	includes	O
-laminate_70	hardwood	O
-laminate_70	laminate	laminate_nou
-laminate_70	and	O
-laminate_70	carpet	O
-laminate_70	options	O

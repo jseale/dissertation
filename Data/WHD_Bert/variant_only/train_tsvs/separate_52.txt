@@ -1,7 +1,0 @@
-separate_52	Malappuram	O
-separate_52	became	O
-separate_52	a	O
-separate_52	separate	separate_adj
-separate_52	district	O
-separate_52	in	O
-separate_52	1969	O

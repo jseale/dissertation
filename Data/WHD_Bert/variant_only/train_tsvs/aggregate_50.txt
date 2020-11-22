@@ -1,9 +1,0 @@
-aggregate_50	Official	O
-aggregate_50	visits	O
-aggregate_50	either	O
-aggregate_50	continuous	O
-aggregate_50	or	O
-aggregate_50	aggregate	aggregate_adj-nou
-aggregate_50	of	O
-aggregate_50	30	O
-aggregate_50	days	O

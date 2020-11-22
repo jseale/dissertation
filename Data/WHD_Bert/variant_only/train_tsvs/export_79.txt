@@ -1,8 +1,0 @@
-export_79	Export	export_nou
-export_79	share	O
-export_79	60	O
-export_79	worldwide	O
-export_79	roughly	O
-export_79	45/55	O
-export_79	Europe	O
-export_79	world	O

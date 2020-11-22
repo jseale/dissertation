@@ -1,9 +1,0 @@
-uses_73	This	O
-uses_73	swimming	O
-uses_73	event	O
-uses_73	uses	uses_vrb
-uses_73	medley	O
-uses_73	swimming	O
-uses_73	as	O
-uses_73	a	O
-uses_73	relay	O

@@ -1,9 +1,0 @@
-discount_69	Click	O
-discount_69	on	O
-discount_69	Ultra	O
-discount_69	Low	O
-discount_69	Emission	O
-discount_69	Discount	discount_nou
-discount_69	ULED	O
-discount_69	for	O
-discount_69	details	O

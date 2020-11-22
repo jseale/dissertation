@@ -1,7 +1,0 @@
-abstract_34	Pediatr	O
-abstract_34	Res	O
-abstract_34	33	O
-abstract_34	184A	O
-abstract_34	1993	O
-abstract_34	abstract	abstract_adj-nou
-abstract_34	1089	O

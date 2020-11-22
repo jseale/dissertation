@@ -1,8 +1,0 @@
-mate_18	The	O
-mate_18	adults	O
-mate_18	will	O
-mate_18	mate	mate
-mate_18	and	O
-mate_18	produce	O
-mate_18	unsheathed	O
-mate_18	microfilariae	O

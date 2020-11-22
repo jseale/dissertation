@@ -1,8 +1,0 @@
-consummate_68	They	O
-consummate_68	finally	O
-consummate_68	consummate	consummate_vrb
-consummate_68	their	O
-consummate_68	relationship	O
-consummate_68	in	O
-consummate_68	September	O
-consummate_68	1963	O

@@ -1,9 +1,0 @@
-contest_57	The	O
-contest_57	contest	contest_nou
-contest_57	was	O
-contest_57	held	O
-contest_57	in	O
-contest_57	Primm	O
-contest_57	Valley	O
-contest_57	Resort	O
-contest_57	Nevada	O

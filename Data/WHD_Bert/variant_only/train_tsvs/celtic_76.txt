@@ -1,7 +1,0 @@
-celtic_76	In	O
-celtic_76	summer	O
-celtic_76	1990	O
-celtic_76	Nicholas	O
-celtic_76	returned	O
-celtic_76	to	O
-celtic_76	Celtic	celtic_adj-nou-sports

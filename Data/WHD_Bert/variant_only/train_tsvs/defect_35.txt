@@ -1,9 +1,0 @@
-defect_35	It	O
-defect_35	is	O
-defect_35	the	O
-defect_35	most	O
-defect_35	common	O
-defect_35	complex	O
-defect_35	congenital	O
-defect_35	heart	O
-defect_35	defect	defect_nou

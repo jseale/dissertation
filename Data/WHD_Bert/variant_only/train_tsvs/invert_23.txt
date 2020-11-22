@@ -1,9 +1,0 @@
-invert_23	To	O
-invert_23	invert	invert_vrb
-invert_23	this	O
-invert_23	function	O
-invert_23	an	O
-invert_23	attacker	O
-invert_23	establishes	O
-invert_23	the	O
-invert_23	following	O

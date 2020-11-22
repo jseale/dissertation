@@ -1,8 +1,0 @@
-abstract_43	Bachman	O
-abstract_43	's	O
-abstract_43	work	O
-abstract_43	is	O
-abstract_43	typically	O
-abstract_43	abstract	abstract_adj-nou
-abstract_43	displaying	O
-abstract_43	futurism	O

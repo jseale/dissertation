@@ -1,8 +1,0 @@
-separate_64	It	O
-separate_64	became	O
-separate_64	a	O
-separate_64	separate	separate_adj
-separate_64	civil	O
-separate_64	parish	O
-separate_64	in	O
-separate_64	1866	O

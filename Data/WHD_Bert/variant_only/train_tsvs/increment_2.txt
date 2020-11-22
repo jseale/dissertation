@@ -1,7 +1,0 @@
-increment_2	Avenues	O
-increment_2	increment	increment_vrb
-increment_2	alphabetically	O
-increment_2	as	O
-increment_2	travel	O
-increment_2	proceeds	O
-increment_2	west	O

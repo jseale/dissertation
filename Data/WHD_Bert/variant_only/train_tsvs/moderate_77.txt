@@ -1,8 +1,0 @@
-moderate_77	Commercially	O
-moderate_77	Saxobeats	O
-moderate_77	experienced	O
-moderate_77	moderate	moderate_adj-nou
-moderate_77	success	O
-moderate_77	on	O
-moderate_77	record	O
-moderate_77	charts	O

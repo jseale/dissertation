@@ -1,7 +1,0 @@
-predicate_52	The	O
-predicate_52	grammar	O
-predicate_52	of	O
-predicate_52	English	O
-predicate_52	predicate	predicate_nou
-predicate_52	complement	O
-predicate_52	constructions	O

@@ -1,9 +1,0 @@
-aggregate_49	The	O
-aggregate_49	aggregate	aggregate_adj-nou
-aggregate_49	score	O
-aggregate_49	of	O
-aggregate_49	both	O
-aggregate_49	games	O
-aggregate_49	decided	O
-aggregate_49	the	O
-aggregate_49	winner	O

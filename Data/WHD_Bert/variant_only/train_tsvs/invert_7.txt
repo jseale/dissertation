@@ -1,7 +1,0 @@
-invert_7	The	O
-invert_7	more	O
-invert_7	polite	O
-invert_7	invert	invert_vrb
-invert_7	appears	O
-invert_7	as	O
-invert_7	well	O

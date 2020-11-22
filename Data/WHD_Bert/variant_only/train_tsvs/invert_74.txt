@@ -1,9 +1,0 @@
-invert_74	DCC	O
-invert_74	can	O
-invert_74	also	O
-invert_74	be	O
-invert_74	used	O
-invert_74	to	O
-invert_74	invert	invert_vrb
-invert_74	secondary	O
-invert_74	alcohols	O

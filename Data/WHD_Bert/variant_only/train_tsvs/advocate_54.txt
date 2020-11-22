@@ -1,9 +1,0 @@
-advocate_54	The	O
-advocate_54	highest	O
-advocate_54	level	O
-advocate_54	is	O
-advocate_54	the	O
-advocate_54	Senior	O
-advocate_54	Advocate	advocate_nou
-advocate_54	Supreme	O
-advocate_54	Court	O

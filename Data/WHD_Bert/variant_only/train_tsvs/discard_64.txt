@@ -1,9 +1,0 @@
-discard_64	It	O
-discard_64	can	O
-discard_64	discard	discard_vrb
-discard_64	the	O
-discard_64	contents	O
-discard_64	of	O
-discard_64	all	O
-discard_64	other	O
-discard_64	PIDs	O

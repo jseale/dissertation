@@ -1,8 +1,0 @@
-refuse_21	It	O
-refuse_21	is	O
-refuse_21	The	O
-refuse_21	Right	O
-refuse_21	to	O
-refuse_21	Refuse	refuse_vrb
-refuse_21	to	O
-refuse_21	Kill	O

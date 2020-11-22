@@ -1,8 +1,0 @@
-contrast_69	In	O
-contrast_69	contrast	contrast_nou
-contrast_69	winter	O
-contrast_69	is	O
-contrast_69	very	O
-contrast_69	cold	O
-contrast_69	and	O
-contrast_69	harsh	O

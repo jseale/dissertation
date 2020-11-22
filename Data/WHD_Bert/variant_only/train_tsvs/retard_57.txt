@@ -1,9 +1,0 @@
-retard_57	In	O
-retard_57	addition	O
-retard_57	cool	O
-retard_57	temperatures	O
-retard_57	retard	retard_vrb
-retard_57	bacterial	O
-retard_57	and	O
-retard_57	fungal	O
-retard_57	growth	O

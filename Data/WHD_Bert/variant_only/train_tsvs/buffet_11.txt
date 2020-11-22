@@ -1,9 +1,0 @@
-buffet_11	And	O
-buffet_11	on	O
-buffet_11	the	O
-buffet_11	other	O
-buffet_11	hand	O
-buffet_11	through	O
-buffet_11	his	O
-buffet_11	private	O
-buffet_11	buffet	buffet_nou

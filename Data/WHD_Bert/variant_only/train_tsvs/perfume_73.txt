@@ -1,9 +1,0 @@
-perfume_73	Yasutaka	O
-perfume_73	produced	O
-perfume_73	group	O
-perfume_73	Perfume	perfume_nou
-perfume_73	also	O
-perfume_73	appeared	O
-perfume_73	on	O
-perfume_73	the	O
-perfume_73	episode	O

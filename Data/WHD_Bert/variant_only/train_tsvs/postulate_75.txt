@@ -1,7 +1,0 @@
-postulate_75	Such	O
-postulate_75	a	O
-postulate_75	hypothesis	O
-postulate_75	was	O
-postulate_75	termed	O
-postulate_75	a	O
-postulate_75	postulate	postulate_nou

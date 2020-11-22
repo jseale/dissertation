@@ -1,7 +1,0 @@
-produce_41	The	O
-produce_41	film	O
-produce_41	took	O
-produce_41	18	O
-produce_41	months	O
-produce_41	to	O
-produce_41	produce	produce_vrb

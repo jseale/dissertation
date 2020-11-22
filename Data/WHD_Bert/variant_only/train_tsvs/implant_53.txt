@@ -1,9 +1,0 @@
-implant_53	This	O
-implant_53	property	O
-implant_53	is	O
-implant_53	also	O
-implant_53	useful	O
-implant_53	for	O
-implant_53	orthopedic	O
-implant_53	implant	implant_nou
-implant_53	applications	O

@@ -1,9 +1,0 @@
-graduate_12	He	O
-graduate_12	was	O
-graduate_12	a	O
-graduate_12	graduate	graduate_adj-nou
-graduate_12	of	O
-graduate_12	Paris	O
-graduate_12	University	O
-graduate_12	Medical	O
-graduate_12	School	O

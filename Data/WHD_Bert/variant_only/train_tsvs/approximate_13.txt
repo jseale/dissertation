@@ -1,9 +1,0 @@
-approximate_13	The	O
-approximate_13	approximate	approximate_adj-nou
-approximate_13	duration	O
-approximate_13	of	O
-approximate_13	the	O
-approximate_13	work	O
-approximate_13	is	O
-approximate_13	32	O
-approximate_13	minutes	O

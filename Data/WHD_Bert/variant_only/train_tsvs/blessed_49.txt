@@ -1,8 +1,0 @@
-blessed_49	The	O
-blessed_49	facilities	O
-blessed_49	were	O
-blessed_49	blessed	blessed_vrb
-blessed_49	by	O
-blessed_49	The	O
-blessed_49	Most	O
-blessed_49	Rev.	O

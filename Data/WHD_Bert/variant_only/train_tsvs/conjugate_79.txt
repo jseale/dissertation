@@ -1,8 +1,0 @@
-conjugate_79	This	O
-conjugate_79	relation	O
-conjugate_79	is	O
-conjugate_79	called	O
-conjugate_79	the	O
-conjugate_79	Conjugate	conjugate_adj-nou
-conjugate_79	Pairing	O
-conjugate_79	Rule	O

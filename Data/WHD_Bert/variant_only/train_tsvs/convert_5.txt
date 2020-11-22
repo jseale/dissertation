@@ -1,7 +1,0 @@
-convert_5	He	O
-convert_5	is	O
-convert_5	a	O
-convert_5	convert	convert_nou
-convert_5	to	O
-convert_5	Roman	O
-convert_5	Catholicism	O

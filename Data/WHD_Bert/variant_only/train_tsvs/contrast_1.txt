@@ -1,9 +1,0 @@
-contrast_1	This	O
-contrast_1	technique	O
-contrast_1	is	O
-contrast_1	used	O
-contrast_1	mostly	O
-contrast_1	for	O
-contrast_1	high	O
-contrast_1	contrast	contrast_nou
-contrast_1	data	O

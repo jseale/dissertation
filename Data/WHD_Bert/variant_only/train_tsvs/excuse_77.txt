@@ -1,9 +1,0 @@
-excuse_77	Making	O
-excuse_77	up	O
-excuse_77	an	O
-excuse_77	awkward	O
-excuse_77	excuse	excuse_nou
-excuse_77	he	O
-excuse_77	and	O
-excuse_77	Lance	O
-excuse_77	leave	O

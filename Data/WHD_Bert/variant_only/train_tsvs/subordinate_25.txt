@@ -1,9 +1,0 @@
-subordinate_25	Instead	O
-subordinate_25	he	O
-subordinate_25	sends	O
-subordinate_25	his	O
-subordinate_25	subordinate	subordinate_adj-nou
-subordinate_25	Nezha	O
-subordinate_25	to	O
-subordinate_25	arrest	O
-subordinate_25	Wukong	O

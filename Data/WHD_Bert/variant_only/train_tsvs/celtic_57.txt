@@ -1,7 +1,0 @@
-celtic_57	There	O
-celtic_57	are	O
-celtic_57	also	O
-celtic_57	some	O
-celtic_57	Celtic	celtic
-celtic_57	standing	O
-celtic_57	stones	O

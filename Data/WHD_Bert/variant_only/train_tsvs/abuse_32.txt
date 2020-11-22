@@ -1,9 +1,0 @@
-abuse_32	Victims	O
-abuse_32	of	O
-abuse_32	The	O
-abuse_32	Village	O
-abuse_32	Expose	O
-abuse_32	of	O
-abuse_32	rural	O
-abuse_32	Child	O
-abuse_32	Abuse	abuse_nou

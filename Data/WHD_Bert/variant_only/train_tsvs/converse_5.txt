@@ -1,8 +1,0 @@
-converse_5	This	O
-converse_5	theorem	O
-converse_5	and	O
-converse_5	its	O
-converse_5	converse	converse_adj-nou
-converse_5	have	O
-converse_5	various	O
-converse_5	uses	O

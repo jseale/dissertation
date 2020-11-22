@@ -1,9 +1,0 @@
-axes_56	The	O
-axes_56	articular	O
-axes_56	surfaces	O
-axes_56	are	O
-axes_56	elliptical	O
-axes_56	with	O
-axes_56	longer	O
-axes_56	transversal	O
-axes_56	axes	axes_nou

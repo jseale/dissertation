@@ -1,9 +1,0 @@
-uses_34	Tess	O
-uses_34	uses	uses_vrb
-uses_34	an	O
-uses_34	alien	O
-uses_34	power	O
-uses_34	to	O
-uses_34	blank	O
-uses_34	her	O
-uses_34	memory	O

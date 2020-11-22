@@ -1,8 +1,0 @@
-contrast_50	By	O
-contrast_50	contrast	contrast_nou
-contrast_50	plant	O
-contrast_50	steroids	O
-contrast_50	are	O
-contrast_50	produced	O
-contrast_50	via	O
-contrast_50	cycloartenol	O

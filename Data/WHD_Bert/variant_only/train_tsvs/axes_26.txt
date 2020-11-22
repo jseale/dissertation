@@ -1,8 +1,0 @@
-axes_26	Few	O
-axes_26	hand	O
-axes_26	axes	axes_nou-vrb
-axes_26	show	O
-axes_26	evidence	O
-axes_26	of	O
-axes_26	impact	O
-axes_26	damage	O

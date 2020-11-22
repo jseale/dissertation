@@ -1,9 +1,0 @@
-overthrow_34	The	O
-overthrow_34	Supreme	O
-overthrow_34	Court	O
-overthrow_34	can	O
-overthrow_34	overthrow	overthrow_vrb
-overthrow_34	any	O
-overthrow_34	lower	O
-overthrow_34	courts	O
-overthrow_34	decision	O

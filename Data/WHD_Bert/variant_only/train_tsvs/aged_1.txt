@@ -1,8 +1,0 @@
-aged_1	He	O
-aged_1	died	O
-aged_1	on	O
-aged_1	8	O
-aged_1	May	O
-aged_1	2011	O
-aged_1	aged	aged
-aged_1	92	O

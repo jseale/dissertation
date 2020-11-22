@@ -1,8 +1,0 @@
-console_54	The	O
-console_54	levels	O
-console_54	differ	O
-console_54	between	O
-console_54	the	O
-console_54	different	O
-console_54	console	console_nou
-console_54	versions	O

@@ -1,9 +1,0 @@
-separate_53	However	O
-separate_53	there	O
-separate_53	are	O
-separate_53	separate	separate_adj
-separate_53	rules	O
-separate_53	applied	O
-separate_53	to	O
-separate_53	most	O
-separate_53	banks	O

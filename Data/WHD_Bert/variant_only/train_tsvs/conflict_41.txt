@@ -1,9 +1,0 @@
-conflict_41	In	O
-conflict_41	2014	O
-conflict_41	however	O
-conflict_41	Al	O
-conflict_41	Qaeda	O
-conflict_41	and	O
-conflict_41	ISIL	O
-conflict_41	conflict	conflict_vrb
-conflict_41	directly	O

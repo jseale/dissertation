@@ -1,8 +1,0 @@
-compound_3	Calcium	O
-compound_3	guanylate	O
-compound_3	is	O
-compound_3	a	O
-compound_3	compound	compound_nou
-compound_3	with	O
-compound_3	formula	O
-compound_3	Ca(C₁₀H₁₂O₄N₅PO₄	O

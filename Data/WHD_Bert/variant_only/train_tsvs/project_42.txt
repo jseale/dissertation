@@ -1,7 +1,0 @@
-project_42	This	O
-project_42	however	O
-project_42	is	O
-project_42	a	O
-project_42	controversial	O
-project_42	road	O
-project_42	project	project_nou

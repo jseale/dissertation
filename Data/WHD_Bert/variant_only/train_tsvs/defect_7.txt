@@ -1,7 +1,0 @@
-defect_7	His	O
-defect_7	only	O
-defect_7	defect	defect_nou
-defect_7	is	O
-defect_7	probably	O
-defect_7	his	O
-defect_7	modesty	O

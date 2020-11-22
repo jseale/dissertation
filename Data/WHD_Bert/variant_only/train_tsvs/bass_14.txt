@@ -1,9 +1,0 @@
-bass_14	Copying	O
-bass_14	the	O
-bass_14	bass	bass
-bass_14	lines	O
-bass_14	and	O
-bass_14	teaching	O
-bass_14	himself	O
-bass_14	the	O
-bass_14	guitar	O

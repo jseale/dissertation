@@ -1,9 +1,0 @@
-discard_80	The	O
-discard_80	computer	O
-discard_80	may	O
-discard_80	discard	discard_vrb
-discard_80	items	O
-discard_80	because	O
-discard_80	they	O
-discard_80	are	O
-discard_80	expired	O

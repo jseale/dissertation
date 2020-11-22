@@ -1,9 +1,0 @@
-aged_0	He	O
-aged_0	died	O
-aged_0	in	O
-aged_0	Croydon	O
-aged_0	Surrey	O
-aged_0	in	O
-aged_0	1903	O
-aged_0	aged	aged
-aged_0	93	O

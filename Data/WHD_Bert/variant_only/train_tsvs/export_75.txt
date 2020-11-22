@@ -1,8 +1,0 @@
-export_75	Mortalities	O
-export_75	that	O
-export_75	occur	O
-export_75	prior	O
-export_75	to	O
-export_75	export	export_nou
-export_75	are	O
-export_75	excluded	O

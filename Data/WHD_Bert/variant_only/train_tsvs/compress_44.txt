@@ -1,8 +1,0 @@
-compress_44	There	O
-compress_44	are	O
-compress_44	squeeze	O
-compress_44	containers	O
-compress_44	that	O
-compress_44	compress	compress
-compress_44	the	O
-compress_44	garbage	O

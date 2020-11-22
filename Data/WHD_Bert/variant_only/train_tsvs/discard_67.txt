@@ -1,9 +1,0 @@
-discard_67	The	O
-discard_67	discard	discard_nou
-discard_67	service	O
-discard_67	is	O
-discard_67	usually	O
-discard_67	not	O
-discard_67	enabled	O
-discard_67	by	O
-discard_67	default	O

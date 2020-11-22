@@ -1,8 +1,0 @@
-impact_79	On	O
-impact_79	the	O
-impact_79	January	O
-impact_79	17	O
-impact_79	2008	O
-impact_79	episode	O
-impact_79	of	O
-impact_79	Impact	impact_nou

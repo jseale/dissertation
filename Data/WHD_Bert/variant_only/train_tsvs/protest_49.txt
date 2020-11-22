@@ -1,8 +1,0 @@
-protest_49	Macau	O
-protest_49	chief	O
-protest_49	defends	O
-protest_49	police	O
-protest_49	action	O
-protest_49	during	O
-protest_49	labor	O
-protest_49	protest	protest_nou

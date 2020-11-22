@@ -1,8 +1,0 @@
-aged_48	He	O
-aged_48	died	O
-aged_48	in	O
-aged_48	Claremont	O
-aged_48	in	O
-aged_48	1957	O
-aged_48	aged	aged
-aged_48	91	O

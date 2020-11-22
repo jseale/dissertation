@@ -1,9 +1,0 @@
-nestle_52	Nestle	nestle_nam
-nestle_52	later	O
-nestle_52	acquired	O
-nestle_52	the	O
-nestle_52	company	O
-nestle_52	and	O
-nestle_52	closed	O
-nestle_52	this	O
-nestle_52	plant	O

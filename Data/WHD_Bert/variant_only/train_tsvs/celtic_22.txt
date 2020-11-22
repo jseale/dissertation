@@ -1,9 +1,0 @@
-celtic_22	They	O
-celtic_22	were	O
-celtic_22	replaced	O
-celtic_22	by	O
-celtic_22	the	O
-celtic_22	Romanized	O
-celtic_22	Thracio	O
-celtic_22	Celtic	celtic
-celtic_22	Tricornenses	O

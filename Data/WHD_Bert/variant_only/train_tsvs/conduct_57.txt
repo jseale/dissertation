@@ -1,7 +1,0 @@
-conduct_57	12	O
-conduct_57	were	O
-conduct_57	selected	O
-conduct_57	to	O
-conduct_57	conduct	conduct_vrb
-conduct_57	the	O
-conduct_57	election	O

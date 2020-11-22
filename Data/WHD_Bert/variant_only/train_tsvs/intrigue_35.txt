@@ -1,7 +1,0 @@
-intrigue_35	After	O
-intrigue_35	the	O
-intrigue_35	story	O
-intrigue_35	enjoys	O
-intrigue_35	creating	O
-intrigue_35	real	O
-intrigue_35	intrigue	intrigue_nou

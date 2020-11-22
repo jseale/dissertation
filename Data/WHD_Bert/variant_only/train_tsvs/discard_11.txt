@@ -1,7 +1,0 @@
-discard_11	Use	O
-discard_11	the	O
-discard_11	working	O
-discard_11	solution	O
-discard_11	once	O
-discard_11	then	O
-discard_11	discard	discard_vrb

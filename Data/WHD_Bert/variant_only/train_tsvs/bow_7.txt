@@ -1,9 +1,0 @@
-bow_7	The	O
-bow_7	round	O
-bow_7	bow	bow_nou-knot
-bow_7	is	O
-bow_7	also	O
-bow_7	equipped	O
-bow_7	with	O
-bow_7	horse	O
-bow_7	hair	O

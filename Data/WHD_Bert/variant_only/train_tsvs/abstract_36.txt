@@ -1,8 +1,0 @@
-abstract_36	Godwin	O
-abstract_36	is	O
-abstract_36	considered	O
-abstract_36	a	O
-abstract_36	third	O
-abstract_36	generation	O
-abstract_36	abstract	abstract_adj-nou
-abstract_36	expressionist	O

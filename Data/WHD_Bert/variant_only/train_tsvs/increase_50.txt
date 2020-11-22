@@ -1,9 +1,0 @@
-increase_50	He	O
-increase_50	designed	O
-increase_50	it	O
-increase_50	to	O
-increase_50	increase	increase_vrb
-increase_50	job	O
-increase_50	enrichment	O
-increase_50	for	O
-increase_50	employees	O

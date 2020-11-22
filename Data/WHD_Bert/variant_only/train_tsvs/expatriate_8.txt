@@ -1,8 +1,0 @@
-expatriate_8	Indonesians	O
-expatriate_8	in	O
-expatriate_8	Pakistan	O
-expatriate_8	are	O
-expatriate_8	a	O
-expatriate_8	small	O
-expatriate_8	expatriate	expatriate_nou
-expatriate_8	community	O

@@ -1,9 +1,0 @@
-abstract_38	With	O
-abstract_38	an	O
-abstract_38	abstract	abstract_adj-nou
-abstract_38	of	O
-abstract_38	the	O
-abstract_38	discussion	O
-abstract_38	upon	O
-abstract_38	the	O
-abstract_38	paper	O

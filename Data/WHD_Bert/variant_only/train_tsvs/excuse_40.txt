@@ -1,7 +1,0 @@
-excuse_40	The	O
-excuse_40	excuse	excuse_nou
-excuse_40	for	O
-excuse_40	the	O
-excuse_40	annulment	O
-excuse_40	was	O
-excuse_40	consanguinity	O

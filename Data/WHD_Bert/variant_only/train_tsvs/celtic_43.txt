@@ -1,7 +1,0 @@
-celtic_43	Overflow	O
-celtic_43	parking	O
-celtic_43	is	O
-celtic_43	available	O
-celtic_43	at	O
-celtic_43	Celtic	celtic
-celtic_43	Park	O

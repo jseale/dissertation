@@ -1,8 +1,0 @@
-console_25	Mixing	O
-console_25	was	O
-console_25	done	O
-console_25	on	O
-console_25	a	O
-console_25	Mackie	O
-console_25	mixing	O
-console_25	console	console_nou

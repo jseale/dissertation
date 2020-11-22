@@ -1,9 +1,0 @@
-invalid_37	S.	O
-invalid_37	muricatum	O
-invalid_37	is	O
-invalid_37	known	O
-invalid_37	by	O
-invalid_37	some	O
-invalid_37	now	O
-invalid_37	invalid	invalid_adj
-invalid_37	synonyms	O

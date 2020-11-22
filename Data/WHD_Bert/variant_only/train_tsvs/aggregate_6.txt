@@ -1,9 +1,0 @@
-aggregate_6	Environmental	O
-aggregate_6	stress	O
-aggregate_6	can	O
-aggregate_6	cause	O
-aggregate_6	proteins	O
-aggregate_6	to	O
-aggregate_6	misfold	O
-aggregate_6	and	O
-aggregate_6	aggregate	aggregate_vrb

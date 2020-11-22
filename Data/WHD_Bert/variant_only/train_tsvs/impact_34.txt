@@ -1,7 +1,0 @@
-impact_34	On	O
-impact_34	the	O
-impact_34	September	O
-impact_34	23	O
-impact_34	edition	O
-impact_34	of	O
-impact_34	Impact	impact_nou

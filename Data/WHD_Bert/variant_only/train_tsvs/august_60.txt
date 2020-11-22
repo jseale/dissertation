@@ -1,8 +1,0 @@
-august_60	In	O
-august_60	August	august
-august_60	Kenya	O
-august_60	visited	O
-august_60	Canada	O
-august_60	in	O
-august_60	King	O
-august_60	City	O

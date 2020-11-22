@@ -1,7 +1,0 @@
-rerelease_28	An	O
-rerelease_28	abridged	O
-rerelease_28	1929	O
-rerelease_28	rerelease	rerelease
-rerelease_28	version	O
-rerelease_28	is	O
-rerelease_28	preserved	O

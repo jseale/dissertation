@@ -1,8 +1,0 @@
-frequent_76	This	O
-frequent_76	lasts	O
-frequent_76	longer	O
-frequent_76	and	O
-frequent_76	requires	O
-frequent_76	less	O
-frequent_76	frequent	frequent_adj
-frequent_76	attention	O

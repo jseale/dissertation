@@ -1,7 +1,0 @@
-subordinate_9	Subordinate	subordinate_vrb
-subordinate_9	everything	O
-subordinate_9	else	O
-subordinate_9	to	O
-subordinate_9	the	O
-subordinate_9	above	O
-subordinate_9	decisions	O

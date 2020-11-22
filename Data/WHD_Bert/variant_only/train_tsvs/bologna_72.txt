@@ -1,9 +1,0 @@
-bologna_72	It	O
-bologna_72	passes	O
-bologna_72	west	O
-bologna_72	of	O
-bologna_72	Bologna	bologna_geo
-bologna_72	at	O
-bologna_72	Casalecchio	O
-bologna_72	di	O
-bologna_72	Reno	O

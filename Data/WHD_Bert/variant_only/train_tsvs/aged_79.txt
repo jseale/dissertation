@@ -1,7 +1,0 @@
-aged_79	Kelly	O
-aged_79	died	O
-aged_79	aged	aged
-aged_79	88	O
-aged_79	in	O
-aged_79	New	O
-aged_79	York	O

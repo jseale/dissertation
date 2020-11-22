@@ -1,9 +1,0 @@
-pasty_67	He	O
-pasty_67	now	O
-pasty_67	runs	O
-pasty_67	a	O
-pasty_67	pasty	pasty_adj
-pasty_67	company	O
-pasty_67	in	O
-pasty_67	Arnprior	O
-pasty_67	Ontario	O

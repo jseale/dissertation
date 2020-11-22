@@ -1,7 +1,0 @@
-content_34	Some	O
-content_34	receiving	O
-content_34	warnings	O
-content_34	on	O
-content_34	content	content_nou
-content_34	from	O
-content_34	C4	O

@@ -1,7 +1,0 @@
-wind_46	Siemens	O
-wind_46	Energy	O
-wind_46	to	O
-wind_46	supply	O
-wind_46	wind	wind_nou
-wind_46	farm	O
-wind_46	turbines	O

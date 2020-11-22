@@ -1,9 +1,0 @@
-polish_50	Polish	polish_geo
-polish_50	consul	O
-polish_50	general	O
-polish_50	in	O
-polish_50	Vancouver	O
-polish_50	demands	O
-polish_50	answers	O
-polish_50	for	O
-polish_50	death	O

@@ -1,9 +1,0 @@
-reading_11	She	O
-reading_11	taught	O
-reading_11	women	O
-reading_11	hygiene	O
-reading_11	discipline	O
-reading_11	health	O
-reading_11	reading	reading_en
-reading_11	and	O
-reading_11	writing	O

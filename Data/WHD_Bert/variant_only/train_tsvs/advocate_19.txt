@@ -1,9 +1,0 @@
-advocate_19	Prasad	O
-advocate_19	was	O
-advocate_19	a	O
-advocate_19	senior	O
-advocate_19	advocate	advocate_nou
-advocate_19	at	O
-advocate_19	Patna	O
-advocate_19	High	O
-advocate_19	Court	O

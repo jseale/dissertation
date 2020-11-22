@@ -1,9 +1,0 @@
-impact_46	The	O
-impact_46	overall	O
-impact_46	impact	impact_nou
-impact_46	of	O
-impact_46	managed	O
-impact_46	care	O
-impact_46	remains	O
-impact_46	widely	O
-impact_46	debated	O

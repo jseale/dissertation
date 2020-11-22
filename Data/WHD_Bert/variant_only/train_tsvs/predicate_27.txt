@@ -1,9 +1,0 @@
-predicate_27	The	O
-predicate_27	selbri	O
-predicate_27	is	O
-predicate_27	the	O
-predicate_27	logical	O
-predicate_27	predicate	predicate_nou
-predicate_27	of	O
-predicate_27	a	O
-predicate_27	bridi	O

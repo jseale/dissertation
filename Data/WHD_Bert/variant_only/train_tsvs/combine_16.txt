@@ -1,8 +1,0 @@
-combine_16	Riverboat	O
-combine_16	Dinner	O
-combine_16	Cruises	O
-combine_16	combine	combine_vrb
-combine_16	Showboat	O
-combine_16	with	O
-combine_16	a	O
-combine_16	meal	O

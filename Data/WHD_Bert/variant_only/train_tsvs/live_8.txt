@@ -1,7 +1,0 @@
-live_8	Roughly	O
-live_8	half	O
-live_8	of	O
-live_8	them	O
-live_8	live	live_vrb
-live_8	in	O
-live_8	Gauteng	O

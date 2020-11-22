@@ -1,7 +1,0 @@
-aged_71	He	O
-aged_71	died	O
-aged_71	in	O
-aged_71	January	O
-aged_71	2003	O
-aged_71	aged	aged
-aged_71	80	O

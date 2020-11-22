@@ -1,9 +1,0 @@
-advocate_66	The	O
-advocate_66	prosecution	O
-advocate_66	was	O
-advocate_66	not	O
-advocate_66	conducted	O
-advocate_66	by	O
-advocate_66	the	O
-advocate_66	judge	O
-advocate_66	advocate	advocate_nou

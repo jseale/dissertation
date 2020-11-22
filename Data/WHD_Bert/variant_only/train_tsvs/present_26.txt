@@ -1,9 +1,0 @@
-present_26	From	O
-present_26	the	O
-present_26	late	O
-present_26	eighteenth	O
-present_26	century	O
-present_26	to	O
-present_26	the	O
-present_26	present	present_adj-nou
-present_26	day	O

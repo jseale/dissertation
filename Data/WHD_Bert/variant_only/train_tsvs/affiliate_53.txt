@@ -1,9 +1,0 @@
-affiliate_53	WVAM	O
-affiliate_53	is	O
-affiliate_53	the	O
-affiliate_53	ESPN	O
-affiliate_53	Radio	O
-affiliate_53	affiliate	affiliate_nou
-affiliate_53	of	O
-affiliate_53	Altoona	O
-affiliate_53	Pennsylvania	O

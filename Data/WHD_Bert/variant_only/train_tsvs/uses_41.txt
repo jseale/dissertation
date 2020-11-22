@@ -1,8 +1,0 @@
-uses_41	Radiology	O
-uses_41	assisted	O
-uses_41	spine	O
-uses_41	surgery	O
-uses_41	uses	uses_vrb
-uses_41	minimally	O
-uses_41	invasive	O
-uses_41	procedures	O

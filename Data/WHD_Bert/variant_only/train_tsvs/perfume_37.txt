@@ -1,9 +1,0 @@
-perfume_37	To	O
-perfume_37	promote	O
-perfume_37	the	O
-perfume_37	Uninhibited	O
-perfume_37	perfume	perfume_nou
-perfume_37	Cher	O
-perfume_37	filmed	O
-perfume_37	two	O
-perfume_37	commercials	O

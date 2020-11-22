@@ -1,8 +1,0 @@
-subordinate_48	The	O
-subordinate_48	statutes	O
-subordinate_48	are	O
-subordinate_48	subordinate	subordinate_adj-nou
-subordinate_48	to	O
-subordinate_48	the	O
-subordinate_48	Oregon	O
-subordinate_48	Constitution	O

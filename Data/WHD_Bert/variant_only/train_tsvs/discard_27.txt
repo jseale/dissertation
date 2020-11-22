@@ -1,8 +1,0 @@
-discard_27	It	O
-discard_27	is	O
-discard_27	foolhardy	O
-discard_27	to	O
-discard_27	discard	discard_vrb
-discard_27	such	O
-discard_27	an	O
-discard_27	advantage	O

@@ -1,9 +1,0 @@
-jesus_67	Other	O
-jesus_67	critics	O
-jesus_67	found	O
-jesus_67	religious	O
-jesus_67	parallels	O
-jesus_67	between	O
-jesus_67	E.T.	O
-jesus_67	and	O
-jesus_67	Jesus	jesus

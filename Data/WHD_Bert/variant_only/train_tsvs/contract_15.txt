@@ -1,9 +1,0 @@
-contract_15	He	O
-contract_15	then	O
-contract_15	signed	O
-contract_15	a	O
-contract_15	ROH	O
-contract_15	contract	contract_nou
-contract_15	in	O
-contract_15	the	O
-contract_15	ring	O

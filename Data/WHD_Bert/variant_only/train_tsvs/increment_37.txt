@@ -1,9 +1,0 @@
-increment_37	Convert	O
-increment_37	to	O
-increment_37	a	O
-increment_37	negative	O
-increment_37	number	O
-increment_37	then	O
-increment_37	increment	increment_vrb
-increment_37	toward	O
-increment_37	zero	O

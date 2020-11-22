@@ -1,9 +1,0 @@
-consummate_31	That	O
-consummate_31	is	O
-consummate_31	the	O
-consummate_31	position	O
-consummate_31	of	O
-consummate_31	consummate	consummate_adj
-consummate_31	trust	O
-consummate_31	and	O
-consummate_31	authority	O

@@ -1,9 +1,0 @@
-coordinate_42	Another	O
-coordinate_42	type	O
-coordinate_42	of	O
-coordinate_42	phosphaalkyne	O
-coordinate_42	feature	O
-coordinate_42	pentavalent	O
-coordinate_42	three	O
-coordinate_42	coordinate	coordinate_adj-nou
-coordinate_42	phosphorus	O

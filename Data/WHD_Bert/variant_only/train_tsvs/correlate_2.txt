@@ -1,7 +1,0 @@
-correlate_2	Lower	O
-correlate_2	latitudes	O
-correlate_2	correlate	correlate_nou-vrb
-correlate_2	with	O
-correlate_2	longer	O
-correlate_2	life	O
-correlate_2	cycles	O

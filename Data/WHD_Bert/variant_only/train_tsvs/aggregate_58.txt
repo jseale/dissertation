@@ -1,9 +1,0 @@
-aggregate_58	Suduva	O
-aggregate_58	drew	O
-aggregate_58	level	O
-aggregate_58	on	O
-aggregate_58	aggregate	aggregate_adj-nou
-aggregate_58	in	O
-aggregate_58	the	O
-aggregate_58	first	O
-aggregate_58	half	O

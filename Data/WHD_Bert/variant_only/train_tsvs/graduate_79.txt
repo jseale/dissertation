@@ -1,9 +1,0 @@
-graduate_79	She	O
-graduate_79	is	O
-graduate_79	also	O
-graduate_79	a	O
-graduate_79	graduate	graduate_adj-nou
-graduate_79	of	O
-graduate_79	Fordham	O
-graduate_79	Law	O
-graduate_79	School	O

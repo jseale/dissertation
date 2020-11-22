@@ -1,7 +1,0 @@
-aged_56	He	O
-aged_56	died	O
-aged_56	in	O
-aged_56	Graz	O
-aged_56	Styria	O
-aged_56	aged	aged
-aged_56	73	O

@@ -1,9 +1,0 @@
-diffuse_1	The	O
-diffuse_1	markings	O
-diffuse_1	are	O
-diffuse_1	ochreous	O
-diffuse_1	very	O
-diffuse_1	diffuse	diffuse_adj
-diffuse_1	and	O
-diffuse_1	poorly	O
-diffuse_1	defined	O

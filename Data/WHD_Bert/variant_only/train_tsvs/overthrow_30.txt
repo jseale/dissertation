@@ -1,8 +1,0 @@
-overthrow_30	They	O
-overthrow_30	return	O
-overthrow_30	to	O
-overthrow_30	Cybertron	O
-overthrow_30	and	O
-overthrow_30	overthrow	overthrow_vrb
-overthrow_30	Rodimus	O
-overthrow_30	Prime	O

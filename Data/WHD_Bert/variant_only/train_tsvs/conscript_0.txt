@@ -1,9 +1,0 @@
-conscript_0	It	O
-conscript_0	was	O
-conscript_0	therefore	O
-conscript_0	decided	O
-conscript_0	to	O
-conscript_0	introduce	O
-conscript_0	conscript	conscript_nou
-conscript_0	warrant	O
-conscript_0	officers(underofficerare	O

@@ -1,9 +1,0 @@
-insult_73	We	O
-insult_73	wo	O
-insult_73	n't	O
-insult_73	allow	O
-insult_73	this	O
-insult_73	insult	insult_nou
-insult_73	to	O
-insult_73	our	O
-insult_73	religion	O

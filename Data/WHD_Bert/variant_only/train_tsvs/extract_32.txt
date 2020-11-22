@@ -1,9 +1,0 @@
-extract_32	Some	O
-extract_32	aromatized	O
-extract_32	wines	O
-extract_32	contain	O
-extract_32	honey	O
-extract_32	or	O
-extract_32	egg	O
-extract_32	yolk	O
-extract_32	extract	extract_nou

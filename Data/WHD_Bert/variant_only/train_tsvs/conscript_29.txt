@@ -1,9 +1,0 @@
-conscript_29	Conscript	conscript_nou
-conscript_29	service	O
-conscript_29	obligation	O
-conscript_29	was	O
-conscript_29	2	O
-conscript_29	years	O
-conscript_29	as	O
-conscript_29	of	O
-conscript_29	2004	O

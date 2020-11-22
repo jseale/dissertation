@@ -1,8 +1,0 @@
-pervert_9	He	O
-pervert_9	has	O
-pervert_9	been	O
-pervert_9	called	O
-pervert_9	pervert	pervert_nou
-pervert_9	in	O
-pervert_9	many	O
-pervert_9	episodes	O

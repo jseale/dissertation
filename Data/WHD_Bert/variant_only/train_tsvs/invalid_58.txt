@@ -1,8 +1,0 @@
-invalid_58	RE	O
-invalid_58	37,516	O
-invalid_58	has	O
-invalid_58	been	O
-invalid_58	declared	O
-invalid_58	invalid	invalid_adj
-invalid_58	and	O
-invalid_58	unenforceable	O

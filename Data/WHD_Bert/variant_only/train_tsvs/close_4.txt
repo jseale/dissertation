@@ -1,8 +1,0 @@
-close_4	NXP	O
-close_4	Semiconductors	O
-close_4	And	O
-close_4	Freescale	O
-close_4	Semiconductor	O
-close_4	Close	close_adj-nou
-close_4	Merger	O
-close_4	RTTNews	O

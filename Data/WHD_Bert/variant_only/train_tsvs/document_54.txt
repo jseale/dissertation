@@ -1,9 +1,0 @@
-document_54	This	O
-document_54	document	document_nou
-document_54	contains	O
-document_54	Steed	O
-document_54	's	O
-document_54	Merchant	O
-document_54	Navy	O
-document_54	service	O
-document_54	record	O

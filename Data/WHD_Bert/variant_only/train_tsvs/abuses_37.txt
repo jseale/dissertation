@@ -1,9 +1,0 @@
-abuses_37	Establishment	O
-abuses_37	of	O
-abuses_37	measures	O
-abuses_37	to	O
-abuses_37	end	O
-abuses_37	abuses	abuses_nou
-abuses_37	in	O
-abuses_37	the	O
-abuses_37	church	O

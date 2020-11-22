@@ -1,9 +1,0 @@
-convert_74	There	O
-convert_74	are	O
-convert_74	plans	O
-convert_74	to	O
-convert_74	convert	convert_vrb
-convert_74	it	O
-convert_74	into	O
-convert_74	a	O
-convert_74	museum	O

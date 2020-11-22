@@ -1,7 +1,0 @@
-graduate_41	She	O
-graduate_41	is	O
-graduate_41	a	O
-graduate_41	graduate	graduate_adj-nou
-graduate_41	in	O
-graduate_41	fashion	O
-graduate_41	designing	O

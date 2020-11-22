@@ -1,8 +1,0 @@
-advocate_38	She	O
-advocate_38	is	O
-advocate_38	an	O
-advocate_38	advocate	advocate_nou
-advocate_38	for	O
-advocate_38	art	O
-advocate_38	and	O
-advocate_38	education	O

@@ -1,9 +1,0 @@
-perfume_4	This	O
-perfume_4	became	O
-perfume_4	Kurkdjian	O
-perfume_4	's	O
-perfume_4	first	O
-perfume_4	success	O
-perfume_4	at	O
-perfume_4	perfume	perfume_nou
-perfume_4	making	O

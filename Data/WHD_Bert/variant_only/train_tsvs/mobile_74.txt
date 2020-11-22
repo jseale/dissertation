@@ -1,9 +1,0 @@
-mobile_74	She	O
-mobile_74	was	O
-mobile_74	decommissioned	O
-mobile_74	in	O
-mobile_74	Mobile	mobile_geo
-mobile_74	on	O
-mobile_74	3	O
-mobile_74	August	O
-mobile_74	1998	O

@@ -1,7 +1,0 @@
-compound_46	The	O
-compound_46	compound	compound_nou
-compound_46	is	O
-compound_46	slowly	O
-compound_46	decomposed	O
-compound_46	by	O
-compound_46	light	O

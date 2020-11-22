@@ -1,9 +1,0 @@
-discharge_31	The	O
-discharge_31	overall	O
-discharge_31	amount	O
-discharge_31	of	O
-discharge_31	vaginal	O
-discharge_31	discharge	discharge_nou
-discharge_31	decreases	O
-discharge_31	in	O
-discharge_31	menopause	O

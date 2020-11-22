@@ -1,8 +1,0 @@
-discard_51	We	O
-discard_51	are	O
-discard_51	going	O
-discard_51	to	O
-discard_51	discard	discard_vrb
-discard_51	entirely	O
-discard_51	all	O
-discard_51	ornament	O

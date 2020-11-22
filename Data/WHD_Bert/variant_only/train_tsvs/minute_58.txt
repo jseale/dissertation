@@ -1,9 +1,0 @@
-minute_58	Wintuk	O
-minute_58	was	O
-minute_58	a	O
-minute_58	90-minute	O
-minute_58	show	O
-minute_58	with	O
-minute_58	a	O
-minute_58	20-minute	O
-minute_58	intermission	O

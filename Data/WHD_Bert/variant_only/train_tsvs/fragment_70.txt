@@ -1,9 +1,0 @@
-fragment_70	These	O
-fragment_70	steps	O
-fragment_70	are	O
-fragment_70	collectively	O
-fragment_70	referred	O
-fragment_70	to	O
-fragment_70	as	O
-fragment_70	fragment	fragment_nou
-fragment_70	processing	O

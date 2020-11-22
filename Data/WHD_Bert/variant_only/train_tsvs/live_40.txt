@@ -1,9 +1,0 @@
-live_40	Kingdom	O
-live_40	is	O
-live_40	the	O
-live_40	third	O
-live_40	live	live_adj
-live_40	album	O
-live_40	from	O
-live_40	Covenant	O
-live_40	Worship	O

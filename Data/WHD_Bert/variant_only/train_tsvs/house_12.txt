@@ -1,7 +1,0 @@
-house_12	Protected	O
-house_12	environments	O
-house_12	green	O
-house_12	house	house_nou
-house_12	small	O
-house_12	gardens	O
-house_12	etc	O

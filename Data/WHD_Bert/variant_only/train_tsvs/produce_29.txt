@@ -1,8 +1,0 @@
-produce_29	The	O
-produce_29	kidneys	O
-produce_29	produce	produce_vrb
-produce_29	their	O
-produce_29	own	O
-produce_29	natriuretic	O
-produce_29	32-residue	O
-produce_29	peptide	O

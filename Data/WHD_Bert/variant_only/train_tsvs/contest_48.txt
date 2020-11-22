@@ -1,9 +1,0 @@
-contest_48	It	O
-contest_48	respects	O
-contest_48	the	O
-contest_48	right	O
-contest_48	of	O
-contest_48	citizen	O
-contest_48	to	O
-contest_48	contest	contest_vrb
-contest_48	policies	O

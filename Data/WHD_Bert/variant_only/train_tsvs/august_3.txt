@@ -1,8 +1,0 @@
-august_3	March	O
-august_3	to	O
-august_3	Fairfax	O
-august_3	Court	O
-august_3	House	O
-august_3	August	august
-august_3	28	O
-august_3	31	O

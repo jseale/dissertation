@@ -1,9 +1,0 @@
-record_8	He	O
-record_8	now	O
-record_8	produces	O
-record_8	under	O
-record_8	his	O
-record_8	own	O
-record_8	record	record_nou
-record_8	label	O
-record_8	Bakerloo	O

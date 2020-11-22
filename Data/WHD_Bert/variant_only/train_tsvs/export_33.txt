@@ -1,9 +1,0 @@
-export_33	It	O
-export_33	also	O
-export_33	helps	O
-export_33	boost	O
-export_33	export	export_nou
-export_33	business	O
-export_33	volumes	O
-export_33	and	O
-export_33	revenues	O

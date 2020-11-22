@@ -1,7 +1,0 @@
-convert_61	His	O
-convert_61	bride	O
-convert_61	however	O
-convert_61	was	O
-convert_61	reluctant	O
-convert_61	to	O
-convert_61	convert	convert_vrb

@@ -1,9 +1,0 @@
-sake_39	You	O
-sake_39	're	O
-sake_39	in	O
-sake_39	a	O
-sake_39	nightclub	O
-sake_39	for	O
-sake_39	God	O
-sake_39	's	O
-sake_39	sake	sake

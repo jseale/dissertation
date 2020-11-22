@@ -1,8 +1,0 @@
-aged_15	She	O
-aged_15	died	O
-aged_15	on	O
-aged_15	6	O
-aged_15	April	O
-aged_15	2014	O
-aged_15	aged	aged
-aged_15	91	O

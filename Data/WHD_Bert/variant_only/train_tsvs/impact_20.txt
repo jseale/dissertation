@@ -1,9 +1,0 @@
-impact_20	Only	O
-impact_20	a	O
-impact_20	large	O
-impact_20	impact	impact_nou
-impact_20	could	O
-impact_20	have	O
-impact_20	generated	O
-impact_20	such	O
-impact_20	conditions	O

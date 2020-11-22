@@ -1,9 +1,0 @@
-increment_79	The	O
-increment_79	state	O
-increment_79	transition	O
-increment_79	function	O
-increment_79	is	O
-increment_79	an	O
-increment_79	increment	increment_nou
-increment_79	by	O
-increment_79	one	O

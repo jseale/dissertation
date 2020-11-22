@@ -1,8 +1,0 @@
-blessed_31	It	O
-blessed_31	was	O
-blessed_31	blessed	blessed_vrb
-blessed_31	on	O
-blessed_31	the	O
-blessed_31	27th	O
-blessed_31	April	O
-blessed_31	1948	O

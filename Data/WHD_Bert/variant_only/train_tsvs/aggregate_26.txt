@@ -1,9 +1,0 @@
-aggregate_26	The	O
-aggregate_26	winners	O
-aggregate_26	on	O
-aggregate_26	aggregate	aggregate_adj-nou
-aggregate_26	will	O
-aggregate_26	advance	O
-aggregate_26	to	O
-aggregate_26	the	O
-aggregate_26	semifinals	O

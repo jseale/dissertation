@@ -1,9 +1,0 @@
-delegate_75	Liebel	O
-delegate_75	was	O
-delegate_75	a	O
-delegate_75	delegate	delegate_nou
-delegate_75	to	O
-delegate_75	five	O
-delegate_75	Democratic	O
-delegate_75	National	O
-delegate_75	Conventions	O

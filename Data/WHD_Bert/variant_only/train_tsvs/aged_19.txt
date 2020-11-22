@@ -1,8 +1,0 @@
-aged_19	He	O
-aged_19	died	O
-aged_19	on	O
-aged_19	20	O
-aged_19	January	O
-aged_19	2012	O
-aged_19	aged	aged
-aged_19	77	O

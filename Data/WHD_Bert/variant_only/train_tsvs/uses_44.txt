@@ -1,9 +1,0 @@
-uses_44	It	O
-uses_44	uses	uses_vrb
-uses_44	Alberti	O
-uses_44	bass	O
-uses_44	and	O
-uses_44	has	O
-uses_44	strong	O
-uses_44	harmonic	O
-uses_44	features	O

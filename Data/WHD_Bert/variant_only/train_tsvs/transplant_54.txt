@@ -1,9 +1,0 @@
-transplant_54	On	O
-transplant_54	December	O
-transplant_54	16	O
-transplant_54	2016	O
-transplant_54	Williams	O
-transplant_54	underwent	O
-transplant_54	liver	O
-transplant_54	transplant	transplant_nou
-transplant_54	surgery	O

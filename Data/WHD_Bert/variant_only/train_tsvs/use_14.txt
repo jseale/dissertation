@@ -1,9 +1,0 @@
-use_14	Erlang	O
-use_14	has	O
-use_14	found	O
-use_14	some	O
-use_14	use	use_nou
-use_14	in	O
-use_14	fielding	O
-use_14	MMORPG	O
-use_14	servers	O

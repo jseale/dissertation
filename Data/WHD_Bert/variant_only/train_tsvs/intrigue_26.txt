@@ -1,7 +1,0 @@
-intrigue_26	The	O
-intrigue_26	result	O
-intrigue_26	was	O
-intrigue_26	political	O
-intrigue_26	intrigue	intrigue_nou
-intrigue_26	and	O
-intrigue_26	controversy	O

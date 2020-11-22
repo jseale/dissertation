@@ -1,9 +1,0 @@
-perfume_77	Amber	O
-perfume_77	gets	O
-perfume_77	Lisa	O
-perfume_77	a	O
-perfume_77	new	O
-perfume_77	hairstyle	O
-perfume_77	and	O
-perfume_77	some	O
-perfume_77	perfume	perfume_nou

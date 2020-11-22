@@ -1,8 +1,0 @@
-suspect_64	When	O
-suspect_64	does	O
-suspect_64	the	O
-suspect_64	reader	O
-suspect_64	first	O
-suspect_64	suspect	suspect_vrb
-suspect_64	the	O
-suspect_64	murderer	O

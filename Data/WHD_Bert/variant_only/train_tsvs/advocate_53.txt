@@ -1,9 +1,0 @@
-advocate_53	Prior	O
-advocate_53	to	O
-advocate_53	entering	O
-advocate_53	politics	O
-advocate_53	she	O
-advocate_53	was	O
-advocate_53	a	O
-advocate_53	youth	O
-advocate_53	advocate	advocate_nou

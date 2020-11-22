@@ -1,9 +1,0 @@
-progress_63	Additional	O
-progress_63	attachment	O
-progress_63	slots	O
-progress_63	can	O
-progress_63	be	O
-progress_63	unlocked	O
-progress_63	as	O
-progress_63	players	O
-progress_63	progress	progress_vrb

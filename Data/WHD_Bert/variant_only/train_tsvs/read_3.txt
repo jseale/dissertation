@@ -1,9 +1,0 @@
-read_3	To	O
-read_3	read	read_present
-read_3	the	O
-read_3	story	O
-read_3	online	O
-read_3	go	O
-read_3	to	O
-read_3	Project	O
-read_3	Gutenberg	O

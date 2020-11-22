@@ -1,7 +1,0 @@
-discharge_25	Aug.	O
-discharge_25	1972	O
-discharge_25	General	O
-discharge_25	discharge	discharge_nou
-discharge_25	from	O
-discharge_25	the	O
-discharge_25	military	O

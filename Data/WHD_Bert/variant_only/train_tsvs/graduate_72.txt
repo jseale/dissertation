@@ -1,7 +1,0 @@
-graduate_72	He	O
-graduate_72	studied	O
-graduate_72	civil	O
-graduate_72	engineering	O
-graduate_72	at	O
-graduate_72	graduate	graduate_adj-nou
-graduate_72	level	O

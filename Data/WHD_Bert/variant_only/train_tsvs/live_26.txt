@@ -1,8 +1,0 @@
-live_26	This	O
-live_26	includes	O
-live_26	live	live_adj
-live_26	music	O
-live_26	and	O
-live_26	local	O
-live_26	music	O
-live_26	tracks	O

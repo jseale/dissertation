@@ -1,9 +1,0 @@
-implement_32	Consumerium	O
-implement_32	is	O
-implement_32	an	O
-implement_32	open	O
-implement_32	campaign	O
-implement_32	to	O
-implement_32	implement	implement_vrb
-implement_32	moral	O
-implement_32	purchasing	O

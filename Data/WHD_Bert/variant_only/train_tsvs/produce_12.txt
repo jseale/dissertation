@@ -1,9 +1,0 @@
-produce_12	The	O
-produce_12	surrounding	O
-produce_12	areas	O
-produce_12	produce	produce_vrb
-produce_12	wheat	O
-produce_12	and	O
-produce_12	other	O
-produce_12	cereal	O
-produce_12	crops	O

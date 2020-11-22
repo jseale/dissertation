@@ -1,7 +1,0 @@
-mate_23	His	O
-mate_23	running	O
-mate_23	mate	mate
-mate_23	was	O
-mate_23	Héctor	O
-mate_23	Maria	O
-mate_23	Maya	O

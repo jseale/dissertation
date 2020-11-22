@@ -1,8 +1,0 @@
-coordinate_32	For	O
-coordinate_32	example	O
-coordinate_32	coordinate	coordinate_adj-nou
-coordinate_32	tuples	O
-coordinate_32	change	O
-coordinate_32	with	O
-coordinate_32	its	O
-coordinate_32	inverse	O

@@ -1,9 +1,0 @@
-abuse_71	There	O
-abuse_71	are	O
-abuse_71	allegations	O
-abuse_71	of	O
-abuse_71	torture	O
-abuse_71	and	O
-abuse_71	abuse	abuse_nou
-abuse_71	of	O
-abuse_71	prisoners	O

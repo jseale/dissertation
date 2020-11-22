@@ -1,9 +1,0 @@
-wound_52	Ballew	O
-wound_52	survived	O
-wound_52	his	O
-wound_52	head	O
-wound_52	wound	wound_nou-vrb
-wound_52	but	O
-wound_52	suffered	O
-wound_52	brain	O
-wound_52	damage	O

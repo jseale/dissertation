@@ -1,7 +1,0 @@
-insert_21	Disc	O
-insert_21	and	O
-insert_21	back	O
-insert_21	insert	insert_nou
-insert_21	is	O
-insert_21	labeled	O
-insert_21	1/100	O

@@ -1,9 +1,0 @@
-content_7	Kumi	O
-content_7	Kumi	O
-content_7	is	O
-content_7	known	O
-content_7	for	O
-content_7	its	O
-content_7	exceptional	O
-content_7	alcohol	O
-content_7	content	content_nou

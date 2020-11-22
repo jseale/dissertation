@@ -1,8 +1,0 @@
-expose_2	He	O
-expose_2	wants	O
-expose_2	to	O
-expose_2	expose	expose_vrb
-expose_2	the	O
-expose_2	malpractice	O
-expose_2	of	O
-expose_2	Ignatz	O

@@ -1,8 +1,0 @@
-bologna_17	In	O
-bologna_17	Bologna	bologna_geo
-bologna_17	he	O
-bologna_17	received	O
-bologna_17	encouragement	O
-bologna_17	from	O
-bologna_17	Felice	O
-bologna_17	Torelli	O

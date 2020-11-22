@@ -1,8 +1,0 @@
-content_38	He	O
-content_38	had	O
-content_38	a	O
-content_38	blood	O
-content_38	alcohol	O
-content_38	content	content_nou
-content_38	of	O
-content_38	0.12	O

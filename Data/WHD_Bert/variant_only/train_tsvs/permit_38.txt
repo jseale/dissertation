@@ -1,9 +1,0 @@
-permit_38	The	O
-permit_38	construction	O
-permit_38	permit	permit_nou
-permit_38	was	O
-permit_38	granted	O
-permit_38	on	O
-permit_38	March	O
-permit_38	19	O
-permit_38	2001	O

@@ -1,9 +1,0 @@
-syndicate_79	The	O
-syndicate_79	Kudo	O
-syndicate_79	kai	O
-syndicate_79	yakuza	O
-syndicate_79	syndicate	syndicate_nou
-syndicate_79	is	O
-syndicate_79	headquartered	O
-syndicate_79	in	O
-syndicate_79	Kokurakita	O

@@ -1,7 +1,0 @@
-extract_72	Liquorice	O
-extract_72	Containing	O
-extract_72	extract	extract_nou
-extract_72	of	O
-extract_72	the	O
-extract_72	liquorice	O
-extract_72	root	O

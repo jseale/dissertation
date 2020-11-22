@@ -1,9 +1,0 @@
-affect_23	Thus	O
-affect_23	mutations	O
-affect_23	in	O
-affect_23	the	O
-affect_23	enzyme	O
-affect_23	can	O
-affect_23	affect	affect
-affect_23	transcription	O
-affect_23	elongation	O

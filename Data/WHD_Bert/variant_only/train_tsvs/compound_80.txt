@@ -1,9 +1,0 @@
-compound_80	Monopotassium	O
-compound_80	glutamate	O
-compound_80	MPG	O
-compound_80	is	O
-compound_80	a	O
-compound_80	compound	compound_nou
-compound_80	with	O
-compound_80	formula	O
-compound_80	KC₅H₈NO₄.	O

@@ -1,9 +1,0 @@
-confines_23	Gix	O
-confines_23	flees	O
-confines_23	and	O
-confines_23	hides	O
-confines_23	within	O
-confines_23	the	O
-confines_23	confines	confines_nou
-confines_23	of	O
-confines_23	Koilos	O

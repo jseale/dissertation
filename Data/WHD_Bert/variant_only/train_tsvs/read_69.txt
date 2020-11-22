@@ -1,7 +1,0 @@
-read_69	Seismograms	O
-read_69	are	O
-read_69	read	read_past
-read_69	from	O
-read_69	left	O
-read_69	to	O
-read_69	right	O

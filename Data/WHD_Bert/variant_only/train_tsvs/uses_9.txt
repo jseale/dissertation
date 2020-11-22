@@ -1,9 +1,0 @@
-uses_9	He	O
-uses_9	uses	uses_vrb
-uses_9	mostly	O
-uses_9	a	O
-uses_9	2007	O
-uses_9	6136	O
-uses_9	Gretsch	O
-uses_9	White	O
-uses_9	Falcon	O

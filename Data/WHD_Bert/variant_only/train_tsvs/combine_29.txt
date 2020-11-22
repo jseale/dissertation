@@ -1,9 +1,0 @@
-combine_29	In	O
-combine_29	1883	O
-combine_29	he	O
-combine_29	read	O
-combine_29	about	O
-combine_29	combine	combine_nou
-combine_29	harvesters	O
-combine_29	in	O
-combine_29	California	O

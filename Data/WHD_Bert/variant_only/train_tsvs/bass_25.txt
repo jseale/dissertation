@@ -1,9 +1,0 @@
-bass_25	Fish	O
-bass_25	included	O
-bass_25	sunfish	O
-bass_25	catfish	O
-bass_25	bigmouth	O
-bass_25	bass	bass_corp
-bass_25	and	O
-bass_25	black	O
-bass_25	bass	bass_corp

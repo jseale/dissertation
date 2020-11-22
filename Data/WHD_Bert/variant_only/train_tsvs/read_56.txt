@@ -1,8 +1,0 @@
-read_56	This	O
-read_56	eulogy	O
-read_56	was	O
-read_56	read	read_past
-read_56	to	O
-read_56	the	O
-read_56	Société	O
-read_56	philotechnique	O

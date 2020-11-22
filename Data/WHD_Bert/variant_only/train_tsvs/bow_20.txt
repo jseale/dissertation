@@ -1,9 +1,0 @@
-bow_20	The	O
-bow_20	bow	bow_nou-ship
-bow_20	would	O
-bow_20	finally	O
-bow_20	sink	O
-bow_20	later	O
-bow_20	the	O
-bow_20	next	O
-bow_20	day	O

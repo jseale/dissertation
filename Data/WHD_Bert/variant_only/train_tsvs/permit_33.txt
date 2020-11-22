@@ -1,7 +1,0 @@
-permit_33	This	O
-permit_33	permit	permit_nou
-permit_33	can	O
-permit_33	be	O
-permit_33	obtained	O
-permit_33	at	O
-permit_33	Leh	O

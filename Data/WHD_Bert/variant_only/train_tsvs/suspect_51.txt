@@ -1,9 +1,0 @@
-suspect_51	Yu	O
-suspect_51	becomes	O
-suspect_51	the	O
-suspect_51	murder	O
-suspect_51	suspect	suspect_adj-nou
-suspect_51	and	O
-suspect_51	is	O
-suspect_51	immediately	O
-suspect_51	arrested	O

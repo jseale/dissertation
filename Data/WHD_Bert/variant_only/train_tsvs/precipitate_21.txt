@@ -1,9 +1,0 @@
-precipitate_21	Iron	O
-precipitate_21	precipitate	precipitate_adj-nou
-precipitate_21	is	O
-precipitate_21	also	O
-precipitate_21	caked	O
-precipitate_21	thickly	O
-precipitate_21	along	O
-precipitate_21	the	O
-precipitate_21	stream	O

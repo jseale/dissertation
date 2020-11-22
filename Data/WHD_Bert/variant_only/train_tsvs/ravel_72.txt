@@ -1,8 +1,0 @@
-ravel_72	This	O
-ravel_72	movement	O
-ravel_72	was	O
-ravel_72	later	O
-ravel_72	orchestrated	O
-ravel_72	by	O
-ravel_72	Maurice	O
-ravel_72	Ravel	ravel_nam

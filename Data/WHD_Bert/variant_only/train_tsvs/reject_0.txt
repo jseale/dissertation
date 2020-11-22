@@ -1,8 +1,0 @@
-reject_0	Priests	O
-reject_0	would	O
-reject_0	reject	reject_vrb
-reject_0	dogma	O
-reject_0	and	O
-reject_0	old	O
-reject_0	ca	O
-reject_0	nt	O

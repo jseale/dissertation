@@ -1,9 +1,0 @@
-compress_12	The	O
-compress_12	gravity	O
-compress_12	compress	compress
-compress_12	the	O
-compress_12	air	O
-compress_12	in	O
-compress_12	the	O
-compress_12	pneumatic	O
-compress_12	cylinder	O

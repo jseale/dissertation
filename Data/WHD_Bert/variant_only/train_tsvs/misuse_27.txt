@@ -1,8 +1,0 @@
-misuse_27	To	O
-misuse_27	avoid	O
-misuse_27	misuse	misuse_nou
-misuse_27	of	O
-misuse_27	official	O
-misuse_27	position	O
-misuse_27	or	O
-misuse_27	information	O

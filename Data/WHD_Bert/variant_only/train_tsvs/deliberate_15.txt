@@ -1,9 +1,0 @@
-deliberate_15	Deliberate	deliberate_adj
-deliberate_15	misrepresentation	O
-deliberate_15	in	O
-deliberate_15	the	O
-deliberate_15	statement	O
-deliberate_15	can	O
-deliberate_15	result	O
-deliberate_15	in	O
-deliberate_15	liability	O

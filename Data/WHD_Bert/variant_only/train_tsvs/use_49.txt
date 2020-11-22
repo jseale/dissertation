@@ -1,7 +1,0 @@
-use_49	It	O
-use_49	makes	O
-use_49	repeated	O
-use_49	use	use_nou
-use_49	of	O
-use_49	Euclidean	O
-use_49	division	O

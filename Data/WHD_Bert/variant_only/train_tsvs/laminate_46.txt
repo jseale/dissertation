@@ -1,9 +1,0 @@
-laminate_46	The	O
-laminate_46	company	O
-laminate_46	produces	O
-laminate_46	laminate	laminate_nou
-laminate_46	flooring	O
-laminate_46	vinyl	O
-laminate_46	linoleum	O
-laminate_46	and	O
-laminate_46	flooring	O

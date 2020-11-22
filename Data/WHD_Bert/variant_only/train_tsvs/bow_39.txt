@@ -1,9 +1,0 @@
-bow_39	Organised	O
-bow_39	bow	bow_nou-knot
-bow_39	hunting	O
-bow_39	began	O
-bow_39	in	O
-bow_39	New	O
-bow_39	Zealand	O
-bow_39	in	O
-bow_39	1945	O

@@ -1,8 +1,0 @@
-appropriate_18	It	O
-appropriate_18	is	O
-appropriate_18	appropriate	appropriate_adj
-appropriate_18	to	O
-appropriate_18	consider	O
-appropriate_18	their	O
-appropriate_18	origins	O
-appropriate_18	first	O

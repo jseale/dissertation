@@ -1,8 +1,0 @@
-transport_45	Local	O
-transport_45	access	O
-transport_45	and	O
-transport_45	transport	transport_nou
-transport_45	areaLocal	O
-transport_45	telephone	O
-transport_45	serviceTrunk	O
-transport_45	vs.	O

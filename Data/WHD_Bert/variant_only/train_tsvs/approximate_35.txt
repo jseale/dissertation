@@ -1,8 +1,0 @@
-approximate_35	The	O
-approximate_35	dates	O
-approximate_35	are	O
-approximate_35	approximate	approximate_adj-nou
-approximate_35	indicating	O
-approximate_35	period	O
-approximate_35	of	O
-approximate_35	introduction	O

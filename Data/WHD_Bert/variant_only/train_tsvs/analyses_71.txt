@@ -1,9 +1,0 @@
-analyses_71	The	O
-analyses_71	journal	O
-analyses_71	publishes	O
-analyses_71	economic	O
-analyses_71	analyses	analyses_nou
-analyses_71	focused	O
-analyses_71	entirely	O
-analyses_71	on	O
-analyses_71	Africa	O

@@ -1,8 +1,0 @@
-close_79	Ricardo	O
-close_79	was	O
-close_79	a	O
-close_79	close	close_adj-nou
-close_79	friend	O
-close_79	of	O
-close_79	James	O
-close_79	Mill	O

@@ -1,7 +1,0 @@
-learned_41	He	O
-learned_41	learned	learned_vrb
-learned_41	botany	O
-learned_41	from	O
-learned_41	Johann	O
-learned_41	Friedrich	O
-learned_41	Ruthe	O

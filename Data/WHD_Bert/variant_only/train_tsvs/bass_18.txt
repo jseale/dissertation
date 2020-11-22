@@ -1,8 +1,0 @@
-bass_18	Seltzer	O
-bass_18	played	O
-bass_18	bass	bass
-bass_18	and	O
-bass_18	drums	O
-bass_18	on	O
-bass_18	Route	O
-bass_18	Zero	O

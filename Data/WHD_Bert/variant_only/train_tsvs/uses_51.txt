@@ -1,7 +1,0 @@
-uses_51	Cooper	O
-uses_51	uses	uses_vrb
-uses_51	Dean	O
-uses_51	Guitars	O
-uses_51	and	O
-uses_51	EMG-81/85	O
-uses_51	pickups	O

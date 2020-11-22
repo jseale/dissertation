@@ -1,7 +1,0 @@
-compound_45	Another	O
-compound_45	example	O
-compound_45	could	O
-compound_45	be	O
-compound_45	the	O
-compound_45	compound	compound_nou
-compound_45	PbS₂.	O

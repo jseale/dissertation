@@ -1,9 +1,0 @@
-attribute_6	In	O
-attribute_6	ID3	O
-attribute_6	entropy	O
-attribute_6	is	O
-attribute_6	calculated	O
-attribute_6	for	O
-attribute_6	each	O
-attribute_6	remaining	O
-attribute_6	attribute	attribute_nou

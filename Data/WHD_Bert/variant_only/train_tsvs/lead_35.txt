@@ -1,9 +1,0 @@
-lead_35	It	O
-lead_35	is	O
-lead_35	the	O
-lead_35	lead	lead_nou-vrb
-lead_35	single	O
-lead_35	from	O
-lead_35	his	O
-lead_35	album	O
-lead_35	Celebrate	O

@@ -1,8 +1,0 @@
-progress_21	No	O
-progress_21	progress	progress_nou
-progress_21	was	O
-progress_21	made	O
-progress_21	on	O
-progress_21	issues	O
-progress_21	in	O
-progress_21	question	O

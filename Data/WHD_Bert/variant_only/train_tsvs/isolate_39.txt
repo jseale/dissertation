@@ -1,8 +1,0 @@
-isolate_39	This	O
-isolate_39	allows	O
-isolate_39	the	O
-isolate_39	player	O
-isolate_39	to	O
-isolate_39	isolate	isolate
-isolate_39	each	O
-isolate_39	reed	O

@@ -1,9 +1,0 @@
-initiate_66	However	O
-initiate_66	unexpected	O
-initiate_66	events	O
-initiate_66	force	O
-initiate_66	Koenig	O
-initiate_66	to	O
-initiate_66	initiate	initiate_vrb
-initiate_66	Operation	O
-initiate_66	Exodus	O

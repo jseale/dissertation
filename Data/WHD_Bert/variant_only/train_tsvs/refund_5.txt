@@ -1,8 +1,0 @@
-refund_5	Ms.	O
-refund_5	Murphy	O
-refund_5	's	O
-refund_5	tax	O
-refund_5	refund	refund_nou
-refund_5	claim	O
-refund_5	was	O
-refund_5	denied	O

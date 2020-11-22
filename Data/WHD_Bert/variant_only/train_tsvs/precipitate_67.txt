@@ -1,7 +1,0 @@
-precipitate_67	These	O
-precipitate_67	compounds	O
-precipitate_67	slowly	O
-precipitate_67	precipitate	precipitate_vrb
-precipitate_67	on	O
-precipitate_67	the	O
-precipitate_67	surface	O

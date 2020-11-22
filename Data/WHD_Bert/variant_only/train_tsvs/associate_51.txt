@@ -1,9 +1,0 @@
-associate_51	He	O
-associate_51	was	O
-associate_51	associate	associate_adj-nou
-associate_51	of	O
-associate_51	the	O
-associate_51	Royal	O
-associate_51	Academy	O
-associate_51	of	O
-associate_51	Sciences	O

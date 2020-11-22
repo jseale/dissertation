@@ -1,7 +1,0 @@
-perfume_59	Some	O
-perfume_59	dolls	O
-perfume_59	were	O
-perfume_59	even	O
-perfume_59	sprayed	O
-perfume_59	with	O
-perfume_59	perfume	perfume_nou

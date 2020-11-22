@@ -1,9 +1,0 @@
-increment_29	The	O
-increment_29	tabulator	O
-increment_29	used	O
-increment_29	electromechanical	O
-increment_29	relays	O
-increment_29	to	O
-increment_29	increment	increment_vrb
-increment_29	mechanical	O
-increment_29	counters	O

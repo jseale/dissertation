@@ -1,8 +1,0 @@
-associate_3	In	O
-associate_3	1961	O
-associate_3	he	O
-associate_3	was	O
-associate_3	promoted	O
-associate_3	to	O
-associate_3	associate	associate_adj-nou
-associate_3	professor	O

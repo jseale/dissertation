@@ -1,9 +1,0 @@
-bass_66	It	O
-bass_66	is	O
-bass_66	vocal	O
-bass_66	music	O
-bass_66	accompanied	O
-bass_66	by	O
-bass_66	a	O
-bass_66	double	O
-bass_66	bass	bass

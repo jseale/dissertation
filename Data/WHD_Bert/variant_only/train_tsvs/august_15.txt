@@ -1,9 +1,0 @@
-august_15	Adults	O
-august_15	are	O
-august_15	on	O
-august_15	wing	O
-august_15	from	O
-august_15	July	O
-august_15	to	O
-august_15	early	O
-august_15	August	august

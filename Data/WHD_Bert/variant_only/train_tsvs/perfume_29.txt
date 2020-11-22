@@ -1,9 +1,0 @@
-perfume_29	The	O
-perfume_29	perfume	perfume_nou
-perfume_29	was	O
-perfume_29	launched	O
-perfume_29	a	O
-perfume_29	year	O
-perfume_29	before	O
-perfume_29	she	O
-perfume_29	died	O

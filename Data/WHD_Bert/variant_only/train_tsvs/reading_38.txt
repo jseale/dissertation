@@ -1,9 +1,0 @@
-reading_38	He	O
-reading_38	signed	O
-reading_38	for	O
-reading_38	Reading	reading_geo
-reading_38	at	O
-reading_38	the	O
-reading_38	age	O
-reading_38	of	O
-reading_38	15	O

@@ -1,7 +1,0 @@
-wound_27	Somehow	O
-wound_27	we	O
-wound_27	wound	wound_vrb
-wound_27	up	O
-wound_27	in	O
-wound_27	the	O
-wound_27	studio	O

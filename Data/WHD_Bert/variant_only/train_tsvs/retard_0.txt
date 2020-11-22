@@ -1,7 +1,0 @@
-retard_0	Ignition	O
-retard_0	advance	O
-retard_0	and	O
-retard_0	retard	retard_vrb
-retard_0	is	O
-retard_0	entirely	O
-retard_0	automatic	O

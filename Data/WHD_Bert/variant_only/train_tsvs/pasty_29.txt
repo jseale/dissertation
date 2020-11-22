@@ -1,7 +1,0 @@
-pasty_29	They	O
-pasty_29	won	O
-pasty_29	a	O
-pasty_29	pasty	pasty_adj
-pasty_29	bap	O
-pasty_29	and	O
-pasty_29	chips	O

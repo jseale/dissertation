@@ -1,7 +1,0 @@
-convert_77	Keep	O
-convert_77	can	O
-convert_77	convert	convert_vrb
-convert_77	text	O
-convert_77	notes	O
-convert_77	into	O
-convert_77	checklists	O

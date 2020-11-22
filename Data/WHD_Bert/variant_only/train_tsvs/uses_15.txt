@@ -1,7 +1,0 @@
-uses_15	This	O
-uses_15	article	O
-uses_15	uses	uses_vrb
-uses_15	the	O
-uses_15	most	O
-uses_15	popular	O
-uses_15	divisions	O

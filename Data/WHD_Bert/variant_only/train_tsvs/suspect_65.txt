@@ -1,9 +1,0 @@
-suspect_65	His	O
-suspect_65	old	O
-suspect_65	fashioned	O
-suspect_65	Hep	O
-suspect_65	wife	O
-suspect_65	does	O
-suspect_65	n't	O
-suspect_65	suspect	suspect_vrb
-suspect_65	anything	O

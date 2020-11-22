@@ -1,9 +1,0 @@
-predicate_50	The	O
-predicate_50	head	O
-predicate_50	of	O
-predicate_50	a	O
-predicate_50	verbal	O
-predicate_50	predicate	predicate_nou
-predicate_50	is	O
-predicate_50	the	O
-predicate_50	verb	O

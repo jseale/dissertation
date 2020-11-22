@@ -1,7 +1,0 @@
-learned_71	He	O
-learned_71	has	O
-learned_71	also	O
-learned_71	learned	learned_vrb
-learned_71	Western	O
-learned_71	Classical	O
-learned_71	Music	O

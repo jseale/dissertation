@@ -1,8 +1,0 @@
-ornament_35	We	O
-ornament_35	are	O
-ornament_35	going	O
-ornament_35	to	O
-ornament_35	discard	O
-ornament_35	entirely	O
-ornament_35	all	O
-ornament_35	ornament	ornament_nou

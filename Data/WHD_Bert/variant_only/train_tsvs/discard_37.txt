@@ -1,9 +1,0 @@
-discard_37	The	O
-discard_37	discard	discard_nou
-discard_37	rate	O
-discard_37	for	O
-discard_37	each	O
-discard_37	area	O
-discard_37	is	O
-discard_37	around	O
-discard_37	10	O

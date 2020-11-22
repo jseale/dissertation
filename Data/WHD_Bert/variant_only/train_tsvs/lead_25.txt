@@ -1,9 +1,0 @@
-lead_25	The	O
-lead_25	win	O
-lead_25	put	O
-lead_25	him	O
-lead_25	back	O
-lead_25	into	O
-lead_25	the	O
-lead_25	point	O
-lead_25	lead	lead_nou-vrb

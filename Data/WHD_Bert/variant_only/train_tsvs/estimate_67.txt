@@ -1,9 +1,0 @@
-estimate_67	The	O
-estimate_67	population	O
-estimate_67	of	O
-estimate_67	Chanov	O
-estimate_67	is	O
-estimate_67	1,500	O
-estimate_67	2,000	O
-estimate_67	2006	O
-estimate_67	estimate	estimate_nou

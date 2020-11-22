@@ -1,8 +1,0 @@
-polish_30	Effinger	O
-polish_30	prevented	O
-polish_30	the	O
-polish_30	access	O
-polish_30	of	O
-polish_30	Polish	polish_geo
-polish_30	Jewish	O
-polish_30	refugees	O

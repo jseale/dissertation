@@ -1,8 +1,0 @@
-buffet_69	The	O
-buffet_69	Agora	O
-buffet_69	is	O
-buffet_69	a	O
-buffet_69	buffet	buffet_nou
-buffet_69	style	O
-buffet_69	dining	O
-buffet_69	system	O

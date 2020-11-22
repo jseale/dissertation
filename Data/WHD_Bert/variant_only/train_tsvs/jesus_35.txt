@@ -1,8 +1,0 @@
-jesus_35	He	O
-jesus_35	was	O
-jesus_35	also	O
-jesus_35	a	O
-jesus_35	Fellow	O
-jesus_35	of	O
-jesus_35	Jesus	jesus
-jesus_35	College	O

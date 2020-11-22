@@ -1,8 +1,0 @@
-delegate_27	Each	O
-delegate_27	is	O
-delegate_27	represented	O
-delegate_27	by	O
-delegate_27	a	O
-delegate_27	non	O
-delegate_27	voting	O
-delegate_27	delegate	delegate_nou

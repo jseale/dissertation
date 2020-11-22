@@ -1,7 +1,0 @@
-convict_69	There	O
-convict_69	were	O
-convict_69	no	O
-convict_69	convict	convict_nou
-convict_69	deaths	O
-convict_69	en	O
-convict_69	route	O

@@ -1,9 +1,0 @@
-mate_56	Single	O
-mate_56	male	O
-mate_56	deer	O
-mate_56	will	O
-mate_56	usually	O
-mate_56	mate	mate
-mate_56	with	O
-mate_56	nearby	O
-mate_56	females	O

@@ -1,8 +1,0 @@
-rodeo_23	It	O
-rodeo_23	also	O
-rodeo_23	hosts	O
-rodeo_23	the	O
-rodeo_23	National	O
-rodeo_23	Finals	O
-rodeo_23	Rodeo	rodeo
-rodeo_23	annually	O

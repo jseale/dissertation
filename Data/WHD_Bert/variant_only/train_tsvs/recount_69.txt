@@ -1,9 +1,0 @@
-recount_69	But	O
-recount_69	Doreen	O
-recount_69	and	O
-recount_69	Rene	O
-recount_69	survived	O
-recount_69	to	O
-recount_69	recount	recount_vrb
-recount_69	their	O
-recount_69	adventures	O

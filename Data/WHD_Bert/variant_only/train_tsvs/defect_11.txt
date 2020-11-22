@@ -1,8 +1,0 @@
-defect_11	Synergism	O
-defect_11	between	O
-defect_11	ethanol	O
-defect_11	excess	O
-defect_11	and	O
-defect_11	the	O
-defect_11	genetic	O
-defect_11	defect	defect_nou

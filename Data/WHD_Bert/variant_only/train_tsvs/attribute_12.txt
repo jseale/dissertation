@@ -1,9 +1,0 @@
-attribute_12	Attribute	attribute_nou
-attribute_12	scores	O
-attribute_12	also	O
-attribute_12	determine	O
-attribute_12	the	O
-attribute_12	eight	O
-attribute_12	combat	O
-attribute_12	ability	O
-attribute_12	scores	O

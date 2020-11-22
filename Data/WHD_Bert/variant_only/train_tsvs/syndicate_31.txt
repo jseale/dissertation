@@ -1,8 +1,0 @@
-syndicate_31	Prager	O
-syndicate_31	's	O
-syndicate_31	columns	O
-syndicate_31	are	O
-syndicate_31	handled	O
-syndicate_31	by	O
-syndicate_31	Creators	O
-syndicate_31	Syndicate	syndicate_nou

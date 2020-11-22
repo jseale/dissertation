@@ -1,8 +1,0 @@
-uses_68	Mass	O
-uses_68	spectrometry	O
-uses_68	has	O
-uses_68	both	O
-uses_68	qualitative	O
-uses_68	and	O
-uses_68	quantitative	O
-uses_68	uses	uses_nou

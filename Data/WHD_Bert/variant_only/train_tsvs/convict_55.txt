@@ -1,8 +1,0 @@
-convict_55	Georgia	O
-convict_55	ended	O
-convict_55	the	O
-convict_55	convict	convict_nou
-convict_55	lease	O
-convict_55	system	O
-convict_55	in	O
-convict_55	1908	O

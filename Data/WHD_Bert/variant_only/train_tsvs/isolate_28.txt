@@ -1,8 +1,0 @@
-isolate_28	They	O
-isolate_28	isolate	isolate
-isolate_28	the	O
-isolate_28	rose	O
-isolate_28	tend	O
-isolate_28	it	O
-isolate_28	foster	O
-isolate_28	it	O

@@ -1,8 +1,0 @@
-delegate_69	Inase	O
-delegate_69	agreed	O
-delegate_69	to	O
-delegate_69	delegate	delegate_vrb
-delegate_69	testing	O
-delegate_69	to	O
-delegate_69	grain	O
-delegate_69	exchanges	O

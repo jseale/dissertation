@@ -1,8 +1,0 @@
-articulate_62	Unlike	O
-articulate_62	the	O
-articulate_62	comics	O
-articulate_62	he	O
-articulate_62	is	O
-articulate_62	an	O
-articulate_62	articulate	articulate_adj
-articulate_62	speaker	O

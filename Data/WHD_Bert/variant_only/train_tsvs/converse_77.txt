@@ -1,8 +1,0 @@
-converse_77	This	O
-converse_77	converse	converse_adj-nou
-converse_77	phenomenon	O
-converse_77	is	O
-converse_77	known	O
-converse_77	as	O
-converse_77	salting	O
-converse_77	in	O

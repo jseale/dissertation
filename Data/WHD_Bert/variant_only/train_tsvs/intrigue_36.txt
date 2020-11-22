@@ -1,9 +1,0 @@
-intrigue_36	The	O
-intrigue_36	poems	O
-intrigue_36	are	O
-intrigue_36	characterised	O
-intrigue_36	by	O
-intrigue_36	war	O
-intrigue_36	romance	O
-intrigue_36	and	O
-intrigue_36	intrigue	intrigue_nou

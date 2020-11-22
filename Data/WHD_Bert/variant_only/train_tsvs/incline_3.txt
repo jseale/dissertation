@@ -1,8 +1,0 @@
-incline_3	Another	O
-incline_3	signal	O
-incline_3	box	O
-incline_3	was	O
-incline_3	provided	O
-incline_3	at	O
-incline_3	Honiton	O
-incline_3	Incline	incline_nou

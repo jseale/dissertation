@@ -1,9 +1,0 @@
-incline_48	In	O
-incline_48	1998	O
-incline_48	Incline	incline_nou
-incline_48	Software	O
-incline_48	merged	O
-incline_48	with	O
-incline_48	The	O
-incline_48	Hope	O
-incline_48	Foundation	O

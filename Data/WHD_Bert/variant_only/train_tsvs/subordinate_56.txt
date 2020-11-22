@@ -1,9 +1,0 @@
-subordinate_56	New	O
-subordinate_56	Forms	O
-subordinate_56	and	O
-subordinate_56	Functions	O
-subordinate_56	of	O
-subordinate_56	Subordinate	subordinate_adj-nou
-subordinate_56	Clause	O
-subordinate_56	in	O
-subordinate_56	Kurdish	O

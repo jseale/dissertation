@@ -1,7 +1,0 @@
-mate_80	Thus	O
-mate_80	tsumeshogi	O
-mate_80	problems	O
-mate_80	are	O
-mate_80	strictly	O
-mate_80	mate	mate
-mate_80	problems	O

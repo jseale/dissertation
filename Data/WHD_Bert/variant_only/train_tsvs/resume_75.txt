@@ -1,8 +1,0 @@
-resume_75	She	O
-resume_75	constantly	O
-resume_75	tries	O
-resume_75	to	O
-resume_75	build	O
-resume_75	an	O
-resume_75	impressive	O
-resume_75	resume	resume_nou

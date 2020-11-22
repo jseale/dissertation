@@ -1,8 +1,0 @@
-compress_11	It	O
-compress_11	can	O
-compress_11	compress	compress
-compress_11	delete	O
-compress_11	encrypt	O
-compress_11	and	O
-compress_11	edit	O
-compress_11	files	O

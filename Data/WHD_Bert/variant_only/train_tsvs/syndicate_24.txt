@@ -1,7 +1,0 @@
-syndicate_24	She	O
-syndicate_24	ran	O
-syndicate_24	the	O
-syndicate_24	syndicate	syndicate_nou
-syndicate_24	for	O
-syndicate_24	52	O
-syndicate_24	years	O

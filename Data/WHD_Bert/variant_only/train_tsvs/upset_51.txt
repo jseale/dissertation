@@ -1,8 +1,0 @@
-upset_51	Cole	O
-upset_51	's	O
-upset_51	win	O
-upset_51	was	O
-upset_51	something	O
-upset_51	of	O
-upset_51	an	O
-upset_51	upset	upset_nou

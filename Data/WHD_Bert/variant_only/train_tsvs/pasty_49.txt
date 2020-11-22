@@ -1,8 +1,0 @@
-pasty_49	The	O
-pasty_49	Cornish	O
-pasty_49	national	O
-pasty_49	dish	O
-pasty_49	is	O
-pasty_49	the	O
-pasty_49	Cornish	O
-pasty_49	pasty	pasty_adj

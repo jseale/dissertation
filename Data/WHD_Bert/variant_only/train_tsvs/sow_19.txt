@@ -1,9 +1,0 @@
-sow_19	The	O
-sow_19	animals	O
-sow_19	specific	O
-sow_19	name	O
-sow_19	scrofa	O
-sow_19	is	O
-sow_19	Latin	O
-sow_19	for	O
-sow_19	sow	sow_nou

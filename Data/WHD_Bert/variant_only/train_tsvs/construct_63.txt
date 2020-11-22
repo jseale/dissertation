@@ -1,8 +1,0 @@
-construct_63	We	O
-construct_63	are	O
-construct_63	thus	O
-construct_63	led	O
-construct_63	to	O
-construct_63	construct	construct_vrb
-construct_63	a	O
-construct_63	hierarchy	O

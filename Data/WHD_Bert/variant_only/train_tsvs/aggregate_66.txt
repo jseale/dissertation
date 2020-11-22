@@ -1,9 +1,0 @@
-aggregate_66	The	O
-aggregate_66	winners	O
-aggregate_66	on	O
-aggregate_66	aggregate	aggregate_adj-nou
-aggregate_66	advanced	O
-aggregate_66	to	O
-aggregate_66	the	O
-aggregate_66	next	O
-aggregate_66	round	O

@@ -1,8 +1,0 @@
-document_38	The	O
-document_38	declassified	O
-document_38	document	document_nou
-document_38	can	O
-document_38	be	O
-document_38	seen	O
-document_38	on	O
-document_38	online	O

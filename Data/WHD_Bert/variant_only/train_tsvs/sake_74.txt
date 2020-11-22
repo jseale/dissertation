@@ -1,8 +1,0 @@
-sake_74	The	O
-sake_74	term	O
-sake_74	implies	O
-sake_74	effect	O
-sake_74	for	O
-sake_74	effect	O
-sake_74	's	O
-sake_74	sake	sake

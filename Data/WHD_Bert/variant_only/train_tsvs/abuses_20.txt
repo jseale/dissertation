@@ -1,7 +1,0 @@
-abuses_20	She	O
-abuses_20	abuses	abuses_vrb
-abuses_20	Frado	O
-abuses_20	both	O
-abuses_20	physically	O
-abuses_20	and	O
-abuses_20	mentally	O

@@ -1,8 +1,0 @@
-blessed_30	He	O
-blessed_30	also	O
-blessed_30	sees	O
-blessed_30	a	O
-blessed_30	procession	O
-blessed_30	of	O
-blessed_30	the	O
-blessed_30	blessed	blessed_adj

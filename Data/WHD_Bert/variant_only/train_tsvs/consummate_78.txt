@@ -1,9 +1,0 @@
-consummate_78	She	O
-consummate_78	suspects	O
-consummate_78	deceit	O
-consummate_78	and	O
-consummate_78	refuses	O
-consummate_78	to	O
-consummate_78	consummate	consummate_vrb
-consummate_78	the	O
-consummate_78	marriage	O

@@ -1,8 +1,0 @@
-discount_78	Not	O
-discount_78	all	O
-discount_78	ticket	O
-discount_78	types	O
-discount_78	qualify	O
-discount_78	for	O
-discount_78	a	O
-discount_78	discount	discount_nou

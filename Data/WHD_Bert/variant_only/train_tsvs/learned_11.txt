@@ -1,9 +1,0 @@
-learned_11	From	O
-learned_11	these	O
-learned_11	he	O
-learned_11	learned	learned_vrb
-learned_11	about	O
-learned_11	where	O
-learned_11	others	O
-learned_11	were	O
-learned_11	hiding	O

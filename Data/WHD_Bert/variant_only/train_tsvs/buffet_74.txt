@@ -1,8 +1,0 @@
-buffet_74	The	O
-buffet_74	three	O
-buffet_74	full	O
-buffet_74	buffet	buffet_nou
-buffet_74	cars	O
-buffet_74	were	O
-buffet_74	still	O
-buffet_74	utilised	O

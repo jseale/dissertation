@@ -1,9 +1,0 @@
-blessed_8	The	O
-blessed_8	church	O
-blessed_8	is	O
-blessed_8	dedicated	O
-blessed_8	to	O
-blessed_8	Mukthiamma	O
-blessed_8	Blessed	blessed_adj
-blessed_8	Virgin	O
-blessed_8	Mary	O

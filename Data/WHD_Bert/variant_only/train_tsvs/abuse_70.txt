@@ -1,8 +1,0 @@
-abuse_70	Soviet	O
-abuse_70	psychiatric	O
-abuse_70	abuse	abuse_nou
-abuse_70	the	O
-abuse_70	shadow	O
-abuse_70	over	O
-abuse_70	world	O
-abuse_70	psychiatry	O

@@ -1,8 +1,0 @@
-conscript_48	Conscript	conscript_nou
-conscript_48	training	O
-conscript_48	in	O
-conscript_48	Kuuskajaskari	O
-conscript_48	fort	O
-conscript_48	ended	O
-conscript_48	in	O
-conscript_48	1997	O

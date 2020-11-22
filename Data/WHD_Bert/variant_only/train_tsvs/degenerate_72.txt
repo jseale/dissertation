@@ -1,9 +1,0 @@
-degenerate_72	Wide	O
-degenerate_72	gap	O
-degenerate_72	p	O
-degenerate_72	type	O
-degenerate_72	degenerate	degenerate_adj-nou
-degenerate_72	semiconductor	O
-degenerate_72	Mg	O
-degenerate_72	doped	O
-degenerate_72	LaCuOSe	O

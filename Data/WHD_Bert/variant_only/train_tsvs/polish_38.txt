@@ -1,9 +1,0 @@
-polish_38	The	O
-polish_38	Polish	polish_geo
-polish_38	Hound	O
-polish_38	has	O
-polish_38	a	O
-polish_38	keen	O
-polish_38	sense	O
-polish_38	of	O
-polish_38	smell	O

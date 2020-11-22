@@ -1,7 +1,0 @@
-learned_28	He	O
-learned_28	learned	learned_vrb
-learned_28	aeronautical	O
-learned_28	engineering	O
-learned_28	at	O
-learned_28	Short	O
-learned_28	Brothers	O

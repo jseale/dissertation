@@ -1,8 +1,0 @@
-aged_38	Classen	O
-aged_38	died	O
-aged_38	on	O
-aged_38	29	O
-aged_38	September	O
-aged_38	2013	O
-aged_38	aged	aged
-aged_38	85	O

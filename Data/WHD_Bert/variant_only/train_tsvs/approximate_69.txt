@@ -1,9 +1,0 @@
-approximate_69	This	O
-approximate_69	makes	O
-approximate_69	the	O
-approximate_69	bent	O
-approximate_69	functions	O
-approximate_69	naturally	O
-approximate_69	hard	O
-approximate_69	to	O
-approximate_69	approximate	approximate_vrb

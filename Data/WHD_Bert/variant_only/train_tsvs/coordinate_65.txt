@@ -1,7 +1,0 @@
-coordinate_65	The	O
-coordinate_65	x	O
-coordinate_65	coordinate	coordinate_adj-nou
-coordinate_65	is	O
-coordinate_65	a	O
-coordinate_65	continuous	O
-coordinate_65	index	O

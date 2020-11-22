@@ -1,8 +1,0 @@
-reading_41	He	O
-reading_41	obtained	O
-reading_41	a	O
-reading_41	BSc	O
-reading_41	degree	O
-reading_41	from	O
-reading_41	Reading	reading_geo
-reading_41	University	O

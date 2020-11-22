@@ -1,7 +1,0 @@
-buffet_33	Buffy	O
-buffet_33	the	O
-buffet_33	Buffet	buffet_nou
-buffet_33	Car	O
-buffet_33	in	O
-buffet_33	Starlight	O
-buffet_33	Express	O

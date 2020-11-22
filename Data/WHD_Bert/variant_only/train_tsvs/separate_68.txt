@@ -1,9 +1,0 @@
-separate_68	It	O
-separate_68	was	O
-separate_68	considered	O
-separate_68	a	O
-separate_68	separate	separate_adj
-separate_68	service	O
-separate_68	from	O
-separate_68	special	O
-separate_68	delivery	O

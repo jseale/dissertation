@@ -1,8 +1,0 @@
-contest_64	Eurovision	O
-contest_64	Dance	O
-contest_64	Contest	contest_nou
-contest_64	2007	O
-contest_64	was	O
-contest_64	hosted	O
-contest_64	in	O
-contest_64	London	O
