@@ -1,8 +1,0 @@
-mate_5	Jackson	O
-mate_5	's	O
-mate_5	running	O
-mate_5	mate	mate
-mate_5	was	O
-mate_5	Emmanuel	O
-mate_5	S.	O
-mate_5	Kroma	O

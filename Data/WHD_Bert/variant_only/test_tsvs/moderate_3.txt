@@ -1,7 +1,0 @@
-moderate_3	In	O
-moderate_3	theology	O
-moderate_3	he	O
-moderate_3	was	O
-moderate_3	a	O
-moderate_3	moderate	moderate_adj-nou
-moderate_3	liberal	O

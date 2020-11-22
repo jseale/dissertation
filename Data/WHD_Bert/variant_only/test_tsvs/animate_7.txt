@@ -1,8 +1,0 @@
-animate_7	It	O
-animate_7	does	O
-animate_7	n't	O
-animate_7	exist	O
-animate_7	unless	O
-animate_7	I	O
-animate_7	animate	animate_vrb
-animate_7	it	O

@@ -1,8 +1,0 @@
-affiliate_5	The	O
-affiliate_5	site	O
-affiliate_5	was	O
-affiliate_5	funded	O
-affiliate_5	through	O
-affiliate_5	Amazon	O
-affiliate_5	affiliate	affiliate_nou
-affiliate_5	links	O

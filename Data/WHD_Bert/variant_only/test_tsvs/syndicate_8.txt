@@ -1,8 +1,0 @@
-syndicate_8	The	O
-syndicate_8	varsity	O
-syndicate_8	has	O
-syndicate_8	a	O
-syndicate_8	syndicate	syndicate_nou
-syndicate_8	and	O
-syndicate_8	Academic	O
-syndicate_8	council	O

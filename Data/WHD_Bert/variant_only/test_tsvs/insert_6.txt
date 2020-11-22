@@ -1,9 +1,0 @@
-insert_6	Otherwise	O
-insert_6	insert	insert_vrb
-insert_6	the	O
-insert_6	item	O
-insert_6	that	O
-insert_6	has	O
-insert_6	no	O
-insert_6	contextual	O
-insert_6	specification	O

@@ -1,8 +1,0 @@
-aged_7	Moumita	O
-aged_7	though	O
-aged_7	takes	O
-aged_7	good	O
-aged_7	care	O
-aged_7	of	O
-aged_7	aged	aged_adj
-aged_7	Pranabendu	O

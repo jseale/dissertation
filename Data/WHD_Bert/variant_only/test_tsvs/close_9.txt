@@ -1,8 +1,0 @@
-close_9	It	O
-close_9	is	O
-close_9	close	close_adj-nou
-close_9	to	O
-close_9	Wilmslow	O
-close_9	Road	O
-close_9	in	O
-close_9	Rusholme	O

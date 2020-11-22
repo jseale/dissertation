@@ -1,7 +1,0 @@
-learned_7	There	O
-learned_7	he	O
-learned_7	learned	learned_vrb
-learned_7	to	O
-learned_7	play	O
-learned_7	the	O
-learned_7	guitar	O

@@ -1,8 +1,0 @@
-present_7	We	O
-present_7	present	present_vrb
-present_7	an	O
-present_7	attempt	O
-present_7	at	O
-present_7	such	O
-present_7	a	O
-present_7	model	O

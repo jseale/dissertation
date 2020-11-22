@@ -1,7 +1,0 @@
-attribute_0	Mesozoic	O
-attribute_0	fossil	O
-attribute_0	footprints	O
-attribute_0	are	O
-attribute_0	hardest	O
-attribute_0	to	O
-attribute_0	attribute	attribute_vrb

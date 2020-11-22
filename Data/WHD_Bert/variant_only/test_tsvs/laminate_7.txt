@@ -1,9 +1,0 @@
-laminate_7	The	O
-laminate_7	body	O
-laminate_7	panels	O
-laminate_7	were	O
-laminate_7	carbon	O
-laminate_7	fiber	O
-laminate_7	and	O
-laminate_7	fiberglass	O
-laminate_7	laminate	laminate_nou

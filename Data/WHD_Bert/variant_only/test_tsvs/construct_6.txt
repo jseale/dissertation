@@ -1,7 +1,0 @@
-construct_6	Male	O
-construct_6	Hylodes	O
-construct_6	dactylocinus	O
-construct_6	construct	construct_vrb
-construct_6	an	O
-construct_6	underwater	O
-construct_6	chamber	O

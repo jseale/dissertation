@@ -1,7 +1,0 @@
-escort_2	Tigranes	O
-escort_2	escaped	O
-escort_2	capture	O
-escort_2	with	O
-escort_2	a	O
-escort_2	small	O
-escort_2	escort	escort_nou

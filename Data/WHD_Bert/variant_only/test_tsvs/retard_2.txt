@@ -1,7 +1,0 @@
-retard_2	Eamonn	O
-retard_2	says	O
-retard_2	sorry	O
-retard_2	for	O
-retard_2	calling	O
-retard_2	guest	O
-retard_2	retard	retard_nou

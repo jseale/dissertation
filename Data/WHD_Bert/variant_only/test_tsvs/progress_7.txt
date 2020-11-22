@@ -1,7 +1,0 @@
-progress_7	There	O
-progress_7	is	O
-progress_7	unfortunately	O
-progress_7	an	O
-progress_7	emergency	O
-progress_7	in	O
-progress_7	progress	progress_nou

@@ -1,9 +1,0 @@
-blessed_2	The	O
-blessed_2	doors	O
-blessed_2	were	O
-blessed_2	commissioned	O
-blessed_2	and	O
-blessed_2	blessed	blessed_vrb
-blessed_2	by	O
-blessed_2	Bishop	O
-blessed_2	Gaydos	O

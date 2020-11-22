@@ -1,7 +1,0 @@
-animate_6	They	O
-animate_6	no	O
-animate_6	longer	O
-animate_6	have	O
-animate_6	to	O
-animate_6	animate	animate_vrb
-animate_6	blind	O

@@ -1,8 +1,0 @@
-suspect_3	Candy	O
-suspect_3	begins	O
-suspect_3	to	O
-suspect_3	suspect	suspect_vrb
-suspect_3	Patrick	O
-suspect_3	is	O
-suspect_3	the	O
-suspect_3	killer	O

@@ -1,9 +1,0 @@
-combine_9	Manganese	O
-combine_9	phosphates	O
-combine_9	often	O
-combine_9	combine	combine_vrb
-combine_9	with	O
-combine_9	iron	O
-combine_9	phosphates	O
-combine_9	through	O
-combine_9	paragenesis	O

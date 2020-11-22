@@ -1,8 +1,0 @@
-polish_2	Born	O
-polish_2	in	O
-polish_2	Castrop	O
-polish_2	he	O
-polish_2	is	O
-polish_2	of	O
-polish_2	Polish	polish_geo
-polish_2	descent	O

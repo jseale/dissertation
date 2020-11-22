@@ -1,9 +1,0 @@
-refuse_0	Solid	O
-refuse_0	Waste	O
-refuse_0	provides	O
-refuse_0	refuse	refuse_nou
-refuse_0	yard	O
-refuse_0	waste	O
-refuse_0	and	O
-refuse_0	recycling	O
-refuse_0	collection	O

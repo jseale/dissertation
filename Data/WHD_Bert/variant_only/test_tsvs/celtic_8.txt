@@ -1,7 +1,0 @@
-celtic_8	On	O
-celtic_8	31	O
-celtic_8	minutes	O
-celtic_8	Celtic	celtic_adj-nou-sports
-celtic_8	doubled	O
-celtic_8	their	O
-celtic_8	lead	O

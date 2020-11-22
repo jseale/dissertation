@@ -1,8 +1,0 @@
-reject_3	Proposal	O
-reject_3	to	O
-reject_3	Reject	reject_vrb
-reject_3	the	O
-reject_3	Name	O
-reject_3	Gaura	O
-reject_3	mollis	O
-reject_3	Onagraceae	O

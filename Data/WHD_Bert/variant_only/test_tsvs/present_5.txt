@@ -1,9 +1,0 @@
-present_5	The	O
-present_5	past	O
-present_5	exists	O
-present_5	in	O
-present_5	easy	O
-present_5	harmony	O
-present_5	with	O
-present_5	the	O
-present_5	present	present_adj-nou

@@ -1,7 +1,0 @@
-abuse_4	Ecological	O
-abuse_4	Risk	O
-abuse_4	Assessment	O
-abuse_4	Use	O
-abuse_4	Abuse	abuse_nou
-abuse_4	and	O
-abuse_4	Alternatives	O

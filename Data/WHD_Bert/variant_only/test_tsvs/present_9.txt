@@ -1,7 +1,0 @@
-present_9	At	O
-present_9	present	present_adj-nou
-present_9	discussions	O
-present_9	are	O
-present_9	underway	O
-present_9	regarding	O
-present_9	financing	O

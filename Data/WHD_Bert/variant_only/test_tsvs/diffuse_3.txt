@@ -1,7 +1,0 @@
-diffuse_3	The	O
-diffuse_3	outer	O
-diffuse_3	line	O
-diffuse_3	is	O
-diffuse_3	pale	O
-diffuse_3	and	O
-diffuse_3	diffuse	diffuse_adj

@@ -1,9 +1,0 @@
-appropriate_5	In	O
-appropriate_5	an	O
-appropriate_5	interactive	O
-appropriate_5	system	O
-appropriate_5	this	O
-appropriate_5	was	O
-appropriate_5	clearly	O
-appropriate_5	not	O
-appropriate_5	appropriate	appropriate_adj

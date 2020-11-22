@@ -1,9 +1,0 @@
-affiliate_6	It	O
-affiliate_6	was	O
-affiliate_6	the	O
-affiliate_6	AAA	O
-affiliate_6	affiliate	affiliate_nou
-affiliate_6	of	O
-affiliate_6	the	O
-affiliate_6	Cincinnati	O
-affiliate_6	Reds	O

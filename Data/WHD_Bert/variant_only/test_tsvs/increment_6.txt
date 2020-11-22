@@ -1,9 +1,0 @@
-increment_6	The	O
-increment_6	increment	increment_nou
-increment_6	may	O
-increment_6	be	O
-increment_6	regarded	O
-increment_6	as	O
-increment_6	a	O
-increment_6	view	O
-increment_6	tax	O

@@ -1,8 +1,0 @@
-axes_0	The	O
-axes_0	forests	O
-axes_0	were	O
-axes_0	slowly	O
-axes_0	cut	O
-axes_0	down	O
-axes_0	with	O
-axes_0	axes	axes_nou-vrb

@@ -1,7 +1,0 @@
-uses_1	Predictive	O
-uses_1	modeling	O
-uses_1	uses	uses_vrb
-uses_1	statistics	O
-uses_1	to	O
-uses_1	predict	O
-uses_1	outcomes	O

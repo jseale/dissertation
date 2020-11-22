@@ -1,7 +1,0 @@
-bass_8	He	O
-bass_8	can	O
-bass_8	play	O
-bass_8	drums	O
-bass_8	bass	bass
-bass_8	and	O
-bass_8	keyboards	O

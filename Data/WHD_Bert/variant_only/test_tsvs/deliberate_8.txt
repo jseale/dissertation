@@ -1,7 +1,0 @@
-deliberate_8	This	O
-deliberate_8	was	O
-deliberate_8	left	O
-deliberate_8	as	O
-deliberate_8	a	O
-deliberate_8	deliberate	deliberate_adj
-deliberate_8	clue	O

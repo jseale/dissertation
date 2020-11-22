@@ -1,9 +1,0 @@
-perfume_6	In	O
-perfume_6	fact	O
-perfume_6	the	O
-perfume_6	perfume	perfume_nou
-perfume_6	contains	O
-perfume_6	some	O
-perfume_6	60	O
-perfume_6	floral	O
-perfume_6	essences	O

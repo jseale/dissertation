@@ -1,7 +1,0 @@
-sow_6	What	O
-sow_6	you	O
-sow_6	sow	sow
-sow_6	you	O
-sow_6	have	O
-sow_6	to	O
-sow_6	reap	O

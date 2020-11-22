@@ -1,8 +1,0 @@
-mobile_5	Polarons	O
-mobile_5	are	O
-mobile_5	highly	O
-mobile_5	mobile	mobile
-mobile_5	and	O
-mobile_5	can	O
-mobile_5	diffuse	O
-mobile_5	away	O

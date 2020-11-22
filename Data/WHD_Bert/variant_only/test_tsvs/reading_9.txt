@@ -1,9 +1,0 @@
-reading_9	Widya	O
-reading_9	hobbys	O
-reading_9	are	O
-reading_9	singing	O
-reading_9	reading	reading_en
-reading_9	and	O
-reading_9	browsing	O
-reading_9	the	O
-reading_9	internet	O

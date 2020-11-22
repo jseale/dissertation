@@ -1,9 +1,0 @@
-conduct_2	Supervision	O
-conduct_2	over	O
-conduct_2	the	O
-conduct_2	rules	O
-conduct_2	of	O
-conduct_2	conduct	conduct_nou
-conduct_2	in	O
-conduct_2	the	O
-conduct_2	IDF	O

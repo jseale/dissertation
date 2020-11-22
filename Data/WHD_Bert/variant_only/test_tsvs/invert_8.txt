@@ -1,7 +1,0 @@
-invert_8	First	O
-invert_8	the	O
-invert_8	base	O
-invert_8	or	O
-invert_8	invert	invert_adj-nou
-invert_8	was	O
-invert_8	poured	O

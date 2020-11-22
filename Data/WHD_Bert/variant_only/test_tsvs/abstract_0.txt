@@ -1,8 +1,0 @@
-abstract_0	Andrzej	O
-abstract_0	Tarlecki	O
-abstract_0	Quasi	O
-abstract_0	varieties	O
-abstract_0	in	O
-abstract_0	abstract	abstract_adj-nou
-abstract_0	algebraic	O
-abstract_0	institutions	O
