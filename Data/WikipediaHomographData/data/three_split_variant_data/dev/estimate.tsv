@@ -1,0 +1,10 @@
+homograph	wordid	sentence	start	end
+estimate	estimate_nou	The White House office said its estimate was based on sampling from high resolution satellite imagery.	32	40
+estimate	estimate_nou	According to a 2002 estimate by the INEI, the district has 12,789 inhabitants and a population density of 277.7 persons/km².	20	28
+estimate	estimate_nou	Estimate remained in training as a five-year-old, with the Gold Cup as her objective.	0	8
+estimate	estimate_nou	One estimate is that between 10,000 and 20,000 people were killed; another 200,000 people were forced to flee their homes.	4	12
+estimate	estimate_nou	The author presents casualty figures from a wide variety of sources and provides his best estimate.	90	98
+estimate	estimate_vrb	Suppose it is desired to estimate the failure rate of a certain component.	25	33
+estimate	estimate_nou	The simple estimate of cardinality obtained using the algorithm above has the disadvantage of a large variance.	11	19
+estimate	estimate_vrb	It is possible to estimate the temperature rise across a supercharger by modeling it as an isentropic process.	18	26
+estimate	estimate_vrb	Archaeologists estimate that it had been founded in the late 1400s on the site of iron and copper ore deposits.	15	23

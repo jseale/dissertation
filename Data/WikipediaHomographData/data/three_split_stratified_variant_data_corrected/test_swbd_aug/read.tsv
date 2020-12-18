@@ -1,0 +1,16 @@
+homograph	wordid	sentence	start	end	orig_idx
+read	read_past	He re-read all the stories published up to that time and even learned to play the violin.	6.0	10.0	8846.0
+read	read_past	"The feat was recognized on Greer Stadium's iconic guitar-shaped scoreboard which read, ""PERFECT GAME."""	81.0	85.0	12434.0
+read	read_present	"Former Federal Board vice chair Blinder called it a ""crackling read."	63.0	67.0	8904.0
+read	read_present	For whatever reason, MIT audiences would spontaneously read the announcements aloud, in unison.	55.0	59.0	8898.0
+read	read_present	Some preloaded drives are read-only, while others are configured with both read-only and user-writable segments.	26.0	30.0	8888.0
+read	read_present	Hence, circulation numbers offer only a small glimpse into how many people actually read such publications.	84.0	88.0	8905.0
+read	read_past	I mean I  read that is a theory			
+read	read_present	Ferenc, unlike his wife, could barely read and write in his mother tongue.	38.0	42.0	8848.0
+read	read_past	During his first audition, Daggs read four scenes from the pilot.	33.0	37.0	8839.0
+read	read_present	And I do n't read any parents magazines either			
+read	read_present	The AGC had a 16-bit read bus and a 16-bit write bus.	21.0	25.0	8843.0
+read	read_past	Papers are often read by scholars who do not belong to the Commission, from various universities in Poland.	17.0	21.0	12424.0
+read	read_past	Most Amish romance novels are written and read by evangelical Christian women.	42.0	46.0	12428.0
+read	read_present	To read the story online go to Project Gutenberg.	3.0	7.0	8837.0
+read	read_past	She also read much and especially books on Eastern philosophies were important to her.	9.0	13.0	8892.0

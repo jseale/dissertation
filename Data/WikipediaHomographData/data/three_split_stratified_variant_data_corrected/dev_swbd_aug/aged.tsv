@@ -1,0 +1,13 @@
+homograph	wordid	sentence	start	end	orig_idx
+aged	aged	Aged eleven he lost his right eye in an accident.	0.0	4.0	516.0
+aged	aged	She died in Sydney in 2008, aged 73.	28.0	32.0	487.0
+aged	aged_adj	We we  very similarly aged			
+aged	aged_adj	"New York City Police Department detective Frank Thorn lives with aged friend and ""book"" (a police analyst) Solomon ""Sol"" Roth."	65.0	69.0	461.0
+aged	aged	He died unmarried on 20 October 1787, aged about 78.	38.0	42.0	502.0
+aged	aged	Langley Hall Primary Academy opened in September 2011 for children aged 4 to 11.	67.0	71.0	522.0
+aged	aged	In 1982, aged 21, she won the 8th International Harp Contest in Israel.	9.0	13.0	510.0
+aged	aged	The Argonauts Club was open to Australian boys and girls aged from 7 to 17.	57.0	61.0	454.0
+aged	aged	Auditions are open to school-aged boys, regardless of race, color, or creed.	29.0	33.0	518.0
+aged	aged	He died in Claremont in 1957, aged 91.	30.0	34.0	505.0
+aged	aged	On 27 October 2000 Basu, aged 86, was given permission by the CPI(M) leadership to resign as Chief Minister.	25.0	29.0	459.0
+aged	aged	Wilfred Fienburgh represented his constituency until his death in a car crash in 1958, aged 38.	87.0	91.0	538.0

@@ -1,0 +1,15 @@
+homograph	wordid	sentence	start	end	orig_idx
+read	read_present	"TIME Magazine recommended it as ""an engrossing read best consumed in as few sittings as possible."""	47.0	51.0	8862.0
+read	read_past	"Years later he observed, ""My parents never read a book."	43.0	47.0	8835.0
+read	read_present	The Poems are simple to read and easy to comprehend.	24.0	28.0	8889.0
+read	read_present	10b is defined to mean break on IO read or write but no hardware supports it.	35.0	39.0	8878.0
+read	read_past	I I read to them a lot			
+read	read_past	The articles were delivered to the Council in London and were probably read on 22 April 1543.	71.0	75.0	8935.0
+read	read_past	It recently marked its 20th anniversary, and is read throughout the United States.	48.0	52.0	8938.0
+read	read_past	This eulogy was read to the Société philotechnique.	16.0	20.0	8894.0
+read	read_present	Despite being currently under development, it can read most parts of DWG files from version R13 up to 2004.	50.0	54.0	8882.0
+read	read_present	I read quite a bit probably do n't read as much as I would like to			
+read	read_present	Lewis went on to read government and law at the London School of Economics.	17.0	21.0	8868.0
+read	read_past	XML-based documents can be seamlessly read, edited and saved back to the original format without corruption.	38.0	42.0	8936.0
+read	read_past	He was educated at Eton and Balliol College, Oxford, where he read history.	62.0	66.0	8833.0
+read	read_present	Every Ethernet network controller has a unique 48-bit serial number called a MAC address, which is stored in read-only memory.	109.0	113.0	8886.0
