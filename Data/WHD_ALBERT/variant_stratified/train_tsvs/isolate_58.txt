@@ -1,0 +1,16 @@
+isolate_58	Still	O
+isolate_58	the	O
+isolate_58	court	O
+isolate_58	system	O
+isolate_58	treated	O
+isolate_58	the	O
+isolate_58	hospital	O
+isolate_58	as	O
+isolate_58	simply	O
+isolate_58	a	O
+isolate_58	convenient	O
+isolate_58	way	O
+isolate_58	to	O
+isolate_58	isolate	isolate
+isolate_58	social	O
+isolate_58	outcasts	O

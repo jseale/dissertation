@@ -1,0 +1,11 @@
+record_63	In	O
+record_63	2012	O
+record_63	she	O
+record_63	launched	O
+record_63	her	O
+record_63	own	O
+record_63	record	record_nou
+record_63	label	O
+record_63	entitled	O
+record_63	Swash	O
+record_63	Music	O

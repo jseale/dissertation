@@ -1,0 +1,17 @@
+upset_40	It	O
+upset_40	was	O
+upset_40	the	O
+upset_40	biggest	O
+upset_40	surprise	O
+upset_40	upset	upset_nou
+upset_40	of	O
+upset_40	the	O
+upset_40	season	O
+upset_40	with	O
+upset_40	LMOB	O
+upset_40	winning	O
+upset_40	the	O
+upset_40	Sevens	O
+upset_40	and	O
+upset_40	grand	O
+upset_40	slam	O

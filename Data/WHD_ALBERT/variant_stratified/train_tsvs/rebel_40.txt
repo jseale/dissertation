@@ -1,0 +1,15 @@
+rebel_40	In	O
+rebel_40	1936	O
+rebel_40	a	O
+rebel_40	rebel	rebel_nou
+rebel_40	group	O
+rebel_40	led	O
+rebel_40	by	O
+rebel_40	Taurino	O
+rebel_40	Lopez	O
+rebel_40	burned	O
+rebel_40	the	O
+rebel_40	municipal	O
+rebel_40	archives	O
+rebel_40	of	O
+rebel_40	Penamiller	O

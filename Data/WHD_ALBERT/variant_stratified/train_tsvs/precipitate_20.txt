@@ -1,0 +1,16 @@
+precipitate_20	When	O
+precipitate_20	alkali	O
+precipitate_20	is	O
+precipitate_20	added	O
+precipitate_20	to	O
+precipitate_20	solutions	O
+precipitate_20	of	O
+precipitate_20	soluble	O
+precipitate_20	Fe(III	O
+precipitate_20	salts	O
+precipitate_20	a	O
+precipitate_20	red	O
+precipitate_20	brown	O
+precipitate_20	gelatinous	O
+precipitate_20	precipitate	precipitate_adj-nou
+precipitate_20	forms	O

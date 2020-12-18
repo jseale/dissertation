@@ -1,0 +1,9 @@
+reading_4	She	O
+reading_4	taught	O
+reading_4	women	O
+reading_4	hygiene	O
+reading_4	discipline	O
+reading_4	health	O
+reading_4	reading	reading_en
+reading_4	and	O
+reading_4	writing	O

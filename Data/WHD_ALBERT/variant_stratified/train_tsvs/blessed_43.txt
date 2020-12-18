@@ -1,0 +1,10 @@
+blessed_43	The	O
+blessed_43	St.	O
+blessed_43	Jude	O
+blessed_43	Annex	O
+blessed_43	was	O
+blessed_43	completed	O
+blessed_43	and	O
+blessed_43	blessed	blessed_vrb
+blessed_43	by	O
+blessed_43	Msgr	O

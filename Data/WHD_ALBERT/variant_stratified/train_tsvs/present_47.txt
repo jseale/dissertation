@@ -1,0 +1,14 @@
+present_47	For	O
+present_47	example	O
+present_47	the	O
+present_47	term	O
+present_47	handshake	O
+present_47	is	O
+present_47	not	O
+present_47	present	present_adj-nou
+present_47	in	O
+present_47	RFCs	O
+present_47	covering	O
+present_47	FTP	O
+present_47	or	O
+present_47	SMTP	O

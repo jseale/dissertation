@@ -1,0 +1,15 @@
+compress_48	As	O
+compress_48	liquids	O
+compress_48	are	O
+compress_48	nearly	O
+compress_48	impossible	O
+compress_48	to	O
+compress_48	compress	compress
+compress_48	a	O
+compress_48	hydraulic	O
+compress_48	actuator	O
+compress_48	can	O
+compress_48	exert	O
+compress_48	a	O
+compress_48	large	O
+compress_48	force	O

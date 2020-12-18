@@ -1,0 +1,11 @@
+discount_49	The	O
+discount_49	partnership	O
+discount_49	narrowed	O
+discount_49	its	O
+discount_49	focus	O
+discount_49	to	O
+discount_49	banking	O
+discount_49	activities	O
+discount_49	primarily	O
+discount_49	discount	discount_nou
+discount_49	transactions	O

@@ -1,0 +1,17 @@
+retard_27	Some	O
+retard_27	economists	O
+retard_27	and	O
+retard_27	scientists	O
+retard_27	and	O
+retard_27	law	O
+retard_27	professors	O
+retard_27	have	O
+retard_27	raised	O
+retard_27	concerns	O
+retard_27	that	O
+retard_27	patents	O
+retard_27	retard	retard_vrb
+retard_27	technical	O
+retard_27	progress	O
+retard_27	and	O
+retard_27	innovation	O

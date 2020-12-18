@@ -1,0 +1,13 @@
+graduate_63	As	O
+graduate_63	an	O
+graduate_63	engineering	O
+graduate_63	graduate	graduate_adj-nou
+graduate_63	Sharer	O
+graduate_63	served	O
+graduate_63	in	O
+graduate_63	the	O
+graduate_63	navy	O
+graduate_63	from	O
+graduate_63	1971	O
+graduate_63	through	O
+graduate_63	1978	O

@@ -1,0 +1,16 @@
+wound_5	Fresh	O
+wound_5	or	O
+wound_5	dried	O
+wound_5	root	O
+wound_5	chewed	O
+wound_5	by	O
+wound_5	medicine	O
+wound_5	man	O
+wound_5	before	O
+wound_5	sucking	O
+wound_5	snakebite	O
+wound_5	and	O
+wound_5	poultice	O
+wound_5	applied	O
+wound_5	to	O
+wound_5	wound	wound_nou-vrb

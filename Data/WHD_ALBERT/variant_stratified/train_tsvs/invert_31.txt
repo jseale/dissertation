@@ -1,0 +1,13 @@
+invert_31	There	O
+invert_31	are	O
+invert_31	more	O
+invert_31	complex	O
+invert_31	kinds	O
+invert_31	of	O
+invert_31	inverter	O
+invert_31	circuit	O
+invert_31	that	O
+invert_31	more	O
+invert_31	accurately	O
+invert_31	invert	invert_vrb
+invert_31	impedances	O

@@ -1,0 +1,14 @@
+compress_13	Mass	O
+compress_13	effect	O
+compress_13	from	O
+compress_13	the	O
+compress_13	tumor	O
+compress_13	and	O
+compress_13	edema	O
+compress_13	may	O
+compress_13	compress	compress
+compress_13	the	O
+compress_13	ventricles	O
+compress_13	and	O
+compress_13	cause	O
+compress_13	hydrocephalus	O

@@ -1,0 +1,15 @@
+decrease_78	These	O
+decrease_78	programs	O
+decrease_78	have	O
+decrease_78	been	O
+decrease_78	proven	O
+decrease_78	to	O
+decrease_78	decrease	decrease_vrb
+decrease_78	substance	O
+decrease_78	abuse	O
+decrease_78	and	O
+decrease_78	increase	O
+decrease_78	communal	O
+decrease_78	connections	O
+decrease_78	and	O
+decrease_78	support	O

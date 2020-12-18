@@ -1,0 +1,11 @@
+record_44	HIM	O
+record_44	got	O
+record_44	also	O
+record_44	a	O
+record_44	gold	O
+record_44	record	record_nou
+record_44	in	O
+record_44	the	O
+record_44	USA	O
+record_44	in	O
+record_44	2006	O

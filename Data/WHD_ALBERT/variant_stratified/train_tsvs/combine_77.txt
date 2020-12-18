@@ -1,0 +1,16 @@
+combine_77	He	O
+combine_77	also	O
+combine_77	argues	O
+combine_77	that	O
+combine_77	our	O
+combine_77	imagination	O
+combine_77	and	O
+combine_77	sentiments	O
+combine_77	combine	combine_vrb
+combine_77	to	O
+combine_77	create	O
+combine_77	an	O
+combine_77	impression	O
+combine_77	of	O
+combine_77	something	O
+combine_77	someone	O

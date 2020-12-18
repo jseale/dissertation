@@ -1,0 +1,15 @@
+isolate_56	Their	O
+isolate_56	illicit	O
+isolate_56	relationship	O
+isolate_56	serves	O
+isolate_56	to	O
+isolate_56	isolate	isolate
+isolate_56	them	O
+isolate_56	from	O
+isolate_56	their	O
+isolate_56	friends	O
+isolate_56	and	O
+isolate_56	from	O
+isolate_56	society	O
+isolate_56	at	O
+isolate_56	large	O

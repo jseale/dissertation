@@ -1,0 +1,17 @@
+refund_65	In	O
+refund_65	return	O
+refund_65	the	O
+refund_65	manager	O
+refund_65	offers	O
+refund_65	to	O
+refund_65	refund	refund_vrb
+refund_65	their	O
+refund_65	tickets	O
+refund_65	as	O
+refund_65	well	O
+refund_65	as	O
+refund_65	pay	O
+refund_65	them	O
+refund_65	for	O
+refund_65	their	O
+refund_65	services	O

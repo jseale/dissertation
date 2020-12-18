@@ -1,0 +1,13 @@
+celtic_1	The	O
+celtic_1	result	O
+celtic_1	was	O
+celtic_1	an	O
+celtic_1	album	O
+celtic_1	that	O
+celtic_1	included	O
+celtic_1	elements	O
+celtic_1	of	O
+celtic_1	Celtic	celtic
+celtic_1	and	O
+celtic_1	Arabic	O
+celtic_1	music	O

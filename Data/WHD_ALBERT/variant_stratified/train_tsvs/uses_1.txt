@@ -1,0 +1,16 @@
+uses_1	This	O
+uses_1	is	O
+uses_1	consistent	O
+uses_1	with	O
+uses_1	the	O
+uses_1	ritual	O
+uses_1	uses	uses_nou
+uses_1	of	O
+uses_1	rood	O
+uses_1	lofts	O
+uses_1	being	O
+uses_1	substantially	O
+uses_1	a	O
+uses_1	late	O
+uses_1	medieval	O
+uses_1	development	O

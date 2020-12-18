@@ -1,0 +1,15 @@
+learned_71	During	O
+learned_71	this	O
+learned_71	time	O
+learned_71	he	O
+learned_71	not	O
+learned_71	only	O
+learned_71	learned	learned_vrb
+learned_71	Uzbek	O
+learned_71	and	O
+learned_71	Russian	O
+learned_71	but	O
+learned_71	also	O
+learned_71	studied	O
+learned_71	Old	O
+learned_71	Turkic	O

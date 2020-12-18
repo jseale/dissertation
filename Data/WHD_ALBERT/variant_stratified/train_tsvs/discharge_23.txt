@@ -1,0 +1,13 @@
+discharge_23	Wilson	O
+discharge_23	joined	O
+discharge_23	the	O
+discharge_23	Camden	O
+discharge_23	Police	O
+discharge_23	Department	O
+discharge_23	after	O
+discharge_23	his	O
+discharge_23	discharge	discharge_nou
+discharge_23	from	O
+discharge_23	the	O
+discharge_23	Air	O
+discharge_23	Force	O

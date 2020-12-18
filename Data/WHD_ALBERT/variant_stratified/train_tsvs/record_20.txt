@@ -1,0 +1,16 @@
+record_20	At	O
+record_20	the	O
+record_20	end	O
+record_20	of	O
+record_20	his	O
+record_20	career	O
+record_20	he	O
+record_20	held	O
+record_20	the	O
+record_20	Hurricanes	O
+record_20	record	record_nou
+record_20	for	O
+record_20	career	O
+record_20	touchdowns	O
+record_20	with	O
+record_20	33	O

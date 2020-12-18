@@ -1,0 +1,16 @@
+permit_12	The	O
+permit_12	station	O
+permit_12	made	O
+permit_12	its	O
+permit_12	debut	O
+permit_12	in	O
+permit_12	June	O
+permit_12	1996	O
+permit_12	however	O
+permit_12	the	O
+permit_12	station	O
+permit_12	maintained	O
+permit_12	its	O
+permit_12	construction	O
+permit_12	permit	permit_nou
+permit_12	status	O

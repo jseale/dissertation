@@ -1,0 +1,17 @@
+polish_63	The	O
+polish_63	adoption	O
+polish_63	of	O
+polish_63	the	O
+polish_63	May	O
+polish_63	3rd	O
+polish_63	Constitution	O
+polish_63	provoked	O
+polish_63	the	O
+polish_63	active	O
+polish_63	hostility	O
+polish_63	of	O
+polish_63	the	O
+polish_63	Polish	polish_geo
+polish_63	Commonwealth	O
+polish_63	's	O
+polish_63	neighbors	O

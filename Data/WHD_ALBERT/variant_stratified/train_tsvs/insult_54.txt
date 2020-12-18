@@ -1,0 +1,13 @@
+insult_54	Acquired	O
+insult_54	Horner	O
+insult_54	syndrome	O
+insult_54	may	O
+insult_54	result	O
+insult_54	after	O
+insult_54	trauma	O
+insult_54	neoplastic	O
+insult_54	insult	insult_nou
+insult_54	or	O
+insult_54	even	O
+insult_54	vascular	O
+insult_54	disease	O

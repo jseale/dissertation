@@ -1,0 +1,15 @@
+abuses_2	Owing	O
+abuses_2	to	O
+abuses_2	abuses	abuses_nou
+abuses_2	a	O
+abuses_2	Public	O
+abuses_2	Inquiry	O
+abuses_2	was	O
+abuses_2	held	O
+abuses_2	in	O
+abuses_2	1938	O
+abuses_2	and	O
+abuses_2	the	O
+abuses_2	Urban	O
+abuses_2	Council	O
+abuses_2	dissolved	O

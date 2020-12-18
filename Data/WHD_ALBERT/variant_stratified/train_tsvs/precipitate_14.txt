@@ -1,0 +1,16 @@
+precipitate_14	This	O
+precipitate_14	produces	O
+precipitate_14	a	O
+precipitate_14	solid	O
+precipitate_14	neutralisation	O
+precipitate_14	precipitate	precipitate_adj-nou
+precipitate_14	containing	O
+precipitate_14	largely	O
+precipitate_14	calcium	O
+precipitate_14	sulfate	O
+precipitate_14	basic	O
+precipitate_14	iron(III	O
+precipitate_14	arsenate	O
+precipitate_14	and	O
+precipitate_14	iron(III	O
+precipitate_14	hydroxide	O

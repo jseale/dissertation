@@ -1,0 +1,16 @@
+transport_60	Phosphorylated	O
+transport_60	DAT	O
+transport_60	then	O
+transport_60	either	O
+transport_60	operates	O
+transport_60	in	O
+transport_60	reverse	O
+transport_60	or	O
+transport_60	withdraws	O
+transport_60	into	O
+transport_60	the	O
+transport_60	presynaptic	O
+transport_60	neuron	O
+transport_60	and	O
+transport_60	ceases	O
+transport_60	transport	transport_nou

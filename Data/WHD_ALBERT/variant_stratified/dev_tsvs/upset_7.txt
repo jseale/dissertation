@@ -1,0 +1,11 @@
+upset_7	Alcohol	O
+upset_7	should	O
+upset_7	be	O
+upset_7	avoided	O
+upset_7	particularly	O
+upset_7	as	O
+upset_7	it	O
+upset_7	can	O
+upset_7	upset	upset_vrb
+upset_7	the	O
+upset_7	stomach	O

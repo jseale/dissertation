@@ -1,0 +1,12 @@
+wound_9	The	O
+wound_9	coil	O
+wound_9	is	O
+wound_9	wound	wound_vrb
+wound_9	around	O
+wound_9	the	O
+wound_9	permanent	O
+wound_9	magnet	O
+wound_9	to	O
+wound_9	form	O
+wound_9	a	O
+wound_9	solenoid	O

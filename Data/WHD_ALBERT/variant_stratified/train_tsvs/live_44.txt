@@ -1,0 +1,16 @@
+live_44	Later	O
+live_44	Queen	O
+live_44	recorded	O
+live_44	a	O
+live_44	third	O
+live_44	live	live_adj
+live_44	version	O
+live_44	of	O
+live_44	the	O
+live_44	song	O
+live_44	at	O
+live_44	Wembley	O
+live_44	Stadium	O
+live_44	London	O
+live_44	in	O
+live_44	1986	O

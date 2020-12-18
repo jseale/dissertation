@@ -1,0 +1,11 @@
+conscript_0	Professional	O
+conscript_0	units	O
+conscript_0	were	O
+conscript_0	supplemented	O
+conscript_0	by	O
+conscript_0	disciplined	O
+conscript_0	and	O
+conscript_0	well	O
+conscript_0	armed	O
+conscript_0	conscript	conscript_nou
+conscript_0	forces	O

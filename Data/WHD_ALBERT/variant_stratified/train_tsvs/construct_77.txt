@@ -1,0 +1,13 @@
+construct_77	Just	O
+construct_77	as	O
+construct_77	Cyrus	O
+construct_77	instructed	O
+construct_77	the	O
+construct_77	Jews	O
+construct_77	of	O
+construct_77	Babylonia	O
+construct_77	to	O
+construct_77	construct	construct_vrb
+construct_77	the	O
+construct_77	Second	O
+construct_77	Temple	O

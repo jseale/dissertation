@@ -1,0 +1,12 @@
+degenerate_42	It	O
+degenerate_42	is	O
+degenerate_42	degenerate	degenerate_adj-nou
+degenerate_42	and	O
+degenerate_42	has	O
+degenerate_42	a	O
+degenerate_42	characteristic	O
+degenerate_42	set	O
+degenerate_42	where	O
+degenerate_42	its	O
+degenerate_42	symbol	O
+degenerate_42	vanishes	O

@@ -1,0 +1,14 @@
+import_38	Energy	O
+import_38	in	O
+import_38	Kuwait	O
+import_38	describes	O
+import_38	energy	O
+import_38	and	O
+import_38	electricity	O
+import_38	production	O
+import_38	consumption	O
+import_38	import	import_nou
+import_38	and	O
+import_38	export	O
+import_38	in	O
+import_38	Kuwait	O

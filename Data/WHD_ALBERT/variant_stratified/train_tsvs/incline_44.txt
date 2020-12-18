@@ -1,0 +1,13 @@
+incline_44	The	O
+incline_44	incline	incline_nou
+incline_44	varies	O
+incline_44	between	O
+incline_44	20	O
+incline_44	at	O
+incline_44	the	O
+incline_44	top	O
+incline_44	and	O
+incline_44	9	O
+incline_44	at	O
+incline_44	the	O
+incline_44	bottom	O

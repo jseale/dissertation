@@ -1,0 +1,14 @@
+precipitate_8	This	O
+precipitate_8	action	O
+precipitate_8	known	O
+precipitate_8	as	O
+precipitate_8	the	O
+precipitate_8	Chesapeake	O
+precipitate_8	Leopard	O
+precipitate_8	Affair	O
+precipitate_8	helped	O
+precipitate_8	precipitate	precipitate_vrb
+precipitate_8	the	O
+precipitate_8	War	O
+precipitate_8	of	O
+precipitate_8	1812	O

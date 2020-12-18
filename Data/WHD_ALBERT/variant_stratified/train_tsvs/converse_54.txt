@@ -1,0 +1,8 @@
+converse_54	The	O
+converse_54	Jailor	O
+converse_54	can	O
+converse_54	converse	converse_vrb
+converse_54	with	O
+converse_54	their	O
+converse_54	jailed	O
+converse_54	target	O

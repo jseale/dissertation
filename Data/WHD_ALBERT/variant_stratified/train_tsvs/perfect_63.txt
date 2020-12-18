@@ -1,0 +1,17 @@
+perfect_63	Williamson	O
+perfect_63	's	O
+perfect_63	surprising	O
+perfect_63	run	O
+perfect_63	for	O
+perfect_63	gold	O
+perfect_63	came	O
+perfect_63	to	O
+perfect_63	a	O
+perfect_63	crash	O
+perfect_63	as	O
+perfect_63	Park	O
+perfect_63	continued	O
+perfect_63	to	O
+perfect_63	be	O
+perfect_63	nearly	O
+perfect_63	perfect	perfect_adj

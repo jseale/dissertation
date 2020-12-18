@@ -1,0 +1,13 @@
+abuse_45	Defiance	O
+abuse_45	of	O
+abuse_45	or	O
+abuse_45	appeals	O
+abuse_45	to	O
+abuse_45	the	O
+abuse_45	Nationalities	O
+abuse_45	Law	O
+abuse_45	met	O
+abuse_45	with	O
+abuse_45	derision	O
+abuse_45	or	O
+abuse_45	abuse	abuse_nou

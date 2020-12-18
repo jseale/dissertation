@@ -1,0 +1,9 @@
+isolate_61	The	O
+isolate_61	kill	O
+isolate_61	zone	O
+isolate_61	should	O
+isolate_61	isolate	isolate
+isolate_61	and	O
+isolate_61	trap	O
+isolate_61	the	O
+isolate_61	enemy	O

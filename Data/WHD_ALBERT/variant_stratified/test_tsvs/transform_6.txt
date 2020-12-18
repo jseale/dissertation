@@ -1,0 +1,10 @@
+transform_6	Some	O
+transform_6	overwinter	O
+transform_6	as	O
+transform_6	pupae	O
+transform_6	while	O
+transform_6	others	O
+transform_6	transform	transform
+transform_6	into	O
+transform_6	adult	O
+transform_6	moths	O

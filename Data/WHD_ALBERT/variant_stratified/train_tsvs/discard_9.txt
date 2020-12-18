@@ -1,0 +1,10 @@
+discard_9	That	O
+discard_9	would	O
+discard_9	force	O
+discard_9	the	O
+discard_9	declarer	O
+discard_9	to	O
+discard_9	choose	O
+discard_9	a	O
+discard_9	discard	discard_nou
+discard_9	prematurely	O

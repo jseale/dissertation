@@ -1,0 +1,17 @@
+defect_13	Internal	O
+defect_13	hard	O
+defect_13	drive	O
+defect_13	defect	defect_nou
+defect_13	management	O
+defect_13	is	O
+defect_13	a	O
+defect_13	system	O
+defect_13	present	O
+defect_13	in	O
+defect_13	hard	O
+defect_13	drives	O
+defect_13	for	O
+defect_13	handling	O
+defect_13	of	O
+defect_13	bad	O
+defect_13	sectors	O

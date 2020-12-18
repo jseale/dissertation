@@ -1,0 +1,15 @@
+present_60	These	O
+present_60	tubes	O
+present_60	are	O
+present_60	best	O
+present_60	suited	O
+present_60	to	O
+present_60	stationary	O
+present_60	equipment	O
+present_60	where	O
+present_60	impact	O
+present_60	and	O
+present_60	vibration	O
+present_60	is	O
+present_60	not	O
+present_60	present	present_adj-nou

@@ -1,0 +1,14 @@
+animate_16	They	O
+animate_16	can	O
+animate_16	change	O
+animate_16	into	O
+animate_16	normal	O
+animate_16	members	O
+animate_16	of	O
+animate_16	human	O
+animate_16	society	O
+animate_16	or	O
+animate_16	any	O
+animate_16	animate	animate_adj-nou
+animate_16	inanimate	O
+animate_16	object	O

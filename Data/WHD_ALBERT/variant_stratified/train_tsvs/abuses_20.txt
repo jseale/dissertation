@@ -1,0 +1,11 @@
+abuses_20	In	O
+abuses_20	contrast	O
+abuses_20	the	O
+abuses_20	humanitarian	O
+abuses_20	movement	O
+abuses_20	thought	O
+abuses_20	reform	O
+abuses_20	essential	O
+abuses_20	to	O
+abuses_20	remove	O
+abuses_20	abuses	abuses_nou

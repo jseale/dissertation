@@ -1,0 +1,16 @@
+subordinate_12	Their	O
+subordinate_12	lords	O
+subordinate_12	had	O
+subordinate_12	no	O
+subordinate_12	specific	O
+subordinate_12	rank	O
+subordinate_12	and	O
+subordinate_12	were	O
+subordinate_12	always	O
+subordinate_12	officially	O
+subordinate_12	subordinate	subordinate_adj-nou
+subordinate_12	to	O
+subordinate_12	dukes	O
+subordinate_12	and	O
+subordinate_12	foreign	O
+subordinate_12	princes	O

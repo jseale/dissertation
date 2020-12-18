@@ -1,0 +1,15 @@
+upset_65	Sinatra	O
+upset_65	became	O
+upset_65	angry	O
+upset_65	during	O
+upset_65	Cohen	O
+upset_65	's	O
+upset_65	explanation	O
+upset_65	and	O
+upset_65	upset	upset_vrb
+upset_65	the	O
+upset_65	table	O
+upset_65	where	O
+upset_65	Cohen	O
+upset_65	was	O
+upset_65	seated	O

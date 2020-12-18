@@ -1,0 +1,17 @@
+abuses_72	Tension	O
+abuses_72	arises	O
+abuses_72	in	O
+abuses_72	their	O
+abuses_72	marriage	O
+abuses_72	as	O
+abuses_72	Jake	O
+abuses_72	continually	O
+abuses_72	upbraids	O
+abuses_72	and	O
+abuses_72	abuses	abuses_vrb
+abuses_72	Gitl	O
+abuses_72	despite	O
+abuses_72	her	O
+abuses_72	efforts	O
+abuses_72	to	O
+abuses_72	assimilate	O

@@ -1,0 +1,15 @@
+precipitate_32	This	O
+precipitate_32	leaves	O
+precipitate_32	uranium-238	O
+precipitate_32	bonded	O
+precipitate_32	to	O
+precipitate_32	fluorine	O
+precipitate_32	and	O
+precipitate_32	allows	O
+precipitate_32	uranium-235	O
+precipitate_32	metal	O
+precipitate_32	to	O
+precipitate_32	precipitate	precipitate_vrb
+precipitate_32	from	O
+precipitate_32	the	O
+precipitate_32	solution	O

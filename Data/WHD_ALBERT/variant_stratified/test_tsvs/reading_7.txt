@@ -1,0 +1,10 @@
+reading_7	His	O
+reading_7	two	O
+reading_7	early	O
+reading_7	books	O
+reading_7	remained	O
+reading_7	unnoticed	O
+reading_7	by	O
+reading_7	the	O
+reading_7	reading	reading_en
+reading_7	public	O

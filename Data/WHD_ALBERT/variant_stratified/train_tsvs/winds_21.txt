@@ -1,0 +1,16 @@
+winds_21	The	O
+winds_21	traditional	O
+winds_21	clipper	O
+winds_21	route	O
+winds_21	followed	O
+winds_21	the	O
+winds_21	winds	winds_nou
+winds_21	of	O
+winds_21	the	O
+winds_21	roaring	O
+winds_21	forties	O
+winds_21	south	O
+winds_21	of	O
+winds_21	the	O
+winds_21	great	O
+winds_21	capes	O

@@ -1,0 +1,11 @@
+incline_42	Incline	incline_nou
+incline_42	Creek	O
+incline_42	is	O
+incline_42	part	O
+incline_42	of	O
+incline_42	the	O
+incline_42	Lake	O
+incline_42	Tahoe	O
+incline_42	Truckee	O
+incline_42	River	O
+incline_42	watershed	O

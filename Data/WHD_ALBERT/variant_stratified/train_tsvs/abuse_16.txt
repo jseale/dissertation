@@ -1,0 +1,12 @@
+abuse_16	This	O
+abuse_16	study	O
+abuse_16	did	O
+abuse_16	not	O
+abuse_16	treat	O
+abuse_16	substance	O
+abuse_16	abuse	abuse_nou
+abuse_16	as	O
+abuse_16	a	O
+abuse_16	mental	O
+abuse_16	health	O
+abuse_16	disorder	O

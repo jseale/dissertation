@@ -1,0 +1,12 @@
+estimate_8	The	O
+estimate_8	estimate	estimate_nou
+estimate_8	terrain	O
+estimate_8	elevation	O
+estimate_8	above	O
+estimate_8	seal	O
+estimate_8	level	O
+estimate_8	is	O
+estimate_8	3,622	O
+estimate_8	metres	O
+estimate_8	11,883	O
+estimate_8	ft	O

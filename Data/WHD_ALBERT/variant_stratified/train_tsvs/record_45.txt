@@ -1,0 +1,17 @@
+record_45	It	O
+record_45	is	O
+record_45	credited	O
+record_45	as	O
+record_45	being	O
+record_45	the	O
+record_45	wettest	O
+record_45	place	O
+record_45	on	O
+record_45	Earth	O
+record_45	but	O
+record_45	nearby	O
+record_45	Mawsynram	O
+record_45	currently	O
+record_45	holds	O
+record_45	that	O
+record_45	record	record_nou

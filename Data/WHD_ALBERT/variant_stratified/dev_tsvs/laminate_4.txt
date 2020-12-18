@@ -1,0 +1,16 @@
+laminate_4	J	O
+laminate_4	B	O
+laminate_4	WELD	O
+laminate_4	can	O
+laminate_4	be	O
+laminate_4	used	O
+laminate_4	as	O
+laminate_4	an	O
+laminate_4	adhesive	O
+laminate_4	laminate	laminate_nou
+laminate_4	plug	O
+laminate_4	filler	O
+laminate_4	sealant	O
+laminate_4	or	O
+laminate_4	electrical	O
+laminate_4	insulator	O

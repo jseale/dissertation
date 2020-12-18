@@ -1,0 +1,16 @@
+perfume_1	He	O
+perfume_1	is	O
+perfume_1	an	O
+perfume_1	avid	O
+perfume_1	perfume	perfume_nou
+perfume_1	collector	O
+perfume_1	and	O
+perfume_1	has	O
+perfume_1	more	O
+perfume_1	than	O
+perfume_1	a	O
+perfume_1	hundred	O
+perfume_1	bottles	O
+perfume_1	in	O
+perfume_1	his	O
+perfume_1	collection	O

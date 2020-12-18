@@ -1,0 +1,14 @@
+read_10	He	O
+read_10	is	O
+read_10	the	O
+read_10	author	O
+read_10	of	O
+read_10	original	O
+read_10	treatises	O
+read_10	of	O
+read_10	metaphysics	O
+read_10	which	O
+read_10	Descartes	O
+read_10	would	O
+read_10	later	O
+read_10	read	read_present

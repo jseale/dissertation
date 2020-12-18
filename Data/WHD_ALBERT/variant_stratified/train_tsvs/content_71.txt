@@ -1,0 +1,15 @@
+content_71	Per	O
+content_71	100-gram	O
+content_71	serving	O
+content_71	coconut	O
+content_71	water	O
+content_71	contains	O
+content_71	19	O
+content_71	calories	O
+content_71	and	O
+content_71	no	O
+content_71	significant	O
+content_71	content	content_nou
+content_71	of	O
+content_71	essential	O
+content_71	nutrients	O

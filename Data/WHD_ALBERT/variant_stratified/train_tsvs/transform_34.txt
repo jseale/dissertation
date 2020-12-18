@@ -1,0 +1,13 @@
+transform_34	Valaria	O
+transform_34	is	O
+transform_34	able	O
+transform_34	to	O
+transform_34	transform	transform
+transform_34	into	O
+transform_34	a	O
+transform_34	large	O
+transform_34	and	O
+transform_34	powerful	O
+transform_34	beast	O
+transform_34	at	O
+transform_34	will	O

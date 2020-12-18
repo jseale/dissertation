@@ -1,0 +1,14 @@
+reject_53	Both	O
+reject_53	the	O
+reject_53	Puerto	O
+reject_53	Rican	O
+reject_53	Independence	O
+reject_53	Party	O
+reject_53	and	O
+reject_53	the	O
+reject_53	New	O
+reject_53	Progressive	O
+reject_53	Party	O
+reject_53	reject	reject_vrb
+reject_53	Commonwealth	O
+reject_53	status	O

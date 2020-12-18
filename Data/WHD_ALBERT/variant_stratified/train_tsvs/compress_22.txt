@@ -1,0 +1,10 @@
+compress_22	ALZip	O
+compress_22	software	O
+compress_22	can	O
+compress_22	compress	compress
+compress_22	and	O
+compress_22	extract	O
+compress_22	the	O
+compress_22	EGG	O
+compress_22	file	O
+compress_22	format	O

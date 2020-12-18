@@ -1,0 +1,16 @@
+graduate_67	She	O
+graduate_67	did	O
+graduate_67	graduate	graduate_adj-nou
+graduate_67	work	O
+graduate_67	at	O
+graduate_67	Indiana	O
+graduate_67	University	O
+graduate_67	where	O
+graduate_67	she	O
+graduate_67	earned	O
+graduate_67	her	O
+graduate_67	Ph.D.	O
+graduate_67	in	O
+graduate_67	English	O
+graduate_67	in	O
+graduate_67	1969	O

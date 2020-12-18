@@ -1,0 +1,10 @@
+polish_0	Capcom	O
+polish_0	later	O
+polish_0	admitted	O
+polish_0	that	O
+polish_0	Street	O
+polish_0	Fighter	O
+polish_0	5	O
+polish_0	needed	O
+polish_0	more	O
+polish_0	polish	polish

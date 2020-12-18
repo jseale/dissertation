@@ -1,0 +1,10 @@
+compound_57	It	O
+compound_57	adopts	O
+compound_57	an	O
+compound_57	unusual	O
+compound_57	structure	O
+compound_57	being	O
+compound_57	a	O
+compound_57	mixed	O
+compound_57	valence	O
+compound_57	compound	compound_nou

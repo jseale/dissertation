@@ -1,0 +1,14 @@
+produce_42	China	O
+produce_42	learned	O
+produce_42	from	O
+produce_42	India	O
+produce_42	how	O
+produce_42	to	O
+produce_42	produce	produce_vrb
+produce_42	sugar	O
+produce_42	and	O
+produce_42	began	O
+produce_42	trading	O
+produce_42	it	O
+produce_42	to	O
+produce_42	Japan	O

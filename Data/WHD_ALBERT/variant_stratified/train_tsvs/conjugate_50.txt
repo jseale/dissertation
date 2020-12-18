@@ -1,0 +1,8 @@
+conjugate_50	Lorvotuzumab	O
+conjugate_50	mertansine	O
+conjugate_50	IMGN901	O
+conjugate_50	is	O
+conjugate_50	an	O
+conjugate_50	antibody	O
+conjugate_50	drug	O
+conjugate_50	conjugate	conjugate_adj-nou

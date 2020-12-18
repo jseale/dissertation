@@ -1,0 +1,7 @@
+use_8	Its	O
+use_8	main	O
+use_8	use	use_nou
+use_8	is	O
+use_8	for	O
+use_8	fresh	O
+use_8	eating	O

@@ -1,0 +1,14 @@
+uses_48	This	O
+uses_48	print	O
+uses_48	has	O
+uses_48	32	O
+uses_48	pages	O
+uses_48	size	O
+uses_48	8.5	O
+uses_48	x	O
+uses_48	14	O
+uses_48	cm	O
+uses_48	and	O
+uses_48	uses	uses_vrb
+uses_48	Schwabacher	O
+uses_48	typeface	O

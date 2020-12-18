@@ -1,0 +1,16 @@
+refund_1	Instead	O
+refund_1	contact	O
+refund_1	the	O
+refund_1	manufacturer	O
+refund_1	or	O
+refund_1	installer	O
+refund_1	to	O
+refund_1	determine	O
+refund_1	their	O
+refund_1	return	O
+refund_1	policy	O
+refund_1	for	O
+refund_1	a	O
+refund_1	refund	refund_nou
+refund_1	or	O
+refund_1	credit	O

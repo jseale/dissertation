@@ -1,0 +1,7 @@
+convert_1	He	O
+convert_1	is	O
+convert_1	a	O
+convert_1	convert	convert_nou
+convert_1	to	O
+convert_1	Roman	O
+convert_1	Catholicism	O

@@ -1,0 +1,13 @@
+precipitate_2	Production	O
+precipitate_2	of	O
+precipitate_2	a	O
+precipitate_2	greenish	O
+precipitate_2	precipitate	precipitate_adj-nou
+precipitate_2	was	O
+precipitate_2	an	O
+precipitate_2	indication	O
+precipitate_2	of	O
+precipitate_2	the	O
+precipitate_2	presence	O
+precipitate_2	of	O
+precipitate_2	tannins	O

@@ -1,0 +1,10 @@
+articulate_5	Or	O
+articulate_5	as	O
+articulate_5	he	O
+articulate_5	put	O
+articulate_5	it	O
+articulate_5	elsewhere	O
+articulate_5	We	O
+articulate_5	articulate	articulate_vrb
+articulate_5	cocksucker	O
+articulate_5	values	O

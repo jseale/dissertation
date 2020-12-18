@@ -1,0 +1,13 @@
+recount_67	Audiovisual	O
+recount_67	materials	O
+recount_67	and	O
+recount_67	multimedia	O
+recount_67	charts	O
+recount_67	recount	recount_vrb
+recount_67	the	O
+recount_67	history	O
+recount_67	of	O
+recount_67	the	O
+recount_67	bridge	O
+recount_67	's	O
+recount_67	construction	O

@@ -1,0 +1,17 @@
+extract_3	Bromelain	O
+extract_3	extract	extract_nou
+extract_3	is	O
+extract_3	a	O
+extract_3	mixture	O
+extract_3	of	O
+extract_3	protein	O
+extract_3	digesting	O
+extract_3	proteolytic	O
+extract_3	enzymes	O
+extract_3	and	O
+extract_3	several	O
+extract_3	other	O
+extract_3	substances	O
+extract_3	in	O
+extract_3	smaller	O
+extract_3	quantities	O

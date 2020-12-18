@@ -1,0 +1,16 @@
+conflict_56	The	O
+conflict_56	conflict	conflict_nou
+conflict_56	ends	O
+conflict_56	in	O
+conflict_56	a	O
+conflict_56	final	O
+conflict_56	showdown	O
+conflict_56	between	O
+conflict_56	Ribbons	O
+conflict_56	and	O
+conflict_56	Setsuna	O
+conflict_56	with	O
+conflict_56	the	O
+conflict_56	latter	O
+conflict_56	's	O
+conflict_56	victory	O

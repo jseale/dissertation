@@ -1,0 +1,13 @@
+converse_52	Hige	O
+converse_52	likes	O
+converse_52	to	O
+converse_52	converse	converse_vrb
+converse_52	with	O
+converse_52	girls	O
+converse_52	and	O
+converse_52	to	O
+converse_52	eat	O
+converse_52	he	O
+converse_52	is	O
+converse_52	quite	O
+converse_52	chubby	O

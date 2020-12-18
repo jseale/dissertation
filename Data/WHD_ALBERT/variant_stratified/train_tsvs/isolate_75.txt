@@ -1,0 +1,12 @@
+isolate_75	The	O
+isolate_75	Penicillium	O
+isolate_75	isolate	isolate_nou
+isolate_75	was	O
+isolate_75	discovered	O
+isolate_75	during	O
+isolate_75	the	O
+isolate_75	culture	O
+isolate_75	of	O
+isolate_75	the	O
+isolate_75	white	O
+isolate_75	mold	O

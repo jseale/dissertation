@@ -1,0 +1,13 @@
+converse_19	Converse	converse_adj-nou
+converse_19	R.	O
+converse_19	Lewis	O
+converse_19	reviewed	O
+converse_19	his	O
+converse_19	troops	O
+converse_19	in	O
+converse_19	farewell	O
+converse_19	to	O
+converse_19	his	O
+converse_19	command	O
+converse_19	at	O
+converse_19	Kearns	O

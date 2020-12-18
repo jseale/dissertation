@@ -1,0 +1,11 @@
+uses_19	Written	O
+uses_19	by	O
+uses_19	Imre	O
+uses_19	Poniklo	O
+uses_19	the	O
+uses_19	song	O
+uses_19	uses	uses_vrb
+uses_19	a	O
+uses_19	verse	O
+uses_19	chorus	O
+uses_19	form	O

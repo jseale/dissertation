@@ -1,0 +1,15 @@
+implement_16	This	O
+implement_16	agency	O
+implement_16	has	O
+implement_16	drafted	O
+implement_16	Energy	O
+implement_16	Efficiency	O
+implement_16	legislative	O
+implement_16	frameworks	O
+implement_16	aiming	O
+implement_16	to	O
+implement_16	implement	implement_vrb
+implement_16	the	O
+implement_16	best	O
+implement_16	EU	O
+implement_16	practices	O

@@ -1,0 +1,17 @@
+insert_9	It	O
+insert_9	may	O
+insert_9	be	O
+insert_9	a	O
+insert_9	simple	O
+insert_9	matter	O
+insert_9	to	O
+insert_9	insert	insert_vrb
+insert_9	an	O
+insert_9	appropriate	O
+insert_9	recoil	O
+insert_9	reducing	O
+insert_9	device	O
+insert_9	into	O
+insert_9	such	O
+insert_9	an	O
+insert_9	opening	O

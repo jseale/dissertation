@@ -1,0 +1,17 @@
+subordinate_39	It	O
+subordinate_39	facilitated	O
+subordinate_39	analysis	O
+subordinate_39	of	O
+subordinate_39	the	O
+subordinate_39	ways	O
+subordinate_39	subordinate	subordinate_adj-nou
+subordinate_39	groups	O
+subordinate_39	actively	O
+subordinate_39	resist	O
+subordinate_39	and	O
+subordinate_39	respond	O
+subordinate_39	to	O
+subordinate_39	political	O
+subordinate_39	and	O
+subordinate_39	economic	O
+subordinate_39	domination	O

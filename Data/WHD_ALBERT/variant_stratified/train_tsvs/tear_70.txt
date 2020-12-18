@@ -1,0 +1,14 @@
+tear_70	Fearing	O
+tear_70	that	O
+tear_70	this	O
+tear_70	would	O
+tear_70	tear	tear_vrb
+tear_70	them	O
+tear_70	apart	O
+tear_70	Carla	O
+tear_70	is	O
+tear_70	pleasantly	O
+tear_70	surprised	O
+tear_70	when	O
+tear_70	Doug	O
+tear_70	proposes	O

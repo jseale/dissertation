@@ -1,0 +1,14 @@
+implant_4	Breast	O
+implant_4	implant	implant_nou
+implant_4	associated	O
+implant_4	anaplastic	O
+implant_4	large	O
+implant_4	cell	O
+implant_4	lymphoma	O
+implant_4	long	O
+implant_4	term	O
+implant_4	follow	O
+implant_4	up	O
+implant_4	of	O
+implant_4	60	O
+implant_4	patients	O

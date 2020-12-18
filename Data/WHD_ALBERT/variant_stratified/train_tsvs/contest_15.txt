@@ -1,0 +1,16 @@
+contest_15	LZEXE	O
+contest_15	project	O
+contest_15	pageInternational	O
+contest_15	Obfuscated	O
+contest_15	C	O
+contest_15	Code	O
+contest_15	Contest	contest_nou
+contest_15	years	O
+contest_15	"pagehttp://www0.us.ioccc.org/years.html#2000http://www0.us.ioccc.org/2000/bellard.hint""TCCBOOT"	O
+contest_15	Compiles	O
+contest_15	And	O
+contest_15	Boots	O
+contest_15	Linux	O
+contest_15	In	O
+contest_15	15	O
+contest_15	Seconds	O

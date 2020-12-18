@@ -1,0 +1,12 @@
+content_15	Content	content_nou
+content_15	rights	O
+content_15	and	O
+content_15	delivery	O
+content_15	is	O
+content_15	provided	O
+content_15	by	O
+content_15	document	O
+content_15	delivery	O
+content_15	vendor	O
+content_15	Reprints	O
+content_15	Desk	O

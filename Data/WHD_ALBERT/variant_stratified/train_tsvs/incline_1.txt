@@ -1,0 +1,16 @@
+incline_1	Horses	O
+incline_1	then	O
+incline_1	pulled	O
+incline_1	the	O
+incline_1	wagons	O
+incline_1	to	O
+incline_1	the	O
+incline_1	foot	O
+incline_1	of	O
+incline_1	the	O
+incline_1	Brusselton	O
+incline_1	Incline	incline_nou
+incline_1	which	O
+incline_1	descendend	O
+incline_1	into	O
+incline_1	Shildon	O

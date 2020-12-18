@@ -1,0 +1,12 @@
+document_28	All	O
+document_28	committee	O
+document_28	participants	O
+document_28	are	O
+document_28	responsible	O
+document_28	for	O
+document_28	careful	O
+document_28	review	O
+document_28	of	O
+document_28	the	O
+document_28	consensus	O
+document_28	document	document_nou

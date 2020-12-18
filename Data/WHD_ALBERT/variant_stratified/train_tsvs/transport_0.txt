@@ -1,0 +1,14 @@
+transport_0	One	O
+transport_0	was	O
+transport_0	installed	O
+transport_0	on	O
+transport_0	an	O
+transport_0	AEC	O
+transport_0	chassis	O
+transport_0	for	O
+transport_0	the	O
+transport_0	Auckland	O
+transport_0	Transport	transport_nou
+transport_0	Board	O
+transport_0	to	O
+transport_0	trial	O

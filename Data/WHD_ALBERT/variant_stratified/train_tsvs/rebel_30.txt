@@ -1,0 +1,17 @@
+rebel_30	Keith	O
+rebel_30	Richards	O
+rebel_30	of	O
+rebel_30	The	O
+rebel_30	Rolling	O
+rebel_30	Stones	O
+rebel_30	was	O
+rebel_30	once	O
+rebel_30	known	O
+rebel_30	to	O
+rebel_30	be	O
+rebel_30	an	O
+rebel_30	avid	O
+rebel_30	drinker	O
+rebel_30	of	O
+rebel_30	Rebel	rebel_nou
+rebel_30	Yell	O

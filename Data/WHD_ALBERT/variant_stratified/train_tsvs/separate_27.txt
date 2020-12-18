@@ -1,0 +1,16 @@
+separate_27	Most	O
+separate_27	residents	O
+separate_27	still	O
+separate_27	consider	O
+separate_27	it	O
+separate_27	to	O
+separate_27	have	O
+separate_27	an	O
+separate_27	identity	O
+separate_27	separate	separate_adj
+separate_27	from	O
+separate_27	the	O
+separate_27	rest	O
+separate_27	of	O
+separate_27	Pyeongtaek	O
+separate_27	City	O

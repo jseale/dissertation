@@ -1,0 +1,13 @@
+contest_7	But	O
+contest_7	during	O
+contest_7	the	O
+contest_7	contest	contest_nou
+contest_7	the	O
+contest_7	mind	O
+contest_7	patch	O
+contest_7	fails	O
+contest_7	as	O
+contest_7	his	O
+contest_7	mind	O
+contest_7	rejects	O
+contest_7	it	O

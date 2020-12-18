@@ -1,0 +1,12 @@
+suspect_8	Sam	O
+suspect_8	starts	O
+suspect_8	to	O
+suspect_8	suspect	suspect_vrb
+suspect_8	his	O
+suspect_8	neighbors	O
+suspect_8	and	O
+suspect_8	gets	O
+suspect_8	obsessed	O
+suspect_8	with	O
+suspect_8	WiFi	O
+suspect_8	rays	O

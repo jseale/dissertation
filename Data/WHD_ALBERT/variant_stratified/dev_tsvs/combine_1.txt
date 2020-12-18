@@ -1,0 +1,17 @@
+combine_1	Is	O
+combine_1	it	O
+combine_1	impossible	O
+combine_1	to	O
+combine_1	combine	combine_vrb
+combine_1	the	O
+combine_1	hardiness	O
+combine_1	of	O
+combine_1	these	O
+combine_1	savages	O
+combine_1	with	O
+combine_1	the	O
+combine_1	intellectualness	O
+combine_1	of	O
+combine_1	the	O
+combine_1	civilized	O
+combine_1	man	O

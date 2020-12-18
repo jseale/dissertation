@@ -1,0 +1,15 @@
+refuse_36	They	O
+refuse_36	refuse	refuse_vrb
+refuse_36	to	O
+refuse_36	make	O
+refuse_36	known	O
+refuse_36	to	O
+refuse_36	the	O
+refuse_36	Relief	O
+refuse_36	Committee	O
+refuse_36	the	O
+refuse_36	number	O
+refuse_36	of	O
+refuse_36	sick	O
+refuse_36	among	O
+refuse_36	them	O

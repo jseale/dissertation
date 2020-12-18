@@ -1,0 +1,11 @@
+wind_52	Marty	O
+wind_52	can	O
+wind_52	also	O
+wind_52	generate	O
+wind_52	remarkably	O
+wind_52	powerful	O
+wind_52	wind	wind_nou
+wind_52	squalls	O
+wind_52	by	O
+wind_52	simply	O
+wind_52	blowing	O

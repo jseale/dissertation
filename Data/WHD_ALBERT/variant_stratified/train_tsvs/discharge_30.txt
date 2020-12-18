@@ -1,0 +1,14 @@
+discharge_30	Soon	O
+discharge_30	after	O
+discharge_30	his	O
+discharge_30	discharge	discharge_nou
+discharge_30	Dan	O
+discharge_30	Halutz	O
+discharge_30	became	O
+discharge_30	the	O
+discharge_30	CEO	O
+discharge_30	of	O
+discharge_30	a	O
+discharge_30	prestigious	O
+discharge_30	car	O
+discharge_30	importer	O

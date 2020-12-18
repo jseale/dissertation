@@ -1,0 +1,15 @@
+bow_71	Her	O
+bow_71	hull	O
+bow_71	is	O
+bow_71	painted	O
+bow_71	a	O
+bow_71	rich	O
+bow_71	green	O
+bow_71	with	O
+bow_71	smooth	O
+bow_71	flowing	O
+bow_71	lines	O
+bow_71	from	O
+bow_71	bow	bow_nou-ship
+bow_71	to	O
+bow_71	stern	O

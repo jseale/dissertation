@@ -1,0 +1,11 @@
+impact_48	This	O
+impact_48	event	O
+impact_48	has	O
+impact_48	helped	O
+impact_48	to	O
+impact_48	spark	O
+impact_48	discussion	O
+impact_48	of	O
+impact_48	asteroid	O
+impact_48	impact	impact_nou
+impact_48	avoidance	O

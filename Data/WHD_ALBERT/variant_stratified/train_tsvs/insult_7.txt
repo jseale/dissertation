@@ -1,0 +1,17 @@
+insult_7	An	O
+insult_7	insult	insult_nou
+insult_7	the	O
+insult_7	hero	O
+insult_7	competition	O
+insult_7	is	O
+insult_7	also	O
+insult_7	taking	O
+insult_7	place	O
+insult_7	and	O
+insult_7	the	O
+insult_7	winner	O
+insult_7	is	O
+insult_7	yet	O
+insult_7	to	O
+insult_7	be	O
+insult_7	announced	O

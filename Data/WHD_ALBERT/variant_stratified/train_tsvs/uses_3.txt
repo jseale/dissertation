@@ -1,0 +1,15 @@
+uses_3	Herbalists	O
+uses_3	began	O
+uses_3	to	O
+uses_3	explore	O
+uses_3	the	O
+uses_3	use	O
+uses_3	of	O
+uses_3	plants	O
+uses_3	for	O
+uses_3	both	O
+uses_3	medicinal	O
+uses_3	purposes	O
+uses_3	and	O
+uses_3	agricultural	O
+uses_3	uses	uses_nou

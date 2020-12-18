@@ -1,0 +1,11 @@
+export_20	Alexander	O
+export_20	Thomas	O
+export_20	Kingdom	O
+export_20	Grant	O
+export_20	CMG	O
+export_20	Under	O
+export_20	Secretary	O
+export_20	Export	export_nou
+export_20	Credits	O
+export_20	Guarantee	O
+export_20	Department	O

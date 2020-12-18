@@ -1,0 +1,7 @@
+compound_54	Carbazole	O
+compound_54	is	O
+compound_54	an	O
+compound_54	aromatic	O
+compound_54	heterocyclic	O
+compound_54	organic	O
+compound_54	compound	compound_nou

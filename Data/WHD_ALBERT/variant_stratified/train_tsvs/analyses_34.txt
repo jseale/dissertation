@@ -1,0 +1,17 @@
+analyses_34	The	O
+analyses_34	ESP	O
+analyses_34	also	O
+analyses_34	archives	O
+analyses_34	samples	O
+analyses_34	so	O
+analyses_34	that	O
+analyses_34	further	O
+analyses_34	analyses	analyses_nou
+analyses_34	may	O
+analyses_34	be	O
+analyses_34	done	O
+analyses_34	after	O
+analyses_34	the	O
+analyses_34	instrument	O
+analyses_34	is	O
+analyses_34	recovered	O

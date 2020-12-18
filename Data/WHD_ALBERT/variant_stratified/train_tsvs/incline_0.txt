@@ -1,0 +1,15 @@
+incline_0	Wellington	O
+incline_0	was	O
+incline_0	an	O
+incline_0	important	O
+incline_0	station	O
+incline_0	as	O
+incline_0	it	O
+incline_0	stood	O
+incline_0	at	O
+incline_0	the	O
+incline_0	foot	O
+incline_0	of	O
+incline_0	a	O
+incline_0	steep	O
+incline_0	incline	incline_nou

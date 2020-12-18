@@ -1,0 +1,8 @@
+transport_64	There	O
+transport_64	is	O
+transport_64	limited	O
+transport_64	public	O
+transport_64	transport	transport_nou
+transport_64	to	O
+transport_64	the	O
+transport_64	village	O

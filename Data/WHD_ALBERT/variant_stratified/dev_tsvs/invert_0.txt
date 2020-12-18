@@ -1,0 +1,12 @@
+invert_0	Golden	O
+invert_0	syrup	O
+invert_0	is	O
+invert_0	a	O
+invert_0	syrup	O
+invert_0	of	O
+invert_0	approximately	O
+invert_0	56	O
+invert_0	invert	invert_adj-nou
+invert_0	syrup	O
+invert_0	44	O
+invert_0	sucrose	O

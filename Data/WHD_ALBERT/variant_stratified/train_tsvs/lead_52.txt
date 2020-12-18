@@ -1,0 +1,17 @@
+lead_52	Lewis	O
+lead_52	had	O
+lead_52	been	O
+lead_52	in	O
+lead_52	the	O
+lead_52	lead	lead_nou-vrb
+lead_52	in	O
+lead_52	four	O
+lead_52	of	O
+lead_52	the	O
+lead_52	seven	O
+lead_52	stages	O
+lead_52	of	O
+lead_52	this	O
+lead_52	Alternative	O
+lead_52	Vote	O
+lead_52	election	O

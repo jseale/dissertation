@@ -1,0 +1,15 @@
+initiate_71	ABP	O
+initiate_71	is	O
+initiate_71	essential	O
+initiate_71	to	O
+initiate_71	concentrating	O
+initiate_71	testosterone	O
+initiate_71	in	O
+initiate_71	levels	O
+initiate_71	high	O
+initiate_71	enough	O
+initiate_71	to	O
+initiate_71	initiate	initiate_vrb
+initiate_71	and	O
+initiate_71	maintain	O
+initiate_71	spermatogenesis	O

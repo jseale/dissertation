@@ -1,0 +1,11 @@
+perfume_65	Rubber	O
+perfume_65	perfume	perfume_nou
+perfume_65	and	O
+perfume_65	dairy	O
+perfume_65	products	O
+perfume_65	are	O
+perfume_65	also	O
+perfume_65	processed	O
+perfume_65	in	O
+perfume_65	the	O
+perfume_65	capital	O

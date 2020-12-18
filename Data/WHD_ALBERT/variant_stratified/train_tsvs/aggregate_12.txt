@@ -1,0 +1,9 @@
+aggregate_12	The	O
+aggregate_12	winners	O
+aggregate_12	on	O
+aggregate_12	aggregate	aggregate_adj-nou
+aggregate_12	will	O
+aggregate_12	advance	O
+aggregate_12	to	O
+aggregate_12	the	O
+aggregate_12	semifinals	O

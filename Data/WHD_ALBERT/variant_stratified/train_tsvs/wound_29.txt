@@ -1,0 +1,12 @@
+wound_29	She	O
+wound_29	suffered	O
+wound_29	a	O
+wound_29	head	O
+wound_29	wound	wound_nou-vrb
+wound_29	which	O
+wound_29	was	O
+wound_29	stitched	O
+wound_29	up	O
+wound_29	at	O
+wound_29	the	O
+wound_29	hospital	O

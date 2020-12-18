@@ -1,0 +1,17 @@
+close_74	In	O
+close_74	June	O
+close_74	2010	O
+close_74	the	O
+close_74	hospital	O
+close_74	announced	O
+close_74	it	O
+close_74	would	O
+close_74	close	close_vrb
+close_74	on	O
+close_74	July	O
+close_74	2	O
+close_74	2010	O
+close_74	and	O
+close_74	file	O
+close_74	for	O
+close_74	bankruptcy	O

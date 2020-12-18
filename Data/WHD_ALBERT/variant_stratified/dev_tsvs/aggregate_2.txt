@@ -1,0 +1,16 @@
+aggregate_2	On	O
+aggregate_2	review	O
+aggregate_2	aggregate	aggregate_adj-nou
+aggregate_2	website	O
+aggregate_2	MetaCritic	O
+aggregate_2	the	O
+aggregate_2	album	O
+aggregate_2	holds	O
+aggregate_2	a	O
+aggregate_2	score	O
+aggregate_2	of	O
+aggregate_2	70/100	O
+aggregate_2	indicating	O
+aggregate_2	generally	O
+aggregate_2	favorable	O
+aggregate_2	reviews	O

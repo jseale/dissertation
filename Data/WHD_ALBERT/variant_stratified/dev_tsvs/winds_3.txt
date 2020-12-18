@@ -1,0 +1,11 @@
+winds_3	These	O
+winds_3	winds	winds_nou
+winds_3	caused	O
+winds_3	scattered	O
+winds_3	power	O
+winds_3	and	O
+winds_3	communication	O
+winds_3	losses	O
+winds_3	throughout	O
+winds_3	the	O
+winds_3	Peninsula	O

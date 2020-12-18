@@ -1,0 +1,17 @@
+syndicate_31	In	O
+syndicate_31	1981	O
+syndicate_31	the	O
+syndicate_31	syndication	O
+syndicate_31	was	O
+syndicate_31	moved	O
+syndicate_31	to	O
+syndicate_31	Field	O
+syndicate_31	Enterprises	O
+syndicate_31	and	O
+syndicate_31	then	O
+syndicate_31	in	O
+syndicate_31	1984	O
+syndicate_31	to	O
+syndicate_31	News	O
+syndicate_31	America	O
+syndicate_31	Syndicate	syndicate_nou

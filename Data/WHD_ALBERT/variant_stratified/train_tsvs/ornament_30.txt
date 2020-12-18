@@ -1,0 +1,8 @@
+ornament_30	We	O
+ornament_30	are	O
+ornament_30	going	O
+ornament_30	to	O
+ornament_30	discard	O
+ornament_30	entirely	O
+ornament_30	all	O
+ornament_30	ornament	ornament_nou

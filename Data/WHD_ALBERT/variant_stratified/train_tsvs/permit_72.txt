@@ -1,0 +1,14 @@
+permit_72	The	O
+permit_72	corners	O
+permit_72	of	O
+permit_72	the	O
+permit_72	mine	O
+permit_72	have	O
+permit_72	small	O
+permit_72	posts	O
+permit_72	to	O
+permit_72	permit	permit_vrb
+permit_72	stacking	O
+permit_72	of	O
+permit_72	the	O
+permit_72	mine	O

@@ -1,0 +1,11 @@
+sake_66	One	O
+sake_66	evening	O
+sake_66	a	O
+sake_66	drunk	O
+sake_66	customer	O
+sake_66	comes	O
+sake_66	to	O
+sake_66	the	O
+sake_66	eatery	O
+sake_66	demanding	O
+sake_66	sake	sake_jp

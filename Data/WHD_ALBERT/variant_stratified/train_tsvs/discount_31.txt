@@ -1,0 +1,16 @@
+discount_31	It	O
+discount_31	further	O
+discount_31	extended	O
+discount_31	the	O
+discount_31	schedule	O
+discount_31	of	O
+discount_31	payments	O
+discount_31	by	O
+discount_31	several	O
+discount_31	years	O
+discount_31	with	O
+discount_31	a	O
+discount_31	discount	discount_nou
+discount_31	for	O
+discount_31	quick	O
+discount_31	payment	O

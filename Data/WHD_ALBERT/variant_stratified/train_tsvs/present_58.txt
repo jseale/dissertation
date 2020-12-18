@@ -1,0 +1,7 @@
+present_58	At	O
+present_58	present	present_adj-nou
+present_58	discussions	O
+present_58	are	O
+present_58	underway	O
+present_58	regarding	O
+present_58	financing	O

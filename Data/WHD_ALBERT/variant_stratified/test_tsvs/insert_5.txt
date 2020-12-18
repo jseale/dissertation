@@ -1,0 +1,17 @@
+insert_5	The	O
+insert_5	final	O
+insert_5	step	O
+insert_5	was	O
+insert_5	for	O
+insert_5	the	O
+insert_5	bee	O
+insert_5	to	O
+insert_5	insert	insert_vrb
+insert_5	its	O
+insert_5	mouthparts	O
+insert_5	into	O
+insert_5	the	O
+insert_5	flower	O
+insert_5	and	O
+insert_5	initiate	O
+insert_5	suckling	O

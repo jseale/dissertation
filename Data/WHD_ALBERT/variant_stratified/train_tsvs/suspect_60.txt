@@ -1,0 +1,14 @@
+suspect_60	Garibaldi	O
+suspect_60	comes	O
+suspect_60	to	O
+suspect_60	suspect	suspect_vrb
+suspect_60	Del	O
+suspect_60	Varner	O
+suspect_60	might	O
+suspect_60	have	O
+suspect_60	been	O
+suspect_60	involved	O
+suspect_60	in	O
+suspect_60	Kosh	O
+suspect_60	's	O
+suspect_60	poisoning	O

@@ -1,0 +1,16 @@
+present_49	The	O
+present_49	syndrome	O
+present_49	is	O
+present_49	also	O
+present_49	present	present_adj-nou
+present_49	in	O
+present_49	an	O
+present_49	incomplete	O
+present_49	form	O
+present_49	which	O
+present_49	is	O
+present_49	more	O
+present_49	properly	O
+present_49	defined	O
+present_49	as	O
+present_49	dyschromatopsia	O

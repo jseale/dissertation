@@ -1,0 +1,11 @@
+perfect_33	Perfect	perfect_adj
+perfect_33	moments	O
+perfect_33	can	O
+perfect_33	be	O
+perfect_33	had	O
+perfect_33	but	O
+perfect_33	not	O
+perfect_33	preserved	O
+perfect_33	except	O
+perfect_33	in	O
+perfect_33	memory	O

@@ -1,0 +1,17 @@
+separate_3	Modern	O
+separate_3	molecular	O
+separate_3	evidence	O
+separate_3	supports	O
+separate_3	the	O
+separate_3	recognition	O
+separate_3	of	O
+separate_3	Phaeonematoloma	O
+separate_3	as	O
+separate_3	an	O
+separate_3	independent	O
+separate_3	genus	O
+separate_3	separate	separate_adj
+separate_3	from	O
+separate_3	Hypholoma	O
+separate_3	and	O
+separate_3	Pholiota	O

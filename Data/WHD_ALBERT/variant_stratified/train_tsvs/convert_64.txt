@@ -1,0 +1,16 @@
+convert_64	It	O
+convert_64	is	O
+convert_64	difficult	O
+convert_64	to	O
+convert_64	convert	convert_vrb
+convert_64	mooney	O
+convert_64	viscosity	O
+convert_64	to	O
+convert_64	other	O
+convert_64	units	O
+convert_64	because	O
+convert_64	it	O
+convert_64	is	O
+convert_64	measured	O
+convert_64	in	O
+convert_64	torque	O

@@ -1,0 +1,13 @@
+diagnoses_45	The	O
+diagnoses_45	original	O
+diagnoses_45	clinical	O
+diagnoses_45	scales	O
+diagnoses_45	were	O
+diagnoses_45	designed	O
+diagnoses_45	to	O
+diagnoses_45	measure	O
+diagnoses_45	common	O
+diagnoses_45	diagnoses	diagnoses_nou
+diagnoses_45	of	O
+diagnoses_45	the	O
+diagnoses_45	era	O

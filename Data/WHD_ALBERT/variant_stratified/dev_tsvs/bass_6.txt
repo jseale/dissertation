@@ -1,0 +1,12 @@
+bass_6	The	O
+bass_6	design	O
+bass_6	of	O
+bass_6	the	O
+bass_6	bass	bass
+bass_6	guitar	O
+bass_6	changed	O
+bass_6	several	O
+bass_6	times	O
+bass_6	during	O
+bass_6	the	O
+bass_6	1960s	O

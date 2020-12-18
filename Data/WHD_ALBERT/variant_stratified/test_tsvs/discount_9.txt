@@ -1,0 +1,14 @@
+discount_9	Conditions	O
+discount_9	of	O
+discount_9	oppression	O
+discount_9	however	O
+discount_9	do	O
+discount_9	not	O
+discount_9	rule	O
+discount_9	out	O
+discount_9	or	O
+discount_9	discount	discount_vrb
+discount_9	practices	O
+discount_9	of	O
+discount_9	civic	O
+discount_9	freedom	O

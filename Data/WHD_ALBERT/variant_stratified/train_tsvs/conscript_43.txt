@@ -1,0 +1,13 @@
+conscript_43	Additionally	O
+conscript_43	conscript	conscript_nou
+conscript_43	based	O
+conscript_43	reserve	O
+conscript_43	MP	O
+conscript_43	platoons	O
+conscript_43	are	O
+conscript_43	trained	O
+conscript_43	in	O
+conscript_43	Guard	O
+conscript_43	Battalion	O
+conscript_43	every	O
+conscript_43	year	O

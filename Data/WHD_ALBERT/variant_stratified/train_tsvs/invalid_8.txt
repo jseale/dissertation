@@ -1,0 +1,16 @@
+invalid_8	They	O
+invalid_8	claimed	O
+invalid_8	therefore	O
+invalid_8	that	O
+invalid_8	the	O
+invalid_8	decision	O
+invalid_8	was	O
+invalid_8	invalid	invalid_adj
+invalid_8	and	O
+invalid_8	unlawful	O
+invalid_8	and	O
+invalid_8	sought	O
+invalid_8	a	O
+invalid_8	declaration	O
+invalid_8	and	O
+invalid_8	injunction	O

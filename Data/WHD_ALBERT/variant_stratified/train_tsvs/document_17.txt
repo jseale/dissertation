@@ -1,0 +1,12 @@
+document_17	It	O
+document_17	is	O
+document_17	an	O
+document_17	XHTML	O
+document_17	document	document_nou
+document_17	type	O
+document_17	defined	O
+document_17	by	O
+document_17	the	O
+document_17	Open	O
+document_17	Mobile	O
+document_17	Alliance	O

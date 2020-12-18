@@ -1,0 +1,13 @@
+degenerate_60	Thus	O
+degenerate_60	natural	O
+degenerate_60	laws	O
+degenerate_60	prove	O
+degenerate_60	to	O
+degenerate_60	be	O
+degenerate_60	degenerate	degenerate_adj-nou
+degenerate_60	limiting	O
+degenerate_60	cases	O
+degenerate_60	of	O
+degenerate_60	the	O
+degenerate_60	Bernoulli	O
+degenerate_60	Space	O

@@ -1,0 +1,14 @@
+abuses_62	Some	O
+abuses_62	groups	O
+abuses_62	are	O
+abuses_62	especially	O
+abuses_62	vulnerable	O
+abuses_62	to	O
+abuses_62	human	O
+abuses_62	rights	O
+abuses_62	abuses	abuses_nou
+abuses_62	collateral	O
+abuses_62	to	O
+abuses_62	drug	O
+abuses_62	law	O
+abuses_62	enforcement	O

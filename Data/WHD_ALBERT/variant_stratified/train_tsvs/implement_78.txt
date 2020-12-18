@@ -1,0 +1,12 @@
+implement_78	Aloha	O
+implement_78	Editor	O
+implement_78	tries	O
+implement_78	to	O
+implement_78	implement	implement_vrb
+implement_78	its	O
+implement_78	functionality	O
+implement_78	respecting	O
+implement_78	the	O
+implement_78	HTML5	O
+implement_78	Specification	O
+implement_78	Draft	O

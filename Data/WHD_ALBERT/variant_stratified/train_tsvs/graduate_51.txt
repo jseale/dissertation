@@ -1,0 +1,12 @@
+graduate_51	It	O
+graduate_51	has	O
+graduate_51	about	O
+graduate_51	1,100	O
+graduate_51	students	O
+graduate_51	enrolled	O
+graduate_51	in	O
+graduate_51	its	O
+graduate_51	undergraduate	O
+graduate_51	and	O
+graduate_51	graduate	graduate_adj-nou
+graduate_51	programs	O

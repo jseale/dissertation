@@ -1,0 +1,13 @@
+abuse_0	He	O
+abuse_0	has	O
+abuse_0	worked	O
+abuse_0	to	O
+abuse_0	fund	O
+abuse_0	public	O
+abuse_0	education	O
+abuse_0	and	O
+abuse_0	to	O
+abuse_0	protect	O
+abuse_0	youth	O
+abuse_0	from	O
+abuse_0	abuse	abuse_nou

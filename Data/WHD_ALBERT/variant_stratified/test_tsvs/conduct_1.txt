@@ -1,0 +1,11 @@
+conduct_1	The	O
+conduct_1	conduct	conduct_nou
+conduct_1	of	O
+conduct_1	hostilities	O
+conduct_1	under	O
+conduct_1	the	O
+conduct_1	law	O
+conduct_1	of	O
+conduct_1	international	O
+conduct_1	armed	O
+conduct_1	conflict	O

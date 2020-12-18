@@ -1,0 +1,12 @@
+affect_56	Multiple	O
+affect_56	factors	O
+affect_56	affect	affect
+affect_56	human	O
+affect_56	sex	O
+affect_56	drive	O
+affect_56	including	O
+affect_56	stress	O
+affect_56	illness	O
+affect_56	pregnancy	O
+affect_56	and	O
+affect_56	others	O

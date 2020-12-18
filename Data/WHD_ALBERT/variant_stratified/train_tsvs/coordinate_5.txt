@@ -1,0 +1,8 @@
+coordinate_5	For	O
+coordinate_5	example	O
+coordinate_5	coordinate	coordinate_adj-nou
+coordinate_5	tuples	O
+coordinate_5	change	O
+coordinate_5	with	O
+coordinate_5	its	O
+coordinate_5	inverse	O

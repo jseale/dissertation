@@ -1,0 +1,12 @@
+discard_75	As	O
+discard_75	a	O
+discard_75	result	O
+discard_75	employees	O
+discard_75	tend	O
+discard_75	to	O
+discard_75	discard	discard_vrb
+discard_75	employers	O
+discard_75	with	O
+discard_75	a	O
+discard_75	bad	O
+discard_75	reputation	O

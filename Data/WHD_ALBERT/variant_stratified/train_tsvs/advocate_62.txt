@@ -1,0 +1,11 @@
+advocate_62	Advocate	advocate_nou
+advocate_62	reports	O
+advocate_62	on	O
+advocate_62	closure	O
+advocate_62	of	O
+advocate_62	case	O
+advocate_62	on	O
+advocate_62	Timur	O
+advocate_62	Kuashev	O
+advocate_62	's	O
+advocate_62	death	O

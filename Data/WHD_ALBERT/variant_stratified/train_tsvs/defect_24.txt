@@ -1,0 +1,15 @@
+defect_24	She	O
+defect_24	was	O
+defect_24	born	O
+defect_24	with	O
+defect_24	a	O
+defect_24	heart	O
+defect_24	defect	defect_nou
+defect_24	and	O
+defect_24	underwent	O
+defect_24	open	O
+defect_24	heart	O
+defect_24	surgery	O
+defect_24	before	O
+defect_24	leaving	O
+defect_24	Korea	O

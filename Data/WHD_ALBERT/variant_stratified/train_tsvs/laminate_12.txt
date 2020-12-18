@@ -1,0 +1,10 @@
+laminate_12	Thermofoil	O
+laminate_12	is	O
+laminate_12	a	O
+laminate_12	plastic	O
+laminate_12	coating	O
+laminate_12	laminate	laminate_nou
+laminate_12	applied	O
+laminate_12	to	O
+laminate_12	furniture	O
+laminate_12	board	O

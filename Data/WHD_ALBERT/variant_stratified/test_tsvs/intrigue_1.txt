@@ -1,0 +1,17 @@
+intrigue_1	It	O
+intrigue_1	includes	O
+intrigue_1	fascinating	O
+intrigue_1	stories	O
+intrigue_1	including	O
+intrigue_1	traditional	O
+intrigue_1	local	O
+intrigue_1	gossip	O
+intrigue_1	about	O
+intrigue_1	murder	O
+intrigue_1	intrigue	intrigue_nou
+intrigue_1	ghosts	O
+intrigue_1	secret	O
+intrigue_1	rooms	O
+intrigue_1	and	O
+intrigue_1	secret	O
+intrigue_1	passages	O

@@ -1,0 +1,17 @@
+perfect_9	The	O
+perfect_9	plot	O
+perfect_9	has	O
+perfect_9	Rimmer	O
+perfect_9	suggesting	O
+perfect_9	that	O
+perfect_9	the	O
+perfect_9	perfect	perfect_adj
+perfect_9	way	O
+perfect_9	to	O
+perfect_9	help	O
+perfect_9	Lister	O
+perfect_9	get	O
+perfect_9	healthy	O
+perfect_9	is	O
+perfect_9	swapping	O
+perfect_9	bodies	O

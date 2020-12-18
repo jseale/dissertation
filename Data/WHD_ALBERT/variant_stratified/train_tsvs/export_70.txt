@@ -1,0 +1,8 @@
+export_70	Another	O
+export_70	gene	O
+export_70	btmA	O
+export_70	is	O
+export_70	proposed	O
+export_70	to	O
+export_70	export	export_vrb
+export_70	bottromycin	O

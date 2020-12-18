@@ -1,0 +1,11 @@
+insert_68	Women	O
+insert_68	also	O
+insert_68	began	O
+insert_68	to	O
+insert_68	insert	insert_vrb
+insert_68	themselves	O
+insert_68	into	O
+insert_68	the	O
+insert_68	business	O
+insert_68	of	O
+insert_68	speakeasies	O

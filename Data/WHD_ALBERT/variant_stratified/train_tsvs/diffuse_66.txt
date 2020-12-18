@@ -1,0 +1,17 @@
+diffuse_66	CHP	O
+diffuse_66	leader	O
+diffuse_66	Kemal	O
+diffuse_66	Kilicdaroglu	O
+diffuse_66	along	O
+diffuse_66	with	O
+diffuse_66	other	O
+diffuse_66	members	O
+diffuse_66	of	O
+diffuse_66	the	O
+diffuse_66	CHP	O
+diffuse_66	executive	O
+diffuse_66	managed	O
+diffuse_66	to	O
+diffuse_66	diffuse	diffuse_vrb
+diffuse_66	the	O
+diffuse_66	tensions	O

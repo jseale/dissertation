@@ -1,0 +1,16 @@
+extract_57	Gradualists	O
+extract_57	usually	O
+extract_57	extract	extract_vrb
+extract_57	themselves	O
+extract_57	from	O
+extract_57	this	O
+extract_57	dilemma	O
+extract_57	by	O
+extract_57	invoking	O
+extract_57	the	O
+extract_57	extreme	O
+extract_57	imperfection	O
+extract_57	of	O
+extract_57	the	O
+extract_57	fossil	O
+extract_57	record	O

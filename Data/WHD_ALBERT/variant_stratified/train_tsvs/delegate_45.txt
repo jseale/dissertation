@@ -1,0 +1,11 @@
+delegate_45	He	O
+delegate_45	was	O
+delegate_45	a	O
+delegate_45	delegate	delegate_nou
+delegate_45	at	O
+delegate_45	the	O
+delegate_45	Arkansas	O
+delegate_45	Constitutional	O
+delegate_45	Convention	O
+delegate_45	in	O
+delegate_45	1868	O

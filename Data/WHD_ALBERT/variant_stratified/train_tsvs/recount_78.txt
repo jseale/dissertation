@@ -1,0 +1,12 @@
+recount_78	Pepper	O
+recount_78	's	O
+recount_78	ability	O
+recount_78	to	O
+recount_78	recount	recount_vrb
+recount_78	fascinating	O
+recount_78	stories	O
+recount_78	with	O
+recount_78	simple	O
+recount_78	melodies	O
+recount_78	impressed	O
+recount_78	him	O

@@ -1,0 +1,12 @@
+discharge_40	The	O
+discharge_40	Caroni	O
+discharge_40	supplies	O
+discharge_40	15.5	O
+discharge_40	percent	O
+discharge_40	of	O
+discharge_40	the	O
+discharge_40	discharge	discharge_nou
+discharge_40	of	O
+discharge_40	the	O
+discharge_40	Orinoco	O
+discharge_40	river	O

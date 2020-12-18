@@ -1,0 +1,17 @@
+estimate_1	The	O
+estimate_1	government	O
+estimate_1	of	O
+estimate_1	Bavaria	O
+estimate_1	regards	O
+estimate_1	this	O
+estimate_1	estimate	estimate_nou
+estimate_1	as	O
+estimate_1	too	O
+estimate_1	low	O
+estimate_1	mainly	O
+estimate_1	because	O
+estimate_1	it	O
+estimate_1	does	O
+estimate_1	not	O
+estimate_1	include	O
+estimate_1	electrification	O

@@ -1,0 +1,16 @@
+compress_12	One	O
+compress_12	would	O
+compress_12	expect	O
+compress_12	a	O
+compress_12	higher	O
+compress_12	fuel	O
+compress_12	consumption	O
+compress_12	because	O
+compress_12	of	O
+compress_12	the	O
+compress_12	power	O
+compress_12	required	O
+compress_12	to	O
+compress_12	compress	compress
+compress_12	the	O
+compress_12	aerosol	O

@@ -1,0 +1,13 @@
+rerelease_6	It	O
+rerelease_6	was	O
+rerelease_6	re	O
+rerelease_6	rated	O
+rerelease_6	TV	O
+rerelease_6	PG	O
+rerelease_6	V	O
+rerelease_6	for	O
+rerelease_6	moderate	O
+rerelease_6	violence	O
+rerelease_6	on	O
+rerelease_6	its	O
+rerelease_6	rerelease	rerelease

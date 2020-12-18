@@ -1,0 +1,9 @@
+axes_4	The	O
+axes_4	articular	O
+axes_4	surfaces	O
+axes_4	are	O
+axes_4	elliptical	O
+axes_4	with	O
+axes_4	longer	O
+axes_4	transversal	O
+axes_4	axes	axes_nou

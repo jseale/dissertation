@@ -1,0 +1,17 @@
+coordinate_2	AST	O
+coordinate_2	A	O
+coordinate_2	flexible	O
+coordinate_2	and	O
+coordinate_2	powerful	O
+coordinate_2	library	O
+coordinate_2	for	O
+coordinate_2	handling	O
+coordinate_2	World	O
+coordinate_2	Coordinate	coordinate_adj-nou
+coordinate_2	Systems	O
+coordinate_2	partly	O
+coordinate_2	based	O
+coordinate_2	on	O
+coordinate_2	the	O
+coordinate_2	SLALIB	O
+coordinate_2	library	O

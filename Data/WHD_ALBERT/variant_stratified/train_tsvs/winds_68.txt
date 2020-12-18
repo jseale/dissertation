@@ -1,0 +1,17 @@
+winds_68	Coupled	O
+winds_68	with	O
+winds_68	this	O
+winds_68	were	O
+winds_68	high	O
+winds_68	winds	winds_nou
+winds_68	which	O
+winds_68	reached	O
+winds_68	gale	O
+winds_68	force	O
+winds_68	in	O
+winds_68	many	O
+winds_68	areas	O
+winds_68	leading	O
+winds_68	to	O
+winds_68	blizzard	O
+winds_68	conditions	O

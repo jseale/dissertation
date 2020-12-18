@@ -1,0 +1,17 @@
+converse_6	Roy	O
+converse_6	L.	O
+converse_6	Day	O
+converse_6	Jr.	O
+converse_6	spoke	O
+converse_6	Japanese	O
+converse_6	and	O
+converse_6	was	O
+converse_6	able	O
+converse_6	to	O
+converse_6	converse	converse_vrb
+converse_6	with	O
+converse_6	some	O
+converse_6	of	O
+converse_6	the	O
+converse_6	North	O
+converse_6	Koreans	O

@@ -1,0 +1,9 @@
+protest_44	Pro	O
+protest_44	Moscow	O
+protest_44	protest	protest_nou
+protest_44	leader	O
+protest_44	arrested	O
+protest_44	in	O
+protest_44	Ukraine	O
+protest_44	's	O
+protest_44	Donetsk	O

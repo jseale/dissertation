@@ -1,0 +1,9 @@
+abuses_16	Establishment	O
+abuses_16	of	O
+abuses_16	measures	O
+abuses_16	to	O
+abuses_16	end	O
+abuses_16	abuses	abuses_nou
+abuses_16	in	O
+abuses_16	the	O
+abuses_16	church	O

@@ -1,0 +1,11 @@
+syndicate_24	He	O
+syndicate_24	is	O
+syndicate_24	the	O
+syndicate_24	leader	O
+syndicate_24	of	O
+syndicate_24	an	O
+syndicate_24	evil	O
+syndicate_24	crime	O
+syndicate_24	syndicate	syndicate_nou
+syndicate_24	called	O
+syndicate_24	MAD	O

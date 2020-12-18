@@ -1,0 +1,12 @@
+alternate_3	White	O
+alternate_3	is	O
+alternate_3	often	O
+alternate_3	used	O
+alternate_3	as	O
+alternate_3	a	O
+alternate_3	secondary	O
+alternate_3	color	O
+alternate_3	and	O
+alternate_3	for	O
+alternate_3	alternate	alternate_adj-nou
+alternate_3	jerseys	O

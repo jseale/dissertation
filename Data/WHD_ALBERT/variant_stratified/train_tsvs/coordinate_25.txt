@@ -1,0 +1,15 @@
+coordinate_25	This	O
+coordinate_25	can	O
+coordinate_25	be	O
+coordinate_25	defined	O
+coordinate_25	by	O
+coordinate_25	this	O
+coordinate_25	formula	O
+coordinate_25	for	O
+coordinate_25	xᵢ	O
+coordinate_25	and	O
+coordinate_25	yᵢ	O
+coordinate_25	representing	O
+coordinate_25	each	O
+coordinate_25	respective	O
+coordinate_25	coordinate	coordinate_adj-nou

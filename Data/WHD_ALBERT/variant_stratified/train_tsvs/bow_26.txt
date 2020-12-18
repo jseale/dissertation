@@ -1,0 +1,17 @@
+bow_26	In	O
+bow_26	making	O
+bow_26	a	O
+bow_26	wooden	O
+bow_26	bow	bow_nou-knot
+bow_26	the	O
+bow_26	greater	O
+bow_26	part	O
+bow_26	of	O
+bow_26	the	O
+bow_26	woodworking	O
+bow_26	is	O
+bow_26	done	O
+bow_26	on	O
+bow_26	a	O
+bow_26	straight	O
+bow_26	stick	O

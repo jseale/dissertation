@@ -1,0 +1,13 @@
+associate_74	They	O
+associate_74	associate	associate_vrb
+associate_74	spirits	O
+associate_74	with	O
+associate_74	rice	O
+associate_74	soil	O
+associate_74	water	O
+associate_74	fire	O
+associate_74	stones	O
+associate_74	paths	O
+associate_74	and	O
+associate_74	so	O
+associate_74	forth	O

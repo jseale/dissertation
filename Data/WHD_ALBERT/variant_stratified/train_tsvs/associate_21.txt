@@ -1,0 +1,9 @@
+associate_21	He	O
+associate_21	was	O
+associate_21	associate	associate_adj-nou
+associate_21	of	O
+associate_21	the	O
+associate_21	Royal	O
+associate_21	Academy	O
+associate_21	of	O
+associate_21	Sciences	O

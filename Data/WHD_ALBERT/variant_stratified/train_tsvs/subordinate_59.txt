@@ -1,0 +1,16 @@
+subordinate_59	At	O
+subordinate_59	the	O
+subordinate_59	time	O
+subordinate_59	it	O
+subordinate_59	was	O
+subordinate_59	a	O
+subordinate_59	fortress	O
+subordinate_59	subordinate	subordinate_adj-nou
+subordinate_59	to	O
+subordinate_59	Pskov	O
+subordinate_59	and	O
+subordinate_59	protecting	O
+subordinate_59	it	O
+subordinate_59	from	O
+subordinate_59	the	O
+subordinate_59	south	O

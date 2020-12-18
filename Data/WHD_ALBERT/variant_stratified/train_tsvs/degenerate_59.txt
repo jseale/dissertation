@@ -1,0 +1,12 @@
+degenerate_59	His	O
+degenerate_59	father	O
+degenerate_59	Edgar	O
+degenerate_59	Ende	O
+degenerate_59	a	O
+degenerate_59	painter	O
+degenerate_59	was	O
+degenerate_59	banned	O
+degenerate_59	as	O
+degenerate_59	degenerate	degenerate_adj-nou
+degenerate_59	in	O
+degenerate_59	1936	O

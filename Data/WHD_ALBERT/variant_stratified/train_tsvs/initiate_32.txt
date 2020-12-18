@@ -1,0 +1,13 @@
+initiate_32	It	O
+initiate_32	requires	O
+initiate_32	bishops	O
+initiate_32	throughout	O
+initiate_32	the	O
+initiate_32	Church	O
+initiate_32	to	O
+initiate_32	initiate	initiate_vrb
+initiate_32	biblical	O
+initiate_32	studies	O
+initiate_32	for	O
+initiate_32	lay	O
+initiate_32	people	O

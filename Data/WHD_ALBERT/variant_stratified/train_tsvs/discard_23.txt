@@ -1,0 +1,13 @@
+discard_23	Here	O
+discard_23	we	O
+discard_23	use	O
+discard_23	Euler	O
+discard_23	's	O
+discard_23	formula	O
+discard_23	to	O
+discard_23	identify	O
+discard_23	and	O
+discard_23	discard	discard_vrb
+discard_23	the	O
+discard_23	negative	O
+discard_23	frequency	O

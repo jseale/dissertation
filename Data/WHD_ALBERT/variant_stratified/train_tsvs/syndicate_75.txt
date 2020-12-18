@@ -1,0 +1,12 @@
+syndicate_75	Jack	O
+syndicate_75	however	O
+syndicate_75	secretly	O
+syndicate_75	organized	O
+syndicate_75	a	O
+syndicate_75	syndicate	syndicate_nou
+syndicate_75	that	O
+syndicate_75	purchased	O
+syndicate_75	control	O
+syndicate_75	of	O
+syndicate_75	the	O
+syndicate_75	company	O

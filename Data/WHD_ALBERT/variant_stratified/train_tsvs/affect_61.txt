@@ -1,0 +1,13 @@
+affect_61	Oysters	O
+affect_61	and	O
+affect_61	aquaculture	O
+affect_61	affect	affect
+affect_61	eelgrass	O
+affect_61	density	O
+affect_61	and	O
+affect_61	productivity	O
+affect_61	in	O
+affect_61	a	O
+affect_61	pacific	O
+affect_61	northwest	O
+affect_61	estuary	O

@@ -1,0 +1,9 @@
+discount_59	Discount	discount_nou
+discount_59	items	O
+discount_59	can	O
+discount_59	include	O
+discount_59	clothing	O
+discount_59	toys	O
+discount_59	flowers	O
+discount_59	and	O
+discount_59	gifts	O

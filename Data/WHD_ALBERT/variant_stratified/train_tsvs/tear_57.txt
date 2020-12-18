@@ -1,0 +1,11 @@
+tear_57	Once	O
+tear_57	you	O
+tear_57	arrest	O
+tear_57	me	O
+tear_57	thousands	O
+tear_57	of	O
+tear_57	people	O
+tear_57	will	O
+tear_57	tear	tear_vrb
+tear_57	you	O
+tear_57	apart	O

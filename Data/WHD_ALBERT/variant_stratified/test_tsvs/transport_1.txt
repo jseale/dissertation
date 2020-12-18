@@ -1,0 +1,17 @@
+transport_1	The	O
+transport_1	Group	O
+transport_1	helps	O
+transport_1	with	O
+transport_1	free	O
+transport_1	charter	O
+transport_1	flights	O
+transport_1	carrying	O
+transport_1	relief	O
+transport_1	supplies	O
+transport_1	land	O
+transport_1	transport	transport_nou
+transport_1	as	O
+transport_1	well	O
+transport_1	as	O
+transport_1	monetary	O
+transport_1	donations	O

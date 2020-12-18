@@ -1,0 +1,9 @@
+rodeo_35	Trump	O
+rodeo_35	also	O
+rodeo_35	hosted	O
+rodeo_35	rodeo	rodeo
+rodeo_35	competitions	O
+rodeo_35	between	O
+rodeo_35	local	O
+rodeo_35	ranch	O
+rodeo_35	hands	O

@@ -1,0 +1,11 @@
+progress_3	We	O
+progress_3	're	O
+progress_3	not	O
+progress_3	making	O
+progress_3	the	O
+progress_3	progress	progress_nou
+progress_3	I	O
+progress_3	want	O
+progress_3	on	O
+progress_3	meth	O
+progress_3	labs	O

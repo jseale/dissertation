@@ -1,0 +1,14 @@
+increment_71	They	O
+increment_71	can	O
+increment_71	then	O
+increment_71	use	O
+increment_71	pads	O
+increment_71	marked	O
+increment_71	Increment	increment_vrb
+increment_71	Decrement	O
+increment_71	Forward	O
+increment_71	and	O
+increment_71	Backward	O
+increment_71	to	O
+increment_71	change	O
+increment_71	settings	O

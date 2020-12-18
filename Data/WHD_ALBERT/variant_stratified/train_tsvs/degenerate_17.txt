@@ -1,0 +1,16 @@
+degenerate_17	If	O
+degenerate_17	one	O
+degenerate_17	of	O
+degenerate_17	the	O
+degenerate_17	four	O
+degenerate_17	fields	O
+degenerate_17	is	O
+degenerate_17	degenerate	degenerate_adj-nou
+degenerate_17	then	O
+degenerate_17	the	O
+degenerate_17	corresponding	O
+degenerate_17	conformal	O
+degenerate_17	blocks	O
+degenerate_17	obey	O
+degenerate_17	BPZ	O
+degenerate_17	equations	O

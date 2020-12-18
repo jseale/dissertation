@@ -1,0 +1,17 @@
+uses_40	In	O
+uses_40	his	O
+uses_40	blog	O
+uses_40	and	O
+uses_40	book	O
+uses_40	Ries	O
+uses_40	uses	uses_vrb
+uses_40	specific	O
+uses_40	terms	O
+uses_40	to	O
+uses_40	refer	O
+uses_40	to	O
+uses_40	the	O
+uses_40	core	O
+uses_40	lean	O
+uses_40	startup	O
+uses_40	principles	O

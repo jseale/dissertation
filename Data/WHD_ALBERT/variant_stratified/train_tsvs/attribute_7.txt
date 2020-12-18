@@ -1,0 +1,12 @@
+attribute_7	Sapphie	O
+attribute_7	and	O
+attribute_7	Luna	O
+attribute_7	's	O
+attribute_7	magic	O
+attribute_7	are	O
+attribute_7	examples	O
+attribute_7	of	O
+attribute_7	the	O
+attribute_7	Magical	O
+attribute_7	Blue	O
+attribute_7	attribute	attribute_nou

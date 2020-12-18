@@ -1,0 +1,17 @@
+implement_9	Prior	O
+implement_9	to	O
+implement_9	the	O
+implement_9	election	O
+implement_9	the	O
+implement_9	PQ	O
+implement_9	renounced	O
+implement_9	its	O
+implement_9	intention	O
+implement_9	to	O
+implement_9	implement	implement_vrb
+implement_9	sovereignty	O
+implement_9	association	O
+implement_9	if	O
+implement_9	it	O
+implement_9	won	O
+implement_9	power	O

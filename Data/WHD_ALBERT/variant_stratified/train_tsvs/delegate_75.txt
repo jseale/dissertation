@@ -1,0 +1,15 @@
+delegate_75	Donors	O
+delegate_75	to	O
+delegate_75	the	O
+delegate_75	Foundation	O
+delegate_75	can	O
+delegate_75	delegate	delegate_vrb
+delegate_75	their	O
+delegate_75	funding	O
+delegate_75	to	O
+delegate_75	a	O
+delegate_75	chapter	O
+delegate_75	's	O
+delegate_75	21st	O
+delegate_75	Century	O
+delegate_75	Fund	O

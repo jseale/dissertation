@@ -1,0 +1,14 @@
+defect_44	He	O
+defect_44	was	O
+defect_44	invalided	O
+defect_44	out	O
+defect_44	of	O
+defect_44	the	O
+defect_44	army	O
+defect_44	in	O
+defect_44	1916	O
+defect_44	because	O
+defect_44	of	O
+defect_44	a	O
+defect_44	heart	O
+defect_44	defect	defect_nou

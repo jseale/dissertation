@@ -1,0 +1,16 @@
+learned_69	She	O
+learned_69	learned	learned_vrb
+learned_69	to	O
+learned_69	dance	O
+learned_69	at	O
+learned_69	her	O
+learned_69	father	O
+learned_69	's	O
+learned_69	dance	O
+learned_69	studio	O
+learned_69	in	O
+learned_69	Orlando	O
+learned_69	Florida	O
+learned_69	in	O
+learned_69	the	O
+learned_69	1920s	O

@@ -1,0 +1,17 @@
+close_67	In	O
+close_67	June	O
+close_67	2010	O
+close_67	it	O
+close_67	was	O
+close_67	announced	O
+close_67	that	O
+close_67	the	O
+close_67	Museum	O
+close_67	would	O
+close_67	close	close_adj-nou
+close_67	because	O
+close_67	of	O
+close_67	Lincolnshire	O
+close_67	County	O
+close_67	Council	O
+close_67	cuts	O

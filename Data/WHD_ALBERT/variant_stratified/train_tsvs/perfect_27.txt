@@ -1,0 +1,15 @@
+perfect_27	Glenn	O
+perfect_27	Capacio	O
+perfect_27	hit	O
+perfect_27	a	O
+perfect_27	perfect	perfect_adj
+perfect_27	6-of-6	O
+perfect_27	from	O
+perfect_27	the	O
+perfect_27	three	O
+perfect_27	point	O
+perfect_27	line	O
+perfect_27	and	O
+perfect_27	scored	O
+perfect_27	24	O
+perfect_27	points	O

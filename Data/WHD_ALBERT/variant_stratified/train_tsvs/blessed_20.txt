@@ -1,0 +1,14 @@
+blessed_20	Perpetual	O
+blessed_20	adoration	O
+blessed_20	of	O
+blessed_20	the	O
+blessed_20	Blessed	blessed_adj
+blessed_20	Sacrament	O
+blessed_20	is	O
+blessed_20	one	O
+blessed_20	of	O
+blessed_20	the	O
+blessed_20	pillars	O
+blessed_20	of	O
+blessed_20	their	O
+blessed_20	life	O

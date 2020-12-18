@@ -1,0 +1,8 @@
+graduate_23	Doug	O
+graduate_23	McIntyre	O
+graduate_23	is	O
+graduate_23	a	O
+graduate_23	graduate	graduate_adj-nou
+graduate_23	of	O
+graduate_23	Stonehill	O
+graduate_23	College	O

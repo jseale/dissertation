@@ -1,0 +1,14 @@
+tear_69	The	O
+tear_69	bird	O
+tear_69	can	O
+tear_69	then	O
+tear_69	tear	tear_vrb
+tear_69	off	O
+tear_69	flesh	O
+tear_69	by	O
+tear_69	using	O
+tear_69	the	O
+tear_69	projection	O
+tear_69	as	O
+tear_69	an	O
+tear_69	anchor	O

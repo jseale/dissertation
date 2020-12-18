@@ -1,0 +1,14 @@
+reject_58	We	O
+reject_58	can	O
+reject_58	not	O
+reject_58	reject	reject_vrb
+reject_58	you	O
+reject_58	for	O
+reject_58	you	O
+reject_58	are	O
+reject_58	the	O
+reject_58	sons	O
+reject_58	and	O
+reject_58	daughters	O
+reject_58	of	O
+reject_58	God	O

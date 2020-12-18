@@ -1,0 +1,14 @@
+axes_28	Its	O
+axes_28	budget	O
+axes_28	11	O
+axes_28	of	O
+axes_28	the	O
+axes_28	total	O
+axes_28	EU	O
+axes_28	budget	O
+axes_28	is	O
+axes_28	today	O
+axes_28	allocated	O
+axes_28	along	O
+axes_28	three	O
+axes_28	axes	axes_nou

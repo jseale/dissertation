@@ -1,0 +1,17 @@
+permit_67	The	O
+permit_67	production	O
+permit_67	schedule	O
+permit_67	would	O
+permit_67	not	O
+permit_67	permit	permit_vrb
+permit_67	any	O
+permit_67	more	O
+permit_67	breaks	O
+permit_67	and	O
+permit_67	the	O
+permit_67	director	O
+permit_67	was	O
+permit_67	obliged	O
+permit_67	to	O
+permit_67	continue	O
+permit_67	shooting	O

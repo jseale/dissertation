@@ -1,0 +1,15 @@
+tear_9	He	O
+tear_9	employed	O
+tear_9	women	O
+tear_9	to	O
+tear_9	tear	tear_vrb
+tear_9	up	O
+tear_9	sheets	O
+tear_9	of	O
+tear_9	stamps	O
+tear_9	in	O
+tear_9	the	O
+tear_9	evening	O
+tear_9	from	O
+tear_9	this	O
+tear_9	address	O

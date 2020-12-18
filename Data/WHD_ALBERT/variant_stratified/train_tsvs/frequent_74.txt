@@ -1,0 +1,17 @@
+frequent_74	It	O
+frequent_74	is	O
+frequent_74	also	O
+frequent_74	associated	O
+frequent_74	with	O
+frequent_74	spontaneous	O
+frequent_74	bacterial	O
+frequent_74	peritonitis	O
+frequent_74	a	O
+frequent_74	frequent	frequent_adj
+frequent_74	complication	O
+frequent_74	occurring	O
+frequent_74	in	O
+frequent_74	patients	O
+frequent_74	affected	O
+frequent_74	by	O
+frequent_74	cirrhosis	O

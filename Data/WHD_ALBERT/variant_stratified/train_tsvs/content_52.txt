@@ -1,0 +1,12 @@
+content_52	This	O
+content_52	is	O
+content_52	due	O
+content_52	to	O
+content_52	numerous	O
+content_52	proxies	O
+content_52	representing	O
+content_52	different	O
+content_52	atmospheric	O
+content_52	carbon	O
+content_52	dioxide	O
+content_52	content	content_nou

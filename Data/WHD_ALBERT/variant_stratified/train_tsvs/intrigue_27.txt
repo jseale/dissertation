@@ -1,0 +1,15 @@
+intrigue_27	The	O
+intrigue_27	arms	O
+intrigue_27	race	O
+intrigue_27	created	O
+intrigue_27	an	O
+intrigue_27	acute	O
+intrigue_27	atmosphere	O
+intrigue_27	of	O
+intrigue_27	intrigue	intrigue_nou
+intrigue_27	in	O
+intrigue_27	French	O
+intrigue_27	counter	O
+intrigue_27	espionage	O
+intrigue_27	from	O
+intrigue_27	1890	O

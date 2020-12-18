@@ -1,0 +1,16 @@
+record_4	If	O
+record_4	two	O
+record_4	players	O
+record_4	had	O
+record_4	an	O
+record_4	identical	O
+record_4	record	record_nou
+record_4	then	O
+record_4	the	O
+record_4	result	O
+record_4	in	O
+record_4	their	O
+record_4	match	O
+record_4	determined	O
+record_4	their	O
+record_4	positions	O

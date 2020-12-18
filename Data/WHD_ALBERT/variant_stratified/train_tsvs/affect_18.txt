@@ -1,0 +1,12 @@
+affect_18	Most	O
+affect_18	toxicants	O
+affect_18	are	O
+affect_18	known	O
+affect_18	to	O
+affect_18	affect	affect
+affect_18	only	O
+affect_18	a	O
+affect_18	fraction	O
+affect_18	of	O
+affect_18	exposed	O
+affect_18	population	O

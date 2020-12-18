@@ -1,0 +1,9 @@
+rerelease_24	No	O
+rerelease_24	limited	O
+rerelease_24	edition	O
+rerelease_24	sticker	O
+rerelease_24	has	O
+rerelease_24	yet	O
+rerelease_24	seen	O
+rerelease_24	a	O
+rerelease_24	rerelease	rerelease

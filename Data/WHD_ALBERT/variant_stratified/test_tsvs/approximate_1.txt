@@ -1,0 +1,15 @@
+approximate_1	The	O
+approximate_1	same	O
+approximate_1	approximate	approximate_adj-nou
+approximate_1	meaning	O
+approximate_1	is	O
+approximate_1	used	O
+approximate_1	across	O
+approximate_1	the	O
+approximate_1	Finnic	O
+approximate_1	languages	O
+approximate_1	such	O
+approximate_1	as	O
+approximate_1	in	O
+approximate_1	Estonian	O
+approximate_1	leil	O

@@ -1,0 +1,15 @@
+increase_29	Another	O
+increase_29	result	O
+increase_29	of	O
+increase_29	the	O
+increase_29	increase	increase_nou
+increase_29	in	O
+increase_29	foreign	O
+increase_29	travel	O
+increase_29	is	O
+increase_29	the	O
+increase_29	growth	O
+increase_29	of	O
+increase_29	trade	O
+increase_29	between	O
+increase_29	nations	O

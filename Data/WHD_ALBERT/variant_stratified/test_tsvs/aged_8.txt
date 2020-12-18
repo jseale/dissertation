@@ -1,0 +1,7 @@
+aged_8	He	O
+aged_8	died	O
+aged_8	aged	aged
+aged_8	80	O
+aged_8	at	O
+aged_8	Limpsfield	O
+aged_8	England	O

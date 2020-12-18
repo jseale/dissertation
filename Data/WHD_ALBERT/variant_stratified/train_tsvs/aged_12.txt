@@ -1,0 +1,17 @@
+aged_12	It	O
+aged_12	is	O
+aged_12	known	O
+aged_12	from	O
+aged_12	the	O
+aged_12	Callovian	O
+aged_12	aged	aged
+aged_12	Middle	O
+aged_12	Jurassic	O
+aged_12	deposits	O
+aged_12	of	O
+aged_12	the	O
+aged_12	Oxford	O
+aged_12	clay	O
+aged_12	formation	O
+aged_12	of	O
+aged_12	England	O

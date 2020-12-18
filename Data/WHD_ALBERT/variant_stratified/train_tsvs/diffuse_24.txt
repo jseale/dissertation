@@ -1,0 +1,12 @@
+diffuse_24	They	O
+diffuse_24	were	O
+diffuse_24	the	O
+diffuse_24	first	O
+diffuse_24	to	O
+diffuse_24	use	O
+diffuse_24	the	O
+diffuse_24	term	O
+diffuse_24	diffuse	diffuse_adj
+diffuse_24	for	O
+diffuse_24	the	O
+diffuse_24	lines	O

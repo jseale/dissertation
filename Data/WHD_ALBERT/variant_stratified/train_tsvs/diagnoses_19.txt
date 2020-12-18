@@ -1,0 +1,14 @@
+diagnoses_19	Angiography	O
+diagnoses_19	is	O
+diagnoses_19	typically	O
+diagnoses_19	not	O
+diagnoses_19	necessary	O
+diagnoses_19	unless	O
+diagnoses_19	it	O
+diagnoses_19	is	O
+diagnoses_19	required	O
+diagnoses_19	to	O
+diagnoses_19	rule	O
+diagnoses_19	out	O
+diagnoses_19	other	O
+diagnoses_19	diagnoses	diagnoses_nou

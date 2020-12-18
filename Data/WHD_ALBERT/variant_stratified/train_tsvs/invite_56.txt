@@ -1,0 +1,17 @@
+invite_56	To	O
+invite_56	prove	O
+invite_56	them	O
+invite_56	wrong	O
+invite_56	Phil	O
+invite_56	says	O
+invite_56	he	O
+invite_56	will	O
+invite_56	ask	O
+invite_56	Alex	O
+invite_56	to	O
+invite_56	invite	invite_vrb
+invite_56	her	O
+invite_56	boyfriend	O
+invite_56	to	O
+invite_56	the	O
+invite_56	house	O

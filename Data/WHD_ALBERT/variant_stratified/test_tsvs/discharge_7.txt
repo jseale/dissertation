@@ -1,0 +1,9 @@
+discharge_7	The	O
+discharge_7	overall	O
+discharge_7	amount	O
+discharge_7	of	O
+discharge_7	vaginal	O
+discharge_7	discharge	discharge_nou
+discharge_7	decreases	O
+discharge_7	in	O
+discharge_7	menopause	O

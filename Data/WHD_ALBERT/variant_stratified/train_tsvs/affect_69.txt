@@ -1,0 +1,15 @@
+affect_69	Increased	O
+affect_69	serum	O
+affect_69	prolactin	O
+affect_69	PRL	O
+affect_69	concentration	O
+affect_69	in	O
+affect_69	patients	O
+affect_69	brains	O
+affect_69	from	O
+affect_69	psychiatric	O
+affect_69	medicine	O
+affect_69	can	O
+affect_69	also	O
+affect_69	affect	affect
+affect_69	sexuality	O

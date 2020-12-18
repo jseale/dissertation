@@ -1,0 +1,8 @@
+consummate_73	They	O
+consummate_73	finally	O
+consummate_73	consummate	consummate_vrb
+consummate_73	their	O
+consummate_73	relationship	O
+consummate_73	in	O
+consummate_73	September	O
+consummate_73	1963	O

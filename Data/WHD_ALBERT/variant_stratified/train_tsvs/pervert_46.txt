@@ -1,0 +1,15 @@
+pervert_46	His	O
+pervert_46	debut	O
+pervert_46	comedy	O
+pervert_46	album	O
+pervert_46	Pervert	pervert_nou
+pervert_46	has	O
+pervert_46	appeared	O
+pervert_46	in	O
+pervert_46	the	O
+pervert_46	top	O
+pervert_46	40	O
+pervert_46	comedy	O
+pervert_46	albums	O
+pervert_46	on	O
+pervert_46	iTunes	O

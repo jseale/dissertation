@@ -1,0 +1,8 @@
+sow_29	They	O
+sow_29	plow	O
+sow_29	sow	sow
+sow_29	weed	O
+sow_29	harvest	O
+sow_29	and	O
+sow_29	transport	O
+sow_29	crops	O

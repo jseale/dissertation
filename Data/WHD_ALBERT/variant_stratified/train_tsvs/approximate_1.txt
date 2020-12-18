@@ -1,0 +1,16 @@
+approximate_1	The	O
+approximate_1	stadium	O
+approximate_1	which	O
+approximate_1	covers	O
+approximate_1	one	O
+approximate_1	full	O
+approximate_1	city	O
+approximate_1	block	O
+approximate_1	has	O
+approximate_1	an	O
+approximate_1	approximate	approximate_adj-nou
+approximate_1	capacity	O
+approximate_1	of	O
+approximate_1	six	O
+approximate_1	thousand	O
+approximate_1	spectators	O

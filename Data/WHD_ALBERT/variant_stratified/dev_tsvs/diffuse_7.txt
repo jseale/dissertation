@@ -1,0 +1,13 @@
+diffuse_7	To	O
+diffuse_7	diffuse	diffuse_vrb
+diffuse_7	among	O
+diffuse_7	people	O
+diffuse_7	the	O
+diffuse_7	knowledge	O
+diffuse_7	of	O
+diffuse_7	the	O
+diffuse_7	laws	O
+diffuse_7	inherent	O
+diffuse_7	in	O
+diffuse_7	the	O
+diffuse_7	Universe	O

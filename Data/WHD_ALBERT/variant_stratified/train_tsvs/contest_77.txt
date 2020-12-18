@@ -1,0 +1,14 @@
+contest_77	In	O
+contest_77	the	O
+contest_77	National	O
+contest_77	Assembly	O
+contest_77	elections	O
+contest_77	several	O
+contest_77	UDPM	O
+contest_77	candidates	O
+contest_77	were	O
+contest_77	able	O
+contest_77	to	O
+contest_77	contest	contest_vrb
+contest_77	each	O
+contest_77	seat	O

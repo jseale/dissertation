@@ -1,0 +1,10 @@
+insult_6	It	O
+insult_6	is	O
+insult_6	sometimes	O
+insult_6	pronounced	O
+insult_6	Hafsi	O
+insult_6	and	O
+insult_6	is	O
+insult_6	considered	O
+insult_6	an	O
+insult_6	insult	insult_nou

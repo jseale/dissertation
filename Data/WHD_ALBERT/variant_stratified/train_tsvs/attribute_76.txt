@@ -1,0 +1,15 @@
+attribute_76	An	O
+attribute_76	author	O
+attribute_76	or	O
+attribute_76	speaker	O
+attribute_76	who	O
+attribute_76	fails	O
+attribute_76	to	O
+attribute_76	attribute	attribute_vrb
+attribute_76	secondary	O
+attribute_76	sources	O
+attribute_76	may	O
+attribute_76	also	O
+attribute_76	violate	O
+attribute_76	geneivat	O
+attribute_76	da'at	O

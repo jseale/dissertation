@@ -1,0 +1,14 @@
+sake_33	They	O
+sake_33	should	O
+sake_33	stop	O
+sake_33	this	O
+sake_33	hearsay	O
+sake_33	for	O
+sake_33	the	O
+sake_33	sake	sake
+sake_33	of	O
+sake_33	the	O
+sake_33	oppressed	O
+sake_33	brothers	O
+sake_33	of	O
+sake_33	Kashmir	O

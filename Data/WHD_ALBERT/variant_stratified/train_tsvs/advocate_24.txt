@@ -1,0 +1,9 @@
+advocate_24	The	O
+advocate_24	prosecution	O
+advocate_24	was	O
+advocate_24	not	O
+advocate_24	conducted	O
+advocate_24	by	O
+advocate_24	the	O
+advocate_24	judge	O
+advocate_24	advocate	advocate_nou

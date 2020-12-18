@@ -1,0 +1,16 @@
+delegate_49	Therese	O
+delegate_49	Alberta	O
+delegate_49	Parkinson	O
+delegate_49	Jenkins	O
+delegate_49	delegate	delegate_nou
+delegate_49	from	O
+delegate_49	Wyoming	O
+delegate_49	cast	O
+delegate_49	the	O
+delegate_49	first	O
+delegate_49	vote	O
+delegate_49	by	O
+delegate_49	a	O
+delegate_49	woman	O
+delegate_49	for	O
+delegate_49	president	O

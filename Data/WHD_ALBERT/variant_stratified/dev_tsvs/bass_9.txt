@@ -1,0 +1,11 @@
+bass_9	It	O
+bass_9	is	O
+bass_9	a	O
+bass_9	location	O
+bass_9	for	O
+bass_9	bass	bass_corp
+bass_9	channel	O
+bass_9	catfish	O
+bass_9	and	O
+bass_9	bream	O
+bass_9	fishing	O

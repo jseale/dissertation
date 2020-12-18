@@ -1,0 +1,16 @@
+intrigue_35	This	O
+intrigue_35	poetic	O
+intrigue_35	and	O
+intrigue_35	initiatory	O
+intrigue_35	account	O
+intrigue_35	with	O
+intrigue_35	its	O
+intrigue_35	rather	O
+intrigue_35	obscure	O
+intrigue_35	intrigue	intrigue_nou
+intrigue_35	bears	O
+intrigue_35	the	O
+intrigue_35	imprint	O
+intrigue_35	of	O
+intrigue_35	German	O
+intrigue_35	Romanticism	O

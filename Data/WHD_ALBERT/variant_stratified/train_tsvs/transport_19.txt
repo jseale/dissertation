@@ -1,0 +1,15 @@
+transport_19	This	O
+transport_19	trade	O
+transport_19	accounts	O
+transport_19	for	O
+transport_19	24	O
+transport_19	per	O
+transport_19	cent	O
+transport_19	by	O
+transport_19	weight	O
+transport_19	of	O
+transport_19	internal	O
+transport_19	goods	O
+transport_19	transport	transport_nou
+transport_19	in	O
+transport_19	Britain	O

@@ -1,0 +1,15 @@
+pervert_13	She	O
+pervert_13	mistakes	O
+pervert_13	him	O
+pervert_13	for	O
+pervert_13	a	O
+pervert_13	pervert	pervert_nou
+pervert_13	at	O
+pervert_13	first	O
+pervert_13	but	O
+pervert_13	later	O
+pervert_13	falls	O
+pervert_13	in	O
+pervert_13	love	O
+pervert_13	with	O
+pervert_13	him	O

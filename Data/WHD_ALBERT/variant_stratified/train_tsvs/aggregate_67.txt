@@ -1,0 +1,15 @@
+aggregate_67	He	O
+aggregate_67	had	O
+aggregate_67	6	O
+aggregate_67	caps	O
+aggregate_67	from	O
+aggregate_67	1994	O
+aggregate_67	to	O
+aggregate_67	1999	O
+aggregate_67	scoring	O
+aggregate_67	1	O
+aggregate_67	try	O
+aggregate_67	5	O
+aggregate_67	points	O
+aggregate_67	on	O
+aggregate_67	aggregate	aggregate_adj-nou

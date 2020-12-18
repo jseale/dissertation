@@ -1,0 +1,11 @@
+insult_46	Now	O
+insult_46	that	O
+insult_46	's	O
+insult_46	what	O
+insult_46	you	O
+insult_46	might	O
+insult_46	call	O
+insult_46	adding	O
+insult_46	insult	insult_nou
+insult_46	to	O
+insult_46	injury	O

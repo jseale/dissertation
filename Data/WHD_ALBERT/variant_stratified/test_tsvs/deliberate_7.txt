@@ -1,0 +1,10 @@
+deliberate_7	He	O
+deliberate_7	is	O
+deliberate_7	also	O
+deliberate_7	known	O
+deliberate_7	for	O
+deliberate_7	his	O
+deliberate_7	slow	O
+deliberate_7	deliberate	deliberate_adj
+deliberate_7	throwing	O
+deliberate_7	style	O

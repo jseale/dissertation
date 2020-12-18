@@ -1,0 +1,16 @@
+refuse_2	Today	O
+refuse_2	it	O
+refuse_2	is	O
+refuse_2	a	O
+refuse_2	common	O
+refuse_2	fixture	O
+refuse_2	at	O
+refuse_2	refuse	refuse_nou
+refuse_2	dumps	O
+refuse_2	both	O
+refuse_2	along	O
+refuse_2	coasts	O
+refuse_2	and	O
+refuse_2	relatively	O
+refuse_2	far	O
+refuse_2	inland	O

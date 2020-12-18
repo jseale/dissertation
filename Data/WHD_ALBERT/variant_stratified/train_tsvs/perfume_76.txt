@@ -1,0 +1,17 @@
+perfume_76	Normally	O
+perfume_76	the	O
+perfume_76	wine	O
+perfume_76	is	O
+perfume_76	made	O
+perfume_76	dry	O
+perfume_76	but	O
+perfume_76	the	O
+perfume_76	fruitiness	O
+perfume_76	and	O
+perfume_76	perfume	perfume_nou
+perfume_76	of	O
+perfume_76	the	O
+perfume_76	bouquet	O
+perfume_76	can	O
+perfume_76	suggest	O
+perfume_76	sweetness	O

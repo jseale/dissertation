@@ -1,0 +1,15 @@
+animate_17	This	O
+animate_17	book	O
+animate_17	of	O
+animate_17	the	O
+animate_17	Duchess	O
+animate_17	is	O
+animate_17	a	O
+animate_17	learned	O
+animate_17	invention	O
+animate_17	and	O
+animate_17	yet	O
+animate_17	a	O
+animate_17	fully	O
+animate_17	animate	animate_adj-nou
+animate_17	one	O

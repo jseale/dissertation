@@ -1,0 +1,14 @@
+blessed_1	Blessed	blessed_adj
+blessed_1	John	O
+blessed_1	Paul	O
+blessed_1	II	O
+blessed_1	elevated	O
+blessed_1	it	O
+blessed_1	to	O
+blessed_1	a	O
+blessed_1	Vicariate	O
+blessed_1	Apostolic	O
+blessed_1	on	O
+blessed_1	13	O
+blessed_1	February	O
+blessed_1	2001	O

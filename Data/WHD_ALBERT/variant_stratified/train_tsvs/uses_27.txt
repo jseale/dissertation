@@ -1,0 +1,9 @@
+uses_27	This	O
+uses_27	swimming	O
+uses_27	event	O
+uses_27	uses	uses_vrb
+uses_27	medley	O
+uses_27	swimming	O
+uses_27	as	O
+uses_27	a	O
+uses_27	relay	O

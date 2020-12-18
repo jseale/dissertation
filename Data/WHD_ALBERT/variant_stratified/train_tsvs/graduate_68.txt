@@ -1,0 +1,14 @@
+graduate_68	The	O
+graduate_68	spokesperson	O
+graduate_68	later	O
+graduate_68	spokespeople	O
+graduate_68	were	O
+graduate_68	also	O
+graduate_68	selected	O
+graduate_68	by	O
+graduate_68	collaboration	O
+graduate_68	wide	O
+graduate_68	vote	O
+graduate_68	including	O
+graduate_68	graduate	graduate_adj-nou
+graduate_68	students	O

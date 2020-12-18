@@ -1,0 +1,16 @@
+abuses_78	Lyrically	O
+abuses_78	the	O
+abuses_78	track	O
+abuses_78	is	O
+abuses_78	written	O
+abuses_78	about	O
+abuses_78	a	O
+abuses_78	failing	O
+abuses_78	relationship	O
+abuses_78	caused	O
+abuses_78	by	O
+abuses_78	a	O
+abuses_78	lover	O
+abuses_78	who	O
+abuses_78	abuses	abuses_vrb
+abuses_78	alcohol	O

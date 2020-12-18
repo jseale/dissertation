@@ -1,0 +1,16 @@
+incline_19	He	O
+incline_19	came	O
+incline_19	to	O
+incline_19	Pittsburgh	O
+incline_19	and	O
+incline_19	was	O
+incline_19	associated	O
+incline_19	with	O
+incline_19	John	O
+incline_19	Endres	O
+incline_19	the	O
+incline_19	builder	O
+incline_19	of	O
+incline_19	the	O
+incline_19	Monongahela	O
+incline_19	Incline	incline_nou

@@ -1,0 +1,14 @@
+degenerate_7	Then	O
+degenerate_7	the	O
+degenerate_7	lines	O
+degenerate_7	connecting	O
+degenerate_7	corresponding	O
+degenerate_7	points	O
+degenerate_7	form	O
+degenerate_7	a	O
+degenerate_7	dual	O
+degenerate_7	non	O
+degenerate_7	degenerate	degenerate_adj-nou
+degenerate_7	projective	O
+degenerate_7	conic	O
+degenerate_7	section	O

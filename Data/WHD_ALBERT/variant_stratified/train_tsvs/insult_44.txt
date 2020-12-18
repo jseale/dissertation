@@ -1,0 +1,9 @@
+insult_44	We	O
+insult_44	wo	O
+insult_44	n't	O
+insult_44	allow	O
+insult_44	this	O
+insult_44	insult	insult_nou
+insult_44	to	O
+insult_44	our	O
+insult_44	religion	O

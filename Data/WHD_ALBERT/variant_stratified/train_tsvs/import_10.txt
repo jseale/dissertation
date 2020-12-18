@@ -1,0 +1,11 @@
+import_10	And	O
+import_10	the	O
+import_10	money	O
+import_10	of	O
+import_10	import	import_nou
+import_10	and	O
+import_10	export	O
+import_10	totaled	O
+import_10	$	O
+import_10	8.0118	O
+import_10	million	O

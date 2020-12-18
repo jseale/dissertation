@@ -1,0 +1,13 @@
+laminate_34	Their	O
+laminate_34	acoustics	O
+laminate_34	were	O
+laminate_34	all	O
+laminate_34	laminates	O
+laminate_34	meaning	O
+laminate_34	they	O
+laminate_34	had	O
+laminate_34	a	O
+laminate_34	laminate	laminate_nou
+laminate_34	top	O
+laminate_34	back	O
+laminate_34	sides	O

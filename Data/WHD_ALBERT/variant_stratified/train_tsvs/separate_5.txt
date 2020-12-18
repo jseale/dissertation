@@ -1,0 +1,12 @@
+separate_5	Permanent	O
+separate_5	Me	O
+separate_5	decided	O
+separate_5	in	O
+separate_5	March	O
+separate_5	2008	O
+separate_5	to	O
+separate_5	disband	O
+separate_5	go	O
+separate_5	their	O
+separate_5	separate	separate_adj
+separate_5	ways	O

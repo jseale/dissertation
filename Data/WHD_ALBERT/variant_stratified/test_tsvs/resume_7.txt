@@ -1,0 +1,15 @@
+resume_7	Before	O
+resume_7	he	O
+resume_7	could	O
+resume_7	resume	resume_vrb
+resume_7	work	O
+resume_7	on	O
+resume_7	his	O
+resume_7	feature	O
+resume_7	projects	O
+resume_7	he	O
+resume_7	died	O
+resume_7	on	O
+resume_7	11	O
+resume_7	November	O
+resume_7	1959	O

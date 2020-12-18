@@ -1,0 +1,11 @@
+increase_14	The	O
+increase_14	secession	O
+increase_14	issue	O
+increase_14	eventually	O
+increase_14	died	O
+increase_14	down	O
+increase_14	from	O
+increase_14	the	O
+increase_14	nominal	O
+increase_14	tax	O
+increase_14	increase	increase_nou

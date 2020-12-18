@@ -1,0 +1,14 @@
+buffet_51	This	O
+buffet_51	was	O
+buffet_51	the	O
+buffet_51	first	O
+buffet_51	multi	O
+buffet_51	cuisine	O
+buffet_51	buffet	buffet_nou
+buffet_51	restaurant	O
+buffet_51	of	O
+buffet_51	its	O
+buffet_51	kind	O
+buffet_51	in	O
+buffet_51	the	O
+buffet_51	UK	O

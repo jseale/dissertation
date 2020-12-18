@@ -1,0 +1,9 @@
+conjugate_42	However	O
+conjugate_42	mmf	O
+conjugate_42	and	O
+conjugate_42	φ	O
+conjugate_42	are	O
+conjugate_42	not	O
+conjugate_42	power	O
+conjugate_42	conjugate	conjugate_adj-nou
+conjugate_42	variables	O

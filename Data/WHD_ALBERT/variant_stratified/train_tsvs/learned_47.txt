@@ -1,0 +1,15 @@
+learned_47	Under	O
+learned_47	these	O
+learned_47	pressures	O
+learned_47	the	O
+learned_47	victim	O
+learned_47	can	O
+learned_47	fall	O
+learned_47	into	O
+learned_47	the	O
+learned_47	hopeless	O
+learned_47	mental	O
+learned_47	state	O
+learned_47	of	O
+learned_47	learned	learned_vrb
+learned_47	helplessness	O

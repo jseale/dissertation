@@ -1,0 +1,16 @@
+insert_4	Instead	O
+insert_4	the	O
+insert_4	excuse	O
+insert_4	given	O
+insert_4	for	O
+insert_4	Gangrel	O
+insert_4	and	O
+insert_4	Viscera	O
+insert_4	's	O
+insert_4	insert	insert_nou
+insert_4	was	O
+insert_4	that	O
+insert_4	JBL	O
+insert_4	paid	O
+insert_4	them	O
+insert_4	off	O

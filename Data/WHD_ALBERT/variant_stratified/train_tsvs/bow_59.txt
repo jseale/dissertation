@@ -1,0 +1,12 @@
+bow_59	She	O
+bow_59	was	O
+bow_59	armed	O
+bow_59	with	O
+bow_59	ten	O
+bow_59	12-pounder	O
+bow_59	carronades	O
+bow_59	and	O
+bow_59	two	O
+bow_59	6-pounder	O
+bow_59	bow	bow_nou-ship
+bow_59	guns	O

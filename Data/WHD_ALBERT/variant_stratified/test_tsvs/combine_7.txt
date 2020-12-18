@@ -1,0 +1,14 @@
+combine_7	Can	O
+combine_7	I	O
+combine_7	combine	combine_vrb
+combine_7	a	O
+combine_7	Creative	O
+combine_7	Commons	O
+combine_7	licensed	O
+combine_7	work	O
+combine_7	with	O
+combine_7	another	O
+combine_7	non	O
+combine_7	CC	O
+combine_7	licensed	O
+combine_7	work	O

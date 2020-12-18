@@ -1,0 +1,17 @@
+live_62	They	O
+live_62	are	O
+live_62	described	O
+live_62	as	O
+live_62	stupid	O
+live_62	vicious	O
+live_62	and	O
+live_62	live	live_vrb
+live_62	in	O
+live_62	violent	O
+live_62	matriarchies	O
+live_62	with	O
+live_62	a	O
+live_62	religious	O
+live_62	emphasis	O
+live_62	on	O
+live_62	devouring	O

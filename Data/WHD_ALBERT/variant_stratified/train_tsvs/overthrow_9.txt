@@ -1,0 +1,17 @@
+overthrow_9	He	O
+overthrow_9	served	O
+overthrow_9	as	O
+overthrow_9	President	O
+overthrow_9	of	O
+overthrow_9	Venezuela	O
+overthrow_9	following	O
+overthrow_9	the	O
+overthrow_9	overthrow	overthrow_nou
+overthrow_9	of	O
+overthrow_9	Marcos	O
+overthrow_9	Pérez	O
+overthrow_9	Jiménez	O
+overthrow_9	on	O
+overthrow_9	23	O
+overthrow_9	January	O
+overthrow_9	1958	O

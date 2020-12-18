@@ -1,0 +1,17 @@
+nestle_5	Company	O
+nestle_5	also	O
+nestle_5	works	O
+nestle_5	with	O
+nestle_5	global	O
+nestle_5	names	O
+nestle_5	such	O
+nestle_5	as	O
+nestle_5	Nestle	nestle_nam
+nestle_5	Mercedes	O
+nestle_5	Benz	O
+nestle_5	Apple	O
+nestle_5	Inc.	O
+nestle_5	Samsung	O
+nestle_5	Microsoft	O
+nestle_5	and	O
+nestle_5	BP	O

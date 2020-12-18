@@ -1,0 +1,16 @@
+duplicate_28	It	O
+duplicate_28	was	O
+duplicate_28	assigned	O
+duplicate_28	to	O
+duplicate_28	the	O
+duplicate_28	2nd	O
+duplicate_28	Wessex	O
+duplicate_28	Division	O
+duplicate_28	the	O
+duplicate_28	2nd	O
+duplicate_28	Line	O
+duplicate_28	duplicate	duplicate_adj-nou
+duplicate_28	of	O
+duplicate_28	the	O
+duplicate_28	Wessex	O
+duplicate_28	Division	O

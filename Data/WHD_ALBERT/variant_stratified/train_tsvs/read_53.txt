@@ -1,0 +1,16 @@
+read_53	The	O
+read_53	book	O
+read_53	is	O
+read_53	also	O
+read_53	available	O
+read_53	in	O
+read_53	an	O
+read_53	audiobook	O
+read_53	adaptation	O
+read_53	read	read_present
+read_53	by	O
+read_53	James	O
+read_53	Doohan	O
+read_53	and	O
+read_53	Leonard	O
+read_53	Nimoy	O

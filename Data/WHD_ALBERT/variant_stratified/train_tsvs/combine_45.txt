@@ -1,0 +1,14 @@
+combine_45	Touches	O
+combine_45	of	O
+combine_45	jazz	O
+combine_45	folk	O
+combine_45	and	O
+combine_45	even	O
+combine_45	mild	O
+combine_45	funk	O
+combine_45	combine	combine_vrb
+combine_45	to	O
+combine_45	produce	O
+combine_45	a	O
+combine_45	fine	O
+combine_45	landscape	O

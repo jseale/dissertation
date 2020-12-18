@@ -1,0 +1,14 @@
+lead_35	NOAA	O
+lead_35	was	O
+lead_35	one	O
+lead_35	of	O
+lead_35	the	O
+lead_35	lead	lead_nou-vrb
+lead_35	agencies	O
+lead_35	responsible	O
+lead_35	for	O
+lead_35	responding	O
+lead_35	to	O
+lead_35	the	O
+lead_35	oil	O
+lead_35	spill	O

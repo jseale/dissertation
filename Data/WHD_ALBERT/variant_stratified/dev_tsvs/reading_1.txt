@@ -1,0 +1,15 @@
+reading_1	Certain	O
+reading_1	statistics	O
+reading_1	such	O
+reading_1	as	O
+reading_1	combat	O
+reading_1	skill	O
+reading_1	and	O
+reading_1	endurance	O
+reading_1	attributes	O
+reading_1	are	O
+reading_1	determined	O
+reading_1	randomly	O
+reading_1	before	O
+reading_1	play	O
+reading_1	reading	reading_en

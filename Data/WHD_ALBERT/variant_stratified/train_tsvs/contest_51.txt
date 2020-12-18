@@ -1,0 +1,11 @@
+contest_51	The	O
+contest_51	contest	contest_nou
+contest_51	consisted	O
+contest_51	of	O
+contest_51	making	O
+contest_51	the	O
+contest_51	best	O
+contest_51	open	O
+contest_51	source	O
+contest_51	GP32	O
+contest_51	game	O

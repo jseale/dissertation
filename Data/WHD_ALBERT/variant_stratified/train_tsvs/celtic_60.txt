@@ -1,0 +1,10 @@
+celtic_60	Donnelly	O
+celtic_60	converted	O
+celtic_60	the	O
+celtic_60	resultant	O
+celtic_60	spot	O
+celtic_60	kick	O
+celtic_60	to	O
+celtic_60	put	O
+celtic_60	Celtic	celtic_adj-nou-sports
+celtic_60	ahead	O

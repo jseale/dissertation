@@ -1,0 +1,14 @@
+advocate_26	Kilmer	O
+advocate_26	is	O
+advocate_26	a	O
+advocate_26	supporter	O
+advocate_26	of	O
+advocate_26	Native	O
+advocate_26	American	O
+advocate_26	affairs	O
+advocate_26	and	O
+advocate_26	an	O
+advocate_26	advocate	advocate_nou
+advocate_26	of	O
+advocate_26	environmental	O
+advocate_26	protection	O

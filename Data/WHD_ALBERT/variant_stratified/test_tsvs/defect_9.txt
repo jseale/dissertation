@@ -1,0 +1,15 @@
+defect_9	The	O
+defect_9	distraught	O
+defect_9	Brigitte	O
+defect_9	tries	O
+defect_9	to	O
+defect_9	persuade	O
+defect_9	him	O
+defect_9	to	O
+defect_9	defect	defect_vrb
+defect_9	but	O
+defect_9	he	O
+defect_9	returns	O
+defect_9	to	O
+defect_9	North	O
+defect_9	Africa	O

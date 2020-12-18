@@ -1,0 +1,16 @@
+uses_11	Danish	O
+uses_11	uses	uses_vrb
+uses_11	the	O
+uses_11	separate	O
+uses_11	reflexive	O
+uses_11	pronoun	O
+uses_11	sig	O
+uses_11	for	O
+uses_11	third	O
+uses_11	person	O
+uses_11	pronouns	O
+uses_11	and	O
+uses_11	selv	O
+uses_11	to	O
+uses_11	mark	O
+uses_11	intensive	O

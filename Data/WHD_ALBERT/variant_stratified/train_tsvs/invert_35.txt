@@ -1,0 +1,15 @@
+invert_35	The	O
+invert_35	board	O
+invert_35	of	O
+invert_35	directors	O
+invert_35	induce	O
+invert_35	Nelson	O
+invert_35	to	O
+invert_35	partake	O
+invert_35	in	O
+invert_35	an	O
+invert_35	experiment	O
+invert_35	to	O
+invert_35	re	O
+invert_35	invert	invert_vrb
+invert_35	him	O

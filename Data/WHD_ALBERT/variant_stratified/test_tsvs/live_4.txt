@@ -1,0 +1,16 @@
+live_4	The	O
+live_4	live	live_adj
+live_4	version	O
+live_4	of	O
+live_4	Da	O
+live_4	Doo	O
+live_4	Ron	O
+live_4	Ron	O
+live_4	features	O
+live_4	the	O
+live_4	band	O
+live_4	The	O
+live_4	Crystals	O
+live_4	backing	O
+live_4	up	O
+live_4	Cassidy	O

@@ -1,0 +1,14 @@
+winds_28	The	O
+winds_28	winds	winds_nou
+winds_28	quickly	O
+winds_28	decrease	O
+winds_28	towards	O
+winds_28	the	O
+winds_28	higher	O
+winds_28	latitudes	O
+winds_28	eventually	O
+winds_28	reaching	O
+winds_28	zero	O
+winds_28	at	O
+winds_28	the	O
+winds_28	poles	O

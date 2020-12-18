@@ -1,0 +1,16 @@
+affect_2	This	O
+affect_2	is	O
+affect_2	based	O
+affect_2	on	O
+affect_2	research	O
+affect_2	that	O
+affect_2	suggests	O
+affect_2	that	O
+affect_2	a	O
+affect_2	single	O
+affect_2	individual	O
+affect_2	can	O
+affect_2	significantly	O
+affect_2	affect	affect
+affect_2	a	O
+affect_2	group	O

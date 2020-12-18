@@ -1,0 +1,12 @@
+winds_36	The	O
+winds_36	winds	winds_nou
+winds_36	peeled	O
+winds_36	off	O
+winds_36	tin	O
+winds_36	roofs	O
+winds_36	allowing	O
+winds_36	rainwater	O
+winds_36	to	O
+winds_36	douse	O
+winds_36	home	O
+winds_36	interiors	O

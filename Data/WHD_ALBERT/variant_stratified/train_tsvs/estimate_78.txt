@@ -1,0 +1,14 @@
+estimate_78	Dorset	O
+estimate_78	County	O
+estimate_78	Council	O
+estimate_78	estimate	estimate_vrb
+estimate_78	that	O
+estimate_78	in	O
+estimate_78	2013	O
+estimate_78	the	O
+estimate_78	population	O
+estimate_78	of	O
+estimate_78	the	O
+estimate_78	parish	O
+estimate_78	was	O
+estimate_78	330	O

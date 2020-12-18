@@ -1,0 +1,14 @@
+discard_78	Specializes	O
+discard_78	in	O
+discard_78	Combat	O
+discard_78	and	O
+discard_78	drawing	O
+discard_78	new	O
+discard_78	cards	O
+discard_78	and	O
+discard_78	to	O
+discard_78	force	O
+discard_78	opponent	O
+discard_78	to	O
+discard_78	discard	discard_vrb
+discard_78	cards	O

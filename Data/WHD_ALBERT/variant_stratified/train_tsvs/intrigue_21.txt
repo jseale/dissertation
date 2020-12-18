@@ -1,0 +1,15 @@
+intrigue_21	His	O
+intrigue_21	mastery	O
+intrigue_21	of	O
+intrigue_21	political	O
+intrigue_21	intrigue	intrigue_nou
+intrigue_21	sometimes	O
+intrigue_21	led	O
+intrigue_21	him	O
+intrigue_21	to	O
+intrigue_21	publish	O
+intrigue_21	books	O
+intrigue_21	that	O
+intrigue_21	anticipated	O
+intrigue_21	crisis	O
+intrigue_21	events	O

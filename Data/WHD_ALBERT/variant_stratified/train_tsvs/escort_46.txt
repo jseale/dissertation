@@ -1,0 +1,13 @@
+escort_46	The	O
+escort_46	Escort	escort_nou
+escort_46	was	O
+escort_46	Britain	O
+escort_46	's	O
+escort_46	best	O
+escort_46	selling	O
+escort_46	small	O
+escort_46	family	O
+escort_46	car	O
+escort_46	throughout	O
+escort_46	the	O
+escort_46	decade	O

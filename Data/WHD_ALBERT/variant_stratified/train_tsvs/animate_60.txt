@@ -1,0 +1,17 @@
+animate_60	His	O
+animate_60	first	O
+animate_60	freelance	O
+animate_60	job	O
+animate_60	was	O
+animate_60	to	O
+animate_60	animate	animate_vrb
+animate_60	deaths	O
+animate_60	for	O
+animate_60	Gorilla	O
+animate_60	2	O
+animate_60	The	O
+animate_60	Return	O
+animate_60	the	O
+animate_60	sequel	O
+animate_60	to	O
+animate_60	Gorillas	O

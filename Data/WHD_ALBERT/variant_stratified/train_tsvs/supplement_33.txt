@@ -1,0 +1,14 @@
+supplement_33	Reading	O
+supplement_33	School	O
+supplement_33	District	O
+supplement_33	received	O
+supplement_33	a	O
+supplement_33	$	O
+supplement_33	9,265,619	O
+supplement_33	supplement	supplement_nou
+supplement_33	for	O
+supplement_33	special	O
+supplement_33	education	O
+supplement_33	services	O
+supplement_33	in	O
+supplement_33	2010	O

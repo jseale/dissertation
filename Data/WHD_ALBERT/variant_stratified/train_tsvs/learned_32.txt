@@ -1,0 +1,13 @@
+learned_32	There	O
+learned_32	is	O
+learned_32	no	O
+learned_32	old	O
+learned_32	age	O
+learned_32	they	O
+learned_32	have	O
+learned_32	learned	learned_vrb
+learned_32	the	O
+learned_32	secret	O
+learned_32	of	O
+learned_32	eternal	O
+learned_32	life	O

@@ -1,0 +1,13 @@
+retard_3	Retard	retard_nou
+retard_3	has	O
+retard_3	transitioned	O
+retard_3	from	O
+retard_3	an	O
+retard_3	impartial	O
+retard_3	term	O
+retard_3	to	O
+retard_3	one	O
+retard_3	that	O
+retard_3	is	O
+retard_3	negatively	O
+retard_3	loaded	O

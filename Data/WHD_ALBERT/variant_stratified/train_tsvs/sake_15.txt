@@ -1,0 +1,14 @@
+sake_15	After	O
+sake_15	that	O
+sake_15	incident	O
+sake_15	Gordeau	O
+sake_15	left	O
+sake_15	the	O
+sake_15	Amnesia	O
+sake_15	to	O
+sake_15	pursue	O
+sake_15	revenge	O
+sake_15	for	O
+sake_15	Bob	O
+sake_15	's	O
+sake_15	sake	sake

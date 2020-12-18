@@ -1,0 +1,15 @@
+intrigue_71	Sicily	O
+intrigue_71	became	O
+intrigue_71	the	O
+intrigue_71	perfect	O
+intrigue_71	setting	O
+intrigue_71	to	O
+intrigue_71	tell	O
+intrigue_71	stories	O
+intrigue_71	filled	O
+intrigue_71	with	O
+intrigue_71	intrigue	intrigue_nou
+intrigue_71	and	O
+intrigue_71	steeped	O
+intrigue_71	in	O
+intrigue_71	passion	O

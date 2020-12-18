@@ -1,0 +1,12 @@
+estimate_11	The	O
+estimate_11	remaining	O
+estimate_11	distance	O
+estimate_11	is	O
+estimate_11	an	O
+estimate_11	estimate	estimate_nou
+estimate_11	based	O
+estimate_11	on	O
+estimate_11	map	O
+estimate_11	scale	O
+estimate_11	and	O
+estimate_11	ruler	O

@@ -1,0 +1,17 @@
+read_97	He	O
+read_97	almost	O
+read_97	flips	O
+read_97	out	O
+read_97	when	O
+read_97	asked	O
+read_97	to	O
+read_97	read	read_present
+read_97	and	O
+read_97	then	O
+read_97	it	O
+read_97	is	O
+read_97	discovered	O
+read_97	that	O
+read_97	he	O
+read_97	is	O
+read_97	illiterate	O

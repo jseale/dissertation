@@ -1,0 +1,15 @@
+discharge_8	Those	O
+discharge_8	who	O
+discharge_8	were	O
+discharge_8	not	O
+discharge_8	eligible	O
+discharge_8	for	O
+discharge_8	discharge	discharge_nou
+discharge_8	were	O
+discharge_8	transferred	O
+discharge_8	to	O
+discharge_8	other	O
+discharge_8	battalions	O
+discharge_8	for	O
+discharge_8	further	O
+discharge_8	service	O

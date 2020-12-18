@@ -1,0 +1,17 @@
+contest_7	Luxembourg	O
+contest_7	returned	O
+contest_7	to	O
+contest_7	the	O
+contest_7	contest	contest_nou
+contest_7	after	O
+contest_7	a	O
+contest_7	one	O
+contest_7	year	O
+contest_7	break	O
+contest_7	with	O
+contest_7	a	O
+contest_7	song	O
+contest_7	in	O
+contest_7	native	O
+contest_7	Luxembourgish	O
+contest_7	language	O

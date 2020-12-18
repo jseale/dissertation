@@ -1,0 +1,15 @@
+progress_22	In	O
+progress_22	addition	O
+progress_22	Sarkar	O
+progress_22	introduces	O
+progress_22	many	O
+progress_22	new	O
+progress_22	concepts	O
+progress_22	intended	O
+progress_22	to	O
+progress_22	facilitate	O
+progress_22	both	O
+progress_22	individual	O
+progress_22	and	O
+progress_22	collective	O
+progress_22	progress	progress_nou

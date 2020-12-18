@@ -1,0 +1,12 @@
+close_41	It	O
+close_41	is	O
+close_41	located	O
+close_41	in	O
+close_41	close	close_adj-nou
+close_41	proximity	O
+close_41	to	O
+close_41	the	O
+close_41	Playa	O
+close_41	de	O
+close_41	Los	O
+close_41	Ladrillos	O

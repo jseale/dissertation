@@ -1,0 +1,17 @@
+postulate_9	The	O
+postulate_9	idea	O
+postulate_9	is	O
+postulate_9	contained	O
+postulate_9	in	O
+postulate_9	the	O
+postulate_9	early	O
+postulate_9	work	O
+postulate_9	by	O
+postulate_9	John	O
+postulate_9	von	O
+postulate_9	Neumann	O
+postulate_9	sometimes	O
+postulate_9	called	O
+postulate_9	the	O
+postulate_9	reduction	O
+postulate_9	postulate	postulate_nou

@@ -1,0 +1,15 @@
+degenerate_27	Elsewhere	O
+degenerate_27	it	O
+degenerate_27	is	O
+degenerate_27	reported	O
+degenerate_27	of	O
+degenerate_27	that	O
+degenerate_27	son	O
+degenerate_27	that	O
+degenerate_27	he	O
+degenerate_27	became	O
+degenerate_27	a	O
+degenerate_27	degenerate	degenerate_adj-nou
+degenerate_27	associating	O
+degenerate_27	with	O
+degenerate_27	bandits	O

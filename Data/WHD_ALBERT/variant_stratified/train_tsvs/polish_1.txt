@@ -1,0 +1,17 @@
+polish_1	Since	O
+polish_1	1962	O
+polish_1	Polish	polish_geo
+polish_1	law	O
+polish_1	including	O
+polish_1	the	O
+polish_1	Constitution	O
+polish_1	does	O
+polish_1	not	O
+polish_1	allow	O
+polish_1	the	O
+polish_1	government	O
+polish_1	to	O
+polish_1	revoke	O
+polish_1	someone	O
+polish_1	's	O
+polish_1	citizenship	O

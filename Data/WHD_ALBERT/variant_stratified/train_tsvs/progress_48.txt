@@ -1,0 +1,12 @@
+progress_48	Western	O
+progress_48	campaigns	O
+progress_48	by	O
+progress_48	Union	O
+progress_48	forces	O
+progress_48	earlier	O
+progress_48	in	O
+progress_48	1862	O
+progress_48	had	O
+progress_48	reaped	O
+progress_48	much	O
+progress_48	progress	progress_nou

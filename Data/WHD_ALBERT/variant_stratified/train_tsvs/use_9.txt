@@ -1,0 +1,12 @@
+use_9	Instead	O
+use_9	it	O
+use_9	should	O
+use_9	put	O
+use_9	the	O
+use_9	lands	O
+use_9	to	O
+use_9	their	O
+use_9	highest	O
+use_9	and	O
+use_9	best	O
+use_9	use	use_nou

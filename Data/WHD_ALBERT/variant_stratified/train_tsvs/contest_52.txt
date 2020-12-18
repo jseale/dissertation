@@ -1,0 +1,9 @@
+contest_52	The	O
+contest_52	contest	contest_nou
+contest_52	was	O
+contest_52	held	O
+contest_52	in	O
+contest_52	Primm	O
+contest_52	Valley	O
+contest_52	Resort	O
+contest_52	Nevada	O

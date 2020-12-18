@@ -1,0 +1,14 @@
+coordinate_44	The	O
+coordinate_44	programmer	O
+coordinate_44	must	O
+coordinate_44	carefully	O
+coordinate_44	coordinate	coordinate_vrb
+coordinate_44	actions	O
+coordinate_44	to	O
+coordinate_44	manage	O
+coordinate_44	their	O
+coordinate_44	side	O
+coordinate_44	effects	O
+coordinate_44	upon	O
+coordinate_44	each	O
+coordinate_44	other	O

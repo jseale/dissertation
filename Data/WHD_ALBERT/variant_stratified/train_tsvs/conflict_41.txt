@@ -1,0 +1,16 @@
+conflict_41	This	O
+conflict_41	however	O
+conflict_41	brought	O
+conflict_41	him	O
+conflict_41	into	O
+conflict_41	conflict	conflict_nou
+conflict_41	both	O
+conflict_41	within	O
+conflict_41	his	O
+conflict_41	own	O
+conflict_41	party	O
+conflict_41	as	O
+conflict_41	well	O
+conflict_41	at	O
+conflict_41	Het	O
+conflict_41	Parool	O

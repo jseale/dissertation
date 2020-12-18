@@ -1,0 +1,10 @@
+wind_49	The	O
+wind_49	plant	O
+wind_49	is	O
+wind_49	thought	O
+wind_49	to	O
+wind_49	be	O
+wind_49	anemophilous	O
+wind_49	pollinated	O
+wind_49	by	O
+wind_49	wind	wind_nou

@@ -1,0 +1,13 @@
+postulate_0	The	O
+postulate_0	main	O
+postulate_0	postulate	postulate_nou
+postulate_0	of	O
+postulate_0	MARS	O
+postulate_0	was	O
+postulate_0	honestly	O
+postulate_0	and	O
+postulate_0	artistically	O
+postulate_0	describe	O
+postulate_0	that	O
+postulate_0	time	O
+postulate_0	epoch	O

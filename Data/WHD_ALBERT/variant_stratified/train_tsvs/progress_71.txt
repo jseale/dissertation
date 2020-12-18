@@ -1,0 +1,16 @@
+progress_71	Two	O
+progress_71	teams	O
+progress_71	from	O
+progress_71	the	O
+progress_71	qualifier	O
+progress_71	group	O
+progress_71	progress	progress_vrb
+progress_71	and	O
+progress_71	the	O
+progress_71	remainder	O
+progress_71	of	O
+progress_71	the	O
+progress_71	competition	O
+progress_71	is	O
+progress_71	knock	O
+progress_71	out	O

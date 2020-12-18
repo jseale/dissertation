@@ -1,0 +1,12 @@
+diffuse_43	Her	O
+diffuse_43	glass	O
+diffuse_43	plates	O
+diffuse_43	benefitted	O
+diffuse_43	from	O
+diffuse_43	her	O
+diffuse_43	careful	O
+diffuse_43	use	O
+diffuse_43	of	O
+diffuse_43	diffuse	diffuse_adj
+diffuse_43	artificial	O
+diffuse_43	light	O

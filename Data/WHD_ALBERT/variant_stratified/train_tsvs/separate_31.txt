@@ -1,0 +1,17 @@
+separate_31	He	O
+separate_31	claimed	O
+separate_31	they	O
+separate_31	served	O
+separate_31	as	O
+separate_31	and	O
+separate_31	promoted	O
+separate_31	exactly	O
+separate_31	the	O
+separate_31	type	O
+separate_31	of	O
+separate_31	separate	separate_adj
+separate_31	abolitionism	O
+separate_31	he	O
+separate_31	was	O
+separate_31	fighting	O
+separate_31	against	O

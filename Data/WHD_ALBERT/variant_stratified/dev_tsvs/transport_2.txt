@@ -1,0 +1,15 @@
+transport_2	Reflections	O
+transport_2	by	O
+transport_2	different	O
+transport_2	crystallites	O
+transport_2	add	O
+transport_2	incoherently	O
+transport_2	and	O
+transport_2	can	O
+transport_2	therefore	O
+transport_2	be	O
+transport_2	treated	O
+transport_2	by	O
+transport_2	classical	O
+transport_2	transport	transport_nou
+transport_2	theory	O

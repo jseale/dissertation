@@ -1,0 +1,16 @@
+contest_3	The	O
+contest_3	2005	O
+contest_3	contest	contest_nou
+contest_3	was	O
+contest_3	held	O
+contest_3	at	O
+contest_3	the	O
+contest_3	DR	O
+contest_3	TV	O
+contest_3	Studios	O
+contest_3	in	O
+contest_3	Copenhagen	O
+contest_3	hosted	O
+contest_3	by	O
+contest_3	Jacob	O
+contest_3	Riising	O

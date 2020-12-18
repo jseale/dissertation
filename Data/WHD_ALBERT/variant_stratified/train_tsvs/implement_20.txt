@@ -1,0 +1,15 @@
+implement_20	In	O
+implement_20	this	O
+implement_20	order	O
+implement_20	the	O
+implement_20	Commission	O
+implement_20	directed	O
+implement_20	Bell	O
+implement_20	Canada	O
+implement_20	to	O
+implement_20	implement	implement_vrb
+implement_20	the	O
+implement_20	10-digit	O
+implement_20	local	O
+implement_20	dialing	O
+implement_20	plan	O

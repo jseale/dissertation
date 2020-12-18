@@ -1,0 +1,9 @@
+suspect_66	His	O
+suspect_66	old	O
+suspect_66	fashioned	O
+suspect_66	Hep	O
+suspect_66	wife	O
+suspect_66	does	O
+suspect_66	n't	O
+suspect_66	suspect	suspect_vrb
+suspect_66	anything	O

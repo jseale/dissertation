@@ -1,0 +1,14 @@
+associate_2	1UP.com	O
+associate_2	Associate	associate_adj-nou
+associate_2	Editor	O
+associate_2	Jose	O
+associate_2	Otero	O
+associate_2	called	O
+associate_2	Forza	O
+associate_2	Motorsport	O
+associate_2	4	O
+associate_2	the	O
+associate_2	most	O
+associate_2	accessible	O
+associate_2	racer	O
+associate_2	around	O

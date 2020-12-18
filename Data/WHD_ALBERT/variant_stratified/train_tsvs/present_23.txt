@@ -1,0 +1,11 @@
+present_23	He	O
+present_23	is	O
+present_23	the	O
+present_23	elder	O
+present_23	son	O
+present_23	of	O
+present_23	the	O
+present_23	present	present_adj-nou
+present_23	Chhatrapati	O
+present_23	Shahu	O
+present_23	Maharaj	O

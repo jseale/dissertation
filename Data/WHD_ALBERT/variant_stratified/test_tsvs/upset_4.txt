@@ -1,0 +1,9 @@
+upset_4	Feinsinger	O
+upset_4	too	O
+upset_4	was	O
+upset_4	deeply	O
+upset_4	upset	upset_nou
+upset_4	by	O
+upset_4	Wilson	O
+upset_4	's	O
+upset_4	remarks	O

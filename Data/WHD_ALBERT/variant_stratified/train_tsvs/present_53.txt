@@ -1,0 +1,10 @@
+present_53	The	O
+present_53	station	O
+present_53	received	O
+present_53	its	O
+present_53	present	present_adj-nou
+present_53	name	O
+present_53	on	O
+present_53	13	O
+present_53	November	O
+present_53	1901	O

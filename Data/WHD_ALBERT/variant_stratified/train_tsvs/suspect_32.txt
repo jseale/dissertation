@@ -1,0 +1,8 @@
+suspect_32	Agents	O
+suspect_32	question	O
+suspect_32	whether	O
+suspect_32	airliner	O
+suspect_32	bomb	O
+suspect_32	suspect	suspect_adj-nou
+suspect_32	had	O
+suspect_32	help	O

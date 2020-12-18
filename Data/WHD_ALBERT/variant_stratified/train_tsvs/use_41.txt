@@ -1,0 +1,10 @@
+use_41	Edison	O
+use_41	made	O
+use_41	effective	O
+use_41	use	use_nou
+use_41	of	O
+use_41	metaphors	O
+use_41	when	O
+use_41	picturing	O
+use_41	his	O
+use_41	inventions	O

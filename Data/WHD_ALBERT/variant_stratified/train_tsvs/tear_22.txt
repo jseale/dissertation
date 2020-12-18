@@ -1,0 +1,14 @@
+tear_22	The	O
+tear_22	name	O
+tear_22	Dungibara	O
+tear_22	is	O
+tear_22	made	O
+tear_22	up	O
+tear_22	of	O
+tear_22	two	O
+tear_22	words	O
+tear_22	Dungi	O
+tear_22	meaning	O
+tear_22	wet	O
+tear_22	tear	tear_nou
+tear_22	etc	O

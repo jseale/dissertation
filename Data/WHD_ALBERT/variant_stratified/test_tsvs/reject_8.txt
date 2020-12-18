@@ -1,0 +1,13 @@
+reject_8	Voters	O
+reject_8	of	O
+reject_8	the	O
+reject_8	gold	O
+reject_8	fields	O
+reject_8	reject	reject_vrb
+reject_8	statehood	O
+reject_8	as	O
+reject_8	premature	O
+reject_8	on	O
+reject_8	1859	O
+reject_8	09	O
+reject_8	05	O

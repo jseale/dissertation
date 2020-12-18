@@ -1,0 +1,15 @@
+pasty_3	Mr.	O
+pasty_3	Pastie	O
+pasty_3	PASS	O
+pasty_3	tee	O
+pasty_3	is	O
+pasty_3	a	O
+pasty_3	brand	O
+pasty_3	name	O
+pasty_3	pasty	pasty_adj
+pasty_3	a	O
+pasty_3	meat	O
+pasty_3	and	O
+pasty_3	potato	O
+pasty_3	turnover	O
+pasty_3	product	O

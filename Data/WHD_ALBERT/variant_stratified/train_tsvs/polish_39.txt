@@ -1,0 +1,16 @@
+polish_39	In	O
+polish_39	1917	O
+polish_39	with	O
+polish_39	the	O
+polish_39	rank	O
+polish_39	of	O
+polish_39	captain	O
+polish_39	he	O
+polish_39	joined	O
+polish_39	the	O
+polish_39	Polish	polish_geo
+polish_39	2nd	O
+polish_39	Corps	O
+polish_39	in	O
+polish_39	the	O
+polish_39	East	O

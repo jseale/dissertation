@@ -1,0 +1,13 @@
+retard_65	During	O
+retard_65	the	O
+retard_65	flare	O
+retard_65	pilots	O
+retard_65	retard	retard_vrb
+retard_65	the	O
+retard_65	throttles	O
+retard_65	to	O
+retard_65	idle	O
+retard_65	to	O
+retard_65	reduce	O
+retard_65	engine	O
+retard_65	thrust	O

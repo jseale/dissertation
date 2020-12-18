@@ -1,0 +1,17 @@
+permit_60	In	O
+permit_60	1923	O
+permit_60	voters	O
+permit_60	approved	O
+permit_60	a	O
+permit_60	constitutional	O
+permit_60	amendment	O
+permit_60	to	O
+permit_60	permit	permit_vrb
+permit_60	the	O
+permit_60	use	O
+permit_60	of	O
+permit_60	bonds	O
+permit_60	to	O
+permit_60	finance	O
+permit_60	irrigation	O
+permit_60	projects	O

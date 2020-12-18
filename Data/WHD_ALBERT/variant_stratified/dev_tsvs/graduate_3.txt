@@ -1,0 +1,16 @@
+graduate_3	Post	O
+graduate_3	Graduate	graduate_adj-nou
+graduate_3	Diploma	O
+graduate_3	in	O
+graduate_3	Event	O
+graduate_3	Management	O
+graduate_3	PGDEM)The	O
+graduate_3	institute	O
+graduate_3	also	O
+graduate_3	provide	O
+graduate_3	course	O
+graduate_3	on	O
+graduate_3	wedding	O
+graduate_3	management	O
+graduate_3	sports	O
+graduate_3	management	O

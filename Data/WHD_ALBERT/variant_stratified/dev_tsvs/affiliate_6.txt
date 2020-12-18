@@ -1,0 +1,17 @@
+affiliate_6	It	O
+affiliate_6	violated	O
+affiliate_6	Federal	O
+affiliate_6	Communications	O
+affiliate_6	Commission	O
+affiliate_6	FCC	O
+affiliate_6	rules	O
+affiliate_6	regarding	O
+affiliate_6	station	O
+affiliate_6	ownership	O
+affiliate_6	because	O
+affiliate_6	Raycom	O
+affiliate_6	already	O
+affiliate_6	owned	O
+affiliate_6	Fox	O
+affiliate_6	affiliate	affiliate_nou
+affiliate_6	WFXL	O

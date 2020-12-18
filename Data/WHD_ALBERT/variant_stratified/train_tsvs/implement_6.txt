@@ -1,0 +1,17 @@
+implement_6	An	O
+implement_6	obstetrical	O
+implement_6	implement	implement_nou
+implement_6	known	O
+implement_6	as	O
+implement_6	a	O
+implement_6	pince	O
+implement_6	de	O
+implement_6	Bar	O
+implement_6	an	O
+implement_6	umbilical	O
+implement_6	cord	O
+implement_6	clamp	O
+implement_6	is	O
+implement_6	named	O
+implement_6	after	O
+implement_6	him	O

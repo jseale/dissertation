@@ -1,0 +1,12 @@
+invite_47	In	O
+invite_47	theory	O
+invite_47	the	O
+invite_47	club	O
+invite_47	could	O
+invite_47	simply	O
+invite_47	decline	O
+invite_47	to	O
+invite_47	invite	invite_vrb
+invite_47	a	O
+invite_47	qualified	O
+invite_47	player	O

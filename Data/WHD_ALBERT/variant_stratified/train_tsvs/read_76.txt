@@ -1,0 +1,15 @@
+read_76	Though	O
+read_76	the	O
+read_76	actor	O
+read_76	did	O
+read_76	not	O
+read_76	read	read_present
+read_76	the	O
+read_76	piece	O
+read_76	he	O
+read_76	heard	O
+read_76	about	O
+read_76	it	O
+read_76	and	O
+read_76	was	O
+read_76	unmoved	O

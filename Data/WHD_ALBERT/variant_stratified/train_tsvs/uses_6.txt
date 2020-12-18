@@ -1,0 +1,11 @@
+uses_6	Drugs	O
+uses_6	of	O
+uses_6	hallucination	O
+uses_6	The	O
+uses_6	uses	uses_nou
+uses_6	and	O
+uses_6	misuses	O
+uses_6	of	O
+uses_6	lysergic	O
+uses_6	acid	O
+uses_6	diethylamide	O

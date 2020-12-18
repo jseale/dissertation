@@ -1,0 +1,15 @@
+import_3	He	O
+import_3	completed	O
+import_3	his	O
+import_3	primary	O
+import_3	and	O
+import_3	secondary	O
+import_3	schooling	O
+import_3	and	O
+import_3	began	O
+import_3	working	O
+import_3	for	O
+import_3	an	O
+import_3	import	import_nou
+import_3	export	O
+import_3	company	O

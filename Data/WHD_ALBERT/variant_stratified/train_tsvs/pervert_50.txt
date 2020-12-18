@@ -1,0 +1,8 @@
+pervert_50	He	O
+pervert_50	has	O
+pervert_50	been	O
+pervert_50	called	O
+pervert_50	pervert	pervert_nou
+pervert_50	in	O
+pervert_50	many	O
+pervert_50	episodes	O

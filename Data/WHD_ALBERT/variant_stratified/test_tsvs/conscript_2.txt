@@ -1,0 +1,14 @@
+conscript_2	In	O
+conscript_2	World	O
+conscript_2	War	O
+conscript_2	II	O
+conscript_2	with	O
+conscript_2	largely	O
+conscript_2	conscript	conscript_nou
+conscript_2	armies	O
+conscript_2	there	O
+conscript_2	was	O
+conscript_2	great	O
+conscript_2	emphasis	O
+conscript_2	on	O
+conscript_2	training	O

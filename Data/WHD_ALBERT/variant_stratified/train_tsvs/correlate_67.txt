@@ -1,0 +1,11 @@
+correlate_67	These	O
+correlate_67	findings	O
+correlate_67	correlate	correlate_nou-vrb
+correlate_67	to	O
+correlate_67	the	O
+correlate_67	development	O
+correlate_67	of	O
+correlate_67	trade	O
+correlate_67	on	O
+correlate_67	the	O
+correlate_67	Rhine	O

@@ -1,0 +1,7 @@
+invalid_19	Turnstiles	O
+invalid_19	are	O
+invalid_19	used	O
+invalid_19	to	O
+invalid_19	obstruct	O
+invalid_19	invalid	invalid_adj
+invalid_19	access	O

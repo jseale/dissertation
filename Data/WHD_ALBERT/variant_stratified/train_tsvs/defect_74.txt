@@ -1,0 +1,12 @@
+defect_74	According	O
+defect_74	to	O
+defect_74	the	O
+defect_74	police	O
+defect_74	official	O
+defect_74	further	O
+defect_74	Al	O
+defect_74	Shabaab	O
+defect_74	members	O
+defect_74	intend	O
+defect_74	to	O
+defect_74	defect	defect_vrb

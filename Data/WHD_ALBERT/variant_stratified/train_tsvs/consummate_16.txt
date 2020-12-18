@@ -1,0 +1,17 @@
+consummate_16	With	O
+consummate_16	consummate	consummate_adj
+consummate_16	skill	O
+consummate_16	the	O
+consummate_16	men	O
+consummate_16	who	O
+consummate_16	initiated	O
+consummate_16	this	O
+consummate_16	idea	O
+consummate_16	have	O
+consummate_16	got	O
+consummate_16	possession	O
+consummate_16	of	O
+consummate_16	the	O
+consummate_16	whole	O
+consummate_16	Labour	O
+consummate_16	movement	O

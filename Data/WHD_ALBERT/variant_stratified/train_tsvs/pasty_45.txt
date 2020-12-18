@@ -1,0 +1,9 @@
+pasty_45	He	O
+pasty_45	now	O
+pasty_45	runs	O
+pasty_45	a	O
+pasty_45	pasty	pasty_adj
+pasty_45	company	O
+pasty_45	in	O
+pasty_45	Arnprior	O
+pasty_45	Ontario	O

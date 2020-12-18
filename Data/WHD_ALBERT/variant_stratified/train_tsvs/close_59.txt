@@ -1,0 +1,10 @@
+close_59	The	O
+close_59	Kuvari	O
+close_59	and	O
+close_59	Chambal	O
+close_59	Rivers	O
+close_59	run	O
+close_59	close	close_adj-nou
+close_59	to	O
+close_59	Kailaras	O
+close_59	city	O

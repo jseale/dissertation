@@ -1,0 +1,13 @@
+compress_3	Squat	O
+compress_3	is	O
+compress_3	defined	O
+compress_3	as	O
+compress_3	the	O
+compress_3	tendency	O
+compress_3	of	O
+compress_3	rear	O
+compress_3	suspension	O
+compress_3	to	O
+compress_3	compress	compress
+compress_3	under	O
+compress_3	acceleration	O

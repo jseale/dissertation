@@ -1,0 +1,17 @@
+mobile_5	Continental	O
+mobile_5	Airlines	O
+mobile_5	became	O
+mobile_5	the	O
+mobile_5	first	O
+mobile_5	airline	O
+mobile_5	to	O
+mobile_5	launch	O
+mobile_5	a	O
+mobile_5	mobile	mobile
+mobile_5	boarding	O
+mobile_5	pass	O
+mobile_5	service	O
+mobile_5	to	O
+mobile_5	London	O
+mobile_5	's	O
+mobile_5	Heathrow	O

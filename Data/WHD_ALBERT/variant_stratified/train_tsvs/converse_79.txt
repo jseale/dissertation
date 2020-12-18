@@ -1,0 +1,14 @@
+converse_79	The	O
+converse_79	salons	O
+converse_79	allowed	O
+converse_79	people	O
+converse_79	of	O
+converse_79	varying	O
+converse_79	social	O
+converse_79	classes	O
+converse_79	to	O
+converse_79	converse	converse_vrb
+converse_79	but	O
+converse_79	never	O
+converse_79	as	O
+converse_79	equals	O

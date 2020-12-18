@@ -1,0 +1,10 @@
+import_1	Larry	O
+import_1	Robinson	O
+import_1	was	O
+import_1	voted	O
+import_1	the	O
+import_1	Governor	O
+import_1	's	O
+import_1	Cup	O
+import_1	Best	O
+import_1	Import	import_nou

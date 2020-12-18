@@ -1,0 +1,13 @@
+permit_18	He	O
+permit_18	voted	O
+permit_18	against	O
+permit_18	reducing	O
+permit_18	the	O
+permit_18	application	O
+permit_18	fee	O
+permit_18	for	O
+permit_18	obtaining	O
+permit_18	a	O
+permit_18	concealed	O
+permit_18	carry	O
+permit_18	permit	permit_nou

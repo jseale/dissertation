@@ -1,0 +1,17 @@
+excuse_68	The	O
+excuse_68	Monitor	O
+excuse_68	believed	O
+excuse_68	that	O
+excuse_68	underappreciated	O
+excuse_68	at	O
+excuse_68	the	O
+excuse_68	box	O
+excuse_68	office	O
+excuse_68	this	O
+excuse_68	film	O
+excuse_68	is	O
+excuse_68	excuse	excuse_vrb
+excuse_68	the	O
+excuse_68	pun	O
+excuse_68	quietly	O
+excuse_68	powerful	O

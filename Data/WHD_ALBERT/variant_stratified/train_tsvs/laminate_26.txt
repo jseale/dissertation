@@ -1,0 +1,14 @@
+laminate_26	Overprinting	O
+laminate_26	of	O
+laminate_26	the	O
+laminate_26	laminate	laminate_nou
+laminate_26	was	O
+laminate_26	added	O
+laminate_26	in	O
+laminate_26	1981	O
+laminate_26	to	O
+laminate_26	make	O
+laminate_26	removal	O
+laminate_26	easier	O
+laminate_26	to	O
+laminate_26	spot	O

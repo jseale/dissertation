@@ -1,0 +1,15 @@
+affiliate_60	The	O
+affiliate_60	station	O
+affiliate_60	is	O
+affiliate_60	a	O
+affiliate_60	National	O
+affiliate_60	Public	O
+affiliate_60	Radio	O
+affiliate_60	affiliate	affiliate_nou
+affiliate_60	and	O
+affiliate_60	is	O
+affiliate_60	located	O
+affiliate_60	on	O
+affiliate_60	Bradley	O
+affiliate_60	's	O
+affiliate_60	campus	O

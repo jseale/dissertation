@@ -1,0 +1,13 @@
+resume_26	He	O
+resume_26	returned	O
+resume_26	to	O
+resume_26	Queensland	O
+resume_26	in	O
+resume_26	1954	O
+resume_26	to	O
+resume_26	resume	resume_vrb
+resume_26	his	O
+resume_26	career	O
+resume_26	at	O
+resume_26	the	O
+resume_26	Bar	O

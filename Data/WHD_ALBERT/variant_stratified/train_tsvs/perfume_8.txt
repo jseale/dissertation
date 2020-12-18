@@ -1,0 +1,17 @@
+perfume_8	Other	O
+perfume_8	manufactured	O
+perfume_8	products	O
+perfume_8	include	O
+perfume_8	perfume	perfume_nou
+perfume_8	jasmine	O
+perfume_8	oil	O
+perfume_8	and	O
+perfume_8	attar	O
+perfume_8	and	O
+perfume_8	incense	O
+perfume_8	furniture	O
+perfume_8	carpets	O
+perfume_8	chemical	O
+perfume_8	fertiliser	O
+perfume_8	and	O
+perfume_8	cement	O

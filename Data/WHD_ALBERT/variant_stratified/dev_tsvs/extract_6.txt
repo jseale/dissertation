@@ -1,0 +1,13 @@
+extract_6	It	O
+extract_6	can	O
+extract_6	also	O
+extract_6	be	O
+extract_6	used	O
+extract_6	to	O
+extract_6	extract	extract_vrb
+extract_6	sperm	O
+extract_6	for	O
+extract_6	intracytoplasmic	O
+extract_6	sperm	O
+extract_6	injection	O
+extract_6	ICSI	O

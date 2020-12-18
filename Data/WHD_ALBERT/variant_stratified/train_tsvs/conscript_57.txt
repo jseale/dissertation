@@ -1,0 +1,15 @@
+conscript_57	In	O
+conscript_57	2013	O
+conscript_57	there	O
+conscript_57	were	O
+conscript_57	3,900	O
+conscript_57	officers	O
+conscript_57	17,300	O
+conscript_57	NCOs	O
+conscript_57	3,600	O
+conscript_57	professional	O
+conscript_57	soldiers	O
+conscript_57	and	O
+conscript_57	9,200	O
+conscript_57	conscript	conscript_nou
+conscript_57	soldiers	O

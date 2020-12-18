@@ -1,0 +1,6 @@
+aggregate_61	Marquense	O
+aggregate_61	advances	O
+aggregate_61	3	O
+aggregate_61	0	O
+aggregate_61	on	O
+aggregate_61	aggregate	aggregate_adj-nou

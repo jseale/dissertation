@@ -1,0 +1,15 @@
+import_0	There	O
+import_0	are	O
+import_0	few	O
+import_0	import	import_nou
+import_0	tariffs	O
+import_0	from	O
+import_0	Singapore	O
+import_0	who	O
+import_0	supports	O
+import_0	the	O
+import_0	World	O
+import_0	Trade	O
+import_0	Organisation	O
+import_0	process	O
+import_0	fully	O

@@ -1,0 +1,11 @@
+refuse_0	Another	O
+refuse_0	problem	O
+refuse_0	is	O
+refuse_0	the	O
+refuse_0	amount	O
+refuse_0	of	O
+refuse_0	refuse	refuse_nou
+refuse_0	that	O
+refuse_0	the	O
+refuse_0	facility	O
+refuse_0	generates	O

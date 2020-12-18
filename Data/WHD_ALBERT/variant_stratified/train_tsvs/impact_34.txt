@@ -1,0 +1,15 @@
+impact_34	According	O
+impact_34	to	O
+impact_34	the	O
+impact_34	Journal	O
+impact_34	Citation	O
+impact_34	Reports	O
+impact_34	the	O
+impact_34	journal	O
+impact_34	had	O
+impact_34	a	O
+impact_34	2011	O
+impact_34	impact	impact_nou
+impact_34	factor	O
+impact_34	of	O
+impact_34	5.298	O

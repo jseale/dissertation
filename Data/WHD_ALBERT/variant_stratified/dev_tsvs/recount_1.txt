@@ -1,0 +1,16 @@
+recount_1	During	O
+recount_1	the	O
+recount_1	recount	recount_nou
+recount_1	it	O
+recount_1	was	O
+recount_1	determined	O
+recount_1	that	O
+recount_1	1,375	O
+recount_1	WA	O
+recount_1	Senate	O
+recount_1	ballot	O
+recount_1	papers	O
+recount_1	could	O
+recount_1	not	O
+recount_1	be	O
+recount_1	located	O

@@ -1,0 +1,15 @@
+insert_16	Progesterone	O
+insert_16	for	O
+insert_16	vaginal	O
+insert_16	administration	O
+insert_16	is	O
+insert_16	available	O
+insert_16	in	O
+insert_16	the	O
+insert_16	form	O
+insert_16	of	O
+insert_16	a	O
+insert_16	gel	O
+insert_16	or	O
+insert_16	insert	insert_nou
+insert_16	suppository	O

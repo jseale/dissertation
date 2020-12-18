@@ -1,0 +1,13 @@
+estimate_61	Police	O
+estimate_61	estimate	estimate_vrb
+estimate_61	the	O
+estimate_61	homicide	O
+estimate_61	occurred	O
+estimate_61	approximately	O
+estimate_61	five	O
+estimate_61	months	O
+estimate_61	before	O
+estimate_61	the	O
+estimate_61	body	O
+estimate_61	was	O
+estimate_61	discovered	O

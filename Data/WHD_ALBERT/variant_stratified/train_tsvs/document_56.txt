@@ -1,0 +1,14 @@
+document_56	Repeatedly	O
+document_56	when	O
+document_56	he	O
+document_56	was	O
+document_56	asked	O
+document_56	about	O
+document_56	the	O
+document_56	document	document_nou
+document_56	Hinckley	O
+document_56	answered	O
+document_56	I	O
+document_56	ca	O
+document_56	n't	O
+document_56	remember	O

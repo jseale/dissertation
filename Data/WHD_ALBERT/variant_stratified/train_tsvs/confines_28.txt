@@ -1,0 +1,15 @@
+confines_28	However	O
+confines_28	the	O
+confines_28	code	O
+confines_28	is	O
+confines_28	stored	O
+confines_28	in	O
+confines_28	one	O
+confines_28	place	O
+confines_28	in	O
+confines_28	the	O
+confines_28	confines	confines_nou
+confines_28	of	O
+confines_28	the	O
+confines_28	human	O
+confines_28	mind	O

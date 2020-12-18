@@ -1,0 +1,16 @@
+abuse_2	They	O
+abuse_2	do	O
+abuse_2	not	O
+abuse_2	include	O
+abuse_2	other	O
+abuse_2	factors	O
+abuse_2	of	O
+abuse_2	disadvantage	O
+abuse_2	such	O
+abuse_2	as	O
+abuse_2	unemployment	O
+abuse_2	race	O
+abuse_2	sexual	O
+abuse_2	orientation	O
+abuse_2	or	O
+abuse_2	abuse	abuse_nou

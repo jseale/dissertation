@@ -1,0 +1,8 @@
+articulate_33	He	O
+articulate_33	's	O
+articulate_33	incredibly	O
+articulate_33	well	O
+articulate_33	educated	O
+articulate_33	and	O
+articulate_33	very	O
+articulate_33	articulate	articulate_adj

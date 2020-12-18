@@ -1,0 +1,12 @@
+buffet_38	Originally	O
+buffet_38	the	O
+buffet_38	menu	O
+buffet_38	at	O
+buffet_38	Garfunkel	O
+buffet_38	's	O
+buffet_38	centred	O
+buffet_38	about	O
+buffet_38	a	O
+buffet_38	large	O
+buffet_38	buffet	buffet_nou
+buffet_38	table	O

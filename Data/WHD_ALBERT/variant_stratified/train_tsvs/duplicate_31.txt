@@ -1,0 +1,17 @@
+duplicate_31	The	O
+duplicate_31	uniqueness	O
+duplicate_31	of	O
+duplicate_31	the	O
+duplicate_31	address	O
+duplicate_31	on	O
+duplicate_31	the	O
+duplicate_31	subnet	O
+duplicate_31	is	O
+duplicate_31	tested	O
+duplicate_31	with	O
+duplicate_31	the	O
+duplicate_31	Duplicate	duplicate_adj-nou
+duplicate_31	Address	O
+duplicate_31	Detection	O
+duplicate_31	DAD	O
+duplicate_31	method	O

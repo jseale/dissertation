@@ -1,0 +1,15 @@
+separate_7	He	O
+separate_7	was	O
+separate_7	transferred	O
+separate_7	to	O
+separate_7	command	O
+separate_7	the	O
+separate_7	56th	O
+separate_7	Army	O
+separate_7	initially	O
+separate_7	a	O
+separate_7	separate	separate_adj
+separate_7	army	O
+separate_7	in	O
+separate_7	late	O
+separate_7	October	O

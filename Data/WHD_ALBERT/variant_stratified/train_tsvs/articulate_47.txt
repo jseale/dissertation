@@ -1,0 +1,8 @@
+articulate_47	It	O
+articulate_47	's	O
+articulate_47	hard	O
+articulate_47	for	O
+articulate_47	her	O
+articulate_47	to	O
+articulate_47	articulate	articulate_vrb
+articulate_47	it	O

@@ -1,0 +1,17 @@
+consummate_20	The	O
+consummate_20	pit	O
+consummate_20	fiend	O
+consummate_20	engages	O
+consummate_20	the	O
+consummate_20	five	O
+consummate_20	and	O
+consummate_20	manages	O
+consummate_20	to	O
+consummate_20	kill	O
+consummate_20	the	O
+consummate_20	consummate	consummate_adj
+consummate_20	survivor	O
+consummate_20	Jarlaxle	O
+consummate_20	in	O
+consummate_20	one	O
+consummate_20	blow	O

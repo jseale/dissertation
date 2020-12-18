@@ -1,0 +1,12 @@
+overthrow_4	But	O
+overthrow_4	he	O
+overthrow_4	stopped	O
+overthrow_4	short	O
+overthrow_4	of	O
+overthrow_4	calling	O
+overthrow_4	for	O
+overthrow_4	the	O
+overthrow_4	overthrow	overthrow_nou
+overthrow_4	of	O
+overthrow_4	the	O
+overthrow_4	government	O

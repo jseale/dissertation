@@ -1,0 +1,12 @@
+separate_8	The	O
+separate_8	documentation	O
+separate_8	is	O
+separate_8	maintained	O
+separate_8	in	O
+separate_8	a	O
+separate_8	filing	O
+separate_8	system	O
+separate_8	separate	separate_adj
+separate_8	from	O
+separate_8	the	O
+separate_8	SVS	O

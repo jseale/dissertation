@@ -1,0 +1,15 @@
+frequent_30	Frequent	frequent_adj
+frequent_30	disturbance	O
+frequent_30	often	O
+frequent_30	perturbs	O
+frequent_30	agricultural	O
+frequent_30	habitats	O
+frequent_30	and	O
+frequent_30	the	O
+frequent_30	response	O
+frequent_30	to	O
+frequent_30	disturbance	O
+frequent_30	varies	O
+frequent_30	among	O
+frequent_30	EPN	O
+frequent_30	species	O

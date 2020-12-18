@@ -1,0 +1,9 @@
+resume_6	Habré	O
+resume_6	fled	O
+resume_6	to	O
+resume_6	Sudan	O
+resume_6	vowing	O
+resume_6	to	O
+resume_6	resume	resume_vrb
+resume_6	the	O
+resume_6	struggle	O

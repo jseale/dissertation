@@ -1,0 +1,12 @@
+alternate_1	An	O
+alternate_1	alternate	alternate_adj-nou
+alternate_1	routing	O
+alternate_1	turning	O
+alternate_1	north	O
+alternate_1	on	O
+alternate_1	Eliot	O
+alternate_1	towards	O
+alternate_1	Woodhaven	O
+alternate_1	Boulevard	O
+alternate_1	never	O
+alternate_1	operated	O

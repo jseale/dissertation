@@ -1,0 +1,15 @@
+wind_6	The	O
+wind_6	150	O
+wind_6	wind	wind_nou
+wind_6	turbines	O
+wind_6	are	O
+wind_6	Siemens	O
+wind_6	SWT-4.0	O
+wind_6	each	O
+wind_6	with	O
+wind_6	a	O
+wind_6	capacity	O
+wind_6	of	O
+wind_6	4	O
+wind_6	megawatts	O
+wind_6	MW	O

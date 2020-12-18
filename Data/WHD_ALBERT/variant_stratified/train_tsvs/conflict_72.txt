@@ -1,0 +1,16 @@
+conflict_72	Legislative	O
+conflict_72	acts	O
+conflict_72	of	O
+conflict_72	parliament	O
+conflict_72	in	O
+conflict_72	conflict	conflict_nou
+conflict_72	with	O
+conflict_72	the	O
+conflict_72	Constitution	O
+conflict_72	are	O
+conflict_72	subsequently	O
+conflict_72	annulled	O
+conflict_72	by	O
+conflict_72	the	O
+conflict_72	Constitutional	O
+conflict_72	Court	O

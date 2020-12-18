@@ -1,0 +1,17 @@
+compress_62	Some	O
+compress_62	head	O
+compress_62	and	O
+compress_62	neck	O
+compress_62	tumours	O
+compress_62	invade	O
+compress_62	or	O
+compress_62	compress	compress
+compress_62	the	O
+compress_62	facial	O
+compress_62	nerve	O
+compress_62	leading	O
+compress_62	to	O
+compress_62	facial	O
+compress_62	paresis	O
+compress_62	or	O
+compress_62	paralysis	O

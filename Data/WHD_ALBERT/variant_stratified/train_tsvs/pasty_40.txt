@@ -1,0 +1,16 @@
+pasty_40	The	O
+pasty_40	swede	O
+pasty_40	is	O
+pasty_40	also	O
+pasty_40	one	O
+pasty_40	of	O
+pasty_40	the	O
+pasty_40	four	O
+pasty_40	traditional	O
+pasty_40	ingredients	O
+pasty_40	of	O
+pasty_40	the	O
+pasty_40	pasty	pasty_adj
+pasty_40	originating	O
+pasty_40	in	O
+pasty_40	Cornwall	O

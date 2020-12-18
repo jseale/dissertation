@@ -1,0 +1,17 @@
+misuse_34	He	O
+misuse_34	strongly	O
+misuse_34	opposed	O
+misuse_34	direct	O
+misuse_34	democracy	O
+misuse_34	however	O
+misuse_34	particularly	O
+misuse_34	the	O
+misuse_34	use	O
+misuse_34	or	O
+misuse_34	misuse	misuse_nou
+misuse_34	of	O
+misuse_34	referendums	O
+misuse_34	as	O
+misuse_34	leading	O
+misuse_34	to	O
+misuse_34	totalitarianism	O

@@ -1,0 +1,14 @@
+live_77	Smaller	O
+live_77	Kashmiri	O
+live_77	communities	O
+live_77	also	O
+live_77	live	live_vrb
+live_77	in	O
+live_77	other	O
+live_77	regions	O
+live_77	of	O
+live_77	the	O
+live_77	Jammu	O
+live_77	and	O
+live_77	Kashmir	O
+live_77	state	O

@@ -1,0 +1,12 @@
+aggregate_68	Relegation	O
+aggregate_68	promotion	O
+aggregate_68	play	O
+aggregate_68	off	O
+aggregate_68	participant	O
+aggregate_68	VfL	O
+aggregate_68	Bochum	O
+aggregate_68	won	O
+aggregate_68	on	O
+aggregate_68	aggregate	aggregate_adj-nou
+aggregate_68	against	O
+aggregate_68	1	O

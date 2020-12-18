@@ -1,0 +1,14 @@
+contest_1	Miss	O
+contest_1	Universe	O
+contest_1	Hungary	O
+contest_1	is	O
+contest_1	a	O
+contest_1	national	O
+contest_1	beauty	O
+contest_1	contest	contest_nou
+contest_1	in	O
+contest_1	Hungary	O
+contest_1	for	O
+contest_1	Miss	O
+contest_1	Universe	O
+contest_1	pageant	O

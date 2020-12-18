@@ -1,0 +1,15 @@
+perfume_24	This	O
+perfume_24	perfume	perfume_nou
+perfume_24	earned	O
+perfume_24	Pierre	O
+perfume_24	Francois	O
+perfume_24	the	O
+perfume_24	prestigious	O
+perfume_24	title	O
+perfume_24	of	O
+perfume_24	being	O
+perfume_24	His	O
+perfume_24	Majesty	O
+perfume_24	's	O
+perfume_24	Official	O
+perfume_24	Perfumer	O

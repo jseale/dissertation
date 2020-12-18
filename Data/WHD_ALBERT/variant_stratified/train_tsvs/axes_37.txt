@@ -1,0 +1,16 @@
+axes_37	Equal	O
+axes_37	permutation	O
+axes_37	along	O
+axes_37	various	O
+axes_37	axes	axes_nou
+axes_37	with	O
+axes_37	equal	O
+axes_37	orders	O
+axes_37	can	O
+axes_37	be	O
+axes_37	combined	O
+axes_37	by	O
+axes_37	adding	O
+axes_37	the	O
+axes_37	factors	O
+axes_37	2ᵃˣⁱˢ.	O

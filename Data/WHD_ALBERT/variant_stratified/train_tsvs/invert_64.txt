@@ -1,0 +1,16 @@
+invert_64	Monte	O
+invert_64	Carlo	O
+invert_64	simulations	O
+invert_64	invert	invert_vrb
+invert_64	this	O
+invert_64	approach	O
+invert_64	solving	O
+invert_64	deterministic	O
+invert_64	problems	O
+invert_64	using	O
+invert_64	a	O
+invert_64	probabilistic	O
+invert_64	analog	O
+invert_64	see	O
+invert_64	Simulated	O
+invert_64	annealing	O

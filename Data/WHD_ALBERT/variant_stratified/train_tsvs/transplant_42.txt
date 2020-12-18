@@ -1,0 +1,10 @@
+transplant_42	The	O
+transplant_42	Transplant	transplant_nou
+transplant_42	Ethics	O
+transplant_42	Committee	O
+transplant_42	must	O
+transplant_42	approve	O
+transplant_42	living	O
+transplant_42	donor	O
+transplant_42	kidney	O
+transplant_42	transplants	O

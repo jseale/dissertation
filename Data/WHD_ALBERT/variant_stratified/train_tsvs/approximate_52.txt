@@ -1,0 +1,15 @@
+approximate_52	The	O
+approximate_52	North	O
+approximate_52	Carolina	O
+approximate_52	government	O
+approximate_52	has	O
+approximate_52	installed	O
+approximate_52	a	O
+approximate_52	sign	O
+approximate_52	marking	O
+approximate_52	the	O
+approximate_52	approximate	approximate_adj-nou
+approximate_52	location	O
+approximate_52	of	O
+approximate_52	the	O
+approximate_52	battle	O

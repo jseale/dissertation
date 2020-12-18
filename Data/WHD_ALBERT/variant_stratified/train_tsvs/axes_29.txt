@@ -1,0 +1,11 @@
+axes_29	It	O
+axes_29	's	O
+axes_29	a	O
+axes_29	robot	O
+axes_29	whose	O
+axes_29	axes	axes_nou
+axes_29	form	O
+axes_29	a	O
+axes_29	cylindrical	O
+axes_29	coordinate	O
+axes_29	system	O

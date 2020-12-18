@@ -1,0 +1,9 @@
+combine_0	The	O
+combine_0	much	O
+combine_0	enlarged	O
+combine_0	group	O
+combine_0	became	O
+combine_0	known	O
+combine_0	as	O
+combine_0	the	O
+combine_0	Combine	combine_nou

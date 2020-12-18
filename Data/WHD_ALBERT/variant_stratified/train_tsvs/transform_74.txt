@@ -1,0 +1,11 @@
+transform_74	Typically	O
+transform_74	this	O
+transform_74	is	O
+transform_74	done	O
+transform_74	via	O
+transform_74	Short	O
+transform_74	Time	O
+transform_74	Fast	O
+transform_74	Fourier	O
+transform_74	Transform	transform_nou
+transform_74	STFFT	O

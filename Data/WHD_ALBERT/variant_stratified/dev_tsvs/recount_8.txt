@@ -1,0 +1,9 @@
+recount_8	But	O
+recount_8	Doreen	O
+recount_8	and	O
+recount_8	Rene	O
+recount_8	survived	O
+recount_8	to	O
+recount_8	recount	recount_vrb
+recount_8	their	O
+recount_8	adventures	O

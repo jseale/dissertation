@@ -1,0 +1,7 @@
+incline_54	Operation	O
+incline_54	of	O
+incline_54	the	O
+incline_54	incline	incline_nou
+incline_54	ended	O
+incline_54	in	O
+incline_54	1952	O

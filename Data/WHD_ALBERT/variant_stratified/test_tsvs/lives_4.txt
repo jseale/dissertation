@@ -1,0 +1,9 @@
+lives_4	He	O
+lives_4	currently	O
+lives_4	lives	lives_vrb
+lives_4	in	O
+lives_4	Nashville	O
+lives_4	Tennessee	O
+lives_4	with	O
+lives_4	his	O
+lives_4	wife	O

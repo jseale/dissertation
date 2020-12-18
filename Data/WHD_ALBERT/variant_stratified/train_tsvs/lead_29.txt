@@ -1,0 +1,11 @@
+lead_29	Symmetric	O
+lead_29	arrangements	O
+lead_29	lead	lead_nou-vrb
+lead_29	to	O
+lead_29	many	O
+lead_29	problems	O
+lead_29	depending	O
+lead_29	on	O
+lead_29	the	O
+lead_29	symmetry	O
+lead_29	condition	O

@@ -1,0 +1,11 @@
+use_16	It	O
+use_16	joined	O
+use_16	the	O
+use_16	Brisbane	O
+use_16	tuff	O
+use_16	culvert	O
+use_16	and	O
+use_16	is	O
+use_16	still	O
+use_16	in	O
+use_16	use	use_nou

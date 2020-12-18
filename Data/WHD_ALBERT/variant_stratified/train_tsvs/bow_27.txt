@@ -1,0 +1,15 @@
+bow_27	It	O
+bow_27	is	O
+bow_27	one	O
+bow_27	of	O
+bow_27	the	O
+bow_27	oldest	O
+bow_27	string	O
+bow_27	instruments	O
+bow_27	in	O
+bow_27	the	O
+bow_27	world	O
+bow_27	played	O
+bow_27	with	O
+bow_27	a	O
+bow_27	bow	bow_nou-knot

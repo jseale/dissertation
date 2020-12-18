@@ -1,0 +1,10 @@
+polish_65	She	O
+polish_65	plays	O
+polish_65	classical	O
+polish_65	piano	O
+polish_65	and	O
+polish_65	speaks	O
+polish_65	Polish	polish_geo
+polish_65	French	O
+polish_65	and	O
+polish_65	English	O

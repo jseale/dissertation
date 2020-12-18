@@ -1,0 +1,16 @@
+expose_0	Heidi	O
+expose_0	later	O
+expose_0	forgives	O
+expose_0	Carl	O
+expose_0	and	O
+expose_0	Mitzeee	O
+expose_0	confesses	O
+expose_0	that	O
+expose_0	Carl	O
+expose_0	's	O
+expose_0	past	O
+expose_0	with	O
+expose_0	Trish	O
+expose_0	forced	O
+expose_0	the	O
+expose_0	expose	expose_nou

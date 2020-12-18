@@ -1,0 +1,10 @@
+converse_45	Converse	converse_adj-nou
+converse_45	proposed	O
+converse_45	the	O
+converse_45	use	O
+converse_45	of	O
+converse_45	the	O
+converse_45	gender	O
+converse_45	neutral	O
+converse_45	pronoun	O
+converse_45	Thon	O

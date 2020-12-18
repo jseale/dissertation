@@ -1,0 +1,9 @@
+rebel_63	The	O
+rebel_63	Rebel	rebel_nou
+rebel_63	Yell	O
+rebel_63	is	O
+rebel_63	the	O
+rebel_63	student	O
+rebel_63	newspaper	O
+rebel_63	on	O
+rebel_63	campus	O

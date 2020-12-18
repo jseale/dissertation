@@ -1,0 +1,10 @@
+incline_10	Children	O
+incline_10	naturally	O
+incline_10	incline	incline_vrb
+incline_10	to	O
+incline_10	activity	O
+incline_10	to	O
+incline_10	conversation	O
+incline_10	creation	O
+incline_10	and	O
+incline_10	inquiry	O

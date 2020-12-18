@@ -1,0 +1,16 @@
+confines_4	Within	O
+confines_4	the	O
+confines_4	confines	confines_nou
+confines_4	of	O
+confines_4	Stonebridge	O
+confines_4	there	O
+confines_4	is	O
+confines_4	a	O
+confines_4	hospital	O
+confines_4	five	O
+confines_4	elementary	O
+confines_4	schools	O
+confines_4	and	O
+confines_4	two	O
+confines_4	middle	O
+confines_4	schools	O

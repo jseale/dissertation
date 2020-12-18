@@ -1,0 +1,11 @@
+axes_49	The	O
+axes_49	arms	O
+axes_49	show	O
+axes_49	two	O
+axes_49	crossed	O
+axes_49	silver	O
+axes_49	axes	axes_nou-vrb
+axes_49	on	O
+axes_49	a	O
+axes_49	blue	O
+axes_49	background	O

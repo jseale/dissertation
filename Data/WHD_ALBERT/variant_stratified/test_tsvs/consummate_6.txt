@@ -1,0 +1,13 @@
+consummate_6	The	O
+consummate_6	arm	O
+consummate_6	finds	O
+consummate_6	her	O
+consummate_6	and	O
+consummate_6	they	O
+consummate_6	consummate	consummate_vrb
+consummate_6	their	O
+consummate_6	love	O
+consummate_6	with	O
+consummate_6	a	O
+consummate_6	deep	O
+consummate_6	kiss	O

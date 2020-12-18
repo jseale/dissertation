@@ -1,0 +1,17 @@
+content_31	For	O
+content_31	operational	O
+content_31	and	O
+content_31	content	content_nou
+content_31	qualitative	O
+content_31	reasons	O
+content_31	not	O
+content_31	more	O
+content_31	than	O
+content_31	two	O
+content_31	television	O
+content_31	channels	O
+content_31	are	O
+content_31	managed	O
+content_31	from	O
+content_31	one	O
+content_31	TCR	O

@@ -1,0 +1,17 @@
+tear_37	Her	O
+tear_37	knee	O
+tear_37	injury	O
+tear_37	in	O
+tear_37	the	O
+tear_37	prior	O
+tear_37	game	O
+tear_37	would	O
+tear_37	turn	O
+tear_37	out	O
+tear_37	to	O
+tear_37	be	O
+tear_37	a	O
+tear_37	season	O
+tear_37	ending	O
+tear_37	ACL	O
+tear_37	tear	tear_vrb

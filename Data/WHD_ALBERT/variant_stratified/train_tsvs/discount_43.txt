@@ -1,0 +1,12 @@
+discount_43	For	O
+discount_43	Japanese	O
+discount_43	and	O
+discount_43	Korean	O
+discount_43	vehicles	O
+discount_43	the	O
+discount_43	average	O
+discount_43	discount	discount_nou
+discount_43	was	O
+discount_43	10	O
+discount_43	and	O
+discount_43	12.8	O

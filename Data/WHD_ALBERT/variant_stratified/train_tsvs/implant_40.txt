@@ -1,0 +1,17 @@
+implant_40	Propel	O
+implant_40	mometasone	O
+implant_40	furoate	O
+implant_40	implant	implant_nou
+implant_40	trade	O
+implant_40	name	O
+implant_40	Propel	O
+implant_40	is	O
+implant_40	a	O
+implant_40	bioabsorbable	O
+implant_40	steroid	O
+implant_40	eluting	O
+implant_40	stent	O
+implant_40	developed	O
+implant_40	by	O
+implant_40	Intersect	O
+implant_40	ENT	O

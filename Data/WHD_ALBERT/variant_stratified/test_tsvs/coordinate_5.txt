@@ -1,0 +1,10 @@
+coordinate_5	This	O
+coordinate_5	allows	O
+coordinate_5	the	O
+coordinate_5	brain	O
+coordinate_5	to	O
+coordinate_5	coordinate	coordinate_vrb
+coordinate_5	sensory	O
+coordinate_5	and	O
+coordinate_5	motor	O
+coordinate_5	impulses	O

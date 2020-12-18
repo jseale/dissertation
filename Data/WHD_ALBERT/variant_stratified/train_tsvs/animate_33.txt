@@ -1,0 +1,14 @@
+animate_33	But	O
+animate_33	things	O
+animate_33	like	O
+animate_33	California	O
+animate_33	's	O
+animate_33	smoking	O
+animate_33	ban	O
+animate_33	and	O
+animate_33	Rob	O
+animate_33	Reiner	O
+animate_33	animate	animate_vrb
+animate_33	both	O
+animate_33	of	O
+animate_33	us	O

@@ -1,0 +1,11 @@
+conjugate_27	Exponential	O
+conjugate_27	families	O
+conjugate_27	have	O
+conjugate_27	conjugate	conjugate_adj-nou
+conjugate_27	priors	O
+conjugate_27	an	O
+conjugate_27	important	O
+conjugate_27	property	O
+conjugate_27	in	O
+conjugate_27	Bayesian	O
+conjugate_27	statistics	O

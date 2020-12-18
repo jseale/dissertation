@@ -1,0 +1,17 @@
+import_62	While	O
+import_62	the	O
+import_62	EU	O
+import_62	has	O
+import_62	the	O
+import_62	capacity	O
+import_62	to	O
+import_62	import	import_vrb
+import_62	200	O
+import_62	billion	O
+import_62	m³/year	O
+import_62	it	O
+import_62	only	O
+import_62	imported	O
+import_62	45	O
+import_62	billion	O
+import_62	m³/year	O

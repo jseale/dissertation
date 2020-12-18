@@ -1,0 +1,8 @@
+estimate_32	On	O
+estimate_32	1	O
+estimate_32	January	O
+estimate_32	2005	O
+estimate_32	the	O
+estimate_32	estimate	estimate_nou
+estimate_32	was	O
+estimate_32	83	O

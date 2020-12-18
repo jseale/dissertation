@@ -1,0 +1,15 @@
+aggregate_21	The	O
+aggregate_21	sum	O
+aggregate_21	of	O
+aggregate_21	the	O
+aggregate_21	marginal	O
+aggregate_21	benefits	O
+aggregate_21	represent	O
+aggregate_21	the	O
+aggregate_21	aggregate	aggregate_adj-nou
+aggregate_21	willingness	O
+aggregate_21	to	O
+aggregate_21	pay	O
+aggregate_21	or	O
+aggregate_21	aggregate	aggregate_adj-nou
+aggregate_21	demand	O

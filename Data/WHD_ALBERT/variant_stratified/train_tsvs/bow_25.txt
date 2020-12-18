@@ -1,0 +1,8 @@
+bow_25	The	O
+bow_25	deluxe	O
+bow_25	Arcee	O
+bow_25	has	O
+bow_25	a	O
+bow_25	similar	O
+bow_25	bow	bow_nou-knot
+bow_25	weapon	O

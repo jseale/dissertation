@@ -1,0 +1,15 @@
+pervert_44	He	O
+pervert_44	is	O
+pervert_44	a	O
+pervert_44	gambler	O
+pervert_44	pervert	pervert_nou
+pervert_44	and	O
+pervert_44	idiot	O
+pervert_44	but	O
+pervert_44	also	O
+pervert_44	capable	O
+pervert_44	of	O
+pervert_44	ruling	O
+pervert_44	a	O
+pervert_44	country	O
+pervert_44	justly	O

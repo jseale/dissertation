@@ -1,0 +1,17 @@
+analyses_70	These	O
+analyses_70	simulations	O
+analyses_70	and	O
+analyses_70	analyses	analyses_nou
+analyses_70	provide	O
+analyses_70	vital	O
+analyses_70	information	O
+analyses_70	in	O
+analyses_70	studying	O
+analyses_70	product	O
+analyses_70	and	O
+analyses_70	environmental	O
+analyses_70	effects	O
+analyses_70	on	O
+analyses_70	the	O
+analyses_70	human	O
+analyses_70	body	O

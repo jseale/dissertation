@@ -1,0 +1,15 @@
+rebel_60	Following	O
+rebel_60	the	O
+rebel_60	1993	O
+rebel_60	Embassy	O
+rebel_60	World	O
+rebel_60	Championship	O
+rebel_60	the	O
+rebel_60	BDO	O
+rebel_60	suspended	O
+rebel_60	the	O
+rebel_60	rebel	rebel_nou
+rebel_60	players	O
+rebel_60	from	O
+rebel_60	all	O
+rebel_60	tournaments	O

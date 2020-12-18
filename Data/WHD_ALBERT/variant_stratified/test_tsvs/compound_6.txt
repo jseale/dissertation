@@ -1,0 +1,9 @@
+compound_6	The	O
+compound_6	Rezeigat	O
+compound_6	attacked	O
+compound_6	and	O
+compound_6	reportedly	O
+compound_6	destroyed	O
+compound_6	a	O
+compound_6	Maaliya	O
+compound_6	compound	compound_nou

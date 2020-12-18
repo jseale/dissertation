@@ -1,0 +1,15 @@
+conduct_46	As	O
+conduct_46	a	O
+conduct_46	result	O
+conduct_46	of	O
+conduct_46	the	O
+conduct_46	decree	O
+conduct_46	alchemists	O
+conduct_46	were	O
+conduct_46	forced	O
+conduct_46	to	O
+conduct_46	conduct	conduct_vrb
+conduct_46	their	O
+conduct_46	practice	O
+conduct_46	in	O
+conduct_46	secret	O

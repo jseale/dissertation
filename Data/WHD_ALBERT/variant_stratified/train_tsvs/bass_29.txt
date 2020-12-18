@@ -1,0 +1,14 @@
+bass_29	They	O
+bass_29	were	O
+bass_29	joined	O
+bass_29	by	O
+bass_29	Pauline	O
+bass_29	Moran	O
+bass_29	on	O
+bass_29	bass	bass
+bass_29	and	O
+bass_29	Marion	O
+bass_29	Rusty	O
+bass_29	Hill	O
+bass_29	on	O
+bass_29	keyboards	O

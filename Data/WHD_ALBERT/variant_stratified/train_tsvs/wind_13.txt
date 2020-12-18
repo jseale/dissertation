@@ -1,0 +1,15 @@
+wind_13	The	O
+wind_13	Makara	O
+wind_13	area	O
+wind_13	has	O
+wind_13	long	O
+wind_13	been	O
+wind_13	favoured	O
+wind_13	as	O
+wind_13	a	O
+wind_13	site	O
+wind_13	for	O
+wind_13	building	O
+wind_13	a	O
+wind_13	wind	wind_nou
+wind_13	farm	O

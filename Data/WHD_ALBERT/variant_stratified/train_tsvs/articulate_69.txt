@@ -1,0 +1,16 @@
+articulate_69	Additionally	O
+articulate_69	the	O
+articulate_69	spillway	O
+articulate_69	was	O
+articulate_69	designed	O
+articulate_69	to	O
+articulate_69	articulate	articulate_vrb
+articulate_69	in	O
+articulate_69	order	O
+articulate_69	to	O
+articulate_69	accommodate	O
+articulate_69	any	O
+articulate_69	settlement	O
+articulate_69	that	O
+articulate_69	did	O
+articulate_69	occur	O

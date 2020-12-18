@@ -1,0 +1,13 @@
+affect_6	This	O
+affect_6	will	O
+affect_6	affect	affect
+affect_6	international	O
+affect_6	recognitions	O
+affect_6	because	O
+affect_6	the	O
+affect_6	crisis	O
+affect_6	weakens	O
+affect_6	the	O
+affect_6	position	O
+affect_6	of	O
+affect_6	Kosovo	O

@@ -1,0 +1,17 @@
+compound_15	Compound	compound_nou
+compound_15	Tincture	O
+compound_15	of	O
+compound_15	Benzoin	O
+compound_15	CTB	O
+compound_15	is	O
+compound_15	often	O
+compound_15	applied	O
+compound_15	to	O
+compound_15	skin	O
+compound_15	before	O
+compound_15	applying	O
+compound_15	tape	O
+compound_15	or	O
+compound_15	other	O
+compound_15	adhesive	O
+compound_15	bandages	O

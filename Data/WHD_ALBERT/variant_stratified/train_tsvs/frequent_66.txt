@@ -1,0 +1,10 @@
+frequent_66	During	O
+frequent_66	this	O
+frequent_66	time	O
+frequent_66	there	O
+frequent_66	were	O
+frequent_66	frequent	frequent_adj
+frequent_66	shortages	O
+frequent_66	in	O
+frequent_66	commercial	O
+frequent_66	establishments	O

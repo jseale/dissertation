@@ -1,0 +1,9 @@
+extract_36	Some	O
+extract_36	aromatized	O
+extract_36	wines	O
+extract_36	contain	O
+extract_36	honey	O
+extract_36	or	O
+extract_36	egg	O
+extract_36	yolk	O
+extract_36	extract	extract_nou

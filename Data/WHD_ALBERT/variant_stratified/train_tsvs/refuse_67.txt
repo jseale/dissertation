@@ -1,0 +1,14 @@
+refuse_67	Sometimes	O
+refuse_67	the	O
+refuse_67	game	O
+refuse_67	will	O
+refuse_67	refuse	refuse_vrb
+refuse_67	a	O
+refuse_67	sale	O
+refuse_67	or	O
+refuse_67	will	O
+refuse_67	refuse	refuse_vrb
+refuse_67	to	O
+refuse_67	dispense	O
+refuse_67	more	O
+refuse_67	cash	O

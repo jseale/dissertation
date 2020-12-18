@@ -1,0 +1,11 @@
+perfect_53	But	O
+perfect_53	Ace	O
+perfect_53	's	O
+perfect_53	life	O
+perfect_53	is	O
+perfect_53	not	O
+perfect_53	as	O
+perfect_53	perfect	perfect_adj
+perfect_53	as	O
+perfect_53	everyone	O
+perfect_53	thinks	O

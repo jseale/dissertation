@@ -1,0 +1,16 @@
+intrigue_3	It	O
+intrigue_3	's	O
+intrigue_3	a	O
+intrigue_3	nice	O
+intrigue_3	enough	O
+intrigue_3	story	O
+intrigue_3	that	O
+intrigue_3	features	O
+intrigue_3	the	O
+intrigue_3	usual	O
+intrigue_3	mix	O
+intrigue_3	of	O
+intrigue_3	intrigue	intrigue_nou
+intrigue_3	pain	O
+intrigue_3	and	O
+intrigue_3	hangovers	O

@@ -1,0 +1,13 @@
+deliberate_22	Some	O
+deliberate_22	filmmakers	O
+deliberate_22	make	O
+deliberate_22	deliberate	deliberate_adj
+deliberate_22	use	O
+deliberate_22	of	O
+deliberate_22	the	O
+deliberate_22	deep	O
+deliberate_22	focus	O
+deliberate_22	capabilities	O
+deliberate_22	of	O
+deliberate_22	digital	O
+deliberate_22	formats	O

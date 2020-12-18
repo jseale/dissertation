@@ -1,0 +1,16 @@
+mobile_9	Documents	O
+mobile_9	To	O
+mobile_9	Go	O
+mobile_9	is	O
+mobile_9	also	O
+mobile_9	available	O
+mobile_9	for	O
+mobile_9	Microsoft	O
+mobile_9	Windows	O
+mobile_9	Mobile	mobile
+mobile_9	5.0	O
+mobile_9	Smartphone	O
+mobile_9	and	O
+mobile_9	6	O
+mobile_9	Standard	O
+mobile_9	devices	O

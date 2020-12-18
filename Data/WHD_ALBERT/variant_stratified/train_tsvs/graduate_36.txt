@@ -1,0 +1,13 @@
+graduate_36	He	O
+graduate_36	is	O
+graduate_36	a	O
+graduate_36	post	O
+graduate_36	graduate	graduate_adj-nou
+graduate_36	in	O
+graduate_36	LL.M.	O
+graduate_36	and	O
+graduate_36	M.C.J	O
+graduate_36	Journalism	O
+graduate_36	from	O
+graduate_36	Osmania	O
+graduate_36	University	O

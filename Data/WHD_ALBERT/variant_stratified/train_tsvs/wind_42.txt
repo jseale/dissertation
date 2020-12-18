@@ -1,0 +1,16 @@
+wind_42	For	O
+wind_42	higher	O
+wind_42	altitude	O
+wind_42	drops	O
+wind_42	the	O
+wind_42	effect	O
+wind_42	of	O
+wind_42	wind	wind_nou
+wind_42	and	O
+wind_42	bomb	O
+wind_42	trajectory	O
+wind_42	could	O
+wind_42	no	O
+wind_42	longer	O
+wind_42	be	O
+wind_42	ignored	O

@@ -1,0 +1,16 @@
+winds_7	In	O
+winds_7	Far	O
+winds_7	North	O
+winds_7	Queensland	O
+winds_7	Kathy	O
+winds_7	brought	O
+winds_7	moderate	O
+winds_7	rainfall	O
+winds_7	and	O
+winds_7	strong	O
+winds_7	winds	winds_nou
+winds_7	to	O
+winds_7	much	O
+winds_7	of	O
+winds_7	the	O
+winds_7	region	O

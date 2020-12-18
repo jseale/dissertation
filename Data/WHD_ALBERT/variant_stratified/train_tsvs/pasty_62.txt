@@ -1,0 +1,9 @@
+pasty_62	In	O
+pasty_62	consistency	O
+pasty_62	it	O
+pasty_62	may	O
+pasty_62	be	O
+pasty_62	hard	O
+pasty_62	or	O
+pasty_62	rather	O
+pasty_62	pasty	pasty_nou

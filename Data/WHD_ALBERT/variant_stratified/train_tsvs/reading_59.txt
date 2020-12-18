@@ -1,0 +1,7 @@
+reading_59	His	O
+reading_59	interests	O
+reading_59	include	O
+reading_59	rugby	O
+reading_59	reading	reading_en
+reading_59	and	O
+reading_59	music	O

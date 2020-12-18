@@ -1,0 +1,13 @@
+sake_25	As	O
+sake_25	she	O
+sake_25	wrote	O
+sake_25	I	O
+sake_25	wish	O
+sake_25	woman	O
+sake_25	to	O
+sake_25	live	O
+sake_25	first	O
+sake_25	for	O
+sake_25	God	O
+sake_25	's	O
+sake_25	sake	sake

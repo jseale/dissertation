@@ -1,0 +1,17 @@
+associate_73	The	O
+associate_73	doctrine	O
+associate_73	of	O
+associate_73	Tabarra	O
+associate_73	itself	O
+associate_73	does	O
+associate_73	not	O
+associate_73	dictate	O
+associate_73	whom	O
+associate_73	to	O
+associate_73	dissociate	O
+associate_73	from	O
+associate_73	or	O
+associate_73	whom	O
+associate_73	to	O
+associate_73	associate	associate_vrb
+associate_73	with	O

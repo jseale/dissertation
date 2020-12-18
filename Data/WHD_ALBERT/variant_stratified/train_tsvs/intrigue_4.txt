@@ -1,0 +1,9 @@
+intrigue_4	This	O
+intrigue_4	is	O
+intrigue_4	a	O
+intrigue_4	tale	O
+intrigue_4	of	O
+intrigue_4	international	O
+intrigue_4	intrigue	intrigue_nou
+intrigue_4	and	O
+intrigue_4	espionage	O

@@ -1,0 +1,10 @@
+record_8	Rotterdam	O
+record_8	records	O
+record_8	was	O
+record_8	a	O
+record_8	Dutch	O
+record_8	record	record_nou
+record_8	label	O
+record_8	begun	O
+record_8	in	O
+record_8	1992	O

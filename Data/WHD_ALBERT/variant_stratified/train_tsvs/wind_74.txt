@@ -1,0 +1,13 @@
+wind_74	He	O
+wind_74	is	O
+wind_74	the	O
+wind_74	only	O
+wind_74	wind	wind_nou
+wind_74	god	O
+wind_74	that	O
+wind_74	Maui	O
+wind_74	did	O
+wind_74	not	O
+wind_74	take	O
+wind_74	control	O
+wind_74	of	O

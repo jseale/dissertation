@@ -1,0 +1,10 @@
+duplicate_70	This	O
+duplicate_70	will	O
+duplicate_70	duplicate	duplicate_vrb
+duplicate_70	exactly	O
+duplicate_70	the	O
+duplicate_70	assignment	O
+duplicate_70	produced	O
+duplicate_70	by	O
+duplicate_70	consistent	O
+duplicate_70	hashing	O

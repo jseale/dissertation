@@ -1,0 +1,17 @@
+invert_25	Some	O
+invert_25	songs	O
+invert_25	such	O
+invert_25	as	O
+invert_25	Invert	invert_vrb
+invert_25	the	O
+invert_25	Inverted	O
+invert_25	Cross	O
+invert_25	utilise	O
+invert_25	double	O
+invert_25	bass	O
+invert_25	drum	O
+invert_25	work	O
+invert_25	to	O
+invert_25	drive	O
+invert_25	the	O
+invert_25	song	O

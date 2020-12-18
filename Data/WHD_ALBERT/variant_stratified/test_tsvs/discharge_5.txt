@@ -1,0 +1,16 @@
+discharge_5	Since	O
+discharge_5	1993	O
+discharge_5	an	O
+discharge_5	innovative	O
+discharge_5	sewer	O
+discharge_5	system	O
+discharge_5	has	O
+discharge_5	protected	O
+discharge_5	the	O
+discharge_5	water	O
+discharge_5	in	O
+discharge_5	the	O
+discharge_5	area	O
+discharge_5	from	O
+discharge_5	sewage	O
+discharge_5	discharge	discharge_nou

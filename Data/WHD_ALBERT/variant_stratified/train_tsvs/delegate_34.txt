@@ -1,0 +1,8 @@
+delegate_34	Each	O
+delegate_34	is	O
+delegate_34	represented	O
+delegate_34	by	O
+delegate_34	a	O
+delegate_34	non	O
+delegate_34	voting	O
+delegate_34	delegate	delegate_nou

@@ -1,0 +1,17 @@
+frequent_6	In	O
+frequent_6	addition	O
+frequent_6	he	O
+frequent_6	is	O
+frequent_6	a	O
+frequent_6	frequent	frequent_adj
+frequent_6	performer	O
+frequent_6	on	O
+frequent_6	cruise	O
+frequent_6	ships	O
+frequent_6	and	O
+frequent_6	in	O
+frequent_6	resorts	O
+frequent_6	chartered	O
+frequent_6	by	O
+frequent_6	Atlantis	O
+frequent_6	Events	O

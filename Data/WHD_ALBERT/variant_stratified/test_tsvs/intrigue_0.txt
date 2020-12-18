@@ -1,0 +1,14 @@
+intrigue_0	Works	O
+intrigue_0	included	O
+intrigue_0	Médée	O
+intrigue_0	Adriana	O
+intrigue_0	Lecouvreur	O
+intrigue_0	Marie	O
+intrigue_0	Stuart	O
+intrigue_0	Deborah	O
+intrigue_0	Love	O
+intrigue_0	and	O
+intrigue_0	Intrigue	intrigue_nou
+intrigue_0	and	O
+intrigue_0	Emilia	O
+intrigue_0	Galotti	O

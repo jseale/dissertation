@@ -1,0 +1,12 @@
+blessed_47	Mrukanda	O
+blessed_47	Maharishi	O
+blessed_47	and	O
+blessed_47	his	O
+blessed_47	wife	O
+blessed_47	Marudhvathi	O
+blessed_47	were	O
+blessed_47	blessed	blessed_vrb
+blessed_47	with	O
+blessed_47	son	O
+blessed_47	Markandeya	O
+blessed_47	Maharishi	O

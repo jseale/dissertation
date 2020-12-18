@@ -1,0 +1,13 @@
+recount_8	The	O
+recount_8	later	O
+recount_8	five	O
+recount_8	books	O
+recount_8	recount	recount_vrb
+recount_8	previously	O
+recount_8	unrecorded	O
+recount_8	adventures	O
+recount_8	from	O
+recount_8	her	O
+recount_8	original	O
+recount_8	three	O
+recount_8	visits	O

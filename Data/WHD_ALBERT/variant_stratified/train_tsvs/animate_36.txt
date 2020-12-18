@@ -1,0 +1,17 @@
+animate_36	Bakshi	O
+animate_36	and	O
+animate_36	his	O
+animate_36	wife	O
+animate_36	had	O
+animate_36	separated	O
+animate_36	by	O
+animate_36	then	O
+animate_36	giving	O
+animate_36	him	O
+animate_36	the	O
+animate_36	time	O
+animate_36	to	O
+animate_36	animate	animate_vrb
+animate_36	each	O
+animate_36	short	O
+animate_36	alone	O

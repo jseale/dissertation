@@ -1,0 +1,12 @@
+produce_76	They	O
+produce_76	also	O
+produce_76	announced	O
+produce_76	that	O
+produce_76	they	O
+produce_76	will	O
+produce_76	produce	produce_vrb
+produce_76	some	O
+produce_76	songs	O
+produce_76	for	O
+produce_76	Christina	O
+produce_76	Aguilera	O

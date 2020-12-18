@@ -1,0 +1,16 @@
+record_18	Exclusive	O
+record_18	Native	O
+record_18	's	O
+record_18	race	O
+record_18	record	record_nou
+record_18	was	O
+record_18	13	O
+record_18	4	O
+record_18	4	O
+record_18	3	O
+record_18	and	O
+record_18	his	O
+record_18	earnings	O
+record_18	totaled	O
+record_18	$	O
+record_18	169,013	O

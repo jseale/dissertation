@@ -1,0 +1,13 @@
+document_4	The	O
+document_4	Ostrogoths	O
+document_4	are	O
+document_4	first	O
+document_4	named	O
+document_4	in	O
+document_4	a	O
+document_4	document	document_nou
+document_4	dated	O
+document_4	September	O
+document_4	392	O
+document_4	from	O
+document_4	Milan	O

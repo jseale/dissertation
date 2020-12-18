@@ -1,0 +1,16 @@
+diagnoses_27	Subsequent	O
+diagnoses_27	cases	O
+diagnoses_27	throughout	O
+diagnoses_27	the	O
+diagnoses_27	20th	O
+diagnoses_27	century	O
+diagnoses_27	reflect	O
+diagnoses_27	advancements	O
+diagnoses_27	in	O
+diagnoses_27	diagnoses	diagnoses_nou
+diagnoses_27	of	O
+diagnoses_27	both	O
+diagnoses_27	hearing	O
+diagnoses_27	loss	O
+diagnoses_27	and	O
+diagnoses_27	stroke	O

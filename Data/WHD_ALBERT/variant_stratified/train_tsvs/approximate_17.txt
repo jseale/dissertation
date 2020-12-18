@@ -1,0 +1,10 @@
+approximate_17	In	O
+approximate_17	2006	O
+approximate_17	the	O
+approximate_17	village	O
+approximate_17	had	O
+approximate_17	an	O
+approximate_17	approximate	approximate_adj-nou
+approximate_17	population	O
+approximate_17	of	O
+approximate_17	270	O

@@ -1,0 +1,15 @@
+expose_76	One	O
+expose_76	way	O
+expose_76	of	O
+expose_76	doing	O
+expose_76	so	O
+expose_76	was	O
+expose_76	to	O
+expose_76	avoid	O
+expose_76	foreign	O
+expose_76	publicity	O
+expose_76	in	O
+expose_76	order	O
+expose_76	to	O
+expose_76	expose	expose_vrb
+expose_76	problems	O

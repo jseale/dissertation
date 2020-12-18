@@ -1,0 +1,16 @@
+approximate_58	The	O
+approximate_58	method	O
+approximate_58	yields	O
+approximate_58	approximate	approximate_adj-nou
+approximate_58	values	O
+approximate_58	of	O
+approximate_58	the	O
+approximate_58	unknowns	O
+approximate_58	at	O
+approximate_58	discrete	O
+approximate_58	number	O
+approximate_58	of	O
+approximate_58	points	O
+approximate_58	over	O
+approximate_58	the	O
+approximate_58	domain	O

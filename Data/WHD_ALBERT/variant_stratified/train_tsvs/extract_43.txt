@@ -1,0 +1,17 @@
+extract_43	Upon	O
+extract_43	arrival	O
+extract_43	at	O
+extract_43	the	O
+extract_43	mill	O
+extract_43	cane	O
+extract_43	stalks	O
+extract_43	are	O
+extract_43	washed	O
+extract_43	cut	O
+extract_43	and	O
+extract_43	juiced	O
+extract_43	to	O
+extract_43	extract	extract_vrb
+extract_43	the	O
+extract_43	sugar	O
+extract_43	syrup	O

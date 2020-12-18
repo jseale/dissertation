@@ -1,0 +1,14 @@
+sake_3	This	O
+sake_3	is	O
+sake_3	for	O
+sake_3	the	O
+sake_3	sake	sake
+sake_3	of	O
+sake_3	accuracy	O
+sake_3	as	O
+sake_3	the	O
+sake_3	translation	O
+sake_3	of	O
+sake_3	Sabaoth	O
+sake_3	is	O
+sake_3	uncertain	O

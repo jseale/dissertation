@@ -1,0 +1,16 @@
+excuse_7	I	O
+excuse_7	'm	O
+excuse_7	not	O
+excuse_7	offering	O
+excuse_7	any	O
+excuse_7	excuse	excuse_nou
+excuse_7	I	O
+excuse_7	'm	O
+excuse_7	heartily	O
+excuse_7	sorry	O
+excuse_7	Thigpen	O
+excuse_7	told	O
+excuse_7	the	O
+excuse_7	judge	O
+excuse_7	at	O
+excuse_7	sentencing	O

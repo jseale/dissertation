@@ -1,0 +1,10 @@
+insert_17	Protein	O
+insert_17	expressed	O
+insert_17	from	O
+insert_17	ligated	O
+insert_17	gene	O
+insert_17	insert	insert_nou
+insert_17	is	O
+insert_17	toxic	O
+insert_17	to	O
+insert_17	cells	O

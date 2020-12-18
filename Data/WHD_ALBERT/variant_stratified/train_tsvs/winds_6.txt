@@ -1,0 +1,15 @@
+winds_6	High	O
+winds_6	winds	winds_nou
+winds_6	also	O
+winds_6	damaged	O
+winds_6	large	O
+winds_6	swaths	O
+winds_6	of	O
+winds_6	forest	O
+winds_6	and	O
+winds_6	crops	O
+winds_6	mostly	O
+winds_6	affecting	O
+winds_6	the	O
+winds_6	banana	O
+winds_6	industry	O

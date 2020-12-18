@@ -1,0 +1,14 @@
+alternate_33	He	O
+alternate_33	was	O
+alternate_33	an	O
+alternate_33	alternate	alternate_adj-nou
+alternate_33	for	O
+alternate_33	the	O
+alternate_33	Republic	O
+alternate_33	of	O
+alternate_33	Georgia	O
+alternate_33	at	O
+alternate_33	the	O
+alternate_33	2008	O
+alternate_33	Summer	O
+alternate_33	Olympics	O

@@ -1,0 +1,15 @@
+live_50	The	O
+live_50	doctors	O
+live_50	estimated	O
+live_50	Pausch	O
+live_50	had	O
+live_50	three	O
+live_50	to	O
+live_50	six	O
+live_50	months	O
+live_50	of	O
+live_50	good	O
+live_50	health	O
+live_50	left	O
+live_50	to	O
+live_50	live	live_vrb

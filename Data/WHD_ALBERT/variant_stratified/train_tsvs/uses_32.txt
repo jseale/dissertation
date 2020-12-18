@@ -1,0 +1,16 @@
+uses_32	Shock	O
+uses_32	rarely	O
+uses_32	speaks	O
+uses_32	directly	O
+uses_32	instead	O
+uses_32	he	O
+uses_32	beat	O
+uses_32	boxes	O
+uses_32	and	O
+uses_32	uses	uses_vrb
+uses_32	his	O
+uses_32	hands	O
+uses_32	to	O
+uses_32	act	O
+uses_32	out	O
+uses_32	ideas	O

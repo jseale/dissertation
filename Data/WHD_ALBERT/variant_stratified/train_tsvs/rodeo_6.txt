@@ -1,0 +1,10 @@
+rodeo_6	The	O
+rodeo_6	rodeo	rodeo
+rodeo_6	has	O
+rodeo_6	generated	O
+rodeo_6	large	O
+rodeo_6	crowds	O
+rodeo_6	and	O
+rodeo_6	high	O
+rodeo_6	quality	O
+rodeo_6	competitors	O

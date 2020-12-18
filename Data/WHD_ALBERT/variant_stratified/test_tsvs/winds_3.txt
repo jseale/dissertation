@@ -1,0 +1,15 @@
+winds_3	Many	O
+winds_3	low	O
+winds_3	lying	O
+winds_3	areas	O
+winds_3	of	O
+winds_3	Manila	O
+winds_3	were	O
+winds_3	underwater	O
+winds_3	while	O
+winds_3	strong	O
+winds_3	winds	winds_nou
+winds_3	damaged	O
+winds_3	homes	O
+winds_3	and	O
+winds_3	trees	O

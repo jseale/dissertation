@@ -1,0 +1,17 @@
+intrigue_50	As	O
+intrigue_50	they	O
+intrigue_50	were	O
+intrigue_50	not	O
+intrigue_50	able	O
+intrigue_50	to	O
+intrigue_50	beat	O
+intrigue_50	him	O
+intrigue_50	militarily	O
+intrigue_50	the	O
+intrigue_50	Maratha	O
+intrigue_50	chief	O
+intrigue_50	faced	O
+intrigue_50	conspiracies	O
+intrigue_50	intrigue	intrigue_nou
+intrigue_50	and	O
+intrigue_50	treason	O

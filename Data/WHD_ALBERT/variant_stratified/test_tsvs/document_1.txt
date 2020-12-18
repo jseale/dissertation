@@ -1,0 +1,15 @@
+document_1	Mbeki	O
+document_1	did	O
+document_1	not	O
+document_1	directly	O
+document_1	claim	O
+document_1	authorship	O
+document_1	of	O
+document_1	the	O
+document_1	document	document_nou
+document_1	but	O
+document_1	said	O
+document_1	it	O
+document_1	reflected	O
+document_1	his	O
+document_1	views	O

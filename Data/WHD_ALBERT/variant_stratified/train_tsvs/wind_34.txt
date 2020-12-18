@@ -1,0 +1,15 @@
+wind_34	The	O
+wind_34	Sibioara	O
+wind_34	Wind	wind_nou
+wind_34	Farm	O
+wind_34	is	O
+wind_34	a	O
+wind_34	proposed	O
+wind_34	wind	wind_nou
+wind_34	power	O
+wind_34	project	O
+wind_34	in	O
+wind_34	Sibioara	O
+wind_34	Vaslui	O
+wind_34	County	O
+wind_34	Romania	O

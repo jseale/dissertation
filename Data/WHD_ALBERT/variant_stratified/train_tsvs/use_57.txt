@@ -1,0 +1,14 @@
+use_57	Academic	O
+use_57	critics	O
+use_57	have	O
+use_57	pointed	O
+use_57	out	O
+use_57	that	O
+use_57	pseudoarchaeologists	O
+use_57	typically	O
+use_57	neglect	O
+use_57	to	O
+use_57	use	use_vrb
+use_57	the	O
+use_57	scientific	O
+use_57	method	O

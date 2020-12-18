@@ -1,0 +1,13 @@
+combine_8	The	O
+combine_8	disciplines	O
+combine_8	listed	O
+combine_8	above	O
+combine_8	all	O
+combine_8	combine	combine_vrb
+combine_8	to	O
+combine_8	form	O
+combine_8	the	O
+combine_8	discipline	O
+combine_8	of	O
+combine_8	game	O
+combine_8	feel	O

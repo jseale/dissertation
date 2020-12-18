@@ -1,0 +1,10 @@
+live_25	The	O
+live_25	results	O
+live_25	show	O
+live_25	is	O
+live_25	recorded	O
+live_25	directly	O
+live_25	after	O
+live_25	the	O
+live_25	live	live_adj
+live_25	show	O

@@ -1,0 +1,13 @@
+compound_6	Its	O
+compound_6	shape	O
+compound_6	is	O
+compound_6	that	O
+compound_6	of	O
+compound_6	a	O
+compound_6	hexagram	O
+compound_6	the	O
+compound_6	compound	compound_nou
+compound_6	of	O
+compound_6	two	O
+compound_6	equilateral	O
+compound_6	triangles	O

@@ -1,0 +1,15 @@
+ornament_23	In	O
+ornament_23	1984	O
+ornament_23	the	O
+ornament_23	hood	O
+ornament_23	ornament	ornament_nou
+ornament_23	was	O
+ornament_23	removed	O
+ornament_23	and	O
+ornament_23	the	O
+ornament_23	Chrysler	O
+ornament_23	Pentastar	O
+ornament_23	moved	O
+ornament_23	to	O
+ornament_23	the	O
+ornament_23	grille	O

@@ -1,0 +1,17 @@
+analyses_67	In	O
+analyses_67	pre	O
+analyses_67	race	O
+analyses_67	analyses	analyses_nou
+analyses_67	Sastre	O
+analyses_67	was	O
+analyses_67	frequently	O
+analyses_67	mentioned	O
+analyses_67	as	O
+analyses_67	a	O
+analyses_67	rider	O
+analyses_67	who	O
+analyses_67	could	O
+analyses_67	contend	O
+analyses_67	for	O
+analyses_67	overall	O
+analyses_67	victory	O

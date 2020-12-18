@@ -1,0 +1,13 @@
+convict_40	Lynton	O
+convict_40	is	O
+convict_40	best	O
+convict_40	known	O
+convict_40	as	O
+convict_40	the	O
+convict_40	site	O
+convict_40	of	O
+convict_40	the	O
+convict_40	former	O
+convict_40	Lynton	O
+convict_40	Convict	convict_nou
+convict_40	Depot	O

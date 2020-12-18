@@ -1,0 +1,13 @@
+confines_9	An	O
+confines_9	inlay	O
+confines_9	is	O
+confines_9	a	O
+confines_9	restoration	O
+confines_9	which	O
+confines_9	lies	O
+confines_9	within	O
+confines_9	the	O
+confines_9	confines	confines_nou
+confines_9	of	O
+confines_9	the	O
+confines_9	cusps	O

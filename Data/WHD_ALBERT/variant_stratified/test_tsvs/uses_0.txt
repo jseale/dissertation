@@ -1,0 +1,16 @@
+uses_0	One	O
+uses_0	of	O
+uses_0	the	O
+uses_0	last	O
+uses_0	industrial	O
+uses_0	uses	uses_nou
+uses_0	for	O
+uses_0	large	O
+uses_0	bipolar	O
+uses_0	motors	O
+uses_0	was	O
+uses_0	for	O
+uses_0	early	O
+uses_0	railway	O
+uses_0	electric	O
+uses_0	locomotives	O

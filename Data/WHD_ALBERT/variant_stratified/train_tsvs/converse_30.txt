@@ -1,0 +1,12 @@
+converse_30	Runner	O
+converse_30	uniforms	O
+converse_30	were	O
+converse_30	provided	O
+converse_30	by	O
+converse_30	Levi	O
+converse_30	Strauss	O
+converse_30	with	O
+converse_30	Converse	converse_adj-nou
+converse_30	supplying	O
+converse_30	the	O
+converse_30	shoes	O

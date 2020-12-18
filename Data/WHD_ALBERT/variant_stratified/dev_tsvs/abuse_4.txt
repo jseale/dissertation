@@ -1,0 +1,12 @@
+abuse_4	Members	O
+abuse_4	of	O
+abuse_4	all	O
+abuse_4	three	O
+abuse_4	groups	O
+abuse_4	have	O
+abuse_4	been	O
+abuse_4	involved	O
+abuse_4	in	O
+abuse_4	child	O
+abuse_4	sexual	O
+abuse_4	abuse	abuse_nou

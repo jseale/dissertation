@@ -1,0 +1,17 @@
+celtic_77	He	O
+celtic_77	starred	O
+celtic_77	for	O
+celtic_77	Duntocher	O
+celtic_77	St.	O
+celtic_77	Mary	O
+celtic_77	's	O
+celtic_77	a	O
+celtic_77	boys	O
+celtic_77	guild	O
+celtic_77	team	O
+celtic_77	before	O
+celtic_77	signing	O
+celtic_77	for	O
+celtic_77	Celtic	celtic_adj-nou-sports
+celtic_77	in	O
+celtic_77	1943	O

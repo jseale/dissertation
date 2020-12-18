@@ -1,0 +1,15 @@
+sow_3	This	O
+sow_3	is	O
+sow_3	a	O
+sow_3	dance	O
+sow_3	performed	O
+sow_3	as	O
+sow_3	dancers	O
+sow_3	sow	sow
+sow_3	the	O
+sow_3	seeds	O
+sow_3	of	O
+sow_3	rice	O
+sow_3	in	O
+sow_3	the	O
+sow_3	jhums	O

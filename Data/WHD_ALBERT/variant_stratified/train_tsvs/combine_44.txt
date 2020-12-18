@@ -1,0 +1,17 @@
+combine_44	So	O
+combine_44	you	O
+combine_44	combine	combine_vrb
+combine_44	all	O
+combine_44	that	O
+combine_44	with	O
+combine_44	the	O
+combine_44	heavy	O
+combine_44	riffs	O
+combine_44	and	O
+combine_44	the	O
+combine_44	speed	O
+combine_44	and	O
+combine_44	you	O
+combine_44	've	O
+combine_44	got	O
+combine_44	it	O

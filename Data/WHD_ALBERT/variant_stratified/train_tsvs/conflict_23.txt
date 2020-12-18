@@ -1,0 +1,13 @@
+conflict_23	Boniface	O
+conflict_23	VIII	O
+conflict_23	viewed	O
+conflict_23	conflict	conflict_nou
+conflict_23	between	O
+conflict_23	England	O
+conflict_23	and	O
+conflict_23	France	O
+conflict_23	as	O
+conflict_23	a	O
+conflict_23	particularly	O
+conflict_23	grave	O
+conflict_23	matter	O

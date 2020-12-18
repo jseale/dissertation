@@ -1,0 +1,16 @@
+impact_33	Carnot	O
+impact_33	's	O
+impact_33	book	O
+impact_33	did	O
+impact_33	however	O
+impact_33	eventually	O
+impact_33	have	O
+impact_33	a	O
+impact_33	real	O
+impact_33	impact	impact_nou
+impact_33	on	O
+impact_33	the	O
+impact_33	design	O
+impact_33	of	O
+impact_33	practical	O
+impact_33	engines	O

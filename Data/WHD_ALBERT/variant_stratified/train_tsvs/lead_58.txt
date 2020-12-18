@@ -1,0 +1,15 @@
+lead_58	In	O
+lead_58	1967	O
+lead_58	Ramadas	O
+lead_58	was	O
+lead_58	officially	O
+lead_58	elected	O
+lead_58	to	O
+lead_58	lead	lead_nou-vrb
+lead_58	Kerala	O
+lead_58	Assembly	O
+lead_58	from	O
+lead_58	Attingal	O
+lead_58	in	O
+lead_58	Thiruvananthapuram	O
+lead_58	district	O

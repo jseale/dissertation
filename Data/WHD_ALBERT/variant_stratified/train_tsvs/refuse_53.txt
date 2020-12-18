@@ -1,0 +1,16 @@
+refuse_53	Devan	O
+refuse_53	decides	O
+refuse_53	to	O
+refuse_53	refuse	refuse_vrb
+refuse_53	his	O
+refuse_53	Divine	O
+refuse_53	Father	O
+refuse_53	's	O
+refuse_53	advice	O
+refuse_53	and	O
+refuse_53	prepares	O
+refuse_53	to	O
+refuse_53	welcome	O
+refuse_53	his	O
+refuse_53	terrible	O
+refuse_53	fate	O

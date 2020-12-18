@@ -1,0 +1,17 @@
+construct_8	It	O
+construct_8	is	O
+construct_8	often	O
+construct_8	advantageous	O
+construct_8	to	O
+construct_8	construct	construct_vrb
+construct_8	a	O
+construct_8	CLIN	O
+construct_8	Schedule	O
+construct_8	that	O
+construct_8	matches	O
+construct_8	an	O
+construct_8	outline	O
+construct_8	of	O
+construct_8	the	O
+construct_8	work	O
+construct_8	statement	O

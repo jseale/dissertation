@@ -1,0 +1,12 @@
+wind_8	In	O
+wind_8	Polynesian	O
+wind_8	mythology	O
+wind_8	Specifically	O
+wind_8	Samoa	O
+wind_8	Fa'atiu	O
+wind_8	is	O
+wind_8	the	O
+wind_8	wind	wind_nou
+wind_8	and	O
+wind_8	storm	O
+wind_8	god	O

@@ -1,0 +1,10 @@
+minute_0	They	O
+minute_0	have	O
+minute_0	one	O
+minute_0	minute	minute
+minute_0	in	O
+minute_0	which	O
+minute_0	to	O
+minute_0	make	O
+minute_0	their	O
+minute_0	choice	O

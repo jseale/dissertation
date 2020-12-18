@@ -1,0 +1,16 @@
+resume_72	Whenever	O
+resume_72	the	O
+resume_72	cloud	O
+resume_72	cover	O
+resume_72	broke	O
+resume_72	cast	O
+resume_72	and	O
+resume_72	crew	O
+resume_72	rushed	O
+resume_72	to	O
+resume_72	resume	resume_vrb
+resume_72	filming	O
+resume_72	abandoning	O
+resume_72	their	O
+resume_72	food	O
+resume_72	packets	O

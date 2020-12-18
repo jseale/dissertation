@@ -1,0 +1,15 @@
+correlate_4	On	O
+correlate_4	the	O
+correlate_4	feelings	O
+correlate_4	and	O
+correlate_4	their	O
+correlate_4	neural	O
+correlate_4	correlate	correlate_nou
+correlate_4	with	O
+correlate_4	an	O
+correlate_4	examination	O
+correlate_4	of	O
+correlate_4	the	O
+correlate_4	nature	O
+correlate_4	of	O
+correlate_4	pain	O

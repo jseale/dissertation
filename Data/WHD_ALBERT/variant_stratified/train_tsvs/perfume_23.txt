@@ -1,0 +1,7 @@
+perfume_23	Heat	O
+perfume_23	is	O
+perfume_23	a	O
+perfume_23	perfume	perfume_nou
+perfume_23	endorsed	O
+perfume_23	by	O
+perfume_23	Beyoncé	O

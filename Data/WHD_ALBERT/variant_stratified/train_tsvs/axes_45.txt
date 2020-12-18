@@ -1,0 +1,9 @@
+axes_45	Characteristic	O
+axes_45	tools	O
+axes_45	include	O
+axes_45	flake	O
+axes_45	axes	axes_nou-vrb
+axes_45	lanceolates	O
+axes_45	and	O
+axes_45	tanged	O
+axes_45	arrowheads	O

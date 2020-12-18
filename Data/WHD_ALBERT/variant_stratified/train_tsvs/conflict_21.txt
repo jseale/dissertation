@@ -1,0 +1,15 @@
+conflict_21	Deerfield	O
+conflict_21	's	O
+conflict_21	historical	O
+conflict_21	novel	O
+conflict_21	The	O
+conflict_21	Psy	O
+conflict_21	Warriors	O
+conflict_21	about	O
+conflict_21	the	O
+conflict_21	Korean	O
+conflict_21	conflict	conflict_nou
+conflict_21	was	O
+conflict_21	published	O
+conflict_21	in	O
+conflict_21	1994	O

@@ -1,0 +1,16 @@
+approximate_1	The	O
+approximate_1	bit	O
+approximate_1	error	O
+approximate_1	ratio	O
+approximate_1	can	O
+approximate_1	be	O
+approximate_1	considered	O
+approximate_1	as	O
+approximate_1	an	O
+approximate_1	approximate	approximate_adj-nou
+approximate_1	estimate	O
+approximate_1	of	O
+approximate_1	the	O
+approximate_1	bit	O
+approximate_1	error	O
+approximate_1	probability	O

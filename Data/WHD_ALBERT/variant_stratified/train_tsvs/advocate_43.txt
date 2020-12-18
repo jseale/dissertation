@@ -1,0 +1,13 @@
+advocate_43	Transgender	O
+advocate_43	advocate	advocate_nou
+advocate_43	Norrie	O
+advocate_43	May	O
+advocate_43	Welby	O
+advocate_43	was	O
+advocate_43	recognized	O
+advocate_43	as	O
+advocate_43	having	O
+advocate_43	unspecified	O
+advocate_43	status	O
+advocate_43	in	O
+advocate_43	2014	O

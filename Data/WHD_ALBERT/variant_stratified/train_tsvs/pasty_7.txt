@@ -1,0 +1,17 @@
+pasty_7	Shakespeare	O
+pasty_7	in	O
+pasty_7	The	O
+pasty_7	Merry	O
+pasty_7	Wives	O
+pasty_7	of	O
+pasty_7	Windsor	O
+pasty_7	alludes	O
+pasty_7	to	O
+pasty_7	a	O
+pasty_7	Venison	O
+pasty_7	pasty	pasty_adj
+pasty_7	made	O
+pasty_7	from	O
+pasty_7	ill	O
+pasty_7	killed	O
+pasty_7	deer	O

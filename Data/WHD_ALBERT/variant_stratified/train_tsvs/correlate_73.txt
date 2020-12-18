@@ -1,0 +1,11 @@
+correlate_73	Changes	O
+correlate_73	in	O
+correlate_73	ANO1	O
+correlate_73	channel	O
+correlate_73	activity	O
+correlate_73	directly	O
+correlate_73	positively	O
+correlate_73	correlate	correlate_nou-vrb
+correlate_73	with	O
+correlate_73	ICC	O
+correlate_73	activity	O

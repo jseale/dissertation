@@ -1,0 +1,14 @@
+refuse_3	However	O
+refuse_3	they	O
+refuse_3	refuse	refuse_vrb
+refuse_3	to	O
+refuse_3	serve	O
+refuse_3	light	O
+refuse_3	beer	O
+refuse_3	deigning	O
+refuse_3	that	O
+refuse_3	as	O
+refuse_3	unfit	O
+refuse_3	for	O
+refuse_3	human	O
+refuse_3	consumption	O

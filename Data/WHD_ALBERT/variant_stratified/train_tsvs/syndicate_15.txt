@@ -1,0 +1,7 @@
+syndicate_15	She	O
+syndicate_15	ran	O
+syndicate_15	the	O
+syndicate_15	syndicate	syndicate_nou
+syndicate_15	for	O
+syndicate_15	52	O
+syndicate_15	years	O

@@ -1,0 +1,17 @@
+increase_11	On	O
+increase_11	November	O
+increase_11	4	O
+increase_11	2008	O
+increase_11	voters	O
+increase_11	in	O
+increase_11	King	O
+increase_11	County	O
+increase_11	Seattle	O
+increase_11	approved	O
+increase_11	a	O
+increase_11	0.5	O
+increase_11	increase	increase_nou
+increase_11	in	O
+increase_11	the	O
+increase_11	sales	O
+increase_11	tax	O

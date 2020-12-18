@@ -1,0 +1,15 @@
+document_64	Torres	O
+document_64	repeated	O
+document_64	the	O
+document_64	stolen	O
+document_64	document	document_nou
+document_64	charge	O
+document_64	to	O
+document_64	the	O
+document_64	police	O
+document_64	and	O
+document_64	Helfeld	O
+document_64	was	O
+document_64	detained	O
+document_64	and	O
+document_64	handcuffed	O

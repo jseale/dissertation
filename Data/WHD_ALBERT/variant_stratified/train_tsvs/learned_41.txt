@@ -1,0 +1,10 @@
+learned_41	Fuller	O
+learned_41	learned	learned_vrb
+learned_41	mellophone	O
+learned_41	as	O
+learned_41	a	O
+learned_41	child	O
+learned_41	before	O
+learned_41	settling	O
+learned_41	on	O
+learned_41	trumpet	O

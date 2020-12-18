@@ -1,0 +1,13 @@
+abuses_55	There	O
+abuses_55	were	O
+abuses_55	reports	O
+abuses_55	of	O
+abuses_55	societal	O
+abuses_55	abuses	abuses_nou
+abuses_55	based	O
+abuses_55	on	O
+abuses_55	religious	O
+abuses_55	affiliation	O
+abuses_55	belief	O
+abuses_55	or	O
+abuses_55	practice	O

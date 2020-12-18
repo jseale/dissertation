@@ -1,0 +1,13 @@
+pervert_4	He	O
+pervert_4	added	O
+pervert_4	I	O
+pervert_4	am	O
+pervert_4	very	O
+pervert_4	sorry	O
+pervert_4	about	O
+pervert_4	the	O
+pervert_4	use	O
+pervert_4	of	O
+pervert_4	the	O
+pervert_4	word	O
+pervert_4	pervert	pervert_nou

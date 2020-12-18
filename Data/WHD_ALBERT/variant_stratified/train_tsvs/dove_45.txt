@@ -1,0 +1,12 @@
+dove_45	The	O
+dove_45	Wings	O
+dove_45	of	O
+dove_45	the	O
+dove_45	Dove	dove
+dove_45	is	O
+dove_45	a	O
+dove_45	1902	O
+dove_45	novel	O
+dove_45	by	O
+dove_45	Henry	O
+dove_45	James	O

@@ -1,0 +1,15 @@
+pervert_54	She	O
+pervert_54	is	O
+pervert_54	athletic	O
+pervert_54	and	O
+pervert_54	is	O
+pervert_54	often	O
+pervert_54	violent	O
+pervert_54	towards	O
+pervert_54	Haruki	O
+pervert_54	calling	O
+pervert_54	him	O
+pervert_54	Baka	O
+pervert_54	Eroki	O
+pervert_54	stupid	O
+pervert_54	pervert	pervert_nou

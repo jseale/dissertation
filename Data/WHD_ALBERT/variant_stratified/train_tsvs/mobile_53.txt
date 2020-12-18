@@ -1,0 +1,17 @@
+mobile_53	S.	O
+mobile_53	Alam	O
+mobile_53	J.	O
+mobile_53	Noll	O
+mobile_53	and	O
+mobile_53	D.	O
+mobile_53	Roman	O
+mobile_53	Semantic	O
+mobile_53	Policies	O
+mobile_53	for	O
+mobile_53	Service	O
+mobile_53	Access	O
+mobile_53	in	O
+mobile_53	Mobile	mobile
+mobile_53	supported	O
+mobile_53	Sensor	O
+mobile_53	"Networks"",Int"	O

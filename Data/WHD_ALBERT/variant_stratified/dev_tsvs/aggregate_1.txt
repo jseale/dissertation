@@ -1,0 +1,17 @@
+aggregate_1	The	O
+aggregate_1	quarter-	O
+aggregate_1	and	O
+aggregate_1	semifinals	O
+aggregate_1	will	O
+aggregate_1	be	O
+aggregate_1	played	O
+aggregate_1	over	O
+aggregate_1	two	O
+aggregate_1	legs	O
+aggregate_1	where	O
+aggregate_1	the	O
+aggregate_1	team	O
+aggregate_1	winning	O
+aggregate_1	on	O
+aggregate_1	aggregate	aggregate_adj-nou
+aggregate_1	advances	O

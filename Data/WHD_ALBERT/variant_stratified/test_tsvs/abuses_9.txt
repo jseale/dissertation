@@ -1,0 +1,8 @@
+abuses_9	Ruby	O
+abuses_9	verbally	O
+abuses_9	abuses	abuses_vrb
+abuses_9	Colin	O
+abuses_9	and	O
+abuses_9	he	O
+abuses_9	slaps	O
+abuses_9	her	O

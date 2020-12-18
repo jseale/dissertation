@@ -1,0 +1,17 @@
+dove_23	Jane	O
+dove_23	and	O
+dove_23	Mr	O
+dove_23	Rochester	O
+dove_23	use	O
+dove_23	bird	O
+dove_23	names	O
+dove_23	for	O
+dove_23	each	O
+dove_23	other	O
+dove_23	including	O
+dove_23	linnet	O
+dove_23	dove	dove
+dove_23	skylark	O
+dove_23	eagle	O
+dove_23	and	O
+dove_23	falcon	O

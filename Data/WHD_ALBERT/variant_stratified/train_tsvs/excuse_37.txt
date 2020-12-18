@@ -1,0 +1,12 @@
+excuse_37	For	O
+excuse_37	this	O
+excuse_37	admixture	O
+excuse_37	of	O
+excuse_37	secular	O
+excuse_37	with	O
+excuse_37	spiritual	O
+excuse_37	aims	O
+excuse_37	there	O
+excuse_37	was	O
+excuse_37	considerable	O
+excuse_37	excuse	excuse_nou

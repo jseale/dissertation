@@ -1,0 +1,17 @@
+invite_8	Paige	O
+invite_8	's	O
+invite_8	birthday	O
+invite_8	is	O
+invite_8	approaching	O
+invite_8	and	O
+invite_8	she	O
+invite_8	requests	O
+invite_8	to	O
+invite_8	invite	invite_vrb
+invite_8	Pastor	O
+invite_8	Tim	O
+invite_8	and	O
+invite_8	his	O
+invite_8	wife	O
+invite_8	to	O
+invite_8	dinner	O

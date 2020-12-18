@@ -1,0 +1,14 @@
+converse_41	Although	O
+converse_41	the	O
+converse_41	converse	converse_adj-nou
+converse_41	statement	O
+converse_41	is	O
+converse_41	not	O
+converse_41	true	O
+converse_41	in	O
+converse_41	general	O
+converse_41	some	O
+converse_41	special	O
+converse_41	cases	O
+converse_41	are	O
+converse_41	known	O

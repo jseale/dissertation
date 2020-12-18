@@ -1,0 +1,17 @@
+fragment_14	Only	O
+fragment_14	a	O
+fragment_14	fragment	fragment_nou
+fragment_14	of	O
+fragment_14	its	O
+fragment_14	population	O
+fragment_14	survive	O
+fragment_14	and	O
+fragment_14	those	O
+fragment_14	that	O
+fragment_14	survive	O
+fragment_14	live	O
+fragment_14	in	O
+fragment_14	the	O
+fragment_14	most	O
+fragment_14	primitive	O
+fragment_14	conditions	O

@@ -1,0 +1,13 @@
+convict_36	Mary	O
+convict_36	Bryant	O
+convict_36	the	O
+convict_36	famous	O
+convict_36	female	O
+convict_36	convict	convict_nou
+convict_36	and	O
+convict_36	escapee	O
+convict_36	transported	O
+convict_36	on	O
+convict_36	the	O
+convict_36	First	O
+convict_36	fleet	O

@@ -1,0 +1,15 @@
+transform_7	Pop	O
+transform_7	Up	O
+transform_7	Parks	O
+transform_7	temporarily	O
+transform_7	or	O
+transform_7	permanently	O
+transform_7	transform	transform
+transform_7	underused	O
+transform_7	spaces	O
+transform_7	into	O
+transform_7	community	O
+transform_7	gathering	O
+transform_7	areas	O
+transform_7	through	O
+transform_7	beautification	O

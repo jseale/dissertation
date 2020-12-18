@@ -1,0 +1,15 @@
+discharge_37	Officers	O
+discharge_37	who	O
+discharge_37	did	O
+discharge_37	not	O
+discharge_37	choose	O
+discharge_37	to	O
+discharge_37	stand	O
+discharge_37	for	O
+discharge_37	re	O
+discharge_37	election	O
+discharge_37	were	O
+discharge_37	also	O
+discharge_37	offered	O
+discharge_37	a	O
+discharge_37	discharge	discharge_nou

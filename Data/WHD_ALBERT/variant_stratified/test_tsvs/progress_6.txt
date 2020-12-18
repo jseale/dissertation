@@ -1,0 +1,17 @@
+progress_6	Jenny	O
+progress_6	Clover	O
+progress_6	February	O
+progress_6	1	O
+progress_6	2013	O
+progress_6	Germany	O
+progress_6	says	O
+progress_6	unfreezing	O
+progress_6	Rwandan	O
+progress_6	aid	O
+progress_6	but	O
+progress_6	to	O
+progress_6	watch	O
+progress_6	progress	progress_nou
+progress_6	on	O
+progress_6	Congo	O
+progress_6	Reuters	O

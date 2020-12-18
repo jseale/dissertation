@@ -1,0 +1,11 @@
+blessed_7	God	O
+blessed_7	blessed	blessed_vrb
+blessed_7	him	O
+blessed_7	as	O
+blessed_7	a	O
+blessed_7	Wonderworker	O
+blessed_7	and	O
+blessed_7	he	O
+blessed_7	reposed	O
+blessed_7	in	O
+blessed_7	peace	O

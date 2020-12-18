@@ -1,0 +1,9 @@
+export_61	This	O
+export_61	model	O
+export_61	has	O
+export_61	125	O
+export_61	PS	O
+export_61	92	O
+export_61	kW	O
+export_61	for	O
+export_61	export	export_nou

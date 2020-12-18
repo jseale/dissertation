@@ -1,0 +1,17 @@
+permit_41	Illegal	O
+permit_41	construction	O
+permit_41	or	O
+permit_41	building	O
+permit_41	is	O
+permit_41	construction	O
+permit_41	work	O
+permit_41	or	O
+permit_41	the	O
+permit_41	result	O
+permit_41	of	O
+permit_41	such	O
+permit_41	without	O
+permit_41	a	O
+permit_41	valid	O
+permit_41	construction	O
+permit_41	permit	permit_nou

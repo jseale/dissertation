@@ -1,0 +1,15 @@
+fragment_28	The	O
+fragment_28	title	O
+fragment_28	came	O
+fragment_28	from	O
+fragment_28	a	O
+fragment_28	fragment	fragment_nou
+fragment_28	Bryan	O
+fragment_28	Adams	O
+fragment_28	and	O
+fragment_28	Jim	O
+fragment_28	Vallance	O
+fragment_28	wrote	O
+fragment_28	in	O
+fragment_28	late	O
+fragment_28	1980s	O

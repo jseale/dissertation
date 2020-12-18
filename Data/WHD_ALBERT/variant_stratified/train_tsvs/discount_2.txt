@@ -1,0 +1,8 @@
+discount_2	It	O
+discount_2	is	O
+discount_2	sold	O
+discount_2	mostly	O
+discount_2	in	O
+discount_2	UK	O
+discount_2	discount	discount_nou
+discount_2	stores	O

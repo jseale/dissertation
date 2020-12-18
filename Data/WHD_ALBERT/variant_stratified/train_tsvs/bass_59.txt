@@ -1,0 +1,15 @@
+bass_59	ASCII	O
+bass_59	tab	O
+bass_59	files	O
+bass_59	usually	O
+bass_59	have	O
+bass_59	the	O
+bass_59	file	O
+bass_59	extension	O
+bass_59	.tab	O
+bass_59	.btab	O
+bass_59	for	O
+bass_59	bass	bass
+bass_59	guitar	O
+bass_59	or	O
+bass_59	.txt	O

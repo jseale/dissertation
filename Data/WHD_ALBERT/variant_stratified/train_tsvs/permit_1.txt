@@ -1,0 +1,9 @@
+permit_1	The	O
+permit_1	construction	O
+permit_1	permit	permit_nou
+permit_1	was	O
+permit_1	granted	O
+permit_1	on	O
+permit_1	March	O
+permit_1	19	O
+permit_1	2001	O

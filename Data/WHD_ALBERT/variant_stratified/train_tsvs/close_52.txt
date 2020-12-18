@@ -1,0 +1,14 @@
+close_52	By	O
+close_52	this	O
+close_52	time	O
+close_52	Engima	O
+close_52	has	O
+close_52	clocked	O
+close_52	close	close_adj-nou
+close_52	to	O
+close_52	an	O
+close_52	estimated	O
+close_52	30	O
+close_52	million	O
+close_52	sales	O
+close_52	worldwide	O

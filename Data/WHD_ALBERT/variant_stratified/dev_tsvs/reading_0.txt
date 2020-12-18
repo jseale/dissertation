@@ -1,0 +1,11 @@
+reading_0	In	O
+reading_0	reading	reading_en
+reading_0	just	O
+reading_0	77	O
+reading_0	of	O
+reading_0	the	O
+reading_0	students	O
+reading_0	were	O
+reading_0	on	O
+reading_0	grade	O
+reading_0	level	O

@@ -1,0 +1,13 @@
+perfect_1	With	O
+perfect_1	the	O
+perfect_1	pressure	O
+perfect_1	relieved	O
+perfect_1	Howard	O
+perfect_1	makes	O
+perfect_1	the	O
+perfect_1	final	O
+perfect_1	strike	O
+perfect_1	for	O
+perfect_1	a	O
+perfect_1	perfect	perfect_adj
+perfect_1	game	O

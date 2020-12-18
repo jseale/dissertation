@@ -1,0 +1,9 @@
+invert_7	To	O
+invert_7	invert	invert_vrb
+invert_7	this	O
+invert_7	function	O
+invert_7	an	O
+invert_7	attacker	O
+invert_7	establishes	O
+invert_7	the	O
+invert_7	following	O

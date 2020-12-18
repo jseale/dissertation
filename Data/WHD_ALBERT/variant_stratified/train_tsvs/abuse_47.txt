@@ -1,0 +1,16 @@
+abuse_47	In	O
+abuse_47	retaliation	O
+abuse_47	to	O
+abuse_47	this	O
+abuse_47	a	O
+abuse_47	report	O
+abuse_47	into	O
+abuse_47	child	O
+abuse_47	sexual	O
+abuse_47	abuse	abuse_nou
+abuse_47	in	O
+abuse_47	the	O
+abuse_47	Northern	O
+abuse_47	Territory	O
+abuse_47	was	O
+abuse_47	commissioned	O

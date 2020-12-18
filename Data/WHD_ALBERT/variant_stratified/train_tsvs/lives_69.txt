@@ -1,0 +1,12 @@
+lives_69	Larsen	O
+lives_69	lives	lives_vrb
+lives_69	in	O
+lives_69	Fairhope	O
+lives_69	Alabama	O
+lives_69	with	O
+lives_69	his	O
+lives_69	wife	O
+lives_69	and	O
+lives_69	their	O
+lives_69	three	O
+lives_69	children	O

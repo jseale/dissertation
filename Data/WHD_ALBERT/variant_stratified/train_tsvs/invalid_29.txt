@@ -1,0 +1,17 @@
+invalid_29	Each	O
+invalid_29	day	O
+invalid_29	a	O
+invalid_29	new	O
+invalid_29	code	O
+invalid_29	is	O
+invalid_29	printed	O
+invalid_29	on	O
+invalid_29	the	O
+invalid_29	wristband	O
+invalid_29	meaning	O
+invalid_29	wristbands	O
+invalid_29	from	O
+invalid_29	previous	O
+invalid_29	days	O
+invalid_29	become	O
+invalid_29	invalid	invalid_adj

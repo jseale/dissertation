@@ -1,0 +1,14 @@
+misuse_50	Denis	O
+misuse_50	McQuail	O
+misuse_50	also	O
+misuse_50	believes	O
+misuse_50	new	O
+misuse_50	media	O
+misuse_50	needs	O
+misuse_50	regulations	O
+misuse_50	to	O
+misuse_50	avoid	O
+misuse_50	misuse	misuse_nou
+misuse_50	of	O
+misuse_50	monopoly	O
+misuse_50	power	O

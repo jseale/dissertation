@@ -1,0 +1,15 @@
+perfect_8	The	O
+perfect_8	auctioneer	O
+perfect_8	provides	O
+perfect_8	for	O
+perfect_8	the	O
+perfect_8	features	O
+perfect_8	of	O
+perfect_8	perfect	perfect_adj
+perfect_8	competition	O
+perfect_8	perfect	perfect_adj
+perfect_8	information	O
+perfect_8	and	O
+perfect_8	no	O
+perfect_8	transaction	O
+perfect_8	costs	O

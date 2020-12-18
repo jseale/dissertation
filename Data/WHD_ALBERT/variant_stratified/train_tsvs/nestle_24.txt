@@ -1,0 +1,16 @@
+nestle_24	Nestle	nestle_nam
+nestle_24	closed	O
+nestle_24	the	O
+nestle_24	bulk	O
+nestle_24	of	O
+nestle_24	the	O
+nestle_24	factory	O
+nestle_24	in	O
+nestle_24	1929	O
+nestle_24	retaining	O
+nestle_24	some	O
+nestle_24	secondary	O
+nestle_24	production	O
+nestle_24	until	O
+nestle_24	December	O
+nestle_24	1930	O

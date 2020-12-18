@@ -1,0 +1,11 @@
+retard_7	Burner	O
+retard_7	is	O
+retard_7	a	O
+retard_7	mutant	O
+retard_7	that	O
+retard_7	can	O
+retard_7	psionically	O
+retard_7	induce	O
+retard_7	and	O
+retard_7	retard	retard_vrb
+retard_7	combustion	O

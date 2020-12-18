@@ -1,0 +1,15 @@
+implant_0	Segesterone	O
+implant_0	acetate	O
+implant_0	is	O
+implant_0	only	O
+implant_0	weakly	O
+implant_0	active	O
+implant_0	orally	O
+implant_0	and	O
+implant_0	is	O
+implant_0	instead	O
+implant_0	given	O
+implant_0	as	O
+implant_0	a	O
+implant_0	subcutaneous	O
+implant_0	implant	implant_nou

@@ -1,0 +1,11 @@
+frequent_20	McGathy	O
+frequent_20	became	O
+frequent_20	a	O
+frequent_20	frequent	frequent_adj
+frequent_20	guest	O
+frequent_20	and	O
+frequent_20	comptroller	O
+frequent_20	on	O
+frequent_20	the	O
+frequent_20	Harmontown	O
+frequent_20	podcast	O

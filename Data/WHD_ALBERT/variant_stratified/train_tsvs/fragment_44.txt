@@ -1,0 +1,10 @@
+fragment_44	The	O
+fragment_44	measurements	O
+fragment_44	of	O
+fragment_44	the	O
+fragment_44	fragment	fragment_nou
+fragment_44	are	O
+fragment_44	177	O
+fragment_44	by	O
+fragment_44	163	O
+fragment_44	mm	O

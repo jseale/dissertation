@@ -1,0 +1,17 @@
+reject_13	When	O
+reject_13	that	O
+reject_13	happens	O
+reject_13	the	O
+reject_13	females	O
+reject_13	reject	reject_vrb
+reject_13	them	O
+reject_13	suggesting	O
+reject_13	a	O
+reject_13	strong	O
+reject_13	mechanism	O
+reject_13	for	O
+reject_13	the	O
+reject_13	selection	O
+reject_13	of	O
+reject_13	parasite	O
+reject_13	resistance	O

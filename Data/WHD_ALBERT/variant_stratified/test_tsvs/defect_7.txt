@@ -1,0 +1,17 @@
+defect_7	Dominant	O
+defect_7	optic	O
+defect_7	atrophy	O
+defect_7	is	O
+defect_7	an	O
+defect_7	autosomal	O
+defect_7	dominant	O
+defect_7	disease	O
+defect_7	caused	O
+defect_7	by	O
+defect_7	a	O
+defect_7	defect	defect_nou
+defect_7	in	O
+defect_7	the	O
+defect_7	nuclear	O
+defect_7	gene	O
+defect_7	OPA1	O

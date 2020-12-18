@@ -1,0 +1,11 @@
+suspect_33	Rex	O
+suspect_33	's	O
+suspect_33	wife	O
+suspect_33	Adele	O
+suspect_33	is	O
+suspect_33	the	O
+suspect_33	main	O
+suspect_33	suspect	suspect_adj-nou
+suspect_33	in	O
+suspect_33	the	O
+suspect_33	murder	O

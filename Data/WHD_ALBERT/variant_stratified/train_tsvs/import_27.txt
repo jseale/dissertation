@@ -1,0 +1,14 @@
+import_27	Mexico	O
+import_27	continued	O
+import_27	the	O
+import_27	smothering	O
+import_27	economic	O
+import_27	policies	O
+import_27	implemented	O
+import_27	by	O
+import_27	Spain	O
+import_27	limiting	O
+import_27	production	O
+import_27	and	O
+import_27	import	import_nou
+import_27	opportunities	O

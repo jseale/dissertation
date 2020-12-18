@@ -1,0 +1,16 @@
+rerelease_1	RuneScape	O
+rerelease_1	3	O
+rerelease_1	will	O
+rerelease_1	use	O
+rerelease_1	the	O
+rerelease_1	Elo	O
+rerelease_1	system	O
+rerelease_1	for	O
+rerelease_1	the	O
+rerelease_1	rerelease	rerelease
+rerelease_1	of	O
+rerelease_1	bounty	O
+rerelease_1	hunter	O
+rerelease_1	later	O
+rerelease_1	in	O
+rerelease_1	2016	O

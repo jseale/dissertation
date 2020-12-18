@@ -1,0 +1,8 @@
+refuse_9	It	O
+refuse_9	is	O
+refuse_9	The	O
+refuse_9	Right	O
+refuse_9	to	O
+refuse_9	Refuse	refuse_vrb
+refuse_9	to	O
+refuse_9	Kill	O

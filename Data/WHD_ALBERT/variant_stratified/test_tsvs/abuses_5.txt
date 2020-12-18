@@ -1,0 +1,17 @@
+abuses_5	The	O
+abuses_5	specific	O
+abuses_5	purposes	O
+abuses_5	of	O
+abuses_5	the	O
+abuses_5	shortwave	O
+abuses_5	radio	O
+abuses_5	program	O
+abuses_5	are:-	O
+abuses_5	Helping	O
+abuses_5	victims	O
+abuses_5	of	O
+abuses_5	oppressions	O
+abuses_5	labor	O
+abuses_5	abuses	abuses_nou
+abuses_5	corruptions	O
+abuses_5	etc	O

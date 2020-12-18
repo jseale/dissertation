@@ -1,0 +1,15 @@
+resume_49	In	O
+resume_49	2011	O
+resume_49	citing	O
+resume_49	economic	O
+resume_49	concerns	O
+resume_49	the	O
+resume_49	County	O
+resume_49	permitted	O
+resume_49	the	O
+resume_49	annual	O
+resume_49	signature	O
+resume_49	event	O
+resume_49	to	O
+resume_49	fully	O
+resume_49	resume	resume_vrb

@@ -1,0 +1,16 @@
+resume_2	Any	O
+resume_2	actress	O
+resume_2	today	O
+resume_2	would	O
+resume_2	be	O
+resume_2	lucky	O
+resume_2	to	O
+resume_2	have	O
+resume_2	a	O
+resume_2	fraction	O
+resume_2	of	O
+resume_2	her	O
+resume_2	films	O
+resume_2	on	O
+resume_2	her	O
+resume_2	resume	resume_nou

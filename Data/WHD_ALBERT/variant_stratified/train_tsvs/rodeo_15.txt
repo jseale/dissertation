@@ -1,0 +1,17 @@
+rodeo_15	In	O
+rodeo_15	Chile	O
+rodeo_15	they	O
+rodeo_15	organize	O
+rodeo_15	annual	O
+rodeo_15	marches	O
+rodeo_15	against	O
+rodeo_15	the	O
+rodeo_15	mistreatment	O
+rodeo_15	undergone	O
+rodeo_15	by	O
+rodeo_15	young	O
+rodeo_15	bulls	O
+rodeo_15	in	O
+rodeo_15	the	O
+rodeo_15	Chilean	O
+rodeo_15	rodeo	rodeo

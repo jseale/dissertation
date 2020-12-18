@@ -1,0 +1,15 @@
+implement_57	In	O
+implement_57	1957	O
+implement_57	Congress	O
+implement_57	passed	O
+implement_57	the	O
+implement_57	Civil	O
+implement_57	Rights	O
+implement_57	Act	O
+implement_57	of	O
+implement_57	1957	O
+implement_57	to	O
+implement_57	implement	implement_vrb
+implement_57	the	O
+implement_57	Fifteenth	O
+implement_57	Amendment	O

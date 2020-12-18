@@ -1,0 +1,15 @@
+pervert_5	Anchovie	O
+pervert_5	Allcock	O
+pervert_5	also	O
+pervert_5	known	O
+pervert_5	as	O
+pervert_5	Pizza	O
+pervert_5	Guy	O
+pervert_5	is	O
+pervert_5	Germaine	O
+pervert_5	's	O
+pervert_5	stalker	O
+pervert_5	and	O
+pervert_5	a	O
+pervert_5	general	O
+pervert_5	pervert	pervert_nou

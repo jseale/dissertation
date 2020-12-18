@@ -1,0 +1,7 @@
+protest_58	They	O
+protest_58	conducted	O
+protest_58	frequent	O
+protest_58	voting	O
+protest_58	boycotts	O
+protest_58	in	O
+protest_58	protest	protest_nou

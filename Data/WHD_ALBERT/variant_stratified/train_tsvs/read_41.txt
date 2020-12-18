@@ -1,0 +1,17 @@
+read_41	The	O
+read_41	articles	O
+read_41	were	O
+read_41	delivered	O
+read_41	to	O
+read_41	the	O
+read_41	Council	O
+read_41	in	O
+read_41	London	O
+read_41	and	O
+read_41	were	O
+read_41	probably	O
+read_41	read	read_past
+read_41	on	O
+read_41	22	O
+read_41	April	O
+read_41	1543	O

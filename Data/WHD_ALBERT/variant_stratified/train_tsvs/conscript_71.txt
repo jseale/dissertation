@@ -1,0 +1,15 @@
+conscript_71	During	O
+conscript_71	World	O
+conscript_71	War	O
+conscript_71	I	O
+conscript_71	an	O
+conscript_71	act	O
+conscript_71	attempted	O
+conscript_71	to	O
+conscript_71	conscript	conscript_vrb
+conscript_71	Six	O
+conscript_71	Nations	O
+conscript_71	men	O
+conscript_71	for	O
+conscript_71	military	O
+conscript_71	service	O

@@ -1,0 +1,15 @@
+diffuse_6	The	O
+diffuse_6	underside	O
+diffuse_6	hindwings	O
+diffuse_6	of	O
+diffuse_6	the	O
+diffuse_6	females	O
+diffuse_6	shows	O
+diffuse_6	a	O
+diffuse_6	diffuse	diffuse_adj
+diffuse_6	clear	O
+diffuse_6	or	O
+diffuse_6	whitish	O
+diffuse_6	band	O
+diffuse_6	strongly	O
+diffuse_6	dentate	O

@@ -1,0 +1,17 @@
+aggregate_32	More	O
+aggregate_32	than	O
+aggregate_32	20	O
+aggregate_32	of	O
+aggregate_32	the	O
+aggregate_32	reefs	O
+aggregate_32	have	O
+aggregate_32	been	O
+aggregate_32	mined	O
+aggregate_32	for	O
+aggregate_32	aggregate	aggregate_adj-nou
+aggregate_32	which	O
+aggregate_32	is	O
+aggregate_32	reputedly	O
+aggregate_32	of	O
+aggregate_32	high	O
+aggregate_32	quality	O

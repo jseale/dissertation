@@ -1,0 +1,17 @@
+estimate_2	The	O
+estimate_2	estimate	estimate_nou
+estimate_2	of	O
+estimate_2	the	O
+estimate_2	World	O
+estimate_2	Romani	O
+estimate_2	Union	O
+estimate_2	and	O
+estimate_2	the	O
+estimate_2	Council	O
+estimate_2	of	O
+estimate_2	Europe	O
+estimate_2	is	O
+estimate_2	considerably	O
+estimate_2	higher	O
+estimate_2	around	O
+estimate_2	400,000	O

@@ -1,0 +1,7 @@
+impact_47	The	O
+impact_47	impact	impact_nou
+impact_47	of	O
+impact_47	the	O
+impact_47	attacks	O
+impact_47	remains	O
+impact_47	unclear	O

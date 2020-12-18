@@ -1,0 +1,17 @@
+deliberate_6	Whether	O
+deliberate_6	this	O
+deliberate_6	was	O
+deliberate_6	deliberate	deliberate_adj
+deliberate_6	on	O
+deliberate_6	his	O
+deliberate_6	part	O
+deliberate_6	or	O
+deliberate_6	just	O
+deliberate_6	rather	O
+deliberate_6	poor	O
+deliberate_6	sub	O
+deliberate_6	editing	O
+deliberate_6	by	O
+deliberate_6	OUP	O
+deliberate_6	is	O
+deliberate_6	debatable	O

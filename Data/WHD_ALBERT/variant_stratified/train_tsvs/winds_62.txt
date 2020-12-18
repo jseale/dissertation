@@ -1,0 +1,15 @@
+winds_62	While	O
+winds_62	making	O
+winds_62	landfall	O
+winds_62	it	O
+winds_62	also	O
+winds_62	brought	O
+winds_62	tropical	O
+winds_62	storm	O
+winds_62	force	O
+winds_62	winds	winds_nou
+winds_62	along	O
+winds_62	the	O
+winds_62	northeastern	O
+winds_62	Mexican	O
+winds_62	coast	O

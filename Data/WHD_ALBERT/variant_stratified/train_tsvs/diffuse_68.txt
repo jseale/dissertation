@@ -1,0 +1,12 @@
+diffuse_68	Oxygen	O
+diffuse_68	is	O
+diffuse_68	less	O
+diffuse_68	able	O
+diffuse_68	to	O
+diffuse_68	diffuse	diffuse_vrb
+diffuse_68	into	O
+diffuse_68	the	O
+diffuse_68	blood	O
+diffuse_68	leading	O
+diffuse_68	to	O
+diffuse_68	hypoxia	O

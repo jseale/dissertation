@@ -1,0 +1,13 @@
+ornament_4	The	O
+ornament_4	concrete	O
+ornament_4	ornament	ornament_nou
+ornament_4	is	O
+ornament_4	a	O
+ornament_4	likeness	O
+ornament_4	of	O
+ornament_4	the	O
+ornament_4	town	O
+ornament_4	of	O
+ornament_4	Trumbull	O
+ornament_4	official	O
+ornament_4	seal	O

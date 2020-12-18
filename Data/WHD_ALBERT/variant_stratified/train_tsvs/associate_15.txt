@@ -1,0 +1,17 @@
+associate_15	Jones	O
+associate_15	was	O
+associate_15	retained	O
+associate_15	by	O
+associate_15	Dodds	O
+associate_15	and	O
+associate_15	stayed	O
+associate_15	at	O
+associate_15	Texas	O
+associate_15	being	O
+associate_15	promoted	O
+associate_15	to	O
+associate_15	Associate	associate_adj-nou
+associate_15	Athletic	O
+associate_15	Director	O
+associate_15	in	O
+associate_15	1982	O

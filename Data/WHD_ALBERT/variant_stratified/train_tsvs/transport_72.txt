@@ -1,0 +1,14 @@
+transport_72	Taxis	O
+transport_72	and	O
+transport_72	buses	O
+transport_72	can	O
+transport_72	be	O
+transport_72	found	O
+transport_72	on	O
+transport_72	both	O
+transport_72	ends	O
+transport_72	of	O
+transport_72	the	O
+transport_72	public	O
+transport_72	transport	transport_nou
+transport_72	spectrum	O

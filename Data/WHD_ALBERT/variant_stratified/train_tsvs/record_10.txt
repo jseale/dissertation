@@ -1,0 +1,12 @@
+record_10	Both	O
+record_10	versions	O
+record_10	were	O
+record_10	released	O
+record_10	on	O
+record_10	Lynn	O
+record_10	's	O
+record_10	record	record_nou
+record_10	label	O
+record_10	Logan	O
+record_10	Lynn	O
+record_10	Music	O

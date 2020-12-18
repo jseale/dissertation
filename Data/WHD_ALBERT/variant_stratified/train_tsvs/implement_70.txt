@@ -1,0 +1,11 @@
+implement_70	It	O
+implement_70	is	O
+implement_70	also	O
+implement_70	possible	O
+implement_70	to	O
+implement_70	implement	implement_vrb
+implement_70	a	O
+implement_70	flat	O
+implement_70	frequency	O
+implement_70	response	O
+implement_70	attenuator	O

@@ -1,0 +1,17 @@
+mobile_28	Nokia	O
+mobile_28	X2	O
+mobile_28	05	O
+mobile_28	is	O
+mobile_28	an	O
+mobile_28	entry	O
+mobile_28	level	O
+mobile_28	mobile	mobile
+mobile_28	phone	O
+mobile_28	running	O
+mobile_28	on	O
+mobile_28	the	O
+mobile_28	Nokia	O
+mobile_28	Series	O
+mobile_28	40	O
+mobile_28	operating	O
+mobile_28	system	O

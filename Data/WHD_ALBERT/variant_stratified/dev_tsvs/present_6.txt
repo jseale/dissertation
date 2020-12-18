@@ -1,0 +1,12 @@
+present_6	The	O
+present_6	TBE	O
+present_6	virus	O
+present_6	may	O
+present_6	be	O
+present_6	present	present_adj-nou
+present_6	in	O
+present_6	a	O
+present_6	seronegative	O
+present_6	strain	O
+present_6	or	O
+present_6	subtype	O

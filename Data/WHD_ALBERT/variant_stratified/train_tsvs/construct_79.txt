@@ -1,0 +1,16 @@
+construct_79	The	O
+construct_79	company	O
+construct_79	went	O
+construct_79	on	O
+construct_79	to	O
+construct_79	construct	construct_vrb
+construct_79	4	O
+construct_79	spheres	O
+construct_79	in	O
+construct_79	2009	O
+construct_79	and	O
+construct_79	then	O
+construct_79	3	O
+construct_79	more	O
+construct_79	in	O
+construct_79	2010	O

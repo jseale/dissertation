@@ -1,0 +1,12 @@
+record_55	In	O
+record_55	2006	O
+record_55	the	O
+record_55	record	record_nou
+record_55	label	O
+record_55	behind	O
+record_55	their	O
+record_55	US	O
+record_55	presence	O
+record_55	What	O
+record_55	Are	O
+record_55	Records	O

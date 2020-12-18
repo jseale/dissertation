@@ -1,0 +1,17 @@
+aged_33	The	O
+aged_33	same	O
+aged_33	year	O
+aged_33	Sigismund	O
+aged_33	betrothed	O
+aged_33	Elizabeth	O
+aged_33	to	O
+aged_33	the	O
+aged_33	Habsburg	O
+aged_33	Duke	O
+aged_33	Albert	O
+aged_33	V	O
+aged_33	of	O
+aged_33	Austria	O
+aged_33	then	O
+aged_33	aged	aged
+aged_33	14	O

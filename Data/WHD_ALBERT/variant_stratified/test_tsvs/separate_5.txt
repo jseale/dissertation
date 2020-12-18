@@ -1,0 +1,13 @@
+separate_5	Over	O
+separate_5	the	O
+separate_5	years	O
+separate_5	there	O
+separate_5	were	O
+separate_5	three	O
+separate_5	separate	separate_adj
+separate_5	Methodist	O
+separate_5	churches	O
+separate_5	located	O
+separate_5	within	O
+separate_5	North	O
+separate_5	Augusta	O

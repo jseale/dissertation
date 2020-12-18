@@ -1,0 +1,11 @@
+attribute_64	One	O
+attribute_64	approach	O
+attribute_64	is	O
+attribute_64	to	O
+attribute_64	attribute	attribute_vrb
+attribute_64	an	O
+attribute_64	economic	O
+attribute_64	value	O
+attribute_64	to	O
+attribute_64	the	O
+attribute_64	resource	O

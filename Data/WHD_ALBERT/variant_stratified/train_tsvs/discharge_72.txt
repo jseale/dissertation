@@ -1,0 +1,11 @@
+discharge_72	The	O
+discharge_72	fen	O
+discharge_72	drains	O
+discharge_72	could	O
+discharge_72	not	O
+discharge_72	naturally	O
+discharge_72	discharge	discharge_vrb
+discharge_72	into	O
+discharge_72	Vernatt	O
+discharge_72	's	O
+discharge_72	Drain	O

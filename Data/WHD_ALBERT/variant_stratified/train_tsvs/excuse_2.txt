@@ -1,0 +1,16 @@
+excuse_2	It	O
+excuse_2	's	O
+excuse_2	no	O
+excuse_2	excuse	excuse_nou
+excuse_2	that	O
+excuse_2	the	O
+excuse_2	starting	O
+excuse_2	point	O
+excuse_2	was	O
+excuse_2	probably	O
+excuse_2	the	O
+excuse_2	weakest	O
+excuse_2	of	O
+excuse_2	Shakespeare	O
+excuse_2	's	O
+excuse_2	plays	O

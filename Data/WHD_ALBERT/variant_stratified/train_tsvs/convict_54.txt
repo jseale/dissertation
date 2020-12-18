@@ -1,0 +1,8 @@
+convict_54	Georgia	O
+convict_54	ended	O
+convict_54	the	O
+convict_54	convict	convict_nou
+convict_54	lease	O
+convict_54	system	O
+convict_54	in	O
+convict_54	1908	O

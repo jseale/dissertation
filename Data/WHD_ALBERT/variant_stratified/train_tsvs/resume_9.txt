@@ -1,0 +1,10 @@
+resume_9	The	O
+resume_9	Confederates	O
+resume_9	intended	O
+resume_9	to	O
+resume_9	resume	resume_vrb
+resume_9	the	O
+resume_9	attack	O
+resume_9	in	O
+resume_9	the	O
+resume_9	morning	O

@@ -1,0 +1,12 @@
+discount_67	As	O
+discount_67	well	O
+discount_67	as	O
+discount_67	singles	O
+discount_67	the	O
+discount_67	machines	O
+discount_67	sold	O
+discount_67	multi	O
+discount_67	packs	O
+discount_67	at	O
+discount_67	a	O
+discount_67	discount	discount_nou

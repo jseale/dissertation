@@ -1,0 +1,14 @@
+insert_5	You	O
+insert_5	first	O
+insert_5	must	O
+insert_5	insert	insert_vrb
+insert_5	the	O
+insert_5	CD	O
+insert_5	into	O
+insert_5	your	O
+insert_5	computer	O
+insert_5	to	O
+insert_5	install	O
+insert_5	the	O
+insert_5	Xtractaurs	O
+insert_5	software	O

@@ -1,0 +1,15 @@
+suspect_4	When	O
+suspect_4	her	O
+suspect_4	father	O
+suspect_4	become	O
+suspect_4	the	O
+suspect_4	prime	O
+suspect_4	suspect	suspect_adj-nou
+suspect_4	Sasha	O
+suspect_4	decides	O
+suspect_4	to	O
+suspect_4	confess	O
+suspect_4	that	O
+suspect_4	she	O
+suspect_4	killed	O
+suspect_4	Stu	O

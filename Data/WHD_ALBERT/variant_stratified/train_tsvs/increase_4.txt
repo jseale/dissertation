@@ -1,0 +1,16 @@
+increase_4	This	O
+increase_4	amount	O
+increase_4	was	O
+increase_4	a	O
+increase_4	$	O
+increase_4	233,290,000	O
+increase_4	increase	increase_nou
+increase_4	4.6	O
+increase_4	over	O
+increase_4	the	O
+increase_4	enacted	O
+increase_4	State	O
+increase_4	appropriation	O
+increase_4	for	O
+increase_4	2010	O
+increase_4	2011	O

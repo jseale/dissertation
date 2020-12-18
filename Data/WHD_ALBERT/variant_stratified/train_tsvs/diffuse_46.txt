@@ -1,0 +1,8 @@
+diffuse_46	The	O
+diffuse_46	third	O
+diffuse_46	term	O
+diffuse_46	corrects	O
+diffuse_46	for	O
+diffuse_46	the	O
+diffuse_46	diffuse	diffuse_adj
+diffuse_46	functions	O

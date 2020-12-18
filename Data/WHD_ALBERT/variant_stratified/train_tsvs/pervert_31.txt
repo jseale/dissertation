@@ -1,0 +1,16 @@
+pervert_31	One	O
+pervert_31	day	O
+pervert_31	she	O
+pervert_31	was	O
+pervert_31	upset	O
+pervert_31	because	O
+pervert_31	the	O
+pervert_31	pervert	pervert_nou
+pervert_31	she	O
+pervert_31	had	O
+pervert_31	previous	O
+pervert_31	arrested	O
+pervert_31	was	O
+pervert_31	released	O
+pervert_31	from	O
+pervert_31	jail	O

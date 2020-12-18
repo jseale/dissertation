@@ -1,0 +1,14 @@
+escort_63	Other	O
+escort_63	tasks	O
+escort_63	included	O
+escort_63	mine	O
+escort_63	laying	O
+escort_63	convoy	O
+escort_63	escort	escort_nou
+escort_63	anti	O
+escort_63	submarine	O
+escort_63	supply	O
+escort_63	transport	O
+escort_63	and	O
+escort_63	anti	O
+escort_63	shipping	O

@@ -1,0 +1,10 @@
+correlate_12	Emotional	O
+correlate_12	factors	O
+correlate_12	have	O
+correlate_12	been	O
+correlate_12	found	O
+correlate_12	to	O
+correlate_12	correlate	correlate_nou-vrb
+correlate_12	with	O
+correlate_12	sudden	O
+correlate_12	conversions	O

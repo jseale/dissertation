@@ -1,0 +1,16 @@
+compress_76	After	O
+compress_76	stripping	O
+compress_76	the	O
+compress_76	compress	compress_nou
+compress_76	from	O
+compress_76	the	O
+compress_76	conveyor	O
+compress_76	the	O
+compress_76	compacted	O
+compress_76	mass	O
+compress_76	is	O
+compress_76	introduced	O
+compress_76	into	O
+compress_76	a	O
+compress_76	sintering	O
+compress_76	furnace	O

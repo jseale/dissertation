@@ -1,0 +1,12 @@
+incline_22	The	O
+incline_22	incline	incline_nou
+incline_22	ended	O
+incline_22	at	O
+incline_22	the	O
+incline_22	top	O
+incline_22	of	O
+incline_22	the	O
+incline_22	hill	O
+incline_22	along	O
+incline_22	Meadville	O
+incline_22	Street	O

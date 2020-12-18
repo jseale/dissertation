@@ -1,0 +1,15 @@
+aged_2	Ottey	O
+aged_2	failed	O
+aged_2	by	O
+aged_2	0.28	O
+aged_2	seconds	O
+aged_2	to	O
+aged_2	reach	O
+aged_2	her	O
+aged_2	eighth	O
+aged_2	Olympic	O
+aged_2	Games	O
+aged_2	aged	aged
+aged_2	48	O
+aged_2	in	O
+aged_2	2008	O

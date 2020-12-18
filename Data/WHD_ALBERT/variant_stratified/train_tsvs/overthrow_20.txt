@@ -1,0 +1,16 @@
+overthrow_20	Relations	O
+overthrow_20	between	O
+overthrow_20	Austria	O
+overthrow_20	Hungary	O
+overthrow_20	and	O
+overthrow_20	Serbia	O
+overthrow_20	deteriorated	O
+overthrow_20	in	O
+overthrow_20	the	O
+overthrow_20	aftermath	O
+overthrow_20	of	O
+overthrow_20	the	O
+overthrow_20	May	O
+overthrow_20	Overthrow	overthrow_nou
+overthrow_20	in	O
+overthrow_20	1903	O

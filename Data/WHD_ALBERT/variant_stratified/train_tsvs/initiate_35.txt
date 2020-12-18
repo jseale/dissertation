@@ -1,0 +1,16 @@
+initiate_35	Governor	O
+initiate_35	may	O
+initiate_35	initiate	initiate_vrb
+initiate_35	community	O
+initiate_35	service	O
+initiate_35	projects	O
+initiate_35	to	O
+initiate_35	help	O
+initiate_35	the	O
+initiate_35	members	O
+initiate_35	of	O
+initiate_35	the	O
+initiate_35	division	O
+initiate_35	become	O
+initiate_35	more	O
+initiate_35	involved	O

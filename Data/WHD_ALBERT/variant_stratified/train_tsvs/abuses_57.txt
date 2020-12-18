@@ -1,0 +1,10 @@
+abuses_57	Wolves	O
+abuses_57	Within	O
+abuses_57	the	O
+abuses_57	Fold	O
+abuses_57	Religious	O
+abuses_57	Leadership	O
+abuses_57	and	O
+abuses_57	Abuses	abuses_nou
+abuses_57	of	O
+abuses_57	Power	O

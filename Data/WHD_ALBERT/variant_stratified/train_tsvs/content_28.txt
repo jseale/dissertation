@@ -1,0 +1,10 @@
+content_28	However	O
+content_28	in	O
+content_28	philosophy	O
+content_28	the	O
+content_28	term	O
+content_28	primitive	O
+content_28	notion	O
+content_28	has	O
+content_28	historical	O
+content_28	content	content_nou

@@ -1,0 +1,10 @@
+perfect_18	He	O
+perfect_18	told	O
+perfect_18	tales	O
+perfect_18	with	O
+perfect_18	perfect	perfect_adj
+perfect_18	aplomb	O
+perfect_18	and	O
+perfect_18	in	O
+perfect_18	complete	O
+perfect_18	paragraphs	O

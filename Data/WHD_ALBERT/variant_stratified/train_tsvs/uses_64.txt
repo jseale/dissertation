@@ -1,0 +1,10 @@
+uses_64	The	O
+uses_64	technology	O
+uses_64	uses	uses_vrb
+uses_64	engines	O
+uses_64	to	O
+uses_64	generate	O
+uses_64	a	O
+uses_64	primary	O
+uses_64	magnetic	O
+uses_64	field	O

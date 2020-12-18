@@ -1,0 +1,15 @@
+document_72	Schedule	O
+document_72	EIC	O
+document_72	is	O
+document_72	used	O
+document_72	to	O
+document_72	document	document_vrb
+document_72	a	O
+document_72	taxpayer	O
+document_72	's	O
+document_72	eligibility	O
+document_72	for	O
+document_72	the	O
+document_72	Earned	O
+document_72	Income	O
+document_72	Credit	O

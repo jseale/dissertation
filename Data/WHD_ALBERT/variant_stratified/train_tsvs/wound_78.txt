@@ -1,0 +1,7 @@
+wound_78	Somehow	O
+wound_78	we	O
+wound_78	wound	wound_vrb
+wound_78	up	O
+wound_78	in	O
+wound_78	the	O
+wound_78	studio	O

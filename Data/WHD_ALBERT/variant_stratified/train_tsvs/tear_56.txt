@@ -1,0 +1,17 @@
+tear_56	The	O
+tear_56	prevalence	O
+tear_56	rate	O
+tear_56	for	O
+tear_56	traumatic	O
+tear_56	hip	O
+tear_56	injuries	O
+tear_56	that	O
+tear_56	causes	O
+tear_56	a	O
+tear_56	tear	tear_vrb
+tear_56	of	O
+tear_56	the	O
+tear_56	labrum	O
+tear_56	is	O
+tear_56	very	O
+tear_56	low	O

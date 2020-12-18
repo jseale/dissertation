@@ -1,0 +1,14 @@
+affiliate_1	The	O
+affiliate_1	station	O
+affiliate_1	began	O
+affiliate_1	broadcasting	O
+affiliate_1	on	O
+affiliate_1	August	O
+affiliate_1	12	O
+affiliate_1	1995	O
+affiliate_1	as	O
+affiliate_1	The	O
+affiliate_1	WB	O
+affiliate_1	affiliate	affiliate_nou
+affiliate_1	WVGV	O
+affiliate_1	TV	O

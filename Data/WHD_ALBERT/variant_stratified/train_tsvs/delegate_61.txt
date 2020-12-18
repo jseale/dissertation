@@ -1,0 +1,14 @@
+delegate_61	Karcher	O
+delegate_61	was	O
+delegate_61	a	O
+delegate_61	delegate	delegate_nou
+delegate_61	to	O
+delegate_61	the	O
+delegate_61	Democratic	O
+delegate_61	National	O
+delegate_61	Convention	O
+delegate_61	in	O
+delegate_61	both	O
+delegate_61	1984	O
+delegate_61	and	O
+delegate_61	1988	O

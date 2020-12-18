@@ -1,0 +1,13 @@
+excuse_6	Under	O
+excuse_6	time	O
+excuse_6	constraints	O
+excuse_6	Rockwell	O
+excuse_6	made	O
+excuse_6	every	O
+excuse_6	excuse	excuse_nou
+excuse_6	to	O
+excuse_6	avoid	O
+excuse_6	all	O
+excuse_6	other	O
+excuse_6	distracting	O
+excuse_6	assignments	O

@@ -1,0 +1,16 @@
+deliberate_63	Some	O
+deliberate_63	crises	O
+deliberate_63	are	O
+deliberate_63	caused	O
+deliberate_63	not	O
+deliberate_63	only	O
+deliberate_63	by	O
+deliberate_63	skewed	O
+deliberate_63	values	O
+deliberate_63	and	O
+deliberate_63	deception	O
+deliberate_63	but	O
+deliberate_63	deliberate	deliberate_adj
+deliberate_63	amorality	O
+deliberate_63	and	O
+deliberate_63	illegality	O

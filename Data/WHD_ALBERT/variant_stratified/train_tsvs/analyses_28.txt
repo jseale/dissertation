@@ -1,0 +1,14 @@
+analyses_28	The	O
+analyses_28	contributors	O
+analyses_28	conclude	O
+analyses_28	their	O
+analyses_28	analyses	analyses_nou
+analyses_28	with	O
+analyses_28	specific	O
+analyses_28	practical	O
+analyses_28	suggestions	O
+analyses_28	to	O
+analyses_28	implement	O
+analyses_28	in	O
+analyses_28	the	O
+analyses_28	future	O

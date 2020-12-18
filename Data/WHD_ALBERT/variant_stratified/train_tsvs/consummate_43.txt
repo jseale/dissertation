@@ -1,0 +1,13 @@
+consummate_43	Aryan	O
+consummate_43	and	O
+consummate_43	Khushi	O
+consummate_43	consummate	consummate_vrb
+consummate_43	as	O
+consummate_43	Khushi	O
+consummate_43	believes	O
+consummate_43	that	O
+consummate_43	Aryan	O
+consummate_43	loves	O
+consummate_43	her	O
+consummate_43	once	O
+consummate_43	again	O

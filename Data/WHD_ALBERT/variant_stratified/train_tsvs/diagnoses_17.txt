@@ -1,0 +1,16 @@
+diagnoses_17	He	O
+diagnoses_17	resigned	O
+diagnoses_17	his	O
+diagnoses_17	position	O
+diagnoses_17	in	O
+diagnoses_17	1901	O
+diagnoses_17	after	O
+diagnoses_17	allegations	O
+diagnoses_17	that	O
+diagnoses_17	his	O
+diagnoses_17	conclusive	O
+diagnoses_17	bubonic	O
+diagnoses_17	plague	O
+diagnoses_17	diagnoses	diagnoses_nou
+diagnoses_17	were	O
+diagnoses_17	scaremongering	O

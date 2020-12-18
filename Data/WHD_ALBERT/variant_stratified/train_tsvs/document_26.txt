@@ -1,0 +1,17 @@
+document_26	They	O
+document_26	only	O
+document_26	prerequisite	O
+document_26	for	O
+document_26	issue	O
+document_26	of	O
+document_26	this	O
+document_26	document	document_nou
+document_26	shall	O
+document_26	be	O
+document_26	where	O
+document_26	applicable	O
+document_26	holding	O
+document_26	of	O
+document_26	the	O
+document_26	appropriate	O
+document_26	qualification	O

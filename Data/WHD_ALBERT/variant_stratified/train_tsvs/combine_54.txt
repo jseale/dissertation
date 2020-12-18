@@ -1,0 +1,9 @@
+combine_54	Compound	O
+combine_54	therapies	O
+combine_54	combine	combine_vrb
+combine_54	antibodies	O
+combine_54	to	O
+combine_54	suppress	O
+combine_54	multiple	O
+combine_54	defensive	O
+combine_54	layers	O

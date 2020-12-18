@@ -1,0 +1,17 @@
+suspect_70	Long	O
+suspect_70	was	O
+suspect_70	well	O
+suspect_70	known	O
+suspect_70	for	O
+suspect_70	eccentric	O
+suspect_70	behavior	O
+suspect_70	leading	O
+suspect_70	some	O
+suspect_70	to	O
+suspect_70	suspect	suspect_vrb
+suspect_70	that	O
+suspect_70	he	O
+suspect_70	suffered	O
+suspect_70	from	O
+suspect_70	bipolar	O
+suspect_70	disorder	O

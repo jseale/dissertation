@@ -1,0 +1,17 @@
+degenerate_8	The	O
+degenerate_8	case	O
+degenerate_8	of	O
+degenerate_8	S	O
+degenerate_8	is	O
+degenerate_8	degenerate	degenerate_adj-nou
+degenerate_8	S	O
+degenerate_8	is	O
+degenerate_8	projected	O
+degenerate_8	to	O
+degenerate_8	itself	O
+degenerate_8	along	O
+degenerate_8	a	O
+degenerate_8	circle	O
+degenerate_8	of	O
+degenerate_8	radius	O
+degenerate_8	0	O

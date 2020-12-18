@@ -1,0 +1,17 @@
+retard_0	Her	O
+retard_0	second	O
+retard_0	dress	O
+retard_0	rehearsal	O
+retard_0	also	O
+retard_0	featured	O
+retard_0	abuse	O
+retard_0	of	O
+retard_0	the	O
+retard_0	floor	O
+retard_0	manager	O
+retard_0	whom	O
+retard_0	she	O
+retard_0	called	O
+retard_0	a	O
+retard_0	fucking	O
+retard_0	retard	retard_nou

@@ -1,0 +1,12 @@
+contest_4	France	O
+contest_4	participated	O
+contest_4	at	O
+contest_4	the	O
+contest_4	Eurovision	O
+contest_4	Song	O
+contest_4	Contest	contest_nou
+contest_4	2001	O
+contest_4	held	O
+contest_4	in	O
+contest_4	Copenhagen	O
+contest_4	Denmark	O

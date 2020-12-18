@@ -1,0 +1,7 @@
+aged_64	Kelly	O
+aged_64	died	O
+aged_64	aged	aged
+aged_64	88	O
+aged_64	in	O
+aged_64	New	O
+aged_64	York	O

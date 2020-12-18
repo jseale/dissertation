@@ -1,0 +1,16 @@
+conjugate_69	This	O
+conjugate_69	process	O
+conjugate_69	results	O
+conjugate_69	in	O
+conjugate_69	the	O
+conjugate_69	creation	O
+conjugate_69	of	O
+conjugate_69	an	O
+conjugate_69	ocean	O
+conjugate_69	basin	O
+conjugate_69	and	O
+conjugate_69	possibly	O
+conjugate_69	conjugate	conjugate_adj-nou
+conjugate_69	NVPM	O
+conjugate_69	Geoffroy	O
+conjugate_69	200	O

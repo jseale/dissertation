@@ -1,0 +1,11 @@
+fragment_9	Angiostatin	O
+fragment_9	is	O
+fragment_9	a	O
+fragment_9	38	O
+fragment_9	kDa	O
+fragment_9	plasminogen	O
+fragment_9	fragment	fragment_nou
+fragment_9	with	O
+fragment_9	angiogenesis	O
+fragment_9	inhibitor	O
+fragment_9	activity	O

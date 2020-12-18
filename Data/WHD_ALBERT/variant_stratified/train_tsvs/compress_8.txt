@@ -1,0 +1,11 @@
+compress_8	In	O
+compress_8	the	O
+compress_8	acoustic	O
+compress_8	wave	O
+compress_8	parcels	O
+compress_8	of	O
+compress_8	gas	O
+compress_8	adiabatically	O
+compress_8	compress	compress
+compress_8	and	O
+compress_8	expand	O

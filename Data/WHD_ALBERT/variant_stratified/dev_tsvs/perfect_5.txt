@@ -1,0 +1,13 @@
+perfect_5	Alternative	O
+perfect_5	indie	O
+perfect_5	rock	O
+perfect_5	bands	O
+perfect_5	the	O
+perfect_5	Perfect	perfect_adj
+perfect_5	Name	O
+perfect_5	and	O
+perfect_5	Northside	O
+perfect_5	both	O
+perfect_5	hail	O
+perfect_5	from	O
+perfect_5	Moston	O

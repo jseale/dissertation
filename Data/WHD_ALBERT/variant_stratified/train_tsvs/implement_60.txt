@@ -1,0 +1,9 @@
+implement_60	Languages	O
+implement_60	that	O
+implement_60	implement	implement_vrb
+implement_60	data	O
+implement_60	abstraction	O
+implement_60	include	O
+implement_60	Ada	O
+implement_60	and	O
+implement_60	Modula-2	O

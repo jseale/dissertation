@@ -1,0 +1,10 @@
+permit_56	This	O
+permit_56	type	O
+permit_56	of	O
+permit_56	interchange	O
+permit_56	does	O
+permit_56	not	O
+permit_56	usually	O
+permit_56	permit	permit_vrb
+permit_56	U	O
+permit_56	turns	O

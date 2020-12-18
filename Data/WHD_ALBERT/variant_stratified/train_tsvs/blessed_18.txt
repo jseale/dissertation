@@ -1,0 +1,16 @@
+blessed_18	The	O
+blessed_18	private	O
+blessed_18	schools	O
+blessed_18	Madrona	O
+blessed_18	School	O
+blessed_18	and	O
+blessed_18	Blessed	blessed_adj
+blessed_18	Sacrament	O
+blessed_18	School	O
+blessed_18	also	O
+blessed_18	find	O
+blessed_18	their	O
+blessed_18	home	O
+blessed_18	in	O
+blessed_18	the	O
+blessed_18	neighbourhood	O

@@ -1,0 +1,17 @@
+bass_35	He	O
+bass_35	is	O
+bass_35	best	O
+bass_35	known	O
+bass_35	for	O
+bass_35	building	O
+bass_35	6-	O
+bass_35	and	O
+bass_35	12-string	O
+bass_35	acoustic	O
+bass_35	guitars	O
+bass_35	but	O
+bass_35	also	O
+bass_35	builds	O
+bass_35	acoustic	O
+bass_35	bass	bass
+bass_35	guitars	O

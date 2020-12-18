@@ -1,0 +1,17 @@
+diffuse_1	The	O
+diffuse_1	interior	O
+diffuse_1	lit	O
+diffuse_1	by	O
+diffuse_1	diffuse	diffuse_adj
+diffuse_1	light	O
+diffuse_1	is	O
+diffuse_1	illuminated	O
+diffuse_1	by	O
+diffuse_1	cracks	O
+diffuse_1	in	O
+diffuse_1	the	O
+diffuse_1	apse	O
+diffuse_1	and	O
+diffuse_1	the	O
+diffuse_1	rose	O
+diffuse_1	window	O

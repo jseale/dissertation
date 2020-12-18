@@ -1,0 +1,17 @@
+discount_6	Green	O
+discount_6	was	O
+discount_6	the	O
+discount_6	founder	O
+discount_6	of	O
+discount_6	discount	discount_nou
+discount_6	retailer	O
+discount_6	Brand	O
+discount_6	Centre	O
+discount_6	which	O
+discount_6	sold	O
+discount_6	to	O
+discount_6	Moss	O
+discount_6	Bros	O
+discount_6	Group	O
+discount_6	in	O
+discount_6	1999	O

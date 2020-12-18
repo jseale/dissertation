@@ -1,0 +1,14 @@
+excuse_78	Her	O
+excuse_78	two	O
+excuse_78	studio	O
+excuse_78	albums	O
+excuse_78	are	O
+excuse_78	Fresh	O
+excuse_78	Water	O
+excuse_78	March	O
+excuse_78	1972	O
+excuse_78	and	O
+excuse_78	Excuse	excuse_vrb
+excuse_78	Me	O
+excuse_78	October	O
+excuse_78	1975	O

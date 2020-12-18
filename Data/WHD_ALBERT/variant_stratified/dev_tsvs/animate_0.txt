@@ -1,0 +1,11 @@
+animate_0	They	O
+animate_0	were	O
+animate_0	grouped	O
+animate_0	into	O
+animate_0	human	O
+animate_0	and	O
+animate_0	non	O
+animate_0	human	O
+animate_0	animate	animate_adj-nou
+animate_0	and	O
+animate_0	inanimate	O

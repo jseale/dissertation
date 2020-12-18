@@ -1,0 +1,12 @@
+sow_44	On	O
+sow_44	the	O
+sow_44	farm	O
+sow_44	you	O
+sow_44	learn	O
+sow_44	early	O
+sow_44	that	O
+sow_44	you	O
+sow_44	reap	O
+sow_44	what	O
+sow_44	you	O
+sow_44	sow	sow

@@ -1,0 +1,14 @@
+close_1	It	O
+close_1	is	O
+close_1	close	close_adj-nou
+close_1	to	O
+close_1	Newlands	O
+close_1	Stadium	O
+close_1	which	O
+close_1	is	O
+close_1	a	O
+close_1	rugby	O
+close_1	union	O
+close_1	and	O
+close_1	football	O
+close_1	venue	O

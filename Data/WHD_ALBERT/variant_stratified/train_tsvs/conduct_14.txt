@@ -1,0 +1,17 @@
+conduct_14	Badger	O
+conduct_14	was	O
+conduct_14	cited	O
+conduct_14	For	O
+conduct_14	distinguished	O
+conduct_14	conduct	conduct_nou
+conduct_14	in	O
+conduct_14	battle	O
+conduct_14	engagements	O
+conduct_14	of	O
+conduct_14	Vera	O
+conduct_14	Cruz	O
+conduct_14	21	O
+conduct_14	and	O
+conduct_14	April	O
+conduct_14	22	O
+conduct_14	1914	O

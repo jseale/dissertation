@@ -1,0 +1,11 @@
+diffuse_2	Sometimes	O
+diffuse_2	however	O
+diffuse_2	his	O
+diffuse_2	style	O
+diffuse_2	is	O
+diffuse_2	diffuse	diffuse_adj
+diffuse_2	and	O
+diffuse_2	becomes	O
+diffuse_2	tedious	O
+diffuse_2	and	O
+diffuse_2	obscure	O

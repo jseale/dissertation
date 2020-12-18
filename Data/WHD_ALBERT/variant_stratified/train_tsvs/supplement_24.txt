@@ -1,0 +1,9 @@
+supplement_24	He	O
+supplement_24	has	O
+supplement_24	contributed	O
+supplement_24	regularly	O
+supplement_24	to	O
+supplement_24	the	O
+supplement_24	Times	O
+supplement_24	Educational	O
+supplement_24	Supplement	supplement_nou

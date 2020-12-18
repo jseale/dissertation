@@ -1,0 +1,10 @@
+contest_46	The	O
+contest_46	contest	contest_nou
+contest_46	includes	O
+contest_46	only	O
+contest_46	athletes	O
+contest_46	weighing	O
+contest_46	105	O
+contest_46	kg	O
+contest_46	231	O
+contest_46	lbs	O

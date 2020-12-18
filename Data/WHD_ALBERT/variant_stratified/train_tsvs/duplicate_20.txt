@@ -1,0 +1,13 @@
+duplicate_20	Examples	O
+duplicate_20	of	O
+duplicate_20	repeated	O
+duplicate_20	and	O
+duplicate_20	duplicate	duplicate_adj-nou
+duplicate_20	stories	O
+duplicate_20	are	O
+duplicate_20	used	O
+duplicate_20	to	O
+duplicate_20	identify	O
+duplicate_20	the	O
+duplicate_20	separate	O
+duplicate_20	sources	O

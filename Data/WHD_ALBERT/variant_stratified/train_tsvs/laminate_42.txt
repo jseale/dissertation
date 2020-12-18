@@ -1,0 +1,14 @@
+laminate_42	There	O
+laminate_42	are	O
+laminate_42	many	O
+laminate_42	benefits	O
+laminate_42	to	O
+laminate_42	choosing	O
+laminate_42	a	O
+laminate_42	laminate	laminate_nou
+laminate_42	floor	O
+laminate_42	over	O
+laminate_42	other	O
+laminate_42	types	O
+laminate_42	of	O
+laminate_42	flooring	O

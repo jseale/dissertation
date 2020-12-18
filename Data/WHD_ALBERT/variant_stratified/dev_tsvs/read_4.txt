@@ -1,0 +1,13 @@
+read_4	He	O
+read_4	was	O
+read_4	educated	O
+read_4	at	O
+read_4	Eton	O
+read_4	and	O
+read_4	Balliol	O
+read_4	College	O
+read_4	Oxford	O
+read_4	where	O
+read_4	he	O
+read_4	read	read_past
+read_4	history	O

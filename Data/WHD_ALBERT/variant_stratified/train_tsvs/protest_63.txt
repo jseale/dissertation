@@ -1,0 +1,12 @@
+protest_63	Anonymous	O
+protest_63	held	O
+protest_63	its	O
+protest_63	third	O
+protest_63	international	O
+protest_63	protest	protest_nou
+protest_63	against	O
+protest_63	Scientology	O
+protest_63	on	O
+protest_63	April	O
+protest_63	12	O
+protest_63	2008	O

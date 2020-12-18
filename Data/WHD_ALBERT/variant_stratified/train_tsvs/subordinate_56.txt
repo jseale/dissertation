@@ -1,0 +1,16 @@
+subordinate_56	Presently	O
+subordinate_56	there	O
+subordinate_56	are	O
+subordinate_56	12	O
+subordinate_56	Military	O
+subordinate_56	Regions	O
+subordinate_56	which	O
+subordinate_56	are	O
+subordinate_56	further	O
+subordinate_56	broken	O
+subordinate_56	down	O
+subordinate_56	into	O
+subordinate_56	44	O
+subordinate_56	subordinate	subordinate_adj-nou
+subordinate_56	Military	O
+subordinate_56	Zones	O

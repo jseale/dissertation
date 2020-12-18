@@ -1,0 +1,16 @@
+discard_8	The	O
+discard_8	discard	discard_nou
+discard_8	discarding	O
+discard_8	any	O
+discard_8	one	O
+discard_8	card	O
+discard_8	other	O
+discard_8	than	O
+discard_8	a	O
+discard_8	joker	O
+discard_8	face	O
+discard_8	up	O
+discard_8	on	O
+discard_8	the	O
+discard_8	discard	discard_nou
+discard_8	pile	O

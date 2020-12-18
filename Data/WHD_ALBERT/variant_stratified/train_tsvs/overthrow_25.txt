@@ -1,0 +1,16 @@
+overthrow_25	After	O
+overthrow_25	the	O
+overthrow_25	overthrow	overthrow_nou
+overthrow_25	of	O
+overthrow_25	the	O
+overthrow_25	Kerensky	O
+overthrow_25	government	O
+overthrow_25	by	O
+overthrow_25	the	O
+overthrow_25	Bolsheviks	O
+overthrow_25	he	O
+overthrow_25	became	O
+overthrow_25	disillusioned	O
+overthrow_25	with	O
+overthrow_25	the	O
+overthrow_25	revolution	O

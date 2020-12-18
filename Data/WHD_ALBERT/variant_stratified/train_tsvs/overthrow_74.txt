@@ -1,0 +1,14 @@
+overthrow_74	The	O
+overthrow_74	murder	O
+overthrow_74	is	O
+overthrow_74	part	O
+overthrow_74	of	O
+overthrow_74	a	O
+overthrow_74	plot	O
+overthrow_74	to	O
+overthrow_74	overthrow	overthrow_vrb
+overthrow_74	the	O
+overthrow_74	monarchy	O
+overthrow_74	of	O
+overthrow_74	fictional	O
+overthrow_74	Ruvania	O

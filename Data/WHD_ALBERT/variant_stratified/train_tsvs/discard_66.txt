@@ -1,0 +1,9 @@
+discard_66	It	O
+discard_66	can	O
+discard_66	discard	discard_vrb
+discard_66	the	O
+discard_66	contents	O
+discard_66	of	O
+discard_66	all	O
+discard_66	other	O
+discard_66	PIDs	O

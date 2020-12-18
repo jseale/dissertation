@@ -1,0 +1,17 @@
+subordinate_46	The	O
+subordinate_46	members	O
+subordinate_46	of	O
+subordinate_46	the	O
+subordinate_46	court	O
+subordinate_46	can	O
+subordinate_46	be	O
+subordinate_46	divided	O
+subordinate_46	into	O
+subordinate_46	three	O
+subordinate_46	general	O
+subordinate_46	categories	O
+subordinate_46	royalty	O
+subordinate_46	ministers	O
+subordinate_46	and	O
+subordinate_46	subordinate	subordinate_adj-nou
+subordinate_46	officials	O

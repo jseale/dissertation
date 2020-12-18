@@ -1,0 +1,10 @@
+pasty_0	Indeed	O
+pasty_0	the	O
+pasty_0	earliest	O
+pasty_0	recorded	O
+pasty_0	pasty	pasty_adj
+pasty_0	recipes	O
+pasty_0	include	O
+pasty_0	venison	O
+pasty_0	not	O
+pasty_0	beef	O

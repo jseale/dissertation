@@ -1,0 +1,13 @@
+produce_14	These	O
+produce_14	elements	O
+produce_14	blend	O
+produce_14	in	O
+produce_14	the	O
+produce_14	right	O
+produce_14	proportions	O
+produce_14	to	O
+produce_14	produce	produce_vrb
+produce_14	a	O
+produce_14	rather	O
+produce_14	affecting	O
+produce_14	song	O

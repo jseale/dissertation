@@ -1,0 +1,14 @@
+recount_54	However	O
+recount_54	a	O
+recount_54	recount	recount_nou
+recount_54	resulted	O
+recount_54	in	O
+recount_54	the	O
+recount_54	result	O
+recount_54	being	O
+recount_54	reversed	O
+recount_54	with	O
+recount_54	Hugh	O
+recount_54	Valentine	O
+recount_54	being	O
+recount_54	elected	O

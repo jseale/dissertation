@@ -1,0 +1,16 @@
+expose_56	But	O
+expose_56	working	O
+expose_56	for	O
+expose_56	Heep	O
+expose_56	allows	O
+expose_56	Micawber	O
+expose_56	to	O
+expose_56	expose	expose_vrb
+expose_56	his	O
+expose_56	boss	O
+expose_56	as	O
+expose_56	a	O
+expose_56	forger	O
+expose_56	and	O
+expose_56	a	O
+expose_56	cheat	O

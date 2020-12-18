@@ -1,0 +1,13 @@
+celtic_40	Their	O
+celtic_40	style	O
+celtic_40	is	O
+celtic_40	a	O
+celtic_40	mix	O
+celtic_40	of	O
+celtic_40	Celtic	celtic
+celtic_40	rock	O
+celtic_40	reggae	O
+celtic_40	Gnawa	O
+celtic_40	and	O
+celtic_40	chaouie	O
+celtic_40	music	O

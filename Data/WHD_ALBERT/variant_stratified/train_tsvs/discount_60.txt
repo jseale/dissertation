@@ -1,0 +1,14 @@
+discount_60	In	O
+discount_60	addition	O
+discount_60	PBMs	O
+discount_60	Pharmacy	O
+discount_60	Benefit	O
+discount_60	Managers	O
+discount_60	offer	O
+discount_60	discount	discount_nou
+discount_60	cards	O
+discount_60	that	O
+discount_60	act	O
+discount_60	similarly	O
+discount_60	to	O
+discount_60	coupons	O

@@ -1,0 +1,12 @@
+abuses_47	The	O
+abuses_47	abuses	abuses_nou
+abuses_47	occur	O
+abuses_47	not	O
+abuses_47	only	O
+abuses_47	on	O
+abuses_47	the	O
+abuses_47	street	O
+abuses_47	but	O
+abuses_47	also	O
+abuses_47	in	O
+abuses_47	schools	O

@@ -1,0 +1,16 @@
+lead_77	In	O
+lead_77	April	O
+lead_77	2010	O
+lead_77	he	O
+lead_77	replaced	O
+lead_77	Chris	O
+lead_77	Stapleton	O
+lead_77	as	O
+lead_77	the	O
+lead_77	lead	lead_nou-vrb
+lead_77	singer	O
+lead_77	and	O
+lead_77	guitarist	O
+lead_77	of	O
+lead_77	The	O
+lead_77	SteelDrivers	O

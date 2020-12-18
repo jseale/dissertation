@@ -1,0 +1,16 @@
+perfume_11	The	O
+perfume_11	rest	O
+perfume_11	consists	O
+perfume_11	of	O
+perfume_11	water	O
+perfume_11	and	O
+perfume_11	the	O
+perfume_11	denaturants	O
+perfume_11	with	O
+perfume_11	or	O
+perfume_11	without	O
+perfume_11	color	O
+perfume_11	additives	O
+perfume_11	and	O
+perfume_11	perfume	perfume_nou
+perfume_11	oils	O

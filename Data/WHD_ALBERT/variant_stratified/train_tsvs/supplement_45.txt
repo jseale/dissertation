@@ -1,0 +1,8 @@
+supplement_45	There	O
+supplement_45	is	O
+supplement_45	also	O
+supplement_45	a	O
+supplement_45	monthly	O
+supplement_45	tabloid	O
+supplement_45	business	O
+supplement_45	supplement	supplement_nou

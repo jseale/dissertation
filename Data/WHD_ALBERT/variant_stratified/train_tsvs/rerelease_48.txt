@@ -1,0 +1,10 @@
+rerelease_48	DeMille	O
+rerelease_48	himself	O
+rerelease_48	supervised	O
+rerelease_48	a	O
+rerelease_48	new	O
+rerelease_48	version	O
+rerelease_48	for	O
+rerelease_48	its	O
+rerelease_48	1944	O
+rerelease_48	rerelease	rerelease

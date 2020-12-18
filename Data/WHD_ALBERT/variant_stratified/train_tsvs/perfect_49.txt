@@ -1,0 +1,13 @@
+perfect_49	He	O
+perfect_49	wrote	O
+perfect_49	Imagine	O
+perfect_49	a	O
+perfect_49	society	O
+perfect_49	of	O
+perfect_49	saints	O
+perfect_49	a	O
+perfect_49	perfect	perfect_adj
+perfect_49	cloister	O
+perfect_49	of	O
+perfect_49	exemplary	O
+perfect_49	individuals	O

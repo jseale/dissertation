@@ -1,0 +1,9 @@
+subordinate_18	Some	O
+subordinate_18	have	O
+subordinate_18	had	O
+subordinate_18	subordinate	subordinate_adj-nou
+subordinate_18	units	O
+subordinate_18	reallocated	O
+subordinate_18	to	O
+subordinate_18	other	O
+subordinate_18	commands	O

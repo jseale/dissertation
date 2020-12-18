@@ -1,0 +1,10 @@
+supplement_4	He	O
+supplement_4	was	O
+supplement_4	introduced	O
+supplement_4	in	O
+supplement_4	the	O
+supplement_4	Races	O
+supplement_4	of	O
+supplement_4	Stone	O
+supplement_4	supplement	supplement_nou
+supplement_4	book	O

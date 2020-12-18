@@ -1,0 +1,9 @@
+overthrow_10	Shortly	O
+overthrow_10	after	O
+overthrow_10	the	O
+overthrow_10	overthrow	overthrow_nou
+overthrow_10	of	O
+overthrow_10	Milosevic	O
+overthrow_10	Popovic	O
+overthrow_10	left	O
+overthrow_10	Otpor	O

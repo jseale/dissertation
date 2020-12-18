@@ -1,0 +1,17 @@
+decrease_0	This	O
+decrease_0	is	O
+decrease_0	an	O
+decrease_0	decrease	decrease_nou
+decrease_0	of	O
+decrease_0	1.66	O
+decrease_0	from	O
+decrease_0	the	O
+decrease_0	32.45	O
+decrease_0	turnout	O
+decrease_0	during	O
+decrease_0	the	O
+decrease_0	previous	O
+decrease_0	municipal	O
+decrease_0	election	O
+decrease_0	in	O
+decrease_0	2005	O

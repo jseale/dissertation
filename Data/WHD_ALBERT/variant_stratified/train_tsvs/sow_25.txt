@@ -1,0 +1,14 @@
+sow_25	Athena	O
+sow_25	gave	O
+sow_25	Cadmus	O
+sow_25	half	O
+sow_25	of	O
+sow_25	the	O
+sow_25	dragon	O
+sow_25	's	O
+sow_25	teeth	O
+sow_25	advising	O
+sow_25	him	O
+sow_25	to	O
+sow_25	sow	sow
+sow_25	them	O

@@ -1,0 +1,7 @@
+bass_0	He	O
+bass_0	can	O
+bass_0	play	O
+bass_0	drums	O
+bass_0	bass	bass
+bass_0	and	O
+bass_0	keyboards	O

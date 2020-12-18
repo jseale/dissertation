@@ -1,0 +1,17 @@
+abuses_40	He	O
+abuses_40	has	O
+abuses_40	focused	O
+abuses_40	on	O
+abuses_40	how	O
+abuses_40	multinational	O
+abuses_40	corporations	O
+abuses_40	operate	O
+abuses_40	in	O
+abuses_40	foreign	O
+abuses_40	countries	O
+abuses_40	documenting	O
+abuses_40	human	O
+abuses_40	rights	O
+abuses_40	and	O
+abuses_40	environmental	O
+abuses_40	abuses	abuses_nou

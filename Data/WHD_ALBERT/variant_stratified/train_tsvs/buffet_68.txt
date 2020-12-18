@@ -1,0 +1,16 @@
+buffet_68	The	O
+buffet_68	station	O
+buffet_68	incorporates	O
+buffet_68	a	O
+buffet_68	popular	O
+buffet_68	station	O
+buffet_68	buffet	buffet_nou
+buffet_68	a	O
+buffet_68	picnic	O
+buffet_68	area	O
+buffet_68	and	O
+buffet_68	a	O
+buffet_68	children	O
+buffet_68	's	O
+buffet_68	play	O
+buffet_68	area	O

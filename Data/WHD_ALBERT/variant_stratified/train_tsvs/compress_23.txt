@@ -1,0 +1,12 @@
+compress_23	Using	O
+compress_23	this	O
+compress_23	knowledge	O
+compress_23	encoders	O
+compress_23	can	O
+compress_23	be	O
+compress_23	designed	O
+compress_23	to	O
+compress_23	compress	compress
+compress_23	images	O
+compress_23	more	O
+compress_23	efficiently	O

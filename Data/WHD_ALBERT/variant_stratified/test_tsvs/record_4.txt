@@ -1,0 +1,12 @@
+record_4	He	O
+record_4	is	O
+record_4	also	O
+record_4	a	O
+record_4	record	record_nou
+record_4	producer	O
+record_4	for	O
+record_4	a	O
+record_4	number	O
+record_4	of	O
+record_4	musical	O
+record_4	projects	O

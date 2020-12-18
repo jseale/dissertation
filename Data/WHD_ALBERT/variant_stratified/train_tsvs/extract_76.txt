@@ -1,0 +1,12 @@
+extract_76	Contractors	O
+extract_76	extract	extract_vrb
+extract_76	tens	O
+extract_76	of	O
+extract_76	thousands	O
+extract_76	tones	O
+extract_76	of	O
+extract_76	sand	O
+extract_76	annually	O
+extract_76	from	O
+extract_76	the	O
+extract_76	area	O

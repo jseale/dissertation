@@ -1,0 +1,8 @@
+convert_58	Games	O
+convert_58	that	O
+convert_58	do	O
+convert_58	not	O
+convert_58	convert	convert_vrb
+convert_58	are	O
+convert_58	quickly	O
+convert_58	buried	O

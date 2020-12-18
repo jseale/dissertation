@@ -1,0 +1,15 @@
+precipitate_13	When	O
+precipitate_13	the	O
+precipitate_13	reaction	O
+precipitate_13	occurs	O
+precipitate_13	in	O
+precipitate_13	a	O
+precipitate_13	liquid	O
+precipitate_13	solution	O
+precipitate_13	the	O
+precipitate_13	solid	O
+precipitate_13	formed	O
+precipitate_13	is	O
+precipitate_13	called	O
+precipitate_13	the	O
+precipitate_13	precipitate	precipitate_adj-nou

@@ -1,0 +1,15 @@
+laminate_23	Laser	O
+laminate_23	resist	O
+laminate_23	ablation	O
+laminate_23	Spray	O
+laminate_23	black	O
+laminate_23	paint	O
+laminate_23	onto	O
+laminate_23	copper	O
+laminate_23	clad	O
+laminate_23	laminate	laminate_nou
+laminate_23	place	O
+laminate_23	into	O
+laminate_23	CNC	O
+laminate_23	laser	O
+laminate_23	plotter	O

@@ -1,0 +1,12 @@
+record_52	Her	O
+record_52	finishing	O
+record_52	time	O
+record_52	of	O
+record_52	in	O
+record_52	a	O
+record_52	4:12.29	O
+record_52	minutes	O
+record_52	was	O
+record_52	a	O
+record_52	championship	O
+record_52	record	record_nou

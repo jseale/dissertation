@@ -1,0 +1,13 @@
+extract_31	They	O
+extract_31	were	O
+extract_31	able	O
+extract_31	to	O
+extract_31	use	O
+extract_31	liver	O
+extract_31	extract	extract_nou
+extract_31	therapy	O
+extract_31	to	O
+extract_31	treat	O
+extract_31	tropical	O
+extract_31	sprue	O
+extract_31	successfully	O

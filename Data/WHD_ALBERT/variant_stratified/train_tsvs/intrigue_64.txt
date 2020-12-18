@@ -1,0 +1,16 @@
+intrigue_64	Dirceu	O
+intrigue_64	a	O
+intrigue_64	virtuoso	O
+intrigue_64	of	O
+intrigue_64	cold	O
+intrigue_64	political	O
+intrigue_64	calculation	O
+intrigue_64	and	O
+intrigue_64	intrigue	intrigue_nou
+intrigue_64	he	O
+intrigue_64	had	O
+intrigue_64	never	O
+intrigue_64	liked	O
+intrigue_64	and	O
+intrigue_64	somewhat	O
+intrigue_64	feared	O

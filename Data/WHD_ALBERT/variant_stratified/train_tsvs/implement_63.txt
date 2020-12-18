@@ -1,0 +1,17 @@
+implement_63	Several	O
+implement_63	dynamic	O
+implement_63	languages	O
+implement_63	such	O
+implement_63	as	O
+implement_63	Perl	O
+implement_63	Python	O
+implement_63	JavaScript	O
+implement_63	Lua	O
+implement_63	and	O
+implement_63	Ruby	O
+implement_63	use	O
+implement_63	hash	O
+implement_63	tables	O
+implement_63	to	O
+implement_63	implement	implement_vrb
+implement_63	objects	O

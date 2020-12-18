@@ -1,0 +1,15 @@
+contest_6	Poland	O
+contest_6	has	O
+contest_6	participated	O
+contest_6	in	O
+contest_6	the	O
+contest_6	Eurovision	O
+contest_6	Song	O
+contest_6	Contest	contest_nou
+contest_6	19	O
+contest_6	times	O
+contest_6	since	O
+contest_6	its	O
+contest_6	debut	O
+contest_6	in	O
+contest_6	1994	O

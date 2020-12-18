@@ -1,0 +1,15 @@
+pasty_10	Matt	O
+pasty_10	Grant	O
+pasty_10	originated	O
+pasty_10	in	O
+pasty_10	England	O
+pasty_10	where	O
+pasty_10	his	O
+pasty_10	mother	O
+pasty_10	taught	O
+pasty_10	him	O
+pasty_10	how	O
+pasty_10	to	O
+pasty_10	make	O
+pasty_10	a	O
+pasty_10	pasty	pasty_adj

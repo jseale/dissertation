@@ -1,0 +1,12 @@
+minute_48	The	O
+minute_48	whole	O
+minute_48	sequence	O
+minute_48	in	O
+minute_48	the	O
+minute_48	final	O
+minute_48	minute	minute
+minute_48	of	O
+minute_48	the	O
+minute_48	game	O
+minute_48	was	O
+minute_48	phenomenal	O

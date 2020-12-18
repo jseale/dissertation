@@ -1,0 +1,16 @@
+escort_22	She	O
+escort_22	sailed	O
+escort_22	on	O
+escort_22	2	O
+escort_22	May	O
+escort_22	with	O
+escort_22	an	O
+escort_22	escort	escort_nou
+escort_22	carrier	O
+escort_22	force	O
+escort_22	that	O
+escort_22	closed	O
+escort_22	Okinawa	O
+escort_22	on	O
+escort_22	21	O
+escort_22	May.	O

@@ -1,0 +1,10 @@
+discount_70	The	O
+discount_70	union	O
+discount_70	also	O
+discount_70	has	O
+discount_70	student	O
+discount_70	offers	O
+discount_70	and	O
+discount_70	discount	discount_nou
+discount_70	bus	O
+discount_70	passes	O

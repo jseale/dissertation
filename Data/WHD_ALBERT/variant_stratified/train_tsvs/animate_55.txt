@@ -1,0 +1,15 @@
+animate_55	Shade	O
+animate_55	could	O
+animate_55	then	O
+animate_55	rig	O
+animate_55	animate	animate_vrb
+animate_55	render	O
+animate_55	and	O
+animate_55	export	O
+animate_55	as	O
+animate_55	a	O
+animate_55	movie	O
+animate_55	for	O
+animate_55	video	O
+animate_55	editing	O
+animate_55	compositing	O

@@ -1,0 +1,15 @@
+separate_4	Jamia	O
+separate_4	Nadwiyya	O
+separate_4	is	O
+separate_4	a	O
+separate_4	residential	O
+separate_4	campus	O
+separate_4	having	O
+separate_4	separate	separate_adj
+separate_4	hostel	O
+separate_4	facility	O
+separate_4	for	O
+separate_4	both	O
+separate_4	boys	O
+separate_4	and	O
+separate_4	girls	O

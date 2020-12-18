@@ -1,0 +1,8 @@
+frequent_19	Despite	O
+frequent_19	the	O
+frequent_19	frequent	frequent_adj
+frequent_19	mating	O
+frequent_19	no	O
+frequent_19	cubs	O
+frequent_19	were	O
+frequent_19	produced	O

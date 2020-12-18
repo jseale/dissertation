@@ -1,0 +1,16 @@
+duplicate_69	Practice	O
+duplicate_69	varies	O
+duplicate_69	and	O
+duplicate_69	occasionally	O
+duplicate_69	the	O
+duplicate_69	affidavit	O
+duplicate_69	will	O
+duplicate_69	duplicate	duplicate_vrb
+duplicate_69	all	O
+duplicate_69	of	O
+duplicate_69	the	O
+duplicate_69	information	O
+duplicate_69	contained	O
+duplicate_69	in	O
+duplicate_69	the	O
+duplicate_69	petition	O

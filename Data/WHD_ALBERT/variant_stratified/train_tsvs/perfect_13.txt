@@ -1,0 +1,13 @@
+perfect_13	While	O
+perfect_13	it	O
+perfect_13	's	O
+perfect_13	not	O
+perfect_13	perfect	perfect_adj
+perfect_13	2K9	O
+perfect_13	's	O
+perfect_13	certainly	O
+perfect_13	headed	O
+perfect_13	toward	O
+perfect_13	another	O
+perfect_13	title	O
+perfect_13	run	O

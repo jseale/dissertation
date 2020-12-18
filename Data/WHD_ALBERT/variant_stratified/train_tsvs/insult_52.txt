@@ -1,0 +1,15 @@
+insult_52	African	O
+insult_52	Americans	O
+insult_52	successfully	O
+insult_52	sued	O
+insult_52	the	O
+insult_52	Memphis	O
+insult_52	Street	O
+insult_52	Railway	O
+insult_52	Company	O
+insult_52	for	O
+insult_52	personal	O
+insult_52	injury	O
+insult_52	and	O
+insult_52	racial	O
+insult_52	insult	insult_nou

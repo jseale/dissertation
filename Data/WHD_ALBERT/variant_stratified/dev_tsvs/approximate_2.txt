@@ -1,0 +1,17 @@
+approximate_2	Bourlamaque	O
+approximate_2	increased	O
+approximate_2	scouting	O
+approximate_2	activities	O
+approximate_2	and	O
+approximate_2	learned	O
+approximate_2	from	O
+approximate_2	captured	O
+approximate_2	British	O
+approximate_2	scouts	O
+approximate_2	the	O
+approximate_2	approximate	approximate_adj-nou
+approximate_2	size	O
+approximate_2	of	O
+approximate_2	the	O
+approximate_2	British	O
+approximate_2	force	O

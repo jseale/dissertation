@@ -1,0 +1,14 @@
+abuse_6	In	O
+abuse_6	running	O
+abuse_6	the	O
+abuse_6	site	O
+abuse_6	police	O
+abuse_6	rescued	O
+abuse_6	85	O
+abuse_6	children	O
+abuse_6	from	O
+abuse_6	ongoing	O
+abuse_6	abuse	abuse_nou
+abuse_6	and	O
+abuse_6	arrested	O
+abuse_6	hundreds	O

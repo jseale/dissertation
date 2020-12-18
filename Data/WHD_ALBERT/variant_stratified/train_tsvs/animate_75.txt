@@ -1,0 +1,14 @@
+animate_75	The	O
+animate_75	fame	O
+animate_75	of	O
+animate_75	the	O
+animate_75	dance	O
+animate_75	rests	O
+animate_75	on	O
+animate_75	Astaire	O
+animate_75	's	O
+animate_75	ability	O
+animate_75	to	O
+animate_75	animate	animate_vrb
+animate_75	the	O
+animate_75	inanimate	O

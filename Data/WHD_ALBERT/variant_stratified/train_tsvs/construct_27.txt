@@ -1,0 +1,9 @@
+construct_27	We	O
+construct_27	construct	construct_vrb
+construct_27	a	O
+construct_27	new	O
+construct_27	POVM	O
+construct_27	to	O
+construct_27	distinguish	O
+construct_27	between	O
+construct_27	and	O

@@ -1,0 +1,13 @@
+protest_17	The	O
+protest_17	case	O
+protest_17	involved	O
+protest_17	an	O
+protest_17	anti	O
+protest_17	war	O
+protest_17	protest	protest_nou
+protest_17	on	O
+protest_17	the	O
+protest_17	campus	O
+protest_17	of	O
+protest_17	Indiana	O
+protest_17	University	O

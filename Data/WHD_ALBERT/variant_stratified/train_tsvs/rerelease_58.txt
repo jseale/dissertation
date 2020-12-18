@@ -1,0 +1,10 @@
+rerelease_58	This	O
+rerelease_58	recording	O
+rerelease_58	is	O
+rerelease_58	a	O
+rerelease_58	rerelease	rerelease
+rerelease_58	of	O
+rerelease_58	a	O
+rerelease_58	Collins	O
+rerelease_58	Classics	O
+rerelease_58	CD	O

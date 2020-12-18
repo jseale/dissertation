@@ -1,0 +1,16 @@
+diffuse_67	As	O
+diffuse_67	polymerization	O
+diffuse_67	proceeds	O
+diffuse_67	the	O
+diffuse_67	polyaniline	O
+diffuse_67	nanofibers	O
+diffuse_67	will	O
+diffuse_67	diffuse	diffuse_vrb
+diffuse_67	into	O
+diffuse_67	the	O
+diffuse_67	water	O
+diffuse_67	layer	O
+diffuse_67	leaving	O
+diffuse_67	the	O
+diffuse_67	reactive	O
+diffuse_67	interface	O

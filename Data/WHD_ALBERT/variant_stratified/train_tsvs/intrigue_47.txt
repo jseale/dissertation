@@ -1,0 +1,7 @@
+intrigue_47	She	O
+intrigue_47	is	O
+intrigue_47	involved	O
+intrigue_47	in	O
+intrigue_47	a	O
+intrigue_47	Catholic	O
+intrigue_47	intrigue	intrigue_nou

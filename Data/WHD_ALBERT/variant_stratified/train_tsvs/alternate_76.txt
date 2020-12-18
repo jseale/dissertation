@@ -1,0 +1,12 @@
+alternate_76	He	O
+alternate_76	was	O
+alternate_76	a	O
+alternate_76	Botanist	O
+alternate_76	who	O
+alternate_76	advocated	O
+alternate_76	holistic	O
+alternate_76	living	O
+alternate_76	and	O
+alternate_76	alternate	alternate_adj-nou
+alternate_76	scientific	O
+alternate_76	approach	O

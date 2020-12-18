@@ -1,0 +1,17 @@
+permit_58	Many	O
+permit_58	jurisdictions	O
+permit_58	have	O
+permit_58	enacted	O
+permit_58	statutes	O
+permit_58	that	O
+permit_58	permit	permit_vrb
+permit_58	a	O
+permit_58	pretermitted	O
+permit_58	child	O
+permit_58	to	O
+permit_58	demand	O
+permit_58	an	O
+permit_58	inheritance	O
+permit_58	under	O
+permit_58	the	O
+permit_58	will	O

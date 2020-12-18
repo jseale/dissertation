@@ -1,0 +1,14 @@
+correlate_32	Oblique	O
+correlate_32	rotations	O
+correlate_32	permit	O
+correlate_32	correlations	O
+correlate_32	among	O
+correlate_32	factors	O
+correlate_32	though	O
+correlate_32	the	O
+correlate_32	factors	O
+correlate_32	thus	O
+correlate_32	identified	O
+correlate_32	may	O
+correlate_32	not	O
+correlate_32	correlate	correlate_nou-vrb

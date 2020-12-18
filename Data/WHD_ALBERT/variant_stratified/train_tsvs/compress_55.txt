@@ -1,0 +1,17 @@
+compress_55	For	O
+compress_55	example	O
+compress_55	a	O
+compress_55	dictionary	O
+compress_55	is	O
+compress_55	built	O
+compress_55	from	O
+compress_55	old	O
+compress_55	English	O
+compress_55	texts	O
+compress_55	then	O
+compress_55	is	O
+compress_55	used	O
+compress_55	to	O
+compress_55	compress	compress
+compress_55	a	O
+compress_55	book	O

@@ -1,0 +1,14 @@
+compress_58	Its	O
+compress_58	memory	O
+compress_58	capability	O
+compress_58	helps	O
+compress_58	compress	compress
+compress_58	the	O
+compress_58	joint	O
+compress_58	into	O
+compress_58	its	O
+compress_58	proper	O
+compress_58	shape	O
+compress_58	encouraging	O
+compress_58	rapid	O
+compress_58	fusion	O

@@ -1,0 +1,13 @@
+convert_2	NOGS	O
+convert_2	succeeded	O
+convert_2	in	O
+convert_2	Vietnam	O
+convert_2	but	O
+convert_2	funds	O
+convert_2	to	O
+convert_2	convert	convert_vrb
+convert_2	more	O
+convert_2	aircraft	O
+convert_2	were	O
+convert_2	not	O
+convert_2	approved	O

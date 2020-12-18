@@ -1,0 +1,17 @@
+intrigue_13	Among	O
+intrigue_13	his	O
+intrigue_13	original	O
+intrigue_13	parts	O
+intrigue_13	were	O
+intrigue_13	Tom	O
+intrigue_13	in	O
+intrigue_13	The	O
+intrigue_13	Intrigue	intrigue_nou
+intrigue_13	and	O
+intrigue_13	Farmer	O
+intrigue_13	Enfield	O
+intrigue_13	in	O
+intrigue_13	The	O
+intrigue_13	Falls	O
+intrigue_13	of	O
+intrigue_13	Clyde	O

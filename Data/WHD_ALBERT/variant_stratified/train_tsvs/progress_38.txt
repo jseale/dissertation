@@ -1,0 +1,13 @@
+progress_38	Freed	O
+progress_38	from	O
+progress_38	interruption	O
+progress_38	Bartlow	O
+progress_38	is	O
+progress_38	able	O
+progress_38	to	O
+progress_38	make	O
+progress_38	excellent	O
+progress_38	progress	progress_nou
+progress_38	on	O
+progress_38	the	O
+progress_38	script	O

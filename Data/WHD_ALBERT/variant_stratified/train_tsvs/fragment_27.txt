@@ -1,0 +1,15 @@
+fragment_27	This	O
+fragment_27	fragment	fragment_nou
+fragment_27	punctured	O
+fragment_27	a	O
+fragment_27	tyre	O
+fragment_27	on	O
+fragment_27	Concorde	O
+fragment_27	's	O
+fragment_27	left	O
+fragment_27	main	O
+fragment_27	wheel	O
+fragment_27	bogie	O
+fragment_27	during	O
+fragment_27	take	O
+fragment_27	off	O

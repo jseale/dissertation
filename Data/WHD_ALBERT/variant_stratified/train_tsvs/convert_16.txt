@@ -1,0 +1,16 @@
+convert_16	The	O
+convert_16	military	O
+convert_16	issued	O
+convert_16	field	O
+convert_16	conversion	O
+convert_16	kits	O
+convert_16	T17	O
+convert_16	and	O
+convert_16	T18	O
+convert_16	to	O
+convert_16	convert	convert_vrb
+convert_16	an	O
+convert_16	M1	O
+convert_16	to	O
+convert_16	an	O
+convert_16	M2	O

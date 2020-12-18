@@ -1,0 +1,17 @@
+rebel_15	Sedara	O
+rebel_15	is	O
+rebel_15	a	O
+rebel_15	rebel	rebel_nou
+rebel_15	in	O
+rebel_15	Afghanistan	O
+rebel_15	before	O
+rebel_15	she	O
+rebel_15	is	O
+rebel_15	recruited	O
+rebel_15	by	O
+rebel_15	Psi	O
+rebel_15	Force	O
+rebel_15	in	O
+rebel_15	the	O
+rebel_15	final	O
+rebel_15	issue	O

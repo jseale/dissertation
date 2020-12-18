@@ -1,0 +1,12 @@
+dove_17	He	O
+dove_17	sends	O
+dove_17	out	O
+dove_17	a	O
+dove_17	Dove	dove
+dove_17	who	O
+dove_17	eventually	O
+dove_17	brings	O
+dove_17	back	O
+dove_17	an	O
+dove_17	olive	O
+dove_17	branch	O

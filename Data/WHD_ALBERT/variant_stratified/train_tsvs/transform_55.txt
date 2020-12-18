@@ -1,0 +1,8 @@
+transform_55	The	O
+transform_55	most	O
+transform_55	important	O
+transform_55	one	O
+transform_55	is	O
+transform_55	the	O
+transform_55	Fourier	O
+transform_55	transform	transform_nou

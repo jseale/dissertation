@@ -1,0 +1,10 @@
+content_10	Such	O
+content_10	coal	O
+content_10	often	O
+content_10	has	O
+content_10	ash	O
+content_10	content	content_nou
+content_10	averaging	O
+content_10	40	O
+content_10	per	O
+content_10	cent	O

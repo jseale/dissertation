@@ -1,0 +1,9 @@
+approximate_9	This	O
+approximate_9	makes	O
+approximate_9	the	O
+approximate_9	bent	O
+approximate_9	functions	O
+approximate_9	naturally	O
+approximate_9	hard	O
+approximate_9	to	O
+approximate_9	approximate	approximate_vrb

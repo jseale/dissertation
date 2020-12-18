@@ -1,0 +1,11 @@
+invalid_72	This	O
+invalid_72	invalid	invalid_nou
+invalid_72	is	O
+invalid_72	the	O
+invalid_72	crew	O
+invalid_72	's	O
+invalid_72	new	O
+invalid_72	pilot	O
+invalid_72	wounded	O
+invalid_72	in	O
+invalid_72	action	O

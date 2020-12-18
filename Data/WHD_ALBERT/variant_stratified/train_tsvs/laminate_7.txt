@@ -1,0 +1,16 @@
+laminate_7	Its	O
+laminate_7	products	O
+laminate_7	include	O
+laminate_7	a	O
+laminate_7	wide	O
+laminate_7	variety	O
+laminate_7	of	O
+laminate_7	beds	O
+laminate_7	mattresses	O
+laminate_7	carpets	O
+laminate_7	laminate	laminate_nou
+laminate_7	flooring	O
+laminate_7	vinyl	O
+laminate_7	flooring	O
+laminate_7	and	O
+laminate_7	rugs	O

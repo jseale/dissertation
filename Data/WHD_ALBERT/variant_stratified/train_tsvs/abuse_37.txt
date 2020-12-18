@@ -1,0 +1,9 @@
+abuse_37	This	O
+abuse_37	is	O
+abuse_37	how	O
+abuse_37	most	O
+abuse_37	partners	O
+abuse_37	adapt	O
+abuse_37	to	O
+abuse_37	verbal	O
+abuse_37	abuse	abuse_nou

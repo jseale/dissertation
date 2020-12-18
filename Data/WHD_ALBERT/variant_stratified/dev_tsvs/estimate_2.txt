@@ -1,0 +1,12 @@
+estimate_2	The	O
+estimate_2	population	O
+estimate_2	was	O
+estimate_2	20,547	O
+estimate_2	in	O
+estimate_2	2015	O
+estimate_2	according	O
+estimate_2	to	O
+estimate_2	a	O
+estimate_2	US	O
+estimate_2	Census	O
+estimate_2	Estimate	estimate_nou

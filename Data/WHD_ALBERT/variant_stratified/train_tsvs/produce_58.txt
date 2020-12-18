@@ -1,0 +1,8 @@
+produce_58	The	O
+produce_58	kidneys	O
+produce_58	produce	produce_vrb
+produce_58	their	O
+produce_58	own	O
+produce_58	natriuretic	O
+produce_58	32-residue	O
+produce_58	peptide	O

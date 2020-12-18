@@ -1,0 +1,17 @@
+separate_53	Salar	O
+separate_53	Masud	O
+separate_53	established	O
+separate_53	his	O
+separate_53	headquarters	O
+separate_53	at	O
+separate_53	Satrikh	O
+separate_53	and	O
+separate_53	dispatched	O
+separate_53	separate	separate_adj
+separate_53	forces	O
+separate_53	to	O
+separate_53	capture	O
+separate_53	Bahraich	O
+separate_53	Gopamau	O
+separate_53	and	O
+separate_53	Benares	O

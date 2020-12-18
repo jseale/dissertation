@@ -1,0 +1,7 @@
+diffuse_42	The	O
+diffuse_42	outer	O
+diffuse_42	line	O
+diffuse_42	is	O
+diffuse_42	pale	O
+diffuse_42	and	O
+diffuse_42	diffuse	diffuse_adj

@@ -1,0 +1,9 @@
+uses_26	It	O
+uses_26	uses	uses_vrb
+uses_26	Alberti	O
+uses_26	bass	O
+uses_26	and	O
+uses_26	has	O
+uses_26	strong	O
+uses_26	harmonic	O
+uses_26	features	O

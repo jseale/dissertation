@@ -1,0 +1,16 @@
+confines_0	Mr	O
+confines_0	Tommasini	O
+confines_0	sought	O
+confines_0	to	O
+confines_0	judge	O
+confines_0	her	O
+confines_0	narrowly	O
+confines_0	within	O
+confines_0	the	O
+confines_0	facile	O
+confines_0	intellectual	O
+confines_0	confines	confines_nou
+confines_0	of	O
+confines_0	mere	O
+confines_0	technical	O
+confines_0	pedantry	O

@@ -1,0 +1,8 @@
+minute_42	The	O
+minute_42	first	O
+minute_42	failed	O
+minute_42	at	O
+minute_42	the	O
+minute_42	five	O
+minute_42	minute	minute
+minute_42	mark	O

@@ -1,0 +1,14 @@
+analyses_69	They	O
+analyses_69	are	O
+analyses_69	periodic	O
+analyses_69	analyses	analyses_nou
+analyses_69	of	O
+analyses_69	trends	O
+analyses_69	in	O
+analyses_69	state	O
+analyses_69	and	O
+analyses_69	local	O
+analyses_69	government	O
+analyses_69	spending	O
+analyses_69	and	O
+analyses_69	taxes	O

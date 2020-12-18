@@ -1,0 +1,14 @@
+intrigue_5	Escoiquiz	O
+intrigue_5	was	O
+intrigue_5	the	O
+intrigue_5	brains	O
+intrigue_5	as	O
+intrigue_5	far	O
+intrigue_5	as	O
+intrigue_5	there	O
+intrigue_5	were	O
+intrigue_5	any	O
+intrigue_5	brains	O
+intrigue_5	of	O
+intrigue_5	the	O
+intrigue_5	intrigue	intrigue_nou

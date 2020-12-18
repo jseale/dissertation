@@ -1,0 +1,12 @@
+upset_29	The	O
+upset_29	Michigan	O
+upset_29	Stadium	O
+upset_29	crowd	O
+upset_29	sensing	O
+upset_29	a	O
+upset_29	major	O
+upset_29	upset	upset_nou
+upset_29	began	O
+upset_29	screaming	O
+upset_29	and	O
+upset_29	chanting	O

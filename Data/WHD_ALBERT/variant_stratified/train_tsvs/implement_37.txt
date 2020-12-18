@@ -1,0 +1,17 @@
+implement_37	Unlike	O
+implement_37	most	O
+implement_37	other	O
+implement_37	contemporary	O
+implement_37	clubs	O
+implement_37	Albion	O
+implement_37	had	O
+implement_37	yet	O
+implement_37	to	O
+implement_37	implement	implement_vrb
+implement_37	the	O
+implement_37	modern	O
+implement_37	role	O
+implement_37	of	O
+implement_37	coach	O
+implement_37	or	O
+implement_37	manager	O

@@ -1,0 +1,14 @@
+lead_63	He	O
+lead_63	was	O
+lead_63	promoted	O
+lead_63	again	O
+lead_63	on	O
+lead_63	1	O
+lead_63	February	O
+lead_63	1940	O
+lead_63	to	O
+lead_63	lead	lead_nou-vrb
+lead_63	I./Jagdgeschwader	O
+lead_63	1	O
+lead_63	as	O
+lead_63	Gruppenkommandeur	O

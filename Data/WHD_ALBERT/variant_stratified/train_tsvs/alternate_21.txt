@@ -1,0 +1,17 @@
+alternate_21	On	O
+alternate_21	October	O
+alternate_21	3	O
+alternate_21	2008	O
+alternate_21	Heatley	O
+alternate_21	was	O
+alternate_21	named	O
+alternate_21	alternate	alternate_adj-nou
+alternate_21	captain	O
+alternate_21	to	O
+alternate_21	Daniel	O
+alternate_21	Alfredsson	O
+alternate_21	along	O
+alternate_21	with	O
+alternate_21	defenceman	O
+alternate_21	Chris	O
+alternate_21	Phillips	O

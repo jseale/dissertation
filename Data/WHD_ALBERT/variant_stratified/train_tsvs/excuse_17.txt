@@ -1,0 +1,17 @@
+excuse_17	Pratt	O
+excuse_17	reasoned	O
+excuse_17	that	O
+excuse_17	the	O
+excuse_17	club	O
+excuse_17	would	O
+excuse_17	give	O
+excuse_17	them	O
+excuse_17	an	O
+excuse_17	excuse	excuse_nou
+excuse_17	to	O
+excuse_17	spend	O
+excuse_17	time	O
+excuse_17	with	O
+excuse_17	him	O
+excuse_17	without	O
+excuse_17	her	O

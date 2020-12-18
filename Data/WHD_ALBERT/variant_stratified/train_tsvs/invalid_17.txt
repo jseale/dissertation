@@ -1,0 +1,17 @@
+invalid_17	Michigan	O
+invalid_17	election	O
+invalid_17	law	O
+invalid_17	stipulates	O
+invalid_17	that	O
+invalid_17	if	O
+invalid_17	duplicates	O
+invalid_17	are	O
+invalid_17	found	O
+invalid_17	both	O
+invalid_17	the	O
+invalid_17	original	O
+invalid_17	and	O
+invalid_17	duplicate	O
+invalid_17	are	O
+invalid_17	ruled	O
+invalid_17	invalid	invalid_adj

@@ -1,0 +1,17 @@
+record_6	She	O
+record_6	holds	O
+record_6	the	O
+record_6	Canadian	O
+record_6	national	O
+record_6	record	record_nou
+record_6	in	O
+record_6	the	O
+record_6	butterfly	O
+record_6	over	O
+record_6	the	O
+record_6	50	O
+record_6	m	O
+record_6	in	O
+record_6	the	O
+record_6	short	O
+record_6	course	O

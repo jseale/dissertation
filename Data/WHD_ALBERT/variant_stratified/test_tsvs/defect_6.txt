@@ -1,0 +1,16 @@
+defect_6	Levine	O
+defect_6	was	O
+defect_6	born	O
+defect_6	with	O
+defect_6	a	O
+defect_6	heart	O
+defect_6	defect	defect_nou
+defect_6	that	O
+defect_6	required	O
+defect_6	open	O
+defect_6	heart	O
+defect_6	surgery	O
+defect_6	at	O
+defect_6	four	O
+defect_6	months	O
+defect_6	old	O

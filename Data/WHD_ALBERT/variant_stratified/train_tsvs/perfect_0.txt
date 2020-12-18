@@ -1,0 +1,11 @@
+perfect_0	Perfect	perfect_adj
+perfect_0	fluids	O
+perfect_0	are	O
+perfect_0	idealized	O
+perfect_0	models	O
+perfect_0	in	O
+perfect_0	which	O
+perfect_0	these	O
+perfect_0	possibilities	O
+perfect_0	are	O
+perfect_0	neglected	O

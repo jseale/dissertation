@@ -1,0 +1,11 @@
+protest_11	General	O
+protest_11	strikes	O
+protest_11	in	O
+protest_11	protest	protest_nou
+protest_11	against	O
+protest_11	the	O
+protest_11	decision	O
+protest_11	began	O
+protest_11	in	O
+protest_11	February	O
+protest_11	1948	O

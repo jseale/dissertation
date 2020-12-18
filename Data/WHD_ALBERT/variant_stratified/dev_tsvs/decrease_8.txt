@@ -1,0 +1,17 @@
+decrease_8	When	O
+decrease_8	left	O
+decrease_8	sided	O
+decrease_8	heart	O
+decrease_8	failure	O
+decrease_8	is	O
+decrease_8	the	O
+decrease_8	cause	O
+decrease_8	the	O
+decrease_8	individual	O
+decrease_8	is	O
+decrease_8	instructed	O
+decrease_8	to	O
+decrease_8	decrease	decrease_vrb
+decrease_8	intake	O
+decrease_8	of	O
+decrease_8	salt	O

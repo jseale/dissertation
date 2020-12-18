@@ -1,0 +1,15 @@
+initiate_70	These	O
+initiate_70	incidents	O
+initiate_70	led	O
+initiate_70	Israel	O
+initiate_70	to	O
+initiate_70	initiate	initiate_vrb
+initiate_70	the	O
+initiate_70	Second	O
+initiate_70	Lebanon	O
+initiate_70	War	O
+initiate_70	which	O
+initiate_70	lasted	O
+initiate_70	through	O
+initiate_70	August	O
+initiate_70	2006	O

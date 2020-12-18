@@ -1,0 +1,13 @@
+convict_69	In	O
+convict_69	addition	O
+convict_69	four	O
+convict_69	free	O
+convict_69	women	O
+convict_69	accompanied	O
+convict_69	their	O
+convict_69	convict	convict_nou
+convict_69	husbands	O
+convict_69	together	O
+convict_69	with	O
+convict_69	two	O
+convict_69	children	O

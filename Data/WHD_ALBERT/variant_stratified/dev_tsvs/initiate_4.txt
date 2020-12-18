@@ -1,0 +1,11 @@
+initiate_4	Once	O
+initiate_4	the	O
+initiate_4	electric	O
+initiate_4	field	O
+initiate_4	is	O
+initiate_4	turned	O
+initiate_4	on	O
+initiate_4	protein	O
+initiate_4	migration	O
+initiate_4	will	O
+initiate_4	initiate	initiate_vrb

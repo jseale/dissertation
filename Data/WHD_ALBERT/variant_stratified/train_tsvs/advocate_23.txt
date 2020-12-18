@@ -1,0 +1,9 @@
+advocate_23	He	O
+advocate_23	was	O
+advocate_23	also	O
+advocate_23	an	O
+advocate_23	early	O
+advocate_23	advocate	advocate_nou
+advocate_23	of	O
+advocate_23	organic	O
+advocate_23	gardening	O

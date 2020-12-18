@@ -1,0 +1,15 @@
+convert_6	Abdallah	O
+convert_6	Jones	O
+convert_6	a	O
+convert_6	Welsh	O
+convert_6	born	O
+convert_6	Muslim	O
+convert_6	convert	convert_nou
+convert_6	terrorist	O
+convert_6	affiliated	O
+convert_6	with	O
+convert_6	jihadists	O
+convert_6	in	O
+convert_6	Pakistan	O
+convert_6	and	O
+convert_6	elsewhere	O

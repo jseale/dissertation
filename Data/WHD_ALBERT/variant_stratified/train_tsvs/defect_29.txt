@@ -1,0 +1,14 @@
+defect_29	It	O
+defect_29	is	O
+defect_29	the	O
+defect_29	result	O
+defect_29	of	O
+defect_29	an	O
+defect_29	embryonic	O
+defect_29	defect	defect_nou
+defect_29	in	O
+defect_29	the	O
+defect_29	mesodermal	O
+defect_29	ectodermal	O
+defect_29	midline	O
+defect_29	development	O

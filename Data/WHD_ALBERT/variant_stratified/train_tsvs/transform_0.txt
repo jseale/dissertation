@@ -1,0 +1,17 @@
+transform_0	This	O
+transform_0	was	O
+transform_0	difficult	O
+transform_0	to	O
+transform_0	model	O
+transform_0	because	O
+transform_0	the	O
+transform_0	aged	O
+transform_0	and	O
+transform_0	scarred	O
+transform_0	robots	O
+transform_0	had	O
+transform_0	to	O
+transform_0	transform	transform
+transform_0	from	O
+transform_0	clean	O
+transform_0	cars	O

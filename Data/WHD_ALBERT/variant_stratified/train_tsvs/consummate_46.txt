@@ -1,0 +1,10 @@
+consummate_46	Ebenezer	O
+consummate_46	and	O
+consummate_46	Joan	O
+consummate_46	consummate	consummate_vrb
+consummate_46	their	O
+consummate_46	marriage	O
+consummate_46	and	O
+consummate_46	Joan	O
+consummate_46	falls	O
+consummate_46	pregnant	O

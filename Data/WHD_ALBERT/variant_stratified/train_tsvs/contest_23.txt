@@ -1,0 +1,11 @@
+contest_23	Ukraine	O
+contest_23	participated	O
+contest_23	in	O
+contest_23	the	O
+contest_23	Eurovision	O
+contest_23	Song	O
+contest_23	Contest	contest_nou
+contest_23	2013	O
+contest_23	in	O
+contest_23	Malmo	O
+contest_23	Sweden	O

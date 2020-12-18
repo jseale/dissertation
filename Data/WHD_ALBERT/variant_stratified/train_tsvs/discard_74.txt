@@ -1,0 +1,17 @@
+discard_74	Some	O
+discard_74	rummy	O
+discard_74	players	O
+discard_74	play	O
+discard_74	that	O
+discard_74	any	O
+discard_74	player	O
+discard_74	must	O
+discard_74	discard	discard_vrb
+discard_74	on	O
+discard_74	the	O
+discard_74	turn	O
+discard_74	in	O
+discard_74	which	O
+discard_74	they	O
+discard_74	go	O
+discard_74	out	O

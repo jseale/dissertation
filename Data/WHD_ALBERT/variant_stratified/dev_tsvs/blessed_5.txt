@@ -1,0 +1,14 @@
+blessed_5	The	O
+blessed_5	park	O
+blessed_5	is	O
+blessed_5	blessed	blessed_vrb
+blessed_5	with	O
+blessed_5	children	O
+blessed_5	's	O
+blessed_5	play	O
+blessed_5	area	O
+blessed_5	green	O
+blessed_5	grounds	O
+blessed_5	and	O
+blessed_5	exotic	O
+blessed_5	plants	O

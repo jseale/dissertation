@@ -1,0 +1,17 @@
+misuse_40	Islam	O
+misuse_40	has	O
+misuse_40	instructed	O
+misuse_40	its	O
+misuse_40	followers	O
+misuse_40	to	O
+misuse_40	maintain	O
+misuse_40	decency	O
+misuse_40	in	O
+misuse_40	speech	O
+misuse_40	and	O
+misuse_40	misuse	misuse_nou
+misuse_40	of	O
+misuse_40	tongue	O
+misuse_40	has	O
+misuse_40	been	O
+misuse_40	admonished	O

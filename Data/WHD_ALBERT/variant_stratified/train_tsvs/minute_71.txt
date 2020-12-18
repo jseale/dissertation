@@ -1,0 +1,8 @@
+minute_71	Thus	O
+minute_71	the	O
+minute_71	change	O
+minute_71	in	O
+minute_71	bitline	O
+minute_71	voltage	O
+minute_71	is	O
+minute_71	minute	minute_adj

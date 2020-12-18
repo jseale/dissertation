@@ -1,0 +1,14 @@
+lead_4	The	O
+lead_4	report	O
+lead_4	further	O
+lead_4	argues	O
+lead_4	that	O
+lead_4	the	O
+lead_4	doctrine	O
+lead_4	was	O
+lead_4	fully	O
+lead_4	implemented	O
+lead_4	during	O
+lead_4	Operation	O
+lead_4	Cast	O
+lead_4	Lead	lead_nou

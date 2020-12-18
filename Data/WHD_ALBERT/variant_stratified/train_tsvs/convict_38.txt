@@ -1,0 +1,14 @@
+convict_38	For	O
+convict_38	instance	O
+convict_38	convict	convict_nou
+convict_38	/ˈkɒnvɪkt/	O
+convict_38	and	O
+convict_38	convict	convict_nou
+convict_38	/kenˈvɪkt/	O
+convict_38	can	O
+convict_38	be	O
+convict_38	spelled	O
+convict_38	𐑒𐑪𐑯𐑝𐑦𐑒𐑑	O
+convict_38	and	O
+convict_38	𐑒𐑩𐑯𐑝𐑦𐑒𐑑	O
+convict_38	respectively	O

@@ -1,0 +1,15 @@
+buffet_70	HomeTown	O
+buffet_70	Buffet	buffet_nou
+buffet_70	popularized	O
+buffet_70	the	O
+buffet_70	scatter	O
+buffet_70	buffet	buffet_nou
+buffet_70	which	O
+buffet_70	refers	O
+buffet_70	to	O
+buffet_70	the	O
+buffet_70	layout	O
+buffet_70	of	O
+buffet_70	separate	O
+buffet_70	food	O
+buffet_70	pavilions	O

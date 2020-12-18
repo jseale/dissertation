@@ -1,0 +1,16 @@
+axes_17	However	O
+axes_17	the	O
+axes_17	kernel	O
+axes_17	gain	O
+axes_17	does	O
+axes_17	not	O
+axes_17	decrease	O
+axes_17	along	O
+axes_17	the	O
+axes_17	eta	O
+axes_17	tau	O
+axes_17	axes	axes_nou
+axes_17	in	O
+axes_17	the	O
+axes_17	ambiguity	O
+axes_17	domain	O

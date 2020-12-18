@@ -1,0 +1,7 @@
+bow_8	To	O
+bow_8	the	O
+bow_8	west	O
+bow_8	lies	O
+bow_8	Bromley	O
+bow_8	by	O
+bow_8	Bow	bow_nou-knot

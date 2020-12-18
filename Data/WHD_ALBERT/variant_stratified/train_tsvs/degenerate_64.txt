@@ -1,0 +1,16 @@
+degenerate_64	However	O
+degenerate_64	the	O
+degenerate_64	Nazis	O
+degenerate_64	had	O
+degenerate_64	burned	O
+degenerate_64	nearly	O
+degenerate_64	4000	O
+degenerate_64	works	O
+degenerate_64	of	O
+degenerate_64	German	O
+degenerate_64	degenerate	degenerate_adj-nou
+degenerate_64	art	O
+degenerate_64	in	O
+degenerate_64	Berlin	O
+degenerate_64	in	O
+degenerate_64	1939	O

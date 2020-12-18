@@ -1,0 +1,15 @@
+discard_41	The	O
+discard_41	accident	O
+discard_41	causes	O
+discard_41	the	O
+discard_41	school	O
+discard_41	to	O
+discard_41	discard	discard_vrb
+discard_41	the	O
+discard_41	outdoor	O
+discard_41	centre	O
+discard_41	much	O
+discard_41	to	O
+discard_41	the	O
+discard_41	students	O
+discard_41	dismay	O

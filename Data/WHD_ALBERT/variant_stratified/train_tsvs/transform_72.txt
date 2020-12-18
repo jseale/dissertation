@@ -1,0 +1,13 @@
+transform_72	There	O
+transform_72	is	O
+transform_72	also	O
+transform_72	an	O
+transform_72	analogue	O
+transform_72	of	O
+transform_72	the	O
+transform_72	convolution	O
+transform_72	theorem	O
+transform_72	for	O
+transform_72	the	O
+transform_72	Hartley	O
+transform_72	transform	transform_nou

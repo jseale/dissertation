@@ -1,0 +1,16 @@
+defect_1	In	O
+defect_1	2010	O
+defect_1	Bowen	O
+defect_1	was	O
+defect_1	diagnosed	O
+defect_1	with	O
+defect_1	a	O
+defect_1	life	O
+defect_1	threatening	O
+defect_1	heart	O
+defect_1	defect	defect_nou
+defect_1	at	O
+defect_1	nineteen	O
+defect_1	weeks	O
+defect_1	in	O
+defect_1	utero	O

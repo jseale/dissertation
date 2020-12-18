@@ -1,0 +1,11 @@
+retard_43	But	O
+retard_43	never	O
+retard_43	will	O
+retard_43	I	O
+retard_43	attempt	O
+retard_43	to	O
+retard_43	avert	O
+retard_43	or	O
+retard_43	to	O
+retard_43	retard	retard_vrb
+retard_43	it	O

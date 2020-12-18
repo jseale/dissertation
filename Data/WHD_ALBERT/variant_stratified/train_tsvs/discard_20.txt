@@ -1,0 +1,13 @@
+discard_20	The	O
+discard_20	player	O
+discard_20	must	O
+discard_20	have	O
+discard_20	a	O
+discard_20	discard	discard_nou
+discard_20	and	O
+discard_20	may	O
+discard_20	not	O
+discard_20	discard	discard_nou
+discard_20	a	O
+discard_20	playable	O
+discard_20	card	O

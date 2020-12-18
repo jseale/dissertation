@@ -1,0 +1,7 @@
+expose_9	Then	O
+expose_9	he	O
+expose_9	proceeded	O
+expose_9	to	O
+expose_9	expose	expose_vrb
+expose_9	the	O
+expose_9	appendix	O

@@ -1,0 +1,8 @@
+lives_3	It	O
+lives_3	was	O
+lives_3	a	O
+lives_3	central	O
+lives_3	experience	O
+lives_3	in	O
+lives_3	our	O
+lives_3	lives	lives_nou

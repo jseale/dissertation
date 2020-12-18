@@ -1,0 +1,13 @@
+postulate_5	Hahnemann	O
+postulate_5	's	O
+postulate_5	law	O
+postulate_5	of	O
+postulate_5	similars	O
+postulate_5	is	O
+postulate_5	a	O
+postulate_5	postulate	postulate_nou
+postulate_5	rather	O
+postulate_5	than	O
+postulate_5	a	O
+postulate_5	scientific	O
+postulate_5	law	O

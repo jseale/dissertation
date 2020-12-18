@@ -1,0 +1,12 @@
+transplant_29	Shumway	O
+transplant_29	conducted	O
+transplant_29	the	O
+transplant_29	first	O
+transplant_29	adult	O
+transplant_29	heart	O
+transplant_29	transplant	transplant_nou
+transplant_29	in	O
+transplant_29	the	O
+transplant_29	US	O
+transplant_29	in	O
+transplant_29	1968	O

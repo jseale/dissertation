@@ -1,0 +1,16 @@
+read_87	10b	O
+read_87	is	O
+read_87	defined	O
+read_87	to	O
+read_87	mean	O
+read_87	break	O
+read_87	on	O
+read_87	IO	O
+read_87	read	read_present
+read_87	or	O
+read_87	write	O
+read_87	but	O
+read_87	no	O
+read_87	hardware	O
+read_87	supports	O
+read_87	it	O

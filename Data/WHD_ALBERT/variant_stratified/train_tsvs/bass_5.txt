@@ -1,0 +1,12 @@
+bass_5	He	O
+bass_5	is	O
+bass_5	an	O
+bass_5	endorser	O
+bass_5	of	O
+bass_5	Modulus	O
+bass_5	basses	O
+bass_5	and	O
+bass_5	Mark	O
+bass_5	Bass	bass
+bass_5	bass	bass
+bass_5	amps	O

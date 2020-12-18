@@ -1,0 +1,8 @@
+pasty_41	The	O
+pasty_41	Cornish	O
+pasty_41	national	O
+pasty_41	dish	O
+pasty_41	is	O
+pasty_41	the	O
+pasty_41	Cornish	O
+pasty_41	pasty	pasty_adj

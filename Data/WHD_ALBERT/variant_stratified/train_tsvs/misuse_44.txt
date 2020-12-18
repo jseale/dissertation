@@ -1,0 +1,14 @@
+misuse_44	Cannabis	O
+misuse_44	had	O
+misuse_44	been	O
+misuse_44	a	O
+misuse_44	class	O
+misuse_44	B	O
+misuse_44	substance	O
+misuse_44	under	O
+misuse_44	the	O
+misuse_44	Misuse	misuse_nou
+misuse_44	of	O
+misuse_44	Drugs	O
+misuse_44	Act	O
+misuse_44	1971	O

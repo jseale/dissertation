@@ -1,0 +1,16 @@
+duplicate_1	The	O
+duplicate_1	Poverty	O
+duplicate_1	Island	O
+duplicate_1	Light	O
+duplicate_1	was	O
+duplicate_1	designed	O
+duplicate_1	to	O
+duplicate_1	be	O
+duplicate_1	a	O
+duplicate_1	near	O
+duplicate_1	duplicate	duplicate_adj-nou
+duplicate_1	of	O
+duplicate_1	the	O
+duplicate_1	Sturgeon	O
+duplicate_1	Point	O
+duplicate_1	Light	O

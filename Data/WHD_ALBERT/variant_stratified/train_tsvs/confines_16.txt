@@ -1,0 +1,12 @@
+confines_16	The	O
+confines_16	entire	O
+confines_16	highway	O
+confines_16	is	O
+confines_16	within	O
+confines_16	the	O
+confines_16	confines	confines_nou
+confines_16	of	O
+confines_16	the	O
+confines_16	Pisgah	O
+confines_16	National	O
+confines_16	Forest	O

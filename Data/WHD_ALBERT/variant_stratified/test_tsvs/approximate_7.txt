@@ -1,0 +1,17 @@
+approximate_7	The	O
+approximate_7	sun	O
+approximate_7	indicator	O
+approximate_7	or	O
+approximate_7	hand	O
+approximate_7	gives	O
+approximate_7	an	O
+approximate_7	approximate	approximate_adj-nou
+approximate_7	indication	O
+approximate_7	of	O
+approximate_7	both	O
+approximate_7	the	O
+approximate_7	sun	O
+approximate_7	's	O
+approximate_7	azimuth	O
+approximate_7	and	O
+approximate_7	altitude	O

@@ -1,0 +1,16 @@
+abuse_40	Princess	O
+abuse_40	is	O
+abuse_40	a	O
+abuse_40	child	O
+abuse_40	abuse	abuse_nou
+abuse_40	survivor	O
+abuse_40	studies	O
+abuse_40	who	O
+abuse_40	was	O
+abuse_40	abused	O
+abuse_40	several	O
+abuse_40	times	O
+abuse_40	by	O
+abuse_40	her	O
+abuse_40	close	O
+abuse_40	associates	O

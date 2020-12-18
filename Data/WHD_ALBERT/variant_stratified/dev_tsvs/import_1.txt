@@ -1,0 +1,15 @@
+import_1	When	O
+import_1	there	O
+import_1	is	O
+import_1	ad	O
+import_1	valorem	O
+import_1	import	import_nou
+import_1	duty	O
+import_1	the	O
+import_1	tax	O
+import_1	base	O
+import_1	can	O
+import_1	be	O
+import_1	reduced	O
+import_1	through	O
+import_1	underinvoicing	O

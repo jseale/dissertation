@@ -1,0 +1,13 @@
+aged_6	Auditions	O
+aged_6	are	O
+aged_6	open	O
+aged_6	to	O
+aged_6	school	O
+aged_6	aged	aged
+aged_6	boys	O
+aged_6	regardless	O
+aged_6	of	O
+aged_6	race	O
+aged_6	color	O
+aged_6	or	O
+aged_6	creed	O

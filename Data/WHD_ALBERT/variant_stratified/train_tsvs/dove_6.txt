@@ -1,0 +1,16 @@
+dove_6	The	O
+dove_6	grey	O
+dove_6	fronted	O
+dove_6	quail	O
+dove_6	dove	dove
+dove_6	Geotrygon	O
+dove_6	caniceps	O
+dove_6	is	O
+dove_6	a	O
+dove_6	species	O
+dove_6	of	O
+dove_6	bird	O
+dove_6	in	O
+dove_6	the	O
+dove_6	family	O
+dove_6	Columbidae	O

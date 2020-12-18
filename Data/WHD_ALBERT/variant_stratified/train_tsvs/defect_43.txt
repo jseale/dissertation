@@ -1,0 +1,16 @@
+defect_43	The	O
+defect_43	ECG	O
+defect_43	findings	O
+defect_43	in	O
+defect_43	atrial	O
+defect_43	septal	O
+defect_43	defect	defect_nou
+defect_43	vary	O
+defect_43	with	O
+defect_43	the	O
+defect_43	type	O
+defect_43	of	O
+defect_43	defect	defect_nou
+defect_43	the	O
+defect_43	individual	O
+defect_43	has	O

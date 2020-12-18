@@ -1,0 +1,15 @@
+intrigue_20	Hot	O
+intrigue_20	guys	O
+intrigue_20	intrigue	intrigue_nou
+intrigue_20	and	O
+intrigue_20	gossip	O
+intrigue_20	all	O
+intrigue_20	add	O
+intrigue_20	up	O
+intrigue_20	to	O
+intrigue_20	more	O
+intrigue_20	trouble	O
+intrigue_20	than	O
+intrigue_20	ever	O
+intrigue_20	for	O
+intrigue_20	Jenny	O

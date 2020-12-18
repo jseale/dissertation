@@ -1,0 +1,17 @@
+axes_9	However	O
+axes_9	none	O
+axes_9	of	O
+axes_9	the	O
+axes_9	axes	axes_nou-vrb
+axes_9	at	O
+axes_9	Mount	O
+axes_9	William	O
+axes_9	have	O
+axes_9	been	O
+axes_9	ground	O
+axes_9	and	O
+axes_9	polished	O
+axes_9	into	O
+axes_9	finished	O
+axes_9	hatchet	O
+axes_9	heads	O

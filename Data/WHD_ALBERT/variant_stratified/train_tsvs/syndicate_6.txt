@@ -1,0 +1,16 @@
+syndicate_6	At	O
+syndicate_6	the	O
+syndicate_6	cottage	O
+syndicate_6	Rhodes	O
+syndicate_6	offered	O
+syndicate_6	Maund	O
+syndicate_6	financial	O
+syndicate_6	and	O
+syndicate_6	professional	O
+syndicate_6	incentives	O
+syndicate_6	to	O
+syndicate_6	defect	O
+syndicate_6	from	O
+syndicate_6	the	O
+syndicate_6	London	O
+syndicate_6	syndicate	syndicate_nou

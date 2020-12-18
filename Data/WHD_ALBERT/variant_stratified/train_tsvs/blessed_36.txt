@@ -1,0 +1,11 @@
+blessed_36	Laban	O
+blessed_36	conceded	O
+blessed_36	that	O
+blessed_36	God	O
+blessed_36	had	O
+blessed_36	blessed	blessed_vrb
+blessed_36	him	O
+blessed_36	for	O
+blessed_36	Jacob	O
+blessed_36	's	O
+blessed_36	sake	O

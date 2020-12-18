@@ -1,0 +1,16 @@
+pervert_28	Thinking	O
+pervert_28	that	O
+pervert_28	he	O
+pervert_28	's	O
+pervert_28	a	O
+pervert_28	pervert	pervert_nou
+pervert_28	she	O
+pervert_28	reports	O
+pervert_28	him	O
+pervert_28	to	O
+pervert_28	the	O
+pervert_28	police	O
+pervert_28	and	O
+pervert_28	he	O
+pervert_28	gets	O
+pervert_28	arrested	O

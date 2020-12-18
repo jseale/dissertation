@@ -1,0 +1,17 @@
+syndicate_6	The	O
+syndicate_6	film	O
+syndicate_6	was	O
+syndicate_6	also	O
+syndicate_6	nominated	O
+syndicate_6	for	O
+syndicate_6	the	O
+syndicate_6	prestigious	O
+syndicate_6	Grand	O
+syndicate_6	Prix	O
+syndicate_6	of	O
+syndicate_6	the	O
+syndicate_6	Belgian	O
+syndicate_6	Syndicate	syndicate_nou
+syndicate_6	of	O
+syndicate_6	Cinema	O
+syndicate_6	Critics	O

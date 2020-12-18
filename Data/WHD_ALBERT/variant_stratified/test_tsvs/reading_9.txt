@@ -1,0 +1,16 @@
+reading_9	After	O
+reading_9	the	O
+reading_9	break	O
+reading_9	Tshibola	O
+reading_9	put	O
+reading_9	Reading	reading_geo
+reading_9	ahead	O
+reading_9	before	O
+reading_9	a	O
+reading_9	West	O
+reading_9	Ham	O
+reading_9	own	O
+reading_9	goal	O
+reading_9	extended	O
+reading_9	the	O
+reading_9	lead	O

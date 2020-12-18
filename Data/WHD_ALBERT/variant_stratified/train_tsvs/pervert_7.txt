@@ -1,0 +1,14 @@
+pervert_7	Blowie	O
+pervert_7	tells	O
+pervert_7	Boar	O
+pervert_7	that	O
+pervert_7	he	O
+pervert_7	thinks	O
+pervert_7	something	O
+pervert_7	has	O
+pervert_7	happened	O
+pervert_7	to	O
+pervert_7	Pervert	pervert_nou
+pervert_7	but	O
+pervert_7	is	O
+pervert_7	ignored	O

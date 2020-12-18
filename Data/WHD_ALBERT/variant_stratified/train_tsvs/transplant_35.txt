@@ -1,0 +1,17 @@
+transplant_35	Corneal	O
+transplant_35	transplant	transplant_nou
+transplant_35	may	O
+transplant_35	be	O
+transplant_35	considered	O
+transplant_35	for	O
+transplant_35	patients	O
+transplant_35	presenting	O
+transplant_35	with	O
+transplant_35	severely	O
+transplant_35	impaired	O
+transplant_35	vision	O
+transplant_35	caused	O
+transplant_35	by	O
+transplant_35	cholesterol	O
+transplant_35	corneal	O
+transplant_35	opacities	O

@@ -1,0 +1,14 @@
+contest_73	It	O
+contest_73	did	O
+contest_73	not	O
+contest_73	contest	contest_vrb
+contest_73	the	O
+contest_73	1937	O
+contest_73	partial	O
+contest_73	elections	O
+contest_73	in	O
+contest_73	the	O
+contest_73	north	O
+contest_73	of	O
+contest_73	the	O
+contest_73	country	O

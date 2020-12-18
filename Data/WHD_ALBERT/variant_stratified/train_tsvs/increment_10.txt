@@ -1,0 +1,12 @@
+increment_10	There	O
+increment_10	was	O
+increment_10	a	O
+increment_10	30	O
+increment_10	seconds	O
+increment_10	increment	increment_nou
+increment_10	for	O
+increment_10	every	O
+increment_10	move	O
+increment_10	from	O
+increment_10	the	O
+increment_10	start	O

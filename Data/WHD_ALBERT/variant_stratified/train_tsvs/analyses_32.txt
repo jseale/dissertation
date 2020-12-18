@@ -1,0 +1,15 @@
+analyses_32	Conventional	O
+analyses_32	monetary	O
+analyses_32	analyses	analyses_nou
+analyses_32	are	O
+analyses_32	unable	O
+analyses_32	to	O
+analyses_32	detect	O
+analyses_32	or	O
+analyses_32	deal	O
+analyses_32	with	O
+analyses_32	these	O
+analyses_32	sorts	O
+analyses_32	of	O
+analyses_32	ecological	O
+analyses_32	problems	O

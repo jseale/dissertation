@@ -1,0 +1,16 @@
+pervert_0	Ichiro	O
+pervert_0	often	O
+pervert_0	calls	O
+pervert_0	Ranmaru	O
+pervert_0	a	O
+pervert_0	pervert	pervert_nou
+pervert_0	and	O
+pervert_0	says	O
+pervert_0	that	O
+pervert_0	he	O
+pervert_0	has	O
+pervert_0	something	O
+pervert_0	for	O
+pervert_0	his	O
+pervert_0	younger	O
+pervert_0	sister	O

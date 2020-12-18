@@ -1,0 +1,17 @@
+lead_9	He	O
+lead_9	is	O
+lead_9	featured	O
+lead_9	as	O
+lead_9	a	O
+lead_9	dancer	O
+lead_9	and	O
+lead_9	served	O
+lead_9	as	O
+lead_9	lead	lead_nou-vrb
+lead_9	music	O
+lead_9	video	O
+lead_9	choreographer	O
+lead_9	for	O
+lead_9	several	O
+lead_9	recording	O
+lead_9	artists	O

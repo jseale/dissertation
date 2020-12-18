@@ -1,0 +1,14 @@
+conduct_47	He	O
+conduct_47	tested	O
+conduct_47	the	O
+conduct_47	site	O
+conduct_47	but	O
+conduct_47	did	O
+conduct_47	not	O
+conduct_47	conduct	conduct_vrb
+conduct_47	any	O
+conduct_47	excavations	O
+conduct_47	due	O
+conduct_47	to	O
+conduct_47	negative	O
+conduct_47	results	O

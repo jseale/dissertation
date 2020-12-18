@@ -1,0 +1,8 @@
+uses_49	Ring	O
+uses_49	often	O
+uses_49	uses	uses_vrb
+uses_49	doors	O
+uses_49	and	O
+uses_49	windows	O
+uses_49	as	O
+uses_49	thresholds	O

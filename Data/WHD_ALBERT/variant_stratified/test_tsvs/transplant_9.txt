@@ -1,0 +1,16 @@
+transplant_9	Due	O
+transplant_9	to	O
+transplant_9	the	O
+transplant_9	value	O
+transplant_9	of	O
+transplant_9	melange	O
+transplant_9	attempts	O
+transplant_9	have	O
+transplant_9	been	O
+transplant_9	made	O
+transplant_9	to	O
+transplant_9	transplant	transplant_vrb
+transplant_9	production	O
+transplant_9	onto	O
+transplant_9	other	O
+transplant_9	planets	O

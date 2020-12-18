@@ -1,0 +1,15 @@
+minute_15	On	O
+minute_15	the	O
+minute_15	trip	O
+minute_15	the	O
+minute_15	Prince	O
+minute_15	spent	O
+minute_15	a	O
+minute_15	15-minute	O
+minute_15	spell	O
+minute_15	behind	O
+minute_15	the	O
+minute_15	controls	O
+minute_15	of	O
+minute_15	the	O
+minute_15	locomotive	O

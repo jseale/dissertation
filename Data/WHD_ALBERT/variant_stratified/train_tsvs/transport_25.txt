@@ -1,0 +1,14 @@
+transport_25	It	O
+transport_25	runs	O
+transport_25	as	O
+transport_25	one	O
+transport_25	of	O
+transport_25	the	O
+transport_25	important	O
+transport_25	German	O
+transport_25	transport	transport_nou
+transport_25	routes	O
+transport_25	along	O
+transport_25	the	O
+transport_25	Regnitz	O
+transport_25	Valley	O

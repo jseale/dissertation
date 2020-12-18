@@ -1,0 +1,13 @@
+perfume_75	Firmenich	O
+perfume_75	SA	O
+perfume_75	is	O
+perfume_75	a	O
+perfume_75	private	O
+perfume_75	Swiss	O
+perfume_75	company	O
+perfume_75	in	O
+perfume_75	the	O
+perfume_75	perfume	perfume_nou
+perfume_75	and	O
+perfume_75	flavor	O
+perfume_75	business	O

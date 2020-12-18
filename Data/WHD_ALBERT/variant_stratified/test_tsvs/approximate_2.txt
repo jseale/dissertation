@@ -1,0 +1,13 @@
+approximate_2	They	O
+approximate_2	did	O
+approximate_2	this	O
+approximate_2	for	O
+approximate_2	a	O
+approximate_2	simple	O
+approximate_2	but	O
+approximate_2	approximate	approximate_adj-nou
+approximate_2	model	O
+approximate_2	of	O
+approximate_2	water	O
+approximate_2	called	O
+approximate_2	TIP5P/2005	O

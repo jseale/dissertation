@@ -1,0 +1,10 @@
+extract_0	Recordings	O
+extract_0	from	O
+extract_0	Melbourne	O
+extract_0	and	O
+extract_0	Auckland	O
+extract_0	with	O
+extract_0	a	O
+extract_0	live	O
+extract_0	extract	extract_nou
+extract_0	Austria	O

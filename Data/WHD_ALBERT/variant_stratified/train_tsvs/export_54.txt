@@ -1,0 +1,17 @@
+export_54	Export	export_nou
+export_54	licensing	O
+export_54	hearing	O
+export_54	Reviewing	O
+export_54	Committee	O
+export_54	on	O
+export_54	the	O
+export_54	Export	export_nou
+export_54	of	O
+export_54	Works	O
+export_54	of	O
+export_54	Art	O
+export_54	and	O
+export_54	Objects	O
+export_54	of	O
+export_54	Cultural	O
+export_54	Interest	O

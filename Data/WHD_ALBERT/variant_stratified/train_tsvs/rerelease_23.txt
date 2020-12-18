@@ -1,0 +1,12 @@
+rerelease_23	He	O
+rerelease_23	also	O
+rerelease_23	directed	O
+rerelease_23	the	O
+rerelease_23	music	O
+rerelease_23	video	O
+rerelease_23	for	O
+rerelease_23	the	O
+rerelease_23	1988	O
+rerelease_23	rerelease	rerelease
+rerelease_23	of	O
+rerelease_23	Atmosphere	O

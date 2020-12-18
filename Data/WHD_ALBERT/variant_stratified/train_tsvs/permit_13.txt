@@ -1,0 +1,15 @@
+permit_13	Coral	O
+permit_13	collection	O
+permit_13	is	O
+permit_13	not	O
+permit_13	allowed	O
+permit_13	in	O
+permit_13	the	O
+permit_13	state	O
+permit_13	waters	O
+permit_13	of	O
+permit_13	Hawaii	O
+permit_13	without	O
+permit_13	a	O
+permit_13	research	O
+permit_13	permit	permit_nou

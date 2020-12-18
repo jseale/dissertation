@@ -1,0 +1,14 @@
+precipitate_43	Some	O
+precipitate_43	patients	O
+precipitate_43	become	O
+precipitate_43	hyperirritable	O
+precipitate_43	and	O
+precipitate_43	combative	O
+precipitate_43	which	O
+precipitate_43	can	O
+precipitate_43	precipitate	precipitate_vrb
+precipitate_43	accidents	O
+precipitate_43	or	O
+precipitate_43	even	O
+precipitate_43	assaultive	O
+precipitate_43	behaviour	O

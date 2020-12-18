@@ -1,0 +1,17 @@
+mobile_32	These	O
+mobile_32	orders	O
+mobile_32	are	O
+mobile_32	fulfilled	O
+mobile_32	from	O
+mobile_32	numerous	O
+mobile_32	retail	O
+mobile_32	channels	O
+mobile_32	such	O
+mobile_32	as	O
+mobile_32	concessions	O
+mobile_32	franchises	O
+mobile_32	catalogue	O
+mobile_32	web	O
+mobile_32	stores	O
+mobile_32	and	O
+mobile_32	mobile	mobile

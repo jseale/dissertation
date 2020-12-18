@@ -1,0 +1,15 @@
+confines_7	Benedictine	O
+confines_7	monks	O
+confines_7	for	O
+confines_7	instance	O
+confines_7	have	O
+confines_7	often	O
+confines_7	staffed	O
+confines_7	parishes	O
+confines_7	and	O
+confines_7	been	O
+confines_7	allowed	O
+confines_7	to	O
+confines_7	leave	O
+confines_7	monastery	O
+confines_7	confines	confines_nou

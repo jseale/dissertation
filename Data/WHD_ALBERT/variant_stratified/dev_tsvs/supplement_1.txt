@@ -1,0 +1,16 @@
+supplement_1	Today	O
+supplement_1	he	O
+supplement_1	lives	O
+supplement_1	in	O
+supplement_1	Peoria	O
+supplement_1	Arizona	O
+supplement_1	USA	O
+supplement_1	where	O
+supplement_1	he	O
+supplement_1	owns	O
+supplement_1	his	O
+supplement_1	own	O
+supplement_1	supplement	supplement_nou
+supplement_1	store	O
+supplement_1	Pro	O
+supplement_1	Nutrition	O

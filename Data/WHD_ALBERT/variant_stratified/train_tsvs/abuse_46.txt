@@ -1,0 +1,9 @@
+abuse_46	Victims	O
+abuse_46	of	O
+abuse_46	The	O
+abuse_46	Village	O
+abuse_46	Expose	O
+abuse_46	of	O
+abuse_46	rural	O
+abuse_46	Child	O
+abuse_46	Abuse	abuse_nou

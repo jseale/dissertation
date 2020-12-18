@@ -1,0 +1,14 @@
+ornament_7	The	O
+ornament_7	red	O
+ornament_7	cord	O
+ornament_7	would	O
+ornament_7	also	O
+ornament_7	have	O
+ornament_7	an	O
+ornament_7	ornament	ornament_nou
+ornament_7	of	O
+ornament_7	green	O
+ornament_7	blue	O
+ornament_7	and	O
+ornament_7	red	O
+ornament_7	feathers	O

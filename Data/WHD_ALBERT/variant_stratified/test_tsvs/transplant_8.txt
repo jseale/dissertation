@@ -1,0 +1,10 @@
+transplant_8	He	O
+transplant_8	underwent	O
+transplant_8	a	O
+transplant_8	bone	O
+transplant_8	marrow	O
+transplant_8	transplant	transplant_nou
+transplant_8	but	O
+transplant_8	it	O
+transplant_8	was	O
+transplant_8	unsuccessful	O

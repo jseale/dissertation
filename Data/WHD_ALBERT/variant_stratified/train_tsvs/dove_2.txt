@@ -1,0 +1,12 @@
+dove_2	Zentrygon	O
+dove_2	is	O
+dove_2	a	O
+dove_2	bird	O
+dove_2	genus	O
+dove_2	in	O
+dove_2	the	O
+dove_2	pigeon	O
+dove_2	and	O
+dove_2	dove	dove
+dove_2	family	O
+dove_2	Columbidae	O

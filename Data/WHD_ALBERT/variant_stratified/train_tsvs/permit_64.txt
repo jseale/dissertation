@@ -1,0 +1,15 @@
+permit_64	Methods	O
+permit_64	to	O
+permit_64	permit	permit_vrb
+permit_64	dynamic	O
+permit_64	embryo	O
+permit_64	culture	O
+permit_64	with	O
+permit_64	fluid	O
+permit_64	flow	O
+permit_64	and	O
+permit_64	embryo	O
+permit_64	movement	O
+permit_64	are	O
+permit_64	also	O
+permit_64	available	O

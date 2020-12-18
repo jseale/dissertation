@@ -1,0 +1,17 @@
+export_74	The	O
+export_74	country	O
+export_74	consumes	O
+export_74	most	O
+export_74	of	O
+export_74	its	O
+export_74	oil	O
+export_74	output	O
+export_74	but	O
+export_74	does	O
+export_74	export	export_vrb
+export_74	some	O
+export_74	crude	O
+export_74	oil	O
+export_74	and	O
+export_74	oil	O
+export_74	products	O

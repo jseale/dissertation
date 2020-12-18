@@ -1,0 +1,13 @@
+implement_0	General	O
+implement_0	George	O
+implement_0	S.	O
+implement_0	Patton	O
+implement_0	called	O
+implement_0	it	O
+implement_0	the	O
+implement_0	greatest	O
+implement_0	implement	implement_nou
+implement_0	of	O
+implement_0	battle	O
+implement_0	ever	O
+implement_0	devised	O

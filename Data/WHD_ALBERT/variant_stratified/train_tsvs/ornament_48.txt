@@ -1,0 +1,15 @@
+ornament_48	Finn	O
+ornament_48	returns	O
+ornament_48	to	O
+ornament_48	the	O
+ornament_48	school	O
+ornament_48	disposing	O
+ornament_48	of	O
+ornament_48	the	O
+ornament_48	ornament	ornament_nou
+ornament_48	and	O
+ornament_48	the	O
+ornament_48	clothes	O
+ornament_48	he	O
+ornament_48	was	O
+ornament_48	wearing	O

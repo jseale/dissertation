@@ -1,0 +1,7 @@
+laminate_45	Flooring	O
+laminate_45	includes	O
+laminate_45	hardwood	O
+laminate_45	laminate	laminate_nou
+laminate_45	and	O
+laminate_45	carpet	O
+laminate_45	options	O

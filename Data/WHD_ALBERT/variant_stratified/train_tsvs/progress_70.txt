@@ -1,0 +1,14 @@
+progress_70	The	O
+progress_70	win	O
+progress_70	allowed	O
+progress_70	the	O
+progress_70	team	O
+progress_70	to	O
+progress_70	progress	progress_vrb
+progress_70	to	O
+progress_70	the	O
+progress_70	fourth	O
+progress_70	round	O
+progress_70	of	O
+progress_70	the	O
+progress_70	competition	O

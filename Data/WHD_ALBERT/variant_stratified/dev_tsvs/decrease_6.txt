@@ -1,0 +1,9 @@
+decrease_6	Taking	O
+decrease_6	prenatal	O
+decrease_6	vitamins	O
+decrease_6	before	O
+decrease_6	pregnancy	O
+decrease_6	may	O
+decrease_6	decrease	decrease_vrb
+decrease_6	the	O
+decrease_6	risk	O

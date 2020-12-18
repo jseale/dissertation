@@ -1,0 +1,16 @@
+produce_26	Male	O
+produce_26	fetuses	O
+produce_26	produce	produce_vrb
+produce_26	H	O
+produce_26	Y	O
+produce_26	antigens	O
+produce_26	which	O
+produce_26	may	O
+produce_26	be	O
+produce_26	involved	O
+produce_26	in	O
+produce_26	the	O
+produce_26	sexual	O
+produce_26	differentiation	O
+produce_26	of	O
+produce_26	vertebrates	O

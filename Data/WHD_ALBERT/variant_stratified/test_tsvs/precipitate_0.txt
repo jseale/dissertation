@@ -1,0 +1,14 @@
+precipitate_0	He	O
+precipitate_0	later	O
+precipitate_0	named	O
+precipitate_0	the	O
+precipitate_0	crystallized	O
+precipitate_0	precipitate	precipitate_adj-nou
+precipitate_0	after	O
+precipitate_0	the	O
+precipitate_0	Greek	O
+precipitate_0	word	O
+precipitate_0	for	O
+precipitate_0	meat	O
+precipitate_0	κρεας	O
+precipitate_0	kreas	O

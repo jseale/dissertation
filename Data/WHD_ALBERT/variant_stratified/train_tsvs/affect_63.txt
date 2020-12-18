@@ -1,0 +1,10 @@
+affect_63	Antibiotics	O
+affect_63	only	O
+affect_63	work	O
+affect_63	for	O
+affect_63	bacteria	O
+affect_63	and	O
+affect_63	do	O
+affect_63	not	O
+affect_63	affect	affect
+affect_63	viruses	O

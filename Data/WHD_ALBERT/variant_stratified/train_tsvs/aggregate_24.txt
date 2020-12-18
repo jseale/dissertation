@@ -1,0 +1,14 @@
+aggregate_24	He	O
+aggregate_24	is	O
+aggregate_24	technically	O
+aggregate_24	intangible	O
+aggregate_24	as	O
+aggregate_24	his	O
+aggregate_24	body	O
+aggregate_24	is	O
+aggregate_24	merely	O
+aggregate_24	an	O
+aggregate_24	aggregate	aggregate_adj-nou
+aggregate_24	of	O
+aggregate_24	tiny	O
+aggregate_24	forms	O

@@ -1,0 +1,14 @@
+precipitate_8	Granulomatosis	O
+precipitate_8	with	O
+precipitate_8	polyangiitis	O
+precipitate_8	is	O
+precipitate_8	one	O
+precipitate_8	of	O
+precipitate_8	the	O
+precipitate_8	autoimmune	O
+precipitate_8	conditions	O
+precipitate_8	that	O
+precipitate_8	may	O
+precipitate_8	precipitate	precipitate_vrb
+precipitate_8	hearing	O
+precipitate_8	loss	O

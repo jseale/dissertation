@@ -1,0 +1,11 @@
+close_4	Nazo	O
+close_4	's	O
+close_4	father	O
+close_4	paid	O
+close_4	close	close_adj-nou
+close_4	attention	O
+close_4	to	O
+close_4	her	O
+close_4	education	O
+close_4	and	O
+close_4	upbringing	O

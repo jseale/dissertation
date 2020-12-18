@@ -1,0 +1,16 @@
+conscript_24	Conscript	conscript_nou
+conscript_24	enlisted	O
+conscript_24	men	O
+conscript_24	and	O
+conscript_24	non	O
+conscript_24	commissioned	O
+conscript_24	officers	O
+conscript_24	wear	O
+conscript_24	special	O
+conscript_24	rank	O
+conscript_24	insignia	O
+conscript_24	to	O
+conscript_24	differentiate	O
+conscript_24	them	O
+conscript_24	from	O
+conscript_24	volunteers	O

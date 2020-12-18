@@ -1,0 +1,15 @@
+affect_29	The	O
+affect_29	attacks	O
+affect_29	also	O
+affect_29	affect	affect
+affect_29	the	O
+affect_29	limbs	O
+affect_29	usually	O
+affect_29	unilaterally	O
+affect_29	but	O
+affect_29	bilateral	O
+affect_29	symptoms	O
+affect_29	have	O
+affect_29	also	O
+affect_29	been	O
+affect_29	experienced	O

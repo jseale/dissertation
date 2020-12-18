@@ -1,0 +1,13 @@
+fragment_0	The	O
+fragment_0	inserted	O
+fragment_0	chromosome	O
+fragment_0	yields	O
+fragment_0	a	O
+fragment_0	large	O
+fragment_0	fragment	fragment_nou
+fragment_0	when	O
+fragment_0	the	O
+fragment_0	homologous	O
+fragment_0	region	O
+fragment_0	is	O
+fragment_0	amplified	O

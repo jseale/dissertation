@@ -1,0 +1,10 @@
+transform_68	Naively	O
+transform_68	we	O
+transform_68	might	O
+transform_68	try	O
+transform_68	to	O
+transform_68	apply	O
+transform_68	the	O
+transform_68	MTF	O
+transform_68	transform	transform_nou
+transform_68	directly	O

@@ -1,0 +1,14 @@
+initiate_74	He	O
+initiate_74	was	O
+initiate_74	the	O
+initiate_74	first	O
+initiate_74	to	O
+initiate_74	initiate	initiate_vrb
+initiate_74	the	O
+initiate_74	company	O
+initiate_74	's	O
+initiate_74	exports	O
+initiate_74	to	O
+initiate_74	France	O
+initiate_74	and	O
+initiate_74	Italy	O

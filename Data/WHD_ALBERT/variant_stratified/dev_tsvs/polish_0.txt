@@ -1,0 +1,13 @@
+polish_0	It	O
+polish_0	manufactures	O
+polish_0	paints	O
+polish_0	thinner	O
+polish_0	and	O
+polish_0	wood	O
+polish_0	polish	polish
+polish_0	products	O
+polish_0	for	O
+polish_0	decorative	O
+polish_0	and	O
+polish_0	industrial	O
+polish_0	use	O

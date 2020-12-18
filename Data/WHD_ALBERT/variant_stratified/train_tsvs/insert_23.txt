@@ -1,0 +1,17 @@
+insert_23	While	O
+insert_23	there	O
+insert_23	was	O
+insert_23	no	O
+insert_23	actual	O
+insert_23	insert	insert_nou
+insert_23	some	O
+insert_23	of	O
+insert_23	the	O
+insert_23	first	O
+insert_23	pressing	O
+insert_23	included	O
+insert_23	a	O
+insert_23	Misfits	O
+insert_23	Fiend	O
+insert_23	Club	O
+insert_23	ad	O

@@ -1,0 +1,7 @@
+analyses_7	Cladistic	O
+analyses_7	analyses	analyses_nou
+analyses_7	recover	O
+analyses_7	it	O
+analyses_7	close	O
+analyses_7	to	O
+analyses_7	Anchiceratops	O

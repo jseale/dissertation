@@ -1,0 +1,16 @@
+nestle_8	The	O
+nestle_8	first	O
+nestle_8	capillaries	O
+nestle_8	that	O
+nestle_8	the	O
+nestle_8	emboli	O
+nestle_8	encounter	O
+nestle_8	where	O
+nestle_8	they	O
+nestle_8	can	O
+nestle_8	nestle	nestle_vrb
+nestle_8	themselves	O
+nestle_8	are	O
+nestle_8	the	O
+nestle_8	pulmonary	O
+nestle_8	capillaries	O

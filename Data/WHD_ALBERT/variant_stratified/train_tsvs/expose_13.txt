@@ -1,0 +1,17 @@
+expose_13	Concurrent	O
+expose_13	Collections	O
+expose_13	known	O
+expose_13	as	O
+expose_13	CnC	O
+expose_13	is	O
+expose_13	a	O
+expose_13	programming	O
+expose_13	model	O
+expose_13	for	O
+expose_13	software	O
+expose_13	frameworks	O
+expose_13	to	O
+expose_13	expose	expose_vrb
+expose_13	parallelism	O
+expose_13	in	O
+expose_13	applications	O

@@ -1,0 +1,13 @@
+laminate_41	Laminate	laminate_nou
+laminate_41	flooring	O
+laminate_41	is	O
+laminate_41	often	O
+laminate_41	made	O
+laminate_41	of	O
+laminate_41	melamine	O
+laminate_41	resin	O
+laminate_41	a	O
+laminate_41	compound	O
+laminate_41	made	O
+laminate_41	with	O
+laminate_41	formaldehyde	O

@@ -1,0 +1,13 @@
+alternate_69	Clocks	O
+alternate_69	were	O
+alternate_69	manufactured	O
+alternate_69	with	O
+alternate_69	this	O
+alternate_69	alternate	alternate_adj-nou
+alternate_69	face	O
+alternate_69	usually	O
+alternate_69	combined	O
+alternate_69	with	O
+alternate_69	traditional	O
+alternate_69	hour	O
+alternate_69	markings	O

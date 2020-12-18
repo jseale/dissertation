@@ -1,0 +1,12 @@
+correlate_5	Recordings	O
+correlate_5	were	O
+correlate_5	also	O
+correlate_5	developed	O
+correlate_5	to	O
+correlate_5	correlate	correlate_nou-vrb
+correlate_5	music	O
+correlate_5	with	O
+correlate_5	English	O
+correlate_5	and	O
+correlate_5	American	O
+correlate_5	literature	O

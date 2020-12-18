@@ -1,0 +1,9 @@
+protest_72	Those	O
+protest_72	who	O
+protest_72	would	O
+protest_72	protest	protest_vrb
+protest_72	will	O
+protest_72	find	O
+protest_72	their	O
+protest_72	objections	O
+protest_72	overruled	O

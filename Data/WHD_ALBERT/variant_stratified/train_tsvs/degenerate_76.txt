@@ -1,0 +1,14 @@
+degenerate_76	Therefore	O
+degenerate_76	distal	O
+degenerate_76	nerve	O
+degenerate_76	fibers	O
+degenerate_76	do	O
+degenerate_76	not	O
+degenerate_76	degenerate	degenerate_vrb
+degenerate_76	and	O
+degenerate_76	the	O
+degenerate_76	myelin	O
+degenerate_76	damage	O
+degenerate_76	can	O
+degenerate_76	be	O
+degenerate_76	repaired	O

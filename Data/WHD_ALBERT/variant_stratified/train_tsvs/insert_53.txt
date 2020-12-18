@@ -1,0 +1,16 @@
+insert_53	Delete	O
+insert_53	Common	O
+insert_53	Purpose	O
+insert_53	throughout	O
+insert_53	and	O
+insert_53	insert	insert_vrb
+insert_53	Jew	O
+insert_53	Etonian	O
+insert_53	or	O
+insert_53	Freemason	O
+insert_53	and	O
+insert_53	you	O
+insert_53	'd	O
+insert_53	rightly	O
+insert_53	feel	O
+insert_53	uneasy	O

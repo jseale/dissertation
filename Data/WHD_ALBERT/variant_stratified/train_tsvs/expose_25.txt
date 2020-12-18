@@ -1,0 +1,16 @@
+expose_25	This	O
+expose_25	process	O
+expose_25	may	O
+expose_25	expose	expose_vrb
+expose_25	a	O
+expose_25	cross	O
+expose_25	section	O
+expose_25	of	O
+expose_25	crust	O
+expose_25	to	O
+expose_25	the	O
+expose_25	surface	O
+expose_25	as	O
+expose_25	at	O
+expose_25	Euboea	O
+expose_25	Montes	O

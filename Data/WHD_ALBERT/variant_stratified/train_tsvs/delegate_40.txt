@@ -1,0 +1,10 @@
+delegate_40	Rockefeller	O
+delegate_40	was	O
+delegate_40	a	O
+delegate_40	delegate	delegate_nou
+delegate_40	to	O
+delegate_40	the	O
+delegate_40	1936	O
+delegate_40	Republican	O
+delegate_40	National	O
+delegate_40	Convention	O

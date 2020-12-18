@@ -1,0 +1,15 @@
+celtic_7	Later	O
+celtic_7	McGrory	O
+celtic_7	quipped	O
+celtic_7	McGrory	O
+celtic_7	of	O
+celtic_7	Arsenal	O
+celtic_7	just	O
+celtic_7	never	O
+celtic_7	sounded	O
+celtic_7	as	O
+celtic_7	good	O
+celtic_7	as	O
+celtic_7	McGrory	O
+celtic_7	of	O
+celtic_7	Celtic	celtic_adj-nou-sports

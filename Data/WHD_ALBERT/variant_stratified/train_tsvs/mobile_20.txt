@@ -1,0 +1,11 @@
+mobile_20	The	O
+mobile_20	mobile	mobile
+mobile_20	version	O
+mobile_20	of	O
+mobile_20	the	O
+mobile_20	game	O
+mobile_20	is	O
+mobile_20	available	O
+mobile_20	in	O
+mobile_20	18	O
+mobile_20	languages	O

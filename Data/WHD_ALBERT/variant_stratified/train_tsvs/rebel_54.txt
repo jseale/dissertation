@@ -1,0 +1,14 @@
+rebel_54	On	O
+rebel_54	February	O
+rebel_54	1	O
+rebel_54	1838	O
+rebel_54	rebel	rebel_nou
+rebel_54	Rafael	O
+rebel_54	Carrera	O
+rebel_54	took	O
+rebel_54	Guatemala	O
+rebel_54	City	O
+rebel_54	capital	O
+rebel_54	of	O
+rebel_54	the	O
+rebel_54	federation	O

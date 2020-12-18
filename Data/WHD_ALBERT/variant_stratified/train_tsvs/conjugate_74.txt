@@ -1,0 +1,13 @@
+conjugate_74	Conjugate	conjugate_adj-nou
+conjugate_74	coding	O
+conjugate_74	is	O
+conjugate_74	a	O
+conjugate_74	cryptographic	O
+conjugate_74	tool	O
+conjugate_74	introduced	O
+conjugate_74	by	O
+conjugate_74	Stephen	O
+conjugate_74	Wiesner	O
+conjugate_74	in	O
+conjugate_74	the	O
+conjugate_74	1960s	O

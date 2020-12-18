@@ -1,0 +1,11 @@
+abuses_4	Broken	O
+abuses_4	Shield	O
+abuses_4	a	O
+abuses_4	series	O
+abuses_4	of	O
+abuses_4	investigations	O
+abuses_4	into	O
+abuses_4	police	O
+abuses_4	failures	O
+abuses_4	and	O
+abuses_4	abuses	abuses_nou

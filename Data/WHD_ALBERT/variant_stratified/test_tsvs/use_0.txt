@@ -1,0 +1,12 @@
+use_0	Ribavirin	O
+use_0	was	O
+use_0	patented	O
+use_0	in	O
+use_0	1971	O
+use_0	and	O
+use_0	approved	O
+use_0	for	O
+use_0	medical	O
+use_0	use	use_nou
+use_0	in	O
+use_0	1986	O

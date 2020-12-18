@@ -1,0 +1,10 @@
+lives_3	The	O
+lives_3	novel	O
+lives_3	's	O
+lives_3	epilogue	O
+lives_3	details	O
+lives_3	the	O
+lives_3	sisters	O
+lives_3	lives	lives_nou
+lives_3	after	O
+lives_3	marriage	O

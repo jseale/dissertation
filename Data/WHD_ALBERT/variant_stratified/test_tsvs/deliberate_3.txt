@@ -1,0 +1,17 @@
+deliberate_3	Delayed	O
+deliberate_3	auditory	O
+deliberate_3	feedback	O
+deliberate_3	DAF	O
+deliberate_3	is	O
+deliberate_3	usually	O
+deliberate_3	used	O
+deliberate_3	to	O
+deliberate_3	produce	O
+deliberate_3	a	O
+deliberate_3	more	O
+deliberate_3	deliberate	deliberate_adj
+deliberate_3	exaggerated	O
+deliberate_3	oral	O
+deliberate_3	motor	O
+deliberate_3	response	O
+deliberate_3	pattern	O

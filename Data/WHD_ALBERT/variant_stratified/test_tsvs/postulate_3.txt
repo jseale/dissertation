@@ -1,0 +1,15 @@
+postulate_3	Another	O
+postulate_3	postulate	postulate_nou
+postulate_3	the	O
+postulate_3	wavefunction	O
+postulate_3	collapse	O
+postulate_3	postulate	postulate_nou
+postulate_3	counters	O
+postulate_3	the	O
+postulate_3	usual	O
+postulate_3	idea	O
+postulate_3	of	O
+postulate_3	a	O
+postulate_3	measurement	O
+postulate_3	in	O
+postulate_3	science	O

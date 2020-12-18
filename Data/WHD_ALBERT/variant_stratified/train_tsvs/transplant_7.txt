@@ -1,0 +1,10 @@
+transplant_7	There	O
+transplant_7	are	O
+transplant_7	also	O
+transplant_7	plans	O
+transplant_7	to	O
+transplant_7	open	O
+transplant_7	a	O
+transplant_7	heart	O
+transplant_7	transplant	transplant_nou
+transplant_7	centre	O

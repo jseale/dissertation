@@ -1,0 +1,15 @@
+invalid_7	She	O
+invalid_7	visited	O
+invalid_7	Scotland	O
+invalid_7	in	O
+invalid_7	1877	O
+invalid_7	but	O
+invalid_7	died	O
+invalid_7	in	O
+invalid_7	Adelaide	O
+invalid_7	in	O
+invalid_7	1883	O
+invalid_7	having	O
+invalid_7	become	O
+invalid_7	an	O
+invalid_7	invalid	invalid_nou

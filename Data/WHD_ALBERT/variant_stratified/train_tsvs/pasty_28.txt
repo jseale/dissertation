@@ -1,0 +1,10 @@
+pasty_28	Additionally	O
+pasty_28	used	O
+pasty_28	as	O
+pasty_28	a	O
+pasty_28	filling	O
+pasty_28	for	O
+pasty_28	the	O
+pasty_28	traditional	O
+pasty_28	Karelian	O
+pasty_28	pasty	pasty_adj

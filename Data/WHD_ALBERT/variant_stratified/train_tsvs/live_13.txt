@@ -1,0 +1,11 @@
+live_13	Tanaka	O
+live_13	continues	O
+live_13	Gentouki	O
+live_13	as	O
+live_13	a	O
+live_13	solo	O
+live_13	project	O
+live_13	with	O
+live_13	live	live_adj
+live_13	support	O
+live_13	members	O

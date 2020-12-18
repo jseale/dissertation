@@ -1,0 +1,12 @@
+axes_77	Halberds	O
+axes_77	polearms	O
+axes_77	and	O
+axes_77	dagger	O
+axes_77	axes	axes_nou-vrb
+axes_77	were	O
+axes_77	also	O
+axes_77	common	O
+axes_77	weapons	O
+axes_77	during	O
+axes_77	this	O
+axes_77	time	O

@@ -1,0 +1,9 @@
+reading_34	Widya	O
+reading_34	hobbys	O
+reading_34	are	O
+reading_34	singing	O
+reading_34	reading	reading_en
+reading_34	and	O
+reading_34	browsing	O
+reading_34	the	O
+reading_34	internet	O

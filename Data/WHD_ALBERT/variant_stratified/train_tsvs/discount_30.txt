@@ -1,0 +1,15 @@
+discount_30	There	O
+discount_30	are	O
+discount_30	a	O
+discount_30	full	O
+discount_30	range	O
+discount_30	of	O
+discount_30	retail	O
+discount_30	shopping	O
+discount_30	centers	O
+discount_30	from	O
+discount_30	upscale	O
+discount_30	stores	O
+discount_30	to	O
+discount_30	discount	discount_nou
+discount_30	chains	O

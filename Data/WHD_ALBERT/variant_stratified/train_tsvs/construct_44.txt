@@ -1,0 +1,17 @@
+construct_44	In	O
+construct_44	Limited	O
+construct_44	tournaments	O
+construct_44	players	O
+construct_44	construct	construct_vrb
+construct_44	decks	O
+construct_44	using	O
+construct_44	booster	O
+construct_44	packs	O
+construct_44	plus	O
+construct_44	any	O
+construct_44	additional	O
+construct_44	basic	O
+construct_44	lands	O
+construct_44	of	O
+construct_44	their	O
+construct_44	choice	O

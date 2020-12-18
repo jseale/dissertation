@@ -1,0 +1,16 @@
+syndicate_65	The	O
+syndicate_65	syndicate	syndicate_nou
+syndicate_65	distributed	O
+syndicate_65	both	O
+syndicate_65	Montague	O
+syndicate_65	's	O
+syndicate_65	poems	O
+syndicate_65	and	O
+syndicate_65	light	O
+syndicate_65	fiction	O
+syndicate_65	pieces	O
+syndicate_65	all	O
+syndicate_65	under	O
+syndicate_65	his	O
+syndicate_65	own	O
+syndicate_65	copyright	O

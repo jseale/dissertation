@@ -1,0 +1,16 @@
+nestle_33	Bhangalan	O
+nestle_33	is	O
+nestle_33	equipped	O
+nestle_33	with	O
+nestle_33	its	O
+nestle_33	own	O
+nestle_33	municipal	O
+nestle_33	water	O
+nestle_33	supply	O
+nestle_33	reverse	O
+nestle_33	osmosis	O
+nestle_33	plant	O
+nestle_33	and	O
+nestle_33	a	O
+nestle_33	Nestle	nestle_nam
+nestle_33	Dairy	O

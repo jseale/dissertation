@@ -1,0 +1,14 @@
+precipitate_63	The	O
+precipitate_63	generating	O
+precipitate_63	of	O
+precipitate_63	such	O
+precipitate_63	mental	O
+precipitate_63	imagery	O
+precipitate_63	can	O
+precipitate_63	precipitate	precipitate_vrb
+precipitate_63	or	O
+precipitate_63	accompany	O
+precipitate_63	strong	O
+precipitate_63	emotions	O
+precipitate_63	or	O
+precipitate_63	feelings	O

@@ -1,0 +1,13 @@
+wound_1	They	O
+wound_1	also	O
+wound_1	cleanse	O
+wound_1	the	O
+wound_1	wound	wound_nou-vrb
+wound_1	by	O
+wound_1	secreting	O
+wound_1	proteases	O
+wound_1	that	O
+wound_1	break	O
+wound_1	down	O
+wound_1	damaged	O
+wound_1	tissue	O

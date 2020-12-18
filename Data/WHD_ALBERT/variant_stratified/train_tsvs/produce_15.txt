@@ -1,0 +1,14 @@
+produce_15	This	O
+produce_15	school	O
+produce_15	would	O
+produce_15	go	O
+produce_15	on	O
+produce_15	to	O
+produce_15	produce	produce_vrb
+produce_15	fifty	O
+produce_15	world	O
+produce_15	champions	O
+produce_15	and	O
+produce_15	two	O
+produce_15	Olympic	O
+produce_15	champions	O

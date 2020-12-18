@@ -1,0 +1,7 @@
+use_2	It	O
+use_2	makes	O
+use_2	repeated	O
+use_2	use	use_nou
+use_2	of	O
+use_2	Euclidean	O
+use_2	division	O

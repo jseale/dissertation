@@ -1,0 +1,16 @@
+intrigue_41	The	O
+intrigue_41	Foundations	O
+intrigue_41	drew	O
+intrigue_41	much	O
+intrigue_41	interest	O
+intrigue_41	and	O
+intrigue_41	intrigue	intrigue_nou
+intrigue_41	due	O
+intrigue_41	to	O
+intrigue_41	the	O
+intrigue_41	size	O
+intrigue_41	and	O
+intrigue_41	structure	O
+intrigue_41	of	O
+intrigue_41	the	O
+intrigue_41	group	O

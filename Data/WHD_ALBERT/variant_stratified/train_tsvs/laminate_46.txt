@@ -1,0 +1,11 @@
+laminate_46	Adhesives	O
+laminate_46	are	O
+laminate_46	used	O
+laminate_46	as	O
+laminate_46	the	O
+laminate_46	bonding	O
+laminate_46	medium	O
+laminate_46	for	O
+laminate_46	creating	O
+laminate_46	a	O
+laminate_46	laminate	laminate_nou

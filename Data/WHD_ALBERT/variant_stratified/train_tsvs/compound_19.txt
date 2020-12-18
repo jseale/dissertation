@@ -1,0 +1,15 @@
+compound_19	Mike	O
+compound_19	Schloesser	O
+compound_19	born	O
+compound_19	15	O
+compound_19	January	O
+compound_19	1994	O
+compound_19	in	O
+compound_19	Heerlen	O
+compound_19	Netherlands	O
+compound_19	is	O
+compound_19	a	O
+compound_19	compound	compound_nou
+compound_19	archer	O
+compound_19	from	O
+compound_19	Netherlands	O

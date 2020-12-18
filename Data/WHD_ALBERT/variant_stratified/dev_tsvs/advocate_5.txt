@@ -1,0 +1,13 @@
+advocate_5	He	O
+advocate_5	ran	O
+advocate_5	on	O
+advocate_5	his	O
+advocate_5	credentials	O
+advocate_5	as	O
+advocate_5	a	O
+advocate_5	housing	O
+advocate_5	advocate	advocate_nou
+advocate_5	in	O
+advocate_5	the	O
+advocate_5	Mission	O
+advocate_5	District	O

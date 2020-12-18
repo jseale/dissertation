@@ -1,0 +1,15 @@
+invert_40	In	O
+invert_40	order	O
+invert_40	to	O
+invert_40	forge	O
+invert_40	a	O
+invert_40	message	O
+invert_40	Eve	O
+invert_40	would	O
+invert_40	have	O
+invert_40	to	O
+invert_40	invert	invert_vrb
+invert_40	the	O
+invert_40	one	O
+invert_40	way	O
+invert_40	function	O

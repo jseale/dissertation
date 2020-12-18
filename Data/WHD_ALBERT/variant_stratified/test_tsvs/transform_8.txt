@@ -1,0 +1,13 @@
+transform_8	That	O
+transform_8	is	O
+transform_8	the	O
+transform_8	inverse	O
+transform_8	wavelet	O
+transform_8	transform	transform_nou
+transform_8	is	O
+transform_8	the	O
+transform_8	adjoint	O
+transform_8	of	O
+transform_8	the	O
+transform_8	wavelet	O
+transform_8	transform	transform_nou

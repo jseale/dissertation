@@ -1,0 +1,14 @@
+record_0	As	O
+record_0	a	O
+record_0	record	record_nou
+record_0	producer	O
+record_0	he	O
+record_0	captured	O
+record_0	the	O
+record_0	work	O
+record_0	of	O
+record_0	dozens	O
+record_0	of	O
+record_0	legendary	O
+record_0	jazz	O
+record_0	innovators	O

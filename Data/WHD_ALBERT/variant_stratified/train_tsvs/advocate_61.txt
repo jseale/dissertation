@@ -1,0 +1,11 @@
+advocate_61	After	O
+advocate_61	obtaining	O
+advocate_61	a	O
+advocate_61	good	O
+advocate_61	education	O
+advocate_61	he	O
+advocate_61	became	O
+advocate_61	an	O
+advocate_61	Advocate	advocate_nou
+advocate_61	in	O
+advocate_61	Paris	O

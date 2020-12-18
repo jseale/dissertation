@@ -1,0 +1,14 @@
+confines_30	The	O
+confines_30	burial	O
+confines_30	places	O
+confines_30	found	O
+confines_30	on	O
+confines_30	the	O
+confines_30	confines	confines_nou
+confines_30	of	O
+confines_30	the	O
+confines_30	town	O
+confines_30	render	O
+confines_30	this	O
+confines_30	pretension	O
+confines_30	probable	O

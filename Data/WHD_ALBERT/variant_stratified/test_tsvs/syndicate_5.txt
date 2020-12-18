@@ -1,0 +1,8 @@
+syndicate_5	The	O
+syndicate_5	varsity	O
+syndicate_5	has	O
+syndicate_5	a	O
+syndicate_5	syndicate	syndicate_nou
+syndicate_5	and	O
+syndicate_5	Academic	O
+syndicate_5	council	O

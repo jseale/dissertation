@@ -1,0 +1,17 @@
+celtic_3	Heusaff	O
+celtic_3	was	O
+celtic_3	amongst	O
+celtic_3	the	O
+celtic_3	founders	O
+celtic_3	of	O
+celtic_3	the	O
+celtic_3	Celtic	celtic
+celtic_3	League	O
+celtic_3	and	O
+celtic_3	Breton	O
+celtic_3	News	O
+celtic_3	became	O
+celtic_3	merged	O
+celtic_3	into	O
+celtic_3	Carn	O
+celtic_3	magazine	O

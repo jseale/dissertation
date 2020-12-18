@@ -1,0 +1,15 @@
+wind_1	She	O
+wind_1	served	O
+wind_1	as	O
+wind_1	the	O
+wind_1	privately	O
+wind_1	owned	O
+wind_1	freighter	O
+wind_1	South	O
+wind_1	Wind	wind_nou
+wind_1	until	O
+wind_1	being	O
+wind_1	laid	O
+wind_1	up	O
+wind_1	in	O
+wind_1	1954	O

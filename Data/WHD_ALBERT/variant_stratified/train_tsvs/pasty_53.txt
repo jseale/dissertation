@@ -1,0 +1,13 @@
+pasty_53	Between	O
+pasty_53	2002	O
+pasty_53	and	O
+pasty_53	2011	O
+pasty_53	the	O
+pasty_53	club	O
+pasty_53	was	O
+pasty_53	sponsored	O
+pasty_53	by	O
+pasty_53	Cornish	O
+pasty_53	pasty	pasty_adj
+pasty_53	makers	O
+pasty_53	Ginsters	O

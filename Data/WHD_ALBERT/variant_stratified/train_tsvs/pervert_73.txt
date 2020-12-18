@@ -1,0 +1,17 @@
+pervert_73	Deano	O
+pervert_73	and	O
+pervert_73	Chelsea	O
+pervert_73	are	O
+pervert_73	found	O
+pervert_73	guilty	O
+pervert_73	of	O
+pervert_73	attempting	O
+pervert_73	to	O
+pervert_73	pervert	pervert_vrb
+pervert_73	the	O
+pervert_73	course	O
+pervert_73	of	O
+pervert_73	justice	O
+pervert_73	and	O
+pervert_73	are	O
+pervert_73	imprisoned	O

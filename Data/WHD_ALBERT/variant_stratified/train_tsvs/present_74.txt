@@ -1,0 +1,16 @@
+present_74	The	O
+present_74	episodes	O
+present_74	were	O
+present_74	divided	O
+present_74	by	O
+present_74	region	O
+present_74	to	O
+present_74	present	present_vrb
+present_74	the	O
+present_74	distinct	O
+present_74	cultural	O
+present_74	as	O
+present_74	well	O
+present_74	as	O
+present_74	ecological	O
+present_74	differences	O

@@ -1,0 +1,14 @@
+contest_71	He	O
+contest_71	left	O
+contest_71	the	O
+contest_71	position	O
+contest_71	to	O
+contest_71	contest	contest_vrb
+contest_71	unsuccessfully	O
+contest_71	for	O
+contest_71	the	O
+contest_71	Republican	O
+contest_71	gubernatorial	O
+contest_71	nomination	O
+contest_71	in	O
+contest_71	1990	O

@@ -1,0 +1,16 @@
+excuse_42	First	O
+excuse_42	it	O
+excuse_42	was	O
+excuse_42	implemented	O
+excuse_42	as	O
+excuse_42	a	O
+excuse_42	preventive	O
+excuse_42	war	O
+excuse_42	and	O
+excuse_42	as	O
+excuse_42	an	O
+excuse_42	excuse	excuse_nou
+excuse_42	to	O
+excuse_42	act	O
+excuse_42	pre	O
+excuse_42	emptively	O

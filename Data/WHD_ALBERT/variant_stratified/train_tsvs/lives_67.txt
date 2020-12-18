@@ -1,0 +1,17 @@
+lives_67	Born	O
+lives_67	in	O
+lives_67	1961	O
+lives_67	in	O
+lives_67	Shanghai	O
+lives_67	she	O
+lives_67	now	O
+lives_67	lives	lives_vrb
+lives_67	in	O
+lives_67	Vancouver	O
+lives_67	and	O
+lives_67	is	O
+lives_67	the	O
+lives_67	mother	O
+lives_67	of	O
+lives_67	two	O
+lives_67	children	O

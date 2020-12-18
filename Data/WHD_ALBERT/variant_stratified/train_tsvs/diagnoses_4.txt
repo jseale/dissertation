@@ -1,0 +1,15 @@
+diagnoses_4	Grey	O
+diagnoses_4	exhibits	O
+diagnoses_4	a	O
+diagnoses_4	knack	O
+diagnoses_4	for	O
+diagnoses_4	catching	O
+diagnoses_4	subtle	O
+diagnoses_4	hints	O
+diagnoses_4	and	O
+diagnoses_4	accurately	O
+diagnoses_4	determining	O
+diagnoses_4	difficult	O
+diagnoses_4	to	O
+diagnoses_4	catch	O
+diagnoses_4	diagnoses	diagnoses_nou

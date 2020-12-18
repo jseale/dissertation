@@ -1,0 +1,9 @@
+aggregate_65	Grand	O
+aggregate_65	Final	O
+aggregate_65	decided	O
+aggregate_65	by	O
+aggregate_65	aggregate	aggregate_adj-nou
+aggregate_65	scores	O
+aggregate_65	over	O
+aggregate_65	two	O
+aggregate_65	legs	O

@@ -1,0 +1,14 @@
+import_56	Sunil	O
+import_56	says	O
+import_56	In	O
+import_56	1983	O
+import_56	the	O
+import_56	government	O
+import_56	imposed	O
+import_56	a	O
+import_56	ban	O
+import_56	on	O
+import_56	the	O
+import_56	import	import_nou
+import_56	of	O
+import_56	gensets	O

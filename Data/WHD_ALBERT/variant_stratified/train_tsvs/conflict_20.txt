@@ -1,0 +1,12 @@
+conflict_20	Under	O
+conflict_20	Otto	O
+conflict_20	's	O
+conflict_20	successor	O
+conflict_20	King	O
+conflict_20	Henry	O
+conflict_20	II	O
+conflict_20	the	O
+conflict_20	conflict	conflict_nou
+conflict_20	was	O
+conflict_20	still	O
+conflict_20	smouldering	O

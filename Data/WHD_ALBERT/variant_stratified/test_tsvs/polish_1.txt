@@ -1,0 +1,16 @@
+polish_1	He	O
+polish_1	encouraged	O
+polish_1	publications	O
+polish_1	of	O
+polish_1	biographies	O
+polish_1	of	O
+polish_1	famous	O
+polish_1	Polish	polish_geo
+polish_1	historical	O
+polish_1	figures	O
+polish_1	and	O
+polish_1	sponsored	O
+polish_1	their	O
+polish_1	paintings	O
+polish_1	and	O
+polish_1	sculptures	O

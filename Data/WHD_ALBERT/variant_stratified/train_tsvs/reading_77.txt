@@ -1,0 +1,12 @@
+reading_77	He	O
+reading_77	attended	O
+reading_77	Reading	reading_geo
+reading_77	Academy	O
+reading_77	in	O
+reading_77	Flemington	O
+reading_77	and	O
+reading_77	Lafayette	O
+reading_77	College	O
+reading_77	in	O
+reading_77	Easton	O
+reading_77	Pennsylvania	O

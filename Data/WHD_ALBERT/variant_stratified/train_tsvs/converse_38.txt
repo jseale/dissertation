@@ -1,0 +1,17 @@
+converse_38	Every	O
+converse_38	outerplanar	O
+converse_38	graph	O
+converse_38	is	O
+converse_38	planar	O
+converse_38	but	O
+converse_38	the	O
+converse_38	converse	converse_adj-nou
+converse_38	is	O
+converse_38	not	O
+converse_38	true	O
+converse_38	K₄	O
+converse_38	is	O
+converse_38	planar	O
+converse_38	but	O
+converse_38	not	O
+converse_38	outerplanar	O

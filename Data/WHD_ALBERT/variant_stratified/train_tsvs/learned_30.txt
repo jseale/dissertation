@@ -1,0 +1,17 @@
+learned_30	But	O
+learned_30	the	O
+learned_30	quaintness	O
+learned_30	of	O
+learned_30	the	O
+learned_30	name	O
+learned_30	grew	O
+learned_30	on	O
+learned_30	us	O
+learned_30	so	O
+learned_30	that	O
+learned_30	we	O
+learned_30	've	O
+learned_30	learned	learned_vrb
+learned_30	to	O
+learned_30	love	O
+learned_30	it	O

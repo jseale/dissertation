@@ -1,0 +1,14 @@
+perfect_66	According	O
+perfect_66	to	O
+perfect_66	Tarzan	O
+perfect_66	creator	O
+perfect_66	Edgar	O
+perfect_66	Rice	O
+perfect_66	Burroughs	O
+perfect_66	he	O
+perfect_66	was	O
+perfect_66	the	O
+perfect_66	perfect	perfect_adj
+perfect_66	portrayal	O
+perfect_66	of	O
+perfect_66	Tarzan	O

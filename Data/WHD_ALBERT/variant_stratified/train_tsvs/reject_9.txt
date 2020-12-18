@@ -1,0 +1,7 @@
+reject_9	Pluralists	O
+reject_9	likewise	O
+reject_9	reject	reject_vrb
+reject_9	historicism	O
+reject_9	and	O
+reject_9	utopian	O
+reject_9	thinking	O

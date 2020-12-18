@@ -1,0 +1,17 @@
+celtic_65	Porto	O
+celtic_65	had	O
+celtic_65	made	O
+celtic_65	it	O
+celtic_65	to	O
+celtic_65	the	O
+celtic_65	Super	O
+celtic_65	Cup	O
+celtic_65	after	O
+celtic_65	beating	O
+celtic_65	Celtic	celtic_adj-nou-sports
+celtic_65	in	O
+celtic_65	the	O
+celtic_65	2003	O
+celtic_65	UEFA	O
+celtic_65	Cup	O
+celtic_65	Final	O

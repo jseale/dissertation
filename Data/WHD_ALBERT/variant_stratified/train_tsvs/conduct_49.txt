@@ -1,0 +1,15 @@
+conduct_49	Vandegrift	O
+conduct_49	therefore	O
+conduct_49	decided	O
+conduct_49	to	O
+conduct_49	conduct	conduct_vrb
+conduct_49	a	O
+conduct_49	series	O
+conduct_49	of	O
+conduct_49	small	O
+conduct_49	unit	O
+conduct_49	operations	O
+conduct_49	around	O
+conduct_49	the	O
+conduct_49	Matanikau	O
+conduct_49	Valley	O

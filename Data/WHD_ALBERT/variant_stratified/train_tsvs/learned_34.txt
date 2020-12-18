@@ -1,0 +1,12 @@
+learned_34	Many	O
+learned_34	important	O
+learned_34	hockey	O
+learned_34	players	O
+learned_34	played	O
+learned_34	in	O
+learned_34	Landshut	O
+learned_34	or	O
+learned_34	learned	learned_vrb
+learned_34	playing	O
+learned_34	hockey	O
+learned_34	there	O

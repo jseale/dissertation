@@ -1,0 +1,16 @@
+conduct_7	The	O
+conduct_7	parents	O
+conduct_7	attorney	O
+conduct_7	hired	O
+conduct_7	Howard	O
+conduct_7	Shane	O
+conduct_7	of	O
+conduct_7	Boston	O
+conduct_7	Children	O
+conduct_7	's	O
+conduct_7	Hospital	O
+conduct_7	to	O
+conduct_7	conduct	conduct_vrb
+conduct_7	testing	O
+conduct_7	of	O
+conduct_7	authorship	O

@@ -1,0 +1,15 @@
+retard_60	An	O
+retard_60	advance	O
+retard_60	mechanism	O
+retard_60	is	O
+retard_60	used	O
+retard_60	to	O
+retard_60	retard	retard_vrb
+retard_60	the	O
+retard_60	timing	O
+retard_60	for	O
+retard_60	easy	O
+retard_60	starting	O
+retard_60	and	O
+retard_60	smooth	O
+retard_60	idle	O

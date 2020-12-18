@@ -1,0 +1,17 @@
+rerelease_7	In	O
+rerelease_7	1951	O
+rerelease_7	Polito	O
+rerelease_7	's	O
+rerelease_7	father	O
+rerelease_7	took	O
+rerelease_7	him	O
+rerelease_7	to	O
+rerelease_7	see	O
+rerelease_7	the	O
+rerelease_7	King	O
+rerelease_7	Kong	O
+rerelease_7	rerelease	rerelease
+rerelease_7	of	O
+rerelease_7	the	O
+rerelease_7	1933	O
+rerelease_7	film	O

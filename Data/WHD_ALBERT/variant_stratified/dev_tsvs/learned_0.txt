@@ -1,0 +1,11 @@
+learned_0	Carpenter	O
+learned_0	also	O
+learned_0	authored	O
+learned_0	other	O
+learned_0	works	O
+learned_0	such	O
+learned_0	as	O
+learned_0	Homiliae	O
+learned_0	eruditae	O
+learned_0	Learned	learned_adj
+learned_0	Sermons	O

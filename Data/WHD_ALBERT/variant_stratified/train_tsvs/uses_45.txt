@@ -1,0 +1,9 @@
+uses_45	Tess	O
+uses_45	uses	uses_vrb
+uses_45	an	O
+uses_45	alien	O
+uses_45	power	O
+uses_45	to	O
+uses_45	blank	O
+uses_45	her	O
+uses_45	memory	O

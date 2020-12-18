@@ -1,0 +1,16 @@
+subordinate_45	P.	O
+subordinate_45	annularis	O
+subordinate_45	queens	O
+subordinate_45	have	O
+subordinate_45	the	O
+subordinate_45	tendency	O
+subordinate_45	to	O
+subordinate_45	outlive	O
+subordinate_45	all	O
+subordinate_45	of	O
+subordinate_45	the	O
+subordinate_45	subordinate	subordinate_adj-nou
+subordinate_45	cofoundresses	O
+subordinate_45	of	O
+subordinate_45	their	O
+subordinate_45	associations	O

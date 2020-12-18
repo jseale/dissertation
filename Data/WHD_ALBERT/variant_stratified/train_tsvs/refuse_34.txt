@@ -1,0 +1,15 @@
+refuse_34	Following	O
+refuse_34	her	O
+refuse_34	parents	O
+refuse_34	conversion	O
+refuse_34	Vicki	O
+refuse_34	became	O
+refuse_34	even	O
+refuse_34	more	O
+refuse_34	rebellious	O
+refuse_34	and	O
+refuse_34	continued	O
+refuse_34	to	O
+refuse_34	refuse	refuse_vrb
+refuse_34	to	O
+refuse_34	convert	O

@@ -1,0 +1,11 @@
+rebel_47	Soon	O
+rebel_47	afterwards	O
+rebel_47	in	O
+rebel_47	June	O
+rebel_47	1941	O
+rebel_47	rebel	rebel_nou
+rebel_47	youths	O
+rebel_47	burned	O
+rebel_47	the	O
+rebel_47	stadium	O
+rebel_47	down	O

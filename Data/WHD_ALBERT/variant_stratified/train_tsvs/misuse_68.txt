@@ -1,0 +1,13 @@
+misuse_68	It	O
+misuse_68	is	O
+misuse_68	controlled	O
+misuse_68	in	O
+misuse_68	the	O
+misuse_68	UK	O
+misuse_68	by	O
+misuse_68	the	O
+misuse_68	Misuse	misuse_nou
+misuse_68	of	O
+misuse_68	Drugs	O
+misuse_68	Act	O
+misuse_68	1971	O

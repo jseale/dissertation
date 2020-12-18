@@ -1,0 +1,13 @@
+affect_42	Cats	O
+affect_42	like	O
+affect_42	all	O
+affect_42	living	O
+affect_42	organisms	O
+affect_42	occasionally	O
+affect_42	have	O
+affect_42	mutations	O
+affect_42	that	O
+affect_42	affect	affect
+affect_42	their	O
+affect_42	body	O
+affect_42	type	O

@@ -1,0 +1,8 @@
+converse_24	Partners	O
+converse_24	and	O
+converse_24	sponsors	O
+converse_24	included	O
+converse_24	Bacardi	O
+converse_24	Converse	converse_adj-nou
+converse_24	and	O
+converse_24	Neocha.com	O

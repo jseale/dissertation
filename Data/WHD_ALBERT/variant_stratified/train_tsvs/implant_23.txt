@@ -1,0 +1,14 @@
+implant_23	Chris	O
+implant_23	and	O
+implant_23	Mari	O
+implant_23	chose	O
+implant_23	to	O
+implant_23	have	O
+implant_23	cochlear	O
+implant_23	implant	implant_nou
+implant_23	surgery	O
+implant_23	performed	O
+implant_23	on	O
+implant_23	their	O
+implant_23	infant	O
+implant_23	Peter	O

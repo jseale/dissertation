@@ -1,0 +1,16 @@
+isolate_21	Typical	O
+isolate_21	work	O
+isolate_21	is	O
+isolate_21	done	O
+isolate_21	with	O
+isolate_21	genes	O
+isolate_21	in	O
+isolate_21	order	O
+isolate_21	to	O
+isolate_21	isolate	isolate
+isolate_21	and	O
+isolate_21	then	O
+isolate_21	develop	O
+isolate_21	certain	O
+isolate_21	plant	O
+isolate_21	traits	O

@@ -1,0 +1,10 @@
+live_1	The	O
+live_1	live	live_adj
+live_1	BBC	O
+live_1	1	O
+live_1	trailer	O
+live_1	was	O
+live_1	directed	O
+live_1	by	O
+live_1	John	O
+live_1	Rooney	O

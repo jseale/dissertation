@@ -1,0 +1,13 @@
+delegate_4	He	O
+delegate_4	was	O
+delegate_4	a	O
+delegate_4	delegate	delegate_nou
+delegate_4	to	O
+delegate_4	the	O
+delegate_4	New	O
+delegate_4	York	O
+delegate_4	State	O
+delegate_4	Constitutional	O
+delegate_4	Convention	O
+delegate_4	of	O
+delegate_4	1867	O

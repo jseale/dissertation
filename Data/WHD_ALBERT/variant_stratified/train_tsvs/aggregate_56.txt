@@ -1,0 +1,17 @@
+aggregate_56	Camardon	O
+aggregate_56	had	O
+aggregate_56	41	O
+aggregate_56	caps	O
+aggregate_56	for	O
+aggregate_56	Argentina	O
+aggregate_56	from	O
+aggregate_56	1990	O
+aggregate_56	to	O
+aggregate_56	2002	O
+aggregate_56	scoring	O
+aggregate_56	10	O
+aggregate_56	tries	O
+aggregate_56	49	O
+aggregate_56	points	O
+aggregate_56	in	O
+aggregate_56	aggregate	aggregate_adj-nou

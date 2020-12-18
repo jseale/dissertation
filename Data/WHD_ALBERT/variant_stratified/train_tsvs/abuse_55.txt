@@ -1,0 +1,14 @@
+abuse_55	The	O
+abuse_55	first	O
+abuse_55	video	O
+abuse_55	shows	O
+abuse_55	ten	O
+abuse_55	prison	O
+abuse_55	guards	O
+abuse_55	conducting	O
+abuse_55	physical	O
+abuse_55	and	O
+abuse_55	verbal	O
+abuse_55	abuse	abuse_nou
+abuse_55	on	O
+abuse_55	prisoners	O

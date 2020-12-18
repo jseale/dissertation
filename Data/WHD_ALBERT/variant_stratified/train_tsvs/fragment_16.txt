@@ -1,0 +1,10 @@
+fragment_16	His	O
+fragment_16	name	O
+fragment_16	occurs	O
+fragment_16	in	O
+fragment_16	a	O
+fragment_16	fragment	fragment_nou
+fragment_16	of	O
+fragment_16	the	O
+fragment_16	Fratres	O
+fragment_16	Arvales	O

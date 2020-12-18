@@ -1,0 +1,11 @@
+convict_0	Previously	O
+convict_0	the	O
+convict_0	property	O
+convict_0	held	O
+convict_0	several	O
+convict_0	private	O
+convict_0	plantations	O
+convict_0	that	O
+convict_0	used	O
+convict_0	convict	convict_nou
+convict_0	leasing	O

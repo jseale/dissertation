@@ -1,0 +1,17 @@
+reading_42	This	O
+reading_42	remains	O
+reading_42	however	O
+reading_42	a	O
+reading_42	fast	O
+reading_42	and	O
+reading_42	easy	O
+reading_42	way	O
+reading_42	to	O
+reading_42	gain	O
+reading_42	a	O
+reading_42	little	O
+reading_42	further	O
+reading_42	depth	O
+reading_42	in	O
+reading_42	a	O
+reading_42	reading	reading_en

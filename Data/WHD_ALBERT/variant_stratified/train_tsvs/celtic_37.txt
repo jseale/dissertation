@@ -1,0 +1,16 @@
+celtic_37	During	O
+celtic_37	the	O
+celtic_37	Celtic	celtic
+celtic_37	period	O
+celtic_37	it	O
+celtic_37	was	O
+celtic_37	one	O
+celtic_37	of	O
+celtic_37	the	O
+celtic_37	two	O
+celtic_37	administrative	O
+celtic_37	centres	O
+celtic_37	of	O
+celtic_37	the	O
+celtic_37	Cantiaci	O
+celtic_37	tribe	O

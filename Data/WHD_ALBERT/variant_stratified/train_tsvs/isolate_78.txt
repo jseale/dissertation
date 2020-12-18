@@ -1,0 +1,11 @@
+isolate_78	Berkelic	O
+isolate_78	acid	O
+isolate_78	is	O
+isolate_78	a	O
+isolate_78	fungal	O
+isolate_78	isolate	isolate_nou
+isolate_78	with	O
+isolate_78	anticancer	O
+isolate_78	activity	O
+isolate_78	in	O
+isolate_78	vitro	O

@@ -1,0 +1,10 @@
+diagnoses_77	Juliet	O
+diagnoses_77	diagnoses	diagnoses_vrb
+diagnoses_77	him	O
+diagnoses_77	with	O
+diagnoses_77	appendicitis	O
+diagnoses_77	and	O
+diagnoses_77	deems	O
+diagnoses_77	an	O
+diagnoses_77	appendectomy	O
+diagnoses_77	necessary	O

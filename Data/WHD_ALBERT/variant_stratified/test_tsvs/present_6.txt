@@ -1,0 +1,12 @@
+present_6	In	O
+present_6	1912	O
+present_6	the	O
+present_6	Bulgarian	O
+present_6	army	O
+present_6	acceded	O
+present_6	Kochan	O
+present_6	to	O
+present_6	the	O
+present_6	present	present_adj-nou
+present_6	Bulgarian	O
+present_6	state	O

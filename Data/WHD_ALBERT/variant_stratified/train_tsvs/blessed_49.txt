@@ -1,0 +1,13 @@
+blessed_49	Archbishop	O
+blessed_49	Ferdenand	O
+blessed_49	Perier	O
+blessed_49	S.J.	O
+blessed_49	of	O
+blessed_49	Calcutta	O
+blessed_49	gave	O
+blessed_49	his	O
+blessed_49	consent	O
+blessed_49	and	O
+blessed_49	blessed	blessed_vrb
+blessed_49	the	O
+blessed_49	enterprise	O

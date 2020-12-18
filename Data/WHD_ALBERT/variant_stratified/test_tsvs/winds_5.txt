@@ -1,0 +1,13 @@
+winds_5	Terrific	O
+winds_5	winds	winds_nou
+winds_5	and	O
+winds_5	pestilential	O
+winds_5	disease	O
+winds_5	marked	O
+winds_5	the	O
+winds_5	long	O
+winds_5	journey	O
+winds_5	and	O
+winds_5	twenty	O
+winds_5	people	O
+winds_5	died	O

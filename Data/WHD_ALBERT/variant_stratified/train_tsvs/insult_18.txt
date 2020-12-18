@@ -1,0 +1,16 @@
+insult_18	The	O
+insult_18	crown	O
+insult_18	prince	O
+insult_18	considered	O
+insult_18	that	O
+insult_18	insult	insult_nou
+insult_18	to	O
+insult_18	the	O
+insult_18	governor	O
+insult_18	unacceptable	O
+insult_18	and	O
+insult_18	summoned	O
+insult_18	Khosro	O
+insult_18	Khan	O
+insult_18	to	O
+insult_18	Tabriz	O

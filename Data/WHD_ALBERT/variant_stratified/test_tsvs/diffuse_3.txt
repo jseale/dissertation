@@ -1,0 +1,13 @@
+diffuse_3	The	O
+diffuse_3	forewings	O
+diffuse_3	are	O
+diffuse_3	light	O
+diffuse_3	brown	O
+diffuse_3	with	O
+diffuse_3	a	O
+diffuse_3	stroky	O
+diffuse_3	pattern	O
+diffuse_3	and	O
+diffuse_3	diffuse	diffuse_adj
+diffuse_3	white	O
+diffuse_3	spots	O

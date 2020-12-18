@@ -1,0 +1,16 @@
+live_9	In	O
+live_9	the	O
+live_9	mangrove	O
+live_9	in	O
+live_9	Ha	O
+live_9	Pak	O
+live_9	Nai	O
+live_9	live	live_vrb
+live_9	various	O
+live_9	species	O
+live_9	which	O
+live_9	is	O
+live_9	highly	O
+live_9	conserved	O
+live_9	by	O
+live_9	environmentalists	O

@@ -1,0 +1,12 @@
+pervert_15	She	O
+pervert_15	also	O
+pervert_15	testified	O
+pervert_15	that	O
+pervert_15	the	O
+pervert_15	reference	O
+pervert_15	to	O
+pervert_15	cracker	O
+pervert_15	referred	O
+pervert_15	to	O
+pervert_15	a	O
+pervert_15	pervert	pervert_nou

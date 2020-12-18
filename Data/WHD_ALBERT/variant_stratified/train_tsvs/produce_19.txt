@@ -1,0 +1,17 @@
+produce_19	Talks	O
+produce_19	broke	O
+produce_19	down	O
+produce_19	after	O
+produce_19	more	O
+produce_19	than	O
+produce_19	20	O
+produce_19	straight	O
+produce_19	days	O
+produce_19	of	O
+produce_19	bargaining	O
+produce_19	failed	O
+produce_19	to	O
+produce_19	produce	produce_vrb
+produce_19	a	O
+produce_19	new	O
+produce_19	contract	O

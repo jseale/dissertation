@@ -1,0 +1,15 @@
+discard_16	From	O
+discard_16	discard	discard_nou
+discard_16	to	O
+discard_16	divination	O
+discard_16	Demarcating	O
+discard_16	the	O
+discard_16	sacred	O
+discard_16	through	O
+discard_16	the	O
+discard_16	collection	O
+discard_16	and	O
+discard_16	curation	O
+discard_16	of	O
+discard_16	discarded	O
+discard_16	objects	O

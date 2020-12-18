@@ -1,0 +1,15 @@
+wound_4	This	O
+wound_4	wound	wound_nou-vrb
+wound_4	is	O
+wound_4	susceptible	O
+wound_4	to	O
+wound_4	disease	O
+wound_4	and	O
+wound_4	decay	O
+wound_4	and	O
+wound_4	could	O
+wound_4	lead	O
+wound_4	to	O
+wound_4	reduced	O
+wound_4	trunk	O
+wound_4	stability	O

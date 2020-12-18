@@ -1,0 +1,17 @@
+transport_17	Road	O
+transport_17	transport	transport_nou
+transport_17	was	O
+transport_17	too	O
+transport_17	expensive	O
+transport_17	and	O
+transport_17	rail	O
+transport_17	transport	transport_nou
+transport_17	was	O
+transport_17	required	O
+transport_17	so	O
+transport_17	the	O
+transport_17	timber	O
+transport_17	could	O
+transport_17	be	O
+transport_17	harvested	O
+transport_17	profitably	O

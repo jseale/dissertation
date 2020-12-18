@@ -1,0 +1,15 @@
+transplant_68	She	O
+transplant_68	left	O
+transplant_68	the	O
+transplant_68	USSR	O
+transplant_68	at	O
+transplant_68	the	O
+transplant_68	request	O
+transplant_68	of	O
+transplant_68	Doctor	O
+transplant_68	Strange	O
+transplant_68	to	O
+transplant_68	perform	O
+transplant_68	a	O
+transplant_68	brain	O
+transplant_68	transplant	transplant_nou

@@ -1,0 +1,10 @@
+dove_21	As	O
+dove_21	it	O
+dove_21	crosses	O
+dove_21	the	O
+dove_21	River	O
+dove_21	Dove	dove
+dove_21	the	O
+dove_21	road	O
+dove_21	enters	O
+dove_21	Derbyshire	O

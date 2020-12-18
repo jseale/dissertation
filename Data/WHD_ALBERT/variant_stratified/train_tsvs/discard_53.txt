@@ -1,0 +1,16 @@
+discard_53	Their	O
+discard_53	main	O
+discard_53	approach	O
+discard_53	to	O
+discard_53	achieve	O
+discard_53	this	O
+discard_53	is	O
+discard_53	to	O
+discard_53	discard	discard_vrb
+discard_53	the	O
+discard_53	coolant	O
+discard_53	bath	O
+discard_53	for	O
+discard_53	the	O
+discard_53	required	O
+discard_53	superconductors	O

@@ -1,0 +1,12 @@
+combine_24	The	O
+combine_24	festival	O
+combine_24	intends	O
+combine_24	to	O
+combine_24	combine	combine_vrb
+combine_24	Far	O
+combine_24	East	O
+combine_24	Musicians	O
+combine_24	with	O
+combine_24	European	O
+combine_24	Music	O
+combine_24	traditions	O

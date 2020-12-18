@@ -1,0 +1,15 @@
+perfume_19	Chinthurst	O
+perfume_19	School	O
+perfume_19	was	O
+perfume_19	founded	O
+perfume_19	in	O
+perfume_19	1908	O
+perfume_19	by	O
+perfume_19	Miss	O
+perfume_19	Alice	O
+perfume_19	Katherine	O
+perfume_19	Atkins	O
+perfume_19	in	O
+perfume_19	a	O
+perfume_19	perfume	perfume_nou
+perfume_19	factory	O

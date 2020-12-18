@@ -1,0 +1,10 @@
+duplicate_5	Functional	O
+duplicate_5	divergence	O
+duplicate_5	between	O
+duplicate_5	the	O
+duplicate_5	duplicate	duplicate_adj-nou
+duplicate_5	genes	O
+duplicate_5	is	O
+duplicate_5	another	O
+duplicate_5	possible	O
+duplicate_5	fate	O

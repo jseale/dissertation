@@ -1,0 +1,12 @@
+reading_0	Buchan	O
+reading_0	's	O
+reading_0	three	O
+reading_0	novels	O
+reading_0	were	O
+reading_0	written	O
+reading_0	to	O
+reading_0	interest	O
+reading_0	his	O
+reading_0	students	O
+reading_0	in	O
+reading_0	reading	reading_en

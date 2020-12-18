@@ -1,0 +1,14 @@
+convert_7	We	O
+convert_7	want	O
+convert_7	to	O
+convert_7	convert	convert_vrb
+convert_7	them	O
+convert_7	to	O
+convert_7	question	O
+convert_7	who	O
+convert_7	they	O
+convert_7	are	O
+convert_7	and	O
+convert_7	also	O
+convert_7	question	O
+convert_7	society	O

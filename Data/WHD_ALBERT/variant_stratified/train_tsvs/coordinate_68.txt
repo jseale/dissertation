@@ -1,0 +1,14 @@
+coordinate_68	The	O
+coordinate_68	oculomotor	O
+coordinate_68	nerve	O
+coordinate_68	III	O
+coordinate_68	trochlear	O
+coordinate_68	nerve	O
+coordinate_68	IV	O
+coordinate_68	and	O
+coordinate_68	abducens	O
+coordinate_68	nerve	O
+coordinate_68	VI	O
+coordinate_68	coordinate	coordinate_vrb
+coordinate_68	eye	O
+coordinate_68	movement	O

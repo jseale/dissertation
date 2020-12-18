@@ -1,0 +1,16 @@
+convict_66	The	O
+convict_66	film	O
+convict_66	starts	O
+convict_66	off	O
+convict_66	with	O
+convict_66	Calvin	O
+convict_66	Babyface	O
+convict_66	Simms	O
+convict_66	Marlon	O
+convict_66	Wayans	O
+convict_66	who	O
+convict_66	is	O
+convict_66	a	O
+convict_66	very	O
+convict_66	short	O
+convict_66	convict	convict_nou

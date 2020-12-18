@@ -1,0 +1,8 @@
+refund_77	Reacher	O
+refund_77	forces	O
+refund_77	Rutter	O
+refund_77	to	O
+refund_77	refund	refund_vrb
+refund_77	the	O
+refund_77	Hobies	O
+refund_77	money	O

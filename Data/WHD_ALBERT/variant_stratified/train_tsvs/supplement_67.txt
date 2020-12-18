@@ -1,0 +1,12 @@
+supplement_67	It	O
+supplement_67	is	O
+supplement_67	intended	O
+supplement_67	to	O
+supplement_67	supplement	supplement_vrb
+supplement_67	and	O
+supplement_67	ultimately	O
+supplement_67	replace	O
+supplement_67	traditional	O
+supplement_67	Internet	O
+supplement_67	Routing	O
+supplement_67	protocols	O

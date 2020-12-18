@@ -1,0 +1,15 @@
+defect_8	Expression	O
+defect_8	of	O
+defect_8	the	O
+defect_8	biochemical	O
+defect_8	defect	defect_nou
+defect_8	of	O
+defect_8	methionine	O
+defect_8	dependence	O
+defect_8	in	O
+defect_8	fresh	O
+defect_8	patient	O
+defect_8	tumors	O
+defect_8	in	O
+defect_8	primary	O
+defect_8	histoculture	O

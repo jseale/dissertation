@@ -1,0 +1,13 @@
+confines_64	Mrs.	O
+confines_64	Bridgetower	O
+confines_64	is	O
+confines_64	also	O
+confines_64	outraged	O
+confines_64	although	O
+confines_64	she	O
+confines_64	confines	confines_vrb
+confines_64	this	O
+confines_64	to	O
+confines_64	her	O
+confines_64	personal	O
+confines_64	circle	O

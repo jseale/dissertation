@@ -1,0 +1,17 @@
+pervert_9	They	O
+pervert_9	pervert	pervert_vrb
+pervert_9	the	O
+pervert_9	Scriptures	O
+pervert_9	by	O
+pervert_9	interpreting	O
+pervert_9	them	O
+pervert_9	to	O
+pervert_9	suit	O
+pervert_9	their	O
+pervert_9	own	O
+pervert_9	purposes	O
+pervert_9	Prescription	O
+pervert_9	Against	O
+pervert_9	Heretics	O
+pervert_9	17	O
+pervert_9	cf	O

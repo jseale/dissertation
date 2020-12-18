@@ -1,0 +1,11 @@
+reject_44	Today	O
+reject_44	most	O
+reject_44	scholars	O
+reject_44	reject	reject_vrb
+reject_44	the	O
+reject_44	translation	O
+reject_44	of	O
+reject_44	epiousios	O
+reject_44	as	O
+reject_44	meaning	O
+reject_44	daily	O

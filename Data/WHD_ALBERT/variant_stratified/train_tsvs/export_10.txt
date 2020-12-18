@@ -1,0 +1,16 @@
+export_10	Export	export_nou
+export_10	models	O
+export_10	produced	O
+export_10	at	O
+export_10	the	O
+export_10	plant	O
+export_10	in	O
+export_10	Graz	O
+export_10	Austria	O
+export_10	were	O
+export_10	given	O
+export_10	the	O
+export_10	vehicle	O
+export_10	designation	O
+export_10	of	O
+export_10	ZG	O

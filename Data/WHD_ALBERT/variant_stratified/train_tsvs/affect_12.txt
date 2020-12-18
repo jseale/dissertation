@@ -1,0 +1,13 @@
+affect_12	The	O
+affect_12	black	O
+affect_12	flies	O
+affect_12	are	O
+affect_12	mainly	O
+affect_12	local	O
+affect_12	and	O
+affect_12	typically	O
+affect_12	only	O
+affect_12	affect	affect
+affect_12	artificial	O
+affect_12	nest	O
+affect_12	boxes	O

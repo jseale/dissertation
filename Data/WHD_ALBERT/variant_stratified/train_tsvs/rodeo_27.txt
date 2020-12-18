@@ -1,0 +1,16 @@
+rodeo_27	In	O
+rodeo_27	1948	O
+rodeo_27	the	O
+rodeo_27	Girl	O
+rodeo_27	's	O
+rodeo_27	Rodeo	rodeo
+rodeo_27	Association	O
+rodeo_27	was	O
+rodeo_27	started	O
+rodeo_27	by	O
+rodeo_27	a	O
+rodeo_27	group	O
+rodeo_27	of	O
+rodeo_27	Texas	O
+rodeo_27	ranch	O
+rodeo_27	women	O

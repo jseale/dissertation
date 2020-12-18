@@ -1,0 +1,13 @@
+fragment_23	Chemically	O
+fragment_23	efungumab	O
+fragment_23	is	O
+fragment_23	a	O
+fragment_23	single	O
+fragment_23	chain	O
+fragment_23	variable	O
+fragment_23	fragment	fragment_nou
+fragment_23	of	O
+fragment_23	a	O
+fragment_23	human	O
+fragment_23	monoclonal	O
+fragment_23	antibody	O

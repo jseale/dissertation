@@ -1,0 +1,15 @@
+frequent_63	Practically	O
+frequent_63	none	O
+frequent_63	of	O
+frequent_63	his	O
+frequent_63	work	O
+frequent_63	contains	O
+frequent_63	elves	O
+frequent_63	either	O
+frequent_63	though	O
+frequent_63	most	O
+frequent_63	other	O
+frequent_63	standard	O
+frequent_63	races	O
+frequent_63	are	O
+frequent_63	frequent	frequent_adj

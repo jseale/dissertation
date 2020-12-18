@@ -1,0 +1,16 @@
+bass_36	The	O
+bass_36	original	O
+bass_36	three	O
+bass_36	band	O
+bass_36	members	O
+bass_36	were	O
+bass_36	James	O
+bass_36	Bellizia	O
+bass_36	guitar	O
+bass_36	Jason	O
+bass_36	Cooley	O
+bass_36	bass	bass
+bass_36	and	O
+bass_36	Luke	O
+bass_36	Hughett	O
+bass_36	drums	O

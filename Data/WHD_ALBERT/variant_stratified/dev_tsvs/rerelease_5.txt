@@ -1,0 +1,12 @@
+rerelease_5	However	O
+rerelease_5	most	O
+rerelease_5	coverage	O
+rerelease_5	of	O
+rerelease_5	the	O
+rerelease_5	album	O
+rerelease_5	followed	O
+rerelease_5	the	O
+rerelease_5	rerelease	rerelease
+rerelease_5	in	O
+rerelease_5	June	O
+rerelease_5	2012	O

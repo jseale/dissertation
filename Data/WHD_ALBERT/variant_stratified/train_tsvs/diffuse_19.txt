@@ -1,0 +1,17 @@
+diffuse_19	The	O
+diffuse_19	Historia	O
+diffuse_19	though	O
+diffuse_19	written	O
+diffuse_19	in	O
+diffuse_19	a	O
+diffuse_19	diffuse	diffuse_adj
+diffuse_19	style	O
+diffuse_19	furnishes	O
+diffuse_19	a	O
+diffuse_19	mass	O
+diffuse_19	of	O
+diffuse_19	information	O
+diffuse_19	collected	O
+diffuse_19	at	O
+diffuse_19	first	O
+diffuse_19	hand	O

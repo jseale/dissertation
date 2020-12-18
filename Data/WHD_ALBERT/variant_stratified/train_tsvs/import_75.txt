@@ -1,0 +1,17 @@
+import_75	Without	O
+import_75	the	O
+import_75	ability	O
+import_75	to	O
+import_75	import	import_vrb
+import_75	rice	O
+import_75	from	O
+import_75	China	O
+import_75	Burma	O
+import_75	was	O
+import_75	forced	O
+import_75	to	O
+import_75	import	import_vrb
+import_75	rice	O
+import_75	from	O
+import_75	the	O
+import_75	British	O

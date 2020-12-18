@@ -1,0 +1,16 @@
+affect_77	Second	O
+affect_77	the	O
+affect_77	interactional	O
+affect_77	approach	O
+affect_77	does	O
+affect_77	not	O
+affect_77	seek	O
+affect_77	to	O
+affect_77	enhance	O
+affect_77	the	O
+affect_77	affect	affect_nou-psy
+affect_77	processing	O
+affect_77	capacities	O
+affect_77	of	O
+affect_77	computer	O
+affect_77	systems	O

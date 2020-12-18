@@ -1,0 +1,15 @@
+associate_30	Lloyd	O
+associate_30	became	O
+associate_30	an	O
+associate_30	associate	associate_adj-nou
+associate_30	of	O
+associate_30	the	O
+associate_30	Institute	O
+associate_30	of	O
+associate_30	Civil	O
+associate_30	Engineers	O
+associate_30	and	O
+associate_30	served	O
+associate_30	on	O
+associate_30	its	O
+associate_30	council	O

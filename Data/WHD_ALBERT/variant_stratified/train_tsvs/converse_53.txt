@@ -1,0 +1,15 @@
+converse_53	We	O
+converse_53	had	O
+converse_53	to	O
+converse_53	converse	converse_vrb
+converse_53	with	O
+converse_53	her	O
+converse_53	through	O
+converse_53	her	O
+converse_53	translator	O
+converse_53	who	O
+converse_53	was	O
+converse_53	always	O
+converse_53	on	O
+converse_53	the	O
+converse_53	sets	O

@@ -1,0 +1,17 @@
+estimate_70	Some	O
+estimate_70	genetic	O
+estimate_70	studies	O
+estimate_70	estimate	estimate_vrb
+estimate_70	the	O
+estimate_70	colonization	O
+estimate_70	of	O
+estimate_70	the	O
+estimate_70	Americas	O
+estimate_70	dates	O
+estimate_70	from	O
+estimate_70	between	O
+estimate_70	40,000	O
+estimate_70	and	O
+estimate_70	13,000	O
+estimate_70	years	O
+estimate_70	ago	O

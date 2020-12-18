@@ -1,0 +1,15 @@
+postulate_22	However	O
+postulate_22	until	O
+postulate_22	today	O
+postulate_22	others	O
+postulate_22	continued	O
+postulate_22	the	O
+postulate_22	attempts	O
+postulate_22	to	O
+postulate_22	derive	O
+postulate_22	special	O
+postulate_22	relativity	O
+postulate_22	without	O
+postulate_22	the	O
+postulate_22	light	O
+postulate_22	postulate	postulate_nou

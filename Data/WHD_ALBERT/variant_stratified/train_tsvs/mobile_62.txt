@@ -1,0 +1,13 @@
+mobile_62	The	O
+mobile_62	US	O
+mobile_62	operated	O
+mobile_62	out	O
+mobile_62	of	O
+mobile_62	a	O
+mobile_62	mobile	mobile
+mobile_62	home	O
+mobile_62	for	O
+mobile_62	the	O
+mobile_62	first	O
+mobile_62	two	O
+mobile_62	years	O

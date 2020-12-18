@@ -1,0 +1,16 @@
+suspect_24	Amatuna	O
+suspect_24	was	O
+suspect_24	later	O
+suspect_24	a	O
+suspect_24	suspect	suspect_adj-nou
+suspect_24	in	O
+suspect_24	the	O
+suspect_24	murders	O
+suspect_24	of	O
+suspect_24	Powers	O
+suspect_24	supporters	O
+suspect_24	Harry	O
+suspect_24	Raimondi	O
+suspect_24	and	O
+suspect_24	Gaetano	O
+suspect_24	Esposito	O

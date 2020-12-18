@@ -1,0 +1,14 @@
+abuses_49	The	O
+abuses_49	opportunity	O
+abuses_49	to	O
+abuses_49	denounce	O
+abuses_49	the	O
+abuses_49	abuses	abuses_nou
+abuses_49	of	O
+abuses_49	the	O
+abuses_49	Protectorate	O
+abuses_49	authorities	O
+abuses_49	was	O
+abuses_49	given	O
+abuses_49	to	O
+abuses_49	me	O

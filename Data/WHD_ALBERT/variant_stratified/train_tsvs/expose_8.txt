@@ -1,0 +1,8 @@
+expose_8	Kings	O
+expose_8	wear	O
+expose_8	long	O
+expose_8	robes	O
+expose_8	that	O
+expose_8	expose	expose_vrb
+expose_8	their	O
+expose_8	feet	O

@@ -1,0 +1,15 @@
+axes_26	It	O
+axes_26	grew	O
+axes_26	to	O
+axes_26	several	O
+axes_26	centimetres	O
+axes_26	in	O
+axes_26	length	O
+axes_26	and	O
+axes_26	its	O
+axes_26	axes	axes_nou
+axes_26	were	O
+axes_26	almost	O
+axes_26	a	O
+axes_26	centimeter	O
+axes_26	across	O

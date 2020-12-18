@@ -1,0 +1,11 @@
+delegate_30	Conover	O
+delegate_30	was	O
+delegate_30	a	O
+delegate_30	delegate	delegate_nou
+delegate_30	to	O
+delegate_30	the	O
+delegate_30	State	O
+delegate_30	constitutional	O
+delegate_30	convention	O
+delegate_30	in	O
+delegate_30	1868	O

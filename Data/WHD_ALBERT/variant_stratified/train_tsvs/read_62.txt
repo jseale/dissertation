@@ -1,0 +1,15 @@
+read_62	Moore	O
+read_62	felt	O
+read_62	that	O
+read_62	having	O
+read_62	two	O
+read_62	people	O
+read_62	read	read_present
+read_62	the	O
+read_62	news	O
+read_62	distracted	O
+read_62	from	O
+read_62	the	O
+read_62	stories	O
+read_62	being	O
+read_62	told	O

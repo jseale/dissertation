@@ -1,0 +1,10 @@
+combine_42	Originally	O
+combine_42	a	O
+combine_42	poet	O
+combine_42	her	O
+combine_42	books	O
+combine_42	often	O
+combine_42	combine	combine_vrb
+combine_42	text	O
+combine_42	and	O
+combine_42	images	O

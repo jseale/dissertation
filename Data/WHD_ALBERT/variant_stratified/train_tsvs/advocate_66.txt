@@ -1,0 +1,15 @@
+advocate_66	Theorists	O
+advocate_66	such	O
+advocate_66	as	O
+advocate_66	Carne	O
+advocate_66	Ross	O
+advocate_66	advocate	advocate_vrb
+advocate_66	deliberative	O
+advocate_66	democracy	O
+advocate_66	as	O
+advocate_66	a	O
+advocate_66	complete	O
+advocate_66	alternative	O
+advocate_66	to	O
+advocate_66	representative	O
+advocate_66	democracy	O

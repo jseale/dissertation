@@ -1,0 +1,14 @@
+combine_23	He	O
+combine_23	could	O
+combine_23	combine	combine_vrb
+combine_23	dislike	O
+combine_23	to	O
+combine_23	grabbers	O
+combine_23	and	O
+combine_23	dodgers	O
+combine_23	with	O
+combine_23	trust	O
+combine_23	and	O
+combine_23	friendliness	O
+combine_23	to	O
+combine_23	people	O

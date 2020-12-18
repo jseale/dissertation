@@ -1,0 +1,15 @@
+refuse_51	Wastes	O
+refuse_51	in	O
+refuse_51	Hong	O
+refuse_51	Kong	O
+refuse_51	are	O
+refuse_51	first	O
+refuse_51	collected	O
+refuse_51	from	O
+refuse_51	disposal	O
+refuse_51	bins	O
+refuse_51	to	O
+refuse_51	refuse	refuse_vrb
+refuse_51	transfer	O
+refuse_51	stations	O
+refuse_51	RTS	O

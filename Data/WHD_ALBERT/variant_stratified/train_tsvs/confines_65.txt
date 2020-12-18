@@ -1,0 +1,17 @@
+confines_65	If	O
+confines_65	this	O
+confines_65	is	O
+confines_65	what	O
+confines_65	he	O
+confines_65	sees	O
+confines_65	the	O
+confines_65	kohen	O
+confines_65	exits	O
+confines_65	the	O
+confines_65	house	O
+confines_65	and	O
+confines_65	confines	confines_vrb
+confines_65	it	O
+confines_65	for	O
+confines_65	seven	O
+confines_65	days	O

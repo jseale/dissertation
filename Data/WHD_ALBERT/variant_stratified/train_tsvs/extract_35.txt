@@ -1,0 +1,12 @@
+extract_35	An	O
+extract_35	extract	extract_nou
+extract_35	from	O
+extract_35	the	O
+extract_35	boiled	O
+extract_35	bark	O
+extract_35	has	O
+extract_35	been	O
+extract_35	used	O
+extract_35	to	O
+extract_35	flavour	O
+extract_35	tea	O

@@ -1,0 +1,17 @@
+refund_60	It	O
+refund_60	promises	O
+refund_60	to	O
+refund_60	refund	refund_vrb
+refund_60	the	O
+refund_60	price	O
+refund_60	of	O
+refund_60	any	O
+refund_60	ticket	O
+refund_60	that	O
+refund_60	fails	O
+refund_60	to	O
+refund_60	reach	O
+refund_60	a	O
+refund_60	buyer	O
+refund_60	by	O
+refund_60	FedEx	O

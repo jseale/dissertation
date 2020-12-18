@@ -1,0 +1,11 @@
+extract_7	Animals	O
+extract_7	in	O
+extract_7	these	O
+extract_7	species	O
+extract_7	reingest	O
+extract_7	their	O
+extract_7	cecotropes	O
+extract_7	to	O
+extract_7	extract	extract_vrb
+extract_7	further	O
+extract_7	nutrients	O

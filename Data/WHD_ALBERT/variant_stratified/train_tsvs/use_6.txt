@@ -1,0 +1,14 @@
+use_6	The	O
+use_6	company	O
+use_6	started	O
+use_6	to	O
+use_6	produced	O
+use_6	optical	O
+use_6	glass	O
+use_6	during	O
+use_6	the	O
+use_6	early	O
+use_6	1940s	O
+use_6	for	O
+use_6	military	O
+use_6	use	use_nou

@@ -1,0 +1,14 @@
+invert_23	In	O
+invert_23	contrast	O
+invert_23	to	O
+invert_23	bitters	O
+invert_23	they	O
+invert_23	have	O
+invert_23	a	O
+invert_23	higher	O
+invert_23	sugar	O
+invert_23	content	O
+invert_23	expressed	O
+invert_23	as	O
+invert_23	invert	invert_adj-nou
+invert_23	sugar	O

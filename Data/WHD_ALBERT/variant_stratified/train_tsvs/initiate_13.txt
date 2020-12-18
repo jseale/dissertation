@@ -1,0 +1,16 @@
+initiate_13	The	O
+initiate_13	plan	O
+initiate_13	was	O
+initiate_13	to	O
+initiate_13	initiate	initiate_vrb
+initiate_13	a	O
+initiate_13	pincer	O
+initiate_13	movement	O
+initiate_13	to	O
+initiate_13	encircle	O
+initiate_13	and	O
+initiate_13	destroy	O
+initiate_13	the	O
+initiate_13	3rd	O
+initiate_13	US	O
+initiate_13	Army	O

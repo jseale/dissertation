@@ -1,0 +1,9 @@
+blessed_57	He	O
+blessed_57	was	O
+blessed_57	blessed	blessed_vrb
+blessed_57	with	O
+blessed_57	fertile	O
+blessed_57	farmland	O
+blessed_57	and	O
+blessed_57	adequate	O
+blessed_57	wealth	O

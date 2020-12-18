@@ -1,0 +1,9 @@
+defect_62	Dopant	O
+defect_62	dopant	O
+defect_62	and	O
+defect_62	dopant	O
+defect_62	defect	defect_nou
+defect_62	processes	O
+defect_62	underlying	O
+defect_62	activation	O
+defect_62	kinetics	O

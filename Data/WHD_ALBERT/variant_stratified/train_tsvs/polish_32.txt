@@ -1,0 +1,16 @@
+polish_32	Even	O
+polish_32	though	O
+polish_32	Kielce	O
+polish_32	Corps	O
+polish_32	began	O
+polish_32	its	O
+polish_32	march	O
+polish_32	towards	O
+polish_32	Warsaw	O
+polish_32	it	O
+polish_32	did	O
+polish_32	not	O
+polish_32	reach	O
+polish_32	the	O
+polish_32	Polish	polish_geo
+polish_32	capital	O

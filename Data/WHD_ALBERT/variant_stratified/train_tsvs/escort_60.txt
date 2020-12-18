@@ -1,0 +1,17 @@
+escort_60	After	O
+escort_60	commissioning	O
+escort_60	and	O
+escort_60	sea	O
+escort_60	trials	O
+escort_60	Loch	O
+escort_60	Insh	O
+escort_60	joined	O
+escort_60	the	O
+escort_60	19th	O
+escort_60	Escort	escort_nou
+escort_60	Group	O
+escort_60	at	O
+escort_60	Liverpool	O
+escort_60	in	O
+escort_60	November	O
+escort_60	1944	O

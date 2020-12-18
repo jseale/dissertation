@@ -1,0 +1,13 @@
+suspect_11	Bellaire	O
+suspect_11	High	O
+suspect_11	School	O
+suspect_11	stabbing	O
+suspect_11	suspect	suspect_adj-nou
+suspect_11	gets	O
+suspect_11	plea	O
+suspect_11	deal	O
+suspect_11	KHOU-TV.com	O
+suspect_11	March	O
+suspect_11	16	O
+suspect_11	2006Spivak	O
+suspect_11	Todd	O

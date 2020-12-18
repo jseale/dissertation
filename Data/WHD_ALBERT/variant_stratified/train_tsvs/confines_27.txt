@@ -1,0 +1,17 @@
+confines_27	Local	O
+confines_27	citizens	O
+confines_27	continued	O
+confines_27	to	O
+confines_27	be	O
+confines_27	buried	O
+confines_27	on	O
+confines_27	the	O
+confines_27	site	O
+confines_27	within	O
+confines_27	the	O
+confines_27	confines	confines_nou
+confines_27	of	O
+confines_27	the	O
+confines_27	church	O
+confines_27	until	O
+confines_27	1865	O

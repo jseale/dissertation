@@ -1,0 +1,13 @@
+frequent_75	Teng	O
+frequent_75	could	O
+frequent_75	not	O
+frequent_75	accept	O
+frequent_75	this	O
+frequent_75	and	O
+frequent_75	conflicts	O
+frequent_75	between	O
+frequent_75	him	O
+frequent_75	and	O
+frequent_75	Chiang	O
+frequent_75	were	O
+frequent_75	frequent	frequent_adj

@@ -1,0 +1,16 @@
+extract_64	This	O
+extract_64	means	O
+extract_64	that	O
+extract_64	birds	O
+extract_64	are	O
+extract_64	able	O
+extract_64	to	O
+extract_64	extract	extract_vrb
+extract_64	a	O
+extract_64	greater	O
+extract_64	concentration	O
+extract_64	of	O
+extract_64	oxygen	O
+extract_64	from	O
+extract_64	inhaled	O
+extract_64	air	O

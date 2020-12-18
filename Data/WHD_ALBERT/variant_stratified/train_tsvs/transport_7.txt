@@ -1,0 +1,13 @@
+transport_7	In	O
+transport_7	late	O
+transport_7	1944	O
+transport_7	and	O
+transport_7	1945	O
+transport_7	the	O
+transport_7	He	O
+transport_7	111	O
+transport_7	reverted	O
+transport_7	to	O
+transport_7	a	O
+transport_7	transport	transport_nou
+transport_7	role	O

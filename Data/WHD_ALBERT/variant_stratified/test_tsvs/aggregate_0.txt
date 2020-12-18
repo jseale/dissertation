@@ -1,0 +1,14 @@
+aggregate_0	If	O
+aggregate_0	equal	O
+aggregate_0	the	O
+aggregate_0	club	O
+aggregate_0	with	O
+aggregate_0	the	O
+aggregate_0	best	O
+aggregate_0	aggregate	aggregate_adj-nou
+aggregate_0	points	O
+aggregate_0	difference	O
+aggregate_0	from	O
+aggregate_0	the	O
+aggregate_0	pool	O
+aggregate_0	stage	O

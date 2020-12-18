@@ -1,0 +1,11 @@
+subordinate_66	Verbless	O
+subordinate_66	subordinate	subordinate_adj-nou
+subordinate_66	clauses	O
+subordinate_66	introduced	O
+subordinate_66	by	O
+subordinate_66	an	O
+subordinate_66	and	O
+subordinate_66	express	O
+subordinate_66	surprise	O
+subordinate_66	or	O
+subordinate_66	indignation	O

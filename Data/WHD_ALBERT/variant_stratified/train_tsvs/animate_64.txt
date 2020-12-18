@@ -1,0 +1,13 @@
+animate_64	Moander	O
+animate_64	the	O
+animate_64	Darkbringer	O
+animate_64	god	O
+animate_64	of	O
+animate_64	decay	O
+animate_64	provided	O
+animate_64	the	O
+animate_64	life	O
+animate_64	force	O
+animate_64	to	O
+animate_64	animate	animate_vrb
+animate_64	Alias	O

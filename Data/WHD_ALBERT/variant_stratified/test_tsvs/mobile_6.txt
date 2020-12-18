@@ -1,0 +1,17 @@
+mobile_6	Officers	O
+mobile_6	wear	O
+mobile_6	a	O
+mobile_6	navy	O
+mobile_6	peaked	O
+mobile_6	cap	O
+mobile_6	with	O
+mobile_6	the	O
+mobile_6	force	O
+mobile_6	's	O
+mobile_6	cap	O
+mobile_6	badge	O
+mobile_6	attached	O
+mobile_6	when	O
+mobile_6	on	O
+mobile_6	mobile	mobile
+mobile_6	patrol	O

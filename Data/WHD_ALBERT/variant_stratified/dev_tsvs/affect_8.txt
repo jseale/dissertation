@@ -1,0 +1,12 @@
+affect_8	The	O
+affect_8	definition	O
+affect_8	of	O
+affect_8	harm	O
+affect_8	includes	O
+affect_8	changes	O
+affect_8	in	O
+affect_8	habitat	O
+affect_8	that	O
+affect_8	affect	affect
+affect_8	endangered	O
+affect_8	species	O

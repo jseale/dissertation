@@ -1,0 +1,10 @@
+refund_35	The	O
+refund_35	refund	refund_nou
+refund_35	was	O
+refund_35	about	O
+refund_35	$	O
+refund_35	5,000	O
+refund_35	for	O
+refund_35	all	O
+refund_35	20	O
+refund_35	workers	O

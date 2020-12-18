@@ -1,0 +1,13 @@
+refund_2	Frontier	O
+refund_2	received	O
+refund_2	over	O
+refund_2	30,000	O
+refund_2	refund	refund_nou
+refund_2	requests	O
+refund_2	for	O
+refund_2	canceled	O
+refund_2	flights	O
+refund_2	resulting	O
+refund_2	from	O
+refund_2	the	O
+refund_2	event	O

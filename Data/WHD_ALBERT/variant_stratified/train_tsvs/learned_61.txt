@@ -1,0 +1,13 @@
+learned_61	It	O
+learned_61	is	O
+learned_61	a	O
+learned_61	Learned	learned_vrb
+learned_61	society	O
+learned_61	member	O
+learned_61	of	O
+learned_61	the	O
+learned_61	UK	O
+learned_61	Academy	O
+learned_61	of	O
+learned_61	Social	O
+learned_61	Sciences	O

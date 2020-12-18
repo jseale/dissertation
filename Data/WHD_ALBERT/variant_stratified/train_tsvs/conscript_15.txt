@@ -1,0 +1,15 @@
+conscript_15	Conscript	conscript_nou
+conscript_15	musicians	O
+conscript_15	are	O
+conscript_15	accepted	O
+conscript_15	on	O
+conscript_15	the	O
+conscript_15	basis	O
+conscript_15	of	O
+conscript_15	auditions	O
+conscript_15	arranged	O
+conscript_15	by	O
+conscript_15	the	O
+conscript_15	Military	O
+conscript_15	Music	O
+conscript_15	School	O

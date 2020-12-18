@@ -1,0 +1,12 @@
+export_56	In	O
+export_56	addition	O
+export_56	scarcity	O
+export_56	in	O
+export_56	the	O
+export_56	global	O
+export_56	economy	O
+export_56	complicated	O
+export_56	import	O
+export_56	and	O
+export_56	export	export_nou
+export_56	activity	O

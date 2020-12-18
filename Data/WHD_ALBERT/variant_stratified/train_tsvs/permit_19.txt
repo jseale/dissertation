@@ -1,0 +1,15 @@
+permit_19	The	O
+permit_19	Federal	O
+permit_19	Communications	O
+permit_19	Commission	O
+permit_19	issued	O
+permit_19	a	O
+permit_19	construction	O
+permit_19	permit	permit_nou
+permit_19	for	O
+permit_19	the	O
+permit_19	station	O
+permit_19	on	O
+permit_19	June	O
+permit_19	18	O
+permit_19	2003	O

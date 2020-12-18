@@ -1,0 +1,14 @@
+present_73	The	O
+present_73	programming	O
+present_73	characteristics	O
+present_73	of	O
+present_73	the	O
+present_73	Nintendo	O
+present_73	64	O
+present_73	present	present_vrb
+present_73	unique	O
+present_73	challenges	O
+present_73	with	O
+present_73	distinct	O
+present_73	potential	O
+present_73	advantages	O

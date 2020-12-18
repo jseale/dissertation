@@ -1,0 +1,17 @@
+implant_30	Those	O
+implant_30	who	O
+implant_30	received	O
+implant_30	cochlear	O
+implant_30	implant	implant_nou
+implant_30	stimulation	O
+implant_30	in	O
+implant_30	early	O
+implant_30	childhood	O
+implant_30	younger	O
+implant_30	than	O
+implant_30	3.5	O
+implant_30	years	O
+implant_30	had	O
+implant_30	normal	O
+implant_30	P1	O
+implant_30	latencies	O

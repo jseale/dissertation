@@ -1,0 +1,12 @@
+articulate_17	Potvin	O
+articulate_17	was	O
+articulate_17	known	O
+articulate_17	for	O
+articulate_17	being	O
+articulate_17	intelligent	O
+articulate_17	articulate	articulate_adj
+articulate_17	and	O
+articulate_17	outspoken	O
+articulate_17	off	O
+articulate_17	the	O
+articulate_17	ice	O

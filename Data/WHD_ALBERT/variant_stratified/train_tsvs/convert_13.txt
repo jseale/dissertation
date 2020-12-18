@@ -1,0 +1,12 @@
+convert_13	The	O
+convert_13	company	O
+convert_13	started	O
+convert_13	to	O
+convert_13	convert	convert_vrb
+convert_13	former	O
+convert_13	passenger	O
+convert_13	aircraft	O
+convert_13	into	O
+convert_13	freighters	O
+convert_13	in	O
+convert_13	1996	O

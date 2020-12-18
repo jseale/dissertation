@@ -1,0 +1,15 @@
+conscript_2	There	O
+conscript_2	were	O
+conscript_2	additionally	O
+conscript_2	567	O
+conscript_2	female	O
+conscript_2	volunteers	O
+conscript_2	in	O
+conscript_2	2010	O
+conscript_2	who	O
+conscript_2	pass	O
+conscript_2	training	O
+conscript_2	on	O
+conscript_2	conscript	conscript_nou
+conscript_2	like	O
+conscript_2	conditions	O

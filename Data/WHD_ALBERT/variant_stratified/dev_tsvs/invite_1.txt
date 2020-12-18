@@ -1,0 +1,17 @@
+invite_1	Chambers	O
+invite_1	did	O
+invite_1	not	O
+invite_1	impress	O
+invite_1	the	O
+invite_1	Eagles	O
+invite_1	personnel	O
+invite_1	enough	O
+invite_1	to	O
+invite_1	receive	O
+invite_1	an	O
+invite_1	invite	invite_nou
+invite_1	to	O
+invite_1	the	O
+invite_1	Eagles	O
+invite_1	mini	O
+invite_1	camp	O

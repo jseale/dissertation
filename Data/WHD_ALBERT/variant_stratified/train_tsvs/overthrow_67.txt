@@ -1,0 +1,17 @@
+overthrow_67	Chen	O
+overthrow_67	Jitang	O
+overthrow_67	and	O
+overthrow_67	Li	O
+overthrow_67	Zongren	O
+overthrow_67	conspired	O
+overthrow_67	to	O
+overthrow_67	overthrow	overthrow_vrb
+overthrow_67	Chiang	O
+overthrow_67	but	O
+overthrow_67	were	O
+overthrow_67	politically	O
+overthrow_67	outmaneuvered	O
+overthrow_67	by	O
+overthrow_67	bribes	O
+overthrow_67	and	O
+overthrow_67	defections	O

@@ -1,0 +1,10 @@
+separate_60	The	O
+separate_60	two	O
+separate_60	countries	O
+separate_60	remained	O
+separate_60	separate	separate_adj
+separate_60	despite	O
+separate_60	sharing	O
+separate_60	a	O
+separate_60	common	O
+separate_60	monarch	O

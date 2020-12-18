@@ -1,0 +1,17 @@
+axes_13	Taking	O
+axes_13	into	O
+axes_13	account	O
+axes_13	these	O
+axes_13	four	O
+axes_13	axes	axes_nou
+axes_13	Champagne	O
+axes_13	has	O
+axes_13	outlined	O
+axes_13	11	O
+axes_13	concrete	O
+axes_13	proposals	O
+axes_13	in	O
+axes_13	order	O
+axes_13	to	O
+axes_13	reform	O
+axes_13	FIFA	O

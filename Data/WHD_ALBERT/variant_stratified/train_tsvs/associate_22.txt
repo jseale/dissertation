@@ -1,0 +1,15 @@
+associate_22	He	O
+associate_22	was	O
+associate_22	Associate	associate_adj-nou
+associate_22	Professor	O
+associate_22	at	O
+associate_22	the	O
+associate_22	Ohio	O
+associate_22	University	O
+associate_22	School	O
+associate_22	of	O
+associate_22	Art	O
+associate_22	from	O
+associate_22	1957	O
+associate_22	until	O
+associate_22	2014	O

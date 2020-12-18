@@ -1,0 +1,17 @@
+increment_5	The	O
+increment_5	City	O
+increment_5	of	O
+increment_5	Houston	O
+increment_5	planned	O
+increment_5	a	O
+increment_5	Tax	O
+increment_5	Increment	increment_nou
+increment_5	Reinvestment	O
+increment_5	Zone	O
+increment_5	TIRZ	O
+increment_5	placing	O
+increment_5	the	O
+increment_5	Rice	O
+increment_5	within	O
+increment_5	its	O
+increment_5	boundaries	O

@@ -1,0 +1,17 @@
+tear_10	Significantly	O
+tear_10	improved	O
+tear_10	scores	O
+tear_10	in	O
+tear_10	ocular	O
+tear_10	discharge	O
+tear_10	conjunctival	O
+tear_10	hyperaemia	O
+tear_10	corneal	O
+tear_10	changes	O
+tear_10	and	O
+tear_10	Schirmer	O
+tear_10	tear	tear_nou
+tear_10	tests	O
+tear_10	STT	O
+tear_10	were	O
+tear_10	seen	O

@@ -1,0 +1,16 @@
+compress_74	In	O
+compress_74	2007	O
+compress_74	Compress	compress_nou
+compress_74	Technologies	O
+compress_74	Inc.	O
+compress_74	announced	O
+compress_74	on	O
+compress_74	their	O
+compress_74	web	O
+compress_74	site	O
+compress_74	that	O
+compress_74	they	O
+compress_74	had	O
+compress_74	acquired	O
+compress_74	VMSK	O
+compress_74	Technology	O

@@ -1,0 +1,17 @@
+compress_29	Efforts	O
+compress_29	to	O
+compress_29	compress	compress
+compress_29	the	O
+compress_29	uterus	O
+compress_29	using	O
+compress_29	the	O
+compress_29	hands	O
+compress_29	may	O
+compress_29	be	O
+compress_29	effective	O
+compress_29	if	O
+compress_29	other	O
+compress_29	treatments	O
+compress_29	do	O
+compress_29	not	O
+compress_29	work	O

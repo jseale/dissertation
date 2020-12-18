@@ -1,0 +1,8 @@
+excuse_22	There	O
+excuse_22	is	O
+excuse_22	no	O
+excuse_22	excuse	excuse_nou
+excuse_22	for	O
+excuse_22	what	O
+excuse_22	I	O
+excuse_22	did	O

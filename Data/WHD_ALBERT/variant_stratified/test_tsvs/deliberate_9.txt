@@ -1,0 +1,16 @@
+deliberate_9	Afterwards	O
+deliberate_9	Ricki	O
+deliberate_9	La	O
+deliberate_9	La	O
+deliberate_9	and	O
+deliberate_9	Stryker	O
+deliberate_9	deliberate	deliberate_vrb
+deliberate_9	which	O
+deliberate_9	girls	O
+deliberate_9	will	O
+deliberate_9	be	O
+deliberate_9	on	O
+deliberate_9	the	O
+deliberate_9	Dean	O
+deliberate_9	's	O
+deliberate_9	List	O

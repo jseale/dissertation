@@ -1,0 +1,16 @@
+bass_51	The	O
+bass_51	guitars	O
+bass_51	bass	bass
+bass_51	and	O
+bass_51	drums	O
+bass_51	gradually	O
+bass_51	fade	O
+bass_51	out	O
+bass_51	leaving	O
+bass_51	only	O
+bass_51	the	O
+bass_51	repeated	O
+bass_51	violin	O
+bass_51	and	O
+bass_51	cello	O
+bass_51	motif	O

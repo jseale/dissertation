@@ -1,0 +1,16 @@
+diagnoses_59	They	O
+diagnoses_59	can	O
+diagnoses_59	show	O
+diagnoses_59	the	O
+diagnoses_59	cortical	O
+diagnoses_59	destruction	O
+diagnoses_59	of	O
+diagnoses_59	advanced	O
+diagnoses_59	osteomyelitis	O
+diagnoses_59	but	O
+diagnoses_59	can	O
+diagnoses_59	miss	O
+diagnoses_59	nascent	O
+diagnoses_59	or	O
+diagnoses_59	indolent	O
+diagnoses_59	diagnoses	diagnoses_nou

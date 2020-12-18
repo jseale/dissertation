@@ -1,0 +1,17 @@
+initiate_9	When	O
+initiate_9	there	O
+initiate_9	is	O
+initiate_9	an	O
+initiate_9	interaction	O
+initiate_9	between	O
+initiate_9	the	O
+initiate_9	two	O
+initiate_9	the	O
+initiate_9	infant	O
+initiate_9	would	O
+initiate_9	be	O
+initiate_9	the	O
+initiate_9	one	O
+initiate_9	to	O
+initiate_9	initiate	initiate_vrb
+initiate_9	it	O

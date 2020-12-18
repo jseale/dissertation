@@ -1,0 +1,14 @@
+separate_8	There	O
+separate_8	is	O
+separate_8	a	O
+separate_8	high	O
+separate_8	school	O
+separate_8	for	O
+separate_8	girls	O
+separate_8	and	O
+separate_8	a	O
+separate_8	separate	separate_adj
+separate_8	high	O
+separate_8	school	O
+separate_8	for	O
+separate_8	boys	O

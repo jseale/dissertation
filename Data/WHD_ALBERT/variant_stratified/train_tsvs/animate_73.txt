@@ -1,0 +1,14 @@
+animate_73	Dave	O
+animate_73	Feiten	O
+animate_73	was	O
+animate_73	then	O
+animate_73	brought	O
+animate_73	in	O
+animate_73	to	O
+animate_73	animate	animate_vrb
+animate_73	and	O
+animate_73	fix	O
+animate_73	story	O
+animate_73	and	O
+animate_73	staging	O
+animate_73	problems	O

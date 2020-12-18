@@ -1,0 +1,12 @@
+conflict_63	One	O
+conflict_63	hundred	O
+conflict_63	and	O
+conflict_63	thirty	O
+conflict_63	three	O
+conflict_63	international	O
+conflict_63	players	O
+conflict_63	were	O
+conflict_63	killed	O
+conflict_63	during	O
+conflict_63	the	O
+conflict_63	conflict	conflict_nou

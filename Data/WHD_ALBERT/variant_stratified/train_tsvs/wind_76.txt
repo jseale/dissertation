@@ -1,0 +1,14 @@
+wind_76	This	O
+wind_76	Fund	O
+wind_76	is	O
+wind_76	now	O
+wind_76	in	O
+wind_76	wind	wind_vrb
+wind_76	down	O
+wind_76	mode	O
+wind_76	and	O
+wind_76	capital	O
+wind_76	being	O
+wind_76	returned	O
+wind_76	to	O
+wind_76	investors	O

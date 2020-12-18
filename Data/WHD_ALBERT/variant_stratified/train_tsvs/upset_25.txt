@@ -1,0 +1,11 @@
+upset_25	The	O
+upset_25	play	O
+upset_25	proved	O
+upset_25	vital	O
+upset_25	in	O
+upset_25	Tennessee	O
+upset_25	's	O
+upset_25	upset	upset_nou
+upset_25	of	O
+upset_25	South	O
+upset_25	Carolina	O

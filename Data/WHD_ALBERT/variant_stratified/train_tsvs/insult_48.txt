@@ -1,0 +1,8 @@
+insult_48	His	O
+insult_48	insult	insult_nou
+insult_48	angered	O
+insult_48	several	O
+insult_48	Mexicans	O
+insult_48	charging	O
+insult_48	on	O
+insult_48	horseback	O

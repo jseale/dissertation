@@ -1,0 +1,14 @@
+implant_9	After	O
+implant_9	insemination	O
+implant_9	the	O
+implant_9	blastocyst	O
+implant_9	does	O
+implant_9	not	O
+implant_9	implant	implant_vrb
+implant_9	into	O
+implant_9	the	O
+implant_9	uterine	O
+implant_9	wall	O
+implant_9	of	O
+implant_9	the	O
+implant_9	female	O

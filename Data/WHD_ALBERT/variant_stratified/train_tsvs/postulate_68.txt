@@ -1,0 +1,7 @@
+postulate_68	Sociological	O
+postulate_68	theories	O
+postulate_68	postulate	postulate_vrb
+postulate_68	relationships	O
+postulate_68	between	O
+postulate_68	sociological	O
+postulate_68	concepts	O

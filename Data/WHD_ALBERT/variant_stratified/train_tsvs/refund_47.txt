@@ -1,0 +1,17 @@
+refund_47	To	O
+refund_47	resolve	O
+refund_47	the	O
+refund_47	matter	O
+refund_47	the	O
+refund_47	concessionaires	O
+refund_47	were	O
+refund_47	given	O
+refund_47	a	O
+refund_47	fractional	O
+refund_47	refund	refund_nou
+refund_47	of	O
+refund_47	the	O
+refund_47	rent	O
+refund_47	they	O
+refund_47	had	O
+refund_47	paid	O

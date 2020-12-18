@@ -1,0 +1,16 @@
+bow_40	Tamandaré	O
+bow_40	received	O
+bow_40	three	O
+bow_40	shots	O
+bow_40	in	O
+bow_40	her	O
+bow_40	bow	bow_nou-ship
+bow_40	and	O
+bow_40	was	O
+bow_40	making	O
+bow_40	6	O
+bow_40	inches	O
+bow_40	of	O
+bow_40	water	O
+bow_40	per	O
+bow_40	hour	O

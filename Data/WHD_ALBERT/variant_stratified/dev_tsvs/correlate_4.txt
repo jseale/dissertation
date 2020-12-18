@@ -1,0 +1,11 @@
+correlate_4	The	O
+correlate_4	responses	O
+correlate_4	correlate	correlate_nou-vrb
+correlate_4	to	O
+correlate_4	guilt	O
+correlate_4	shame	O
+correlate_4	externalization	O
+correlate_4	of	O
+correlate_4	blame	O
+correlate_4	and	O
+correlate_4	detachment	O

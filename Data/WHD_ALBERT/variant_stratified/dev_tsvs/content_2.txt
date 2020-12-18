@@ -1,0 +1,11 @@
+content_2	CAM	O
+content_2	is	O
+content_2	a	O
+content_2	product	O
+content_2	of	O
+content_2	the	O
+content_2	OASIS	O
+content_2	Content	content_nou
+content_2	Assembly	O
+content_2	Technical	O
+content_2	Committee	O

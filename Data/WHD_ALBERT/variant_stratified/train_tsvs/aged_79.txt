@@ -1,0 +1,17 @@
+aged_79	Como	O
+aged_79	appearing	O
+aged_79	aged	aged_adj
+aged_79	and	O
+aged_79	unwell	O
+aged_79	had	O
+aged_79	the	O
+aged_79	flu	O
+aged_79	during	O
+aged_79	the	O
+aged_79	show	O
+aged_79	which	O
+aged_79	took	O
+aged_79	four	O
+aged_79	hours	O
+aged_79	to	O
+aged_79	record	O

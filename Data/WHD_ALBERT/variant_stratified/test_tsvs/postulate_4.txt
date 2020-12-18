@@ -1,0 +1,15 @@
+postulate_4	Eventually	O
+postulate_4	it	O
+postulate_4	was	O
+postulate_4	realized	O
+postulate_4	that	O
+postulate_4	this	O
+postulate_4	postulate	postulate_nou
+postulate_4	may	O
+postulate_4	not	O
+postulate_4	be	O
+postulate_4	provable	O
+postulate_4	from	O
+postulate_4	the	O
+postulate_4	other	O
+postulate_4	four	O

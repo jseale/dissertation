@@ -1,0 +1,14 @@
+document_49	The	O
+document_49	document	document_nou
+document_49	included	O
+document_49	commentary	O
+document_49	about	O
+document_49	his	O
+document_49	reporting	O
+document_49	and	O
+document_49	interview	O
+document_49	style	O
+document_49	being	O
+document_49	tricky	O
+document_49	and	O
+document_49	sensational	O

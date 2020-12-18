@@ -1,0 +1,9 @@
+bass_68	Fish	O
+bass_68	included	O
+bass_68	sunfish	O
+bass_68	catfish	O
+bass_68	bigmouth	O
+bass_68	bass	bass_corp
+bass_68	and	O
+bass_68	black	O
+bass_68	bass	bass_corp

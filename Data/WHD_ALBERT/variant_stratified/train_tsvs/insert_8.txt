@@ -1,0 +1,15 @@
+insert_8	This	O
+insert_8	process	O
+insert_8	is	O
+insert_8	known	O
+insert_8	as	O
+insert_8	Insert	insert_nou
+insert_8	moulding	O
+insert_8	and	O
+insert_8	allows	O
+insert_8	single	O
+insert_8	parts	O
+insert_8	to	O
+insert_8	contain	O
+insert_8	multiple	O
+insert_8	materials	O

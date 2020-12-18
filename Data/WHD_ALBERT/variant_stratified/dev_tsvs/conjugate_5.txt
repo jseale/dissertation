@@ -1,0 +1,13 @@
+conjugate_5	The	O
+conjugate_5	intensity	O
+conjugate_5	of	O
+conjugate_5	the	O
+conjugate_5	beam	O
+conjugate_5	will	O
+conjugate_5	be	O
+conjugate_5	just	O
+conjugate_5	t	O
+conjugate_5	times	O
+conjugate_5	its	O
+conjugate_5	complex	O
+conjugate_5	conjugate	conjugate_adj-nou

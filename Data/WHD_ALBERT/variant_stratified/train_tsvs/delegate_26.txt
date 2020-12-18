@@ -1,0 +1,11 @@
+delegate_26	He	O
+delegate_26	was	O
+delegate_26	also	O
+delegate_26	a	O
+delegate_26	delegate	delegate_nou
+delegate_26	to	O
+delegate_26	the	O
+delegate_26	1924	O
+delegate_26	Republican	O
+delegate_26	National	O
+delegate_26	Convention	O

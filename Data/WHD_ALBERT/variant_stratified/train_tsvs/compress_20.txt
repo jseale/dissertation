@@ -1,0 +1,11 @@
+compress_20	The	O
+compress_20	very	O
+compress_20	first	O
+compress_20	internal	O
+compress_20	combustion	O
+compress_20	engines	O
+compress_20	did	O
+compress_20	not	O
+compress_20	compress	compress
+compress_20	the	O
+compress_20	mixture	O

@@ -1,0 +1,14 @@
+frequent_55	Ballinger	O
+frequent_55	was	O
+frequent_55	a	O
+frequent_55	frequent	frequent_adj
+frequent_55	writer	O
+frequent_55	for	O
+frequent_55	American	O
+frequent_55	television	O
+frequent_55	with	O
+frequent_55	150	O
+frequent_55	teleplays	O
+frequent_55	to	O
+frequent_55	his	O
+frequent_55	name	O

@@ -1,0 +1,12 @@
+import_57	They	O
+import_57	also	O
+import_57	released	O
+import_57	import	import_nou
+import_57	Eric	O
+import_57	Devendorf	O
+import_57	leaving	O
+import_57	them	O
+import_57	with	O
+import_57	only	O
+import_57	one	O
+import_57	import	import_nou

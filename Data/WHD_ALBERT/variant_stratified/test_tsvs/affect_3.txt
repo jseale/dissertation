@@ -1,0 +1,15 @@
+affect_3	Batteries	O
+affect_3	and	O
+affect_3	other	O
+affect_3	components	O
+affect_3	that	O
+affect_3	degrade	O
+affect_3	over	O
+affect_3	time	O
+affect_3	may	O
+affect_3	affect	affect
+affect_3	the	O
+affect_3	operation	O
+affect_3	of	O
+affect_3	a	O
+affect_3	product	O

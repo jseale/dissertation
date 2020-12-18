@@ -1,0 +1,14 @@
+duplicate_7	Narasimman	O
+duplicate_7	who	O
+duplicate_7	palns	O
+duplicate_7	to	O
+duplicate_7	rob	O
+duplicate_7	the	O
+duplicate_7	bank	O
+duplicate_7	locker	O
+duplicate_7	and	O
+duplicate_7	manages	O
+duplicate_7	to	O
+duplicate_7	get	O
+duplicate_7	duplicate	duplicate_adj-nou
+duplicate_7	key	O

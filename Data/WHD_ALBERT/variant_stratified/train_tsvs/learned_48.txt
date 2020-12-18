@@ -1,0 +1,14 @@
+learned_48	Kurnaz	O
+learned_48	learned	learned_vrb
+learned_48	two	O
+learned_48	others	O
+learned_48	were	O
+learned_48	removed	O
+learned_48	from	O
+learned_48	their	O
+learned_48	cages	O
+learned_48	dead	O
+learned_48	in	O
+learned_48	a	O
+learned_48	similar	O
+learned_48	state	O

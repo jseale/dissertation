@@ -1,0 +1,17 @@
+frequent_65	She	O
+frequent_65	displays	O
+frequent_65	a	O
+frequent_65	sarcastic	O
+frequent_65	sense	O
+frequent_65	of	O
+frequent_65	humor	O
+frequent_65	and	O
+frequent_65	is	O
+frequent_65	a	O
+frequent_65	frequent	frequent_adj
+frequent_65	source	O
+frequent_65	of	O
+frequent_65	biting	O
+frequent_65	witty	O
+frequent_65	one	O
+frequent_65	liners	O

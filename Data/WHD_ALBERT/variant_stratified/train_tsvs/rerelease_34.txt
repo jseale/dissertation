@@ -1,0 +1,12 @@
+rerelease_34	In	O
+rerelease_34	2002	O
+rerelease_34	the	O
+rerelease_34	film	O
+rerelease_34	had	O
+rerelease_34	a	O
+rerelease_34	very	O
+rerelease_34	limited	O
+rerelease_34	rerelease	rerelease
+rerelease_34	in	O
+rerelease_34	U.S.	O
+rerelease_34	theaters	O

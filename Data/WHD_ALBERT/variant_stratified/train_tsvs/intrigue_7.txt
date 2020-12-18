@@ -1,0 +1,14 @@
+intrigue_7	Light	O
+intrigue_7	or	O
+intrigue_7	no	O
+intrigue_7	armor	O
+intrigue_7	swashbuckling	O
+intrigue_7	and	O
+intrigue_7	courtly	O
+intrigue_7	intrigue	intrigue_nou
+intrigue_7	are	O
+intrigue_7	the	O
+intrigue_7	rule	O
+intrigue_7	of	O
+intrigue_7	the	O
+intrigue_7	day	O

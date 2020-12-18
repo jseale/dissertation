@@ -1,0 +1,16 @@
+advocate_38	He	O
+advocate_38	was	O
+advocate_38	also	O
+advocate_38	an	O
+advocate_38	early	O
+advocate_38	advocate	advocate_nou
+advocate_38	of	O
+advocate_38	the	O
+advocate_38	benefits	O
+advocate_38	of	O
+advocate_38	regularly	O
+advocate_38	drinking	O
+advocate_38	water	O
+advocate_38	throughout	O
+advocate_38	the	O
+advocate_38	day	O

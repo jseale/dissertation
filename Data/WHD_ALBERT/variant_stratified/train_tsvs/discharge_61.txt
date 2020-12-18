@@ -1,0 +1,10 @@
+discharge_61	The	O
+discharge_61	discharge	discharge_nou
+discharge_61	ranged	O
+discharge_61	from	O
+discharge_61	261.22	O
+discharge_61	to	O
+discharge_61	16,553.21	O
+discharge_61	gallons	O
+discharge_61	per	O
+discharge_61	minute	O

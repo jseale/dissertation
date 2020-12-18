@@ -1,0 +1,16 @@
+expose_55	This	O
+expose_55	act	O
+expose_55	can	O
+expose_55	expose	expose_vrb
+expose_55	the	O
+expose_55	consumer	O
+expose_55	to	O
+expose_55	toxic	O
+expose_55	substances	O
+expose_55	and	O
+expose_55	parasites	O
+expose_55	found	O
+expose_55	in	O
+expose_55	the	O
+expose_55	ingested	O
+expose_55	earth	O

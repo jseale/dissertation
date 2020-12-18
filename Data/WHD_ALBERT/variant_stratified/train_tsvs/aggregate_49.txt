@@ -1,0 +1,15 @@
+aggregate_49	In	O
+aggregate_49	the	O
+aggregate_49	play	O
+aggregate_49	off	O
+aggregate_49	round	O
+aggregate_49	Levski	O
+aggregate_49	was	O
+aggregate_49	eliminated	O
+aggregate_49	by	O
+aggregate_49	Debreceni	O
+aggregate_49	VSC	O
+aggregate_49	with	O
+aggregate_49	4:1	O
+aggregate_49	on	O
+aggregate_49	aggregate	aggregate_adj-nou

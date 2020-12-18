@@ -1,0 +1,13 @@
+initiate_48	The	O
+initiate_48	receptor	O
+initiate_48	complex	O
+initiate_48	for	O
+initiate_48	IL-10	O
+initiate_48	also	O
+initiate_48	requires	O
+initiate_48	the	O
+initiate_48	IL10R2	O
+initiate_48	chain	O
+initiate_48	to	O
+initiate_48	initiate	initiate_vrb
+initiate_48	signalling	O

@@ -1,0 +1,11 @@
+decrease_7	The	O
+decrease_7	Rivulettes	O
+decrease_7	success	O
+decrease_7	caused	O
+decrease_7	the	O
+decrease_7	number	O
+decrease_7	of	O
+decrease_7	member	O
+decrease_7	teams	O
+decrease_7	to	O
+decrease_7	decrease	decrease_vrb

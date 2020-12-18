@@ -1,0 +1,14 @@
+rerelease_65	There	O
+rerelease_65	was	O
+rerelease_65	a	O
+rerelease_65	rerelease	rerelease
+rerelease_65	of	O
+rerelease_65	the	O
+rerelease_65	album	O
+rerelease_65	by	O
+rerelease_65	Revolver	O
+rerelease_65	USA	O
+rerelease_65	on	O
+rerelease_65	September	O
+rerelease_65	25	O
+rerelease_65	2000	O

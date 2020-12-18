@@ -1,0 +1,12 @@
+aggregate_3	Instead	O
+aggregate_3	it	O
+aggregate_3	shows	O
+aggregate_3	the	O
+aggregate_3	aggregate	aggregate_adj-nou
+aggregate_3	amount	O
+aggregate_3	of	O
+aggregate_3	capital	O
+aggregate_3	contributed	O
+aggregate_3	by	O
+aggregate_3	all	O
+aggregate_3	investors	O

@@ -1,0 +1,12 @@
+decrease_66	Precipitation	O
+decrease_66	is	O
+decrease_66	estimated	O
+decrease_66	to	O
+decrease_66	continue	O
+decrease_66	to	O
+decrease_66	decrease	decrease_vrb
+decrease_66	over	O
+decrease_66	the	O
+decrease_66	next	O
+decrease_66	50	O
+decrease_66	years	O

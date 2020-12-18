@@ -1,0 +1,14 @@
+associate_58	In	O
+associate_58	1930	O
+associate_58	he	O
+associate_58	was	O
+associate_58	appointed	O
+associate_58	as	O
+associate_58	an	O
+associate_58	associate	associate_adj-nou
+associate_58	to	O
+associate_58	Justice	O
+associate_58	Robert	O
+associate_58	Douglas	O
+associate_58	in	O
+associate_58	Townsville	O

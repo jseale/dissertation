@@ -1,0 +1,17 @@
+discount_9	King	O
+discount_9	also	O
+discount_9	did	O
+discount_9	the	O
+discount_9	ads	O
+discount_9	for	O
+discount_9	the	O
+discount_9	Book	O
+discount_9	Warehouse	O
+discount_9	chain	O
+discount_9	of	O
+discount_9	discount	discount_nou
+discount_9	book	O
+discount_9	stores	O
+discount_9	which	O
+discount_9	he	O
+discount_9	owned	O

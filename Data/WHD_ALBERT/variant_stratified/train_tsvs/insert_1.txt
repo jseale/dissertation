@@ -1,0 +1,16 @@
+insert_1	The	O
+insert_1	insert	insert_nou
+insert_1	previews	O
+insert_1	began	O
+insert_1	with	O
+insert_1	The	O
+insert_1	New	O
+insert_1	Teen	O
+insert_1	Titans	O
+insert_1	in	O
+insert_1	DC	O
+insert_1	Comics	O
+insert_1	Presents	O
+insert_1	26	O
+insert_1	Oct.	O
+insert_1	1980	O

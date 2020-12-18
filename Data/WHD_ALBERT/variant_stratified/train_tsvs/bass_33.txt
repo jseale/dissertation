@@ -1,0 +1,9 @@
+bass_33	Formally	O
+bass_33	Siddharta	O
+bass_33	continued	O
+bass_33	their	O
+bass_33	work	O
+bass_33	without	O
+bass_33	a	O
+bass_33	bass	bass
+bass_33	player	O

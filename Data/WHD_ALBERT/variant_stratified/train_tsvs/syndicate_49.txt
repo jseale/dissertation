@@ -1,0 +1,9 @@
+syndicate_49	Dundurn	O
+syndicate_49	Park	O
+syndicate_49	predates	O
+syndicate_49	the	O
+syndicate_49	syndicate	syndicate_nou
+syndicate_49	and	O
+syndicate_49	the	O
+syndicate_49	other	O
+syndicate_49	subdivisions	O

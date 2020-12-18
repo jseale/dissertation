@@ -1,0 +1,17 @@
+diffuse_27	Gamma	O
+diffuse_27	rays	O
+diffuse_27	cause	O
+diffuse_27	damage	O
+diffuse_27	at	O
+diffuse_27	a	O
+diffuse_27	cellular	O
+diffuse_27	level	O
+diffuse_27	and	O
+diffuse_27	are	O
+diffuse_27	penetrating	O
+diffuse_27	causing	O
+diffuse_27	diffuse	diffuse_adj
+diffuse_27	damage	O
+diffuse_27	throughout	O
+diffuse_27	the	O
+diffuse_27	body	O

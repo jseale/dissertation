@@ -1,0 +1,17 @@
+present_15	Not	O
+present_15	until	O
+present_15	1977	O
+present_15	did	O
+present_15	the	O
+present_15	Village	O
+present_15	Council	O
+present_15	find	O
+present_15	a	O
+present_15	permanent	O
+present_15	home	O
+present_15	in	O
+present_15	the	O
+present_15	present	present_adj-nou
+present_15	Village	O
+present_15	Hall	O
+present_15	complex	O

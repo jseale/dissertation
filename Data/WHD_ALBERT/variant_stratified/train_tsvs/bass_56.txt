@@ -1,0 +1,8 @@
+bass_56	The	O
+bass_56	search	O
+bass_56	for	O
+bass_56	a	O
+bass_56	new	O
+bass_56	bass	bass
+bass_56	player	O
+bass_56	continued	O

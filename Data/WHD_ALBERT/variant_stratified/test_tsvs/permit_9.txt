@@ -1,0 +1,13 @@
+permit_9	The	O
+permit_9	SEQRP	O
+permit_9	2009	O
+permit_9	does	O
+permit_9	not	O
+permit_9	permit	permit_vrb
+permit_9	urban	O
+permit_9	development	O
+permit_9	outside	O
+permit_9	of	O
+permit_9	the	O
+permit_9	Urban	O
+permit_9	Footprint	O

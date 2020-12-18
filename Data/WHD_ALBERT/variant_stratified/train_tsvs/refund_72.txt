@@ -1,0 +1,15 @@
+refund_72	As	O
+refund_72	of	O
+refund_72	April	O
+refund_72	2	O
+refund_72	2008	O
+refund_72	customer	O
+refund_72	support	O
+refund_72	states	O
+refund_72	We	O
+refund_72	do	O
+refund_72	not	O
+refund_72	refund	refund_vrb
+refund_72	quick	O
+refund_72	checkout	O
+refund_72	balances	O

@@ -1,0 +1,12 @@
+contest_4	This	O
+contest_4	win	O
+contest_4	qualified	O
+contest_4	Girard	O
+contest_4	for	O
+contest_4	the	O
+contest_4	2008	O
+contest_4	Canada	O
+contest_4	's	O
+contest_4	Strongest	O
+contest_4	Man	O
+contest_4	contest	contest_nou

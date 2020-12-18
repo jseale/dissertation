@@ -1,0 +1,13 @@
+degenerate_69	As	O
+degenerate_69	the	O
+degenerate_69	older	O
+degenerate_69	chondrocytes	O
+degenerate_69	degenerate	degenerate_vrb
+degenerate_69	osteoblasts	O
+degenerate_69	ossify	O
+degenerate_69	the	O
+degenerate_69	remains	O
+degenerate_69	to	O
+degenerate_69	form	O
+degenerate_69	new	O
+degenerate_69	bone	O

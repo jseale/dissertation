@@ -1,0 +1,10 @@
+coordinate_79	It	O
+coordinate_79	helped	O
+coordinate_79	establish	O
+coordinate_79	conservation	O
+coordinate_79	areas	O
+coordinate_79	and	O
+coordinate_79	coordinate	coordinate_vrb
+coordinate_79	Heritage	O
+coordinate_79	Open	O
+coordinate_79	Days	O

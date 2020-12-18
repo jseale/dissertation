@@ -1,0 +1,12 @@
+implant_71	True	O
+implant_71	leg	O
+implant_71	length	O
+implant_71	inequality	O
+implant_71	may	O
+implant_71	sometimes	O
+implant_71	be	O
+implant_71	caused	O
+implant_71	by	O
+implant_71	improper	O
+implant_71	implant	implant_nou
+implant_71	selection	O

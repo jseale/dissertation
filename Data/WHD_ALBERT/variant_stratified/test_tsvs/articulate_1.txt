@@ -1,0 +1,16 @@
+articulate_1	The	O
+articulate_1	mausoleum	O
+articulate_1	of	O
+articulate_1	Colon	O
+articulate_1	published	O
+articulate_1	in	O
+articulate_1	the	O
+articulate_1	Diary	O
+articulate_1	The	O
+articulate_1	Future	O
+articulate_1	in	O
+articulate_1	Seville	O
+articulate_1	1898	O
+articulate_1	it	O
+articulate_1	journalistic	O
+articulate_1	articulate	articulate_adj

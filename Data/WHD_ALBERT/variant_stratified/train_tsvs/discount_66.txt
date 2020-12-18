@@ -1,0 +1,12 @@
+discount_66	Discount	discount_nou
+discount_66	pricing	O
+discount_66	is	O
+discount_66	where	O
+discount_66	the	O
+discount_66	marketer	O
+discount_66	or	O
+discount_66	retailer	O
+discount_66	offers	O
+discount_66	a	O
+discount_66	reduced	O
+discount_66	price	O

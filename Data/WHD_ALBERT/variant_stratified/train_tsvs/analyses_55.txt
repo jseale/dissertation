@@ -1,0 +1,17 @@
+analyses_55	According	O
+analyses_55	to	O
+analyses_55	recent	O
+analyses_55	genetic	O
+analyses_55	analyses	analyses_nou
+analyses_55	the	O
+analyses_55	genus	O
+analyses_55	Catananche	O
+analyses_55	is	O
+analyses_55	related	O
+analyses_55	to	O
+analyses_55	the	O
+analyses_55	genera	O
+analyses_55	Hymenonema	O
+analyses_55	Scolymus	O
+analyses_55	and	O
+analyses_55	Gundelia	O

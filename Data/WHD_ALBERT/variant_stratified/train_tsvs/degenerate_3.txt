@@ -1,0 +1,15 @@
+degenerate_3	Frequently	O
+degenerate_3	degenerate	degenerate_adj-nou
+degenerate_3	cases	O
+degenerate_3	correspond	O
+degenerate_3	to	O
+degenerate_3	singularities	O
+degenerate_3	either	O
+degenerate_3	in	O
+degenerate_3	the	O
+degenerate_3	object	O
+degenerate_3	or	O
+degenerate_3	in	O
+degenerate_3	some	O
+degenerate_3	configuration	O
+degenerate_3	space	O

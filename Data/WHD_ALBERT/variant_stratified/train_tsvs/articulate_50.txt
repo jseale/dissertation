@@ -1,0 +1,16 @@
+articulate_50	Within	O
+articulate_50	a	O
+articulate_50	few	O
+articulate_50	years	O
+articulate_50	Alan	O
+articulate_50	Cooper	O
+articulate_50	had	O
+articulate_50	begun	O
+articulate_50	to	O
+articulate_50	articulate	articulate_vrb
+articulate_50	some	O
+articulate_50	of	O
+articulate_50	his	O
+articulate_50	basic	O
+articulate_50	design	O
+articulate_50	principles	O

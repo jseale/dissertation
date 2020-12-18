@@ -1,0 +1,12 @@
+estimate_42	The	O
+estimate_42	population	O
+estimate_42	of	O
+estimate_42	the	O
+estimate_42	district	O
+estimate_42	according	O
+estimate_42	to	O
+estimate_42	a	O
+estimate_42	2011	O
+estimate_42	estimate	estimate_nou
+estimate_42	was	O
+estimate_42	1,176,969	O

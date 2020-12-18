@@ -1,0 +1,12 @@
+reading_67	He	O
+reading_67	has	O
+reading_67	played	O
+reading_67	club	O
+reading_67	hockey	O
+reading_67	for	O
+reading_67	Holcombe	O
+reading_67	Royal	O
+reading_67	Racing	O
+reading_67	Club	O
+reading_67	and	O
+reading_67	Reading	reading_geo

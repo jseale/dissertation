@@ -1,0 +1,11 @@
+content_6	The	O
+content_6	sequencing	O
+content_6	of	O
+content_6	content	content_nou
+content_6	in	O
+content_6	a	O
+content_6	broadcast	O
+content_6	is	O
+content_6	called	O
+content_6	a	O
+content_6	schedule	O

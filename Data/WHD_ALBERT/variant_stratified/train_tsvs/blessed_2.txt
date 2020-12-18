@@ -1,0 +1,13 @@
+blessed_2	Blessed	blessed_adj
+blessed_2	Joachim	O
+blessed_2	Piccolomini	O
+blessed_2	was	O
+blessed_2	beatified	O
+blessed_2	by	O
+blessed_2	Pope	O
+blessed_2	Paul	O
+blessed_2	V	O
+blessed_2	on	O
+blessed_2	21	O
+blessed_2	March	O
+blessed_2	1609	O

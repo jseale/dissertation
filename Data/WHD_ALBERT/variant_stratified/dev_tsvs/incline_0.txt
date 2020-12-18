@@ -1,0 +1,16 @@
+incline_0	Eventually	O
+incline_0	it	O
+incline_0	was	O
+incline_0	decided	O
+incline_0	that	O
+incline_0	the	O
+incline_0	incline	incline_nou
+incline_0	could	O
+incline_0	be	O
+incline_0	worked	O
+incline_0	by	O
+incline_0	a	O
+incline_0	system	O
+incline_0	of	O
+incline_0	banking	O
+incline_0	engines	O

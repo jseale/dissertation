@@ -1,0 +1,17 @@
+use_71	Because	O
+use_71	the	O
+use_71	shore	O
+use_71	and	O
+use_71	breakwater	O
+use_71	are	O
+use_71	disconnected	O
+use_71	it	O
+use_71	is	O
+use_71	necessary	O
+use_71	to	O
+use_71	use	use_vrb
+use_71	a	O
+use_71	boat	O
+use_71	to	O
+use_71	reach	O
+use_71	it	O

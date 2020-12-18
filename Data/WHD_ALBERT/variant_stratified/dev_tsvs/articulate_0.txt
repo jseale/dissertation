@@ -1,0 +1,17 @@
+articulate_0	The	O
+articulate_0	always	O
+articulate_0	articulate	articulate_adj
+articulate_0	Katie	O
+articulate_0	from	O
+articulate_0	Brisbane	O
+articulate_0	went	O
+articulate_0	for	O
+articulate_0	a	O
+articulate_0	cheaper	O
+articulate_0	option	O
+articulate_0	and	O
+articulate_0	whipped	O
+articulate_0	up	O
+articulate_0	some	O
+articulate_0	steak	O
+articulate_0	fajitas	O

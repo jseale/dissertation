@@ -1,0 +1,15 @@
+recount_37	Coleman	O
+recount_37	declared	O
+recount_37	himself	O
+recount_37	the	O
+recount_37	victor	O
+recount_37	and	O
+recount_37	suggested	O
+recount_37	that	O
+recount_37	Franken	O
+recount_37	waive	O
+recount_37	his	O
+recount_37	right	O
+recount_37	to	O
+recount_37	a	O
+recount_37	recount	recount_nou

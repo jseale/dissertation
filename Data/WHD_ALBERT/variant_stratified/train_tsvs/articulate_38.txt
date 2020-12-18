@@ -1,0 +1,15 @@
+articulate_38	The	O
+articulate_38	project	O
+articulate_38	Art	O
+articulate_38	in	O
+articulate_38	the	O
+articulate_38	Factory	O
+articulate_38	aims	O
+articulate_38	to	O
+articulate_38	articulate	articulate_vrb
+articulate_38	the	O
+articulate_38	most	O
+articulate_38	diverse	O
+articulate_38	workspaces	O
+articulate_38	through	O
+articulate_38	art	O

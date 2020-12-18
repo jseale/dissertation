@@ -1,0 +1,15 @@
+impact_49	According	O
+impact_49	to	O
+impact_49	Carey	O
+impact_49	the	O
+impact_49	video	O
+impact_49	for	O
+impact_49	Why	O
+impact_49	Me	O
+impact_49	made	O
+impact_49	a	O
+impact_49	slight	O
+impact_49	impact	impact_nou
+impact_49	on	O
+impact_49	early	O
+impact_49	MTV	O

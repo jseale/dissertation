@@ -1,0 +1,17 @@
+increment_56	During	O
+increment_56	his	O
+increment_56	term	O
+increment_56	in	O
+increment_56	2006	O
+increment_56	the	O
+increment_56	city	O
+increment_56	's	O
+increment_56	Tax	O
+increment_56	Increment	increment_nou
+increment_56	Reinvestment	O
+increment_56	Zone	O
+increment_56	for	O
+increment_56	downtown	O
+increment_56	Amarillo	O
+increment_56	was	O
+increment_56	created	O

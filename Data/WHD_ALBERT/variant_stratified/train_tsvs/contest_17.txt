@@ -1,0 +1,15 @@
+contest_17	In	O
+contest_17	2001	O
+contest_17	and	O
+contest_17	2002	O
+contest_17	Chai	O
+contest_17	won	O
+contest_17	honorable	O
+contest_17	mention	O
+contest_17	in	O
+contest_17	the	O
+contest_17	Stony	O
+contest_17	Brook	O
+contest_17	Short	O
+contest_17	fiction	O
+contest_17	contest	contest_nou

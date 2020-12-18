@@ -1,0 +1,12 @@
+associate_50	His	O
+associate_50	tombstone	O
+associate_50	reads	O
+associate_50	Associate	associate_adj-nou
+associate_50	and	O
+associate_50	Member	O
+associate_50	of	O
+associate_50	the	O
+associate_50	Institute	O
+associate_50	of	O
+associate_50	Civil	O
+associate_50	Engineers	O

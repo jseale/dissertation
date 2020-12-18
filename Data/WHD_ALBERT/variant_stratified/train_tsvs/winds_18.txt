@@ -1,0 +1,15 @@
+winds_18	As	O
+winds_18	the	O
+winds_18	hurricane	O
+winds_18	passed	O
+winds_18	offshore	O
+winds_18	winds	winds_nou
+winds_18	reached	O
+winds_18	60	O
+winds_18	mph	O
+winds_18	97	O
+winds_18	km	O
+winds_18	h	O
+winds_18	near	O
+winds_18	Tampa	O
+winds_18	Bay	O

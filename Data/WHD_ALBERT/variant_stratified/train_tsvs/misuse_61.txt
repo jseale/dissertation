@@ -1,0 +1,13 @@
+misuse_61	Matsui	O
+misuse_61	supports	O
+misuse_61	firearms	O
+misuse_61	manufacturers	O
+misuse_61	being	O
+misuse_61	held	O
+misuse_61	responsible	O
+misuse_61	for	O
+misuse_61	product	O
+misuse_61	misuse	misuse_nou
+misuse_61	cases	O
+misuse_61	and	O
+misuse_61	lawsuits	O

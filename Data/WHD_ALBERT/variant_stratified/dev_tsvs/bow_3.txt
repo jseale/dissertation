@@ -1,0 +1,15 @@
+bow_3	Each	O
+bow_3	target	O
+bow_3	with	O
+bow_3	an	O
+bow_3	arrow	O
+bow_3	in	O
+bow_3	the	O
+bow_3	center	O
+bow_3	and	O
+bow_3	a	O
+bow_3	little	O
+bow_3	boy	O
+bow_3	with	O
+bow_3	a	O
+bow_3	bow	bow_nou-knot

@@ -1,0 +1,10 @@
+affect_7	It	O
+affect_7	is	O
+affect_7	known	O
+affect_7	to	O
+affect_7	affect	affect
+affect_7	mainly	O
+affect_7	tea	O
+affect_7	plants	O
+affect_7	Thea	O
+affect_7	genus	O

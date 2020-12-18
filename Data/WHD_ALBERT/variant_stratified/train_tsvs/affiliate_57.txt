@@ -1,0 +1,12 @@
+affiliate_57	VSHL	O
+affiliate_57	is	O
+affiliate_57	the	O
+affiliate_57	Virginia	O
+affiliate_57	affiliate	affiliate_nou
+affiliate_57	of	O
+affiliate_57	the	O
+affiliate_57	National	O
+affiliate_57	Right	O
+affiliate_57	to	O
+affiliate_57	Life	O
+affiliate_57	Committee	O

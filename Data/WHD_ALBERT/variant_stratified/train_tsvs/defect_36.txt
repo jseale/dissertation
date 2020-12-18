@@ -1,0 +1,17 @@
+defect_36	The	O
+defect_36	aforementioned	O
+defect_36	defect	defect_nou
+defect_36	was	O
+defect_36	not	O
+defect_36	a	O
+defect_36	hindrance	O
+defect_36	with	O
+defect_36	the	O
+defect_36	class	O
+defect_36	leading	O
+defect_36	an	O
+defect_36	admirable	O
+defect_36	career	O
+defect_36	on	O
+defect_36	secondary	O
+defect_36	routes	O

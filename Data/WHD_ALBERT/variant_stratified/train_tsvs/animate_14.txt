@@ -1,0 +1,13 @@
+animate_14	Every	O
+animate_14	noun	O
+animate_14	in	O
+animate_14	Unami	O
+animate_14	and	O
+animate_14	Munsee	O
+animate_14	is	O
+animate_14	categorized	O
+animate_14	as	O
+animate_14	either	O
+animate_14	animate	animate_adj-nou
+animate_14	or	O
+animate_14	inanimate	O

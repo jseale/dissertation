@@ -1,0 +1,8 @@
+rodeo_6	It	O
+rodeo_6	also	O
+rodeo_6	hosts	O
+rodeo_6	the	O
+rodeo_6	National	O
+rodeo_6	Finals	O
+rodeo_6	Rodeo	rodeo
+rodeo_6	annually	O

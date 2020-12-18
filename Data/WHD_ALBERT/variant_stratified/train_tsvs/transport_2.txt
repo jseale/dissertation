@@ -1,0 +1,13 @@
+transport_2	These	O
+transport_2	neighbourhoods	O
+transport_2	are	O
+transport_2	accessible	O
+transport_2	by	O
+transport_2	public	O
+transport_2	transport	transport_nou
+transport_2	especially	O
+transport_2	by	O
+transport_2	Mass	O
+transport_2	Rapid	O
+transport_2	Transit	O
+transport_2	MRT	O

@@ -1,0 +1,17 @@
+protest_51	On	O
+protest_51	12	O
+protest_51	February	O
+protest_51	1989	O
+protest_51	a	O
+protest_51	10,000-strong	O
+protest_51	protest	protest_nou
+protest_51	against	O
+protest_51	Rushdie	O
+protest_51	and	O
+protest_51	the	O
+protest_51	book	O
+protest_51	took	O
+protest_51	place	O
+protest_51	in	O
+protest_51	Islamabad	O
+protest_51	Pakistan	O

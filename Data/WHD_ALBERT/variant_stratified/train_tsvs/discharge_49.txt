@@ -1,0 +1,12 @@
+discharge_49	By	O
+discharge_49	the	O
+discharge_49	time	O
+discharge_49	of	O
+discharge_49	his	O
+discharge_49	discharge	discharge_nou
+discharge_49	he	O
+discharge_49	had	O
+discharge_49	been	O
+discharge_49	promoted	O
+discharge_49	to	O
+discharge_49	Major	O

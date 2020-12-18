@@ -1,0 +1,16 @@
+implant_62	Wolffe	O
+implant_62	is	O
+implant_62	distinguished	O
+implant_62	by	O
+implant_62	a	O
+implant_62	scar	O
+implant_62	running	O
+implant_62	through	O
+implant_62	his	O
+implant_62	eye	O
+implant_62	and	O
+implant_62	a	O
+implant_62	silver	O
+implant_62	cybernetic	O
+implant_62	eye	O
+implant_62	implant	implant_nou

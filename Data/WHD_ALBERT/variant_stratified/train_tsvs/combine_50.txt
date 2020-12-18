@@ -1,0 +1,13 @@
+combine_50	The	O
+combine_50	German	O
+combine_50	Heereswaffenamt	O
+combine_50	decided	O
+combine_50	to	O
+combine_50	combine	combine_vrb
+combine_50	light	O
+combine_50	anti	O
+combine_50	aircraft	O
+combine_50	guns	O
+combine_50	with	O
+combine_50	tank	O
+combine_50	chassis	O

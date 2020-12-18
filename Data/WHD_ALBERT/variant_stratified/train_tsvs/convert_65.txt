@@ -1,0 +1,17 @@
+convert_65	The	O
+convert_65	hang	O
+convert_65	glider	O
+convert_65	wing	O
+convert_65	can	O
+convert_65	be	O
+convert_65	replaced	O
+convert_65	with	O
+convert_65	a	O
+convert_65	paraglider	O
+convert_65	wing	O
+convert_65	and	O
+convert_65	requires	O
+convert_65	ten	O
+convert_65	minutes	O
+convert_65	to	O
+convert_65	convert	convert_vrb

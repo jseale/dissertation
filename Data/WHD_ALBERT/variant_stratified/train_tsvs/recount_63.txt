@@ -1,0 +1,17 @@
+recount_63	About	O
+recount_63	two	O
+recount_63	years	O
+recount_63	after	O
+recount_63	the	O
+recount_63	war	O
+recount_63	Aanenson	O
+recount_63	met	O
+recount_63	a	O
+recount_63	new	O
+recount_63	neighbor	O
+recount_63	who	O
+recount_63	started	O
+recount_63	to	O
+recount_63	recount	recount_vrb
+recount_63	the	O
+recount_63	story	O

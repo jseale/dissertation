@@ -1,0 +1,15 @@
+transform_6	Like	O
+transform_6	Dante	O
+transform_6	she	O
+transform_6	can	O
+transform_6	Devil	O
+transform_6	Trigger	O
+transform_6	transform	transform
+transform_6	into	O
+transform_6	a	O
+transform_6	harpy	O
+transform_6	a	O
+transform_6	birdlike	O
+transform_6	demon	O
+transform_6	of	O
+transform_6	light	O

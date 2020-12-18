@@ -1,0 +1,11 @@
+implant_2	The	O
+implant_2	implant	implant_nou
+implant_2	consists	O
+implant_2	of	O
+implant_2	60	O
+implant_2	electrodes	O
+implant_2	each	O
+implant_2	200	O
+implant_2	microns	O
+implant_2	in	O
+implant_2	diameter	O

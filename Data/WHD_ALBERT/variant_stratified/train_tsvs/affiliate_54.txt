@@ -1,0 +1,14 @@
+affiliate_54	It	O
+affiliate_54	is	O
+affiliate_54	the	O
+affiliate_54	Puerto	O
+affiliate_54	Rico	O
+affiliate_54	affiliate	affiliate_nou
+affiliate_54	of	O
+affiliate_54	the	O
+affiliate_54	national	O
+affiliate_54	Republican	O
+affiliate_54	Party	O
+affiliate_54	of	O
+affiliate_54	United	O
+affiliate_54	States	O

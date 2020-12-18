@@ -1,0 +1,12 @@
+conflict_9	The	O
+conflict_9	British	O
+conflict_9	Empire	O
+conflict_9	including	O
+conflict_9	Nova	O
+conflict_9	Scotia	O
+conflict_9	declared	O
+conflict_9	itself	O
+conflict_9	neutral	O
+conflict_9	in	O
+conflict_9	the	O
+conflict_9	conflict	conflict_nou

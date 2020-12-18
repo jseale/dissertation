@@ -1,0 +1,15 @@
+postulate_4	The	O
+postulate_4	segment	O
+postulate_4	addition	O
+postulate_4	postulate	postulate_nou
+postulate_4	is	O
+postulate_4	often	O
+postulate_4	useful	O
+postulate_4	in	O
+postulate_4	proving	O
+postulate_4	results	O
+postulate_4	on	O
+postulate_4	the	O
+postulate_4	congruence	O
+postulate_4	of	O
+postulate_4	segments	O

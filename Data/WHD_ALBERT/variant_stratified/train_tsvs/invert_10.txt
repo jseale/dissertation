@@ -1,0 +1,14 @@
+invert_10	Commercially	O
+invert_10	invert	invert_adj-nou
+invert_10	sugar	O
+invert_10	is	O
+invert_10	prepared	O
+invert_10	as	O
+invert_10	a	O
+invert_10	syrup	O
+invert_10	of	O
+invert_10	about	O
+invert_10	70	O
+invert_10	soluble	O
+invert_10	solids	O
+invert_10	concentration	O

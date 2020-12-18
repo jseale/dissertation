@@ -1,0 +1,15 @@
+rebel_41	Portrait	O
+rebel_41	of	O
+rebel_41	an	O
+rebel_41	American	O
+rebel_41	Rebel	rebel_nou
+rebel_41	became	O
+rebel_41	a	O
+rebel_41	best	O
+rebel_41	seller	O
+rebel_41	and	O
+rebel_41	has	O
+rebel_41	gone	O
+rebel_41	into	O
+rebel_41	four	O
+rebel_41	printings	O

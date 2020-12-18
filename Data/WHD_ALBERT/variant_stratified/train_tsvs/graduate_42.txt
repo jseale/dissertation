@@ -1,0 +1,17 @@
+graduate_42	Vaidas	O
+graduate_42	Sakalauskas	O
+graduate_42	is	O
+graduate_42	a	O
+graduate_42	graduate	graduate_adj-nou
+graduate_42	of	O
+graduate_42	the	O
+graduate_42	Faculty	O
+graduate_42	of	O
+graduate_42	History	O
+graduate_42	of	O
+graduate_42	the	O
+graduate_42	Vilnius	O
+graduate_42	Pedagogical	O
+graduate_42	University	O
+graduate_42	in	O
+graduate_42	1994	O

@@ -1,0 +1,8 @@
+close_61	NXP	O
+close_61	Semiconductors	O
+close_61	And	O
+close_61	Freescale	O
+close_61	Semiconductor	O
+close_61	Close	close_adj-nou
+close_61	Merger	O
+close_61	RTTNews	O

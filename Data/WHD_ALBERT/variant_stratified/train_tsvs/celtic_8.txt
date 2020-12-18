@@ -1,0 +1,11 @@
+celtic_8	The	O
+celtic_8	Heuneburg	O
+celtic_8	settlement	O
+celtic_8	reflects	O
+celtic_8	important	O
+celtic_8	sociopolitical	O
+celtic_8	developments	O
+celtic_8	in	O
+celtic_8	early	O
+celtic_8	Celtic	celtic
+celtic_8	Europe	O

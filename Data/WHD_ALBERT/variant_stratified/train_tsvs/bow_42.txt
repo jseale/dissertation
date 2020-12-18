@@ -1,0 +1,9 @@
+bow_42	At	O
+bow_42	bow	bow_nou-ship
+bow_42	and	O
+bow_42	stern	O
+bow_42	it	O
+bow_42	was	O
+bow_42	six	O
+bow_42	inches	O
+bow_42	thick	O

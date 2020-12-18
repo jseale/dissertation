@@ -1,0 +1,16 @@
+invert_0	The	O
+invert_0	first	O
+invert_0	duplicative	O
+invert_0	transposition	O
+invert_0	occurred	O
+invert_0	about	O
+invert_0	1.2mya	O
+invert_0	with	O
+invert_0	a	O
+invert_0	second	O
+invert_0	larger	O
+invert_0	genomic	O
+invert_0	sequence	O
+invert_0	invert	invert_adj-nou
+invert_0	occurring	O
+invert_0	880,000ya	O

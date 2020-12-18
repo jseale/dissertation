@@ -1,0 +1,16 @@
+use_76	In	O
+use_76	Maine	O
+use_76	fence	O
+use_76	views	O
+use_76	use	use_vrb
+use_76	their	O
+use_76	judgement	O
+use_76	to	O
+use_76	determine	O
+use_76	if	O
+use_76	a	O
+use_76	fence	O
+use_76	is	O
+use_76	legal	O
+use_76	and	O
+use_76	sufficient	O

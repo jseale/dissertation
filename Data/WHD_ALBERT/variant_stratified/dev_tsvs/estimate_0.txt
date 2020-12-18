@@ -1,0 +1,16 @@
+estimate_0	Bent	O
+estimate_0	's	O
+estimate_0	rule	O
+estimate_0	provides	O
+estimate_0	a	O
+estimate_0	qualitative	O
+estimate_0	estimate	estimate_nou
+estimate_0	as	O
+estimate_0	to	O
+estimate_0	how	O
+estimate_0	these	O
+estimate_0	hybridised	O
+estimate_0	orbitals	O
+estimate_0	should	O
+estimate_0	be	O
+estimate_0	constructed	O

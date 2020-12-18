@@ -1,0 +1,13 @@
+animate_41	The	O
+animate_41	late	O
+animate_41	release	O
+animate_41	was	O
+animate_41	due	O
+animate_41	to	O
+animate_41	the	O
+animate_41	decision	O
+animate_41	to	O
+animate_41	animate	animate_vrb
+animate_41	a	O
+animate_41	new	O
+animate_41	ending	O

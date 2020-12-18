@@ -1,0 +1,15 @@
+import_48	He	O
+import_48	bought	O
+import_48	a	O
+import_48	property	O
+import_48	in	O
+import_48	Bergen	O
+import_48	and	O
+import_48	established	O
+import_48	an	O
+import_48	import	import_nou
+import_48	business	O
+import_48	with	O
+import_48	emphasis	O
+import_48	on	O
+import_48	coffee	O

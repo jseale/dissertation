@@ -1,0 +1,11 @@
+frequent_10	He	O
+frequent_10	would	O
+frequent_10	frequent	frequent_vrb
+frequent_10	bars	O
+frequent_10	and	O
+frequent_10	strip	O
+frequent_10	clubs	O
+frequent_10	with	O
+frequent_10	the	O
+frequent_10	older	O
+frequent_10	players	O

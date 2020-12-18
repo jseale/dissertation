@@ -1,0 +1,17 @@
+attribute_33	The	O
+attribute_33	fly	O
+attribute_33	whisk	O
+attribute_33	is	O
+attribute_33	frequently	O
+attribute_33	seen	O
+attribute_33	as	O
+attribute_33	an	O
+attribute_33	attribute	attribute_nou
+attribute_33	of	O
+attribute_33	both	O
+attribute_33	Hindu	O
+attribute_33	Jainism	O
+attribute_33	Daoist	O
+attribute_33	and	O
+attribute_33	Buddhist	O
+attribute_33	deities	O

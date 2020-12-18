@@ -1,0 +1,13 @@
+construct_68	It	O
+construct_68	is	O
+construct_68	possible	O
+construct_68	to	O
+construct_68	construct	construct_vrb
+construct_68	languages	O
+construct_68	which	O
+construct_68	are	O
+construct_68	not	O
+construct_68	even	O
+construct_68	recursively	O
+construct_68	enumerable	O
+construct_68	however	O

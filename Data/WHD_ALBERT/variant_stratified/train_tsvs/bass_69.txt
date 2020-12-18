@@ -1,0 +1,9 @@
+bass_69	Anglers	O
+bass_69	also	O
+bass_69	fish	O
+bass_69	for	O
+bass_69	whitefish	O
+bass_69	largemouth	O
+bass_69	and	O
+bass_69	smallmouth	O
+bass_69	bass	bass_corp

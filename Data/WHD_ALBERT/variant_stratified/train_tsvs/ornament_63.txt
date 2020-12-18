@@ -1,0 +1,7 @@
+ornament_63	Therefore	O
+ornament_63	they	O
+ornament_63	invented	O
+ornament_63	tattoos	O
+ornament_63	as	O
+ornament_63	permanent	O
+ornament_63	ornament	ornament_nou

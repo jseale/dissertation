@@ -1,0 +1,10 @@
+lives_33	He	O
+lives_33	is	O
+lives_33	married	O
+lives_33	with	O
+lives_33	four	O
+lives_33	children	O
+lives_33	and	O
+lives_33	lives	lives_vrb
+lives_33	in	O
+lives_33	France	O

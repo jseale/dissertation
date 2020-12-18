@@ -1,0 +1,15 @@
+affiliate_3	He	O
+affiliate_3	was	O
+affiliate_3	also	O
+affiliate_3	a	O
+affiliate_3	reporter	O
+affiliate_3	for	O
+affiliate_3	WYTV	O
+affiliate_3	Channel	O
+affiliate_3	33	O
+affiliate_3	in	O
+affiliate_3	Youngstown	O
+affiliate_3	Ohio	O
+affiliate_3	an	O
+affiliate_3	ABC	O
+affiliate_3	affiliate	affiliate_nou

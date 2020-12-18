@@ -1,0 +1,14 @@
+decrease_29	The	O
+decrease_29	decrease	decrease_nou
+decrease_29	represents	O
+decrease_29	total	O
+decrease_29	change	O
+decrease_29	from	O
+decrease_29	the	O
+decrease_29	combined	O
+decrease_29	FY12	O
+decrease_29	budgets	O
+decrease_29	for	O
+decrease_29	both	O
+decrease_29	Cabinet	O
+decrease_29	Departments	O

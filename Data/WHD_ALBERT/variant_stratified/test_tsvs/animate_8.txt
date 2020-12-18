@@ -1,0 +1,10 @@
+animate_8	These	O
+animate_8	are	O
+animate_8	co	O
+animate_8	eternal	O
+animate_8	with	O
+animate_8	God	O
+animate_8	and	O
+animate_8	animate	animate_vrb
+animate_8	the	O
+animate_8	spirits	O

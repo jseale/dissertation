@@ -1,0 +1,14 @@
+rodeo_63	Alice	O
+rodeo_63	at	O
+rodeo_63	the	O
+rodeo_63	Rodeo	rodeo
+rodeo_63	February	O
+rodeo_63	21	O
+rodeo_63	1927	O
+rodeo_63	features	O
+rodeo_63	Alice	O
+rodeo_63	and	O
+rodeo_63	Julius	O
+rodeo_63	in	O
+rodeo_63	a	O
+rodeo_63	rodeo	rodeo

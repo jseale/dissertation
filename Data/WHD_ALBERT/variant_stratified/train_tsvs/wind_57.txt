@@ -1,0 +1,10 @@
+wind_57	The	O
+wind_57	wind	wind_nou
+wind_57	farm	O
+wind_57	has	O
+wind_57	36	O
+wind_57	Vestas	O
+wind_57	2	O
+wind_57	MW	O
+wind_57	wind	wind_nou
+wind_57	turbines	O

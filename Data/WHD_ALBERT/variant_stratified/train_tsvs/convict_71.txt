@@ -1,0 +1,12 @@
+convict_71	This	O
+convict_71	is	O
+convict_71	so	O
+convict_71	because	O
+convict_71	a	O
+convict_71	grand	O
+convict_71	jury	O
+convict_71	can	O
+convict_71	not	O
+convict_71	convict	convict_vrb
+convict_71	a	O
+convict_71	defendant	O

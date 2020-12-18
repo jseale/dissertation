@@ -1,0 +1,8 @@
+insert_2	The	O
+insert_2	insert	insert_nou
+insert_2	arrangements	O
+insert_2	are	O
+insert_2	provided	O
+insert_2	in	O
+insert_2	the	O
+insert_2	specification	O

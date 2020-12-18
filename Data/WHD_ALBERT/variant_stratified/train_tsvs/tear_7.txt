@@ -1,0 +1,17 @@
+tear_7	Riot	O
+tear_7	police	O
+tear_7	used	O
+tear_7	tear	tear_nou
+tear_7	gas	O
+tear_7	and	O
+tear_7	batons	O
+tear_7	against	O
+tear_7	the	O
+tear_7	protesters	O
+tear_7	who	O
+tear_7	in	O
+tear_7	turn	O
+tear_7	threw	O
+tear_7	stones	O
+tear_7	at	O
+tear_7	police	O

@@ -1,0 +1,12 @@
+delegate_43	He	O
+delegate_43	was	O
+delegate_43	a	O
+delegate_43	delegate	delegate_nou
+delegate_43	to	O
+delegate_43	the	O
+delegate_43	International	O
+delegate_43	Missionary	O
+delegate_43	Conference	O
+delegate_43	in	O
+delegate_43	Jerusalem	O
+delegate_43	1928	O

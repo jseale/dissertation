@@ -1,0 +1,16 @@
+produce_1	Plants	O
+produce_1	grow	O
+produce_1	from	O
+produce_1	egg	O
+produce_1	shaped	O
+produce_1	tubers	O
+produce_1	that	O
+produce_1	produce	produce_vrb
+produce_1	short	O
+produce_1	runners	O
+produce_1	and	O
+produce_1	a	O
+produce_1	basal	O
+produce_1	rosette	O
+produce_1	of	O
+produce_1	leaves	O

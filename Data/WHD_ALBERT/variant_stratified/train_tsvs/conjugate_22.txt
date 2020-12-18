@@ -1,0 +1,17 @@
+conjugate_22	In	O
+conjugate_22	the	O
+conjugate_22	form	O
+conjugate_22	of	O
+conjugate_22	its	O
+conjugate_22	conjugate	conjugate_adj-nou
+conjugate_22	base	O
+conjugate_22	called	O
+conjugate_22	lactate	O
+conjugate_22	it	O
+conjugate_22	plays	O
+conjugate_22	a	O
+conjugate_22	role	O
+conjugate_22	in	O
+conjugate_22	several	O
+conjugate_22	biochemical	O
+conjugate_22	processes	O

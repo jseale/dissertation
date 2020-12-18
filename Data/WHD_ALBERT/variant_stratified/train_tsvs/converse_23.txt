@@ -1,0 +1,8 @@
+converse_23	For	O
+converse_23	many	O
+converse_23	years	O
+converse_23	Converse	converse_adj-nou
+converse_23	served	O
+converse_23	as	O
+converse_23	its	O
+converse_23	president	O

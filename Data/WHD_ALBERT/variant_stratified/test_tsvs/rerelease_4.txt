@@ -1,0 +1,7 @@
+rerelease_4	An	O
+rerelease_4	abridged	O
+rerelease_4	1929	O
+rerelease_4	rerelease	rerelease
+rerelease_4	version	O
+rerelease_4	is	O
+rerelease_4	preserved	O

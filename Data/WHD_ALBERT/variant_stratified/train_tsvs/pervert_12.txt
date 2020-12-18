@@ -1,0 +1,16 @@
+pervert_12	She	O
+pervert_12	decides	O
+pervert_12	to	O
+pervert_12	sell	O
+pervert_12	bread	O
+pervert_12	and	O
+pervert_12	stumbled	O
+pervert_12	upon	O
+pervert_12	the	O
+pervert_12	city	O
+pervert_12	's	O
+pervert_12	general	O
+pervert_12	who	O
+pervert_12	is	O
+pervert_12	a	O
+pervert_12	pervert	pervert_nou

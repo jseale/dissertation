@@ -1,0 +1,10 @@
+delegate_18	Virginia	O
+delegate_18	House	O
+delegate_18	of	O
+delegate_18	Delegates	O
+delegate_18	Benjamin	O
+delegate_18	L.	O
+delegate_18	ClineBen	O
+delegate_18	Cline	O
+delegate_18	for	O
+delegate_18	Delegate	delegate_nou

@@ -1,0 +1,13 @@
+content_8	The	O
+content_8	Science	O
+content_8	exam	O
+content_8	included	O
+content_8	content	content_nou
+content_8	in	O
+content_8	science	O
+content_8	technology	O
+content_8	ecology	O
+content_8	and	O
+content_8	the	O
+content_8	environmental	O
+content_8	studies	O

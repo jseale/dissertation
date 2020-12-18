@@ -1,0 +1,8 @@
+initiate_42	The	O
+initiate_42	fraternity	O
+initiate_42	after	O
+initiate_42	debate	O
+initiate_42	declined	O
+initiate_42	to	O
+initiate_42	initiate	initiate_vrb
+initiate_42	her	O

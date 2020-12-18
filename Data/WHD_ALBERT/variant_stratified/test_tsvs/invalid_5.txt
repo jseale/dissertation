@@ -1,0 +1,9 @@
+invalid_5	S.	O
+invalid_5	muricatum	O
+invalid_5	is	O
+invalid_5	known	O
+invalid_5	by	O
+invalid_5	some	O
+invalid_5	now	O
+invalid_5	invalid	invalid_adj
+invalid_5	synonyms	O

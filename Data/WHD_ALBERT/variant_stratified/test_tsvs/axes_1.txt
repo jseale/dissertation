@@ -1,0 +1,17 @@
+axes_1	There	O
+axes_1	are	O
+axes_1	two	O
+axes_1	standard	O
+axes_1	projections	O
+axes_1	and	O
+axes_1	defined	O
+axes_1	by	O
+axes_1	and	O
+axes_1	that	O
+axes_1	map	O
+axes_1	the	O
+axes_1	curve	O
+axes_1	onto	O
+axes_1	the	O
+axes_1	coordinate	O
+axes_1	axes	axes_nou

@@ -1,0 +1,12 @@
+record_50	Lame	O
+record_50	O	O
+record_50	Records	O
+record_50	is	O
+record_50	an	O
+record_50	independent	O
+record_50	record	record_nou
+record_50	label	O
+record_50	based	O
+record_50	in	O
+record_50	Philadelphia	O
+record_50	Pennsylvania	O

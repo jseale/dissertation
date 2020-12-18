@@ -1,0 +1,17 @@
+rebel_51	He	O
+rebel_51	was	O
+rebel_51	present	O
+rebel_51	at	O
+rebel_51	the	O
+rebel_51	time	O
+rebel_51	of	O
+rebel_51	the	O
+rebel_51	uprising	O
+rebel_51	of	O
+rebel_51	the	O
+rebel_51	rebel	rebel_nou
+rebel_51	army	O
+rebel_51	on	O
+rebel_51	July	O
+rebel_51	18	O
+rebel_51	1936	O

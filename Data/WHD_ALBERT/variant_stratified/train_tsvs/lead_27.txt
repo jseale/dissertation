@@ -1,0 +1,16 @@
+lead_27	They	O
+lead_27	lead	lead_nou-vrb
+lead_27	to	O
+lead_27	a	O
+lead_27	reinforcing	O
+lead_27	pattern	O
+lead_27	in	O
+lead_27	which	O
+lead_27	industries	O
+lead_27	tip	O
+lead_27	towards	O
+lead_27	one	O
+lead_27	or	O
+lead_27	another	O
+lead_27	product	O
+lead_27	design	O

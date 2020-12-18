@@ -1,0 +1,16 @@
+tear_60	Perhaps	O
+tear_60	most	O
+tear_60	important	O
+tear_60	coldly	O
+tear_60	efficient	O
+tear_60	bombings	O
+tear_60	tear	tear_vrb
+tear_60	at	O
+tear_60	the	O
+tear_60	fabric	O
+tear_60	of	O
+tear_60	trust	O
+tear_60	that	O
+tear_60	holds	O
+tear_60	societies	O
+tear_60	together	O

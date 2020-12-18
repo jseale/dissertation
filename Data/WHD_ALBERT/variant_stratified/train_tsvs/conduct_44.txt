@@ -1,0 +1,10 @@
+conduct_44	We	O
+conduct_44	were	O
+conduct_44	in	O
+conduct_44	dense	O
+conduct_44	jungles	O
+conduct_44	to	O
+conduct_44	conduct	conduct_vrb
+conduct_44	shooting	O
+conduct_44	for	O
+conduct_44	Koothu	O

@@ -1,0 +1,14 @@
+insult_4	Proprioceptive	O
+insult_4	insult	insult_nou
+insult_4	hypothesis	O
+insult_4	focuses	O
+insult_4	on	O
+insult_4	articular	O
+insult_4	alterations	O
+insult_4	causing	O
+insult_4	hyperactivity	O
+insult_4	of	O
+insult_4	the	O
+insult_4	sensory	O
+insult_4	nerve	O
+insult_4	fibers	O

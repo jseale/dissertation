@@ -1,0 +1,17 @@
+wind_28	The	O
+wind_28	response	O
+wind_28	from	O
+wind_28	the	O
+wind_28	Lancastrian	O
+wind_28	archers	O
+wind_28	was	O
+wind_28	ineffective	O
+wind_28	as	O
+wind_28	the	O
+wind_28	heavy	O
+wind_28	wind	wind_nou
+wind_28	blew	O
+wind_28	snow	O
+wind_28	in	O
+wind_28	their	O
+wind_28	faces	O

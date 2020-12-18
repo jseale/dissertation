@@ -1,0 +1,16 @@
+estimate_31	The	O
+estimate_31	author	O
+estimate_31	presents	O
+estimate_31	casualty	O
+estimate_31	figures	O
+estimate_31	from	O
+estimate_31	a	O
+estimate_31	wide	O
+estimate_31	variety	O
+estimate_31	of	O
+estimate_31	sources	O
+estimate_31	and	O
+estimate_31	provides	O
+estimate_31	his	O
+estimate_31	best	O
+estimate_31	estimate	estimate_nou

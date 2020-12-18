@@ -1,0 +1,8 @@
+approximate_42	An	O
+approximate_42	approximate	approximate_adj-nou
+approximate_42	chemical	O
+approximate_42	formula	O
+approximate_42	for	O
+approximate_42	beeswax	O
+approximate_42	is	O
+approximate_42	C₁₅H₃₁COOC₃₀H₆₁.	O

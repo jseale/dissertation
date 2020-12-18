@@ -1,0 +1,15 @@
+rodeo_22	In	O
+rodeo_22	1967	O
+rodeo_22	1968	O
+rodeo_22	he	O
+rodeo_22	finished	O
+rodeo_22	3rd	O
+rodeo_22	in	O
+rodeo_22	the	O
+rodeo_22	Professional	O
+rodeo_22	Rodeo	rodeo
+rodeo_22	Cowboys	O
+rodeo_22	Association	O
+rodeo_22	PRCA	O
+rodeo_22	World	O
+rodeo_22	Standings	O

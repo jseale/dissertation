@@ -1,0 +1,17 @@
+invert_28	The	O
+invert_28	fungus	O
+invert_28	growing	O
+invert_28	on	O
+invert_28	raw	O
+invert_28	sugar	O
+invert_28	can	O
+invert_28	also	O
+invert_28	invert	invert_vrb
+invert_28	sugar	O
+invert_28	which	O
+invert_28	reduces	O
+invert_28	sucrose	O
+invert_28	and	O
+invert_28	increases	O
+invert_28	invert	invert_vrb
+invert_28	content	O

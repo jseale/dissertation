@@ -1,0 +1,15 @@
+present_43	Bishop	O
+present_43	Dacus	O
+present_43	of	O
+present_43	Macedonia	O
+present_43	from	O
+present_43	Dardania	O
+present_43	was	O
+present_43	present	present_adj-nou
+present_43	at	O
+present_43	the	O
+present_43	First	O
+present_43	Council	O
+present_43	of	O
+present_43	Nicaea	O
+present_43	325	O

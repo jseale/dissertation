@@ -1,0 +1,8 @@
+blessed_64	It	O
+blessed_64	was	O
+blessed_64	blessed	blessed_vrb
+blessed_64	on	O
+blessed_64	the	O
+blessed_64	27th	O
+blessed_64	April	O
+blessed_64	1948	O

@@ -1,0 +1,16 @@
+compress_49	An	O
+compress_49	individual	O
+compress_49	can	O
+compress_49	choose	O
+compress_49	not	O
+compress_49	to	O
+compress_49	compress	compress
+compress_49	already	O
+compress_49	compressed	O
+compress_49	filenames	O
+compress_49	based	O
+compress_49	on	O
+compress_49	their	O
+compress_49	suffix	O
+compress_49	as	O
+compress_49	well	O

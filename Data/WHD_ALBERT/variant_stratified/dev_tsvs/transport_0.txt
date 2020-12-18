@@ -1,0 +1,14 @@
+transport_0	The	O
+transport_0	bombs	O
+transport_0	were	O
+transport_0	sent	O
+transport_0	to	O
+transport_0	All	O
+transport_0	Cargo	O
+transport_0	Transport	transport_nou
+transport_0	Inc.	O
+transport_0	Servicios	O
+transport_0	Especialados	O
+transport_0	and	O
+transport_0	Tiger	O
+transport_0	Garage	O

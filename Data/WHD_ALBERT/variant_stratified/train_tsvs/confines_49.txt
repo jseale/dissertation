@@ -1,0 +1,16 @@
+confines_49	These	O
+confines_49	offer	O
+confines_49	a	O
+confines_49	unique	O
+confines_49	semi	O
+confines_49	secluded	O
+confines_49	lakeside	O
+confines_49	camping	O
+confines_49	experience	O
+confines_49	within	O
+confines_49	the	O
+confines_49	confines	confines_nou
+confines_49	of	O
+confines_49	the	O
+confines_49	supervised	O
+confines_49	camp	O

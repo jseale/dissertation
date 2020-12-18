@@ -1,0 +1,14 @@
+recount_4	After	O
+recount_4	a	O
+recount_4	recount	recount_nou
+recount_4	Gingrich	O
+recount_4	prevailed	O
+recount_4	by	O
+recount_4	980	O
+recount_4	votes	O
+recount_4	with	O
+recount_4	a	O
+recount_4	51	O
+recount_4	to	O
+recount_4	49	O
+recount_4	result	O

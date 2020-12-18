@@ -1,0 +1,14 @@
+abuse_41	One	O
+abuse_41	commentator	O
+abuse_41	suggested	O
+abuse_41	it	O
+abuse_41	was	O
+abuse_41	part	O
+abuse_41	of	O
+abuse_41	a	O
+abuse_41	pattern	O
+abuse_41	of	O
+abuse_41	sexual	O
+abuse_41	abuse	abuse_nou
+abuse_41	of	O
+abuse_41	prisoners	O

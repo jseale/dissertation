@@ -1,0 +1,13 @@
+aged_45	He	O
+aged_45	died	O
+aged_45	aged	aged
+aged_45	57	O
+aged_45	on	O
+aged_45	11	O
+aged_45	December	O
+aged_45	1950	O
+aged_45	after	O
+aged_45	a	O
+aged_45	series	O
+aged_45	of	O
+aged_45	strokes	O

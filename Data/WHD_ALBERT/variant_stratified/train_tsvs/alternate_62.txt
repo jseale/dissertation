@@ -1,0 +1,16 @@
+alternate_62	The	O
+alternate_62	September	O
+alternate_62	sessions	O
+alternate_62	for	O
+alternate_62	I	O
+alternate_62	'm	O
+alternate_62	So	O
+alternate_62	Young	O
+alternate_62	and	O
+alternate_62	Dance	O
+alternate_62	Dance	O
+alternate_62	Dance	O
+alternate_62	were	O
+alternate_62	discarded	O
+alternate_62	alternate	alternate_adj-nou
+alternate_62	versions	O

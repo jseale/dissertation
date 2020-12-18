@@ -1,0 +1,14 @@
+lives_15	It	O
+lives_15	made	O
+lives_15	such	O
+lives_15	a	O
+lives_15	difference	O
+lives_15	in	O
+lives_15	the	O
+lives_15	lives	lives_nou
+lives_15	of	O
+lives_15	a	O
+lives_15	lot	O
+lives_15	of	O
+lives_15	those	O
+lives_15	children	O

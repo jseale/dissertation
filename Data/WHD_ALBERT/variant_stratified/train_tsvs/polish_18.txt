@@ -1,0 +1,13 @@
+polish_18	Among	O
+polish_18	the	O
+polish_18	major	O
+polish_18	formations	O
+polish_18	on	O
+polish_18	the	O
+polish_18	Polish	polish_geo
+polish_18	side	O
+polish_18	was	O
+polish_18	the	O
+polish_18	First	O
+polish_18	Polish	polish_geo
+polish_18	Army	O

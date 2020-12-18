@@ -1,0 +1,13 @@
+discard_2	This	O
+discard_2	feature	O
+discard_2	however	O
+discard_2	is	O
+discard_2	tenable	O
+discard_2	only	O
+discard_2	as	O
+discard_2	far	O
+discard_2	as	O
+discard_2	hard	O
+discard_2	determinists	O
+discard_2	discard	discard_vrb
+discard_2	responsibility	O

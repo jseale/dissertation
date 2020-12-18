@@ -1,0 +1,15 @@
+upset_71	Brode	O
+upset_71	said	O
+upset_71	that	O
+upset_71	two	O
+upset_71	years	O
+upset_71	later	O
+upset_71	rock	O
+upset_71	and	O
+upset_71	roll	O
+upset_71	would	O
+upset_71	similarly	O
+upset_71	upset	upset_vrb
+upset_71	the	O
+upset_71	American	O
+upset_71	nation	O

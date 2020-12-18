@@ -1,0 +1,14 @@
+frequent_1	He	O
+frequent_1	is	O
+frequent_1	also	O
+frequent_1	a	O
+frequent_1	frequent	frequent_adj
+frequent_1	commentator	O
+frequent_1	on	O
+frequent_1	Korean	O
+frequent_1	affairs	O
+frequent_1	on	O
+frequent_1	radio	O
+frequent_1	television	O
+frequent_1	and	O
+frequent_1	print	O

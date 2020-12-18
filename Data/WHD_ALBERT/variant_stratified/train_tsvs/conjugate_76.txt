@@ -1,0 +1,14 @@
+conjugate_76	The	O
+conjugate_76	two	O
+conjugate_76	cells	O
+conjugate_76	then	O
+conjugate_76	conjugate	conjugate_vrb
+conjugate_76	to	O
+conjugate_76	form	O
+conjugate_76	a	O
+conjugate_76	diploid	O
+conjugate_76	zygote	O
+conjugate_76	that	O
+conjugate_76	may	O
+conjugate_76	undergo	O
+conjugate_76	meiosis	O

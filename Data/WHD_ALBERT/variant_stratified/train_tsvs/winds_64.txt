@@ -1,0 +1,13 @@
+winds_64	Being	O
+winds_64	a	O
+winds_64	tropical	O
+winds_64	plant	O
+winds_64	it	O
+winds_64	is	O
+winds_64	not	O
+winds_64	suited	O
+winds_64	to	O
+winds_64	frost	O
+winds_64	and	O
+winds_64	cold	O
+winds_64	winds	winds_nou

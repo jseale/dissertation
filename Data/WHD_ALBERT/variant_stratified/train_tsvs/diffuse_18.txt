@@ -1,0 +1,15 @@
+diffuse_18	Areas	O
+diffuse_18	in	O
+diffuse_18	which	O
+diffuse_18	diffuse	diffuse_adj
+diffuse_18	knapweed	O
+diffuse_18	has	O
+diffuse_18	been	O
+diffuse_18	established	O
+diffuse_18	generally	O
+diffuse_18	are	O
+diffuse_18	plains	O
+diffuse_18	rangelands	O
+diffuse_18	or	O
+diffuse_18	forest	O
+diffuse_18	benchlands	O

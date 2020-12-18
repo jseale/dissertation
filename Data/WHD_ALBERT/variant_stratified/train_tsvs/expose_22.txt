@@ -1,0 +1,16 @@
+expose_22	The	O
+expose_22	large	O
+expose_22	windows	O
+expose_22	in	O
+expose_22	front	O
+expose_22	expose	expose_vrb
+expose_22	a	O
+expose_22	showroom	O
+expose_22	containing	O
+expose_22	historic	O
+expose_22	artifacts	O
+expose_22	including	O
+expose_22	the	O
+expose_22	famous	O
+expose_22	VETO	O
+expose_22	No	O

@@ -1,0 +1,10 @@
+fragment_37	In	O
+fragment_37	one	O
+fragment_37	fragment	fragment_nou
+fragment_37	someone	O
+fragment_37	encourages	O
+fragment_37	Waldere	O
+fragment_37	to	O
+fragment_37	go	O
+fragment_37	on	O
+fragment_37	fighting	O

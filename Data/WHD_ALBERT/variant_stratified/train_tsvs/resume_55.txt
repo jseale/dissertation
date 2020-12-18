@@ -1,0 +1,17 @@
+resume_55	Additionally	O
+resume_55	there	O
+resume_55	was	O
+resume_55	widespread	O
+resume_55	fear	O
+resume_55	in	O
+resume_55	the	O
+resume_55	country	O
+resume_55	that	O
+resume_55	Taylor	O
+resume_55	would	O
+resume_55	resume	resume_vrb
+resume_55	the	O
+resume_55	war	O
+resume_55	if	O
+resume_55	he	O
+resume_55	lost	O

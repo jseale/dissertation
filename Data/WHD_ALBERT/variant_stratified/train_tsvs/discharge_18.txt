@@ -1,0 +1,12 @@
+discharge_18	Upon	O
+discharge_18	discharge	discharge_nou
+discharge_18	he	O
+discharge_18	sought	O
+discharge_18	the	O
+discharge_18	office	O
+discharge_18	of	O
+discharge_18	Ohio	O
+discharge_18	Attorney	O
+discharge_18	General	O
+discharge_18	but	O
+discharge_18	lost	O

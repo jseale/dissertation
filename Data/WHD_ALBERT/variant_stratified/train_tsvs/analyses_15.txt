@@ -1,0 +1,14 @@
+analyses_15	We	O
+analyses_15	present	O
+analyses_15	some	O
+analyses_15	analyses	analyses_nou
+analyses_15	of	O
+analyses_15	his	O
+analyses_15	contributions	O
+analyses_15	as	O
+analyses_15	reviewed	O
+analyses_15	by	O
+analyses_15	others	O
+analyses_15	in	O
+analyses_15	academic	O
+analyses_15	journals	O

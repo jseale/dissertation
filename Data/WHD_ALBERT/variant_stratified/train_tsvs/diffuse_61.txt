@@ -1,0 +1,11 @@
+diffuse_61	The	O
+diffuse_61	sperm	O
+diffuse_61	and	O
+diffuse_61	ejaculatory	O
+diffuse_61	fluids	O
+diffuse_61	diffuse	diffuse_vrb
+diffuse_61	through	O
+diffuse_61	the	O
+diffuse_61	female	O
+diffuse_61	's	O
+diffuse_61	hemolymph	O

@@ -1,0 +1,17 @@
+minute_55	Commercial	O
+minute_55	breaks	O
+minute_55	occur	O
+minute_55	on	O
+minute_55	average	O
+minute_55	every	O
+minute_55	fifteen	O
+minute_55	minutes	O
+minute_55	news	O
+minute_55	reports	O
+minute_55	every	O
+minute_55	thirty	O
+minute_55	minutes	O
+minute_55	in	O
+minute_55	five	O
+minute_55	minute	minute
+minute_55	durations	O

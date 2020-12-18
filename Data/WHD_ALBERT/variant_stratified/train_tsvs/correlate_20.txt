@@ -1,0 +1,13 @@
+correlate_20	In	O
+correlate_20	some	O
+correlate_20	cases	O
+correlate_20	however	O
+correlate_20	early	O
+correlate_20	complete	O
+correlate_20	response	O
+correlate_20	does	O
+correlate_20	not	O
+correlate_20	correlate	correlate_nou-vrb
+correlate_20	with	O
+correlate_20	overall	O
+correlate_20	survival	O

@@ -1,0 +1,16 @@
+blessed_50	Pope	O
+blessed_50	Paul	O
+blessed_50	V	O
+blessed_50	declared	O
+blessed_50	him	O
+blessed_50	blessed	blessed_vrb
+blessed_50	in	O
+blessed_50	1609	O
+blessed_50	and	O
+blessed_50	Pope	O
+blessed_50	Benedict	O
+blessed_50	XIII	O
+blessed_50	canonized	O
+blessed_50	him	O
+blessed_50	in	O
+blessed_50	1726	O

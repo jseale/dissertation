@@ -1,0 +1,15 @@
+estimate_18	The	O
+estimate_18	Board	O
+estimate_18	of	O
+estimate_18	Estimate	estimate_nou
+estimate_18	meets	O
+estimate_18	every	O
+estimate_18	Tuesday	O
+estimate_18	after	O
+estimate_18	the	O
+estimate_18	city	O
+estimate_18	council	O
+estimate_18	's	O
+estimate_18	Wednesday	O
+estimate_18	legislative	O
+estimate_18	session	O

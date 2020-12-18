@@ -1,0 +1,17 @@
+convict_9	The	O
+convict_9	jury	O
+convict_9	took	O
+convict_9	less	O
+convict_9	than	O
+convict_9	a	O
+convict_9	day	O
+convict_9	to	O
+convict_9	convict	convict_vrb
+convict_9	Congressman	O
+convict_9	elect	O
+convict_9	Berger	O
+convict_9	and	O
+convict_9	his	O
+convict_9	four	O
+convict_9	remaining	O
+convict_9	codefendants	O

@@ -1,0 +1,8 @@
+document_19	The	O
+document_19	declassified	O
+document_19	document	document_nou
+document_19	can	O
+document_19	be	O
+document_19	seen	O
+document_19	on	O
+document_19	online	O

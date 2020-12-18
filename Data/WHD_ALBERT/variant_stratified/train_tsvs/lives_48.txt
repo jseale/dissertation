@@ -1,0 +1,17 @@
+lives_48	Simon	O
+lives_48	Coates	O
+lives_48	born	O
+lives_48	in	O
+lives_48	Sheffield	O
+lives_48	is	O
+lives_48	a	O
+lives_48	British	O
+lives_48	artist	O
+lives_48	curator	O
+lives_48	who	O
+lives_48	currently	O
+lives_48	lives	lives_vrb
+lives_48	and	O
+lives_48	works	O
+lives_48	in	O
+lives_48	Dubai	O

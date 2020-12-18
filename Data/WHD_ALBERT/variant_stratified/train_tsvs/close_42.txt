@@ -1,0 +1,13 @@
+close_42	The	O
+close_42	tendency	O
+close_42	is	O
+close_42	aggravated	O
+close_42	by	O
+close_42	objects	O
+close_42	close	close_adj-nou
+close_42	to	O
+close_42	the	O
+close_42	eye	O
+close_42	drawing	O
+close_42	focus	O
+close_42	closer	O

@@ -1,0 +1,7 @@
+uses_74	This	O
+uses_74	article	O
+uses_74	uses	uses_vrb
+uses_74	the	O
+uses_74	most	O
+uses_74	popular	O
+uses_74	divisions	O

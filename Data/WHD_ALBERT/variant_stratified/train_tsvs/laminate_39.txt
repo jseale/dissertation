@@ -1,0 +1,17 @@
+laminate_39	It	O
+laminate_39	increases	O
+laminate_39	manufacturability	O
+laminate_39	by	O
+laminate_39	minimizing	O
+laminate_39	ply	O
+laminate_39	drops	O
+laminate_39	identifying	O
+laminate_39	laminate	laminate_nou
+laminate_39	transition	O
+laminate_39	add	O
+laminate_39	drop	O
+laminate_39	boundaries	O
+laminate_39	and	O
+laminate_39	defining	O
+laminate_39	ply	O
+laminate_39	shapes	O

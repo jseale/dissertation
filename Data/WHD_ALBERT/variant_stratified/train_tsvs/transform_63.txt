@@ -1,0 +1,16 @@
+transform_63	In	O
+transform_63	defining	O
+transform_63	the	O
+transform_63	discrete	O
+transform_63	Zak	O
+transform_63	transform	transform_nou
+transform_63	the	O
+transform_63	input	O
+transform_63	function	O
+transform_63	is	O
+transform_63	a	O
+transform_63	function	O
+transform_63	of	O
+transform_63	an	O
+transform_63	integer	O
+transform_63	variable	O

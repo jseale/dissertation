@@ -1,0 +1,12 @@
+incline_6	These	O
+incline_6	inversions	O
+incline_6	can	O
+incline_6	include	O
+incline_6	vertical	O
+incline_6	loops	O
+incline_6	incline	incline_nou
+incline_6	loops	O
+incline_6	dive	O
+incline_6	loops	O
+incline_6	and	O
+incline_6	corkscrews	O

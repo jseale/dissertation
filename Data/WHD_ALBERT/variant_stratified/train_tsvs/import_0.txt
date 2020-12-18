@@ -1,0 +1,12 @@
+import_0	It	O
+import_0	was	O
+import_0	funded	O
+import_0	by	O
+import_0	the	O
+import_0	Export	O
+import_0	Import	import_nou
+import_0	Bank	O
+import_0	of	O
+import_0	the	O
+import_0	United	O
+import_0	States	O

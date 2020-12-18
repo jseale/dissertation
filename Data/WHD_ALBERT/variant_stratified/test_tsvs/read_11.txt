@@ -1,0 +1,16 @@
+read_11	Some	O
+read_11	skills	O
+read_11	can	O
+read_11	only	O
+read_11	be	O
+read_11	taken	O
+read_11	by	O
+read_11	certain	O
+read_11	classes	O
+read_11	such	O
+read_11	as	O
+read_11	Read	read_present
+read_11	Lips	O
+read_11	or	O
+read_11	Animal	O
+read_11	Empathy	O

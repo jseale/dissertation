@@ -1,0 +1,11 @@
+insert_3	Technograph	O
+insert_3	is	O
+insert_3	available	O
+insert_3	as	O
+insert_3	a	O
+insert_3	quarterly	O
+insert_3	insert	insert_nou
+insert_3	in	O
+insert_3	the	O
+insert_3	Daily	O
+insert_3	Illini	O

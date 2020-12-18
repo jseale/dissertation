@@ -1,0 +1,13 @@
+import_26	This	O
+import_26	law	O
+import_26	authorizes	O
+import_26	the	O
+import_26	Export	O
+import_26	Import	import_nou
+import_26	Bank	O
+import_26	of	O
+import_26	the	O
+import_26	United	O
+import_26	States	O
+import_26	through	O
+import_26	2019	O

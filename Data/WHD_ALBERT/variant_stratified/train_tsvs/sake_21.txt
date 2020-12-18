@@ -1,0 +1,16 @@
+sake_21	The	O
+sake_21	gloves	O
+sake_21	are	O
+sake_21	off	O
+sake_21	in	O
+sake_21	songs	O
+sake_21	such	O
+sake_21	as	O
+sake_21	Cut	O
+sake_21	Me	O
+sake_21	Loose	O
+sake_21	For	O
+sake_21	Goodness	O
+sake_21	Sake	sake
+sake_21	and	O
+sake_21	Solo	O

@@ -1,0 +1,17 @@
+blessed_2	Betz	O
+blessed_2	notes	O
+blessed_2	that	O
+blessed_2	in	O
+blessed_2	Jesus	O
+blessed_2	time	O
+blessed_2	blessed	blessed_adj
+blessed_2	was	O
+blessed_2	a	O
+blessed_2	common	O
+blessed_2	way	O
+blessed_2	of	O
+blessed_2	describing	O
+blessed_2	someone	O
+blessed_2	who	O
+blessed_2	is	O
+blessed_2	wealthy	O

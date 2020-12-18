@@ -1,0 +1,17 @@
+progress_2	She	O
+progress_2	nonetheless	O
+progress_2	made	O
+progress_2	progress	progress_nou
+progress_2	in	O
+progress_2	Asheville	O
+progress_2	and	O
+progress_2	in	O
+progress_2	March	O
+progress_2	1940	O
+progress_2	four	O
+progress_2	years	O
+progress_2	after	O
+progress_2	admittance	O
+progress_2	she	O
+progress_2	was	O
+progress_2	released	O

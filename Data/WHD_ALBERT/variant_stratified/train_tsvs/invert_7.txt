@@ -1,0 +1,16 @@
+invert_7	Because	O
+invert_7	fructose	O
+invert_7	is	O
+invert_7	sweeter	O
+invert_7	than	O
+invert_7	either	O
+invert_7	glucose	O
+invert_7	or	O
+invert_7	sucrose	O
+invert_7	invert	invert_adj-nou
+invert_7	sugar	O
+invert_7	is	O
+invert_7	sweeter	O
+invert_7	than	O
+invert_7	white	O
+invert_7	sugar	O

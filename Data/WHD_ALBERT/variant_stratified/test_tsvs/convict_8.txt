@@ -1,0 +1,17 @@
+convict_8	The	O
+convict_8	first	O
+convict_8	arc	O
+convict_8	introduces	O
+convict_8	Walker	O
+convict_8	saving	O
+convict_8	a	O
+convict_8	young	O
+convict_8	girl	O
+convict_8	named	O
+convict_8	Calista	O
+convict_8	from	O
+convict_8	a	O
+convict_8	convict	convict_nou
+convict_8	with	O
+convict_8	a	O
+convict_8	jetpack	O

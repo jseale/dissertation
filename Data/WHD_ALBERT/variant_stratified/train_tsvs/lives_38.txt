@@ -1,0 +1,14 @@
+lives_38	Grandpa	O
+lives_38	じいちゃん	O
+lives_38	Jiichan)Voiced	O
+lives_38	by	O
+lives_38	Kenichi	O
+lives_38	OgataTetsuo	O
+lives_38	's	O
+lives_38	father	O
+lives_38	who	O
+lives_38	lives	lives_vrb
+lives_38	in	O
+lives_38	nearby	O
+lives_38	Edajima	O
+lives_38	Town	O

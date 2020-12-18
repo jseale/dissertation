@@ -1,0 +1,15 @@
+fragment_26	The	O
+fragment_26	Veliisa	O
+fragment_26	Stele	O
+fragment_26	is	O
+fragment_26	a	O
+fragment_26	fragment	fragment_nou
+fragment_26	of	O
+fragment_26	a	O
+fragment_26	Luwian	O
+fragment_26	hieroglyphic	O
+fragment_26	inscription	O
+fragment_26	of	O
+fragment_26	Neo	O
+fragment_26	Hittite	O
+fragment_26	date	O

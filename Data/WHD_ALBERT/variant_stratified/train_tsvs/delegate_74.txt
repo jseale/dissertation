@@ -1,0 +1,11 @@
+delegate_74	The	O
+delegate_74	husband	O
+delegate_74	can	O
+delegate_74	delegate	delegate_vrb
+delegate_74	the	O
+delegate_74	right	O
+delegate_74	of	O
+delegate_74	repudiation	O
+delegate_74	to	O
+delegate_74	his	O
+delegate_74	wife	O

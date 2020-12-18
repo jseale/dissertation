@@ -1,0 +1,10 @@
+resume_29	The	O
+resume_29	decision	O
+resume_29	was	O
+resume_29	taken	O
+resume_29	to	O
+resume_29	resume	resume_vrb
+resume_29	the	O
+resume_29	defence	O
+resume_29	infrastructure	O
+resume_29	construction	O

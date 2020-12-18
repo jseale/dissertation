@@ -1,0 +1,10 @@
+aged_58	He	O
+aged_58	was	O
+aged_58	aged	aged
+aged_58	21	O
+aged_58	the	O
+aged_58	youngest	O
+aged_58	candidate	O
+aged_58	in	O
+aged_58	the	O
+aged_58	country	O

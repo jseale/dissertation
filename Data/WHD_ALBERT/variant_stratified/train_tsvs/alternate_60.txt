@@ -1,0 +1,17 @@
+alternate_60	The	O
+alternate_60	Lost	O
+alternate_60	Experience	O
+alternate_60	was	O
+alternate_60	an	O
+alternate_60	alternate	alternate_adj-nou
+alternate_60	reality	O
+alternate_60	game	O
+alternate_60	that	O
+alternate_60	was	O
+alternate_60	part	O
+alternate_60	of	O
+alternate_60	the	O
+alternate_60	American	O
+alternate_60	television	O
+alternate_60	drama	O
+alternate_60	Lost	O

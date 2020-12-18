@@ -1,0 +1,13 @@
+export_69	Recently	O
+export_69	Kyrgyzstan	O
+export_69	concluded	O
+export_69	accords	O
+export_69	to	O
+export_69	export	export_vrb
+export_69	meat	O
+export_69	to	O
+export_69	Saudi	O
+export_69	Arabia	O
+export_69	from	O
+export_69	September	O
+export_69	2012	O

@@ -1,0 +1,12 @@
+incline_12	Coal	O
+incline_12	trains	O
+incline_12	continued	O
+incline_12	to	O
+incline_12	use	O
+incline_12	the	O
+incline_12	old	O
+incline_12	route	O
+incline_12	including	O
+incline_12	the	O
+incline_12	old	O
+incline_12	incline	incline_nou

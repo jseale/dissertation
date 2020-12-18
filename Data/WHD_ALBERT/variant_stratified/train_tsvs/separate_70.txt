@@ -1,0 +1,11 @@
+separate_70	The	O
+separate_70	elementary	O
+separate_70	school	O
+separate_70	was	O
+separate_70	last	O
+separate_70	given	O
+separate_70	separate	separate_adj
+separate_70	accountability	O
+separate_70	ratings	O
+separate_70	in	O
+separate_70	2007	O

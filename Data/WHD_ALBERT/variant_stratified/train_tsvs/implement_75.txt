@@ -1,0 +1,9 @@
+implement_75	Consumerium	O
+implement_75	is	O
+implement_75	an	O
+implement_75	open	O
+implement_75	campaign	O
+implement_75	to	O
+implement_75	implement	implement_vrb
+implement_75	moral	O
+implement_75	purchasing	O

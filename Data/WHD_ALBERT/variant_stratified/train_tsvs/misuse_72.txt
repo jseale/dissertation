@@ -1,0 +1,15 @@
+misuse_72	As	O
+misuse_72	a	O
+misuse_72	governor	O
+misuse_72	he	O
+misuse_72	tried	O
+misuse_72	his	O
+misuse_72	best	O
+misuse_72	to	O
+misuse_72	fight	O
+misuse_72	corruption	O
+misuse_72	and	O
+misuse_72	misuse	misuse_nou
+misuse_72	of	O
+misuse_72	public	O
+misuse_72	funds	O

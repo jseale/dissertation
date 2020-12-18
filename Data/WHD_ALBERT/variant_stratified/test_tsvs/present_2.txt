@@ -1,0 +1,17 @@
+present_2	He	O
+present_2	is	O
+present_2	a	O
+present_2	member	O
+present_2	of	O
+present_2	the	O
+present_2	present	present_adj-nou
+present_2	Islamic	O
+present_2	Consultative	O
+present_2	Assembly	O
+present_2	from	O
+present_2	the	O
+present_2	electorate	O
+present_2	of	O
+present_2	Maragheh	O
+present_2	and	O
+present_2	Ajabshir	O

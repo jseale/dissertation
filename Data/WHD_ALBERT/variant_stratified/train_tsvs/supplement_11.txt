@@ -1,0 +1,13 @@
+supplement_11	Spirulina	O
+supplement_11	is	O
+supplement_11	also	O
+supplement_11	a	O
+supplement_11	rich	O
+supplement_11	source	O
+supplement_11	and	O
+supplement_11	can	O
+supplement_11	serve	O
+supplement_11	as	O
+supplement_11	a	O
+supplement_11	dietary	O
+supplement_11	supplement	supplement_nou

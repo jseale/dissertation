@@ -1,0 +1,14 @@
+conduct_30	The	O
+conduct_30	effect	O
+conduct_30	of	O
+conduct_30	this	O
+conduct_30	mantra	O
+conduct_30	is	O
+conduct_30	producing	O
+conduct_30	the	O
+conduct_30	Samadhi	O
+conduct_30	Realm	O
+conduct_30	of	O
+conduct_30	Adamantine	O
+conduct_30	Indestructible	O
+conduct_30	Conduct	conduct_nou

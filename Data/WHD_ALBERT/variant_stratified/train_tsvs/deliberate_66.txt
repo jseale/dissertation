@@ -1,0 +1,15 @@
+deliberate_66	The	O
+deliberate_66	powerful	O
+deliberate_66	owl	O
+deliberate_66	typically	O
+deliberate_66	flies	O
+deliberate_66	in	O
+deliberate_66	a	O
+deliberate_66	slow	O
+deliberate_66	and	O
+deliberate_66	deliberate	deliberate_adj
+deliberate_66	way	O
+deliberate_66	on	O
+deliberate_66	its	O
+deliberate_66	large	O
+deliberate_66	wings	O

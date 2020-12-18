@@ -1,0 +1,8 @@
+supplement_6	Gilt	O
+supplement_6	bronze	O
+supplement_6	nails	O
+supplement_6	supplement	supplement_vrb
+supplement_6	the	O
+supplement_6	wooden	O
+supplement_6	tenon	O
+supplement_6	joints	O

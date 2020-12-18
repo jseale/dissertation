@@ -1,0 +1,14 @@
+rerelease_0	On	O
+rerelease_0	October	O
+rerelease_0	16	O
+rerelease_0	2015	O
+rerelease_0	Twiztid	O
+rerelease_0	released	O
+rerelease_0	another	O
+rerelease_0	vinyl	O
+rerelease_0	rerelease	rerelease
+rerelease_0	with	O
+rerelease_0	Cryptic	O
+rerelease_0	Collection	O
+rerelease_0	Halloween	O
+rerelease_0	Edition	O

@@ -1,0 +1,16 @@
+celtic_9	He	O
+celtic_9	was	O
+celtic_9	part	O
+celtic_9	of	O
+celtic_9	the	O
+celtic_9	Llanelli	O
+celtic_9	Scarlets	O
+celtic_9	team	O
+celtic_9	that	O
+celtic_9	won	O
+celtic_9	the	O
+celtic_9	Celtic	celtic_adj-nou-sports
+celtic_9	League	O
+celtic_9	title	O
+celtic_9	in	O
+celtic_9	2004	O

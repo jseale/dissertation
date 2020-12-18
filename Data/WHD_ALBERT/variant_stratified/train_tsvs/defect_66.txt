@@ -1,0 +1,13 @@
+defect_66	Initially	O
+defect_66	Pfeiffer	O
+defect_66	was	O
+defect_66	considered	O
+defect_66	unfit	O
+defect_66	for	O
+defect_66	active	O
+defect_66	service	O
+defect_66	because	O
+defect_66	of	O
+defect_66	a	O
+defect_66	cardiac	O
+defect_66	defect	defect_nou

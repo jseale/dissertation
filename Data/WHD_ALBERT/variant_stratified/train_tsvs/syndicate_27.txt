@@ -1,0 +1,17 @@
+syndicate_27	Though	O
+syndicate_27	rights	O
+syndicate_27	to	O
+syndicate_27	the	O
+syndicate_27	strip	O
+syndicate_27	remain	O
+syndicate_27	with	O
+syndicate_27	Paws	O
+syndicate_27	Inc.	O
+syndicate_27	it	O
+syndicate_27	is	O
+syndicate_27	currently	O
+syndicate_27	distributed	O
+syndicate_27	by	O
+syndicate_27	Universal	O
+syndicate_27	Press	O
+syndicate_27	Syndicate	syndicate_nou

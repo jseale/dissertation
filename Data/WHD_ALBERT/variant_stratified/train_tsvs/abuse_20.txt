@@ -1,0 +1,16 @@
+abuse_20	On	O
+abuse_20	September	O
+abuse_20	30	O
+abuse_20	2016	O
+abuse_20	Gibbs	O
+abuse_20	was	O
+abuse_20	acquitted	O
+abuse_20	of	O
+abuse_20	all	O
+abuse_20	charges	O
+abuse_20	related	O
+abuse_20	to	O
+abuse_20	the	O
+abuse_20	sexual	O
+abuse_20	abuse	abuse_nou
+abuse_20	allegations	O

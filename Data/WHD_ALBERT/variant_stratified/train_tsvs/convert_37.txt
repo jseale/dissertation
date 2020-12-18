@@ -1,0 +1,9 @@
+convert_37	There	O
+convert_37	are	O
+convert_37	plans	O
+convert_37	to	O
+convert_37	convert	convert_vrb
+convert_37	it	O
+convert_37	into	O
+convert_37	a	O
+convert_37	museum	O

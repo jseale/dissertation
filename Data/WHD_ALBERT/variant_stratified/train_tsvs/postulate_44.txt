@@ -1,0 +1,16 @@
+postulate_44	And	O
+postulate_44	so	O
+postulate_44	invoking	O
+postulate_44	Occam	O
+postulate_44	's	O
+postulate_44	razor	O
+postulate_44	he	O
+postulate_44	removed	O
+postulate_44	the	O
+postulate_44	postulate	postulate_nou
+postulate_44	of	O
+postulate_44	wavefunction	O
+postulate_44	collapse	O
+postulate_44	from	O
+postulate_44	the	O
+postulate_44	theory	O

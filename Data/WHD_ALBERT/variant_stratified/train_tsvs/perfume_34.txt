@@ -1,0 +1,10 @@
+perfume_34	Methyl	O
+perfume_34	cinnamate	O
+perfume_34	is	O
+perfume_34	used	O
+perfume_34	in	O
+perfume_34	the	O
+perfume_34	flavor	O
+perfume_34	and	O
+perfume_34	perfume	perfume_nou
+perfume_34	industries	O

@@ -1,0 +1,17 @@
+invalid_25	Such	O
+invalid_25	an	O
+invalid_25	argument	O
+invalid_25	however	O
+invalid_25	true	O
+invalid_25	the	O
+invalid_25	conclusion	O
+invalid_25	is	O
+invalid_25	mathematically	O
+invalid_25	invalid	invalid_adj
+invalid_25	and	O
+invalid_25	is	O
+invalid_25	commonly	O
+invalid_25	known	O
+invalid_25	as	O
+invalid_25	a	O
+invalid_25	howler	O

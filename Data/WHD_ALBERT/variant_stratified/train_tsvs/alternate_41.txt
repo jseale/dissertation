@@ -1,0 +1,15 @@
+alternate_41	Alongside	O
+alternate_41	the	O
+alternate_41	Fantastic	O
+alternate_41	Four	O
+alternate_41	he	O
+alternate_41	journeyed	O
+alternate_41	to	O
+alternate_41	an	O
+alternate_41	alternate	alternate_adj-nou
+alternate_41	Earth	O
+alternate_41	and	O
+alternate_41	helped	O
+alternate_41	battle	O
+alternate_41	the	O
+alternate_41	Warlord	O

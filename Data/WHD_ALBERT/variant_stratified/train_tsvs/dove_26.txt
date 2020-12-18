@@ -1,0 +1,14 @@
+dove_26	The	O
+dove_26	Chalcophaps	O
+dove_26	indica	O
+dove_26	augusta	O
+dove_26	Bonaparte	O
+dove_26	1855	O
+dove_26	is	O
+dove_26	also	O
+dove_26	known	O
+dove_26	as	O
+dove_26	Princess	O
+dove_26	Gabrielli	O
+dove_26	's	O
+dove_26	dove	dove

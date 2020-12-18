@@ -1,0 +1,16 @@
+expose_20	Kit	O
+expose_20	warns	O
+expose_20	that	O
+expose_20	he	O
+expose_20	would	O
+expose_20	expose	expose_vrb
+expose_20	the	O
+expose_20	asylum	O
+expose_20	's	O
+expose_20	secrets	O
+expose_20	if	O
+expose_20	those	O
+expose_20	results	O
+expose_20	do	O
+expose_20	n't	O
+expose_20	occur	O

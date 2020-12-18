@@ -1,0 +1,16 @@
+consummate_9	It	O
+consummate_9	was	O
+consummate_9	the	O
+consummate_9	finest	O
+consummate_9	opening	O
+consummate_9	night	O
+consummate_9	performance	O
+consummate_9	by	O
+consummate_9	a	O
+consummate_9	consummate	consummate_adj
+consummate_9	musician	O
+consummate_9	that	O
+consummate_9	I	O
+consummate_9	have	O
+consummate_9	ever	O
+consummate_9	witnessed	O

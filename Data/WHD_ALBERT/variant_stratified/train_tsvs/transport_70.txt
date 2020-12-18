@@ -1,0 +1,11 @@
+transport_70	The	O
+transport_70	public	O
+transport_70	transport	transport_nou
+transport_70	of	O
+transport_70	Antwerp	O
+transport_70	was	O
+transport_70	exploited	O
+transport_70	by	O
+transport_70	9	O
+transport_70	different	O
+transport_70	companies	O

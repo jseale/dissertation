@@ -1,0 +1,15 @@
+insult_23	It	O
+insult_23	has	O
+insult_23	the	O
+insult_23	same	O
+insult_23	euphemistic	O
+insult_23	value	O
+insult_23	as	O
+insult_23	lady	O
+insult_23	in	O
+insult_23	English	O
+insult_23	sometimes	O
+insult_23	flattery	O
+insult_23	sometimes	O
+insult_23	subtle	O
+insult_23	insult	insult_nou

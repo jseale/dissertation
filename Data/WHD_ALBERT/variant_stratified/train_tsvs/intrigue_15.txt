@@ -1,0 +1,16 @@
+intrigue_15	Carnelian	O
+intrigue_15	's	O
+intrigue_15	own	O
+intrigue_15	lineage	O
+intrigue_15	puts	O
+intrigue_15	him	O
+intrigue_15	at	O
+intrigue_15	the	O
+intrigue_15	center	O
+intrigue_15	of	O
+intrigue_15	court	O
+intrigue_15	intrigue	intrigue_nou
+intrigue_15	and	O
+intrigue_15	in	O
+intrigue_15	mortal	O
+intrigue_15	danger	O

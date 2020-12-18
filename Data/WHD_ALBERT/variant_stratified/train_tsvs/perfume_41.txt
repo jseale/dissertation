@@ -1,0 +1,11 @@
+perfume_41	Dixie	O
+perfume_41	Love	O
+perfume_41	Perfume	perfume_nou
+perfume_41	was	O
+perfume_41	noted	O
+perfume_41	for	O
+perfume_41	a	O
+perfume_41	fragrance	O
+perfume_41	to	O
+perfume_41	encourage	O
+perfume_41	romance	O

@@ -1,0 +1,9 @@
+excuse_57	Making	O
+excuse_57	up	O
+excuse_57	an	O
+excuse_57	awkward	O
+excuse_57	excuse	excuse_nou
+excuse_57	he	O
+excuse_57	and	O
+excuse_57	Lance	O
+excuse_57	leave	O

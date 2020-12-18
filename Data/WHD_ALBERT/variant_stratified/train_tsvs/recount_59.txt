@@ -1,0 +1,16 @@
+recount_59	Always	O
+recount_59	ready	O
+recount_59	to	O
+recount_59	welcome	O
+recount_59	visitors	O
+recount_59	despite	O
+recount_59	his	O
+recount_59	frailty	O
+recount_59	he	O
+recount_59	would	O
+recount_59	recount	recount_vrb
+recount_59	his	O
+recount_59	prison	O
+recount_59	experiences	O
+recount_59	without	O
+recount_59	bitterness	O

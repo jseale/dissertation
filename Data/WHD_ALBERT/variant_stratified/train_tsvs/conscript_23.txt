@@ -1,0 +1,15 @@
+conscript_23	The	O
+conscript_23	country	O
+conscript_23	plans	O
+conscript_23	to	O
+conscript_23	convert	O
+conscript_23	the	O
+conscript_23	current	O
+conscript_23	conscript	conscript_nou
+conscript_23	based	O
+conscript_23	military	O
+conscript_23	into	O
+conscript_23	a	O
+conscript_23	professional	O
+conscript_23	volunteer	O
+conscript_23	military	O

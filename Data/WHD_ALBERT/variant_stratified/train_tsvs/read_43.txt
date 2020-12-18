@@ -1,0 +1,17 @@
+read_43	She	O
+read_43	like	O
+read_43	many	O
+read_43	critics	O
+read_43	about	O
+read_43	much	O
+read_43	of	O
+read_43	Angelou	O
+read_43	's	O
+read_43	poetry	O
+read_43	says	O
+read_43	The	O
+read_43	poems	O
+read_43	work	O
+read_43	best	O
+read_43	read	read_past
+read_43	aloud	O

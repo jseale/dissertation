@@ -1,0 +1,9 @@
+discard_3	You	O
+discard_3	may	O
+discard_3	not	O
+discard_3	discard	discard_vrb
+discard_3	the	O
+discard_3	blue	O
+discard_3	in	O
+discard_3	any	O
+discard_3	situation	O

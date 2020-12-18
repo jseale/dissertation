@@ -1,0 +1,17 @@
+rebel_3	It	O
+rebel_3	will	O
+rebel_3	also	O
+rebel_3	help	O
+rebel_3	end	O
+rebel_3	the	O
+rebel_3	scourge	O
+rebel_3	of	O
+rebel_3	one	O
+rebel_3	of	O
+rebel_3	the	O
+rebel_3	most	O
+rebel_3	brutal	O
+rebel_3	rebel	rebel_nou
+rebel_3	groups	O
+rebel_3	in	O
+rebel_3	Africa	O

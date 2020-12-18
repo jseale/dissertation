@@ -1,0 +1,16 @@
+conjugate_77	For	O
+conjugate_77	all	O
+conjugate_77	other	O
+conjugate_77	stem	O
+conjugate_77	vowels	O
+conjugate_77	the	O
+conjugate_77	transitive	O
+conjugate_77	suffix	O
+conjugate_77	has	O
+conjugate_77	its	O
+conjugate_77	default	O
+conjugate_77	form	O
+conjugate_77	/-em/:Verbs	O
+conjugate_77	do	O
+conjugate_77	not	O
+conjugate_77	conjugate	conjugate_vrb

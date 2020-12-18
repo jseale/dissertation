@@ -1,0 +1,13 @@
+minute_53	It	O
+minute_53	takes	O
+minute_53	a	O
+minute_53	15-minute	O
+minute_53	drive	O
+minute_53	from	O
+minute_53	Belgrade	O
+minute_53	Nikola	O
+minute_53	Tesla	O
+minute_53	Airport	O
+minute_53	to	O
+minute_53	the	O
+minute_53	Arena	O

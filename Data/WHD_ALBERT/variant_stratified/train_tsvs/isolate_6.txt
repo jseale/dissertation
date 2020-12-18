@@ -1,0 +1,14 @@
+isolate_6	Floodwaters	O
+isolate_6	from	O
+isolate_6	Storm	O
+isolate_6	Isolate	isolate
+isolate_6	13	O
+isolate_6	Vermont	O
+isolate_6	Towns	O
+isolate_6	article	O
+isolate_6	The	O
+isolate_6	New	O
+isolate_6	York	O
+isolate_6	Times	O
+isolate_6	online	O
+isolate_6	accessed	O

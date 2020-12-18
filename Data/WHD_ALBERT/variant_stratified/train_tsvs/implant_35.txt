@@ -1,0 +1,12 @@
+implant_35	The	O
+implant_35	same	O
+implant_35	procedure	O
+implant_35	is	O
+implant_35	used	O
+implant_35	in	O
+implant_35	the	O
+implant_35	segmental	O
+implant_35	fasciectomy	O
+implant_35	with	O
+implant_35	cellulose	O
+implant_35	implant	implant_nou

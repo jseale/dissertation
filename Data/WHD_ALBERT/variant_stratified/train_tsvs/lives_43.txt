@@ -1,0 +1,15 @@
+lives_43	She	O
+lives_43	lives	lives_vrb
+lives_43	in	O
+lives_43	Washington	O
+lives_43	D.C.	O
+lives_43	with	O
+lives_43	her	O
+lives_43	husband	O
+lives_43	Bloomberg	O
+lives_43	editor	O
+lives_43	Max	O
+lives_43	Berley	O
+lives_43	and	O
+lives_43	their	O
+lives_43	children	O

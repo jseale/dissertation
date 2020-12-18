@@ -1,0 +1,16 @@
+import_51	As	O
+import_51	a	O
+import_51	CD	O
+import_51	this	O
+import_51	album	O
+import_51	is	O
+import_51	currently	O
+import_51	only	O
+import_51	available	O
+import_51	as	O
+import_51	an	O
+import_51	import	import_nou
+import_51	from	O
+import_51	Canada	O
+import_51	and	O
+import_51	Japan	O

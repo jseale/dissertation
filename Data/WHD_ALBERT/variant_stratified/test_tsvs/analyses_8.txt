@@ -1,0 +1,16 @@
+analyses_8	Match	O
+analyses_8	previews	O
+analyses_8	point	O
+analyses_8	tables	O
+analyses_8	graphics	O
+analyses_8	key	O
+analyses_8	factors	O
+analyses_8	graphics	O
+analyses_8	and	O
+analyses_8	other	O
+analyses_8	analyses	analyses_nou
+analyses_8	are	O
+analyses_8	displayed	O
+analyses_8	and	O
+analyses_8	discussed	O
+analyses_8	graphically	O

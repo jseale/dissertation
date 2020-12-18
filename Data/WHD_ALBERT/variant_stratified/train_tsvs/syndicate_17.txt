@@ -1,0 +1,13 @@
+syndicate_17	Their	O
+syndicate_17	second	O
+syndicate_17	LP	O
+syndicate_17	Beheaded	O
+syndicate_17	was	O
+syndicate_17	released	O
+syndicate_17	on	O
+syndicate_17	Trance	O
+syndicate_17	Syndicate	syndicate_nou
+syndicate_17	on	O
+syndicate_17	October	O
+syndicate_17	24	O
+syndicate_17	1996	O

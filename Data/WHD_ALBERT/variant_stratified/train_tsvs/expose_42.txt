@@ -1,0 +1,16 @@
+expose_42	In	O
+expose_42	cleavage	O
+expose_42	the	O
+expose_42	magnesium	O
+expose_42	ions	O
+expose_42	activate	O
+expose_42	oxygen	O
+expose_42	from	O
+expose_42	water	O
+expose_42	molecules	O
+expose_42	and	O
+expose_42	expose	expose_vrb
+expose_42	them	O
+expose_42	to	O
+expose_42	nucleophilic	O
+expose_42	attack	O

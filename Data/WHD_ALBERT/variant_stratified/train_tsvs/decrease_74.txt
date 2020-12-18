@@ -1,0 +1,12 @@
+decrease_74	That	O
+decrease_74	is	O
+decrease_74	the	O
+decrease_74	tariff	O
+decrease_74	level	O
+decrease_74	available	O
+decrease_74	for	O
+decrease_74	new	O
+decrease_74	generators	O
+decrease_74	will	O
+decrease_74	decrease	decrease_vrb
+decrease_74	annually	O

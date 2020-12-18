@@ -1,0 +1,11 @@
+mobile_52	Challenges	O
+mobile_52	of	O
+mobile_52	mobile	mobile
+mobile_52	money	O
+mobile_52	include	O
+mobile_52	security	O
+mobile_52	concerns	O
+mobile_52	and	O
+mobile_52	questions	O
+mobile_52	around	O
+mobile_52	regulation	O

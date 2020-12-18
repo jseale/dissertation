@@ -1,0 +1,15 @@
+mobile_0	Context	O
+mobile_0	awareness	O
+mobile_0	is	O
+mobile_0	a	O
+mobile_0	property	O
+mobile_0	of	O
+mobile_0	mobile	mobile
+mobile_0	devices	O
+mobile_0	that	O
+mobile_0	is	O
+mobile_0	defined	O
+mobile_0	complementarily	O
+mobile_0	to	O
+mobile_0	location	O
+mobile_0	awareness	O

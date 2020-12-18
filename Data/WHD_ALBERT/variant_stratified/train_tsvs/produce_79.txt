@@ -1,0 +1,10 @@
+produce_79	This	O
+produce_79	to	O
+produce_79	have	O
+produce_79	hind	O
+produce_79	legs	O
+produce_79	suitable	O
+produce_79	to	O
+produce_79	produce	produce_vrb
+produce_79	cured	O
+produce_79	ham	O

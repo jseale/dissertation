@@ -1,0 +1,17 @@
+invite_4	In	O
+invite_4	May	O
+invite_4	2012	O
+invite_4	twenty	O
+invite_4	one	O
+invite_4	areas	O
+invite_4	were	O
+invite_4	selected	O
+invite_4	to	O
+invite_4	invite	invite_vrb
+invite_4	bids	O
+invite_4	for	O
+invite_4	providing	O
+invite_4	a	O
+invite_4	local	O
+invite_4	TV	O
+invite_4	service	O

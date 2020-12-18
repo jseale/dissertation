@@ -1,0 +1,14 @@
+convict_37	Lord	O
+convict_37	was	O
+convict_37	the	O
+convict_37	seventh	O
+convict_37	child	O
+convict_37	of	O
+convict_37	the	O
+convict_37	ex	O
+convict_37	convict	convict_nou
+convict_37	and	O
+convict_37	pioneering	O
+convict_37	entrepreneur	O
+convict_37	Simeon	O
+convict_37	Lord	O

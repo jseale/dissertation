@@ -1,0 +1,12 @@
+recount_52	Nevada	O
+recount_52	's	O
+recount_52	partial	O
+recount_52	recount	recount_nou
+recount_52	was	O
+recount_52	completed	O
+recount_52	December	O
+recount_52	8	O
+recount_52	finding	O
+recount_52	no	O
+recount_52	significant	O
+recount_52	discrepancies	O

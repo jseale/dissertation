@@ -1,0 +1,14 @@
+protest_6	In	O
+protest_6	2014	O
+protest_6	the	O
+protest_6	hotel	O
+protest_6	celebrated	O
+protest_6	the	O
+protest_6	protest	protest_nou
+protest_6	with	O
+protest_6	the	O
+protest_6	naming	O
+protest_6	of	O
+protest_6	Merle	O
+protest_6	's	O
+protest_6	Bar	O

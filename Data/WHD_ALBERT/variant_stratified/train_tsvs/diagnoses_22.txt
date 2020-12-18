@@ -1,0 +1,9 @@
+diagnoses_22	Its	O
+diagnoses_22	use	O
+diagnoses_22	was	O
+diagnoses_22	not	O
+diagnoses_22	found	O
+diagnoses_22	to	O
+diagnoses_22	mask	O
+diagnoses_22	serious	O
+diagnoses_22	diagnoses	diagnoses_nou

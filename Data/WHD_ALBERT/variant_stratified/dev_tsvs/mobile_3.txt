@@ -1,0 +1,11 @@
+mobile_3	Being	O
+mobile_3	a	O
+mobile_3	highly	O
+mobile_3	mobile	mobile
+mobile_3	molecule	O
+mobile_3	it	O
+mobile_3	moves	O
+mobile_3	ahead	O
+mobile_3	of	O
+mobile_3	most	O
+mobile_3	proteins	O

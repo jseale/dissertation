@@ -1,0 +1,9 @@
+export_40	It	O
+export_40	is	O
+export_40	also	O
+export_40	the	O
+export_40	member	O
+export_40	of	O
+export_40	Export	export_nou
+export_40	Alabama	O
+export_40	Alliance	O

@@ -1,0 +1,10 @@
+fragment_9	Bliss	O
+fragment_9	caused	O
+fragment_9	Copycat	O
+fragment_9	's	O
+fragment_9	mind	O
+fragment_9	to	O
+fragment_9	fragment	fragment_vrb
+fragment_9	without	O
+fragment_9	anybody	O
+fragment_9	knowing	O

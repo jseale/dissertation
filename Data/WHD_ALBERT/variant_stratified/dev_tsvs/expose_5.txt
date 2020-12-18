@@ -1,0 +1,17 @@
+expose_5	Pluto	O
+expose_5	notices	O
+expose_5	the	O
+expose_5	strange	O
+expose_5	figure	O
+expose_5	but	O
+expose_5	he	O
+expose_5	does	O
+expose_5	not	O
+expose_5	get	O
+expose_5	a	O
+expose_5	chance	O
+expose_5	to	O
+expose_5	expose	expose_vrb
+expose_5	him	O
+expose_5	to	O
+expose_5	Mickey	O

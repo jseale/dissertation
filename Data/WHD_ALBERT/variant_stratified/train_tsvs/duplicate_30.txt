@@ -1,0 +1,13 @@
+duplicate_30	Continuing	O
+duplicate_30	her	O
+duplicate_30	interest	O
+duplicate_30	in	O
+duplicate_30	competitive	O
+duplicate_30	duplicate	duplicate_adj-nou
+duplicate_30	bridge	O
+duplicate_30	she	O
+duplicate_30	achieved	O
+duplicate_30	gold	O
+duplicate_30	life	O
+duplicate_30	master	O
+duplicate_30	status	O

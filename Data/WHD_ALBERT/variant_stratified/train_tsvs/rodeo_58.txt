@@ -1,0 +1,12 @@
+rodeo_58	Before	O
+rodeo_58	he	O
+rodeo_58	was	O
+rodeo_58	involved	O
+rodeo_58	in	O
+rodeo_58	horseracing	O
+rodeo_58	he	O
+rodeo_58	was	O
+rodeo_58	a	O
+rodeo_58	championship	O
+rodeo_58	Rodeo	rodeo
+rodeo_58	bullrider	O

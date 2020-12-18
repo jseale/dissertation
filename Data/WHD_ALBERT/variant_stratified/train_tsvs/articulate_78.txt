@@ -1,0 +1,17 @@
+articulate_78	This	O
+articulate_78	requires	O
+articulate_78	a	O
+articulate_78	difficult	O
+articulate_78	balancing	O
+articulate_78	of	O
+articulate_78	the	O
+articulate_78	need	O
+articulate_78	to	O
+articulate_78	articulate	articulate_vrb
+articulate_78	clear	O
+articulate_78	answers	O
+articulate_78	and	O
+articulate_78	the	O
+articulate_78	little	O
+articulate_78	founded	O
+articulate_78	fears	O

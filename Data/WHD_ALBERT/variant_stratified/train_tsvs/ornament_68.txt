@@ -1,0 +1,15 @@
+ornament_68	Every	O
+ornament_68	year	O
+ornament_68	more	O
+ornament_68	than	O
+ornament_68	150	O
+ornament_68	filigree	O
+ornament_68	artisans	O
+ornament_68	are	O
+ornament_68	engaged	O
+ornament_68	in	O
+ornament_68	making	O
+ornament_68	backdrop	O
+ornament_68	and	O
+ornament_68	ornament	ornament_nou
+ornament_68	design	O

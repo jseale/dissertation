@@ -1,0 +1,8 @@
+conscript_6	This	O
+conscript_6	is	O
+conscript_6	the	O
+conscript_6	most	O
+conscript_6	common	O
+conscript_6	conscript	conscript_nou
+conscript_6	leader	O
+conscript_6	rank	O

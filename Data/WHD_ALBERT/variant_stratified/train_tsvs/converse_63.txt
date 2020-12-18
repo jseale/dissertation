@@ -1,0 +1,7 @@
+converse_63	They	O
+converse_63	were	O
+converse_63	able	O
+converse_63	to	O
+converse_63	talk	O
+converse_63	and	O
+converse_63	converse	converse_vrb

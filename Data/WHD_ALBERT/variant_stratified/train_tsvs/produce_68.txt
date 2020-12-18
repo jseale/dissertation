@@ -1,0 +1,10 @@
+produce_68	The	O
+produce_68	beam	O
+produce_68	is	O
+produce_68	frequency	O
+produce_68	doubled	O
+produce_68	to	O
+produce_68	produce	produce_vrb
+produce_68	a	O
+produce_68	green	O
+produce_68	laser	O

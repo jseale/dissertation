@@ -1,0 +1,10 @@
+diffuse_0	Diffuse	diffuse_adj
+diffuse_0	reflection	O
+diffuse_0	is	O
+diffuse_0	typically	O
+diffuse_0	characterized	O
+diffuse_0	by	O
+diffuse_0	omni	O
+diffuse_0	directional	O
+diffuse_0	reflection	O
+diffuse_0	angles	O

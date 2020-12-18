@@ -1,0 +1,15 @@
+combine_7	The	O
+combine_7	oxide	O
+combine_7	and	O
+combine_7	the	O
+combine_7	aluminium	O
+combine_7	combine	combine_vrb
+combine_7	via	O
+combine_7	an	O
+combine_7	aluminothermic	O
+combine_7	reaction	O
+combine_7	to	O
+combine_7	give	O
+combine_7	molybdenum	O
+combine_7	in	O
+combine_7	situ	O

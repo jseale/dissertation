@@ -1,0 +1,16 @@
+resume_64	Peter	O
+resume_64	tried	O
+resume_64	to	O
+resume_64	flee	O
+resume_64	but	O
+resume_64	Morlun	O
+resume_64	was	O
+resume_64	able	O
+resume_64	to	O
+resume_64	find	O
+resume_64	him	O
+resume_64	easily	O
+resume_64	and	O
+resume_64	resume	resume_vrb
+resume_64	the	O
+resume_64	fight	O

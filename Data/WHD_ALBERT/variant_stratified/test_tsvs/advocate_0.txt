@@ -1,0 +1,15 @@
+advocate_0	She	O
+advocate_0	now	O
+advocate_0	works	O
+advocate_0	as	O
+advocate_0	an	O
+advocate_0	advocate	advocate_nou
+advocate_0	fostering	O
+advocate_0	understanding	O
+advocate_0	for	O
+advocate_0	survivors	O
+advocate_0	of	O
+advocate_0	burns	O
+advocate_0	or	O
+advocate_0	other	O
+advocate_0	disfigurements	O

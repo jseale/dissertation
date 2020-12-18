@@ -1,0 +1,12 @@
+defect_4	It	O
+defect_4	was	O
+defect_4	the	O
+defect_4	first	O
+defect_4	genetic	O
+defect_4	defect	defect_nou
+defect_4	linked	O
+defect_4	with	O
+defect_4	a	O
+defect_4	specific	O
+defect_4	human	O
+defect_4	cancer	O

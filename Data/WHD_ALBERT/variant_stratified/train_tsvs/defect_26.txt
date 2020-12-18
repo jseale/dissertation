@@ -1,0 +1,13 @@
+defect_26	Achieving	O
+defect_26	pure	O
+defect_26	stoichiometric	O
+defect_26	compounds	O
+defect_26	and	O
+defect_26	crystals	O
+defect_26	with	O
+defect_26	low	O
+defect_26	defect	defect_nou
+defect_26	density	O
+defect_26	has	O
+defect_26	proved	O
+defect_26	difficult	O

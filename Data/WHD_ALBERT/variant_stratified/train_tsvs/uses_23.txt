@@ -1,0 +1,13 @@
+uses_23	The	O
+uses_23	commune	O
+uses_23	of	O
+uses_23	Grunwald	O
+uses_23	uses	uses_vrb
+uses_23	the	O
+uses_23	two	O
+uses_23	swords	O
+uses_23	in	O
+uses_23	its	O
+uses_23	coat	O
+uses_23	of	O
+uses_23	arms	O

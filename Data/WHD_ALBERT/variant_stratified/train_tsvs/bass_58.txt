@@ -1,0 +1,12 @@
+bass_58	The	O
+bass_58	group	O
+bass_58	is	O
+bass_58	currently	O
+bass_58	owned	O
+bass_58	and	O
+bass_58	managed	O
+bass_58	by	O
+bass_58	bass	bass
+bass_58	vocalist	O
+bass_58	Ray	O
+bass_58	Reese	O

@@ -1,0 +1,12 @@
+intrigue_7	Information	O
+intrigue_7	and	O
+intrigue_7	Intrigue	intrigue_nou
+intrigue_7	From	O
+intrigue_7	Index	O
+intrigue_7	Cards	O
+intrigue_7	to	O
+intrigue_7	Dewey	O
+intrigue_7	Decimals	O
+intrigue_7	to	O
+intrigue_7	Alger	O
+intrigue_7	Hiss	O

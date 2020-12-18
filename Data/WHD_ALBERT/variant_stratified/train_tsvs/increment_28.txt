@@ -1,0 +1,17 @@
+increment_28	Mill	O
+increment_28	's	O
+increment_28	advocacy	O
+increment_28	of	O
+increment_28	taxing	O
+increment_28	the	O
+increment_28	unearned	O
+increment_28	increment	increment_nou
+increment_28	won	O
+increment_28	the	O
+increment_28	support	O
+increment_28	of	O
+increment_28	Robert	O
+increment_28	Applegarth	O
+increment_28	an	O
+increment_28	IWMA	O
+increment_28	delegate	O

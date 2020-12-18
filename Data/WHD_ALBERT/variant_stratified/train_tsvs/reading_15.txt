@@ -1,0 +1,14 @@
+reading_15	It	O
+reading_15	may	O
+reading_15	also	O
+reading_15	be	O
+reading_15	obtained	O
+reading_15	through	O
+reading_15	interviews	O
+reading_15	downloads	O
+reading_15	from	O
+reading_15	online	O
+reading_15	sources	O
+reading_15	or	O
+reading_15	reading	reading_en
+reading_15	documentation	O

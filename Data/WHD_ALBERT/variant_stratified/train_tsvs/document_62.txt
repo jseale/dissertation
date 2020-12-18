@@ -1,0 +1,8 @@
+document_62	The	O
+document_62	document	document_nou
+document_62	was	O
+document_62	written	O
+document_62	by	O
+document_62	an	O
+document_62	unknown	O
+document_62	copyist	O

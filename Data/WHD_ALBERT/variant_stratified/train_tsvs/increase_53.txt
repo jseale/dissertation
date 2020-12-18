@@ -1,0 +1,12 @@
+increase_53	Land	O
+increase_53	use	O
+increase_53	change	O
+increase_53	like	O
+increase_53	deforestation	O
+increase_53	can	O
+increase_53	increase	increase_vrb
+increase_53	greenhouse	O
+increase_53	gases	O
+increase_53	through	O
+increase_53	burning	O
+increase_53	biomass	O

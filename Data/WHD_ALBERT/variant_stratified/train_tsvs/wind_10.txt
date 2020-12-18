@@ -1,0 +1,17 @@
+wind_10	Later	O
+wind_10	that	O
+wind_10	morning	O
+wind_10	the	O
+wind_10	hurricane	O
+wind_10	reached	O
+wind_10	Category	O
+wind_10	2	O
+wind_10	intensity	O
+wind_10	on	O
+wind_10	the	O
+wind_10	Saffir	O
+wind_10	Simpson	O
+wind_10	Hurricane	O
+wind_10	Wind	wind_nou
+wind_10	Scale	O
+wind_10	SSHWS	O

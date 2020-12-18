@@ -1,0 +1,17 @@
+analyses_18	More	O
+analyses_18	than	O
+analyses_18	a	O
+analyses_18	specific	O
+analyses_18	calculation	O
+analyses_18	method	O
+analyses_18	PME	O
+analyses_18	encompasses	O
+analyses_18	a	O
+analyses_18	number	O
+analyses_18	of	O
+analyses_18	different	O
+analyses_18	analyses	analyses_nou
+analyses_18	sharing	O
+analyses_18	the	O
+analyses_18	same	O
+analyses_18	objective	O

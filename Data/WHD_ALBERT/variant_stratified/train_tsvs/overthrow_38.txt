@@ -1,0 +1,15 @@
+overthrow_38	In	O
+overthrow_38	order	O
+overthrow_38	to	O
+overthrow_38	achieve	O
+overthrow_38	this	O
+overthrow_38	they	O
+overthrow_38	wished	O
+overthrow_38	to	O
+overthrow_38	overthrow	overthrow_vrb
+overthrow_38	the	O
+overthrow_38	Doctor	O
+overthrow_38	's	O
+overthrow_38	homeworld	O
+overthrow_38	of	O
+overthrow_38	Gallifrey	O

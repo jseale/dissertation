@@ -1,0 +1,17 @@
+sow_8	There	O
+sow_8	are	O
+sow_8	rare	O
+sow_8	plants	O
+sow_8	here	O
+sow_8	like	O
+sow_8	the	O
+sow_8	alpine	O
+sow_8	sow	sow_nou
+sow_8	thistle	O
+sow_8	Turk	O
+sow_8	's	O
+sow_8	cap	O
+sow_8	lily	O
+sow_8	wolfsbane	O
+sow_8	and	O
+sow_8	sundew	O

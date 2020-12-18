@@ -1,0 +1,14 @@
+combine_11	They	O
+combine_11	each	O
+combine_11	combine	combine_vrb
+combine_11	demographic	O
+combine_11	and	O
+combine_11	laboratory	O
+combine_11	data	O
+combine_11	to	O
+combine_11	estimate	O
+combine_11	severity	O
+combine_11	or	O
+combine_11	probability	O
+combine_11	of	O
+combine_11	death	O

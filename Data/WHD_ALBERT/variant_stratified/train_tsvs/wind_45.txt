@@ -1,0 +1,15 @@
+wind_45	By	O
+wind_45	comparison	O
+wind_45	15	O
+wind_45	vessels	O
+wind_45	are	O
+wind_45	used	O
+wind_45	to	O
+wind_45	maintain	O
+wind_45	offshore	O
+wind_45	wind	wind_nou
+wind_45	farms	O
+wind_45	in	O
+wind_45	the	O
+wind_45	North	O
+wind_45	Sea	O

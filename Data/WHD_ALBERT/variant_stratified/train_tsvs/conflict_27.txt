@@ -1,0 +1,17 @@
+conflict_27	Having	O
+conflict_27	had	O
+conflict_27	recently	O
+conflict_27	come	O
+conflict_27	out	O
+conflict_27	as	O
+conflict_27	bisexual	O
+conflict_27	the	O
+conflict_27	revelation	O
+conflict_27	caused	O
+conflict_27	conflict	conflict_nou
+conflict_27	with	O
+conflict_27	some	O
+conflict_27	of	O
+conflict_27	his	O
+conflict_27	loved	O
+conflict_27	ones	O

@@ -1,0 +1,17 @@
+conduct_4	The	O
+conduct_4	stick	O
+conduct_4	was	O
+conduct_4	deemed	O
+conduct_4	illegal	O
+conduct_4	and	O
+conduct_4	McSorley	O
+conduct_4	was	O
+conduct_4	given	O
+conduct_4	a	O
+conduct_4	two	O
+conduct_4	minute	O
+conduct_4	minor	O
+conduct_4	penalty	O
+conduct_4	for	O
+conduct_4	unsportsmanlike	O
+conduct_4	conduct	conduct_nou

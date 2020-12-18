@@ -1,0 +1,15 @@
+supplement_22	Before	O
+supplement_22	the	O
+supplement_22	2004	O
+supplement_22	reformulation	O
+supplement_22	formulations	O
+supplement_22	contained	O
+supplement_22	ephedra	O
+supplement_22	a	O
+supplement_22	supplement	supplement_nou
+supplement_22	banned	O
+supplement_22	by	O
+supplement_22	the	O
+supplement_22	FDA	O
+supplement_22	in	O
+supplement_22	2004	O

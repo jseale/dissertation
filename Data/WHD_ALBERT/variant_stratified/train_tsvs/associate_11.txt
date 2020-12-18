@@ -1,0 +1,14 @@
+associate_11	Digambara	O
+associate_11	Patra	O
+associate_11	is	O
+associate_11	an	O
+associate_11	Associate	associate_adj-nou
+associate_11	Professor	O
+associate_11	of	O
+associate_11	Chemistry	O
+associate_11	at	O
+associate_11	the	O
+associate_11	American	O
+associate_11	University	O
+associate_11	of	O
+associate_11	Beirut	O

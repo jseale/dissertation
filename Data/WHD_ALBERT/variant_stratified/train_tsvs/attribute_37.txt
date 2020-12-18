@@ -1,0 +1,15 @@
+attribute_37	Algorithmic	O
+attribute_37	requirements	O
+attribute_37	differ	O
+attribute_37	substantially	O
+attribute_37	for	O
+attribute_37	relational	O
+attribute_37	attribute	attribute_nou
+attribute_37	data	O
+attribute_37	management	O
+attribute_37	and	O
+attribute_37	for	O
+attribute_37	topological	O
+attribute_37	feature	O
+attribute_37	data	O
+attribute_37	management	O

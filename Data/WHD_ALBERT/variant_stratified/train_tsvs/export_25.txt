@@ -1,0 +1,9 @@
+export_25	It	O
+export_25	also	O
+export_25	helps	O
+export_25	boost	O
+export_25	export	export_nou
+export_25	business	O
+export_25	volumes	O
+export_25	and	O
+export_25	revenues	O

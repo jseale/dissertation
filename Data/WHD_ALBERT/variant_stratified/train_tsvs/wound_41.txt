@@ -1,0 +1,17 @@
+wound_41	The	O
+wound_41	secretome	O
+wound_41	of	O
+wound_41	peripheral	O
+wound_41	blood	O
+wound_41	mononuclear	O
+wound_41	cells	O
+wound_41	PBMCs	O
+wound_41	has	O
+wound_41	been	O
+wound_41	shown	O
+wound_41	to	O
+wound_41	improve	O
+wound_41	wound	wound_nou-vrb
+wound_41	healing	O
+wound_41	in	O
+wound_41	mice	O

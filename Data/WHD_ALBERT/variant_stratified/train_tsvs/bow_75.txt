@@ -1,0 +1,13 @@
+bow_75	There	O
+bow_75	were	O
+bow_75	no	O
+bow_75	reported	O
+bow_75	casualties	O
+bow_75	and	O
+bow_75	she	O
+bow_75	sustained	O
+bow_75	minor	O
+bow_75	damages	O
+bow_75	to	O
+bow_75	the	O
+bow_75	bow	bow_nou-ship

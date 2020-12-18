@@ -1,0 +1,16 @@
+convict_61	Then	O
+convict_61	in	O
+convict_61	January	O
+convict_61	1833	O
+convict_61	she	O
+convict_61	was	O
+convict_61	fitted	O
+convict_61	as	O
+convict_61	a	O
+convict_61	convict	convict_nou
+convict_61	ship	O
+convict_61	and	O
+convict_61	F.W.R.	O
+convict_61	Sadler	O
+convict_61	took	O
+convict_61	command	O

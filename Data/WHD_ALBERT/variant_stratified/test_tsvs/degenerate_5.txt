@@ -1,0 +1,10 @@
+degenerate_5	This	O
+degenerate_5	kind	O
+degenerate_5	of	O
+degenerate_5	situation	O
+degenerate_5	is	O
+degenerate_5	called	O
+degenerate_5	a	O
+degenerate_5	degenerate	degenerate_adj-nou
+degenerate_5	critical	O
+degenerate_5	point	O

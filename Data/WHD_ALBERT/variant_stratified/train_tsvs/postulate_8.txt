@@ -1,0 +1,10 @@
+postulate_8	The	O
+postulate_8	Hammond	O
+postulate_8	postulate	postulate_nou
+postulate_8	is	O
+postulate_8	the	O
+postulate_8	opposite	O
+postulate_8	of	O
+postulate_8	what	O
+postulate_8	Bunnett	O
+postulate_8	theorized	O

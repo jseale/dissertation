@@ -1,0 +1,17 @@
+uses_37	Tehkan	O
+uses_37	World	O
+uses_37	Cup	O
+uses_37	uses	uses_vrb
+uses_37	two	O
+uses_37	Zilog	O
+uses_37	Z80C	O
+uses_37	8-bit	O
+uses_37	CPU	O
+uses_37	microprocessors	O
+uses_37	at	O
+uses_37	4.608	O
+uses_37	MHz	O
+uses_37	clock	O
+uses_37	rate	O
+uses_37	for	O
+uses_37	processing	O

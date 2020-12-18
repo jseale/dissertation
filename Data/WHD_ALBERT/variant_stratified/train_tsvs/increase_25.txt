@@ -1,0 +1,13 @@
+increase_25	An	O
+increase_25	increase	increase_nou
+increase_25	in	O
+increase_25	with	O
+increase_25	time	O
+increase_25	denoted	O
+increase_25	by	O
+increase_25	can	O
+increase_25	take	O
+increase_25	place	O
+increase_25	in	O
+increase_25	three	O
+increase_25	ways	O

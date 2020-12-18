@@ -1,0 +1,12 @@
+import_3	In	O
+import_3	1957	O
+import_3	Sakata	O
+import_3	was	O
+import_3	designated	O
+import_3	a	O
+import_3	port	O
+import_3	for	O
+import_3	the	O
+import_3	import	import_nou
+import_3	of	O
+import_3	timber	O

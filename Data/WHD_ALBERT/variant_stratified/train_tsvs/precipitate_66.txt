@@ -1,0 +1,14 @@
+precipitate_66	Football	O
+precipitate_66	rivals	O
+precipitate_66	and	O
+precipitate_66	political	O
+precipitate_66	adversaries	O
+precipitate_66	from	O
+precipitate_66	the	O
+precipitate_66	Balkans	O
+precipitate_66	all	O
+precipitate_66	precipitate	precipitate_vrb
+precipitate_66	conflict	O
+precipitate_66	and	O
+precipitate_66	amusing	O
+precipitate_66	situations	O

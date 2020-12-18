@@ -1,0 +1,14 @@
+contest_65	She	O
+contest_65	represented	O
+contest_65	Sweden	O
+contest_65	in	O
+contest_65	Eurovision	O
+contest_65	Song	O
+contest_65	Contest	contest_nou
+contest_65	1987	O
+contest_65	with	O
+contest_65	Boogaloo	O
+contest_65	after	O
+contest_65	winning	O
+contest_65	Melodifestivalen	O
+contest_65	1987	O

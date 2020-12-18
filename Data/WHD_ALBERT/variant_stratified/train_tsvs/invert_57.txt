@@ -1,0 +1,15 @@
+invert_57	The	O
+invert_57	Sandbaggers	O
+invert_57	aimed	O
+invert_57	to	O
+invert_57	invert	invert_vrb
+invert_57	most	O
+invert_57	of	O
+invert_57	the	O
+invert_57	accepted	O
+invert_57	conventions	O
+invert_57	of	O
+invert_57	the	O
+invert_57	spy	O
+invert_57	thriller	O
+invert_57	genre	O

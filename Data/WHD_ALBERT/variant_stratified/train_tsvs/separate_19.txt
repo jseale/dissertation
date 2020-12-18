@@ -1,0 +1,8 @@
+separate_19	It	O
+separate_19	became	O
+separate_19	a	O
+separate_19	separate	separate_adj
+separate_19	civil	O
+separate_19	parish	O
+separate_19	in	O
+separate_19	1866	O

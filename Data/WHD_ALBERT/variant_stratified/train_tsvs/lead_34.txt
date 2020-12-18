@@ -1,0 +1,12 @@
+lead_34	The	O
+lead_34	Packers	O
+lead_34	would	O
+lead_34	hold	O
+lead_34	the	O
+lead_34	lead	lead_nou-vrb
+lead_34	for	O
+lead_34	the	O
+lead_34	rest	O
+lead_34	of	O
+lead_34	the	O
+lead_34	game	O

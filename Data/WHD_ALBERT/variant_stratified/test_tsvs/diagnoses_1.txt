@@ -1,0 +1,16 @@
+diagnoses_1	The	O
+diagnoses_1	primary	O
+diagnoses_1	diagnoses	diagnoses_nou
+diagnoses_1	treated	O
+diagnoses_1	are	O
+diagnoses_1	HIV	O
+diagnoses_1	AIDS	O
+diagnoses_1	or	O
+diagnoses_1	related	O
+diagnoses_1	complications	O
+diagnoses_1	TB	O
+diagnoses_1	malaria	O
+diagnoses_1	diarrheal	O
+diagnoses_1	diseases	O
+diagnoses_1	and	O
+diagnoses_1	parasites	O

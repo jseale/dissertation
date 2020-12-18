@@ -1,0 +1,15 @@
+diffuse_26	Similar	O
+diffuse_26	but	O
+diffuse_26	the	O
+diffuse_26	tawny	O
+diffuse_26	yellow	O
+diffuse_26	on	O
+diffuse_26	the	O
+diffuse_26	upperside	O
+diffuse_26	paler	O
+diffuse_26	the	O
+diffuse_26	markings	O
+diffuse_26	larger	O
+diffuse_26	and	O
+diffuse_26	somewhat	O
+diffuse_26	diffuse	diffuse_adj

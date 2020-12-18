@@ -1,0 +1,17 @@
+delegate_44	In	O
+delegate_44	1976	O
+delegate_44	Griffin	O
+delegate_44	ran	O
+delegate_44	as	O
+delegate_44	an	O
+delegate_44	alternate	O
+delegate_44	delegate	delegate_nou
+delegate_44	to	O
+delegate_44	the	O
+delegate_44	Democratic	O
+delegate_44	National	O
+delegate_44	Convention	O
+delegate_44	pledged	O
+delegate_44	to	O
+delegate_44	U.S.	O
+delegate_44	Rep.	O

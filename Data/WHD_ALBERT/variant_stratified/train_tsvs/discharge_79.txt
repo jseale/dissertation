@@ -1,0 +1,12 @@
+discharge_79	The	O
+discharge_79	eastern	O
+discharge_79	platform	O
+discharge_79	is	O
+discharge_79	a	O
+discharge_79	side	O
+discharge_79	platform	O
+discharge_79	used	O
+discharge_79	only	O
+discharge_79	to	O
+discharge_79	discharge	discharge_vrb
+discharge_79	passengers	O

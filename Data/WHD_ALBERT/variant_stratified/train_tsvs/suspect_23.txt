@@ -1,0 +1,13 @@
+suspect_23	Susan	O
+suspect_23	Parker	O
+suspect_23	was	O
+suspect_23	loosely	O
+suspect_23	based	O
+suspect_23	upon	O
+suspect_23	Helen	O
+suspect_23	Mirren	O
+suspect_23	's	O
+suspect_23	character	O
+suspect_23	in	O
+suspect_23	Prime	O
+suspect_23	Suspect	suspect_adj-nou

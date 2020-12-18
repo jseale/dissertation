@@ -1,0 +1,16 @@
+fragment_8	The	O
+fragment_8	fragment	fragment_nou
+fragment_8	shows	O
+fragment_8	a	O
+fragment_8	fat	O
+fragment_8	man	O
+fragment_8	riding	O
+fragment_8	a	O
+fragment_8	barrel	O
+fragment_8	in	O
+fragment_8	a	O
+fragment_8	kind	O
+fragment_8	of	O
+fragment_8	lake	O
+fragment_8	or	O
+fragment_8	pool	O

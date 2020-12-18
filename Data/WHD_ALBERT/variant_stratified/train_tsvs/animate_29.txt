@@ -1,0 +1,14 @@
+animate_29	SingularPluralNote	O
+animate_29	animate	animate_adj-nou
+animate_29	objects	O
+animate_29	people	O
+animate_29	and	O
+animate_29	animals	O
+animate_29	are	O
+animate_29	treated	O
+animate_29	differently	O
+animate_29	in	O
+animate_29	the	O
+animate_29	singular	O
+animate_29	masculine	O
+animate_29	accusative	O

@@ -1,0 +1,15 @@
+conduct_39	Together	O
+conduct_39	these	O
+conduct_39	programs	O
+conduct_39	have	O
+conduct_39	taught	O
+conduct_39	us	O
+conduct_39	how	O
+conduct_39	to	O
+conduct_39	live	O
+conduct_39	build	O
+conduct_39	and	O
+conduct_39	conduct	conduct_vrb
+conduct_39	science	O
+conduct_39	in	O
+conduct_39	space	O

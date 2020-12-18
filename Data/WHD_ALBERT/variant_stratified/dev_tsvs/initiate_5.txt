@@ -1,0 +1,8 @@
+initiate_5	PLCγ	O
+initiate_5	can	O
+initiate_5	also	O
+initiate_5	initiate	initiate_vrb
+initiate_5	the	O
+initiate_5	NF	O
+initiate_5	κB	O
+initiate_5	pathway	O

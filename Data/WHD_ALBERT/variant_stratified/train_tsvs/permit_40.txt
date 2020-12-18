@@ -1,0 +1,16 @@
+permit_40	Interested	O
+permit_40	parties	O
+permit_40	must	O
+permit_40	file	O
+permit_40	an	O
+permit_40	application	O
+permit_40	for	O
+permit_40	construction	O
+permit_40	permit	permit_nou
+permit_40	during	O
+permit_40	the	O
+permit_40	appropriate	O
+permit_40	AM	O
+permit_40	application	O
+permit_40	filing	O
+permit_40	window	O

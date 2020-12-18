@@ -1,0 +1,10 @@
+animate_42	Kinect	O
+animate_42	can	O
+animate_42	be	O
+animate_42	used	O
+animate_42	to	O
+animate_42	animate	animate_vrb
+animate_42	models	O
+animate_42	and	O
+animate_42	record	O
+animate_42	audio	O

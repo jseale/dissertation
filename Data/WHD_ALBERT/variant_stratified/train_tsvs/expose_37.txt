@@ -1,0 +1,12 @@
+expose_37	Her	O
+expose_37	Grecian	O
+expose_37	Roman	O
+expose_37	costume	O
+expose_37	is	O
+expose_37	revealing	O
+expose_37	and	O
+expose_37	her	O
+expose_37	sandals	O
+expose_37	expose	expose_vrb
+expose_37	her	O
+expose_37	feet	O

@@ -1,0 +1,16 @@
+frequent_5	Rogge	O
+frequent_5	also	O
+frequent_5	was	O
+frequent_5	a	O
+frequent_5	frequent	frequent_adj
+frequent_5	presenter	O
+frequent_5	at	O
+frequent_5	the	O
+frequent_5	seminars	O
+frequent_5	of	O
+frequent_5	the	O
+frequent_5	Foundation	O
+frequent_5	for	O
+frequent_5	Economic	O
+frequent_5	Education	O
+frequent_5	FEE	O

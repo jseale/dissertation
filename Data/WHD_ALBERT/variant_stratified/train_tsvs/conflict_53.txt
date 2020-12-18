@@ -1,0 +1,11 @@
+conflict_53	Differences	O
+conflict_53	are	O
+conflict_53	more	O
+conflict_53	a	O
+conflict_53	matter	O
+conflict_53	of	O
+conflict_53	mutual	O
+conflict_53	curiosity	O
+conflict_53	rather	O
+conflict_53	than	O
+conflict_53	conflict	conflict_nou

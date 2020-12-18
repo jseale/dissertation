@@ -1,0 +1,9 @@
+wound_18	Wound	wound_nou-vrb
+wound_18	and	O
+wound_18	pathogen	O
+wound_18	response	O
+wound_18	appear	O
+wound_18	to	O
+wound_18	be	O
+wound_18	interact	O
+wound_18	negatively	O

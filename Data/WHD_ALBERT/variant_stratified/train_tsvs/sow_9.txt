@@ -1,0 +1,16 @@
+sow_9	Vadhirajaru	O
+sow_9	with	O
+sow_9	his	O
+sow_9	divine	O
+sow_9	powers	O
+sow_9	gave	O
+sow_9	some	O
+sow_9	seeds	O
+sow_9	of	O
+sow_9	Brinjal	O
+sow_9	to	O
+sow_9	Mattu	O
+sow_9	Brahmins	O
+sow_9	to	O
+sow_9	sow	sow
+sow_9	it	O

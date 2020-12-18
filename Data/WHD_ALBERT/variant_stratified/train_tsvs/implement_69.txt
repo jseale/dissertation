@@ -1,0 +1,11 @@
+implement_69	Using	O
+implement_69	tunnel	O
+implement_69	mode	O
+implement_69	capability	O
+implement_69	firewall	O
+implement_69	can	O
+implement_69	be	O
+implement_69	used	O
+implement_69	to	O
+implement_69	implement	implement_vrb
+implement_69	VPNs	O

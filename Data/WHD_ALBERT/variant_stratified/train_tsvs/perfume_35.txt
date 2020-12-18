@@ -1,0 +1,15 @@
+perfume_35	Jade	O
+perfume_35	considers	O
+perfume_35	releasing	O
+perfume_35	her	O
+perfume_35	own	O
+perfume_35	perfume	perfume_nou
+perfume_35	brand	O
+perfume_35	and	O
+perfume_35	opening	O
+perfume_35	up	O
+perfume_35	more	O
+perfume_35	branches	O
+perfume_35	of	O
+perfume_35	her	O
+perfume_35	salon	O

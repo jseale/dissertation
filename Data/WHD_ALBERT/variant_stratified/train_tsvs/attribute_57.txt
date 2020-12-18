@@ -1,0 +1,16 @@
+attribute_57	Individuals	O
+attribute_57	with	O
+attribute_57	high	O
+attribute_57	self	O
+attribute_57	awareness	O
+attribute_57	attribute	attribute_vrb
+attribute_57	failure	O
+attribute_57	internally	O
+attribute_57	when	O
+attribute_57	they	O
+attribute_57	perceive	O
+attribute_57	a	O
+attribute_57	high	O
+attribute_57	probability	O
+attribute_57	of	O
+attribute_57	improvement	O

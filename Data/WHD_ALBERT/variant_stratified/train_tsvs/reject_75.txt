@@ -1,0 +1,17 @@
+reject_75	The	O
+reject_75	Parliament	O
+reject_75	has	O
+reject_75	no	O
+reject_75	power	O
+reject_75	to	O
+reject_75	reject	reject_vrb
+reject_75	or	O
+reject_75	amend	O
+reject_75	the	O
+reject_75	final	O
+reject_75	determination	O
+reject_75	of	O
+reject_75	the	O
+reject_75	augmented	O
+reject_75	Electoral	O
+reject_75	Commission	O

@@ -1,0 +1,17 @@
+conflict_28	The	O
+conflict_28	arsonist	O
+conflict_28	calling	O
+conflict_28	himself	O
+conflict_28	Enfer	O
+conflict_28	continues	O
+conflict_28	his	O
+conflict_28	rampage	O
+conflict_28	of	O
+conflict_28	destruction	O
+conflict_28	and	O
+conflict_28	comes	O
+conflict_28	into	O
+conflict_28	conflict	conflict_nou
+conflict_28	with	O
+conflict_28	the	O
+conflict_28	Joker	O

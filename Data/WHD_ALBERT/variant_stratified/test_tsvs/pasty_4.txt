@@ -1,0 +1,9 @@
+pasty_4	Meet	O
+pasty_4	Ambassador	O
+pasty_4	Matt	O
+pasty_4	Grant	O
+pasty_4	world	O
+pasty_4	envoy	O
+pasty_4	for	O
+pasty_4	the	O
+pasty_4	pasty	pasty_adj

@@ -1,0 +1,12 @@
+conduct_78	So	O
+conduct_78	the	O
+conduct_78	liquid	O
+conduct_78	oil	O
+conduct_78	or	O
+conduct_78	any	O
+conduct_78	organic	O
+conduct_78	compound	O
+conduct_78	can	O
+conduct_78	not	O
+conduct_78	conduct	conduct_vrb
+conduct_78	electricity	O

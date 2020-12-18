@@ -1,0 +1,8 @@
+reject_22	Based	O
+reject_22	on	O
+reject_22	this	O
+reject_22	they	O
+reject_22	chose	O
+reject_22	to	O
+reject_22	reject	reject_vrb
+reject_22	secession	O

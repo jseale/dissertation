@@ -1,0 +1,12 @@
+decrease_54	However	O
+decrease_54	smaller	O
+decrease_54	pores	O
+decrease_54	increase	O
+decrease_54	equivalent	O
+decrease_54	series	O
+decrease_54	resistance	O
+decrease_54	ESR	O
+decrease_54	and	O
+decrease_54	decrease	decrease_vrb
+decrease_54	specific	O
+decrease_54	power	O

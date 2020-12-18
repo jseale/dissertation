@@ -1,0 +1,12 @@
+invert_15	However	O
+invert_15	an	O
+invert_15	invert	invert_adj-nou
+invert_15	error	O
+invert_15	occurred	O
+invert_15	during	O
+invert_15	production	O
+invert_15	showing	O
+invert_15	the	O
+invert_15	head	O
+invert_15	upside	O
+invert_15	down	O

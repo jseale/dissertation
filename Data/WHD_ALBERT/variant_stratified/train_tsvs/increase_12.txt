@@ -1,0 +1,13 @@
+increase_12	These	O
+increase_12	farmers	O
+increase_12	are	O
+increase_12	experiencing	O
+increase_12	a	O
+increase_12	123	O
+increase_12	increase	increase_nou
+increase_12	of	O
+increase_12	maize	O
+increase_12	their	O
+increase_12	yields	O
+increase_12	on	O
+increase_12	average	O

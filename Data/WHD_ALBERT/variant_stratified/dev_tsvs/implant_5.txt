@@ -1,0 +1,13 @@
+implant_5	The	O
+implant_5	Zygoma	O
+implant_5	implant	implant_nou
+implant_5	is	O
+implant_5	available	O
+implant_5	in	O
+implant_5	lengths	O
+implant_5	ranging	O
+implant_5	from	O
+implant_5	30	O
+implant_5	to	O
+implant_5	52.5	O
+implant_5	mm	O

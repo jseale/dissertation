@@ -1,0 +1,9 @@
+increment_12	This	O
+increment_12	requires	O
+increment_12	our	O
+increment_12	increment	increment_nou
+increment_12	function	O
+increment_12	be	O
+increment_12	sufficiently	O
+increment_12	well	O
+increment_12	behaved	O

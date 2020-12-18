@@ -1,0 +1,17 @@
+affect_26	It	O
+affect_26	is	O
+affect_26	not	O
+affect_26	reserved	O
+affect_26	for	O
+affect_26	antique	O
+affect_26	objects	O
+affect_26	but	O
+affect_26	can	O
+affect_26	affect	affect
+affect_26	contemporary	O
+affect_26	metals	O
+affect_26	like	O
+affect_26	modern	O
+affect_26	cupro	O
+affect_26	nickel	O
+affect_26	coins	O

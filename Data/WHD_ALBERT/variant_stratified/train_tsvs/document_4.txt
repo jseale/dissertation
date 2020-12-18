@@ -1,0 +1,15 @@
+document_4	It	O
+document_4	was	O
+document_4	mentioned	O
+document_4	in	O
+document_4	a	O
+document_4	document	document_nou
+document_4	of	O
+document_4	1019	O
+document_4	with	O
+document_4	the	O
+document_4	name	O
+document_4	of	O
+document_4	Pieve	O
+document_4	di	O
+document_4	Soana	O

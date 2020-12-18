@@ -1,0 +1,8 @@
+aged_34	Catherine	O
+aged_34	Lydon	O
+aged_34	sister	O
+aged_34	unmarried	O
+aged_34	aged	aged
+aged_34	18	O
+aged_34	birthplace	O
+aged_34	Ireland	O

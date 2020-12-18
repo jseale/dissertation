@@ -1,0 +1,13 @@
+convert_51	Whether	O
+convert_51	the	O
+convert_51	Christmas	O
+convert_51	visions	O
+convert_51	would	O
+convert_51	or	O
+convert_51	would	O
+convert_51	not	O
+convert_51	convert	convert_vrb
+convert_51	Scrooge	O
+convert_51	they	O
+convert_51	convert	convert_vrb
+convert_51	us	O

@@ -1,0 +1,11 @@
+laminate_70	Another	O
+laminate_70	major	O
+laminate_70	employer	O
+laminate_70	manufactures	O
+laminate_70	laminate	laminate_nou
+laminate_70	flooring	O
+laminate_70	which	O
+laminate_70	is	O
+laminate_70	sold	O
+laminate_70	throughout	O
+laminate_70	Europe	O

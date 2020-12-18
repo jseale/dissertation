@@ -1,0 +1,16 @@
+wind_10	6,788	O
+wind_10	yards	O
+wind_10	wind	wind_vrb
+wind_10	their	O
+wind_10	way	O
+wind_10	through	O
+wind_10	125	O
+wind_10	acres	O
+wind_10	0.51	O
+wind_10	km²	O
+wind_10	to	O
+wind_10	make	O
+wind_10	up	O
+wind_10	the	O
+wind_10	golf	O
+wind_10	course	O

@@ -1,0 +1,14 @@
+correlate_6	The	O
+correlate_6	histologic	O
+correlate_6	correlate	correlate_nou
+correlate_6	of	O
+correlate_6	acute	O
+correlate_6	prostatitis	O
+correlate_6	is	O
+correlate_6	a	O
+correlate_6	neutrophilic	O
+correlate_6	infiltration	O
+correlate_6	of	O
+correlate_6	the	O
+correlate_6	prostate	O
+correlate_6	gland	O

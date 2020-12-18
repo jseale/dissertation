@@ -1,0 +1,17 @@
+abuse_0	There	O
+abuse_0	were	O
+abuse_0	incidences	O
+abuse_0	of	O
+abuse_0	abuse	abuse_nou
+abuse_0	however	O
+abuse_0	with	O
+abuse_0	one	O
+abuse_0	example	O
+abuse_0	having	O
+abuse_0	been	O
+abuse_0	recorded	O
+abuse_0	in	O
+abuse_0	the	O
+abuse_0	Records	O
+abuse_0	of	O
+abuse_0	Officialdom	O

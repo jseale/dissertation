@@ -1,0 +1,11 @@
+precipitate_3	Filtration	O
+precipitate_3	Collect	O
+precipitate_3	thorium	O
+precipitate_3	phosphate	O
+precipitate_3	precipitate	precipitate_adj-nou
+precipitate_3	during	O
+precipitate_3	filtration	O
+precipitate_3	of	O
+precipitate_3	neutralized	O
+precipitate_3	monazite	O
+precipitate_3	solution	O

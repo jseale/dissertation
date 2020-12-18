@@ -1,0 +1,9 @@
+polish_8	Polish	polish_geo
+polish_8	consul	O
+polish_8	general	O
+polish_8	in	O
+polish_8	Vancouver	O
+polish_8	demands	O
+polish_8	answers	O
+polish_8	for	O
+polish_8	death	O

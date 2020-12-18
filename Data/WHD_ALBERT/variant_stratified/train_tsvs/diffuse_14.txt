@@ -1,0 +1,13 @@
+diffuse_14	Intellect	O
+diffuse_14	intuition	O
+diffuse_14	analytic	O
+diffuse_14	holistic	O
+diffuse_14	convergent	O
+diffuse_14	divergent	O
+diffuse_14	abstract	O
+diffuse_14	concrete	O
+diffuse_14	focal	O
+diffuse_14	diffuse	diffuse_adj
+diffuse_14	objective	O
+diffuse_14	subjective	O
+diffuse_14	etc	O

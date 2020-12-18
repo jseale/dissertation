@@ -1,0 +1,17 @@
+attribute_35	The	O
+attribute_35	military	O
+attribute_35	background	O
+attribute_35	of	O
+attribute_35	the	O
+attribute_35	organization	O
+attribute_35	was	O
+attribute_35	a	O
+attribute_35	useful	O
+attribute_35	attribute	attribute_nou
+attribute_35	in	O
+attribute_35	an	O
+attribute_35	environment	O
+attribute_35	of	O
+attribute_35	tyranny	O
+attribute_35	and	O
+attribute_35	genocide	O

@@ -1,0 +1,12 @@
+discard_28	Discard	discard_vrb
+discard_28	the	O
+discard_28	salt	O
+discard_28	mix	O
+discard_28	the	O
+discard_28	red	O
+discard_28	oil	O
+discard_28	back	O
+discard_28	into	O
+discard_28	the	O
+discard_28	black	O
+discard_28	material	O

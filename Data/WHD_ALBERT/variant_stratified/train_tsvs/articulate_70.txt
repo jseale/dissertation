@@ -1,0 +1,17 @@
+articulate_70	Both	O
+articulate_70	guns	O
+articulate_70	have	O
+articulate_70	been	O
+articulate_70	restored	O
+articulate_70	so	O
+articulate_70	visitors	O
+articulate_70	can	O
+articulate_70	traverse	O
+articulate_70	turn	O
+articulate_70	the	O
+articulate_70	guns	O
+articulate_70	and	O
+articulate_70	articulate	articulate_vrb
+articulate_70	the	O
+articulate_70	breech	O
+articulate_70	blocks	O

@@ -1,0 +1,14 @@
+abuses_69	His	O
+abuses_69	father	O
+abuses_69	abuses	abuses_vrb
+abuses_69	him	O
+abuses_69	causing	O
+abuses_69	him	O
+abuses_69	to	O
+abuses_69	act	O
+abuses_69	the	O
+abuses_69	way	O
+abuses_69	he	O
+abuses_69	does	O
+abuses_69	at	O
+abuses_69	school	O

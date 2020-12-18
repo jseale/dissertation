@@ -1,0 +1,14 @@
+progress_39	Christy	O
+progress_39	Harvey	O
+progress_39	is	O
+progress_39	the	O
+progress_39	Director	O
+progress_39	of	O
+progress_39	Strategic	O
+progress_39	Communications	O
+progress_39	at	O
+progress_39	the	O
+progress_39	Center	O
+progress_39	for	O
+progress_39	American	O
+progress_39	Progress	progress_nou

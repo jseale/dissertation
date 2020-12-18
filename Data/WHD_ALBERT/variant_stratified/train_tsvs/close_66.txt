@@ -1,0 +1,14 @@
+close_66	It	O
+close_66	is	O
+close_66	close	close_adj-nou
+close_66	to	O
+close_66	the	O
+close_66	Bibi	O
+close_66	ka	O
+close_66	Alawa	O
+close_66	HEH	O
+close_66	Nizam	O
+close_66	's	O
+close_66	Museum	O
+close_66	Salarjung	O
+close_66	Museum	O

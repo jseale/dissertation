@@ -1,0 +1,9 @@
+affiliate_46	WVAM	O
+affiliate_46	is	O
+affiliate_46	the	O
+affiliate_46	ESPN	O
+affiliate_46	Radio	O
+affiliate_46	affiliate	affiliate_nou
+affiliate_46	of	O
+affiliate_46	Altoona	O
+affiliate_46	Pennsylvania	O

@@ -1,0 +1,17 @@
+combine_31	Suffren	O
+combine_31	and	O
+combine_31	Gaulois	O
+combine_31	had	O
+combine_31	to	O
+combine_31	combine	combine_vrb
+combine_31	their	O
+combine_31	fire	O
+combine_31	with	O
+combine_31	that	O
+combine_31	of	O
+combine_31	Inflexible	O
+combine_31	before	O
+combine_31	Vengeance	O
+combine_31	could	O
+combine_31	successfully	O
+combine_31	withdraw	O

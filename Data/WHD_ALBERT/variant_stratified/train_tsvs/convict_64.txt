@@ -1,0 +1,11 @@
+convict_64	It	O
+convict_64	had	O
+convict_64	been	O
+convict_64	built	O
+convict_64	by	O
+convict_64	the	O
+convict_64	provincial	O
+convict_64	administration	O
+convict_64	using	O
+convict_64	convict	convict_nou
+convict_64	labour	O

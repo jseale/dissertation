@@ -1,0 +1,11 @@
+reject_59	We	O
+reject_59	reject	reject_vrb
+reject_59	your	O
+reject_59	claims	O
+reject_59	and	O
+reject_59	will	O
+reject_59	never	O
+reject_59	submit	O
+reject_59	to	O
+reject_59	your	O
+reject_59	authority	O

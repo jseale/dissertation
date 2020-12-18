@@ -1,0 +1,17 @@
+abuses_0	For	O
+abuses_0	example	O
+abuses_0	a	O
+abuses_0	World	O
+abuses_0	Rainforest	O
+abuses_0	Movement	O
+abuses_0	report	O
+abuses_0	documents	O
+abuses_0	land	O
+abuses_0	disputes	O
+abuses_0	and	O
+abuses_0	human	O
+abuses_0	rights	O
+abuses_0	abuses	abuses_nou
+abuses_0	at	O
+abuses_0	Mount	O
+abuses_0	Elgon	O

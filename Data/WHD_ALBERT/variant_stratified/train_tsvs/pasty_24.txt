@@ -1,0 +1,17 @@
+pasty_24	For	O
+pasty_24	instance	O
+pasty_24	the	O
+pasty_24	licky	O
+pasty_24	pasty	pasty_adj
+pasty_24	contained	O
+pasty_24	mostly	O
+pasty_24	leeks	O
+pasty_24	and	O
+pasty_24	the	O
+pasty_24	herb	O
+pasty_24	pasty	pasty_adj
+pasty_24	contained	O
+pasty_24	watercress	O
+pasty_24	parsley	O
+pasty_24	and	O
+pasty_24	shallots	O

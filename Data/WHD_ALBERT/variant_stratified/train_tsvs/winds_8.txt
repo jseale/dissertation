@@ -1,0 +1,12 @@
+winds_8	Strong	O
+winds_8	winds	winds_nou
+winds_8	also	O
+winds_8	uprooted	O
+winds_8	trees	O
+winds_8	and	O
+winds_8	downed	O
+winds_8	power	O
+winds_8	lines	O
+winds_8	in	O
+winds_8	several	O
+winds_8	states	O

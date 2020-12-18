@@ -1,0 +1,17 @@
+bass_50	It	O
+bass_50	is	O
+bass_50	one	O
+bass_50	of	O
+bass_50	the	O
+bass_50	few	O
+bass_50	Deep	O
+bass_50	Purple	O
+bass_50	songs	O
+bass_50	to	O
+bass_50	feature	O
+bass_50	Ian	O
+bass_50	Paice	O
+bass_50	using	O
+bass_50	double	O
+bass_50	bass	bass
+bass_50	drums	O

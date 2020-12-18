@@ -1,0 +1,12 @@
+laminate_14	Several	O
+laminate_14	bicycle	O
+laminate_14	frames	O
+laminate_14	have	O
+laminate_14	been	O
+laminate_14	made	O
+laminate_14	of	O
+laminate_14	wood	O
+laminate_14	either	O
+laminate_14	solid	O
+laminate_14	or	O
+laminate_14	laminate	laminate_nou

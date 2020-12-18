@@ -1,0 +1,14 @@
+wind_35	Like	O
+wind_35	most	O
+wind_35	extremely	O
+wind_35	massive	O
+wind_35	stars	O
+wind_35	HD	O
+wind_35	151932	O
+wind_35	is	O
+wind_35	losing	O
+wind_35	mass	O
+wind_35	via	O
+wind_35	its	O
+wind_35	stellar	O
+wind_35	wind	wind_nou

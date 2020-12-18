@@ -1,0 +1,7 @@
+combine_48	To	O
+combine_48	form	O
+combine_48	a	O
+combine_48	substance	O
+combine_48	they	O
+combine_48	must	O
+combine_48	combine	combine_vrb

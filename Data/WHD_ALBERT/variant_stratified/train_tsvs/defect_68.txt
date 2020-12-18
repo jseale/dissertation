@@ -1,0 +1,11 @@
+defect_68	The	O
+defect_68	following	O
+defect_68	table	O
+defect_68	lists	O
+defect_68	some	O
+defect_68	binding	O
+defect_68	energies	O
+defect_68	and	O
+defect_68	mass	O
+defect_68	defect	defect_nou
+defect_68	values	O

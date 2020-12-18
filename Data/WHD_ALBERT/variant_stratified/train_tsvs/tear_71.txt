@@ -1,0 +1,12 @@
+tear_71	This	O
+tear_71	sets	O
+tear_71	off	O
+tear_71	a	O
+tear_71	series	O
+tear_71	of	O
+tear_71	explosions	O
+tear_71	that	O
+tear_71	tear	tear_vrb
+tear_71	the	O
+tear_71	facility	O
+tear_71	apart	O

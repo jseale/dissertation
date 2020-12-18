@@ -1,0 +1,16 @@
+misuse_3	In	O
+misuse_3	2002	O
+misuse_3	the	O
+misuse_3	UN	O
+misuse_3	GA	O
+misuse_3	adopted	O
+misuse_3	a	O
+misuse_3	second	O
+misuse_3	resolution	O
+misuse_3	on	O
+misuse_3	the	O
+misuse_3	criminal	O
+misuse_3	misuse	misuse_nou
+misuse_3	of	O
+misuse_3	information	O
+misuse_3	technology	O

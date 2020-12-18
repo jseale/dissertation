@@ -1,0 +1,9 @@
+combine_40	It	O
+combine_40	would	O
+combine_40	combine	combine_vrb
+combine_40	puppets	O
+combine_40	dancers	O
+combine_40	acrobats	O
+combine_40	and	O
+combine_40	animated	O
+combine_40	backdrops	O

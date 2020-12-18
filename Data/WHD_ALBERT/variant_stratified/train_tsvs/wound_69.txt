@@ -1,0 +1,10 @@
+wound_69	The	O
+wound_69	company	O
+wound_69	soon	O
+wound_69	wound	wound_vrb
+wound_69	up	O
+wound_69	and	O
+wound_69	made	O
+wound_69	no	O
+wound_69	more	O
+wound_69	movies	O

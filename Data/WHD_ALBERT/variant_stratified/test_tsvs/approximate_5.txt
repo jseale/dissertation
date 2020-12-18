@@ -1,0 +1,11 @@
+approximate_5	The	O
+approximate_5	model	O
+approximate_5	number	O
+approximate_5	indicates	O
+approximate_5	the	O
+approximate_5	approximate	approximate_adj-nou
+approximate_5	wing	O
+approximate_5	area	O
+approximate_5	in	O
+approximate_5	square	O
+approximate_5	meters	O

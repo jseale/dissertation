@@ -1,0 +1,9 @@
+ornament_20	She	O
+ornament_20	wears	O
+ornament_20	a	O
+ornament_20	hair	O
+ornament_20	ornament	ornament_nou
+ornament_20	shaped	O
+ornament_20	like	O
+ornament_20	a	O
+ornament_20	fish	O

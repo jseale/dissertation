@@ -1,0 +1,13 @@
+alternate_45	She	O
+alternate_45	was	O
+alternate_45	an	O
+alternate_45	alternate	alternate_adj-nou
+alternate_45	to	O
+alternate_45	the	O
+alternate_45	artistic	O
+alternate_45	gymnastics	O
+alternate_45	team	O
+alternate_45	at	O
+alternate_45	the	O
+alternate_45	1992	O
+alternate_45	Olympics	O

@@ -1,0 +1,17 @@
+associate_7	He	O
+associate_7	was	O
+associate_7	reportedly	O
+associate_7	a	O
+associate_7	close	O
+associate_7	associate	associate_adj-nou
+associate_7	of	O
+associate_7	gangster	O
+associate_7	Tommy	O
+associate_7	Lucchese	O
+associate_7	who	O
+associate_7	helped	O
+associate_7	Impellitteri	O
+associate_7	's	O
+associate_7	rise	O
+associate_7	in	O
+associate_7	politics	O

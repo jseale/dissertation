@@ -1,0 +1,11 @@
+present_38	At	O
+present_38	present	present_adj-nou
+present_38	Fiame	O
+present_38	is	O
+present_38	the	O
+present_38	Minister	O
+present_38	of	O
+present_38	Justice	O
+present_38	and	O
+present_38	Courts	O
+present_38	Administration	O

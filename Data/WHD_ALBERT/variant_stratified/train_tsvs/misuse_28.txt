@@ -1,0 +1,13 @@
+misuse_28	Misuse	misuse_nou
+misuse_28	may	O
+misuse_28	diminish	O
+misuse_28	their	O
+misuse_28	protective	O
+misuse_28	value	O
+misuse_28	and	O
+misuse_28	undermine	O
+misuse_28	the	O
+misuse_28	effectiveness	O
+misuse_28	of	O
+misuse_28	humanitarian	O
+misuse_28	workers	O

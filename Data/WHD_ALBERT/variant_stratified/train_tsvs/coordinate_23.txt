@@ -1,0 +1,11 @@
+coordinate_23	For	O
+coordinate_23	other	O
+coordinate_23	coordinate	coordinate_adj-nou
+coordinate_23	systems	O
+coordinate_23	the	O
+coordinate_23	coordinates	O
+coordinate_23	curves	O
+coordinate_23	may	O
+coordinate_23	be	O
+coordinate_23	general	O
+coordinate_23	curves	O

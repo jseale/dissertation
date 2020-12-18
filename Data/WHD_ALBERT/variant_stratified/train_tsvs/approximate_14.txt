@@ -1,0 +1,14 @@
+approximate_14	The	O
+approximate_14	tiers	O
+approximate_14	or	O
+approximate_14	levels	O
+approximate_14	here	O
+approximate_14	are	O
+approximate_14	approximate	approximate_adj-nou
+approximate_14	and	O
+approximate_14	not	O
+approximate_14	specifically	O
+approximate_14	so	O
+approximate_14	designated	O
+approximate_14	by	O
+approximate_14	USSF	O

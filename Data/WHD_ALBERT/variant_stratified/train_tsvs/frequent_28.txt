@@ -1,0 +1,13 @@
+frequent_28	Serra	O
+frequent_28	also	O
+frequent_28	was	O
+frequent_28	a	O
+frequent_28	frequent	frequent_adj
+frequent_28	contributor	O
+frequent_28	to	O
+frequent_28	the	O
+frequent_28	former	O
+frequent_28	Barcelona	O
+frequent_28	daily	O
+frequent_28	newspaper	O
+frequent_28	Avui	O

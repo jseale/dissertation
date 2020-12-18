@@ -1,0 +1,13 @@
+converse_7	In	O
+converse_7	this	O
+converse_7	club	O
+converse_7	Englishmen	O
+converse_7	and	O
+converse_7	England	O
+converse_7	educated	O
+converse_7	Peruvians	O
+converse_7	meet	O
+converse_7	and	O
+converse_7	converse	converse_vrb
+converse_7	in	O
+converse_7	English	O

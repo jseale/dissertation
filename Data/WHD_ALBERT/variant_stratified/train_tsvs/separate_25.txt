@@ -1,0 +1,16 @@
+separate_25	Works	O
+separate_25	of	O
+separate_25	certain	O
+separate_25	international	O
+separate_25	organisations	O
+separate_25	also	O
+separate_25	qualify	O
+separate_25	for	O
+separate_25	protection	O
+separate_25	under	O
+separate_25	separate	separate_adj
+separate_25	provisions	O
+separate_25	in	O
+separate_25	the	O
+separate_25	1988	O
+separate_25	Act	O

@@ -1,0 +1,14 @@
+estimate_73	Bulgarian	O
+estimate_73	researchers	O
+estimate_73	estimate	estimate_vrb
+estimate_73	that	O
+estimate_73	12,000	O
+estimate_73	Banat	O
+estimate_73	Bulgarians	O
+estimate_73	live	O
+estimate_73	in	O
+estimate_73	Romania	O
+estimate_73	and	O
+estimate_73	3,000	O
+estimate_73	in	O
+estimate_73	Serbia	O

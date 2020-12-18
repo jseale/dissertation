@@ -1,0 +1,15 @@
+aged_46	While	O
+aged_46	working	O
+aged_46	on	O
+aged_46	a	O
+aged_46	new	O
+aged_46	novel	O
+aged_46	on	O
+aged_46	20	O
+aged_46	February	O
+aged_46	2009	O
+aged_46	Nolan	O
+aged_46	died	O
+aged_46	suddenly	O
+aged_46	aged	aged
+aged_46	43	O

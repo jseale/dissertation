@@ -1,0 +1,15 @@
+conjugate_3	To	O
+conjugate_3	that	O
+conjugate_3	effect	O
+conjugate_3	one	O
+conjugate_3	has	O
+conjugate_3	to	O
+conjugate_3	find	O
+conjugate_3	quadratic	O
+conjugate_3	factors	O
+conjugate_3	for	O
+conjugate_3	pairs	O
+conjugate_3	of	O
+conjugate_3	conjugate	conjugate_adj-nou
+conjugate_3	complex	O
+conjugate_3	roots	O

@@ -1,0 +1,12 @@
+correlate_5	IB5k	O
+correlate_5	has	O
+correlate_5	three	O
+correlate_5	divisions	O
+correlate_5	Correlate	correlate_nou
+correlate_5	Analytics	O
+correlate_5	IB5k	O
+correlate_5	Interactive	O
+correlate_5	Media	O
+correlate_5	and	O
+correlate_5	IB5k	O
+correlate_5	Network	O

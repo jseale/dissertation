@@ -1,0 +1,10 @@
+produce_23	In	O
+produce_23	1993	O
+produce_23	Donruss	O
+produce_23	acquired	O
+produce_23	the	O
+produce_23	rights	O
+produce_23	to	O
+produce_23	produce	produce_vrb
+produce_23	hockey	O
+produce_23	cards	O

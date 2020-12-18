@@ -1,0 +1,16 @@
+converse_1	This	O
+converse_1	unspoken	O
+converse_1	proposition	O
+converse_1	should	O
+converse_1	be	O
+converse_1	inserted	O
+converse_1	after	O
+converse_1	the	O
+converse_1	first	O
+converse_1	proposition	O
+converse_1	and	O
+converse_1	is	O
+converse_1	merely	O
+converse_1	its	O
+converse_1	negative	O
+converse_1	converse	converse_adj-nou

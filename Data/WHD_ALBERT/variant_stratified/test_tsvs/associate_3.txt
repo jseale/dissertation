@@ -1,0 +1,12 @@
+associate_3	There	O
+associate_3	he	O
+associate_3	worked	O
+associate_3	as	O
+associate_3	an	O
+associate_3	associate	associate_adj-nou
+associate_3	designer	O
+associate_3	in	O
+associate_3	Oscar	O
+associate_3	de	O
+associate_3	la	O
+associate_3	Renta	O

@@ -1,0 +1,14 @@
+discard_6	After	O
+discard_6	a	O
+discard_6	player	O
+discard_6	refuses	O
+discard_6	to	O
+discard_6	have	O
+discard_6	a	O
+discard_6	new	O
+discard_6	discard	discard_nou
+discard_6	phase	O
+discard_6	the	O
+discard_6	playing	O
+discard_6	rounds	O
+discard_6	begin	O

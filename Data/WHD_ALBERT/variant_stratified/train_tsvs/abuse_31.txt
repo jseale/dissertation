@@ -1,0 +1,13 @@
+abuse_31	They	O
+abuse_31	also	O
+abuse_31	participate	O
+abuse_31	in	O
+abuse_31	events	O
+abuse_31	such	O
+abuse_31	as	O
+abuse_31	the	O
+abuse_31	World	O
+abuse_31	Elder	O
+abuse_31	Abuse	abuse_nou
+abuse_31	Awareness	O
+abuse_31	Day	O

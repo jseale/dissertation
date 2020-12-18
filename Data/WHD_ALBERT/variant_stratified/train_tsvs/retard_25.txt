@@ -1,0 +1,17 @@
+retard_25	They	O
+retard_25	wanted	O
+retard_25	to	O
+retard_25	retard	retard_vrb
+retard_25	British	O
+retard_25	settlement	O
+retard_25	and	O
+retard_25	buy	O
+retard_25	time	O
+retard_25	for	O
+retard_25	France	O
+retard_25	to	O
+retard_25	implement	O
+retard_25	its	O
+retard_25	Acadian	O
+retard_25	resettlement	O
+retard_25	scheme	O

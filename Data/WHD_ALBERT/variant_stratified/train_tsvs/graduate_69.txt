@@ -1,0 +1,17 @@
+graduate_69	Graduate	graduate_adj-nou
+graduate_69	programs	O
+graduate_69	require	O
+graduate_69	12	O
+graduate_69	and	O
+graduate_69	14	O
+graduate_69	as	O
+graduate_69	passing	O
+graduate_69	grades	O
+graduate_69	for	O
+graduate_69	Master	O
+graduate_69	's	O
+graduate_69	and	O
+graduate_69	Ph.D.	O
+graduate_69	level	O
+graduate_69	programs	O
+graduate_69	respectively	O

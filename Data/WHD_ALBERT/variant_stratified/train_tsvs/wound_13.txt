@@ -1,0 +1,15 @@
+wound_13	It	O
+wound_13	was	O
+wound_13	a	O
+wound_13	savage	O
+wound_13	but	O
+wound_13	skilful	O
+wound_13	attack	O
+wound_13	on	O
+wound_13	her	O
+wound_13	from	O
+wound_13	the	O
+wound_13	nature	O
+wound_13	of	O
+wound_13	the	O
+wound_13	wound	wound_nou-vrb

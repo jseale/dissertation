@@ -1,0 +1,17 @@
+implement_47	If	O
+implement_47	using	O
+implement_47	the	O
+implement_47	clone	O
+implement_47	inherited	O
+implement_47	from	O
+implement_47	Object	O
+implement_47	the	O
+implement_47	class	O
+implement_47	must	O
+implement_47	implement	implement_vrb
+implement_47	the	O
+implement_47	Cloneable	O
+implement_47	interface	O
+implement_47	to	O
+implement_47	allow	O
+implement_47	cloning	O

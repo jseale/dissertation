@@ -1,0 +1,14 @@
+perfect_20	Corresponding	O
+perfect_20	to	O
+perfect_20	each	O
+perfect_20	of	O
+perfect_20	the	O
+perfect_20	past	O
+perfect_20	tenses	O
+perfect_20	Persian	O
+perfect_20	has	O
+perfect_20	a	O
+perfect_20	set	O
+perfect_20	of	O
+perfect_20	perfect	perfect_adj
+perfect_20	tenses	O

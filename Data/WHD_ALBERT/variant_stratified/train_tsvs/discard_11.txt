@@ -1,0 +1,9 @@
+discard_11	The	O
+discard_11	discard	discard_nou
+discard_11	rate	O
+discard_11	for	O
+discard_11	each	O
+discard_11	area	O
+discard_11	is	O
+discard_11	around	O
+discard_11	10	O

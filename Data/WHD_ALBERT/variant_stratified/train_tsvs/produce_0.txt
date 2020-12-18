@@ -1,0 +1,9 @@
+produce_0	To	O
+produce_0	impart	O
+produce_0	education	O
+produce_0	in	O
+produce_0	regulated	O
+produce_0	marketing	O
+produce_0	of	O
+produce_0	agricultural	O
+produce_0	produce	produce_nou

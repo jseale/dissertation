@@ -1,0 +1,17 @@
+rodeo_24	Following	O
+rodeo_24	the	O
+rodeo_24	American	O
+rodeo_24	Civil	O
+rodeo_24	War	O
+rodeo_24	rodeo	rodeo
+rodeo_24	competitions	O
+rodeo_24	emerged	O
+rodeo_24	with	O
+rodeo_24	the	O
+rodeo_24	first	O
+rodeo_24	held	O
+rodeo_24	in	O
+rodeo_24	Cheyenne	O
+rodeo_24	Wyoming	O
+rodeo_24	in	O
+rodeo_24	1872	O

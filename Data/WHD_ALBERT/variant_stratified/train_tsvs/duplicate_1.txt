@@ -1,0 +1,17 @@
+duplicate_1	Duplicate	duplicate_adj-nou
+duplicate_1	bridge	O
+duplicate_1	is	O
+duplicate_1	played	O
+duplicate_1	in	O
+duplicate_1	clubs	O
+duplicate_1	and	O
+duplicate_1	tournaments	O
+duplicate_1	which	O
+duplicate_1	can	O
+duplicate_1	gather	O
+duplicate_1	as	O
+duplicate_1	many	O
+duplicate_1	as	O
+duplicate_1	several	O
+duplicate_1	hundred	O
+duplicate_1	players	O

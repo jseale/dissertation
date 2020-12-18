@@ -1,0 +1,13 @@
+convict_78	His	O
+convict_78	testimony	O
+convict_78	was	O
+convict_78	important	O
+convict_78	to	O
+convict_78	convict	convict_vrb
+convict_78	the	O
+convict_78	German	O
+convict_78	officers	O
+convict_78	and	O
+convict_78	guards	O
+convict_78	from	O
+convict_78	Mauthausen	O

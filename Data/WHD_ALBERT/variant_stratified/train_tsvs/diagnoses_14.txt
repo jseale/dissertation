@@ -1,0 +1,17 @@
+diagnoses_14	She	O
+diagnoses_14	initially	O
+diagnoses_14	began	O
+diagnoses_14	by	O
+diagnoses_14	treating	O
+diagnoses_14	her	O
+diagnoses_14	own	O
+diagnoses_14	children	O
+diagnoses_14	with	O
+diagnoses_14	her	O
+diagnoses_14	grandmother	O
+diagnoses_14	's	O
+diagnoses_14	guidance	O
+diagnoses_14	to	O
+diagnoses_14	confirm	O
+diagnoses_14	her	O
+diagnoses_14	diagnoses	diagnoses_nou

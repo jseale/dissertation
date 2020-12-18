@@ -1,0 +1,15 @@
+defect_63	He	O
+defect_63	finds	O
+defect_63	out	O
+defect_63	that	O
+defect_63	his	O
+defect_63	brother	O
+defect_63	suffers	O
+defect_63	from	O
+defect_63	a	O
+defect_63	congenital	O
+defect_63	heart	O
+defect_63	defect	defect_nou
+defect_63	and	O
+defect_63	needs	O
+defect_63	surgery	O

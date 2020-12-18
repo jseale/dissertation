@@ -1,0 +1,12 @@
+bass_67	Striper	O
+bass_67	and	O
+bass_67	their	O
+bass_67	hybrids	O
+bass_67	as	O
+bass_67	well	O
+bass_67	as	O
+bass_67	white	O
+bass_67	bass	bass_corp
+bass_67	are	O
+bass_67	also	O
+bass_67	abundant	O

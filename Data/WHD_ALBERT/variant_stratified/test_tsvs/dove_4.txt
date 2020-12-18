@@ -1,0 +1,12 @@
+dove_4	The	O
+dove_4	jambu	O
+dove_4	fruit	O
+dove_4	dove	dove
+dove_4	Ptilinopus	O
+dove_4	jambu	O
+dove_4	is	O
+dove_4	a	O
+dove_4	smallish	O
+dove_4	colourful	O
+dove_4	fruit	O
+dove_4	dove	dove

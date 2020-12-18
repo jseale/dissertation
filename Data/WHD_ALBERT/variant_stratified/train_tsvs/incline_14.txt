@@ -1,0 +1,11 @@
+incline_14	This	O
+incline_14	was	O
+incline_14	constructed	O
+incline_14	beside	O
+incline_14	the	O
+incline_14	original	O
+incline_14	exit	O
+incline_14	incline	incline_nou
+incline_14	to	O
+incline_14	Cwm	O
+incline_14	Orthin	O

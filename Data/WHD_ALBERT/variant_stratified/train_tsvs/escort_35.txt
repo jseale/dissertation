@@ -1,0 +1,16 @@
+escort_35	The	O
+escort_35	convoy	O
+escort_35	met	O
+escort_35	its	O
+escort_35	local	O
+escort_35	escort	escort_nou
+escort_35	on	O
+escort_35	5	O
+escort_35	December	O
+escort_35	and	O
+escort_35	arrived	O
+escort_35	in	O
+escort_35	Liverpool	O
+escort_35	later	O
+escort_35	that	O
+escort_35	day	O

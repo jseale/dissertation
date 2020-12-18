@@ -1,0 +1,7 @@
+rodeo_17	In	O
+rodeo_17	the	O
+rodeo_17	1970s	O
+rodeo_17	rodeo	rodeo
+rodeo_17	saw	O
+rodeo_17	unprecedented	O
+rodeo_17	growth	O

@@ -1,0 +1,16 @@
+produce_74	They	O
+produce_74	have	O
+produce_74	a	O
+produce_74	compact	O
+produce_74	body	O
+produce_74	and	O
+produce_74	produce	produce_vrb
+produce_74	an	O
+produce_74	average	O
+produce_74	of	O
+produce_74	one	O
+produce_74	liter	O
+produce_74	of	O
+produce_74	milk	O
+produce_74	each	O
+produce_74	day	O

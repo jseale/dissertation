@@ -1,0 +1,15 @@
+degenerate_29	In	O
+degenerate_29	1937	O
+degenerate_29	he	O
+degenerate_29	was	O
+degenerate_29	declared	O
+degenerate_29	a	O
+degenerate_29	degenerate	degenerate_adj-nou
+degenerate_29	artist	O
+degenerate_29	by	O
+degenerate_29	the	O
+degenerate_29	Nazis	O
+degenerate_29	and	O
+degenerate_29	forbidden	O
+degenerate_29	to	O
+degenerate_29	exhibit	O

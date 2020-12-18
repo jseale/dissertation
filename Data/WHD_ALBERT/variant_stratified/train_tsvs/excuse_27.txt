@@ -1,0 +1,15 @@
+excuse_27	With	O
+excuse_27	legendary	O
+excuse_27	stinginess	O
+excuse_27	Salis	O
+excuse_27	found	O
+excuse_27	every	O
+excuse_27	excuse	excuse_nou
+excuse_27	for	O
+excuse_27	not	O
+excuse_27	paying	O
+excuse_27	his	O
+excuse_27	staff	O
+excuse_27	suppliers	O
+excuse_27	and	O
+excuse_27	artists	O

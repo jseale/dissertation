@@ -1,0 +1,14 @@
+conjugate_70	Conjugate	conjugate_adj-nou
+conjugate_70	matching	O
+conjugate_70	versus	O
+conjugate_70	reflectionless	O
+conjugate_70	matching	O
+conjugate_70	PDF	O
+conjugate_70	taken	O
+conjugate_70	from	O
+conjugate_70	Electromagnetic	O
+conjugate_70	Waves	O
+conjugate_70	and	O
+conjugate_70	AntennasThe	O
+conjugate_70	Spark	O
+conjugate_70	Transmitter	O

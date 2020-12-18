@@ -1,0 +1,16 @@
+transform_1	Weapons	O
+transform_1	GearCaucasus	O
+transform_1	Kabutech	O
+transform_1	ZecterUsed	O
+transform_1	by	O
+transform_1	Issei	O
+transform_1	Kurosaki	O
+transform_1	this	O
+transform_1	Zecter	O
+transform_1	allows	O
+transform_1	the	O
+transform_1	wearer	O
+transform_1	to	O
+transform_1	transform	transform
+transform_1	into	O
+transform_1	Caucasus	O

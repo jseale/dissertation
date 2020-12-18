@@ -1,0 +1,12 @@
+ornament_18	Fancy	O
+ornament_18	Feast	O
+ornament_18	annually	O
+ornament_18	releases	O
+ornament_18	a	O
+ornament_18	limited	O
+ornament_18	edition	O
+ornament_18	ornament	ornament_nou
+ornament_18	during	O
+ornament_18	the	O
+ornament_18	Christmas	O
+ornament_18	holiday	O

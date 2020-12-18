@@ -1,0 +1,16 @@
+permit_74	Such	O
+permit_74	stand	O
+permit_74	alone	O
+permit_74	power	O
+permit_74	systems	O
+permit_74	permit	permit_vrb
+permit_74	operations	O
+permit_74	at	O
+permit_74	night	O
+permit_74	and	O
+permit_74	at	O
+permit_74	other	O
+permit_74	times	O
+permit_74	of	O
+permit_74	limited	O
+permit_74	sunlight	O

@@ -1,0 +1,16 @@
+correlate_13	The	O
+correlate_13	divisions	O
+correlate_13	of	O
+correlate_13	labor	O
+correlate_13	within	O
+correlate_13	the	O
+correlate_13	nest	O
+correlate_13	correlate	correlate_nou-vrb
+correlate_13	with	O
+correlate_13	the	O
+correlate_13	ages	O
+correlate_13	of	O
+correlate_13	the	O
+correlate_13	red	O
+correlate_13	paper	O
+correlate_13	wasps	O

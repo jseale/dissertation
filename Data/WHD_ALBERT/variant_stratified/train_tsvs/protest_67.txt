@@ -1,0 +1,8 @@
+protest_67	Macau	O
+protest_67	chief	O
+protest_67	defends	O
+protest_67	police	O
+protest_67	action	O
+protest_67	during	O
+protest_67	labor	O
+protest_67	protest	protest_nou

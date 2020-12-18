@@ -1,0 +1,13 @@
+mobile_54	It	O
+mobile_54	is	O
+mobile_54	only	O
+mobile_54	released	O
+mobile_54	in	O
+mobile_54	China	O
+mobile_54	presently	O
+mobile_54	on	O
+mobile_54	the	O
+mobile_54	ZUK	O
+mobile_54	Z1	O
+mobile_54	mobile	mobile
+mobile_54	phone	O

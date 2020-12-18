@@ -1,0 +1,14 @@
+alternate_65	Two	O
+alternate_65	years	O
+alternate_65	later	O
+alternate_65	she	O
+alternate_65	was	O
+alternate_65	an	O
+alternate_65	alternate	alternate_adj-nou
+alternate_65	for	O
+alternate_65	Beatrice	O
+alternate_65	Miltenburg	O
+alternate_65	's	O
+alternate_65	12th	O
+alternate_65	place	O
+alternate_65	team	O

@@ -1,0 +1,9 @@
+syndicate_67	Sinister	O
+syndicate_67	Syndicate	syndicate_nou
+syndicate_67	appears	O
+syndicate_67	in	O
+syndicate_67	Marvel	O
+syndicate_67	Super	O
+syndicate_67	Hero	O
+syndicate_67	Squad	O
+syndicate_67	Online	O

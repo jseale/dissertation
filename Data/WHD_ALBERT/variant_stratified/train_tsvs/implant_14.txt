@@ -1,0 +1,17 @@
+implant_14	Ultrasound	O
+implant_14	biomicroscopy	O
+implant_14	and	O
+implant_14	optical	O
+implant_14	coherence	O
+implant_14	tomography	O
+implant_14	imaging	O
+implant_14	of	O
+implant_14	filtering	O
+implant_14	blebs	O
+implant_14	after	O
+implant_14	deep	O
+implant_14	sclerectomy	O
+implant_14	with	O
+implant_14	new	O
+implant_14	collagen	O
+implant_14	implant	implant_nou

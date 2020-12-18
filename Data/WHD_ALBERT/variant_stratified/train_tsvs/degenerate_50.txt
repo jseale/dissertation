@@ -1,0 +1,14 @@
+degenerate_50	The	O
+degenerate_50	degenerate	degenerate_adj-nou
+degenerate_50	circle	O
+degenerate_50	with	O
+degenerate_50	radius	O
+degenerate_50	zero	O
+degenerate_50	at	O
+degenerate_50	that	O
+degenerate_50	point	O
+degenerate_50	also	O
+degenerate_50	belongs	O
+degenerate_50	to	O
+degenerate_50	the	O
+degenerate_50	pencil	O

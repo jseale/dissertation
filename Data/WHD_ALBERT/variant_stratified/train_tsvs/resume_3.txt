@@ -1,0 +1,17 @@
+resume_3	Paul	O
+resume_3	wrote	O
+resume_3	to	O
+resume_3	the	O
+resume_3	Roman	O
+resume_3	Christians	O
+resume_3	in	O
+resume_3	order	O
+resume_3	to	O
+resume_3	give	O
+resume_3	them	O
+resume_3	a	O
+resume_3	substantial	O
+resume_3	resume	resume_nou
+resume_3	of	O
+resume_3	his	O
+resume_3	theology	O

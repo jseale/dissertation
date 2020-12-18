@@ -1,0 +1,15 @@
+close_2	Close	close_adj-nou
+close_2	to	O
+close_2	the	O
+close_2	Manor	O
+close_2	House	O
+close_2	is	O
+close_2	a	O
+close_2	dovecote	O
+close_2	that	O
+close_2	was	O
+close_2	built	O
+close_2	in	O
+close_2	the	O
+close_2	17th	O
+close_2	century	O

@@ -1,0 +1,13 @@
+excuse_58	The	O
+excuse_58	judge	O
+excuse_58	Mr	O
+excuse_58	Justice	O
+excuse_58	Byles	O
+excuse_58	opposed	O
+excuse_58	this	O
+excuse_58	excuse	excuse_nou
+excuse_58	strongly	O
+excuse_58	in	O
+excuse_58	his	O
+excuse_58	summing	O
+excuse_58	up	O

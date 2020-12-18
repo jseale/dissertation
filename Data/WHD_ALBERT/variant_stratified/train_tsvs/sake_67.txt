@@ -1,0 +1,17 @@
+sake_67	However	O
+sake_67	he	O
+sake_67	was	O
+sake_67	then	O
+sake_67	given	O
+sake_67	sake	sake_jp
+sake_67	and	O
+sake_67	assassinated	O
+sake_67	by	O
+sake_67	the	O
+sake_67	prince	O
+sake_67	he	O
+sake_67	had	O
+sake_67	betrayed	O
+sake_67	his	O
+sake_67	master	O
+sake_67	for	O

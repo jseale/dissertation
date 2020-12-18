@@ -1,0 +1,14 @@
+ornament_71	Cap	O
+ornament_71	hooks	O
+ornament_71	have	O
+ornament_71	a	O
+ornament_71	hook	O
+ornament_71	behind	O
+ornament_71	the	O
+ornament_71	ornament	ornament_nou
+ornament_71	where	O
+ornament_71	it	O
+ornament_71	is	O
+ornament_71	invisible	O
+ornament_71	in	O
+ornament_71	use	O

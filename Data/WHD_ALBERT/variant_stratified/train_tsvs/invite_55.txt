@@ -1,0 +1,14 @@
+invite_55	He	O
+invite_55	also	O
+invite_55	said	O
+invite_55	Iceland	O
+invite_55	should	O
+invite_55	rather	O
+invite_55	invite	invite_vrb
+invite_55	Russia	O
+invite_55	to	O
+invite_55	use	O
+invite_55	the	O
+invite_55	Keflavik	O
+invite_55	Air	O
+invite_55	Base	O

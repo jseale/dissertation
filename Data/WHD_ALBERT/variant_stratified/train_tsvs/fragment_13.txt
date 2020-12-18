@@ -1,0 +1,10 @@
+fragment_13	The	O
+fragment_13	measurements	O
+fragment_13	of	O
+fragment_13	the	O
+fragment_13	fragment	fragment_nou
+fragment_13	are	O
+fragment_13	232	O
+fragment_13	by	O
+fragment_13	183	O
+fragment_13	mm	O

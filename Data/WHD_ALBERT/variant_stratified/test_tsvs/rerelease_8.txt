@@ -1,0 +1,14 @@
+rerelease_8	The	O
+rerelease_8	puppet	O
+rerelease_8	was	O
+rerelease_8	replaced	O
+rerelease_8	with	O
+rerelease_8	a	O
+rerelease_8	computer	O
+rerelease_8	generated	O
+rerelease_8	image	O
+rerelease_8	for	O
+rerelease_8	the	O
+rerelease_8	Special	O
+rerelease_8	Edition	O
+rerelease_8	rerelease	rerelease

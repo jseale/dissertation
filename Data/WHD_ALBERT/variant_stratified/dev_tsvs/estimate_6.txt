@@ -1,0 +1,12 @@
+estimate_6	This	O
+estimate_6	estimate	estimate_nou
+estimate_6	predicts	O
+estimate_6	enhancement	O
+estimate_6	of	O
+estimate_6	the	O
+estimate_6	reflectivity	O
+estimate_6	at	O
+estimate_6	the	O
+estimate_6	reduction	O
+estimate_6	of	O
+estimate_6	period	O

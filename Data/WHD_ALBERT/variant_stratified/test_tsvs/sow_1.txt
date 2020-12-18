@@ -1,0 +1,11 @@
+sow_1	Taiwan	O
+sow_1	enterprises	O
+sow_1	sow	sow
+sow_1	opportunity	O
+sow_1	in	O
+sow_1	Fujian	O
+sow_1	CCTV	O
+sow_1	International	O
+sow_1	28	O
+sow_1	June	O
+sow_1	2009	O

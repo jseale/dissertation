@@ -1,0 +1,11 @@
+diffuse_3	The	O
+diffuse_3	cytoplasm	O
+diffuse_3	may	O
+diffuse_3	contain	O
+diffuse_3	diffuse	diffuse_adj
+diffuse_3	glycogen	O
+diffuse_3	and	O
+diffuse_3	chromatid	O
+diffuse_3	bodies	O
+diffuse_3	are	O
+diffuse_3	absent	O

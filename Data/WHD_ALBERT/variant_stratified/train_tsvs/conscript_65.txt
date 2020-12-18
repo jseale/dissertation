@@ -1,0 +1,15 @@
+conscript_65	In	O
+conscript_65	addition	O
+conscript_65	to	O
+conscript_65	conscript	conscript_nou
+conscript_65	training	O
+conscript_65	the	O
+conscript_65	Military	O
+conscript_65	Music	O
+conscript_65	School	O
+conscript_65	trains	O
+conscript_65	career	O
+conscript_65	musicians	O
+conscript_65	of	O
+conscript_65	the	O
+conscript_65	FDF	O

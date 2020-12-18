@@ -1,0 +1,11 @@
+use_53	Nowadays	O
+use_53	only	O
+use_53	the	O
+use_53	older	O
+use_53	generation	O
+use_53	of	O
+use_53	Ilocanos	O
+use_53	use	use_vrb
+use_53	the	O
+use_53	Spanish	O
+use_53	system	O

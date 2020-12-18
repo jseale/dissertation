@@ -1,0 +1,10 @@
+combine_8	Larger	O
+combine_8	wineries	O
+combine_8	in	O
+combine_8	the	O
+combine_8	region	O
+combine_8	combine	combine_vrb
+combine_8	vineyards	O
+combine_8	with	O
+combine_8	popular	O
+combine_8	restaurants	O

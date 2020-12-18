@@ -1,0 +1,17 @@
+articulate_15	The	O
+articulate_15	first	O
+articulate_15	person	O
+articulate_15	to	O
+articulate_15	publicly	O
+articulate_15	exhibit	O
+articulate_15	a	O
+articulate_15	telephone	O
+articulate_15	for	O
+articulate_15	transmission	O
+articulate_15	of	O
+articulate_15	articulate	articulate_adj
+articulate_15	speech	O
+articulate_15	was	O
+articulate_15	A.	O
+articulate_15	G.	O
+articulate_15	Bell	O

@@ -1,0 +1,17 @@
+retard_0	In	O
+retard_0	March	O
+retard_0	2011	O
+retard_0	Reptile	O
+retard_0	and	O
+retard_0	Retard	retard_nou
+retard_0	started	O
+retard_0	recording	O
+retard_0	their	O
+retard_0	first	O
+retard_0	EP	O
+retard_0	with	O
+retard_0	the	O
+retard_0	producer	O
+retard_0	David	O
+retard_0	M.	O
+retard_0	Allen	O

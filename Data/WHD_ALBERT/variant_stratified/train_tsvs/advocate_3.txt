@@ -1,0 +1,9 @@
+advocate_3	Prior	O
+advocate_3	to	O
+advocate_3	entering	O
+advocate_3	politics	O
+advocate_3	she	O
+advocate_3	was	O
+advocate_3	a	O
+advocate_3	youth	O
+advocate_3	advocate	advocate_nou

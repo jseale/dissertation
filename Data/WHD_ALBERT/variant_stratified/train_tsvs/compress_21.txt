@@ -1,0 +1,10 @@
+compress_21	When	O
+compress_21	very	O
+compress_21	large	O
+compress_21	they	O
+compress_21	may	O
+compress_21	compress	compress
+compress_21	on	O
+compress_21	a	O
+compress_21	blood	O
+compress_21	vessel	O

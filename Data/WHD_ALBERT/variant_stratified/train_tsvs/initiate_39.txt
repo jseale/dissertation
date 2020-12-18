@@ -1,0 +1,10 @@
+initiate_39	Sharif	O
+initiate_39	took	O
+initiate_39	steps	O
+initiate_39	to	O
+initiate_39	initiate	initiate_vrb
+initiate_39	Islamization	O
+initiate_39	and	O
+initiate_39	conservatism	O
+initiate_39	at	O
+initiate_39	once	O

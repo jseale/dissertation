@@ -1,0 +1,16 @@
+overthrow_5	Following	O
+overthrow_5	the	O
+overthrow_5	overthrow	overthrow_nou
+overthrow_5	of	O
+overthrow_5	the	O
+overthrow_5	Ba'athist	O
+overthrow_5	government	O
+overthrow_5	of	O
+overthrow_5	Iraq	O
+overthrow_5	Jebara	O
+overthrow_5	began	O
+overthrow_5	working	O
+overthrow_5	with	O
+overthrow_5	the	O
+overthrow_5	Coalition	O
+overthrow_5	Forces	O

@@ -1,0 +1,15 @@
+convict_9	The	O
+convict_9	eight	O
+convict_9	black	O
+convict_9	jury	O
+convict_9	members	O
+convict_9	voted	O
+convict_9	to	O
+convict_9	acquit	O
+convict_9	and	O
+convict_9	the	O
+convict_9	four	O
+convict_9	whites	O
+convict_9	voted	O
+convict_9	to	O
+convict_9	convict	convict_vrb

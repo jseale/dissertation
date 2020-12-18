@@ -1,0 +1,13 @@
+lead_3	The	O
+lead_3	film	O
+lead_3	stars	O
+lead_3	Vijayakashi	O
+lead_3	Vaishali	O
+lead_3	Kasaravalli	O
+lead_3	Padmashree	O
+lead_3	and	O
+lead_3	Chandrakumar	O
+lead_3	Jain	O
+lead_3	in	O
+lead_3	lead	lead_nou-vrb
+lead_3	roles	O

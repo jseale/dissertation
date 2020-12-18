@@ -1,0 +1,15 @@
+refund_30	After	O
+refund_30	delays	O
+refund_30	of	O
+refund_30	180	O
+refund_30	days	O
+refund_30	BC	O
+refund_30	Ferries	O
+refund_30	could	O
+refund_30	rescind	O
+refund_30	the	O
+refund_30	contract	O
+refund_30	for	O
+refund_30	a	O
+refund_30	full	O
+refund_30	refund	refund_nou

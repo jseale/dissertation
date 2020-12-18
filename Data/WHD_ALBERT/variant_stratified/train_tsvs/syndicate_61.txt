@@ -1,0 +1,17 @@
+syndicate_61	Artemicion	O
+syndicate_61	was	O
+syndicate_61	a	O
+syndicate_61	purple	O
+syndicate_61	and	O
+syndicate_61	black	O
+syndicate_61	Moogle	O
+syndicate_61	who	O
+syndicate_61	is	O
+syndicate_61	in	O
+syndicate_61	charge	O
+syndicate_61	of	O
+syndicate_61	the	O
+syndicate_61	Mognet	O
+syndicate_61	mail	O
+syndicate_61	delivery	O
+syndicate_61	syndicate	syndicate_nou

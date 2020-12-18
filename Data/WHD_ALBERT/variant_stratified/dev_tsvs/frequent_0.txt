@@ -1,0 +1,17 @@
+frequent_0	The	O
+frequent_0	tenor	O
+frequent_0	saxophone	O
+frequent_0	became	O
+frequent_0	best	O
+frequent_0	known	O
+frequent_0	to	O
+frequent_0	the	O
+frequent_0	general	O
+frequent_0	public	O
+frequent_0	through	O
+frequent_0	its	O
+frequent_0	frequent	frequent_adj
+frequent_0	use	O
+frequent_0	in	O
+frequent_0	jazz	O
+frequent_0	music	O

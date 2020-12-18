@@ -1,0 +1,9 @@
+laminate_49	In	O
+laminate_49	1973	O
+laminate_49	there	O
+laminate_49	started	O
+laminate_49	series	O
+laminate_49	production	O
+laminate_49	of	O
+laminate_49	laminate	laminate_nou
+laminate_49	gliders	O

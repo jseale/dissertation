@@ -1,0 +1,11 @@
+implant_69	Chin	O
+implant_69	augmentation	O
+implant_69	with	O
+implant_69	a	O
+implant_69	chin	O
+implant_69	implant	implant_nou
+implant_69	is	O
+implant_69	usually	O
+implant_69	a	O
+implant_69	cosmetic	O
+implant_69	procedure	O

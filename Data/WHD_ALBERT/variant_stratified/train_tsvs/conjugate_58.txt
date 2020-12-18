@@ -1,0 +1,16 @@
+conjugate_58	Sacituzumab	O
+conjugate_58	govitecan	O
+conjugate_58	IMMU-132	O
+conjugate_58	is	O
+conjugate_58	an	O
+conjugate_58	anti	O
+conjugate_58	Trop-2-SN-38	O
+conjugate_58	antibody	O
+conjugate_58	drug	O
+conjugate_58	conjugate	conjugate_adj-nou
+conjugate_58	for	O
+conjugate_58	breast	O
+conjugate_58	cancer	O
+conjugate_58	and	O
+conjugate_58	solid	O
+conjugate_58	tumors	O

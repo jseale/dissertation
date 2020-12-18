@@ -1,0 +1,14 @@
+converse_75	Rosanna	O
+converse_75	who	O
+converse_75	apparently	O
+converse_75	knows	O
+converse_75	Steve	O
+converse_75	begins	O
+converse_75	to	O
+converse_75	converse	converse_vrb
+converse_75	with	O
+converse_75	him	O
+converse_75	while	O
+converse_75	Lisani	O
+converse_75	hangs	O
+converse_75	back	O

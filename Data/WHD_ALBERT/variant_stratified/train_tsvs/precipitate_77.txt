@@ -1,0 +1,15 @@
+precipitate_77	In	O
+precipitate_77	Phase	O
+precipitate_77	II	O
+precipitate_77	the	O
+precipitate_77	pH	O
+precipitate_77	of	O
+precipitate_77	the	O
+precipitate_77	effluent	O
+precipitate_77	is	O
+precipitate_77	raised	O
+precipitate_77	again	O
+precipitate_77	and	O
+precipitate_77	additional	O
+precipitate_77	metals	O
+precipitate_77	precipitate	precipitate_vrb

@@ -1,0 +1,11 @@
+decrease_55	Naltrexone	O
+decrease_55	is	O
+decrease_55	used	O
+decrease_55	to	O
+decrease_55	decrease	decrease_vrb
+decrease_55	cravings	O
+decrease_55	for	O
+decrease_55	alcohol	O
+decrease_55	and	O
+decrease_55	encourage	O
+decrease_55	abstinence	O

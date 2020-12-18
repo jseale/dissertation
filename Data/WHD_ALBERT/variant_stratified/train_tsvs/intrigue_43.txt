@@ -1,0 +1,10 @@
+intrigue_43	These	O
+intrigue_43	scenes	O
+intrigue_43	therefore	O
+intrigue_43	provide	O
+intrigue_43	some	O
+intrigue_43	comic	O
+intrigue_43	relief	O
+intrigue_43	and	O
+intrigue_43	romantic	O
+intrigue_43	intrigue	intrigue_nou

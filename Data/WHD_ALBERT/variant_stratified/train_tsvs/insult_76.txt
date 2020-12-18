@@ -1,0 +1,14 @@
+insult_76	Kunz	O
+insult_76	continued	O
+insult_76	to	O
+insult_76	complain	O
+insult_76	and	O
+insult_76	insult	insult_vrb
+insult_76	Frederick	O
+insult_76	until	O
+insult_76	Frederick	O
+insult_76	banished	O
+insult_76	him	O
+insult_76	from	O
+insult_76	the	O
+insult_76	lands	O

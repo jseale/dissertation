@@ -1,0 +1,9 @@
+combine_3	In	O
+combine_3	1883	O
+combine_3	he	O
+combine_3	read	O
+combine_3	about	O
+combine_3	combine	combine_nou
+combine_3	harvesters	O
+combine_3	in	O
+combine_3	California	O

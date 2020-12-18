@@ -1,0 +1,16 @@
+precipitate_42	Metal	O
+precipitate_42	salts	O
+precipitate_42	can	O
+precipitate_42	be	O
+precipitate_42	used	O
+precipitate_42	at	O
+precipitate_42	low	O
+precipitate_42	concentrations	O
+precipitate_42	to	O
+precipitate_42	precipitate	precipitate_vrb
+precipitate_42	enzymes	O
+precipitate_42	and	O
+precipitate_42	nucleic	O
+precipitate_42	acids	O
+precipitate_42	from	O
+precipitate_42	solutions	O

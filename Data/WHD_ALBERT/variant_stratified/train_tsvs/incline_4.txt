@@ -1,0 +1,14 @@
+incline_4	Within	O
+incline_4	a	O
+incline_4	year	O
+incline_4	McCreery	O
+incline_4	offered	O
+incline_4	free	O
+incline_4	incline	incline_nou
+incline_4	rides	O
+incline_4	to	O
+incline_4	property	O
+incline_4	auctions	O
+incline_4	on	O
+incline_4	the	O
+incline_4	hill	O

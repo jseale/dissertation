@@ -1,0 +1,17 @@
+content_35	The	O
+content_35	court	O
+content_35	ruled	O
+content_35	that	O
+content_35	Dailymotion	O
+content_35	had	O
+content_35	failed	O
+content_35	to	O
+content_35	take	O
+content_35	action	O
+content_35	against	O
+content_35	users	O
+content_35	illegally	O
+content_35	posting	O
+content_35	TF1	O
+content_35	content	content_nou
+content_35	online	O

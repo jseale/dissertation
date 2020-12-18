@@ -1,0 +1,16 @@
+discard_21	Most	O
+discard_21	external	O
+discard_21	urban	O
+discard_21	areas	O
+discard_21	with	O
+discard_21	high	O
+discard_21	pedestrian	O
+discard_21	traffic	O
+discard_21	show	O
+discard_21	high	O
+discard_21	incidence	O
+discard_21	of	O
+discard_21	casual	O
+discard_21	chewing	O
+discard_21	gum	O
+discard_21	discard	discard_nou

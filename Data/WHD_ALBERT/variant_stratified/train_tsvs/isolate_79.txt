@@ -1,0 +1,16 @@
+isolate_79	Nothing	O
+isolate_79	is	O
+isolate_79	definitely	O
+isolate_79	known	O
+isolate_79	about	O
+isolate_79	their	O
+isolate_79	language	O
+isolate_79	believed	O
+isolate_79	to	O
+isolate_79	be	O
+isolate_79	related	O
+isolate_79	to	O
+isolate_79	Tunica	O
+isolate_79	a	O
+isolate_79	language	O
+isolate_79	isolate	isolate_nou

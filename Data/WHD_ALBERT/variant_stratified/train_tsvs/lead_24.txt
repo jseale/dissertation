@@ -1,0 +1,16 @@
+lead_24	Rutherford	O
+lead_24	took	O
+lead_24	over	O
+lead_24	the	O
+lead_24	lead	lead_nou-vrb
+lead_24	on	O
+lead_24	lap	O
+lead_24	141	O
+lead_24	and	O
+lead_24	seemed	O
+lead_24	to	O
+lead_24	have	O
+lead_24	the	O
+lead_24	race	O
+lead_24	in	O
+lead_24	hand	O

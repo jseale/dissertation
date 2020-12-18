@@ -1,0 +1,17 @@
+coordinate_30	Chinese	O
+coordinate_30	regulations	O
+coordinate_30	mandate	O
+coordinate_30	that	O
+coordinate_30	approved	O
+coordinate_30	map	O
+coordinate_30	service	O
+coordinate_30	providers	O
+coordinate_30	in	O
+coordinate_30	China	O
+coordinate_30	use	O
+coordinate_30	a	O
+coordinate_30	specific	O
+coordinate_30	coordinate	coordinate_adj-nou
+coordinate_30	system	O
+coordinate_30	called	O
+coordinate_30	GCJ-02	O

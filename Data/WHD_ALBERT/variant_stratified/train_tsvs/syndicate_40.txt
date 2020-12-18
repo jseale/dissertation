@@ -1,0 +1,11 @@
+syndicate_40	He	O
+syndicate_40	worked	O
+syndicate_40	his	O
+syndicate_40	way	O
+syndicate_40	up	O
+syndicate_40	to	O
+syndicate_40	editor	O
+syndicate_40	of	O
+syndicate_40	United	O
+syndicate_40	Features	O
+syndicate_40	Syndicate	syndicate_nou

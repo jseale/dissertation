@@ -1,0 +1,15 @@
+convert_53	Post	O
+convert_53	Brothers	O
+convert_53	is	O
+convert_53	expected	O
+convert_53	to	O
+convert_53	convert	convert_vrb
+convert_53	the	O
+convert_53	former	O
+convert_53	office	O
+convert_53	building	O
+convert_53	into	O
+convert_53	residential	O
+convert_53	apartments	O
+convert_53	or	O
+convert_53	condominiums	O

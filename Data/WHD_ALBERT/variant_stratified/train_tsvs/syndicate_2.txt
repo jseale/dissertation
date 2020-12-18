@@ -1,0 +1,16 @@
+syndicate_2	In	O
+syndicate_2	1890	O
+syndicate_2	the	O
+syndicate_2	East	O
+syndicate_2	Shore	O
+syndicate_2	Terminal	O
+syndicate_2	Company	O
+syndicate_2	was	O
+syndicate_2	formed	O
+syndicate_2	by	O
+syndicate_2	a	O
+syndicate_2	syndicate	syndicate_nou
+syndicate_2	of	O
+syndicate_2	outside	O
+syndicate_2	railroad	O
+syndicate_2	investors	O

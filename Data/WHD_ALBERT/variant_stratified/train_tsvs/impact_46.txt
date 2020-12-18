@@ -1,0 +1,11 @@
+impact_46	Some	O
+impact_46	of	O
+impact_46	the	O
+impact_46	Graphic	O
+impact_46	composographs	O
+impact_46	have	O
+impact_46	an	O
+impact_46	unforgettable	O
+impact_46	eerie	O
+impact_46	visual	O
+impact_46	impact	impact_nou

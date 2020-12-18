@@ -1,0 +1,16 @@
+progress_64	He	O
+progress_64	suffered	O
+progress_64	a	O
+progress_64	knee	O
+progress_64	injury	O
+progress_64	during	O
+progress_64	this	O
+progress_64	match	O
+progress_64	and	O
+progress_64	this	O
+progress_64	hampered	O
+progress_64	his	O
+progress_64	progress	progress_nou
+progress_64	at	O
+progress_64	the	O
+progress_64	club	O

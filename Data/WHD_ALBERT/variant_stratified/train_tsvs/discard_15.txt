@@ -1,0 +1,16 @@
+discard_15	The	O
+discard_15	end	O
+discard_15	of	O
+discard_15	a	O
+discard_15	turn	O
+discard_15	occurs	O
+discard_15	when	O
+discard_15	a	O
+discard_15	player	O
+discard_15	discards	O
+discard_15	one	O
+discard_15	card	O
+discard_15	onto	O
+discard_15	the	O
+discard_15	discard	discard_nou
+discard_15	pile	O

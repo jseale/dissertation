@@ -1,0 +1,12 @@
+laminate_52	Spot	O
+laminate_52	UV	O
+laminate_52	varnish	O
+laminate_52	onto	O
+laminate_52	matte	O
+laminate_52	laminate	laminate_nou
+laminate_52	can	O
+laminate_52	also	O
+laminate_52	have	O
+laminate_52	a	O
+laminate_52	similar	O
+laminate_52	effect	O

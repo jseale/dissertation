@@ -1,0 +1,12 @@
+pervert_4	Unfortunately	O
+pervert_4	Brenda	O
+pervert_4	walked	O
+pervert_4	in	O
+pervert_4	on	O
+pervert_4	him	O
+pervert_4	and	O
+pervert_4	thought	O
+pervert_4	he	O
+pervert_4	was	O
+pervert_4	a	O
+pervert_4	pervert	pervert_nou

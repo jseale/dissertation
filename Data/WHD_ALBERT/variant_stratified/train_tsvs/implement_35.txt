@@ -1,0 +1,12 @@
+implement_35	An	O
+implement_35	application	O
+implement_35	can	O
+implement_35	implement	implement_vrb
+implement_35	synchronized	O
+implement_35	distributed	O
+implement_35	rendering	O
+implement_35	using	O
+implement_35	802.1AS	O
+implement_35	and	O
+implement_35	higher	O
+implement_35	layers	O

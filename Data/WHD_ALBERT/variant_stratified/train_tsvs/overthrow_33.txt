@@ -1,0 +1,11 @@
+overthrow_33	Kang	O
+overthrow_33	then	O
+overthrow_33	enlisted	O
+overthrow_33	the	O
+overthrow_33	aid	O
+overthrow_33	of	O
+overthrow_33	the	O
+overthrow_33	Avengers	O
+overthrow_33	to	O
+overthrow_33	overthrow	overthrow_vrb
+overthrow_33	Baltag	O

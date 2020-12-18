@@ -1,0 +1,9 @@
+celtic_8	He	O
+celtic_8	is	O
+celtic_8	now	O
+celtic_8	the	O
+celtic_8	official	O
+celtic_8	Club	O
+celtic_8	Ambassador	O
+celtic_8	at	O
+celtic_8	Celtic	celtic_adj-nou-sports

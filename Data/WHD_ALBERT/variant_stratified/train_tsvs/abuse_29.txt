@@ -1,0 +1,16 @@
+abuse_29	Many	O
+abuse_29	arranged	O
+abuse_29	marriages	O
+abuse_29	also	O
+abuse_29	end	O
+abuse_29	up	O
+abuse_29	being	O
+abuse_29	cold	O
+abuse_29	and	O
+abuse_29	dysfunctional	O
+abuse_29	as	O
+abuse_29	well	O
+abuse_29	with	O
+abuse_29	reports	O
+abuse_29	of	O
+abuse_29	abuse	abuse_nou

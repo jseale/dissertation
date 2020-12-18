@@ -1,0 +1,10 @@
+celtic_78	Celtic	celtic_adj-nou-sports
+celtic_78	entered	O
+celtic_78	the	O
+celtic_78	final	O
+celtic_78	as	O
+celtic_78	favourites	O
+celtic_78	with	O
+celtic_78	Kilmarnock	O
+celtic_78	as	O
+celtic_78	underdogs	O

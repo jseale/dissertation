@@ -1,0 +1,16 @@
+retard_6	She	O
+retard_6	told	O
+retard_6	me	O
+retard_6	she	O
+retard_6	wanted	O
+retard_6	to	O
+retard_6	do	O
+retard_6	this	O
+retard_6	song	O
+retard_6	called	O
+retard_6	Retard	retard_nou
+retard_6	Girl	O
+retard_6	and	O
+retard_6	that	O
+retard_6	intrigued	O
+retard_6	me	O

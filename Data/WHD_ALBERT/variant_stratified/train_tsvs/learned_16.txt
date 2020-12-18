@@ -1,0 +1,14 @@
+learned_16	They	O
+learned_16	learned	learned_vrb
+learned_16	to	O
+learned_16	sing	O
+learned_16	dance	O
+learned_16	and	O
+learned_16	model	O
+learned_16	for	O
+learned_16	a	O
+learned_16	few	O
+learned_16	minutes	O
+learned_16	after	O
+learned_16	each	O
+learned_16	episode	O

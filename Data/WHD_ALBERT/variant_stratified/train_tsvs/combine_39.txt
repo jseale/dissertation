@@ -1,0 +1,16 @@
+combine_39	The	O
+combine_39	book	O
+combine_39	boards	O
+combine_39	are	O
+combine_39	a	O
+combine_39	trend	O
+combine_39	in	O
+combine_39	children	O
+combine_39	's	O
+combine_39	book	O
+combine_39	publishing	O
+combine_39	to	O
+combine_39	combine	combine_vrb
+combine_39	merchandise	O
+combine_39	and	O
+combine_39	books	O

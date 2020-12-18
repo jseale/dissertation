@@ -1,0 +1,15 @@
+misuse_57	The	O
+misuse_57	misuse	misuse_nou
+misuse_57	of	O
+misuse_57	arms	O
+misuse_57	is	O
+misuse_57	a	O
+misuse_57	criminal	O
+misuse_57	offence	O
+misuse_57	in	O
+misuse_57	Scotland	O
+misuse_57	and	O
+misuse_57	treated	O
+misuse_57	as	O
+misuse_57	tax	O
+misuse_57	evasion	O

@@ -1,0 +1,11 @@
+invert_3	In	O
+invert_3	some	O
+invert_3	levels	O
+invert_3	the	O
+invert_3	player	O
+invert_3	can	O
+invert_3	invert	invert_vrb
+invert_3	the	O
+invert_3	gravity	O
+invert_3	by	O
+invert_3	himself	O

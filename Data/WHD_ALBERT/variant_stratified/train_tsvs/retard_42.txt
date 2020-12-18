@@ -1,0 +1,14 @@
+retard_42	Calcium	O
+retard_42	propionate	O
+retard_42	is	O
+retard_42	commonly	O
+retard_42	added	O
+retard_42	by	O
+retard_42	commercial	O
+retard_42	bakeries	O
+retard_42	to	O
+retard_42	retard	retard_vrb
+retard_42	the	O
+retard_42	growth	O
+retard_42	of	O
+retard_42	molds	O

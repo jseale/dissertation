@@ -1,0 +1,17 @@
+transplant_4	However	O
+transplant_4	Miller	O
+transplant_4	pulled	O
+transplant_4	out	O
+transplant_4	of	O
+transplant_4	the	O
+transplant_4	bout	O
+transplant_4	after	O
+transplant_4	getting	O
+transplant_4	news	O
+transplant_4	about	O
+transplant_4	his	O
+transplant_4	son	O
+transplant_4	's	O
+transplant_4	kidney	O
+transplant_4	transplant	transplant_nou
+transplant_4	operation	O

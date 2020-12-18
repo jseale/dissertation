@@ -1,0 +1,15 @@
+live_0	The	O
+live_0	album	O
+live_0	titled	O
+live_0	Live	live_adj
+live_0	at	O
+live_0	the	O
+live_0	Club	O
+live_0	47	O
+live_0	was	O
+live_0	recorded	O
+live_0	in	O
+live_0	Cambridge	O
+live_0	Massachusetts	O
+live_0	in	O
+live_0	1963	O

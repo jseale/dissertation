@@ -1,0 +1,16 @@
+import_5	The	O
+import_5	import	import_nou
+import_5	of	O
+import_5	V	O
+import_5	is	O
+import_5	that	O
+import_5	of	O
+import_5	the	O
+import_5	axiom	O
+import_5	schema	O
+import_5	of	O
+import_5	replacement	O
+import_5	in	O
+import_5	NBG	O
+import_5	and	O
+import_5	ZFC	O

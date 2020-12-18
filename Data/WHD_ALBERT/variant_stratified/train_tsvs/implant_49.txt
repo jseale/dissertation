@@ -1,0 +1,17 @@
+implant_49	The	O
+implant_49	crystalline	O
+implant_49	lens	O
+implant_49	capsule	O
+implant_49	is	O
+implant_49	retained	O
+implant_49	and	O
+implant_49	used	O
+implant_49	to	O
+implant_49	contain	O
+implant_49	and	O
+implant_49	position	O
+implant_49	the	O
+implant_49	intraocular	O
+implant_49	lens	O
+implant_49	implant	implant_nou
+implant_49	IOL	O

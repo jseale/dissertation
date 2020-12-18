@@ -1,0 +1,14 @@
+aggregate_7	Their	O
+aggregate_7	aggregate	aggregate_adj-nou
+aggregate_7	emissions	O
+aggregate_7	were	O
+aggregate_7	0.1	O
+aggregate_7	billion	O
+aggregate_7	tonnes	O
+aggregate_7	with	O
+aggregate_7	per	O
+aggregate_7	capita	O
+aggregate_7	emissions	O
+aggregate_7	of	O
+aggregate_7	5.1	O
+aggregate_7	tonnes	O

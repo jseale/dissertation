@@ -1,0 +1,16 @@
+transplant_33	BAFF	O
+transplant_33	has	O
+transplant_33	been	O
+transplant_33	found	O
+transplant_33	in	O
+transplant_33	renal	O
+transplant_33	transplant	transplant_nou
+transplant_33	biopsies	O
+transplant_33	with	O
+transplant_33	acute	O
+transplant_33	rejection	O
+transplant_33	and	O
+transplant_33	correlate	O
+transplant_33	with	O
+transplant_33	appearance	O
+transplant_33	C4d	O

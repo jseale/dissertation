@@ -1,0 +1,12 @@
+insert_71	This	O
+insert_71	is	O
+insert_71	also	O
+insert_71	the	O
+insert_71	place	O
+insert_71	to	O
+insert_71	insert	insert_vrb
+insert_71	the	O
+insert_71	run	O
+insert_71	time	O
+insert_71	dependence	O
+insert_71	check	O

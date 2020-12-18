@@ -1,0 +1,7 @@
+articulate_16	The	O
+articulate_16	human	O
+articulate_16	figure	O
+articulate_16	appears	O
+articulate_16	flexible	O
+articulate_16	and	O
+articulate_16	articulate	articulate_adj

@@ -1,0 +1,13 @@
+analyses_22	Sample	O
+analyses_22	analyses	analyses_nou
+analyses_22	resulted	O
+analyses_22	in	O
+analyses_22	little	O
+analyses_22	data	O
+analyses_22	due	O
+analyses_22	to	O
+analyses_22	the	O
+analyses_22	rarity	O
+analyses_22	of	O
+analyses_22	experimental	O
+analyses_22	material	O

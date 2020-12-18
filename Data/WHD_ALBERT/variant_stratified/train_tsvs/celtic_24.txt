@@ -1,0 +1,15 @@
+celtic_24	From	O
+celtic_24	1913	O
+celtic_24	to	O
+celtic_24	1954	O
+celtic_24	he	O
+celtic_24	was	O
+celtic_24	Professor	O
+celtic_24	in	O
+celtic_24	Celtic	celtic
+celtic_24	languages	O
+celtic_24	at	O
+celtic_24	the	O
+celtic_24	University	O
+celtic_24	of	O
+celtic_24	Oslo	O

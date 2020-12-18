@@ -1,0 +1,12 @@
+close_69	Laura	O
+close_69	asks	O
+close_69	her	O
+close_69	close	close_adj-nou
+close_69	friend	O
+close_69	Tiffany	O
+close_69	Hill	O
+close_69	to	O
+close_69	be	O
+close_69	Lulu	O
+close_69	's	O
+close_69	godmother	O

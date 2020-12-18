@@ -1,0 +1,10 @@
+close_39	Retalhuleu	O
+close_39	situated	O
+close_39	in	O
+close_39	the	O
+close_39	south	O
+close_39	is	O
+close_39	close	close_adj-nou
+close_39	to	O
+close_39	the	O
+close_39	epicenter	O

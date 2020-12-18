@@ -1,0 +1,12 @@
+frequent_39	The	O
+frequent_39	hottentot	O
+frequent_39	is	O
+frequent_39	a	O
+frequent_39	frequent	frequent_adj
+frequent_39	host	O
+frequent_39	of	O
+frequent_39	the	O
+frequent_39	parasitic	O
+frequent_39	isopod	O
+frequent_39	Anilocra	O
+frequent_39	capensis	O

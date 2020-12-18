@@ -1,0 +1,10 @@
+buffet_0	Those	O
+buffet_0	who	O
+buffet_0	pay	O
+buffet_0	$	O
+buffet_0	80	O
+buffet_0	can	O
+buffet_0	have	O
+buffet_0	the	O
+buffet_0	dinner	O
+buffet_0	buffet	buffet_nou

@@ -1,0 +1,14 @@
+construct_6	His	O
+construct_6	company	O
+construct_6	went	O
+construct_6	on	O
+construct_6	to	O
+construct_6	construct	construct_vrb
+construct_6	the	O
+construct_6	Forth	O
+construct_6	Bridge	O
+construct_6	which	O
+construct_6	was	O
+construct_6	completed	O
+construct_6	in	O
+construct_6	1890	O

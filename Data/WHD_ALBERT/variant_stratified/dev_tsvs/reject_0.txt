@@ -1,0 +1,15 @@
+reject_0	As	O
+reject_0	a	O
+reject_0	result	O
+reject_0	the	O
+reject_0	reject	reject_nou
+reject_0	stream	O
+reject_0	is	O
+reject_0	concentrated	O
+reject_0	up	O
+reject_0	while	O
+reject_0	the	O
+reject_0	product	O
+reject_0	stream	O
+reject_0	is	O
+reject_0	desalted	O

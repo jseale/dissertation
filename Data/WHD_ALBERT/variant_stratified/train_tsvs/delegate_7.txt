@@ -1,0 +1,14 @@
+delegate_7	His	O
+delegate_7	grandfather	O
+delegate_7	Judge	O
+delegate_7	Simplicio	O
+delegate_7	Sempio	O
+delegate_7	del	O
+delegate_7	Rosario	O
+delegate_7	was	O
+delegate_7	a	O
+delegate_7	delegate	delegate_nou
+delegate_7	to	O
+delegate_7	the	O
+delegate_7	Malolos	O
+delegate_7	Congress	O

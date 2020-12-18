@@ -1,0 +1,13 @@
+aged_57	In	O
+aged_57	1982	O
+aged_57	aged	aged
+aged_57	21	O
+aged_57	she	O
+aged_57	won	O
+aged_57	the	O
+aged_57	8th	O
+aged_57	International	O
+aged_57	Harp	O
+aged_57	Contest	O
+aged_57	in	O
+aged_57	Israel	O

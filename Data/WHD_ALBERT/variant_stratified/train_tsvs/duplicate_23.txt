@@ -1,0 +1,16 @@
+duplicate_23	In	O
+duplicate_23	this	O
+duplicate_23	case	O
+duplicate_23	if	O
+duplicate_23	changes	O
+duplicate_23	are	O
+duplicate_23	needed	O
+duplicate_23	time	O
+duplicate_23	is	O
+duplicate_23	wasted	O
+duplicate_23	hunting	O
+duplicate_23	for	O
+duplicate_23	all	O
+duplicate_23	the	O
+duplicate_23	duplicate	duplicate_adj-nou
+duplicate_23	locations	O

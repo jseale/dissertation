@@ -1,0 +1,15 @@
+rerelease_3	Alan	O
+rerelease_3	Wilder	O
+rerelease_3	left	O
+rerelease_3	the	O
+rerelease_3	band	O
+rerelease_3	in	O
+rerelease_3	1995	O
+rerelease_3	and	O
+rerelease_3	declined	O
+rerelease_3	to	O
+rerelease_3	be	O
+rerelease_3	involved	O
+rerelease_3	with	O
+rerelease_3	the	O
+rerelease_3	rerelease	rerelease

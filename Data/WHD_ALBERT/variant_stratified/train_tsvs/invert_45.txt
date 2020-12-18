@@ -1,0 +1,17 @@
+invert_45	The	O
+invert_45	inverting	O
+invert_45	mechanism	O
+invert_45	is	O
+invert_45	straightforward	O
+invert_45	requiring	O
+invert_45	a	O
+invert_45	single	O
+invert_45	nucleophilic	O
+invert_45	attack	O
+invert_45	from	O
+invert_45	the	O
+invert_45	accepting	O
+invert_45	atom	O
+invert_45	to	O
+invert_45	invert	invert_vrb
+invert_45	stereochemistry	O

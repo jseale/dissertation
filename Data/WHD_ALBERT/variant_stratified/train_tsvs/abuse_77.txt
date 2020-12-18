@@ -1,0 +1,16 @@
+abuse_77	Litigants	O
+abuse_77	attorneys	O
+abuse_77	law	O
+abuse_77	enforcement	O
+abuse_77	and	O
+abuse_77	judiciary	O
+abuse_77	can	O
+abuse_77	abuse	abuse_vrb
+abuse_77	the	O
+abuse_77	system	O
+abuse_77	sometimes	O
+abuse_77	accidentally	O
+abuse_77	but	O
+abuse_77	more	O
+abuse_77	often	O
+abuse_77	intentionally	O

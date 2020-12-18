@@ -1,0 +1,14 @@
+compress_9	Most	O
+compress_9	versions	O
+compress_9	of	O
+compress_9	Burow	O
+compress_9	's	O
+compress_9	solution	O
+compress_9	can	O
+compress_9	be	O
+compress_9	used	O
+compress_9	as	O
+compress_9	a	O
+compress_9	soak	O
+compress_9	or	O
+compress_9	compress	compress_nou

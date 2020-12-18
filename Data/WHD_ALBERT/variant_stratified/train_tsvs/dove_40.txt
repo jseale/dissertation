@@ -1,0 +1,15 @@
+dove_40	Henmore	O
+dove_40	Brook	O
+dove_40	a	O
+dove_40	tributary	O
+dove_40	of	O
+dove_40	the	O
+dove_40	River	O
+dove_40	Dove	dove
+dove_40	flows	O
+dove_40	through	O
+dove_40	the	O
+dove_40	middle	O
+dove_40	of	O
+dove_40	the	O
+dove_40	town	O

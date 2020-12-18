@@ -1,0 +1,16 @@
+sake_23	Hutchinson	O
+sake_23	stated	O
+sake_23	he	O
+sake_23	want	O
+sake_23	to	O
+sake_23	get	O
+sake_23	his	O
+sake_23	career	O
+sake_23	on	O
+sake_23	track	O
+sake_23	for	O
+sake_23	the	O
+sake_23	sake	sake
+sake_23	of	O
+sake_23	his	O
+sake_23	sanity	O

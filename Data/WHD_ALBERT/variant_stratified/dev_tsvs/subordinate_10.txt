@@ -1,0 +1,7 @@
+subordinate_10	Subordinate	subordinate_vrb
+subordinate_10	everything	O
+subordinate_10	else	O
+subordinate_10	to	O
+subordinate_10	the	O
+subordinate_10	above	O
+subordinate_10	decisions	O

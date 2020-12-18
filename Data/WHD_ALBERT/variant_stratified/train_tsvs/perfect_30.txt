@@ -1,0 +1,8 @@
+perfect_30	Urth	O
+perfect_30	requests	O
+perfect_30	a	O
+perfect_30	perfect	perfect_adj
+perfect_30	bell	O
+perfect_30	as	O
+perfect_30	his	O
+perfect_30	fee	O

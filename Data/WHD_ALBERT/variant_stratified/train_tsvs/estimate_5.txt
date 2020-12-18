@@ -1,0 +1,16 @@
+estimate_5	The	O
+estimate_5	most	O
+estimate_5	advanced	O
+estimate_5	of	O
+estimate_5	these	O
+estimate_5	is	O
+estimate_5	Koulékoun	O
+estimate_5	with	O
+estimate_5	a	O
+estimate_5	Mineral	O
+estimate_5	Resource	O
+estimate_5	estimate	estimate_nou
+estimate_5	of	O
+estimate_5	2.15	O
+estimate_5	million	O
+estimate_5	ounces	O

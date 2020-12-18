@@ -1,0 +1,17 @@
+sake_60	Sure	O
+sake_60	that	O
+sake_60	she	O
+sake_60	is	O
+sake_60	the	O
+sake_60	murderer	O
+sake_60	Vivian	O
+sake_60	decides	O
+sake_60	to	O
+sake_60	commit	O
+sake_60	suicide	O
+sake_60	for	O
+sake_60	the	O
+sake_60	sake	sake
+sake_60	of	O
+sake_60	the	O
+sake_60	pack	O

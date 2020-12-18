@@ -1,0 +1,10 @@
+ornament_69	The	O
+ornament_69	top	O
+ornament_69	roof	O
+ornament_69	stone	O
+ornament_69	serves	O
+ornament_69	as	O
+ornament_69	an	O
+ornament_69	ornament	ornament_nou
+ornament_69	or	O
+ornament_69	finial	O

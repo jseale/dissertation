@@ -1,0 +1,16 @@
+implant_44	By	O
+implant_44	coating	O
+implant_44	the	O
+implant_44	implant	implant_nou
+implant_44	with	O
+implant_44	NPCs	O
+implant_44	it	O
+implant_44	can	O
+implant_44	reduce	O
+implant_44	the	O
+implant_44	foreign	O
+implant_44	body	O
+implant_44	reaction	O
+implant_44	and	O
+implant_44	improve	O
+implant_44	biocompatibility	O

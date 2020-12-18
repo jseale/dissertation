@@ -1,0 +1,9 @@
+contest_69	It	O
+contest_69	respects	O
+contest_69	the	O
+contest_69	right	O
+contest_69	of	O
+contest_69	citizen	O
+contest_69	to	O
+contest_69	contest	contest_vrb
+contest_69	policies	O

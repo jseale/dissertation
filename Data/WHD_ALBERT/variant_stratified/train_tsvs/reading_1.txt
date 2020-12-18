@@ -1,0 +1,15 @@
+reading_1	The	O
+reading_1	tests	O
+reading_1	focus	O
+reading_1	on	O
+reading_1	the	O
+reading_1	state	O
+reading_1	's	O
+reading_1	Academic	O
+reading_1	Standards	O
+reading_1	for	O
+reading_1	reading	reading_en
+reading_1	writing	O
+reading_1	mathematics	O
+reading_1	and	O
+reading_1	science	O

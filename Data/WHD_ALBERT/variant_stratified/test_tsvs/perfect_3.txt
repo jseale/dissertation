@@ -1,0 +1,16 @@
+perfect_3	These	O
+perfect_3	sales	O
+perfect_3	are	O
+perfect_3	an	O
+perfect_3	opportunity	O
+perfect_3	to	O
+perfect_3	get	O
+perfect_3	near	O
+perfect_3	perfect	perfect_adj
+perfect_3	merchandise	O
+perfect_3	at	O
+perfect_3	a	O
+perfect_3	fraction	O
+perfect_3	of	O
+perfect_3	the	O
+perfect_3	price	O

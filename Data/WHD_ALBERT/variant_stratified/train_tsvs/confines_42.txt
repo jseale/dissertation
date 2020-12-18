@@ -1,0 +1,17 @@
+confines_42	The	O
+confines_42	confines	confines_nou
+confines_42	of	O
+confines_42	the	O
+confines_42	Habsburg	O
+confines_42	Castle	O
+confines_42	had	O
+confines_42	become	O
+confines_42	too	O
+confines_42	small	O
+confines_42	for	O
+confines_42	the	O
+confines_42	family	O
+confines_42	members	O
+confines_42	that	O
+confines_42	lived	O
+confines_42	there	O

@@ -1,0 +1,15 @@
+laminate_47	These	O
+laminate_47	repairs	O
+laminate_47	are	O
+laminate_47	made	O
+laminate_47	by	O
+laminate_47	following	O
+laminate_47	the	O
+laminate_47	simple	O
+laminate_47	guidelines	O
+laminate_47	indicated	O
+laminate_47	for	O
+laminate_47	laminate	laminate_nou
+laminate_47	or	O
+laminate_47	sandwich	O
+laminate_47	panels	O

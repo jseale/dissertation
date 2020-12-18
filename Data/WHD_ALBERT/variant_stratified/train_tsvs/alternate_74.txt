@@ -1,0 +1,14 @@
+alternate_74	The	O
+alternate_74	singers	O
+alternate_74	divide	O
+alternate_74	into	O
+alternate_74	two	O
+alternate_74	groups	O
+alternate_74	of	O
+alternate_74	three	O
+alternate_74	and	O
+alternate_74	each	O
+alternate_74	group	O
+alternate_74	sings	O
+alternate_74	alternate	alternate_adj-nou
+alternate_74	stanzas	O

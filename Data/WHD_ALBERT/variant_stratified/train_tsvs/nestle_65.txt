@@ -1,0 +1,15 @@
+nestle_65	Numerous	O
+nestle_65	villages	O
+nestle_65	nestle	nestle_vrb
+nestle_65	in	O
+nestle_65	the	O
+nestle_65	deep	O
+nestle_65	valleys	O
+nestle_65	and	O
+nestle_65	behind	O
+nestle_65	the	O
+nestle_65	vineyards	O
+nestle_65	along	O
+nestle_65	the	O
+nestle_65	river	O
+nestle_65	banks	O

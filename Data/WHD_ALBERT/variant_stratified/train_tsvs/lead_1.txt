@@ -1,0 +1,13 @@
+lead_1	Like	O
+lead_1	the	O
+lead_1	lighter	O
+lead_1	members	O
+lead_1	of	O
+lead_1	the	O
+lead_1	group	O
+lead_1	lead	lead_nou
+lead_1	tends	O
+lead_1	to	O
+lead_1	bond	O
+lead_1	with	O
+lead_1	itself	O

@@ -1,0 +1,15 @@
+aggregate_8	Skinner	O
+aggregate_8	suggests	O
+aggregate_8	that	O
+aggregate_8	cultural	O
+aggregate_8	evolution	O
+aggregate_8	is	O
+aggregate_8	a	O
+aggregate_8	way	O
+aggregate_8	to	O
+aggregate_8	describe	O
+aggregate_8	the	O
+aggregate_8	aggregate	aggregate_adj-nou
+aggregate_8	of	O
+aggregate_8	operant	O
+aggregate_8	behavior	O

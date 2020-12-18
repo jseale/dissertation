@@ -1,0 +1,17 @@
+compress_9	The	O
+compress_9	Lenoir	O
+compress_9	engine	O
+compress_9	was	O
+compress_9	an	O
+compress_9	engine	O
+compress_9	that	O
+compress_9	burned	O
+compress_9	fuel	O
+compress_9	without	O
+compress_9	first	O
+compress_9	trying	O
+compress_9	to	O
+compress_9	compress	compress
+compress_9	the	O
+compress_9	fuel	O
+compress_9	mixture	O

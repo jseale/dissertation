@@ -1,0 +1,14 @@
+reading_54	The	O
+reading_54	English	O
+reading_54	Common	O
+reading_54	Reader	O
+reading_54	A	O
+reading_54	Social	O
+reading_54	History	O
+reading_54	of	O
+reading_54	the	O
+reading_54	Mass	O
+reading_54	Reading	reading_en
+reading_54	Public	O
+reading_54	1800	O
+reading_54	1900	O

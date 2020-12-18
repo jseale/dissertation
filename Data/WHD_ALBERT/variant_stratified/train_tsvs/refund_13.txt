@@ -1,0 +1,13 @@
+refund_13	Partial	O
+refund_13	refund	refund_nou
+refund_13	checks	O
+refund_13	were	O
+refund_13	mailed	O
+refund_13	to	O
+refund_13	roughly	O
+refund_13	350,000	O
+refund_13	Herbalife	O
+refund_13	distributors	O
+refund_13	in	O
+refund_13	January	O
+refund_13	2017	O

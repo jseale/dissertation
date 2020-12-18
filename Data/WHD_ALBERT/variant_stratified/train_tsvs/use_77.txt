@@ -1,0 +1,15 @@
+use_77	He	O
+use_77	turned	O
+use_77	to	O
+use_77	Zev	O
+use_77	to	O
+use_77	use	use_vrb
+use_77	his	O
+use_77	connections	O
+use_77	on	O
+use_77	Capitol	O
+use_77	Hill	O
+use_77	and	O
+use_77	it	O
+use_77	was	O
+use_77	done	O

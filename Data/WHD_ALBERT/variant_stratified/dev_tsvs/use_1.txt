@@ -1,0 +1,16 @@
+use_1	This	O
+use_1	is	O
+use_1	done	O
+use_1	through	O
+use_1	the	O
+use_1	use	use_nou
+use_1	of	O
+use_1	materials	O
+use_1	that	O
+use_1	readily	O
+use_1	form	O
+use_1	stable	O
+use_1	compounds	O
+use_1	with	O
+use_1	active	O
+use_1	gases	O

@@ -1,0 +1,12 @@
+dove_3	He	O
+dove_3	also	O
+dove_3	played	O
+dove_3	a	O
+dove_3	Klingon	O
+dove_3	in	O
+dove_3	the	O
+dove_3	episode	O
+dove_3	Day	O
+dove_3	of	O
+dove_3	the	O
+dove_3	Dove	dove

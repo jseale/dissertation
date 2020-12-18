@@ -1,0 +1,16 @@
+extract_79	The	O
+extract_79	Nieuwe	O
+extract_79	Meer	O
+extract_79	was	O
+extract_79	also	O
+extract_79	excavated	O
+extract_79	to	O
+extract_79	a	O
+extract_79	depth	O
+extract_79	of	O
+extract_79	approximately	O
+extract_79	30	O
+extract_79	metres	O
+extract_79	to	O
+extract_79	extract	extract_vrb
+extract_79	sand	O

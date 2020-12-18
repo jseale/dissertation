@@ -1,0 +1,15 @@
+construct_23	Next	O
+construct_23	to	O
+construct_23	the	O
+construct_23	word	O
+construct_23	are	O
+construct_23	several	O
+construct_23	images	O
+construct_23	that	O
+construct_23	can	O
+construct_23	be	O
+construct_23	used	O
+construct_23	to	O
+construct_23	construct	construct_vrb
+construct_23	the	O
+construct_23	word	O

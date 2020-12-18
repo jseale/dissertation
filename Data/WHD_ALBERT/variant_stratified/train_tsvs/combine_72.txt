@@ -1,0 +1,14 @@
+combine_72	The	O
+combine_72	creatures	O
+combine_72	combine	combine_vrb
+combine_72	into	O
+combine_72	several	O
+combine_72	man	O
+combine_72	sized	O
+combine_72	crab	O
+combine_72	like	O
+combine_72	creatures	O
+combine_72	and	O
+combine_72	begin	O
+combine_72	wreaking	O
+combine_72	havoc	O

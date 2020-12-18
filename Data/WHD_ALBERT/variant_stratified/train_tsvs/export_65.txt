@@ -1,0 +1,17 @@
+export_65	This	O
+export_65	gave	O
+export_65	the	O
+export_65	President	O
+export_65	the	O
+export_65	power	O
+export_65	to	O
+export_65	regulate	O
+export_65	the	O
+export_65	distribution	O
+export_65	export	export_nou
+export_65	import	O
+export_65	purchase	O
+export_65	and	O
+export_65	storage	O
+export_65	of	O
+export_65	food	O

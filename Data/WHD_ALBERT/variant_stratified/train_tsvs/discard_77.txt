@@ -1,0 +1,15 @@
+discard_77	It	O
+discard_77	was	O
+discard_77	then	O
+discard_77	decided	O
+discard_77	to	O
+discard_77	discard	discard_vrb
+discard_77	the	O
+discard_77	result	O
+discard_77	and	O
+discard_77	replay	O
+discard_77	the	O
+discard_77	game	O
+discard_77	two	O
+discard_77	days	O
+discard_77	later	O

@@ -1,0 +1,17 @@
+incline_37	Originally	O
+incline_37	its	O
+incline_37	siting	O
+incline_37	on	O
+incline_37	an	O
+incline_37	eastward	O
+incline_37	sloping	O
+incline_37	incline	incline_nou
+incline_37	had	O
+incline_37	addressed	O
+incline_37	the	O
+incline_37	city	O
+incline_37	centre	O
+incline_37	across	O
+incline_37	an	O
+incline_37	intervening	O
+incline_37	valley	O

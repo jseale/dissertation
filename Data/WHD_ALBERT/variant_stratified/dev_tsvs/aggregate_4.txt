@@ -1,0 +1,9 @@
+aggregate_4	Asphalt	O
+aggregate_4	aggregate	aggregate_adj-nou
+aggregate_4	operations	O
+aggregate_4	are	O
+aggregate_4	managed	O
+aggregate_4	by	O
+aggregate_4	Veidekke	O
+aggregate_4	Industry	O
+aggregate_4	AS	O

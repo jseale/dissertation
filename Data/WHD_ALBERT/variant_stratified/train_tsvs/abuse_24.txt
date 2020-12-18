@@ -1,0 +1,17 @@
+abuse_24	Despite	O
+abuse_24	periodic	O
+abuse_24	investigations	O
+abuse_24	changes	O
+abuse_24	of	O
+abuse_24	leadership	O
+abuse_24	and	O
+abuse_24	promises	O
+abuse_24	to	O
+abuse_24	improve	O
+abuse_24	the	O
+abuse_24	allegations	O
+abuse_24	of	O
+abuse_24	cruelty	O
+abuse_24	and	O
+abuse_24	abuse	abuse_nou
+abuse_24	continued	O

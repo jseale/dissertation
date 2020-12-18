@@ -1,0 +1,16 @@
+misuse_0	Last	O
+misuse_0	year	O
+misuse_0	he	O
+misuse_0	continued	O
+misuse_0	to	O
+misuse_0	detail	O
+misuse_0	the	O
+misuse_0	F.B.I.	O
+misuse_0	's	O
+misuse_0	widespread	O
+misuse_0	misuse	misuse_nou
+misuse_0	since	O
+misuse_0	2001	O
+misuse_0	of	O
+misuse_0	exigent	O
+misuse_0	letters	O

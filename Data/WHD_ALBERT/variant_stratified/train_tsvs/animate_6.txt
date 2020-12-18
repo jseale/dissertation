@@ -1,0 +1,16 @@
+animate_6	Modifiers	O
+animate_6	must	O
+animate_6	agree	O
+animate_6	with	O
+animate_6	the	O
+animate_6	head	O
+animate_6	in	O
+animate_6	animacy	O
+animate_6	and	O
+animate_6	in	O
+animate_6	number	O
+animate_6	if	O
+animate_6	the	O
+animate_6	head	O
+animate_6	is	O
+animate_6	animate	animate_adj-nou

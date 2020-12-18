@@ -1,0 +1,15 @@
+wind_51	EDP	O
+wind_51	Dobrogea	O
+wind_51	Wind	wind_nou
+wind_51	Farm	O
+wind_51	is	O
+wind_51	a	O
+wind_51	large	O
+wind_51	wind	wind_nou
+wind_51	power	O
+wind_51	project	O
+wind_51	in	O
+wind_51	the	O
+wind_51	Dobrogea	O
+wind_51	region	O
+wind_51	Romania	O

@@ -1,0 +1,11 @@
+upset_56	Norris	O
+upset_56	is	O
+upset_56	upset	upset_nou
+upset_56	about	O
+upset_56	her	O
+upset_56	affair	O
+upset_56	and	O
+upset_56	does	O
+upset_56	not	O
+upset_56	like	O
+upset_56	Brendan	O

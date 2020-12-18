@@ -1,0 +1,11 @@
+aged_8	Wiebe	O
+aged_8	died	O
+aged_8	on	O
+aged_8	April	O
+aged_8	16	O
+aged_8	2007	O
+aged_8	aged	aged
+aged_8	70	O
+aged_8	from	O
+aged_8	lung	O
+aged_8	cancer	O

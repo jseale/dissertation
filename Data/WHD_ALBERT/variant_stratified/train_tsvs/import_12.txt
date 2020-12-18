@@ -1,0 +1,12 @@
+import_12	Import	import_nou
+import_12	revisions	O
+import_12	were	O
+import_12	introduced	O
+import_12	as	O
+import_12	part	O
+import_12	ofVersion	O
+import_12	2	O
+import_12	released	O
+import_12	in	O
+import_12	September	O
+import_12	2015	O

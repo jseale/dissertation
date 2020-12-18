@@ -1,0 +1,15 @@
+rebel_65	In	O
+rebel_65	1643	O
+rebel_65	Zhu	O
+rebel_65	Changhao	O
+rebel_65	fled	O
+rebel_65	south	O
+rebel_65	to	O
+rebel_65	Sichuan	O
+rebel_65	ahead	O
+rebel_65	of	O
+rebel_65	Li	O
+rebel_65	Zicheng	O
+rebel_65	's	O
+rebel_65	rebel	rebel_nou
+rebel_65	army	O

@@ -1,0 +1,9 @@
+duplicate_26	After	O
+duplicate_26	a	O
+duplicate_26	few	O
+duplicate_26	events	O
+duplicate_26	a	O
+duplicate_26	duplicate	duplicate_adj-nou
+duplicate_26	Titu	O
+duplicate_26	also	O
+duplicate_26	comes	O

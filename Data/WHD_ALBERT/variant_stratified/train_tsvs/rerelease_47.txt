@@ -1,0 +1,15 @@
+rerelease_47	No	O
+rerelease_47	bug	O
+rerelease_47	fixes	O
+rerelease_47	or	O
+rerelease_47	patches	O
+rerelease_47	were	O
+rerelease_47	integrated	O
+rerelease_47	into	O
+rerelease_47	the	O
+rerelease_47	Classics	O
+rerelease_47	Platinum	O
+rerelease_47	rerelease	rerelease
+rerelease_47	of	O
+rerelease_47	the	O
+rerelease_47	game	O

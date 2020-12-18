@@ -1,0 +1,17 @@
+excuse_38	The	O
+excuse_38	verdict	O
+excuse_38	means	O
+excuse_38	that	O
+excuse_38	the	O
+excuse_38	killing	O
+excuse_38	was	O
+excuse_38	done	O
+excuse_38	without	O
+excuse_38	lawful	O
+excuse_38	excuse	excuse_nou
+excuse_38	and	O
+excuse_38	in	O
+excuse_38	breach	O
+excuse_38	of	O
+excuse_38	criminal	O
+excuse_38	law	O

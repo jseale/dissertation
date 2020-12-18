@@ -1,0 +1,11 @@
+defect_70	Quality	O
+defect_70	of	O
+defect_70	wood	O
+defect_70	never	O
+defect_70	varies	O
+defect_70	impossible	O
+defect_70	to	O
+defect_70	detect	O
+defect_70	the	O
+defect_70	smallest	O
+defect_70	defect	defect_nou

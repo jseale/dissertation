@@ -1,0 +1,17 @@
+suspect_45	Prime	O
+suspect_45	Suspect	suspect_adj-nou
+suspect_45	4	O
+suspect_45	through	O
+suspect_45	7	O
+suspect_45	were	O
+suspect_45	co	O
+suspect_45	produced	O
+suspect_45	by	O
+suspect_45	WGBH	O
+suspect_45	Boston	O
+suspect_45	for	O
+suspect_45	its	O
+suspect_45	Masterpiece	O
+suspect_45	Mystery	O
+suspect_45	anthology	O
+suspect_45	series	O

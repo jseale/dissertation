@@ -1,0 +1,10 @@
+pasty_8	If	O
+pasty_8	concrete	O
+pasty_8	is	O
+pasty_8	too	O
+pasty_8	pasty	pasty_nou
+pasty_8	cavities	O
+pasty_8	may	O
+pasty_8	form	O
+pasty_8	within	O
+pasty_8	it	O

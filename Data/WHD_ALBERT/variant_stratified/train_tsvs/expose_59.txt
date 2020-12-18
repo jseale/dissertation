@@ -1,0 +1,8 @@
+expose_59	Do	O
+expose_59	not	O
+expose_59	expose	expose_vrb
+expose_59	to	O
+expose_59	air	O
+expose_59	or	O
+expose_59	light	O
+expose_59	unnecessarily	O

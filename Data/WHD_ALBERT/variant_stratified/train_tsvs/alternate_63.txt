@@ -1,0 +1,8 @@
+alternate_63	Players	O
+alternate_63	determine	O
+alternate_63	who	O
+alternate_63	moves	O
+alternate_63	first	O
+alternate_63	then	O
+alternate_63	turns	O
+alternate_63	alternate	alternate_adj-nou

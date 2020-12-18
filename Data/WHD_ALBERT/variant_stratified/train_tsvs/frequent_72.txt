@@ -1,0 +1,17 @@
+frequent_72	Nevins	O
+frequent_72	retired	O
+frequent_72	from	O
+frequent_72	the	O
+frequent_72	Army	O
+frequent_72	in	O
+frequent_72	1946	O
+frequent_72	but	O
+frequent_72	continued	O
+frequent_72	to	O
+frequent_72	have	O
+frequent_72	frequent	frequent_adj
+frequent_72	contacts	O
+frequent_72	with	O
+frequent_72	Dwight	O
+frequent_72	D.	O
+frequent_72	Eisenhower	O

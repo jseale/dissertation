@@ -1,0 +1,7 @@
+polish_26	His	O
+polish_26	father	O
+polish_26	spoke	O
+polish_26	Yiddish	O
+polish_26	Polish	polish_geo
+polish_26	and	O
+polish_26	Russian	O

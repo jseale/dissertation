@@ -1,0 +1,14 @@
+bass_2	Paul	O
+bass_2	Burnley	O
+bass_2	vocals	O
+bass_2	Sean	O
+bass_2	Heywood	O
+bass_2	guitar	O
+bass_2	Mark	O
+bass_2	Vince	O
+bass_2	guitar	O
+bass_2	Archie	O
+bass_2	bass	bass
+bass_2	Stewart	O
+bass_2	Baile	O
+bass_2	drums	O

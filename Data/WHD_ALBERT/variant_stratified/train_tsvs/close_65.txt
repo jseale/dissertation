@@ -1,0 +1,16 @@
+close_65	For	O
+close_65	unknown	O
+close_65	reasons	O
+close_65	the	O
+close_65	Poles	O
+close_65	did	O
+close_65	not	O
+close_65	use	O
+close_65	the	O
+close_65	grenades	O
+close_65	prepared	O
+close_65	for	O
+close_65	defence	O
+close_65	in	O
+close_65	close	close_adj-nou
+close_65	quarters	O

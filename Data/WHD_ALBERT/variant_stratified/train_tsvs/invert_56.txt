@@ -1,0 +1,12 @@
+invert_56	Drop	O
+invert_56	Foot	O
+invert_56	is	O
+invert_56	the	O
+invert_56	inability	O
+invert_56	to	O
+invert_56	dorsiflex	O
+invert_56	evert	O
+invert_56	or	O
+invert_56	invert	invert_vrb
+invert_56	the	O
+invert_56	foot	O

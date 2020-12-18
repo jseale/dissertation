@@ -1,0 +1,9 @@
+suspect_54	Yu	O
+suspect_54	becomes	O
+suspect_54	the	O
+suspect_54	murder	O
+suspect_54	suspect	suspect_adj-nou
+suspect_54	and	O
+suspect_54	is	O
+suspect_54	immediately	O
+suspect_54	arrested	O

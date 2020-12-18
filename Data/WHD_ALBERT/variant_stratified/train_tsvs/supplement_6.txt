@@ -1,0 +1,14 @@
+supplement_6	The	O
+supplement_6	1934	O
+supplement_6	edition	O
+supplement_6	included	O
+supplement_6	6,900	O
+supplement_6	roots	O
+supplement_6	while	O
+supplement_6	Waringhien	O
+supplement_6	's	O
+supplement_6	supplement	supplement_nou
+supplement_6	added	O
+supplement_6	an	O
+supplement_6	extra	O
+supplement_6	966	O

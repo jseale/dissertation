@@ -1,0 +1,15 @@
+discount_26	The	O
+discount_26	dividend	O
+discount_26	discount	discount_nou
+discount_26	model	O
+discount_26	is	O
+discount_26	closely	O
+discount_26	related	O
+discount_26	to	O
+discount_26	both	O
+discount_26	discounted	O
+discount_26	earnings	O
+discount_26	and	O
+discount_26	discounted	O
+discount_26	cashflow	O
+discount_26	models	O

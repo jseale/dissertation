@@ -1,0 +1,16 @@
+permit_10	The	O
+permit_10	LDS	O
+permit_10	Church	O
+permit_10	requested	O
+permit_10	a	O
+permit_10	special	O
+permit_10	exception	O
+permit_10	permit	permit_nou
+permit_10	which	O
+permit_10	specified	O
+permit_10	how	O
+permit_10	the	O
+permit_10	temple	O
+permit_10	would	O
+permit_10	be	O
+permit_10	used	O

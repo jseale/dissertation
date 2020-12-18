@@ -1,0 +1,13 @@
+increment_67	Also	O
+increment_67	a	O
+increment_67	small	O
+increment_67	increment	increment_nou
+increment_67	of	O
+increment_67	time	O
+increment_67	may	O
+increment_67	be	O
+increment_67	added	O
+increment_67	for	O
+increment_67	each	O
+increment_67	move	O
+increment_67	made	O

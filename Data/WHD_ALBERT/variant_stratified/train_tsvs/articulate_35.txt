@@ -1,0 +1,14 @@
+articulate_35	His	O
+articulate_35	articulate	articulate_adj
+articulate_35	speeches	O
+articulate_35	throughout	O
+articulate_35	New	O
+articulate_35	England	O
+articulate_35	earned	O
+articulate_35	Morel	O
+articulate_35	an	O
+articulate_35	audience	O
+articulate_35	with	O
+articulate_35	President	O
+articulate_35	Theodore	O
+articulate_35	Roosevelt	O

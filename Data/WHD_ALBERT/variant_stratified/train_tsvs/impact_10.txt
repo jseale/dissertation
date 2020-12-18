@@ -1,0 +1,11 @@
+impact_10	On	O
+impact_10	impact	impact_nou
+impact_10	with	O
+impact_10	the	O
+impact_10	target	O
+impact_10	a	O
+impact_10	delayed	O
+impact_10	action	O
+impact_10	fuze	O
+impact_10	is	O
+impact_10	triggered	O

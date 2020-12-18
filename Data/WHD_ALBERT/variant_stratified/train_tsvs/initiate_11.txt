@@ -1,0 +1,12 @@
+initiate_11	Price	O
+initiate_11	wars	O
+initiate_11	are	O
+initiate_11	easy	O
+initiate_11	to	O
+initiate_11	initiate	initiate_vrb
+initiate_11	but	O
+initiate_11	usually	O
+initiate_11	very	O
+initiate_11	expensive	O
+initiate_11	for	O
+initiate_11	companies	O

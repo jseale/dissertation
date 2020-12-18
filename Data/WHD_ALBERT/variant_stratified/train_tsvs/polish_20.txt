@@ -1,0 +1,16 @@
+polish_20	Skowronek	O
+polish_20	a	O
+polish_20	name	O
+polish_20	meaning	O
+polish_20	lark	O
+polish_20	or	O
+polish_20	skylark	O
+polish_20	in	O
+polish_20	Polish	polish_geo
+polish_20	was	O
+polish_20	an	O
+polish_20	Arabian	O
+polish_20	stallion	O
+polish_20	foaled	O
+polish_20	in	O
+polish_20	1909	O

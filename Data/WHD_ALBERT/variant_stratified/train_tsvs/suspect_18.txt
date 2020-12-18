@@ -1,0 +1,17 @@
+suspect_18	He	O
+suspect_18	prepared	O
+suspect_18	the	O
+suspect_18	fat	O
+suspect_18	partridge	O
+suspect_18	in	O
+suspect_18	spiced	O
+suspect_18	wine	O
+suspect_18	sauce	O
+suspect_18	and	O
+suspect_18	was	O
+suspect_18	the	O
+suspect_18	first	O
+suspect_18	suspect	suspect_adj-nou
+suspect_18	to	O
+suspect_18	be	O
+suspect_18	cleared	O

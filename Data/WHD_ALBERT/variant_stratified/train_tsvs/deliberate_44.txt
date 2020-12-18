@@ -1,0 +1,14 @@
+deliberate_44	In	O
+deliberate_44	contrast	O
+deliberate_44	decisions	O
+deliberate_44	driven	O
+deliberate_44	by	O
+deliberate_44	system	O
+deliberate_44	2	O
+deliberate_44	are	O
+deliberate_44	deliberate	deliberate_adj
+deliberate_44	conscious	O
+deliberate_44	reasoning	O
+deliberate_44	slow	O
+deliberate_44	and	O
+deliberate_44	effortful	O

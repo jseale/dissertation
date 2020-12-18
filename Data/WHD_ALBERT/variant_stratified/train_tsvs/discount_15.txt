@@ -1,0 +1,15 @@
+discount_15	Treasure	O
+discount_15	Island	O
+discount_15	formerly	O
+discount_15	The	O
+discount_15	Treasury	O
+discount_15	was	O
+discount_15	a	O
+discount_15	chain	O
+discount_15	of	O
+discount_15	discount	discount_nou
+discount_15	stores	O
+discount_15	owned	O
+discount_15	by	O
+discount_15	J.C.	O
+discount_15	Penney	O

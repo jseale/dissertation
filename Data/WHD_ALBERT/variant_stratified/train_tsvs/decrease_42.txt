@@ -1,0 +1,12 @@
+decrease_42	Yohimbine	O
+decrease_42	has	O
+decrease_42	been	O
+decrease_42	used	O
+decrease_42	to	O
+decrease_42	decrease	decrease_vrb
+decrease_42	glucose	O
+decrease_42	levels	O
+decrease_42	to	O
+decrease_42	a	O
+decrease_42	healthy	O
+decrease_42	level	O

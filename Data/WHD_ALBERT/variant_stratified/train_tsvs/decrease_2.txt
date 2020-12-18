@@ -1,0 +1,17 @@
+decrease_2	This	O
+decrease_2	was	O
+decrease_2	a	O
+decrease_2	decrease	decrease_nou
+decrease_2	from	O
+decrease_2	72	O
+decrease_2	support	O
+decrease_2	two	O
+decrease_2	years	O
+decrease_2	previous	O
+decrease_2	and	O
+decrease_2	an	O
+decrease_2	increase	O
+decrease_2	from	O
+decrease_2	63	O
+decrease_2	in	O
+decrease_2	2000	O

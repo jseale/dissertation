@@ -1,0 +1,8 @@
+estimate_47	Chiweta	O
+estimate_47	has	O
+estimate_47	an	O
+estimate_47	estimate	estimate_nou
+estimate_47	population	O
+estimate_47	of	O
+estimate_47	45,000	O
+estimate_47	people	O

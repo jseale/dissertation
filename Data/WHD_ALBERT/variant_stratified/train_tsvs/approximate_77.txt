@@ -1,0 +1,14 @@
+approximate_77	The	O
+approximate_77	free	O
+approximate_77	margins	O
+approximate_77	of	O
+approximate_77	valve	O
+approximate_77	cusps	O
+approximate_77	no	O
+approximate_77	longer	O
+approximate_77	approximate	approximate_vrb
+approximate_77	leading	O
+approximate_77	to	O
+approximate_77	aortic	O
+approximate_77	valve	O
+approximate_77	insufficiency	O

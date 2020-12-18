@@ -1,0 +1,8 @@
+upset_45	Cole	O
+upset_45	's	O
+upset_45	win	O
+upset_45	was	O
+upset_45	something	O
+upset_45	of	O
+upset_45	an	O
+upset_45	upset	upset_nou

@@ -1,0 +1,16 @@
+rodeo_8	Animal	O
+rodeo_8	welfare	O
+rodeo_8	groups	O
+rodeo_8	have	O
+rodeo_8	called	O
+rodeo_8	animal	O
+rodeo_8	deaths	O
+rodeo_8	depressingly	O
+rodeo_8	predictable	O
+rodeo_8	and	O
+rodeo_8	seek	O
+rodeo_8	a	O
+rodeo_8	boycott	O
+rodeo_8	of	O
+rodeo_8	the	O
+rodeo_8	rodeo	rodeo

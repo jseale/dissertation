@@ -1,0 +1,12 @@
+live_8	Edouard	O
+live_8	remembered	O
+live_8	other	O
+live_8	incidents	O
+live_8	of	O
+live_8	those	O
+live_8	who	O
+live_8	needed	O
+live_8	to	O
+live_8	borrow	O
+live_8	to	O
+live_8	live	live_vrb

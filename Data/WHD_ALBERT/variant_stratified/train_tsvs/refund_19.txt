@@ -1,0 +1,8 @@
+refund_19	No	O
+refund_19	proper	O
+refund_19	reason	O
+refund_19	refund	refund_nou
+refund_19	or	O
+refund_19	compensation	O
+refund_19	was	O
+refund_19	made	O

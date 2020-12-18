@@ -1,0 +1,10 @@
+expose_68	These	O
+expose_68	relationship	O
+expose_68	objects	O
+expose_68	expose	expose_vrb
+expose_68	the	O
+expose_68	other	O
+expose_68	item	O
+expose_68	via	O
+expose_68	a	O
+expose_68	property	O

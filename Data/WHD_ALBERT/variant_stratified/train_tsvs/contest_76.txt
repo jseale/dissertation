@@ -1,0 +1,16 @@
+contest_76	Others	O
+contest_76	contest	contest_vrb
+contest_76	such	O
+contest_76	proposals	O
+contest_76	and	O
+contest_76	suggest	O
+contest_76	Shiva	O
+contest_76	to	O
+contest_76	have	O
+contest_76	emerged	O
+contest_76	from	O
+contest_76	indigenous	O
+contest_76	pre	O
+contest_76	Aryan	O
+contest_76	tribal	O
+contest_76	origins	O

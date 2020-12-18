@@ -1,0 +1,16 @@
+ornament_66	In	O
+ornament_66	1992	O
+ornament_66	the	O
+ornament_66	National	O
+ornament_66	Park	O
+ornament_66	Service	O
+ornament_66	permitted	O
+ornament_66	the	O
+ornament_66	first	O
+ornament_66	National	O
+ornament_66	Christmas	O
+ornament_66	Tree	O
+ornament_66	ornament	ornament_nou
+ornament_66	to	O
+ornament_66	be	O
+ornament_66	produced	O

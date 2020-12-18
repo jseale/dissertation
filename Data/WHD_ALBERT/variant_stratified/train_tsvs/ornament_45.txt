@@ -1,0 +1,7 @@
+ornament_45	The	O
+ornament_45	bridge	O
+ornament_45	fencing	O
+ornament_45	has	O
+ornament_45	a	O
+ornament_45	quay	O
+ornament_45	ornament	ornament_nou

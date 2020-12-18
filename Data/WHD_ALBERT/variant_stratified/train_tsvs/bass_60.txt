@@ -1,0 +1,13 @@
+bass_60	The	O
+bass_60	root	O
+bass_60	is	O
+bass_60	omitted	O
+bass_60	because	O
+bass_60	the	O
+bass_60	root	O
+bass_60	is	O
+bass_60	played	O
+bass_60	by	O
+bass_60	the	O
+bass_60	bass	bass
+bass_60	player	O

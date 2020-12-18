@@ -1,0 +1,14 @@
+celtic_43	Flatfoot	O
+celtic_43	56	O
+celtic_43	has	O
+celtic_43	been	O
+celtic_43	playing	O
+celtic_43	a	O
+celtic_43	positive	O
+celtic_43	natured	O
+celtic_43	brand	O
+celtic_43	of	O
+celtic_43	hardcore	O
+celtic_43	tinged	O
+celtic_43	Celtic	celtic
+celtic_43	punk	O

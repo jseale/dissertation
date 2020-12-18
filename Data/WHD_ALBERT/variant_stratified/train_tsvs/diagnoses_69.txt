@@ -1,0 +1,17 @@
+diagnoses_69	This	O
+diagnoses_69	definitively	O
+diagnoses_69	diagnoses	diagnoses_vrb
+diagnoses_69	AD	O
+diagnoses_69	by	O
+diagnoses_69	identifying	O
+diagnoses_69	amyloid	O
+diagnoses_69	plaques	O
+diagnoses_69	and	O
+diagnoses_69	tau	O
+diagnoses_69	tangles	O
+diagnoses_69	and	O
+diagnoses_69	also	O
+diagnoses_69	notes	O
+diagnoses_69	other	O
+diagnoses_69	common	O
+diagnoses_69	comorbidities	O

@@ -1,0 +1,11 @@
+compound_28	Tris(pentafluorophenyl)borane	O
+compound_28	sometimes	O
+compound_28	referred	O
+compound_28	to	O
+compound_28	as	O
+compound_28	BCF	O
+compound_28	is	O
+compound_28	the	O
+compound_28	chemical	O
+compound_28	compound	compound_nou
+compound_28	C₆F₅)₃B.	O

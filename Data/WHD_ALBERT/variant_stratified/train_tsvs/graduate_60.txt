@@ -1,0 +1,15 @@
+graduate_60	North	O
+graduate_60	is	O
+graduate_60	a	O
+graduate_60	2003	O
+graduate_60	graduate	graduate_adj-nou
+graduate_60	of	O
+graduate_60	Indiana	O
+graduate_60	University	O
+graduate_60	and	O
+graduate_60	currently	O
+graduate_60	resides	O
+graduate_60	in	O
+graduate_60	Manhattan	O
+graduate_60	Beach	O
+graduate_60	California	O

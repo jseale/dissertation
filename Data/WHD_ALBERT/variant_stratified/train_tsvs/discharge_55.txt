@@ -1,0 +1,8 @@
+discharge_55	He	O
+discharge_55	ended	O
+discharge_55	his	O
+discharge_55	tour	O
+discharge_55	with	O
+discharge_55	an	O
+discharge_55	honorable	O
+discharge_55	discharge	discharge_nou

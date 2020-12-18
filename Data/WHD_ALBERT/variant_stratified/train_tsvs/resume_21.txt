@@ -1,0 +1,10 @@
+resume_21	He	O
+resume_21	returned	O
+resume_21	to	O
+resume_21	Nanjing	O
+resume_21	to	O
+resume_21	resume	resume_vrb
+resume_21	his	O
+resume_21	job	O
+resume_21	as	O
+resume_21	minister	O

@@ -1,0 +1,14 @@
+decrease_76	Bicycling	O
+decrease_76	to	O
+decrease_76	work	O
+decrease_76	has	O
+decrease_76	been	O
+decrease_76	shown	O
+decrease_76	to	O
+decrease_76	decrease	decrease_vrb
+decrease_76	mortality	O
+decrease_76	by	O
+decrease_76	as	O
+decrease_76	much	O
+decrease_76	as	O
+decrease_76	40	O

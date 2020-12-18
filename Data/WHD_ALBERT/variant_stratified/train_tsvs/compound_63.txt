@@ -1,0 +1,15 @@
+compound_63	Also	O
+compound_63	a	O
+compound_63	speaker	O
+compound_63	must	O
+compound_63	avoid	O
+compound_63	using	O
+compound_63	very	O
+compound_63	many	O
+compound_63	strange	O
+compound_63	words	O
+compound_63	compound	compound_nou
+compound_63	words	O
+compound_63	and	O
+compound_63	invented	O
+compound_63	words	O

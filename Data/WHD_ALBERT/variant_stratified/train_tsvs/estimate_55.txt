@@ -1,0 +1,12 @@
+estimate_55	As	O
+estimate_55	of	O
+estimate_55	2011	O
+estimate_55	the	O
+estimate_55	best	O
+estimate_55	estimate	estimate_nou
+estimate_55	is	O
+estimate_55	0.5600	O
+estimate_55	obtained	O
+estimate_55	by	O
+estimate_55	Shevtsova	O
+estimate_55	2010	O

@@ -1,0 +1,15 @@
+lead_19	He	O
+lead_19	eventually	O
+lead_19	lands	O
+lead_19	the	O
+lead_19	lead	lead_nou-vrb
+lead_19	role	O
+lead_19	as	O
+lead_19	Jesus	O
+lead_19	at	O
+lead_19	Rika	O
+lead_19	's	O
+lead_19	Easter	O
+lead_19	and	O
+lead_19	Christmas	O
+lead_19	pageants	O

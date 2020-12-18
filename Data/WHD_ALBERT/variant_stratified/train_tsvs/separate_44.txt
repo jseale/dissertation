@@ -1,0 +1,13 @@
+separate_44	Twello	O
+separate_44	was	O
+separate_44	a	O
+separate_44	separate	separate_adj
+separate_44	municipality	O
+separate_44	until	O
+separate_44	1818	O
+separate_44	when	O
+separate_44	it	O
+separate_44	was	O
+separate_44	merged	O
+separate_44	with	O
+separate_44	Voorst	O

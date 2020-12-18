@@ -1,0 +1,14 @@
+implement_42	Congress	O
+implement_42	is	O
+implement_42	still	O
+implement_42	considering	O
+implement_42	legislation	O
+implement_42	that	O
+implement_42	would	O
+implement_42	implement	implement_vrb
+implement_42	something	O
+implement_42	similar	O
+implement_42	to	O
+implement_42	the	O
+implement_42	Broadcast	O
+implement_42	Flag	O

@@ -1,0 +1,14 @@
+conduct_61	Not	O
+conduct_61	wanting	O
+conduct_61	to	O
+conduct_61	conduct	conduct_vrb
+conduct_61	research	O
+conduct_61	Griffth	O
+conduct_61	's	O
+conduct_61	left	O
+conduct_61	Republic	O
+conduct_61	to	O
+conduct_61	join	O
+conduct_61	the	O
+conduct_61	Timken	O
+conduct_61	Company	O

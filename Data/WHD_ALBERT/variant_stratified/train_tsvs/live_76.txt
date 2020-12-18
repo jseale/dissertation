@@ -1,0 +1,12 @@
+live_76	In	O
+live_76	heaven	O
+live_76	he	O
+live_76	will	O
+live_76	live	live_vrb
+live_76	as	O
+live_76	long	O
+live_76	as	O
+live_76	Visakha	O
+live_76	and	O
+live_76	Sakka	O
+live_76	DA.iii.740	O

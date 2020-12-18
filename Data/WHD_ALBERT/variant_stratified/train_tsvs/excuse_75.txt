@@ -1,0 +1,16 @@
+excuse_75	Cavendish	O
+excuse_75	commonly	O
+excuse_75	used	O
+excuse_75	the	O
+excuse_75	epistles	O
+excuse_75	to	O
+excuse_75	call	O
+excuse_75	attention	O
+excuse_75	to	O
+excuse_75	and	O
+excuse_75	excuse	excuse_vrb
+excuse_75	potential	O
+excuse_75	weaknesses	O
+excuse_75	in	O
+excuse_75	her	O
+excuse_75	writing	O

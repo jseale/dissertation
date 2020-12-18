@@ -1,0 +1,8 @@
+buffet_7	The	O
+buffet_7	Agora	O
+buffet_7	is	O
+buffet_7	a	O
+buffet_7	buffet	buffet_nou
+buffet_7	style	O
+buffet_7	dining	O
+buffet_7	system	O

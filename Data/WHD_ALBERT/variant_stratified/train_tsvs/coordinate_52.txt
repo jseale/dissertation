@@ -1,0 +1,12 @@
+coordinate_52	However	O
+coordinate_52	Millthorpe	O
+coordinate_52	School	O
+coordinate_52	continues	O
+coordinate_52	to	O
+coordinate_52	coordinate	coordinate_vrb
+coordinate_52	with	O
+coordinate_52	York	O
+coordinate_52	City	O
+coordinate_52	Council	O
+coordinate_52	for	O
+coordinate_52	admissions	O

@@ -1,0 +1,13 @@
+misuse_76	There	O
+misuse_76	are	O
+misuse_76	allegations	O
+misuse_76	that	O
+misuse_76	he	O
+misuse_76	would	O
+misuse_76	distort	O
+misuse_76	and	O
+misuse_76	misuse	misuse_vrb
+misuse_76	data	O
+misuse_76	given	O
+misuse_76	to	O
+misuse_76	him	O

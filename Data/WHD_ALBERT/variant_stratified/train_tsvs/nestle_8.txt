@@ -1,0 +1,17 @@
+nestle_8	Swiss	O
+nestle_8	confectioner	O
+nestle_8	Henry	O
+nestle_8	Nestle	nestle_nam
+nestle_8	added	O
+nestle_8	milk	O
+nestle_8	to	O
+nestle_8	his	O
+nestle_8	chocolate	O
+nestle_8	recipe	O
+nestle_8	to	O
+nestle_8	reduce	O
+nestle_8	the	O
+nestle_8	bitterness	O
+nestle_8	of	O
+nestle_8	the	O
+nestle_8	cocoa	O

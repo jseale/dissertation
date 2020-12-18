@@ -1,0 +1,9 @@
+perfume_64	This	O
+perfume_64	became	O
+perfume_64	Kurkdjian	O
+perfume_64	's	O
+perfume_64	first	O
+perfume_64	success	O
+perfume_64	at	O
+perfume_64	perfume	perfume_nou
+perfume_64	making	O

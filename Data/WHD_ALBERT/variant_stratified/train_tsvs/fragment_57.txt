@@ -1,0 +1,13 @@
+fragment_57	Even	O
+fragment_57	in	O
+fragment_57	the	O
+fragment_57	same	O
+fragment_57	bioptic	O
+fragment_57	fragment	fragment_nou
+fragment_57	different	O
+fragment_57	degrees	O
+fragment_57	of	O
+fragment_57	damage	O
+fragment_57	may	O
+fragment_57	be	O
+fragment_57	present	O

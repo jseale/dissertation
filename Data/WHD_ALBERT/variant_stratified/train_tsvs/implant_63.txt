@@ -1,0 +1,9 @@
+implant_63	This	O
+implant_63	property	O
+implant_63	is	O
+implant_63	also	O
+implant_63	useful	O
+implant_63	for	O
+implant_63	orthopedic	O
+implant_63	implant	implant_nou
+implant_63	applications	O

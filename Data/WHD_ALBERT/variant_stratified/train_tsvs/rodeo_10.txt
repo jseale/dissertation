@@ -1,0 +1,12 @@
+rodeo_10	Archived	O
+rodeo_10	from	O
+rodeo_10	Rodeo	rodeo
+rodeo_10	Hall	O
+rodeo_10	of	O
+rodeo_10	Fame	O
+rodeo_10	the	O
+rodeo_10	original	O
+rodeo_10	on	O
+rodeo_10	May	O
+rodeo_10	29	O
+rodeo_10	2007	O

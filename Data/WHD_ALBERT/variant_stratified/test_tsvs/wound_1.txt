@@ -1,0 +1,9 @@
+wound_1	Ballew	O
+wound_1	survived	O
+wound_1	his	O
+wound_1	head	O
+wound_1	wound	wound_nou-vrb
+wound_1	but	O
+wound_1	suffered	O
+wound_1	brain	O
+wound_1	damage	O

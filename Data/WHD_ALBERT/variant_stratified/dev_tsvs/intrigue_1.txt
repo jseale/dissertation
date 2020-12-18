@@ -1,0 +1,14 @@
+intrigue_1	In	O
+intrigue_1	this	O
+intrigue_1	scenario	O
+intrigue_1	the	O
+intrigue_1	player	O
+intrigue_1	characters	O
+intrigue_1	become	O
+intrigue_1	involved	O
+intrigue_1	in	O
+intrigue_1	intrigue	intrigue_nou
+intrigue_1	among	O
+intrigue_1	Lankhmar	O
+intrigue_1	's	O
+intrigue_1	nobles	O

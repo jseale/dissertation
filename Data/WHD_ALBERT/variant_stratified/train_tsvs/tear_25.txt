@@ -1,0 +1,11 @@
+tear_25	The	O
+tear_25	soldiers	O
+tear_25	fired	O
+tear_25	tear	tear_nou
+tear_25	gas	O
+tear_25	and	O
+tear_25	stun	O
+tear_25	grenades	O
+tear_25	at	O
+tear_25	the	O
+tear_25	demonstrators	O

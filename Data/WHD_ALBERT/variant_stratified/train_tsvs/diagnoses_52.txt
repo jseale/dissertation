@@ -1,0 +1,16 @@
+diagnoses_52	Following	O
+diagnoses_52	a	O
+diagnoses_52	number	O
+diagnoses_52	of	O
+diagnoses_52	false	O
+diagnoses_52	diagnoses	diagnoses_nou
+diagnoses_52	she	O
+diagnoses_52	was	O
+diagnoses_52	found	O
+diagnoses_52	to	O
+diagnoses_52	have	O
+diagnoses_52	ovarian	O
+diagnoses_52	cancer	O
+diagnoses_52	in	O
+diagnoses_52	October	O
+diagnoses_52	1986	O

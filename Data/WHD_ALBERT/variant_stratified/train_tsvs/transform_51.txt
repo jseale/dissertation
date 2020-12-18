@@ -1,0 +1,13 @@
+transform_51	To	O
+transform_51	do	O
+transform_51	so	O
+transform_51	we	O
+transform_51	first	O
+transform_51	transform	transform
+transform_51	into	O
+transform_51	the	O
+transform_51	barycentric	O
+transform_51	coordinates	O
+transform_51	of	O
+transform_51	each	O
+transform_51	triangle	O

@@ -1,0 +1,12 @@
+converse_61	They	O
+converse_61	do	O
+converse_61	not	O
+converse_61	attempt	O
+converse_61	to	O
+converse_61	converse	converse_vrb
+converse_61	with	O
+converse_61	their	O
+converse_61	partner	O
+converse_61	during	O
+converse_61	a	O
+converse_61	song	O

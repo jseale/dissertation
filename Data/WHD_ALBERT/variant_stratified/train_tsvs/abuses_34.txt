@@ -1,0 +1,13 @@
+abuses_34	Student	O
+abuses_34	Loan	O
+abuses_34	Law	O
+abuses_34	Collections	O
+abuses_34	Intercepts	O
+abuses_34	Deferments	O
+abuses_34	Discharges	O
+abuses_34	Repayment	O
+abuses_34	Plans	O
+abuses_34	and	O
+abuses_34	Trade	O
+abuses_34	School	O
+abuses_34	Abuses	abuses_nou

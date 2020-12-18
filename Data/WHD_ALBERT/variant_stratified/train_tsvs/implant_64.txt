@@ -1,0 +1,14 @@
+implant_64	He	O
+implant_64	has	O
+implant_64	also	O
+implant_64	published	O
+implant_64	a	O
+implant_64	textbook	O
+implant_64	on	O
+implant_64	complications	O
+implant_64	related	O
+implant_64	to	O
+implant_64	surgical	O
+implant_64	dental	O
+implant_64	implant	implant_nou
+implant_64	therapy	O

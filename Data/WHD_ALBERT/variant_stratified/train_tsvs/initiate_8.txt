@@ -1,0 +1,15 @@
+initiate_8	The	O
+initiate_8	use	O
+initiate_8	of	O
+initiate_8	a	O
+initiate_8	laser	O
+initiate_8	to	O
+initiate_8	initiate	initiate_vrb
+initiate_8	a	O
+initiate_8	carbon	O
+initiate_8	doped	O
+initiate_8	explosive	O
+initiate_8	via	O
+initiate_8	a	O
+initiate_8	fiber	O
+initiate_8	optic	O

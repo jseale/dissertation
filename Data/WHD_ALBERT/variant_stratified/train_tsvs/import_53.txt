@@ -1,0 +1,9 @@
+import_53	The	O
+import_53	BIC	O
+import_53	claimed	O
+import_53	to	O
+import_53	be	O
+import_53	an	O
+import_53	import	import_nou
+import_53	export	O
+import_53	company	O

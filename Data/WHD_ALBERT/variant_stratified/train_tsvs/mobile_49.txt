@@ -1,0 +1,17 @@
+mobile_49	The	O
+mobile_49	number	O
+mobile_49	of	O
+mobile_49	musketeers	O
+mobile_49	relative	O
+mobile_49	to	O
+mobile_49	pikemen	O
+mobile_49	grew	O
+mobile_49	partly	O
+mobile_49	because	O
+mobile_49	they	O
+mobile_49	were	O
+mobile_49	now	O
+mobile_49	more	O
+mobile_49	mobile	mobile
+mobile_49	than	O
+mobile_49	pikemen	O

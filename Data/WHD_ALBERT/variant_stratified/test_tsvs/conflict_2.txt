@@ -1,0 +1,16 @@
+conflict_2	This	O
+conflict_2	conflict	conflict_nou
+conflict_2	was	O
+conflict_2	one	O
+conflict_2	of	O
+conflict_2	the	O
+conflict_2	main	O
+conflict_2	causes	O
+conflict_2	of	O
+conflict_2	Cleopatra	O
+conflict_2	's	O
+conflict_2	fall	O
+conflict_2	from	O
+conflict_2	power	O
+conflict_2	shortly	O
+conflict_2	afterward	O

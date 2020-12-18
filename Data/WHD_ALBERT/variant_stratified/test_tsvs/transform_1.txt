@@ -1,0 +1,16 @@
+transform_1	ALA	O
+transform_1	seeks	O
+transform_1	to	O
+transform_1	transform	transform
+transform_1	Africa	O
+transform_1	by	O
+transform_1	identifying	O
+transform_1	developing	O
+transform_1	and	O
+transform_1	connecting	O
+transform_1	the	O
+transform_1	next	O
+transform_1	generation	O
+transform_1	of	O
+transform_1	African	O
+transform_1	leaders	O

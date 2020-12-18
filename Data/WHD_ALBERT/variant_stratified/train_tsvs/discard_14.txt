@@ -1,0 +1,15 @@
+discard_14	If	O
+discard_14	the	O
+discard_14	draw	O
+discard_14	deck	O
+discard_14	becomes	O
+discard_14	depleted	O
+discard_14	during	O
+discard_14	play	O
+discard_14	shuffle	O
+discard_14	the	O
+discard_14	discard	discard_nou
+discard_14	pile	O
+discard_14	and	O
+discard_14	begin	O
+discard_14	again	O

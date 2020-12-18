@@ -1,0 +1,9 @@
+combine_59	AOGCMs	O
+combine_59	e.g.	O
+combine_59	HadCM3	O
+combine_59	GFDL	O
+combine_59	CM2.X	O
+combine_59	combine	combine_vrb
+combine_59	the	O
+combine_59	two	O
+combine_59	submodels	O

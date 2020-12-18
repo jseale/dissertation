@@ -1,0 +1,10 @@
+live_4	It	O
+live_4	contains	O
+live_4	many	O
+live_4	aspects	O
+live_4	of	O
+live_4	animation	O
+live_4	composed	O
+live_4	with	O
+live_4	live	live_adj
+live_4	action	O

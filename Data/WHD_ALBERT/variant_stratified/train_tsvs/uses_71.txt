@@ -1,0 +1,8 @@
+uses_71	Her	O
+uses_71	film	O
+uses_71	uses	uses_vrb
+uses_71	both	O
+uses_71	interviews	O
+uses_71	and	O
+uses_71	archival	O
+uses_71	material	O

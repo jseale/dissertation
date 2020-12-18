@@ -1,0 +1,11 @@
+consummate_74	Ada	O
+consummate_74	and	O
+consummate_74	Inman	O
+consummate_74	consummate	consummate_vrb
+consummate_74	their	O
+consummate_74	love	O
+consummate_74	on	O
+consummate_74	their	O
+consummate_74	final	O
+consummate_74	night	O
+consummate_74	together	O

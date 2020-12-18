@@ -1,0 +1,15 @@
+resume_66	With	O
+resume_66	law	O
+resume_66	and	O
+resume_66	order	O
+resume_66	restored	O
+resume_66	Chisum	O
+resume_66	can	O
+resume_66	resume	resume_vrb
+resume_66	his	O
+resume_66	iconic	O
+resume_66	vigil	O
+resume_66	over	O
+resume_66	the	O
+resume_66	Pecos	O
+resume_66	valley	O

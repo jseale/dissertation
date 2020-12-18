@@ -1,0 +1,16 @@
+recount_53	McLean	O
+recount_53	was	O
+recount_53	personally	O
+recount_53	defeated	O
+recount_53	in	O
+recount_53	by	O
+recount_53	New	O
+recount_53	Democrat	O
+recount_53	Peter	O
+recount_53	Burtniak	O
+recount_53	after	O
+recount_53	a	O
+recount_53	recount	recount_nou
+recount_53	by	O
+recount_53	41	O
+recount_53	votes	O

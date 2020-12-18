@@ -1,0 +1,16 @@
+uses_6	Since	O
+uses_6	a	O
+uses_6	pacemaker	O
+uses_6	uses	uses_vrb
+uses_6	batteries	O
+uses_6	the	O
+uses_6	device	O
+uses_6	itself	O
+uses_6	will	O
+uses_6	need	O
+uses_6	replacement	O
+uses_6	as	O
+uses_6	the	O
+uses_6	batteries	O
+uses_6	lose	O
+uses_6	power	O

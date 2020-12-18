@@ -1,0 +1,9 @@
+reading_31	The	O
+reading_31	Tyler	O
+reading_31	supporters	O
+reading_31	holding	O
+reading_31	signs	O
+reading_31	reading	reading_en
+reading_31	Tyler	O
+reading_31	and	O
+reading_31	Texas	O

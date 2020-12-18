@@ -1,0 +1,16 @@
+correlate_9	Impaired	O
+correlate_9	parental	O
+correlate_9	monitoring	O
+correlate_9	and	O
+correlate_9	negative	O
+correlate_9	affect	O
+correlate_9	correlate	correlate_nou-vrb
+correlate_9	with	O
+correlate_9	COAs	O
+correlate_9	associating	O
+correlate_9	with	O
+correlate_9	peers	O
+correlate_9	that	O
+correlate_9	support	O
+correlate_9	drug	O
+correlate_9	use	O

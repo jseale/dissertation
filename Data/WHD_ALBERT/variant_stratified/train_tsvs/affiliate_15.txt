@@ -1,0 +1,12 @@
+affiliate_15	This	O
+affiliate_15	station	O
+affiliate_15	is	O
+affiliate_15	the	O
+affiliate_15	longest	O
+affiliate_15	tenured	O
+affiliate_15	ABC	O
+affiliate_15	affiliate	affiliate_nou
+affiliate_15	in	O
+affiliate_15	the	O
+affiliate_15	Upper	O
+affiliate_15	Midwest	O

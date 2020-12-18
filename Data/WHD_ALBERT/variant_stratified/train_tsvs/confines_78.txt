@@ -1,0 +1,16 @@
+confines_78	It	O
+confines_78	is	O
+confines_78	essentially	O
+confines_78	a	O
+confines_78	sad	O
+confines_78	love	O
+confines_78	song	O
+confines_78	where	O
+confines_78	a	O
+confines_78	woman	O
+confines_78	obsessively	O
+confines_78	stalks	O
+confines_78	and	O
+confines_78	confines	confines_vrb
+confines_78	her	O
+confines_78	lover	O

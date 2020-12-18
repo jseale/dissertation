@@ -1,0 +1,16 @@
+excuse_62	Intel	O
+excuse_62	excuse	excuse_nou
+excuse_62	for	O
+excuse_62	no	O
+excuse_62	GMA900	O
+excuse_62	WDDM	O
+excuse_62	driver	O
+excuse_62	no	O
+excuse_62	HW	O
+excuse_62	Scheduler	O
+excuse_62	no	O
+excuse_62	driver	O
+excuse_62	Beyond3D	O
+excuse_62	October	O
+excuse_62	26	O
+excuse_62	2006	O

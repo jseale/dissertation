@@ -1,0 +1,10 @@
+transplant_2	Channel	O
+transplant_2	7	O
+transplant_2	televised	O
+transplant_2	the	O
+transplant_2	first	O
+transplant_2	kidney	O
+transplant_2	transplant	transplant_nou
+transplant_2	in	O
+transplant_2	the	O
+transplant_2	mid-1960s	O

@@ -1,0 +1,7 @@
+excuse_8	In	O
+excuse_8	their	O
+excuse_8	view	O
+excuse_8	nothing	O
+excuse_8	can	O
+excuse_8	excuse	excuse_vrb
+excuse_8	terrorism	O

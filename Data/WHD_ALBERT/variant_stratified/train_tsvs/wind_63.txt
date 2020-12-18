@@ -1,0 +1,17 @@
+wind_63	The	O
+wind_63	electricity	O
+wind_63	sector	O
+wind_63	uses	O
+wind_63	mainly	O
+wind_63	renewable	O
+wind_63	energy	O
+wind_63	sources	O
+wind_63	such	O
+wind_63	as	O
+wind_63	hydropower	O
+wind_63	geothermal	O
+wind_63	power	O
+wind_63	and	O
+wind_63	increasingly	O
+wind_63	wind	wind_nou
+wind_63	energy	O

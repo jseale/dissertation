@@ -1,0 +1,12 @@
+laminate_2	The	O
+laminate_2	laminate	laminate_nou
+laminate_2	sails	O
+laminate_2	are	O
+laminate_2	available	O
+laminate_2	in	O
+laminate_2	two	O
+laminate_2	cuts	O
+laminate_2	to	O
+laminate_2	suit	O
+laminate_2	different	O
+laminate_2	sailors	O

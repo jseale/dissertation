@@ -1,0 +1,8 @@
+affect_74	Hughes	O
+affect_74	demotion	O
+affect_74	did	O
+affect_74	not	O
+affect_74	affect	affect
+affect_74	his	O
+affect_74	batting	O
+affect_74	however	O

@@ -1,0 +1,14 @@
+affect_21	Germ	O
+affect_21	cell	O
+affect_21	tumor	O
+affect_21	is	O
+affect_21	a	O
+affect_21	rare	O
+affect_21	cancer	O
+affect_21	that	O
+affect_21	can	O
+affect_21	affect	affect
+affect_21	people	O
+affect_21	at	O
+affect_21	all	O
+affect_21	ages	O

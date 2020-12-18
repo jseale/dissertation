@@ -1,0 +1,17 @@
+minute_7	By	O
+minute_7	the	O
+minute_7	time	O
+minute_7	Hodgson	O
+minute_7	restarted	O
+minute_7	his	O
+minute_7	car	O
+minute_7	he	O
+minute_7	was	O
+minute_7	around	O
+minute_7	one	O
+minute_7	minute	minute
+minute_7	down	O
+minute_7	on	O
+minute_7	McKay	O
+minute_7	and	O
+minute_7	Pitt	O

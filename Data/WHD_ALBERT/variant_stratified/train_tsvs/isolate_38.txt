@@ -1,0 +1,16 @@
+isolate_38	Like	O
+isolate_38	various	O
+isolate_38	other	O
+isolate_38	anaerobes	O
+isolate_38	Actinomyces	O
+isolate_38	species	O
+isolate_38	are	O
+isolate_38	fastidious	O
+isolate_38	and	O
+isolate_38	thus	O
+isolate_38	not	O
+isolate_38	easy	O
+isolate_38	to	O
+isolate_38	culture	O
+isolate_38	and	O
+isolate_38	isolate	isolate

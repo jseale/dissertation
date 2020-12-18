@@ -1,0 +1,14 @@
+lives_17	The	O
+lives_17	epidemic	O
+lives_17	of	O
+lives_17	1689	O
+lives_17	claimed	O
+lives_17	700	O
+lives_17	lives	lives_nou
+lives_17	out	O
+lives_17	of	O
+lives_17	a	O
+lives_17	total	O
+lives_17	population	O
+lives_17	of	O
+lives_17	4,000	O

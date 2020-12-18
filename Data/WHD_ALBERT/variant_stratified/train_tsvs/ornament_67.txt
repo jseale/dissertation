@@ -1,0 +1,16 @@
+ornament_67	The	O
+ornament_67	epitome	O
+ornament_67	of	O
+ornament_67	this	O
+ornament_67	style	O
+ornament_67	became	O
+ornament_67	glazed	O
+ornament_67	facade	O
+ornament_67	with	O
+ornament_67	Bashkir	O
+ornament_67	ornament	ornament_nou
+ornament_67	looking	O
+ornament_67	at	O
+ornament_67	the	O
+ornament_67	Belaya	O
+ornament_67	River	O

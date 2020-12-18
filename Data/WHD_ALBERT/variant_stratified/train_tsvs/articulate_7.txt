@@ -1,0 +1,13 @@
+articulate_7	Ed	O
+articulate_7	Japhet	O
+articulate_7	is	O
+articulate_7	sixteen	O
+articulate_7	years	O
+articulate_7	old	O
+articulate_7	and	O
+articulate_7	he	O
+articulate_7	is	O
+articulate_7	a	O
+articulate_7	bright	O
+articulate_7	articulate	articulate_adj
+articulate_7	boy	O

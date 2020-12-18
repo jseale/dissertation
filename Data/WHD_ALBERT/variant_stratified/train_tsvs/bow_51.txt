@@ -1,0 +1,16 @@
+bow_51	The	O
+bow_51	video	O
+bow_51	begins	O
+bow_51	with	O
+bow_51	Bow	bow_nou-ship
+bow_51	Wow	O
+bow_51	reading	O
+bow_51	a	O
+bow_51	letter	O
+bow_51	from	O
+bow_51	his	O
+bow_51	fiancé	O
+bow_51	breaking	O
+bow_51	off	O
+bow_51	their	O
+bow_51	engagement	O

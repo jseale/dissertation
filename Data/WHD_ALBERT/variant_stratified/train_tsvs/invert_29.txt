@@ -1,0 +1,16 @@
+invert_29	Honey	O
+invert_29	is	O
+invert_29	a	O
+invert_29	mixture	O
+invert_29	principally	O
+invert_29	of	O
+invert_29	glucose	O
+invert_29	and	O
+invert_29	fructose	O
+invert_29	giving	O
+invert_29	it	O
+invert_29	similar	O
+invert_29	properties	O
+invert_29	to	O
+invert_29	invert	invert_vrb
+invert_29	syrup	O

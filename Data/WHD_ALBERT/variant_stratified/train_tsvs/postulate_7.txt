@@ -1,0 +1,15 @@
+postulate_7	The	O
+postulate_7	historical	O
+postulate_7	case	O
+postulate_7	begins	O
+postulate_7	with	O
+postulate_7	the	O
+postulate_7	postulate	postulate_nou
+postulate_7	that	O
+postulate_7	the	O
+postulate_7	Union	O
+postulate_7	is	O
+postulate_7	older	O
+postulate_7	than	O
+postulate_7	the	O
+postulate_7	states	O

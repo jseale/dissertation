@@ -1,0 +1,13 @@
+coordinate_8	While	O
+coordinate_8	physical	O
+coordinate_8	effects	O
+coordinate_8	can	O
+coordinate_8	not	O
+coordinate_8	propagate	O
+coordinate_8	from	O
+coordinate_8	inside	O
+coordinate_8	to	O
+coordinate_8	outside	O
+coordinate_8	coordinate	coordinate_adj-nou
+coordinate_8	effects	O
+coordinate_8	could	O

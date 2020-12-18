@@ -1,0 +1,7 @@
+deliberate_4	This	O
+deliberate_4	was	O
+deliberate_4	left	O
+deliberate_4	as	O
+deliberate_4	a	O
+deliberate_4	deliberate	deliberate_adj
+deliberate_4	clue	O

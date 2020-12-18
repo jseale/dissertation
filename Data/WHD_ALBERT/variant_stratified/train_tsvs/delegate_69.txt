@@ -1,0 +1,17 @@
+delegate_69	Iowa	O
+delegate_69	Democrats	O
+delegate_69	reported	O
+delegate_69	discrepancies	O
+delegate_69	in	O
+delegate_69	caucus	O
+delegate_69	results	O
+delegate_69	and	O
+delegate_69	confusion	O
+delegate_69	over	O
+delegate_69	the	O
+delegate_69	math	O
+delegate_69	of	O
+delegate_69	the	O
+delegate_69	delegate	delegate_nou
+delegate_69	awarding	O
+delegate_69	system	O

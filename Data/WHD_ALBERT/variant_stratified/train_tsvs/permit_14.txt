@@ -1,0 +1,9 @@
+permit_14	Colleen	O
+permit_14	had	O
+permit_14	to	O
+permit_14	acquire	O
+permit_14	a	O
+permit_14	special	O
+permit_14	permit	permit_nou
+permit_14	to	O
+permit_14	drive	O

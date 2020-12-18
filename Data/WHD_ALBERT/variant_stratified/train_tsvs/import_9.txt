@@ -1,0 +1,14 @@
+import_9	It	O
+import_9	creates	O
+import_9	a	O
+import_9	common	O
+import_9	gas	O
+import_9	market	O
+import_9	in	O
+import_9	Brazil	O
+import_9	and	O
+import_9	allows	O
+import_9	gas	O
+import_9	import	import_nou
+import_9	from	O
+import_9	Bahia	O

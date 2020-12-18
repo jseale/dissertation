@@ -1,0 +1,7 @@
+intrigue_61	After	O
+intrigue_61	the	O
+intrigue_61	story	O
+intrigue_61	enjoys	O
+intrigue_61	creating	O
+intrigue_61	real	O
+intrigue_61	intrigue	intrigue_nou

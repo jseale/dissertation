@@ -1,0 +1,16 @@
+invalid_37	It	O
+invalid_37	can	O
+invalid_37	hold	O
+invalid_37	a	O
+invalid_37	rule	O
+invalid_37	to	O
+invalid_37	be	O
+invalid_37	invalid	invalid_adj
+invalid_37	even	O
+invalid_37	though	O
+invalid_37	it	O
+invalid_37	is	O
+invalid_37	contained	O
+invalid_37	in	O
+invalid_37	a	O
+invalid_37	contract	O

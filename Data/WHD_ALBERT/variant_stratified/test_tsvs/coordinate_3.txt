@@ -1,0 +1,16 @@
+coordinate_3	The	O
+coordinate_3	coordinate	coordinate_adj-nou
+coordinate_3	system	O
+coordinate_3	layer	O
+coordinate_3	implements	O
+coordinate_3	and	O
+coordinate_3	extends	O
+coordinate_3	the	O
+coordinate_3	concepts	O
+coordinate_3	in	O
+coordinate_3	the	O
+coordinate_3	Climate	O
+coordinate_3	and	O
+coordinate_3	Forecast	O
+coordinate_3	Metadata	O
+coordinate_3	Conventions	O

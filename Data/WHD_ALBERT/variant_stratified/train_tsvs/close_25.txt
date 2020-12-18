@@ -1,0 +1,15 @@
+close_25	Kusgoan	O
+close_25	is	O
+close_25	towards	O
+close_25	the	O
+close_25	South	O
+close_25	East	O
+close_25	of	O
+close_25	Lonavla	O
+close_25	City	O
+close_25	Very	O
+close_25	close	close_adj-nou
+close_25	to	O
+close_25	Mumbai-	O
+close_25	Pune	O
+close_25	Expresway	O

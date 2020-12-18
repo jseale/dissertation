@@ -1,0 +1,14 @@
+lead_23	The	O
+lead_23	contestant	O
+lead_23	in	O
+lead_23	the	O
+lead_23	lead	lead_nou-vrb
+lead_23	after	O
+lead_23	this	O
+lead_23	round	O
+lead_23	advanced	O
+lead_23	to	O
+lead_23	the	O
+lead_23	Grand	O
+lead_23	Savant	O
+lead_23	Round	O

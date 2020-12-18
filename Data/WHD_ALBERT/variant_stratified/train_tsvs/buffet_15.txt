@@ -1,0 +1,17 @@
+buffet_15	Their	O
+buffet_15	supply	O
+buffet_15	offering	O
+buffet_15	smallwares	O
+buffet_15	includes	O
+buffet_15	steam	O
+buffet_15	table	O
+buffet_15	pans	O
+buffet_15	cookware	O
+buffet_15	kitchen	O
+buffet_15	utensils	O
+buffet_15	tabletop	O
+buffet_15	accessories	O
+buffet_15	and	O
+buffet_15	buffet	buffet_nou
+buffet_15	serving	O
+buffet_15	ware	O

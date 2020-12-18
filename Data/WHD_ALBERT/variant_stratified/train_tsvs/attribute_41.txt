@@ -1,0 +1,17 @@
+attribute_41	That	O
+attribute_41	a	O
+attribute_41	given	O
+attribute_41	psychological	O
+attribute_41	attribute	attribute_nou
+attribute_41	is	O
+attribute_41	a	O
+attribute_41	continuous	O
+attribute_41	quantity	O
+attribute_41	is	O
+attribute_41	a	O
+attribute_41	logically	O
+attribute_41	coherent	O
+attribute_41	and	O
+attribute_41	empirically	O
+attribute_41	testable	O
+attribute_41	hypothesis	O

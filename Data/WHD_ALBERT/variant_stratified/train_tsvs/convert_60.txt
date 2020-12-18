@@ -1,0 +1,11 @@
+convert_60	He	O
+convert_60	proceeded	O
+convert_60	to	O
+convert_60	convert	convert_vrb
+convert_60	hundreds	O
+convert_60	of	O
+convert_60	members	O
+convert_60	of	O
+convert_60	his	O
+convert_60	Ohio	O
+convert_60	congregations	O

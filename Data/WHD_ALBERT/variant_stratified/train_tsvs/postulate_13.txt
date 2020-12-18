@@ -1,0 +1,8 @@
+postulate_13	Postulate	postulate_nou
+postulate_13	7	O
+postulate_13	This	O
+postulate_13	postulate	postulate_nou
+postulate_13	contains	O
+postulate_13	two	O
+postulate_13	main	O
+postulate_13	concepts	O

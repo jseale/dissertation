@@ -1,0 +1,16 @@
+read_75	Hence	O
+read_75	circulation	O
+read_75	numbers	O
+read_75	offer	O
+read_75	only	O
+read_75	a	O
+read_75	small	O
+read_75	glimpse	O
+read_75	into	O
+read_75	how	O
+read_75	many	O
+read_75	people	O
+read_75	actually	O
+read_75	read	read_present
+read_75	such	O
+read_75	publications	O

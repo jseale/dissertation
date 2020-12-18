@@ -1,0 +1,14 @@
+convert_8	For	O
+convert_8	the	O
+convert_8	first	O
+convert_8	time	O
+convert_8	the	O
+convert_8	Shia	O
+convert_8	could	O
+convert_8	openly	O
+convert_8	convert	convert_vrb
+convert_8	other	O
+convert_8	Muslims	O
+convert_8	to	O
+convert_8	their	O
+convert_8	movement	O

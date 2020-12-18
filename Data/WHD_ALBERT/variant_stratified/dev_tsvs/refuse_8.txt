@@ -1,0 +1,12 @@
+refuse_8	Today	O
+refuse_8	several	O
+refuse_8	of	O
+refuse_8	the	O
+refuse_8	Korku	O
+refuse_8	speakers	O
+refuse_8	refuse	refuse_vrb
+refuse_8	to	O
+refuse_8	acknowledge	O
+refuse_8	the	O
+refuse_8	Nihali	O
+refuse_8	language	O

@@ -1,0 +1,15 @@
+fragment_46	It	O
+fragment_46	also	O
+fragment_46	acknowledged	O
+fragment_46	but	O
+fragment_46	did	O
+fragment_46	not	O
+fragment_46	standardize	O
+fragment_46	the	O
+fragment_46	existence	O
+fragment_46	of	O
+fragment_46	relative	O
+fragment_46	URLs	O
+fragment_46	and	O
+fragment_46	fragment	fragment_nou
+fragment_46	identifiers	O

@@ -1,0 +1,15 @@
+protest_19	The	O
+protest_19	Georgian	O
+protest_19	citizens	O
+protest_19	began	O
+protest_19	to	O
+protest_19	demand	O
+protest_19	independence	O
+protest_19	and	O
+protest_19	the	O
+protest_19	country	O
+protest_19	unraveled	O
+protest_19	in	O
+protest_19	massive	O
+protest_19	protest	protest_nou
+protest_19	demonstrations	O

@@ -1,0 +1,14 @@
+converse_28	Converse	converse_adj-nou
+converse_28	is	O
+converse_28	an	O
+converse_28	unincorporated	O
+converse_28	community	O
+converse_28	in	O
+converse_28	Clinton	O
+converse_28	County	O
+converse_28	in	O
+converse_28	the	O
+converse_28	U.S.	O
+converse_28	state	O
+converse_28	of	O
+converse_28	Missouri	O

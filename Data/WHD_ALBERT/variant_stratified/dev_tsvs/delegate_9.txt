@@ -1,0 +1,8 @@
+delegate_9	Inase	O
+delegate_9	agreed	O
+delegate_9	to	O
+delegate_9	delegate	delegate_vrb
+delegate_9	testing	O
+delegate_9	to	O
+delegate_9	grain	O
+delegate_9	exchanges	O

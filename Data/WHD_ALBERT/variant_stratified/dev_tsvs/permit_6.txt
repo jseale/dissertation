@@ -1,0 +1,12 @@
+permit_6	In	O
+permit_6	the	O
+permit_6	United	O
+permit_6	States	O
+permit_6	certain	O
+permit_6	shelters	O
+permit_6	do	O
+permit_6	not	O
+permit_6	permit	permit_vrb
+permit_6	access	O
+permit_6	to	O
+permit_6	men	O

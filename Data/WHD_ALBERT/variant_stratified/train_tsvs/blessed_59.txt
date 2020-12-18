@@ -1,0 +1,14 @@
+blessed_59	We	O
+blessed_59	are	O
+blessed_59	so	O
+blessed_59	blessed	blessed_vrb
+blessed_59	to	O
+blessed_59	have	O
+blessed_59	such	O
+blessed_59	a	O
+blessed_59	man	O
+blessed_59	among	O
+blessed_59	us	O
+blessed_59	for	O
+blessed_59	so	O
+blessed_59	long	O

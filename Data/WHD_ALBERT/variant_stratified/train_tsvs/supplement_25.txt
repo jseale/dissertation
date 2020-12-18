@@ -1,0 +1,17 @@
+supplement_25	Hunting	O
+supplement_25	and	O
+supplement_25	fishing	O
+supplement_25	were	O
+supplement_25	initially	O
+supplement_25	an	O
+supplement_25	important	O
+supplement_25	supplement	supplement_nou
+supplement_25	but	O
+supplement_25	lost	O
+supplement_25	a	O
+supplement_25	lot	O
+supplement_25	of	O
+supplement_25	their	O
+supplement_25	significance	O
+supplement_25	over	O
+supplement_25	time	O

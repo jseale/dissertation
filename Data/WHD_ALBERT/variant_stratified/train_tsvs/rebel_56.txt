@@ -1,0 +1,13 @@
+rebel_56	Rebel	rebel_nou
+rebel_56	soldiers	O
+rebel_56	said	O
+rebel_56	they	O
+rebel_56	posed	O
+rebel_56	as	O
+rebel_56	merchants	O
+rebel_56	as	O
+rebel_56	a	O
+rebel_56	trick	O
+rebel_56	for	O
+rebel_56	the	O
+rebel_56	NGOs	O

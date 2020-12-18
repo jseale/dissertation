@@ -1,0 +1,11 @@
+resume_61	The	O
+resume_61	band	O
+resume_61	was	O
+resume_61	rumored	O
+resume_61	to	O
+resume_61	resume	resume_vrb
+resume_61	recording	O
+resume_61	in	O
+resume_61	June	O
+resume_61	or	O
+resume_61	July	O

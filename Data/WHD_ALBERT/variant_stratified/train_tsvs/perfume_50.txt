@@ -1,0 +1,12 @@
+perfume_50	Galimard	O
+perfume_50	is	O
+perfume_50	the	O
+perfume_50	first	O
+perfume_50	French	O
+perfume_50	perfume	perfume_nou
+perfume_50	creator	O
+perfume_50	manufacturer	O
+perfume_50	and	O
+perfume_50	based	O
+perfume_50	in	O
+perfume_50	Grasse	O

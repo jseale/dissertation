@@ -1,0 +1,14 @@
+wound_67	In	O
+wound_67	it	O
+wound_67	he	O
+wound_67	states	O
+wound_67	that	O
+wound_67	the	O
+wound_67	operation	O
+wound_67	was	O
+wound_67	wound	wound_vrb
+wound_67	up	O
+wound_67	successfully	O
+wound_67	its	O
+wound_67	purpose	O
+wound_67	accomplished	O

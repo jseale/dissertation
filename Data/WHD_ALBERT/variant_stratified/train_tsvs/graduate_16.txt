@@ -1,0 +1,10 @@
+graduate_16	She	O
+graduate_16	was	O
+graduate_16	also	O
+graduate_16	the	O
+graduate_16	first	O
+graduate_16	female	O
+graduate_16	graduate	graduate_adj-nou
+graduate_16	of	O
+graduate_16	Washington	O
+graduate_16	University	O

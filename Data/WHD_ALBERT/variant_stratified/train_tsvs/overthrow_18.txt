@@ -1,0 +1,14 @@
+overthrow_18	Following	O
+overthrow_18	the	O
+overthrow_18	overthrow	overthrow_nou
+overthrow_18	of	O
+overthrow_18	the	O
+overthrow_18	government	O
+overthrow_18	in	O
+overthrow_18	February	O
+overthrow_18	2004	O
+overthrow_18	an	O
+overthrow_18	interim	O
+overthrow_18	government	O
+overthrow_18	was	O
+overthrow_18	established	O

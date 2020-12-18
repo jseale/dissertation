@@ -1,0 +1,12 @@
+implement_43	Congress	O
+implement_43	mandated	O
+implement_43	that	O
+implement_43	the	O
+implement_43	National	O
+implement_43	Institutes	O
+implement_43	of	O
+implement_43	Health	O
+implement_43	implement	implement_vrb
+implement_43	the	O
+implement_43	CHIMP	O
+implement_43	Act	O

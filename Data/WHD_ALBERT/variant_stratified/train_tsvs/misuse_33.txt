@@ -1,0 +1,14 @@
+misuse_33	These	O
+misuse_33	figures	O
+misuse_33	do	O
+misuse_33	not	O
+misuse_33	include	O
+misuse_33	the	O
+misuse_33	crime	O
+misuse_33	and	O
+misuse_33	social	O
+misuse_33	problems	O
+misuse_33	associated	O
+misuse_33	with	O
+misuse_33	alcohol	O
+misuse_33	misuse	misuse_nou

@@ -1,0 +1,16 @@
+confines_2	In	O
+confines_2	addition	O
+confines_2	the	O
+confines_2	gun	O
+confines_2	proved	O
+confines_2	to	O
+confines_2	be	O
+confines_2	too	O
+confines_2	powerful	O
+confines_2	for	O
+confines_2	the	O
+confines_2	limited	O
+confines_2	confines	confines_nou
+confines_2	of	O
+confines_2	the	O
+confines_2	Potomac	O

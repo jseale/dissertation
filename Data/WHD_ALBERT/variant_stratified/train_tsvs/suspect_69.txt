@@ -1,0 +1,12 @@
+suspect_69	Authorities	O
+suspect_69	now	O
+suspect_69	suspect	suspect_vrb
+suspect_69	that	O
+suspect_69	Tipton	O
+suspect_69	rigged	O
+suspect_69	drawings	O
+suspect_69	in	O
+suspect_69	at	O
+suspect_69	least	O
+suspect_69	four	O
+suspect_69	states	O

@@ -1,0 +1,9 @@
+articulate_9	The	O
+articulate_9	FE	O
+articulate_9	columns	O
+articulate_9	and	O
+articulate_9	editorials	O
+articulate_9	articulate	articulate_vrb
+articulate_9	this	O
+articulate_9	opinion	O
+articulate_9	succinctly	O

@@ -1,0 +1,14 @@
+approximate_49	Another	O
+approximate_49	monument	O
+approximate_49	had	O
+approximate_49	already	O
+approximate_49	been	O
+approximate_49	erected	O
+approximate_49	at	O
+approximate_49	the	O
+approximate_49	approximate	approximate_adj-nou
+approximate_49	spot	O
+approximate_49	where	O
+approximate_49	his	O
+approximate_49	father	O
+approximate_49	fell	O

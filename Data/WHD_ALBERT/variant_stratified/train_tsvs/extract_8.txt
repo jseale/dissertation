@@ -1,0 +1,14 @@
+extract_8	Exemplified	O
+extract_8	copies	O
+extract_8	are	O
+extract_8	also	O
+extract_8	usually	O
+extract_8	an	O
+extract_8	extract	extract_nou
+extract_8	or	O
+extract_8	transcript	O
+extract_8	made	O
+extract_8	directly	O
+extract_8	from	O
+extract_8	the	O
+extract_8	original	O

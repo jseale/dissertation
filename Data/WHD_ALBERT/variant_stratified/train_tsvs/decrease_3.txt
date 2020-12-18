@@ -1,0 +1,16 @@
+decrease_3	Same	O
+decrease_3	sex	O
+decrease_3	couples	O
+decrease_3	headed	O
+decrease_3	25	O
+decrease_3	households	O
+decrease_3	in	O
+decrease_3	2010	O
+decrease_3	a	O
+decrease_3	decrease	decrease_nou
+decrease_3	from	O
+decrease_3	the	O
+decrease_3	30	O
+decrease_3	counted	O
+decrease_3	in	O
+decrease_3	2000	O

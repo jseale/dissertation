@@ -1,0 +1,11 @@
+present_46	The	O
+present_46	Bobtail	O
+present_46	gene	O
+present_46	only	O
+present_46	affects	O
+present_46	the	O
+present_46	number	O
+present_46	of	O
+present_46	tail	O
+present_46	vertebrae	O
+present_46	present	present_adj-nou

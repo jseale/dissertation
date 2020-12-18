@@ -1,0 +1,16 @@
+coordinate_14	Coordinate	coordinate_adj-nou
+coordinate_14	measuring	O
+coordinate_14	machines	O
+coordinate_14	include	O
+coordinate_14	three	O
+coordinate_14	main	O
+coordinate_14	components	O
+coordinate_14	The	O
+coordinate_14	main	O
+coordinate_14	structure	O
+coordinate_14	which	O
+coordinate_14	include	O
+coordinate_14	three	O
+coordinate_14	axes	O
+coordinate_14	of	O
+coordinate_14	motion	O

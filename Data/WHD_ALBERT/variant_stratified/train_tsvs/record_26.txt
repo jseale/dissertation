@@ -1,0 +1,12 @@
+record_26	In	O
+record_26	the	O
+record_26	final	O
+record_26	he	O
+record_26	set	O
+record_26	a	O
+record_26	new	O
+record_26	Olympic	O
+record_26	record	record_nou
+record_26	with	O
+record_26	21.6	O
+record_26	seconds	O

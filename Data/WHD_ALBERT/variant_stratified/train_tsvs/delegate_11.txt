@@ -1,0 +1,11 @@
+delegate_11	Delegate	delegate_nou
+delegate_11	Lawton	O
+delegate_11	was	O
+delegate_11	born	O
+delegate_11	in	O
+delegate_11	Muskogee	O
+delegate_11	Oklahoma	O
+delegate_11	on	O
+delegate_11	May	O
+delegate_11	24	O
+delegate_11	1944	O

@@ -1,0 +1,9 @@
+perfume_38	Their	O
+perfume_38	perfume	perfume_nou
+perfume_38	is	O
+perfume_38	described	O
+perfume_38	as	O
+perfume_38	fruity	O
+perfume_38	with	O
+perfume_38	citrus	O
+perfume_38	undertones	O

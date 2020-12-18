@@ -1,0 +1,14 @@
+misuse_77	I	O
+misuse_77	'm	O
+misuse_77	a	O
+misuse_77	religious	O
+misuse_77	person	O
+misuse_77	and	O
+misuse_77	I	O
+misuse_77	will	O
+misuse_77	fight	O
+misuse_77	those	O
+misuse_77	who	O
+misuse_77	misuse	misuse_vrb
+misuse_77	His	O
+misuse_77	name	O

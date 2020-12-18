@@ -1,0 +1,13 @@
+read_45	Once	O
+read_45	he	O
+read_45	got	O
+read_45	the	O
+read_45	script	O
+read_45	he	O
+read_45	read	read_past
+read_45	it	O
+read_45	straight	O
+read_45	through	O
+read_45	until	O
+read_45	3:00	O
+read_45	am	O

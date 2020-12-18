@@ -1,0 +1,13 @@
+escort_26	She	O
+escort_26	fought	O
+escort_26	primarily	O
+escort_26	in	O
+escort_26	the	O
+escort_26	Battle	O
+escort_26	of	O
+escort_26	the	O
+escort_26	Atlantic	O
+escort_26	as	O
+escort_26	an	O
+escort_26	ocean	O
+escort_26	escort	escort_nou

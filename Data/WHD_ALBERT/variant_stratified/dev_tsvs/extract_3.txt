@@ -1,0 +1,14 @@
+extract_3	It	O
+extract_3	is	O
+extract_3	Malt	O
+extract_3	extract	extract_nou
+extract_3	medium	O
+extract_3	modified	O
+extract_3	by	O
+extract_3	the	O
+extract_3	addition	O
+extract_3	of	O
+extract_3	Yeast	O
+extract_3	extract	extract_nou
+extract_3	and	O
+extract_3	peptone	O

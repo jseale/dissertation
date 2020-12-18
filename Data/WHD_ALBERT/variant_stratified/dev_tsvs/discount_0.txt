@@ -1,0 +1,17 @@
+discount_0	Suburban	O
+discount_0	hotels	O
+discount_0	in	O
+discount_0	Toronto	O
+discount_0	are	O
+discount_0	primarily	O
+discount_0	discount	discount_nou
+discount_0	variety	O
+discount_0	and	O
+discount_0	is	O
+discount_0	a	O
+discount_0	cross	O
+discount_0	of	O
+discount_0	hotel	O
+discount_0	and	O
+discount_0	motel	O
+discount_0	concept	O

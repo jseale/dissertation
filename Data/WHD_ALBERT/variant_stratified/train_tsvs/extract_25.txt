@@ -1,0 +1,16 @@
+extract_25	Burdock	O
+extract_25	root	O
+extract_25	oil	O
+extract_25	extract	extract_nou
+extract_25	also	O
+extract_25	called	O
+extract_25	Bur	O
+extract_25	oil	O
+extract_25	is	O
+extract_25	used	O
+extract_25	in	O
+extract_25	Europe	O
+extract_25	as	O
+extract_25	a	O
+extract_25	scalp	O
+extract_25	treatment	O

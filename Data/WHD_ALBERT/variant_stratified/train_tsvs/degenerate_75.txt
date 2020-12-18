@@ -1,0 +1,16 @@
+degenerate_75	This	O
+degenerate_75	and	O
+degenerate_75	other	O
+degenerate_75	arguments	O
+degenerate_75	caused	O
+degenerate_75	the	O
+degenerate_75	conference	O
+degenerate_75	to	O
+degenerate_75	degenerate	degenerate_vrb
+degenerate_75	into	O
+degenerate_75	a	O
+degenerate_75	shouting	O
+degenerate_75	shooting	O
+degenerate_75	and	O
+degenerate_75	blasting	O
+degenerate_75	match	O

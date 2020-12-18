@@ -1,0 +1,12 @@
+pasty_9	It	O
+pasty_9	is	O
+pasty_9	similar	O
+pasty_9	to	O
+pasty_9	a	O
+pasty_9	pasty	pasty_adj
+pasty_9	and	O
+pasty_9	to	O
+pasty_9	the	O
+pasty_9	Colombian	O
+pasty_9	Venezuelan	O
+pasty_9	arepa	O

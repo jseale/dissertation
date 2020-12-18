@@ -1,0 +1,16 @@
+affect_35	Dog	O
+affect_35	fluDog	O
+affect_35	flu	O
+affect_35	or	O
+affect_35	canine	O
+affect_35	influenza	O
+affect_35	refers	O
+affect_35	to	O
+affect_35	varieties	O
+affect_35	of	O
+affect_35	influenza	O
+affect_35	A	O
+affect_35	virus	O
+affect_35	that	O
+affect_35	affect	affect
+affect_35	dogs	O

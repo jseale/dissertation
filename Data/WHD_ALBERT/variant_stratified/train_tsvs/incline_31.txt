@@ -1,0 +1,12 @@
+incline_31	The	O
+incline_31	standard	O
+incline_31	gauge	O
+incline_31	incline	incline_nou
+incline_31	was	O
+incline_31	one	O
+incline_31	of	O
+incline_31	the	O
+incline_31	longest	O
+incline_31	in	O
+incline_31	Great	O
+incline_31	Britain	O

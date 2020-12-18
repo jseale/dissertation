@@ -1,0 +1,10 @@
+postulate_74	This	O
+postulate_74	makes	O
+postulate_74	it	O
+postulate_74	unnecessary	O
+postulate_74	to	O
+postulate_74	postulate	postulate_vrb
+postulate_74	an	O
+postulate_74	/n/-phoneme	O
+postulate_74	in	O
+postulate_74	Danish	O

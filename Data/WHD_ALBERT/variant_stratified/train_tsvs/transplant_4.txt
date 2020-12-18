@@ -1,0 +1,14 @@
+transplant_4	When	O
+transplant_4	he	O
+transplant_4	was	O
+transplant_4	used	O
+transplant_4	to	O
+transplant_4	do	O
+transplant_4	a	O
+transplant_4	transplant	transplant_nou
+transplant_4	he	O
+transplant_4	lived	O
+transplant_4	on	O
+transplant_4	as	O
+transplant_4	Yuri	O
+transplant_4	Babanin	O

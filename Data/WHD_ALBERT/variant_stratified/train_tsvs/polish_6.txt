@@ -1,0 +1,12 @@
+polish_6	The	O
+polish_6	early	O
+polish_6	modern	O
+polish_6	era	O
+polish_6	of	O
+polish_6	Polish	polish_geo
+polish_6	history	O
+polish_6	follows	O
+polish_6	the	O
+polish_6	late	O
+polish_6	Middle	O
+polish_6	Ages	O

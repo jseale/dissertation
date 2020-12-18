@@ -1,0 +1,15 @@
+wind_6	The	O
+wind_6	North	O
+wind_6	Wind	wind_nou
+wind_6	and	O
+wind_6	the	O
+wind_6	Sun	O
+wind_6	is	O
+wind_6	one	O
+wind_6	of	O
+wind_6	Aesop	O
+wind_6	's	O
+wind_6	Fables	O
+wind_6	Perry	O
+wind_6	Index	O
+wind_6	46	O

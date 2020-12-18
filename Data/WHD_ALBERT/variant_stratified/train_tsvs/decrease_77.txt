@@ -1,0 +1,12 @@
+decrease_77	Rates	O
+decrease_77	of	O
+decrease_77	polygynous	O
+decrease_77	marriages	O
+decrease_77	decrease	decrease_vrb
+decrease_77	as	O
+decrease_77	education	O
+decrease_77	level	O
+decrease_77	and	O
+decrease_77	wealth	O
+decrease_77	level	O
+decrease_77	increase	O

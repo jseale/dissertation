@@ -1,0 +1,17 @@
+bass_22	Later	O
+bass_22	they	O
+bass_22	were	O
+bass_22	joined	O
+bass_22	by	O
+bass_22	Hans	O
+bass_22	Castro	O
+bass_22	drums	O
+bass_22	and	O
+bass_22	Raphael	O
+bass_22	Vaz	O
+bass_22	bass	bass
+bass_22	guitar	O
+bass_22	forming	O
+bass_22	a	O
+bass_22	four	O
+bass_22	piece	O

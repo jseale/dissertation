@@ -1,0 +1,15 @@
+invite_79	The	O
+invite_79	two	O
+invite_79	proceed	O
+invite_79	to	O
+invite_79	invite	invite_vrb
+invite_79	people	O
+invite_79	who	O
+invite_79	pass	O
+invite_79	by	O
+invite_79	into	O
+invite_79	their	O
+invite_79	house	O
+invite_79	for	O
+invite_79	a	O
+invite_79	meal	O

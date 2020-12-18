@@ -1,0 +1,14 @@
+construct_42	He	O
+construct_42	befriends	O
+construct_42	a	O
+construct_42	woman	O
+construct_42	name	O
+construct_42	Ann	O
+construct_42	and	O
+construct_42	finds	O
+construct_42	work	O
+construct_42	helping	O
+construct_42	construct	construct_vrb
+construct_42	the	O
+construct_42	Hoover	O
+construct_42	Dam	O

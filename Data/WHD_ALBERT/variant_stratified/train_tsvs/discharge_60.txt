@@ -1,0 +1,11 @@
+discharge_60	Post	O
+discharge_60	discharge	discharge_nou
+discharge_60	care	O
+discharge_60	of	O
+discharge_60	the	O
+discharge_60	cardiothoracic	O
+discharge_60	surgical	O
+discharge_60	patient	O
+discharge_60	in	O
+discharge_60	Filsoufi	O
+discharge_60	ed	O

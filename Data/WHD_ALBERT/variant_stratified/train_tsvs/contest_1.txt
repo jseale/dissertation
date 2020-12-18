@@ -1,0 +1,16 @@
+contest_1	He	O
+contest_1	was	O
+contest_1	eliminated	O
+contest_1	from	O
+contest_1	the	O
+contest_1	contest	contest_nou
+contest_1	and	O
+contest_1	gave	O
+contest_1	his	O
+contest_1	support	O
+contest_1	to	O
+contest_1	Grossman	O
+contest_1	a	O
+contest_1	fellow	O
+contest_1	Red	O
+contest_1	Tory	O

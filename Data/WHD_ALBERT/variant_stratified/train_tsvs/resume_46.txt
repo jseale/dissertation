@@ -1,0 +1,16 @@
+resume_46	The	O
+resume_46	routes	O
+resume_46	follow	O
+resume_46	Intervale	O
+resume_46	Road	O
+resume_46	briefly	O
+resume_46	before	O
+resume_46	making	O
+resume_46	a	O
+resume_46	left	O
+resume_46	turn	O
+resume_46	to	O
+resume_46	resume	resume_vrb
+resume_46	onto	O
+resume_46	Parsippany	O
+resume_46	Boulevard	O

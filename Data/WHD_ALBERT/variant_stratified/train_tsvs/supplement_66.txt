@@ -1,0 +1,12 @@
+supplement_66	Most	O
+supplement_66	people	O
+supplement_66	also	O
+supplement_66	have	O
+supplement_66	small	O
+supplement_66	subsistence	O
+supplement_66	farms	O
+supplement_66	to	O
+supplement_66	supplement	supplement_vrb
+supplement_66	their	O
+supplement_66	irregular	O
+supplement_66	salaries	O

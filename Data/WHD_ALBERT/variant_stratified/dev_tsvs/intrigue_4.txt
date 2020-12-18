@@ -1,0 +1,12 @@
+intrigue_4	Information	O
+intrigue_4	and	O
+intrigue_4	Intrigue	intrigue_nou
+intrigue_4	From	O
+intrigue_4	Index	O
+intrigue_4	Cards	O
+intrigue_4	to	O
+intrigue_4	Dewey	O
+intrigue_4	Cards	O
+intrigue_4	to	O
+intrigue_4	Alger	O
+intrigue_4	Hiss	O

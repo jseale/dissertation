@@ -1,0 +1,15 @@
+isolate_64	The	O
+isolate_64	parent	O
+isolate_64	of	O
+isolate_64	Vedda	O
+isolate_64	language	O
+isolate_64	is	O
+isolate_64	of	O
+isolate_64	unknown	O
+isolate_64	linguistic	O
+isolate_64	origin	O
+isolate_64	is	O
+isolate_64	considered	O
+isolate_64	a	O
+isolate_64	linguistic	O
+isolate_64	isolate	isolate_nou

@@ -1,0 +1,14 @@
+progress_8	This	O
+progress_8	idea	O
+progress_8	is	O
+progress_8	particularly	O
+progress_8	important	O
+progress_8	since	O
+progress_8	as	O
+progress_8	learners	O
+progress_8	progress	progress_vrb
+progress_8	characters	O
+progress_8	often	O
+progress_8	get	O
+progress_8	more	O
+progress_8	complex	O

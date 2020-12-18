@@ -1,0 +1,7 @@
+approximate_43	Titles	O
+approximate_43	in	O
+approximate_43	brackets	O
+approximate_43	are	O
+approximate_43	an	O
+approximate_43	approximate	approximate_adj-nou
+approximate_43	translation	O

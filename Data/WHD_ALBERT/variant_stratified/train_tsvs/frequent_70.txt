@@ -1,0 +1,16 @@
+frequent_70	He	O
+frequent_70	is	O
+frequent_70	a	O
+frequent_70	frequent	frequent_adj
+frequent_70	contributor	O
+frequent_70	to	O
+frequent_70	the	O
+frequent_70	Catalan	O
+frequent_70	edition	O
+frequent_70	of	O
+frequent_70	El	O
+frequent_70	Pais	O
+frequent_70	and	O
+frequent_70	the	O
+frequent_70	Sunday	O
+frequent_70	supplement	O

@@ -1,0 +1,10 @@
+graduate_64	She	O
+graduate_64	is	O
+graduate_64	a	O
+graduate_64	graduate	graduate_adj-nou
+graduate_64	of	O
+graduate_64	the	O
+graduate_64	University	O
+graduate_64	of	O
+graduate_64	Southern	O
+graduate_64	California	O

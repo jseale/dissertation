@@ -1,0 +1,14 @@
+bow_47	These	O
+bow_47	are	O
+bow_47	used	O
+bow_47	to	O
+bow_47	drive	O
+bow_47	two	O
+bow_47	steerable	O
+bow_47	azimuth	O
+bow_47	thrusters	O
+bow_47	with	O
+bow_47	a	O
+bow_47	bow	bow_nou-ship
+bow_47	thruster	O
+bow_47	supplementing	O

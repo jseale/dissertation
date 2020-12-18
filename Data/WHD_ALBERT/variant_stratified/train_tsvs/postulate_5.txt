@@ -1,0 +1,14 @@
+postulate_5	Likewise	O
+postulate_5	this	O
+postulate_5	postulate	postulate_nou
+postulate_5	Business	O
+postulate_5	and	O
+postulate_5	public	O
+postulate_5	administration	O
+postulate_5	are	O
+postulate_5	alike	O
+postulate_5	only	O
+postulate_5	in	O
+postulate_5	all	O
+postulate_5	unimportant	O
+postulate_5	respects	O

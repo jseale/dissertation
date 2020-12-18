@@ -1,0 +1,16 @@
+attribute_72	Agriculture	O
+attribute_72	officials	O
+attribute_72	attribute	attribute_vrb
+attribute_72	the	O
+attribute_72	success	O
+attribute_72	of	O
+attribute_72	the	O
+attribute_72	two	O
+attribute_72	trees	O
+attribute_72	that	O
+attribute_72	did	O
+attribute_72	flourish	O
+attribute_72	to	O
+attribute_72	Eliza	O
+attribute_72	Tibbets	O
+attribute_72	care	O

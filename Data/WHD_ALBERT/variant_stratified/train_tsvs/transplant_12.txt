@@ -1,0 +1,16 @@
+transplant_12	Extensive	O
+transplant_12	efforts	O
+transplant_12	have	O
+transplant_12	been	O
+transplant_12	made	O
+transplant_12	to	O
+transplant_12	identify	O
+transplant_12	treatment	O
+transplant_12	regimes	O
+transplant_12	to	O
+transplant_12	reduce	O
+transplant_12	PRA	O
+transplant_12	in	O
+transplant_12	sensitized	O
+transplant_12	transplant	transplant_nou
+transplant_12	candidates	O

@@ -1,0 +1,10 @@
+aged_44	Brody	O
+aged_44	died	O
+aged_44	in	O
+aged_44	Valletta	O
+aged_44	on	O
+aged_44	3	O
+aged_44	June	O
+aged_44	1995	O
+aged_44	aged	aged
+aged_44	94	O

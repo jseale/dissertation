@@ -1,0 +1,15 @@
+supplement_61	Consequently	O
+supplement_61	students	O
+supplement_61	supplement	supplement_vrb
+supplement_61	the	O
+supplement_61	traditional	O
+supplement_61	academics	O
+supplement_61	and	O
+supplement_61	athletics	O
+supplement_61	with	O
+supplement_61	a	O
+supplement_61	healthy	O
+supplement_61	balance	O
+supplement_61	of	O
+supplement_61	aesthetic	O
+supplement_61	activities	O

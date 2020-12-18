@@ -1,0 +1,13 @@
+learned_54	Besides	O
+learned_54	his	O
+learned_54	other	O
+learned_54	work	O
+learned_54	he	O
+learned_54	was	O
+learned_54	a	O
+learned_54	learned	learned_vrb
+learned_54	contributor	O
+learned_54	to	O
+learned_54	the	O
+learned_54	Quarterly	O
+learned_54	Review	O

@@ -1,0 +1,10 @@
+delegate_72	In	O
+delegate_72	1814	O
+delegate_72	he	O
+delegate_72	was	O
+delegate_72	a	O
+delegate_72	delegate	delegate_nou
+delegate_72	to	O
+delegate_72	the	O
+delegate_72	Constitutional	O
+delegate_72	Convention	O

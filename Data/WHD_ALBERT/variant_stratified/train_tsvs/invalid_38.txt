@@ -1,0 +1,12 @@
+invalid_38	The	O
+invalid_38	Court	O
+invalid_38	of	O
+invalid_38	First	O
+invalid_38	Instance	O
+invalid_38	of	O
+invalid_38	Brussels	O
+invalid_38	declared	O
+invalid_38	the	O
+invalid_38	trademark	O
+invalid_38	however	O
+invalid_38	invalid	invalid_adj

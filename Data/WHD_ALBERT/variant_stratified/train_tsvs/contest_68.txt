@@ -1,0 +1,16 @@
+contest_68	After	O
+contest_68	being	O
+contest_68	dismissed	O
+contest_68	by	O
+contest_68	Harding	O
+contest_68	Hunt	O
+contest_68	returned	O
+contest_68	to	O
+contest_68	Arizona	O
+contest_68	and	O
+contest_68	decided	O
+contest_68	to	O
+contest_68	contest	contest_vrb
+contest_68	his	O
+contest_68	old	O
+contest_68	seat	O

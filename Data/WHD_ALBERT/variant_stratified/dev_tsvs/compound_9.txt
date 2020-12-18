@@ -1,0 +1,13 @@
+compound_9	The	O
+compound_9	college	O
+compound_9	is	O
+compound_9	at	O
+compound_9	Jaleel	O
+compound_9	Compound	compound_nou
+compound_9	Payan	O
+compound_9	Darga	O
+compound_9	Road	O
+compound_9	Area	O
+compound_9	of	O
+compound_9	Gulbarga	O
+compound_9	Karnataka	O

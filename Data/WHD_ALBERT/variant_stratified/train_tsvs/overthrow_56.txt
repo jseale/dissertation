@@ -1,0 +1,16 @@
+overthrow_56	In	O
+overthrow_56	1936	O
+overthrow_56	Heydrich	O
+overthrow_56	learned	O
+overthrow_56	that	O
+overthrow_56	a	O
+overthrow_56	top	O
+overthrow_56	ranking	O
+overthrow_56	Soviet	O
+overthrow_56	officer	O
+overthrow_56	was	O
+overthrow_56	plotting	O
+overthrow_56	to	O
+overthrow_56	overthrow	overthrow_vrb
+overthrow_56	Joseph	O
+overthrow_56	Stalin	O

@@ -1,0 +1,17 @@
+advocate_6	Bird	O
+advocate_6	was	O
+advocate_6	an	O
+advocate_6	advocate	advocate_nou
+advocate_6	for	O
+advocate_6	equality	O
+advocate_6	and	O
+advocate_6	sought	O
+advocate_6	to	O
+advocate_6	reform	O
+advocate_6	the	O
+advocate_6	race	O
+advocate_6	based	O
+advocate_6	exclusion	O
+advocate_6	laws	O
+advocate_6	in	O
+advocate_6	Canada	O

@@ -1,0 +1,13 @@
+read_63	He	O
+read_63	could	O
+read_63	also	O
+read_63	read	read_present
+read_63	not	O
+read_63	only	O
+read_63	Arabic	O
+read_63	and	O
+read_63	Coptic	O
+read_63	but	O
+read_63	Zulu	O
+read_63	and	O
+read_63	Hawaiian	O

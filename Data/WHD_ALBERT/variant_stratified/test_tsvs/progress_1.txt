@@ -1,0 +1,17 @@
+progress_1	Progress	progress_nou
+progress_1	was	O
+progress_1	rapid	O
+progress_1	and	O
+progress_1	very	O
+progress_1	encouraging	O
+progress_1	with	O
+progress_1	hundreds	O
+progress_1	of	O
+progress_1	children	O
+progress_1	turning	O
+progress_1	up	O
+progress_1	on	O
+progress_1	Saturday	O
+progress_1	morning	O
+progress_1	coaching	O
+progress_1	clinics	O

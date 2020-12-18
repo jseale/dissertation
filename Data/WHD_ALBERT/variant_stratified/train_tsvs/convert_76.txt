@@ -1,0 +1,14 @@
+convert_76	Johnson	O
+convert_76	Motor	O
+convert_76	Wheel	O
+convert_76	was	O
+convert_76	a	O
+convert_76	kit	O
+convert_76	to	O
+convert_76	convert	convert_vrb
+convert_76	a	O
+convert_76	bicycle	O
+convert_76	into	O
+convert_76	a	O
+convert_76	motorized	O
+convert_76	bicycle	O

@@ -1,0 +1,17 @@
+close_7	Though	O
+close_7	data	O
+close_7	on	O
+close_7	Pamigua	O
+close_7	is	O
+close_7	extremely	O
+close_7	limited	O
+close_7	the	O
+close_7	relationship	O
+close_7	seems	O
+close_7	to	O
+close_7	be	O
+close_7	fairly	O
+close_7	close	close_adj-nou
+close_7	Tinigua	O
+close_7	manaxai	O
+close_7	walk	O

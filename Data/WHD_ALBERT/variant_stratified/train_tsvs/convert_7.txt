@@ -1,0 +1,12 @@
+convert_7	A	O
+convert_7	Nation	O
+convert_7	challenged	O
+convert_7	the	O
+convert_7	convert	convert_nou
+convert_7	Shoe	O
+convert_7	Bomb	O
+convert_7	Suspect	O
+convert_7	Fell	O
+convert_7	in	O
+convert_7	With	O
+convert_7	Extremists	O

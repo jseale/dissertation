@@ -1,0 +1,13 @@
+refund_62	She	O
+refund_62	refund	refund_vrb
+refund_62	the	O
+refund_62	hotel	O
+refund_62	for	O
+refund_62	500,000	O
+refund_62	francs	O
+refund_62	to	O
+refund_62	the	O
+refund_62	banker	O
+refund_62	Jean	O
+refund_62	Frédéric	O
+refund_62	Perregaux	O

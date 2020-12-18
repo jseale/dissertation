@@ -1,0 +1,15 @@
+misuse_41	Van	O
+misuse_41	Til	O
+misuse_41	argues	O
+misuse_41	that	O
+misuse_41	the	O
+misuse_41	problem	O
+misuse_41	is	O
+misuse_41	not	O
+misuse_41	evolution	O
+misuse_41	but	O
+misuse_41	its	O
+misuse_41	misuse	misuse_nou
+misuse_41	for	O
+misuse_41	naturalistic	O
+misuse_41	apologetics	O

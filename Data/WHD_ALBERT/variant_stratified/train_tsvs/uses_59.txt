@@ -1,0 +1,11 @@
+uses_59	NSA	O
+uses_59	uses	uses_vrb
+uses_59	two	O
+uses_59	serial	O
+uses_59	protocols	O
+uses_59	for	O
+uses_59	key	O
+uses_59	fill	O
+uses_59	DS-101	O
+uses_59	and	O
+uses_59	DS-102	O

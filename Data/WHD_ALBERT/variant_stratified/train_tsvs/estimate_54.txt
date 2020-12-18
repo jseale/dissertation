@@ -1,0 +1,16 @@
+estimate_54	Estimate	estimate_nou
+estimate_54	remained	O
+estimate_54	in	O
+estimate_54	training	O
+estimate_54	as	O
+estimate_54	a	O
+estimate_54	five	O
+estimate_54	year	O
+estimate_54	old	O
+estimate_54	with	O
+estimate_54	the	O
+estimate_54	Gold	O
+estimate_54	Cup	O
+estimate_54	as	O
+estimate_54	her	O
+estimate_54	objective	O

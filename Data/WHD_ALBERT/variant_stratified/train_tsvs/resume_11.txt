@@ -1,0 +1,15 @@
+resume_11	As	O
+resume_11	of	O
+resume_11	January	O
+resume_11	30	O
+resume_11	2009	O
+resume_11	development	O
+resume_11	was	O
+resume_11	halted	O
+resume_11	with	O
+resume_11	no	O
+resume_11	plans	O
+resume_11	to	O
+resume_11	resume	resume_vrb
+resume_11	its	O
+resume_11	development	O

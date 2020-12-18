@@ -1,0 +1,17 @@
+articulate_51	Later	O
+articulate_51	they	O
+articulate_51	are	O
+articulate_51	asked	O
+articulate_51	to	O
+articulate_51	articulate	articulate_vrb
+articulate_51	their	O
+articulate_51	thoughts	O
+articulate_51	as	O
+articulate_51	they	O
+articulate_51	occur	O
+articulate_51	in	O
+articulate_51	reaction	O
+articulate_51	to	O
+articulate_51	the	O
+articulate_51	playing	O
+articulate_51	scenario	O

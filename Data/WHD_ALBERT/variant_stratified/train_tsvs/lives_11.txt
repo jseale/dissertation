@@ -1,0 +1,16 @@
+lives_11	Although	O
+lives_11	many	O
+lives_11	women	O
+lives_11	perceive	O
+lives_11	that	O
+lives_11	Fascinating	O
+lives_11	Womanhood	O
+lives_11	helped	O
+lives_11	their	O
+lives_11	lives	lives_nou
+lives_11	the	O
+lives_11	book	O
+lives_11	's	O
+lives_11	teachings	O
+lives_11	remain	O
+lives_11	controversial	O

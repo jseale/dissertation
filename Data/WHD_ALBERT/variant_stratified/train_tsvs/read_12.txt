@@ -1,0 +1,17 @@
+read_12	The	O
+read_12	film	O
+read_12	tells	O
+read_12	the	O
+read_12	story	O
+read_12	of	O
+read_12	an	O
+read_12	illiterate	O
+read_12	man	O
+read_12	who	O
+read_12	bonds	O
+read_12	with	O
+read_12	an	O
+read_12	older	O
+read_12	well	O
+read_12	read	read_past
+read_12	woman	O

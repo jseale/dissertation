@@ -1,0 +1,12 @@
+discount_53	Clipper	O
+discount_53	cards	O
+discount_53	generally	O
+discount_53	confer	O
+discount_53	an	O
+discount_53	approximately	O
+discount_53	10	O
+discount_53	discount	discount_nou
+discount_53	relative	O
+discount_53	to	O
+discount_53	cash	O
+discount_53	fares	O

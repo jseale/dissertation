@@ -1,0 +1,10 @@
+read_11	The	O
+read_11	Netto	O
+read_11	variometer	O
+read_11	will	O
+read_11	always	O
+read_11	read	read_present
+read_11	zero	O
+read_11	in	O
+read_11	still	O
+read_11	air	O

@@ -1,0 +1,7 @@
+separate_32	Malappuram	O
+separate_32	became	O
+separate_32	a	O
+separate_32	separate	separate_adj
+separate_32	district	O
+separate_32	in	O
+separate_32	1969	O

@@ -1,0 +1,12 @@
+wound_24	His	O
+wound_24	combat	O
+wound_24	career	O
+wound_24	ended	O
+wound_24	after	O
+wound_24	a	O
+wound_24	serious	O
+wound_24	third	O
+wound_24	wound	wound_nou-vrb
+wound_24	to	O
+wound_24	the	O
+wound_24	face	O

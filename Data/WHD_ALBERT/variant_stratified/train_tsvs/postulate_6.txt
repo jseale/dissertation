@@ -1,0 +1,12 @@
+postulate_6	The	O
+postulate_6	proposer	O
+postulate_6	of	O
+postulate_6	the	O
+postulate_6	postulate	postulate_nou
+postulate_6	is	O
+postulate_6	climate	O
+postulate_6	scientist	O
+postulate_6	and	O
+postulate_6	physicist	O
+postulate_6	Tim	O
+postulate_6	Palmer	O

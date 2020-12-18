@@ -1,0 +1,14 @@
+retard_1	Introducing	O
+retard_1	MWNTs	O
+retard_1	to	O
+retard_1	polymers	O
+retard_1	can	O
+retard_1	improve	O
+retard_1	flame	O
+retard_1	retardancy	O
+retard_1	and	O
+retard_1	retard	retard_vrb
+retard_1	thermal	O
+retard_1	degradation	O
+retard_1	of	O
+retard_1	polymer	O

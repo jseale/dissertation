@@ -1,0 +1,17 @@
+transform_71	Vorbis	O
+transform_71	I	O
+transform_71	is	O
+transform_71	a	O
+transform_71	forward	O
+transform_71	adaptive	O
+transform_71	monolithic	O
+transform_71	transform	transform_nou
+transform_71	codec	O
+transform_71	based	O
+transform_71	on	O
+transform_71	the	O
+transform_71	modified	O
+transform_71	discrete	O
+transform_71	cosine	O
+transform_71	transform	transform_nou
+transform_71	MDCT	O

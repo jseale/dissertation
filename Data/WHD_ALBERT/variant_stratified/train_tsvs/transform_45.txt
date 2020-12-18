@@ -1,0 +1,16 @@
+transform_45	Lia	O
+transform_45	and	O
+transform_45	Polylina	O
+transform_45	has	O
+transform_45	a	O
+transform_45	robotic	O
+transform_45	pet	O
+transform_45	cat	O
+transform_45	named	O
+transform_45	Milky	O
+transform_45	who	O
+transform_45	can	O
+transform_45	transform	transform
+transform_45	into	O
+transform_45	various	O
+transform_45	weapons	O

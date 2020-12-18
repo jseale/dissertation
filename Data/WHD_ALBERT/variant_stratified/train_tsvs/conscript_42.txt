@@ -1,0 +1,13 @@
+conscript_42	Iraqi	O
+conscript_42	forces	O
+conscript_42	consisted	O
+conscript_42	mostly	O
+conscript_42	of	O
+conscript_42	conscript	conscript_nou
+conscript_42	infantry	O
+conscript_42	backed	O
+conscript_42	by	O
+conscript_42	Republican	O
+conscript_42	Guard	O
+conscript_42	tank	O
+conscript_42	brigades	O

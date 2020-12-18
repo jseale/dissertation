@@ -1,0 +1,17 @@
+lives_52	It	O
+lives_52	is	O
+lives_52	a	O
+lives_52	cleaner	O
+lives_52	shrimp	O
+lives_52	and	O
+lives_52	usually	O
+lives_52	lives	lives_vrb
+lives_52	in	O
+lives_52	association	O
+lives_52	with	O
+lives_52	sea	O
+lives_52	anemones	O
+lives_52	scleractinian	O
+lives_52	corals	O
+lives_52	or	O
+lives_52	jellyfish	O

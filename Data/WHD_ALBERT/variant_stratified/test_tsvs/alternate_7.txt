@@ -1,0 +1,10 @@
+alternate_7	The	O
+alternate_7	alternate	alternate_adj-nou
+alternate_7	term	O
+alternate_7	body	O
+alternate_7	color	O
+alternate_7	is	O
+alternate_7	sometimes	O
+alternate_7	one	O
+alternate_7	word	O
+alternate_7	bodycolor	O

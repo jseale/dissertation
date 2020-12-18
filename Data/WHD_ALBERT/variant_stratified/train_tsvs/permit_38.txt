@@ -1,0 +1,13 @@
+permit_38	Four	O
+permit_38	wheel	O
+permit_38	drive	O
+permit_38	vehicles	O
+permit_38	on	O
+permit_38	Fraser	O
+permit_38	Island	O
+permit_38	need	O
+permit_38	to	O
+permit_38	obtain	O
+permit_38	a	O
+permit_38	vehicle	O
+permit_38	permit	permit_nou

@@ -1,0 +1,8 @@
+syndicate_41	Prager	O
+syndicate_41	's	O
+syndicate_41	columns	O
+syndicate_41	are	O
+syndicate_41	handled	O
+syndicate_41	by	O
+syndicate_41	Creators	O
+syndicate_41	Syndicate	syndicate_nou

@@ -1,0 +1,9 @@
+permit_5	Utah	O
+permit_5	requires	O
+permit_5	a	O
+permit_5	permit	permit_nou
+permit_5	to	O
+permit_5	carry	O
+permit_5	a	O
+permit_5	concealed	O
+permit_5	firearm	O

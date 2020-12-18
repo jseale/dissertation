@@ -1,0 +1,16 @@
+read_49	For	O
+read_49	details	O
+read_49	on	O
+read_49	the	O
+read_49	chunk	O
+read_49	structure	O
+read_49	and	O
+read_49	how	O
+read_49	to	O
+read_49	read	read_present
+read_49	them	O
+read_49	see	O
+read_49	Interchange	O
+read_49	File	O
+read_49	Format	O
+read_49	IFF	O

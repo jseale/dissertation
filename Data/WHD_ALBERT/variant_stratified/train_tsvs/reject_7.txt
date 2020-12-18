@@ -1,0 +1,15 @@
+reject_7	Beata	O
+reject_7	and	O
+reject_7	her	O
+reject_7	council	O
+reject_7	reject	reject_vrb
+reject_7	his	O
+reject_7	reasoning	O
+reject_7	and	O
+reject_7	threatens	O
+reject_7	to	O
+reject_7	execute	O
+reject_7	them	O
+reject_7	the	O
+reject_7	following	O
+reject_7	day	O

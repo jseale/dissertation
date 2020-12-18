@@ -1,0 +1,15 @@
+close_21	He	O
+close_21	was	O
+close_21	also	O
+close_21	a	O
+close_21	friend	O
+close_21	and	O
+close_21	close	close_adj-nou
+close_21	adviser	O
+close_21	to	O
+close_21	New	O
+close_21	York	O
+close_21	City	O
+close_21	Mayor	O
+close_21	Fiorello	O
+close_21	LaGuardia	O

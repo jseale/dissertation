@@ -1,0 +1,16 @@
+compress_50	It	O
+compress_50	is	O
+compress_50	used	O
+compress_50	to	O
+compress_50	mechanically	O
+compress_50	compress	compress
+compress_50	an	O
+compress_50	atonic	O
+compress_50	uterus	O
+compress_50	in	O
+compress_50	the	O
+compress_50	face	O
+compress_50	of	O
+compress_50	severe	O
+compress_50	postpartum	O
+compress_50	hemorrhage	O

@@ -1,0 +1,11 @@
+celtic_20	In	O
+celtic_20	March	O
+celtic_20	2005	O
+celtic_20	17	O
+celtic_20	Celtic	celtic
+celtic_20	coins	O
+celtic_20	were	O
+celtic_20	found	O
+celtic_20	in	O
+celtic_20	Echt	O
+celtic_20	Limburg	O

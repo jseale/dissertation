@@ -1,0 +1,14 @@
+axes_52	Unsuspecting	O
+axes_52	outnumbered	O
+axes_52	and	O
+axes_52	surrounded	O
+axes_52	the	O
+axes_52	Llancarfan	O
+axes_52	army	O
+axes_52	fell	O
+axes_52	to	O
+axes_52	the	O
+axes_52	Thrall	O
+axes_52	's	O
+axes_52	unforgiving	O
+axes_52	axes	axes_nou-vrb

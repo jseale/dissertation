@@ -1,0 +1,8 @@
+suspect_79	When	O
+suspect_79	does	O
+suspect_79	the	O
+suspect_79	reader	O
+suspect_79	first	O
+suspect_79	suspect	suspect_vrb
+suspect_79	the	O
+suspect_79	murderer	O

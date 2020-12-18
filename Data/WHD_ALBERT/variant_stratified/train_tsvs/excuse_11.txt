@@ -1,0 +1,16 @@
+excuse_11	Automatism	O
+excuse_11	can	O
+excuse_11	be	O
+excuse_11	seen	O
+excuse_11	variously	O
+excuse_11	as	O
+excuse_11	lack	O
+excuse_11	of	O
+excuse_11	voluntariness	O
+excuse_11	lack	O
+excuse_11	of	O
+excuse_11	culpability	O
+excuse_11	unconsciousness	O
+excuse_11	or	O
+excuse_11	excuse	excuse_nou
+excuse_11	Schopp	O

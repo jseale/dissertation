@@ -1,0 +1,14 @@
+decrease_65	The	O
+decrease_65	secretion	O
+decrease_65	of	O
+decrease_65	insulin	O
+decrease_65	and	O
+decrease_65	the	O
+decrease_65	body	O
+decrease_65	's	O
+decrease_65	response	O
+decrease_65	to	O
+decrease_65	insulin	O
+decrease_65	decrease	decrease_vrb
+decrease_65	by	O
+decrease_65	30	O

@@ -1,0 +1,15 @@
+tear_9	If	O
+tear_9	a	O
+tear_9	tear	tear_vrb
+tear_9	is	O
+tear_9	detected	O
+tear_9	treatment	O
+tear_9	depends	O
+tear_9	on	O
+tear_9	the	O
+tear_9	type	O
+tear_9	and	O
+tear_9	size	O
+tear_9	of	O
+tear_9	the	O
+tear_9	tear	tear_vrb

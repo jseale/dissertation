@@ -1,0 +1,13 @@
+document_34	It	O
+document_34	is	O
+document_34	considered	O
+document_34	the	O
+document_34	most	O
+document_34	important	O
+document_34	historical	O
+document_34	document	document_nou
+document_34	of	O
+document_34	the	O
+document_34	classical	O
+document_34	Gupta	O
+document_34	age	O

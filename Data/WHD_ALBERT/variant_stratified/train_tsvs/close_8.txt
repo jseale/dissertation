@@ -1,0 +1,12 @@
+close_8	It	O
+close_8	is	O
+close_8	very	O
+close_8	close	close_adj-nou
+close_8	to	O
+close_8	Perambur	O
+close_8	and	O
+close_8	Perambur	O
+close_8	Carriage	O
+close_8	Works	O
+close_8	Railway	O
+close_8	Stations	O

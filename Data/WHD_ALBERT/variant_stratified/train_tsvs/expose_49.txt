@@ -1,0 +1,16 @@
+expose_49	By	O
+expose_49	expecting	O
+expose_49	publick	O
+expose_49	good	O
+expose_49	from	O
+expose_49	private	O
+expose_49	virtue	O
+expose_49	we	O
+expose_49	expose	expose_vrb
+expose_49	ourselves	O
+expose_49	to	O
+expose_49	publick	O
+expose_49	evils	O
+expose_49	from	O
+expose_49	private	O
+expose_49	vices	O

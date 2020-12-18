@@ -1,0 +1,16 @@
+document_5	On	O
+document_5	April	O
+document_5	9	O
+document_5	2013	O
+document_5	that	O
+document_5	document	document_nou
+document_5	was	O
+document_5	made	O
+document_5	public	O
+document_5	after	O
+document_5	a	O
+document_5	Freedom	O
+document_5	of	O
+document_5	Information	O
+document_5	Act	O
+document_5	request	O

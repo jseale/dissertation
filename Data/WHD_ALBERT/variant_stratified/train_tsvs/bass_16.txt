@@ -1,0 +1,11 @@
+bass_16	For	O
+bass_16	ballads	O
+bass_16	he	O
+bass_16	played	O
+bass_16	walking	O
+bass_16	bass	bass
+bass_16	lines	O
+bass_16	on	O
+bass_16	the	O
+bass_16	bass	bass
+bass_16	pedals	O

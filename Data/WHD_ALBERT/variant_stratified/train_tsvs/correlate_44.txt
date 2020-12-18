@@ -1,0 +1,17 @@
+correlate_44	This	O
+correlate_44	does	O
+correlate_44	not	O
+correlate_44	entirely	O
+correlate_44	correlate	correlate_nou-vrb
+correlate_44	with	O
+correlate_44	the	O
+correlate_44	scale	O
+correlate_44	of	O
+correlate_44	Linus	O
+correlate_44	Pauling	O
+correlate_44	but	O
+correlate_44	is	O
+correlate_44	generally	O
+correlate_44	in	O
+correlate_44	close	O
+correlate_44	correspondence	O

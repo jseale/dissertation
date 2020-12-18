@@ -1,0 +1,13 @@
+separate_47	Georgia	O
+separate_47	4-H	O
+separate_47	has	O
+separate_47	5	O
+separate_47	separate	separate_adj
+separate_47	4-H	O
+separate_47	Centers	O
+separate_47	each	O
+separate_47	with	O
+separate_47	its	O
+separate_47	own	O
+separate_47	camping	O
+separate_47	program	O

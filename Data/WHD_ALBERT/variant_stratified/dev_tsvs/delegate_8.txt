@@ -1,0 +1,11 @@
+delegate_8	He	O
+delegate_8	was	O
+delegate_8	a	O
+delegate_8	delegate	delegate_nou
+delegate_8	to	O
+delegate_8	the	O
+delegate_8	Union	O
+delegate_8	National	O
+delegate_8	Convention	O
+delegate_8	in	O
+delegate_8	1866	O

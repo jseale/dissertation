@@ -1,0 +1,11 @@
+associate_35	He	O
+associate_35	is	O
+associate_35	associate	associate_adj-nou
+associate_35	editor	O
+associate_35	of	O
+associate_35	the	O
+associate_35	International	O
+associate_35	Journal	O
+associate_35	of	O
+associate_35	Game	O
+associate_35	Theory	O

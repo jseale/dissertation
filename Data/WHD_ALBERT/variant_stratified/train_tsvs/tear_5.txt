@@ -1,0 +1,12 @@
+tear_5	The	O
+tear_5	police	O
+tear_5	respond	O
+tear_5	by	O
+tear_5	shooting	O
+tear_5	a	O
+tear_5	tear	tear_nou
+tear_5	gas	O
+tear_5	grenade	O
+tear_5	into	O
+tear_5	the	O
+tear_5	area	O

@@ -1,0 +1,14 @@
+suspect_20	The	O
+suspect_20	suspect	suspect_adj-nou
+suspect_20	shot	O
+suspect_20	Nick	O
+suspect_20	but	O
+suspect_20	the	O
+suspect_20	bullets	O
+suspect_20	went	O
+suspect_20	through	O
+suspect_20	him	O
+suspect_20	and	O
+suspect_20	hit	O
+suspect_20	Tracy	O
+suspect_20	instead	O

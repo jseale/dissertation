@@ -1,0 +1,13 @@
+produce_71	Their	O
+produce_71	vision	O
+produce_71	was	O
+produce_71	to	O
+produce_71	produce	produce_vrb
+produce_71	a	O
+produce_71	woodland	O
+produce_71	garden	O
+produce_71	composed	O
+produce_71	of	O
+produce_71	many	O
+produce_71	individual	O
+produce_71	gardens	O

@@ -1,0 +1,12 @@
+precipitate_33	These	O
+precipitate_33	phosphates	O
+precipitate_33	precipitate	precipitate_vrb
+precipitate_33	the	O
+precipitate_33	solids	O
+precipitate_33	to	O
+precipitate_33	the	O
+precipitate_33	bottom	O
+precipitate_33	of	O
+precipitate_33	the	O
+precipitate_33	boiler	O
+precipitate_33	drum	O

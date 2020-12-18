@@ -1,0 +1,13 @@
+invert_9	However	O
+invert_9	these	O
+invert_9	days	O
+invert_9	it	O
+invert_9	is	O
+invert_9	not	O
+invert_9	uncommon	O
+invert_9	for	O
+invert_9	teams	O
+invert_9	to	O
+invert_9	invert	invert_vrb
+invert_9	the	O
+invert_9	colours	O

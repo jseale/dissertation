@@ -1,0 +1,12 @@
+estimate_9	It	O
+estimate_9	represents	O
+estimate_9	an	O
+estimate_9	estimate	estimate_nou
+estimate_9	of	O
+estimate_9	the	O
+estimate_9	genetic	O
+estimate_9	significance	O
+estimate_9	of	O
+estimate_9	gonad	O
+estimate_9	radiation	O
+estimate_9	doses	O

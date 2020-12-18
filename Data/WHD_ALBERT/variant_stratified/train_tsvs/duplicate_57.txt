@@ -1,0 +1,17 @@
+duplicate_57	Then	O
+duplicate_57	a	O
+duplicate_57	robbery	O
+duplicate_57	happens	O
+duplicate_57	and	O
+duplicate_57	Arun	O
+duplicate_57	Ajay	O
+duplicate_57	Devgan	O
+duplicate_57	is	O
+duplicate_57	the	O
+duplicate_57	robber	O
+duplicate_57	who	O
+duplicate_57	is	O
+duplicate_57	the	O
+duplicate_57	duplicate	duplicate_adj-nou
+duplicate_57	of	O
+duplicate_57	Vishal	O

@@ -1,0 +1,13 @@
+refuse_60	Refuse	refuse_vrb
+refuse_60	to	O
+refuse_60	Bend	O
+refuse_60	was	O
+refuse_60	retired	O
+refuse_60	at	O
+refuse_60	the	O
+refuse_60	end	O
+refuse_60	of	O
+refuse_60	the	O
+refuse_60	2004	O
+refuse_60	racing	O
+refuse_60	season	O

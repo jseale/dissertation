@@ -1,0 +1,16 @@
+postulate_8	Therefore	O
+postulate_8	researchers	O
+postulate_8	are	O
+postulate_8	led	O
+postulate_8	to	O
+postulate_8	postulate	postulate_vrb
+postulate_8	new	O
+postulate_8	physical	O
+postulate_8	phenomena	O
+postulate_8	that	O
+postulate_8	resolve	O
+postulate_8	hierarchy	O
+postulate_8	problems	O
+postulate_8	without	O
+postulate_8	fine	O
+postulate_8	tuning	O

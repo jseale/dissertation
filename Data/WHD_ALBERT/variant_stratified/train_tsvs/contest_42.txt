@@ -1,0 +1,14 @@
+contest_42	Nonetheless	O
+contest_42	Seir	O
+contest_42	Kieran	O
+contest_42	matched	O
+contest_42	their	O
+contest_42	opponents	O
+contest_42	well	O
+contest_42	in	O
+contest_42	a	O
+contest_42	fast	O
+contest_42	paced	O
+contest_42	hard	O
+contest_42	hitting	O
+contest_42	contest	contest_nou

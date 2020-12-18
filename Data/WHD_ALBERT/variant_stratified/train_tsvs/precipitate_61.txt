@@ -1,0 +1,14 @@
+precipitate_61	After	O
+precipitate_61	neutralization	O
+precipitate_61	only	O
+precipitate_61	the	O
+precipitate_61	zinc	O
+precipitate_61	stays	O
+precipitate_61	in	O
+precipitate_61	solution	O
+precipitate_61	while	O
+precipitate_61	germanium	O
+precipitate_61	and	O
+precipitate_61	other	O
+precipitate_61	metals	O
+precipitate_61	precipitate	precipitate_vrb

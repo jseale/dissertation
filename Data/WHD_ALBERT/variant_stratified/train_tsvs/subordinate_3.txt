@@ -1,0 +1,8 @@
+subordinate_3	The	O
+subordinate_3	statutes	O
+subordinate_3	are	O
+subordinate_3	subordinate	subordinate_adj-nou
+subordinate_3	to	O
+subordinate_3	the	O
+subordinate_3	Oregon	O
+subordinate_3	Constitution	O

@@ -1,0 +1,14 @@
+dove_19	Unlike	O
+dove_19	the	O
+dove_19	sovereign	O
+dove_19	's	O
+dove_19	dove	dove
+dove_19	this	O
+dove_19	one	O
+dove_19	has	O
+dove_19	folded	O
+dove_19	wings	O
+dove_19	and	O
+dove_19	is	O
+dove_19	relatively	O
+dove_19	small	O

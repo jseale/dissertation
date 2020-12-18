@@ -1,0 +1,7 @@
+lead_9	When	O
+lead_9	freshly	O
+lead_9	cut	O
+lead_9	lead	lead_nou
+lead_9	is	O
+lead_9	bluish	O
+lead_9	white	O

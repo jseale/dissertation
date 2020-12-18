@@ -1,0 +1,15 @@
+overthrow_47	One	O
+overthrow_47	sells	O
+overthrow_47	his	O
+overthrow_47	services	O
+overthrow_47	to	O
+overthrow_47	the	O
+overthrow_47	Rebellion	O
+overthrow_47	while	O
+overthrow_47	the	O
+overthrow_47	other	O
+overthrow_47	attempts	O
+overthrow_47	to	O
+overthrow_47	overthrow	overthrow_vrb
+overthrow_47	the	O
+overthrow_47	Emperor	O

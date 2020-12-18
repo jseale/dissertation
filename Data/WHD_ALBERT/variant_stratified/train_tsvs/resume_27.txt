@@ -1,0 +1,13 @@
+resume_27	They	O
+resume_27	were	O
+resume_27	able	O
+resume_27	to	O
+resume_27	resume	resume_vrb
+resume_27	production	O
+resume_27	six	O
+resume_27	months	O
+resume_27	after	O
+resume_27	the	O
+resume_27	strike	O
+resume_27	was	O
+resume_27	called	O

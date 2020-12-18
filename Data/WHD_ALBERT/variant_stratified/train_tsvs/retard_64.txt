@@ -1,0 +1,9 @@
+retard_64	In	O
+retard_64	addition	O
+retard_64	cool	O
+retard_64	temperatures	O
+retard_64	retard	retard_vrb
+retard_64	bacterial	O
+retard_64	and	O
+retard_64	fungal	O
+retard_64	growth	O

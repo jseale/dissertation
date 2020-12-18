@@ -1,0 +1,14 @@
+bow_17	Sometimes	O
+bow_17	she	O
+bow_17	carries	O
+bow_17	a	O
+bow_17	bell	O
+bow_17	chakra	O
+bow_17	chamara	O
+bow_17	a	O
+bow_17	yak	O
+bow_17	's	O
+bow_17	tail	O
+bow_17	and	O
+bow_17	a	O
+bow_17	bow	bow_nou-knot

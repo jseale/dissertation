@@ -1,0 +1,8 @@
+graduate_7	The	O
+graduate_7	institute	O
+graduate_7	offers	O
+graduate_7	several	O
+graduate_7	post	O
+graduate_7	graduate	graduate_adj-nou
+graduate_7	diplomas	O
+graduate_7	also	O

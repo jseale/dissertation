@@ -1,0 +1,17 @@
+blessed_32	Theologians	O
+blessed_32	therefore	O
+blessed_32	generally	O
+blessed_32	hold	O
+blessed_32	that	O
+blessed_32	the	O
+blessed_32	heaven	O
+blessed_32	of	O
+blessed_32	the	O
+blessed_32	blessed	blessed_adj
+blessed_32	is	O
+blessed_32	a	O
+blessed_32	special	O
+blessed_32	place	O
+blessed_32	with	O
+blessed_32	definite	O
+blessed_32	limits	O

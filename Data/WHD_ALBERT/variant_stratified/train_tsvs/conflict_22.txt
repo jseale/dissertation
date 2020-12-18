@@ -1,0 +1,16 @@
+conflict_22	As	O
+conflict_22	of	O
+conflict_22	February	O
+conflict_22	2013	O
+conflict_22	this	O
+conflict_22	remains	O
+conflict_22	the	O
+conflict_22	longest	O
+conflict_22	solely	O
+conflict_22	Green	O
+conflict_22	Beret	O
+conflict_22	battle	O
+conflict_22	of	O
+conflict_22	the	O
+conflict_22	Afghanistan	O
+conflict_22	conflict	conflict_nou

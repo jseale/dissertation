@@ -1,0 +1,17 @@
+reading_10	Reading	reading_en
+reading_10	Leviticus	O
+reading_10	8:23	O
+reading_10	Milgrom	O
+reading_10	noted	O
+reading_10	that	O
+reading_10	abundant	O
+reading_10	attestation	O
+reading_10	exists	O
+reading_10	of	O
+reading_10	ritual	O
+reading_10	daubing	O
+reading_10	in	O
+reading_10	the	O
+reading_10	ancient	O
+reading_10	Near	O
+reading_10	East	O

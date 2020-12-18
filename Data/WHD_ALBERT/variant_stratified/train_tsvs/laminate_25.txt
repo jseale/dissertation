@@ -1,0 +1,14 @@
+laminate_25	Majic	O
+laminate_25	laminate	laminate_nou
+laminate_25	flooring	O
+laminate_25	offers	O
+laminate_25	the	O
+laminate_25	timeless	O
+laminate_25	hardwood	O
+laminate_25	look	O
+laminate_25	at	O
+laminate_25	a	O
+laminate_25	more	O
+laminate_25	affordable	O
+laminate_25	price	O
+laminate_25	point	O

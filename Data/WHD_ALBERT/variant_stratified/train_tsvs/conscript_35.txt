@@ -1,0 +1,17 @@
+conscript_35	If	O
+conscript_35	the	O
+conscript_35	conscript	conscript_nou
+conscript_35	is	O
+conscript_35	unwilling	O
+conscript_35	to	O
+conscript_35	take	O
+conscript_35	the	O
+conscript_35	oath	O
+conscript_35	another	O
+conscript_35	option	O
+conscript_35	is	O
+conscript_35	to	O
+conscript_35	take	O
+conscript_35	the	O
+conscript_35	military	O
+conscript_35	affirmation	O

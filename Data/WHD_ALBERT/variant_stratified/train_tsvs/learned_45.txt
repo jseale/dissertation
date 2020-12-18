@@ -1,0 +1,11 @@
+learned_45	Additional	O
+learned_45	skills	O
+learned_45	specific	O
+learned_45	to	O
+learned_45	case	O
+learned_45	management	O
+learned_45	are	O
+learned_45	learned	learned_vrb
+learned_45	in	O
+learned_45	the	O
+learned_45	role	O

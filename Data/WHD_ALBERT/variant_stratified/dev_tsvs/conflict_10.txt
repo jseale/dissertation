@@ -1,0 +1,17 @@
+conflict_10	He	O
+conflict_10	often	O
+conflict_10	comes	O
+conflict_10	to	O
+conflict_10	conflict	conflict_vrb
+conflict_10	with	O
+conflict_10	Therkla	O
+conflict_10	when	O
+conflict_10	her	O
+conflict_10	crush	O
+conflict_10	on	O
+conflict_10	Elan	O
+conflict_10	interferes	O
+conflict_10	with	O
+conflict_10	Kubota	O
+conflict_10	's	O
+conflict_10	orders	O

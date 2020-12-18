@@ -1,0 +1,14 @@
+convert_68	The	O
+convert_68	conversion	O
+convert_68	part	O
+convert_68	comes	O
+convert_68	in	O
+convert_68	when	O
+convert_68	they	O
+convert_68	plan	O
+convert_68	to	O
+convert_68	have	O
+convert_68	Gallicanus	O
+convert_68	convert	convert_vrb
+convert_68	to	O
+convert_68	Christianity	O

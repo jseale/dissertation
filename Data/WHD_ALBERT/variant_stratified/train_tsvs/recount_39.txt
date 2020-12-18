@@ -1,0 +1,15 @@
+recount_39	The	O
+recount_39	vote	O
+recount_39	was	O
+recount_39	so	O
+recount_39	close	O
+recount_39	that	O
+recount_39	a	O
+recount_39	recount	recount_nou
+recount_39	was	O
+recount_39	performed	O
+recount_39	and	O
+recount_39	ballots	O
+recount_39	were	O
+recount_39	carefully	O
+recount_39	scrutinized	O

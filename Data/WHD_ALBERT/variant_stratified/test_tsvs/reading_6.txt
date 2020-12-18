@@ -1,0 +1,15 @@
+reading_6	The	O
+reading_6	concept	O
+reading_6	of	O
+reading_6	the	O
+reading_6	triple	O
+reading_6	goddess	O
+reading_6	has	O
+reading_6	been	O
+reading_6	applied	O
+reading_6	to	O
+reading_6	a	O
+reading_6	feminist	O
+reading_6	reading	reading_en
+reading_6	of	O
+reading_6	Shakespeare	O

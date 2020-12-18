@@ -1,0 +1,16 @@
+degenerate_25	Cooling	O
+degenerate_25	fermions	O
+degenerate_25	to	O
+degenerate_25	extremely	O
+degenerate_25	low	O
+degenerate_25	temperatures	O
+degenerate_25	has	O
+degenerate_25	created	O
+degenerate_25	degenerate	degenerate_adj-nou
+degenerate_25	gases	O
+degenerate_25	subject	O
+degenerate_25	to	O
+degenerate_25	the	O
+degenerate_25	Pauli	O
+degenerate_25	exclusion	O
+degenerate_25	principle	O

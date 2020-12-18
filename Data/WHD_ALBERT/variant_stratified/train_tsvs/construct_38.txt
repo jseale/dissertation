@@ -1,0 +1,17 @@
+construct_38	It	O
+construct_38	encourages	O
+construct_38	students	O
+construct_38	to	O
+construct_38	construct	construct_vrb
+construct_38	their	O
+construct_38	own	O
+construct_38	meaning	O
+construct_38	with	O
+construct_38	guidance	O
+construct_38	from	O
+construct_38	peers	O
+construct_38	and	O
+construct_38	facilitator	O
+construct_38	of	O
+construct_38	consensus	O
+construct_38	process	O

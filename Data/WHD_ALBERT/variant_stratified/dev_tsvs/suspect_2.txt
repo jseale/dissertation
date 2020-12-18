@@ -1,0 +1,17 @@
+suspect_2	It	O
+suspect_2	was	O
+suspect_2	produced	O
+suspect_2	by	O
+suspect_2	music	O
+suspect_2	engineer	O
+suspect_2	Johnny	O
+suspect_2	Lima	O
+suspect_2	and	O
+suspect_2	was	O
+suspect_2	recorded	O
+suspect_2	at	O
+suspect_2	Suspect	suspect_adj-nou
+suspect_2	Studios	O
+suspect_2	San	O
+suspect_2	Jose	O
+suspect_2	California	O

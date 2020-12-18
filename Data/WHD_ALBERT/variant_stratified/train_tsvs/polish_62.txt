@@ -1,0 +1,17 @@
+polish_62	For	O
+polish_62	instance	O
+polish_62	the	O
+polish_62	Soviets	O
+polish_62	quickly	O
+polish_62	began	O
+polish_62	confiscating	O
+polish_62	nationalising	O
+polish_62	and	O
+polish_62	redistributing	O
+polish_62	all	O
+polish_62	private	O
+polish_62	and	O
+polish_62	state	O
+polish_62	owned	O
+polish_62	Polish	polish_geo
+polish_62	property	O

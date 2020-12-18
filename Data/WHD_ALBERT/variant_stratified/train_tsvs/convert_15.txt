@@ -1,0 +1,14 @@
+convert_15	The	O
+convert_15	first	O
+convert_15	step	O
+convert_15	is	O
+convert_15	to	O
+convert_15	convert	convert_vrb
+convert_15	P1	O
+convert_15	and	O
+convert_15	P2	O
+convert_15	into	O
+convert_15	their	O
+convert_15	equivalent	O
+convert_15	weak	O
+convert_15	formulations	O

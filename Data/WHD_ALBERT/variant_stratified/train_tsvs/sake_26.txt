@@ -1,0 +1,16 @@
+sake_26	This	O
+sake_26	is	O
+sake_26	used	O
+sake_26	when	O
+sake_26	he	O
+sake_26	ultimately	O
+sake_26	has	O
+sake_26	to	O
+sake_26	defeat	O
+sake_26	his	O
+sake_26	master	O
+sake_26	for	O
+sake_26	the	O
+sake_26	sake	sake
+sake_26	of	O
+sake_26	love	O

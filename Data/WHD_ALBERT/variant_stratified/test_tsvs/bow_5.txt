@@ -1,0 +1,17 @@
+bow_5	Skandi	O
+bow_5	Neptune	O
+bow_5	has	O
+bow_5	two	O
+bow_5	stern	O
+bow_5	azimuth	O
+bow_5	thrusters	O
+bow_5	a	O
+bow_5	retractable	O
+bow_5	forward	O
+bow_5	azimuth	O
+bow_5	thruster	O
+bow_5	and	O
+bow_5	two	O
+bow_5	bow	bow_nou-ship
+bow_5	tunnel	O
+bow_5	thrusters	O

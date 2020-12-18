@@ -1,0 +1,10 @@
+lead_0	Modern	O
+lead_0	pewters	O
+lead_0	are	O
+lead_0	available	O
+lead_0	that	O
+lead_0	are	O
+lead_0	completely	O
+lead_0	free	O
+lead_0	of	O
+lead_0	lead	lead_nou

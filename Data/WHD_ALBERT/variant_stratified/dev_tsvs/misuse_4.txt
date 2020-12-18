@@ -1,0 +1,9 @@
+misuse_4	Short	O
+misuse_4	sighted	O
+misuse_4	misuse	misuse_nou
+misuse_4	of	O
+misuse_4	that	O
+misuse_4	power	O
+misuse_4	can	O
+misuse_4	ruin	O
+misuse_4	everything	O

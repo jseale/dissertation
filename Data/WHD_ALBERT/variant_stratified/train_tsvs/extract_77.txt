@@ -1,0 +1,17 @@
+extract_77	This	O
+extract_77	approach	O
+extract_77	can	O
+extract_77	be	O
+extract_77	applied	O
+extract_77	to	O
+extract_77	extract	extract_vrb
+extract_77	transient	O
+extract_77	signal	O
+extract_77	and	O
+extract_77	avoiding	O
+extract_77	the	O
+extract_77	indeterminacy	O
+extract_77	characterization	O
+extract_77	in	O
+extract_77	some	O
+extract_77	signals	O

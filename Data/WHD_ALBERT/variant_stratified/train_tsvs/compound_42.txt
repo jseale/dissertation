@@ -1,0 +1,16 @@
+compound_42	Twin	O
+compound_42	propellers	O
+compound_42	were	O
+compound_42	powered	O
+compound_42	by	O
+compound_42	two	O
+compound_42	lightweight	O
+compound_42	compound	compound_nou
+compound_42	steam	O
+compound_42	engines	O
+compound_42	each	O
+compound_42	delivering	O
+compound_42	180	O
+compound_42	horsepower	O
+compound_42	130	O
+compound_42	kW	O

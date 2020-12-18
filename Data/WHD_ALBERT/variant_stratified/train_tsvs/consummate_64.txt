@@ -1,0 +1,10 @@
+consummate_64	Marie	O
+consummate_64	did	O
+consummate_64	not	O
+consummate_64	consummate	consummate_vrb
+consummate_64	her	O
+consummate_64	relationship	O
+consummate_64	with	O
+consummate_64	the	O
+consummate_64	Sun	O
+consummate_64	King	O

@@ -1,0 +1,14 @@
+confines_4	Ultimately	O
+confines_4	the	O
+confines_4	audience	O
+confines_4	decides	O
+confines_4	who	O
+confines_4	Dick	O
+confines_4	Datchery	O
+confines_4	is	O
+confines_4	within	O
+confines_4	the	O
+confines_4	confines	confines_nou
+confines_4	of	O
+confines_4	Dickens	O
+confines_4	story	O

@@ -1,0 +1,15 @@
+progress_35	The	O
+progress_35	progress	progress_nou
+progress_35	achieved	O
+progress_35	by	O
+progress_35	the	O
+progress_35	science	O
+progress_35	teams	O
+progress_35	would	O
+progress_35	ultimately	O
+progress_35	sustain	O
+progress_35	a	O
+progress_35	perpetual	O
+progress_35	chain	O
+progress_35	of	O
+progress_35	life	O

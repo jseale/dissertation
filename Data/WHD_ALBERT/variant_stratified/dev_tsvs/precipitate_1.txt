@@ -1,0 +1,16 @@
+precipitate_1	He	O
+precipitate_1	was	O
+precipitate_1	extremely	O
+precipitate_1	cool	O
+precipitate_1	headed	O
+precipitate_1	and	O
+precipitate_1	patient	O
+precipitate_1	with	O
+precipitate_1	the	O
+precipitate_1	more	O
+precipitate_1	precipitate	precipitate_adj-nou
+precipitate_1	of	O
+precipitate_1	the	O
+precipitate_1	Cherokees	O
+precipitate_1	around	O
+precipitate_1	him	O

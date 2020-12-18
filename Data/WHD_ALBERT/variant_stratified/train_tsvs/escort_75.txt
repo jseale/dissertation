@@ -1,0 +1,12 @@
+escort_75	Moreover	O
+escort_75	mothers	O
+escort_75	and	O
+escort_75	possibly	O
+escort_75	related	O
+escort_75	adults	O
+escort_75	escort	escort_vrb
+escort_75	neonates	O
+escort_75	to	O
+escort_75	deter	O
+escort_75	such	O
+escort_75	predation	O

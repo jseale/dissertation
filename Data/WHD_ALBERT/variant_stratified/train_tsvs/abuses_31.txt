@@ -1,0 +1,17 @@
+abuses_31	NAWHERC	O
+abuses_31	has	O
+abuses_31	been	O
+abuses_31	active	O
+abuses_31	in	O
+abuses_31	reporting	O
+abuses_31	abuses	abuses_nou
+abuses_31	in	O
+abuses_31	reproductive	O
+abuses_31	care	O
+abuses_31	and	O
+abuses_31	medication	O
+abuses_31	in	O
+abuses_31	the	O
+abuses_31	Native	O
+abuses_31	American	O
+abuses_31	community	O

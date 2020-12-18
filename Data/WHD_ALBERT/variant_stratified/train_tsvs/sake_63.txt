@@ -1,0 +1,16 @@
+sake_63	Both	O
+sake_63	Case	O
+sake_63	and	O
+sake_63	Hanabusa	O
+sake_63	proposed	O
+sake_63	that	O
+sake_63	the	O
+sake_63	other	O
+sake_63	drop	O
+sake_63	out	O
+sake_63	for	O
+sake_63	the	O
+sake_63	sake	sake
+sake_63	of	O
+sake_63	party	O
+sake_63	unity	O

@@ -1,0 +1,14 @@
+aggregate_5	The	O
+aggregate_5	team	O
+aggregate_5	which	O
+aggregate_5	scored	O
+aggregate_5	more	O
+aggregate_5	goals	O
+aggregate_5	on	O
+aggregate_5	aggregate	aggregate_adj-nou
+aggregate_5	was	O
+aggregate_5	qualifying	O
+aggregate_5	to	O
+aggregate_5	the	O
+aggregate_5	next	O
+aggregate_5	round	O

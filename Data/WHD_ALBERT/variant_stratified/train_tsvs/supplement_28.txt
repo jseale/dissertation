@@ -1,0 +1,16 @@
+supplement_28	Three	O
+supplement_28	books	O
+supplement_28	were	O
+supplement_28	books	O
+supplement_28	of	O
+supplement_28	the	O
+supplement_28	year	O
+supplement_28	in	O
+supplement_28	The	O
+supplement_28	Observer	O
+supplement_28	Times	O
+supplement_28	Literary	O
+supplement_28	Supplement	supplement_nou
+supplement_28	and	O
+supplement_28	the	O
+supplement_28	Independent	O

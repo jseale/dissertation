@@ -1,0 +1,12 @@
+conflict_55	There	O
+conflict_55	is	O
+conflict_55	no	O
+conflict_55	record	O
+conflict_55	of	O
+conflict_55	any	O
+conflict_55	kind	O
+conflict_55	of	O
+conflict_55	internal	O
+conflict_55	conflict	conflict_nou
+conflict_55	between	O
+conflict_55	members	O

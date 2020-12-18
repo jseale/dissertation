@@ -1,0 +1,9 @@
+produce_59	These	O
+produce_59	active	O
+produce_59	cells	O
+produce_59	produce	produce_vrb
+produce_59	collagenous	O
+produce_59	fibers	O
+produce_59	and	O
+produce_59	ground	O
+produce_59	substance	O

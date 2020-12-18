@@ -1,0 +1,12 @@
+initiate_15	This	O
+initiate_15	pass	O
+initiate_15	is	O
+initiate_15	especially	O
+initiate_15	effective	O
+initiate_15	in	O
+initiate_15	helping	O
+initiate_15	to	O
+initiate_15	initiate	initiate_vrb
+initiate_15	a	O
+initiate_15	fast	O
+initiate_15	break	O

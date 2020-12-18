@@ -1,0 +1,15 @@
+perfume_4	He	O
+perfume_4	created	O
+perfume_4	a	O
+perfume_4	perfume	perfume_nou
+perfume_4	with	O
+perfume_4	this	O
+perfume_4	name	O
+perfume_4	in	O
+perfume_4	1916	O
+perfume_4	along	O
+perfume_4	with	O
+perfume_4	scented	O
+perfume_4	sachets	O
+perfume_4	and	O
+perfume_4	powders	O

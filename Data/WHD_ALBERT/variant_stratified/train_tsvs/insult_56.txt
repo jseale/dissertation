@@ -1,0 +1,12 @@
+insult_56	The	O
+insult_56	Indian	O
+insult_56	Muslim	O
+insult_56	community	O
+insult_56	demanded	O
+insult_56	a	O
+insult_56	law	O
+insult_56	against	O
+insult_56	insult	insult_nou
+insult_56	to	O
+insult_56	religious	O
+insult_56	feelings	O

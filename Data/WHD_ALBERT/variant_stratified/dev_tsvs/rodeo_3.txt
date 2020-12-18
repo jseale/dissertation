@@ -1,0 +1,12 @@
+rodeo_3	In	O
+rodeo_3	2011	O
+rodeo_3	Pentimento	O
+rodeo_3	signed	O
+rodeo_3	Indiana	O
+rodeo_3	based	O
+rodeo_3	indie	O
+rodeo_3	rock	O
+rodeo_3	band	O
+rodeo_3	Rodeo	rodeo
+rodeo_3	Ruby	O
+rodeo_3	Love	O

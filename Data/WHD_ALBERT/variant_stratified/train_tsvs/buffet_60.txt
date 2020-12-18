@@ -1,0 +1,14 @@
+buffet_60	Borgata	O
+buffet_60	Buffet	buffet_nou
+buffet_60	a	O
+buffet_60	typical	O
+buffet_60	casino	O
+buffet_60	buffet	buffet_nou
+buffet_60	offers	O
+buffet_60	breakfast	O
+buffet_60	lunch	O
+buffet_60	dinner	O
+buffet_60	and	O
+buffet_60	a	O
+buffet_60	Sunday	O
+buffet_60	brunch	O

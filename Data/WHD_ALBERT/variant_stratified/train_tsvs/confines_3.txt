@@ -1,0 +1,17 @@
+confines_3	The	O
+confines_3	constraints	O
+confines_3	of	O
+confines_3	folding	O
+confines_3	puzzles	O
+confines_3	is	O
+confines_3	to	O
+confines_3	fold	O
+confines_3	designated	O
+confines_3	shapes	O
+confines_3	within	O
+confines_3	the	O
+confines_3	given	O
+confines_3	confines	confines_nou
+confines_3	of	O
+confines_3	the	O
+confines_3	paper	O

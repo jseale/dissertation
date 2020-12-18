@@ -1,0 +1,17 @@
+affect_47	The	O
+affect_47	resulting	O
+affect_47	voltage	O
+affect_47	difference	O
+affect_47	can	O
+affect_47	affect	affect
+affect_47	electrical	O
+affect_47	equipment	O
+affect_47	change	O
+affect_47	surface	O
+affect_47	chemistry	O
+affect_47	erode	O
+affect_47	surfaces	O
+affect_47	and	O
+affect_47	levitate	O
+affect_47	Lunar	O
+affect_47	dust	O

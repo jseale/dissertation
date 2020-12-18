@@ -1,0 +1,12 @@
+initiate_56	The	O
+initiate_56	inhibited	O
+initiate_56	form	O
+initiate_56	is	O
+initiate_56	described	O
+initiate_56	as	O
+initiate_56	a	O
+initiate_56	failure	O
+initiate_56	to	O
+initiate_56	initiate	initiate_vrb
+initiate_56	or	O
+initiate_56	respond	O

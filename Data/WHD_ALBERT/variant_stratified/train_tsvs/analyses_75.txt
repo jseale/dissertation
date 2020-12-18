@@ -1,0 +1,16 @@
+analyses_75	The	O
+analyses_75	Fingerprint	O
+analyses_75	Bureau	O
+analyses_75	analyses	analyses_vrb
+analyses_75	fingerprints	O
+analyses_75	and	O
+analyses_75	palmprints	O
+analyses_75	feeds	O
+analyses_75	them	O
+analyses_75	into	O
+analyses_75	national	O
+analyses_75	databases	O
+analyses_75	and	O
+analyses_75	collates	O
+analyses_75	the	O
+analyses_75	results	O

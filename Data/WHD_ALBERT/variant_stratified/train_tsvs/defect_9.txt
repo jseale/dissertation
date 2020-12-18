@@ -1,0 +1,17 @@
+defect_9	International	O
+defect_9	Omphalocele	O
+defect_9	Awareness	O
+defect_9	Day	O
+defect_9	is	O
+defect_9	celebrated	O
+defect_9	annually	O
+defect_9	on	O
+defect_9	January	O
+defect_9	31	O
+defect_9	as	O
+defect_9	part	O
+defect_9	of	O
+defect_9	Birth	O
+defect_9	Defect	defect_nou
+defect_9	Awareness	O
+defect_9	Month	O

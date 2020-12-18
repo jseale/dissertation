@@ -1,0 +1,7 @@
+conduct_41	12	O
+conduct_41	were	O
+conduct_41	selected	O
+conduct_41	to	O
+conduct_41	conduct	conduct_vrb
+conduct_41	the	O
+conduct_41	election	O

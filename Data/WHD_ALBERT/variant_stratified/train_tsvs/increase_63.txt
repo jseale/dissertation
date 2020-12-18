@@ -1,0 +1,15 @@
+increase_63	CiU	O
+increase_63	supported	O
+increase_63	changes	O
+increase_63	to	O
+increase_63	the	O
+increase_63	Catalan	O
+increase_63	Statute	O
+increase_63	of	O
+increase_63	Autonomy	O
+increase_63	to	O
+increase_63	further	O
+increase_63	increase	increase_vrb
+increase_63	Catalonia	O
+increase_63	's	O
+increase_63	autonomy	O

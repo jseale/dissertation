@@ -1,0 +1,15 @@
+estimate_58	However	O
+estimate_58	it	O
+estimate_58	is	O
+estimate_58	possible	O
+estimate_58	to	O
+estimate_58	do	O
+estimate_58	some	O
+estimate_58	characterization	O
+estimate_58	of	O
+estimate_58	genetic	O
+estimate_58	differentiation	O
+estimate_58	and	O
+estimate_58	estimate	estimate_vrb
+estimate_58	gene	O
+estimate_58	flow	O

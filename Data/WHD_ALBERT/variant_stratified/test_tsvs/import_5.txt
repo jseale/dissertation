@@ -1,0 +1,10 @@
+import_5	Import	import_nou
+import_5	and	O
+import_5	distribution	O
+import_5	is	O
+import_5	still	O
+import_5	waiting	O
+import_5	for	O
+import_5	final	O
+import_5	FDA	O
+import_5	approval	O

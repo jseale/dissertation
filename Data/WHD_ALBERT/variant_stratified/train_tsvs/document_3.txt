@@ -1,0 +1,17 @@
+document_3	In	O
+document_3	1625	O
+document_3	he	O
+document_3	was	O
+document_3	the	O
+document_3	dean	O
+document_3	of	O
+document_3	Murska	O
+document_3	Sobota	O
+document_3	and	O
+document_3	he	O
+document_3	signed	O
+document_3	the	O
+document_3	Lutheran	O
+document_3	document	document_nou
+document_3	Formule	O
+document_3	Concordiae	O

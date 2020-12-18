@@ -1,0 +1,12 @@
+record_77	Some	O
+record_77	ancient	O
+record_77	authors	O
+record_77	record	record_vrb
+record_77	that	O
+record_77	the	O
+record_77	city	O
+record_77	was	O
+record_77	also	O
+record_77	called	O
+record_77	simply	O
+record_77	Hya	O

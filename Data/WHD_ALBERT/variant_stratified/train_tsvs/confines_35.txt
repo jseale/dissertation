@@ -1,0 +1,17 @@
+confines_35	The	O
+confines_35	footsoldiers	O
+confines_35	immediately	O
+confines_35	retreated	O
+confines_35	inside	O
+confines_35	the	O
+confines_35	confines	confines_nou
+confines_35	of	O
+confines_35	the	O
+confines_35	barracks	O
+confines_35	while	O
+confines_35	the	O
+confines_35	men	O
+confines_35	on	O
+confines_35	horseback	O
+confines_35	stayed	O
+confines_35	outside	O

@@ -1,0 +1,10 @@
+alternate_58	The	O
+alternate_58	novels	O
+alternate_58	depict	O
+alternate_58	an	O
+alternate_58	alternate	alternate_adj-nou
+alternate_58	version	O
+alternate_58	of	O
+alternate_58	Type-0	O
+alternate_58	's	O
+alternate_58	story	O

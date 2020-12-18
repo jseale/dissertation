@@ -1,0 +1,16 @@
+incline_58	Back	O
+incline_58	then	O
+incline_58	the	O
+incline_58	incline	incline_nou
+incline_58	railway	O
+incline_58	on	O
+incline_58	James	O
+incline_58	Street	O
+incline_58	was	O
+incline_58	known	O
+incline_58	as	O
+incline_58	the	O
+incline_58	Hamilton	O
+incline_58	Barton	O
+incline_58	Incline	incline_nou
+incline_58	Railway	O

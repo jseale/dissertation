@@ -1,0 +1,7 @@
+implement_2	States	O
+implement_2	may	O
+implement_2	implement	implement_vrb
+implement_2	their	O
+implement_2	own	O
+implement_2	NICS	O
+implement_2	programs	O

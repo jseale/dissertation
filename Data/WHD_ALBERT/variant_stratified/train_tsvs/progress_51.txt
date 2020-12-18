@@ -1,0 +1,17 @@
+progress_51	Progress	progress_nou
+progress_51	of	O
+progress_51	the	O
+progress_51	development	O
+progress_51	of	O
+progress_51	each	O
+progress_51	learning	O
+progress_51	area	O
+progress_51	is	O
+progress_51	published	O
+progress_51	and	O
+progress_51	updated	O
+progress_51	regularly	O
+progress_51	on	O
+progress_51	the	O
+progress_51	official	O
+progress_51	site	O

@@ -1,0 +1,13 @@
+converse_67	As	O
+converse_67	Adama	O
+converse_67	and	O
+converse_67	Leoben	O
+converse_67	converse	converse_vrb
+converse_67	Adama	O
+converse_67	notices	O
+converse_67	Leoben	O
+converse_67	Conoy	O
+converse_67	's	O
+converse_67	allergies	O
+converse_67	getting	O
+converse_67	worse	O

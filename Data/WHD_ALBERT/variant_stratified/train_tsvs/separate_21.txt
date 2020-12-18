@@ -1,0 +1,13 @@
+separate_21	In	O
+separate_21	modern	O
+separate_21	homes	O
+separate_21	outside	O
+separate_21	of	O
+separate_21	France	O
+separate_21	such	O
+separate_21	separate	separate_adj
+separate_21	toilets	O
+separate_21	typically	O
+separate_21	contain	O
+separate_21	a	O
+separate_21	sink	O

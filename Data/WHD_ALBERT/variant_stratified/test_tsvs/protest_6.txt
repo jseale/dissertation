@@ -1,0 +1,12 @@
+protest_6	We	O
+protest_6	call	O
+protest_6	for	O
+protest_6	the	O
+protest_6	immediate	O
+protest_6	release	O
+protest_6	of	O
+protest_6	those	O
+protest_6	detained	O
+protest_6	for	O
+protest_6	peaceful	O
+protest_6	protest	protest_nou

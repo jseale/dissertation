@@ -1,0 +1,14 @@
+combine_37	Pierce	O
+combine_37	Garnett	O
+combine_37	combine	combine_vrb
+combine_37	to	O
+combine_37	halt	O
+combine_37	Hornet	O
+combine_37	's	O
+combine_37	5-game	O
+combine_37	streak	O
+combine_37	Associated	O
+combine_37	Press	O
+combine_37	March	O
+combine_37	28	O
+combine_37	2008	O

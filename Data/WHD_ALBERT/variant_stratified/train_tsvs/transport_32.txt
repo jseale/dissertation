@@ -1,0 +1,17 @@
+transport_32	Several	O
+transport_32	transportable	O
+transport_32	units	O
+transport_32	as	O
+transport_32	well	O
+transport_32	as	O
+transport_32	wheelchair	O
+transport_32	transport	transport_nou
+transport_32	vans	O
+transport_32	and	O
+transport_32	one	O
+transport_32	medic	O
+transport_32	fly	O
+transport_32	car	O
+transport_32	are	O
+transport_32	housed	O
+transport_32	here	O

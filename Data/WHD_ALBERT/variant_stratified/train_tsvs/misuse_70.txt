@@ -1,0 +1,9 @@
+misuse_70	He	O
+misuse_70	also	O
+misuse_70	denied	O
+misuse_70	authorizing	O
+misuse_70	any	O
+misuse_70	misuse	misuse_nou
+misuse_70	of	O
+misuse_70	customer	O
+misuse_70	funds	O

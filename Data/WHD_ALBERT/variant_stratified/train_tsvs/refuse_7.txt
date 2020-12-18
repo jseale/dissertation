@@ -1,0 +1,10 @@
+refuse_7	Technical	O
+refuse_7	names	O
+refuse_7	include	O
+refuse_7	waste	O
+refuse_7	collection	O
+refuse_7	vehicle	O
+refuse_7	and	O
+refuse_7	refuse	refuse_nou
+refuse_7	collection	O
+refuse_7	vehicle	O

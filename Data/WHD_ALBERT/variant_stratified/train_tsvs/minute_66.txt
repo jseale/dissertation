@@ -1,0 +1,10 @@
+minute_66	During	O
+minute_66	the	O
+minute_66	exposition	O
+minute_66	it	O
+minute_66	hosted	O
+minute_66	50-minute	O
+minute_66	versions	O
+minute_66	of	O
+minute_66	Shakespeare	O
+minute_66	plays	O

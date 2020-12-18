@@ -1,0 +1,16 @@
+minute_7	FC	O
+minute_7	Union	O
+minute_7	Berlin	O
+minute_7	after	O
+minute_7	coming	O
+minute_7	off	O
+minute_7	the	O
+minute_7	bench	O
+minute_7	to	O
+minute_7	replace	O
+minute_7	Anton	O
+minute_7	Fink	O
+minute_7	in	O
+minute_7	the	O
+minute_7	89th	O
+minute_7	minute	minute

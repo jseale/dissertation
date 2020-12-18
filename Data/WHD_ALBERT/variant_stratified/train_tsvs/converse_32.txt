@@ -1,0 +1,10 @@
+converse_32	So	O
+converse_32	the	O
+converse_32	converse	converse_adj-nou
+converse_32	to	O
+converse_32	1	O
+converse_32	and	O
+converse_32	2	O
+converse_32	above	O
+converse_32	hold	O
+converse_32	true	O

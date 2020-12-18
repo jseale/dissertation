@@ -1,0 +1,16 @@
+incline_6	During	O
+incline_6	incline	incline_nou
+incline_6	running	O
+incline_6	increases	O
+incline_6	in	O
+incline_6	activation	O
+incline_6	of	O
+incline_6	the	O
+incline_6	rectus	O
+incline_6	femoris	O
+incline_6	and	O
+incline_6	gastrocnemius	O
+incline_6	were	O
+incline_6	noted	O
+incline_6	by	O
+incline_6	Cai	O

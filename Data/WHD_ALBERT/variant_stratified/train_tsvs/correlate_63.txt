@@ -1,0 +1,16 @@
+correlate_63	He	O
+correlate_63	suggests	O
+correlate_63	that	O
+correlate_63	mediums	O
+correlate_63	of	O
+correlate_63	communication	O
+correlate_63	directly	O
+correlate_63	correlate	correlate_nou-vrb
+correlate_63	to	O
+correlate_63	the	O
+correlate_63	spread	O
+correlate_63	of	O
+correlate_63	knowledge	O
+correlate_63	in	O
+correlate_63	a	O
+correlate_63	society	O

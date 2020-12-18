@@ -1,0 +1,17 @@
+winds_27	Major	O
+winds_27	employers	O
+winds_27	include	O
+winds_27	Chinook	O
+winds_27	Winds	winds_nou
+winds_27	Casino	O
+winds_27	city	O
+winds_27	government	O
+winds_27	Lincoln	O
+winds_27	County	O
+winds_27	School	O
+winds_27	District	O
+winds_27	and	O
+winds_27	Samaritan	O
+winds_27	North	O
+winds_27	Lincoln	O
+winds_27	Hospital	O

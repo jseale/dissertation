@@ -1,0 +1,17 @@
+retard_55	One	O
+retard_55	half	O
+retard_55	hour	O
+retard_55	later	O
+retard_55	Captain	O
+retard_55	May	O
+retard_55	had	O
+retard_55	his	O
+retard_55	men	O
+retard_55	felling	O
+retard_55	trees	O
+retard_55	and	O
+retard_55	burning	O
+retard_55	bridges	O
+retard_55	to	O
+retard_55	retard	retard_vrb
+retard_55	pursuit	O

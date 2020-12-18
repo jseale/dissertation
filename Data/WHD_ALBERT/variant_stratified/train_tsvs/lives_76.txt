@@ -1,0 +1,7 @@
+lives_76	She	O
+lives_76	lives	lives_vrb
+lives_76	and	O
+lives_76	works	O
+lives_76	in	O
+lives_76	Los	O
+lives_76	Angeles	O

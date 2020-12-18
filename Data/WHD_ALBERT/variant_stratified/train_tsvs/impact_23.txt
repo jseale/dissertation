@@ -1,0 +1,7 @@
+impact_23	On	O
+impact_23	the	O
+impact_23	September	O
+impact_23	23	O
+impact_23	edition	O
+impact_23	of	O
+impact_23	Impact	impact_nou

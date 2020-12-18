@@ -1,0 +1,14 @@
+upset_10	When	O
+upset_10	taking	O
+upset_10	iron	O
+upset_10	supplements	O
+upset_10	stomach	O
+upset_10	upset	upset_nou
+upset_10	and/or	O
+upset_10	darkening	O
+upset_10	of	O
+upset_10	the	O
+upset_10	feces	O
+upset_10	are	O
+upset_10	commonly	O
+upset_10	experienced	O

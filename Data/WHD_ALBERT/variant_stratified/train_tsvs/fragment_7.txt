@@ -1,0 +1,10 @@
+fragment_7	This	O
+fragment_7	skull	O
+fragment_7	fragment	fragment_nou
+fragment_7	was	O
+fragment_7	first	O
+fragment_7	described	O
+fragment_7	by	O
+fragment_7	Sartono	O
+fragment_7	in	O
+fragment_7	1982	O

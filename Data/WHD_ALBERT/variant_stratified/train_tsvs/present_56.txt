@@ -1,0 +1,17 @@
+present_56	He	O
+present_56	was	O
+present_56	also	O
+present_56	a	O
+present_56	Minister	O
+present_56	in	O
+present_56	Mulayam	O
+present_56	Singh	O
+present_56	's	O
+present_56	cabinet	O
+present_56	in	O
+present_56	UP.At	O
+present_56	present	present_adj-nou
+present_56	he	O
+present_56	is	O
+present_56	representing	O
+present_56	Zamania	O

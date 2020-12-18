@@ -1,0 +1,16 @@
+content_12	It	O
+content_12	features	O
+content_12	pure	O
+content_12	CGI	O
+content_12	content	content_nou
+content_12	as	O
+content_12	well	O
+content_12	as	O
+content_12	CGI	O
+content_12	characters	O
+content_12	composited	O
+content_12	into	O
+content_12	filmed	O
+content_12	live	O
+content_12	action	O
+content_12	sequences	O

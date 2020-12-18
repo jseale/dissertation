@@ -1,0 +1,17 @@
+converse_74	As	O
+converse_74	the	O
+converse_74	detective	O
+converse_74	and	O
+converse_74	district	O
+converse_74	attorney	O
+converse_74	converse	converse_vrb
+converse_74	about	O
+converse_74	Billy	O
+converse_74	's	O
+converse_74	case	O
+converse_74	the	O
+converse_74	movie	O
+converse_74	is	O
+converse_74	told	O
+converse_74	in	O
+converse_74	flashback	O

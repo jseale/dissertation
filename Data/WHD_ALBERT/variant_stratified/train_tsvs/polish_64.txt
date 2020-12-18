@@ -1,0 +1,15 @@
+polish_64	Ludwik	O
+polish_64	Malinowski	O
+polish_64	nom	O
+polish_64	de	O
+polish_64	guerre	O
+polish_64	Lew	O
+polish_64	of	O
+polish_64	Przebraze	O
+polish_64	1887	O
+polish_64	1962	O
+polish_64	was	O
+polish_64	a	O
+polish_64	Polish	polish_geo
+polish_64	resistance	O
+polish_64	fighter	O

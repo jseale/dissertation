@@ -1,0 +1,17 @@
+contest_0	It	O
+contest_0	was	O
+contest_0	succeeded	O
+contest_0	as	O
+contest_0	Swiss	O
+contest_0	representative	O
+contest_0	at	O
+contest_0	the	O
+contest_0	1969	O
+contest_0	Contest	contest_nou
+contest_0	by	O
+contest_0	Paola	O
+contest_0	Del	O
+contest_0	Medico	O
+contest_0	with	O
+contest_0	Bonjour	O
+contest_0	Bonjour	O

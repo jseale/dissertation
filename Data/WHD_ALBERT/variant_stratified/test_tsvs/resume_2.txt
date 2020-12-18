@@ -1,0 +1,15 @@
+resume_2	June	O
+resume_2	1	O
+resume_2	1935	O
+resume_2	Full	O
+resume_2	page	O
+resume_2	Sunday	O
+resume_2	strips	O
+resume_2	resume	resume_vrb
+resume_2	now	O
+resume_2	in	O
+resume_2	color	O
+resume_2	until	O
+resume_2	Herriman	O
+resume_2	's	O
+resume_2	death	O

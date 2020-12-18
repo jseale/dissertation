@@ -1,0 +1,11 @@
+discard_72	Or	O
+discard_72	you	O
+discard_72	can	O
+discard_72	discard	discard_vrb
+discard_72	the	O
+discard_72	liquid	O
+discard_72	and	O
+discard_72	use	O
+discard_72	fresh	O
+discard_72	water	O
+discard_72	instead	O

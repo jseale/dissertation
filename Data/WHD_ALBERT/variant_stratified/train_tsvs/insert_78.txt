@@ -1,0 +1,11 @@
+insert_78	Plastic	O
+insert_78	spiral	O
+insert_78	binding	O
+insert_78	is	O
+insert_78	a	O
+insert_78	three	O
+insert_78	step	O
+insert_78	process	O
+insert_78	punch	O
+insert_78	insert	insert_vrb
+insert_78	crimp	O

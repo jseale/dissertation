@@ -1,0 +1,16 @@
+dove_3	The	O
+dove_3	laughing	O
+dove_3	dove	dove
+dove_3	is	O
+dove_3	a	O
+dove_3	long	O
+dove_3	tailed	O
+dove_3	slim	O
+dove_3	pigeon	O
+dove_3	typically	O
+dove_3	25	O
+dove_3	cm	O
+dove_3	9.8	O
+dove_3	in	O
+dove_3	in	O
+dove_3	length	O

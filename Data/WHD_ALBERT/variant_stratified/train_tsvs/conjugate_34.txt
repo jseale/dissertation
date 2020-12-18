@@ -1,0 +1,17 @@
+conjugate_34	Conserved	O
+conjugate_34	current	O
+conjugate_34	is	O
+conjugate_34	the	O
+conjugate_34	flow	O
+conjugate_34	of	O
+conjugate_34	the	O
+conjugate_34	canonical	O
+conjugate_34	conjugate	conjugate_adj-nou
+conjugate_34	of	O
+conjugate_34	a	O
+conjugate_34	quantity	O
+conjugate_34	possessing	O
+conjugate_34	a	O
+conjugate_34	continuous	O
+conjugate_34	translational	O
+conjugate_34	symmetry	O

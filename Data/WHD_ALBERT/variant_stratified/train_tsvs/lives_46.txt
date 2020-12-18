@@ -1,0 +1,14 @@
+lives_46	Norman	O
+lives_46	lives	lives_vrb
+lives_46	at	O
+lives_46	Greenwood	O
+lives_46	children	O
+lives_46	's	O
+lives_46	home	O
+lives_46	south	O
+lives_46	of	O
+lives_46	London	O
+lives_46	where	O
+lives_46	he	O
+lives_46	grew	O
+lives_46	up	O

@@ -1,0 +1,17 @@
+diagnoses_31	Pinkel	O
+diagnoses_31	said	O
+diagnoses_31	he	O
+diagnoses_31	was	O
+diagnoses_31	resigning	O
+diagnoses_31	due	O
+diagnoses_31	to	O
+diagnoses_31	health	O
+diagnoses_31	reasons	O
+diagnoses_31	citing	O
+diagnoses_31	his	O
+diagnoses_31	diagnoses	diagnoses_nou
+diagnoses_31	with	O
+diagnoses_31	lymphoma	O
+diagnoses_31	earlier	O
+diagnoses_31	in	O
+diagnoses_31	May.	O

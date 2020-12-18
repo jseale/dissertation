@@ -1,0 +1,16 @@
+attribute_77	He	O
+attribute_77	added	O
+attribute_77	that	O
+attribute_77	most	O
+attribute_77	people	O
+attribute_77	attribute	attribute_vrb
+attribute_77	this	O
+attribute_77	as	O
+attribute_77	a	O
+attribute_77	toy	O
+attribute_77	problem	O
+attribute_77	not	O
+attribute_77	a	O
+attribute_77	Burger	O
+attribute_77	King	O
+attribute_77	problem	O

@@ -1,0 +1,17 @@
+document_42	Searches	O
+document_42	of	O
+document_42	the	O
+document_42	database	O
+document_42	can	O
+document_42	be	O
+document_42	made	O
+document_42	by	O
+document_42	company	O
+document_42	name	O
+document_42	industry	O
+document_42	group	O
+document_42	document	document_nou
+document_42	type	O
+document_42	or	O
+document_42	date	O
+document_42	filed	O

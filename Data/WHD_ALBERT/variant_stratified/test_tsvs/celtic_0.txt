@@ -1,0 +1,12 @@
+celtic_0	The	O
+celtic_0	Celtic	celtic
+celtic_0	Gods	O
+celtic_0	of	O
+celtic_0	Marvel	O
+celtic_0	Comics	O
+celtic_0	live	O
+celtic_0	on	O
+celtic_0	the	O
+celtic_0	island	O
+celtic_0	of	O
+celtic_0	Avalon	O

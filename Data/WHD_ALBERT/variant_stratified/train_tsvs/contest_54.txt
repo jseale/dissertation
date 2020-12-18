@@ -1,0 +1,11 @@
+contest_54	It	O
+contest_54	was	O
+contest_54	this	O
+contest_54	contest	contest_nou
+contest_54	that	O
+contest_54	inspired	O
+contest_54	her	O
+contest_54	to	O
+contest_54	be	O
+contest_54	a	O
+contest_54	singer	O

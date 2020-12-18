@@ -1,0 +1,14 @@
+frequent_36	The	O
+frequent_36	award	O
+frequent_36	would	O
+frequent_36	go	O
+frequent_36	to	O
+frequent_36	future	O
+frequent_36	Penguins	O
+frequent_36	teammate	O
+frequent_36	and	O
+frequent_36	frequent	frequent_adj
+frequent_36	defense	O
+frequent_36	partner	O
+frequent_36	Michal	O
+frequent_36	Rozsival	O

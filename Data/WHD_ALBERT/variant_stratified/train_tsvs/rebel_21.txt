@@ -1,0 +1,13 @@
+rebel_21	On	O
+rebel_21	24	O
+rebel_21	June	O
+rebel_21	1685	O
+rebel_21	rebel	rebel_nou
+rebel_21	forces	O
+rebel_21	camped	O
+rebel_21	at	O
+rebel_21	Pensford	O
+rebel_21	during	O
+rebel_21	the	O
+rebel_21	Monmouth	O
+rebel_21	Rebellion	O

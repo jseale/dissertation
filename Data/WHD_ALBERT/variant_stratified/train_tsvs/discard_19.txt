@@ -1,0 +1,16 @@
+discard_19	They	O
+discard_19	must	O
+discard_19	be	O
+discard_19	concealed	O
+discard_19	hands	O
+discard_19	though	O
+discard_19	may	O
+discard_19	be	O
+discard_19	won	O
+discard_19	on	O
+discard_19	a	O
+discard_19	discard	discard_nou
+discard_19	or	O
+discard_19	from	O
+discard_19	the	O
+discard_19	wall	O

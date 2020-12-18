@@ -1,0 +1,17 @@
+affect_31	In	O
+affect_31	states	O
+affect_31	with	O
+affect_31	inclusive	O
+affect_31	Medicaid	O
+affect_31	policies	O
+affect_31	and	O
+affect_31	small	O
+affect_31	immigrant	O
+affect_31	population	O
+affect_31	immigration	O
+affect_31	does	O
+affect_31	not	O
+affect_31	affect	affect
+affect_31	the	O
+affect_31	participation	O
+affect_31	gap	O

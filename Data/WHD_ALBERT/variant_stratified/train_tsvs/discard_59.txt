@@ -1,0 +1,17 @@
+discard_59	If	O
+discard_59	the	O
+discard_59	player	O
+discard_59	has	O
+discard_59	more	O
+discard_59	than	O
+discard_59	5	O
+discard_59	Treasure	O
+discard_59	cards	O
+discard_59	he	O
+discard_59	must	O
+discard_59	discard	discard_vrb
+discard_59	down	O
+discard_59	to	O
+discard_59	5	O
+discard_59	Treasure	O
+discard_59	cards	O

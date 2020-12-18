@@ -1,0 +1,8 @@
+ornament_25	Bonner	O
+ornament_25	is	O
+ornament_25	an	O
+ornament_25	architect	O
+ornament_25	specialising	O
+ornament_25	in	O
+ornament_25	Islamic	O
+ornament_25	ornament	ornament_nou

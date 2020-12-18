@@ -1,0 +1,8 @@
+insult_5	The	O
+insult_5	Story	O
+insult_5	Behind	O
+insult_5	Campaign	O
+insult_5	82	O
+insult_5	's	O
+insult_5	Favorite	O
+insult_5	Insult	insult_nou

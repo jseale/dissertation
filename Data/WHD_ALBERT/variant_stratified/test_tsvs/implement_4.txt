@@ -1,0 +1,14 @@
+implement_4	CDCL	O
+implement_4	SAT	O
+implement_4	solvers	O
+implement_4	implement	implement_vrb
+implement_4	DPLL	O
+implement_4	but	O
+implement_4	can	O
+implement_4	learn	O
+implement_4	new	O
+implement_4	clauses	O
+implement_4	and	O
+implement_4	backtrack	O
+implement_4	non	O
+implement_4	chronologically	O

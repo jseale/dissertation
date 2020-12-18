@@ -1,0 +1,13 @@
+initiate_26	In	O
+initiate_26	1978	O
+initiate_26	Pei	O
+initiate_26	was	O
+initiate_26	asked	O
+initiate_26	to	O
+initiate_26	initiate	initiate_vrb
+initiate_26	a	O
+initiate_26	project	O
+initiate_26	for	O
+initiate_26	his	O
+initiate_26	home	O
+initiate_26	country	O

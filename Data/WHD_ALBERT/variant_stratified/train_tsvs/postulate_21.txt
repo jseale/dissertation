@@ -1,0 +1,14 @@
+postulate_21	He	O
+postulate_21	began	O
+postulate_21	with	O
+postulate_21	studying	O
+postulate_21	geometry	O
+postulate_21	particularly	O
+postulate_21	Euclid	O
+postulate_21	's	O
+postulate_21	fifth	O
+postulate_21	postulate	postulate_nou
+postulate_21	and	O
+postulate_21	non	O
+postulate_21	Euclidean	O
+postulate_21	geometry	O

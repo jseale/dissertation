@@ -1,0 +1,7 @@
+converse_9	Scott	O
+converse_9	Converse	converse_adj-nou
+converse_9	How	O
+converse_9	the	O
+converse_9	OneNet	O
+converse_9	Started	O
+converse_9	OneNet	O

@@ -1,0 +1,15 @@
+articulate_68	Deep	O
+articulate_68	inside	O
+articulate_68	ferments	O
+articulate_68	a	O
+articulate_68	disconnect	O
+articulate_68	and	O
+articulate_68	unease	O
+articulate_68	that	O
+articulate_68	she	O
+articulate_68	is	O
+articulate_68	unable	O
+articulate_68	to	O
+articulate_68	articulate	articulate_vrb
+articulate_68	to	O
+articulate_68	anyone	O

@@ -1,0 +1,13 @@
+axes_10	The	O
+axes_10	rotation	O
+axes_10	can	O
+axes_10	be	O
+axes_10	in	O
+axes_10	a	O
+axes_10	single	O
+axes_10	axis	O
+axes_10	or	O
+axes_10	in	O
+axes_10	multiple	O
+axes_10	axes	axes_nou
+axes_10	together	O

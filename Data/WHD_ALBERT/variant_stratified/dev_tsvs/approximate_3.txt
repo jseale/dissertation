@@ -1,0 +1,10 @@
+approximate_3	The	O
+approximate_3	displayed	O
+approximate_3	parallel	O
+approximate_3	is	O
+approximate_3	approximate	approximate_adj-nou
+approximate_3	and	O
+approximate_3	for	O
+approximate_3	illustration	O
+approximate_3	purposes	O
+approximate_3	only	O

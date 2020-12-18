@@ -1,0 +1,7 @@
+precipitate_16	The	O
+precipitate_16	precipitate	precipitate_adj-nou
+precipitate_16	will	O
+precipitate_16	dissolve	O
+precipitate_16	back	O
+precipitate_16	into	O
+precipitate_16	solution	O

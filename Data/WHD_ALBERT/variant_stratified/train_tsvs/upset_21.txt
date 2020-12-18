@@ -1,0 +1,12 @@
+upset_21	Finkel	O
+upset_21	was	O
+upset_21	said	O
+upset_21	to	O
+upset_21	be	O
+upset_21	very	O
+upset_21	upset	upset_nou
+upset_21	by	O
+upset_21	this	O
+upset_21	state	O
+upset_21	of	O
+upset_21	affairs	O

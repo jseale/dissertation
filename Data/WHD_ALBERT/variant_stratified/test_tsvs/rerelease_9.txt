@@ -1,0 +1,16 @@
+rerelease_9	The	O
+rerelease_9	album	O
+rerelease_9	's	O
+rerelease_9	relative	O
+rerelease_9	success	O
+rerelease_9	drew	O
+rerelease_9	attention	O
+rerelease_9	from	O
+rerelease_9	larger	O
+rerelease_9	indie	O
+rerelease_9	labels	O
+rerelease_9	looking	O
+rerelease_9	to	O
+rerelease_9	rerelease	rerelease_vrb
+rerelease_9	the	O
+rerelease_9	album	O

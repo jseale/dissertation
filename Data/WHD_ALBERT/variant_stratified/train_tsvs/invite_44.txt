@@ -1,0 +1,17 @@
+invite_44	Invite	invite_vrb
+invite_44	public	O
+invite_44	officials	O
+invite_44	local	O
+invite_44	civic	O
+invite_44	leaders	O
+invite_44	American	O
+invite_44	Legion	O
+invite_44	dignitaries	O
+invite_44	and	O
+invite_44	members	O
+invite_44	of	O
+invite_44	the	O
+invite_44	sponsoring	O
+invite_44	Post	O
+invite_44	o	O
+invite_44	attend	O

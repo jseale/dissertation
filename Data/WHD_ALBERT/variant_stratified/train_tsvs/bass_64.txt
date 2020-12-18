@@ -1,0 +1,10 @@
+bass_64	It	O
+bass_64	has	O
+bass_64	two	O
+bass_64	Vintage	O
+bass_64	Jazz	O
+bass_64	Bass	bass
+bass_64	Single	O
+bass_64	Coil	O
+bass_64	Pickups	O
+bass_64	stock	O

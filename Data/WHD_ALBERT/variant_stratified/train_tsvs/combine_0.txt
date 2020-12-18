@@ -1,0 +1,14 @@
+combine_0	They	O
+combine_0	traveled	O
+combine_0	together	O
+combine_0	to	O
+combine_0	the	O
+combine_0	Senior	O
+combine_0	Bowl	O
+combine_0	NFL	O
+combine_0	Combine	combine_nou
+combine_0	and	O
+combine_0	their	O
+combine_0	individual	O
+combine_0	pro	O
+combine_0	days	O

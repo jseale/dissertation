@@ -1,0 +1,11 @@
+perfect_58	What	O
+perfect_58	followed	O
+perfect_58	was	O
+perfect_58	a	O
+perfect_58	perfect	perfect_adj
+perfect_58	octaves	O
+perfect_58	lower	O
+perfect_58	performance	O
+perfect_58	of	O
+perfect_58	that	O
+perfect_58	part	O

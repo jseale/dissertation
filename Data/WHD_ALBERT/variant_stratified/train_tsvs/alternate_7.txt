@@ -1,0 +1,17 @@
+alternate_7	Gerhard	O
+alternate_7	Larsson	O
+alternate_7	alludes	O
+alternate_7	to	O
+alternate_7	an	O
+alternate_7	alternate	alternate_adj-nou
+alternate_7	reading	O
+alternate_7	which	O
+alternate_7	gives	O
+alternate_7	Heber	O
+alternate_7	's	O
+alternate_7	age	O
+alternate_7	at	O
+alternate_7	death	O
+alternate_7	as	O
+alternate_7	304	O
+alternate_7	years	O

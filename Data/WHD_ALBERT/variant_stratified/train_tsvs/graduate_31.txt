@@ -1,0 +1,14 @@
+graduate_31	He	O
+graduate_31	was	O
+graduate_31	awarded	O
+graduate_31	the	O
+graduate_31	Army	O
+graduate_31	Ranger	O
+graduate_31	tab	O
+graduate_31	and	O
+graduate_31	was	O
+graduate_31	the	O
+graduate_31	class	O
+graduate_31	Distinguished	O
+graduate_31	Honor	O
+graduate_31	Graduate	graduate_adj-nou

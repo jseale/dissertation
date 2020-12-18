@@ -1,0 +1,11 @@
+axes_74	Among	O
+axes_74	the	O
+axes_74	axes	axes_nou-vrb
+axes_74	used	O
+axes_74	were	O
+axes_74	battle	O
+axes_74	axes	axes_nou-vrb
+axes_74	and	O
+axes_74	single	O
+axes_74	handed	O
+axes_74	axes	axes_nou-vrb

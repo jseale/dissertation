@@ -1,0 +1,13 @@
+pervert_60	According	O
+pervert_60	to	O
+pervert_60	the	O
+pervert_60	police	O
+pervert_60	Satish	O
+pervert_60	appeared	O
+pervert_60	to	O
+pervert_60	be	O
+pervert_60	a	O
+pervert_60	mentally	O
+pervert_60	deranged	O
+pervert_60	sex	O
+pervert_60	pervert	pervert_nou

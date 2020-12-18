@@ -1,0 +1,10 @@
+live_21	Most	O
+live_21	Haunted	O
+live_21	Live	live_adj
+live_21	visited	O
+live_21	the	O
+live_21	castle	O
+live_21	on	O
+live_21	March	O
+live_21	26	O
+live_21	2010	O

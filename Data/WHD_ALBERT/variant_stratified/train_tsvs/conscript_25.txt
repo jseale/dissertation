@@ -1,0 +1,13 @@
+conscript_25	The	O
+conscript_25	steamer	O
+conscript_25	Bellingham	O
+conscript_25	was	O
+conscript_25	the	O
+conscript_25	conscript	conscript_nou
+conscript_25	boat	O
+conscript_25	for	O
+conscript_25	Fort	O
+conscript_25	Wightman	O
+conscript_25	on	O
+conscript_25	Long	O
+conscript_25	Island	O

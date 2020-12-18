@@ -1,0 +1,12 @@
+wind_21	The	O
+wind_21	solar	O
+wind_21	wind	wind_nou
+wind_21	also	O
+wind_21	carries	O
+wind_21	with	O
+wind_21	it	O
+wind_21	the	O
+wind_21	Sun	O
+wind_21	's	O
+wind_21	magnetic	O
+wind_21	field	O

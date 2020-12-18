@@ -1,0 +1,13 @@
+frequent_48	He	O
+frequent_48	was	O
+frequent_48	a	O
+frequent_48	frequent	frequent_adj
+frequent_48	performer	O
+frequent_48	at	O
+frequent_48	the	O
+frequent_48	National	O
+frequent_48	Storytelling	O
+frequent_48	Festival	O
+frequent_48	in	O
+frequent_48	Jonesborough	O
+frequent_48	Tennessee	O

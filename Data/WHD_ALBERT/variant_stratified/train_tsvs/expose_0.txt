@@ -1,0 +1,8 @@
+expose_0	The	O
+expose_0	expose	expose_nou
+expose_0	was	O
+expose_0	based	O
+expose_0	on	O
+expose_0	three	O
+expose_0	month	O
+expose_0	investigation	O

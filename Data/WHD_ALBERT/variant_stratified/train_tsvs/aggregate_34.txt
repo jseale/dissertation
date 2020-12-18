@@ -1,0 +1,12 @@
+aggregate_34	The	O
+aggregate_34	winning	O
+aggregate_34	team	O
+aggregate_34	typically	O
+aggregate_34	takes	O
+aggregate_34	an	O
+aggregate_34	aggregate	aggregate_adj-nou
+aggregate_34	time	O
+aggregate_34	of	O
+aggregate_34	about	O
+aggregate_34	12	O
+aggregate_34	hours	O

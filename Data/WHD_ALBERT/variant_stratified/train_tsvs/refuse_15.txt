@@ -1,0 +1,14 @@
+refuse_15	In	O
+refuse_15	retaliation	O
+refuse_15	the	O
+refuse_15	strikers	O
+refuse_15	threatened	O
+refuse_15	to	O
+refuse_15	refuse	refuse_vrb
+refuse_15	to	O
+refuse_15	return	O
+refuse_15	when	O
+refuse_15	they	O
+refuse_15	are	O
+refuse_15	called	O
+refuse_15	back	O

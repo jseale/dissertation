@@ -1,0 +1,13 @@
+aggregate_59	There	O
+aggregate_59	are	O
+aggregate_59	a	O
+aggregate_59	number	O
+aggregate_59	of	O
+aggregate_59	items	O
+aggregate_59	performed	O
+aggregate_59	from	O
+aggregate_59	which	O
+aggregate_59	the	O
+aggregate_59	aggregate	aggregate_adj-nou
+aggregate_59	is	O
+aggregate_59	awarded	O

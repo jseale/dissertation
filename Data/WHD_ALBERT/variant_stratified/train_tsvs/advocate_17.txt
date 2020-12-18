@@ -1,0 +1,12 @@
+advocate_17	He	O
+advocate_17	is	O
+advocate_17	the	O
+advocate_17	son	O
+advocate_17	of	O
+advocate_17	Deepak	O
+advocate_17	Juyal	O
+advocate_17	an	O
+advocate_17	advocate	advocate_nou
+advocate_17	Alka	O
+advocate_17	Bakshi	O
+advocate_17	Juyal	O

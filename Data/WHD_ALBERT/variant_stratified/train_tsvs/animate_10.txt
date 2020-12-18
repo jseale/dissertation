@@ -1,0 +1,12 @@
+animate_10	The	O
+animate_10	demonstratives	O
+animate_10	are	O
+animate_10	used	O
+animate_10	of	O
+animate_10	non	O
+animate_10	human	O
+animate_10	animate	animate_adj-nou
+animate_10	entities	O
+animate_10	and	O
+animate_10	inanimate	O
+animate_10	objects	O

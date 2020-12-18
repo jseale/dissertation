@@ -1,0 +1,16 @@
+lead_20	The	O
+lead_20	cyclist	O
+lead_20	with	O
+lead_20	the	O
+lead_20	most	O
+lead_20	points	O
+lead_20	lead	lead_nou-vrb
+lead_20	the	O
+lead_20	classification	O
+lead_20	and	O
+lead_20	was	O
+lead_20	identified	O
+lead_20	with	O
+lead_20	a	O
+lead_20	polkadot	O
+lead_20	jersey	O

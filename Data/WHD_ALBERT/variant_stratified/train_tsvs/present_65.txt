@@ -1,0 +1,13 @@
+present_65	The	O
+present_65	diocese	O
+present_65	in	O
+present_65	present	present_adj-nou
+present_65	structure	O
+present_65	and	O
+present_65	territory	O
+present_65	was	O
+present_65	established	O
+present_65	on	O
+present_65	May	O
+present_65	27	O
+present_65	1997	O

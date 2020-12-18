@@ -1,0 +1,17 @@
+live_12	She	O
+live_12	was	O
+live_12	replaced	O
+live_12	by	O
+live_12	Nancy	O
+live_12	Skinner	O
+live_12	who	O
+live_12	was	O
+live_12	broadcast	O
+live_12	live	live_adj
+live_12	until	O
+live_12	the	O
+live_12	closure	O
+live_12	of	O
+live_12	On	O
+live_12	Second	O
+live_12	Thought	O

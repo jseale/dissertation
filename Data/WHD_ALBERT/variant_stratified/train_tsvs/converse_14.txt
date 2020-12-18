@@ -1,0 +1,7 @@
+converse_14	To	O
+converse_14	show	O
+converse_14	the	O
+converse_14	converse	converse_adj-nou
+converse_14	assume	O
+converse_14	local	O
+converse_14	compactness	O

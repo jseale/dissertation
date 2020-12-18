@@ -1,0 +1,16 @@
+compress_0	WKBN	O
+compress_0	had	O
+compress_0	to	O
+compress_0	compress	compress
+compress_0	both	O
+compress_0	signals	O
+compress_0	to	O
+compress_0	the	O
+compress_0	720p	O
+compress_0	format	O
+compress_0	in	O
+compress_0	order	O
+compress_0	to	O
+compress_0	make	O
+compress_0	it	O
+compress_0	possible	O

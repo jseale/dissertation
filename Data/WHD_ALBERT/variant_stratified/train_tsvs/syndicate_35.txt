@@ -1,0 +1,12 @@
+syndicate_35	The	O
+syndicate_35	syndicate	syndicate_nou
+syndicate_35	ordered	O
+syndicate_35	Gray	O
+syndicate_35	to	O
+syndicate_35	drop	O
+syndicate_35	the	O
+syndicate_35	sequence	O
+syndicate_35	and	O
+syndicate_35	develop	O
+syndicate_35	another	O
+syndicate_35	adventure	O

@@ -1,0 +1,16 @@
+uses_78	The	O
+uses_78	British	O
+uses_78	Parliament	O
+uses_78	uses	uses_vrb
+uses_78	committees	O
+uses_78	for	O
+uses_78	a	O
+uses_78	variety	O
+uses_78	of	O
+uses_78	purposes	O
+uses_78	e.g.	O
+uses_78	for	O
+uses_78	the	O
+uses_78	review	O
+uses_78	of	O
+uses_78	bills	O

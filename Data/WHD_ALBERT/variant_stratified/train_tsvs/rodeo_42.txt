@@ -1,0 +1,17 @@
+rodeo_42	Competitors	O
+rodeo_42	compete	O
+rodeo_42	for	O
+rodeo_42	prize	O
+rodeo_42	money	O
+rodeo_42	and	O
+rodeo_42	the	O
+rodeo_42	title	O
+rodeo_42	of	O
+rodeo_42	All	O
+rodeo_42	Around	O
+rodeo_42	Cowboy	O
+rodeo_42	and	O
+rodeo_42	Cowgirl	O
+rodeo_42	at	O
+rodeo_42	each	O
+rodeo_42	rodeo	rodeo

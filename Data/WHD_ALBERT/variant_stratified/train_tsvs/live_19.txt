@@ -1,0 +1,11 @@
+live_19	It	O
+live_19	was	O
+live_19	recorded	O
+live_19	live	live_adj
+live_19	during	O
+live_19	their	O
+live_19	K.F.D.	O
+live_19	World	O
+live_19	Tour	O
+live_19	in	O
+live_19	1997	O

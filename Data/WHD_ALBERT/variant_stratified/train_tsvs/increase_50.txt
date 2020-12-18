@@ -1,0 +1,13 @@
+increase_50	In	O
+increase_50	captivity	O
+increase_50	this	O
+increase_50	may	O
+increase_50	increase	increase_vrb
+increase_50	to	O
+increase_50	17	O
+increase_50	with	O
+increase_50	an	O
+increase_50	unconfirmed	O
+increase_50	record	O
+increase_50	of	O
+increase_50	19	O

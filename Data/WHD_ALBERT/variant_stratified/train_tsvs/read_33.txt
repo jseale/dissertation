@@ -1,0 +1,16 @@
+read_33	In	O
+read_33	2003	O
+read_33	a	O
+read_33	CD	O
+read_33	was	O
+read_33	published	O
+read_33	with	O
+read_33	Charles	O
+read_33	Dickens	O
+read_33	A	O
+read_33	Christmas	O
+read_33	Carol	O
+read_33	read	read_past
+read_33	by	O
+read_33	Wolfgang	O
+read_33	Thierse	O

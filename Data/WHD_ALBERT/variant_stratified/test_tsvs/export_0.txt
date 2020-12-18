@@ -1,0 +1,16 @@
+export_0	The	O
+export_0	invariant	O
+export_0	chain	O
+export_0	also	O
+export_0	facilitates	O
+export_0	MHC	O
+export_0	class	O
+export_0	II	O
+export_0	's	O
+export_0	export	export_nou
+export_0	from	O
+export_0	the	O
+export_0	ER	O
+export_0	in	O
+export_0	a	O
+export_0	vesicle	O

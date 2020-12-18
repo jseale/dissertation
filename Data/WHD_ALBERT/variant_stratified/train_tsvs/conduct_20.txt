@@ -1,0 +1,11 @@
+conduct_20	The	O
+conduct_20	only	O
+conduct_20	medal	O
+conduct_20	award	O
+conduct_20	he	O
+conduct_20	received	O
+conduct_20	was	O
+conduct_20	the	O
+conduct_20	Good	O
+conduct_20	Conduct	conduct_nou
+conduct_20	Medal	O

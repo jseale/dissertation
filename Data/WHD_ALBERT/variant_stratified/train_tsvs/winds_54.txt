@@ -1,0 +1,15 @@
+winds_54	The	O
+winds_54	strong	O
+winds_54	winds	winds_nou
+winds_54	accompanied	O
+winds_54	by	O
+winds_54	heavy	O
+winds_54	snow	O
+winds_54	fall	O
+winds_54	set	O
+winds_54	historic	O
+winds_54	new	O
+winds_54	snowfall	O
+winds_54	records	O
+winds_54	in	O
+winds_54	Alabama	O

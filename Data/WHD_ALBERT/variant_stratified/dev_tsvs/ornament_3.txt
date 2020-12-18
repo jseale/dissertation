@@ -1,0 +1,11 @@
+ornament_3	Furniture	O
+ornament_3	is	O
+ornament_3	about	O
+ornament_3	a	O
+ornament_3	woman	O
+ornament_3	becoming	O
+ornament_3	an	O
+ornament_3	ornament	ornament_nou
+ornament_3	to	O
+ornament_3	her	O
+ornament_3	partner	O

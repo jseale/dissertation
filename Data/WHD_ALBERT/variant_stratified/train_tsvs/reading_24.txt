@@ -1,0 +1,14 @@
+reading_24	It	O
+reading_24	is	O
+reading_24	arranged	O
+reading_24	in	O
+reading_24	the	O
+reading_24	traditional	O
+reading_24	way	O
+reading_24	beginning	O
+reading_24	top	O
+reading_24	right	O
+reading_24	and	O
+reading_24	reading	reading_en
+reading_24	columns	O
+reading_24	down	O

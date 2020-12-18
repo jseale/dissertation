@@ -1,0 +1,11 @@
+combine_69	In	O
+combine_69	total	O
+combine_69	there	O
+combine_69	are	O
+combine_69	35	O
+combine_69	abilities	O
+combine_69	to	O
+combine_69	combine	combine_vrb
+combine_69	and	O
+combine_69	stand	O
+combine_69	alone	O

@@ -1,0 +1,11 @@
+associate_36	His	O
+associate_36	brother	O
+associate_36	Bill	O
+associate_36	Miller	O
+associate_36	was	O
+associate_36	an	O
+associate_36	associate	associate_adj-nou
+associate_36	producer	O
+associate_36	on	O
+associate_36	the	O
+associate_36	film	O

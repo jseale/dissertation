@@ -1,0 +1,16 @@
+invalid_73	For	O
+invalid_73	her	O
+invalid_73	dissent	O
+invalid_73	she	O
+invalid_73	was	O
+invalid_73	briefly	O
+invalid_73	committed	O
+invalid_73	to	O
+invalid_73	a	O
+invalid_73	mental	O
+invalid_73	institution	O
+invalid_73	and	O
+invalid_73	became	O
+invalid_73	a	O
+invalid_73	permanent	O
+invalid_73	invalid	invalid_nou

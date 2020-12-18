@@ -1,0 +1,17 @@
+uses_43	The	O
+uses_43	poem	O
+uses_43	consists	O
+uses_43	of	O
+uses_43	317	O
+uses_43	verses	O
+uses_43	and	O
+uses_43	uses	uses_vrb
+uses_43	free	O
+uses_43	strophes	O
+uses_43	of	O
+uses_43	hendecasyllables	O
+uses_43	and	O
+uses_43	septuplets	O
+uses_43	as	O
+uses_43	its	O
+uses_43	meter	O

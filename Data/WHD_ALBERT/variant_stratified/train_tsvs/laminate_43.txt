@@ -1,0 +1,12 @@
+laminate_43	Because	O
+laminate_43	of	O
+laminate_43	the	O
+laminate_43	smartcard	O
+laminate_43	circuitry	O
+laminate_43	laminate	laminate_nou
+laminate_43	in	O
+laminate_43	between	O
+laminate_43	it	O
+laminate_43	is	O
+laminate_43	not	O
+laminate_43	recyclable	O

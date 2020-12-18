@@ -1,0 +1,16 @@
+aged_66	In	O
+aged_66	1823	O
+aged_66	now	O
+aged_66	aged	aged
+aged_66	30	O
+aged_66	he	O
+aged_66	additionally	O
+aged_66	gained	O
+aged_66	the	O
+aged_66	appointment	O
+aged_66	of	O
+aged_66	astronomer	O
+aged_66	at	O
+aged_66	the	O
+aged_66	Armagh	O
+aged_66	observatory	O

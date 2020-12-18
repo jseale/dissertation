@@ -1,0 +1,16 @@
+supplement_15	The	O
+supplement_15	Times	O
+supplement_15	Literary	O
+supplement_15	Supplement	supplement_nou
+supplement_15	published	O
+supplement_15	a	O
+supplement_15	mostly	O
+supplement_15	positive	O
+supplement_15	review	O
+supplement_15	by	O
+supplement_15	author	O
+supplement_15	and	O
+supplement_15	editor	O
+supplement_15	Richard	O
+supplement_15	Davenport	O
+supplement_15	Hines	O

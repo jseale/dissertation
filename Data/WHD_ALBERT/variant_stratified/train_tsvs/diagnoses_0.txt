@@ -1,0 +1,13 @@
+diagnoses_0	Obesity	O
+diagnoses_0	and	O
+diagnoses_0	weight	O
+diagnoses_0	gain	O
+diagnoses_0	as	O
+diagnoses_0	an	O
+diagnoses_0	adult	O
+diagnoses_0	are	O
+diagnoses_0	associated	O
+diagnoses_0	with	O
+diagnoses_0	breast	O
+diagnoses_0	cancer	O
+diagnoses_0	diagnoses	diagnoses_nou

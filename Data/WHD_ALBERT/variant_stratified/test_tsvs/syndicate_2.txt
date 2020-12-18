@@ -1,0 +1,16 @@
+syndicate_2	Another	O
+syndicate_2	syndicate	syndicate_nou
+syndicate_2	he	O
+syndicate_2	headed	O
+syndicate_2	purchased	O
+syndicate_2	the	O
+syndicate_2	Indians	O
+syndicate_2	in	O
+syndicate_2	1972	O
+syndicate_2	for	O
+syndicate_2	$	O
+syndicate_2	10	O
+syndicate_2	million	O
+syndicate_2	from	O
+syndicate_2	Vernon	O
+syndicate_2	Stouffer	O

@@ -1,0 +1,12 @@
+refuse_70	You	O
+refuse_70	refuse	refuse_vrb
+refuse_70	to	O
+refuse_70	betray	O
+refuse_70	Chu	O
+refuse_70	because	O
+refuse_70	you	O
+refuse_70	think	O
+refuse_70	that	O
+refuse_70	Han	O
+refuse_70	is	O
+refuse_70	weak	O

@@ -1,0 +1,15 @@
+use_15	She	O
+use_15	remained	O
+use_15	at	O
+use_15	Nikolayev	O
+use_15	throughout	O
+use_15	the	O
+use_15	Russian	O
+use_15	Civil	O
+use_15	War	O
+use_15	of	O
+use_15	no	O
+use_15	use	use_nou
+use_15	to	O
+use_15	either	O
+use_15	side	O

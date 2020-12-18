@@ -1,0 +1,15 @@
+convert_69	The	O
+convert_69	points	O
+convert_69	earned	O
+convert_69	in	O
+convert_69	qualifying	O
+convert_69	runs	O
+convert_69	convert	convert_vrb
+convert_69	to	O
+convert_69	additional	O
+convert_69	seconds	O
+convert_69	on	O
+convert_69	the	O
+convert_69	solo	O
+convert_69	run	O
+convert_69	timer	O

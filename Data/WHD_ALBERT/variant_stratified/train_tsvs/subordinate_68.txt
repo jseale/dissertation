@@ -1,0 +1,17 @@
+subordinate_68	In	O
+subordinate_68	904	O
+subordinate_68	he	O
+subordinate_68	executed	O
+subordinate_68	Emperor	O
+subordinate_68	Zhaozong	O
+subordinate_68	of	O
+subordinate_68	Tang	O
+subordinate_68	and	O
+subordinate_68	made	O
+subordinate_68	his	O
+subordinate_68	13-year	O
+subordinate_68	old	O
+subordinate_68	son	O
+subordinate_68	a	O
+subordinate_68	subordinate	subordinate_adj-nou
+subordinate_68	ruler	O

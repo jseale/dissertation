@@ -1,0 +1,16 @@
+rebel_77	It	O
+rebel_77	all	O
+rebel_77	depends	O
+rebel_77	on	O
+rebel_77	if	O
+rebel_77	he	O
+rebel_77	can	O
+rebel_77	manage	O
+rebel_77	consensus	O
+rebel_77	and	O
+rebel_77	if	O
+rebel_77	the	O
+rebel_77	others	O
+rebel_77	agree	O
+rebel_77	or	O
+rebel_77	rebel	rebel_vrb

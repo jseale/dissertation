@@ -1,0 +1,14 @@
+suspect_27	FBI	O
+suspect_27	agents	O
+suspect_27	contacted	O
+suspect_27	him	O
+suspect_27	and	O
+suspect_27	with	O
+suspect_27	his	O
+suspect_27	photographs	O
+suspect_27	were	O
+suspect_27	able	O
+suspect_27	to	O
+suspect_27	identify	O
+suspect_27	a	O
+suspect_27	suspect	suspect_adj-nou

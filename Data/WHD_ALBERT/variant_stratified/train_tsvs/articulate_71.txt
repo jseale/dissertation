@@ -1,0 +1,13 @@
+articulate_71	Lundy	O
+articulate_71	's	O
+articulate_71	skillful	O
+articulate_71	use	O
+articulate_71	of	O
+articulate_71	materials	O
+articulate_71	and	O
+articulate_71	voids	O
+articulate_71	between	O
+articulate_71	blocks	O
+articulate_71	articulate	articulate_vrb
+articulate_71	the	O
+articulate_71	units	O

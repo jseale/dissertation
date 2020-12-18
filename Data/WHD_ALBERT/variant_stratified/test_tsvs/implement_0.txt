@@ -1,0 +1,14 @@
+implement_0	Knives	O
+implement_0	are	O
+implement_0	also	O
+implement_0	used	O
+implement_0	as	O
+implement_0	a	O
+implement_0	traditional	O
+implement_0	or	O
+implement_0	religious	O
+implement_0	implement	implement_nou
+implement_0	such	O
+implement_0	as	O
+implement_0	the	O
+implement_0	kirpan	O

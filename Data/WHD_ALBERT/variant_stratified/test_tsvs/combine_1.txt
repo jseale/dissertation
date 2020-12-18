@@ -1,0 +1,11 @@
+combine_1	Integrated	O
+combine_1	lamps	O
+combine_1	combine	combine_vrb
+combine_1	the	O
+combine_1	tube	O
+combine_1	and	O
+combine_1	ballast	O
+combine_1	in	O
+combine_1	a	O
+combine_1	single	O
+combine_1	unit	O

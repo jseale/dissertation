@@ -1,0 +1,16 @@
+document_78	However	O
+document_78	that	O
+document_78	means	O
+document_78	that	O
+document_78	it	O
+document_78	's	O
+document_78	pretty	O
+document_78	impossible	O
+document_78	to	O
+document_78	document	document_vrb
+document_78	who	O
+document_78	played	O
+document_78	what	O
+document_78	on	O
+document_78	what	O
+document_78	track	O

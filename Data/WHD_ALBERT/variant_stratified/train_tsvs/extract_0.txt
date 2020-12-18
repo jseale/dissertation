@@ -1,0 +1,9 @@
+extract_0	Only	O
+extract_0	one	O
+extract_0	brief	O
+extract_0	extract	extract_nou
+extract_0	from	O
+extract_0	this	O
+extract_0	work	O
+extract_0	is	O
+extract_0	known	O

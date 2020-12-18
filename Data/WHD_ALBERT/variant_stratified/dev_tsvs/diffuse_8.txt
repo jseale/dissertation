@@ -1,0 +1,14 @@
+diffuse_8	Boron	O
+diffuse_8	phosphorus	O
+diffuse_8	silicon	O
+diffuse_8	and	O
+diffuse_8	carbon	O
+diffuse_8	lower	O
+diffuse_8	melting	O
+diffuse_8	point	O
+diffuse_8	and	O
+diffuse_8	rapidly	O
+diffuse_8	diffuse	diffuse_vrb
+diffuse_8	to	O
+diffuse_8	base	O
+diffuse_8	metals	O

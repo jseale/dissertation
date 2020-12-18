@@ -1,0 +1,16 @@
+aggregate_11	The	O
+aggregate_11	12	O
+aggregate_11	islets	O
+aggregate_11	have	O
+aggregate_11	an	O
+aggregate_11	aggregate	aggregate_adj-nou
+aggregate_11	land	O
+aggregate_11	area	O
+aggregate_11	of	O
+aggregate_11	only	O
+aggregate_11	4.5	O
+aggregate_11	square	O
+aggregate_11	kilometres	O
+aggregate_11	1.7	O
+aggregate_11	square	O
+aggregate_11	miles	O

@@ -1,0 +1,13 @@
+postulate_0	Technically	O
+postulate_0	Hammond	O
+postulate_0	's	O
+postulate_0	postulate	postulate_nou
+postulate_0	only	O
+postulate_0	describes	O
+postulate_0	the	O
+postulate_0	geometric	O
+postulate_0	structure	O
+postulate_0	of	O
+postulate_0	a	O
+postulate_0	chemical	O
+postulate_0	reaction	O

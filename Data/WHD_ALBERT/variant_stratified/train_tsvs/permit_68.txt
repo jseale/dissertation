@@ -1,0 +1,16 @@
+permit_68	Britain	O
+permit_68	would	O
+permit_68	be	O
+permit_68	agreeable	O
+permit_68	to	O
+permit_68	permit	permit_vrb
+permit_68	the	O
+permit_68	participation	O
+permit_68	of	O
+permit_68	Argentine	O
+permit_68	meat	O
+permit_68	packers	O
+permit_68	of	O
+permit_68	up	O
+permit_68	to	O
+permit_68	15	O

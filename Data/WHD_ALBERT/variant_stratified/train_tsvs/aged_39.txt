@@ -1,0 +1,16 @@
+aged_39	Ian	O
+aged_39	Bedford	O
+aged_39	aged	aged
+aged_39	seventeen	O
+aged_39	made	O
+aged_39	his	O
+aged_39	debut	O
+aged_39	and	O
+aged_39	took	O
+aged_39	twelve	O
+aged_39	wickets	O
+aged_39	in	O
+aged_39	his	O
+aged_39	first	O
+aged_39	two	O
+aged_39	matches	O

@@ -1,0 +1,17 @@
+duplicate_74	These	O
+duplicate_74	materials	O
+duplicate_74	could	O
+duplicate_74	also	O
+duplicate_74	be	O
+duplicate_74	accessed	O
+duplicate_74	on	O
+duplicate_74	the	O
+duplicate_74	Internet	O
+duplicate_74	allowing	O
+duplicate_74	others	O
+duplicate_74	to	O
+duplicate_74	view	O
+duplicate_74	and	O
+duplicate_74	duplicate	duplicate_vrb
+duplicate_74	these	O
+duplicate_74	images	O

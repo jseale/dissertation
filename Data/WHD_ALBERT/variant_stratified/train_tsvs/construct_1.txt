@@ -1,0 +1,13 @@
+construct_1	Identities	O
+construct_1	are	O
+construct_1	a	O
+construct_1	social	O
+construct_1	construct	construct_nou
+construct_1	and	O
+construct_1	once	O
+construct_1	cemented	O
+construct_1	are	O
+construct_1	almost	O
+construct_1	impossible	O
+construct_1	to	O
+construct_1	alter	O

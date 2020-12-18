@@ -1,0 +1,15 @@
+associate_71	Families	O
+associate_71	may	O
+associate_71	associate	associate_vrb
+associate_71	and	O
+associate_71	bond	O
+associate_71	with	O
+associate_71	each	O
+associate_71	other	O
+associate_71	forming	O
+associate_71	what	O
+associate_71	are	O
+associate_71	known	O
+associate_71	as	O
+associate_71	bond	O
+associate_71	groups	O

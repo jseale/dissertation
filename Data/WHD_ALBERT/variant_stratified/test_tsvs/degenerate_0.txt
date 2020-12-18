@@ -1,0 +1,8 @@
+degenerate_0	For	O
+degenerate_0	nonlinear	O
+degenerate_0	problems	O
+degenerate_0	nonlinear	O
+degenerate_0	diffusion	O
+degenerate_0	degenerate	degenerate_adj-nou
+degenerate_0	parabolic	O
+degenerate_0	problems	O

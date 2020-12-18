@@ -1,0 +1,17 @@
+initiate_7	She	O
+initiate_7	then	O
+initiate_7	served	O
+initiate_7	during	O
+initiate_7	the	O
+initiate_7	American	O
+initiate_7	Revolutionary	O
+initiate_7	War	O
+initiate_7	where	O
+initiate_7	she	O
+initiate_7	helped	O
+initiate_7	initiate	initiate_vrb
+initiate_7	the	O
+initiate_7	Battle	O
+initiate_7	of	O
+initiate_7	Bunker	O
+initiate_7	Hill	O

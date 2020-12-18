@@ -1,0 +1,10 @@
+consummate_21	Nix	O
+consummate_21	is	O
+consummate_21	recognized	O
+consummate_21	as	O
+consummate_21	a	O
+consummate_21	consummate	consummate_adj
+consummate_21	storyteller	O
+consummate_21	of	O
+consummate_21	early	O
+consummate_21	Adventism	O

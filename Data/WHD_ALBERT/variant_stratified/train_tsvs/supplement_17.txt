@@ -1,0 +1,13 @@
+supplement_17	In	O
+supplement_17	May	O
+supplement_17	1998	O
+supplement_17	Gobar	O
+supplement_17	Times	O
+supplement_17	was	O
+supplement_17	first	O
+supplement_17	published	O
+supplement_17	as	O
+supplement_17	a	O
+supplement_17	supplement	supplement_nou
+supplement_17	to	O
+supplement_17	DTE	O

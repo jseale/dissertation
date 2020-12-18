@@ -1,0 +1,16 @@
+discard_8	Most	O
+discard_8	firewalls	O
+discard_8	should	O
+discard_8	intercept	O
+discard_8	and	O
+discard_8	discard	discard_vrb
+discard_8	the	O
+discard_8	poison	O
+discard_8	packet	O
+discard_8	thus	O
+discard_8	protecting	O
+discard_8	the	O
+discard_8	host	O
+discard_8	from	O
+discard_8	this	O
+discard_8	attack	O

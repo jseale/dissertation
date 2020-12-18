@@ -1,0 +1,8 @@
+axes_44	The	O
+axes_44	forests	O
+axes_44	were	O
+axes_44	slowly	O
+axes_44	cut	O
+axes_44	down	O
+axes_44	with	O
+axes_44	axes	axes_nou-vrb

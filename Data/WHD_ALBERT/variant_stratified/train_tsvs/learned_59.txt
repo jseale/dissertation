@@ -1,0 +1,7 @@
+learned_59	There	O
+learned_59	he	O
+learned_59	learned	learned_vrb
+learned_59	to	O
+learned_59	play	O
+learned_59	the	O
+learned_59	guitar	O

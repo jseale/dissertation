@@ -1,0 +1,11 @@
+misuse_6	Penalties	O
+misuse_6	for	O
+misuse_6	misuse	misuse_nou
+misuse_6	of	O
+misuse_6	this	O
+misuse_6	facility	O
+misuse_6	include	O
+misuse_6	a	O
+misuse_6	fine	O
+misuse_6	of	O
+misuse_6	Rs	O

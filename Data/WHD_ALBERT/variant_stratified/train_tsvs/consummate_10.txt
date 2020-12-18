@@ -1,0 +1,15 @@
+consummate_10	His	O
+consummate_10	1991	O
+consummate_10	novel	O
+consummate_10	The	O
+consummate_10	Member	O
+consummate_10	Guest	O
+consummate_10	has	O
+consummate_10	been	O
+consummate_10	described	O
+consummate_10	as	O
+consummate_10	the	O
+consummate_10	consummate	consummate_adj
+consummate_10	golf	O
+consummate_10	novel	O
+consummate_10	Falco	O

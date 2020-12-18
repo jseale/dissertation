@@ -1,0 +1,14 @@
+conscript_39	Following	O
+conscript_39	a	O
+conscript_39	change	O
+conscript_39	in	O
+conscript_39	government	O
+conscript_39	in	O
+conscript_39	1954	O
+conscript_39	conscript	conscript_nou
+conscript_39	service	O
+conscript_39	was	O
+conscript_39	reduced	O
+conscript_39	to	O
+conscript_39	18	O
+conscript_39	months	O

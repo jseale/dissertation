@@ -1,0 +1,10 @@
+lives_35	The	O
+lives_35	family	O
+lives_35	lives	lives_vrb
+lives_35	in	O
+lives_35	the	O
+lives_35	Jerusalem	O
+lives_35	neighborhood	O
+lives_35	of	O
+lives_35	Beit	O
+lives_35	HaKerem	O

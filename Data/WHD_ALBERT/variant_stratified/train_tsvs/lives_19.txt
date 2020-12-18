@@ -1,0 +1,17 @@
+lives_19	Ma	O
+lives_19	Chu	O
+lives_19	Ka	O
+lives_19	discusses	O
+lives_19	about	O
+lives_19	happens	O
+lives_19	when	O
+lives_19	a	O
+lives_19	third	O
+lives_19	person	O
+lives_19	walks	O
+lives_19	into	O
+lives_19	the	O
+lives_19	lives	lives_nou
+lives_19	of	O
+lives_19	two	O
+lives_19	people	O

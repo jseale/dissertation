@@ -1,0 +1,15 @@
+affiliate_3	WWJX	O
+affiliate_3	is	O
+affiliate_3	Jackson	O
+affiliate_3	Mississippi	O
+affiliate_3	's	O
+affiliate_3	The	O
+affiliate_3	Walk	O
+affiliate_3	TV	O
+affiliate_3	affiliate	affiliate_nou
+affiliate_3	broadcasting	O
+affiliate_3	digitally	O
+affiliate_3	on	O
+affiliate_3	UHF	O
+affiliate_3	channel	O
+affiliate_3	23	O

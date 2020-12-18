@@ -1,0 +1,7 @@
+read_3	Seismograms	O
+read_3	are	O
+read_3	read	read_past
+read_3	from	O
+read_3	left	O
+read_3	to	O
+read_3	right	O

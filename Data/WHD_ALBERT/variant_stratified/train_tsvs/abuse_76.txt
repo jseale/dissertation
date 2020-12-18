@@ -1,0 +1,15 @@
+abuse_76	Ellen	O
+abuse_76	occasionally	O
+abuse_76	guesses	O
+abuse_76	correctly	O
+abuse_76	causing	O
+abuse_76	Kate	O
+abuse_76	to	O
+abuse_76	become	O
+abuse_76	angry	O
+abuse_76	and	O
+abuse_76	verbally	O
+abuse_76	or	O
+abuse_76	physically	O
+abuse_76	abuse	abuse_vrb
+abuse_76	her	O

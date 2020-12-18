@@ -1,0 +1,14 @@
+lives_25	His	O
+lives_25	gallant	O
+lives_25	actions	O
+lives_25	saved	O
+lives_25	many	O
+lives_25	lives	lives_nou
+lives_25	and	O
+lives_25	inspired	O
+lives_25	those	O
+lives_25	around	O
+lives_25	him	O
+lives_25	by	O
+lives_25	his	O
+lives_25	example	O

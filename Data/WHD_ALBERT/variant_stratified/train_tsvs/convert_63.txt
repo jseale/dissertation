@@ -1,0 +1,17 @@
+convert_63	It	O
+convert_63	can	O
+convert_63	convert	convert_vrb
+convert_63	into	O
+convert_63	a	O
+convert_63	muzzle	O
+convert_63	a	O
+convert_63	plastic	O
+convert_63	blue	O
+convert_63	bucket	O
+convert_63	filled	O
+convert_63	with	O
+convert_63	water	O
+convert_63	and	O
+convert_63	a	O
+convert_63	magic	O
+convert_63	hand	O

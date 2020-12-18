@@ -1,0 +1,17 @@
+transplant_8	He	O
+transplant_8	also	O
+transplant_8	implanted	O
+transplant_8	a	O
+transplant_8	plastic	O
+transplant_8	esophagus	O
+transplant_8	into	O
+transplant_8	a	O
+transplant_8	person	O
+transplant_8	and	O
+transplant_8	performed	O
+transplant_8	a	O
+transplant_8	heart	O
+transplant_8	transplant	transplant_nou
+transplant_8	for	O
+transplant_8	a	O
+transplant_8	dog	O

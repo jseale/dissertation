@@ -1,0 +1,15 @@
+duplicate_36	The	O
+duplicate_36	Reconstruction	O
+duplicate_36	government	O
+duplicate_36	having	O
+duplicate_36	failed	O
+duplicate_36	to	O
+duplicate_36	locate	O
+duplicate_36	the	O
+duplicate_36	official	O
+duplicate_36	seal	O
+duplicate_36	had	O
+duplicate_36	a	O
+duplicate_36	duplicate	duplicate_adj-nou
+duplicate_36	seal	O
+duplicate_36	fabricated	O

@@ -1,0 +1,15 @@
+aged_16	He	O
+aged_16	died	O
+aged_16	aged	aged
+aged_16	76	O
+aged_16	and	O
+aged_16	was	O
+aged_16	buried	O
+aged_16	in	O
+aged_16	Middle	O
+aged_16	Claydon	O
+aged_16	in	O
+aged_16	Buckinghamshire	O
+aged_16	a	O
+aged_16	week	O
+aged_16	later	O

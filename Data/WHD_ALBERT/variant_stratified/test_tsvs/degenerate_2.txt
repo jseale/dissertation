@@ -1,0 +1,17 @@
+degenerate_2	These	O
+degenerate_2	are	O
+degenerate_2	called	O
+degenerate_2	degenerate	degenerate_adj-nou
+degenerate_2	conics	O
+degenerate_2	and	O
+degenerate_2	some	O
+degenerate_2	authors	O
+degenerate_2	do	O
+degenerate_2	not	O
+degenerate_2	consider	O
+degenerate_2	them	O
+degenerate_2	to	O
+degenerate_2	be	O
+degenerate_2	conics	O
+degenerate_2	at	O
+degenerate_2	all	O

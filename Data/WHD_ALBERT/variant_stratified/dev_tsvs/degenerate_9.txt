@@ -1,0 +1,17 @@
+degenerate_9	Rhabdomyolysis	O
+degenerate_9	causes	O
+degenerate_9	the	O
+degenerate_9	myosin	O
+degenerate_9	and	O
+degenerate_9	actin	O
+degenerate_9	to	O
+degenerate_9	degenerate	degenerate_vrb
+degenerate_9	into	O
+degenerate_9	smaller	O
+degenerate_9	proteins	O
+degenerate_9	that	O
+degenerate_9	travel	O
+degenerate_9	into	O
+degenerate_9	the	O
+degenerate_9	circulatory	O
+degenerate_9	system	O

@@ -1,0 +1,11 @@
+resume_68	The	O
+resume_68	two	O
+resume_68	resume	resume_vrb
+resume_68	their	O
+resume_68	lives	O
+resume_68	by	O
+resume_68	opening	O
+resume_68	an	O
+resume_68	ice	O
+resume_68	cream	O
+resume_68	shop	O

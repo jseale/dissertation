@@ -1,0 +1,12 @@
+diffuse_32	It	O
+diffuse_32	also	O
+diffuse_32	allows	O
+diffuse_32	for	O
+diffuse_32	very	O
+diffuse_32	narrow	O
+diffuse_32	depth	O
+diffuse_32	of	O
+diffuse_32	field	O
+diffuse_32	and	O
+diffuse_32	diffuse	diffuse_adj
+diffuse_32	bokeh	O

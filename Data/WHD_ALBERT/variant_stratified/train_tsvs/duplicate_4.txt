@@ -1,0 +1,12 @@
+duplicate_4	An	O
+duplicate_4	android	O
+duplicate_4	duplicate	duplicate_adj-nou
+duplicate_4	named	O
+duplicate_4	Beta	O
+duplicate_4	takes	O
+duplicate_4	Alex	O
+duplicate_4	's	O
+duplicate_4	place	O
+duplicate_4	during	O
+duplicate_4	his	O
+duplicate_4	absence	O

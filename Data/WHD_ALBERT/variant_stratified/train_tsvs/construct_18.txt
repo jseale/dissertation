@@ -1,0 +1,17 @@
+construct_18	The	O
+construct_18	first	O
+construct_18	PPNB	O
+construct_18	period	O
+construct_18	involved	O
+construct_18	construction	O
+construct_18	of	O
+construct_18	massive	O
+construct_18	earth	O
+construct_18	architecture	O
+construct_18	layering	O
+construct_18	soil	O
+construct_18	with	O
+construct_18	reeds	O
+construct_18	to	O
+construct_18	construct	construct_vrb
+construct_18	walls	O

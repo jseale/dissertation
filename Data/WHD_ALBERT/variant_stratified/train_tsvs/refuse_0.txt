@@ -1,0 +1,12 @@
+refuse_0	Dumping	O
+refuse_0	refuse	refuse_nou
+refuse_0	and	O
+refuse_0	household	O
+refuse_0	waste	O
+refuse_0	inappropriately	O
+refuse_0	and/or	O
+refuse_0	illegally	O
+refuse_0	incurs	O
+refuse_0	a	O
+refuse_0	heavy	O
+refuse_0	fine	O

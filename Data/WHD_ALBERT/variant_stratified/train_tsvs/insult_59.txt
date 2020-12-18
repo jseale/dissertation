@@ -1,0 +1,15 @@
+insult_59	However	O
+insult_59	he	O
+insult_59	accepted	O
+insult_59	the	O
+insult_59	gift	O
+insult_59	to	O
+insult_59	conserve	O
+insult_59	funds	O
+insult_59	and	O
+insult_59	to	O
+insult_59	not	O
+insult_59	insult	insult_vrb
+insult_59	the	O
+insult_59	Sister	O
+insult_59	Concetta	O

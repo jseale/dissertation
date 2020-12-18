@@ -1,0 +1,11 @@
+conflict_44	The	O
+conflict_44	end	O
+conflict_44	of	O
+conflict_44	the	O
+conflict_44	conflict	conflict_nou
+conflict_44	saw	O
+conflict_44	Italy	O
+conflict_44	devastated	O
+conflict_44	and	O
+conflict_44	considerably	O
+conflict_44	depopulated	O

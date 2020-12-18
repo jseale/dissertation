@@ -1,0 +1,13 @@
+minute_34	The	O
+minute_34	feature	O
+minute_34	was	O
+minute_34	extended	O
+minute_34	into	O
+minute_34	a	O
+minute_34	weekly	O
+minute_34	30-minute	O
+minute_34	magazine	O
+minute_34	show	O
+minute_34	in	O
+minute_34	January	O
+minute_34	2016	O

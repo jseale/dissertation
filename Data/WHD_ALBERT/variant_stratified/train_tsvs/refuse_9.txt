@@ -1,0 +1,16 @@
+refuse_9	Some	O
+refuse_9	subdivisions	O
+refuse_9	may	O
+refuse_9	conduct	O
+refuse_9	autonomous	O
+refuse_9	security	O
+refuse_9	or	O
+refuse_9	provide	O
+refuse_9	basic	O
+refuse_9	services	O
+refuse_9	such	O
+refuse_9	as	O
+refuse_9	water	O
+refuse_9	and	O
+refuse_9	refuse	refuse_nou
+refuse_9	management	O

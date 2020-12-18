@@ -1,0 +1,12 @@
+diagnoses_35	Presumptive	O
+diagnoses_35	diagnoses	diagnoses_nou
+diagnoses_35	may	O
+diagnoses_35	be	O
+diagnoses_35	made	O
+diagnoses_35	based	O
+diagnoses_35	on	O
+diagnoses_35	the	O
+diagnoses_35	observation	O
+diagnoses_35	of	O
+diagnoses_35	clinical	O
+diagnoses_35	signs	O

@@ -1,0 +1,11 @@
+invert_38	She	O
+invert_38	found	O
+invert_38	that	O
+invert_38	actors	O
+invert_38	typically	O
+invert_38	add	O
+invert_38	drop	O
+invert_38	or	O
+invert_38	invert	invert_vrb
+invert_38	single	O
+invert_38	words	O

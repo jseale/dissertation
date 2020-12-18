@@ -1,0 +1,17 @@
+increment_19	They	O
+increment_19	undocked	O
+increment_19	from	O
+increment_19	the	O
+increment_19	station	O
+increment_19	on	O
+increment_19	20	O
+increment_19	August	O
+increment_19	2001	O
+increment_19	marking	O
+increment_19	the	O
+increment_19	end	O
+increment_19	of	O
+increment_19	the	O
+increment_19	Expedition	O
+increment_19	2	O
+increment_19	increment	increment_nou

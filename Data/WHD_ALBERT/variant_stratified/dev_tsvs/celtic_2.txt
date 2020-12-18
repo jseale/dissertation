@@ -1,0 +1,16 @@
+celtic_2	The	O
+celtic_2	presence	O
+celtic_2	of	O
+celtic_2	a	O
+celtic_2	Land	O
+celtic_2	of	O
+celtic_2	Faerie	O
+celtic_2	or	O
+celtic_2	an	O
+celtic_2	Otherworld	O
+celtic_2	betrays	O
+celtic_2	the	O
+celtic_2	story	O
+celtic_2	's	O
+celtic_2	Celtic	celtic
+celtic_2	roots	O

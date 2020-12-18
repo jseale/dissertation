@@ -1,0 +1,11 @@
+defect_33	An	O
+defect_33	excess	O
+defect_33	of	O
+defect_33	fusel	O
+defect_33	oils	O
+defect_33	in	O
+defect_33	whisky	O
+defect_33	is	O
+defect_33	considered	O
+defect_33	a	O
+defect_33	defect	defect_nou

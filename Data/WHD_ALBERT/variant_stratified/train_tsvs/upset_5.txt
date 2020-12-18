@@ -1,0 +1,17 @@
+upset_5	Resignedly	O
+upset_5	the	O
+upset_5	upset	upset_nou
+upset_5	Baron	O
+upset_5	accepts	O
+upset_5	the	O
+upset_5	romance	O
+upset_5	between	O
+upset_5	his	O
+upset_5	wife	O
+upset_5	and	O
+upset_5	Camille	O
+upset_5	and	O
+upset_5	the	O
+upset_5	three	O
+upset_5	leave	O
+upset_5	together	O

@@ -1,0 +1,12 @@
+affiliate_8	Official	O
+affiliate_8	Webpage	O
+affiliate_8	of	O
+affiliate_8	the	O
+affiliate_8	Japanese	O
+affiliate_8	affiliate	affiliate_nou
+affiliate_8	of	O
+affiliate_8	the	O
+affiliate_8	Association	O
+affiliate_8	of	O
+affiliate_8	Baha'i	O
+affiliate_8	Studies	O

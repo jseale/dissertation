@@ -1,0 +1,16 @@
+axes_6	North	O
+axes_6	Menan	O
+axes_6	Butte	O
+axes_6	is	O
+axes_6	slightly	O
+axes_6	larger	O
+axes_6	and	O
+axes_6	elliptical	O
+axes_6	with	O
+axes_6	axes	axes_nou
+axes_6	3.5	O
+axes_6	and	O
+axes_6	2.5	O
+axes_6	km	O
+axes_6	in	O
+axes_6	length	O

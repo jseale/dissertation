@@ -1,0 +1,12 @@
+winds_5	Another	O
+winds_5	death	O
+winds_5	was	O
+winds_5	reported	O
+winds_5	near	O
+winds_5	Carthage	O
+winds_5	Missouri	O
+winds_5	due	O
+winds_5	to	O
+winds_5	straight	O
+winds_5	line	O
+winds_5	winds	winds_nou

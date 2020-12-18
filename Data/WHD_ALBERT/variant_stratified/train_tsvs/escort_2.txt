@@ -1,0 +1,16 @@
+escort_2	On	O
+escort_2	16	O
+escort_2	December	O
+escort_2	Willis	O
+escort_2	moored	O
+escort_2	at	O
+escort_2	the	O
+escort_2	convoy	O
+escort_2	escort	escort_nou
+escort_2	piers	O
+escort_2	Norfolk	O
+escort_2	where	O
+escort_2	she	O
+escort_2	remained	O
+escort_2	through	O
+escort_2	Christmas	O

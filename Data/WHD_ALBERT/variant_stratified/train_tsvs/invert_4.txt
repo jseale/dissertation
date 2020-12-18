@@ -1,0 +1,13 @@
+invert_4	The	O
+invert_4	Park	O
+invert_4	opened	O
+invert_4	the	O
+invert_4	ride	O
+invert_4	in	O
+invert_4	1993	O
+invert_4	as	O
+invert_4	the	O
+invert_4	first	O
+invert_4	custom	O
+invert_4	B&M	O
+invert_4	Invert	invert_adj-nou

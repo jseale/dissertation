@@ -1,0 +1,8 @@
+read_19	This	O
+read_19	eulogy	O
+read_19	was	O
+read_19	read	read_past
+read_19	to	O
+read_19	the	O
+read_19	Société	O
+read_19	philotechnique	O

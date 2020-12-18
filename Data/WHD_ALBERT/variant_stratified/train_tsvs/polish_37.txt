@@ -1,0 +1,17 @@
+polish_37	They	O
+polish_37	also	O
+polish_37	alleged	O
+polish_37	Kosinski	O
+polish_37	wrote	O
+polish_37	The	O
+polish_37	Painted	O
+polish_37	Bird	O
+polish_37	in	O
+polish_37	Polish	polish_geo
+polish_37	and	O
+polish_37	had	O
+polish_37	it	O
+polish_37	secretly	O
+polish_37	translated	O
+polish_37	into	O
+polish_37	English	O

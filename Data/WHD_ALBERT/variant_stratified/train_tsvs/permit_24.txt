@@ -1,0 +1,12 @@
+permit_24	Seasonal	O
+permit_24	small	O
+permit_24	game	O
+permit_24	and	O
+permit_24	deer	O
+permit_24	hunting	O
+permit_24	is	O
+permit_24	allowed	O
+permit_24	with	O
+permit_24	the	O
+permit_24	proper	O
+permit_24	permit	permit_nou

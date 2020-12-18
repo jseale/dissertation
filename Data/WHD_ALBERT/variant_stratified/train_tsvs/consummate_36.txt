@@ -1,0 +1,14 @@
+consummate_36	She	O
+consummate_36	received	O
+consummate_36	the	O
+consummate_36	2009	O
+consummate_36	Gold	O
+consummate_36	Medal	O
+consummate_36	for	O
+consummate_36	Consummate	consummate_adj
+consummate_36	Craftsmanship	O
+consummate_36	from	O
+consummate_36	the	O
+consummate_36	American	O
+consummate_36	Craft	O
+consummate_36	Council	O

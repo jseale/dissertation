@@ -1,0 +1,11 @@
+learned_6	He	O
+learned_6	learned	learned_vrb
+learned_6	to	O
+learned_6	play	O
+learned_6	the	O
+learned_6	accordion	O
+learned_6	and	O
+learned_6	piano	O
+learned_6	as	O
+learned_6	a	O
+learned_6	child	O

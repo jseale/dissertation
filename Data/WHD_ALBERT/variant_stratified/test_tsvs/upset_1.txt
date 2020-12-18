@@ -1,0 +1,14 @@
+upset_1	Galway	O
+upset_1	produced	O
+upset_1	a	O
+upset_1	massive	O
+upset_1	upset	upset_nou
+upset_1	beating	O
+upset_1	Galway	O
+upset_1	lifted	O
+upset_1	their	O
+upset_1	first	O
+upset_1	Bob	O
+upset_1	O'Keefe	O
+upset_1	Cup	O
+upset_1	ever	O

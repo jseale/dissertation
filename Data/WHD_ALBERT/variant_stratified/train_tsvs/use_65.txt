@@ -1,0 +1,13 @@
+use_65	Boletini	O
+use_65	intended	O
+use_65	to	O
+use_65	use	use_vrb
+use_65	Montenegro	O
+use_65	as	O
+use_65	a	O
+use_65	base	O
+use_65	for	O
+use_65	incursions	O
+use_65	into	O
+use_65	Ottoman	O
+use_65	Albania	O

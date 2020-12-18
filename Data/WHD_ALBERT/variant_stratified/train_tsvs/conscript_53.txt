@@ -1,0 +1,17 @@
+conscript_53	In	O
+conscript_53	the	O
+conscript_53	revision	O
+conscript_53	of	O
+conscript_53	1995	O
+conscript_53	the	O
+conscript_53	introduction	O
+conscript_53	of	O
+conscript_53	a	O
+conscript_53	professional	O
+conscript_53	army	O
+conscript_53	replacing	O
+conscript_53	the	O
+conscript_53	conscript	conscript_nou
+conscript_53	army	O
+conscript_53	was	O
+conscript_53	regulated	O

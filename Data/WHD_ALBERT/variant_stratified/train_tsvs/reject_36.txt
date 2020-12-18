@@ -1,0 +1,15 @@
+reject_36	One	O
+reject_36	day	O
+reject_36	Vanessa	O
+reject_36	tries	O
+reject_36	to	O
+reject_36	sit	O
+reject_36	with	O
+reject_36	the	O
+reject_36	girls	O
+reject_36	at	O
+reject_36	lunchtime	O
+reject_36	but	O
+reject_36	they	O
+reject_36	reject	reject_vrb
+reject_36	her	O

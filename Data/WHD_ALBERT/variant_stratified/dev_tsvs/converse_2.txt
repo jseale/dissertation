@@ -1,0 +1,8 @@
+converse_2	Impregnation	O
+converse_2	is	O
+converse_2	in	O
+converse_2	essence	O
+converse_2	the	O
+converse_2	converse	converse_adj-nou
+converse_2	of	O
+converse_2	extraction	O

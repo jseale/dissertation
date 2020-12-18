@@ -1,0 +1,15 @@
+learned_49	Ancient	O
+learned_49	people	O
+learned_49	learned	learned_vrb
+learned_49	about	O
+learned_49	magnetism	O
+learned_49	from	O
+learned_49	lodestones	O
+learned_49	which	O
+learned_49	are	O
+learned_49	naturally	O
+learned_49	magnetized	O
+learned_49	pieces	O
+learned_49	of	O
+learned_49	iron	O
+learned_49	ore	O

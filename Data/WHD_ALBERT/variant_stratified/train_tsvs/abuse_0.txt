@@ -1,0 +1,16 @@
+abuse_0	Some	O
+abuse_0	such	O
+abuse_0	suits	O
+abuse_0	accuse	O
+abuse_0	the	O
+abuse_0	Vatican	O
+abuse_0	of	O
+abuse_0	complicity	O
+abuse_0	in	O
+abuse_0	sexual	O
+abuse_0	abuse	abuse_nou
+abuse_0	by	O
+abuse_0	priests	O
+abuse_0	and	O
+abuse_0	money	O
+abuse_0	laundering	O

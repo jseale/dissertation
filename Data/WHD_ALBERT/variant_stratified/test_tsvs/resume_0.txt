@@ -1,0 +1,16 @@
+resume_0	In	O
+resume_0	2013	O
+resume_0	BOL	O
+resume_0	partnered	O
+resume_0	with	O
+resume_0	Elancers	O
+resume_0	to	O
+resume_0	create	O
+resume_0	a	O
+resume_0	resume	resume_nou
+resume_0	database	O
+resume_0	on	O
+resume_0	the	O
+resume_0	BOL	O
+resume_0	Empregos	O
+resume_0	page	O

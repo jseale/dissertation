@@ -1,0 +1,17 @@
+use_47	Hence	O
+use_47	consumers	O
+use_47	are	O
+use_47	advised	O
+use_47	to	O
+use_47	use	use_vrb
+use_47	a	O
+use_47	different	O
+use_47	phone	O
+use_47	when	O
+use_47	dialing	O
+use_47	a	O
+use_47	company	O
+use_47	's	O
+use_47	number	O
+use_47	to	O
+use_47	confirm	O

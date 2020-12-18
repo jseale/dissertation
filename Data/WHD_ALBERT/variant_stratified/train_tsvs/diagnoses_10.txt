@@ -1,0 +1,11 @@
+diagnoses_10	Bowen	O
+diagnoses_10	even	O
+diagnoses_10	focused	O
+diagnoses_10	on	O
+diagnoses_10	the	O
+diagnoses_10	prodromal	O
+diagnoses_10	states	O
+diagnoses_10	that	O
+diagnoses_10	precede	O
+diagnoses_10	medical	O
+diagnoses_10	diagnoses	diagnoses_nou

@@ -1,0 +1,17 @@
+uses_38	It	O
+uses_38	features	O
+uses_38	the	O
+uses_38	same	O
+uses_38	specifications	O
+uses_38	as	O
+uses_38	the	O
+uses_38	1000H	O
+uses_38	except	O
+uses_38	it	O
+uses_38	uses	uses_vrb
+uses_38	a	O
+uses_38	900	O
+uses_38	MHz	O
+uses_38	Celeron	O
+uses_38	CPU	O
+uses_38	chip	O

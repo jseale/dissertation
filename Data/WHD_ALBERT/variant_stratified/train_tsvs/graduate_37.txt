@@ -1,0 +1,16 @@
+graduate_37	The	O
+graduate_37	Officers	O
+graduate_37	Training	O
+graduate_37	Academy	O
+graduate_37	on	O
+graduate_37	the	O
+graduate_37	other	O
+graduate_37	hand	O
+graduate_37	provides	O
+graduate_37	a	O
+graduate_37	49-week	O
+graduate_37	course	O
+graduate_37	to	O
+graduate_37	Graduate	graduate_adj-nou
+graduate_37	officer	O
+graduate_37	candidates	O

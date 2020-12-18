@@ -1,0 +1,17 @@
+suspect_58	When	O
+suspect_58	the	O
+suspect_58	affected	O
+suspect_58	individual	O
+suspect_58	is	O
+suspect_58	younger	O
+suspect_58	than	O
+suspect_58	40	O
+suspect_58	doctors	O
+suspect_58	suspect	suspect_vrb
+suspect_58	an	O
+suspect_58	underlying	O
+suspect_58	cause	O
+suspect_58	such	O
+suspect_58	as	O
+suspect_58	multiple	O
+suspect_58	sclerosis	O

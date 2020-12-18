@@ -1,0 +1,12 @@
+ornament_40	Many	O
+ornament_40	other	O
+ornament_40	gates	O
+ornament_40	in	O
+ornament_40	Javanese	O
+ornament_40	traditional	O
+ornament_40	buildings	O
+ornament_40	have	O
+ornament_40	this	O
+ornament_40	kind	O
+ornament_40	of	O
+ornament_40	ornament	ornament_nou

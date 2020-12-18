@@ -1,0 +1,14 @@
+laminate_5	In	O
+laminate_5	some	O
+laminate_5	newer	O
+laminate_5	styles	O
+laminate_5	off	O
+laminate_5	threadline	O
+laminate_5	aramid	O
+laminate_5	yarns	O
+laminate_5	are	O
+laminate_5	also	O
+laminate_5	laid	O
+laminate_5	into	O
+laminate_5	the	O
+laminate_5	laminate	laminate_nou

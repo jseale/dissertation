@@ -1,0 +1,10 @@
+animate_50	Artschwager	O
+animate_50	's	O
+animate_50	efforts	O
+animate_50	to	O
+animate_50	animate	animate_vrb
+animate_50	the	O
+animate_50	space	O
+animate_50	became	O
+animate_50	increasingly	O
+animate_50	sophisticated	O

@@ -1,0 +1,16 @@
+lead_68	Artificial	O
+lead_68	Heart	O
+lead_68	is	O
+lead_68	also	O
+lead_68	the	O
+lead_68	first	O
+lead_68	Coulton	O
+lead_68	album	O
+lead_68	to	O
+lead_68	feature	O
+lead_68	guest	O
+lead_68	lead	lead_nou-vrb
+lead_68	vocals	O
+lead_68	and	O
+lead_68	a	O
+lead_68	duet	O

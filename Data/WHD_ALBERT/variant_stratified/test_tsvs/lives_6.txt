@@ -1,0 +1,15 @@
+lives_6	She	O
+lives_6	lives	lives_vrb
+lives_6	in	O
+lives_6	Berlin	O
+lives_6	is	O
+lives_6	married	O
+lives_6	with	O
+lives_6	a	O
+lives_6	German	O
+lives_6	and	O
+lives_6	is	O
+lives_6	mother	O
+lives_6	of	O
+lives_6	a	O
+lives_6	son	O

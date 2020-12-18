@@ -1,0 +1,12 @@
+isolate_1	It	O
+isolate_1	is	O
+isolate_1	also	O
+isolate_1	used	O
+isolate_1	to	O
+isolate_1	isolate	isolate
+isolate_1	and	O
+isolate_1	maintain	O
+isolate_1	Neisseria	O
+isolate_1	and	O
+isolate_1	Moraxella	O
+isolate_1	species	O

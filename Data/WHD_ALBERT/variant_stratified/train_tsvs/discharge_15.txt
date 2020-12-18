@@ -1,0 +1,12 @@
+discharge_15	The	O
+discharge_15	source	O
+discharge_15	of	O
+discharge_15	the	O
+discharge_15	contamination	O
+discharge_15	was	O
+discharge_15	discharge	discharge_nou
+discharge_15	from	O
+discharge_15	the	O
+discharge_15	RAAF	O
+discharge_15	Base	O
+discharge_15	Amberley	O

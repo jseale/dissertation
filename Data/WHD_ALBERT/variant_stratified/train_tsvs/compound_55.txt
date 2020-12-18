@@ -1,0 +1,14 @@
+compound_55	Tungsten	O
+compound_55	hexachloride	O
+compound_55	is	O
+compound_55	the	O
+compound_55	chemical	O
+compound_55	compound	compound_nou
+compound_55	of	O
+compound_55	tungsten	O
+compound_55	and	O
+compound_55	chlorine	O
+compound_55	with	O
+compound_55	the	O
+compound_55	formula	O
+compound_55	WCl₆.	O

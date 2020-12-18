@@ -1,0 +1,16 @@
+diffuse_5	The	O
+diffuse_5	anal	O
+diffuse_5	fold	O
+diffuse_5	and	O
+diffuse_5	cubitus	O
+diffuse_5	are	O
+diffuse_5	blackish	O
+diffuse_5	brown	O
+diffuse_5	and	O
+diffuse_5	the	O
+diffuse_5	orbicular	O
+diffuse_5	spot	O
+diffuse_5	is	O
+diffuse_5	diffuse	diffuse_adj
+diffuse_5	blackish	O
+diffuse_5	brown	O

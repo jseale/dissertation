@@ -1,0 +1,16 @@
+abuses_37	Its	O
+abuses_37	magazine	O
+abuses_37	Freedom	O
+abuses_37	published	O
+abuses_37	anti	O
+abuses_37	IRS	O
+abuses_37	stories	O
+abuses_37	under	O
+abuses_37	headlines	O
+abuses_37	such	O
+abuses_37	as	O
+abuses_37	Speaking	O
+abuses_37	Out	O
+abuses_37	Against	O
+abuses_37	IRS	O
+abuses_37	Abuses	abuses_nou

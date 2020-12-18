@@ -1,0 +1,10 @@
+sake_69	Most	O
+sake_69	products	O
+sake_69	are	O
+sake_69	teacups	O
+sake_69	teapots	O
+sake_69	flower	O
+sake_69	vases	O
+sake_69	and	O
+sake_69	sake	sake_jp
+sake_69	vessels	O

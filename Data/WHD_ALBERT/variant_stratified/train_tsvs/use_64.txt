@@ -1,0 +1,11 @@
+use_64	The	O
+use_64	Japanese	O
+use_64	even	O
+use_64	use	use_vrb
+use_64	their	O
+use_64	cell	O
+use_64	phones	O
+use_64	to	O
+use_64	do	O
+use_64	grocery	O
+use_64	shopping	O

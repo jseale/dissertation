@@ -1,0 +1,16 @@
+abuse_36	The	O
+abuse_36	bills	O
+abuse_36	are	O
+abuse_36	designed	O
+abuse_36	to	O
+abuse_36	protect	O
+abuse_36	children	O
+abuse_36	from	O
+abuse_36	the	O
+abuse_36	abuse	abuse_nou
+abuse_36	of	O
+abuse_36	restraint	O
+abuse_36	and	O
+abuse_36	seclusion	O
+abuse_36	in	O
+abuse_36	school	O

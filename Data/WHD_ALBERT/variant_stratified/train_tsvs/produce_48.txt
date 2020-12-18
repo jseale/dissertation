@@ -1,0 +1,16 @@
+produce_48	Burton	O
+produce_48	was	O
+produce_48	set	O
+produce_48	to	O
+produce_48	co	O
+produce_48	write	O
+produce_48	and	O
+produce_48	co	O
+produce_48	produce	produce_vrb
+produce_48	the	O
+produce_48	film	O
+produce_48	with	O
+produce_48	a	O
+produce_48	possibility	O
+produce_48	to	O
+produce_48	direct	O

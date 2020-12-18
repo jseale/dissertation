@@ -1,0 +1,16 @@
+ornament_39	The	O
+ornament_39	Memorial	O
+ornament_39	Tower	O
+ornament_39	and	O
+ornament_39	the	O
+ornament_39	Provosts	O
+ornament_39	Tower	O
+ornament_39	are	O
+ornament_39	decorated	O
+ornament_39	with	O
+ornament_39	carved	O
+ornament_39	limestone	O
+ornament_39	ornament	ornament_nou
+ornament_39	by	O
+ornament_39	Edward	O
+ornament_39	Maene	O

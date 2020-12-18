@@ -1,0 +1,7 @@
+insult_36	The	O
+insult_36	Art	O
+insult_36	of	O
+insult_36	the	O
+insult_36	South	O
+insult_36	African	O
+insult_36	Insult	insult_nou

@@ -1,0 +1,9 @@
+consummate_38	Man	O
+consummate_38	's	O
+consummate_38	most	O
+consummate_38	consummate	consummate_adj
+consummate_38	felicity	O
+consummate_38	is	O
+consummate_38	reflecting	O
+consummate_38	Divine	O
+consummate_38	attributes	O

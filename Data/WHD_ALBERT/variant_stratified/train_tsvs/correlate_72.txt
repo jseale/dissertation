@@ -1,0 +1,13 @@
+correlate_72	This	O
+correlate_72	method	O
+correlate_72	does	O
+correlate_72	not	O
+correlate_72	correlate	correlate_nou-vrb
+correlate_72	well	O
+correlate_72	with	O
+correlate_72	the	O
+correlate_72	methods	O
+correlate_72	measuring	O
+correlate_72	the	O
+correlate_72	enzymatic	O
+correlate_72	activity	O

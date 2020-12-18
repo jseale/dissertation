@@ -1,0 +1,16 @@
+reading_8	It	O
+reading_8	combines	O
+reading_8	a	O
+reading_8	reading	reading_en
+reading_8	of	O
+reading_8	Hegel	O
+reading_8	's	O
+reading_8	philosophical	O
+reading_8	works	O
+reading_8	and	O
+reading_8	of	O
+reading_8	Jean	O
+reading_8	Genet	O
+reading_8	's	O
+reading_8	autobiographical	O
+reading_8	writing	O

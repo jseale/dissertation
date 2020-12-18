@@ -1,0 +1,14 @@
+lives_2	They	O
+lives_2	both	O
+lives_2	have	O
+lives_2	been	O
+lives_2	influenced	O
+lives_2	their	O
+lives_2	entire	O
+lives_2	lives	lives_nou
+lives_2	by	O
+lives_2	producers	O
+lives_2	Timbaland	O
+lives_2	and	O
+lives_2	The	O
+lives_2	Neptunes	O

@@ -1,0 +1,17 @@
+permit_59	The	O
+permit_59	Tequila	O
+permit_59	Regulatory	O
+permit_59	Council	O
+permit_59	of	O
+permit_59	Mexico	O
+permit_59	originally	O
+permit_59	did	O
+permit_59	not	O
+permit_59	permit	permit_vrb
+permit_59	flavored	O
+permit_59	tequila	O
+permit_59	to	O
+permit_59	carry	O
+permit_59	the	O
+permit_59	tequila	O
+permit_59	name	O

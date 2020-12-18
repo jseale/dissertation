@@ -1,0 +1,16 @@
+minute_29	In	O
+minute_29	the	O
+minute_29	same	O
+minute_29	match	O
+minute_29	he	O
+minute_29	scored	O
+minute_29	his	O
+minute_29	first	O
+minute_29	senior	O
+minute_29	goal	O
+minute_29	for	O
+minute_29	Audax	O
+minute_29	in	O
+minute_29	the	O
+minute_29	51st	O
+minute_29	minute	minute

@@ -1,0 +1,15 @@
+progress_37	The	O
+progress_37	Center	O
+progress_37	for	O
+progress_37	American	O
+progress_37	Progress	progress_nou
+progress_37	CAP	O
+progress_37	is	O
+progress_37	a	O
+progress_37	progressive	O
+progress_37	public	O
+progress_37	policy	O
+progress_37	research	O
+progress_37	and	O
+progress_37	advocacy	O
+progress_37	organization	O

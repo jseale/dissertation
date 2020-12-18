@@ -1,0 +1,13 @@
+conjugate_33	Consider	O
+conjugate_33	as	O
+conjugate_33	before	O
+conjugate_33	a	O
+conjugate_33	polynomial	O
+conjugate_33	with	O
+conjugate_33	complex	O
+conjugate_33	coefficientsDenote	O
+conjugate_33	the	O
+conjugate_33	reverse	O
+conjugate_33	conjugate	conjugate_adj-nou
+conjugate_33	polynomial	O
+conjugate_33	as	O

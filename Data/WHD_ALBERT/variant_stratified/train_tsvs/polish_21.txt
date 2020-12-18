@@ -1,0 +1,17 @@
+polish_21	As	O
+polish_21	part	O
+polish_21	of	O
+polish_21	the	O
+polish_21	Vilnius	O
+polish_21	Region	O
+polish_21	Jasiunai	O
+polish_21	belonged	O
+polish_21	to	O
+polish_21	the	O
+polish_21	Second	O
+polish_21	Polish	polish_geo
+polish_21	Republic	O
+polish_21	during	O
+polish_21	the	O
+polish_21	interwar	O
+polish_21	period	O

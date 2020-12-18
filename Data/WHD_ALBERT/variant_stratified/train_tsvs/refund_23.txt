@@ -1,0 +1,16 @@
+refund_23	Cardholder	O
+refund_23	originated	O
+refund_23	transactions	O
+refund_23	include	O
+refund_23	purchase	O
+refund_23	withdrawal	O
+refund_23	deposit	O
+refund_23	refund	refund_nou
+refund_23	reversal	O
+refund_23	balance	O
+refund_23	inquiry	O
+refund_23	payments	O
+refund_23	and	O
+refund_23	inter	O
+refund_23	account	O
+refund_23	transfers	O

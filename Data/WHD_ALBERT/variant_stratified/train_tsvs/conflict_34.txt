@@ -1,0 +1,10 @@
+conflict_34	Ethnic	O
+conflict_34	conflict	conflict_nou
+conflict_34	and	O
+conflict_34	civic	O
+conflict_34	life	O
+conflict_34	Hindus	O
+conflict_34	and	O
+conflict_34	Muslims	O
+conflict_34	in	O
+conflict_34	India	O

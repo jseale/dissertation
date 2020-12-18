@@ -1,0 +1,16 @@
+invalid_3	Specifically	O
+invalid_3	the	O
+invalid_3	appellant	O
+invalid_3	claimed	O
+invalid_3	that	O
+invalid_3	the	O
+invalid_3	Louisiana	O
+invalid_3	law	O
+invalid_3	violated	O
+invalid_3	the	O
+invalid_3	Fourteenth	O
+invalid_3	Amendment	O
+invalid_3	and	O
+invalid_3	was	O
+invalid_3	therefore	O
+invalid_3	invalid	invalid_adj

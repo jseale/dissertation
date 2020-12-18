@@ -1,0 +1,9 @@
+abuse_13	There	O
+abuse_13	are	O
+abuse_13	allegations	O
+abuse_13	of	O
+abuse_13	torture	O
+abuse_13	and	O
+abuse_13	abuse	abuse_nou
+abuse_13	of	O
+abuse_13	prisoners	O

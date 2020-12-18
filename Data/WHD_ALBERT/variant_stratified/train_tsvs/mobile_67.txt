@@ -1,0 +1,14 @@
+mobile_67	Service	O
+mobile_67	providers	O
+mobile_67	have	O
+mobile_67	designed	O
+mobile_67	a	O
+mobile_67	way	O
+mobile_67	to	O
+mobile_67	incorporate	O
+mobile_67	reloading	O
+mobile_67	functions	O
+mobile_67	of	O
+mobile_67	the	O
+mobile_67	mobile	mobile
+mobile_67	broadband	O

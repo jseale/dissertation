@@ -1,0 +1,13 @@
+aged_38	He	O
+aged_38	enlisted	O
+aged_38	as	O
+aged_38	a	O
+aged_38	soldier	O
+aged_38	aged	aged
+aged_38	15	O
+aged_38	and	O
+aged_38	later	O
+aged_38	led	O
+aged_38	China	O
+aged_38	's	O
+aged_38	navy	O

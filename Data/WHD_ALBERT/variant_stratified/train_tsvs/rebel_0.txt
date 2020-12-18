@@ -1,0 +1,10 @@
+rebel_0	With	O
+rebel_0	a	O
+rebel_0	Rebel	rebel_nou
+rebel_0	yell	O
+rebel_0	they	O
+rebel_0	leaped	O
+rebel_0	into	O
+rebel_0	the	O
+rebel_0	hiding	O
+rebel_0	place	O

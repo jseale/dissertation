@@ -1,0 +1,14 @@
+associate_72	According	O
+associate_72	to	O
+associate_72	Boba	O
+associate_72	and	O
+associate_72	Bowlus	O
+associate_72	these	O
+associate_72	sources	O
+associate_72	clearly	O
+associate_72	associate	associate_vrb
+associate_72	Moravia	O
+associate_72	with	O
+associate_72	Dalmatia	O
+associate_72	and	O
+associate_72	Bosnia	O

@@ -1,0 +1,15 @@
+pervert_25	It	O
+pervert_25	is	O
+pervert_25	referred	O
+pervert_25	to	O
+pervert_25	in	O
+pervert_25	slang	O
+pervert_25	as	O
+pervert_25	ringside	O
+pervert_25	gynecology	O
+pervert_25	row	O
+pervert_25	pervert	pervert_nou
+pervert_25	row	O
+pervert_25	and	O
+pervert_25	other	O
+pervert_25	names	O

@@ -1,0 +1,12 @@
+present_25	They	O
+present_25	also	O
+present_25	forced	O
+present_25	Japanese	O
+present_25	shipping	O
+present_25	into	O
+present_25	waters	O
+present_25	where	O
+present_25	American	O
+present_25	submarines	O
+present_25	were	O
+present_25	present	present_adj-nou

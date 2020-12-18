@@ -1,0 +1,14 @@
+confines_58	This	O
+confines_58	is	O
+confines_58	the	O
+confines_58	boy	O
+confines_58	's	O
+confines_58	first	O
+confines_58	step	O
+confines_58	beyond	O
+confines_58	the	O
+confines_58	confines	confines_nou
+confines_58	of	O
+confines_58	home	O
+confines_58	and	O
+confines_58	school	O

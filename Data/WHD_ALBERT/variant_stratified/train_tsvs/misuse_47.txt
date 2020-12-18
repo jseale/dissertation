@@ -1,0 +1,17 @@
+misuse_47	The	O
+misuse_47	long	O
+misuse_47	standing	O
+misuse_47	misuse	misuse_nou
+misuse_47	of	O
+misuse_47	the	O
+misuse_47	terms	O
+misuse_47	and	O
+misuse_47	its	O
+misuse_47	inclusion	O
+misuse_47	in	O
+misuse_47	scholarly	O
+misuse_47	articles	O
+misuse_47	has	O
+misuse_47	compounded	O
+misuse_47	the	O
+misuse_47	confusion	O

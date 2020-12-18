@@ -1,0 +1,10 @@
+aggregate_62	The	O
+aggregate_62	quarterfinals	O
+aggregate_62	were	O
+aggregate_62	two	O
+aggregate_62	legged	O
+aggregate_62	ties	O
+aggregate_62	determined	O
+aggregate_62	on	O
+aggregate_62	aggregate	aggregate_adj-nou
+aggregate_62	score	O

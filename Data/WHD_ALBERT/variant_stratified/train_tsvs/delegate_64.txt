@@ -1,0 +1,8 @@
+delegate_64	Perry	O
+delegate_64	received	O
+delegate_64	no	O
+delegate_64	delegate	delegate_nou
+delegate_64	votes	O
+delegate_64	at	O
+delegate_64	the	O
+delegate_64	convention	O

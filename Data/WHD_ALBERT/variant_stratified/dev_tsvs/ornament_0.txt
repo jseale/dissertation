@@ -1,0 +1,14 @@
+ornament_0	Kapp	O
+ornament_0	jokingly	O
+ornament_0	presented	O
+ornament_0	Mosca	O
+ornament_0	with	O
+ornament_0	an	O
+ornament_0	ornament	ornament_nou
+ornament_0	flower	O
+ornament_0	he	O
+ornament_0	had	O
+ornament_0	picked	O
+ornament_0	at	O
+ornament_0	his	O
+ornament_0	table	O

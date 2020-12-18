@@ -1,0 +1,15 @@
+escort_59	Reactivated	O
+escort_59	as	O
+escort_59	Strategic	O
+escort_59	Air	O
+escort_59	Command	O
+escort_59	fighter	O
+escort_59	escort	escort_nou
+escort_59	squadron	O
+escort_59	for	O
+escort_59	B-50	O
+escort_59	Superfortress	O
+escort_59	and	O
+escort_59	B-36	O
+escort_59	Peacemaker	O
+escort_59	bombers	O

@@ -1,0 +1,7 @@
+aged_50	He	O
+aged_50	died	O
+aged_50	in	O
+aged_50	Thanet	O
+aged_50	Kent	O
+aged_50	aged	aged
+aged_50	71	O

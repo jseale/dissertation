@@ -1,0 +1,16 @@
+upset_0	Marshall	O
+upset_0	becomes	O
+upset_0	desperate	O
+upset_0	and	O
+upset_0	Lily	O
+upset_0	says	O
+upset_0	he	O
+upset_0	's	O
+upset_0	really	O
+upset_0	upset	upset_nou
+upset_0	about	O
+upset_0	not	O
+upset_0	getting	O
+upset_0	a	O
+upset_0	new	O
+upset_0	job	O

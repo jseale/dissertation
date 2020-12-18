@@ -1,0 +1,17 @@
+invalid_32	Any	O
+invalid_32	invalid	invalid_adj
+invalid_32	cards	O
+invalid_32	left	O
+invalid_32	on	O
+invalid_32	the	O
+invalid_32	table	O
+invalid_32	will	O
+invalid_32	be	O
+invalid_32	later	O
+invalid_32	incorporated	O
+invalid_32	into	O
+invalid_32	valid	O
+invalid_32	groups	O
+invalid_32	by	O
+invalid_32	other	O
+invalid_32	players	O

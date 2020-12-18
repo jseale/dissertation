@@ -1,0 +1,15 @@
+refund_32	When	O
+refund_32	he	O
+refund_32	gets	O
+refund_32	a	O
+refund_32	refund	refund_nou
+refund_32	for	O
+refund_32	the	O
+refund_32	free	O
+refund_32	cake	O
+refund_32	Jenna	O
+refund_32	decides	O
+refund_32	to	O
+refund_32	scam	O
+refund_32	the	O
+refund_32	restaurant	O

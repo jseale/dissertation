@@ -1,0 +1,16 @@
+diffuse_35	Over	O
+diffuse_35	the	O
+diffuse_35	next	O
+diffuse_35	hours	O
+diffuse_35	Fred	O
+diffuse_35	became	O
+diffuse_35	increasingly	O
+diffuse_35	diffuse	diffuse_adj
+diffuse_35	as	O
+diffuse_35	a	O
+diffuse_35	result	O
+diffuse_35	of	O
+diffuse_35	its	O
+diffuse_35	progressively	O
+diffuse_35	worsening	O
+diffuse_35	surroundings	O

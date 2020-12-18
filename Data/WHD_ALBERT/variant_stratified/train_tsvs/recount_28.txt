@@ -1,0 +1,12 @@
+recount_28	The	O
+recount_28	recount	recount_nou
+recount_28	was	O
+recount_28	to	O
+recount_28	be	O
+recount_28	completed	O
+recount_28	by	O
+recount_28	7	O
+recount_28	p.m.	O
+recount_28	on	O
+recount_28	December	O
+recount_28	5	O

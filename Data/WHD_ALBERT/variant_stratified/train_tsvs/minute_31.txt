@@ -1,0 +1,17 @@
+minute_31	This	O
+minute_31	15-minute	O
+minute_31	series	O
+minute_31	was	O
+minute_31	broadcast	O
+minute_31	Sundays	O
+minute_31	at	O
+minute_31	12:00	O
+minute_31	p.m.	O
+minute_31	Eastern	O
+minute_31	from	O
+minute_31	15	O
+minute_31	May	O
+minute_31	to	O
+minute_31	25	O
+minute_31	September	O
+minute_31	1977	O

@@ -1,0 +1,17 @@
+attribute_9	Its	O
+attribute_9	most	O
+attribute_9	distinctive	O
+attribute_9	attribute	attribute_nou
+attribute_9	is	O
+attribute_9	its	O
+attribute_9	relative	O
+attribute_9	immunity	O
+attribute_9	the	O
+attribute_9	monsters	O
+attribute_9	in	O
+attribute_9	the	O
+attribute_9	dungeon	O
+attribute_9	do	O
+attribute_9	not	O
+attribute_9	harm	O
+attribute_9	it	O

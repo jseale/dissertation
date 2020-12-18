@@ -1,0 +1,17 @@
+fragment_15	Calypso	O
+fragment_15	uses	O
+fragment_15	her	O
+fragment_15	fragment	fragment_nou
+fragment_15	of	O
+fragment_15	the	O
+fragment_15	Tablet	O
+fragment_15	of	O
+fragment_15	Order	O
+fragment_15	and	O
+fragment_15	Chaos	O
+fragment_15	to	O
+fragment_15	raise	O
+fragment_15	an	O
+fragment_15	army	O
+fragment_15	of	O
+fragment_15	zombies	O

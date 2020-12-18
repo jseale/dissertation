@@ -1,0 +1,14 @@
+insert_6	Choanal	O
+insert_6	atresia	O
+insert_6	can	O
+insert_6	be	O
+insert_6	suspected	O
+insert_6	if	O
+insert_6	it	O
+insert_6	is	O
+insert_6	impossible	O
+insert_6	to	O
+insert_6	insert	insert_vrb
+insert_6	a	O
+insert_6	nasal	O
+insert_6	catheter	O

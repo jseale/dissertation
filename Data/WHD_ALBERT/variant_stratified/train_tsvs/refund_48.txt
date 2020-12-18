@@ -1,0 +1,16 @@
+refund_48	Henry	O
+refund_48	said	O
+refund_48	that	O
+refund_48	he	O
+refund_48	would	O
+refund_48	not	O
+refund_48	issue	O
+refund_48	a	O
+refund_48	refund	refund_nou
+refund_48	but	O
+refund_48	that	O
+refund_48	he	O
+refund_48	would	O
+refund_48	repair	O
+refund_48	the	O
+refund_48	vehicle	O

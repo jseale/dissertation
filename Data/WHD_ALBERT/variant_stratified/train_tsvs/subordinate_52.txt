@@ -1,0 +1,17 @@
+subordinate_52	Although	O
+subordinate_52	the	O
+subordinate_52	mafia	O
+subordinate_52	leader	O
+subordinate_52	can	O
+subordinate_52	not	O
+subordinate_52	get	O
+subordinate_52	to	O
+subordinate_52	Kwan	O
+subordinate_52	they	O
+subordinate_52	manage	O
+subordinate_52	to	O
+subordinate_52	kill	O
+subordinate_52	Pao	O
+subordinate_52	's	O
+subordinate_52	subordinate	subordinate_adj-nou
+subordinate_52	Yung	O

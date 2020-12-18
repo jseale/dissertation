@@ -1,0 +1,12 @@
+affect_8	Dominion	O
+affect_8	also	O
+affect_8	reported	O
+affect_8	that	O
+affect_8	the	O
+affect_8	aftershocks	O
+affect_8	did	O
+affect_8	not	O
+affect_8	affect	affect
+affect_8	the	O
+affect_8	power	O
+affect_8	plant	O

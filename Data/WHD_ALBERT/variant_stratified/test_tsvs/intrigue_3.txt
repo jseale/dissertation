@@ -1,0 +1,10 @@
+intrigue_3	Espionage	O
+intrigue_3	and	O
+intrigue_3	intrigue	intrigue_nou
+intrigue_3	were	O
+intrigue_3	often	O
+intrigue_3	featured	O
+intrigue_3	instead	O
+intrigue_3	of	O
+intrigue_3	straightforward	O
+intrigue_3	battles	O

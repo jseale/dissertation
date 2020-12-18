@@ -1,0 +1,12 @@
+supplement_68	To	O
+supplement_68	supplement	supplement_vrb
+supplement_68	the	O
+supplement_68	income	O
+supplement_68	from	O
+supplement_68	his	O
+supplement_68	farm	O
+supplement_68	Partridge	O
+supplement_68	also	O
+supplement_68	sold	O
+supplement_68	life	O
+supplement_68	insurance	O

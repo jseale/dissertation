@@ -1,0 +1,17 @@
+animate_7	In	O
+animate_7	German	O
+animate_7	heraldry	O
+animate_7	animate	animate_adj-nou
+animate_7	charges	O
+animate_7	in	O
+animate_7	combined	O
+animate_7	coats	O
+animate_7	usually	O
+animate_7	turn	O
+animate_7	to	O
+animate_7	face	O
+animate_7	the	O
+animate_7	centre	O
+animate_7	of	O
+animate_7	the	O
+animate_7	composition	O

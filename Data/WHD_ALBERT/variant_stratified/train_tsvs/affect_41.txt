@@ -1,0 +1,16 @@
+affect_41	This	O
+affect_41	does	O
+affect_41	not	O
+affect_41	affect	affect
+affect_41	movie	O
+affect_41	distribution	O
+affect_41	via	O
+affect_41	physical	O
+affect_41	tapes	O
+affect_41	or	O
+affect_41	discs	O
+affect_41	cable	O
+affect_41	TV	O
+affect_41	or	O
+affect_41	the	O
+affect_41	Internet	O

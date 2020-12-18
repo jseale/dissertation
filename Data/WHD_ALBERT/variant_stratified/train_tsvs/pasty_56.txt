@@ -1,0 +1,10 @@
+pasty_56	The	O
+pasty_56	colony	O
+pasty_56	surface	O
+pasty_56	is	O
+pasty_56	smooth	O
+pasty_56	and	O
+pasty_56	has	O
+pasty_56	a	O
+pasty_56	pasty	pasty_nou
+pasty_56	texture	O

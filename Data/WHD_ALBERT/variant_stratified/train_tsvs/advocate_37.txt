@@ -1,0 +1,13 @@
+advocate_37	Greek	O
+advocate_37	pianist	O
+advocate_37	Danae	O
+advocate_37	Kara	O
+advocate_37	is	O
+advocate_37	a	O
+advocate_37	superb	O
+advocate_37	advocate	advocate_nou
+advocate_37	in	O
+advocate_37	these	O
+advocate_37	first	O
+advocate_37	recorded	O
+advocate_37	performances	O

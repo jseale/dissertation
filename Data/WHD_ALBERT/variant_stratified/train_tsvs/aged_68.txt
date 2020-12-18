@@ -1,0 +1,8 @@
+aged_68	He	O
+aged_68	died	O
+aged_68	on	O
+aged_68	20	O
+aged_68	January	O
+aged_68	2012	O
+aged_68	aged	aged
+aged_68	77	O

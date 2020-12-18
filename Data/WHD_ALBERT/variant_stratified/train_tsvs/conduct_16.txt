@@ -1,0 +1,13 @@
+conduct_16	Unheroic	O
+conduct_16	conduct	conduct_nou
+conduct_16	the	O
+conduct_16	rise	O
+conduct_16	of	O
+conduct_16	heterosexuality	O
+conduct_16	and	O
+conduct_16	the	O
+conduct_16	invention	O
+conduct_16	of	O
+conduct_16	the	O
+conduct_16	Jewish	O
+conduct_16	man	O

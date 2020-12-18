@@ -1,0 +1,12 @@
+lives_8	He	O
+lives_8	is	O
+lives_8	also	O
+lives_8	obsessed	O
+lives_8	with	O
+lives_8	a	O
+lives_8	sow	O
+lives_8	who	O
+lives_8	lives	lives_vrb
+lives_8	on	O
+lives_8	the	O
+lives_8	farm	O

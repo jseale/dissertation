@@ -1,0 +1,17 @@
+diffuse_9	Cultural	O
+diffuse_9	relations	O
+diffuse_9	both	O
+diffuse_9	produce	O
+diffuse_9	and	O
+diffuse_9	diffuse	diffuse_adj
+diffuse_9	soft	O
+diffuse_9	power	O
+diffuse_9	which	O
+diffuse_9	varies	O
+diffuse_9	depending	O
+diffuse_9	on	O
+diffuse_9	who	O
+diffuse_9	is	O
+diffuse_9	engaging	O
+diffuse_9	with	O
+diffuse_9	it	O

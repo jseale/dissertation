@@ -1,0 +1,10 @@
+uses_8	It	O
+uses_8	uses	uses_vrb
+uses_8	its	O
+uses_8	ten	O
+uses_8	foot	O
+uses_8	beak	O
+uses_8	to	O
+uses_8	spear	O
+uses_8	its	O
+uses_8	prey	O

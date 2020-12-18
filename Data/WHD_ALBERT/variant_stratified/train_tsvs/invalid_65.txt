@@ -1,0 +1,7 @@
+invalid_65	In	O
+invalid_65	later	O
+invalid_65	life	O
+invalid_65	Dyer	O
+invalid_65	became	O
+invalid_65	an	O
+invalid_65	invalid	invalid_nou

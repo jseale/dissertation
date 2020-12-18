@@ -1,0 +1,13 @@
+delegate_0	He	O
+delegate_0	served	O
+delegate_0	as	O
+delegate_0	delegate	delegate_nou
+delegate_0	from	O
+delegate_0	Mobile	O
+delegate_0	to	O
+delegate_0	the	O
+delegate_0	State	O
+delegate_0	constitutional	O
+delegate_0	convention	O
+delegate_0	in	O
+delegate_0	1861	O

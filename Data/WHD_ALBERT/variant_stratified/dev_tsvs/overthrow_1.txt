@@ -1,0 +1,10 @@
+overthrow_1	After	O
+overthrow_1	his	O
+overthrow_1	overthrow	overthrow_nou
+overthrow_1	in	O
+overthrow_1	1979	O
+overthrow_1	it	O
+overthrow_1	recovered	O
+overthrow_1	its	O
+overthrow_1	original	O
+overthrow_1	name	O

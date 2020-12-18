@@ -1,0 +1,11 @@
+perfect_8	It	O
+perfect_8	has	O
+perfect_8	one	O
+perfect_8	direction	O
+perfect_8	of	O
+perfect_8	perfect	perfect_adj
+perfect_8	cleavage	O
+perfect_8	and	O
+perfect_8	exhibits	O
+perfect_8	conchoidal	O
+perfect_8	fracture	O

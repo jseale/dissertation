@@ -1,0 +1,15 @@
+aggregate_63	The	O
+aggregate_63	casualties	O
+aggregate_63	in	O
+aggregate_63	the	O
+aggregate_63	brigade	O
+aggregate_63	were	O
+aggregate_63	11	O
+aggregate_63	killed	O
+aggregate_63	40	O
+aggregate_63	wounded	O
+aggregate_63	and	O
+aggregate_63	4	O
+aggregate_63	missing	O
+aggregate_63	aggregate	aggregate_adj-nou
+aggregate_63	55	O

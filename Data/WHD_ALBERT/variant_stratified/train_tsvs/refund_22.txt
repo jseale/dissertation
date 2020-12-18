@@ -1,0 +1,17 @@
+refund_22	If	O
+refund_22	a	O
+refund_22	suspect	O
+refund_22	note	O
+refund_22	is	O
+refund_22	found	O
+refund_22	to	O
+refund_22	be	O
+refund_22	genuine	O
+refund_22	a	O
+refund_22	full	O
+refund_22	refund	refund_nou
+refund_22	by	O
+refund_22	cheque	O
+refund_22	will	O
+refund_22	be	O
+refund_22	made	O

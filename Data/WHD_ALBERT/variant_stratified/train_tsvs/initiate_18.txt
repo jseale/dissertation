@@ -1,0 +1,17 @@
+initiate_18	It	O
+initiate_18	is	O
+initiate_18	passed	O
+initiate_18	in	O
+initiate_18	code	O
+initiate_18	to	O
+initiate_18	an	O
+initiate_18	underlying	O
+initiate_18	driver	O
+initiate_18	or	O
+initiate_18	provider	O
+initiate_18	in	O
+initiate_18	order	O
+initiate_18	to	O
+initiate_18	initiate	initiate_vrb
+initiate_18	the	O
+initiate_18	connection	O

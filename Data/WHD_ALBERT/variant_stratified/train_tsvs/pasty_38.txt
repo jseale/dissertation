@@ -1,0 +1,14 @@
+pasty_38	Cornish	O
+pasty_38	food	O
+pasty_38	like	O
+pasty_38	the	O
+pasty_38	Cornish	O
+pasty_38	pasty	pasty_adj
+pasty_38	is	O
+pasty_38	still	O
+pasty_38	popular	O
+pasty_38	amongst	O
+pasty_38	the	O
+pasty_38	Cornish	O
+pasty_38	Australian	O
+pasty_38	communities	O

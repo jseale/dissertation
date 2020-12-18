@@ -1,0 +1,9 @@
+conduct_19	She	O
+conduct_19	and	O
+conduct_19	her	O
+conduct_19	mother	O
+conduct_19	were	O
+conduct_19	charged	O
+conduct_19	with	O
+conduct_19	disorderly	O
+conduct_19	conduct	conduct_nou

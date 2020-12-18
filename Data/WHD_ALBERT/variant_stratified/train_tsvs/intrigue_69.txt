@@ -1,0 +1,14 @@
+intrigue_69	Robert	O
+intrigue_69	Hume	O
+intrigue_69	believed	O
+intrigue_69	that	O
+intrigue_69	Fielding	O
+intrigue_69	had	O
+intrigue_69	begun	O
+intrigue_69	to	O
+intrigue_69	master	O
+intrigue_69	the	O
+intrigue_69	mechanics	O
+intrigue_69	of	O
+intrigue_69	intrigue	intrigue_nou
+intrigue_69	comedy	O

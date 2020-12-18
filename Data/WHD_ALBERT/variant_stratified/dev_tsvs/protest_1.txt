@@ -1,0 +1,12 @@
+protest_1	Borozdinovskaya	O
+protest_1	refugees	O
+protest_1	hold	O
+protest_1	protest	protest_nou
+protest_1	meeting	O
+protest_1	in	O
+protest_1	Dagestan	O
+protest_1	Caucasian	O
+protest_1	Knot	O
+protest_1	June	O
+protest_1	26	O
+protest_1	2007	O

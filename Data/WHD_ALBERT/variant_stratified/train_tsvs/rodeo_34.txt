@@ -1,0 +1,14 @@
+rodeo_34	The	O
+rodeo_34	Shaunavon	O
+rodeo_34	Rodeo	rodeo
+rodeo_34	Grounds	O
+rodeo_34	serve	O
+rodeo_34	as	O
+rodeo_34	the	O
+rodeo_34	backdrop	O
+rodeo_34	for	O
+rodeo_34	the	O
+rodeo_34	annual	O
+rodeo_34	Shaunavon	O
+rodeo_34	Pro	O
+rodeo_34	Rodeo	rodeo

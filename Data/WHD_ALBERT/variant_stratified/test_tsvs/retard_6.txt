@@ -1,0 +1,11 @@
+retard_6	Antioxidant	O
+retard_6	additives	O
+retard_6	retard	retard_vrb
+retard_6	the	O
+retard_6	degradation	O
+retard_6	of	O
+retard_6	the	O
+retard_6	stock	O
+retard_6	oil	O
+retard_6	by	O
+retard_6	oxidation	O

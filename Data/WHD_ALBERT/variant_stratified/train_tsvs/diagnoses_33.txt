@@ -1,0 +1,14 @@
+diagnoses_33	Soon	O
+diagnoses_33	afterwards	O
+diagnoses_33	following	O
+diagnoses_33	a	O
+diagnoses_33	series	O
+diagnoses_33	of	O
+diagnoses_33	incorrect	O
+diagnoses_33	diagnoses	diagnoses_nou
+diagnoses_33	Susan	O
+diagnoses_33	is	O
+diagnoses_33	diagnosed	O
+diagnoses_33	with	O
+diagnoses_33	multiple	O
+diagnoses_33	sclerosis	O

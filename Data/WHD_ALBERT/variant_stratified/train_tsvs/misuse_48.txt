@@ -1,0 +1,10 @@
+misuse_48	Scandals	O
+misuse_48	ranging	O
+misuse_48	from	O
+misuse_48	illegal	O
+misuse_48	land	O
+misuse_48	sale	O
+misuse_48	grabbing	O
+misuse_48	to	O
+misuse_48	funds	O
+misuse_48	misuse	misuse_nou

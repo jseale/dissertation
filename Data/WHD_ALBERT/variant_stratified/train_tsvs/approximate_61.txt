@@ -1,0 +1,16 @@
+approximate_61	This	O
+approximate_61	corresponds	O
+approximate_61	to	O
+approximate_61	180	O
+approximate_61	kpc	O
+approximate_61	600,000	O
+approximate_61	ly	O
+approximate_61	at	O
+approximate_61	an	O
+approximate_61	approximate	approximate_adj-nou
+approximate_61	distance	O
+approximate_61	of	O
+approximate_61	55	O
+approximate_61	kpc	O
+approximate_61	180,000	O
+approximate_61	ly	O

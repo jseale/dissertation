@@ -1,0 +1,14 @@
+sow_0	She	O
+sow_0	ordered	O
+sow_0	him	O
+sow_0	to	O
+sow_0	dig	O
+sow_0	an	O
+sow_0	acre	O
+sow_0	of	O
+sow_0	land	O
+sow_0	and	O
+sow_0	sow	sow
+sow_0	it	O
+sow_0	by	O
+sow_0	evening	O

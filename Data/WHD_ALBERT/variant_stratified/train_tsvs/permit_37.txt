@@ -1,0 +1,16 @@
+permit_37	The	O
+permit_37	containment	O
+permit_37	cell	O
+permit_37	currently	O
+permit_37	operates	O
+permit_37	under	O
+permit_37	a	O
+permit_37	Resource	O
+permit_37	Conservation	O
+permit_37	and	O
+permit_37	Recovery	O
+permit_37	Act	O
+permit_37	permit	permit_nou
+permit_37	issued	O
+permit_37	by	O
+permit_37	MPCA	O

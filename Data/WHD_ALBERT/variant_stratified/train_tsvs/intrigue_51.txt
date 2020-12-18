@@ -1,0 +1,11 @@
+intrigue_51	It	O
+intrigue_51	is	O
+intrigue_51	believed	O
+intrigue_51	that	O
+intrigue_51	the	O
+intrigue_51	dispute	O
+intrigue_51	was	O
+intrigue_51	rooted	O
+intrigue_51	in	O
+intrigue_51	government	O
+intrigue_51	intrigue	intrigue_nou

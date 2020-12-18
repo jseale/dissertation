@@ -1,0 +1,17 @@
+consummate_66	In	O
+consummate_66	1992	O
+consummate_66	Grupo	O
+consummate_66	Aeroméxico	O
+consummate_66	was	O
+consummate_66	among	O
+consummate_66	other	O
+consummate_66	investors	O
+consummate_66	that	O
+consummate_66	failed	O
+consummate_66	to	O
+consummate_66	consummate	consummate_vrb
+consummate_66	the	O
+consummate_66	acquisition	O
+consummate_66	of	O
+consummate_66	Continental	O
+consummate_66	Airlines	O

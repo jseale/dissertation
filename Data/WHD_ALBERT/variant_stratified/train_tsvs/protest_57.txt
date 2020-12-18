@@ -1,0 +1,10 @@
+protest_57	He	O
+protest_57	left	O
+protest_57	the	O
+protest_57	Notre	O
+protest_57	Dame	O
+protest_57	in	O
+protest_57	1969	O
+protest_57	resigning	O
+protest_57	in	O
+protest_57	protest	protest_nou

@@ -1,0 +1,16 @@
+invite_8	Lulu	O
+invite_8	wanted	O
+invite_8	to	O
+invite_8	invite	invite_vrb
+invite_8	the	O
+invite_8	parents	O
+invite_8	of	O
+invite_8	the	O
+invite_8	national	O
+invite_8	under-17	O
+invite_8	players	O
+invite_8	to	O
+invite_8	verify	O
+invite_8	their	O
+invite_8	sons	O
+invite_8	ages	O

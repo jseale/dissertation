@@ -1,0 +1,14 @@
+convert_4	Jack	O
+convert_4	does	O
+convert_4	not	O
+convert_4	need	O
+convert_4	to	O
+convert_4	eat	O
+convert_4	as	O
+convert_4	he	O
+convert_4	can	O
+convert_4	convert	convert_vrb
+convert_4	air	O
+convert_4	pollution	O
+convert_4	into	O
+convert_4	nourishment	O

@@ -1,0 +1,12 @@
+attribute_5	Some	O
+attribute_5	publications	O
+attribute_5	still	O
+attribute_5	attribute	attribute_vrb
+attribute_5	it	O
+attribute_5	to	O
+attribute_5	Mozart	O
+attribute_5	often	O
+attribute_5	as	O
+attribute_5	Piano	O
+attribute_5	Sonata	O
+attribute_5	No	O

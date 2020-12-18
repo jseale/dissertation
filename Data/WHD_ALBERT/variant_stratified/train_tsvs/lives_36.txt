@@ -1,0 +1,13 @@
+lives_36	She	O
+lives_36	currently	O
+lives_36	lives	lives_vrb
+lives_36	in	O
+lives_36	Los	O
+lives_36	Angeles	O
+lives_36	with	O
+lives_36	her	O
+lives_36	mother	O
+lives_36	and	O
+lives_36	younger	O
+lives_36	brother	O
+lives_36	Justin	O

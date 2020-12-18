@@ -1,0 +1,8 @@
+converse_4	This	O
+converse_4	theorem	O
+converse_4	and	O
+converse_4	its	O
+converse_4	converse	converse_adj-nou
+converse_4	have	O
+converse_4	various	O
+converse_4	uses	O

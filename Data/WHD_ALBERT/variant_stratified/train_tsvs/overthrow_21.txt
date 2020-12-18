@@ -1,0 +1,15 @@
+overthrow_21	The	O
+overthrow_21	overthrow	overthrow_nou
+overthrow_21	of	O
+overthrow_21	the	O
+overthrow_21	patriot	O
+overthrow_21	party	O
+overthrow_21	forced	O
+overthrow_21	him	O
+overthrow_21	to	O
+overthrow_21	fly	O
+overthrow_21	for	O
+overthrow_21	his	O
+overthrow_21	safety	O
+overthrow_21	to	O
+overthrow_21	France	O

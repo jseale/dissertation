@@ -1,0 +1,11 @@
+graduate_2	Norton	O
+graduate_2	is	O
+graduate_2	a	O
+graduate_2	graduate	graduate_adj-nou
+graduate_2	of	O
+graduate_2	the	O
+graduate_2	Universities	O
+graduate_2	of	O
+graduate_2	Miami	O
+graduate_2	and	O
+graduate_2	Chicago	O

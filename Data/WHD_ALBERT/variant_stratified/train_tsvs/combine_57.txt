@@ -1,0 +1,15 @@
+combine_57	These	O
+combine_57	effects	O
+combine_57	combine	combine_vrb
+combine_57	as	O
+combine_57	the	O
+combine_57	game	O
+combine_57	progresses	O
+combine_57	to	O
+combine_57	increase	O
+combine_57	the	O
+combine_57	difficulty	O
+combine_57	and	O
+combine_57	challenge	O
+combine_57	the	O
+combine_57	player	O

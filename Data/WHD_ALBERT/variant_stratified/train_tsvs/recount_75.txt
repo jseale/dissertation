@@ -1,0 +1,9 @@
+recount_75	Ethnohistoric	O
+recount_75	sources	O
+recount_75	recount	recount_vrb
+recount_75	the	O
+recount_75	process	O
+recount_75	of	O
+recount_75	prismatic	O
+recount_75	blade	O
+recount_75	production	O

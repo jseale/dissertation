@@ -1,0 +1,17 @@
+mobile_5	In	O
+mobile_5	2007	O
+mobile_5	Excitor	O
+mobile_5	was	O
+mobile_5	placed	O
+mobile_5	in	O
+mobile_5	the	O
+mobile_5	IDC	O
+mobile_5	Leadership	O
+mobile_5	Grid	O
+mobile_5	of	O
+mobile_5	the	O
+mobile_5	Mobile	mobile
+mobile_5	Device	O
+mobile_5	Management	O
+mobile_5	Enterprise	O
+mobile_5	Market	O

@@ -1,0 +1,15 @@
+reject_65	Postmodernism	O
+reject_65	describes	O
+reject_65	movements	O
+reject_65	which	O
+reject_65	both	O
+reject_65	arise	O
+reject_65	from	O
+reject_65	and	O
+reject_65	react	O
+reject_65	against	O
+reject_65	or	O
+reject_65	reject	reject_vrb
+reject_65	trends	O
+reject_65	in	O
+reject_65	modernism	O

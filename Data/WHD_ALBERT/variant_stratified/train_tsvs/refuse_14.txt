@@ -1,0 +1,15 @@
+refuse_14	The	O
+refuse_14	lyrics	O
+refuse_14	of	O
+refuse_14	Refuse	refuse_vrb
+refuse_14	Resist	O
+refuse_14	mention	O
+refuse_14	tanks	O
+refuse_14	on	O
+refuse_14	the	O
+refuse_14	streets	O
+refuse_14	confronting	O
+refuse_14	police	O
+refuse_14	bleeding	O
+refuse_14	the	O
+refuse_14	plebs	O

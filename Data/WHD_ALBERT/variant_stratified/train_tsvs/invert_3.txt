@@ -1,0 +1,14 @@
+invert_3	Sucrose	O
+invert_3	is	O
+invert_3	simply	O
+invert_3	hydrolyzed	O
+invert_3	into	O
+invert_3	an	O
+invert_3	invert	invert_adj-nou
+invert_3	sugar	O
+invert_3	syrup	O
+invert_3	which	O
+invert_3	contains	O
+invert_3	about	O
+invert_3	50	O
+invert_3	fructose	O

@@ -1,0 +1,15 @@
+laminate_65	The	O
+laminate_65	Tsai	O
+laminate_65	Wu	O
+laminate_65	criterion	O
+laminate_65	predicts	O
+laminate_65	failure	O
+laminate_65	when	O
+laminate_65	the	O
+laminate_65	failure	O
+laminate_65	index	O
+laminate_65	in	O
+laminate_65	a	O
+laminate_65	laminate	laminate_nou
+laminate_65	reaches	O
+laminate_65	1	O

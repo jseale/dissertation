@@ -1,0 +1,11 @@
+duplicate_2	This	O
+duplicate_2	is	O
+duplicate_2	due	O
+duplicate_2	to	O
+duplicate_2	duplicate	duplicate_adj-nou
+duplicate_2	player	O
+duplicate_2	profiles	O
+duplicate_2	existing	O
+duplicate_2	for	O
+duplicate_2	the	O
+duplicate_2	player	O

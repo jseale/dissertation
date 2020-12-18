@@ -1,0 +1,11 @@
+wound_14	Army	O
+wound_14	autopsies	O
+wound_14	recorded	O
+wound_14	Fetterman	O
+wound_14	's	O
+wound_14	death	O
+wound_14	wound	wound_nou-vrb
+wound_14	as	O
+wound_14	a	O
+wound_14	knife	O
+wound_14	slash	O

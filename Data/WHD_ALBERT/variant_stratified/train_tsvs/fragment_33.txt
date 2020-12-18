@@ -1,0 +1,15 @@
+fragment_33	This	O
+fragment_33	slightly	O
+fragment_33	improves	O
+fragment_33	the	O
+fragment_33	fragment	fragment_nou
+fragment_33	velocity	O
+fragment_33	and	O
+fragment_33	protects	O
+fragment_33	the	O
+fragment_33	steel	O
+fragment_33	fragments	O
+fragment_33	from	O
+fragment_33	the	O
+fragment_33	corrosive	O
+fragment_33	explosive	O

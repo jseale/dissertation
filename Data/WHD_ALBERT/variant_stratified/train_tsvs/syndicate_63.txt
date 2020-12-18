@@ -1,0 +1,15 @@
+syndicate_63	There	O
+syndicate_63	is	O
+syndicate_63	no	O
+syndicate_63	record	O
+syndicate_63	of	O
+syndicate_63	syndicate	syndicate_nou
+syndicate_63	juice	O
+syndicate_63	operations	O
+syndicate_63	in	O
+syndicate_63	Chicago	O
+syndicate_63	for	O
+syndicate_63	instance	O
+syndicate_63	until	O
+syndicate_63	the	O
+syndicate_63	1950s	O

@@ -1,0 +1,13 @@
+use_37	After	O
+use_37	the	O
+use_37	war	O
+use_37	Shinano	O
+use_37	Maru	O
+use_37	reverted	O
+use_37	to	O
+use_37	civilian	O
+use_37	use	use_nou
+use_37	being	O
+use_37	scrapped	O
+use_37	in	O
+use_37	1951	O

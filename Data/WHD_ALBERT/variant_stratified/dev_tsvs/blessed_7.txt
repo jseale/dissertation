@@ -1,0 +1,8 @@
+blessed_7	The	O
+blessed_7	facilities	O
+blessed_7	were	O
+blessed_7	blessed	blessed_vrb
+blessed_7	by	O
+blessed_7	The	O
+blessed_7	Most	O
+blessed_7	Rev.	O

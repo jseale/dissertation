@@ -1,0 +1,12 @@
+aged_60	He	O
+aged_60	started	O
+aged_60	bowling	O
+aged_60	aged	aged
+aged_60	14	O
+aged_60	and	O
+aged_60	made	O
+aged_60	his	O
+aged_60	international	O
+aged_60	debut	O
+aged_60	in	O
+aged_60	1965	O

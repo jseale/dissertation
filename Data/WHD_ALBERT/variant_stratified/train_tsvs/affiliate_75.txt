@@ -1,0 +1,13 @@
+affiliate_75	The	O
+affiliate_75	Libertarian	O
+affiliate_75	Party	O
+affiliate_75	of	O
+affiliate_75	Massachusetts	O
+affiliate_75	is	O
+affiliate_75	the	O
+affiliate_75	Massachusetts	O
+affiliate_75	affiliate	affiliate_nou
+affiliate_75	of	O
+affiliate_75	the	O
+affiliate_75	Libertarian	O
+affiliate_75	Party	O

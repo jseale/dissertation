@@ -1,0 +1,13 @@
+correlate_0	This	O
+correlate_0	suggests	O
+correlate_0	that	O
+correlate_0	the	O
+correlate_0	DKS	O
+correlate_0	model	O
+correlate_0	may	O
+correlate_0	have	O
+correlate_0	a	O
+correlate_0	correlate	correlate_nou
+correlate_0	in	O
+correlate_0	mnemonic	O
+correlate_0	operations	O

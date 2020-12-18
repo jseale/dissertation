@@ -1,0 +1,15 @@
+delegate_0	Every	O
+delegate_0	30	O
+delegate_0	members	O
+delegate_0	can	O
+delegate_0	also	O
+delegate_0	elect	O
+delegate_0	a	O
+delegate_0	delegate	delegate_nou
+delegate_0	who	O
+delegate_0	holds	O
+delegate_0	one	O
+delegate_0	vote	O
+delegate_0	in	O
+delegate_0	the	O
+delegate_0	congress	O

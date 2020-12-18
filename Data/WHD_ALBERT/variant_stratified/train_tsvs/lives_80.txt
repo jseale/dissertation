@@ -1,0 +1,14 @@
+lives_80	After	O
+lives_80	separating	O
+lives_80	from	O
+lives_80	his	O
+lives_80	wife	O
+lives_80	he	O
+lives_80	lives	lives_vrb
+lives_80	on	O
+lives_80	a	O
+lives_80	boat	O
+lives_80	parked	O
+lives_80	outside	O
+lives_80	her	O
+lives_80	house	O

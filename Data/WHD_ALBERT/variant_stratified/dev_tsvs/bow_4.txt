@@ -1,0 +1,14 @@
+bow_4	The	O
+bow_4	boats	O
+bow_4	were	O
+bow_4	armed	O
+bow_4	with	O
+bow_4	four	O
+bow_4	18-inch	O
+bow_4	45	O
+bow_4	cm	O
+bow_4	torpedo	O
+bow_4	tubes	O
+bow_4	in	O
+bow_4	the	O
+bow_4	bow	bow_nou-ship

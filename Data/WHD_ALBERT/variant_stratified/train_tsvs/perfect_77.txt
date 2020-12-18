@@ -1,0 +1,11 @@
+perfect_77	The	O
+perfect_77	ingredients	O
+perfect_77	are	O
+perfect_77	there	O
+perfect_77	she	O
+perfect_77	just	O
+perfect_77	needs	O
+perfect_77	to	O
+perfect_77	perfect	perfect_vrb
+perfect_77	the	O
+perfect_77	mix	O

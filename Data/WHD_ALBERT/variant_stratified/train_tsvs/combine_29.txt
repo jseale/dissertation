@@ -1,0 +1,17 @@
+combine_29	Others	O
+combine_29	such	O
+combine_29	as	O
+combine_29	Helck	O
+combine_29	Vandersleyen	O
+combine_29	Bennett	O
+combine_29	combine	combine_vrb
+combine_29	some	O
+combine_29	of	O
+combine_29	these	O
+combine_29	rulers	O
+combine_29	with	O
+combine_29	the	O
+combine_29	Seventeenth	O
+combine_29	dynasty	O
+combine_29	of	O
+combine_29	Egypt	O

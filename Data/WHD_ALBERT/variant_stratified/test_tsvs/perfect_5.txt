@@ -1,0 +1,12 @@
+perfect_5	The	O
+perfect_5	Fayetteville	O
+perfect_5	Guard	O
+perfect_5	won	O
+perfect_5	a	O
+perfect_5	perfect	perfect_adj
+perfect_5	season	O
+perfect_5	in	O
+perfect_5	2007	O
+perfect_5	in	O
+perfect_5	the	O
+perfect_5	NIFL	O

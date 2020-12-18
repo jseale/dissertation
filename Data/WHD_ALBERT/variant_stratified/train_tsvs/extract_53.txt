@@ -1,0 +1,13 @@
+extract_53	The	O
+extract_53	Romans	O
+extract_53	used	O
+extract_53	lead	O
+extract_53	salt	O
+extract_53	pans	O
+extract_53	to	O
+extract_53	extract	extract_vrb
+extract_53	the	O
+extract_53	salt	O
+extract_53	from	O
+extract_53	the	O
+extract_53	brine	O

@@ -1,0 +1,13 @@
+upset_62	Brock	O
+upset_62	was	O
+upset_62	evidently	O
+upset_62	upset	upset_vrb
+upset_62	by	O
+upset_62	the	O
+upset_62	news	O
+upset_62	that	O
+upset_62	the	O
+upset_62	conspirators	O
+upset_62	had	O
+upset_62	been	O
+upset_62	shot	O

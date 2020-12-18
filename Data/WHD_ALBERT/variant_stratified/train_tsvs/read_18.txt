@@ -1,0 +1,7 @@
+read_18	It	O
+read_18	now	O
+read_18	read	read_past
+read_18	Haldimand	O
+read_18	House	O
+read_18	B.	O
+read_18	Brittons	O

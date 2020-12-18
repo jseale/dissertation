@@ -1,0 +1,12 @@
+rebel_36	In	O
+rebel_36	June	O
+rebel_36	1974	O
+rebel_36	Cockney	O
+rebel_36	Rebel	rebel_nou
+rebel_36	released	O
+rebel_36	their	O
+rebel_36	second	O
+rebel_36	studio	O
+rebel_36	album	O
+rebel_36	The	O
+rebel_36	Psychomodo	O

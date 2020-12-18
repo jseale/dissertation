@@ -1,0 +1,14 @@
+polish_31	Jozef	O
+polish_31	Maczka	O
+polish_31	was	O
+polish_31	also	O
+polish_31	a	O
+polish_31	known	O
+polish_31	poet	O
+polish_31	the	O
+polish_31	most	O
+polish_31	important	O
+polish_31	poet	O
+polish_31	of	O
+polish_31	Polish	polish_geo
+polish_31	Legions	O

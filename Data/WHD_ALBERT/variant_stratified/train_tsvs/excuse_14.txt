@@ -1,0 +1,7 @@
+excuse_14	The	O
+excuse_14	excuse	excuse_nou
+excuse_14	for	O
+excuse_14	the	O
+excuse_14	annulment	O
+excuse_14	was	O
+excuse_14	consanguinity	O

@@ -1,0 +1,16 @@
+learned_75	Additionally	O
+learned_75	there	O
+learned_75	is	O
+learned_75	much	O
+learned_75	to	O
+learned_75	be	O
+learned_75	learned	learned_vrb
+learned_75	about	O
+learned_75	the	O
+learned_75	context	O
+learned_75	surrounding	O
+learned_75	LMX	O
+learned_75	such	O
+learned_75	as	O
+learned_75	organizational	O
+learned_75	culture	O

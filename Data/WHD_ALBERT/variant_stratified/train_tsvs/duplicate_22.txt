@@ -1,0 +1,16 @@
+duplicate_22	The	O
+duplicate_22	convention	O
+duplicate_22	was	O
+duplicate_22	signed	O
+duplicate_22	in	O
+duplicate_22	duplicate	duplicate_adj-nou
+duplicate_22	in	O
+duplicate_22	London	O
+duplicate_22	on	O
+duplicate_22	27	O
+duplicate_22	February	O
+duplicate_22	1884	O
+duplicate_22	by	O
+duplicate_22	Hercules	O
+duplicate_22	Robinson	O
+duplicate_22	S.JP	O

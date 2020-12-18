@@ -1,0 +1,13 @@
+separate_48	Traditionally	O
+separate_48	they	O
+separate_48	have	O
+separate_48	been	O
+separate_48	divided	O
+separate_48	into	O
+separate_48	eleven	O
+separate_48	separate	separate_adj
+separate_48	series	O
+separate_48	Maynard	O
+separate_48	's	O
+separate_48	Reports	O
+separate_48	temp	O

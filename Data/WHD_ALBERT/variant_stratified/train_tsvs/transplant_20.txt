@@ -1,0 +1,12 @@
+transplant_20	In	O
+transplant_20	case	O
+transplant_20	of	O
+transplant_20	life	O
+transplant_20	threatening	O
+transplant_20	diseases	O
+transplant_20	bone	O
+transplant_20	marrow	O
+transplant_20	transplant	transplant_nou
+transplant_20	may	O
+transplant_20	be	O
+transplant_20	attempted	O

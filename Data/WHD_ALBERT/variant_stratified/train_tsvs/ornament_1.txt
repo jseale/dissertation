@@ -1,0 +1,13 @@
+ornament_1	For	O
+ornament_1	each	O
+ornament_1	function	O
+ornament_1	its	O
+ornament_1	material	O
+ornament_1	for	O
+ornament_1	each	O
+ornament_1	material	O
+ornament_1	its	O
+ornament_1	form	O
+ornament_1	and	O
+ornament_1	it	O
+ornament_1	ornament	ornament_nou

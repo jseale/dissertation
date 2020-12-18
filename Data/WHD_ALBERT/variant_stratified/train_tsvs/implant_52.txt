@@ -1,0 +1,12 @@
+implant_52	Cultured	O
+implant_52	pearls	O
+implant_52	are	O
+implant_52	the	O
+implant_52	response	O
+implant_52	of	O
+implant_52	the	O
+implant_52	shell	O
+implant_52	to	O
+implant_52	a	O
+implant_52	tissue	O
+implant_52	implant	implant_nou

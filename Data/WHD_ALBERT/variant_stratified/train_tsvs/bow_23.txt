@@ -1,0 +1,15 @@
+bow_23	The	O
+bow_23	first	O
+bow_23	one	O
+bow_23	to	O
+bow_23	open	O
+bow_23	was	O
+bow_23	Bow	bow_nou-knot
+bow_23	then	O
+bow_23	Chrisp	O
+bow_23	Street	O
+bow_23	Whitechapel	O
+bow_23	then	O
+bow_23	finally	O
+bow_23	Canary	O
+bow_23	Wharf	O

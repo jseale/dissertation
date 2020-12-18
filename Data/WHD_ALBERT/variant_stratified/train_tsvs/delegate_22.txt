@@ -1,0 +1,16 @@
+delegate_22	James	O
+delegate_22	Bayard	O
+delegate_22	was	O
+delegate_22	a	O
+delegate_22	delegate	delegate_nou
+delegate_22	to	O
+delegate_22	the	O
+delegate_22	1860	O
+delegate_22	Democratic	O
+delegate_22	National	O
+delegate_22	Convention	O
+delegate_22	and	O
+delegate_22	Thomas	O
+delegate_22	attended	O
+delegate_22	with	O
+delegate_22	him	O

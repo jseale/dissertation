@@ -1,0 +1,8 @@
+articulate_54	The	O
+articulate_54	organization	O
+articulate_54	's	O
+articulate_54	own	O
+articulate_54	publications	O
+articulate_54	articulate	articulate_vrb
+articulate_54	this	O
+articulate_54	narrative	O

@@ -1,0 +1,7 @@
+celtic_55	There	O
+celtic_55	are	O
+celtic_55	also	O
+celtic_55	some	O
+celtic_55	Celtic	celtic
+celtic_55	standing	O
+celtic_55	stones	O

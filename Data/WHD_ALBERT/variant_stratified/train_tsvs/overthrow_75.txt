@@ -1,0 +1,14 @@
+overthrow_75	The	O
+overthrow_75	Brazilian	O
+overthrow_75	military	O
+overthrow_75	has	O
+overthrow_75	also	O
+overthrow_75	three	O
+overthrow_75	times	O
+overthrow_75	intervened	O
+overthrow_75	militarily	O
+overthrow_75	to	O
+overthrow_75	overthrow	overthrow_vrb
+overthrow_75	the	O
+overthrow_75	Brazilian	O
+overthrow_75	government	O

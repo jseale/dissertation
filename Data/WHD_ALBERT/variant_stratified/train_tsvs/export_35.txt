@@ -1,0 +1,12 @@
+export_35	Export	export_nou
+export_35	subsidy	O
+export_35	as	O
+export_35	such	O
+export_35	can	O
+export_35	become	O
+export_35	a	O
+export_35	self	O
+export_35	defeating	O
+export_35	and	O
+export_35	disruptive	O
+export_35	policy	O

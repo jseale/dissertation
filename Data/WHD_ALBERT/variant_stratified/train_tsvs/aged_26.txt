@@ -1,0 +1,12 @@
+aged_26	Griffith	O
+aged_26	died	O
+aged_26	of	O
+aged_26	a	O
+aged_26	heart	O
+aged_26	attack	O
+aged_26	on	O
+aged_26	25	O
+aged_26	June	O
+aged_26	2010	O
+aged_26	aged	aged
+aged_26	63	O

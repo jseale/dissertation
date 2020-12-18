@@ -1,0 +1,12 @@
+content_4	The	O
+content_4	RPM	O
+content_4	model	O
+content_4	pays	O
+content_4	filmmakers	O
+content_4	for	O
+content_4	every	O
+content_4	minute	O
+content_4	watched	O
+content_4	of	O
+content_4	their	O
+content_4	content	content_nou

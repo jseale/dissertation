@@ -1,0 +1,13 @@
+conflict_69	This	O
+conflict_69	conflict	conflict_nou
+conflict_69	was	O
+conflict_69	to	O
+conflict_69	be	O
+conflict_69	the	O
+conflict_69	catalyst	O
+conflict_69	for	O
+conflict_69	him	O
+conflict_69	immediately	O
+conflict_69	leaving	O
+conflict_69	the	O
+conflict_69	government	O

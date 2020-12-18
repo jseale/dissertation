@@ -1,0 +1,10 @@
+protest_68	The	O
+protest_68	protest	protest_nou
+protest_68	action	O
+protest_68	near	O
+protest_68	the	O
+protest_68	walls	O
+protest_68	of	O
+protest_68	Cabinet	O
+protest_68	of	O
+protest_68	Ministers	O

@@ -1,0 +1,13 @@
+resume_45	They	O
+resume_45	decide	O
+resume_45	to	O
+resume_45	stay	O
+resume_45	the	O
+resume_45	night	O
+resume_45	and	O
+resume_45	resume	resume_vrb
+resume_45	hunting	O
+resume_45	Donna	O
+resume_45	in	O
+resume_45	the	O
+resume_45	morning	O

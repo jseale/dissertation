@@ -1,0 +1,17 @@
+expose_57	To	O
+expose_57	record	O
+expose_57	on	O
+expose_57	film	O
+expose_57	DeForest	O
+expose_57	tried	O
+expose_57	using	O
+expose_57	a	O
+expose_57	standard	O
+expose_57	light	O
+expose_57	bulb	O
+expose_57	to	O
+expose_57	expose	expose_vrb
+expose_57	amplified	O
+expose_57	sound	O
+expose_57	onto	O
+expose_57	film	O

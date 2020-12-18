@@ -1,0 +1,16 @@
+minute_17	The	O
+minute_17	minute	minute
+minute_17	they	O
+minute_17	had	O
+minute_17	lice	O
+minute_17	they	O
+minute_17	just	O
+minute_17	left	O
+minute_17	it	O
+minute_17	alone	O
+minute_17	the	O
+minute_17	women	O
+minute_17	have	O
+minute_17	a	O
+minute_17	different	O
+minute_17	instinct	O

@@ -1,0 +1,17 @@
+expose_3	An	O
+expose_3	expose	expose_nou
+expose_3	of	O
+expose_3	Ricord	O
+expose_3	The	O
+expose_3	Hunt	O
+expose_3	for	O
+expose_3	Andre	O
+expose_3	was	O
+expose_3	published	O
+expose_3	in	O
+expose_3	Reader	O
+expose_3	's	O
+expose_3	Digest	O
+expose_3	May	O
+expose_3	1973	O
+expose_3	pp	O

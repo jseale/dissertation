@@ -1,0 +1,16 @@
+conduct_71	Its	O
+conduct_71	primary	O
+conduct_71	responsibility	O
+conduct_71	is	O
+conduct_71	to	O
+conduct_71	secure	O
+conduct_71	Indian	O
+conduct_71	airspace	O
+conduct_71	and	O
+conduct_71	to	O
+conduct_71	conduct	conduct_vrb
+conduct_71	aerial	O
+conduct_71	warfare	O
+conduct_71	during	O
+conduct_71	a	O
+conduct_71	conflict	O

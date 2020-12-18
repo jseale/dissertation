@@ -1,0 +1,8 @@
+blessed_31	He	O
+blessed_31	also	O
+blessed_31	sees	O
+blessed_31	a	O
+blessed_31	procession	O
+blessed_31	of	O
+blessed_31	the	O
+blessed_31	blessed	blessed_adj

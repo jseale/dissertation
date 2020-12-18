@@ -1,0 +1,16 @@
+syndicate_22	The	O
+syndicate_22	contracts	O
+syndicate_22	stated	O
+syndicate_22	that	O
+syndicate_22	authors	O
+syndicate_22	could	O
+syndicate_22	not	O
+syndicate_22	use	O
+syndicate_22	their	O
+syndicate_22	Stratemeyer	O
+syndicate_22	Syndicate	syndicate_nou
+syndicate_22	pseudonyms	O
+syndicate_22	independently	O
+syndicate_22	of	O
+syndicate_22	the	O
+syndicate_22	Syndicate	syndicate_nou

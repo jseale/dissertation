@@ -1,0 +1,17 @@
+sake_12	It	O
+sake_12	is	O
+sake_12	a	O
+sake_12	tragedy	O
+sake_12	that	O
+sake_12	ends	O
+sake_12	with	O
+sake_12	an	O
+sake_12	individual	O
+sake_12	sacrifice	O
+sake_12	for	O
+sake_12	the	O
+sake_12	sake	sake
+sake_12	of	O
+sake_12	the	O
+sake_12	communal	O
+sake_12	benefit	O

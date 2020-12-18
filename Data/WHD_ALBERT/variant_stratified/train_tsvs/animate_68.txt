@@ -1,0 +1,11 @@
+animate_68	Kneitel	O
+animate_68	returned	O
+animate_68	just	O
+animate_68	when	O
+animate_68	Fleischer	O
+animate_68	obtained	O
+animate_68	the	O
+animate_68	right	O
+animate_68	to	O
+animate_68	animate	animate_vrb
+animate_68	Superman	O

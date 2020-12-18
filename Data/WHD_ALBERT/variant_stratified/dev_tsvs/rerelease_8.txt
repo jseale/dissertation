@@ -1,0 +1,15 @@
+rerelease_8	Penguin	O
+rerelease_8	would	O
+rerelease_8	rerelease	rerelease_vrb
+rerelease_8	Howling	O
+rerelease_8	Mad	O
+rerelease_8	and	O
+rerelease_8	the	O
+rerelease_8	Psi	O
+rerelease_8	Man	O
+rerelease_8	books	O
+rerelease_8	under	O
+rerelease_8	David	O
+rerelease_8	's	O
+rerelease_8	actual	O
+rerelease_8	name	O

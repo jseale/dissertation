@@ -1,0 +1,16 @@
+record_41	Batley	O
+record_41	's	O
+record_41	first	O
+record_41	record	record_nou
+record_41	Starry	O
+record_41	Eyed	O
+record_41	was	O
+record_41	released	O
+record_41	in	O
+record_41	February	O
+record_41	1960	O
+record_41	but	O
+record_41	was	O
+record_41	not	O
+record_41	a	O
+record_41	success	O

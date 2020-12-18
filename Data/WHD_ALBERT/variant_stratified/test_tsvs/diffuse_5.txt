@@ -1,0 +1,11 @@
+diffuse_5	In	O
+diffuse_5	this	O
+diffuse_5	case	O
+diffuse_5	the	O
+diffuse_5	diffuse	diffuse_adj
+diffuse_5	layer	O
+diffuse_5	potential	O
+diffuse_5	will	O
+diffuse_5	increase	O
+diffuse_5	upon	O
+diffuse_5	approach	O

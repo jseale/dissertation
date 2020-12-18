@@ -1,0 +1,9 @@
+conscript_51	The	O
+conscript_51	system	O
+conscript_51	was	O
+conscript_51	called	O
+conscript_51	conscript	conscript_nou
+conscript_51	obligation	O
+conscript_51	Russian	O
+conscript_51	рекрутская	O
+conscript_51	повинность	O

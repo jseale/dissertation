@@ -1,0 +1,13 @@
+animate_56	They	O
+animate_56	also	O
+animate_56	helped	O
+animate_56	animate	animate_vrb
+animate_56	G.A.M.M.A.	O
+animate_56	Force	O
+animate_56	which	O
+animate_56	consisted	O
+animate_56	of	O
+animate_56	13	O
+animate_56	half	O
+animate_56	hour	O
+animate_56	cartoons	O

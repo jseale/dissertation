@@ -1,0 +1,17 @@
+subordinate_24	The	O
+subordinate_24	Surruque	O
+subordinate_24	to	O
+subordinate_24	the	O
+subordinate_24	north	O
+subordinate_24	and	O
+subordinate_24	the	O
+subordinate_24	Jaega	O
+subordinate_24	to	O
+subordinate_24	the	O
+subordinate_24	south	O
+subordinate_24	were	O
+subordinate_24	politically	O
+subordinate_24	subordinate	subordinate_adj-nou
+subordinate_24	to	O
+subordinate_24	the	O
+subordinate_24	Ais	O

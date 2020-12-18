@@ -1,0 +1,16 @@
+insult_27	The	O
+insult_27	phrase	O
+insult_27	originated	O
+insult_27	in	O
+insult_27	gay	O
+insult_27	male	O
+insult_27	culture	O
+insult_27	in	O
+insult_27	the	O
+insult_27	United	O
+insult_27	States	O
+insult_27	and	O
+insult_27	was	O
+insult_27	historically	O
+insult_27	an	O
+insult_27	insult	insult_nou

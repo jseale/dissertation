@@ -1,0 +1,12 @@
+laminate_6	These	O
+laminate_6	use	O
+laminate_6	polyethylene	O
+laminate_6	coated	O
+laminate_6	liquid	O
+laminate_6	packaging	O
+laminate_6	board	O
+laminate_6	and	O
+laminate_6	sometimes	O
+laminate_6	a	O
+laminate_6	foil	O
+laminate_6	laminate	laminate_nou

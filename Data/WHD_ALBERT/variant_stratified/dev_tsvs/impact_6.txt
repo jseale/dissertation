@@ -1,0 +1,13 @@
+impact_6	Ozona	O
+impact_6	Texas	O
+impact_6	sustained	O
+impact_6	the	O
+impact_6	most	O
+impact_6	impact	impact_nou
+impact_6	estimated	O
+impact_6	at	O
+impact_6	$	O
+impact_6	2	O
+impact_6	million	O
+impact_6	in	O
+impact_6	damage	O

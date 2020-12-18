@@ -1,0 +1,9 @@
+compound_33	2,5-Dimethoxybenzaldehyde	O
+compound_33	is	O
+compound_33	an	O
+compound_33	organic	O
+compound_33	compound	compound_nou
+compound_33	and	O
+compound_33	a	O
+compound_33	benzaldehyde	O
+compound_33	derivative	O

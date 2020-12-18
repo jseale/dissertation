@@ -1,0 +1,16 @@
+associate_0	In	O
+associate_0	1913	O
+associate_0	he	O
+associate_0	accepted	O
+associate_0	an	O
+associate_0	appointment	O
+associate_0	as	O
+associate_0	associate	associate_adj-nou
+associate_0	professor	O
+associate_0	and	O
+associate_0	successor	O
+associate_0	of	O
+associate_0	Felix	O
+associate_0	Hausdorff	O
+associate_0	in	O
+associate_0	Bonn	O

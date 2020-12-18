@@ -1,0 +1,7 @@
+defect_20	His	O
+defect_20	only	O
+defect_20	defect	defect_nou
+defect_20	is	O
+defect_20	probably	O
+defect_20	his	O
+defect_20	modesty	O

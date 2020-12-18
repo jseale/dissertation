@@ -1,0 +1,17 @@
+protest_70	Later	O
+protest_70	that	O
+protest_70	year	O
+protest_70	Diokno	O
+protest_70	renounced	O
+protest_70	his	O
+protest_70	claims	O
+protest_70	from	O
+protest_70	the	O
+protest_70	seat	O
+protest_70	amidst	O
+protest_70	the	O
+protest_70	electoral	O
+protest_70	protest	protest_nou
+protest_70	filed	O
+protest_70	by	O
+protest_70	Gomez	O

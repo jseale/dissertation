@@ -1,0 +1,17 @@
+deliberate_75	The	O
+deliberate_75	first	O
+deliberate_75	two	O
+deliberate_75	mistakes	O
+deliberate_75	in	O
+deliberate_75	this	O
+deliberate_75	list	O
+deliberate_75	were	O
+deliberate_75	deliberate	deliberate_adj
+deliberate_75	intended	O
+deliberate_75	to	O
+deliberate_75	be	O
+deliberate_75	examples	O
+deliberate_75	of	O
+deliberate_75	anti	O
+deliberate_75	time	O
+deliberate_75	contamination	O

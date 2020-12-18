@@ -1,0 +1,9 @@
+articulate_2	Bostic	O
+articulate_2	was	O
+articulate_2	always	O
+articulate_2	well	O
+articulate_2	dressed	O
+articulate_2	and	O
+articulate_2	articulate	articulate_adj
+articulate_2	during	O
+articulate_2	interviews	O

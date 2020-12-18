@@ -1,0 +1,17 @@
+decrease_40	There	O
+decrease_40	are	O
+decrease_40	methods	O
+decrease_40	techniques	O
+decrease_40	and	O
+decrease_40	devices	O
+decrease_40	that	O
+decrease_40	decrease	decrease_vrb
+decrease_40	the	O
+decrease_40	occurrence	O
+decrease_40	of	O
+decrease_40	this	O
+decrease_40	type	O
+decrease_40	of	O
+decrease_40	adverse	O
+decrease_40	side	O
+decrease_40	effect	O

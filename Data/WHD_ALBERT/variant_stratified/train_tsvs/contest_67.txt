@@ -1,0 +1,8 @@
+contest_67	Thirty	O
+contest_67	nine	O
+contest_67	countries	O
+contest_67	participated	O
+contest_67	in	O
+contest_67	the	O
+contest_67	2005	O
+contest_67	Contest	contest_nou

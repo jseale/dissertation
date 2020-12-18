@@ -1,0 +1,14 @@
+combine_58	One	O
+combine_58	has	O
+combine_58	to	O
+combine_58	combine	combine_vrb
+combine_58	visa	O
+combine_58	overstays	O
+combine_58	and	O
+combine_58	cross	O
+combine_58	border	O
+combine_58	illegal	O
+combine_58	entries	O
+combine_58	from	O
+combine_58	separate	O
+combine_58	reports	O

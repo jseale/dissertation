@@ -1,0 +1,15 @@
+animate_69	It	O
+animate_69	can	O
+animate_69	also	O
+animate_69	animate	animate_vrb
+animate_69	these	O
+animate_69	plots	O
+animate_69	using	O
+animate_69	up	O
+animate_69	to	O
+animate_69	23	O
+animate_69	variables	O
+animate_69	and	O
+animate_69	their	O
+animate_69	corresponding	O
+animate_69	sliders	O

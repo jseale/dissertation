@@ -1,0 +1,17 @@
+consummate_0	Nevertheless	O
+consummate_0	the	O
+consummate_0	consummate	consummate_adj
+consummate_0	statesman	O
+consummate_0	Richelieu	O
+consummate_0	decided	O
+consummate_0	to	O
+consummate_0	force	O
+consummate_0	Philip	O
+consummate_0	IV	O
+consummate_0	to	O
+consummate_0	look	O
+consummate_0	to	O
+consummate_0	his	O
+consummate_0	own	O
+consummate_0	internal	O
+consummate_0	problems	O

@@ -1,0 +1,17 @@
+associate_31	In	O
+associate_31	2012	O
+associate_31	Tim	O
+associate_31	Tadlock	O
+associate_31	was	O
+associate_31	hired	O
+associate_31	as	O
+associate_31	associate	associate_adj-nou
+associate_31	head	O
+associate_31	coach	O
+associate_31	for	O
+associate_31	the	O
+associate_31	Red	O
+associate_31	Raiders	O
+associate_31	under	O
+associate_31	Dan	O
+associate_31	Spencer	O

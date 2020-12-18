@@ -1,0 +1,12 @@
+defect_12	In	O
+defect_12	2010	O
+defect_12	Sigma	O
+defect_12	recalled	O
+defect_12	some	O
+defect_12	lenses	O
+defect_12	due	O
+defect_12	to	O
+defect_12	a	O
+defect_12	potential	O
+defect_12	autofocus	O
+defect_12	defect	defect_nou

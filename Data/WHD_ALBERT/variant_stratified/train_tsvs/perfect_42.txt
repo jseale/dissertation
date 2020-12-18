@@ -1,0 +1,10 @@
+perfect_42	Bilguun	O
+perfect_42	Ariunbaatar	O
+perfect_42	received	O
+perfect_42	his	O
+perfect_42	second	O
+perfect_42	perfect	perfect_adj
+perfect_42	score	O
+perfect_42	for	O
+perfect_42	the	O
+perfect_42	Tango	O

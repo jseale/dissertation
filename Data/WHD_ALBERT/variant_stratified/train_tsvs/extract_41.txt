@@ -1,0 +1,15 @@
+extract_41	It	O
+extract_41	may	O
+extract_41	highly	O
+extract_41	reduce	O
+extract_41	the	O
+extract_41	country	O
+extract_41	's	O
+extract_41	ability	O
+extract_41	to	O
+extract_41	extract	extract_vrb
+extract_41	financial	O
+extract_41	resources	O
+extract_41	on	O
+extract_41	international	O
+extract_41	basis	O

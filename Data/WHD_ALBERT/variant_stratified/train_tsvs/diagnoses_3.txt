@@ -1,0 +1,11 @@
+diagnoses_3	To	O
+diagnoses_3	exclude	O
+diagnoses_3	other	O
+diagnoses_3	differential	O
+diagnoses_3	diagnoses	diagnoses_nou
+diagnoses_3	a	O
+diagnoses_3	skin	O
+diagnoses_3	biopsy	O
+diagnoses_3	may	O
+diagnoses_3	be	O
+diagnoses_3	taken	O

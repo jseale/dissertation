@@ -1,0 +1,8 @@
+compress_47	There	O
+compress_47	are	O
+compress_47	squeeze	O
+compress_47	containers	O
+compress_47	that	O
+compress_47	compress	compress
+compress_47	the	O
+compress_47	garbage	O

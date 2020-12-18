@@ -1,0 +1,13 @@
+rodeo_3	The	O
+rodeo_3	remaining	O
+rodeo_3	women	O
+rodeo_3	celebrate	O
+rodeo_3	but	O
+rodeo_3	Rodeo	rodeo
+rodeo_3	realizes	O
+rodeo_3	she	O
+rodeo_3	misses	O
+rodeo_3	her	O
+rodeo_3	7-year	O
+rodeo_3	old	O
+rodeo_3	son	O

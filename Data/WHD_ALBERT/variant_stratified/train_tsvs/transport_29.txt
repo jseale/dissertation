@@ -1,0 +1,17 @@
+transport_29	Lone	O
+transport_29	Jack	O
+transport_29	was	O
+transport_29	operated	O
+transport_29	under	O
+transport_29	General	O
+transport_29	Agency	O
+transport_29	Agreement	O
+transport_29	by	O
+transport_29	Marine	O
+transport_29	Transport	transport_nou
+transport_29	Lines	O
+transport_29	Inc.	O
+transport_29	of	O
+transport_29	New	O
+transport_29	York	O
+transport_29	City	O

@@ -1,0 +1,14 @@
+reject_67	The	O
+reject_67	Wales	O
+reject_67	coach	O
+reject_67	Graham	O
+reject_67	Henry	O
+reject_67	said	O
+reject_67	It	O
+reject_67	was	O
+reject_67	right	O
+reject_67	to	O
+reject_67	reject	reject_vrb
+reject_67	this	O
+reject_67	paltry	O
+reject_67	offer	O

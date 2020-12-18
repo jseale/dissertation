@@ -1,0 +1,12 @@
+increment_36	Increment	increment_nou
+increment_36	I	O
+increment_36	has	O
+increment_36	a	O
+increment_36	unitary	O
+increment_36	penetrating	O
+increment_36	warhead	O
+increment_36	for	O
+increment_36	use	O
+increment_36	against	O
+increment_36	stationary	O
+increment_36	targets	O

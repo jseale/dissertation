@@ -1,0 +1,12 @@
+insult_53	Arab	O
+insult_53	culture	O
+insult_53	the	O
+insult_53	insult	insult_nou
+insult_53	of	O
+insult_53	the	O
+insult_53	shoe	O
+insult_53	The	O
+insult_53	Telegraph	O
+insult_53	15	O
+insult_53	December	O
+insult_53	2008	O

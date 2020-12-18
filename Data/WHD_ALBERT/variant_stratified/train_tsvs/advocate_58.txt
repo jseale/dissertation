@@ -1,0 +1,14 @@
+advocate_58	The	O
+advocate_58	Erin	O
+advocate_58	Advocate	advocate_nou
+advocate_58	also	O
+advocate_58	publishes	O
+advocate_58	the	O
+advocate_58	monthly	O
+advocate_58	Country	O
+advocate_58	Routes	O
+advocate_58	paper	O
+advocate_58	distributed	O
+advocate_58	to	O
+advocate_58	surrounding	O
+advocate_58	areas	O

@@ -1,0 +1,10 @@
+learned_4	He	O
+learned_4	learned	learned_vrb
+learned_4	Chinese	O
+learned_4	Japanese	O
+learned_4	techniques	O
+learned_4	beside	O
+learned_4	traditional	O
+learned_4	Indian	O
+learned_4	European	O
+learned_4	styles	O

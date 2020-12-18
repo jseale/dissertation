@@ -1,0 +1,13 @@
+escort_74	Tear	O
+escort_74	then	O
+escort_74	decides	O
+escort_74	to	O
+escort_74	escort	escort_vrb
+escort_74	Luke	O
+escort_74	back	O
+escort_74	to	O
+escort_74	the	O
+escort_74	manor	O
+escort_74	in	O
+escort_74	Kimlasca	O
+escort_74	Lanvaldear	O

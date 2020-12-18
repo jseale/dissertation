@@ -1,0 +1,11 @@
+reading_38	Signs	O
+reading_38	were	O
+reading_38	put	O
+reading_38	up	O
+reading_38	around	O
+reading_38	South	O
+reading_38	Armagh	O
+reading_38	reading	reading_en
+reading_38	Sniper	O
+reading_38	at	O
+reading_38	Work	O

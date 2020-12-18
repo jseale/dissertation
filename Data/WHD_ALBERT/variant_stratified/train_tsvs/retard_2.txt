@@ -1,0 +1,12 @@
+retard_2	Retard	retard_nou
+retard_2	was	O
+retard_2	not	O
+retard_2	used	O
+retard_2	to	O
+retard_2	refer	O
+retard_2	to	O
+retard_2	mentally	O
+retard_2	disabled	O
+retard_2	people	O
+retard_2	until	O
+retard_2	1985	O

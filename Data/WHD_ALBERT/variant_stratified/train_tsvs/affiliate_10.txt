@@ -1,0 +1,12 @@
+affiliate_10	It	O
+affiliate_10	was	O
+affiliate_10	a	O
+affiliate_10	Mutual	O
+affiliate_10	affiliate	affiliate_nou
+affiliate_10	owned	O
+affiliate_10	by	O
+affiliate_10	Cedar	O
+affiliate_10	Valley	O
+affiliate_10	Broadcasting	O
+affiliate_10	Company	O
+affiliate_10	Incorporated	O

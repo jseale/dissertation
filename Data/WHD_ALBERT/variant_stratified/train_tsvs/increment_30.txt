@@ -1,0 +1,17 @@
+increment_30	Studies	O
+increment_30	on	O
+increment_30	the	O
+increment_30	seasonal	O
+increment_30	incidence	O
+increment_30	of	O
+increment_30	defoliators	O
+increment_30	and	O
+increment_30	the	O
+increment_30	effect	O
+increment_30	of	O
+increment_30	defoliation	O
+increment_30	on	O
+increment_30	volume	O
+increment_30	increment	increment_nou
+increment_30	of	O
+increment_30	teak	O

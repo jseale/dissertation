@@ -1,0 +1,11 @@
+graduate_6	She	O
+graduate_6	did	O
+graduate_6	her	O
+graduate_6	Graduate	graduate_adj-nou
+graduate_6	work	O
+graduate_6	at	O
+graduate_6	Adelphi	O
+graduate_6	University	O
+graduate_6	and	O
+graduate_6	Queens	O
+graduate_6	College	O

@@ -1,0 +1,8 @@
+transport_0	Local	O
+transport_0	access	O
+transport_0	and	O
+transport_0	transport	transport_nou
+transport_0	areaLocal	O
+transport_0	telephone	O
+transport_0	serviceTrunk	O
+transport_0	vs.	O

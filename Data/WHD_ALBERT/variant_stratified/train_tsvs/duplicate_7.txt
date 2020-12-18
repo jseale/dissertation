@@ -1,0 +1,17 @@
+duplicate_7	Duplicate	duplicate_adj-nou
+duplicate_7	stamps	O
+duplicate_7	can	O
+duplicate_7	be	O
+duplicate_7	sold	O
+duplicate_7	or	O
+duplicate_7	traded	O
+duplicate_7	so	O
+duplicate_7	they	O
+duplicate_7	are	O
+duplicate_7	an	O
+duplicate_7	important	O
+duplicate_7	medium	O
+duplicate_7	of	O
+duplicate_7	exchange	O
+duplicate_7	among	O
+duplicate_7	collectors	O

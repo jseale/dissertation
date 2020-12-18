@@ -1,0 +1,14 @@
+deliberate_42	There	O
+deliberate_42	is	O
+deliberate_42	no	O
+deliberate_42	penalty	O
+deliberate_42	for	O
+deliberate_42	hitting	O
+deliberate_42	a	O
+deliberate_42	hurdle	O
+deliberate_42	provided	O
+deliberate_42	this	O
+deliberate_42	is	O
+deliberate_42	not	O
+deliberate_42	judged	O
+deliberate_42	deliberate	deliberate_adj

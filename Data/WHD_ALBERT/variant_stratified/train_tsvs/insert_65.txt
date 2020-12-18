@@ -1,0 +1,11 @@
+insert_65	Most	O
+insert_65	triggers	O
+insert_65	are	O
+insert_65	only	O
+insert_65	activated	O
+insert_65	by	O
+insert_65	either	O
+insert_65	INSERT	insert_vrb
+insert_65	or	O
+insert_65	UPDATE	O
+insert_65	statements	O

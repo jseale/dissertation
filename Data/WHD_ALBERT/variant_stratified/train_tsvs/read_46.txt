@@ -1,0 +1,16 @@
+read_46	The	O
+read_46	Old	O
+read_46	Testament	O
+read_46	is	O
+read_46	read	read_past
+read_46	once	O
+read_46	in	O
+read_46	the	O
+read_46	year	O
+read_46	and	O
+read_46	the	O
+read_46	New	O
+read_46	Testament	O
+read_46	is	O
+read_46	read	read_past
+read_46	twice	O

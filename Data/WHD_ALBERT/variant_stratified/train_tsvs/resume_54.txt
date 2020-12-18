@@ -1,0 +1,16 @@
+resume_54	In	O
+resume_54	the	O
+resume_54	GATE	O
+resume_54	offices	O
+resume_54	Trishanne	O
+resume_54	returns	O
+resume_54	to	O
+resume_54	resume	resume_vrb
+resume_54	her	O
+resume_54	cover	O
+resume_54	only	O
+resume_54	to	O
+resume_54	discover	O
+resume_54	the	O
+resume_54	hostage	O
+resume_54	situation	O

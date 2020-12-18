@@ -1,0 +1,14 @@
+incline_0	The	O
+incline_0	steep	O
+incline_0	incline	incline_nou
+incline_0	has	O
+incline_0	been	O
+incline_0	cited	O
+incline_0	as	O
+incline_0	a	O
+incline_0	factor	O
+incline_0	in	O
+incline_0	some	O
+incline_0	serious	O
+incline_0	traffic	O
+incline_0	accidents	O

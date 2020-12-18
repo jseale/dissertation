@@ -1,0 +1,16 @@
+record_9	In	O
+record_9	2012	O
+record_9	Nate	O
+record_9	teamed	O
+record_9	up	O
+record_9	with	O
+record_9	Manchester	O
+record_9	duo	O
+record_9	HeavyFeet	O
+record_9	to	O
+record_9	record	record_vrb
+record_9	the	O
+record_9	hit	O
+record_9	single	O
+record_9	Back	O
+record_9	Foot	O

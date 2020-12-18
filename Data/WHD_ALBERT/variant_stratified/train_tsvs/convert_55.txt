@@ -1,0 +1,15 @@
+convert_55	Even	O
+convert_55	if	O
+convert_55	a	O
+convert_55	signal	O
+convert_55	is	O
+convert_55	sent	O
+convert_55	interlaced	O
+convert_55	an	O
+convert_55	HDTV	O
+convert_55	will	O
+convert_55	convert	convert_vrb
+convert_55	it	O
+convert_55	to	O
+convert_55	progressive	O
+convert_55	scan	O

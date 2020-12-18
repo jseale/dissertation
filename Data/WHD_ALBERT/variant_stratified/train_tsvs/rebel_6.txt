@@ -1,0 +1,13 @@
+rebel_6	However	O
+rebel_6	in	O
+rebel_6	Jangheung	O
+rebel_6	the	O
+rebel_6	rebel	rebel_nou
+rebel_6	leader	O
+rebel_6	Yi	O
+rebel_6	Bangeon	O
+rebel_6	captured	O
+rebel_6	Gangjin	O
+rebel_6	in	O
+rebel_6	December	O
+rebel_6	7	O

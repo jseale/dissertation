@@ -1,0 +1,10 @@
+attribute_56	Others	O
+attribute_56	scholars	O
+attribute_56	attribute	attribute_vrb
+attribute_56	the	O
+attribute_56	founding	O
+attribute_56	of	O
+attribute_56	Brescia	O
+attribute_56	to	O
+attribute_56	the	O
+attribute_56	Etruscans	O

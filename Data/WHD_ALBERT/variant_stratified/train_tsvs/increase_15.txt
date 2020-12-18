@@ -1,0 +1,12 @@
+increase_15	The	O
+increase_15	result	O
+increase_15	is	O
+increase_15	a	O
+increase_15	16	O
+increase_15	increase	increase_nou
+increase_15	in	O
+increase_15	dividends	O
+increase_15	to	O
+increase_15	the	O
+increase_15	company	O
+increase_15	shareholders	O

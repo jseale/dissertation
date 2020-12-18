@@ -1,0 +1,10 @@
+converse_55	Many	O
+converse_55	educated	O
+converse_55	Gibraltarians	O
+converse_55	are	O
+converse_55	able	O
+converse_55	to	O
+converse_55	converse	converse_vrb
+converse_55	in	O
+converse_55	Received	O
+converse_55	Pronunciation	O

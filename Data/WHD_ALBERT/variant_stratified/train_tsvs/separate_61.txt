@@ -1,0 +1,15 @@
+separate_61	Separate	separate_adj
+separate_61	local	O
+separate_61	government	O
+separate_61	began	O
+separate_61	in	O
+separate_61	1890	O
+separate_61	when	O
+separate_61	the	O
+separate_61	Scunthorpe	O
+separate_61	local	O
+separate_61	board	O
+separate_61	of	O
+separate_61	health	O
+separate_61	was	O
+separate_61	formed	O

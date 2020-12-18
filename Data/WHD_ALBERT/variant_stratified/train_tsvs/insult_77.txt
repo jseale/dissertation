@@ -1,0 +1,15 @@
+insult_77	Polina	O
+insult_77	dares	O
+insult_77	him	O
+insult_77	to	O
+insult_77	insult	insult_vrb
+insult_77	the	O
+insult_77	aristocratic	O
+insult_77	couple	O
+insult_77	and	O
+insult_77	he	O
+insult_77	does	O
+insult_77	so	O
+insult_77	with	O
+insult_77	little	O
+insult_77	hesitation	O

@@ -1,0 +1,13 @@
+isolate_57	The	O
+isolate_57	moving	O
+isolate_57	is	O
+isolate_57	intended	O
+isolate_57	to	O
+isolate_57	isolate	isolate
+isolate_57	them	O
+isolate_57	and	O
+isolate_57	cut	O
+isolate_57	drug	O
+isolate_57	circulation	O
+isolate_57	in	O
+isolate_57	Indonesia	O

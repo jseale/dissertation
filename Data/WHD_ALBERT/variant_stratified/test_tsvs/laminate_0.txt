@@ -1,0 +1,17 @@
+laminate_0	The	O
+laminate_0	company	O
+laminate_0	built	O
+laminate_0	maple	O
+laminate_0	laminate	laminate_nou
+laminate_0	propellers	O
+laminate_0	for	O
+laminate_0	engines	O
+laminate_0	of	O
+laminate_0	65	O
+laminate_0	to	O
+laminate_0	260	O
+laminate_0	hp	O
+laminate_0	48	O
+laminate_0	to	O
+laminate_0	194	O
+laminate_0	kW	O

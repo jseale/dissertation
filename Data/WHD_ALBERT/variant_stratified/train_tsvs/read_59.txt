@@ -1,0 +1,14 @@
+read_59	Lewis	O
+read_59	went	O
+read_59	on	O
+read_59	to	O
+read_59	read	read_present
+read_59	government	O
+read_59	and	O
+read_59	law	O
+read_59	at	O
+read_59	the	O
+read_59	London	O
+read_59	School	O
+read_59	of	O
+read_59	Economics	O

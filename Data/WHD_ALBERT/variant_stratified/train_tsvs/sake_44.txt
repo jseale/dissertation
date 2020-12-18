@@ -1,0 +1,11 @@
+sake_44	This	O
+sake_44	section	O
+sake_44	drawn	O
+sake_44	from	O
+sake_44	Art	O
+sake_44	for	O
+sake_44	History	O
+sake_44	's	O
+sake_44	Sake	sake
+sake_44	by	O
+sake_44	Steinfelt	O

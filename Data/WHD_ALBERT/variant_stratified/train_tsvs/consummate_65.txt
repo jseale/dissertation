@@ -1,0 +1,16 @@
+consummate_65	Lisbeth	O
+consummate_65	and	O
+consummate_65	Jacques	O
+consummate_65	consummate	consummate_vrb
+consummate_65	their	O
+consummate_65	relationship	O
+consummate_65	but	O
+consummate_65	soon	O
+consummate_65	afterwards	O
+consummate_65	she	O
+consummate_65	returns	O
+consummate_65	to	O
+consummate_65	Alsace	O
+consummate_65	leaving	O
+consummate_65	him	O
+consummate_65	devastated	O

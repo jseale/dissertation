@@ -1,0 +1,12 @@
+implement_26	Eder	O
+implement_26	tried	O
+implement_26	to	O
+implement_26	implement	implement_vrb
+implement_26	science	O
+implement_26	methods	O
+implement_26	into	O
+implement_26	the	O
+implement_26	development	O
+implement_26	of	O
+implement_26	photographic	O
+implement_26	processes	O

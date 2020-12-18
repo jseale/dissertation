@@ -1,0 +1,14 @@
+export_8	Eskom	O
+export_8	however	O
+export_8	announced	O
+export_8	on	O
+export_8	20	O
+export_8	January	O
+export_8	2008	O
+export_8	that	O
+export_8	it	O
+export_8	had	O
+export_8	ceased	O
+export_8	to	O
+export_8	export	export_vrb
+export_8	power	O

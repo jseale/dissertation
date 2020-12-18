@@ -1,0 +1,12 @@
+advocate_27	He	O
+advocate_27	was	O
+advocate_27	Advocate	advocate_nou
+advocate_27	General	O
+advocate_27	of	O
+advocate_27	Uttar	O
+advocate_27	Pradesh	O
+advocate_27	India	O
+advocate_27	from	O
+advocate_27	1952	O
+advocate_27	to	O
+advocate_27	1969	O

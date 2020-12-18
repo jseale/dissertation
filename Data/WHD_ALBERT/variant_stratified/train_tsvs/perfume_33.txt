@@ -1,0 +1,14 @@
+perfume_33	In	O
+perfume_33	August	O
+perfume_33	2013	O
+perfume_33	Perfume	perfume_nou
+perfume_33	announced	O
+perfume_33	the	O
+perfume_33	release	O
+perfume_33	of	O
+perfume_33	their	O
+perfume_33	fourth	O
+perfume_33	studio	O
+perfume_33	album	O
+perfume_33	entitled	O
+perfume_33	Level3	O

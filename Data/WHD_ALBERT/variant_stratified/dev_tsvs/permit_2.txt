@@ -1,0 +1,13 @@
+permit_2	He	O
+permit_2	had	O
+permit_2	to	O
+permit_2	wait	O
+permit_2	an	O
+permit_2	entire	O
+permit_2	year	O
+permit_2	to	O
+permit_2	get	O
+permit_2	an	O
+permit_2	official	O
+permit_2	shooting	O
+permit_2	permit	permit_nou

@@ -1,0 +1,11 @@
+converse_15	Afterwards	O
+converse_15	Converse	converse_adj-nou
+converse_15	turned	O
+converse_15	against	O
+converse_15	Stutts	O
+converse_15	and	O
+converse_15	hit	O
+converse_15	him	O
+converse_15	with	O
+converse_15	his	O
+converse_15	finisher	O

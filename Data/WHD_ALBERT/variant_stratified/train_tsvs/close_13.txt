@@ -1,0 +1,15 @@
+close_13	Some	O
+close_13	time	O
+close_13	before	O
+close_13	1907	O
+close_13	Lapeyre	O
+close_13	moved	O
+close_13	into	O
+close_13	the	O
+close_13	area	O
+close_13	living	O
+close_13	in	O
+close_13	rue	O
+close_13	Lepic	O
+close_13	close	close_adj-nou
+close_13	by	O

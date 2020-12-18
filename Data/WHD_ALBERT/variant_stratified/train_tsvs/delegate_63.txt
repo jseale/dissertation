@@ -1,0 +1,13 @@
+delegate_63	He	O
+delegate_63	was	O
+delegate_63	an	O
+delegate_63	alternate	O
+delegate_63	delegate	delegate_nou
+delegate_63	to	O
+delegate_63	the	O
+delegate_63	1960	O
+delegate_63	and	O
+delegate_63	1964	O
+delegate_63	Republican	O
+delegate_63	National	O
+delegate_63	Conventions	O

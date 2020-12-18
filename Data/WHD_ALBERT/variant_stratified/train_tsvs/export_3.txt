@@ -1,0 +1,10 @@
+export_3	Echoes	O
+export_3	received	O
+export_3	Gold	O
+export_3	Export	export_nou
+export_3	Award	O
+export_3	for	O
+export_3	its	O
+export_3	sales	O
+export_3	outside	O
+export_3	France	O

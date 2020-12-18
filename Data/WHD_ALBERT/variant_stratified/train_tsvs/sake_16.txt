@@ -1,0 +1,13 @@
+sake_16	For	O
+sake_16	the	O
+sake_16	sake	sake
+sake_16	of	O
+sake_16	his	O
+sake_16	wife	O
+sake_16	and	O
+sake_16	son	O
+sake_16	Drona	O
+sake_16	desired	O
+sake_16	freedom	O
+sake_16	from	O
+sake_16	poverty	O

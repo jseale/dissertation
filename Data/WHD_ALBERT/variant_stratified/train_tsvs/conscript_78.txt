@@ -1,0 +1,12 @@
+conscript_78	The	O
+conscript_78	next	O
+conscript_78	day	O
+conscript_78	partisans	O
+conscript_78	arrive	O
+conscript_78	at	O
+conscript_78	Florya	O
+conscript_78	's	O
+conscript_78	house	O
+conscript_78	and	O
+conscript_78	conscript	conscript_vrb
+conscript_78	him	O

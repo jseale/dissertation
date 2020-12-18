@@ -1,0 +1,14 @@
+subordinate_58	The	O
+subordinate_58	two	O
+subordinate_58	B	O
+subordinate_58	sections	O
+subordinate_58	subordinate	subordinate_adj-nou
+subordinate_58	themes	O
+subordinate_58	are	O
+subordinate_58	in	O
+subordinate_58	G	O
+subordinate_58	major	O
+subordinate_58	and	O
+subordinate_58	C	O
+subordinate_58	major	O
+subordinate_58	respectively	O

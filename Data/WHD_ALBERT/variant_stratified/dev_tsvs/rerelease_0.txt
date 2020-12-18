@@ -1,0 +1,16 @@
+rerelease_0	EMI	O
+rerelease_0	did	O
+rerelease_0	the	O
+rerelease_0	second	O
+rerelease_0	rerelease	rerelease
+rerelease_0	in	O
+rerelease_0	1999	O
+rerelease_0	featuring	O
+rerelease_0	24-bit	O
+rerelease_0	digitally	O
+rerelease_0	remastered	O
+rerelease_0	sound	O
+rerelease_0	and	O
+rerelease_0	no	O
+rerelease_0	bonus	O
+rerelease_0	tracks	O

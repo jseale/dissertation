@@ -1,0 +1,7 @@
+compound_5	Another	O
+compound_5	example	O
+compound_5	could	O
+compound_5	be	O
+compound_5	the	O
+compound_5	compound	compound_nou
+compound_5	PbS₂.	O

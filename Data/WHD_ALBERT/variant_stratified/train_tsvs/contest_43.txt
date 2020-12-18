@@ -1,0 +1,15 @@
+contest_43	He	O
+contest_43	qualified	O
+contest_43	for	O
+contest_43	the	O
+contest_43	final	O
+contest_43	and	O
+contest_43	finished	O
+contest_43	the	O
+contest_43	contest	contest_nou
+contest_43	at	O
+contest_43	8th	O
+contest_43	position	O
+contest_43	with	O
+contest_43	229	O
+contest_43	points	O

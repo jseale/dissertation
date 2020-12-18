@@ -1,0 +1,14 @@
+perfect_68	The	O
+perfect_68	Perfect	perfect_adj
+perfect_68	Crime	O
+perfect_68	is	O
+perfect_68	the	O
+perfect_68	eighth	O
+perfect_68	studio	O
+perfect_68	album	O
+perfect_68	by	O
+perfect_68	Australian	O
+perfect_68	rock	O
+perfect_68	band	O
+perfect_68	Cold	O
+perfect_68	Chisel	O

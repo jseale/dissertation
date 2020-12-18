@@ -1,0 +1,8 @@
+refund_7	Europa	O
+refund_7	received	O
+refund_7	a	O
+refund_7	tax	O
+refund_7	refund	refund_nou
+refund_7	of	O
+refund_7	$	O
+refund_7	NZ4,000,000	O

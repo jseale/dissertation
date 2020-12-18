@@ -1,0 +1,17 @@
+export_15	Because	O
+export_15	sherry	O
+export_15	was	O
+export_15	a	O
+export_15	major	O
+export_15	wine	O
+export_15	export	export_nou
+export_15	to	O
+export_15	the	O
+export_15	United	O
+export_15	Kingdom	O
+export_15	many	O
+export_15	English	O
+export_15	companies	O
+export_15	and	O
+export_15	styles	O
+export_15	developed	O

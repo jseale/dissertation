@@ -1,0 +1,16 @@
+increase_44	Cinobufagin	O
+increase_44	has	O
+increase_44	been	O
+increase_44	shown	O
+increase_44	to	O
+increase_44	increase	increase_vrb
+increase_44	pain	O
+increase_44	threshold	O
+increase_44	levels	O
+increase_44	in	O
+increase_44	mice	O
+increase_44	to	O
+increase_44	thermal	O
+increase_44	and	O
+increase_44	mechanical	O
+increase_44	stimuli	O

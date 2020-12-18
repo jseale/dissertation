@@ -1,0 +1,14 @@
+buffet_2	The	O
+buffet_2	brand	O
+buffet_2	even	O
+buffet_2	started	O
+buffet_2	running	O
+buffet_2	a	O
+buffet_2	vegan	O
+buffet_2	buffet	buffet_nou
+buffet_2	chain	O
+buffet_2	in	O
+buffet_2	Hong	O
+buffet_2	Kong	O
+buffet_2	in	O
+buffet_2	2015	O

@@ -1,0 +1,15 @@
+syndicate_38	It	O
+syndicate_38	was	O
+syndicate_38	syndicated	O
+syndicate_38	by	O
+syndicate_38	the	O
+syndicate_38	Register	O
+syndicate_38	and	O
+syndicate_38	Tribune	O
+syndicate_38	Syndicate	syndicate_nou
+syndicate_38	now	O
+syndicate_38	part	O
+syndicate_38	of	O
+syndicate_38	King	O
+syndicate_38	Features	O
+syndicate_38	Syndicate	syndicate_nou

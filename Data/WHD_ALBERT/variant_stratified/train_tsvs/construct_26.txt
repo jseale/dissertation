@@ -1,0 +1,9 @@
+construct_26	When	O
+construct_26	development	O
+construct_26	is	O
+construct_26	completed	O
+construct_26	larvae	O
+construct_26	construct	construct_vrb
+construct_26	cocoons	O
+construct_26	to	O
+construct_26	pupate	O

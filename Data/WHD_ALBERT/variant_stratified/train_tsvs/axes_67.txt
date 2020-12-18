@@ -1,0 +1,11 @@
+axes_67	Flakes	O
+axes_67	and	O
+axes_67	axes	axes_nou-vrb
+axes_67	coexisted	O
+axes_67	in	O
+axes_67	Europe	O
+axes_67	sometimes	O
+axes_67	at	O
+axes_67	the	O
+axes_67	same	O
+axes_67	site	O

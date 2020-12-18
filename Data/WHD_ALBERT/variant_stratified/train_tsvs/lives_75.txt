@@ -1,0 +1,13 @@
+lives_75	She	O
+lives_75	currently	O
+lives_75	lives	lives_vrb
+lives_75	in	O
+lives_75	Brighton	O
+lives_75	where	O
+lives_75	she	O
+lives_75	works	O
+lives_75	in	O
+lives_75	a	O
+lives_75	shared	O
+lives_75	artists	O
+lives_75	studio	O

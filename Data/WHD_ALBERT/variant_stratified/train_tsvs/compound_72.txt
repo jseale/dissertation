@@ -1,0 +1,7 @@
+compound_72	The	O
+compound_72	compound	compound_nou
+compound_72	is	O
+compound_72	slowly	O
+compound_72	decomposed	O
+compound_72	by	O
+compound_72	light	O

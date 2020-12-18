@@ -1,0 +1,13 @@
+tear_2	The	O
+tear_2	police	O
+tear_2	again	O
+tear_2	used	O
+tear_2	tear	tear_nou
+tear_2	gas	O
+tear_2	and	O
+tear_2	a	O
+tear_2	water	O
+tear_2	cannon	O
+tear_2	to	O
+tear_2	control	O
+tear_2	crowds	O

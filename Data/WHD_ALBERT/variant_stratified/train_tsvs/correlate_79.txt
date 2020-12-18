@@ -1,0 +1,15 @@
+correlate_79	These	O
+correlate_79	tension	O
+correlate_79	levels	O
+correlate_79	are	O
+correlate_79	not	O
+correlate_79	standardized	O
+correlate_79	between	O
+correlate_79	manufacturers	O
+correlate_79	and	O
+correlate_79	do	O
+correlate_79	not	O
+correlate_79	correlate	correlate_nou-vrb
+correlate_79	to	O
+correlate_79	specific	O
+correlate_79	diameters	O

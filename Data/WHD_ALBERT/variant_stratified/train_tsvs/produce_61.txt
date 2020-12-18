@@ -1,0 +1,13 @@
+produce_61	In	O
+produce_61	order	O
+produce_61	to	O
+produce_61	produce	produce_vrb
+produce_61	a	O
+produce_61	follow	O
+produce_61	up	O
+produce_61	picture	O
+produce_61	Raimi	O
+produce_61	needed	O
+produce_61	nearly	O
+produce_61	$	O
+produce_61	150,000	O

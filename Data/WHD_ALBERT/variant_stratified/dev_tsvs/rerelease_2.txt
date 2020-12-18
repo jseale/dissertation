@@ -1,0 +1,16 @@
+rerelease_2	The	O
+rerelease_2	July	O
+rerelease_2	1982	O
+rerelease_2	German	O
+rerelease_2	rerelease	rerelease
+rerelease_2	of	O
+rerelease_2	the	O
+rerelease_2	single	O
+rerelease_2	Alabama	O
+rerelease_2	Song	O
+rerelease_2	had	O
+rerelease_2	Amsterdam	O
+rerelease_2	as	O
+rerelease_2	the	O
+rerelease_2	B	O
+rerelease_2	side	O

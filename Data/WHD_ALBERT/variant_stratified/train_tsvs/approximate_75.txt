@@ -1,0 +1,14 @@
+approximate_75	Photographs	O
+approximate_75	of	O
+approximate_75	Earth	O
+approximate_75	from	O
+approximate_75	far	O
+approximate_75	enough	O
+approximate_75	away	O
+approximate_75	such	O
+approximate_75	as	O
+approximate_75	the	O
+approximate_75	Moon	O
+approximate_75	approximate	approximate_vrb
+approximate_75	this	O
+approximate_75	perspective	O

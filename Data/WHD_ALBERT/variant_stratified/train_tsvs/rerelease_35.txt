@@ -1,0 +1,17 @@
+rerelease_35	Additional	O
+rerelease_35	and	O
+rerelease_35	reworked	O
+rerelease_35	tracks	O
+rerelease_35	were	O
+rerelease_35	created	O
+rerelease_35	for	O
+rerelease_35	its	O
+rerelease_35	PlayStation	O
+rerelease_35	2	O
+rerelease_35	rerelease	rerelease
+rerelease_35	Kingdom	O
+rerelease_35	Hearts	O
+rerelease_35	Re	O
+rerelease_35	Chain	O
+rerelease_35	of	O
+rerelease_35	Memories	O

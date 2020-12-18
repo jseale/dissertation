@@ -1,0 +1,16 @@
+axes_35	The	O
+axes_35	leafless	O
+axes_35	stems	O
+axes_35	axes	axes_nou
+axes_35	bore	O
+axes_35	10	O
+axes_35	12	O
+axes_35	elliptical	O
+axes_35	spore	O
+axes_35	forming	O
+axes_35	organs	O
+axes_35	or	O
+axes_35	sporangia	O
+axes_35	on	O
+axes_35	side	O
+axes_35	branches	O

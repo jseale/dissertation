@@ -1,0 +1,12 @@
+insult_21	Jim	O
+insult_21	then	O
+insult_21	withdraws	O
+insult_21	the	O
+insult_21	insult	insult_nou
+insult_21	and	O
+insult_21	says	O
+insult_21	that	O
+insult_21	Andy	O
+insult_21	is	O
+insult_21	just	O
+insult_21	stupid	O

@@ -1,0 +1,14 @@
+rebel_0	This	O
+rebel_0	because	O
+rebel_0	of	O
+rebel_0	the	O
+rebel_0	different	O
+rebel_0	rebel	rebel_nou
+rebel_0	groups	O
+rebel_0	that	O
+rebel_0	infest	O
+rebel_0	the	O
+rebel_0	parks	O
+rebel_0	in	O
+rebel_0	this	O
+rebel_0	region	O

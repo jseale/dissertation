@@ -1,0 +1,16 @@
+read_90	TIME	O
+read_90	Magazine	O
+read_90	recommended	O
+read_90	it	O
+read_90	as	O
+read_90	an	O
+read_90	engrossing	O
+read_90	read	read_present
+read_90	best	O
+read_90	consumed	O
+read_90	in	O
+read_90	as	O
+read_90	few	O
+read_90	sittings	O
+read_90	as	O
+read_90	possible	O

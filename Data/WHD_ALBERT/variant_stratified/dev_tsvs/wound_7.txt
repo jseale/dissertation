@@ -1,0 +1,8 @@
+wound_7	He	O
+wound_7	eventually	O
+wound_7	wound	wound_vrb
+wound_7	up	O
+wound_7	in	O
+wound_7	the	O
+wound_7	United	O
+wound_7	States	O

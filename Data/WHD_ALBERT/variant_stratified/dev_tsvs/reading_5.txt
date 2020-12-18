@@ -1,0 +1,16 @@
+reading_5	The	O
+reading_5	reading	reading_en
+reading_5	room	O
+reading_5	was	O
+reading_5	turned	O
+reading_5	over	O
+reading_5	to	O
+reading_5	the	O
+reading_5	Women	O
+reading_5	's	O
+reading_5	Christian	O
+reading_5	Temperance	O
+reading_5	Union	O
+reading_5	WCTU	O
+reading_5	in	O
+reading_5	1888	O

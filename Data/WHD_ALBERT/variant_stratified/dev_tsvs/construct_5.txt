@@ -1,0 +1,9 @@
+construct_5	In	O
+construct_5	all	O
+construct_5	over	O
+construct_5	1,500	O
+construct_5	workers	O
+construct_5	helped	O
+construct_5	construct	construct_vrb
+construct_5	the	O
+construct_5	building	O

@@ -1,0 +1,16 @@
+rodeo_32	The	O
+rodeo_32	Jacksonville	O
+rodeo_32	Fishing	O
+rodeo_32	Rodeo	rodeo
+rodeo_32	begun	O
+rodeo_32	in	O
+rodeo_32	2010	O
+rodeo_32	is	O
+rodeo_32	a	O
+rodeo_32	popular	O
+rodeo_32	family	O
+rodeo_32	oriented	O
+rodeo_32	event	O
+rodeo_32	held	O
+rodeo_32	in	O
+rodeo_32	June	O

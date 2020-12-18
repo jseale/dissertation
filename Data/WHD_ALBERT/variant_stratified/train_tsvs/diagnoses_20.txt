@@ -1,0 +1,15 @@
+diagnoses_20	It	O
+diagnoses_20	includes	O
+diagnoses_20	the	O
+diagnoses_20	research	O
+diagnoses_20	diagnoses	diagnoses_nou
+diagnoses_20	of	O
+diagnoses_20	recurrent	O
+diagnoses_20	brief	O
+diagnoses_20	depression	O
+diagnoses_20	and	O
+diagnoses_20	minor	O
+diagnoses_20	depressive	O
+diagnoses_20	disorder	O
+diagnoses_20	listed	O
+diagnoses_20	below	O

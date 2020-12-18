@@ -1,0 +1,16 @@
+live_70	The	O
+live_70	Ais	O
+live_70	did	O
+live_70	not	O
+live_70	live	live_vrb
+live_70	at	O
+live_70	the	O
+live_70	mission	O
+live_70	and	O
+live_70	were	O
+live_70	hesitant	O
+live_70	to	O
+live_70	accept	O
+live_70	this	O
+live_70	new	O
+live_70	religion	O

@@ -1,0 +1,8 @@
+contest_20	Eurovision	O
+contest_20	Dance	O
+contest_20	Contest	contest_nou
+contest_20	2007	O
+contest_20	was	O
+contest_20	hosted	O
+contest_20	in	O
+contest_20	London	O

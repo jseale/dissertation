@@ -1,0 +1,12 @@
+combine_26	The	O
+combine_26	results	O
+combine_26	of	O
+combine_26	all	O
+combine_26	9	O
+combine_26	pools	O
+combine_26	will	O
+combine_26	combine	combine_vrb
+combine_26	in	O
+combine_26	1	O
+combine_26	ranking	O
+combine_26	table	O

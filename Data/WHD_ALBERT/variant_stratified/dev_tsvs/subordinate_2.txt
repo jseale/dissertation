@@ -1,0 +1,10 @@
+subordinate_2	Since	O
+subordinate_2	Wright	O
+subordinate_2	was	O
+subordinate_2	the	O
+subordinate_2	chief	O
+subordinate_2	engineer	O
+subordinate_2	Randel	O
+subordinate_2	was	O
+subordinate_2	his	O
+subordinate_2	subordinate	subordinate_adj-nou

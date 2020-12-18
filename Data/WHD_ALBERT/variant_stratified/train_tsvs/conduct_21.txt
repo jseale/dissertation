@@ -1,0 +1,13 @@
+conduct_21	Ambrose	O
+conduct_21	refused	O
+conduct_21	and	O
+conduct_21	was	O
+conduct_21	required	O
+conduct_21	to	O
+conduct_21	answer	O
+conduct_21	for	O
+conduct_21	his	O
+conduct_21	conduct	conduct_nou
+conduct_21	before	O
+conduct_21	the	O
+conduct_21	council	O

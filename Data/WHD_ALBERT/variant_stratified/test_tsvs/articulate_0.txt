@@ -1,0 +1,16 @@
+articulate_0	An	O
+articulate_0	articulate	articulate_adj
+articulate_0	speaker	O
+articulate_0	Hansen	O
+articulate_0	's	O
+articulate_0	message	O
+articulate_0	reached	O
+articulate_0	audiences	O
+articulate_0	throughout	O
+articulate_0	the	O
+articulate_0	United	O
+articulate_0	States	O
+articulate_0	and	O
+articulate_0	around	O
+articulate_0	the	O
+articulate_0	world	O

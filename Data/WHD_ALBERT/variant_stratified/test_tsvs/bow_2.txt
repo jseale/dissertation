@@ -1,0 +1,12 @@
+bow_2	This	O
+bow_2	plant	O
+bow_2	grows	O
+bow_2	in	O
+bow_2	Ravalli	O
+bow_2	Beaverhead	O
+bow_2	and	O
+bow_2	Silver	O
+bow_2	Bow	bow_nou-knot
+bow_2	Counties	O
+bow_2	in	O
+bow_2	Montana	O

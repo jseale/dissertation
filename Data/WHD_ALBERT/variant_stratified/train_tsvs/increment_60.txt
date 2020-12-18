@@ -1,0 +1,7 @@
+increment_60	By	O
+increment_60	1974	O
+increment_60	we	O
+increment_60	have	O
+increment_60	a	O
+increment_60	25.5	O
+increment_60	increment	increment_nou

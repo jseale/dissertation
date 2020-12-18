@@ -1,0 +1,15 @@
+rerelease_64	Upon	O
+rerelease_64	its	O
+rerelease_64	rerelease	rerelease
+rerelease_64	Streisand	O
+rerelease_64	said	O
+rerelease_64	I	O
+rerelease_64	have	O
+rerelease_64	always	O
+rerelease_64	had	O
+rerelease_64	a	O
+rerelease_64	special	O
+rerelease_64	affection	O
+rerelease_64	for	O
+rerelease_64	Classical	O
+rerelease_64	Barbra	O

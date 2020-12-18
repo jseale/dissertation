@@ -1,0 +1,15 @@
+close_29	Nunnery	O
+close_29	Colliery	O
+close_29	was	O
+close_29	a	O
+close_29	coal	O
+close_29	mine	O
+close_29	close	close_adj-nou
+close_29	to	O
+close_29	the	O
+close_29	city	O
+close_29	centre	O
+close_29	of	O
+close_29	Sheffield	O
+close_29	South	O
+close_29	Yorkshire	O

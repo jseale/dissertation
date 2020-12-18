@@ -1,0 +1,17 @@
+discharge_62	He	O
+discharge_62	received	O
+discharge_62	an	O
+discharge_62	honorable	O
+discharge_62	discharge	discharge_nou
+discharge_62	from	O
+discharge_62	the	O
+discharge_62	Navy	O
+discharge_62	in	O
+discharge_62	1965	O
+discharge_62	when	O
+discharge_62	he	O
+discharge_62	was	O
+discharge_62	a	O
+discharge_62	Lieutenant	O
+discharge_62	junior	O
+discharge_62	grade	O

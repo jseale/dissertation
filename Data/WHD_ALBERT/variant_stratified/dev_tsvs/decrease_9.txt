@@ -1,0 +1,14 @@
+decrease_9	However	O
+decrease_9	in	O
+decrease_9	2000	O
+decrease_9	his	O
+decrease_9	popularity	O
+decrease_9	started	O
+decrease_9	to	O
+decrease_9	decrease	decrease_vrb
+decrease_9	and	O
+decrease_9	his	O
+decrease_9	last	O
+decrease_9	film	O
+decrease_9	was	O
+decrease_9	香港處男	O

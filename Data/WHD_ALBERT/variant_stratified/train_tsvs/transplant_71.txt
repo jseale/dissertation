@@ -1,0 +1,13 @@
+transplant_71	It	O
+transplant_71	may	O
+transplant_71	also	O
+transplant_71	infect	O
+transplant_71	organ	O
+transplant_71	transplant	transplant_nou
+transplant_71	recipients	O
+transplant_71	and	O
+transplant_71	people	O
+transplant_71	receiving	O
+transplant_71	certain	O
+transplant_71	cancer	O
+transplant_71	treatments	O

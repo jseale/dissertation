@@ -1,0 +1,17 @@
+insult_26	Zheng	O
+insult_26	regarding	O
+insult_26	the	O
+insult_26	fields	O
+insult_26	as	O
+insult_26	just	O
+insult_26	any	O
+insult_26	other	O
+insult_26	piece	O
+insult_26	of	O
+insult_26	land	O
+insult_26	was	O
+insult_26	an	O
+insult_26	insult	insult_nou
+insult_26	to	O
+insult_26	the	O
+insult_26	court	O

@@ -1,0 +1,13 @@
+animate_11	There	O
+animate_11	are	O
+animate_11	no	O
+animate_11	separate	O
+animate_11	declension	O
+animate_11	paradigms	O
+animate_11	for	O
+animate_11	animate	animate_adj-nou
+animate_11	and	O
+animate_11	inanimate	O
+animate_11	nouns	O
+animate_11	in	O
+animate_11	Lithuanian	O

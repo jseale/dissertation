@@ -1,0 +1,12 @@
+perfect_60	Harmon	O
+perfect_60	published	O
+perfect_60	You	O
+perfect_60	'll	O
+perfect_60	Be	O
+perfect_60	Perfect	perfect_adj
+perfect_60	When	O
+perfect_60	You	O
+perfect_60	're	O
+perfect_60	Dead	O
+perfect_60	in	O
+perfect_60	2013	O

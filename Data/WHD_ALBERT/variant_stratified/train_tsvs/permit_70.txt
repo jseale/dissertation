@@ -1,0 +1,16 @@
+permit_70	He	O
+permit_70	promises	O
+permit_70	to	O
+permit_70	marry	O
+permit_70	Vyry	O
+permit_70	and	O
+permit_70	buy	O
+permit_70	her	O
+permit_70	freedom	O
+permit_70	but	O
+permit_70	Marse	O
+permit_70	John	O
+permit_70	wo	O
+permit_70	n't	O
+permit_70	permit	permit_vrb
+permit_70	it	O

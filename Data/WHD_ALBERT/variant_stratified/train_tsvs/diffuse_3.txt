@@ -1,0 +1,9 @@
+diffuse_3	The	O
+diffuse_3	markings	O
+diffuse_3	are	O
+diffuse_3	ochreous	O
+diffuse_3	very	O
+diffuse_3	diffuse	diffuse_adj
+diffuse_3	and	O
+diffuse_3	poorly	O
+diffuse_3	defined	O

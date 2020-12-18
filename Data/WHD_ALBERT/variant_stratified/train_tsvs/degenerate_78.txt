@@ -1,0 +1,14 @@
+degenerate_78	Publicly	O
+degenerate_78	quiet	O
+degenerate_78	but	O
+degenerate_78	privately	O
+degenerate_78	vengeful	O
+degenerate_78	her	O
+degenerate_78	animated	O
+degenerate_78	beasts	O
+degenerate_78	degenerate	degenerate_vrb
+degenerate_78	others	O
+degenerate_78	into	O
+degenerate_78	their	O
+degenerate_78	ugliest	O
+degenerate_78	forms	O

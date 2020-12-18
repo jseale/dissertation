@@ -1,0 +1,11 @@
+transport_4	The	O
+transport_4	British	O
+transport_4	Transport	transport_nou
+transport_4	Police	O
+transport_4	arrested	O
+transport_4	the	O
+transport_4	driver	O
+transport_4	on	O
+transport_4	suspicion	O
+transport_4	of	O
+transport_4	manslaughter	O

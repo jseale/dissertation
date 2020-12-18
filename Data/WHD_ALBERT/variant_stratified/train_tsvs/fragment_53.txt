@@ -1,0 +1,17 @@
+fragment_53	In	O
+fragment_53	a	O
+fragment_53	fragment	fragment_nou
+fragment_53	of	O
+fragment_53	Hellanicus	O
+fragment_53	the	O
+fragment_53	author	O
+fragment_53	states	O
+fragment_53	that	O
+fragment_53	the	O
+fragment_53	Athenians	O
+fragment_53	Arcadians	O
+fragment_53	Aeginetans	O
+fragment_53	and	O
+fragment_53	Thebans	O
+fragment_53	are	O
+fragment_53	autocthones	O

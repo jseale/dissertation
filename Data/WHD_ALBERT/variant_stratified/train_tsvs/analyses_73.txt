@@ -1,0 +1,15 @@
+analyses_73	George	O
+analyses_73	Perle	O
+analyses_73	1990	O
+analyses_73	analyses	analyses_vrb
+analyses_73	the	O
+analyses_73	piece	O
+analyses_73	both	O
+analyses_73	harmonically	O
+analyses_73	and	O
+analyses_73	motivically	O
+analyses_73	and	O
+analyses_73	describes	O
+analyses_73	its	O
+analyses_73	background	O
+analyses_73	structure	O

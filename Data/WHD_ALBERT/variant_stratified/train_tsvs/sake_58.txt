@@ -1,0 +1,14 @@
+sake_58	Thus	O
+sake_58	Garibaldi	O
+sake_58	sacrificed	O
+sake_58	republican	O
+sake_58	hopes	O
+sake_58	for	O
+sake_58	the	O
+sake_58	sake	sake
+sake_58	of	O
+sake_58	Italian	O
+sake_58	unity	O
+sake_58	under	O
+sake_58	a	O
+sake_58	monarchy	O

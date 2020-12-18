@@ -1,0 +1,16 @@
+conjugate_30	This	O
+conjugate_30	polynomial	O
+conjugate_30	is	O
+conjugate_30	irreducible	O
+conjugate_30	over	O
+conjugate_30	the	O
+conjugate_30	rationals	O
+conjugate_30	and	O
+conjugate_30	so	O
+conjugate_30	these	O
+conjugate_30	three	O
+conjugate_30	cosines	O
+conjugate_30	are	O
+conjugate_30	conjugate	conjugate_adj-nou
+conjugate_30	algebraic	O
+conjugate_30	numbers	O

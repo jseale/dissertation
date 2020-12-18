@@ -1,0 +1,15 @@
+affect_24	Generally	O
+affect_24	these	O
+affect_24	relate	O
+affect_24	to	O
+affect_24	matters	O
+affect_24	that	O
+affect_24	may	O
+affect_24	affect	affect
+affect_24	the	O
+affect_24	performance	O
+affect_24	of	O
+affect_24	the	O
+affect_24	judicial	O
+affect_24	officer	O
+affect_24	concerned	O

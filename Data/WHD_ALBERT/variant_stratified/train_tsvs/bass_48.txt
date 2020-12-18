@@ -1,0 +1,15 @@
+bass_48	John	O
+bass_48	Szmidt	O
+bass_48	also	O
+bass_48	arrived	O
+bass_48	and	O
+bass_48	replaced	O
+bass_48	Matt	O
+bass_48	Taylor	O
+bass_48	on	O
+bass_48	bass	bass
+bass_48	at	O
+bass_48	the	O
+bass_48	start	O
+bass_48	of	O
+bass_48	2008	O

@@ -1,0 +1,16 @@
+document_79	It	O
+document_79	was	O
+document_79	a	O
+document_79	chance	O
+document_79	to	O
+document_79	explore	O
+document_79	and	O
+document_79	document	document_vrb
+document_79	the	O
+document_79	punk	O
+document_79	community	O
+document_79	more	O
+document_79	extensively	O
+document_79	than	O
+document_79	ever	O
+document_79	before	O

@@ -1,0 +1,13 @@
+invert_2	The	O
+invert_2	application	O
+invert_2	includes	O
+invert_2	an	O
+invert_2	invert	invert_adj-nou
+invert_2	colors	O
+invert_2	option	O
+invert_2	and	O
+invert_2	a	O
+invert_2	crop	O
+invert_2	selected	O
+invert_2	area	O
+invert_2	function	O

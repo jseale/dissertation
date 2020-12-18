@@ -1,0 +1,12 @@
+converse_21	Converse	converse_adj-nou
+converse_21	to	O
+converse_21	selection	O
+converse_21	by	O
+converse_21	sorting	O
+converse_21	one	O
+converse_21	can	O
+converse_21	incrementally	O
+converse_21	sort	O
+converse_21	by	O
+converse_21	repeated	O
+converse_21	selection	O

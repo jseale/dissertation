@@ -1,0 +1,14 @@
+contest_2	Miss	O
+contest_2	USSR	O
+contest_2	Мисс	O
+contest_2	CCCP	O
+contest_2	was	O
+contest_2	a	O
+contest_2	national	O
+contest_2	beauty	O
+contest_2	contest	contest_nou
+contest_2	held	O
+contest_2	in	O
+contest_2	the	O
+contest_2	Soviet	O
+contest_2	Union	O

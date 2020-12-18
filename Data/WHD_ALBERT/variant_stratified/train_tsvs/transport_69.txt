@@ -1,0 +1,15 @@
+transport_69	The	O
+transport_69	bombers	O
+transport_69	severely	O
+transport_69	damaged	O
+transport_69	a	O
+transport_69	10,000-long	O
+transport_69	ton	O
+transport_69	10,000	O
+transport_69	t	O
+transport_69	tanker	O
+transport_69	and	O
+transport_69	a	O
+transport_69	smaller	O
+transport_69	troop	O
+transport_69	transport	transport_nou

@@ -1,0 +1,17 @@
+export_4	The	O
+export_4	plantations	O
+export_4	grew	O
+export_4	tobacco	O
+export_4	indigo	O
+export_4	and	O
+export_4	rice	O
+export_4	for	O
+export_4	export	export_nou
+export_4	and	O
+export_4	raised	O
+export_4	most	O
+export_4	of	O
+export_4	their	O
+export_4	own	O
+export_4	food	O
+export_4	supplies	O

@@ -1,0 +1,9 @@
+overthrow_43	They	O
+overthrow_43	were	O
+overthrow_43	charged	O
+overthrow_43	with	O
+overthrow_43	planning	O
+overthrow_43	to	O
+overthrow_43	overthrow	overthrow_vrb
+overthrow_43	the	O
+overthrow_43	government	O

@@ -1,0 +1,11 @@
+construct_5	He	O
+construct_5	is	O
+construct_5	shown	O
+construct_5	as	O
+construct_5	being	O
+construct_5	turned	O
+construct_5	into	O
+construct_5	an	O
+construct_5	Orange	O
+construct_5	Lantern	O
+construct_5	construct	construct_nou

@@ -1,0 +1,10 @@
+isolate_9	It	O
+isolate_9	is	O
+isolate_9	a	O
+isolate_9	Lindera	O
+isolate_9	obtusiloba	O
+isolate_9	isolate	isolate_nou
+isolate_9	with	O
+isolate_9	anti	O
+isolate_9	allergic	O
+isolate_9	activity	O

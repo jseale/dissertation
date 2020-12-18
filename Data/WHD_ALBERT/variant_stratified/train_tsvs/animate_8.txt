@@ -1,0 +1,7 @@
+animate_8	No	O
+animate_8	gender	O
+animate_8	or	O
+animate_8	animate	animate_adj-nou
+animate_8	distinction	O
+animate_8	is	O
+animate_8	made	O

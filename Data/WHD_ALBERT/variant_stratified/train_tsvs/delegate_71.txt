@@ -1,0 +1,17 @@
+delegate_71	On	O
+delegate_71	19	O
+delegate_71	March	O
+delegate_71	2014	O
+delegate_71	the	O
+delegate_71	first	O
+delegate_71	female	O
+delegate_71	SGP	O
+delegate_71	delegate	delegate_nou
+delegate_71	was	O
+delegate_71	elected	O
+delegate_71	to	O
+delegate_71	the	O
+delegate_71	municipal	O
+delegate_71	council	O
+delegate_71	in	O
+delegate_71	Vlissingen	O

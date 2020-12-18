@@ -1,0 +1,14 @@
+blessed_12	There	O
+blessed_12	died	O
+blessed_12	the	O
+blessed_12	blessed	blessed_adj
+blessed_12	man	O
+blessed_12	Simon	O
+blessed_12	doorkeeper	O
+blessed_12	of	O
+blessed_12	Qedar	O
+blessed_12	brother	O
+blessed_12	of	O
+blessed_12	Thomas	O
+blessed_12	the	O
+blessed_12	priest	O

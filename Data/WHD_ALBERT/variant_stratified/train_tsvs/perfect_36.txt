@@ -1,0 +1,17 @@
+perfect_36	The	O
+perfect_36	lens	O
+perfect_36	is	O
+perfect_36	said	O
+perfect_36	to	O
+perfect_36	be	O
+perfect_36	able	O
+perfect_36	to	O
+perfect_36	focus	O
+perfect_36	sunlight	O
+perfect_36	although	O
+perfect_36	the	O
+perfect_36	focus	O
+perfect_36	is	O
+perfect_36	far	O
+perfect_36	from	O
+perfect_36	perfect	perfect_adj

@@ -1,0 +1,16 @@
+mobile_51	One	O
+mobile_51	interpretation	O
+mobile_51	of	O
+mobile_51	this	O
+mobile_51	change	O
+mobile_51	was	O
+mobile_51	that	O
+mobile_51	the	O
+mobile_51	once	O
+mobile_51	mobile	mobile
+mobile_51	group	O
+mobile_51	of	O
+mobile_51	inhabitants	O
+mobile_51	had	O
+mobile_51	become	O
+mobile_51	sedentary	O

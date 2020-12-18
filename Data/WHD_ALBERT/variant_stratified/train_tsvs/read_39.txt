@@ -1,0 +1,17 @@
+read_39	XML	O
+read_39	based	O
+read_39	documents	O
+read_39	can	O
+read_39	be	O
+read_39	seamlessly	O
+read_39	read	read_past
+read_39	edited	O
+read_39	and	O
+read_39	saved	O
+read_39	back	O
+read_39	to	O
+read_39	the	O
+read_39	original	O
+read_39	format	O
+read_39	without	O
+read_39	corruption	O

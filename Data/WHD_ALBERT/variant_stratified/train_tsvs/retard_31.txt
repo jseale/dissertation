@@ -1,0 +1,13 @@
+retard_31	The	O
+retard_31	case	O
+retard_31	sides	O
+retard_31	were	O
+retard_31	cup	O
+retard_31	shaped	O
+retard_31	to	O
+retard_31	retard	retard_vrb
+retard_31	the	O
+retard_31	fall	O
+retard_31	of	O
+retard_31	the	O
+retard_31	bomb	O

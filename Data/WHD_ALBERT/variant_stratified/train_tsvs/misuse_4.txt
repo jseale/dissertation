@@ -1,0 +1,17 @@
+misuse_4	The	O
+misuse_4	season	O
+misuse_4	focuses	O
+misuse_4	on	O
+misuse_4	Chad	O
+misuse_4	's	O
+misuse_4	misuse	misuse_nou
+misuse_4	of	O
+misuse_4	Jeremy	O
+misuse_4	and	O
+misuse_4	Maggie	O
+misuse_4	's	O
+misuse_4	attempts	O
+misuse_4	to	O
+misuse_4	ally	O
+misuse_4	with	O
+misuse_4	Jeremy	O

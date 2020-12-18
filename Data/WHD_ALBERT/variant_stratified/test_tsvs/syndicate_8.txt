@@ -1,0 +1,14 @@
+syndicate_8	His	O
+syndicate_8	most	O
+syndicate_8	recent	O
+syndicate_8	published	O
+syndicate_8	project	O
+syndicate_8	is	O
+syndicate_8	Assassin	O
+syndicate_8	's	O
+syndicate_8	Creed	O
+syndicate_8	Syndicate	syndicate_nou
+syndicate_8	released	O
+syndicate_8	in	O
+syndicate_8	October	O
+syndicate_8	2015	O

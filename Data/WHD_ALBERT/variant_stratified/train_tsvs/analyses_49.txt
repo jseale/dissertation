@@ -1,0 +1,14 @@
+analyses_49	Chemical	O
+analyses_49	and	O
+analyses_49	lead	O
+analyses_49	isotopic	O
+analyses_49	analyses	analyses_nou
+analyses_49	revealed	O
+analyses_49	metals	O
+analyses_49	from	O
+analyses_49	multiple	O
+analyses_49	sources	O
+analyses_49	from	O
+analyses_49	Africa	O
+analyses_49	to	O
+analyses_49	Iran	O

@@ -1,0 +1,8 @@
+discount_75	Not	O
+discount_75	all	O
+discount_75	ticket	O
+discount_75	types	O
+discount_75	qualify	O
+discount_75	for	O
+discount_75	a	O
+discount_75	discount	discount_nou

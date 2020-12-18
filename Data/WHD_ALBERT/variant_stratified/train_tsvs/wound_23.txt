@@ -1,0 +1,12 @@
+wound_23	Bob	O
+wound_23	Marley	O
+wound_23	had	O
+wound_23	a	O
+wound_23	bullet	O
+wound_23	skid	O
+wound_23	his	O
+wound_23	chest	O
+wound_23	and	O
+wound_23	wound	wound_nou-vrb
+wound_23	his	O
+wound_23	arm	O

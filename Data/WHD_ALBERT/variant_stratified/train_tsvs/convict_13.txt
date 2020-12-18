@@ -1,0 +1,12 @@
+convict_13	Despite	O
+convict_13	his	O
+convict_13	previous	O
+convict_13	convict	convict_nou
+convict_13	status	O
+convict_13	James	O
+convict_13	also	O
+convict_13	became	O
+convict_13	a	O
+convict_13	resident	O
+convict_13	district	O
+convict_13	constable	O

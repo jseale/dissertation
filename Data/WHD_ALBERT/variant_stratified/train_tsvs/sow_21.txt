@@ -1,0 +1,8 @@
+sow_21	Snipers	O
+sow_21	sow	sow
+sow_21	panic	O
+sow_21	in	O
+sow_21	Aleppo	O
+sow_21	as	O
+sow_21	fighting	O
+sow_21	rages	O

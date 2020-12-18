@@ -1,0 +1,8 @@
+pervert_7	He	O
+pervert_7	is	O
+pervert_7	very	O
+pervert_7	racist	O
+pervert_7	misogynistic	O
+pervert_7	and	O
+pervert_7	a	O
+pervert_7	pervert	pervert_nou

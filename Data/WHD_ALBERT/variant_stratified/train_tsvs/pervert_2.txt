@@ -1,0 +1,10 @@
+pervert_2	Although	O
+pervert_2	a	O
+pervert_2	good	O
+pervert_2	fellow	O
+pervert_2	he	O
+pervert_2	is	O
+pervert_2	also	O
+pervert_2	a	O
+pervert_2	big	O
+pervert_2	pervert	pervert_nou

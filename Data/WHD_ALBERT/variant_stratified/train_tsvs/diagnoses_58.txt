@@ -1,0 +1,15 @@
+diagnoses_58	Furthermore	O
+diagnoses_58	pediatric	O
+diagnoses_58	diagnoses	diagnoses_nou
+diagnoses_58	are	O
+diagnoses_58	not	O
+diagnoses_58	distinguished	O
+diagnoses_58	from	O
+diagnoses_58	adult	O
+diagnoses_58	diagnoses	diagnoses_nou
+diagnoses_58	except	O
+diagnoses_58	for	O
+diagnoses_58	sleep	O
+diagnoses_58	related	O
+diagnoses_58	breathing	O
+diagnoses_58	disorders	O

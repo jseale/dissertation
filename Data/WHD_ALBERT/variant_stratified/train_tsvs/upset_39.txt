@@ -1,0 +1,13 @@
+upset_39	In	O
+upset_39	the	O
+upset_39	33rd	O
+upset_39	round	O
+upset_39	Corinthians	O
+upset_39	lost	O
+upset_39	against	O
+upset_39	América	O
+upset_39	MG	O
+upset_39	in	O
+upset_39	a	O
+upset_39	great	O
+upset_39	upset	upset_nou

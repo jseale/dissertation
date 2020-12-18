@@ -1,0 +1,13 @@
+associate_77	It	O
+associate_77	is	O
+associate_77	designed	O
+associate_77	to	O
+associate_77	associate	associate_vrb
+associate_77	a	O
+associate_77	brand	O
+associate_77	with	O
+associate_77	one	O
+associate_77	or	O
+associate_77	another	O
+associate_77	aspirational	O
+associate_77	lifestyle	O

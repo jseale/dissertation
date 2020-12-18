@@ -1,0 +1,9 @@
+bass_20	Copying	O
+bass_20	the	O
+bass_20	bass	bass
+bass_20	lines	O
+bass_20	and	O
+bass_20	teaching	O
+bass_20	himself	O
+bass_20	the	O
+bass_20	guitar	O

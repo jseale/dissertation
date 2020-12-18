@@ -1,0 +1,10 @@
+resume_3	However	O
+resume_3	the	O
+resume_3	two	O
+resume_3	soon	O
+resume_3	resume	resume_vrb
+resume_3	their	O
+resume_3	relationship	O
+resume_3	with	O
+resume_3	each	O
+resume_3	other	O

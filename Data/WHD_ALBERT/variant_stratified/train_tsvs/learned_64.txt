@@ -1,0 +1,13 @@
+learned_64	Hill	O
+learned_64	was	O
+learned_64	a	O
+learned_64	child	O
+learned_64	prodigy	O
+learned_64	on	O
+learned_64	piano	O
+learned_64	which	O
+learned_64	he	O
+learned_64	learned	learned_vrb
+learned_64	from	O
+learned_64	his	O
+learned_64	mother	O

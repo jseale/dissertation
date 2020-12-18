@@ -1,0 +1,14 @@
+upset_31	Other	O
+upset_31	resistance	O
+upset_31	welding	O
+upset_31	methods	O
+upset_31	include	O
+upset_31	butt	O
+upset_31	welding	O
+upset_31	flash	O
+upset_31	welding	O
+upset_31	projection	O
+upset_31	welding	O
+upset_31	and	O
+upset_31	upset	upset_nou
+upset_31	welding	O

@@ -1,0 +1,15 @@
+lead_86	The	O
+lead_86	race	O
+lead_86	would	O
+lead_86	be	O
+lead_86	the	O
+lead_86	first	O
+lead_86	time	O
+lead_86	that	O
+lead_86	Kanaan	O
+lead_86	failed	O
+lead_86	to	O
+lead_86	lead	lead_nou-vrb
+lead_86	the	O
+lead_86	Indianapolis	O
+lead_86	500	O

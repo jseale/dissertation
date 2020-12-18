@@ -1,0 +1,16 @@
+dove_0	It	O
+dove_0	's	O
+dove_0	eaten	O
+dove_0	by	O
+dove_0	various	O
+dove_0	rainforest	O
+dove_0	inhabitants	O
+dove_0	including	O
+dove_0	the	O
+dove_0	topknot	O
+dove_0	pigeon	O
+dove_0	and	O
+dove_0	the	O
+dove_0	wompoo	O
+dove_0	fruit	O
+dove_0	dove	dove

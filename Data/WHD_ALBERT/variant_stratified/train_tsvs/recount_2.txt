@@ -1,0 +1,12 @@
+recount_2	After	O
+recount_2	a	O
+recount_2	lengthy	O
+recount_2	recount	recount_nou
+recount_2	Thompson	O
+recount_2	lost	O
+recount_2	the	O
+recount_2	general	O
+recount_2	election	O
+recount_2	to	O
+recount_2	Mark	O
+recount_2	Grisanti	O

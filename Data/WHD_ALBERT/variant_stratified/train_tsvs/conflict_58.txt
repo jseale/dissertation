@@ -1,0 +1,15 @@
+conflict_58	Hundreds	O
+conflict_58	of	O
+conflict_58	thousands	O
+conflict_58	of	O
+conflict_58	Karen	O
+conflict_58	and	O
+conflict_58	other	O
+conflict_58	ethnic	O
+conflict_58	groups	O
+conflict_58	have	O
+conflict_58	been	O
+conflict_58	killed	O
+conflict_58	in	O
+conflict_58	the	O
+conflict_58	conflict	conflict_nou

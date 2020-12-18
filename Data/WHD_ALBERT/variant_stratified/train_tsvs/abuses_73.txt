@@ -1,0 +1,7 @@
+abuses_73	She	O
+abuses_73	abuses	abuses_vrb
+abuses_73	Frado	O
+abuses_73	both	O
+abuses_73	physically	O
+abuses_73	and	O
+abuses_73	mentally	O

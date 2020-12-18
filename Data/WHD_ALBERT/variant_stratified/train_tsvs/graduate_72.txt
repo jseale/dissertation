@@ -1,0 +1,8 @@
+graduate_72	She	O
+graduate_72	is	O
+graduate_72	post	O
+graduate_72	graduate	graduate_adj-nou
+graduate_72	diploma	O
+graduate_72	in	O
+graduate_72	Business	O
+graduate_72	Administration	O

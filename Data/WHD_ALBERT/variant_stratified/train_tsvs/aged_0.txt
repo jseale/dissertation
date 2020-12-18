@@ -1,0 +1,13 @@
+aged_0	It	O
+aged_0	had	O
+aged_0	mandatory	O
+aged_0	membership	O
+aged_0	for	O
+aged_0	all	O
+aged_0	male	O
+aged_0	full	O
+aged_0	aged	aged
+aged_0	citizens	O
+aged_0	of	O
+aged_0	the	O
+aged_0	Protectorate	O

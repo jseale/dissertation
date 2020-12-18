@@ -1,0 +1,12 @@
+compress_60	VGA	O
+compress_60	Copy	O
+compress_60	had	O
+compress_60	the	O
+compress_60	ability	O
+compress_60	to	O
+compress_60	compress	compress
+compress_60	images	O
+compress_60	with	O
+compress_60	the	O
+compress_60	ARJ	O
+compress_60	packer	O

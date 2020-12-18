@@ -1,0 +1,16 @@
+lead_71	Anquetil	O
+lead_71	won	O
+lead_71	almost	O
+lead_71	three	O
+lead_71	minutes	O
+lead_71	on	O
+lead_71	Gaul	O
+lead_71	and	O
+lead_71	extended	O
+lead_71	his	O
+lead_71	lead	lead_nou-vrb
+lead_71	to	O
+lead_71	more	O
+lead_71	than	O
+lead_71	ten	O
+lead_71	minutes	O

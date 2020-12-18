@@ -1,0 +1,12 @@
+conscript_30	Russia	O
+conscript_30	as	O
+conscript_30	well	O
+conscript_30	as	O
+conscript_30	many	O
+conscript_30	other	O
+conscript_30	nations	O
+conscript_30	retains	O
+conscript_30	mainly	O
+conscript_30	a	O
+conscript_30	conscript	conscript_nou
+conscript_30	army	O

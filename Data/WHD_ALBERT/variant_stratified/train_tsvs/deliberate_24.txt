@@ -1,0 +1,16 @@
+deliberate_24	His	O
+deliberate_24	disease	O
+deliberate_24	might	O
+deliberate_24	have	O
+deliberate_24	been	O
+deliberate_24	caused	O
+deliberate_24	by	O
+deliberate_24	deliberate	deliberate_adj
+deliberate_24	radioactive	O
+deliberate_24	contamination	O
+deliberate_24	by	O
+deliberate_24	the	O
+deliberate_24	Stasi	O
+deliberate_24	during	O
+deliberate_24	his	O
+deliberate_24	imprisonment	O

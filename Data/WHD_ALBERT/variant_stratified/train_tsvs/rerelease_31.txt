@@ -1,0 +1,12 @@
+rerelease_31	The	O
+rerelease_31	1995	O
+rerelease_31	rerelease	rerelease
+rerelease_31	has	O
+rerelease_31	the	O
+rerelease_31	same	O
+rerelease_31	track	O
+rerelease_31	listing	O
+rerelease_31	as	O
+rerelease_31	the	O
+rerelease_31	original	O
+rerelease_31	EP	O

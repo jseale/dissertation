@@ -1,0 +1,15 @@
+aggregate_51	In	O
+aggregate_51	some	O
+aggregate_51	cases	O
+aggregate_51	aggregate	aggregate_adj-nou
+aggregate_51	risk	O
+aggregate_51	exists	O
+aggregate_51	due	O
+aggregate_51	to	O
+aggregate_51	institutional	O
+aggregate_51	or	O
+aggregate_51	other	O
+aggregate_51	constraints	O
+aggregate_51	on	O
+aggregate_51	market	O
+aggregate_51	completeness	O

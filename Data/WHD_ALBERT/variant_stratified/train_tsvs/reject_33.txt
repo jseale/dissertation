@@ -1,0 +1,14 @@
+reject_33	Although	O
+reject_33	he	O
+reject_33	received	O
+reject_33	the	O
+reject_33	crown	O
+reject_33	he	O
+reject_33	did	O
+reject_33	n't	O
+reject_33	reject	reject_vrb
+reject_33	his	O
+reject_33	former	O
+reject_33	attribute	O
+reject_33	of	O
+reject_33	authority	O

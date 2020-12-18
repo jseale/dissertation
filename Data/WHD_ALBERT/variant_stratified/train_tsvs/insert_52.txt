@@ -1,0 +1,14 @@
+insert_52	These	O
+insert_52	lead	O
+insert_52	weights	O
+insert_52	were	O
+insert_52	decorated	O
+insert_52	with	O
+insert_52	enameling	O
+insert_52	insert	insert_vrb
+insert_52	coins	O
+insert_52	or	O
+insert_52	cut	O
+insert_52	up	O
+insert_52	ornamental	O
+insert_52	metalwork	O

@@ -1,0 +1,13 @@
+syndicate_77	Content	O
+syndicate_77	distributors	O
+syndicate_77	syndicate	syndicate_vrb
+syndicate_77	a	O
+syndicate_77	web	O
+syndicate_77	feed	O
+syndicate_77	thereby	O
+syndicate_77	allowing	O
+syndicate_77	users	O
+syndicate_77	to	O
+syndicate_77	subscribe	O
+syndicate_77	to	O
+syndicate_77	it	O

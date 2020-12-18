@@ -1,0 +1,10 @@
+incline_11	This	O
+incline_11	incline	incline_nou
+incline_11	was	O
+incline_11	later	O
+incline_11	continued	O
+incline_11	downwards	O
+incline_11	to	O
+incline_11	the	O
+incline_11	main	O
+incline_11	level	O

@@ -1,0 +1,17 @@
+rebel_7	Involving	O
+rebel_7	himself	O
+rebel_7	with	O
+rebel_7	this	O
+rebel_7	rebel	rebel_nou
+rebel_7	group	O
+rebel_7	he	O
+rebel_7	gets	O
+rebel_7	into	O
+rebel_7	trouble	O
+rebel_7	and	O
+rebel_7	has	O
+rebel_7	his	O
+rebel_7	house	O
+rebel_7	and	O
+rebel_7	goods	O
+rebel_7	confiscated	O

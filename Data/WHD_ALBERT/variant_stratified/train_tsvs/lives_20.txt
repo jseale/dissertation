@@ -1,0 +1,11 @@
+lives_20	He	O
+lives_20	rolled	O
+lives_20	the	O
+lives_20	dice	O
+lives_20	and	O
+lives_20	again	O
+lives_20	gambled	O
+lives_20	with	O
+lives_20	people	O
+lives_20	's	O
+lives_20	lives	lives_nou

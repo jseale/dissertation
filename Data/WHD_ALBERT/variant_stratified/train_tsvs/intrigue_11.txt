@@ -1,0 +1,10 @@
+intrigue_11	The	O
+intrigue_11	intrigue	intrigue_nou
+intrigue_11	does	O
+intrigue_11	indeed	O
+intrigue_11	involve	O
+intrigue_11	Uncle	O
+intrigue_11	Ralph	O
+intrigue_11	in	O
+intrigue_11	South	O
+intrigue_11	Africa	O

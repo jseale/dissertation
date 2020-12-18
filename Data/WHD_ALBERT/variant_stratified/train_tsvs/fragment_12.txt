@@ -1,0 +1,16 @@
+fragment_12	In	O
+fragment_12	those	O
+fragment_12	instances	O
+fragment_12	an	O
+fragment_12	interventional	O
+fragment_12	radiologist	O
+fragment_12	can	O
+fragment_12	usually	O
+fragment_12	retrieve	O
+fragment_12	the	O
+fragment_12	fragment	fragment_nou
+fragment_12	and	O
+fragment_12	place	O
+fragment_12	a	O
+fragment_12	new	O
+fragment_12	port	O

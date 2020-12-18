@@ -1,0 +1,15 @@
+axes_73	Also	O
+axes_73	discovered	O
+axes_73	were	O
+axes_73	crude	O
+axes_73	hammers	O
+axes_73	axes	axes_nou-vrb
+axes_73	grinding	O
+axes_73	tools	O
+axes_73	antlers	O
+axes_73	and	O
+axes_73	weapons	O
+axes_73	made	O
+axes_73	of	O
+axes_73	animal	O
+axes_73	bone	O

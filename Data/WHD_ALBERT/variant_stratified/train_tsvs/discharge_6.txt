@@ -1,0 +1,12 @@
+discharge_6	Symptoms	O
+discharge_6	include	O
+discharge_6	lower	O
+discharge_6	abdominal	O
+discharge_6	pain	O
+discharge_6	fever	O
+discharge_6	and	O
+discharge_6	abnormal	O
+discharge_6	vaginal	O
+discharge_6	bleeding	O
+discharge_6	or	O
+discharge_6	discharge	discharge_nou

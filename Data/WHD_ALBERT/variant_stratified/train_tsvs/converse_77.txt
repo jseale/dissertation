@@ -1,0 +1,14 @@
+converse_77	In	O
+converse_77	his	O
+converse_77	visits	O
+converse_77	he	O
+converse_77	would	O
+converse_77	stop	O
+converse_77	by	O
+converse_77	Maytham	O
+converse_77	's	O
+converse_77	store	O
+converse_77	to	O
+converse_77	converse	converse_vrb
+converse_77	with	O
+converse_77	him	O

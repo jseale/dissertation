@@ -1,0 +1,10 @@
+close_9	Thus	O
+close_9	the	O
+close_9	School	O
+close_9	Board	O
+close_9	had	O
+close_9	to	O
+close_9	close	close_vrb
+close_9	the	O
+close_9	school	O
+close_9	temporarily	O

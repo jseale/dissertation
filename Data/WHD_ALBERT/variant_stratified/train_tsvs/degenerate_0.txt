@@ -1,0 +1,15 @@
+degenerate_0	The	O
+degenerate_0	Degenerate	degenerate_adj-nou
+degenerate_0	Art	O
+degenerate_0	Exhibition	O
+degenerate_0	organised	O
+degenerate_0	by	O
+degenerate_0	Goebbels	O
+degenerate_0	ran	O
+degenerate_0	in	O
+degenerate_0	Munich	O
+degenerate_0	from	O
+degenerate_0	July	O
+degenerate_0	to	O
+degenerate_0	November	O
+degenerate_0	1937	O

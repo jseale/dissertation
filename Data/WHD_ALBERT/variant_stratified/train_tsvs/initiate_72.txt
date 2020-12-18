@@ -1,0 +1,13 @@
+initiate_72	Ukrpryroda	O
+initiate_72	's	O
+initiate_72	regional	O
+initiate_72	organizations	O
+initiate_72	initiate	initiate_vrb
+initiate_72	community	O
+initiate_72	service	O
+initiate_72	days	O
+initiate_72	where	O
+initiate_72	communities	O
+initiate_72	clean	O
+initiate_72	their	O
+initiate_72	territories	O

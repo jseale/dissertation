@@ -1,0 +1,14 @@
+implement_59	Bishop	O
+implement_59	O'Hara	O
+implement_59	worked	O
+implement_59	hard	O
+implement_59	to	O
+implement_59	implement	implement_vrb
+implement_59	CCD	O
+implement_59	throughout	O
+implement_59	his	O
+implement_59	diocese	O
+implement_59	and	O
+implement_59	the	O
+implement_59	United	O
+implement_59	States	O

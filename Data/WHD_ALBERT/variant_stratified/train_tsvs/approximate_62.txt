@@ -1,0 +1,17 @@
+approximate_62	Chemical	O
+approximate_62	plants	O
+approximate_62	or	O
+approximate_62	units	O
+approximate_62	in	O
+approximate_62	continuous	O
+approximate_62	operation	O
+approximate_62	are	O
+approximate_62	usually	O
+approximate_62	in	O
+approximate_62	a	O
+approximate_62	steady	O
+approximate_62	state	O
+approximate_62	or	O
+approximate_62	approximate	approximate_adj-nou
+approximate_62	steady	O
+approximate_62	state	O

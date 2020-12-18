@@ -1,0 +1,11 @@
+permit_44	As	O
+permit_44	he	O
+permit_44	was	O
+permit_44	unwilling	O
+permit_44	"to""permit"	O
+permit_44	the	O
+permit_44	multitude	O
+permit_44	to	O
+permit_44	die	O
+permit_44	of	O
+permit_44	hunger	O

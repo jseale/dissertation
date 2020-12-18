@@ -1,0 +1,16 @@
+expose_18	AAPS	O
+expose_18	has	O
+expose_18	three	O
+expose_18	on	O
+expose_18	site	O
+expose_18	facilities	O
+expose_18	in	O
+expose_18	order	O
+expose_18	to	O
+expose_18	expose	expose_vrb
+expose_18	students	O
+expose_18	to	O
+expose_18	laboratory	O
+expose_18	environments	O
+expose_18	and	O
+expose_18	protocol	O

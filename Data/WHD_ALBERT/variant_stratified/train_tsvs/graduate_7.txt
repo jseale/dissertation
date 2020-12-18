@@ -1,0 +1,17 @@
+graduate_7	Graduate	graduate_adj-nou
+graduate_7	students	O
+graduate_7	spend	O
+graduate_7	a	O
+graduate_7	month	O
+graduate_7	training	O
+graduate_7	in	O
+graduate_7	Moscow	O
+graduate_7	while	O
+graduate_7	the	O
+graduate_7	undergraduates	O
+graduate_7	participate	O
+graduate_7	in	O
+graduate_7	a	O
+graduate_7	semester	O
+graduate_7	long	O
+graduate_7	program	O

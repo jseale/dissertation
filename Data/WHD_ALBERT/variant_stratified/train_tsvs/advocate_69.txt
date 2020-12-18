@@ -1,0 +1,13 @@
+advocate_69	Heaviside	O
+advocate_69	did	O
+advocate_69	much	O
+advocate_69	to	O
+advocate_69	develop	O
+advocate_69	and	O
+advocate_69	advocate	advocate_vrb
+advocate_69	vector	O
+advocate_69	methods	O
+advocate_69	and	O
+advocate_69	the	O
+advocate_69	vector	O
+advocate_69	calculus	O

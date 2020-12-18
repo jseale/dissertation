@@ -1,0 +1,16 @@
+initiate_21	Instead	O
+initiate_21	the	O
+initiate_21	council	O
+initiate_21	voted	O
+initiate_21	to	O
+initiate_21	initiate	initiate_vrb
+initiate_21	a	O
+initiate_21	joint	O
+initiate_21	organizing	O
+initiate_21	drive	O
+initiate_21	similar	O
+initiate_21	to	O
+initiate_21	the	O
+initiate_21	failed	O
+initiate_21	1919	O
+initiate_21	campaign	O

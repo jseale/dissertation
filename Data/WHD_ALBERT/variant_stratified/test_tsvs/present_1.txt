@@ -1,0 +1,14 @@
+present_1	The	O
+present_1	present	present_adj-nou
+present_1	spire	O
+present_1	replacing	O
+present_1	a	O
+present_1	Hertfordshire	O
+present_1	spike	O
+present_1	on	O
+present_1	the	O
+present_1	tower	O
+present_1	dates	O
+present_1	from	O
+present_1	this	O
+present_1	time	O

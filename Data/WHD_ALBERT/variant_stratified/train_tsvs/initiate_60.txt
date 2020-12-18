@@ -1,0 +1,17 @@
+initiate_60	School	O
+initiate_60	resource	O
+initiate_60	officer	O
+initiate_60	The	O
+initiate_60	SRO	O
+initiate_60	program	O
+initiate_60	is	O
+initiate_60	meant	O
+initiate_60	to	O
+initiate_60	initiate	initiate_vrb
+initiate_60	more	O
+initiate_60	positive	O
+initiate_60	contact	O
+initiate_60	between	O
+initiate_60	police	O
+initiate_60	and	O
+initiate_60	youth	O

@@ -1,0 +1,11 @@
+affect_0	Player	O
+affect_0	actions	O
+affect_0	in	O
+affect_0	one	O
+affect_0	universe	O
+affect_0	affect	affect
+affect_0	events	O
+affect_0	in	O
+affect_0	the	O
+affect_0	other	O
+affect_0	two	O

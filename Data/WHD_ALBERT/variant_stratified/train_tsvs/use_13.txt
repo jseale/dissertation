@@ -1,0 +1,15 @@
+use_13	Supportive	O
+use_13	in	O
+use_13	vitro	O
+use_13	experiments	O
+use_13	prior	O
+use_13	to	O
+use_13	the	O
+use_13	use	use_nou
+use_13	in	O
+use_13	animals	O
+use_13	or	O
+use_13	humans	O
+use_13	are	O
+use_13	therefore	O
+use_13	recommended	O

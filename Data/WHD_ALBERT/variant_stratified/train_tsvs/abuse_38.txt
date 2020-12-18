@@ -1,0 +1,17 @@
+abuse_38	Bishop	O
+abuse_38	Louis	O
+abuse_38	Edward	O
+abuse_38	Gelineau	O
+abuse_38	was	O
+abuse_38	criticized	O
+abuse_38	for	O
+abuse_38	his	O
+abuse_38	management	O
+abuse_38	of	O
+abuse_38	sexual	O
+abuse_38	abuse	abuse_nou
+abuse_38	allegations	O
+abuse_38	in	O
+abuse_38	the	O
+abuse_38	Providence	O
+abuse_38	Diocese	O

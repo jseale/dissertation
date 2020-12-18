@@ -1,0 +1,16 @@
+coordinate_2	In	O
+coordinate_2	addition	O
+coordinate_2	we	O
+coordinate_2	can	O
+coordinate_2	formulate	O
+coordinate_2	force	O
+coordinate_2	using	O
+coordinate_2	the	O
+coordinate_2	concept	O
+coordinate_2	of	O
+coordinate_2	coordinate	coordinate_adj-nou
+coordinate_2	transformations	O
+coordinate_2	between	O
+coordinate_2	different	O
+coordinate_2	coordinate	coordinate_adj-nou
+coordinate_2	systems	O

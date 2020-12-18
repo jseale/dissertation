@@ -1,0 +1,15 @@
+document_45	The	O
+document_45	Assessment	O
+document_45	Framework	O
+document_45	document	document_nou
+document_45	gives	O
+document_45	a	O
+document_45	key	O
+document_45	to	O
+document_45	the	O
+document_45	Ministry	O
+document_45	's	O
+document_45	province	O
+document_45	wide	O
+document_45	standardized	O
+document_45	tests	O

@@ -1,0 +1,14 @@
+axes_78	When	O
+axes_78	the	O
+axes_78	flock	O
+axes_78	gets	O
+axes_78	going	O
+axes_78	the	O
+axes_78	courtyard	O
+axes_78	gates	O
+axes_78	open	O
+axes_78	wide	O
+axes_78	and	O
+axes_78	axes	axes_nou-vrb
+axes_78	are	O
+axes_78	thrown	O

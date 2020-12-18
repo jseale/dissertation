@@ -1,0 +1,15 @@
+recount_29	The	O
+recount_29	first	O
+recount_29	independent	O
+recount_29	recount	recount_nou
+recount_29	of	O
+recount_29	undervotes	O
+recount_29	was	O
+recount_29	conducted	O
+recount_29	by	O
+recount_29	the	O
+recount_29	Miami	O
+recount_29	Herald	O
+recount_29	and	O
+recount_29	USA	O
+recount_29	Today	O

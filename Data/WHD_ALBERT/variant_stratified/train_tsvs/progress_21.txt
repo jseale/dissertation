@@ -1,0 +1,10 @@
+progress_21	Recent	O
+progress_21	progress	progress_nou
+progress_21	in	O
+progress_21	understanding	O
+progress_21	the	O
+progress_21	evolution	O
+progress_21	of	O
+progress_21	carnivorous	O
+progress_21	Lentibulariaceae	O
+progress_21	Lamiales	O

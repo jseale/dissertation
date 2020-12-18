@@ -1,0 +1,14 @@
+lead_6	In	O
+lead_6	2004	O
+lead_6	he	O
+lead_6	endorsed	O
+lead_6	Frank	O
+lead_6	Klees	O
+lead_6	's	O
+lead_6	bid	O
+lead_6	to	O
+lead_6	lead	lead_nou-vrb
+lead_6	the	O
+lead_6	Ontario	O
+lead_6	Progressive	O
+lead_6	Conservatives	O

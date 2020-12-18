@@ -1,0 +1,14 @@
+construct_9	Initially	O
+construct_9	plans	O
+construct_9	were	O
+construct_9	in	O
+construct_9	place	O
+construct_9	to	O
+construct_9	construct	construct_vrb
+construct_9	a	O
+construct_9	Bass	O
+construct_9	Pro	O
+construct_9	store	O
+construct_9	on	O
+construct_9	the	O
+construct_9	location	O

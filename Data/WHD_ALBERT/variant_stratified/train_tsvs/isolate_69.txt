@@ -1,0 +1,12 @@
+isolate_69	Isoemericellin	O
+isolate_69	is	O
+isolate_69	a	O
+isolate_69	bio	O
+isolate_69	active	O
+isolate_69	isolate	isolate_nou
+isolate_69	of	O
+isolate_69	the	O
+isolate_69	marine	O
+isolate_69	fungus	O
+isolate_69	Emericella	O
+isolate_69	variecolor	O

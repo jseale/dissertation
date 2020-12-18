@@ -1,0 +1,13 @@
+transform_49	Rather	O
+transform_49	he	O
+transform_49	kept	O
+transform_49	G2	O
+transform_49	with	O
+transform_49	him	O
+transform_49	and	O
+transform_49	let	O
+transform_49	the	O
+transform_49	Sazer	O
+transform_49	X	O
+transform_49	transform	transform
+transform_49	again	O

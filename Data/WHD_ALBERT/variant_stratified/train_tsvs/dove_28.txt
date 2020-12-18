@@ -1,0 +1,15 @@
+dove_28	The	O
+dove_28	Barusan	O
+dove_28	cuckoo	O
+dove_28	dove	dove
+dove_28	Macropygia	O
+dove_28	modiglianii	O
+dove_28	is	O
+dove_28	a	O
+dove_28	species	O
+dove_28	of	O
+dove_28	bird	O
+dove_28	in	O
+dove_28	the	O
+dove_28	family	O
+dove_28	Columbidae	O

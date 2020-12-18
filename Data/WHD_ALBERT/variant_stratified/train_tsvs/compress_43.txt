@@ -1,0 +1,10 @@
+compress_43	BOCU-1	O
+compress_43	and	O
+compress_43	SCSU	O
+compress_43	are	O
+compress_43	two	O
+compress_43	ways	O
+compress_43	to	O
+compress_43	compress	compress
+compress_43	Unicode	O
+compress_43	data	O

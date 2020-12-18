@@ -1,0 +1,14 @@
+initiate_46	Certain	O
+initiate_46	inflammatory	O
+initiate_46	chemokines	O
+initiate_46	activate	O
+initiate_46	cells	O
+initiate_46	to	O
+initiate_46	initiate	initiate_vrb
+initiate_46	an	O
+initiate_46	immune	O
+initiate_46	response	O
+initiate_46	or	O
+initiate_46	promote	O
+initiate_46	wound	O
+initiate_46	healing	O

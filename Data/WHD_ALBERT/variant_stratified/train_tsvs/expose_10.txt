@@ -1,0 +1,17 @@
+expose_10	Ching	O
+expose_10	gets	O
+expose_10	a	O
+expose_10	job	O
+expose_10	at	O
+expose_10	another	O
+expose_10	jewelry	O
+expose_10	company	O
+expose_10	and	O
+expose_10	collaborates	O
+expose_10	with	O
+expose_10	Lung	O
+expose_10	to	O
+expose_10	expose	expose_vrb
+expose_10	Yuen	O
+expose_10	's	O
+expose_10	wrongdoings	O

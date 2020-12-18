@@ -1,0 +1,11 @@
+transplant_32	The	O
+transplant_32	process	O
+transplant_32	of	O
+transplant_32	somatic	O
+transplant_32	cell	O
+transplant_32	nuclear	O
+transplant_32	transplant	transplant_nou
+transplant_32	involves	O
+transplant_32	two	O
+transplant_32	different	O
+transplant_32	cells	O

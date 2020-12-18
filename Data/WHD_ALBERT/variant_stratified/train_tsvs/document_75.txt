@@ -1,0 +1,16 @@
+document_75	In	O
+document_75	February	O
+document_75	2014	O
+document_75	the	O
+document_75	company	O
+document_75	partnered	O
+document_75	with	O
+document_75	BillionGraves	O
+document_75	to	O
+document_75	digitize	O
+document_75	and	O
+document_75	document	document_vrb
+document_75	graves	O
+document_75	and	O
+document_75	cemeteries	O
+document_75	worldwide	O

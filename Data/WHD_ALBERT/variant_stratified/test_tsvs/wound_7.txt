@@ -1,0 +1,7 @@
+wound_7	In	O
+wound_7	1994	O
+wound_7	the	O
+wound_7	society	O
+wound_7	was	O
+wound_7	wound	wound_vrb
+wound_7	up	O

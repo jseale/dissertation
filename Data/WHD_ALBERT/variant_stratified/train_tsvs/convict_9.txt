@@ -1,0 +1,10 @@
+convict_9	The	O
+convict_9	first	O
+convict_9	convict	convict_nou
+convict_9	confesses	O
+convict_9	to	O
+convict_9	stealing	O
+convict_9	food	O
+convict_9	from	O
+convict_9	the	O
+convict_9	smithy	O

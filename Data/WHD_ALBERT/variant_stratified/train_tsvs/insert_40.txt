@@ -1,0 +1,16 @@
+insert_40	Almost	O
+insert_40	eight	O
+insert_40	months	O
+insert_40	later	O
+insert_40	came	O
+insert_40	the	O
+insert_40	new	O
+insert_40	EP	O
+insert_40	with	O
+insert_40	a	O
+insert_40	new	O
+insert_40	added	O
+insert_40	cover	O
+insert_40	and	O
+insert_40	insert	insert_nou
+insert_40	art	O

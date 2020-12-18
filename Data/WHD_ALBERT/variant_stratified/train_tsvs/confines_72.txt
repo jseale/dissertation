@@ -1,0 +1,16 @@
+confines_72	Libertarianism	O
+confines_72	in	O
+confines_72	contrast	O
+confines_72	is	O
+confines_72	a	O
+confines_72	political	O
+confines_72	philosophy	O
+confines_72	which	O
+confines_72	confines	confines_vrb
+confines_72	its	O
+confines_72	attention	O
+confines_72	to	O
+confines_72	matters	O
+confines_72	of	O
+confines_72	public	O
+confines_72	policy	O

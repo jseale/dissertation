@@ -1,0 +1,15 @@
+close_3	While	O
+close_3	program	O
+close_3	and	O
+close_3	support	O
+close_3	partners	O
+close_3	have	O
+close_3	close	close_adj-nou
+close_3	relationships	O
+close_3	each	O
+close_3	operates	O
+close_3	as	O
+close_3	an	O
+close_3	independent	O
+close_3	legal	O
+close_3	entity	O

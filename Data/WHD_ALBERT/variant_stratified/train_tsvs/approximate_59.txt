@@ -1,0 +1,9 @@
+approximate_59	Within	O
+approximate_59	each	O
+approximate_59	subsection	O
+approximate_59	changes	O
+approximate_59	are	O
+approximate_59	in	O
+approximate_59	approximate	approximate_adj-nou
+approximate_59	chronological	O
+approximate_59	order	O

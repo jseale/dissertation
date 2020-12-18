@@ -1,0 +1,10 @@
+graduate_22	She	O
+graduate_22	is	O
+graduate_22	a	O
+graduate_22	graduate	graduate_adj-nou
+graduate_22	of	O
+graduate_22	the	O
+graduate_22	London	O
+graduate_22	School	O
+graduate_22	of	O
+graduate_22	Journalism	O

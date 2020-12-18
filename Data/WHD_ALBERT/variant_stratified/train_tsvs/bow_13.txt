@@ -1,0 +1,8 @@
+bow_13	Overture	O
+bow_13	More	O
+bow_13	Strings	O
+bow_13	to	O
+bow_13	Our	O
+bow_13	Bow	bow_nou-knot
+bow_13	Opening	O
+bow_13	number	O

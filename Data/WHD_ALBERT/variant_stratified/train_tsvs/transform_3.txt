@@ -1,0 +1,16 @@
+transform_3	After	O
+transform_3	sucking	O
+transform_3	enough	O
+transform_3	blood	O
+transform_3	you	O
+transform_3	temporarily	O
+transform_3	transform	transform
+transform_3	into	O
+transform_3	an	O
+transform_3	invulnerable	O
+transform_3	wolf	O
+transform_3	to	O
+transform_3	cover	O
+transform_3	distance	O
+transform_3	more	O
+transform_3	quickly	O

@@ -1,0 +1,10 @@
+use_4	Because	O
+use_4	of	O
+use_4	segregation	O
+use_4	his	O
+use_4	skills	O
+use_4	were	O
+use_4	never	O
+use_4	put	O
+use_4	to	O
+use_4	use	use_nou

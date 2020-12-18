@@ -1,0 +1,12 @@
+overthrow_48	Some	O
+overthrow_48	chiefs	O
+overthrow_48	supported	O
+overthrow_48	Kamehameha	O
+overthrow_48	and	O
+overthrow_48	war	O
+overthrow_48	soon	O
+overthrow_48	broke	O
+overthrow_48	out	O
+overthrow_48	to	O
+overthrow_48	overthrow	overthrow_vrb
+overthrow_48	Kiwalaʻo	O

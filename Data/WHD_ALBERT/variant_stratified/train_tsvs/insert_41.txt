@@ -1,0 +1,17 @@
+insert_41	The	O
+insert_41	book	O
+insert_41	runs	O
+insert_41	160	O
+insert_41	pages	O
+insert_41	and	O
+insert_41	contains	O
+insert_41	a	O
+insert_41	four	O
+insert_41	page	O
+insert_41	insert	insert_nou
+insert_41	of	O
+insert_41	black	O
+insert_41	and	O
+insert_41	white	O
+insert_41	movie	O
+insert_41	stills	O

@@ -1,0 +1,11 @@
+live_65	Rajinder	O
+live_65	also	O
+live_65	has	O
+live_65	two	O
+live_65	elder	O
+live_65	sisters	O
+live_65	who	O
+live_65	live	live_vrb
+live_65	in	O
+live_65	New	O
+live_65	Delhi	O

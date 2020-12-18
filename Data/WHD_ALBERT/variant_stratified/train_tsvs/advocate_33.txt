@@ -1,0 +1,12 @@
+advocate_33	He	O
+advocate_33	was	O
+advocate_33	an	O
+advocate_33	advocate	advocate_nou
+advocate_33	within	O
+advocate_33	the	O
+advocate_33	School	O
+advocate_33	of	O
+advocate_33	Music	O
+advocate_33	for	O
+advocate_33	wind	O
+advocate_33	music	O

@@ -1,0 +1,9 @@
+impact_35	She	O
+impact_35	however	O
+impact_35	appeared	O
+impact_35	on	O
+impact_35	two	O
+impact_35	more	O
+impact_35	weeks	O
+impact_35	of	O
+impact_35	Impact	impact_nou

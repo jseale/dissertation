@@ -1,0 +1,15 @@
+sow_40	In	O
+sow_40	doing	O
+sow_40	so	O
+sow_40	they	O
+sow_40	could	O
+sow_40	sow	sow
+sow_40	their	O
+sow_40	knowledge	O
+sow_40	of	O
+sow_40	the	O
+sow_40	Buddha	O
+sow_40	deep	O
+sow_40	into	O
+sow_40	their	O
+sow_40	minds	O

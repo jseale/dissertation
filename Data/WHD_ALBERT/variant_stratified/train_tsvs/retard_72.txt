@@ -1,0 +1,15 @@
+retard_72	These	O
+retard_72	experiments	O
+retard_72	failed	O
+retard_72	to	O
+retard_72	produce	O
+retard_72	the	O
+retard_72	desired	O
+retard_72	results	O
+retard_72	of	O
+retard_72	increased	O
+retard_72	hormonal	O
+retard_72	effects	O
+retard_72	to	O
+retard_72	retard	retard_vrb
+retard_72	aging	O

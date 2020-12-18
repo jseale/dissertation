@@ -1,0 +1,14 @@
+reading_50	He	O
+reading_50	adapted	O
+reading_50	to	O
+reading_50	reading	reading_en
+reading_50	music	O
+reading_50	and	O
+reading_50	developed	O
+reading_50	a	O
+reading_50	good	O
+reading_50	ear	O
+reading_50	and	O
+reading_50	natural	O
+reading_50	musical	O
+reading_50	intelligence	O

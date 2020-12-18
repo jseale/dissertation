@@ -1,0 +1,14 @@
+correlate_0	The	O
+correlate_0	current	O
+correlate_0	correlate	correlate_nou
+correlate_0	was	O
+correlate_0	established	O
+correlate_0	by	O
+correlate_0	Zhang	O
+correlate_0	Cang	O
+correlate_0	upon	O
+correlate_0	the	O
+correlate_0	foundation	O
+correlate_0	of	O
+correlate_0	the	O
+correlate_0	empire	O

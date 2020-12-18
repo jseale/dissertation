@@ -1,0 +1,10 @@
+bow_58	The	O
+bow_58	presentation	O
+bow_58	is	O
+bow_58	to	O
+bow_58	be	O
+bow_58	accompanied	O
+bow_58	by	O
+bow_58	a	O
+bow_58	slight	O
+bow_58	bow	bow_nou-ship

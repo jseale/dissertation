@@ -1,0 +1,14 @@
+deliberate_2	Anderson	O
+deliberate_2	says	O
+deliberate_2	I	O
+deliberate_2	created	O
+deliberate_2	a	O
+deliberate_2	deliberate	deliberate_adj
+deliberate_2	vacuum	O
+deliberate_2	so	O
+deliberate_2	all	O
+deliberate_2	these	O
+deliberate_2	influences	O
+deliberate_2	would	O
+deliberate_2	flood	O
+deliberate_2	in	O

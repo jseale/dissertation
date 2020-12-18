@@ -1,0 +1,14 @@
+compound_71	This	O
+compound_71	compound	compound_nou
+compound_71	showed	O
+compound_71	high	O
+compound_71	antifungal	O
+compound_71	activity	O
+compound_71	against	O
+compound_71	Colletotrichum	O
+compound_71	gloesporioides	O
+compound_71	a	O
+compound_71	pathogenic	O
+compound_71	fungus	O
+compound_71	of	O
+compound_71	papaya	O

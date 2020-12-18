@@ -1,0 +1,17 @@
+insult_50	Fabrique	O
+insult_50	enters	O
+insult_50	finds	O
+insult_50	Cesar	O
+insult_50	unconscious	O
+insult_50	finds	O
+insult_50	the	O
+insult_50	playing	O
+insult_50	card	O
+insult_50	and	O
+insult_50	miffed	O
+insult_50	at	O
+insult_50	Cesar	O
+insult_50	's	O
+insult_50	insult	insult_nou
+insult_50	takes	O
+insult_50	it	O

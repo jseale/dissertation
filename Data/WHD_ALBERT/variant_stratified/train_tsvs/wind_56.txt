@@ -1,0 +1,17 @@
+wind_56	This	O
+wind_56	emergent	O
+wind_56	coastal	O
+wind_56	plain	O
+wind_56	is	O
+wind_56	made	O
+wind_56	up	O
+wind_56	of	O
+wind_56	sand	O
+wind_56	and	O
+wind_56	mud	O
+wind_56	deposited	O
+wind_56	by	O
+wind_56	rivers	O
+wind_56	and	O
+wind_56	by	O
+wind_56	wind	wind_nou

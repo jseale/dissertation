@@ -1,0 +1,12 @@
+implement_56	Lately	O
+implement_56	he	O
+implement_56	aims	O
+implement_56	to	O
+implement_56	implement	implement_vrb
+implement_56	knowledge	O
+implement_56	about	O
+implement_56	human	O
+implement_56	learning	O
+implement_56	in	O
+implement_56	educational	O
+implement_56	settings	O

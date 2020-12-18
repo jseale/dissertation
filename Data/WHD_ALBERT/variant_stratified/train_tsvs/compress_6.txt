@@ -1,0 +1,12 @@
+compress_6	If	O
+compress_6	both	O
+compress_6	wheels	O
+compress_6	compress	compress
+compress_6	together	O
+compress_6	their	O
+compress_6	camber	O
+compress_6	and	O
+compress_6	toe	O
+compress_6	will	O
+compress_6	not	O
+compress_6	change	O

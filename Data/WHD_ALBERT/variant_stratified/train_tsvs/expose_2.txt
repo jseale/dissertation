@@ -1,0 +1,13 @@
+expose_2	Booth	O
+expose_2	's	O
+expose_2	Guardian	O
+expose_2	article	O
+expose_2	noted	O
+expose_2	that	O
+expose_2	in	O
+expose_2	response	O
+expose_2	to	O
+expose_2	the	O
+expose_2	expose	expose_nou
+expose_2	Roux	O
+expose_2	said	O

@@ -1,0 +1,13 @@
+insult_41	Jules	O
+insult_41	Dreyfus	O
+insult_41	Brodsky	O
+insult_41	and	O
+insult_41	Marcus	O
+insult_41	Cohen	O
+insult_41	sued	O
+insult_41	them	O
+insult_41	for	O
+insult_41	insult	insult_nou
+insult_41	to	O
+insult_41	Jewish	O
+insult_41	honor	O

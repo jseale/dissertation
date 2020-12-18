@@ -1,0 +1,15 @@
+abuses_14	Reported	O
+abuses_14	abuses	abuses_nou
+abuses_14	of	O
+abuses_14	human	O
+abuses_14	rights	O
+abuses_14	in	O
+abuses_14	Tibet	O
+abuses_14	include	O
+abuses_14	restricted	O
+abuses_14	freedom	O
+abuses_14	of	O
+abuses_14	religion	O
+abuses_14	belief	O
+abuses_14	and	O
+abuses_14	association	O

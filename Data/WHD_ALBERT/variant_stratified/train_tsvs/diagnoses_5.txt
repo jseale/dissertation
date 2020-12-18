@@ -1,0 +1,12 @@
+diagnoses_5	There	O
+diagnoses_5	are	O
+diagnoses_5	many	O
+diagnoses_5	types	O
+diagnoses_5	of	O
+diagnoses_5	sacral	O
+diagnoses_5	diagnoses	diagnoses_nou
+diagnoses_5	such	O
+diagnoses_5	as	O
+diagnoses_5	torsion	O
+diagnoses_5	and	O
+diagnoses_5	shear	O

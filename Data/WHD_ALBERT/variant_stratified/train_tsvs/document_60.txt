@@ -1,0 +1,12 @@
+document_60	This	O
+document_60	document	document_nou
+document_60	names	O
+document_60	Werhard	O
+document_60	as	O
+document_60	Wulfred	O
+document_60	's	O
+document_60	nephew	O
+document_60	and	O
+document_60	calls	O
+document_60	him	O
+document_60	priest	O

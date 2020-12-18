@@ -1,0 +1,11 @@
+wound_1	That	O
+wound_1	's	O
+wound_1	the	O
+wound_1	poisoned	O
+wound_1	and	O
+wound_1	mortal	O
+wound_1	wound	wound_nou-vrb
+wound_1	of	O
+wound_1	the	O
+wound_1	civilized	O
+wound_1	world	O

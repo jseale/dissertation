@@ -1,0 +1,13 @@
+delegate_37	He	O
+delegate_37	served	O
+delegate_37	as	O
+delegate_37	delegate	delegate_nou
+delegate_37	to	O
+delegate_37	the	O
+delegate_37	Democratic	O
+delegate_37	National	O
+delegate_37	Conventions	O
+delegate_37	in	O
+delegate_37	1896	O
+delegate_37	and	O
+delegate_37	1904	O

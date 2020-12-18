@@ -1,0 +1,10 @@
+advocate_22	The	O
+advocate_22	company	O
+advocate_22	is	O
+advocate_22	a	O
+advocate_22	strong	O
+advocate_22	advocate	advocate_nou
+advocate_22	towards	O
+advocate_22	low	O
+advocate_22	trading	O
+advocate_22	leverages	O

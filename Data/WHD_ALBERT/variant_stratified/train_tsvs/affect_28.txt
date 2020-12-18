@@ -1,0 +1,15 @@
+affect_28	It	O
+affect_28	is	O
+affect_28	unclear	O
+affect_28	if	O
+affect_28	these	O
+affect_28	devices	O
+affect_28	affect	affect
+affect_28	the	O
+affect_28	amount	O
+affect_28	of	O
+affect_28	physical	O
+affect_28	activity	O
+affect_28	children	O
+affect_28	engage	O
+affect_28	in	O

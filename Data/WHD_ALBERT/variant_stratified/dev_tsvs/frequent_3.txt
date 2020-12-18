@@ -1,0 +1,15 @@
+frequent_3	For	O
+frequent_3	more	O
+frequent_3	than	O
+frequent_3	forty	O
+frequent_3	five	O
+frequent_3	years	O
+frequent_3	Bridges	O
+frequent_3	was	O
+frequent_3	a	O
+frequent_3	frequent	frequent_adj
+frequent_3	guest	O
+frequent_3	star	O
+frequent_3	on	O
+frequent_3	television	O
+frequent_3	series	O

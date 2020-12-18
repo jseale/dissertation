@@ -1,0 +1,10 @@
+pasty_49	The	O
+pasty_49	crew	O
+pasty_49	were	O
+pasty_49	greeted	O
+pasty_49	with	O
+pasty_49	a	O
+pasty_49	pint	O
+pasty_49	and	O
+pasty_49	a	O
+pasty_49	pasty	pasty_adj

@@ -1,0 +1,9 @@
+rebel_5	Humayun	O
+rebel_5	sent	O
+rebel_5	another	O
+rebel_5	army	O
+rebel_5	and	O
+rebel_5	the	O
+rebel_5	rebel	rebel_nou
+rebel_5	was	O
+rebel_5	captured	O

@@ -1,0 +1,16 @@
+abuses_17	Only	O
+abuses_17	about	O
+abuses_17	25	O
+abuses_17	per	O
+abuses_17	cent	O
+abuses_17	of	O
+abuses_17	these	O
+abuses_17	women	O
+abuses_17	are	O
+abuses_17	said	O
+abuses_17	to	O
+abuses_17	have	O
+abuses_17	survived	O
+abuses_17	these	O
+abuses_17	daily	O
+abuses_17	abuses	abuses_nou

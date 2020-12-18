@@ -1,0 +1,15 @@
+insert_58	Each	O
+insert_58	certificate	O
+insert_58	change	O
+insert_58	requires	O
+insert_58	a	O
+insert_58	delete	O
+insert_58	and	O
+insert_58	insert	insert_vrb
+insert_58	operation	O
+insert_58	in	O
+insert_58	the	O
+insert_58	priority	O
+insert_58	queue	O
+insert_58	of	O
+insert_58	events	O

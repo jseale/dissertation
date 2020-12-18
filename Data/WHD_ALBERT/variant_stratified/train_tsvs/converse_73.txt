@@ -1,0 +1,11 @@
+converse_73	It	O
+converse_73	would	O
+converse_73	periodically	O
+converse_73	emerge	O
+converse_73	from	O
+converse_73	the	O
+converse_73	amulet	O
+converse_73	and	O
+converse_73	converse	converse_vrb
+converse_73	with	O
+converse_73	Pandemonium	O

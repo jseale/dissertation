@@ -1,0 +1,11 @@
+correlate_41	These	O
+correlate_41	geographical	O
+correlate_41	distributions	O
+correlate_41	strongly	O
+correlate_41	correlate	correlate_nou-vrb
+correlate_41	with	O
+correlate_41	the	O
+correlate_41	spread	O
+correlate_41	of	O
+correlate_41	domesticated	O
+correlate_41	cattle	O

@@ -1,0 +1,15 @@
+consummate_63	Charlie	O
+consummate_63	suggests	O
+consummate_63	going	O
+consummate_63	back	O
+consummate_63	to	O
+consummate_63	the	O
+consummate_63	party	O
+consummate_63	but	O
+consummate_63	Ava	O
+consummate_63	suggests	O
+consummate_63	they	O
+consummate_63	consummate	consummate_vrb
+consummate_63	their	O
+consummate_63	marriage	O
+consummate_63	instead	O

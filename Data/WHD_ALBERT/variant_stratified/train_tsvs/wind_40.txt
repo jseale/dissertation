@@ -1,0 +1,17 @@
+wind_40	Also	O
+wind_40	in	O
+wind_40	1941	O
+wind_40	with	O
+wind_40	C.C.	O
+wind_40	Branson	O
+wind_40	he	O
+wind_40	reviewed	O
+wind_40	the	O
+wind_40	geology	O
+wind_40	of	O
+wind_40	the	O
+wind_40	Wind	wind_nou
+wind_40	River	O
+wind_40	Mountains	O
+wind_40	in	O
+wind_40	Wyoming	O

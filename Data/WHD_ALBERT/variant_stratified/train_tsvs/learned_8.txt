@@ -1,0 +1,13 @@
+learned_8	At	O
+learned_8	16	O
+learned_8	under	O
+learned_8	artist	O
+learned_8	H.	O
+learned_8	J.	O
+learned_8	Glintenkamp	O
+learned_8	Rico	O
+learned_8	learned	learned_vrb
+learned_8	to	O
+learned_8	make	O
+learned_8	wood	O
+learned_8	engravings	O

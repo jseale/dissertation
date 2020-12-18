@@ -1,0 +1,13 @@
+conflict_54	The	O
+conflict_54	different	O
+conflict_54	strategies	O
+conflict_54	resulted	O
+conflict_54	in	O
+conflict_54	a	O
+conflict_54	sharp	O
+conflict_54	conflict	conflict_nou
+conflict_54	between	O
+conflict_54	the	O
+conflict_54	two	O
+conflict_54	communist	O
+conflict_54	politicians	O

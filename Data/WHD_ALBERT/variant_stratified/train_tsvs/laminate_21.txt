@@ -1,0 +1,16 @@
+laminate_21	The	O
+laminate_21	engine	O
+laminate_21	drives	O
+laminate_21	a	O
+laminate_21	two	O
+laminate_21	bladed	O
+laminate_21	counter	O
+laminate_21	clockwise	O
+laminate_21	rotating	O
+laminate_21	variable	O
+laminate_21	pitch	O
+laminate_21	wood	O
+laminate_21	and	O
+laminate_21	fiberglass	O
+laminate_21	laminate	laminate_nou
+laminate_21	propeller	O

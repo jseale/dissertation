@@ -1,0 +1,13 @@
+separate_71	Subsequently	O
+separate_71	molecular	O
+separate_71	phylogenetic	O
+separate_71	studies	O
+separate_71	demonstrated	O
+separate_71	that	O
+separate_71	Griffineae	O
+separate_71	was	O
+separate_71	a	O
+separate_71	distinct	O
+separate_71	and	O
+separate_71	separate	separate_adj
+separate_71	tribe	O

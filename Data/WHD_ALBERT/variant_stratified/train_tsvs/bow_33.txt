@@ -1,0 +1,17 @@
+bow_33	Jones	O
+bow_33	was	O
+bow_33	born	O
+bow_33	in	O
+bow_33	Bow	bow_nou-knot
+bow_33	London	O
+bow_33	and	O
+bow_33	started	O
+bow_33	his	O
+bow_33	career	O
+bow_33	with	O
+bow_33	the	O
+bow_33	renowned	O
+bow_33	local	O
+bow_33	junior	O
+bow_33	side	O
+bow_33	Senrab	O

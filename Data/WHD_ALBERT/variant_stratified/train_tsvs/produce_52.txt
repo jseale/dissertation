@@ -1,0 +1,16 @@
+produce_52	This	O
+produce_52	in	O
+produce_52	turn	O
+produce_52	is	O
+produce_52	expected	O
+produce_52	to	O
+produce_52	produce	produce_vrb
+produce_52	more	O
+produce_52	spiritual	O
+produce_52	seeking	O
+produce_52	although	O
+produce_52	not	O
+produce_52	exclusive	O
+produce_52	to	O
+produce_52	religious	O
+produce_52	institutions	O

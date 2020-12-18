@@ -1,0 +1,15 @@
+advocate_20	Hedgeman	O
+advocate_20	was	O
+advocate_20	a	O
+advocate_20	major	O
+advocate_20	advocate	advocate_nou
+advocate_20	for	O
+advocate_20	both	O
+advocate_20	minorities	O
+advocate_20	and	O
+advocate_20	the	O
+advocate_20	poor	O
+advocate_20	in	O
+advocate_20	New	O
+advocate_20	York	O
+advocate_20	City	O

@@ -1,0 +1,17 @@
+retard_23	However	O
+retard_23	high	O
+retard_23	concentrations	O
+retard_23	of	O
+retard_23	sodium	O
+retard_23	chloride	O
+retard_23	and	O
+retard_23	many	O
+retard_23	other	O
+retard_23	salts	O
+retard_23	in	O
+retard_23	a	O
+retard_23	DNA	O
+retard_23	sample	O
+retard_23	retard	retard_vrb
+retard_23	its	O
+retard_23	mobility	O

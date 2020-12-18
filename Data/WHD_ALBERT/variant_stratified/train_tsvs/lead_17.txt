@@ -1,0 +1,7 @@
+lead_17	Lead	lead_nou
+lead_17	is	O
+lead_17	easily	O
+lead_17	extracted	O
+lead_17	from	O
+lead_17	its	O
+lead_17	ores	O

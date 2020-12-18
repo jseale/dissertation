@@ -1,0 +1,12 @@
+converse_68	He	O
+converse_68	also	O
+converse_68	argued	O
+converse_68	that	O
+converse_68	Kripal	O
+converse_68	was	O
+converse_68	unable	O
+converse_68	even	O
+converse_68	to	O
+converse_68	converse	converse_vrb
+converse_68	in	O
+converse_68	Bengali	O

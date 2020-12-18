@@ -1,0 +1,16 @@
+live_58	However	O
+live_58	Vasant	O
+live_58	reconciles	O
+live_58	with	O
+live_58	his	O
+live_58	son	O
+live_58	and	O
+live_58	allows	O
+live_58	him	O
+live_58	to	O
+live_58	live	live_vrb
+live_58	life	O
+live_58	the	O
+live_58	way	O
+live_58	he	O
+live_58	wants	O

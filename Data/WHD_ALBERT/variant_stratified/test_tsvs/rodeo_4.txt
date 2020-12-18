@@ -1,0 +1,14 @@
+rodeo_4	Teresa	O
+rodeo_4	Trull	O
+rodeo_4	met	O
+rodeo_4	Barbara	O
+rodeo_4	Higbie	O
+rodeo_4	at	O
+rodeo_4	a	O
+rodeo_4	rodeo	rodeo
+rodeo_4	in	O
+rodeo_4	Reno	O
+rodeo_4	Nevada	O
+rodeo_4	in	O
+rodeo_4	July	O
+rodeo_4	1982	O

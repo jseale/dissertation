@@ -1,0 +1,12 @@
+polish_44	Some	O
+polish_44	Polish	polish_geo
+polish_44	towns	O
+polish_44	mainly	O
+polish_44	in	O
+polish_44	northeastern	O
+polish_44	Poland	O
+polish_44	in	O
+polish_44	Podlaskie	O
+polish_44	Voivodeship	O
+polish_44	have	O
+polish_44	mosques	O

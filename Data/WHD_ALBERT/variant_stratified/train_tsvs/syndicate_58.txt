@@ -1,0 +1,9 @@
+syndicate_58	She	O
+syndicate_58	was	O
+syndicate_58	a	O
+syndicate_58	writer	O
+syndicate_58	on	O
+syndicate_58	the	O
+syndicate_58	video	O
+syndicate_58	game	O
+syndicate_58	Syndicate	syndicate_nou

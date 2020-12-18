@@ -1,0 +1,12 @@
+refuse_4	His	O
+refuse_4	teacher	O
+refuse_4	notices	O
+refuse_4	and	O
+refuse_4	tells	O
+refuse_4	his	O
+refuse_4	parents	O
+refuse_4	who	O
+refuse_4	refuse	refuse_vrb
+refuse_4	to	O
+refuse_4	believe	O
+refuse_4	it	O

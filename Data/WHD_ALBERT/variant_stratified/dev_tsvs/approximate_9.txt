@@ -1,0 +1,14 @@
+approximate_9	The	O
+approximate_9	idea	O
+approximate_9	is	O
+approximate_9	that	O
+approximate_9	majorities	O
+approximate_9	voting	O
+approximate_9	in	O
+approximate_9	elections	O
+approximate_9	approximate	approximate_vrb
+approximate_9	the	O
+approximate_9	result	O
+approximate_9	of	O
+approximate_9	a	O
+approximate_9	coup	O

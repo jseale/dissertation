@@ -1,0 +1,16 @@
+wind_77	Several	O
+wind_77	salt	O
+wind_77	well	O
+wind_77	heads	O
+wind_77	are	O
+wind_77	capped	O
+wind_77	and	O
+wind_77	marked	O
+wind_77	along	O
+wind_77	the	O
+wind_77	streets	O
+wind_77	that	O
+wind_77	wind	wind_vrb
+wind_77	along	O
+wind_77	the	O
+wind_77	river	O

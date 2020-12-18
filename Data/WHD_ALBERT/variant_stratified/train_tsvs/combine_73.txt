@@ -1,0 +1,14 @@
+combine_73	SAM	O
+combine_73	I	O
+combine_73	IV	O
+combine_73	variant	O
+combine_73	riboswitches	O
+combine_73	combine	combine_vrb
+combine_73	features	O
+combine_73	of	O
+combine_73	SAM	O
+combine_73	I	O
+combine_73	and	O
+combine_73	SAM	O
+combine_73	IV	O
+combine_73	riboswitches	O

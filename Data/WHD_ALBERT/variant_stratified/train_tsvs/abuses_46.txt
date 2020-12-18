@@ -1,0 +1,9 @@
+abuses_46	There	O
+abuses_46	are	O
+abuses_46	also	O
+abuses_46	abuses	abuses_nou
+abuses_46	of	O
+abuses_46	media	O
+abuses_46	rights	O
+abuses_46	and	O
+abuses_46	access	O

@@ -1,0 +1,16 @@
+invite_37	The	O
+invite_37	New	O
+invite_37	Kadampa	O
+invite_37	Tradition	O
+invite_37	can	O
+invite_37	not	O
+invite_37	buy	O
+invite_37	qualified	O
+invite_37	Teachers	O
+invite_37	nor	O
+invite_37	can	O
+invite_37	we	O
+invite_37	invite	invite_vrb
+invite_37	them	O
+invite_37	from	O
+invite_37	outside	O

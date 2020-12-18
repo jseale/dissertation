@@ -1,0 +1,10 @@
+conjugate_14	The	O
+conjugate_14	anionic	O
+conjugate_14	conjugate	conjugate_adj-nou
+conjugate_14	bases	O
+conjugate_14	of	O
+conjugate_14	amines	O
+conjugate_14	are	O
+conjugate_14	known	O
+conjugate_14	as	O
+conjugate_14	amides	O

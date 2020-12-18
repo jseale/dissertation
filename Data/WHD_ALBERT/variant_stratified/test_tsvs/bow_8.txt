@@ -1,0 +1,17 @@
+bow_8	The	O
+bow_8	reverse	O
+bow_8	shows	O
+bow_8	a	O
+bow_8	view	O
+bow_8	of	O
+bow_8	the	O
+bow_8	starboard	O
+bow_8	quarter	O
+bow_8	of	O
+bow_8	the	O
+bow_8	Lusitania	O
+bow_8	correctly	O
+bow_8	depicted	O
+bow_8	sinking	O
+bow_8	bow	bow_nou-ship
+bow_8	first	O

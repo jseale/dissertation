@@ -1,0 +1,9 @@
+bow_19	The	O
+bow_19	round	O
+bow_19	bow	bow_nou-knot
+bow_19	is	O
+bow_19	also	O
+bow_19	equipped	O
+bow_19	with	O
+bow_19	horse	O
+bow_19	hair	O

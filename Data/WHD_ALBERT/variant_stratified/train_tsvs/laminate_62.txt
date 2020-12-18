@@ -1,0 +1,8 @@
+laminate_62	The	O
+laminate_62	floor	O
+laminate_62	is	O
+laminate_62	covered	O
+laminate_62	with	O
+laminate_62	laminate	laminate_nou
+laminate_62	hardwood	O
+laminate_62	flooring	O

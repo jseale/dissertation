@@ -1,0 +1,12 @@
+record_5	The	O
+record_5	Yale	O
+record_5	Record	record_nou
+record_5	documented	O
+record_5	the	O
+record_5	creation	O
+record_5	of	O
+record_5	the	O
+record_5	first	O
+record_5	American	O
+record_5	football	O
+record_5	championship	O

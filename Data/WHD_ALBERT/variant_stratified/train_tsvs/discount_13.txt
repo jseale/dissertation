@@ -1,0 +1,12 @@
+discount_13	MSB	O
+discount_13	has	O
+discount_13	recently	O
+discount_13	been	O
+discount_13	purchased	O
+discount_13	by	O
+discount_13	FDH	O
+discount_13	First	O
+discount_13	Discount	discount_nou
+discount_13	House	O
+discount_13	of	O
+discount_13	Malawi	O

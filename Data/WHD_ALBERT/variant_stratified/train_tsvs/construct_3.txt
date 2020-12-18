@@ -1,0 +1,11 @@
+construct_3	Independent	O
+construct_3	validation	O
+construct_3	studies	O
+construct_3	indicate	O
+construct_3	that	O
+construct_3	the	O
+construct_3	measure	O
+construct_3	demonstrates	O
+construct_3	excellent	O
+construct_3	construct	construct_nou
+construct_3	validity	O

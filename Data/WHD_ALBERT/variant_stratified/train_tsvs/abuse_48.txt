@@ -1,0 +1,8 @@
+abuse_48	Such	O
+abuse_48	abuse	abuse_nou
+abuse_48	was	O
+abuse_48	unlawful	O
+abuse_48	and	O
+abuse_48	unacceptable	O
+abuse_48	Naidu	O
+abuse_48	said	O

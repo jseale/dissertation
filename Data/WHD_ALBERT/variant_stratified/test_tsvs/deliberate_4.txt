@@ -1,0 +1,17 @@
+deliberate_4	The	O
+deliberate_4	deliberate	deliberate_adj
+deliberate_4	and	O
+deliberate_4	systematic	O
+deliberate_4	manner	O
+deliberate_4	in	O
+deliberate_4	which	O
+deliberate_4	these	O
+deliberate_4	extrajudicial	O
+deliberate_4	executions	O
+deliberate_4	took	O
+deliberate_4	place	O
+deliberate_4	constitutes	O
+deliberate_4	a	O
+deliberate_4	crime	O
+deliberate_4	against	O
+deliberate_4	humanity	O

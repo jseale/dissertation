@@ -1,0 +1,15 @@
+discard_4	The	O
+discard_4	zone	O
+discard_4	of	O
+discard_4	assimilation	O
+discard_4	and	O
+discard_4	zone	O
+discard_4	of	O
+discard_4	discard	discard_nou
+discard_4	are	O
+discard_4	together	O
+discard_4	called	O
+discard_4	the	O
+discard_4	zone	O
+discard_4	of	O
+discard_4	transition	O

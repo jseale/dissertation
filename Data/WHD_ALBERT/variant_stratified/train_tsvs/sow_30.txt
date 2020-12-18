@@ -1,0 +1,14 @@
+sow_30	As	O
+sow_30	I	O
+sow_30	have	O
+sow_30	seen	O
+sow_30	those	O
+sow_30	who	O
+sow_30	plow	O
+sow_30	iniquity	O
+sow_30	and	O
+sow_30	sow	sow
+sow_30	trouble	O
+sow_30	reap	O
+sow_30	the	O
+sow_30	same	O

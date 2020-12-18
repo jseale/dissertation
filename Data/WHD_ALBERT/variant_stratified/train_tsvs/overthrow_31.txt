@@ -1,0 +1,15 @@
+overthrow_31	It	O
+overthrow_31	is	O
+overthrow_31	their	O
+overthrow_31	destiny	O
+overthrow_31	to	O
+overthrow_31	return	O
+overthrow_31	to	O
+overthrow_31	Patusan	O
+overthrow_31	overthrow	overthrow_vrb
+overthrow_31	Colonel	O
+overthrow_31	Chi	O
+overthrow_31	and	O
+overthrow_31	free	O
+overthrow_31	the	O
+overthrow_31	people	O

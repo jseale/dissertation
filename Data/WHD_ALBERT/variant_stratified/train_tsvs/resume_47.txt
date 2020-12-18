@@ -1,0 +1,12 @@
+resume_47	In	O
+resume_47	2003	O
+resume_47	Iceland	O
+resume_47	proposed	O
+resume_47	to	O
+resume_47	resume	resume_vrb
+resume_47	research	O
+resume_47	whaling	O
+resume_47	after	O
+resume_47	a	O
+resume_47	14-year	O
+resume_47	interruption	O

@@ -1,0 +1,15 @@
+refund_75	The	O
+refund_75	remaining	O
+refund_75	cars	O
+refund_75	were	O
+refund_75	immediately	O
+refund_75	sent	O
+refund_75	back	O
+refund_75	with	O
+refund_75	a	O
+refund_75	demand	O
+refund_75	to	O
+refund_75	refund	refund_vrb
+refund_75	the	O
+refund_75	money	O
+refund_75	spent	O

@@ -1,0 +1,16 @@
+approximate_23	Notion	O
+approximate_23	Capital	O
+approximate_23	has	O
+approximate_23	raised	O
+approximate_23	three	O
+approximate_23	venture	O
+approximate_23	funds	O
+approximate_23	with	O
+approximate_23	an	O
+approximate_23	approximate	approximate_adj-nou
+approximate_23	total	O
+approximate_23	value	O
+approximate_23	of	O
+approximate_23	$	O
+approximate_23	290	O
+approximate_23	million	O

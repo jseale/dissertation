@@ -1,0 +1,17 @@
+record_29	His	O
+record_29	final	O
+record_29	UK	O
+record_29	chart	O
+record_29	record	record_nou
+record_29	was	O
+record_29	Better	O
+record_29	Get	O
+record_29	Ready	O
+record_29	For	O
+record_29	Love	O
+record_29	which	O
+record_29	reached	O
+record_29	53	O
+record_29	in	O
+record_29	May	O
+record_29	1974	O

@@ -1,0 +1,13 @@
+extract_75	The	O
+extract_75	skydiver	O
+extract_75	may	O
+extract_75	attempt	O
+extract_75	to	O
+extract_75	extract	extract_vrb
+extract_75	the	O
+extract_75	pilot	O
+extract_75	chute	O
+extract_75	or	O
+extract_75	clear	O
+extract_75	the	O
+extract_75	entanglement	O

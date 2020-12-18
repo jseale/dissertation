@@ -1,0 +1,15 @@
+supplement_0	This	O
+supplement_0	was	O
+supplement_0	in	O
+supplement_0	a	O
+supplement_0	review	O
+supplement_0	of	O
+supplement_0	a	O
+supplement_0	supplement	supplement_nou
+supplement_0	by	O
+supplement_0	Dugald	O
+supplement_0	Stewart	O
+supplement_0	to	O
+supplement_0	the	O
+supplement_0	Encyclopaedia	O
+supplement_0	Britannica	O

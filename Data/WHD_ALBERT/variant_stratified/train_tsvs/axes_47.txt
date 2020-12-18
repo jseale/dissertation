@@ -1,0 +1,8 @@
+axes_47	Few	O
+axes_47	hand	O
+axes_47	axes	axes_nou-vrb
+axes_47	show	O
+axes_47	evidence	O
+axes_47	of	O
+axes_47	impact	O
+axes_47	damage	O

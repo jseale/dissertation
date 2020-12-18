@@ -1,0 +1,15 @@
+precipitate_35	Potassium	O
+precipitate_35	and	O
+precipitate_35	sodium	O
+precipitate_35	salt	O
+precipitate_35	by	O
+precipitate_35	products	O
+precipitate_35	tend	O
+precipitate_35	to	O
+precipitate_35	precipitate	precipitate_vrb
+precipitate_35	from	O
+precipitate_35	solution	O
+precipitate_35	and	O
+precipitate_35	can	O
+precipitate_35	be	O
+precipitate_35	removed	O

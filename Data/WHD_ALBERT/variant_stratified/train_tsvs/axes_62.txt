@@ -1,0 +1,16 @@
+axes_62	It	O
+axes_62	is	O
+axes_62	equipped	O
+axes_62	with	O
+axes_62	bronze	O
+axes_62	battle	O
+axes_62	axes	axes_nou-vrb
+axes_62	steel	O
+axes_62	armor	O
+axes_62	and	O
+axes_62	electric	O
+axes_62	lights	O
+axes_62	on	O
+axes_62	the	O
+axes_62	soldiers	O
+axes_62	foreheads	O

@@ -1,0 +1,13 @@
+impact_72	The	O
+impact_72	resulting	O
+impact_72	cultural	O
+impact_72	impact	impact_nou
+impact_72	of	O
+impact_72	a	O
+impact_72	divorce	O
+impact_72	upon	O
+impact_72	an	O
+impact_72	LDS	O
+impact_72	couple	O
+impact_72	is	O
+impact_72	significant	O

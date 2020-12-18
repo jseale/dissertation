@@ -1,0 +1,14 @@
+transplant_57	In	O
+transplant_57	India	O
+transplant_57	a	O
+transplant_57	kidney	O
+transplant_57	transplant	transplant_nou
+transplant_57	operation	O
+transplant_57	runs	O
+transplant_57	for	O
+transplant_57	around	O
+transplant_57	as	O
+transplant_57	low	O
+transplant_57	as	O
+transplant_57	$	O
+transplant_57	5000	O

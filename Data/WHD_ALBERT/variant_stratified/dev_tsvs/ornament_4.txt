@@ -1,0 +1,12 @@
+ornament_4	This	O
+ornament_4	is	O
+ornament_4	typically	O
+ornament_4	Norman	O
+ornament_4	with	O
+ornament_4	round	O
+ornament_4	headed	O
+ornament_4	windows	O
+ornament_4	and	O
+ornament_4	much	O
+ornament_4	chevron	O
+ornament_4	ornament	ornament_nou

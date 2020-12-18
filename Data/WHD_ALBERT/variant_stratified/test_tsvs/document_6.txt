@@ -1,0 +1,11 @@
+document_6	In	O
+document_6	the	O
+document_6	process	O
+document_6	he	O
+document_6	submitted	O
+document_6	his	O
+document_6	document	document_nou
+document_6	on	O
+document_6	the	O
+document_6	Draft	O
+document_6	Programme	O

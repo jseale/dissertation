@@ -1,0 +1,15 @@
+bow_77	Wagner	O
+bow_77	also	O
+bow_77	took	O
+bow_77	a	O
+bow_77	bow	bow_nou-ship
+bow_77	after	O
+bow_77	every	O
+bow_77	performance	O
+bow_77	with	O
+bow_77	audiences	O
+bow_77	split	O
+bow_77	between	O
+bow_77	bravas	O
+bow_77	and	O
+bow_77	boos	O

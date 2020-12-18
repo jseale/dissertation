@@ -1,0 +1,15 @@
+intrigue_0	She	O
+intrigue_0	always	O
+intrigue_0	beats	O
+intrigue_0	Karigan	O
+intrigue_0	in	O
+intrigue_0	the	O
+intrigue_0	game	O
+intrigue_0	of	O
+intrigue_0	Intrigue	intrigue_nou
+intrigue_0	but	O
+intrigue_0	only	O
+intrigue_0	because	O
+intrigue_0	Karigan	O
+intrigue_0	never	O
+intrigue_0	tries	O

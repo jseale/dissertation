@@ -1,0 +1,17 @@
+resume_70	The	O
+resume_70	PTC	O
+resume_70	workers	O
+resume_70	were	O
+resume_70	given	O
+resume_70	a	O
+resume_70	deadline	O
+resume_70	of	O
+resume_70	12:01	O
+resume_70	a.m.	O
+resume_70	on	O
+resume_70	August	O
+resume_70	7	O
+resume_70	to	O
+resume_70	resume	resume_vrb
+resume_70	their	O
+resume_70	work	O

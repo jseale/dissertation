@@ -1,0 +1,15 @@
+upset_63	One	O
+upset_63	of	O
+upset_63	Grindstone	O
+upset_63	's	O
+upset_63	foals	O
+upset_63	Birdstone	O
+upset_63	upset	upset_vrb
+upset_63	Smarty	O
+upset_63	Jones	O
+upset_63	to	O
+upset_63	win	O
+upset_63	the	O
+upset_63	2004	O
+upset_63	Belmont	O
+upset_63	Stakes	O

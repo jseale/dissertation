@@ -1,0 +1,17 @@
+reading_7	Yamaguchi	O
+reading_7	quickly	O
+reading_7	wrote	O
+reading_7	the	O
+reading_7	song	O
+reading_7	after	O
+reading_7	reading	reading_en
+reading_7	a	O
+reading_7	review	O
+reading_7	in	O
+reading_7	Musica	O
+reading_7	of	O
+reading_7	Clammbon	O
+reading_7	's	O
+reading_7	album	O
+reading_7	Musical	O
+reading_7	2007	O

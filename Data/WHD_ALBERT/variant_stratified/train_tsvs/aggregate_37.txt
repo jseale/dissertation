@@ -1,0 +1,9 @@
+aggregate_37	The	O
+aggregate_37	aggregate	aggregate_adj-nou
+aggregate_37	score	O
+aggregate_37	of	O
+aggregate_37	both	O
+aggregate_37	games	O
+aggregate_37	decided	O
+aggregate_37	the	O
+aggregate_37	winner	O

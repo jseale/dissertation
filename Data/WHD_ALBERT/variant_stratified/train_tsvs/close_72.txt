@@ -1,0 +1,16 @@
+close_72	The	O
+close_72	exact	O
+close_72	reasoning	O
+close_72	for	O
+close_72	this	O
+close_72	disruption	O
+close_72	of	O
+close_72	the	O
+close_72	close	close_adj-nou
+close_72	association	O
+close_72	between	O
+close_72	cluster	O
+close_72	and	O
+close_72	vessels	O
+close_72	remains	O
+close_72	unknown	O

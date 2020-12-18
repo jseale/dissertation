@@ -1,0 +1,15 @@
+bass_74	The	O
+bass_74	lake	O
+bass_74	is	O
+bass_74	regularly	O
+bass_74	stocked	O
+bass_74	with	O
+bass_74	catfish	O
+bass_74	bass	bass_corp
+bass_74	bluegill	O
+bass_74	and	O
+bass_74	trout	O
+bass_74	during	O
+bass_74	the	O
+bass_74	winter	O
+bass_74	months	O

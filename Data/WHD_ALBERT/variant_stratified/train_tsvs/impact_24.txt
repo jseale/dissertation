@@ -1,0 +1,10 @@
+impact_24	WVXU	O
+impact_24	Impact	impact_nou
+impact_24	Cincinnati	O
+impact_24	Plans	O
+impact_24	to	O
+impact_24	bring	O
+impact_24	streetcars	O
+impact_24	back	O
+impact_24	to	O
+impact_24	Cincinnati	O

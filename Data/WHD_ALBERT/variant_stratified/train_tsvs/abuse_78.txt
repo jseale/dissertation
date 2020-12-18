@@ -1,0 +1,16 @@
+abuse_78	Vaishnavi	O
+abuse_78	cited	O
+abuse_78	that	O
+abuse_78	Nitin	O
+abuse_78	used	O
+abuse_78	to	O
+abuse_78	physically	O
+abuse_78	abuse	abuse_vrb
+abuse_78	her	O
+abuse_78	which	O
+abuse_78	forced	O
+abuse_78	her	O
+abuse_78	to	O
+abuse_78	opt	O
+abuse_78	for	O
+abuse_78	divorce	O

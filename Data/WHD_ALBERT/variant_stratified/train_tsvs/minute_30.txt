@@ -1,0 +1,17 @@
+minute_30	He	O
+minute_30	founded	O
+minute_30	the	O
+minute_30	Specials	O
+minute_30	along	O
+minute_30	with	O
+minute_30	his	O
+minute_30	brother	O
+minute_30	Minute	minute
+minute_30	Man	O
+minute_30	the	O
+minute_30	Weevil	O
+minute_30	Ms.	O
+minute_30	Indestructible	O
+minute_30	and	O
+minute_30	Stretchie	O
+minute_30	Boy	O

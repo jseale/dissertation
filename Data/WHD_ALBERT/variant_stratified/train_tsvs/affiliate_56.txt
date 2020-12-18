@@ -1,0 +1,12 @@
+affiliate_56	First	O
+affiliate_56	it	O
+affiliate_56	was	O
+affiliate_56	an	O
+affiliate_56	affiliate	affiliate_nou
+affiliate_56	of	O
+affiliate_56	Home	O
+affiliate_56	Shopping	O
+affiliate_56	Spree	O
+affiliate_56	and	O
+affiliate_56	The	O
+affiliate_56	Box	O

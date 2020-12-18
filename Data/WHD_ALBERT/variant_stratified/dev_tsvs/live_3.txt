@@ -1,0 +1,17 @@
+live_3	The	O
+live_3	same	O
+live_3	year	O
+live_3	Cardoso	O
+live_3	the	O
+live_3	band	O
+live_3	's	O
+live_3	live	live_adj
+live_3	keyboardist	O
+live_3	since	O
+live_3	2011	O
+live_3	joined	O
+live_3	as	O
+live_3	a	O
+live_3	full	O
+live_3	time	O
+live_3	member	O

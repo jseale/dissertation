@@ -1,0 +1,13 @@
+use_48	The	O
+use_48	government	O
+use_48	planned	O
+use_48	to	O
+use_48	use	use_vrb
+use_48	some	O
+use_48	of	O
+use_48	the	O
+use_48	residential	O
+use_48	blocks	O
+use_48	as	O
+use_48	social	O
+use_48	housing	O

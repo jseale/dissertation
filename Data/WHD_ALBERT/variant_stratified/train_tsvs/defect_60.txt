@@ -1,0 +1,13 @@
+defect_60	The	O
+defect_60	exact	O
+defect_60	genetic	O
+defect_60	defect	defect_nou
+defect_60	in	O
+defect_60	Galloway	O
+defect_60	Mowat	O
+defect_60	syndrome	O
+defect_60	is	O
+defect_60	yet	O
+defect_60	to	O
+defect_60	be	O
+defect_60	discovered	O

@@ -1,0 +1,17 @@
+bass_26	Gabrielle	O
+bass_26	left	O
+bass_26	the	O
+bass_26	band	O
+bass_26	a	O
+bass_26	short	O
+bass_26	time	O
+bass_26	later	O
+bass_26	and	O
+bass_26	Aaron	O
+bass_26	Britt	O
+bass_26	took	O
+bass_26	over	O
+bass_26	as	O
+bass_26	the	O
+bass_26	bass	bass
+bass_26	player	O

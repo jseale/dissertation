@@ -1,0 +1,16 @@
+retard_54	For	O
+retard_54	the	O
+retard_54	same	O
+retard_54	reason	O
+retard_54	it	O
+retard_54	can	O
+retard_54	prevent	O
+retard_54	or	O
+retard_54	retard	retard_vrb
+retard_54	food	O
+retard_54	oils	O
+retard_54	and	O
+retard_54	fats	O
+retard_54	from	O
+retard_54	becoming	O
+retard_54	rancid	O

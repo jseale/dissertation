@@ -1,0 +1,17 @@
+upset_23	Devastated	O
+upset_23	by	O
+upset_23	this	O
+upset_23	Rachel	O
+upset_23	departs	O
+upset_23	too	O
+upset_23	upset	upset_nou
+upset_23	to	O
+upset_23	hear	O
+upset_23	Jean	O
+upset_23	's	O
+upset_23	calls	O
+upset_23	for	O
+upset_23	her	O
+upset_23	to	O
+upset_23	come	O
+upset_23	back	O

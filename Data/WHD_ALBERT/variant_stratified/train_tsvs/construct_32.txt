@@ -1,0 +1,16 @@
+construct_32	The	O
+construct_32	original	O
+construct_32	appropriation	O
+construct_32	was	O
+construct_32	to	O
+construct_32	construct	construct_vrb
+construct_32	a	O
+construct_32	pair	O
+construct_32	of	O
+construct_32	range	O
+construct_32	lights	O
+construct_32	for	O
+construct_32	reasons	O
+construct_32	that	O
+construct_32	remain	O
+construct_32	obscure	O

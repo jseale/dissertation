@@ -1,0 +1,15 @@
+subordinate_3	Subordinate	subordinate_adj-nou
+subordinate_3	to	O
+subordinate_3	the	O
+subordinate_3	Army	O
+subordinate_3	of	O
+subordinate_3	the	O
+subordinate_3	Alps	O
+subordinate_3	was	O
+subordinate_3	the	O
+subordinate_3	14th	O
+subordinate_3	Army	O
+subordinate_3	Corps	O
+subordinate_3	under	O
+subordinate_3	General	O
+subordinate_3	Beynet	O

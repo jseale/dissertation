@@ -1,0 +1,13 @@
+suspect_6	One	O
+suspect_6	suspect	suspect_adj-nou
+suspect_6	was	O
+suspect_6	killed	O
+suspect_6	and	O
+suspect_6	a	O
+suspect_6	manhunt	O
+suspect_6	went	O
+suspect_6	underway	O
+suspect_6	for	O
+suspect_6	two	O
+suspect_6	other	O
+suspect_6	suspects	O

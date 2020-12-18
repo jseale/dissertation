@@ -1,0 +1,11 @@
+approximate_50	Replacing	O
+approximate_50	the	O
+approximate_50	water	O
+approximate_50	pump	O
+approximate_50	is	O
+approximate_50	an	O
+approximate_50	approximate	approximate_adj-nou
+approximate_50	$	O
+approximate_50	1800.00	O
+approximate_50	USD	O
+approximate_50	repair	O

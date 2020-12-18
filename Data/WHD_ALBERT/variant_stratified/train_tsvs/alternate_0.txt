@@ -1,0 +1,10 @@
+alternate_0	The	O
+alternate_0	leaves	O
+alternate_0	are	O
+alternate_0	mostly	O
+alternate_0	alternate	alternate_adj-nou
+alternate_0	rarely	O
+alternate_0	opposite	O
+alternate_0	simple	O
+alternate_0	and	O
+alternate_0	entire	O

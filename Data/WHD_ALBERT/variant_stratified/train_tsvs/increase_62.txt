@@ -1,0 +1,11 @@
+increase_62	This	O
+increase_62	effect	O
+increase_62	will	O
+increase_62	increase	increase_vrb
+increase_62	over	O
+increase_62	the	O
+increase_62	years	O
+increase_62	and	O
+increase_62	centuries	O
+increase_62	to	O
+increase_62	come	O

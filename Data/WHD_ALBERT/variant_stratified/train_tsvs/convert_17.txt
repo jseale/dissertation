@@ -1,0 +1,10 @@
+convert_17	Existing	O
+convert_17	treatment	O
+convert_17	plants	O
+convert_17	use	O
+convert_17	bacteria	O
+convert_17	that	O
+convert_17	convert	convert_vrb
+convert_17	ammonium	O
+convert_17	into	O
+convert_17	nitrate	O

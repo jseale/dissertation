@@ -1,0 +1,7 @@
+pasty_15	Mexican	O
+pasty_15	Pasty	pasty_adj
+pasty_15	Makers	O
+pasty_15	Get	O
+pasty_15	Tips	O
+pasty_15	From	O
+pasty_15	Cornwall	O

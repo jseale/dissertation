@@ -1,0 +1,15 @@
+affect_46	Nutrients	O
+affect_46	that	O
+affect_46	affect	affect
+affect_46	cell	O
+affect_46	growth	O
+affect_46	the	O
+affect_46	most	O
+affect_46	in	O
+affect_46	thermococci	O
+affect_46	species	O
+affect_46	are	O
+affect_46	carbon	O
+affect_46	and	O
+affect_46	nitrogen	O
+affect_46	sources	O

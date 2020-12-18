@@ -1,0 +1,16 @@
+compound_0	One	O
+compound_0	is	O
+compound_0	wet	O
+compound_0	glaze	O
+compound_0	utilizing	O
+compound_0	a	O
+compound_0	Building	O
+compound_0	Compound	compound_nou
+compound_0	adhesive	O
+compound_0	more	O
+compound_0	commonly	O
+compound_0	known	O
+compound_0	as	O
+compound_0	Dow	O
+compound_0	Corning	O
+compound_0	995	O

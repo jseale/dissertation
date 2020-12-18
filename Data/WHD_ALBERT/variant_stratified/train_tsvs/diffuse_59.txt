@@ -1,0 +1,11 @@
+diffuse_59	Polyphosphate	O
+diffuse_59	and	O
+diffuse_59	pyrophosphate	O
+diffuse_59	were	O
+diffuse_59	possibly	O
+diffuse_59	small	O
+diffuse_59	enough	O
+diffuse_59	to	O
+diffuse_59	diffuse	diffuse_vrb
+diffuse_59	into	O
+diffuse_59	obcells	O

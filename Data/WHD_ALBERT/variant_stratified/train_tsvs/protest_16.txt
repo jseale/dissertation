@@ -1,0 +1,17 @@
+protest_16	The	O
+protest_16	Grandmaster	O
+protest_16	ignored	O
+protest_16	a	O
+protest_16	protest	protest_nou
+protest_16	against	O
+protest_16	the	O
+protest_16	tax	O
+protest_16	by	O
+protest_16	the	O
+protest_16	Maltese	O
+protest_16	clergy	O
+protest_16	lodged	O
+protest_16	with	O
+protest_16	Pope	O
+protest_16	Urban	O
+protest_16	VIII	O

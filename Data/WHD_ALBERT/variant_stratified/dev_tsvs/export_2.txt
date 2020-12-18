@@ -1,0 +1,7 @@
+export_2	Cultivated	O
+export_2	shrimp	O
+export_2	is	O
+export_2	another	O
+export_2	important	O
+export_2	export	export_nou
+export_2	sector	O

@@ -1,0 +1,15 @@
+escort_29	With	O
+escort_29	his	O
+escort_29	new	O
+escort_29	squadron	O
+escort_29	Orr	O
+escort_29	joined	O
+escort_29	HMS	O
+escort_29	Emperor	O
+escort_29	a	O
+escort_29	Ruler	O
+escort_29	class	O
+escort_29	escort	escort_nou
+escort_29	carrier	O
+escort_29	in	O
+escort_29	December	O

@@ -1,0 +1,13 @@
+animate_15	The	O
+animate_15	load	O
+animate_15	can	O
+animate_15	be	O
+animate_15	animate	animate_adj-nou
+animate_15	a	O
+animate_15	person	O
+animate_15	or	O
+animate_15	animal	O
+animate_15	or	O
+animate_15	inanimate	O
+animate_15	an	O
+animate_15	object	O

@@ -1,0 +1,9 @@
+dove_48	The	O
+dove_48	unknown	O
+dove_48	sub	O
+dove_48	quickly	O
+dove_48	dove	dove_vrb
+dove_48	probably	O
+dove_48	after	O
+dove_48	sighting	O
+dove_48	Bonefish	O

@@ -1,0 +1,10 @@
+articulate_29	One	O
+articulate_29	early	O
+articulate_29	and	O
+articulate_29	articulate	articulate_adj
+articulate_29	critic	O
+articulate_29	was	O
+articulate_29	then-23-year	O
+articulate_29	old	O
+articulate_29	Damon	O
+articulate_29	Knight	O

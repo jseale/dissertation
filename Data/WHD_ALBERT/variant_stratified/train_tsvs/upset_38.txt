@@ -1,0 +1,15 @@
+upset_38	Upset	upset_nou
+upset_38	and	O
+upset_38	angry	O
+upset_38	he	O
+upset_38	leaves	O
+upset_38	and	O
+upset_38	goes	O
+upset_38	on	O
+upset_38	his	O
+upset_38	motorcycle	O
+upset_38	returning	O
+upset_38	home	O
+upset_38	later	O
+upset_38	that	O
+upset_38	night	O

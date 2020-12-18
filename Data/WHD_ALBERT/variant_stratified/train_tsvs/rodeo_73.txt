@@ -1,0 +1,8 @@
+rodeo_73	In	O
+rodeo_73	1984	O
+rodeo_73	Anderson	O
+rodeo_73	started	O
+rodeo_73	rehearsals	O
+rodeo_73	with	O
+rodeo_73	Blue	O
+rodeo_73	Rodeo	rodeo

@@ -1,0 +1,11 @@
+consummate_44	Grey	O
+consummate_44	and	O
+consummate_44	Stephan	O
+consummate_44	von	O
+consummate_44	Namtzen	O
+consummate_44	finally	O
+consummate_44	consummate	consummate_vrb
+consummate_44	their	O
+consummate_44	long	O
+consummate_44	simmering	O
+consummate_44	attraction	O

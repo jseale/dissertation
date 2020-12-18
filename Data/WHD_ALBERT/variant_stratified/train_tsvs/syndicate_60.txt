@@ -1,0 +1,15 @@
+syndicate_60	This	O
+syndicate_60	year	O
+syndicate_60	Universal	O
+syndicate_60	which	O
+syndicate_60	now	O
+syndicate_60	owns	O
+syndicate_60	the	O
+syndicate_60	syndicate	syndicate_nou
+syndicate_60	said	O
+syndicate_60	they	O
+syndicate_60	would	O
+syndicate_60	n't	O
+syndicate_60	be	O
+syndicate_60	issuing	O
+syndicate_60	one	O

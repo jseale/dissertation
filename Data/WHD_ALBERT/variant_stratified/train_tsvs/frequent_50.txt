@@ -1,0 +1,10 @@
+frequent_50	Frequent	frequent_adj
+frequent_50	touring	O
+frequent_50	with	O
+frequent_50	311	O
+frequent_50	increased	O
+frequent_50	the	O
+frequent_50	band	O
+frequent_50	's	O
+frequent_50	fan	O
+frequent_50	base	O

@@ -1,0 +1,13 @@
+converse_40	The	O
+converse_40	converse	converse_adj-nou
+converse_40	is	O
+converse_40	not	O
+converse_40	true	O
+converse_40	most	O
+converse_40	directed	O
+converse_40	graphs	O
+converse_40	are	O
+converse_40	neither	O
+converse_40	reflexive	O
+converse_40	nor	O
+converse_40	transitive	O

@@ -1,0 +1,10 @@
+record_11	The	O
+record_11	first	O
+record_11	prize	O
+record_11	was	O
+record_11	a	O
+record_11	record	record_nou
+record_11	deal	O
+record_11	with	O
+record_11	Hot	O
+record_11	Records	O

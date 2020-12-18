@@ -1,0 +1,8 @@
+estimate_19	This	O
+estimate_19	estimate	estimate_nou
+estimate_19	was	O
+estimate_19	reinforced	O
+estimate_19	in	O
+estimate_19	the	O
+estimate_19	early	O
+estimate_19	1970s	O

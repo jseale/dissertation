@@ -1,0 +1,13 @@
+protest_61	The	O
+protest_61	rally	O
+protest_61	on	O
+protest_61	August	O
+protest_61	25	O
+protest_61	marked	O
+protest_61	the	O
+protest_61	protest	protest_nou
+protest_61	aspect	O
+protest_61	of	O
+protest_61	the	O
+protest_61	otherwise	O
+protest_61	celebratory	O

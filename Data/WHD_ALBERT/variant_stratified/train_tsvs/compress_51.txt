@@ -1,0 +1,16 @@
+compress_51	The	O
+compress_51	swollen	O
+compress_51	inflamed	O
+compress_51	muscle	O
+compress_51	may	O
+compress_51	directly	O
+compress_51	compress	compress
+compress_51	structures	O
+compress_51	in	O
+compress_51	the	O
+compress_51	same	O
+compress_51	fascial	O
+compress_51	compartment	O
+compress_51	causing	O
+compress_51	compartment	O
+compress_51	syndrome	O

@@ -1,0 +1,11 @@
+approximate_46	Approximate	approximate_adj-nou
+approximate_46	formulae	O
+approximate_46	for	O
+approximate_46	the	O
+approximate_46	parameters	O
+approximate_46	and	O
+approximate_46	their	O
+approximate_46	variances	O
+approximate_46	were	O
+approximate_46	also	O
+approximate_46	derived	O

@@ -1,0 +1,13 @@
+misuse_39	She	O
+misuse_39	cautioned	O
+misuse_39	against	O
+misuse_39	the	O
+misuse_39	misuse	misuse_nou
+misuse_39	of	O
+misuse_39	history	O
+misuse_39	to	O
+misuse_39	diminish	O
+misuse_39	expectations	O
+misuse_39	of	O
+misuse_39	the	O
+misuse_39	future	O

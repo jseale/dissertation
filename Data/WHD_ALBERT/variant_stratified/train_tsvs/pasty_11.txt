@@ -1,0 +1,12 @@
+pasty_11	Another	O
+pasty_11	popular	O
+pasty_11	filling	O
+pasty_11	in	O
+pasty_11	the	O
+pasty_11	Northwest	O
+pasty_11	particularly	O
+pasty_11	Bolton	O
+pasty_11	is	O
+pasty_11	the	O
+pasty_11	pasty	pasty_adj
+pasty_11	barm	O

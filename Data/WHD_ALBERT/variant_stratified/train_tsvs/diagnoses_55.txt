@@ -1,0 +1,16 @@
+diagnoses_55	Cholangiocarcinoma	O
+diagnoses_55	accounts	O
+diagnoses_55	for	O
+diagnoses_55	approximately	O
+diagnoses_55	2	O
+diagnoses_55	of	O
+diagnoses_55	all	O
+diagnoses_55	cancer	O
+diagnoses_55	diagnoses	diagnoses_nou
+diagnoses_55	with	O
+diagnoses_55	an	O
+diagnoses_55	overall	O
+diagnoses_55	incidence	O
+diagnoses_55	of	O
+diagnoses_55	1.2/100,000	O
+diagnoses_55	individuals	O

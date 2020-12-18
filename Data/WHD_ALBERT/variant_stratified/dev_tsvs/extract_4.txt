@@ -1,0 +1,15 @@
+extract_4	The	O
+extract_4	50	O
+extract_4	inhibitory	O
+extract_4	concentration	O
+extract_4	LD₅₀	O
+extract_4	of	O
+extract_4	the	O
+extract_4	extract	extract_nou
+extract_4	against	O
+extract_4	Entamoeba	O
+extract_4	histolytica	O
+extract_4	was	O
+extract_4	33	O
+extract_4	µg	O
+extract_4	mL.	O

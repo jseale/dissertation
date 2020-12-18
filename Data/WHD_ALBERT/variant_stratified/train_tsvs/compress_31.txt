@@ -1,0 +1,15 @@
+compress_31	In	O
+compress_31	proof	O
+compress_31	compression	O
+compress_31	LowerUnits	O
+compress_31	LU	O
+compress_31	is	O
+compress_31	an	O
+compress_31	algorithm	O
+compress_31	used	O
+compress_31	to	O
+compress_31	compress	compress
+compress_31	propositional	O
+compress_31	logic	O
+compress_31	resolution	O
+compress_31	proofs	O

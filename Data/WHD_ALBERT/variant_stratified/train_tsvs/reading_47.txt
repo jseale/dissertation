@@ -1,0 +1,16 @@
+reading_47	He	O
+reading_47	did	O
+reading_47	much	O
+reading_47	of	O
+reading_47	his	O
+reading_47	studying	O
+reading_47	by	O
+reading_47	reading	reading_en
+reading_47	manuscripts	O
+reading_47	he	O
+reading_47	found	O
+reading_47	while	O
+reading_47	working	O
+reading_47	as	O
+reading_47	a	O
+reading_47	librarian	O

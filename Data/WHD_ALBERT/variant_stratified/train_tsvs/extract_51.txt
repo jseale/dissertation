@@ -1,0 +1,17 @@
+extract_51	Typically	O
+extract_51	each	O
+extract_51	batch	O
+extract_51	of	O
+extract_51	grist	O
+extract_51	is	O
+extract_51	mashed	O
+extract_51	three	O
+extract_51	times	O
+extract_51	or	O
+extract_51	so	O
+extract_51	to	O
+extract_51	extract	extract_vrb
+extract_51	all	O
+extract_51	the	O
+extract_51	fermentable	O
+extract_51	sugars	O

@@ -1,0 +1,15 @@
+permit_66	McCullough	O
+permit_66	would	O
+permit_66	have	O
+permit_66	been	O
+permit_66	killed	O
+permit_66	many	O
+permit_66	years	O
+permit_66	before	O
+permit_66	but	O
+permit_66	Bruno	O
+permit_66	refused	O
+permit_66	to	O
+permit_66	permit	permit_vrb
+permit_66	the	O
+permit_66	murder	O

@@ -1,0 +1,16 @@
+estimate_67	With	O
+estimate_67	ABC	O
+estimate_67	a	O
+estimate_67	company	O
+estimate_67	can	O
+estimate_67	soundly	O
+estimate_67	estimate	estimate_vrb
+estimate_67	the	O
+estimate_67	cost	O
+estimate_67	elements	O
+estimate_67	of	O
+estimate_67	entire	O
+estimate_67	products	O
+estimate_67	activities	O
+estimate_67	and	O
+estimate_67	services	O

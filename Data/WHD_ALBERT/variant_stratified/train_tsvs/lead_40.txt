@@ -1,0 +1,15 @@
+lead_40	Exceeding	O
+lead_40	the	O
+lead_40	Tolerable	O
+lead_40	Upper	O
+lead_40	Intake	O
+lead_40	Level	O
+lead_40	of	O
+lead_40	400	O
+lead_40	micrograms	O
+lead_40	per	O
+lead_40	day	O
+lead_40	can	O
+lead_40	lead	lead_nou-vrb
+lead_40	to	O
+lead_40	selenosis	O

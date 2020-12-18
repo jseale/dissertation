@@ -1,0 +1,14 @@
+aged_29	Menadue	O
+aged_29	's	O
+aged_29	first	O
+aged_29	wife	O
+aged_29	Cynthia	O
+aged_29	née	O
+aged_29	Trowbridge	O
+aged_29	died	O
+aged_29	of	O
+aged_29	cancer	O
+aged_29	in	O
+aged_29	1984	O
+aged_29	aged	aged
+aged_29	49	O

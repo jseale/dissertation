@@ -1,0 +1,11 @@
+buffet_3	These	O
+buffet_3	units	O
+buffet_3	have	O
+buffet_3	Buffet	buffet_nou
+buffet_3	Cars	O
+buffet_3	but	O
+buffet_3	a	O
+buffet_3	trolley	O
+buffet_3	service	O
+buffet_3	is	O
+buffet_3	provided	O

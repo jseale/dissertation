@@ -1,0 +1,13 @@
+increment_11	The	O
+increment_11	LDC	O
+increment_11	curve	O
+increment_11	shows	O
+increment_11	the	O
+increment_11	capacity	O
+increment_11	utilization	O
+increment_11	requirements	O
+increment_11	for	O
+increment_11	each	O
+increment_11	increment	increment_nou
+increment_11	of	O
+increment_11	load	O

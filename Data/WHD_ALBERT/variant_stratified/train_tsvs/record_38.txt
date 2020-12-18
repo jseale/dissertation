@@ -1,0 +1,16 @@
+record_38	His	O
+record_38	1,186	O
+record_38	receiving	O
+record_38	yards	O
+record_38	in	O
+record_38	1998	O
+record_38	stands	O
+record_38	as	O
+record_38	the	O
+record_38	Southern	O
+record_38	Mississippi	O
+record_38	single	O
+record_38	season	O
+record_38	receiving	O
+record_38	yardage	O
+record_38	record	record_nou

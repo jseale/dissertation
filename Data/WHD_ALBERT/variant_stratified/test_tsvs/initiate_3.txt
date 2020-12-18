@@ -1,0 +1,13 @@
+initiate_3	The	O
+initiate_3	Council	O
+initiate_3	can	O
+initiate_3	initiate	initiate_vrb
+initiate_3	design	O
+initiate_3	develop	O
+initiate_3	plan	O
+initiate_3	execute	O
+initiate_3	and	O
+initiate_3	monitor	O
+initiate_3	all	O
+initiate_3	research	O
+initiate_3	activities	O

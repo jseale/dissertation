@@ -1,0 +1,12 @@
+supplement_6	However	O
+supplement_6	the	O
+supplement_6	briquettes	O
+supplement_6	are	O
+supplement_6	best	O
+supplement_6	used	O
+supplement_6	only	O
+supplement_6	as	O
+supplement_6	a	O
+supplement_6	supplement	supplement_nou
+supplement_6	to	O
+supplement_6	coal	O

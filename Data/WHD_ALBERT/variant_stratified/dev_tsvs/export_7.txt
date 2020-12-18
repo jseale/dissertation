@@ -1,0 +1,12 @@
+export_7	The	O
+export_7	government	O
+export_7	's	O
+export_7	colonial	O
+export_7	policy	O
+export_7	of	O
+export_7	export	export_nou
+export_7	restrictions	O
+export_7	however	O
+export_7	did	O
+export_7	not	O
+export_7	change	O

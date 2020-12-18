@@ -1,0 +1,16 @@
+coordinate_17	Wirral	O
+coordinate_17	2011	O
+coordinate_17	Census	O
+coordinate_17	Raby	O
+coordinate_17	Mere	O
+coordinate_17	Metropolitan	O
+coordinate_17	Borough	O
+coordinate_17	of	O
+coordinate_17	Wirral	O
+coordinate_17	retrieved	O
+coordinate_17	6	O
+coordinate_17	December	O
+coordinate_17	2014	O
+coordinate_17	Coordinate	coordinate_adj-nou
+coordinate_17	Distance	O
+coordinate_17	Calculator	O

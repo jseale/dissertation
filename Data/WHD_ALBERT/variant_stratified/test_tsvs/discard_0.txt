@@ -1,0 +1,12 @@
+discard_0	Singaporean	O
+discard_0	Mahjong	O
+discard_0	uses	O
+discard_0	the	O
+discard_0	Traditional	O
+discard_0	Prohibition	O
+discard_0	Rules	O
+discard_0	concerning	O
+discard_0	Sacred	O
+discard_0	Discard	discard_nou
+discard_0	Missed	O
+discard_0	Discard	discard_nou

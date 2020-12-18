@@ -1,0 +1,9 @@
+attribute_39	In	O
+attribute_39	ID3	O
+attribute_39	entropy	O
+attribute_39	is	O
+attribute_39	calculated	O
+attribute_39	for	O
+attribute_39	each	O
+attribute_39	remaining	O
+attribute_39	attribute	attribute_nou

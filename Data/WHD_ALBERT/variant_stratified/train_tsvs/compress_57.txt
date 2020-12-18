@@ -1,0 +1,17 @@
+compress_57	Lossless	O
+compress_57	compression	O
+compress_57	methods	O
+compress_57	may	O
+compress_57	be	O
+compress_57	categorized	O
+compress_57	according	O
+compress_57	to	O
+compress_57	the	O
+compress_57	type	O
+compress_57	of	O
+compress_57	data	O
+compress_57	they	O
+compress_57	are	O
+compress_57	designed	O
+compress_57	to	O
+compress_57	compress	compress

@@ -1,0 +1,17 @@
+transform_42	Nearby	O
+transform_42	recreation	O
+transform_42	facilities	O
+transform_42	transform	transform
+transform_42	the	O
+transform_42	desert	O
+transform_42	into	O
+transform_42	a	O
+transform_42	popular	O
+transform_42	Valley	O
+transform_42	tourist	O
+transform_42	destination	O
+transform_42	due	O
+transform_42	to	O
+transform_42	availability	O
+transform_42	of	O
+transform_42	activities	O

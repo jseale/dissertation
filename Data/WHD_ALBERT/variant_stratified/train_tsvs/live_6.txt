@@ -1,0 +1,16 @@
+live_6	The	O
+live_6	band	O
+live_6	released	O
+live_6	their	O
+live_6	3rd	O
+live_6	Live	live_adj
+live_6	DVD	O
+live_6	entitled	O
+live_6	3rd	O
+live_6	Live	live_adj
+live_6	DVD	O
+live_6	flumpool	O
+live_6	Live	live_adj
+live_6	at	O
+live_6	YOKOHAMA	O
+live_6	ARENA	O

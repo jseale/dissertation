@@ -1,0 +1,15 @@
+suspect_6	Gabrion	O
+suspect_6	's	O
+suspect_6	whereabouts	O
+suspect_6	were	O
+suspect_6	unknown	O
+suspect_6	but	O
+suspect_6	he	O
+suspect_6	quickly	O
+suspect_6	became	O
+suspect_6	a	O
+suspect_6	prime	O
+suspect_6	suspect	suspect_adj-nou
+suspect_6	in	O
+suspect_6	her	O
+suspect_6	death	O

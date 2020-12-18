@@ -1,0 +1,14 @@
+precipitate_29	Diazepam	O
+precipitate_29	should	O
+precipitate_29	not	O
+precipitate_29	be	O
+precipitate_29	administered	O
+precipitate_29	if	O
+precipitate_29	a	O
+precipitate_29	precipitate	precipitate_adj-nou
+precipitate_29	has	O
+precipitate_29	formed	O
+precipitate_29	and	O
+precipitate_29	does	O
+precipitate_29	not	O
+precipitate_29	dissolve	O

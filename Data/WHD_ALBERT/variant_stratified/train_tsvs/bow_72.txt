@@ -1,0 +1,10 @@
+bow_72	He	O
+bow_72	extended	O
+bow_72	a	O
+bow_72	deep	O
+bow_72	bow	bow_nou-ship
+bow_72	before	O
+bow_72	and	O
+bow_72	after	O
+bow_72	his	O
+bow_72	speech	O

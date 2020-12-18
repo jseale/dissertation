@@ -1,0 +1,13 @@
+reject_72	Mainstream	O
+reject_72	historical	O
+reject_72	linguists	O
+reject_72	reject	reject_vrb
+reject_72	Wang	O
+reject_72	's	O
+reject_72	hypothesis	O
+reject_72	continuing	O
+reject_72	to	O
+reject_72	adhere	O
+reject_72	to	O
+reject_72	Neogrammarian	O
+reject_72	exceptionlessness	O

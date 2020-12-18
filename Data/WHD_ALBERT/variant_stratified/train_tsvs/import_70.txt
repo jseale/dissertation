@@ -1,0 +1,12 @@
+import_70	Still	O
+import_70	Slovenia	O
+import_70	began	O
+import_70	to	O
+import_70	covertly	O
+import_70	import	import_vrb
+import_70	arms	O
+import_70	to	O
+import_70	replenish	O
+import_70	its	O
+import_70	armed	O
+import_70	forces	O

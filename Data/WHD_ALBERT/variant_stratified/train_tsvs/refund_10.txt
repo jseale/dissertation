@@ -1,0 +1,10 @@
+refund_10	People	O
+refund_10	who	O
+refund_10	bought	O
+refund_10	tickets	O
+refund_10	for	O
+refund_10	recent	O
+refund_10	shows	O
+refund_10	received	O
+refund_10	a	O
+refund_10	refund	refund_nou

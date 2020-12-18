@@ -1,0 +1,12 @@
+invite_30	Friends	O
+invite_30	and	O
+invite_30	family	O
+invite_30	collide	O
+invite_30	when	O
+invite_30	her	O
+invite_30	dad	O
+invite_30	and	O
+invite_30	Knobs	O
+invite_30	invite	invite_vrb
+invite_30	themselves	O
+invite_30	along	O

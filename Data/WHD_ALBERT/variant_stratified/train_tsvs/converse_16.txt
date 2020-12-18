@@ -1,0 +1,17 @@
+converse_16	Converse	converse_adj-nou
+converse_16	Jackson	O
+converse_16	Township	O
+converse_16	Public	O
+converse_16	Library	O
+converse_16	is	O
+converse_16	a	O
+converse_16	historic	O
+converse_16	Carnegie	O
+converse_16	library	O
+converse_16	building	O
+converse_16	located	O
+converse_16	at	O
+converse_16	Converse	converse_adj-nou
+converse_16	Miami	O
+converse_16	County	O
+converse_16	Indiana	O

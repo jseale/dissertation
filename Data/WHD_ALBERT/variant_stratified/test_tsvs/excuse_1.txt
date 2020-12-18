@@ -1,0 +1,9 @@
+excuse_1	There	O
+excuse_1	is	O
+excuse_1	no	O
+excuse_1	excuse	excuse_nou
+excuse_1	for	O
+excuse_1	not	O
+excuse_1	using	O
+excuse_1	vacation	O
+excuse_1	days	O

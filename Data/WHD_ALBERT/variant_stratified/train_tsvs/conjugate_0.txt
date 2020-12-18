@@ -1,0 +1,13 @@
+conjugate_0	Its	O
+conjugate_0	thermodynamic	O
+conjugate_0	conjugate	conjugate_adj-nou
+conjugate_0	an	O
+conjugate_0	isobaric	O
+conjugate_0	process	O
+conjugate_0	would	O
+conjugate_0	appear	O
+conjugate_0	as	O
+conjugate_0	a	O
+conjugate_0	straight	O
+conjugate_0	horizontal	O
+conjugate_0	line	O

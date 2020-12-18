@@ -1,0 +1,16 @@
+permit_22	This	O
+permit_22	station	O
+permit_22	received	O
+permit_22	its	O
+permit_22	original	O
+permit_22	construction	O
+permit_22	permit	permit_nou
+permit_22	from	O
+permit_22	the	O
+permit_22	Federal	O
+permit_22	Communications	O
+permit_22	Commission	O
+permit_22	on	O
+permit_22	August	O
+permit_22	10	O
+permit_22	2000	O

@@ -1,0 +1,12 @@
+present_30	Walker	O
+present_30	appeals	O
+present_30	to	O
+present_30	Matuzak	O
+present_30	who	O
+present_30	has	O
+present_30	no	O
+present_30	knowledge	O
+present_30	of	O
+present_30	the	O
+present_30	alternate	O
+present_30	present	present_adj-nou

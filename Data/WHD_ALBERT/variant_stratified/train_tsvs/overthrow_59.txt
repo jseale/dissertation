@@ -1,0 +1,16 @@
+overthrow_59	Deng	O
+overthrow_59	stated	O
+overthrow_59	that	O
+overthrow_59	the	O
+overthrow_59	goal	O
+overthrow_59	of	O
+overthrow_59	the	O
+overthrow_59	movement	O
+overthrow_59	was	O
+overthrow_59	to	O
+overthrow_59	overthrow	overthrow_vrb
+overthrow_59	the	O
+overthrow_59	Party	O
+overthrow_59	and	O
+overthrow_59	the	O
+overthrow_59	state	O

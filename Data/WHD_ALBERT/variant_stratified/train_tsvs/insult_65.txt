@@ -1,0 +1,14 @@
+insult_65	Face	O
+insult_65	and	O
+insult_65	Subtle	O
+insult_65	believe	O
+insult_65	that	O
+insult_65	the	O
+insult_65	Spaniard	O
+insult_65	speaks	O
+insult_65	no	O
+insult_65	English	O
+insult_65	and	O
+insult_65	they	O
+insult_65	insult	insult_vrb
+insult_65	him	O

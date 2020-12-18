@@ -1,0 +1,14 @@
+invert_18	Each	O
+invert_18	of	O
+invert_18	these	O
+invert_18	subbuses	O
+invert_18	can	O
+invert_18	then	O
+invert_18	be	O
+invert_18	coded	O
+invert_18	independently	O
+invert_18	with	O
+invert_18	its	O
+invert_18	own	O
+invert_18	invert	invert_adj-nou
+invert_18	signal	O

@@ -1,0 +1,8 @@
+aged_10	Moumita	O
+aged_10	though	O
+aged_10	takes	O
+aged_10	good	O
+aged_10	care	O
+aged_10	of	O
+aged_10	aged	aged_adj
+aged_10	Pranabendu	O

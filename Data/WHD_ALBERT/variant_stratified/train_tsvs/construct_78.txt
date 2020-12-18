@@ -1,0 +1,14 @@
+construct_78	Plans	O
+construct_78	were	O
+construct_78	put	O
+construct_78	in	O
+construct_78	place	O
+construct_78	to	O
+construct_78	construct	construct_vrb
+construct_78	suitable	O
+construct_78	facilities	O
+construct_78	for	O
+construct_78	the	O
+construct_78	F-117A	O
+construct_78	at	O
+construct_78	Holloman	O

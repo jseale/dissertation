@@ -1,0 +1,14 @@
+invalid_0	Regarding	O
+invalid_0	invalid	invalid_adj
+invalid_0	contracts	O
+invalid_0	there	O
+invalid_0	are	O
+invalid_0	two	O
+invalid_0	subgroups	O
+invalid_0	to	O
+invalid_0	distinguish	O
+invalid_0	void	O
+invalid_0	contracts	O
+invalid_0	and	O
+invalid_0	voidable	O
+invalid_0	contracts	O

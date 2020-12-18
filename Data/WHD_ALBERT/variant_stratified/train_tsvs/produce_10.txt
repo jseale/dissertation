@@ -1,0 +1,12 @@
+produce_10	At	O
+produce_10	the	O
+produce_10	same	O
+produce_10	time	O
+produce_10	he	O
+produce_10	began	O
+produce_10	to	O
+produce_10	produce	produce_vrb
+produce_10	slower	O
+produce_10	and	O
+produce_10	softer	O
+produce_10	tracks	O

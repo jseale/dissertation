@@ -1,0 +1,16 @@
+advocate_35	She	O
+advocate_35	is	O
+advocate_35	a	O
+advocate_35	popular	O
+advocate_35	speaker	O
+advocate_35	as	O
+advocate_35	well	O
+advocate_35	as	O
+advocate_35	an	O
+advocate_35	advocate	advocate_nou
+advocate_35	for	O
+advocate_35	peace	O
+advocate_35	and	O
+advocate_35	children	O
+advocate_35	of	O
+advocate_35	war	O

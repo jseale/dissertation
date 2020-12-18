@@ -1,0 +1,11 @@
+syndicate_34	He	O
+syndicate_34	launched	O
+syndicate_34	Aggie	O
+syndicate_34	Mack	O
+syndicate_34	with	O
+syndicate_34	the	O
+syndicate_34	Chicago	O
+syndicate_34	Tribune	O
+syndicate_34	Syndicate	syndicate_nou
+syndicate_34	in	O
+syndicate_34	1946	O

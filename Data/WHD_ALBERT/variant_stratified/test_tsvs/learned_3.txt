@@ -1,0 +1,14 @@
+learned_3	Cooking	O
+learned_3	through	O
+learned_3	enlightenment	O
+learned_3	she	O
+learned_3	learned	learned_vrb
+learned_3	to	O
+learned_3	express	O
+learned_3	her	O
+learned_3	feelings	O
+learned_3	and	O
+learned_3	cope	O
+learned_3	with	O
+learned_3	her	O
+learned_3	mother	O

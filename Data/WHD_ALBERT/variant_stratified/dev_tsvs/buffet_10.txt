@@ -1,0 +1,12 @@
+buffet_10	The	O
+buffet_10	horse	O
+buffet_10	itself	O
+buffet_10	was	O
+buffet_10	not	O
+buffet_10	passive	O
+buffet_10	and	O
+buffet_10	could	O
+buffet_10	buffet	buffet_vrb
+buffet_10	the	O
+buffet_10	enemy	O
+buffet_10	combatant	O

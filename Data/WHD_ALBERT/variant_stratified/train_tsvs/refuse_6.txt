@@ -1,0 +1,16 @@
+refuse_6	Pyrolysis	O
+refuse_6	is	O
+refuse_6	used	O
+refuse_6	as	O
+refuse_6	a	O
+refuse_6	form	O
+refuse_6	of	O
+refuse_6	thermal	O
+refuse_6	treatment	O
+refuse_6	to	O
+refuse_6	reduce	O
+refuse_6	waste	O
+refuse_6	volumes	O
+refuse_6	of	O
+refuse_6	domestic	O
+refuse_6	refuse	refuse_nou

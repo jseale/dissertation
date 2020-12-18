@@ -1,0 +1,14 @@
+close_38	Beacon	O
+close_38	Castle	O
+close_38	is	O
+close_38	an	O
+close_38	Iron	O
+close_38	Age	O
+close_38	hill	O
+close_38	fort	O
+close_38	close	close_adj-nou
+close_38	to	O
+close_38	Parracombe	O
+close_38	in	O
+close_38	Devon	O
+close_38	England	O

@@ -1,0 +1,16 @@
+analyses_41	For	O
+analyses_41	example	O
+analyses_41	meta	O
+analyses_41	analyses	analyses_nou
+analyses_41	found	O
+analyses_41	intelligence	O
+analyses_41	and	O
+analyses_41	height	O
+analyses_41	to	O
+analyses_41	benefit	O
+analyses_41	both	O
+analyses_41	leader	O
+analyses_41	performance	O
+analyses_41	and	O
+analyses_41	leader	O
+analyses_41	emergence	O

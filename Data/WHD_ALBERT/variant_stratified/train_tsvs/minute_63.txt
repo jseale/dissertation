@@ -1,0 +1,14 @@
+minute_63	The	O
+minute_63	speaker	O
+minute_63	elaborates	O
+minute_63	on	O
+minute_63	the	O
+minute_63	theme	O
+minute_63	of	O
+minute_63	change	O
+minute_63	Minute	minute
+minute_63	by	O
+minute_63	minute	minute
+minute_63	they	O
+minute_63	change	O
+minute_63	48	O

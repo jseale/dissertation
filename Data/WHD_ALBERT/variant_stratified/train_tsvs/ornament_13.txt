@@ -1,0 +1,14 @@
+ornament_13	He	O
+ornament_13	was	O
+ornament_13	much	O
+ornament_13	influenced	O
+ornament_13	by	O
+ornament_13	Song	O
+ornament_13	poetry	O
+ornament_13	with	O
+ornament_13	its	O
+ornament_13	directness	O
+ornament_13	and	O
+ornament_13	lack	O
+ornament_13	or	O
+ornament_13	ornament	ornament_nou

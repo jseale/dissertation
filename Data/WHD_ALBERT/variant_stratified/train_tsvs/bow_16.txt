@@ -1,0 +1,9 @@
+bow_16	Organised	O
+bow_16	bow	bow_nou-knot
+bow_16	hunting	O
+bow_16	began	O
+bow_16	in	O
+bow_16	New	O
+bow_16	Zealand	O
+bow_16	in	O
+bow_16	1945	O

@@ -1,0 +1,7 @@
+buffet_52	Buffy	O
+buffet_52	the	O
+buffet_52	Buffet	buffet_nou
+buffet_52	Car	O
+buffet_52	in	O
+buffet_52	Starlight	O
+buffet_52	Express	O

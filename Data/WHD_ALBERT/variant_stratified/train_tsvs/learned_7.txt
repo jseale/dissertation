@@ -1,0 +1,17 @@
+learned_7	Herrmann	O
+learned_7	who	O
+learned_7	first	O
+learned_7	learned	learned_vrb
+learned_7	bookselling	O
+learned_7	turned	O
+learned_7	to	O
+learned_7	tourism	O
+learned_7	and	O
+learned_7	worked	O
+learned_7	in	O
+learned_7	the	O
+learned_7	Canary	O
+learned_7	Islands	O
+learned_7	for	O
+learned_7	ten	O
+learned_7	years	O

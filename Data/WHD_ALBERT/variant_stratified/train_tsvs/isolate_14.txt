@@ -1,0 +1,17 @@
+isolate_14	The	O
+isolate_14	hospital	O
+isolate_14	was	O
+isolate_14	extremely	O
+isolate_14	aggressive	O
+isolate_14	in	O
+isolate_14	trying	O
+isolate_14	to	O
+isolate_14	isolate	isolate
+isolate_14	and	O
+isolate_14	then	O
+isolate_14	eliminate	O
+isolate_14	the	O
+isolate_14	source	O
+isolate_14	of	O
+isolate_14	the	O
+isolate_14	fungus	O

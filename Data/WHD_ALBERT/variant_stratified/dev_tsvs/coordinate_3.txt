@@ -1,0 +1,14 @@
+coordinate_3	In	O
+coordinate_3	three	O
+coordinate_3	dimensional	O
+coordinate_3	space	O
+coordinate_3	the	O
+coordinate_3	intersection	O
+coordinate_3	of	O
+coordinate_3	two	O
+coordinate_3	coordinate	coordinate_adj-nou
+coordinate_3	surfaces	O
+coordinate_3	is	O
+coordinate_3	a	O
+coordinate_3	coordinate	coordinate_adj-nou
+coordinate_3	curve	O

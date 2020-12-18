@@ -1,0 +1,12 @@
+increment_3	In	O
+increment_3	Europe	O
+increment_3	annual	O
+increment_3	mowing	O
+increment_3	makes	O
+increment_3	the	O
+increment_3	annual	O
+increment_3	biomass	O
+increment_3	increment	increment_nou
+increment_3	of	O
+increment_3	wetlands	O
+increment_3	evident	O

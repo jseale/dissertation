@@ -1,0 +1,13 @@
+fragment_47	Note	O
+fragment_47	that	O
+fragment_47	side	O
+fragment_47	chains	O
+fragment_47	are	O
+fragment_47	typically	O
+fragment_47	not	O
+fragment_47	modeled	O
+fragment_47	using	O
+fragment_47	the	O
+fragment_47	fragment	fragment_nou
+fragment_47	library	O
+fragment_47	approach	O

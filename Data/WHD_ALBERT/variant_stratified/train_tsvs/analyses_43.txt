@@ -1,0 +1,14 @@
+analyses_43	Procedures	O
+analyses_43	perform	O
+analyses_43	analysis	O
+analyses_43	and	O
+analyses_43	reporting	O
+analyses_43	on	O
+analyses_43	data	O
+analyses_43	sets	O
+analyses_43	to	O
+analyses_43	produce	O
+analyses_43	statistics	O
+analyses_43	analyses	analyses_nou
+analyses_43	and	O
+analyses_43	graphics	O

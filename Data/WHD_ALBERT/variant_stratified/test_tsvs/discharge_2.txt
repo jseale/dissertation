@@ -1,0 +1,14 @@
+discharge_2	Meeker	O
+discharge_2	Run	O
+discharge_2	has	O
+discharge_2	a	O
+discharge_2	discharge	discharge_nou
+discharge_2	of	O
+discharge_2	320	O
+discharge_2	gallons	O
+discharge_2	per	O
+discharge_2	minute	O
+discharge_2	during	O
+discharge_2	average	O
+discharge_2	flow	O
+discharge_2	conditions	O

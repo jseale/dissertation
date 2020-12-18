@@ -1,0 +1,8 @@
+coordinate_60	The	O
+coordinate_60	Institutes	O
+coordinate_60	coordinate	coordinate_vrb
+coordinate_60	conferences	O
+coordinate_60	workshops	O
+coordinate_60	seminars	O
+coordinate_60	and	O
+coordinate_60	colloquia	O

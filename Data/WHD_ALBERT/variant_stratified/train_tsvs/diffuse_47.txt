@@ -1,0 +1,14 @@
+diffuse_47	Tiny	O
+diffuse_47	diffuse	diffuse_adj
+diffuse_47	metastases	O
+diffuse_47	that	O
+diffuse_47	often	O
+diffuse_47	coincide	O
+diffuse_47	with	O
+diffuse_47	cancers	O
+diffuse_47	are	O
+diffuse_47	usually	O
+diffuse_47	not	O
+diffuse_47	affected	O
+diffuse_47	by	O
+diffuse_47	cryotherapy	O

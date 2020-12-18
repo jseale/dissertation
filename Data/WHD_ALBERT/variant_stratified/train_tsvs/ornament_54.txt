@@ -1,0 +1,11 @@
+ornament_54	Brilliants	O
+ornament_54	are	O
+ornament_54	mounted	O
+ornament_54	to	O
+ornament_54	each	O
+ornament_54	of	O
+ornament_54	four	O
+ornament_54	ends	O
+ornament_54	of	O
+ornament_54	the	O
+ornament_54	ornament	ornament_nou

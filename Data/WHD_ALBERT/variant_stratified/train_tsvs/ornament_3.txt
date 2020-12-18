@@ -1,0 +1,16 @@
+ornament_3	The	O
+ornament_3	range	O
+ornament_3	and	O
+ornament_3	complexity	O
+ornament_3	of	O
+ornament_3	ornament	ornament_nou
+ornament_3	increased	O
+ornament_3	with	O
+ornament_3	time	O
+ornament_3	against	O
+ornament_3	a	O
+ornament_3	backdrop	O
+ornament_3	of	O
+ornament_3	decreasing	O
+ornament_3	organism	O
+ornament_3	size	O

@@ -1,0 +1,8 @@
+impact_44	The	O
+impact_44	environmental	O
+impact_44	impact	impact_nou
+impact_44	of	O
+impact_44	cleaning	O
+impact_44	agents	O
+impact_44	is	O
+impact_44	diverse	O

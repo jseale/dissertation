@@ -1,0 +1,15 @@
+affect_43	It	O
+affect_43	is	O
+affect_43	arguable	O
+affect_43	how	O
+affect_43	such	O
+affect_43	a	O
+affect_43	reduction	O
+affect_43	in	O
+affect_43	size	O
+affect_43	would	O
+affect_43	affect	affect
+affect_43	the	O
+affect_43	Bundeswehr	O
+affect_43	's	O
+affect_43	capabilities	O

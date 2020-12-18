@@ -1,0 +1,16 @@
+mobile_60	Urban	O
+mobile_60	Airship	O
+mobile_60	is	O
+mobile_60	an	O
+mobile_60	American	O
+mobile_60	company	O
+mobile_60	that	O
+mobile_60	provides	O
+mobile_60	a	O
+mobile_60	mobile	mobile
+mobile_60	engagement	O
+mobile_60	platform	O
+mobile_60	and	O
+mobile_60	digital	O
+mobile_60	wallet	O
+mobile_60	solution	O

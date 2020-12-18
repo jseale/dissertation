@@ -1,0 +1,17 @@
+dove_5	Pyreneola	O
+dove_5	is	O
+dove_5	a	O
+dove_5	genus	O
+dove_5	of	O
+dove_5	sea	O
+dove_5	snails	O
+dove_5	marine	O
+dove_5	gastropod	O
+dove_5	mollusks	O
+dove_5	in	O
+dove_5	the	O
+dove_5	family	O
+dove_5	Columbellidae	O
+dove_5	the	O
+dove_5	dove	dove
+dove_5	snails	O

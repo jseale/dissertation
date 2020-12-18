@@ -1,0 +1,17 @@
+escort_6	The	O
+escort_6	ship	O
+escort_6	was	O
+escort_6	reassigned	O
+escort_6	to	O
+escort_6	the	O
+escort_6	11th	O
+escort_6	Escort	escort_nou
+escort_6	Group	O
+escort_6	in	O
+escort_6	May	O
+escort_6	1944	O
+escort_6	in	O
+escort_6	preparation	O
+escort_6	for	O
+escort_6	Operation	O
+escort_6	Overlord	O

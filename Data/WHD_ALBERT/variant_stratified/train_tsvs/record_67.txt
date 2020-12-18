@@ -1,0 +1,12 @@
+record_67	The	O
+record_67	22	O
+record_67	innings	O
+record_67	bested	O
+record_67	the	O
+record_67	previous	O
+record_67	21	O
+record_67	inning	O
+record_67	South	O
+record_67	Atlantic	O
+record_67	League	O
+record_67	record	record_nou

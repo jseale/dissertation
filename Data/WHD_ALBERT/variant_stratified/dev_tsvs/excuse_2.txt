@@ -1,0 +1,16 @@
+excuse_2	When	O
+excuse_2	Panarella	O
+excuse_2	's	O
+excuse_2	crew	O
+excuse_2	complained	O
+excuse_2	it	O
+excuse_2	gave	O
+excuse_2	Persico	O
+excuse_2	an	O
+excuse_2	excuse	excuse_nou
+excuse_2	to	O
+excuse_2	exile	O
+excuse_2	Panarella	O
+excuse_2	to	O
+excuse_2	Las	O
+excuse_2	Vegas	O

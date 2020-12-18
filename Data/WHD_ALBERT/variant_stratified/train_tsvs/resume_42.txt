@@ -1,0 +1,14 @@
+resume_42	Trading	O
+resume_42	will	O
+resume_42	resume	resume_vrb
+resume_42	as	O
+resume_42	soon	O
+resume_42	as	O
+resume_42	MTN	O
+resume_42	Group	O
+resume_42	Limited	O
+resume_42	has	O
+resume_42	issued	O
+resume_42	a	O
+resume_42	Sens	O
+resume_42	announcement	O

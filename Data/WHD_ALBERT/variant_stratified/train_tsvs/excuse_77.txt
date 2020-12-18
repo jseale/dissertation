@@ -1,0 +1,17 @@
+excuse_77	The	O
+excuse_77	position	O
+excuse_77	of	O
+excuse_77	the	O
+excuse_77	Government	O
+excuse_77	does	O
+excuse_77	not	O
+excuse_77	excuse	excuse_vrb
+excuse_77	us	O
+excuse_77	from	O
+excuse_77	evaluating	O
+excuse_77	the	O
+excuse_77	circumstances	O
+excuse_77	of	O
+excuse_77	the	O
+excuse_77	whole	O
+excuse_77	case	O

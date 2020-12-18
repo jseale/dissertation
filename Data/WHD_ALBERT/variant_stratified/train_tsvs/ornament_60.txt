@@ -1,0 +1,17 @@
+ornament_60	The	O
+ornament_60	tower	O
+ornament_60	of	O
+ornament_60	the	O
+ornament_60	16th	O
+ornament_60	century	O
+ornament_60	is	O
+ornament_60	of	O
+ornament_60	four	O
+ornament_60	stages	O
+ornament_60	and	O
+ornament_60	has	O
+ornament_60	buttresses	O
+ornament_60	and	O
+ornament_60	bands	O
+ornament_60	of	O
+ornament_60	ornament	ornament_nou

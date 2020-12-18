@@ -1,0 +1,16 @@
+discharge_5	Owners	O
+discharge_5	or	O
+discharge_5	operators	O
+discharge_5	of	O
+discharge_5	facilities	O
+discharge_5	that	O
+discharge_5	discharge	discharge_nou
+discharge_5	regulated	O
+discharge_5	waste	O
+discharge_5	are	O
+discharge_5	then	O
+discharge_5	required	O
+discharge_5	to	O
+discharge_5	secure	O
+discharge_5	discharge	discharge_nou
+discharge_5	permits	O

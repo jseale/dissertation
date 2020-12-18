@@ -1,0 +1,17 @@
+converse_5	Hyperthyroidism	O
+converse_5	may	O
+converse_5	be	O
+converse_5	associated	O
+converse_5	with	O
+converse_5	hypocholesterolaemia	O
+converse_5	via	O
+converse_5	upregulation	O
+converse_5	of	O
+converse_5	the	O
+converse_5	LDL	O
+converse_5	receptor	O
+converse_5	and	O
+converse_5	hypothyroidism	O
+converse_5	with	O
+converse_5	the	O
+converse_5	converse	converse_adj-nou

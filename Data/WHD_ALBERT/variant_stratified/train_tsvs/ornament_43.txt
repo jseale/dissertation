@@ -1,0 +1,17 @@
+ornament_43	They	O
+ornament_43	are	O
+ornament_43	large	O
+ornament_43	and	O
+ornament_43	appear	O
+ornament_43	alternately	O
+ornament_43	in	O
+ornament_43	red	O
+ornament_43	or	O
+ornament_43	blue	O
+ornament_43	with	O
+ornament_43	pen	O
+ornament_43	ornament	ornament_nou
+ornament_43	of	O
+ornament_43	the	O
+ornament_43	other	O
+ornament_43	color	O

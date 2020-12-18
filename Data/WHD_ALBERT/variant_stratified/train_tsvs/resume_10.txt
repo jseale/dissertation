@@ -1,0 +1,17 @@
+resume_10	Both	O
+resume_10	would	O
+resume_10	take	O
+resume_10	time	O
+resume_10	away	O
+resume_10	to	O
+resume_10	work	O
+resume_10	on	O
+resume_10	other	O
+resume_10	projects	O
+resume_10	and	O
+resume_10	resume	resume_vrb
+resume_10	work	O
+resume_10	on	O
+resume_10	the	O
+resume_10	album	O
+resume_10	fresh	O

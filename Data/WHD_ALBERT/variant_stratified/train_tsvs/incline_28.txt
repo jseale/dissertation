@@ -1,0 +1,13 @@
+incline_28	Castle	O
+incline_28	Shannon	O
+incline_28	Incline	incline_nou
+incline_28	Number	O
+incline_28	2	O
+incline_28	was	O
+incline_28	an	O
+incline_28	inclined	O
+incline_28	cable	O
+incline_28	railway	O
+incline_28	in	O
+incline_28	Pittsburgh	O
+incline_28	Pennsylvania	O

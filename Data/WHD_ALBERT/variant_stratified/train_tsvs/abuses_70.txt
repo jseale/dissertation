@@ -1,0 +1,15 @@
+abuses_70	Throughout	O
+abuses_70	the	O
+abuses_70	novel	O
+abuses_70	Rowdy	O
+abuses_70	's	O
+abuses_70	father	O
+abuses_70	abuses	abuses_vrb
+abuses_70	him	O
+abuses_70	which	O
+abuses_70	leads	O
+abuses_70	to	O
+abuses_70	his	O
+abuses_70	bully	O
+abuses_70	like	O
+abuses_70	behavior	O

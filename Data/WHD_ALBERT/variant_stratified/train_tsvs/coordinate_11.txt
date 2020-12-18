@@ -1,0 +1,14 @@
+coordinate_11	Each	O
+coordinate_11	voxel	O
+coordinate_11	typically	O
+coordinate_11	represents	O
+coordinate_11	the	O
+coordinate_11	activity	O
+coordinate_11	of	O
+coordinate_11	a	O
+coordinate_11	particular	O
+coordinate_11	coordinate	coordinate_adj-nou
+coordinate_11	in	O
+coordinate_11	three	O
+coordinate_11	dimensional	O
+coordinate_11	space	O

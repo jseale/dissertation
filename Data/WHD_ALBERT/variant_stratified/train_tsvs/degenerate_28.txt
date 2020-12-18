@@ -1,0 +1,13 @@
+degenerate_28	Some	O
+degenerate_28	of	O
+degenerate_28	the	O
+degenerate_28	ways	O
+degenerate_28	they	O
+degenerate_28	can	O
+degenerate_28	be	O
+degenerate_28	degenerate	degenerate_adj-nou
+degenerate_28	are	O
+degenerate_28	as	O
+degenerate_28	follows	O
+degenerate_28	Hidden	O
+degenerate_28	faces	O

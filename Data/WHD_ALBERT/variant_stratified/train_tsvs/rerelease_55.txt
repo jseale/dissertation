@@ -1,0 +1,12 @@
+rerelease_55	The	O
+rerelease_55	CD	O
+rerelease_55	rerelease	rerelease
+rerelease_55	of	O
+rerelease_55	the	O
+rerelease_55	Metal	O
+rerelease_55	Box	O
+rerelease_55	album	O
+rerelease_55	by	O
+rerelease_55	Public	O
+rerelease_55	Image	O
+rerelease_55	Ltd.	O

@@ -1,0 +1,12 @@
+compound_26	His	O
+compound_26	name	O
+compound_26	is	O
+compound_26	a	O
+compound_26	made	O
+compound_26	up	O
+compound_26	compound	compound_nou
+compound_26	word	O
+compound_26	of	O
+compound_26	elephant	O
+compound_26	and	O
+compound_26	van	O

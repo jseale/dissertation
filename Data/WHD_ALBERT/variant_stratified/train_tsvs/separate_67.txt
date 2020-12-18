@@ -1,0 +1,17 @@
+separate_67	The	O
+separate_67	Institutes	O
+separate_67	of	O
+separate_67	the	O
+separate_67	Law	O
+separate_67	of	O
+separate_67	Nations	O
+separate_67	a	O
+separate_67	Treatise	O
+separate_67	of	O
+separate_67	the	O
+separate_67	Jural	O
+separate_67	Relations	O
+separate_67	of	O
+separate_67	Separate	separate_adj
+separate_67	Political	O
+separate_67	Communities	O

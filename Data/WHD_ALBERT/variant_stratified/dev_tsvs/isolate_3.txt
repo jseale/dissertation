@@ -1,0 +1,13 @@
+isolate_3	Without	O
+isolate_3	the	O
+isolate_3	ability	O
+isolate_3	to	O
+isolate_3	isolate	isolate
+isolate_3	alleles	O
+isolate_3	selection	O
+isolate_3	can	O
+isolate_3	not	O
+isolate_3	effectively	O
+isolate_3	act	O
+isolate_3	upon	O
+isolate_3	them	O

@@ -1,0 +1,15 @@
+upset_3	We	O
+upset_3	were	O
+upset_3	quite	O
+upset_3	upset	upset_nou
+upset_3	but	O
+upset_3	at	O
+upset_3	that	O
+upset_3	time	O
+upset_3	it	O
+upset_3	was	O
+upset_3	too	O
+upset_3	late	O
+upset_3	to	O
+upset_3	change	O
+upset_3	it	O

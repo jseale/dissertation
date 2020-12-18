@@ -1,0 +1,13 @@
+conjugate_2	In	O
+conjugate_2	the	O
+conjugate_2	above	O
+conjugate_2	description	O
+conjugate_2	the	O
+conjugate_2	product	O
+conjugate_2	of	O
+conjugate_2	two	O
+conjugate_2	conjugate	conjugate_adj-nou
+conjugate_2	variables	O
+conjugate_2	yields	O
+conjugate_2	an	O
+conjugate_2	energy	O

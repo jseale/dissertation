@@ -1,0 +1,13 @@
+recount_2	Immediately	O
+recount_2	after	O
+recount_2	the	O
+recount_2	election	O
+recount_2	a	O
+recount_2	recount	recount_nou
+recount_2	was	O
+recount_2	ordered	O
+recount_2	by	O
+recount_2	the	O
+recount_2	Guam	O
+recount_2	Election	O
+recount_2	Commission	O

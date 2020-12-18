@@ -1,0 +1,17 @@
+celtic_25	Also	O
+celtic_25	it	O
+celtic_25	has	O
+celtic_25	long	O
+celtic_25	been	O
+celtic_25	supposed	O
+celtic_25	that	O
+celtic_25	the	O
+celtic_25	influence	O
+celtic_25	of	O
+celtic_25	Celtic	celtic
+celtic_25	languages	O
+celtic_25	on	O
+celtic_25	Old	O
+celtic_25	English	O
+celtic_25	was	O
+celtic_25	slight	O

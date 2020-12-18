@@ -1,0 +1,14 @@
+intrigue_53	Galileo	O
+intrigue_53	's	O
+intrigue_53	intrigue	intrigue_nou
+intrigue_53	for	O
+intrigue_53	tidal	O
+intrigue_53	theory	O
+intrigue_53	was	O
+intrigue_53	motivated	O
+intrigue_53	by	O
+intrigue_53	a	O
+intrigue_53	boat	O
+intrigue_53	trip	O
+intrigue_53	in	O
+intrigue_53	1595	O

@@ -1,0 +1,12 @@
+confines_73	Exercising	O
+confines_73	caution	O
+confines_73	Napier	O
+confines_73	arms	O
+confines_73	the	O
+confines_73	loyal	O
+confines_73	hundred	O
+confines_73	and	O
+confines_73	confines	confines_vrb
+confines_73	the	O
+confines_73	remainder	O
+confines_73	below	O

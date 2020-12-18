@@ -1,0 +1,10 @@
+refund_67	If	O
+refund_67	ATF	O
+refund_67	denies	O
+refund_67	an	O
+refund_67	application	O
+refund_67	it	O
+refund_67	must	O
+refund_67	refund	refund_vrb
+refund_67	the	O
+refund_67	tax	O

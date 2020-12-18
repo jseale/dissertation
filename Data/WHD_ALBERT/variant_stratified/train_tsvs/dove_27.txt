@@ -1,0 +1,13 @@
+dove_27	Turtle	O
+dove_27	dove	dove
+dove_27	reed	O
+dove_27	bunting	O
+dove_27	and	O
+dove_27	sedge	O
+dove_27	warbler	O
+dove_27	breed	O
+dove_27	in	O
+dove_27	the	O
+dove_27	adjoining	O
+dove_27	Osier	O
+dove_27	bed	O

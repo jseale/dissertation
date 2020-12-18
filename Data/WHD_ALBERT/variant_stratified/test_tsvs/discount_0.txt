@@ -1,0 +1,16 @@
+discount_0	Another	O
+discount_0	method	O
+discount_0	of	O
+discount_0	quantifying	O
+discount_0	the	O
+discount_0	lack	O
+discount_0	of	O
+discount_0	marketability	O
+discount_0	discount	discount_nou
+discount_0	is	O
+discount_0	the	O
+discount_0	Quantifying	O
+discount_0	Marketability	O
+discount_0	Discounts	O
+discount_0	Model	O
+discount_0	QMDM	O

@@ -1,0 +1,17 @@
+correlate_39	The	O
+correlate_39	majority	O
+correlate_39	of	O
+correlate_39	the	O
+correlate_39	studies	O
+correlate_39	that	O
+correlate_39	correlate	correlate_nou-vrb
+correlate_39	vaccination	O
+correlate_39	with	O
+correlate_39	ADEM	O
+correlate_39	onset	O
+correlate_39	use	O
+correlate_39	small	O
+correlate_39	samples	O
+correlate_39	or	O
+correlate_39	case	O
+correlate_39	studies	O

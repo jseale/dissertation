@@ -1,0 +1,16 @@
+diagnoses_28	This	O
+diagnoses_28	included	O
+diagnoses_28	22	O
+diagnoses_28	diagnoses	diagnoses_nou
+diagnoses_28	and	O
+diagnoses_28	would	O
+diagnoses_28	be	O
+diagnoses_28	revised	O
+diagnoses_28	several	O
+diagnoses_28	times	O
+diagnoses_28	by	O
+diagnoses_28	the	O
+diagnoses_28	APA	O
+diagnoses_28	over	O
+diagnoses_28	the	O
+diagnoses_28	years	O

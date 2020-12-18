@@ -1,0 +1,7 @@
+impact_74	On	O
+impact_74	the	O
+impact_74	October	O
+impact_74	8	O
+impact_74	episode	O
+impact_74	of	O
+impact_74	Impact	impact_nou

@@ -1,0 +1,15 @@
+alternate_40	During	O
+alternate_40	that	O
+alternate_40	intervening	O
+alternate_40	three	O
+alternate_40	month	O
+alternate_40	period	O
+alternate_40	women	O
+alternate_40	are	O
+alternate_40	advised	O
+alternate_40	to	O
+alternate_40	use	O
+alternate_40	an	O
+alternate_40	alternate	alternate_adj-nou
+alternate_40	contraceptive	O
+alternate_40	method	O

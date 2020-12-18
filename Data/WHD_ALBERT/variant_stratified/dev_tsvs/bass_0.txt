@@ -1,0 +1,15 @@
+bass_0	The	O
+bass_0	lyrics	O
+bass_0	accompany	O
+bass_0	a	O
+bass_0	punchy	O
+bass_0	octave	O
+bass_0	synth	O
+bass_0	figure	O
+bass_0	synchronized	O
+bass_0	with	O
+bass_0	a	O
+bass_0	drum	O
+bass_0	and	O
+bass_0	bass	bass
+bass_0	beat	O

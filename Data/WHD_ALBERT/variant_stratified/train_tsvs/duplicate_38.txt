@@ -1,0 +1,17 @@
+duplicate_38	There	O
+duplicate_38	is	O
+duplicate_38	also	O
+duplicate_38	an	O
+duplicate_38	imperfect	O
+duplicate_38	duplicate	duplicate_adj-nou
+duplicate_38	of	O
+duplicate_38	the	O
+duplicate_38	Statue	O
+duplicate_38	of	O
+duplicate_38	Liberty	O
+duplicate_38	visible	O
+duplicate_38	in	O
+duplicate_38	the	O
+duplicate_38	background	O
+duplicate_38	although	O
+duplicate_38	unnamed	O

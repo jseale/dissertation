@@ -1,0 +1,15 @@
+supplement_2	Elves	O
+supplement_2	is	O
+supplement_2	a	O
+supplement_2	supplement	supplement_nou
+supplement_2	for	O
+supplement_2	fantasy	O
+supplement_2	role	O
+supplement_2	playing	O
+supplement_2	games	O
+supplement_2	published	O
+supplement_2	by	O
+supplement_2	Mayfair	O
+supplement_2	Games	O
+supplement_2	in	O
+supplement_2	1983	O

@@ -1,0 +1,16 @@
+upset_35	However	O
+upset_35	in	O
+upset_35	an	O
+upset_35	upset	upset_nou
+upset_35	lawmakers	O
+upset_35	chose	O
+upset_35	not	O
+upset_35	Leger	O
+upset_35	as	O
+upset_35	Speaker	O
+upset_35	but	O
+upset_35	New	O
+upset_35	Iberia	O
+upset_35	Republican	O
+upset_35	Taylor	O
+upset_35	Barras	O

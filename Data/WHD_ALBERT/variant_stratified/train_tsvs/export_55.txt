@@ -1,0 +1,16 @@
+export_55	An	O
+export_55	export	export_nou
+export_55	to	O
+export_55	blog	O
+export_55	feature	O
+export_55	allows	O
+export_55	for	O
+export_55	a	O
+export_55	1-click	O
+export_55	publication	O
+export_55	on	O
+export_55	the	O
+export_55	web	O
+export_55	of	O
+export_55	a	O
+export_55	figure	O

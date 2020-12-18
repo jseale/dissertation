@@ -1,0 +1,11 @@
+affiliate_6	It	O
+affiliate_6	consists	O
+affiliate_6	out	O
+affiliate_6	of	O
+affiliate_6	members	O
+affiliate_6	of	O
+affiliate_6	all	O
+affiliate_6	affiliate	affiliate_nou
+affiliate_6	unions	O
+affiliate_6	represented	O
+affiliate_6	proportionally	O

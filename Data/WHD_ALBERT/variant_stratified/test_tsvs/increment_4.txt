@@ -1,0 +1,13 @@
+increment_4	Daily	O
+increment_4	growth	O
+increment_4	increment	increment_nou
+increment_4	formation	O
+increment_4	in	O
+increment_4	otoliths	O
+increment_4	of	O
+increment_4	Pacific	O
+increment_4	tarpon	O
+increment_4	Megalops	O
+increment_4	cyprinoides	O
+increment_4	during	O
+increment_4	metamorphosis	O

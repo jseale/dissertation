@@ -1,0 +1,14 @@
+graduate_48	Former	O
+graduate_48	Louisiana	O
+graduate_48	Secretary	O
+graduate_48	of	O
+graduate_48	State	O
+graduate_48	Al	O
+graduate_48	Ater	O
+graduate_48	was	O
+graduate_48	a	O
+graduate_48	graduate	graduate_adj-nou
+graduate_48	of	O
+graduate_48	the	O
+graduate_48	founding	O
+graduate_48	class	O

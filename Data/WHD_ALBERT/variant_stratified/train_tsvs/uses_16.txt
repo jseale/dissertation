@@ -1,0 +1,11 @@
+uses_16	This	O
+uses_16	secondary	O
+uses_16	array	O
+uses_16	uses	uses_vrb
+uses_16	pumped	O
+uses_16	fluid	O
+uses_16	cooling	O
+uses_16	to	O
+uses_16	maintain	O
+uses_16	operating	O
+uses_16	temperature	O

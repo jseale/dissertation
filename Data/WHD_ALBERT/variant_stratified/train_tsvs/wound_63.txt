@@ -1,0 +1,14 @@
+wound_63	The	O
+wound_63	Meissner	O
+wound_63	Signal	O
+wound_63	Shifter	O
+wound_63	used	O
+wound_63	plug	O
+wound_63	in	O
+wound_63	grid	O
+wound_63	coils	O
+wound_63	wound	wound_vrb
+wound_63	for	O
+wound_63	amateur	O
+wound_63	radio	O
+wound_63	frequencies	O

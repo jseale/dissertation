@@ -1,0 +1,16 @@
+postulate_37	This	O
+postulate_37	is	O
+postulate_37	also	O
+postulate_37	called	O
+postulate_37	the	O
+postulate_37	Drucker	O
+postulate_37	stability	O
+postulate_37	postulate	postulate_nou
+postulate_37	and	O
+postulate_37	eliminates	O
+postulate_37	the	O
+postulate_37	possibility	O
+postulate_37	of	O
+postulate_37	strain	O
+postulate_37	softening	O
+postulate_37	behavior	O

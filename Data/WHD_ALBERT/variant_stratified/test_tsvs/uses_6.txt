@@ -1,0 +1,11 @@
+uses_6	Poe	O
+uses_6	uses	uses_vrb
+uses_6	the	O
+uses_6	term	O
+uses_6	shadow	O
+uses_6	in	O
+uses_6	the	O
+uses_6	middle	O
+uses_6	of	O
+uses_6	each	O
+uses_6	stanza	O

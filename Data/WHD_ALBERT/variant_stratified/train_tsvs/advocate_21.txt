@@ -1,0 +1,15 @@
+advocate_21	He	O
+advocate_21	held	O
+advocate_21	the	O
+advocate_21	part	O
+advocate_21	time	O
+advocate_21	statutory	O
+advocate_21	appointment	O
+advocate_21	as	O
+advocate_21	Defence	O
+advocate_21	Force	O
+advocate_21	Advocate	advocate_nou
+advocate_21	between	O
+advocate_21	1993	O
+advocate_21	and	O
+advocate_21	1995	O

@@ -1,0 +1,11 @@
+isolate_47	Under	O
+isolate_47	certain	O
+isolate_47	conditions	O
+isolate_47	it	O
+isolate_47	can	O
+isolate_47	even	O
+isolate_47	isolate	isolate
+isolate_47	the	O
+isolate_47	transfer	O
+isolate_47	function	O
+isolate_47	analytically	O

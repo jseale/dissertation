@@ -1,0 +1,15 @@
+supplement_14	Jamestown	O
+supplement_14	Area	O
+supplement_14	School	O
+supplement_14	District	O
+supplement_14	received	O
+supplement_14	a	O
+supplement_14	$	O
+supplement_14	399,574	O
+supplement_14	supplement	supplement_nou
+supplement_14	for	O
+supplement_14	special	O
+supplement_14	education	O
+supplement_14	services	O
+supplement_14	in	O
+supplement_14	2010	O

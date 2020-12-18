@@ -1,0 +1,12 @@
+insert_6	The	O
+insert_6	1934	O
+insert_6	Wilfred	O
+insert_6	's	O
+insert_6	Annual	O
+insert_6	similarly	O
+insert_6	featured	O
+insert_6	a	O
+insert_6	Pantomime	O
+insert_6	cut	O
+insert_6	out	O
+insert_6	insert	insert_nou

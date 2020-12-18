@@ -1,0 +1,12 @@
+discard_0	Players	O
+discard_0	can	O
+discard_0	make	O
+discard_0	a	O
+discard_0	meld	O
+discard_0	by	O
+discard_0	calling	O
+discard_0	for	O
+discard_0	another	O
+discard_0	player	O
+discard_0	's	O
+discard_0	discard	discard_nou

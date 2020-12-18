@@ -1,0 +1,15 @@
+suspect_5	However	O
+suspect_5	the	O
+suspect_5	Commonwealth	O
+suspect_5	Government	O
+suspect_5	maintained	O
+suspect_5	that	O
+suspect_5	the	O
+suspect_5	treaty	O
+suspect_5	only	O
+suspect_5	applies	O
+suspect_5	after	O
+suspect_5	a	O
+suspect_5	suspect	suspect_adj-nou
+suspect_5	is	O
+suspect_5	charged	O

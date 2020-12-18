@@ -1,0 +1,13 @@
+frequent_2	During	O
+frequent_2	frequent	frequent_adj
+frequent_2	enemy	O
+frequent_2	air	O
+frequent_2	attacks	O
+frequent_2	the	O
+frequent_2	minesweeper	O
+frequent_2	took	O
+frequent_2	several	O
+frequent_2	Japanese	O
+frequent_2	planes	O
+frequent_2	under	O
+frequent_2	fire	O

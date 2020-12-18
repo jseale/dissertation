@@ -1,0 +1,13 @@
+affiliate_28	The	O
+affiliate_28	station	O
+affiliate_28	is	O
+affiliate_28	an	O
+affiliate_28	affiliate	affiliate_nou
+affiliate_28	of	O
+affiliate_28	the	O
+affiliate_28	Dallas	O
+affiliate_28	Cowboys	O
+affiliate_28	Spanish	O
+affiliate_28	Language	O
+affiliate_28	Radio	O
+affiliate_28	Network	O

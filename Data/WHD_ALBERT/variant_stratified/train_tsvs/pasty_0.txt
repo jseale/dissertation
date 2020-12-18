@@ -1,0 +1,13 @@
+pasty_0	The	O
+pasty_0	pasty	pasty_adj
+pasty_0	was	O
+pasty_0	estimated	O
+pasty_0	to	O
+pasty_0	cost	O
+pasty_0	£	O
+pasty_0	7,000	O
+pasty_0	and	O
+pasty_0	contain	O
+pasty_0	1.75	O
+pasty_0	million	O
+pasty_0	calories	O

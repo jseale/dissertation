@@ -1,0 +1,9 @@
+wind_71	Suddenly	O
+wind_71	the	O
+wind_71	lights	O
+wind_71	go	O
+wind_71	out	O
+wind_71	and	O
+wind_71	the	O
+wind_71	wind	wind_nou
+wind_71	rises	O

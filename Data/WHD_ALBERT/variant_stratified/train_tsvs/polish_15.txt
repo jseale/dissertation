@@ -1,0 +1,15 @@
+polish_15	His	O
+polish_15	books	O
+polish_15	on	O
+polish_15	the	O
+polish_15	theory	O
+polish_15	of	O
+polish_15	relativity	O
+polish_15	were	O
+polish_15	translated	O
+polish_15	into	O
+polish_15	English	O
+polish_15	French	O
+polish_15	German	O
+polish_15	and	O
+polish_15	Polish	polish_geo

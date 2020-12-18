@@ -1,0 +1,14 @@
+reject_66	In	O
+reject_66	July	O
+reject_66	2008	O
+reject_66	the	O
+reject_66	Court	O
+reject_66	decided	O
+reject_66	to	O
+reject_66	reject	reject_vrb
+reject_66	the	O
+reject_66	plaints	O
+reject_66	against	O
+reject_66	the	O
+reject_66	planning	O
+reject_66	decision	O

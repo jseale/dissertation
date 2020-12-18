@@ -1,0 +1,14 @@
+conduct_4	Arrests	O
+conduct_4	for	O
+conduct_4	public	O
+conduct_4	intoxication	O
+conduct_4	disorderly	O
+conduct_4	conduct	conduct_nou
+conduct_4	fights	O
+conduct_4	and	O
+conduct_4	drug	O
+conduct_4	possession	O
+conduct_4	were	O
+conduct_4	frequent	O
+conduct_4	and	O
+conduct_4	common	O

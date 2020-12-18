@@ -1,0 +1,11 @@
+construct_39	He	O
+construct_39	struggled	O
+construct_39	to	O
+construct_39	find	O
+construct_39	a	O
+construct_39	new	O
+construct_39	way	O
+construct_39	to	O
+construct_39	construct	construct_vrb
+construct_39	the	O
+construct_39	canal	O

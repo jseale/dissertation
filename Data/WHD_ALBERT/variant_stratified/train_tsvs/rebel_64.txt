@@ -1,0 +1,12 @@
+rebel_64	However	O
+rebel_64	the	O
+rebel_64	rebel	rebel_nou
+rebel_64	force	O
+rebel_64	believed	O
+rebel_64	that	O
+rebel_64	the	O
+rebel_64	British	O
+rebel_64	had	O
+rebel_64	shouted	O
+rebel_64	contuirt	O
+rebel_64	bhais	O

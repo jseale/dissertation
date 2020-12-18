@@ -1,0 +1,16 @@
+live_10	Around	O
+live_10	the	O
+live_10	release	O
+live_10	of	O
+live_10	Glowing	O
+live_10	in	O
+live_10	the	O
+live_10	Dark	O
+live_10	Mike	O
+live_10	Simmons	O
+live_10	played	O
+live_10	live	live_adj
+live_10	as	O
+live_10	a	O
+live_10	third	O
+live_10	keyboardist	O

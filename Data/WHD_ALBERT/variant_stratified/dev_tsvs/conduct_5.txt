@@ -1,0 +1,16 @@
+conduct_5	Conduct	conduct_vrb
+conduct_5	extensive	O
+conduct_5	research	O
+conduct_5	on	O
+conduct_5	budgets	O
+conduct_5	and	O
+conduct_5	policies	O
+conduct_5	to	O
+conduct_5	enhance	O
+conduct_5	CSBAG	O
+conduct_5	's	O
+conduct_5	ability	O
+conduct_5	to	O
+conduct_5	influence	O
+conduct_5	budget	O
+conduct_5	decisions	O

@@ -1,0 +1,10 @@
+reading_12	The	O
+reading_12	fourth	O
+reading_12	grade	O
+reading_12	is	O
+reading_12	tested	O
+reading_12	in	O
+reading_12	reading	reading_en
+reading_12	math	O
+reading_12	and	O
+reading_12	science	O

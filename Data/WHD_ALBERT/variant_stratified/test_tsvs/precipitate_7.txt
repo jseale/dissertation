@@ -1,0 +1,15 @@
+precipitate_7	This	O
+precipitate_7	causes	O
+precipitate_7	the	O
+precipitate_7	calcium	O
+precipitate_7	of	O
+precipitate_7	the	O
+precipitate_7	milk	O
+precipitate_7	to	O
+precipitate_7	precipitate	precipitate_vrb
+precipitate_7	out	O
+precipitate_7	whilst	O
+precipitate_7	the	O
+precipitate_7	phosphate	O
+precipitate_7	is	O
+precipitate_7	digested	O

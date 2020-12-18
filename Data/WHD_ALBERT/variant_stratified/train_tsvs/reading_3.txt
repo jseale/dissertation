@@ -1,0 +1,11 @@
+reading_3	To	O
+reading_3	get	O
+reading_3	a	O
+reading_3	few	O
+reading_3	of	O
+reading_3	my	O
+reading_3	favorite	O
+reading_3	lines	O
+reading_3	just	O
+reading_3	keep	O
+reading_3	reading	reading_en

@@ -1,0 +1,14 @@
+attribute_12	Consequently	O
+attribute_12	it	O
+attribute_12	is	O
+attribute_12	a	O
+attribute_12	false	O
+attribute_12	assumption	O
+attribute_12	to	O
+attribute_12	hold	O
+attribute_12	that	O
+attribute_12	He	O
+attribute_12	has	O
+attribute_12	any	O
+attribute_12	positive	O
+attribute_12	attribute	attribute_nou

@@ -1,0 +1,12 @@
+convert_8	Similar	O
+convert_8	reactions	O
+convert_8	are	O
+convert_8	used	O
+convert_8	industrially	O
+convert_8	to	O
+convert_8	convert	convert_vrb
+convert_8	cyclic	O
+convert_8	siloxanes	O
+convert_8	to	O
+convert_8	linear	O
+convert_8	polymers	O

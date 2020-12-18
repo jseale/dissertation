@@ -1,0 +1,16 @@
+fragment_67	The	O
+fragment_67	island	O
+fragment_67	like	O
+fragment_67	the	O
+fragment_67	Falkland	O
+fragment_67	Islands	O
+fragment_67	is	O
+fragment_67	a	O
+fragment_67	fragment	fragment_nou
+fragment_67	of	O
+fragment_67	some	O
+fragment_67	greater	O
+fragment_67	land	O
+fragment_67	mass	O
+fragment_67	now	O
+fragment_67	vanished	O

@@ -1,0 +1,16 @@
+extract_0	By	O
+extract_0	forcing	O
+extract_0	the	O
+extract_0	liquid	O
+extract_0	extract	extract_nou
+extract_0	through	O
+extract_0	a	O
+extract_0	nozzle	O
+extract_0	the	O
+extract_0	solution	O
+extract_0	atomizes	O
+extract_0	or	O
+extract_0	becomes	O
+extract_0	very	O
+extract_0	fine	O
+extract_0	droplets	O

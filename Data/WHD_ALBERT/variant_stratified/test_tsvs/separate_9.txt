@@ -1,0 +1,15 @@
+separate_9	She	O
+separate_9	also	O
+separate_9	tries	O
+separate_9	to	O
+separate_9	separate	separate_vrb
+separate_9	Rian	O
+separate_9	and	O
+separate_9	Carol	O
+separate_9	who	O
+separate_9	fall	O
+separate_9	in	O
+separate_9	love	O
+separate_9	for	O
+separate_9	each	O
+separate_9	other	O

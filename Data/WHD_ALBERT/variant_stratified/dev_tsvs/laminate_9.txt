@@ -1,0 +1,14 @@
+laminate_9	Wood	O
+laminate_9	derivatives	O
+laminate_9	can	O
+laminate_9	also	O
+laminate_9	be	O
+laminate_9	used	O
+laminate_9	for	O
+laminate_9	kinds	O
+laminate_9	of	O
+laminate_9	flooring	O
+laminate_9	for	O
+laminate_9	example	O
+laminate_9	laminate	laminate_nou
+laminate_9	flooring	O

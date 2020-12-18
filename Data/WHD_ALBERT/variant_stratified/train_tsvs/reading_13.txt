@@ -1,0 +1,15 @@
+reading_13	Much	O
+reading_13	emphasis	O
+reading_13	is	O
+reading_13	given	O
+reading_13	to	O
+reading_13	the	O
+reading_13	importance	O
+reading_13	of	O
+reading_13	reading	reading_en
+reading_13	and	O
+reading_13	to	O
+reading_13	reflecting	O
+reading_13	on	O
+reading_13	the	O
+reading_13	reading	reading_en

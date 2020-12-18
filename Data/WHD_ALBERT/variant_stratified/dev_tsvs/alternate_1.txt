@@ -1,0 +1,15 @@
+alternate_1	He	O
+alternate_1	can	O
+alternate_1	construct	O
+alternate_1	and	O
+alternate_1	operate	O
+alternate_1	devices	O
+alternate_1	to	O
+alternate_1	view	O
+alternate_1	and	O
+alternate_1	traverse	O
+alternate_1	the	O
+alternate_1	timestream	O
+alternate_1	and	O
+alternate_1	alternate	alternate_adj-nou
+alternate_1	dimensions	O

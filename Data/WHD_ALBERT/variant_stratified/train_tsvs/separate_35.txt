@@ -1,0 +1,17 @@
+separate_35	The	O
+separate_35	school	O
+separate_35	was	O
+separate_35	opened	O
+separate_35	in	O
+separate_35	1941	O
+separate_35	and	O
+separate_35	originally	O
+separate_35	consisted	O
+separate_35	of	O
+separate_35	two	O
+separate_35	separate	separate_adj
+separate_35	single	O
+separate_35	sex	O
+separate_35	secondary	O
+separate_35	modern	O
+separate_35	schools	O

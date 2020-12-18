@@ -1,0 +1,17 @@
+incline_29	The	O
+incline_29	Rimutaka	O
+incline_29	Incline	incline_nou
+incline_29	Railway	O
+incline_29	has	O
+incline_29	five	O
+incline_29	and	O
+incline_29	the	O
+incline_29	Glenbrook	O
+incline_29	Vintage	O
+incline_29	Railway	O
+incline_29	has	O
+incline_29	three	O
+incline_29	which	O
+incline_29	are	O
+incline_29	mainline	O
+incline_29	certified	O

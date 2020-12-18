@@ -1,0 +1,15 @@
+abuses_51	There	O
+abuses_51	were	O
+abuses_51	reports	O
+abuses_51	of	O
+abuses_51	societal	O
+abuses_51	abuses	abuses_nou
+abuses_51	and	O
+abuses_51	discrimination	O
+abuses_51	based	O
+abuses_51	on	O
+abuses_51	religious	O
+abuses_51	affiliation	O
+abuses_51	belief	O
+abuses_51	or	O
+abuses_51	practice	O

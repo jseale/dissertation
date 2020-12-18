@@ -1,0 +1,10 @@
+initiate_0	When	O
+initiate_0	the	O
+initiate_0	initiate	initiate_nou
+initiate_0	returns	O
+initiate_0	he	O
+initiate_0	enacts	O
+initiate_0	his	O
+initiate_0	cannibalistic	O
+initiate_0	possession	O
+initiate_0	symbolically	O

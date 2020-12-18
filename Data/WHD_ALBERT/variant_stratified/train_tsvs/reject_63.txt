@@ -1,0 +1,17 @@
+reject_63	Zaghloul	O
+reject_63	and	O
+reject_63	his	O
+reject_63	cabinet	O
+reject_63	decided	O
+reject_63	to	O
+reject_63	accept	O
+reject_63	the	O
+reject_63	first	O
+reject_63	four	O
+reject_63	terms	O
+reject_63	but	O
+reject_63	to	O
+reject_63	reject	reject_vrb
+reject_63	the	O
+reject_63	last	O
+reject_63	two	O

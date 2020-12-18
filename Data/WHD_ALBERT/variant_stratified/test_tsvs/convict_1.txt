@@ -1,0 +1,15 @@
+convict_1	Therefore	O
+convict_1	Ashcroft	O
+convict_1	is	O
+convict_1	a	O
+convict_1	descendant	O
+convict_1	of	O
+convict_1	a	O
+convict_1	First	O
+convict_1	Fleeter	O
+convict_1	and	O
+convict_1	a	O
+convict_1	descendant	O
+convict_1	of	O
+convict_1	a	O
+convict_1	convict	convict_nou

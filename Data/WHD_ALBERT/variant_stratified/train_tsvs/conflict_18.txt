@@ -1,0 +1,16 @@
+conflict_18	Shlapentokh	O
+conflict_18	Vladimir	O
+conflict_18	and	O
+conflict_18	Chliapentokh	O
+conflict_18	Dmitry	O
+conflict_18	1993	O
+conflict_18	Soviet	O
+conflict_18	Cinematography	O
+conflict_18	1918	O
+conflict_18	1991	O
+conflict_18	Ideological	O
+conflict_18	Conflict	conflict_nou
+conflict_18	and	O
+conflict_18	Social	O
+conflict_18	Reality	O
+conflict_18	pp	O

@@ -1,0 +1,17 @@
+isolate_17	Buffer	O
+isolate_17	states	O
+isolate_17	sometimes	O
+isolate_17	isolate	isolate
+isolate_17	regions	O
+isolate_17	such	O
+isolate_17	as	O
+isolate_17	Afghanistan	O
+isolate_17	's	O
+isolate_17	location	O
+isolate_17	between	O
+isolate_17	the	O
+isolate_17	Middle	O
+isolate_17	East	O
+isolate_17	and	O
+isolate_17	South	O
+isolate_17	Asia	O

@@ -1,0 +1,16 @@
+winds_48	Showers	O
+winds_48	and	O
+winds_48	storms	O
+winds_48	can	O
+winds_48	also	O
+winds_48	develop	O
+winds_48	along	O
+winds_48	stationary	O
+winds_48	fronts	O
+winds_48	and	O
+winds_48	winds	winds_nou
+winds_48	move	O
+winds_48	them	O
+winds_48	down	O
+winds_48	the	O
+winds_48	front	O

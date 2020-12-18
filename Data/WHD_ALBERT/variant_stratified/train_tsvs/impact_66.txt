@@ -1,0 +1,9 @@
+impact_66	All	O
+impact_66	the	O
+impact_66	occupants	O
+impact_66	of	O
+impact_66	both	O
+impact_66	aircraft	O
+impact_66	died	O
+impact_66	on	O
+impact_66	impact	impact_nou

@@ -1,0 +1,14 @@
+animate_45	Studio	O
+animate_45	Pierrot	O
+animate_45	was	O
+animate_45	eventually	O
+animate_45	called	O
+animate_45	in	O
+animate_45	to	O
+animate_45	fill	O
+animate_45	the	O
+animate_45	void	O
+animate_45	and	O
+animate_45	animate	animate_vrb
+animate_45	Book	O
+animate_45	2	O

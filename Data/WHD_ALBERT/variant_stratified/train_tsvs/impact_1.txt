@@ -1,0 +1,16 @@
+impact_1	Tookoonooka	O
+impact_1	a	O
+impact_1	large	O
+impact_1	buried	O
+impact_1	Early	O
+impact_1	Cretaceous	O
+impact_1	impact	impact_nou
+impact_1	structure	O
+impact_1	in	O
+impact_1	the	O
+impact_1	Eromanga	O
+impact_1	Basin	O
+impact_1	of	O
+impact_1	southwestern	O
+impact_1	Queensland	O
+impact_1	Australia	O

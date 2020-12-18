@@ -1,0 +1,16 @@
+polish_72	Usta	O
+polish_72	Usta	O
+polish_72	is	O
+polish_72	a	O
+polish_72	Polish	polish_geo
+polish_72	comedy	O
+polish_72	drama	O
+polish_72	television	O
+polish_72	series	O
+polish_72	based	O
+polish_72	on	O
+polish_72	the	O
+polish_72	British	O
+polish_72	series	O
+polish_72	Cold	O
+polish_72	Feet	O

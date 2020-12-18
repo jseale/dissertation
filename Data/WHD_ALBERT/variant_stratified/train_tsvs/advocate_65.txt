@@ -1,0 +1,9 @@
+advocate_65	Prasad	O
+advocate_65	was	O
+advocate_65	a	O
+advocate_65	senior	O
+advocate_65	advocate	advocate_nou
+advocate_65	at	O
+advocate_65	Patna	O
+advocate_65	High	O
+advocate_65	Court	O

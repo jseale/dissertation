@@ -1,0 +1,13 @@
+wind_44	These	O
+wind_44	quantities	O
+wind_44	are	O
+wind_44	most	O
+wind_44	often	O
+wind_44	surface	O
+wind_44	variables	O
+wind_44	such	O
+wind_44	as	O
+wind_44	temperature	O
+wind_44	precipitation	O
+wind_44	and	O
+wind_44	wind	wind_nou

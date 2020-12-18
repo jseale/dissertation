@@ -1,0 +1,17 @@
+approximate_27	Many	O
+approximate_27	of	O
+approximate_27	the	O
+approximate_27	tepui	O
+approximate_27	heights	O
+approximate_27	are	O
+approximate_27	approximate	approximate_adj-nou
+approximate_27	and	O
+approximate_27	likely	O
+approximate_27	to	O
+approximate_27	change	O
+approximate_27	as	O
+approximate_27	more	O
+approximate_27	accurate	O
+approximate_27	measurements	O
+approximate_27	become	O
+approximate_27	available	O

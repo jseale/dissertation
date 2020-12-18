@@ -1,0 +1,11 @@
+perfume_18	To	O
+perfume_18	add	O
+perfume_18	it	O
+perfume_18	to	O
+perfume_18	a	O
+perfume_18	perfume	perfume_nou
+perfume_18	was	O
+perfume_18	called	O
+perfume_18	jassing	O
+perfume_18	it	O
+perfume_18	up	O

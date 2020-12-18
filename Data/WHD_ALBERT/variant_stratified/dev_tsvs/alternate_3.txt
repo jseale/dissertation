@@ -1,0 +1,16 @@
+alternate_3	Wang	O
+alternate_3	is	O
+alternate_3	an	O
+alternate_3	alternate	alternate_adj-nou
+alternate_3	member	O
+alternate_3	of	O
+alternate_3	the	O
+alternate_3	18th	O
+alternate_3	Central	O
+alternate_3	Committee	O
+alternate_3	of	O
+alternate_3	the	O
+alternate_3	Communist	O
+alternate_3	Party	O
+alternate_3	of	O
+alternate_3	China	O

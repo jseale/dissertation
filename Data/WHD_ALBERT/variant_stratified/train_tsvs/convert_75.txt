@@ -1,0 +1,16 @@
+convert_75	After	O
+convert_75	this	O
+convert_75	battle	O
+convert_75	the	O
+convert_75	players	O
+convert_75	agreed	O
+convert_75	to	O
+convert_75	convert	convert_vrb
+convert_75	the	O
+convert_75	game	O
+convert_75	to	O
+convert_75	a	O
+convert_75	Diplomacy	O
+convert_75	variant	O
+convert_75	rule	O
+convert_75	base	O

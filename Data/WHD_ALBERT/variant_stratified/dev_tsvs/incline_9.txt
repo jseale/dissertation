@@ -1,0 +1,17 @@
+incline_9	Goathland	O
+incline_9	Incline	incline_nou
+incline_9	Top	O
+incline_9	railway	O
+incline_9	station	O
+incline_9	was	O
+incline_9	a	O
+incline_9	short	O
+incline_9	lived	O
+incline_9	early	O
+incline_9	railway	O
+incline_9	station	O
+incline_9	in	O
+incline_9	Goathland	O
+incline_9	North	O
+incline_9	Yorkshire	O
+incline_9	England	O

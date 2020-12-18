@@ -1,0 +1,12 @@
+progress_43	They	O
+progress_43	are	O
+progress_43	currently	O
+progress_43	in	O
+progress_43	power	O
+progress_43	and	O
+progress_43	stand	O
+progress_43	for	O
+progress_43	stability	O
+progress_43	and	O
+progress_43	economic	O
+progress_43	progress	progress_nou

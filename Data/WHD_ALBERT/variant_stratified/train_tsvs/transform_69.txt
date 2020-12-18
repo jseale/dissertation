@@ -1,0 +1,9 @@
+transform_69	However	O
+transform_69	note	O
+transform_69	that	O
+transform_69	this	O
+transform_69	transform	transform_nou
+transform_69	becomes	O
+transform_69	the	O
+transform_69	original	O
+transform_69	transformas	O

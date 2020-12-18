@@ -1,0 +1,14 @@
+reading_17	The	O
+reading_17	national	O
+reading_17	averages	O
+reading_17	were	O
+reading_17	505	O
+reading_17	for	O
+reading_17	mathematics	O
+reading_17	491	O
+reading_17	for	O
+reading_17	reading	reading_en
+reading_17	and	O
+reading_17	494	O
+reading_17	for	O
+reading_17	writing	O

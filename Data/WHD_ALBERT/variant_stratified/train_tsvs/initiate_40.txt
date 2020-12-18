@@ -1,0 +1,15 @@
+initiate_40	UDP	O
+initiate_40	xylose	O
+initiate_40	is	O
+initiate_40	then	O
+initiate_40	used	O
+initiate_40	to	O
+initiate_40	initiate	initiate_vrb
+initiate_40	glycosaminoglycan	O
+initiate_40	biosynthesis	O
+initiate_40	on	O
+initiate_40	the	O
+initiate_40	core	O
+initiate_40	protein	O
+initiate_40	of	O
+initiate_40	proteoglycans	O

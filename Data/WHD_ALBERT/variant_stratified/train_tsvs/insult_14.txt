@@ -1,0 +1,14 @@
+insult_14	The	O
+insult_14	use	O
+insult_14	of	O
+insult_14	the	O
+insult_14	term	O
+insult_14	boy	O
+insult_14	has	O
+insult_14	not	O
+insult_14	always	O
+insult_14	been	O
+insult_14	used	O
+insult_14	as	O
+insult_14	an	O
+insult_14	insult	insult_nou

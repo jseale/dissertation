@@ -1,0 +1,16 @@
+minute_74	The	O
+minute_74	bladder	O
+minute_74	is	O
+minute_74	often	O
+minute_74	small	O
+minute_74	nondistensible	O
+minute_74	and	O
+minute_74	may	O
+minute_74	be	O
+minute_74	filled	O
+minute_74	with	O
+minute_74	a	O
+minute_74	minute	minute_adj
+minute_74	amount	O
+minute_74	of	O
+minute_74	fluid	O

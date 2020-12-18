@@ -1,0 +1,14 @@
+rerelease_0	The	O
+rerelease_0	Virginian	O
+rerelease_0	was	O
+rerelease_0	released	O
+rerelease_0	on	O
+rerelease_0	9	O
+rerelease_0	November	O
+rerelease_0	1929	O
+rerelease_0	with	O
+rerelease_0	a	O
+rerelease_0	theatrical	O
+rerelease_0	rerelease	rerelease
+rerelease_0	in	O
+rerelease_0	1935	O

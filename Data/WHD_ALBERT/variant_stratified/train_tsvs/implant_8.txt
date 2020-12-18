@@ -1,0 +1,12 @@
+implant_8	The	O
+implant_8	etonogestrel	O
+implant_8	implant	implant_nou
+implant_8	is	O
+implant_8	a	O
+implant_8	type	O
+implant_8	of	O
+implant_8	long	O
+implant_8	acting	O
+implant_8	reversible	O
+implant_8	birth	O
+implant_8	control	O

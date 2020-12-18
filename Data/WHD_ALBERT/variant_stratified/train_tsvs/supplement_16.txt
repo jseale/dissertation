@@ -1,0 +1,16 @@
+supplement_16	The	O
+supplement_16	Tome	O
+supplement_16	and	O
+supplement_16	Blood	O
+supplement_16	supplement	supplement_nou
+supplement_16	introduced	O
+supplement_16	the	O
+supplement_16	stirge	O
+supplement_16	familiar	O
+supplement_16	for	O
+supplement_16	use	O
+supplement_16	as	O
+supplement_16	a	O
+supplement_16	wizard	O
+supplement_16	's	O
+supplement_16	familiar	O

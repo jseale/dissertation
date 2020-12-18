@@ -1,0 +1,16 @@
+sow_14	He	O
+sow_14	also	O
+sow_14	stated	O
+sow_14	that	O
+sow_14	Turkey	O
+sow_14	would	O
+sow_14	not	O
+sow_14	give	O
+sow_14	in	O
+sow_14	to	O
+sow_14	efforts	O
+sow_14	to	O
+sow_14	sow	sow
+sow_14	division	O
+sow_14	in	O
+sow_14	society	O

@@ -1,0 +1,17 @@
+export_27	The	O
+export_27	center	O
+export_27	is	O
+export_27	the	O
+export_27	venue	O
+export_27	of	O
+export_27	an	O
+export_27	important	O
+export_27	import	O
+export_27	export	export_nou
+export_27	fair	O
+export_27	as	O
+export_27	well	O
+export_27	as	O
+export_27	marketing	O
+export_27	and	O
+export_27	conferencing	O

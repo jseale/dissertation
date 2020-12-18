@@ -1,0 +1,10 @@
+reading_36	He	O
+reading_36	enjoyed	O
+reading_36	reading	reading_en
+reading_36	books	O
+reading_36	and	O
+reading_36	playing	O
+reading_36	sports	O
+reading_36	as	O
+reading_36	a	O
+reading_36	kid	O

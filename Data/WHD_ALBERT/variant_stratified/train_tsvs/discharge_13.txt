@@ -1,0 +1,15 @@
+discharge_13	It	O
+discharge_13	is	O
+discharge_13	the	O
+discharge_13	site	O
+discharge_13	of	O
+discharge_13	the	O
+discharge_13	Pearl	O
+discharge_13	River	O
+discharge_13	's	O
+discharge_13	discharge	discharge_nou
+discharge_13	into	O
+discharge_13	the	O
+discharge_13	South	O
+discharge_13	China	O
+discharge_13	Sea	O

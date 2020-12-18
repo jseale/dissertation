@@ -1,0 +1,16 @@
+attribute_38	His	O
+attribute_38	attribute	attribute_nou
+attribute_38	is	O
+attribute_38	the	O
+attribute_38	palm	O
+attribute_38	frond	O
+attribute_38	which	O
+attribute_38	has	O
+attribute_38	been	O
+attribute_38	included	O
+attribute_38	as	O
+attribute_38	a	O
+attribute_38	charge	O
+attribute_38	in	O
+attribute_38	these	O
+attribute_38	arms	O

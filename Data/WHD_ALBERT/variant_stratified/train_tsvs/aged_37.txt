@@ -1,0 +1,8 @@
+aged_37	She	O
+aged_37	died	O
+aged_37	on	O
+aged_37	6	O
+aged_37	April	O
+aged_37	2014	O
+aged_37	aged	aged
+aged_37	91	O

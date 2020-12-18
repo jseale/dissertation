@@ -1,0 +1,14 @@
+transplant_31	The	O
+transplant_31	Declaration	O
+transplant_31	of	O
+transplant_31	Istanbul	O
+transplant_31	distinguishes	O
+transplant_31	between	O
+transplant_31	ethically	O
+transplant_31	problematic	O
+transplant_31	transplant	transplant_nou
+transplant_31	tourism	O
+transplant_31	and	O
+transplant_31	travel	O
+transplant_31	for	O
+transplant_31	transplantation	O

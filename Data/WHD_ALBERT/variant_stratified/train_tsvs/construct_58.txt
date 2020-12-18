@@ -1,0 +1,14 @@
+construct_58	EnergyPATHWAYS	O
+construct_58	is	O
+construct_58	a	O
+construct_58	comprehensive	O
+construct_58	accounting	O
+construct_58	framework	O
+construct_58	used	O
+construct_58	to	O
+construct_58	construct	construct_vrb
+construct_58	economy	O
+construct_58	wide	O
+construct_58	energy	O
+construct_58	infrastructure	O
+construct_58	scenarios	O

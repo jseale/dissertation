@@ -1,0 +1,17 @@
+abuse_25	The	O
+abuse_25	album	O
+abuse_25	's	O
+abuse_25	lyrics	O
+abuse_25	focus	O
+abuse_25	on	O
+abuse_25	subjects	O
+abuse_25	such	O
+abuse_25	as	O
+abuse_25	propaganda	O
+abuse_25	Catholic	O
+abuse_25	sex	O
+abuse_25	abuse	abuse_nou
+abuse_25	cases	O
+abuse_25	terrorism	O
+abuse_25	and	O
+abuse_25	fame	O

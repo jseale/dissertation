@@ -1,0 +1,17 @@
+advocate_29	In	O
+advocate_29	the	O
+advocate_29	years	O
+advocate_29	since	O
+advocate_29	his	O
+advocate_29	diagnosis	O
+advocate_29	was	O
+advocate_29	made	O
+advocate_29	public	O
+advocate_29	Louganis	O
+advocate_29	has	O
+advocate_29	been	O
+advocate_29	an	O
+advocate_29	outspoken	O
+advocate_29	HIV	O
+advocate_29	awareness	O
+advocate_29	advocate	advocate_nou

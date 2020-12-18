@@ -1,0 +1,17 @@
+transport_71	ASP	O
+transport_71	is	O
+transport_71	also	O
+transport_71	known	O
+transport_71	for	O
+transport_71	its	O
+transport_71	augmentation	O
+transport_71	of	O
+transport_71	glucose	O
+transport_71	transport	transport_nou
+transport_71	and	O
+transport_71	inhibiting	O
+transport_71	action	O
+transport_71	on	O
+transport_71	hormone	O
+transport_71	sensitive	O
+transport_71	lipase	O

@@ -1,0 +1,12 @@
+diagnoses_67	Doctor	O
+diagnoses_67	John	O
+diagnoses_67	Seward	O
+diagnoses_67	diagnoses	diagnoses_vrb
+diagnoses_67	him	O
+diagnoses_67	as	O
+diagnoses_67	a	O
+diagnoses_67	zoophagous	O
+diagnoses_67	maniac	O
+diagnoses_67	or	O
+diagnoses_67	carnivorous	O
+diagnoses_67	madman	O

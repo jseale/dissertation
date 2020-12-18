@@ -1,0 +1,17 @@
+lead_72	Detroit	O
+lead_72	scored	O
+lead_72	five	O
+lead_72	runs	O
+lead_72	in	O
+lead_72	the	O
+lead_72	ninth	O
+lead_72	inning	O
+lead_72	to	O
+lead_72	take	O
+lead_72	a	O
+lead_72	7	O
+lead_72	to	O
+lead_72	5	O
+lead_72	lead	lead_nou-vrb
+lead_72	over	O
+lead_72	Chicago	O

@@ -1,0 +1,12 @@
+wind_46	The	O
+wind_46	prevailing	O
+wind_46	wind	wind_nou
+wind_46	flow	O
+wind_46	is	O
+wind_46	generally	O
+wind_46	southwesterly	O
+wind_46	and	O
+wind_46	light	O
+wind_46	below	O
+wind_46	15	O
+wind_46	knots	O

@@ -1,0 +1,14 @@
+construct_29	This	O
+construct_29	was	O
+construct_29	achieved	O
+construct_29	via	O
+construct_29	4-D	O
+construct_29	scheduling	O
+construct_29	software	O
+construct_29	that	O
+construct_29	told	O
+construct_29	builders	O
+construct_29	how	O
+construct_29	to	O
+construct_29	construct	construct_vrb
+construct_29	it	O

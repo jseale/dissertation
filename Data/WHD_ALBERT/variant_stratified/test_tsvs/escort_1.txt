@@ -1,0 +1,14 @@
+escort_1	She	O
+escort_1	joined	O
+escort_1	the	O
+escort_1	Western	O
+escort_1	Local	O
+escort_1	Escort	escort_nou
+escort_1	Force	O
+escort_1	WLEF	O
+escort_1	in	O
+escort_1	late	O
+escort_1	June	O
+escort_1	1942	O
+escort_1	after	O
+escort_1	workups	O

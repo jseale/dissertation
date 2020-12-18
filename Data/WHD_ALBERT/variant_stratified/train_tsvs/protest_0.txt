@@ -1,0 +1,16 @@
+protest_0	These	O
+protest_0	annual	O
+protest_0	events	O
+protest_0	have	O
+protest_0	been	O
+protest_0	the	O
+protest_0	focus	O
+protest_0	of	O
+protest_0	much	O
+protest_0	protest	protest_nou
+protest_0	organized	O
+protest_0	by	O
+protest_0	groups	O
+protest_0	around	O
+protest_0	the	O
+protest_0	country	O

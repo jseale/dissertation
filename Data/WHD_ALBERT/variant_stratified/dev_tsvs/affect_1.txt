@@ -1,0 +1,12 @@
+affect_1	Nutrient	O
+affect_1	deficiencies	O
+affect_1	in	O
+affect_1	these	O
+affect_1	areas	O
+affect_1	can	O
+affect_1	adversely	O
+affect_1	affect	affect
+affect_1	plant	O
+affect_1	growth	O
+affect_1	and	O
+affect_1	development	O

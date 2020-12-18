@@ -1,0 +1,8 @@
+present_78	We	O
+present_78	present	present_vrb
+present_78	an	O
+present_78	attempt	O
+present_78	at	O
+present_78	such	O
+present_78	a	O
+present_78	model	O

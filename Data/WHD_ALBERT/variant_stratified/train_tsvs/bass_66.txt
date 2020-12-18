@@ -1,0 +1,17 @@
+bass_66	Lipp	O
+bass_66	wrote	O
+bass_66	that	O
+bass_66	this	O
+bass_66	track	O
+bass_66	did	O
+bass_66	an	O
+bass_66	excellent	O
+bass_66	job	O
+bass_66	of	O
+bass_66	showcasing	O
+bass_66	Abrams	O
+bass_66	skills	O
+bass_66	on	O
+bass_66	the	O
+bass_66	double	O
+bass_66	bass	bass

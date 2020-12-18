@@ -1,0 +1,14 @@
+invite_39	Perperna	O
+invite_39	then	O
+invite_39	proceeded	O
+invite_39	to	O
+invite_39	invite	invite_vrb
+invite_39	Sertorius	O
+invite_39	to	O
+invite_39	a	O
+invite_39	feast	O
+invite_39	to	O
+invite_39	celebrate	O
+invite_39	a	O
+invite_39	supposed	O
+invite_39	victory	O

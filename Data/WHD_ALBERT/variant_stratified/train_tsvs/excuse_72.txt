@@ -1,0 +1,12 @@
+excuse_72	To	O
+excuse_72	rule	O
+excuse_72	out	O
+excuse_72	this	O
+excuse_72	assumption	O
+excuse_72	experimenters	O
+excuse_72	were	O
+excuse_72	instructed	O
+excuse_72	to	O
+excuse_72	ask	O
+excuse_72	Excuse	excuse_vrb
+excuse_72	me	O

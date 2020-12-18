@@ -1,0 +1,10 @@
+delegate_5	He	O
+delegate_5	was	O
+delegate_5	a	O
+delegate_5	delegate	delegate_nou
+delegate_5	to	O
+delegate_5	the	O
+delegate_5	1936	O
+delegate_5	Republican	O
+delegate_5	National	O
+delegate_5	Convention	O

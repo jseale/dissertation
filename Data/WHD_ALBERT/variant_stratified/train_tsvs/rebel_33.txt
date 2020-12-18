@@ -1,0 +1,10 @@
+rebel_33	He	O
+rebel_33	represents	O
+rebel_33	one	O
+rebel_33	of	O
+rebel_33	the	O
+rebel_33	2	O
+rebel_33	major	O
+rebel_33	former	O
+rebel_33	rebel	rebel_nou
+rebel_33	groups	O

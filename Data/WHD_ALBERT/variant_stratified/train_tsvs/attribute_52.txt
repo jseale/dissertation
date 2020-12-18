@@ -1,0 +1,13 @@
+attribute_52	Some	O
+attribute_52	accounts	O
+attribute_52	attribute	attribute_vrb
+attribute_52	his	O
+attribute_52	death	O
+attribute_52	to	O
+attribute_52	poison	O
+attribute_52	but	O
+attribute_52	he	O
+attribute_52	probably	O
+attribute_52	succumbed	O
+attribute_52	to	O
+attribute_52	pneumonia	O

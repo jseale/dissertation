@@ -1,0 +1,13 @@
+estimate_49	As	O
+estimate_49	of	O
+estimate_49	1992	O
+estimate_49	the	O
+estimate_49	proposed	O
+estimate_49	cost	O
+estimate_49	estimate	estimate_nou
+estimate_49	for	O
+estimate_49	Townview	O
+estimate_49	was	O
+estimate_49	$	O
+estimate_49	30	O
+estimate_49	million	O

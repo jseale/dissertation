@@ -1,0 +1,14 @@
+attribute_54	Rajputs	O
+attribute_54	attribute	attribute_vrb
+attribute_54	a	O
+attribute_54	sword	O
+attribute_54	and	O
+attribute_54	shield	O
+attribute_54	as	O
+attribute_54	symbol	O
+attribute_54	of	O
+attribute_54	Rajput	O
+attribute_54	chivalry	O
+attribute_54	in	O
+attribute_54	every	O
+attribute_54	darshan	O

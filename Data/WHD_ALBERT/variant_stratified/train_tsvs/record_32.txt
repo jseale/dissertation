@@ -1,0 +1,13 @@
+record_32	Each	O
+record_32	record	record_nou
+record_32	of	O
+record_32	a	O
+record_32	linked	O
+record_32	list	O
+record_32	is	O
+record_32	often	O
+record_32	called	O
+record_32	an	O
+record_32	element	O
+record_32	or	O
+record_32	node	O

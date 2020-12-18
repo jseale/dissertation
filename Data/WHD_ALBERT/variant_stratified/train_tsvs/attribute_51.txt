@@ -1,0 +1,13 @@
+attribute_51	People	O
+attribute_51	will	O
+attribute_51	attribute	attribute_vrb
+attribute_51	responsibility	O
+attribute_51	for	O
+attribute_51	the	O
+attribute_51	event	O
+attribute_51	and	O
+attribute_51	react	O
+attribute_51	emotionally	O
+attribute_51	to	O
+attribute_51	that	O
+attribute_51	event	O

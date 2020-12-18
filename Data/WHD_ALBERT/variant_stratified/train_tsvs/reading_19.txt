@@ -1,0 +1,14 @@
+reading_19	Dan	O
+reading_19	is	O
+reading_19	reading	reading_en
+reading_19	a	O
+reading_19	Gossip	O
+reading_19	Girl	O
+reading_19	post	O
+reading_19	about	O
+reading_19	how	O
+reading_19	his	O
+reading_19	book	O
+reading_19	Inside	O
+reading_19	is	O
+reading_19	failing	O

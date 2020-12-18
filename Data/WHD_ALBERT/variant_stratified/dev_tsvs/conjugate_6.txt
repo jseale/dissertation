@@ -1,0 +1,11 @@
+conjugate_6	They	O
+conjugate_6	are	O
+conjugate_6	the	O
+conjugate_6	conjugate	conjugate_adj-nou
+conjugate_6	bases	O
+conjugate_6	of	O
+conjugate_6	sulfonic	O
+conjugate_6	acids	O
+conjugate_6	with	O
+conjugate_6	formula	O
+conjugate_6	RSO₂OH	O

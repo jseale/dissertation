@@ -1,0 +1,14 @@
+discount_65	This	O
+discount_65	fueled	O
+discount_65	anger	O
+discount_65	and	O
+discount_65	discount	discount_nou
+discount_65	and	O
+discount_65	eventually	O
+discount_65	helped	O
+discount_65	trigger	O
+discount_65	the	O
+discount_65	Dakota	O
+discount_65	War	O
+discount_65	of	O
+discount_65	1862	O

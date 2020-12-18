@@ -1,0 +1,15 @@
+combine_6	Hesston	O
+combine_6	is	O
+combine_6	the	O
+combine_6	home	O
+combine_6	to	O
+combine_6	AGCO	O
+combine_6	Corporation	O
+combine_6	's	O
+combine_6	large	O
+combine_6	swather	O
+combine_6	and	O
+combine_6	combine	combine_nou
+combine_6	harvester	O
+combine_6	manufacturing	O
+combine_6	plants	O

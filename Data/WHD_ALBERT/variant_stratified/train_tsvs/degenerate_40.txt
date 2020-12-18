@@ -1,0 +1,16 @@
+degenerate_40	With	O
+degenerate_40	the	O
+degenerate_40	looted	O
+degenerate_40	degenerate	degenerate_adj-nou
+degenerate_40	art	O
+degenerate_40	sold	O
+degenerate_40	onwards	O
+degenerate_40	via	O
+degenerate_40	Switzerland	O
+degenerate_40	Rosenberg	O
+degenerate_40	's	O
+degenerate_40	collection	O
+degenerate_40	was	O
+degenerate_40	scattered	O
+degenerate_40	across	O
+degenerate_40	Europe	O

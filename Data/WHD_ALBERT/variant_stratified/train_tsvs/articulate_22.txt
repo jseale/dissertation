@@ -1,0 +1,16 @@
+articulate_22	The	O
+articulate_22	first	O
+articulate_22	semester	O
+articulate_22	curriculum	O
+articulate_22	is	O
+articulate_22	articulate	articulate_adj
+articulate_22	and	O
+articulate_22	provides	O
+articulate_22	an	O
+articulate_22	understanding	O
+articulate_22	of	O
+articulate_22	the	O
+articulate_22	major	O
+articulate_22	management	O
+articulate_22	sciences	O
+articulate_22	subjects	O

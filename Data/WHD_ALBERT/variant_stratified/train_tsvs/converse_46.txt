@@ -1,0 +1,9 @@
+converse_46	Epstein	O
+converse_46	F	O
+converse_46	Ransohoff	O
+converse_46	J	O
+converse_46	Wood	O
+converse_46	Smith	O
+converse_46	D	O
+converse_46	Converse	converse_adj-nou
+converse_46	JM	O

@@ -1,0 +1,11 @@
+permit_16	In	O
+permit_16	the	O
+permit_16	U.S.	O
+permit_16	a	O
+permit_16	construction	O
+permit_16	permit	permit_nou
+permit_16	is	O
+permit_16	valid	O
+permit_16	for	O
+permit_16	three	O
+permit_16	years	O

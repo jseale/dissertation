@@ -1,0 +1,15 @@
+defect_41	The	O
+defect_41	difference	O
+defect_41	in	O
+defect_41	mass	O
+defect_41	between	O
+defect_41	bound	O
+defect_41	and	O
+defect_41	unbound	O
+defect_41	nucleons	O
+defect_41	is	O
+defect_41	known	O
+defect_41	as	O
+defect_41	the	O
+defect_41	mass	O
+defect_41	defect	defect_nou

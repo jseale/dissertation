@@ -1,0 +1,10 @@
+winds_0	Freak	O
+winds_0	winds	winds_nou
+winds_0	may	O
+winds_0	have	O
+winds_0	led	O
+winds_0	to	O
+winds_0	fatal	O
+winds_0	brick	O
+winds_0	wall	O
+winds_0	collapse	O

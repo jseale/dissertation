@@ -1,0 +1,14 @@
+invite_6	To	O
+invite_6	pique	O
+invite_6	my	O
+invite_6	interest	O
+invite_6	I	O
+invite_6	suggested	O
+invite_6	his	O
+invite_6	friend	O
+invite_6	invite	invite_vrb
+invite_6	a	O
+invite_6	girlfriend	O
+invite_6	to	O
+invite_6	join	O
+invite_6	her	O

@@ -1,0 +1,15 @@
+extract_60	There	O
+extract_60	were	O
+extract_60	two	O
+extract_60	instructions	O
+extract_60	to	O
+extract_60	extract	extract_vrb
+extract_60	and	O
+extract_60	insert	O
+extract_60	bit	O
+extract_60	fields	O
+extract_60	of	O
+extract_60	arbitrary	O
+extract_60	lengths	O
+extract_60	EXT	O
+extract_60	INS	O

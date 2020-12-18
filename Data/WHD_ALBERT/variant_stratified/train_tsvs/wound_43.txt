@@ -1,0 +1,14 @@
+wound_43	An	O
+wound_43	autopsy	O
+wound_43	later	O
+wound_43	revealed	O
+wound_43	that	O
+wound_43	she	O
+wound_43	died	O
+wound_43	from	O
+wound_43	a	O
+wound_43	gunshot	O
+wound_43	wound	wound_nou-vrb
+wound_43	of	O
+wound_43	the	O
+wound_43	chest	O

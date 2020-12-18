@@ -1,0 +1,16 @@
+produce_21	Frequently	O
+produce_21	bricklayers	O
+produce_21	laid	O
+produce_21	the	O
+produce_21	bricks	O
+produce_21	in	O
+produce_21	such	O
+produce_21	a	O
+produce_21	way	O
+produce_21	as	O
+produce_21	to	O
+produce_21	produce	produce_vrb
+produce_21	dentils	O
+produce_21	in	O
+produce_21	the	O
+produce_21	courses	O

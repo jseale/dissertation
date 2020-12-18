@@ -1,0 +1,15 @@
+tear_61	Using	O
+tear_61	them	O
+tear_61	would	O
+tear_61	also	O
+tear_61	prevent	O
+tear_61	wear	O
+tear_61	and	O
+tear_61	tear	tear_vrb
+tear_61	on	O
+tear_61	the	O
+tear_61	heads	O
+tear_61	of	O
+tear_61	the	O
+tear_61	VHS	O
+tear_61	itself	O

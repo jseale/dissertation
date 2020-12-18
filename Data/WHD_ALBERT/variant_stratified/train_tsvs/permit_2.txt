@@ -1,0 +1,17 @@
+permit_2	Fishing	O
+permit_2	on	O
+permit_2	the	O
+permit_2	River	O
+permit_2	Derwent	O
+permit_2	which	O
+permit_2	runs	O
+permit_2	through	O
+permit_2	the	O
+permit_2	park	O
+permit_2	is	O
+permit_2	priced	O
+permit_2	at	O
+permit_2	£	O
+permit_2	2.50	O
+permit_2	per	O
+permit_2	permit	permit_nou

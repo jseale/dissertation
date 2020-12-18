@@ -1,0 +1,14 @@
+coordinate_20	The	O
+coordinate_20	penta	O
+coordinate_20	coordinate	coordinate_adj-nou
+coordinate_20	silicate	O
+coordinate_20	intermediate	O
+coordinate_20	3	O
+coordinate_20	is	O
+coordinate_20	postulated	O
+coordinate_20	but	O
+coordinate_20	no	O
+coordinate_20	proof	O
+coordinate_20	exists	O
+coordinate_20	to	O
+coordinate_20	date	O

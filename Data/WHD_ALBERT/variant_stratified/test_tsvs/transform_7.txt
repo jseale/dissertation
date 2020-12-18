@@ -1,0 +1,7 @@
+transform_7	The	O
+transform_7	loop	O
+transform_7	transform	transform_nou
+transform_7	defines	O
+transform_7	the	O
+transform_7	loop	O
+transform_7	representation	O

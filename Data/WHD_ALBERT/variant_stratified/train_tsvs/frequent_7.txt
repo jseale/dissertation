@@ -1,0 +1,11 @@
+frequent_7	His	O
+frequent_7	singing	O
+frequent_7	style	O
+frequent_7	is	O
+frequent_7	characterized	O
+frequent_7	by	O
+frequent_7	frequent	frequent_adj
+frequent_7	use	O
+frequent_7	of	O
+frequent_7	vocal	O
+frequent_7	ornamentation	O

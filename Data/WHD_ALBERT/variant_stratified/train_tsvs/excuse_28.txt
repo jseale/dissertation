@@ -1,0 +1,15 @@
+excuse_28	Before	O
+excuse_28	forming	O
+excuse_28	Sleater	O
+excuse_28	Kinney	O
+excuse_28	Tucker	O
+excuse_28	played	O
+excuse_28	in	O
+excuse_28	Heartless	O
+excuse_28	Martin	O
+excuse_28	with	O
+excuse_28	Becca	O
+excuse_28	Albee	O
+excuse_28	of	O
+excuse_28	Excuse	excuse_nou
+excuse_28	17	O

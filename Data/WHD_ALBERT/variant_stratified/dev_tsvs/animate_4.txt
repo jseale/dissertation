@@ -1,0 +1,16 @@
+animate_4	Many	O
+animate_4	floats	O
+animate_4	along	O
+animate_4	with	O
+animate_4	their	O
+animate_4	drive	O
+animate_4	train	O
+animate_4	include	O
+animate_4	computer	O
+animate_4	controlled	O
+animate_4	robotic	O
+animate_4	mechanisms	O
+animate_4	to	O
+animate_4	animate	animate_vrb
+animate_4	the	O
+animate_4	floats	O

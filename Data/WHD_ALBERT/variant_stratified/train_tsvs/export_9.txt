@@ -1,0 +1,17 @@
+export_9	The	O
+export_9	Great	O
+export_9	Depression	O
+export_9	in	O
+export_9	Australia	O
+export_9	saw	O
+export_9	huge	O
+export_9	levels	O
+export_9	of	O
+export_9	unemployment	O
+export_9	and	O
+export_9	economic	O
+export_9	suffering	O
+export_9	amid	O
+export_9	plummeting	O
+export_9	export	export_nou
+export_9	income	O

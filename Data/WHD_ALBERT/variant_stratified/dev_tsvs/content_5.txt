@@ -1,0 +1,16 @@
+content_5	This	O
+content_5	process	O
+content_5	called	O
+content_5	coalification	O
+content_5	concentrates	O
+content_5	the	O
+content_5	carbon	O
+content_5	content	content_nou
+content_5	and	O
+content_5	thus	O
+content_5	the	O
+content_5	heat	O
+content_5	content	content_nou
+content_5	of	O
+content_5	the	O
+content_5	material	O

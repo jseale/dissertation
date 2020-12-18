@@ -1,0 +1,8 @@
+compound_7	This	O
+compound_7	red	O
+compound_7	colored	O
+compound_7	compound	compound_nou
+compound_7	is	O
+compound_7	commonly	O
+compound_7	abbreviated	O
+compound_7	bda)Fe(CO)₃.	O

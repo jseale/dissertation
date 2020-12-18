@@ -1,0 +1,16 @@
+perfume_20	She	O
+perfume_20	giggles	O
+perfume_20	while	O
+perfume_20	reading	O
+perfume_20	it	O
+perfume_20	then	O
+perfume_20	disappears	O
+perfume_20	and	O
+perfume_20	returns	O
+perfume_20	with	O
+perfume_20	another	O
+perfume_20	letter	O
+perfume_20	with	O
+perfume_20	perfume	perfume_nou
+perfume_20	on	O
+perfume_20	it	O

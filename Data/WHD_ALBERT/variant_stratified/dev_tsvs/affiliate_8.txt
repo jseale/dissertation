@@ -1,0 +1,11 @@
+affiliate_8	Tatto	O
+affiliate_8	Media	O
+affiliate_8	is	O
+affiliate_8	an	O
+affiliate_8	affiliate	affiliate_nou
+affiliate_8	marketing	O
+affiliate_8	advertising	O
+affiliate_8	network	O
+affiliate_8	based	O
+affiliate_8	in	O
+affiliate_8	Boston	O

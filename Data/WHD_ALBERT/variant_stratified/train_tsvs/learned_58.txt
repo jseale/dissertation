@@ -1,0 +1,13 @@
+learned_58	We	O
+learned_58	learned	learned_vrb
+learned_58	that	O
+learned_58	our	O
+learned_58	minds	O
+learned_58	and	O
+learned_58	bodies	O
+learned_58	never	O
+learned_58	stopped	O
+learned_58	adjusting	O
+learned_58	to	O
+learned_58	the	O
+learned_58	situation	O

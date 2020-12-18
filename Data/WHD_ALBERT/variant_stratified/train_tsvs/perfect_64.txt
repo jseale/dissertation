@@ -1,0 +1,17 @@
+perfect_64	At	O
+perfect_64	the	O
+perfect_64	Games	O
+perfect_64	on	O
+perfect_64	August	O
+perfect_64	14	O
+perfect_64	Watley	O
+perfect_64	went	O
+perfect_64	a	O
+perfect_64	perfect	perfect_adj
+perfect_64	4/4	O
+perfect_64	with	O
+perfect_64	a	O
+perfect_64	double	O
+perfect_64	and	O
+perfect_64	triple	O
+perfect_64	vs.	O

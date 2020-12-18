@@ -1,0 +1,17 @@
+read_44	He	O
+read_44	read	read_past
+read_44	works	O
+read_44	by	O
+read_44	Condillac	O
+read_44	Voltaire	O
+read_44	Rousseau	O
+read_44	Montesquieu	O
+read_44	and	O
+read_44	Bézout	O
+read_44	among	O
+read_44	others	O
+read_44	during	O
+read_44	his	O
+read_44	séjour	O
+read_44	in	O
+read_44	France	O

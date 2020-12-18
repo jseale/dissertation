@@ -1,0 +1,10 @@
+decrease_46	It	O
+decrease_46	was	O
+decrease_46	hoped	O
+decrease_46	that	O
+decrease_46	this	O
+decrease_46	feature	O
+decrease_46	would	O
+decrease_46	significantly	O
+decrease_46	decrease	decrease_vrb
+decrease_46	drag	O

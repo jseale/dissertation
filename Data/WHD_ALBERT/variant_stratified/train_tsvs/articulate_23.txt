@@ -1,0 +1,11 @@
+articulate_23	Frank	O
+articulate_23	Keating	O
+articulate_23	wrote	O
+articulate_23	of	O
+articulate_23	his	O
+articulate_23	articulate	articulate_adj
+articulate_23	leisurely	O
+articulate_23	confiding	O
+articulate_23	countryman	O
+articulate_23	's	O
+articulate_23	burr	O

@@ -1,0 +1,16 @@
+initiate_1	The	O
+initiate_1	International	O
+initiate_1	Genomics	O
+initiate_1	Consortium	O
+initiate_1	was	O
+initiate_1	awarded	O
+initiate_1	the	O
+initiate_1	contract	O
+initiate_1	to	O
+initiate_1	initiate	initiate_vrb
+initiate_1	the	O
+initiate_1	BCR	O
+initiate_1	for	O
+initiate_1	the	O
+initiate_1	pilot	O
+initiate_1	project	O

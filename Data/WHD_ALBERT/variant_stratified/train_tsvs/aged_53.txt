@@ -1,0 +1,14 @@
+aged_53	His	O
+aged_53	wife	O
+aged_53	died	O
+aged_53	in	O
+aged_53	1897	O
+aged_53	and	O
+aged_53	Holmes	O
+aged_53	died	O
+aged_53	on	O
+aged_53	27	O
+aged_53	September	O
+aged_53	1901	O
+aged_53	aged	aged
+aged_53	84	O

@@ -1,0 +1,13 @@
+reject_47	The	O
+reject_47	Sekekers	O
+reject_47	mutilate	O
+reject_47	themselves	O
+reject_47	through	O
+reject_47	infibulation	O
+reject_47	and	O
+reject_47	breast	O
+reject_47	ablation	O
+reject_47	to	O
+reject_47	reject	reject_vrb
+reject_47	their	O
+reject_47	femininity	O

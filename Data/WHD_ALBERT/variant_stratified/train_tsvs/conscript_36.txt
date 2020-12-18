@@ -1,0 +1,12 @@
+conscript_36	He	O
+conscript_36	was	O
+conscript_36	also	O
+conscript_36	a	O
+conscript_36	board	O
+conscript_36	member	O
+conscript_36	of	O
+conscript_36	the	O
+conscript_36	Norwegian	O
+conscript_36	Conscript	conscript_nou
+conscript_36	Officers	O
+conscript_36	Federation	O

@@ -1,0 +1,11 @@
+affect_14	The	O
+affect_14	large	O
+affect_14	forest	O
+affect_14	reserves	O
+affect_14	favourably	O
+affect_14	affect	affect
+affect_14	the	O
+affect_14	climate	O
+affect_14	and	O
+affect_14	induce	O
+affect_14	rains	O

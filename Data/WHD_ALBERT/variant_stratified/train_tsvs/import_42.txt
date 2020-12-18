@@ -1,0 +1,15 @@
+import_42	Korea	O
+import_42	Ferrous	O
+import_42	Metals	O
+import_42	Export	O
+import_42	Import	import_nou
+import_42	Corporation	O
+import_42	is	O
+import_42	a	O
+import_42	steel	O
+import_42	company	O
+import_42	based	O
+import_42	in	O
+import_42	Pyongyang	O
+import_42	North	O
+import_42	Korea	O

@@ -1,0 +1,12 @@
+invalid_2	If	O
+invalid_2	the	O
+invalid_2	lexer	O
+invalid_2	finds	O
+invalid_2	an	O
+invalid_2	invalid	invalid_adj
+invalid_2	token	O
+invalid_2	it	O
+invalid_2	will	O
+invalid_2	report	O
+invalid_2	an	O
+invalid_2	error	O

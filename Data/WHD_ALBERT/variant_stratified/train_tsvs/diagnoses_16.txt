@@ -1,0 +1,12 @@
+diagnoses_16	The	O
+diagnoses_16	DSM-5	O
+diagnoses_16	diagnoses	diagnoses_nou
+diagnoses_16	for	O
+diagnoses_16	communication	O
+diagnoses_16	disorders	O
+diagnoses_16	completely	O
+diagnoses_16	rework	O
+diagnoses_16	the	O
+diagnoses_16	ones	O
+diagnoses_16	stated	O
+diagnoses_16	above	O

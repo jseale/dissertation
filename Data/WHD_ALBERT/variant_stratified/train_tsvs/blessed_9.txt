@@ -1,0 +1,12 @@
+blessed_9	On	O
+blessed_9	his	O
+blessed_9	left	O
+blessed_9	the	O
+blessed_9	Blessed	blessed_adj
+blessed_9	Virgin	O
+blessed_9	Mary	O
+blessed_9	and	O
+blessed_9	Saint	O
+blessed_9	Augustine	O
+blessed_9	were	O
+blessed_9	painted	O

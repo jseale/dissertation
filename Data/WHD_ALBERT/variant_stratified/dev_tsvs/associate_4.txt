@@ -1,0 +1,12 @@
+associate_4	He	O
+associate_4	is	O
+associate_4	an	O
+associate_4	associate	associate_adj-nou
+associate_4	of	O
+associate_4	the	O
+associate_4	Quello	O
+associate_4	Center	O
+associate_4	at	O
+associate_4	Michigan	O
+associate_4	State	O
+associate_4	University	O

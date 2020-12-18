@@ -1,0 +1,13 @@
+compress_69	Emission	O
+compress_69	of	O
+compress_69	radiation	O
+compress_69	from	O
+compress_69	the	O
+compress_69	atomic	O
+compress_69	bomb	O
+compress_69	used	O
+compress_69	to	O
+compress_69	compress	compress
+compress_69	the	O
+compress_69	main	O
+compress_69	body	O

@@ -1,0 +1,14 @@
+estimate_3	According	O
+estimate_3	to	O
+estimate_3	one	O
+estimate_3	estimate	estimate_nou
+estimate_3	more	O
+estimate_3	than	O
+estimate_3	100	O
+estimate_3	Poles	O
+estimate_3	made	O
+estimate_3	the	O
+estimate_3	pilgrimage	O
+estimate_3	during	O
+estimate_3	that	O
+estimate_3	era	O

@@ -1,0 +1,15 @@
+wound_25	Susan	O
+wound_25	removes	O
+wound_25	her	O
+wound_25	weight	O
+wound_25	belt	O
+wound_25	and	O
+wound_25	uses	O
+wound_25	it	O
+wound_25	to	O
+wound_25	apply	O
+wound_25	pressure	O
+wound_25	to	O
+wound_25	Daniel	O
+wound_25	's	O
+wound_25	wound	wound_nou-vrb

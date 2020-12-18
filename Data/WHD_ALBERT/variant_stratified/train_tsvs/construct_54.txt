@@ -1,0 +1,15 @@
+construct_54	Native	O
+construct_54	Pewee	O
+construct_54	Valley	O
+construct_54	limestone	O
+construct_54	was	O
+construct_54	used	O
+construct_54	to	O
+construct_54	construct	construct_vrb
+construct_54	the	O
+construct_54	building	O
+construct_54	in	O
+construct_54	a	O
+construct_54	Gothic	O
+construct_54	Revival	O
+construct_54	style	O

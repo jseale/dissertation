@@ -1,0 +1,13 @@
+conflict_68	Conflict	conflict_nou
+conflict_68	had	O
+conflict_68	arisen	O
+conflict_68	between	O
+conflict_68	defensive	O
+conflict_68	coordinator	O
+conflict_68	Buddy	O
+conflict_68	Ryan	O
+conflict_68	and	O
+conflict_68	offensive	O
+conflict_68	coordinator	O
+conflict_68	Kevin	O
+conflict_68	Gilbride	O

@@ -1,0 +1,11 @@
+deliberate_6	Then	O
+deliberate_6	Ross	O
+deliberate_6	made	O
+deliberate_6	a	O
+deliberate_6	defamatory	O
+deliberate_6	campaign	O
+deliberate_6	accusing	O
+deliberate_6	Grassi	O
+deliberate_6	of	O
+deliberate_6	deliberate	deliberate_adj
+deliberate_6	fraud	O

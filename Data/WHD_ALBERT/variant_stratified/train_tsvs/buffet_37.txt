@@ -1,0 +1,15 @@
+buffet_37	Some	O
+buffet_37	restaurants	O
+buffet_37	also	O
+buffet_37	offer	O
+buffet_37	buffets	O
+buffet_37	such	O
+buffet_37	as	O
+buffet_37	a	O
+buffet_37	lunch	O
+buffet_37	buffet	buffet_nou
+buffet_37	or	O
+buffet_37	are	O
+buffet_37	specifically	O
+buffet_37	buffet	buffet_nou
+buffet_37	restaurants	O

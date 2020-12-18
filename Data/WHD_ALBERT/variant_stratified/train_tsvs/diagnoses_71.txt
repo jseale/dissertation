@@ -1,0 +1,17 @@
+diagnoses_71	She	O
+diagnoses_71	goes	O
+diagnoses_71	to	O
+diagnoses_71	see	O
+diagnoses_71	Dr.	O
+diagnoses_71	Young	O
+diagnoses_71	who	O
+diagnoses_71	diagnoses	diagnoses_vrb
+diagnoses_71	functional	O
+diagnoses_71	euphonia	O
+diagnoses_71	a	O
+diagnoses_71	speaking	O
+diagnoses_71	disorder	O
+diagnoses_71	caused	O
+diagnoses_71	by	O
+diagnoses_71	shocking	O
+diagnoses_71	news	O

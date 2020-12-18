@@ -1,0 +1,7 @@
+postulate_29	Such	O
+postulate_29	a	O
+postulate_29	hypothesis	O
+postulate_29	was	O
+postulate_29	termed	O
+postulate_29	a	O
+postulate_29	postulate	postulate_nou

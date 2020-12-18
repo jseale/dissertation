@@ -1,0 +1,14 @@
+polish_50	An	O
+polish_50	Exclusive	O
+polish_50	novella	O
+polish_50	was	O
+polish_50	adapted	O
+polish_50	and	O
+polish_50	directed	O
+polish_50	by	O
+polish_50	the	O
+polish_50	young	O
+polish_50	Polish	polish_geo
+polish_50	director	O
+polish_50	Krzysztof	O
+polish_50	Szot	O

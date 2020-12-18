@@ -1,0 +1,17 @@
+alternate_56	The	O
+alternate_56	second	O
+alternate_56	alternate	alternate_adj-nou
+alternate_56	was	O
+alternate_56	Sloane	O
+alternate_56	Stephens	O
+alternate_56	who	O
+alternate_56	failed	O
+alternate_56	to	O
+alternate_56	reach	O
+alternate_56	a	O
+alternate_56	final	O
+alternate_56	but	O
+alternate_56	went	O
+alternate_56	deep	O
+alternate_56	in	O
+alternate_56	Slams	O

@@ -1,0 +1,14 @@
+recount_55	The	O
+recount_55	Florida	O
+recount_55	recount	recount_nou
+recount_55	was	O
+recount_55	stopped	O
+recount_55	a	O
+recount_55	few	O
+recount_55	weeks	O
+recount_55	later	O
+recount_55	by	O
+recount_55	the	O
+recount_55	U.S.	O
+recount_55	Supreme	O
+recount_55	Court	O

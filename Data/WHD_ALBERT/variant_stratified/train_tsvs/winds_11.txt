@@ -1,0 +1,13 @@
+winds_11	The	O
+winds_11	winds	winds_nou
+winds_11	were	O
+winds_11	fierce	O
+winds_11	on	O
+winds_11	30	O
+winds_11	July	O
+winds_11	and	O
+winds_11	overnight	O
+winds_11	giving	O
+winds_11	both	O
+winds_11	fleets	O
+winds_11	pause	O

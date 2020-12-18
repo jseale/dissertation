@@ -1,0 +1,11 @@
+record_72	They	O
+record_72	record	record_vrb
+record_72	annually	O
+record_72	at	O
+record_72	Mitch	O
+record_72	Easter	O
+record_72	's	O
+record_72	Fidelitorium	O
+record_72	in	O
+record_72	North	O
+record_72	Carolina	O

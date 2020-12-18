@@ -1,0 +1,14 @@
+export_73	He	O
+export_73	restored	O
+export_73	the	O
+export_73	freedom	O
+export_73	to	O
+export_73	export	export_vrb
+export_73	agricultural	O
+export_73	products	O
+export_73	while	O
+export_73	restricting	O
+export_73	imports	O
+export_73	of	O
+export_73	dairy	O
+export_73	products	O

@@ -1,0 +1,17 @@
+syndicate_5	In	O
+syndicate_5	1919	O
+syndicate_5	the	O
+syndicate_5	Mauritius	O
+syndicate_5	Sugar	O
+syndicate_5	Syndicate	syndicate_nou
+syndicate_5	came	O
+syndicate_5	into	O
+syndicate_5	being	O
+syndicate_5	and	O
+syndicate_5	it	O
+syndicate_5	included	O
+syndicate_5	70	O
+syndicate_5	of	O
+syndicate_5	all	O
+syndicate_5	sugar	O
+syndicate_5	producers	O

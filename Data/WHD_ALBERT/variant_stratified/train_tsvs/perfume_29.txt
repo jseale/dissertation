@@ -1,0 +1,14 @@
+perfume_29	The	O
+perfume_29	perfume	perfume_nou
+perfume_29	debuted	O
+perfume_29	in	O
+perfume_29	the	O
+perfume_29	US	O
+perfume_29	in	O
+perfume_29	September	O
+perfume_29	2009	O
+perfume_29	with	O
+perfume_29	international	O
+perfume_29	distribution	O
+perfume_29	to	O
+perfume_29	follow	O

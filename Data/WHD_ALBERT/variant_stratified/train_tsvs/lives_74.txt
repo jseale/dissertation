@@ -1,0 +1,14 @@
+lives_74	He	O
+lives_74	lives	lives_vrb
+lives_74	in	O
+lives_74	Sumter	O
+lives_74	South	O
+lives_74	Carolina	O
+lives_74	and	O
+lives_74	has	O
+lives_74	his	O
+lives_74	offices	O
+lives_74	in	O
+lives_74	Columbia	O
+lives_74	South	O
+lives_74	Carolina	O

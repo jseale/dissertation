@@ -1,0 +1,9 @@
+perfume_3	Yasutaka	O
+perfume_3	produced	O
+perfume_3	group	O
+perfume_3	Perfume	perfume_nou
+perfume_3	also	O
+perfume_3	appeared	O
+perfume_3	on	O
+perfume_3	the	O
+perfume_3	episode	O

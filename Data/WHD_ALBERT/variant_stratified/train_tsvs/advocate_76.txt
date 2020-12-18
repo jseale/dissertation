@@ -1,0 +1,17 @@
+advocate_76	He	O
+advocate_76	tweeted	O
+advocate_76	the	O
+advocate_76	party	O
+advocate_76	would	O
+advocate_76	advocate	advocate_vrb
+advocate_76	a	O
+advocate_76	pro	O
+advocate_76	Europe	O
+advocate_76	pro	O
+advocate_76	developing	O
+advocate_76	world	O
+advocate_76	and	O
+advocate_76	against	O
+advocate_76	military	O
+advocate_76	adventurism	O
+advocate_76	stance	O

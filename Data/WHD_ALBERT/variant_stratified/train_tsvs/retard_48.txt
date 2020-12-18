@@ -1,0 +1,9 @@
+retard_48	These	O
+retard_48	inhibitors	O
+retard_48	chemically	O
+retard_48	retard	retard_vrb
+retard_48	the	O
+retard_48	formation	O
+retard_48	of	O
+retard_48	clathrate	O
+retard_48	hydrates	O

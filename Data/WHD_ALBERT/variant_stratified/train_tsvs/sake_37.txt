@@ -1,0 +1,8 @@
+sake_37	Everyone	O
+sake_37	must	O
+sake_37	fight	O
+sake_37	for	O
+sake_37	the	O
+sake_37	sake	sake
+sake_37	of	O
+sake_37	survival	O

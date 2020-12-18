@@ -1,0 +1,8 @@
+axes_6	In	O
+axes_6	melee	O
+axes_6	combat	O
+axes_6	they	O
+axes_6	used	O
+axes_6	axes	axes_nou-vrb
+axes_6	and	O
+axes_6	kilijs	O

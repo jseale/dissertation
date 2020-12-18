@@ -1,0 +1,17 @@
+present_0	We	O
+present_0	want	O
+present_0	education	O
+present_0	that	O
+present_0	teaches	O
+present_0	us	O
+present_0	our	O
+present_0	true	O
+present_0	history	O
+present_0	and	O
+present_0	our	O
+present_0	role	O
+present_0	in	O
+present_0	the	O
+present_0	present	present_adj-nou
+present_0	day	O
+present_0	society	O

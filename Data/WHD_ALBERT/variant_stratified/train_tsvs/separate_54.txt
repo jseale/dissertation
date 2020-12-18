@@ -1,0 +1,14 @@
+separate_54	As	O
+separate_54	is	O
+separate_54	tradition	O
+separate_54	the	O
+separate_54	mosque	O
+separate_54	has	O
+separate_54	separate	separate_adj
+separate_54	entrances	O
+separate_54	and	O
+separate_54	rooms	O
+separate_54	for	O
+separate_54	men	O
+separate_54	and	O
+separate_54	women	O

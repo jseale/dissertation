@@ -1,0 +1,16 @@
+rebel_2	At	O
+rebel_2	the	O
+rebel_2	start	O
+rebel_2	of	O
+rebel_2	7	O
+rebel_2	February	O
+rebel_2	government	O
+rebel_2	troops	O
+rebel_2	were	O
+rebel_2	seven	O
+rebel_2	kilometers	O
+rebel_2	from	O
+rebel_2	rebel	rebel_nou
+rebel_2	held	O
+rebel_2	Tell	O
+rebel_2	Rifaat	O

@@ -1,0 +1,7 @@
+uses_21	He	O
+uses_21	also	O
+uses_21	uses	uses_vrb
+uses_21	a	O
+uses_21	Classic	O
+uses_21	Gibson	O
+uses_21	Firebird	O

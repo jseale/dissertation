@@ -1,0 +1,8 @@
+lives_12	Critical	O
+lives_12	response	O
+lives_12	to	O
+lives_12	Other	O
+lives_12	Lives	lives_nou
+lives_12	was	O
+lives_12	generally	O
+lives_12	positive	O

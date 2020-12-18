@@ -1,0 +1,15 @@
+incline_47	In	O
+incline_47	1864	O
+incline_47	work	O
+incline_47	started	O
+incline_47	on	O
+incline_47	bypassing	O
+incline_47	the	O
+incline_47	incline	incline_nou
+incline_47	with	O
+incline_47	a	O
+incline_47	gentler	O
+incline_47	bank	O
+incline_47	1	O
+incline_47	in	O
+incline_47	40	O

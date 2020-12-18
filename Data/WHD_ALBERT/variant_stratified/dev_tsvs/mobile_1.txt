@@ -1,0 +1,16 @@
+mobile_1	Both	O
+mobile_1	titles	O
+mobile_1	carried	O
+mobile_1	over	O
+mobile_1	the	O
+mobile_1	basic	O
+mobile_1	gameplay	O
+mobile_1	functions	O
+mobile_1	of	O
+mobile_1	the	O
+mobile_1	original	O
+mobile_1	games	O
+mobile_1	tailored	O
+mobile_1	for	O
+mobile_1	mobile	mobile
+mobile_1	phones	O

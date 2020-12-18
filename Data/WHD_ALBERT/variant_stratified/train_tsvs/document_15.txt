@@ -1,0 +1,15 @@
+document_15	For	O
+document_15	example	O
+document_15	a	O
+document_15	1951	O
+document_15	document	document_nou
+document_15	mentions	O
+document_15	meetings	O
+document_15	between	O
+document_15	people	O
+document_15	representing	O
+document_15	the	O
+document_15	company	O
+document_15	and	O
+document_15	government	O
+document_15	officials	O

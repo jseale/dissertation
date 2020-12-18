@@ -1,0 +1,8 @@
+articulate_8	Suddarth	O
+articulate_8	was	O
+articulate_8	articulate	articulate_adj
+articulate_8	in	O
+articulate_8	Arabic	O
+articulate_8	French	O
+articulate_8	and	O
+articulate_8	Spanish	O

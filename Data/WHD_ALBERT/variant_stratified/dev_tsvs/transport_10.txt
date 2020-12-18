@@ -1,0 +1,14 @@
+transport_10	Lieutenant	O
+transport_10	Winslow	O
+transport_10	asks	O
+transport_10	Holden	O
+transport_10	to	O
+transport_10	transport	transport_vrb
+transport_10	Cortilla	O
+transport_10	and	O
+transport_10	his	O
+transport_10	men	O
+transport_10	to	O
+transport_10	a	O
+transport_10	military	O
+transport_10	garrison	O

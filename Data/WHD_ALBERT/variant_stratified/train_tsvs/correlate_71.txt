@@ -1,0 +1,10 @@
+correlate_71	Second	O
+correlate_71	self	O
+correlate_71	interacting	O
+correlate_71	domains	O
+correlate_71	correlate	correlate_nou-vrb
+correlate_71	with	O
+correlate_71	regulation	O
+correlate_71	of	O
+correlate_71	gene	O
+correlate_71	expression	O

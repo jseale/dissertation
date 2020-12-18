@@ -1,0 +1,14 @@
+live_72	Let	O
+live_72	's	O
+live_72	just	O
+live_72	put	O
+live_72	them	O
+live_72	in	O
+live_72	costume	O
+live_72	because	O
+live_72	they	O
+live_72	normally	O
+live_72	live	live_vrb
+live_72	in	O
+live_72	the	O
+live_72	cold	O

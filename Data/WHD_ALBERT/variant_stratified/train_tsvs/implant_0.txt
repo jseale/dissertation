@@ -1,0 +1,14 @@
+implant_0	Resulting	O
+implant_0	from	O
+implant_0	his	O
+implant_0	work	O
+implant_0	10	O
+implant_0	implant	implant_nou
+implant_0	technologies	O
+implant_0	were	O
+implant_0	brought	O
+implant_0	into	O
+implant_0	clinical	O
+implant_0	evaluation	O
+implant_0	in	O
+implant_0	humans	O

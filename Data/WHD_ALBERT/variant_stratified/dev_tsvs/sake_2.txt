@@ -1,0 +1,8 @@
+sake_2	The	O
+sake_2	term	O
+sake_2	implies	O
+sake_2	effect	O
+sake_2	for	O
+sake_2	effect	O
+sake_2	's	O
+sake_2	sake	sake

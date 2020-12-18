@@ -1,0 +1,11 @@
+separate_0	Avoca	O
+separate_0	came	O
+separate_0	from	O
+separate_0	the	O
+separate_0	Indian	O
+separate_0	word	O
+separate_0	where	O
+separate_0	separate	separate_adj
+separate_0	waters	O
+separate_0	come	O
+separate_0	together	O

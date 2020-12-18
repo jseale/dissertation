@@ -1,0 +1,17 @@
+implant_74	This	O
+implant_74	prompts	O
+implant_74	Karamat	O
+implant_74	into	O
+implant_74	starting	O
+implant_74	the	O
+implant_74	proceedings	O
+implant_74	to	O
+implant_74	implant	implant_vrb
+implant_74	Ahmed	O
+implant_74	as	O
+implant_74	a	O
+implant_74	spy	O
+implant_74	in	O
+implant_74	the	O
+implant_74	Indian	O
+implant_74	Army	O

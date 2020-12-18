@@ -1,0 +1,17 @@
+delegate_39	Naide	O
+delegate_39	served	O
+delegate_39	as	O
+delegate_39	a	O
+delegate_39	delegate	delegate_nou
+delegate_39	to	O
+delegate_39	the	O
+delegate_39	first	O
+delegate_39	synod	O
+delegate_39	of	O
+delegate_39	the	O
+delegate_39	Anglican	O
+delegate_39	Church	O
+delegate_39	in	O
+delegate_39	Japan	O
+delegate_39	in	O
+delegate_39	1887	O

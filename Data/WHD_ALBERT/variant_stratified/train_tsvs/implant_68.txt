@@ -1,0 +1,17 @@
+implant_68	The	O
+implant_68	two	O
+implant_68	most	O
+implant_68	common	O
+implant_68	versions	O
+implant_68	are	O
+implant_68	the	O
+implant_68	single	O
+implant_68	rod	O
+implant_68	etonogestrel	O
+implant_68	implant	implant_nou
+implant_68	and	O
+implant_68	the	O
+implant_68	two	O
+implant_68	rod	O
+implant_68	levonorgestrel	O
+implant_68	implant	implant_nou

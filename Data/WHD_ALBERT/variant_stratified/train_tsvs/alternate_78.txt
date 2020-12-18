@@ -1,0 +1,11 @@
+alternate_78	The	O
+alternate_78	scenes	O
+alternate_78	constantly	O
+alternate_78	alternate	alternate_vrb
+alternate_78	between	O
+alternate_78	a	O
+alternate_78	single	O
+alternate_78	frame	O
+alternate_78	to	O
+alternate_78	a	O
+alternate_78	grid	O

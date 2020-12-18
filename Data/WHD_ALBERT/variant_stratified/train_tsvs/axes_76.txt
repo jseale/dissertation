@@ -1,0 +1,16 @@
+axes_76	They	O
+axes_76	fought	O
+axes_76	with	O
+axes_76	spears	O
+axes_76	javelins	O
+axes_76	falxes	O
+axes_76	one	O
+axes_76	sided	O
+axes_76	battle	O
+axes_76	axes	axes_nou-vrb
+axes_76	and	O
+axes_76	used	O
+axes_76	Draco	O
+axes_76	Carnyxes	O
+axes_76	as	O
+axes_76	standards	O

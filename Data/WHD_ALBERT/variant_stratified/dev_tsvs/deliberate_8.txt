@@ -1,0 +1,14 @@
+deliberate_8	He	O
+deliberate_8	offers	O
+deliberate_8	deliberate	deliberate_adj
+deliberate_8	insults	O
+deliberate_8	to	O
+deliberate_8	Daniel	O
+deliberate_8	Carpenter	O
+deliberate_8	and	O
+deliberate_8	offers	O
+deliberate_8	to	O
+deliberate_8	fight	O
+deliberate_8	the	O
+deliberate_8	young	O
+deliberate_8	man	O

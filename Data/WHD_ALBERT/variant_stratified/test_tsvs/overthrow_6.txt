@@ -1,0 +1,15 @@
+overthrow_6	In	O
+overthrow_6	reprisal	O
+overthrow_6	Migara	O
+overthrow_6	encouraged	O
+overthrow_6	and	O
+overthrow_6	assisted	O
+overthrow_6	Kasyapa	O
+overthrow_6	to	O
+overthrow_6	overthrow	overthrow_vrb
+overthrow_6	the	O
+overthrow_6	king	O
+overthrow_6	and	O
+overthrow_6	take	O
+overthrow_6	the	O
+overthrow_6	throne	O

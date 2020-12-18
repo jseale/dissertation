@@ -1,0 +1,16 @@
+intrigue_40	He	O
+intrigue_40	will	O
+intrigue_40	do	O
+intrigue_40	whatever	O
+intrigue_40	can	O
+intrigue_40	be	O
+intrigue_40	done	O
+intrigue_40	by	O
+intrigue_40	bribery	O
+intrigue_40	and	O
+intrigue_40	intrigue	intrigue_nou
+intrigue_40	he	O
+intrigue_40	has	O
+intrigue_40	no	O
+intrigue_40	other	O
+intrigue_40	resource	O

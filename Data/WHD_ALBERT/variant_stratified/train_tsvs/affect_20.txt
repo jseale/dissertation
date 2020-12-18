@@ -1,0 +1,17 @@
+affect_20	These	O
+affect_20	restrictions	O
+affect_20	do	O
+affect_20	not	O
+affect_20	affect	affect
+affect_20	the	O
+affect_20	part	O
+affect_20	of	O
+affect_20	Kaiser	O
+affect_20	Joseph	O
+affect_20	Strasse	O
+affect_20	which	O
+affect_20	is	O
+affect_20	located	O
+affect_20	south	O
+affect_20	of	O
+affect_20	Martinstor	O

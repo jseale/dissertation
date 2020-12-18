@@ -1,0 +1,15 @@
+conflict_11	The	O
+conflict_11	southern	O
+conflict_11	region	O
+conflict_11	is	O
+conflict_11	primarily	O
+conflict_11	drought	O
+conflict_11	prone	O
+conflict_11	but	O
+conflict_11	also	O
+conflict_11	affected	O
+conflict_11	by	O
+conflict_11	insecurity	O
+conflict_11	and	O
+conflict_11	active	O
+conflict_11	conflict	conflict_nou

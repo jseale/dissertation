@@ -1,0 +1,12 @@
+diffuse_12	On	O
+diffuse_12	the	O
+diffuse_12	lower	O
+diffuse_12	floors	O
+diffuse_12	Shinsu	O
+diffuse_12	is	O
+diffuse_12	diffuse	diffuse_adj
+diffuse_12	and	O
+diffuse_12	inconspicuous	O
+diffuse_12	similar	O
+diffuse_12	to	O
+diffuse_12	air	O

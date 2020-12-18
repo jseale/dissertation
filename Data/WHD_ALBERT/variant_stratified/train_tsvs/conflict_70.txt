@@ -1,0 +1,12 @@
+conflict_70	The	O
+conflict_70	album	O
+conflict_70	was	O
+conflict_70	recorded	O
+conflict_70	amidst	O
+conflict_70	inter	O
+conflict_70	band	O
+conflict_70	conflict	conflict_nou
+conflict_70	and	O
+conflict_70	failed	O
+conflict_70	to	O
+conflict_70	chart	O

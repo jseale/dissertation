@@ -1,0 +1,15 @@
+axes_2	But	O
+axes_2	torques	O
+axes_2	not	O
+axes_2	aligned	O
+axes_2	along	O
+axes_2	a	O
+axes_2	principal	O
+axes_2	axis	O
+axes_2	will	O
+axes_2	also	O
+axes_2	cause	O
+axes_2	rotations	O
+axes_2	about	O
+axes_2	other	O
+axes_2	axes	axes_nou

@@ -1,0 +1,10 @@
+contest_66	Mothering	O
+contest_66	Magazine	O
+contest_66	announces	O
+contest_66	winner	O
+contest_66	of	O
+contest_66	International	O
+contest_66	Breastfeeding	O
+contest_66	Icon	O
+contest_66	Design	O
+contest_66	Contest	contest_nou

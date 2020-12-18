@@ -1,0 +1,17 @@
+abuses_50	The	O
+abuses_50	anarcho	O
+abuses_50	syndicalist	O
+abuses_50	periodical	O
+abuses_50	Solidaridad	O
+abuses_50	Obrera	O
+abuses_50	reported	O
+abuses_50	that	O
+abuses_50	Certain	O
+abuses_50	abuses	abuses_nou
+abuses_50	have	O
+abuses_50	been	O
+abuses_50	committed	O
+abuses_50	that	O
+abuses_50	we	O
+abuses_50	consider	O
+abuses_50	counterproductive	O

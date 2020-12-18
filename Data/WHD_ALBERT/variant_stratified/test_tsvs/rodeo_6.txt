@@ -1,0 +1,16 @@
+rodeo_6	Rodeo	rodeo
+rodeo_6	fairs	O
+rodeo_6	occur	O
+rodeo_6	annually	O
+rodeo_6	including	O
+rodeo_6	the	O
+rodeo_6	Star	O
+rodeo_6	of	O
+rodeo_6	Texas	O
+rodeo_6	Fair	O
+rodeo_6	and	O
+rodeo_6	Rodeo	rodeo
+rodeo_6	and	O
+rodeo_6	the	O
+rodeo_6	Burnet	O
+rodeo_6	Rodeo	rodeo

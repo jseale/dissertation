@@ -1,0 +1,11 @@
+lives_18	CAIS	O
+lives_18	women	O
+lives_18	can	O
+lives_18	lead	O
+lives_18	active	O
+lives_18	lives	lives_nou
+lives_18	and	O
+lives_18	expect	O
+lives_18	a	O
+lives_18	normal	O
+lives_18	lifespan	O

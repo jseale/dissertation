@@ -1,0 +1,14 @@
+perfume_5	One	O
+perfume_5	of	O
+perfume_5	the	O
+perfume_5	customers	O
+perfume_5	for	O
+perfume_5	this	O
+perfume_5	perfume	perfume_nou
+perfume_5	was	O
+perfume_5	Boy	O
+perfume_5	Capel	O
+perfume_5	Coco	O
+perfume_5	Chanel	O
+perfume_5	's	O
+perfume_5	lover	O

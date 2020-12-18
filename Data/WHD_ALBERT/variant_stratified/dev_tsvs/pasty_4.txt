@@ -1,0 +1,15 @@
+pasty_4	Former	O
+pasty_4	premier	O
+pasty_4	of	O
+pasty_4	South	O
+pasty_4	Australia	O
+pasty_4	Don	O
+pasty_4	Dunstan	O
+pasty_4	once	O
+pasty_4	took	O
+pasty_4	part	O
+pasty_4	in	O
+pasty_4	a	O
+pasty_4	pasty	pasty_adj
+pasty_4	making	O
+pasty_4	contest	O

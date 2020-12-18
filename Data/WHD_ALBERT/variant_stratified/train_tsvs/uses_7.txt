@@ -1,0 +1,8 @@
+uses_7	Mass	O
+uses_7	spectrometry	O
+uses_7	has	O
+uses_7	both	O
+uses_7	qualitative	O
+uses_7	and	O
+uses_7	quantitative	O
+uses_7	uses	uses_nou

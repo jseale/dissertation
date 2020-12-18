@@ -1,0 +1,7 @@
+affiliate_17	WYKT	O
+affiliate_17	is	O
+affiliate_17	a	O
+affiliate_17	CBS	O
+affiliate_17	Sports	O
+affiliate_17	Radio	O
+affiliate_17	affiliate	affiliate_nou

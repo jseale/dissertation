@@ -1,0 +1,15 @@
+converse_6	Objects	O
+converse_6	can	O
+converse_6	have	O
+converse_6	other	O
+converse_6	colors	O
+converse_6	of	O
+converse_6	course	O
+converse_6	so	O
+converse_6	the	O
+converse_6	converse	converse_adj-nou
+converse_6	of	O
+converse_6	our	O
+converse_6	statement	O
+converse_6	is	O
+converse_6	false	O

@@ -1,0 +1,16 @@
+ornament_37	In	O
+ornament_37	October	O
+ornament_37	they	O
+ornament_37	won	O
+ornament_37	bronze	O
+ornament_37	at	O
+ornament_37	the	O
+ornament_37	2015	O
+ornament_37	Mordovian	O
+ornament_37	Ornament	ornament_nou
+ornament_37	their	O
+ornament_37	ISU	O
+ornament_37	Challenger	O
+ornament_37	Series	O
+ornament_37	CS	O
+ornament_37	debut	O

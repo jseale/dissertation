@@ -1,0 +1,13 @@
+animate_46	They	O
+animate_46	even	O
+animate_46	worked	O
+animate_46	alongside	O
+animate_46	Tsuburaya	O
+animate_46	Productions	O
+animate_46	to	O
+animate_46	animate	animate_vrb
+animate_46	the	O
+animate_46	anime	O
+animate_46	The	O
+animate_46	Ultraman	O
+animate_46	1979	O

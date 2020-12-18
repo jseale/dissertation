@@ -1,0 +1,17 @@
+blessed_46	Parashurama	O
+blessed_46	blessed	blessed_vrb
+blessed_46	her	O
+blessed_46	saying	O
+blessed_46	Dheergha	O
+blessed_46	Sumangali	O
+blessed_46	bhavah	O
+blessed_46	or	O
+blessed_46	You	O
+blessed_46	will	O
+blessed_46	have	O
+blessed_46	your	O
+blessed_46	husband	O
+blessed_46	alive	O
+blessed_46	for	O
+blessed_46	your	O
+blessed_46	lifetime	O

@@ -1,0 +1,14 @@
+excuse_23	Soon	O
+excuse_23	family	O
+excuse_23	outings	O
+excuse_23	to	O
+excuse_23	Skegness	O
+excuse_23	became	O
+excuse_23	an	O
+excuse_23	excuse	excuse_nou
+excuse_23	for	O
+excuse_23	the	O
+excuse_23	future	O
+excuse_23	artist	O
+excuse_23	to	O
+excuse_23	trawl	O

@@ -1,0 +1,13 @@
+protest_43	The	O
+protest_43	most	O
+protest_43	common	O
+protest_43	electoral	O
+protest_43	consequences	O
+protest_43	of	O
+protest_43	political	O
+protest_43	alienation	O
+protest_43	are	O
+protest_43	abstention	O
+protest_43	and	O
+protest_43	protest	protest_nou
+protest_43	voting	O

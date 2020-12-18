@@ -1,0 +1,16 @@
+intrigue_66	Amidst	O
+intrigue_66	towering	O
+intrigue_66	intrigue	intrigue_nou
+intrigue_66	Sylou	O
+intrigue_66	Creutz	O
+intrigue_66	was	O
+intrigue_66	let	O
+intrigue_66	go	O
+intrigue_66	from	O
+intrigue_66	the	O
+intrigue_66	Broadcasting	O
+intrigue_66	Corporation	O
+intrigue_66	on	O
+intrigue_66	28	O
+intrigue_66	October	O
+intrigue_66	1942	O

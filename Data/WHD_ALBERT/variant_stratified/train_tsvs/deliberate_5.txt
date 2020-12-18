@@ -1,0 +1,12 @@
+deliberate_5	However	O
+deliberate_5	contrary	O
+deliberate_5	to	O
+deliberate_5	the	O
+deliberate_5	Piltdown	O
+deliberate_5	Man	O
+deliberate_5	Archaeoraptor	O
+deliberate_5	was	O
+deliberate_5	not	O
+deliberate_5	a	O
+deliberate_5	deliberate	deliberate_adj
+deliberate_5	hoax	O

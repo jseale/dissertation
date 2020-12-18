@@ -1,0 +1,14 @@
+decrease_16	How	O
+decrease_16	the	O
+decrease_16	loss	O
+decrease_16	of	O
+decrease_16	IGSF1	O
+decrease_16	causes	O
+decrease_16	a	O
+decrease_16	decrease	decrease_nou
+decrease_16	in	O
+decrease_16	TRH	O
+decrease_16	receptors	O
+decrease_16	is	O
+decrease_16	presently	O
+decrease_16	unknown	O

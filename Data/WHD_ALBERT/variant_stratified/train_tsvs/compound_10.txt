@@ -1,0 +1,9 @@
+compound_10	Dimethylcadmium	O
+compound_10	is	O
+compound_10	the	O
+compound_10	organocadmium	O
+compound_10	compound	compound_nou
+compound_10	with	O
+compound_10	the	O
+compound_10	formula	O
+compound_10	Cd(CH₃)₂.	O

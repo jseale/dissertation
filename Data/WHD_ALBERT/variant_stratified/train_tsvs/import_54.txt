@@ -1,0 +1,16 @@
+import_54	The	O
+import_54	compressor	O
+import_54	was	O
+import_54	an	O
+import_54	American	O
+import_54	import	import_nou
+import_54	as	O
+import_54	well	O
+import_54	supplied	O
+import_54	by	O
+import_54	the	O
+import_54	Harrison	O
+import_54	division	O
+import_54	of	O
+import_54	General	O
+import_54	Motors	O

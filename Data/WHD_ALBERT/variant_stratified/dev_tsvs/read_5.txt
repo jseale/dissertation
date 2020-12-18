@@ -1,0 +1,13 @@
+read_5	The	O
+read_5	sign	O
+read_5	was	O
+read_5	made	O
+read_5	by	O
+read_5	Radcliffe	O
+read_5	's	O
+read_5	husband	O
+read_5	and	O
+read_5	read	read_past
+read_5	EPO	O
+read_5	Cheats	O
+read_5	Out	O

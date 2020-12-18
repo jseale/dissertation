@@ -1,0 +1,12 @@
+content_56	Most	O
+content_56	of	O
+content_56	the	O
+content_56	content	content_nou
+content_56	of	O
+content_56	the	O
+content_56	AJR	O
+content_56	was	O
+content_56	from	O
+content_56	outside	O
+content_56	contributors	O
+content_56	freelancers	O

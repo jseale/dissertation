@@ -1,0 +1,7 @@
+deliberate_16	They	O
+deliberate_16	further	O
+deliberate_16	accused	O
+deliberate_16	Fell	O
+deliberate_16	of	O
+deliberate_16	deliberate	deliberate_adj
+deliberate_16	fraud	O

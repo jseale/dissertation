@@ -1,0 +1,10 @@
+laminate_50	The	O
+laminate_50	landing	O
+laminate_50	gear	O
+laminate_50	was	O
+laminate_50	Ash	O
+laminate_50	word	O
+laminate_50	laminate	laminate_nou
+laminate_50	with	O
+laminate_50	birch	O
+laminate_50	veneer	O

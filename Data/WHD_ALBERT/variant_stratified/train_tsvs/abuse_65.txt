@@ -1,0 +1,9 @@
+abuse_65	One	O
+abuse_65	student	O
+abuse_65	pleaded	O
+abuse_65	guilty	O
+abuse_65	to	O
+abuse_65	second	O
+abuse_65	degree	O
+abuse_65	sexual	O
+abuse_65	abuse	abuse_nou

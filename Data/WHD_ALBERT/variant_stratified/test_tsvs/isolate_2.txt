@@ -1,0 +1,13 @@
+isolate_2	This	O
+isolate_2	is	O
+isolate_2	a	O
+isolate_2	strategy	O
+isolate_2	to	O
+isolate_2	isolate	isolate
+isolate_2	American	O
+isolate_2	Muslims	O
+isolate_2	from	O
+isolate_2	the	O
+isolate_2	rest	O
+isolate_2	of	O
+isolate_2	society	O

@@ -1,0 +1,17 @@
+aged_35	In	O
+aged_35	later	O
+aged_35	life	O
+aged_35	he	O
+aged_35	resided	O
+aged_35	at	O
+aged_35	Pangbourne	O
+aged_35	Berkshire	O
+aged_35	and	O
+aged_35	died	O
+aged_35	in	O
+aged_35	London	O
+aged_35	in	O
+aged_35	June	O
+aged_35	1946	O
+aged_35	aged	aged
+aged_35	80	O

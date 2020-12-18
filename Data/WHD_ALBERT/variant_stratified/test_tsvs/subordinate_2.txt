@@ -1,0 +1,12 @@
+subordinate_2	For	O
+subordinate_2	this	O
+subordinate_2	operation	O
+subordinate_2	Bradley	O
+subordinate_2	was	O
+subordinate_2	subordinate	subordinate_adj-nou
+subordinate_2	to	O
+subordinate_2	Patton	O
+subordinate_2	under	O
+subordinate_2	British	O
+subordinate_2	overall	O
+subordinate_2	direction	O

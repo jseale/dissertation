@@ -1,0 +1,13 @@
+protest_49	Smaller	O
+protest_49	groups	O
+protest_49	maximum	O
+protest_49	300	O
+protest_49	have	O
+protest_49	gathered	O
+protest_49	around	O
+protest_49	the	O
+protest_49	state	O
+protest_49	following	O
+protest_49	the	O
+protest_49	February	O
+protest_49	protest	protest_nou

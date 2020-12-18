@@ -1,0 +1,9 @@
+converse_59	Parikshit	O
+converse_59	and	O
+converse_59	Dharma	O
+converse_59	converse	converse_vrb
+converse_59	about	O
+converse_59	the	O
+converse_59	coming	O
+converse_59	of	O
+converse_59	Kaliyuga	O

@@ -1,0 +1,11 @@
+graduate_25	Praveena	O
+graduate_25	is	O
+graduate_25	an	O
+graduate_25	English	O
+graduate_25	literature	O
+graduate_25	graduate	graduate_adj-nou
+graduate_25	from	O
+graduate_25	the	O
+graduate_25	University	O
+graduate_25	of	O
+graduate_25	Madras	O

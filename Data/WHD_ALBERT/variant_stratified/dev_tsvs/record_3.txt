@@ -1,0 +1,10 @@
+record_3	Dipanda	O
+record_3	made	O
+record_3	her	O
+record_3	first	O
+record_3	record	record_nou
+record_3	with	O
+record_3	guitar	O
+record_3	player	O
+record_3	Jeannot	O
+record_3	Hens	O

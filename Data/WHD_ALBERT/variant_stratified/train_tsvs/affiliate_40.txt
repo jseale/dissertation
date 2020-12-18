@@ -1,0 +1,15 @@
+affiliate_40	KYTX	O
+affiliate_40	CBS19	O
+affiliate_40	Owners	O
+affiliate_40	LBC	O
+affiliate_40	Buy	O
+affiliate_40	Tyler	O
+affiliate_40	Area	O
+affiliate_40	CW	O
+affiliate_40	Affiliate	affiliate_nou
+affiliate_40	Tyler	O
+affiliate_40	Morning	O
+affiliate_40	Telegraph	O
+affiliate_40	November	O
+affiliate_40	8	O
+affiliate_40	2009	O

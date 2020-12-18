@@ -1,0 +1,14 @@
+wound_59	As	O
+wound_59	such	O
+wound_59	from	O
+wound_59	early	O
+wound_59	December	O
+wound_59	Australian	O
+wound_59	operations	O
+wound_59	on	O
+wound_59	Timor	O
+wound_59	would	O
+wound_59	be	O
+wound_59	progressively	O
+wound_59	wound	wound_vrb
+wound_59	down	O

@@ -1,0 +1,7 @@
+abuse_10	This	O
+abuse_10	valve	O
+abuse_10	is	O
+abuse_10	weakened	O
+abuse_10	by	O
+abuse_10	drug	O
+abuse_10	abuse	abuse_nou

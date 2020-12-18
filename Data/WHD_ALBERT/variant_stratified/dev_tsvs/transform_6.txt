@@ -1,0 +1,17 @@
+transform_6	He	O
+transform_6	was	O
+transform_6	the	O
+transform_6	first	O
+transform_6	to	O
+transform_6	understand	O
+transform_6	that	O
+transform_6	simple	O
+transform_6	machines	O
+transform_6	do	O
+transform_6	not	O
+transform_6	create	O
+transform_6	energy	O
+transform_6	they	O
+transform_6	merely	O
+transform_6	transform	transform
+transform_6	it	O

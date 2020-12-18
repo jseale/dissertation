@@ -1,0 +1,13 @@
+degenerate_34	The	O
+degenerate_34	architect	O
+degenerate_34	was	O
+degenerate_34	thought	O
+degenerate_34	to	O
+degenerate_34	be	O
+degenerate_34	a	O
+degenerate_34	degenerate	degenerate_adj-nou
+degenerate_34	disciple	O
+degenerate_34	of	O
+degenerate_34	William	O
+degenerate_34	of	O
+degenerate_34	Wykeham	O

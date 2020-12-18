@@ -1,0 +1,14 @@
+bass_28	He	O
+bass_28	studied	O
+bass_28	cello	O
+bass_28	and	O
+bass_28	double	O
+bass_28	bass	bass
+bass_28	at	O
+bass_28	the	O
+bass_28	Royal	O
+bass_28	Academy	O
+bass_28	of	O
+bass_28	Music	O
+bass_28	in	O
+bass_28	London	O

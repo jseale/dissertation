@@ -1,0 +1,13 @@
+overthrow_28	Members	O
+overthrow_28	are	O
+overthrow_28	accused	O
+overthrow_28	of	O
+overthrow_28	terrorism	O
+overthrow_28	and	O
+overthrow_28	of	O
+overthrow_28	plotting	O
+overthrow_28	to	O
+overthrow_28	overthrow	overthrow_vrb
+overthrow_28	the	O
+overthrow_28	civilian	O
+overthrow_28	government	O

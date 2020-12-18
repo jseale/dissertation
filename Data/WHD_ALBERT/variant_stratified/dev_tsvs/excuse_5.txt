@@ -1,0 +1,9 @@
+excuse_5	He	O
+excuse_5	said	O
+excuse_5	that	O
+excuse_5	was	O
+excuse_5	no	O
+excuse_5	excuse	excuse_nou
+excuse_5	just	O
+excuse_5	what	O
+excuse_5	happened	O

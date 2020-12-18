@@ -1,0 +1,16 @@
+implant_10	The	O
+implant_10	implant	implant_nou
+implant_10	has	O
+implant_10	to	O
+implant_10	be	O
+implant_10	replaced	O
+implant_10	every	O
+implant_10	year	O
+implant_10	and	O
+implant_10	is	O
+implant_10	implanted	O
+implant_10	subcutaneously	O
+implant_10	in	O
+implant_10	the	O
+implant_10	upper	O
+implant_10	arm	O

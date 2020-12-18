@@ -1,0 +1,7 @@
+syndicate_43	Peter	O
+syndicate_43	Anson	O
+syndicate_43	formed	O
+syndicate_43	a	O
+syndicate_43	band	O
+syndicate_43	the	O
+syndicate_43	Syndicate	syndicate_nou

@@ -1,0 +1,15 @@
+precipitate_11	The	O
+precipitate_11	precipitate	precipitate_adj-nou
+precipitate_11	action	O
+precipitate_11	of	O
+precipitate_11	the	O
+precipitate_11	Hospitallers	O
+precipitate_11	could	O
+precipitate_11	have	O
+precipitate_11	caused	O
+precipitate_11	Richard	O
+precipitate_11	's	O
+precipitate_11	whole	O
+precipitate_11	strategy	O
+precipitate_11	to	O
+precipitate_11	unravel	O

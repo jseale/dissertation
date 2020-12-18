@@ -1,0 +1,9 @@
+conflict_9	Instead	O
+conflict_9	Pryor	O
+conflict_9	merely	O
+conflict_9	removes	O
+conflict_9	all	O
+conflict_9	memory	O
+conflict_9	of	O
+conflict_9	the	O
+conflict_9	conflict	conflict_nou

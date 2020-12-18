@@ -1,0 +1,15 @@
+buffet_7	Casa	O
+buffet_7	Bonita	O
+buffet_7	was	O
+buffet_7	reopened	O
+buffet_7	by	O
+buffet_7	Star	O
+buffet_7	Buffet	buffet_nou
+buffet_7	under	O
+buffet_7	the	O
+buffet_7	original	O
+buffet_7	name	O
+buffet_7	in	O
+buffet_7	late	O
+buffet_7	July	O
+buffet_7	2008	O

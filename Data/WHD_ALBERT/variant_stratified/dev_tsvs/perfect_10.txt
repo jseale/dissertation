@@ -1,0 +1,14 @@
+perfect_10	In	O
+perfect_10	Sword	O
+perfect_10	Arts	O
+perfect_10	students	O
+perfect_10	attempt	O
+perfect_10	to	O
+perfect_10	perfect	perfect_vrb
+perfect_10	their	O
+perfect_10	combat	O
+perfect_10	skills	O
+perfect_10	by	O
+perfect_10	dueling	O
+perfect_10	each	O
+perfect_10	other	O

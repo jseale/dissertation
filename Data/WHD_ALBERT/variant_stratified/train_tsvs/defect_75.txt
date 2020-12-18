@@ -1,0 +1,13 @@
+defect_75	The	O
+defect_75	garrison	O
+defect_75	was	O
+defect_75	commanded	O
+defect_75	by	O
+defect_75	Sidi	O
+defect_75	Marjan	O
+defect_75	who	O
+defect_75	refused	O
+defect_75	to	O
+defect_75	surrender	O
+defect_75	or	O
+defect_75	defect	defect_vrb

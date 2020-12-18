@@ -1,0 +1,15 @@
+suspect_8	The	O
+suspect_8	suspect	suspect_adj-nou
+suspect_8	James	O
+suspect_8	Boulware	O
+suspect_8	died	O
+suspect_8	after	O
+suspect_8	being	O
+suspect_8	struck	O
+suspect_8	by	O
+suspect_8	sniper	O
+suspect_8	fire	O
+suspect_8	from	O
+suspect_8	Dallas	O
+suspect_8	SWAT	O
+suspect_8	officers	O

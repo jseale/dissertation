@@ -1,0 +1,12 @@
+abuse_27	But	O
+abuse_27	I	O
+abuse_27	will	O
+abuse_27	reject	O
+abuse_27	abuse	abuse_nou
+abuse_27	and	O
+abuse_27	all	O
+abuse_27	that	O
+abuse_27	it	O
+abuse_27	stands	O
+abuse_27	for	O
+abuse_27	adding	O

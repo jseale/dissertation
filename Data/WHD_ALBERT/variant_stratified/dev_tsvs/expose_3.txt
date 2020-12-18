@@ -1,0 +1,17 @@
+expose_3	In	O
+expose_3	2010	O
+expose_3	Ben	O
+expose_3	Menashe	O
+expose_3	helped	O
+expose_3	expose	expose_vrb
+expose_3	questionable	O
+expose_3	dealing	O
+expose_3	by	O
+expose_3	Arthur	O
+expose_3	Porter	O
+expose_3	which	O
+expose_3	led	O
+expose_3	to	O
+expose_3	Porter	O
+expose_3	's	O
+expose_3	resignations	O

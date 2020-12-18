@@ -1,0 +1,13 @@
+degenerate_12	The	O
+degenerate_12	degenerate	degenerate_adj-nou
+degenerate_12	electrons	O
+degenerate_12	in	O
+degenerate_12	the	O
+degenerate_12	bulk	O
+degenerate_12	of	O
+degenerate_12	a	O
+degenerate_12	white	O
+degenerate_12	dwarf	O
+degenerate_12	conduct	O
+degenerate_12	heat	O
+degenerate_12	well	O

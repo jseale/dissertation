@@ -1,0 +1,14 @@
+discard_55	Attitudes	O
+discard_55	of	O
+discard_55	even	O
+discard_55	skeptical	O
+discard_55	citizens	O
+discard_55	do	O
+discard_55	not	O
+discard_55	discard	discard_vrb
+discard_55	the	O
+discard_55	possibility	O
+discard_55	on	O
+discard_55	future	O
+discard_55	sustainable	O
+discard_55	enlargements	O

@@ -1,0 +1,13 @@
+converse_49	Disjoint	O
+converse_49	complements	O
+converse_49	are	O
+converse_49	always	O
+converse_49	bands	O
+converse_49	but	O
+converse_49	the	O
+converse_49	converse	converse_adj-nou
+converse_49	is	O
+converse_49	not	O
+converse_49	true	O
+converse_49	in	O
+converse_49	general	O

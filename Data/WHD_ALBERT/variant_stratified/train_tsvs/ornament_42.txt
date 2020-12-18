@@ -1,0 +1,14 @@
+ornament_42	Venantius	O
+ornament_42	Fortunatus	O
+ornament_42	described	O
+ornament_42	the	O
+ornament_42	Bishop	O
+ornament_42	as	O
+ornament_42	virtuous	O
+ornament_42	and	O
+ornament_42	charitable	O
+ornament_42	and	O
+ornament_42	an	O
+ornament_42	ornament	ornament_nou
+ornament_42	of	O
+ornament_42	bishops	O

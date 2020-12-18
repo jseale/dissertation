@@ -1,0 +1,16 @@
+conscript_68	In	O
+conscript_68	1605	O
+conscript_68	the	O
+conscript_68	Swedes	O
+conscript_68	again	O
+conscript_68	spent	O
+conscript_68	large	O
+conscript_68	sums	O
+conscript_68	of	O
+conscript_68	money	O
+conscript_68	to	O
+conscript_68	conscript	conscript_vrb
+conscript_68	a	O
+conscript_68	new	O
+conscript_68	massive	O
+conscript_68	army	O

@@ -1,0 +1,15 @@
+attribute_18	His	O
+attribute_18	elemental	O
+attribute_18	attribute	attribute_nou
+attribute_18	is	O
+attribute_18	Wind	O
+attribute_18	and	O
+attribute_18	his	O
+attribute_18	dragon	O
+attribute_18	jewel	O
+attribute_18	is	O
+attribute_18	located	O
+attribute_18	on	O
+attribute_18	his	O
+attribute_18	left	O
+attribute_18	ear	O

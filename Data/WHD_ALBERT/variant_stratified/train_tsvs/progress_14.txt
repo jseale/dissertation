@@ -1,0 +1,8 @@
+progress_14	As	O
+progress_14	night	O
+progress_14	falls	O
+progress_14	the	O
+progress_14	bombardment	O
+progress_14	continues	O
+progress_14	forestalling	O
+progress_14	progress	progress_nou

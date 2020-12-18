@@ -1,0 +1,15 @@
+nestle_52	In	O
+nestle_52	later	O
+nestle_52	editions	O
+nestle_52	Nestle	nestle_nam
+nestle_52	began	O
+nestle_52	noting	O
+nestle_52	the	O
+nestle_52	attestation	O
+nestle_52	of	O
+nestle_52	certain	O
+nestle_52	important	O
+nestle_52	manuscripts	O
+nestle_52	in	O
+nestle_52	his	O
+nestle_52	apparatus	O

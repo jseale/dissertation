@@ -1,0 +1,17 @@
+invert_75	During	O
+invert_75	the	O
+invert_75	AXIS	O
+invert_75	storyline	O
+invert_75	the	O
+invert_75	Red	O
+invert_75	Skull	O
+invert_75	and	O
+invert_75	Scarlet	O
+invert_75	Witch	O
+invert_75	accidentally	O
+invert_75	morally	O
+invert_75	invert	invert_vrb
+invert_75	various	O
+invert_75	heroes	O
+invert_75	and	O
+invert_75	villains	O

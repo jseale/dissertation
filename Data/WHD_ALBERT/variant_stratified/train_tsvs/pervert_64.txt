@@ -1,0 +1,15 @@
+pervert_64	This	O
+pervert_64	was	O
+pervert_64	the	O
+pervert_64	basis	O
+pervert_64	for	O
+pervert_64	his	O
+pervert_64	conviction	O
+pervert_64	for	O
+pervert_64	attempting	O
+pervert_64	to	O
+pervert_64	pervert	pervert_vrb
+pervert_64	the	O
+pervert_64	course	O
+pervert_64	of	O
+pervert_64	justice	O

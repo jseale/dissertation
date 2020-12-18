@@ -1,0 +1,8 @@
+progress_5	Plushenko	O
+progress_5	made	O
+progress_5	quick	O
+progress_5	progress	progress_nou
+progress_5	on	O
+progress_5	the	O
+progress_5	international	O
+progress_5	scene	O

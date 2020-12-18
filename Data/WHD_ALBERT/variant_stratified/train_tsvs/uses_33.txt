@@ -1,0 +1,15 @@
+uses_33	It	O
+uses_33	uses	uses_vrb
+uses_33	its	O
+uses_33	talons	O
+uses_33	or	O
+uses_33	claws	O
+uses_33	to	O
+uses_33	slash	O
+uses_33	its	O
+uses_33	victims	O
+uses_33	and	O
+uses_33	to	O
+uses_33	get	O
+uses_33	their	O
+uses_33	heart	O

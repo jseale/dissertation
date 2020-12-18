@@ -1,0 +1,12 @@
+advocate_1	At	O
+advocate_1	Microsoft	O
+advocate_1	Hedrick	O
+advocate_1	was	O
+advocate_1	a	O
+advocate_1	prominent	O
+advocate_1	advocate	advocate_nou
+advocate_1	of	O
+advocate_1	bridging	O
+advocate_1	the	O
+advocate_1	digital	O
+advocate_1	divide	O

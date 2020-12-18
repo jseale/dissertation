@@ -1,0 +1,15 @@
+conjugate_16	All	O
+conjugate_16	mineral	O
+conjugate_16	acids	O
+conjugate_16	form	O
+conjugate_16	hydrogen	O
+conjugate_16	ions	O
+conjugate_16	and	O
+conjugate_16	the	O
+conjugate_16	conjugate	conjugate_adj-nou
+conjugate_16	base	O
+conjugate_16	ions	O
+conjugate_16	when	O
+conjugate_16	dissolved	O
+conjugate_16	in	O
+conjugate_16	water	O

@@ -1,0 +1,12 @@
+reject_24	However	O
+reject_24	the	O
+reject_24	Mieu	O
+reject_24	reject	reject_vrb
+reject_24	this	O
+reject_24	and	O
+reject_24	see	O
+reject_24	themselves	O
+reject_24	as	O
+reject_24	a	O
+reject_24	distinct	O
+reject_24	ethnicity	O

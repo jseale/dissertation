@@ -1,0 +1,15 @@
+isolate_55	The	O
+isolate_55	plan	O
+isolate_55	was	O
+isolate_55	to	O
+isolate_55	isolate	isolate
+isolate_55	Budapest	O
+isolate_55	from	O
+isolate_55	the	O
+isolate_55	rest	O
+isolate_55	of	O
+isolate_55	the	O
+isolate_55	German	O
+isolate_55	and	O
+isolate_55	Hungarian	O
+isolate_55	forces	O

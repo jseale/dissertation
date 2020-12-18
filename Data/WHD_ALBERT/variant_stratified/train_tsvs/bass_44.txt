@@ -1,0 +1,16 @@
+bass_44	In	O
+bass_44	addition	O
+bass_44	to	O
+bass_44	the	O
+bass_44	remix	O
+bass_44	Sykes	O
+bass_44	and	O
+bass_44	Murray	O
+bass_44	re	O
+bass_44	recorded	O
+bass_44	the	O
+bass_44	lead	O
+bass_44	guitar	O
+bass_44	and	O
+bass_44	bass	bass
+bass_44	parts	O

@@ -1,0 +1,8 @@
+animate_70	It	O
+animate_70	does	O
+animate_70	n't	O
+animate_70	exist	O
+animate_70	unless	O
+animate_70	I	O
+animate_70	animate	animate_vrb
+animate_70	it	O

@@ -1,0 +1,15 @@
+abuses_58	The	O
+abuses_58	people	O
+abuses_58	needed	O
+abuses_58	more	O
+abuses_58	time	O
+abuses_58	for	O
+abuses_58	productive	O
+abuses_58	pursuits	O
+abuses_58	while	O
+abuses_58	correcting	O
+abuses_58	social	O
+abuses_58	abuses	abuses_nou
+abuses_58	of	O
+abuses_58	the	O
+abuses_58	past	O

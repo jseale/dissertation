@@ -1,0 +1,12 @@
+lives_9	It	O
+lives_9	is	O
+lives_9	a	O
+lives_9	popular	O
+lives_9	belief	O
+lives_9	that	O
+lives_9	he	O
+lives_9	only	O
+lives_9	lives	lives_vrb
+lives_9	in	O
+lives_9	the	O
+lives_9	dark	O

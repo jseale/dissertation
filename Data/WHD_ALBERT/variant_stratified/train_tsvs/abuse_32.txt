@@ -1,0 +1,9 @@
+abuse_32	The	O
+abuse_32	Speed	O
+abuse_32	Culture	O
+abuse_32	Amphetamine	O
+abuse_32	Use	O
+abuse_32	and	O
+abuse_32	Abuse	abuse_nou
+abuse_32	in	O
+abuse_32	America	O

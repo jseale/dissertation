@@ -1,0 +1,15 @@
+convert_5	Thus	O
+convert_5	mozpotools	O
+convert_5	was	O
+convert_5	created	O
+convert_5	to	O
+convert_5	convert	convert_vrb
+convert_5	the	O
+convert_5	Mozilla	O
+convert_5	DTD	O
+convert_5	and	O
+convert_5	.properties	O
+convert_5	files	O
+convert_5	to	O
+convert_5	Gettext	O
+convert_5	PO	O

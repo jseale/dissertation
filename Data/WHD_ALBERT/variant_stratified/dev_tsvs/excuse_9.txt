@@ -1,0 +1,10 @@
+excuse_9	In	O
+excuse_9	2007	O
+excuse_9	Andy	O
+excuse_9	wrote	O
+excuse_9	Excuse	excuse_vrb
+excuse_9	Me	O
+excuse_9	Your	O
+excuse_9	Planet	O
+excuse_9	Is	O
+excuse_9	Burning	O

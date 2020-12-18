@@ -1,0 +1,17 @@
+analyses_7	Nonformalized	O
+analyses_7	analyses	analyses_nou
+analyses_7	apart	O
+analyses_7	from	O
+analyses_7	musical	O
+analyses_7	and	O
+analyses_7	analytical	O
+analyses_7	terms	O
+analyses_7	do	O
+analyses_7	not	O
+analyses_7	use	O
+analyses_7	resources	O
+analyses_7	or	O
+analyses_7	techniques	O
+analyses_7	other	O
+analyses_7	than	O
+analyses_7	language	O

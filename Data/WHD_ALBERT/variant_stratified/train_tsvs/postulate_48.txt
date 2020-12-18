@@ -1,0 +1,10 @@
+postulate_48	Bertrand	O
+postulate_48	's	O
+postulate_48	postulate	postulate_nou
+postulate_48	was	O
+postulate_48	proposed	O
+postulate_48	for	O
+postulate_48	applications	O
+postulate_48	to	O
+postulate_48	permutation	O
+postulate_48	groups	O

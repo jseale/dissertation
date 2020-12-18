@@ -1,0 +1,14 @@
+pervert_1	In	O
+pervert_1	the	O
+pervert_1	manga	O
+pervert_1	his	O
+pervert_1	personality	O
+pervert_1	comes	O
+pervert_1	across	O
+pervert_1	as	O
+pervert_1	a	O
+pervert_1	pervert	pervert_nou
+pervert_1	with	O
+pervert_1	a	O
+pervert_1	sadistic	O
+pervert_1	streak	O

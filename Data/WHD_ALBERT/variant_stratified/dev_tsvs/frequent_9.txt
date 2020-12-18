@@ -1,0 +1,8 @@
+frequent_9	He	O
+frequent_9	made	O
+frequent_9	frequent	frequent_adj
+frequent_9	appearances	O
+frequent_9	on	O
+frequent_9	The	O
+frequent_9	Tonight	O
+frequent_9	Show	O

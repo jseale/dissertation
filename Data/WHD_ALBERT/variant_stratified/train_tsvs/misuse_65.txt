@@ -1,0 +1,16 @@
+misuse_65	It	O
+misuse_65	retained	O
+misuse_65	the	O
+misuse_65	powers	O
+misuse_65	given	O
+misuse_65	to	O
+misuse_65	SEBI	O
+misuse_65	in	O
+misuse_65	the	O
+misuse_65	ordinance	O
+misuse_65	but	O
+misuse_65	also	O
+misuse_65	introduced	O
+misuse_65	safeguards	O
+misuse_65	against	O
+misuse_65	misuse	misuse_nou

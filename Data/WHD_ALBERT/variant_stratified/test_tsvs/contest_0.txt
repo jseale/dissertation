@@ -1,0 +1,16 @@
+contest_0	The	O
+contest_0	Chronicle	O
+contest_0	of	O
+contest_0	Hugh	O
+contest_0	of	O
+contest_0	Flavigny	O
+contest_0	Reform	O
+contest_0	and	O
+contest_0	the	O
+contest_0	Investiture	O
+contest_0	Contest	contest_nou
+contest_0	in	O
+contest_0	the	O
+contest_0	Late	O
+contest_0	Eleventh	O
+contest_0	Century	O

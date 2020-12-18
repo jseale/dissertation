@@ -1,0 +1,15 @@
+reading_6	After	O
+reading_6	reading	reading_en
+reading_6	it	O
+reading_6	and	O
+reading_6	promoting	O
+reading_6	its	O
+reading_6	publication	O
+reading_6	Freud	O
+reading_6	commended	O
+reading_6	Groddeck	O
+reading_6	to	O
+reading_6	the	O
+reading_6	Berlin	O
+reading_6	Psychoanalytic	O
+reading_6	Association	O

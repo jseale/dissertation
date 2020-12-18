@@ -1,0 +1,14 @@
+alternate_23	He	O
+alternate_23	was	O
+alternate_23	an	O
+alternate_23	editor	O
+alternate_23	and	O
+alternate_23	contributor	O
+alternate_23	to	O
+alternate_23	Greenhill	O
+alternate_23	's	O
+alternate_23	Alternate	alternate_adj-nou
+alternate_23	Decisions	O
+alternate_23	series	O
+alternate_23	since	O
+alternate_23	1995	O

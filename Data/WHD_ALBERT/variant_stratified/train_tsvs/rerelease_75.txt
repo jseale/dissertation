@@ -1,0 +1,12 @@
+rerelease_75	Kodansha	O
+rerelease_75	USA	O
+rerelease_75	is	O
+rerelease_75	due	O
+rerelease_75	to	O
+rerelease_75	rerelease	rerelease_vrb
+rerelease_75	it	O
+rerelease_75	in	O
+rerelease_75	omnibus	O
+rerelease_75	format	O
+rerelease_75	during	O
+rerelease_75	2014	O

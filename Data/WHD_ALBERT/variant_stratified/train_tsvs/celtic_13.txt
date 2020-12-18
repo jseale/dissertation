@@ -1,0 +1,8 @@
+celtic_13	Celtic	celtic
+celtic_13	Tiger	O
+celtic_13	is	O
+celtic_13	my	O
+celtic_13	finest	O
+celtic_13	work	O
+celtic_13	to	O
+celtic_13	date	O

@@ -1,0 +1,14 @@
+implement_12	VESA	O
+implement_12	which	O
+implement_12	created	O
+implement_12	the	O
+implement_12	DisplayPort	O
+implement_12	standard	O
+implement_12	states	O
+implement_12	the	O
+implement_12	standard	O
+implement_12	is	O
+implement_12	royalty	O
+implement_12	free	O
+implement_12	to	O
+implement_12	implement	implement_vrb

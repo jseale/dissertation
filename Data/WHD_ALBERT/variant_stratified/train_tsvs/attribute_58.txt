@@ -1,0 +1,12 @@
+attribute_58	They	O
+attribute_58	attribute	attribute_vrb
+attribute_58	to	O
+attribute_58	mistranslation	O
+attribute_58	and	O
+attribute_58	as	O
+attribute_58	a	O
+attribute_58	later	O
+attribute_58	creation	O
+attribute_58	of	O
+attribute_58	the	O
+attribute_58	church	O

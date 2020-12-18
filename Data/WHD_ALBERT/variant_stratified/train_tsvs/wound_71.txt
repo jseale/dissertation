@@ -1,0 +1,12 @@
+wound_71	Unlike	O
+wound_71	most	O
+wound_71	engines	O
+wound_71	which	O
+wound_71	have	O
+wound_71	nested	O
+wound_71	coil	O
+wound_71	springs	O
+wound_71	wound	wound_vrb
+wound_71	from	O
+wound_71	round	O
+wound_71	wire	O

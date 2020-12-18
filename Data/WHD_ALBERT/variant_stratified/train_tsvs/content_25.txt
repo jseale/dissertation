@@ -1,0 +1,17 @@
+content_25	Content	content_nou
+content_25	from	O
+content_25	the	O
+content_25	United	O
+content_25	States	O
+content_25	diplomatic	O
+content_25	cables	O
+content_25	leak	O
+content_25	has	O
+content_25	depicted	O
+content_25	Sub	O
+content_25	Saharan	O
+content_25	Africa	O
+content_25	and	O
+content_25	related	O
+content_25	subjects	O
+content_25	extensively	O

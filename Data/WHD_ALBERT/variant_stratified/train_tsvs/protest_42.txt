@@ -1,0 +1,16 @@
+protest_42	He	O
+protest_42	resigned	O
+protest_42	as	O
+protest_42	chair	O
+protest_42	of	O
+protest_42	the	O
+protest_42	parliamentary	O
+protest_42	commission	O
+protest_42	on	O
+protest_42	foreign	O
+protest_42	relations	O
+protest_42	in	O
+protest_42	protest	protest_nou
+protest_42	of	O
+protest_42	this	O
+protest_42	alliance	O

@@ -1,0 +1,14 @@
+convict_6	It	O
+convict_6	tells	O
+convict_6	the	O
+convict_6	true	O
+convict_6	story	O
+convict_6	of	O
+convict_6	Wally	O
+convict_6	Mellish	O
+convict_6	an	O
+convict_6	ex	O
+convict_6	convict	convict_nou
+convict_6	in	O
+convict_6	1960s	O
+convict_6	Australia	O

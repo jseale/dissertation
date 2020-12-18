@@ -1,0 +1,17 @@
+abuse_43	There	O
+abuse_43	has	O
+abuse_43	been	O
+abuse_43	speculation	O
+abuse_43	over	O
+abuse_43	whether	O
+abuse_43	the	O
+abuse_43	new	O
+abuse_43	SNDRIs	O
+abuse_43	will	O
+abuse_43	have	O
+abuse_43	an	O
+abuse_43	abuse	abuse_nou
+abuse_43	potential	O
+abuse_43	like	O
+abuse_43	cocaine	O
+abuse_43	does	O

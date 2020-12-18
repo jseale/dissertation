@@ -1,0 +1,16 @@
+document_16	The	O
+document_16	601-page	O
+document_16	document	document_nou
+document_16	detailed	O
+document_16	many	O
+document_16	U.S.	O
+document_16	intelligence	O
+document_16	failures	O
+document_16	and	O
+document_16	identified	O
+document_16	intelligence	O
+document_16	breakdowns	O
+document_16	in	O
+document_16	dozens	O
+document_16	of	O
+document_16	cases	O

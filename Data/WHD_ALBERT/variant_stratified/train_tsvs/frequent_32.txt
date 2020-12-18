@@ -1,0 +1,17 @@
+frequent_32	Le	O
+frequent_32	Culot	O
+frequent_32	Air	O
+frequent_32	Base	O
+frequent_32	was	O
+frequent_32	a	O
+frequent_32	frequent	frequent_adj
+frequent_32	target	O
+frequent_32	of	O
+frequent_32	USAAF	O
+frequent_32	Ninth	O
+frequent_32	Air	O
+frequent_32	Force	O
+frequent_32	B-26	O
+frequent_32	Marauder	O
+frequent_32	medium	O
+frequent_32	bombers	O

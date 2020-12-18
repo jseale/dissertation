@@ -1,0 +1,14 @@
+insult_5	Triumph	O
+insult_5	the	O
+insult_5	Insult	insult_nou
+insult_5	Comic	O
+insult_5	Dog	O
+insult_5	began	O
+insult_5	as	O
+insult_5	part	O
+insult_5	of	O
+insult_5	a	O
+insult_5	sketch	O
+insult_5	on	O
+insult_5	Late	O
+insult_5	Night	O

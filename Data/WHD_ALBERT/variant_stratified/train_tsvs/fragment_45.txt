@@ -1,0 +1,16 @@
+fragment_45	The	O
+fragment_45	military	O
+fragment_45	engineering	O
+fragment_45	data	O
+fragment_45	showed	O
+fragment_45	that	O
+fragment_45	like	O
+fragment_45	the	O
+fragment_45	fragment	fragment_nou
+fragment_45	size	O
+fragment_45	the	O
+fragment_45	fragment	fragment_nou
+fragment_45	velocities	O
+fragment_45	had	O
+fragment_45	characteristic	O
+fragment_45	distributions	O

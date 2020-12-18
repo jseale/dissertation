@@ -1,0 +1,15 @@
+content_4	Under	O
+content_4	the	O
+content_4	reign	O
+content_4	of	O
+content_4	Shah	O
+content_4	Jahan	O
+content_4	the	O
+content_4	symbolic	O
+content_4	content	content_nou
+content_4	of	O
+content_4	Mughal	O
+content_4	architecture	O
+content_4	reached	O
+content_4	a	O
+content_4	peak	O

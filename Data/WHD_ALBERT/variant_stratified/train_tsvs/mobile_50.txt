@@ -1,0 +1,16 @@
+mobile_50	In	O
+mobile_50	2004	O
+mobile_50	a	O
+mobile_50	version	O
+mobile_50	for	O
+mobile_50	mobile	mobile
+mobile_50	phones	O
+mobile_50	was	O
+mobile_50	developed	O
+mobile_50	and	O
+mobile_50	published	O
+mobile_50	in	O
+mobile_50	North	O
+mobile_50	America	O
+mobile_50	by	O
+mobile_50	Gameloft	O

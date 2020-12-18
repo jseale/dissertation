@@ -1,0 +1,12 @@
+invite_1	This	O
+invite_1	victory	O
+invite_1	earned	O
+invite_1	Scherr	O
+invite_1	an	O
+invite_1	invite	invite_nou
+invite_1	to	O
+invite_1	the	O
+invite_1	2013	O
+invite_1	Arnold	O
+invite_1	Strongman	O
+invite_1	Classic	O

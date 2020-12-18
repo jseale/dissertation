@@ -1,0 +1,16 @@
+diffuse_9	Phosphorus	O
+diffuse_9	also	O
+diffuse_9	traps	O
+diffuse_9	gold	O
+diffuse_9	atoms	O
+diffuse_9	which	O
+diffuse_9	otherwise	O
+diffuse_9	quickly	O
+diffuse_9	diffuse	diffuse_vrb
+diffuse_9	through	O
+diffuse_9	silicon	O
+diffuse_9	and	O
+diffuse_9	act	O
+diffuse_9	as	O
+diffuse_9	recombination	O
+diffuse_9	centers	O

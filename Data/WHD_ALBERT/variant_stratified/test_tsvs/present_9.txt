@@ -1,0 +1,13 @@
+present_9	Patients	O
+present_9	initially	O
+present_9	present	present_vrb
+present_9	with	O
+present_9	mild	O
+present_9	to	O
+present_9	moderate	O
+present_9	impairment	O
+present_9	of	O
+present_9	central	O
+present_9	nervous	O
+present_9	system	O
+present_9	function	O

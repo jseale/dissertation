@@ -1,0 +1,11 @@
+convict_28	His	O
+convict_28	mother	O
+convict_28	Isabella	O
+convict_28	was	O
+convict_28	a	O
+convict_28	convict	convict_nou
+convict_28	sentenced	O
+convict_28	to	O
+convict_28	transportation	O
+convict_28	for	O
+convict_28	theft	O

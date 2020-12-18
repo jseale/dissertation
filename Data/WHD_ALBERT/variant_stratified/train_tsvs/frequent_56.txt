@@ -1,0 +1,13 @@
+frequent_56	Sonia	O
+frequent_56	Grande	O
+frequent_56	another	O
+frequent_56	frequent	frequent_adj
+frequent_56	collaborator	O
+frequent_56	was	O
+frequent_56	responsible	O
+frequent_56	for	O
+frequent_56	the	O
+frequent_56	film	O
+frequent_56	's	O
+frequent_56	costume	O
+frequent_56	design	O

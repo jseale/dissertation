@@ -1,0 +1,15 @@
+frequent_4	Avocado	O
+frequent_4	trees	O
+frequent_4	require	O
+frequent_4	frequent	frequent_adj
+frequent_4	deep	O
+frequent_4	watering	O
+frequent_4	to	O
+frequent_4	bear	O
+frequent_4	optimally	O
+frequent_4	particularly	O
+frequent_4	in	O
+frequent_4	spring	O
+frequent_4	summer	O
+frequent_4	and	O
+frequent_4	fall	O

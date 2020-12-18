@@ -1,0 +1,14 @@
+estimate_33	The	O
+estimate_33	minimum	O
+estimate_33	proportion	O
+estimate_33	is	O
+estimate_33	8	O
+estimate_33	of	O
+estimate_33	Izmir	O
+estimate_33	population	O
+estimate_33	while	O
+estimate_33	the	O
+estimate_33	maximum	O
+estimate_33	estimate	estimate_nou
+estimate_33	is	O
+estimate_33	17	O

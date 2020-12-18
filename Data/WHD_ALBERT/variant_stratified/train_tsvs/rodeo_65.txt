@@ -1,0 +1,11 @@
+rodeo_65	Chilean	O
+rodeo_65	rodeo	rodeo
+rodeo_65	is	O
+rodeo_65	different	O
+rodeo_65	from	O
+rodeo_65	the	O
+rodeo_65	rodeo	rodeo
+rodeo_65	found	O
+rodeo_65	in	O
+rodeo_65	North	O
+rodeo_65	America	O

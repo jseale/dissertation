@@ -1,0 +1,11 @@
+invite_52	They	O
+invite_52	invite	invite_vrb
+invite_52	Rosie	O
+invite_52	to	O
+invite_52	be	O
+invite_52	the	O
+invite_52	best	O
+invite_52	man	O
+invite_52	at	O
+invite_52	their	O
+invite_52	wedding	O

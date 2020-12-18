@@ -1,0 +1,14 @@
+refuse_10	In	O
+refuse_10	the	O
+refuse_10	Ethiopian	O
+refuse_10	Highlands	O
+refuse_10	bearded	O
+refuse_10	vultures	O
+refuse_10	have	O
+refuse_10	adapted	O
+refuse_10	to	O
+refuse_10	living	O
+refuse_10	largely	O
+refuse_10	off	O
+refuse_10	human	O
+refuse_10	refuse	refuse_nou

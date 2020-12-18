@@ -1,0 +1,15 @@
+coordinate_57	Workers	O
+coordinate_57	may	O
+coordinate_57	arrange	O
+coordinate_57	to	O
+coordinate_57	coordinate	coordinate_vrb
+coordinate_57	their	O
+coordinate_57	days	O
+coordinate_57	off	O
+coordinate_57	so	O
+coordinate_57	that	O
+coordinate_57	their	O
+coordinate_57	responsibilities	O
+coordinate_57	are	O
+coordinate_57	adequately	O
+coordinate_57	covered	O

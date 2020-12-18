@@ -1,0 +1,14 @@
+use_19	In	O
+use_19	December	O
+use_19	2004	O
+use_19	the	O
+use_19	School	O
+use_19	Board	O
+use_19	decided	O
+use_19	to	O
+use_19	retain	O
+use_19	the	O
+use_19	use	use_nou
+use_19	of	O
+use_19	corporal	O
+use_19	punishment	O

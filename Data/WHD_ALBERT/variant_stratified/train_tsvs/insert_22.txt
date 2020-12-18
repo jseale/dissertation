@@ -1,0 +1,11 @@
+insert_22	Insert	insert_nou
+insert_22	cards	O
+insert_22	are	O
+insert_22	randomly	O
+insert_22	inserted	O
+insert_22	into	O
+insert_22	packs	O
+insert_22	at	O
+insert_22	a	O
+insert_22	specific	O
+insert_22	ratio	O

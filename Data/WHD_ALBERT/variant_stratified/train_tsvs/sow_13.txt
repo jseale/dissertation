@@ -1,0 +1,14 @@
+sow_13	Nor	O
+sow_13	was	O
+sow_13	it	O
+sow_13	enough	O
+sow_13	to	O
+sow_13	comb	O
+sow_13	and	O
+sow_13	to	O
+sow_13	sow	sow
+sow_13	the	O
+sow_13	materials	O
+sow_13	for	O
+sow_13	a	O
+sow_13	tunic	O

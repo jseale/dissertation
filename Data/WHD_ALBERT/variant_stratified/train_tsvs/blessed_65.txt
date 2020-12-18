@@ -1,0 +1,9 @@
+blessed_65	The	O
+blessed_65	doors	O
+blessed_65	were	O
+blessed_65	commissioned	O
+blessed_65	and	O
+blessed_65	blessed	blessed_vrb
+blessed_65	by	O
+blessed_65	Bishop	O
+blessed_65	Gaydos	O

@@ -1,0 +1,13 @@
+produce_60	The	O
+produce_60	backers	O
+produce_60	were	O
+produce_60	impressed	O
+produce_60	and	O
+produce_60	contracts	O
+produce_60	were	O
+produce_60	drawn	O
+produce_60	up	O
+produce_60	to	O
+produce_60	produce	produce_vrb
+produce_60	50	O
+produce_60	units	O

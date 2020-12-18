@@ -1,0 +1,12 @@
+excuse_6	Tito	O
+excuse_6	personally	O
+excuse_6	invited	O
+excuse_6	refused	O
+excuse_6	to	O
+excuse_6	attend	O
+excuse_6	under	O
+excuse_6	a	O
+excuse_6	dubious	O
+excuse_6	excuse	excuse_nou
+excuse_6	of	O
+excuse_6	illness	O

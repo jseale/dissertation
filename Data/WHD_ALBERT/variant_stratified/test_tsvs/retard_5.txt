@@ -1,0 +1,11 @@
+retard_5	Static	O
+retard_5	magnetic	O
+retard_5	fields	O
+retard_5	for	O
+retard_5	reasons	O
+retard_5	still	O
+retard_5	unknown	O
+retard_5	also	O
+retard_5	retard	retard_vrb
+retard_5	animal	O
+retard_5	development	O

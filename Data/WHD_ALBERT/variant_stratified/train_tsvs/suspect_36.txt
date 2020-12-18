@@ -1,0 +1,17 @@
+suspect_36	Third	O
+suspect_36	the	O
+suspect_36	focus	O
+suspect_36	shifts	O
+suspect_36	to	O
+suspect_36	the	O
+suspect_36	identity	O
+suspect_36	of	O
+suspect_36	the	O
+suspect_36	suspect	suspect_adj-nou
+suspect_36	and	O
+suspect_36	actions	O
+suspect_36	taken	O
+suspect_36	to	O
+suspect_36	apprehend	O
+suspect_36	the	O
+suspect_36	perpetrator	O

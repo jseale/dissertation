@@ -1,0 +1,16 @@
+fragment_0	Its	O
+fragment_0	Fab	O
+fragment_0	fragment	fragment_nou
+fragment_0	was	O
+fragment_0	crystallized	O
+fragment_0	in	O
+fragment_0	complex	O
+fragment_0	with	O
+fragment_0	the	O
+fragment_0	ED3	O
+fragment_0	domains	O
+fragment_0	of	O
+fragment_0	DENV1	O
+fragment_0	DENV3	O
+fragment_0	and	O
+fragment_0	DENV4	O

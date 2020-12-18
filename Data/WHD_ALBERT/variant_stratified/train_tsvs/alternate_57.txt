@@ -1,0 +1,17 @@
+alternate_57	The	O
+alternate_57	Supreme	O
+alternate_57	Squadron	O
+alternate_57	members	O
+alternate_57	exist	O
+alternate_57	in	O
+alternate_57	numerous	O
+alternate_57	alternate	alternate_adj-nou
+alternate_57	universes	O
+alternate_57	but	O
+alternate_57	their	O
+alternate_57	main	O
+alternate_57	and	O
+alternate_57	original	O
+alternate_57	timeline	O
+alternate_57	is	O
+alternate_57	Earth-712	O

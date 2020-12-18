@@ -1,0 +1,16 @@
+celtic_52	Henry	O
+celtic_52	names	O
+celtic_52	this	O
+celtic_52	town	O
+celtic_52	as	O
+celtic_52	Dormchester	O
+celtic_52	a	O
+celtic_52	name	O
+celtic_52	which	O
+celtic_52	he	O
+celtic_52	translates	O
+celtic_52	from	O
+celtic_52	the	O
+celtic_52	Celtic	celtic
+celtic_52	Kair	O
+celtic_52	Dorm	O

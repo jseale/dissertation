@@ -1,0 +1,17 @@
+winds_46	Summer	O
+winds_46	frequently	O
+winds_46	features	O
+winds_46	thunderstorms	O
+winds_46	that	O
+winds_46	are	O
+winds_46	preceded	O
+winds_46	with	O
+winds_46	persistent	O
+winds_46	winds	winds_nou
+winds_46	and	O
+winds_46	occasionally	O
+winds_46	produce	O
+winds_46	small	O
+winds_46	grain	O
+winds_46	sized	O
+winds_46	hail	O

@@ -1,0 +1,12 @@
+invite_26	Firecats	O
+invite_26	invite	invite_vrb
+invite_26	back	O
+invite_26	coaches	O
+invite_26	Mastrole	O
+invite_26	Hall	O
+invite_26	Naples	O
+invite_26	Daily	O
+invite_26	News	O
+invite_26	September	O
+invite_26	24	O
+invite_26	2005	O

@@ -1,0 +1,13 @@
+wind_8	Paegam	O
+wind_8	also	O
+wind_8	has	O
+wind_8	the	O
+wind_8	highest	O
+wind_8	wind	wind_nou
+wind_8	speeds	O
+wind_8	of	O
+wind_8	any	O
+wind_8	district	O
+wind_8	in	O
+wind_8	North	O
+wind_8	Korea	O

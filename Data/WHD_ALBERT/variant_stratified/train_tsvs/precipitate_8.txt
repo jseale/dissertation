@@ -1,0 +1,13 @@
+precipitate_8	This	O
+precipitate_8	produces	O
+precipitate_8	a	O
+precipitate_8	gel	O
+precipitate_8	like	O
+precipitate_8	precipitate	precipitate_adj-nou
+precipitate_8	that	O
+precipitate_8	can	O
+precipitate_8	then	O
+precipitate_8	be	O
+precipitate_8	dried	O
+precipitate_8	in	O
+precipitate_8	air	O

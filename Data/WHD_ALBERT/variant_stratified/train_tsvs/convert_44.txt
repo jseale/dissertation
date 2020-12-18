@@ -1,0 +1,15 @@
+convert_44	He	O
+convert_44	was	O
+convert_44	one	O
+convert_44	of	O
+convert_44	the	O
+convert_44	few	O
+convert_44	pagan	O
+convert_44	leaders	O
+convert_44	of	O
+convert_44	the	O
+convert_44	Carantanians	O
+convert_44	to	O
+convert_44	convert	convert_vrb
+convert_44	to	O
+convert_44	Christianity	O

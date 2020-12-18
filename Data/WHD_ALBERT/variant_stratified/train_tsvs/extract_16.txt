@@ -1,0 +1,16 @@
+extract_16	Its	O
+extract_16	wines	O
+extract_16	are	O
+extract_16	rich	O
+extract_16	in	O
+extract_16	extract	extract_nou
+extract_16	and	O
+extract_16	are	O
+extract_16	found	O
+extract_16	as	O
+extract_16	dry	O
+extract_16	medium	O
+extract_16	dry	O
+extract_16	and	O
+extract_16	sweet	O
+extract_16	wines	O

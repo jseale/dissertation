@@ -1,0 +1,9 @@
+lead_61	The	O
+lead_61	win	O
+lead_61	put	O
+lead_61	him	O
+lead_61	back	O
+lead_61	into	O
+lead_61	the	O
+lead_61	point	O
+lead_61	lead	lead_nou-vrb

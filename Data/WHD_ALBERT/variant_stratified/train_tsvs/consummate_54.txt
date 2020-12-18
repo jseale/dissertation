@@ -1,0 +1,14 @@
+consummate_54	John	O
+consummate_54	A.	O
+consummate_54	Hardon	O
+consummate_54	S.J.	O
+consummate_54	state	O
+consummate_54	that	O
+consummate_54	intercourse	O
+consummate_54	with	O
+consummate_54	contraception	O
+consummate_54	does	O
+consummate_54	not	O
+consummate_54	consummate	consummate_vrb
+consummate_54	a	O
+consummate_54	marriage	O

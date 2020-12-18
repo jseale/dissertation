@@ -1,0 +1,16 @@
+lives_26	Another	O
+lives_26	concern	O
+lives_26	of	O
+lives_26	ADA	O
+lives_26	is	O
+lives_26	to	O
+lives_26	impress	O
+lives_26	on	O
+lives_26	Austrians	O
+lives_26	how	O
+lives_26	development	O
+lives_26	cooperation	O
+lives_26	directly	O
+lives_26	affects	O
+lives_26	their	O
+lives_26	lives	lives_nou

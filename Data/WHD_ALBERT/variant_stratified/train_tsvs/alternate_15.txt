@@ -1,0 +1,14 @@
+alternate_15	In	O
+alternate_15	the	O
+alternate_15	alternate	alternate_adj-nou
+alternate_15	timeline	O
+alternate_15	of	O
+alternate_15	the	O
+alternate_15	Flashpoint	O
+alternate_15	Madame	O
+alternate_15	Xanadu	O
+alternate_15	is	O
+alternate_15	still	O
+alternate_15	a	O
+alternate_15	fortune	O
+alternate_15	teller	O

@@ -1,0 +1,16 @@
+perfume_3	In	O
+perfume_3	April	O
+perfume_3	2014	O
+perfume_3	Grant	O
+perfume_3	launched	O
+perfume_3	his	O
+perfume_3	new	O
+perfume_3	unisex	O
+perfume_3	perfume	perfume_nou
+perfume_3	JACK	O
+perfume_3	exclusively	O
+perfume_3	at	O
+perfume_3	Liberty	O
+perfume_3	of	O
+perfume_3	Regent	O
+perfume_3	Street	O

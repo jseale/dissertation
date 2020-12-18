@@ -1,0 +1,11 @@
+diagnoses_36	Part	O
+diagnoses_36	two	O
+diagnoses_36	Theories	O
+diagnoses_36	Predictions	O
+diagnoses_36	and	O
+diagnoses_36	Diagnoses	diagnoses_nou
+diagnoses_36	describes	O
+diagnoses_36	the	O
+diagnoses_36	problems	O
+diagnoses_36	of	O
+diagnoses_36	prediction	O

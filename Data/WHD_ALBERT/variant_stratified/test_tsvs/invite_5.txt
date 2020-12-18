@@ -1,0 +1,13 @@
+invite_5	Unstaffed	O
+invite_5	HEETs	O
+invite_5	with	O
+invite_5	emergency	O
+invite_5	exits	O
+invite_5	a	O
+invite_5	generally	O
+invite_5	unsupervised	O
+invite_5	environment	O
+invite_5	might	O
+invite_5	invite	invite_vrb
+invite_5	rampant	O
+invite_5	evasions	O

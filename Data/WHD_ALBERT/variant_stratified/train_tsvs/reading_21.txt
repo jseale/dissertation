@@ -1,0 +1,15 @@
+reading_21	His	O
+reading_21	reading	reading_en
+reading_21	was	O
+reading_21	fast	O
+reading_21	and	O
+reading_21	accurate	O
+reading_21	and	O
+reading_21	his	O
+reading_21	intuition	O
+reading_21	and	O
+reading_21	positional	O
+reading_21	judgment	O
+reading_21	were	O
+reading_21	often	O
+reading_21	praised	O

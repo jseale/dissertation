@@ -1,0 +1,15 @@
+consummate_39	He	O
+consummate_39	was	O
+consummate_39	a	O
+consummate_39	consummate	consummate_adj
+consummate_39	pilot	O
+consummate_39	and	O
+consummate_39	was	O
+consummate_39	equally	O
+consummate_39	at	O
+consummate_39	home	O
+consummate_39	with	O
+consummate_39	jets	O
+consummate_39	and	O
+consummate_39	propeller	O
+consummate_39	airplanes	O

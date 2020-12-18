@@ -1,0 +1,13 @@
+affect_67	Additionally	O
+affect_67	other	O
+affect_67	psychological	O
+affect_67	constructs	O
+affect_67	suggest	O
+affect_67	further	O
+affect_67	limits	O
+affect_67	on	O
+affect_67	how	O
+affect_67	context	O
+affect_67	can	O
+affect_67	affect	affect
+affect_67	memory	O

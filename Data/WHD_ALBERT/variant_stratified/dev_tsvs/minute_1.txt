@@ -1,0 +1,17 @@
+minute_1	Gylfi	O
+minute_1	Sigurthsson	O
+minute_1	levelled	O
+minute_1	in	O
+minute_1	the	O
+minute_1	70th	O
+minute_1	minute	minute
+minute_1	but	O
+minute_1	seven	O
+minute_1	minutes	O
+minute_1	later	O
+minute_1	Wayne	O
+minute_1	Rooney	O
+minute_1	flicked	O
+minute_1	home	O
+minute_1	the	O
+minute_1	winner	O

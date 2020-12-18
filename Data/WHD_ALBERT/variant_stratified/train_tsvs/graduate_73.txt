@@ -1,0 +1,15 @@
+graduate_73	She	O
+graduate_73	is	O
+graduate_73	a	O
+graduate_73	post	O
+graduate_73	graduate	graduate_adj-nou
+graduate_73	in	O
+graduate_73	Biochemistry	O
+graduate_73	and	O
+graduate_73	did	O
+graduate_73	her	O
+graduate_73	Bachelor	O
+graduate_73	's	O
+graduate_73	degree	O
+graduate_73	in	O
+graduate_73	Law	O

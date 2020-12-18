@@ -1,0 +1,15 @@
+intrigue_58	Through	O
+intrigue_58	intrigue	intrigue_nou
+intrigue_58	and	O
+intrigue_58	sometimes	O
+intrigue_58	criticism	O
+intrigue_58	of	O
+intrigue_58	his	O
+intrigue_58	expensive	O
+intrigue_58	projects	O
+intrigue_58	he	O
+intrigue_58	was	O
+intrigue_58	later	O
+intrigue_58	forced	O
+intrigue_58	to	O
+intrigue_58	resign	O

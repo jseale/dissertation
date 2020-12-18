@@ -1,0 +1,11 @@
+delegate_2	In	O
+delegate_2	1846	O
+delegate_2	he	O
+delegate_2	was	O
+delegate_2	the	O
+delegate_2	delegate	delegate_nou
+delegate_2	of	O
+delegate_2	the	O
+delegate_2	Iowa	O
+delegate_2	Constitutional	O
+delegate_2	Convention	O

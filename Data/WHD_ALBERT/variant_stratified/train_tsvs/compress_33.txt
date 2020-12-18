@@ -1,0 +1,15 @@
+compress_33	As	O
+compress_33	the	O
+compress_33	pressure	O
+compress_33	waves	O
+compress_33	converge	O
+compress_33	the	O
+compress_33	air	O
+compress_33	in	O
+compress_33	front	O
+compress_33	of	O
+compress_33	the	O
+compress_33	aircraft	O
+compress_33	begins	O
+compress_33	to	O
+compress_33	compress	compress

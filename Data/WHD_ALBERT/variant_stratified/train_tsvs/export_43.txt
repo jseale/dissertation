@@ -1,0 +1,13 @@
+export_43	Export	export_nou
+export_43	believed	O
+export_43	the	O
+export_43	television	O
+export_43	could	O
+export_43	complicate	O
+export_43	the	O
+export_43	relationship	O
+export_43	between	O
+export_43	subject	O
+export_43	spectator	O
+export_43	and	O
+export_43	television	O

@@ -1,0 +1,16 @@
+wound_6	The	O
+wound_6	couple	O
+wound_6	separated	O
+wound_6	in	O
+wound_6	1988	O
+wound_6	and	O
+wound_6	in	O
+wound_6	the	O
+wound_6	following	O
+wound_6	year	O
+wound_6	Fabio	O
+wound_6	Garcia	O
+wound_6	's	O
+wound_6	company	O
+wound_6	wound	wound_vrb
+wound_6	up	O

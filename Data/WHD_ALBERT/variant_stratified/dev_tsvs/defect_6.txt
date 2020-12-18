@@ -1,0 +1,8 @@
+defect_6	No	O
+defect_6	defect	defect_nou
+defect_6	in	O
+defect_6	the	O
+defect_6	aircraft	O
+defect_6	itself	O
+defect_6	was	O
+defect_6	found	O

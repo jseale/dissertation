@@ -1,0 +1,17 @@
+abuse_66	They	O
+abuse_66	urged	O
+abuse_66	civilian	O
+abuse_66	review	O
+abuse_66	boards	O
+abuse_66	to	O
+abuse_66	hear	O
+abuse_66	complaints	O
+abuse_66	of	O
+abuse_66	police	O
+abuse_66	abuse	abuse_nou
+abuse_66	a	O
+abuse_66	demand	O
+abuse_66	that	O
+abuse_66	was	O
+abuse_66	ultimately	O
+abuse_66	met	O

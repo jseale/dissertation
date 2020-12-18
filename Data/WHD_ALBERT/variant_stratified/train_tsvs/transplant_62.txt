@@ -1,0 +1,12 @@
+transplant_62	He	O
+transplant_62	was	O
+transplant_62	head	O
+transplant_62	of	O
+transplant_62	the	O
+transplant_62	organ	O
+transplant_62	transplant	transplant_nou
+transplant_62	section	O
+transplant_62	between	O
+transplant_62	1966	O
+transplant_62	and	O
+transplant_62	1968	O

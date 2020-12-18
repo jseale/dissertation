@@ -1,0 +1,17 @@
+recount_15	The	O
+recount_15	result	O
+recount_15	of	O
+recount_15	the	O
+recount_15	election	O
+recount_15	was	O
+recount_15	not	O
+recount_15	changed	O
+recount_15	through	O
+recount_15	the	O
+recount_15	recount	recount_nou
+recount_15	as	O
+recount_15	no	O
+recount_15	serious	O
+recount_15	errors	O
+recount_15	were	O
+recount_15	determined	O

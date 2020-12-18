@@ -1,0 +1,13 @@
+close_5	During	O
+close_5	this	O
+close_5	time	O
+close_5	MacPherson	O
+close_5	resided	O
+close_5	in	O
+close_5	Notting	O
+close_5	Hill	O
+close_5	with	O
+close_5	close	close_adj-nou
+close_5	friend	O
+close_5	Robbie	O
+close_5	Williams	O

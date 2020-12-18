@@ -1,0 +1,17 @@
+escort_20	Cowra	O
+escort_20	began	O
+escort_20	active	O
+escort_20	service	O
+escort_20	in	O
+escort_20	November	O
+escort_20	1943	O
+escort_20	as	O
+escort_20	a	O
+escort_20	convoy	O
+escort_20	escort	escort_nou
+escort_20	along	O
+escort_20	the	O
+escort_20	east	O
+escort_20	coast	O
+escort_20	of	O
+escort_20	Australia	O

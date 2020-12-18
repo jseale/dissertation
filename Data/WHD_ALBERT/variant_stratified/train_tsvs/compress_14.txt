@@ -1,0 +1,10 @@
+compress_14	Severe	O
+compress_14	cases	O
+compress_14	can	O
+compress_14	compress	compress
+compress_14	the	O
+compress_14	trachea	O
+compress_14	and	O
+compress_14	do	O
+compress_14	require	O
+compress_14	treatment	O

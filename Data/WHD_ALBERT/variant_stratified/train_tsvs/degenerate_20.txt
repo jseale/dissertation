@@ -1,0 +1,11 @@
+degenerate_20	His	O
+degenerate_20	work	O
+degenerate_20	was	O
+degenerate_20	shown	O
+degenerate_20	in	O
+degenerate_20	the	O
+degenerate_20	Degenerate	degenerate_adj-nou
+degenerate_20	Art	O
+degenerate_20	Exhibition	O
+degenerate_20	of	O
+degenerate_20	1937	O

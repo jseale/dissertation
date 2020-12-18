@@ -1,0 +1,10 @@
+buffet_69	However	O
+buffet_69	Evangeline	O
+buffet_69	and	O
+buffet_69	Alexei	O
+buffet_69	are	O
+buffet_69	more	O
+buffet_69	interested	O
+buffet_69	in	O
+buffet_69	the	O
+buffet_69	buffet	buffet_nou

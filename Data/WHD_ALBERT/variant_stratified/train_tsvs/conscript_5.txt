@@ -1,0 +1,17 @@
+conscript_5	Fifty	O
+conscript_5	or	O
+conscript_5	so	O
+conscript_5	foundries	O
+conscript_5	were	O
+conscript_5	established	O
+conscript_5	each	O
+conscript_5	using	O
+conscript_5	hundreds	O
+conscript_5	or	O
+conscript_5	even	O
+conscript_5	thousands	O
+conscript_5	of	O
+conscript_5	convict	O
+conscript_5	or	O
+conscript_5	conscript	conscript_nou
+conscript_5	laborers	O

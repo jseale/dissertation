@@ -1,0 +1,16 @@
+live_9	It	O
+live_9	mirrored	O
+live_9	many	O
+live_9	of	O
+live_9	KVST	O
+live_9	's	O
+live_9	objectives	O
+live_9	including	O
+live_9	the	O
+live_9	mobile	O
+live_9	bus	O
+live_9	to	O
+live_9	cover	O
+live_9	distant	O
+live_9	events	O
+live_9	live	live_adj

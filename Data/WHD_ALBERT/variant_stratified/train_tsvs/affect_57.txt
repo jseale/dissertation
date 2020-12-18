@@ -1,0 +1,11 @@
+affect_57	Experimental	O
+affect_57	economics	O
+affect_57	researchers	O
+affect_57	have	O
+affect_57	demonstrated	O
+affect_57	how	O
+affect_57	sunspots	O
+affect_57	could	O
+affect_57	affect	affect
+affect_57	economic	O
+affect_57	activity	O

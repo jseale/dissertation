@@ -1,0 +1,17 @@
+delegate_70	Space	O
+delegate_70	received	O
+delegate_70	103	O
+delegate_70	of	O
+delegate_70	the	O
+delegate_70	158	O
+delegate_70	delegate	delegate_nou
+delegate_70	votes	O
+delegate_70	cast	O
+delegate_70	defeating	O
+delegate_70	Bader	O
+delegate_70	Qarmout	O
+delegate_70	John	O
+delegate_70	Wroblewski	O
+delegate_70	and	O
+delegate_70	Mark	O
+delegate_70	Quick	O

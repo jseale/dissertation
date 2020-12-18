@@ -1,0 +1,10 @@
+advocate_78	Ferber	O
+advocate_78	does	O
+advocate_78	not	O
+advocate_78	advocate	advocate_vrb
+advocate_78	simply	O
+advocate_78	leaving	O
+advocate_78	a	O
+advocate_78	baby	O
+advocate_78	to	O
+advocate_78	cry	O

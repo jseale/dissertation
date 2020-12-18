@@ -1,0 +1,15 @@
+progress_67	Conversations	O
+progress_67	with	O
+progress_67	these	O
+progress_67	characters	O
+progress_67	may	O
+progress_67	yield	O
+progress_67	insights	O
+progress_67	or	O
+progress_67	items	O
+progress_67	necessary	O
+progress_67	to	O
+progress_67	progress	progress_vrb
+progress_67	in	O
+progress_67	the	O
+progress_67	game	O

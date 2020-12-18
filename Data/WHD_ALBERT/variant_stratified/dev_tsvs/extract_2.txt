@@ -1,0 +1,17 @@
+extract_2	An	O
+extract_2	extract	extract_nou
+extract_2	of	O
+extract_2	the	O
+extract_2	single	O
+extract_2	I	O
+extract_2	Know	O
+extract_2	You	O
+extract_2	Sleep	O
+extract_2	was	O
+extract_2	released	O
+extract_2	on	O
+extract_2	Bang	O
+extract_2	Gang	O
+extract_2	's	O
+extract_2	Myspace	O
+extract_2	page	O

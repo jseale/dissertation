@@ -1,0 +1,17 @@
+precipitate_45	It	O
+precipitate_45	is	O
+precipitate_45	then	O
+precipitate_45	a	O
+precipitate_45	simple	O
+precipitate_45	matter	O
+precipitate_45	for	O
+precipitate_45	her	O
+precipitate_45	to	O
+precipitate_45	bring	O
+precipitate_45	about	O
+precipitate_45	a	O
+precipitate_45	reconciliation	O
+precipitate_45	and	O
+precipitate_45	precipitate	precipitate_vrb
+precipitate_45	the	O
+precipitate_45	ceremony	O

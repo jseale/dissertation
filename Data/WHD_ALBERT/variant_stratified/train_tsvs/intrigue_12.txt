@@ -1,0 +1,12 @@
+intrigue_12	Beck	O
+intrigue_12	said	O
+intrigue_12	that	O
+intrigue_12	he	O
+intrigue_12	was	O
+intrigue_12	a	O
+intrigue_12	victim	O
+intrigue_12	of	O
+intrigue_12	intrigue	intrigue_nou
+intrigue_12	inside	O
+intrigue_12	the	O
+intrigue_12	SPD	O

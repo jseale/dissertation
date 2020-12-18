@@ -1,0 +1,16 @@
+syndicate_20	Apparently	O
+syndicate_20	a	O
+syndicate_20	part	O
+syndicate_20	of	O
+syndicate_20	the	O
+syndicate_20	Scorpio	O
+syndicate_20	syndicate	syndicate_nou
+syndicate_20	she	O
+syndicate_20	was	O
+syndicate_20	captured	O
+syndicate_20	when	O
+syndicate_20	shot	O
+syndicate_20	by	O
+syndicate_20	an	O
+syndicate_20	unseen	O
+syndicate_20	hitman	O

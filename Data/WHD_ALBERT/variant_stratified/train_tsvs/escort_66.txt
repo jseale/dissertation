@@ -1,0 +1,16 @@
+escort_66	From	O
+escort_66	March	O
+escort_66	1943	O
+escort_66	she	O
+escort_66	was	O
+escort_66	assigned	O
+escort_66	to	O
+escort_66	the	O
+escort_66	Southwest	O
+escort_66	Area	O
+escort_66	Fleet	O
+escort_66	for	O
+escort_66	escort	escort_nou
+escort_66	and	O
+escort_66	transport	O
+escort_66	duties	O

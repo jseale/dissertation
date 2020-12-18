@@ -1,0 +1,11 @@
+produce_8	He	O
+produce_8	also	O
+produce_8	contributes	O
+produce_8	to	O
+produce_8	or	O
+produce_8	helps	O
+produce_8	produce	produce_vrb
+produce_8	other	O
+produce_8	Washington	O
+produce_8	D.C.-area	O
+produce_8	recordings	O

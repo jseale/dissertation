@@ -1,0 +1,14 @@
+overthrow_23	After	O
+overthrow_23	Castro	O
+overthrow_23	's	O
+overthrow_23	overthrow	overthrow_nou
+overthrow_23	of	O
+overthrow_23	the	O
+overthrow_23	Batista	O
+overthrow_23	government	O
+overthrow_23	he	O
+overthrow_23	returned	O
+overthrow_23	to	O
+overthrow_23	Cuba	O
+overthrow_23	in	O
+overthrow_23	1960	O

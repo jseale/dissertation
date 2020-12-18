@@ -1,0 +1,15 @@
+abuse_3	In	O
+abuse_3	the	O
+abuse_3	hearse	O
+abuse_3	with	O
+abuse_3	Charlie	O
+abuse_3	he	O
+abuse_3	discusses	O
+abuse_3	the	O
+abuse_3	abuse	abuse_nou
+abuse_3	he	O
+abuse_3	has	O
+abuse_3	received	O
+abuse_3	from	O
+abuse_3	his	O
+abuse_3	wife	O

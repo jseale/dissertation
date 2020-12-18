@@ -1,0 +1,8 @@
+degenerate_44	Neutron	O
+degenerate_44	degenerate	degenerate_adj-nou
+degenerate_44	matter	O
+degenerate_44	is	O
+degenerate_44	found	O
+degenerate_44	in	O
+degenerate_44	neutron	O
+degenerate_44	stars	O

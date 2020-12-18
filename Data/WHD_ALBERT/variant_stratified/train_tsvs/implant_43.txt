@@ -1,0 +1,12 @@
+implant_43	After	O
+implant_43	the	O
+implant_43	match	O
+implant_43	the	O
+implant_43	debuting	O
+implant_43	Kharma	O
+implant_43	attacked	O
+implant_43	Michelle	O
+implant_43	with	O
+implant_43	an	O
+implant_43	Implant	implant_nou
+implant_43	Buster	O

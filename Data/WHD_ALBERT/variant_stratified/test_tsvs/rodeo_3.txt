@@ -1,0 +1,11 @@
+rodeo_3	Several	O
+rodeo_3	unsuccessful	O
+rodeo_3	attempts	O
+rodeo_3	to	O
+rodeo_3	restart	O
+rodeo_3	the	O
+rodeo_3	rodeo	rodeo
+rodeo_3	occurred	O
+rodeo_3	in	O
+rodeo_3	the	O
+rodeo_3	1990s	O

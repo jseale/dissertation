@@ -1,0 +1,17 @@
+syndicate_51	Singer	O
+syndicate_51	guitarist	O
+syndicate_51	Tench	O
+syndicate_51	Coxe	O
+syndicate_51	later	O
+syndicate_51	played	O
+syndicate_51	as	O
+syndicate_51	part	O
+syndicate_51	of	O
+syndicate_51	Three	O
+syndicate_51	On	O
+syndicate_51	a	O
+syndicate_51	Hill	O
+syndicate_51	and	O
+syndicate_51	Bedhead	O
+syndicate_51	Trance	O
+syndicate_51	Syndicate	syndicate_nou

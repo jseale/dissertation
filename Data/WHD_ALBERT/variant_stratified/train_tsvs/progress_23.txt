@@ -1,0 +1,15 @@
+progress_23	The	O
+progress_23	Zephyr	O
+progress_23	computer	O
+progress_23	system	O
+progress_23	monitors	O
+progress_23	the	O
+progress_23	progress	progress_nou
+progress_23	of	O
+progress_23	the	O
+progress_23	United	O
+progress_23	Kingdom	O
+progress_23	's	O
+progress_23	only	O
+progress_23	spy	O
+progress_23	satellite	O

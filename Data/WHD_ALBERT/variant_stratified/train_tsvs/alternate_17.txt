@@ -1,0 +1,17 @@
+alternate_17	It	O
+alternate_17	also	O
+alternate_17	served	O
+alternate_17	as	O
+alternate_17	an	O
+alternate_17	alternate	alternate_adj-nou
+alternate_17	soundtrack	O
+alternate_17	to	O
+alternate_17	the	O
+alternate_17	1973	O
+alternate_17	film	O
+alternate_17	The	O
+alternate_17	Holy	O
+alternate_17	Mountain	O
+alternate_17	by	O
+alternate_17	Alejandro	O
+alternate_17	Jodorowsky	O

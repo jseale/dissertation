@@ -1,0 +1,11 @@
+buffet_6	Cha	O
+buffet_6	Chaan	O
+buffet_6	Teng	O
+buffet_6	buffet	buffet_nou
+buffet_6	is	O
+buffet_6	rich	O
+buffet_6	in	O
+buffet_6	Hong	O
+buffet_6	Kong	O
+buffet_6	local	O
+buffet_6	culture	O

@@ -1,0 +1,13 @@
+ornament_35	It	O
+ornament_35	is	O
+ornament_35	also	O
+ornament_35	one	O
+ornament_35	of	O
+ornament_35	the	O
+ornament_35	best	O
+ornament_35	examples	O
+ornament_35	of	O
+ornament_35	his	O
+ornament_35	use	O
+ornament_35	of	O
+ornament_35	ornament	ornament_nou

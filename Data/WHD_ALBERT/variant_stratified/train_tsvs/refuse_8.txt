@@ -1,0 +1,17 @@
+refuse_8	Following	O
+refuse_8	the	O
+refuse_8	closure	O
+refuse_8	of	O
+refuse_8	the	O
+refuse_8	Portrack	O
+refuse_8	plant	O
+refuse_8	a	O
+refuse_8	new	O
+refuse_8	facility	O
+refuse_8	to	O
+refuse_8	burn	O
+refuse_8	Teesside	O
+refuse_8	's	O
+refuse_8	refuse	refuse_nou
+refuse_8	was	O
+refuse_8	constructed	O

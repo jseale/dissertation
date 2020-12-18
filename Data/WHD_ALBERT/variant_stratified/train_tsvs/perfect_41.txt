@@ -1,0 +1,15 @@
+perfect_41	As	O
+perfect_41	far	O
+perfect_41	as	O
+perfect_41	year	O
+perfect_41	round	O
+perfect_41	climate	O
+perfect_41	it	O
+perfect_41	's	O
+perfect_41	perfect	perfect_adj
+perfect_41	but	O
+perfect_41	there	O
+perfect_41	's	O
+perfect_41	no	O
+perfect_41	real	O
+perfect_41	change	O

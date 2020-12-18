@@ -1,0 +1,7 @@
+celtic_59	On	O
+celtic_59	31	O
+celtic_59	minutes	O
+celtic_59	Celtic	celtic_adj-nou-sports
+celtic_59	doubled	O
+celtic_59	their	O
+celtic_59	lead	O

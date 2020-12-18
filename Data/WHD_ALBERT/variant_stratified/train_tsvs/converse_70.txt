@@ -1,0 +1,16 @@
+converse_70	Of	O
+converse_70	those	O
+converse_70	18.9	O
+converse_70	identified	O
+converse_70	with	O
+converse_70	no	O
+converse_70	other	O
+converse_70	iwi	O
+converse_70	and	O
+converse_70	21.9	O
+converse_70	could	O
+converse_70	converse	converse_vrb
+converse_70	in	O
+converse_70	the	O
+converse_70	Maori	O
+converse_70	language	O

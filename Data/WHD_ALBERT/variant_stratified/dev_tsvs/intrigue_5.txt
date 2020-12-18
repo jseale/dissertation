@@ -1,0 +1,11 @@
+intrigue_5	When	O
+intrigue_5	it	O
+intrigue_5	comes	O
+intrigue_5	to	O
+intrigue_5	intrigue	intrigue_nou
+intrigue_5	these	O
+intrigue_5	guys	O
+intrigue_5	make	O
+intrigue_5	it	O
+intrigue_5	way	O
+intrigue_5	outtrigue	O

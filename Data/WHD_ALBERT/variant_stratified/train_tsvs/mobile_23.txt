@@ -1,0 +1,15 @@
+mobile_23	The	O
+mobile_23	tail	O
+mobile_23	remains	O
+mobile_23	mobile	mobile
+mobile_23	distracting	O
+mobile_23	the	O
+mobile_23	predator	O
+mobile_23	while	O
+mobile_23	the	O
+mobile_23	lizard	O
+mobile_23	becomes	O
+mobile_23	motionless	O
+mobile_23	allowing	O
+mobile_23	eventual	O
+mobile_23	escape	O

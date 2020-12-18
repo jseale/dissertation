@@ -1,0 +1,10 @@
+invert_16	An	O
+invert_16	inverted	O
+invert_16	character	O
+invert_16	is	O
+invert_16	marked	O
+invert_16	with	O
+invert_16	a	O
+invert_16	set	O
+invert_16	invert	invert_adj-nou
+invert_16	bit	O

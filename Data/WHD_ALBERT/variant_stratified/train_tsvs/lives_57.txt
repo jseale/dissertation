@@ -1,0 +1,17 @@
+lives_57	Meanwhile	O
+lives_57	Jeremy	O
+lives_57	meets	O
+lives_57	Elena	O
+lives_57	a	O
+lives_57	beautiful	O
+lives_57	Russian	O
+lives_57	woman	O
+lives_57	and	O
+lives_57	occasional	O
+lives_57	marijuana	O
+lives_57	dealer	O
+lives_57	who	O
+lives_57	lives	lives_vrb
+lives_57	in	O
+lives_57	their	O
+lives_57	building	O

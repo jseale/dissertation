@@ -1,0 +1,11 @@
+overthrow_51	The	O
+overthrow_51	group	O
+overthrow_51	started	O
+overthrow_51	an	O
+overthrow_51	armed	O
+overthrow_51	struggle	O
+overthrow_51	to	O
+overthrow_51	overthrow	overthrow_vrb
+overthrow_51	the	O
+overthrow_51	British	O
+overthrow_51	Raj	O

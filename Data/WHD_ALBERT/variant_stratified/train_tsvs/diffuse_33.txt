@@ -1,0 +1,13 @@
+diffuse_33	Diffuse	diffuse_adj
+diffuse_33	light	O
+diffuse_33	is	O
+diffuse_33	thought	O
+diffuse_33	to	O
+diffuse_33	be	O
+diffuse_33	more	O
+diffuse_33	important	O
+diffuse_33	for	O
+diffuse_33	seedling	O
+diffuse_33	growth	O
+diffuse_33	than	O
+diffuse_33	sunflecks	O

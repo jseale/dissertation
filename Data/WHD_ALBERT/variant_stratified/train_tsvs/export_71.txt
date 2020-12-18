@@ -1,0 +1,11 @@
+export_71	This	O
+export_71	free	O
+export_71	software	O
+export_71	tool	O
+export_71	allows	O
+export_71	to	O
+export_71	export	export_vrb
+export_71	transcriptions	O
+export_71	to	O
+export_71	X	O
+export_71	SAMPA	O

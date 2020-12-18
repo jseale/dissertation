@@ -1,0 +1,11 @@
+transform_60	Obtain	O
+transform_60	the	O
+transform_60	normalized	O
+transform_60	cross	O
+transform_60	correlation	O
+transform_60	by	O
+transform_60	applying	O
+transform_60	the	O
+transform_60	inverse	O
+transform_60	Fourier	O
+transform_60	transform	transform_nou

@@ -1,0 +1,16 @@
+articulate_55	Such	O
+articulate_55	a	O
+articulate_55	grace	O
+articulate_55	filled	O
+articulate_55	perspective	O
+articulate_55	has	O
+articulate_55	challenged	O
+articulate_55	some	O
+articulate_55	Adventists	O
+articulate_55	who	O
+articulate_55	articulate	articulate_vrb
+articulate_55	Last	O
+articulate_55	Generation	O
+articulate_55	Theology	O
+articulate_55	within	O
+articulate_55	Adventism	O

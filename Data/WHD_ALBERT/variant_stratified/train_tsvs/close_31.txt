@@ -1,0 +1,10 @@
+close_31	Gelotia	O
+close_31	is	O
+close_31	close	close_adj-nou
+close_31	to	O
+close_31	the	O
+close_31	salticid	O
+close_31	genera	O
+close_31	Cocalus	O
+close_31	and	O
+close_31	Mintonia	O

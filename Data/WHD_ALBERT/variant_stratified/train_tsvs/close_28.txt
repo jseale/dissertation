@@ -1,0 +1,17 @@
+close_28	She	O
+close_28	and	O
+close_28	Arnold	O
+close_28	also	O
+close_28	had	O
+close_28	close	close_adj-nou
+close_28	friends	O
+close_28	who	O
+close_28	were	O
+close_28	either	O
+close_28	actively	O
+close_28	Loyalist	O
+close_28	or	O
+close_28	sympathetic	O
+close_28	to	O
+close_28	that	O
+close_28	cause	O

@@ -1,0 +1,16 @@
+laminate_0	This	O
+laminate_0	is	O
+laminate_0	an	O
+laminate_0	issue	O
+laminate_0	because	O
+laminate_0	crack	O
+laminate_0	formation	O
+laminate_0	and	O
+laminate_0	propagation	O
+laminate_0	can	O
+laminate_0	create	O
+laminate_0	unpredictable	O
+laminate_0	behavior	O
+laminate_0	in	O
+laminate_0	the	O
+laminate_0	laminate	laminate_nou

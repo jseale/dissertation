@@ -1,0 +1,15 @@
+correlate_78	In	O
+correlate_78	addition	O
+correlate_78	brain	O
+correlate_78	volumes	O
+correlate_78	do	O
+correlate_78	not	O
+correlate_78	correlate	correlate_nou-vrb
+correlate_78	strongly	O
+correlate_78	with	O
+correlate_78	other	O
+correlate_78	and	O
+correlate_78	more	O
+correlate_78	specific	O
+correlate_78	cognitive	O
+correlate_78	measures	O

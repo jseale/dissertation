@@ -1,0 +1,15 @@
+affiliate_35	It	O
+affiliate_35	was	O
+affiliate_35	created	O
+affiliate_35	at	O
+affiliate_35	first	O
+affiliate_35	as	O
+affiliate_35	an	O
+affiliate_35	affiliate	affiliate_nou
+affiliate_35	of	O
+affiliate_35	the	O
+affiliate_35	National	O
+affiliate_35	Sanctuary	O
+affiliate_35	Sophia	O
+affiliate_35	of	O
+affiliate_35	Kiev	O

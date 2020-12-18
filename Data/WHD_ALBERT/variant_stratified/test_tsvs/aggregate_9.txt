@@ -1,0 +1,16 @@
+aggregate_9	These	O
+aggregate_9	fishes	O
+aggregate_9	usually	O
+aggregate_9	aggregate	aggregate_vrb
+aggregate_9	in	O
+aggregate_9	small	O
+aggregate_9	groups	O
+aggregate_9	often	O
+aggregate_9	in	O
+aggregate_9	mixed	O
+aggregate_9	species	O
+aggregate_9	and	O
+aggregate_9	mainly	O
+aggregate_9	feed	O
+aggregate_9	on	O
+aggregate_9	plankton	O

@@ -1,0 +1,13 @@
+reject_41	They	O
+reject_41	may	O
+reject_41	even	O
+reject_41	deliberately	O
+reject_41	reject	reject_vrb
+reject_41	certain	O
+reject_41	behaviors	O
+reject_41	that	O
+reject_41	are	O
+reject_41	seen	O
+reject_41	as	O
+reject_41	acting	O
+reject_41	white	O

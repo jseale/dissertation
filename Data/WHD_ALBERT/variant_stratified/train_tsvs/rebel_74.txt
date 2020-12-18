@@ -1,0 +1,16 @@
+rebel_74	The	O
+rebel_74	raiders	O
+rebel_74	exacerbated	O
+rebel_74	tensions	O
+rebel_74	since	O
+rebel_74	they	O
+rebel_74	not	O
+rebel_74	only	O
+rebel_74	stole	O
+rebel_74	supplies	O
+rebel_74	they	O
+rebel_74	also	O
+rebel_74	encouraged	O
+rebel_74	slaves	O
+rebel_74	to	O
+rebel_74	rebel	rebel_vrb

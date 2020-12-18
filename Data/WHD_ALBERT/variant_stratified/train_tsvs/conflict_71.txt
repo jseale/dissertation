@@ -1,0 +1,10 @@
+conflict_71	The	O
+conflict_71	outcome	O
+conflict_71	dictates	O
+conflict_71	how	O
+conflict_71	we	O
+conflict_71	refer	O
+conflict_71	to	O
+conflict_71	a	O
+conflict_71	given	O
+conflict_71	conflict	conflict_nou

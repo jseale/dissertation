@@ -1,0 +1,11 @@
+approximate_71	Many	O
+approximate_71	have	O
+approximate_71	tried	O
+approximate_71	to	O
+approximate_71	approximate	approximate_vrb
+approximate_71	his	O
+approximate_71	diction	O
+approximate_71	but	O
+approximate_71	he	O
+approximate_71	stands	O
+approximate_71	alone	O

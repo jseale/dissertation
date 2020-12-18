@@ -1,0 +1,16 @@
+contest_57	They	O
+contest_57	published	O
+contest_57	The	O
+contest_57	Shorthand	O
+contest_57	Writer	O
+contest_57	and	O
+contest_57	started	O
+contest_57	the	O
+contest_57	National	O
+contest_57	Speed	O
+contest_57	Contest	contest_nou
+contest_57	which	O
+contest_57	is	O
+contest_57	still	O
+contest_57	held	O
+contest_57	today	O

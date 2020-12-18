@@ -1,0 +1,15 @@
+escort_19	Beginning	O
+escort_19	in	O
+escort_19	May	O
+escort_19	1942	O
+escort_19	Morden	O
+escort_19	was	O
+escort_19	assigned	O
+escort_19	to	O
+escort_19	Mid	O
+escort_19	Ocean	O
+escort_19	Escort	escort_nou
+escort_19	Force	O
+escort_19	escort	escort_nou
+escort_19	group	O
+escort_19	C-2	O

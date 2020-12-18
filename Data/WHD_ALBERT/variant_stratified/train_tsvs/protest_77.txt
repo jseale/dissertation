@@ -1,0 +1,15 @@
+protest_77	Somewhere	O
+protest_77	I	O
+protest_77	read	O
+protest_77	that	O
+protest_77	the	O
+protest_77	greatness	O
+protest_77	of	O
+protest_77	America	O
+protest_77	is	O
+protest_77	the	O
+protest_77	right	O
+protest_77	to	O
+protest_77	protest	protest_vrb
+protest_77	for	O
+protest_77	rights	O

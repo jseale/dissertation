@@ -1,0 +1,14 @@
+discard_1	Other	O
+discard_1	features	O
+discard_1	identified	O
+discard_1	include	O
+discard_1	a	O
+discard_1	discard	discard_nou
+discard_1	area	O
+discard_1	and	O
+discard_1	a	O
+discard_1	deep	O
+discard_1	feature	O
+discard_1	of	O
+discard_1	unknown	O
+discard_1	function	O

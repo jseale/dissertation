@@ -1,0 +1,12 @@
+axes_30	The	O
+axes_30	prosoma	O
+axes_30	head	O
+axes_30	was	O
+axes_30	subtrapezoidal	O
+axes_30	with	O
+axes_30	arcuate	O
+axes_30	compound	O
+axes_30	eyes	O
+axes_30	on	O
+axes_30	parallel	O
+axes_30	axes	axes_nou

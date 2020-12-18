@@ -1,0 +1,14 @@
+fragment_8	B₁₀₅	O
+fragment_8	can	O
+fragment_8	be	O
+fragment_8	conceptually	O
+fragment_8	divided	O
+fragment_8	into	O
+fragment_8	a	O
+fragment_8	B₄₈	O
+fragment_8	fragment	fragment_nou
+fragment_8	and	O
+fragment_8	B₂₈-B	O
+fragment_8	B₂₈	O
+fragment_8	B₅₇	O
+fragment_8	fragment	fragment_nou

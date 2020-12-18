@@ -1,0 +1,14 @@
+isolate_36	Testing	O
+isolate_36	also	O
+isolate_36	determines	O
+isolate_36	the	O
+isolate_36	effectiveness	O
+isolate_36	of	O
+isolate_36	package	O
+isolate_36	cushioning	O
+isolate_36	to	O
+isolate_36	isolate	isolate
+isolate_36	fragile	O
+isolate_36	products	O
+isolate_36	from	O
+isolate_36	shock	O

@@ -1,0 +1,15 @@
+conscript_75	Enlistment	O
+conscript_75	is	O
+conscript_75	voluntary	O
+conscript_75	in	O
+conscript_75	peacetime	O
+conscript_75	but	O
+conscript_75	the	O
+conscript_75	government	O
+conscript_75	has	O
+conscript_75	the	O
+conscript_75	authority	O
+conscript_75	to	O
+conscript_75	conscript	conscript_vrb
+conscript_75	in	O
+conscript_75	emergencies	O

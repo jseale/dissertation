@@ -1,0 +1,16 @@
+incline_8	They	O
+incline_8	usually	O
+incline_8	played	O
+incline_8	on	O
+incline_8	the	O
+incline_8	10-foot	O
+incline_8	wide	O
+incline_8	Shelf	O
+incline_8	one	O
+incline_8	third	O
+incline_8	of	O
+incline_8	the	O
+incline_8	way	O
+incline_8	up	O
+incline_8	the	O
+incline_8	incline	incline_nou

@@ -1,0 +1,16 @@
+rodeo_12	Lenox	O
+rodeo_12	is	O
+rodeo_12	home	O
+rodeo_12	to	O
+rodeo_12	the	O
+rodeo_12	Lenox	O
+rodeo_12	Rodeo	rodeo
+rodeo_12	held	O
+rodeo_12	annually	O
+rodeo_12	by	O
+rodeo_12	the	O
+rodeo_12	Lenox	O
+rodeo_12	Stock	O
+rodeo_12	and	O
+rodeo_12	Saddle	O
+rodeo_12	Club	O

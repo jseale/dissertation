@@ -1,0 +1,17 @@
+precipitate_30	Electrolysis	O
+precipitate_30	of	O
+precipitate_30	bismuth(III	O
+precipitate_30	oxide	O
+precipitate_30	in	O
+precipitate_30	hot	O
+precipitate_30	concentrated	O
+precipitate_30	alkali	O
+precipitate_30	solution	O
+precipitate_30	gives	O
+precipitate_30	a	O
+precipitate_30	scarlet	O
+precipitate_30	red	O
+precipitate_30	precipitate	precipitate_adj-nou
+precipitate_30	of	O
+precipitate_30	bismuth(V	O
+precipitate_30	oxide	O

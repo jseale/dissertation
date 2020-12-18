@@ -1,0 +1,12 @@
+aggregate_45	The	O
+aggregate_45	team	O
+aggregate_45	that	O
+aggregate_45	win	O
+aggregate_45	in	O
+aggregate_45	aggregate	aggregate_adj-nou
+aggregate_45	score	O
+aggregate_45	will	O
+aggregate_45	advance	O
+aggregate_45	to	O
+aggregate_45	the	O
+aggregate_45	final	O

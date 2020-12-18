@@ -1,0 +1,7 @@
+affiliate_1	It	O
+affiliate_1	was	O
+affiliate_1	originally	O
+affiliate_1	a	O
+affiliate_1	CBC	O
+affiliate_1	Television	O
+affiliate_1	affiliate	affiliate_nou

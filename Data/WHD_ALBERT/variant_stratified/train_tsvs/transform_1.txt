@@ -1,0 +1,8 @@
+transform_1	The	O
+transform_1	ogre	O
+transform_1	implores	O
+transform_1	Mikito	O
+transform_1	to	O
+transform_1	transform	transform
+transform_1	and	O
+transform_1	help	O

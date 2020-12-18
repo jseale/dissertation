@@ -1,0 +1,14 @@
+construct_6	Next	O
+construct_6	we	O
+construct_6	define	O
+construct_6	a	O
+construct_6	construct	construct_nou
+construct_6	called	O
+construct_6	a	O
+construct_6	superfield	O
+construct_6	f	O
+construct_6	is	O
+construct_6	self	O
+construct_6	adjoint	O
+construct_6	of	O
+construct_6	course	O

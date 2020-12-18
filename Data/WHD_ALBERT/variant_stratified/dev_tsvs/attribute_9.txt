@@ -1,0 +1,17 @@
+attribute_9	Some	O
+attribute_9	scholars	O
+attribute_9	attribute	attribute_vrb
+attribute_9	this	O
+attribute_9	to	O
+attribute_9	the	O
+attribute_9	fact	O
+attribute_9	that	O
+attribute_9	Jews	O
+attribute_9	are	O
+attribute_9	not	O
+attribute_9	expected	O
+attribute_9	to	O
+attribute_9	proselytize	O
+attribute_9	derived	O
+attribute_9	from	O
+attribute_9	Halakha	O

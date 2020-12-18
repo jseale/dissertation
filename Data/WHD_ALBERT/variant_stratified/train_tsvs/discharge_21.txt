@@ -1,0 +1,14 @@
+discharge_21	After	O
+discharge_21	his	O
+discharge_21	discharge	discharge_nou
+discharge_21	from	O
+discharge_21	the	O
+discharge_21	army	O
+discharge_21	he	O
+discharge_21	returned	O
+discharge_21	home	O
+discharge_21	to	O
+discharge_21	Kershaw	O
+discharge_21	County	O
+discharge_21	a	O
+discharge_21	hero	O

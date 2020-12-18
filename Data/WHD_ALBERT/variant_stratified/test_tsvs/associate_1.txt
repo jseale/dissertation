@@ -1,0 +1,16 @@
+associate_1	Robert	O
+associate_1	T.	O
+associate_1	Tally	O
+associate_1	Jr.	O
+associate_1	born	O
+associate_1	1969	O
+associate_1	is	O
+associate_1	an	O
+associate_1	associate	associate_adj-nou
+associate_1	professor	O
+associate_1	of	O
+associate_1	English	O
+associate_1	at	O
+associate_1	Texas	O
+associate_1	State	O
+associate_1	University	O

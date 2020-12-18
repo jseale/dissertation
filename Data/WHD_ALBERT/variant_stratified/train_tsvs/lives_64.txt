@@ -1,0 +1,13 @@
+lives_64	Along	O
+lives_64	with	O
+lives_64	his	O
+lives_64	band	O
+lives_64	he	O
+lives_64	lives	lives_vrb
+lives_64	a	O
+lives_64	vegan	O
+lives_64	lifestyle	O
+lives_64	and	O
+lives_64	supports	O
+lives_64	animal	O
+lives_64	rights	O

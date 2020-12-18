@@ -1,0 +1,17 @@
+invert_30	It	O
+invert_30	is	O
+invert_30	tempting	O
+invert_30	to	O
+invert_30	obtain	O
+invert_30	data	O
+invert_30	for	O
+invert_30	g¹(q;τ	O
+invert_30	and	O
+invert_30	attempt	O
+invert_30	to	O
+invert_30	invert	invert_vrb
+invert_30	the	O
+invert_30	above	O
+invert_30	to	O
+invert_30	extract	O
+invert_30	G(Γ	O

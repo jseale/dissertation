@@ -1,0 +1,12 @@
+invert_63	It	O
+invert_63	does	O
+invert_63	not	O
+invert_63	invert	invert_vrb
+invert_63	or	O
+invert_63	alter	O
+invert_63	its	O
+invert_63	input	O
+invert_63	signal	O
+invert_63	in	O
+invert_63	any	O
+invert_63	way	O

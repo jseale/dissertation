@@ -1,0 +1,15 @@
+incline_40	Nearing	O
+incline_40	the	O
+incline_40	end	O
+incline_40	the	O
+incline_40	incline	incline_nou
+incline_40	returns	O
+incline_40	to	O
+incline_40	normal	O
+incline_40	bringing	O
+incline_40	hikers	O
+incline_40	back	O
+incline_40	to	O
+incline_40	the	O
+incline_40	bridge	O
+incline_40	area	O

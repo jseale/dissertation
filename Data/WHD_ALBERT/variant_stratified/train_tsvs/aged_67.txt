@@ -1,0 +1,16 @@
+aged_67	Wilfred	O
+aged_67	Fienburgh	O
+aged_67	represented	O
+aged_67	his	O
+aged_67	constituency	O
+aged_67	until	O
+aged_67	his	O
+aged_67	death	O
+aged_67	in	O
+aged_67	a	O
+aged_67	car	O
+aged_67	crash	O
+aged_67	in	O
+aged_67	1958	O
+aged_67	aged	aged
+aged_67	38	O

@@ -1,0 +1,9 @@
+advocate_47	He	O
+advocate_47	was	O
+advocate_47	also	O
+advocate_47	an	O
+advocate_47	advocate	advocate_nou
+advocate_47	of	O
+advocate_47	vegetarianism	O
+advocate_47	and	O
+advocate_47	abstinence	O

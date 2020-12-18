@@ -1,0 +1,11 @@
+winds_38	Winds	winds_nou
+winds_38	were	O
+winds_38	generally	O
+winds_38	light	O
+winds_38	peaking	O
+winds_38	at	O
+winds_38	45	O
+winds_38	mph	O
+winds_38	72	O
+winds_38	km	O
+winds_38	h	O

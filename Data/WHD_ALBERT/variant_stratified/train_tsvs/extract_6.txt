@@ -1,0 +1,13 @@
+extract_6	This	O
+extract_6	diary	O
+extract_6	extract	extract_nou
+extract_6	was	O
+extract_6	adduced	O
+extract_6	and	O
+extract_6	shown	O
+extract_6	to	O
+extract_6	state	O
+extract_6	nothing	O
+extract_6	of	O
+extract_6	the	O
+extract_6	kind	O

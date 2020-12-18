@@ -1,0 +1,17 @@
+bow_24	It	O
+bow_24	is	O
+bow_24	marked	O
+bow_24	by	O
+bow_24	the	O
+bow_24	percussive	O
+bow_24	use	O
+bow_24	of	O
+bow_24	the	O
+bow_24	bow	bow_nou-knot
+bow_24	and	O
+bow_24	percussive	O
+bow_24	accompaniment	O
+bow_24	such	O
+bow_24	as	O
+bow_24	spoon	O
+bow_24	percussion	O

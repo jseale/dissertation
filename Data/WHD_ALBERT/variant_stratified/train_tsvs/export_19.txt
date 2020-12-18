@@ -1,0 +1,11 @@
+export_19	In	O
+export_19	2009	O
+export_19	Malaysia	O
+export_19	government	O
+export_19	planning	O
+export_19	export	export_nou
+export_19	of	O
+export_19	frozen	O
+export_19	durians	O
+export_19	to	O
+export_19	China	O

@@ -1,0 +1,16 @@
+overthrow_57	They	O
+overthrow_57	regrouped	O
+overthrow_57	and	O
+overthrow_57	devised	O
+overthrow_57	a	O
+overthrow_57	desperate	O
+overthrow_57	plan	O
+overthrow_57	to	O
+overthrow_57	overthrow	overthrow_vrb
+overthrow_57	Darutos	O
+overthrow_57	and	O
+overthrow_57	regain	O
+overthrow_57	control	O
+overthrow_57	of	O
+overthrow_57	the	O
+overthrow_57	kingdom	O

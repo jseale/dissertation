@@ -1,0 +1,16 @@
+conscript_6	The	O
+conscript_6	number	O
+conscript_6	of	O
+conscript_6	those	O
+conscript_6	seeking	O
+conscript_6	conscientious	O
+conscript_6	objector	O
+conscript_6	status	O
+conscript_6	declined	O
+conscript_6	as	O
+conscript_6	actual	O
+conscript_6	conscript	conscript_nou
+conscript_6	recruitment	O
+conscript_6	continued	O
+conscript_6	to	O
+conscript_6	decline	O

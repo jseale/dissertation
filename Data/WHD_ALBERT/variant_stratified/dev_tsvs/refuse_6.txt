@@ -1,0 +1,13 @@
+refuse_6	However	O
+refuse_6	South	O
+refuse_6	Garland	O
+refuse_6	High	O
+refuse_6	School	O
+refuse_6	and	O
+refuse_6	the	O
+refuse_6	GISD	O
+refuse_6	refuse	refuse_vrb
+refuse_6	to	O
+refuse_6	recognize	O
+refuse_6	the	O
+refuse_6	flag	O

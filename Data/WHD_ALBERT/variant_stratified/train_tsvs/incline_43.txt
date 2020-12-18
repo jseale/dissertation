@@ -1,0 +1,17 @@
+incline_43	Visitors	O
+incline_43	enter	O
+incline_43	the	O
+incline_43	room	O
+incline_43	after	O
+incline_43	a	O
+incline_43	short	O
+incline_43	walk	O
+incline_43	up	O
+incline_43	a	O
+incline_43	slight	O
+incline_43	concrete	O
+incline_43	incline	incline_nou
+incline_43	embossed	O
+incline_43	with	O
+incline_43	concrete	O
+incline_43	squares	O

@@ -1,0 +1,12 @@
+subordinate_23	In	O
+subordinate_23	peacetime	O
+subordinate_23	a	O
+subordinate_23	Soviet	O
+subordinate_23	army	O
+subordinate_23	was	O
+subordinate_23	usually	O
+subordinate_23	subordinate	subordinate_adj-nou
+subordinate_23	to	O
+subordinate_23	a	O
+subordinate_23	military	O
+subordinate_23	district	O

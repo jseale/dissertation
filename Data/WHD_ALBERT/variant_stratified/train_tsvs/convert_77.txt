@@ -1,0 +1,14 @@
+convert_77	Photochemical	O
+convert_77	carbon	O
+convert_77	dioxide	O
+convert_77	reduction	O
+convert_77	harnesses	O
+convert_77	solar	O
+convert_77	energy	O
+convert_77	to	O
+convert_77	convert	convert_vrb
+convert_77	CO₂	O
+convert_77	into	O
+convert_77	higher	O
+convert_77	energy	O
+convert_77	products	O

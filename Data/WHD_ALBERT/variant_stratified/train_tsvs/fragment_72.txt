@@ -1,0 +1,17 @@
+fragment_72	She	O
+fragment_72	loses	O
+fragment_72	the	O
+fragment_72	Phoenix	O
+fragment_72	fragment	fragment_nou
+fragment_72	after	O
+fragment_72	Spider	O
+fragment_72	Man	O
+fragment_72	baits	O
+fragment_72	her	O
+fragment_72	and	O
+fragment_72	Colossus	O
+fragment_72	into	O
+fragment_72	taking	O
+fragment_72	each	O
+fragment_72	other	O
+fragment_72	out	O

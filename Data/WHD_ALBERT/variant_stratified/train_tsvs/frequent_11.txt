@@ -1,0 +1,10 @@
+frequent_11	The	O
+frequent_11	song	O
+frequent_11	receives	O
+frequent_11	frequent	frequent_adj
+frequent_11	airplay	O
+frequent_11	on	O
+frequent_11	classic	O
+frequent_11	rock	O
+frequent_11	radio	O
+frequent_11	stations	O

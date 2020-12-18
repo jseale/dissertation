@@ -1,0 +1,7 @@
+frequent_2	She	O
+frequent_2	and	O
+frequent_2	Walter	O
+frequent_2	were	O
+frequent_2	frequent	frequent_adj
+frequent_2	traveling	O
+frequent_2	companions	O

@@ -1,0 +1,15 @@
+sow_5	Reincarnation	O
+sow_5	exists	O
+sow_5	and	O
+sow_5	karma	O
+sow_5	You	O
+sow_5	reap	O
+sow_5	what	O
+sow_5	you	O
+sow_5	sow	sow
+sow_5	is	O
+sow_5	the	O
+sow_5	explanation	O
+sow_5	for	O
+sow_5	various	O
+sow_5	injustices	O

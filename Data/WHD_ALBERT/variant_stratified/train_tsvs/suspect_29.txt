@@ -1,0 +1,17 @@
+suspect_29	Now	O
+suspect_29	retired	O
+suspect_29	and	O
+suspect_29	afflicted	O
+suspect_29	by	O
+suspect_29	a	O
+suspect_29	small	O
+suspect_29	stroke	O
+suspect_29	Cook	O
+suspect_29	continues	O
+suspect_29	to	O
+suspect_29	trail	O
+suspect_29	the	O
+suspect_29	early	O
+suspect_29	suspect	suspect_adj-nou
+suspect_29	Reginald	O
+suspect_29	Wilson	O

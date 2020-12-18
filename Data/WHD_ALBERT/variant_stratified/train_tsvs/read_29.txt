@@ -1,0 +1,17 @@
+read_29	Browns	O
+read_29	fans	O
+read_29	reacted	O
+read_29	with	O
+read_29	anger	O
+read_29	to	O
+read_29	the	O
+read_29	news	O
+read_29	wearing	O
+read_29	hats	O
+read_29	and	O
+read_29	T	O
+read_29	shirts	O
+read_29	that	O
+read_29	read	read_past
+read_29	Muck	O
+read_29	Fodell	O

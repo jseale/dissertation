@@ -1,0 +1,10 @@
+delegate_15	He	O
+delegate_15	was	O
+delegate_15	a	O
+delegate_15	delegate	delegate_nou
+delegate_15	to	O
+delegate_15	the	O
+delegate_15	1844	O
+delegate_15	Whig	O
+delegate_15	National	O
+delegate_15	Convention	O

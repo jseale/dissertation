@@ -1,0 +1,17 @@
+lives_77	Philodromus	O
+lives_77	rufus	O
+lives_77	vibrans	O
+lives_77	is	O
+lives_77	a	O
+lives_77	spider	O
+lives_77	that	O
+lives_77	ambushes	O
+lives_77	its	O
+lives_77	prey	O
+lives_77	and	O
+lives_77	lives	lives_vrb
+lives_77	in	O
+lives_77	United	O
+lives_77	States	O
+lives_77	and	O
+lives_77	Canada	O

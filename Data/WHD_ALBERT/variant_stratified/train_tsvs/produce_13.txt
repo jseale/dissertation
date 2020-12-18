@@ -1,0 +1,11 @@
+produce_13	Feather	O
+produce_13	obtained	O
+produce_13	the	O
+produce_13	first	O
+produce_13	evidence	O
+produce_13	that	O
+produce_13	neutrons	O
+produce_13	can	O
+produce_13	produce	produce_vrb
+produce_13	nuclear	O
+produce_13	disintegrations	O

@@ -1,0 +1,11 @@
+graduate_28	The	O
+graduate_28	graduate	graduate_adj-nou
+graduate_28	entry	O
+graduate_28	school	O
+graduate_28	is	O
+graduate_28	located	O
+graduate_28	at	O
+graduate_28	the	O
+graduate_28	Royal	O
+graduate_28	Derby	O
+graduate_28	Hospital	O

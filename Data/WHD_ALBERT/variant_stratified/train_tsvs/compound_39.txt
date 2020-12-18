@@ -1,0 +1,8 @@
+compound_39	2,4-Xylidine	O
+compound_39	is	O
+compound_39	an	O
+compound_39	organic	O
+compound_39	compound	compound_nou
+compound_39	with	O
+compound_39	formula	O
+compound_39	CH₃)₂C₆H₃NH₂.	O

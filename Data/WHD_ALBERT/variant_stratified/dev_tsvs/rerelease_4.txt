@@ -1,0 +1,17 @@
+rerelease_4	The	O
+rerelease_4	rerelease	rerelease
+rerelease_4	was	O
+rerelease_4	exclusive	O
+rerelease_4	to	O
+rerelease_4	Enjoy	O
+rerelease_4	The	O
+rerelease_4	Ride	O
+rerelease_4	Records	O
+rerelease_4	with	O
+rerelease_4	copies	O
+rerelease_4	also	O
+rerelease_4	being	O
+rerelease_4	available	O
+rerelease_4	through	O
+rerelease_4	Hot	O
+rerelease_4	Topic	O

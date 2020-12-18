@@ -1,0 +1,13 @@
+conjugate_11	The	O
+conjugate_11	conjugate	conjugate_adj-nou
+conjugate_11	beam	O
+conjugate_11	is	O
+conjugate_11	loaded	O
+conjugate_11	with	O
+conjugate_11	the	O
+conjugate_11	real	O
+conjugate_11	beam	O
+conjugate_11	's	O
+conjugate_11	M	O
+conjugate_11	EI	O
+conjugate_11	diagram	O

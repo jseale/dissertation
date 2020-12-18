@@ -1,0 +1,10 @@
+conflict_5	It	O
+conflict_5	is	O
+conflict_5	designed	O
+conflict_5	to	O
+conflict_5	provide	O
+conflict_5	protection	O
+conflict_5	in	O
+conflict_5	low	O
+conflict_5	intensity	O
+conflict_5	conflict	conflict_nou

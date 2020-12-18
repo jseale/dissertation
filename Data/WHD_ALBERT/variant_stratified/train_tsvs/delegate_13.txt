@@ -1,0 +1,12 @@
+delegate_13	He	O
+delegate_13	was	O
+delegate_13	a	O
+delegate_13	delegate	delegate_nou
+delegate_13	from	O
+delegate_13	Kentucky	O
+delegate_13	to	O
+delegate_13	the	O
+delegate_13	1912	O
+delegate_13	Republican	O
+delegate_13	National	O
+delegate_13	Convention	O

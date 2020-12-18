@@ -1,0 +1,16 @@
+estimate_37	The	O
+estimate_37	comet	O
+estimate_37	has	O
+estimate_37	an	O
+estimate_37	observation	O
+estimate_37	arc	O
+estimate_37	of	O
+estimate_37	362	O
+estimate_37	days	O
+estimate_37	allowing	O
+estimate_37	a	O
+estimate_37	good	O
+estimate_37	estimate	estimate_nou
+estimate_37	of	O
+estimate_37	the	O
+estimate_37	orbit	O

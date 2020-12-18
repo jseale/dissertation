@@ -1,0 +1,13 @@
+buffet_27	In	O
+buffet_27	the	O
+buffet_27	gold	O
+buffet_27	room	O
+buffet_27	a	O
+buffet_27	marble	O
+buffet_27	buffet	buffet_nou
+buffet_27	and	O
+buffet_27	mirror	O
+buffet_27	face	O
+buffet_27	a	O
+buffet_27	marble	O
+buffet_27	fireplace	O

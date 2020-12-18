@@ -1,0 +1,15 @@
+degenerate_23	For	O
+degenerate_23	this	O
+degenerate_23	linear	O
+degenerate_23	algebra	O
+degenerate_23	and	O
+degenerate_23	this	O
+degenerate_23	matroid	O
+degenerate_23	the	O
+degenerate_23	bases	O
+degenerate_23	are	O
+degenerate_23	exactly	O
+degenerate_23	the	O
+degenerate_23	non	O
+degenerate_23	degenerate	degenerate_adj-nou
+degenerate_23	triangles	O

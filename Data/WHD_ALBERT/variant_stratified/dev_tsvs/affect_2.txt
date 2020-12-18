@@ -1,0 +1,9 @@
+affect_2	Thus	O
+affect_2	mutations	O
+affect_2	in	O
+affect_2	the	O
+affect_2	enzyme	O
+affect_2	can	O
+affect_2	affect	affect
+affect_2	transcription	O
+affect_2	elongation	O

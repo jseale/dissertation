@@ -1,0 +1,17 @@
+wound_0	In	O
+wound_0	1982	O
+wound_0	he	O
+wound_0	belatedly	O
+wound_0	received	O
+wound_0	the	O
+wound_0	Purple	O
+wound_0	Heart	O
+wound_0	for	O
+wound_0	the	O
+wound_0	wound	wound_nou-vrb
+wound_0	he	O
+wound_0	received	O
+wound_0	on	O
+wound_0	26	O
+wound_0	August	O
+wound_0	1918	O

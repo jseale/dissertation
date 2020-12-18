@@ -1,0 +1,14 @@
+coordinate_18	The	O
+coordinate_18	relationship	O
+coordinate_18	of	O
+coordinate_18	those	O
+coordinate_18	segments	O
+coordinate_18	in	O
+coordinate_18	three	O
+coordinate_18	dimensional	O
+coordinate_18	space	O
+coordinate_18	using	O
+coordinate_18	a	O
+coordinate_18	spherical	O
+coordinate_18	coordinate	coordinate_adj-nou
+coordinate_18	system	O

@@ -1,0 +1,13 @@
+intrigue_65	It	O
+intrigue_65	is	O
+intrigue_65	an	O
+intrigue_65	adaptation	O
+intrigue_65	of	O
+intrigue_65	Friedrich	O
+intrigue_65	Schiller	O
+intrigue_65	's	O
+intrigue_65	1784	O
+intrigue_65	play	O
+intrigue_65	Intrigue	intrigue_nou
+intrigue_65	and	O
+intrigue_65	Love	O

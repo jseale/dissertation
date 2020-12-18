@@ -1,0 +1,17 @@
+precipitate_17	It	O
+precipitate_17	is	O
+precipitate_17	a	O
+precipitate_17	precipitate	precipitate_adj-nou
+precipitate_17	of	O
+precipitate_17	the	O
+precipitate_17	scientific	O
+precipitate_17	and	O
+precipitate_17	cultural	O
+precipitate_17	lag	O
+precipitate_17	of	O
+precipitate_17	centuries	O
+precipitate_17	and	O
+precipitate_17	millenia	O
+precipitate_17	of	O
+precipitate_17	human	O
+precipitate_17	experience	O

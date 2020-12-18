@@ -1,0 +1,13 @@
+axes_63	Francis	O
+axes_63	Pryor	O
+axes_63	attributes	O
+axes_63	this	O
+axes_63	to	O
+axes_63	these	O
+axes_63	axes	axes_nou-vrb
+axes_63	being	O
+axes_63	particularly	O
+axes_63	valued	O
+axes_63	in	O
+axes_63	this	O
+axes_63	region	O

@@ -1,0 +1,16 @@
+transplant_56	In	O
+transplant_56	absence	O
+transplant_56	of	O
+transplant_56	a	O
+transplant_56	liver	O
+transplant_56	transplant	transplant_nou
+transplant_56	the	O
+transplant_56	MSUD	O
+transplant_56	diet	O
+transplant_56	must	O
+transplant_56	be	O
+transplant_56	adhered	O
+transplant_56	to	O
+transplant_56	strictly	O
+transplant_56	and	O
+transplant_56	permanently	O

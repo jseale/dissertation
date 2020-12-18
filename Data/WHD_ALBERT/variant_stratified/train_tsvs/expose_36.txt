@@ -1,0 +1,14 @@
+expose_36	Rajput	O
+expose_36	uses	O
+expose_36	the	O
+expose_36	website	O
+expose_36	to	O
+expose_36	expose	expose_vrb
+expose_36	what	O
+expose_36	he	O
+expose_36	perceives	O
+expose_36	as	O
+expose_36	Islamic	O
+expose_36	extremism	O
+expose_36	in	O
+expose_36	India	O

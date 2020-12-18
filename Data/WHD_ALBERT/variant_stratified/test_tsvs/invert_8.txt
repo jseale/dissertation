@@ -1,0 +1,10 @@
+invert_8	The	O
+invert_8	next	O
+invert_8	step	O
+invert_8	is	O
+invert_8	to	O
+invert_8	invert	invert_vrb
+invert_8	each	O
+invert_8	of	O
+invert_8	these	O
+invert_8	separations	O

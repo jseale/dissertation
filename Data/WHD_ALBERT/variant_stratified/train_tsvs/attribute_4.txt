@@ -1,0 +1,13 @@
+attribute_4	Lenses	O
+attribute_4	with	O
+attribute_4	the	O
+attribute_4	model	O
+attribute_4	name	O
+attribute_4	attribute	attribute_nou
+attribute_4	DG	O
+attribute_4	are	O
+attribute_4	made	O
+attribute_4	by	O
+attribute_4	Panasonic	O
+attribute_4	under	O
+attribute_4	licence	O

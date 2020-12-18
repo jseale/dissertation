@@ -1,0 +1,16 @@
+expose_2	Critics	O
+expose_2	argue	O
+expose_2	his	O
+expose_2	confrontational	O
+expose_2	style	O
+expose_2	sometimes	O
+expose_2	contributes	O
+expose_2	to	O
+expose_2	the	O
+expose_2	conflict	O
+expose_2	he	O
+expose_2	seeks	O
+expose_2	to	O
+expose_2	expose	expose_vrb
+expose_2	and	O
+expose_2	oppose	O

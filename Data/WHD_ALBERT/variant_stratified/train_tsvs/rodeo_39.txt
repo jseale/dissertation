@@ -1,0 +1,16 @@
+rodeo_39	The	O
+rodeo_39	Fiesta	O
+rodeo_39	de	O
+rodeo_39	los	O
+rodeo_39	Vaqueros	O
+rodeo_39	marks	O
+rodeo_39	the	O
+rodeo_39	beginning	O
+rodeo_39	of	O
+rodeo_39	the	O
+rodeo_39	rodeo	rodeo
+rodeo_39	season	O
+rodeo_39	in	O
+rodeo_39	the	O
+rodeo_39	United	O
+rodeo_39	States	O

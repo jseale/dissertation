@@ -1,0 +1,15 @@
+conscript_45	He	O
+conscript_45	was	O
+conscript_45	placed	O
+conscript_45	in	O
+conscript_45	charge	O
+conscript_45	of	O
+conscript_45	the	O
+conscript_45	Confederate	O
+conscript_45	Conscript	conscript_nou
+conscript_45	Bureau	O
+conscript_45	for	O
+conscript_45	Alabama	O
+conscript_45	and	O
+conscript_45	South	O
+conscript_45	Florida	O

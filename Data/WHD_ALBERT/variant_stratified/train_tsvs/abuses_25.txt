@@ -1,0 +1,13 @@
+abuses_25	It	O
+abuses_25	is	O
+abuses_25	tasked	O
+abuses_25	with	O
+abuses_25	investigating	O
+abuses_25	allegations	O
+abuses_25	of	O
+abuses_25	human	O
+abuses_25	rights	O
+abuses_25	abuses	abuses_nou
+abuses_25	and	O
+abuses_25	journalist	O
+abuses_25	intimidation	O

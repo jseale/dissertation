@@ -1,0 +1,14 @@
+wound_70	The	O
+wound_70	thong	O
+wound_70	was	O
+wound_70	wound	wound_vrb
+wound_70	around	O
+wound_70	the	O
+wound_70	shaft	O
+wound_70	and	O
+wound_70	hooked	O
+wound_70	over	O
+wound_70	one	O
+wound_70	or	O
+wound_70	two	O
+wound_70	fingers	O

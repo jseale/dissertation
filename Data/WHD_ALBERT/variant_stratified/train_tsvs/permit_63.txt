@@ -1,0 +1,17 @@
+permit_63	Corax	O
+permit_63	devised	O
+permit_63	an	O
+permit_63	art	O
+permit_63	of	O
+permit_63	rhetoric	O
+permit_63	to	O
+permit_63	permit	permit_vrb
+permit_63	ordinary	O
+permit_63	men	O
+permit_63	to	O
+permit_63	make	O
+permit_63	their	O
+permit_63	cases	O
+permit_63	in	O
+permit_63	the	O
+permit_63	courts	O

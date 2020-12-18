@@ -1,0 +1,16 @@
+abuse_30	The	O
+abuse_30	second	O
+abuse_30	victim	O
+abuse_30	denied	O
+abuse_30	physical	O
+abuse_30	abuse	abuse_nou
+abuse_30	but	O
+abuse_30	witnessed	O
+abuse_30	the	O
+abuse_30	physical	O
+abuse_30	abuse	abuse_nou
+abuse_30	inflicted	O
+abuse_30	upon	O
+abuse_30	the	O
+abuse_30	other	O
+abuse_30	victim	O

@@ -1,0 +1,17 @@
+consummate_56	Frances	O
+consummate_56	Gray	O
+consummate_56	acknowledges	O
+consummate_56	a	O
+consummate_56	common	O
+consummate_56	criticism	O
+consummate_56	of	O
+consummate_56	the	O
+consummate_56	play	O
+consummate_56	why	O
+consummate_56	do	O
+consummate_56	the	O
+consummate_56	characters	O
+consummate_56	not	O
+consummate_56	consummate	consummate_vrb
+consummate_56	the	O
+consummate_56	affair	O

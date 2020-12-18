@@ -1,0 +1,16 @@
+bow_50	Nautilus	O
+bow_50	had	O
+bow_50	a	O
+bow_50	clipper	O
+bow_50	bow	bow_nou-ship
+bow_50	while	O
+bow_50	Albatross	O
+bow_50	had	O
+bow_50	a	O
+bow_50	bow	bow_nou-ship
+bow_50	similar	O
+bow_50	to	O
+bow_50	contemporary	O
+bow_50	German	O
+bow_50	light	O
+bow_50	cruisers	O

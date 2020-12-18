@@ -1,0 +1,16 @@
+dove_46	Maldonado	O
+dove_46	dove	dove_vrb
+dove_46	for	O
+dove_46	the	O
+dove_46	pits	O
+dove_46	only	O
+dove_46	to	O
+dove_46	collect	O
+dove_46	the	O
+dove_46	second	O
+dove_46	Force	O
+dove_46	India	O
+dove_46	of	O
+dove_46	Paul	O
+dove_46	di	O
+dove_46	Resta	O

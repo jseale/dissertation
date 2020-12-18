@@ -1,0 +1,14 @@
+learned_2	She	O
+learned_2	soon	O
+learned_2	learned	learned_vrb
+learned_2	about	O
+learned_2	corruption	O
+learned_2	because	O
+learned_2	squatters	O
+learned_2	had	O
+learned_2	to	O
+learned_2	pay	O
+learned_2	triad	O
+learned_2	gangs	O
+learned_2	protection	O
+learned_2	money	O

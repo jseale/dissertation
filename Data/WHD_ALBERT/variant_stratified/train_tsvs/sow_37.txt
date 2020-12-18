@@ -1,0 +1,16 @@
+sow_37	Himmler	O
+sow_37	narrowly	O
+sow_37	convinces	O
+sow_37	Hitler	O
+sow_37	it	O
+sow_37	was	O
+sow_37	all	O
+sow_37	merely	O
+sow_37	an	O
+sow_37	attempt	O
+sow_37	to	O
+sow_37	sow	sow
+sow_37	distrust	O
+sow_37	between	O
+sow_37	the	O
+sow_37	Allies	O

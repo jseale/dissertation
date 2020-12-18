@@ -1,0 +1,14 @@
+overthrow_45	The	O
+overthrow_45	aim	O
+overthrow_45	was	O
+overthrow_45	to	O
+overthrow_45	capture	O
+overthrow_45	and	O
+overthrow_45	overthrow	overthrow_vrb
+overthrow_45	the	O
+overthrow_45	Royalist	O
+overthrow_45	strongholds	O
+overthrow_45	of	O
+overthrow_45	Leeds	O
+overthrow_45	city	O
+overthrow_45	centre	O

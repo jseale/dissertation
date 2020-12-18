@@ -1,0 +1,16 @@
+winds_30	In	O
+winds_30	the	O
+winds_30	southernmost	O
+winds_30	counties	O
+winds_30	in	O
+winds_30	the	O
+winds_30	state	O
+winds_30	the	O
+winds_30	winds	winds_nou
+winds_30	left	O
+winds_30	about	O
+winds_30	15,000	O
+winds_30	electrical	O
+winds_30	customers	O
+winds_30	without	O
+winds_30	power	O

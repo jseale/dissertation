@@ -1,0 +1,17 @@
+blessed_19	The	O
+blessed_19	dean	O
+blessed_19	and	O
+blessed_19	chapter	O
+blessed_19	are	O
+blessed_19	based	O
+blessed_19	at	O
+blessed_19	the	O
+blessed_19	Cathedral	O
+blessed_19	Church	O
+blessed_19	of	O
+blessed_19	the	O
+blessed_19	Blessed	blessed_adj
+blessed_19	Virgin	O
+blessed_19	Mary	O
+blessed_19	in	O
+blessed_19	Truro	O

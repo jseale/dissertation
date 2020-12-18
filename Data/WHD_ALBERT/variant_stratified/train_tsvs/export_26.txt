@@ -1,0 +1,14 @@
+export_26	Bauxite	O
+export_26	is	O
+export_26	also	O
+export_26	mined	O
+export_26	around	O
+export_26	the	O
+export_26	Demerara	O
+export_26	and	O
+export_26	Linden	O
+export_26	is	O
+export_26	a	O
+export_26	major	O
+export_26	export	export_nou
+export_26	centre	O

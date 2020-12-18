@@ -1,0 +1,15 @@
+insert_46	The	O
+insert_46	ductus	O
+insert_46	seminalis	O
+insert_46	insert	insert_vrb
+insert_46	from	O
+insert_46	above	O
+insert_46	a	O
+insert_46	bit	O
+insert_46	before	O
+insert_46	the	O
+insert_46	forward	O
+insert_46	edge	O
+insert_46	of	O
+insert_46	the	O
+insert_46	antrum	O

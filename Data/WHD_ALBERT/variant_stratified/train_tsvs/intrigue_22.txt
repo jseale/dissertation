@@ -1,0 +1,17 @@
+intrigue_22	It	O
+intrigue_22	was	O
+intrigue_22	preceded	O
+intrigue_22	by	O
+intrigue_22	Clans	O
+intrigue_22	of	O
+intrigue_22	Intrigue	intrigue_nou
+intrigue_22	1977	O
+intrigue_22	and	O
+intrigue_22	followed	O
+intrigue_22	by	O
+intrigue_22	Perils	O
+intrigue_22	of	O
+intrigue_22	the	O
+intrigue_22	Sentimental	O
+intrigue_22	Swordsman	O
+intrigue_22	1982	O

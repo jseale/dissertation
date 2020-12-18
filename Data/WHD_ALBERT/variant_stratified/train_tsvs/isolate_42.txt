@@ -1,0 +1,16 @@
+isolate_42	In	O
+isolate_42	some	O
+isolate_42	cases	O
+isolate_42	they	O
+isolate_42	isolate	isolate
+isolate_42	themselves	O
+isolate_42	in	O
+isolate_42	their	O
+isolate_42	living	O
+isolate_42	quarters	O
+isolate_42	for	O
+isolate_42	prolonged	O
+isolate_42	periods	O
+isolate_42	sometimes	O
+isolate_42	for	O
+isolate_42	years	O

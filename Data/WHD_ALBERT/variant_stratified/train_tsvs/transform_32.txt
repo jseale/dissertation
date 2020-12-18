@@ -1,0 +1,15 @@
+transform_32	In	O
+transform_32	the	O
+transform_32	late	O
+transform_32	1980s	O
+transform_32	work	O
+transform_32	began	O
+transform_32	to	O
+transform_32	transform	transform
+transform_32	Civic	O
+transform_32	Hall	O
+transform_32	into	O
+transform_32	a	O
+transform_32	performing	O
+transform_32	arts	O
+transform_32	center	O

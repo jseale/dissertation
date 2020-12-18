@@ -1,0 +1,10 @@
+mobile_63	At	O
+mobile_63	one	O
+mobile_63	point	O
+mobile_63	she	O
+mobile_63	brandishes	O
+mobile_63	her	O
+mobile_63	mobile	mobile
+mobile_63	phone	O
+mobile_63	at	O
+mobile_63	him	O

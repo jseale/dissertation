@@ -1,0 +1,11 @@
+increment_29	Growth	O
+increment_29	increment	increment_nou
+increment_29	slows	O
+increment_29	earlier	O
+increment_29	in	O
+increment_29	maturation	O
+increment_29	in	O
+increment_29	females	O
+increment_29	than	O
+increment_29	in	O
+increment_29	males	O

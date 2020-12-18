@@ -1,0 +1,15 @@
+frequent_76	Fishermen	O
+frequent_76	frequent	frequent_vrb
+frequent_76	the	O
+frequent_76	local	O
+frequent_76	beaches	O
+frequent_76	and	O
+frequent_76	the	O
+frequent_76	Pacifica	O
+frequent_76	Pier	O
+frequent_76	often	O
+frequent_76	catching	O
+frequent_76	Striped	O
+frequent_76	Bass	O
+frequent_76	and	O
+frequent_76	Salmon	O

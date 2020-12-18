@@ -1,0 +1,16 @@
+insult_9	This	O
+insult_9	made	O
+insult_9	it	O
+insult_9	a	O
+insult_9	criminal	O
+insult_9	offence	O
+insult_9	to	O
+insult_9	insult	insult_vrb
+insult_9	the	O
+insult_9	founders	O
+insult_9	or	O
+insult_9	leaders	O
+insult_9	of	O
+insult_9	any	O
+insult_9	religious	O
+insult_9	community	O

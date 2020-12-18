@@ -1,0 +1,14 @@
+record_70	He	O
+record_70	also	O
+record_70	became	O
+record_70	the	O
+record_70	first	O
+record_70	Seahawks	O
+record_70	receiver	O
+record_70	to	O
+record_70	record	record_vrb
+record_70	1,000	O
+record_70	receiving	O
+record_70	yards	O
+record_70	since	O
+record_70	2007	O

@@ -1,0 +1,15 @@
+transport_41	VMAT	O
+transport_41	functions	O
+transport_41	in	O
+transport_41	loading	O
+transport_41	the	O
+transport_41	neurotransmitters	O
+transport_41	dopamine	O
+transport_41	serotonin	O
+transport_41	histamine	O
+transport_41	norepinephrine	O
+transport_41	and	O
+transport_41	epinephrine	O
+transport_41	into	O
+transport_41	transport	transport_nou
+transport_41	vesicles	O

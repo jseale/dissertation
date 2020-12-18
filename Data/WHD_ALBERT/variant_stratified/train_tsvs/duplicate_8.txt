@@ -1,0 +1,14 @@
+duplicate_8	Fraud	O
+duplicate_8	prevention	O
+duplicate_8	Does	O
+duplicate_8	the	O
+duplicate_8	software	O
+duplicate_8	have	O
+duplicate_8	expense	O
+duplicate_8	fraud	O
+duplicate_8	detection	O
+duplicate_8	capabilities	O
+duplicate_8	such	O
+duplicate_8	a	O
+duplicate_8	duplicate	duplicate_adj-nou
+duplicate_8	identification	O

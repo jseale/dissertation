@@ -1,0 +1,13 @@
+diffuse_40	Also	O
+diffuse_40	carried	O
+diffuse_40	in	O
+diffuse_40	the	O
+diffuse_40	payload	O
+diffuse_40	bay	O
+diffuse_40	was	O
+diffuse_40	the	O
+diffuse_40	Diffuse	diffuse_adj
+diffuse_40	X	O
+diffuse_40	Ray	O
+diffuse_40	Spectrometer	O
+diffuse_40	DXS	O

@@ -1,0 +1,9 @@
+initiate_1	To	O
+initiate_1	their	O
+initiate_1	right	O
+initiate_1	the	O
+initiate_1	initiate	initiate_nou
+initiate_1	is	O
+initiate_1	in	O
+initiate_1	a	O
+initiate_1	panic	O

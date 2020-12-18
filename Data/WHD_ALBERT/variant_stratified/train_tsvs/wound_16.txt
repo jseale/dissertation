@@ -1,0 +1,14 @@
+wound_16	Outbreaks	O
+wound_16	of	O
+wound_16	S.	O
+wound_16	marcescens	O
+wound_16	meningitis	O
+wound_16	wound	wound_nou-vrb
+wound_16	infections	O
+wound_16	and	O
+wound_16	arthritis	O
+wound_16	have	O
+wound_16	occurred	O
+wound_16	in	O
+wound_16	pediatric	O
+wound_16	wards	O

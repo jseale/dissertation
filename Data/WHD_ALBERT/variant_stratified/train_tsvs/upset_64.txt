@@ -1,0 +1,17 @@
+upset_64	Author	O
+upset_64	Hugh	O
+upset_64	M.	O
+upset_64	Cole	O
+upset_64	mentioned	O
+upset_64	Bouck	O
+upset_64	's	O
+upset_64	platoon	O
+upset_64	in	O
+upset_64	passing	O
+upset_64	which	O
+upset_64	upset	upset_vrb
+upset_64	platoon	O
+upset_64	member	O
+upset_64	William	O
+upset_64	James	O
+upset_64	Tsakanikas	O

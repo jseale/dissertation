@@ -1,0 +1,15 @@
+document_7	XML	O
+document_7	allows	O
+document_7	parsers	O
+document_7	to	O
+document_7	separate	O
+document_7	the	O
+document_7	process	O
+document_7	of	O
+document_7	interpreting	O
+document_7	the	O
+document_7	document	document_nou
+document_7	syntax	O
+document_7	and	O
+document_7	its	O
+document_7	structure	O

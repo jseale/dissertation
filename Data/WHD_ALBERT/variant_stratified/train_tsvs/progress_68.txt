@@ -1,0 +1,13 @@
+progress_68	The	O
+progress_68	organisation	O
+progress_68	provided	O
+progress_68	a	O
+progress_68	safe	O
+progress_68	haven	O
+progress_68	for	O
+progress_68	them	O
+progress_68	to	O
+progress_68	progress	progress_vrb
+progress_68	out	O
+progress_68	of	O
+progress_68	poverty	O

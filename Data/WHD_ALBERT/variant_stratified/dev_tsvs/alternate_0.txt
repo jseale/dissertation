@@ -1,0 +1,12 @@
+alternate_0	This	O
+alternate_0	provided	O
+alternate_0	an	O
+alternate_0	alternate	alternate_adj-nou
+alternate_0	legal	O
+alternate_0	method	O
+alternate_0	to	O
+alternate_0	acquire	O
+alternate_0	vehicles	O
+alternate_0	only	O
+alternate_0	sold	O
+alternate_0	overseas	O

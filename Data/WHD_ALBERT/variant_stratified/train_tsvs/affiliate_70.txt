@@ -1,0 +1,15 @@
+affiliate_70	He	O
+affiliate_70	was	O
+affiliate_70	reassigned	O
+affiliate_70	to	O
+affiliate_70	the	O
+affiliate_70	Ducks	O
+affiliate_70	AHL	O
+affiliate_70	affiliate	affiliate_nou
+affiliate_70	the	O
+affiliate_70	Norfolk	O
+affiliate_70	Admirals	O
+affiliate_70	to	O
+affiliate_70	begin	O
+affiliate_70	the	O
+affiliate_70	year	O

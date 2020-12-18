@@ -1,0 +1,13 @@
+degenerate_77	But	O
+degenerate_77	heroes	O
+degenerate_77	on	O
+degenerate_77	paper	O
+degenerate_77	might	O
+degenerate_77	degenerate	degenerate_vrb
+degenerate_77	into	O
+degenerate_77	vagabonds	O
+degenerate_77	in	O
+degenerate_77	practice	O
+degenerate_77	Corinnas	O
+degenerate_77	into	O
+degenerate_77	courtezans	O

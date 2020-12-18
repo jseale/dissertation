@@ -1,0 +1,15 @@
+extract_55	Water	O
+extract_55	was	O
+extract_55	extensively	O
+extract_55	used	O
+extract_55	during	O
+extract_55	the	O
+extract_55	silver	O
+extract_55	and	O
+extract_55	lead	O
+extract_55	mining	O
+extract_55	process	O
+extract_55	to	O
+extract_55	extract	extract_vrb
+extract_55	the	O
+extract_55	ore	O

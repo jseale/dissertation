@@ -1,0 +1,10 @@
+supplement_47	Liddell	O
+supplement_47	Hart	O
+supplement_47	Centre	O
+supplement_47	for	O
+supplement_47	Military	O
+supplement_47	ArchivesThe	O
+supplement_47	London	O
+supplement_47	Gazette	O
+supplement_47	Supplement	supplement_nou
+supplement_47	no	O

@@ -1,0 +1,11 @@
+estimate_14	This	O
+estimate_14	estimate	estimate_nou
+estimate_14	was	O
+estimate_14	developed	O
+estimate_14	by	O
+estimate_14	averaging	O
+estimate_14	selected	O
+estimate_14	estimates	O
+estimate_14	an	O
+estimate_14	unorthodox	O
+estimate_14	methodology	O

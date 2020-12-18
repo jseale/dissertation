@@ -1,0 +1,16 @@
+record_13	The	O
+record_13	record	record_nou
+record_13	of	O
+record_13	known	O
+record_13	occurrences	O
+record_13	therefore	O
+record_13	may	O
+record_13	poorly	O
+record_13	reflect	O
+record_13	the	O
+record_13	actual	O
+record_13	extent	O
+record_13	of	O
+record_13	the	O
+record_13	species	O
+record_13	distribution	O

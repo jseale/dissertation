@@ -1,0 +1,9 @@
+deliberate_69	Deliberate	deliberate_adj
+deliberate_69	misrepresentation	O
+deliberate_69	in	O
+deliberate_69	the	O
+deliberate_69	statement	O
+deliberate_69	can	O
+deliberate_69	result	O
+deliberate_69	in	O
+deliberate_69	liability	O

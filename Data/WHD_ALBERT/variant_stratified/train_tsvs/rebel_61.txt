@@ -1,0 +1,10 @@
+rebel_61	Each	O
+rebel_61	was	O
+rebel_61	offered	O
+rebel_61	with	O
+rebel_61	Economy	O
+rebel_61	6	O
+rebel_61	or	O
+rebel_61	Rebel	rebel_nou
+rebel_61	V-8	O
+rebel_61	engines	O

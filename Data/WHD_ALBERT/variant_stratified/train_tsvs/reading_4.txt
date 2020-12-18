@@ -1,0 +1,13 @@
+reading_4	Another	O
+reading_4	possibility	O
+reading_4	was	O
+reading_4	that	O
+reading_4	the	O
+reading_4	reading	reading_en
+reading_4	of	O
+reading_4	the	O
+reading_4	three	O
+reading_4	pointer	O
+reading_4	altimeter	O
+reading_4	was	O
+reading_4	misinterpreted	O

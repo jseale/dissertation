@@ -1,0 +1,10 @@
+transform_79	This	O
+transform_79	is	O
+transform_79	obtained	O
+transform_79	by	O
+transform_79	applying	O
+transform_79	the	O
+transform_79	inverse	O
+transform_79	transform	transform_nou
+transform_79	sampling	O
+transform_79	method	O

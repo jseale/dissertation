@@ -1,0 +1,11 @@
+animate_7	Local	O
+animate_7	merchants	O
+animate_7	often	O
+animate_7	import	O
+animate_7	events	O
+animate_7	and	O
+animate_7	activity	O
+animate_7	to	O
+animate_7	animate	animate_vrb
+animate_7	the	O
+animate_7	area	O

@@ -1,0 +1,14 @@
+diffuse_34	Diffuse	diffuse_adj
+diffuse_34	traumatic	O
+diffuse_34	injury	O
+diffuse_34	can	O
+diffuse_34	result	O
+diffuse_34	in	O
+diffuse_34	diffuse	diffuse_adj
+diffuse_34	or	O
+diffuse_34	more	O
+diffuse_34	moderate	O
+diffuse_34	gliosis	O
+diffuse_34	without	O
+diffuse_34	scar	O
+diffuse_34	formation	O

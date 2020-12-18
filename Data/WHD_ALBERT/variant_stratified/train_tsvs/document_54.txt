@@ -1,0 +1,13 @@
+document_54	He	O
+document_54	was	O
+document_54	lenient	O
+document_54	in	O
+document_54	cases	O
+document_54	of	O
+document_54	widows	O
+document_54	who	O
+document_54	lacked	O
+document_54	a	O
+document_54	divorce	O
+document_54	document	document_nou
+document_54	agunah	O

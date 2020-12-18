@@ -1,0 +1,15 @@
+consummate_13	Huygens	O
+consummate_13	style	O
+consummate_13	was	O
+consummate_13	bright	O
+consummate_13	and	O
+consummate_13	vivacious	O
+consummate_13	and	O
+consummate_13	he	O
+consummate_13	was	O
+consummate_13	a	O
+consummate_13	consummate	consummate_adj
+consummate_13	artist	O
+consummate_13	in	O
+consummate_13	metrical	O
+consummate_13	form	O

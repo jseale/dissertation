@@ -1,0 +1,15 @@
+ornament_15	The	O
+ornament_15	boundary	O
+ornament_15	with	O
+ornament_15	the	O
+ornament_15	teleoconch	O
+ornament_15	is	O
+ornament_15	indicated	O
+ornament_15	by	O
+ornament_15	a	O
+ornament_15	rather	O
+ornament_15	sudden	O
+ornament_15	disappearance	O
+ornament_15	of	O
+ornament_15	the	O
+ornament_15	ornament	ornament_nou

@@ -1,0 +1,13 @@
+lives_51	Chris	O
+lives_51	Doyle	O
+lives_51	is	O
+lives_51	a	O
+lives_51	multi	O
+lives_51	media	O
+lives_51	artist	O
+lives_51	who	O
+lives_51	lives	lives_vrb
+lives_51	in	O
+lives_51	New	O
+lives_51	York	O
+lives_51	City	O

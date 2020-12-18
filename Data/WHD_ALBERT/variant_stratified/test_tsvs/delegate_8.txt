@@ -1,0 +1,16 @@
+delegate_8	In	O
+delegate_8	1943	O
+delegate_8	he	O
+delegate_8	was	O
+delegate_8	elected	O
+delegate_8	and	O
+delegate_8	served	O
+delegate_8	as	O
+delegate_8	a	O
+delegate_8	delegate	delegate_nou
+delegate_8	to	O
+delegate_8	the	O
+delegate_8	first	O
+delegate_8	Pro	O
+delegate_8	Independence	O
+delegate_8	Congress	O

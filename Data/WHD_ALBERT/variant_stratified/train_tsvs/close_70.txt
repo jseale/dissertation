@@ -1,0 +1,17 @@
+close_70	Each	O
+close_70	of	O
+close_70	the	O
+close_70	plantations	O
+close_70	are	O
+close_70	located	O
+close_70	either	O
+close_70	adjacent	O
+close_70	to	O
+close_70	or	O
+close_70	in	O
+close_70	close	close_adj-nou
+close_70	proximity	O
+close_70	to	O
+close_70	the	O
+close_70	Congo	O
+close_70	River	O

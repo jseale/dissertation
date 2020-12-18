@@ -1,0 +1,11 @@
+graduate_33	Graduate	graduate_adj-nou
+graduate_33	students	O
+graduate_33	can	O
+graduate_33	earn	O
+graduate_33	a	O
+graduate_33	master	O
+graduate_33	of	O
+graduate_33	science	O
+graduate_33	or	O
+graduate_33	doctoral	O
+graduate_33	degree	O

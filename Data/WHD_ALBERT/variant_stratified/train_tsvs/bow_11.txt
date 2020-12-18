@@ -1,0 +1,8 @@
+bow_11	Inlay	O
+bow_11	sections	O
+bow_11	could	O
+bow_11	be	O
+bow_11	sawed	O
+bow_11	by	O
+bow_11	bow	bow_nou-knot
+bow_11	saws	O

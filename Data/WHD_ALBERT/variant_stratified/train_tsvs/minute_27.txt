@@ -1,0 +1,13 @@
+minute_27	On	O
+minute_27	June	O
+minute_27	13	O
+minute_27	2016	O
+minute_27	it	O
+minute_27	was	O
+minute_27	announced	O
+minute_27	that	O
+minute_27	4Minute	O
+minute_27	have	O
+minute_27	decided	O
+minute_27	to	O
+minute_27	disband	O

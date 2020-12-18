@@ -1,0 +1,16 @@
+coordinate_4	This	O
+coordinate_4	information	O
+coordinate_4	is	O
+coordinate_4	needed	O
+coordinate_4	in	O
+coordinate_4	order	O
+coordinate_4	to	O
+coordinate_4	accurately	O
+coordinate_4	transform	O
+coordinate_4	data	O
+coordinate_4	from	O
+coordinate_4	one	O
+coordinate_4	coordinate	coordinate_adj-nou
+coordinate_4	system	O
+coordinate_4	to	O
+coordinate_4	another	O

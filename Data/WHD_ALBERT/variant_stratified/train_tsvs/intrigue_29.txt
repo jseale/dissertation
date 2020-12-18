@@ -1,0 +1,9 @@
+intrigue_29	The	O
+intrigue_29	poems	O
+intrigue_29	are	O
+intrigue_29	characterised	O
+intrigue_29	by	O
+intrigue_29	war	O
+intrigue_29	romance	O
+intrigue_29	and	O
+intrigue_29	intrigue	intrigue_nou

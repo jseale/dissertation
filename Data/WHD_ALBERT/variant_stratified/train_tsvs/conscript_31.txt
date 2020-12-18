@@ -1,0 +1,17 @@
+conscript_31	Hasenjaeger	O
+conscript_31	knew	O
+conscript_31	Scholz	O
+conscript_31	since	O
+conscript_31	his	O
+conscript_31	school	O
+conscript_31	days	O
+conscript_31	and	O
+conscript_31	corresponded	O
+conscript_31	with	O
+conscript_31	him	O
+conscript_31	during	O
+conscript_31	his	O
+conscript_31	time	O
+conscript_31	as	O
+conscript_31	a	O
+conscript_31	conscript	conscript_nou

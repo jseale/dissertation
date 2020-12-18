@@ -1,0 +1,9 @@
+insult_68	Genda	O
+insult_68	refuses	O
+insult_68	to	O
+insult_68	comply	O
+insult_68	and	O
+insult_68	continues	O
+insult_68	to	O
+insult_68	insult	insult_vrb
+insult_68	Chulbul	O

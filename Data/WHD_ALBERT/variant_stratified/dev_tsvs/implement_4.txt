@@ -1,0 +1,17 @@
+implement_4	Their	O
+implement_4	last	O
+implement_4	video	O
+implement_4	featured	O
+implement_4	the	O
+implement_4	gang	O
+implement_4	saying	O
+implement_4	We	O
+implement_4	are	O
+implement_4	coming	O
+implement_4	to	O
+implement_4	implement	implement_vrb
+implement_4	Islam	O
+implement_4	upon	O
+implement_4	your	O
+implement_4	own	O
+implement_4	necks	O

@@ -1,0 +1,11 @@
+axes_11	The	O
+axes_11	long	O
+axes_11	axes	axes_nou
+axes_11	of	O
+axes_11	the	O
+axes_11	craters	O
+axes_11	all	O
+axes_11	pointed	O
+axes_11	to	O
+axes_11	the	O
+axes_11	northeast	O

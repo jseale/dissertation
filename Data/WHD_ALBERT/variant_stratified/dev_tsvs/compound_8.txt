@@ -1,0 +1,17 @@
+compound_8	From	O
+compound_8	outside	O
+compound_8	the	O
+compound_8	compound	compound_nou
+compound_8	the	O
+compound_8	shrews	O
+compound_8	begin	O
+compound_8	to	O
+compound_8	chew	O
+compound_8	through	O
+compound_8	the	O
+compound_8	compound	compound_nou
+compound_8	walls	O
+compound_8	on	O
+compound_8	the	O
+compound_8	main	O
+compound_8	floor	O

@@ -1,0 +1,17 @@
+recount_32	The	O
+recount_32	ballots	O
+recount_32	are	O
+recount_32	then	O
+recount_32	transported	O
+recount_32	back	O
+recount_32	to	O
+recount_32	the	O
+recount_32	Returning	O
+recount_32	Officer	O
+recount_32	for	O
+recount_32	the	O
+recount_32	electorate	O
+recount_32	for	O
+recount_32	a	O
+recount_32	mandatory	O
+recount_32	recount	recount_nou

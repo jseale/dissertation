@@ -1,0 +1,14 @@
+associate_67	The	O
+associate_67	duke	O
+associate_67	was	O
+associate_67	followed	O
+associate_67	by	O
+associate_67	Florimond	O
+associate_67	Robertet	O
+associate_67	Catherine	O
+associate_67	's	O
+associate_67	secretary	O
+associate_67	and	O
+associate_67	a	O
+associate_67	Guise	O
+associate_67	associate	associate_adj-nou

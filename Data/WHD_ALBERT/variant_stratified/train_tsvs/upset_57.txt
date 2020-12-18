@@ -1,0 +1,7 @@
+upset_57	Will	O
+upset_57	liberals	O
+upset_57	be	O
+upset_57	upset	upset_nou
+upset_57	with	O
+upset_57	Tim	O
+upset_57	Kaine	O

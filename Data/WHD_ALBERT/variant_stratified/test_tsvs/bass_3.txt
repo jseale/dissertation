@@ -1,0 +1,17 @@
+bass_3	Bass	bass
+bass_3	singer	O
+bass_3	Freddy	O
+bass_3	Barksdale	O
+bass_3	joined	O
+bass_3	the	O
+bass_3	group	O
+bass_3	in	O
+bass_3	1956	O
+bass_3	when	O
+bass_3	Pat	O
+bass_3	Gaston	O
+bass_3	also	O
+bass_3	joined	O
+bass_3	the	O
+bass_3	air	O
+bass_3	force	O

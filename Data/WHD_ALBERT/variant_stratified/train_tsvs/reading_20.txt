@@ -1,0 +1,16 @@
+reading_20	Reading	reading_en
+reading_20	it	O
+reading_20	she	O
+reading_20	finally	O
+reading_20	realizes	O
+reading_20	her	O
+reading_20	father	O
+reading_20	's	O
+reading_20	true	O
+reading_20	intentions	O
+reading_20	and	O
+reading_20	returns	O
+reading_20	home	O
+reading_20	to	O
+reading_20	her	O
+reading_20	family	O

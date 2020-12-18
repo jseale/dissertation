@@ -1,0 +1,13 @@
+affect_78	Languishing	O
+affect_78	was	O
+affect_78	characterized	O
+affect_78	by	O
+affect_78	a	O
+affect_78	ratio	O
+affect_78	of	O
+affect_78	positive	O
+affect_78	to	O
+affect_78	negative	O
+affect_78	affect	affect_nou-psy
+affect_78	of	O
+affect_78	2.5	O

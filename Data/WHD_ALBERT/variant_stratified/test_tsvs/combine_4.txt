@@ -1,0 +1,10 @@
+combine_4	Their	O
+combine_4	faces	O
+combine_4	combine	combine_vrb
+combine_4	the	O
+combine_4	features	O
+combine_4	of	O
+combine_4	both	O
+combine_4	parrots	O
+combine_4	and	O
+combine_4	eagles	O

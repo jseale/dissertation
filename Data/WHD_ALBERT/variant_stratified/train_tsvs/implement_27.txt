@@ -1,0 +1,15 @@
+implement_27	The	O
+implement_27	district	O
+implement_27	uses	O
+implement_27	the	O
+implement_27	funding	O
+implement_27	to	O
+implement_27	implement	implement_vrb
+implement_27	Research	O
+implement_27	Based	O
+implement_27	Improvement	O
+implement_27	Strategies	O
+implement_27	for	O
+implement_27	the	O
+implement_27	7th	O
+implement_27	year	O

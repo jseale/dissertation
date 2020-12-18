@@ -1,0 +1,15 @@
+impact_8	The	O
+impact_8	Bricklin	O
+impact_8	carried	O
+impact_8	an	O
+impact_8	impact	impact_nou
+impact_8	absorbing	O
+impact_8	bumper	O
+impact_8	longer	O
+impact_8	nose	O
+impact_8	and	O
+impact_8	the	O
+impact_8	signature	O
+impact_8	gull	O
+impact_8	wing	O
+impact_8	doors	O

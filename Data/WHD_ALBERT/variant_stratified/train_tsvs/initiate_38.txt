@@ -1,0 +1,16 @@
+initiate_38	In	O
+initiate_38	bed	O
+initiate_38	Steve	O
+initiate_38	tries	O
+initiate_38	to	O
+initiate_38	initiate	initiate_vrb
+initiate_38	sex	O
+initiate_38	but	O
+initiate_38	Irene	O
+initiate_38	says	O
+initiate_38	she	O
+initiate_38	does	O
+initiate_38	n't	O
+initiate_38	feel	O
+initiate_38	very	O
+initiate_38	sexy	O

@@ -1,0 +1,16 @@
+diffuse_39	The	O
+diffuse_39	nebulous	O
+diffuse_39	galaxy	O
+diffuse_39	features	O
+diffuse_39	a	O
+diffuse_39	bright	O
+diffuse_39	central	O
+diffuse_39	bulge	O
+diffuse_39	and	O
+diffuse_39	diffuse	diffuse_adj
+diffuse_39	arms	O
+diffuse_39	with	O
+diffuse_39	distinct	O
+diffuse_39	star	O
+diffuse_39	forming	O
+diffuse_39	regions	O

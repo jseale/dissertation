@@ -1,0 +1,11 @@
+refuse_78	Herc	O
+refuse_78	and	O
+refuse_78	Officer	O
+refuse_78	Anthony	O
+refuse_78	Colicchio	O
+refuse_78	refuse	refuse_vrb
+refuse_78	to	O
+refuse_78	help	O
+refuse_78	Sergeant	O
+refuse_78	Ellis	O
+refuse_78	Carver	O

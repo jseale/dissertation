@@ -1,0 +1,12 @@
+conflict_25	Due	O
+conflict_25	to	O
+conflict_25	the	O
+conflict_25	conflict	conflict_nou
+conflict_25	there	O
+conflict_25	are	O
+conflict_25	currently	O
+conflict_25	two	O
+conflict_25	Libyan	O
+conflict_25	embassies	O
+conflict_25	in	O
+conflict_25	Malta	O

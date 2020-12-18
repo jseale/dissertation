@@ -1,0 +1,16 @@
+excuse_3	The	O
+excuse_3	only	O
+excuse_3	excuse	excuse_nou
+excuse_3	he	O
+excuse_3	gave	O
+excuse_3	was	O
+excuse_3	that	O
+excuse_3	Paul	O
+excuse_3	never	O
+excuse_3	looked	O
+excuse_3	out	O
+excuse_3	for	O
+excuse_3	his	O
+excuse_3	psychotic	O
+excuse_3	mother	O
+excuse_3	Isabella	O

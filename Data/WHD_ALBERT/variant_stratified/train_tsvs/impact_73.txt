@@ -1,0 +1,8 @@
+impact_73	On	O
+impact_73	the	O
+impact_73	October	O
+impact_73	7	O
+impact_73	live	O
+impact_73	edition	O
+impact_73	of	O
+impact_73	Impact	impact_nou

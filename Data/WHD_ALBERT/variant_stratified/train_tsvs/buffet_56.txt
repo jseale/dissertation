@@ -1,0 +1,17 @@
+buffet_56	Two	O
+buffet_56	rakes	O
+buffet_56	were	O
+buffet_56	formed	O
+buffet_56	with	O
+buffet_56	a	O
+buffet_56	Pullman	O
+buffet_56	coach	O
+buffet_56	that	O
+buffet_56	provided	O
+buffet_56	a	O
+buffet_56	buffet	buffet_nou
+buffet_56	service	O
+buffet_56	for	O
+buffet_56	a	O
+buffet_56	supplementary	O
+buffet_56	fare	O

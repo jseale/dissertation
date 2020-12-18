@@ -1,0 +1,13 @@
+present_51	Two	O
+present_51	nursing	O
+present_51	homes	O
+present_51	are	O
+present_51	present	present_adj-nou
+present_51	in	O
+present_51	Carlsbad	O
+present_51	Landsun	O
+present_51	Homes	O
+present_51	and	O
+present_51	Lakeview	O
+present_51	Christian	O
+present_51	Home	O

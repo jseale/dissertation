@@ -1,0 +1,15 @@
+syndicate_73	Spit	O
+syndicate_73	Syndicate	syndicate_nou
+syndicate_73	are	O
+syndicate_73	an	O
+syndicate_73	ARIA	O
+syndicate_73	Award	O
+syndicate_73	nominated	O
+syndicate_73	Australian	O
+syndicate_73	hip	O
+syndicate_73	hop	O
+syndicate_73	duo	O
+syndicate_73	based	O
+syndicate_73	in	O
+syndicate_73	Sydney	O
+syndicate_73	Australia	O

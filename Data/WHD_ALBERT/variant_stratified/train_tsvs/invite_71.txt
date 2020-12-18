@@ -1,0 +1,14 @@
+invite_71	Users	O
+invite_71	can	O
+invite_71	invite	invite_vrb
+invite_71	anyone	O
+invite_71	whether	O
+invite_71	a	O
+invite_71	site	O
+invite_71	user	O
+invite_71	or	O
+invite_71	not	O
+invite_71	to	O
+invite_71	become	O
+invite_71	a	O
+invite_71	connection	O

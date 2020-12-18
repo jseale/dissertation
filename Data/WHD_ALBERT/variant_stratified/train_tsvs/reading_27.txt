@@ -1,0 +1,15 @@
+reading_27	These	O
+reading_27	are	O
+reading_27	not	O
+reading_27	digraphs	O
+reading_27	as	O
+reading_27	they	O
+reading_27	retain	O
+reading_27	the	O
+reading_27	normal	O
+reading_27	sequential	O
+reading_27	reading	reading_en
+reading_27	of	O
+reading_27	the	O
+reading_27	two	O
+reading_27	glyphs	O

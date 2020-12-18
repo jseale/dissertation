@@ -1,0 +1,17 @@
+separate_0	The	O
+separate_0	trajectory	O
+separate_0	matrix	O
+separate_0	of	O
+separate_0	multi	O
+separate_0	channel	O
+separate_0	time	O
+separate_0	series	O
+separate_0	consists	O
+separate_0	of	O
+separate_0	stacked	O
+separate_0	trajectory	O
+separate_0	matrices	O
+separate_0	of	O
+separate_0	separate	separate_adj
+separate_0	times	O
+separate_0	series	O

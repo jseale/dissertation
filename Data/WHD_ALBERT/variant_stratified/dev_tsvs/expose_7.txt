@@ -1,0 +1,12 @@
+expose_7	Sherry	O
+expose_7	then	O
+expose_7	attempts	O
+expose_7	to	O
+expose_7	expose	expose_vrb
+expose_7	the	O
+expose_7	truth	O
+expose_7	for	O
+expose_7	reasons	O
+expose_7	of	O
+expose_7	her	O
+expose_7	own	O

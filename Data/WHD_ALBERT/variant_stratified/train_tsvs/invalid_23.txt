@@ -1,0 +1,13 @@
+invalid_23	In	O
+invalid_23	summary	O
+invalid_23	there	O
+invalid_23	are	O
+invalid_23	three	O
+invalid_23	sorts	O
+invalid_23	of	O
+invalid_23	consonant	O
+invalid_23	cluster	O
+invalid_23	valid	O
+invalid_23	special	O
+invalid_23	and	O
+invalid_23	invalid	invalid_adj

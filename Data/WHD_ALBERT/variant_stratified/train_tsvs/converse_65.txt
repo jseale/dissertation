@@ -1,0 +1,10 @@
+converse_65	Curiosity	O
+converse_65	led	O
+converse_65	them	O
+converse_65	to	O
+converse_65	hear	O
+converse_65	and	O
+converse_65	converse	converse_vrb
+converse_65	with	O
+converse_65	the	O
+converse_65	master	O

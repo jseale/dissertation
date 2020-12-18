@@ -1,0 +1,9 @@
+incline_64	In	O
+incline_64	1998	O
+incline_64	Incline	incline_nou
+incline_64	Software	O
+incline_64	merged	O
+incline_64	with	O
+incline_64	The	O
+incline_64	Hope	O
+incline_64	Foundation	O

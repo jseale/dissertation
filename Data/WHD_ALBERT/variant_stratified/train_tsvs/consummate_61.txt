@@ -1,0 +1,8 @@
+consummate_61	Bobby	O
+consummate_61	and	O
+consummate_61	Vicki	O
+consummate_61	leave	O
+consummate_61	to	O
+consummate_61	consummate	consummate_vrb
+consummate_61	their	O
+consummate_61	marriage	O

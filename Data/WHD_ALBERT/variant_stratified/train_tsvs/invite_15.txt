@@ -1,0 +1,13 @@
+invite_15	Despite	O
+invite_15	the	O
+invite_15	success	O
+invite_15	the	O
+invite_15	Rams	O
+invite_15	did	O
+invite_15	n't	O
+invite_15	get	O
+invite_15	a	O
+invite_15	bowl	O
+invite_15	invite	invite_nou
+invite_15	that	O
+invite_15	season	O

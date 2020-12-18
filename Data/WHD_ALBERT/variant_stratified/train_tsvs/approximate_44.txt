@@ -1,0 +1,15 @@
+approximate_44	She	O
+approximate_44	died	O
+approximate_44	in	O
+approximate_44	Pakistan	O
+approximate_44	on	O
+approximate_44	6	O
+approximate_44	December	O
+approximate_44	1982	O
+approximate_44	at	O
+approximate_44	the	O
+approximate_44	approximate	approximate_adj-nou
+approximate_44	age	O
+approximate_44	of	O
+approximate_44	sixty	O
+approximate_44	five	O

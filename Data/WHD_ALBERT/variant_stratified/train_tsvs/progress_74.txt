@@ -1,0 +1,17 @@
+progress_74	The	O
+progress_74	recruitment	O
+progress_74	process	O
+progress_74	consists	O
+progress_74	of	O
+progress_74	four	O
+progress_74	datebooks	O
+progress_74	dressing	O
+progress_74	from	O
+progress_74	more	O
+progress_74	casual	O
+progress_74	to	O
+progress_74	formal	O
+progress_74	as	O
+progress_74	the	O
+progress_74	datebooks	O
+progress_74	progress	progress_vrb

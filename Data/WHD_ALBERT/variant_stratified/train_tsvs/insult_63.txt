@@ -1,0 +1,14 @@
+insult_63	But	O
+insult_63	he	O
+insult_63	also	O
+insult_63	displays	O
+insult_63	genuine	O
+insult_63	courage	O
+insult_63	rebuking	O
+insult_63	insolent	O
+insult_63	travellers	O
+insult_63	who	O
+insult_63	insult	insult_vrb
+insult_63	Jessie	O
+insult_63	's	O
+insult_63	honour	O

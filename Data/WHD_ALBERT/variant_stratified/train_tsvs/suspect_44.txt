@@ -1,0 +1,16 @@
+suspect_44	Bayliss	O
+suspect_44	reveals	O
+suspect_44	that	O
+suspect_44	the	O
+suspect_44	girl	O
+suspect_44	's	O
+suspect_44	father	O
+suspect_44	who	O
+suspect_44	had	O
+suspect_44	been	O
+suspect_44	a	O
+suspect_44	suspect	suspect_adj-nou
+suspect_44	also	O
+suspect_44	has	O
+suspect_44	an	O
+suspect_44	alibi	O

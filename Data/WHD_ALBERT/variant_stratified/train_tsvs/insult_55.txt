@@ -1,0 +1,11 @@
+insult_55	Man	O
+insult_55	Singh	O
+insult_55	took	O
+insult_55	this	O
+insult_55	as	O
+insult_55	an	O
+insult_55	insult	insult_nou
+insult_55	to	O
+insult_55	Akbar	O
+insult_55	and	O
+insult_55	himself	O

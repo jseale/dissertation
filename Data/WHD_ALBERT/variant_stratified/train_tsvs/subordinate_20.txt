@@ -1,0 +1,15 @@
+subordinate_20	Champlin	O
+subordinate_20	is	O
+subordinate_20	managed	O
+subordinate_20	on	O
+subordinate_20	a	O
+subordinate_20	daily	O
+subordinate_20	basis	O
+subordinate_20	by	O
+subordinate_20	the	O
+subordinate_20	city	O
+subordinate_20	administrator	O
+subordinate_20	and	O
+subordinate_20	subordinate	subordinate_adj-nou
+subordinate_20	department	O
+subordinate_20	heads	O

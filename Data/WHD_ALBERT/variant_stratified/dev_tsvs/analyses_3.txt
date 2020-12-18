@@ -1,0 +1,13 @@
+analyses_3	Several	O
+analyses_3	interrupted	O
+analyses_3	time	O
+analyses_3	series	O
+analyses_3	analyses	analyses_nou
+analyses_3	assessing	O
+analyses_3	SORN	O
+analyses_3	have	O
+analyses_3	been	O
+analyses_3	completed	O
+analyses_3	in	O
+analyses_3	recent	O
+analyses_3	years	O

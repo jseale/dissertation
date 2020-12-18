@@ -1,0 +1,14 @@
+affiliate_5	This	O
+affiliate_5	makes	O
+affiliate_5	it	O
+affiliate_5	a	O
+affiliate_5	sister	O
+affiliate_5	station	O
+affiliate_5	to	O
+affiliate_5	CW	O
+affiliate_5	affiliate	affiliate_nou
+affiliate_5	WBMM	O
+affiliate_5	and	O
+affiliate_5	CBS	O
+affiliate_5	affiliate	affiliate_nou
+affiliate_5	WAKA	O

@@ -1,0 +1,12 @@
+subordinate_1	Speer	O
+subordinate_1	was	O
+subordinate_1	to	O
+subordinate_1	be	O
+subordinate_1	replaced	O
+subordinate_1	by	O
+subordinate_1	his	O
+subordinate_1	own	O
+subordinate_1	subordinate	subordinate_adj-nou
+subordinate_1	Karl	O
+subordinate_1	Otto	O
+subordinate_1	Saur	O

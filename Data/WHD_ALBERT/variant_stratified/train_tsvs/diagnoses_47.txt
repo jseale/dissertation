@@ -1,0 +1,17 @@
+diagnoses_47	The	O
+diagnoses_47	majority	O
+diagnoses_47	of	O
+diagnoses_47	diagnoses	diagnoses_nou
+diagnoses_47	of	O
+diagnoses_47	CCM	O
+diagnoses_47	are	O
+diagnoses_47	in	O
+diagnoses_47	adults	O
+diagnoses_47	however	O
+diagnoses_47	25	O
+diagnoses_47	of	O
+diagnoses_47	cases	O
+diagnoses_47	of	O
+diagnoses_47	CCM	O
+diagnoses_47	are	O
+diagnoses_47	children	O

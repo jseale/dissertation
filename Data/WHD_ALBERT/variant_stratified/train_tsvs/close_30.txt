@@ -1,0 +1,16 @@
+close_30	The	O
+close_30	power	O
+close_30	station	O
+close_30	is	O
+close_30	located	O
+close_30	in	O
+close_30	Buseruka	O
+close_30	Village	O
+close_30	close	close_adj-nou
+close_30	to	O
+close_30	the	O
+close_30	eastern	O
+close_30	shores	O
+close_30	of	O
+close_30	Lake	O
+close_30	Albert	O

@@ -1,0 +1,17 @@
+invalid_66	Although	O
+invalid_66	the	O
+invalid_66	Major	O
+invalid_66	did	O
+invalid_66	return	O
+invalid_66	from	O
+invalid_66	the	O
+invalid_66	war	O
+invalid_66	he	O
+invalid_66	was	O
+invalid_66	an	O
+invalid_66	invalid	invalid_nou
+invalid_66	and	O
+invalid_66	died	O
+invalid_66	ten	O
+invalid_66	years	O
+invalid_66	later	O

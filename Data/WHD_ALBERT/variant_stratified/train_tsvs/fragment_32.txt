@@ -1,0 +1,15 @@
+fragment_32	Spider	O
+fragment_32	Man	O
+fragment_32	Noir	O
+fragment_32	pursues	O
+fragment_32	Vulture	O
+fragment_32	through	O
+fragment_32	the	O
+fragment_32	streets	O
+fragment_32	Vulture	O
+fragment_32	's	O
+fragment_32	fragment	fragment_nou
+fragment_32	grants	O
+fragment_32	him	O
+fragment_32	teleportation	O
+fragment_32	powers	O

@@ -1,0 +1,12 @@
+reading_9	In	O
+reading_9	this	O
+reading_9	respect	O
+reading_9	bulk	O
+reading_9	reading	reading_en
+reading_9	is	O
+reading_9	a	O
+reading_9	fuzzy	O
+reading_9	method	O
+reading_9	for	O
+reading_9	process	O
+reading_9	support	O

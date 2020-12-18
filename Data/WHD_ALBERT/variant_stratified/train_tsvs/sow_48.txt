@@ -1,0 +1,17 @@
+sow_48	Also	O
+sow_48	important	O
+sow_48	are	O
+sow_48	the	O
+sow_48	sedges	O
+sow_48	and	O
+sow_48	sow	sow_nou
+sow_48	thistles	O
+sow_48	which	O
+sow_48	reproduce	O
+sow_48	easily	O
+sow_48	in	O
+sow_48	areas	O
+sow_48	that	O
+sow_48	are	O
+sow_48	less	O
+sow_48	salty	O

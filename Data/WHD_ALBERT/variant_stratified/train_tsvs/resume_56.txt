@@ -1,0 +1,11 @@
+resume_56	But	O
+resume_56	Sultan	O
+resume_56	Ahmed	O
+resume_56	III	O
+resume_56	did	O
+resume_56	n't	O
+resume_56	resume	resume_vrb
+resume_56	the	O
+resume_56	war	O
+resume_56	with	O
+resume_56	Russia	O

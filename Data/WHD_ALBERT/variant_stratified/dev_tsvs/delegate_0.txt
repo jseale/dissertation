@@ -1,0 +1,13 @@
+delegate_0	Another	O
+delegate_0	Mexican	O
+delegate_0	delegate	delegate_nou
+delegate_0	reported	O
+delegate_0	1,000	O
+delegate_0	free	O
+delegate_0	beds	O
+delegate_0	for	O
+delegate_0	maternity	O
+delegate_0	service	O
+delegate_0	in	O
+delegate_0	Mexico	O
+delegate_0	City	O

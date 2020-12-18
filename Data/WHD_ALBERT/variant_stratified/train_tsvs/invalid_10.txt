@@ -1,0 +1,11 @@
+invalid_10	Several	O
+invalid_10	studies	O
+invalid_10	have	O
+invalid_10	investigated	O
+invalid_10	the	O
+invalid_10	influence	O
+invalid_10	of	O
+invalid_10	valid	O
+invalid_10	and	O
+invalid_10	invalid	invalid_adj
+invalid_10	cues	O

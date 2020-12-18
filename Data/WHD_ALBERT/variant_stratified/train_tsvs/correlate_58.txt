@@ -1,0 +1,17 @@
+correlate_58	The	O
+correlate_58	report	O
+correlate_58	stated	O
+correlate_58	that	O
+correlate_58	IQ	O
+correlate_58	scores	O
+correlate_58	measure	O
+correlate_58	important	O
+correlate_58	skills	O
+correlate_58	as	O
+correlate_58	they	O
+correlate_58	correlate	correlate_nou-vrb
+correlate_58	fairly	O
+correlate_58	well	O
+correlate_58	0.5	O
+correlate_58	with	O
+correlate_58	grades	O

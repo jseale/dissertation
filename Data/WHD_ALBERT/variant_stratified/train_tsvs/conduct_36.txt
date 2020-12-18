@@ -1,0 +1,7 @@
+conduct_36	Six	O
+conduct_36	students	O
+conduct_36	were	O
+conduct_36	charged	O
+conduct_36	with	O
+conduct_36	disorderly	O
+conduct_36	conduct	conduct_nou

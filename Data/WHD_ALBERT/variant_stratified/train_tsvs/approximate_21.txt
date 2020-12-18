@@ -1,0 +1,16 @@
+approximate_21	Musrigharari	O
+approximate_21	is	O
+approximate_21	located	O
+approximate_21	at	O
+approximate_21	an	O
+approximate_21	approximate	approximate_adj-nou
+approximate_21	distance	O
+approximate_21	of	O
+approximate_21	8	O
+approximate_21	km	O
+approximate_21	from	O
+approximate_21	Samastipur	O
+approximate_21	on	O
+approximate_21	NH28	O
+approximate_21	and	O
+approximate_21	NH103	O

@@ -1,0 +1,12 @@
+invert_77	During	O
+invert_77	diffusion	O
+invert_77	a	O
+invert_77	portion	O
+invert_77	of	O
+invert_77	the	O
+invert_77	sucrose	O
+invert_77	breaks	O
+invert_77	down	O
+invert_77	into	O
+invert_77	invert	invert_vrb
+invert_77	sugars	O

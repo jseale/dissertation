@@ -1,0 +1,9 @@
+insert_55	Drops	O
+insert_55	function	O
+insert_55	for	O
+insert_55	Insert	insert_vrb
+insert_55	Picture	O
+insert_55	From	O
+insert_55	Scanner	O
+insert_55	or	O
+insert_55	Camera	O

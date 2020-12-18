@@ -1,0 +1,13 @@
+deliberate_59	This	O
+deliberate_59	can	O
+deliberate_59	happen	O
+deliberate_59	through	O
+deliberate_59	a	O
+deliberate_59	natural	O
+deliberate_59	process	O
+deliberate_59	an	O
+deliberate_59	accident	O
+deliberate_59	or	O
+deliberate_59	deliberate	deliberate_adj
+deliberate_59	human	O
+deliberate_59	involvement	O

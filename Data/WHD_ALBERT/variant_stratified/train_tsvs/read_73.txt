@@ -1,0 +1,10 @@
+read_73	The	O
+read_73	Poems	O
+read_73	are	O
+read_73	simple	O
+read_73	to	O
+read_73	read	read_present
+read_73	and	O
+read_73	easy	O
+read_73	to	O
+read_73	comprehend	O

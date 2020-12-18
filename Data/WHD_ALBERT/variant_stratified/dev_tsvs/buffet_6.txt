@@ -1,0 +1,16 @@
+buffet_6	Eight	O
+buffet_6	buffet	buffet_nou
+buffet_6	cars	O
+buffet_6	coded	O
+buffet_6	RS	O
+buffet_6	were	O
+buffet_6	originally	O
+buffet_6	constructed	O
+buffet_6	by	O
+buffet_6	Commonwealth	O
+buffet_6	Engineering	O
+buffet_6	and	O
+buffet_6	numbered	O
+buffet_6	2299	O
+buffet_6	to	O
+buffet_6	2306	O

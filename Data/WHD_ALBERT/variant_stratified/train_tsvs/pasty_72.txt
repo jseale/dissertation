@@ -1,0 +1,17 @@
+pasty_72	In	O
+pasty_72	south	O
+pasty_72	India	O
+pasty_72	Thogayal	O
+pasty_72	or	O
+pasty_72	Thuvayal	O
+pasty_72	Tamil	O
+pasty_72	are	O
+pasty_72	preparations	O
+pasty_72	similar	O
+pasty_72	to	O
+pasty_72	chutney	O
+pasty_72	but	O
+pasty_72	with	O
+pasty_72	a	O
+pasty_72	pasty	pasty_nou
+pasty_72	consistency	O

@@ -1,0 +1,9 @@
+precipitate_4	Iron	O
+precipitate_4	precipitate	precipitate_adj-nou
+precipitate_4	is	O
+precipitate_4	also	O
+precipitate_4	caked	O
+precipitate_4	thickly	O
+precipitate_4	along	O
+precipitate_4	the	O
+precipitate_4	stream	O

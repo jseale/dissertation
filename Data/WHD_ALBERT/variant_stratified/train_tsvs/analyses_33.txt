@@ -1,0 +1,15 @@
+analyses_33	The	O
+analyses_33	pronunciation	O
+analyses_33	of	O
+analyses_33	syllable	O
+analyses_33	final	O
+analyses_33	ch	O
+analyses_33	and	O
+analyses_33	nh	O
+analyses_33	in	O
+analyses_33	Hanoi	O
+analyses_33	Vietnamese	O
+analyses_33	has	O
+analyses_33	had	O
+analyses_33	different	O
+analyses_33	analyses	analyses_nou

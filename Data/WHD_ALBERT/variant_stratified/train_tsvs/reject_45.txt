@@ -1,0 +1,9 @@
+reject_45	The	O
+reject_45	speaker	O
+reject_45	can	O
+reject_45	decide	O
+reject_45	to	O
+reject_45	accept	O
+reject_45	or	O
+reject_45	reject	reject_vrb
+reject_45	it	O

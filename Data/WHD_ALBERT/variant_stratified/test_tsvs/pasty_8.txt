@@ -1,0 +1,16 @@
+pasty_8	Their	O
+pasty_8	pulp	O
+pasty_8	is	O
+pasty_8	orange	O
+pasty_8	salmon	O
+pasty_8	or	O
+pasty_8	yellowish	O
+pasty_8	in	O
+pasty_8	color	O
+pasty_8	with	O
+pasty_8	a	O
+pasty_8	somewhat	O
+pasty_8	juicy	O
+pasty_8	and	O
+pasty_8	pasty	pasty_nou
+pasty_8	texture	O

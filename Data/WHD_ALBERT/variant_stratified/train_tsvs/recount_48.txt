@@ -1,0 +1,12 @@
+recount_48	Wanggaard	O
+recount_48	had	O
+recount_48	until	O
+recount_48	5	O
+recount_48	p.m.	O
+recount_48	on	O
+recount_48	June	O
+recount_48	15	O
+recount_48	to	O
+recount_48	request	O
+recount_48	a	O
+recount_48	recount	recount_nou

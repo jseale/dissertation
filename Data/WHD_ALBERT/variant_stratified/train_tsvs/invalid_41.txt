@@ -1,0 +1,13 @@
+invalid_41	Some	O
+invalid_41	of	O
+invalid_41	the	O
+invalid_41	currency	O
+invalid_41	became	O
+invalid_41	invalid	invalid_adj
+invalid_41	and	O
+invalid_41	many	O
+invalid_41	people	O
+invalid_41	lost	O
+invalid_41	their	O
+invalid_41	life	O
+invalid_41	savings	O

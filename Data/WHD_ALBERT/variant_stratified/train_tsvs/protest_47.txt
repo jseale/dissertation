@@ -1,0 +1,16 @@
+protest_47	The	O
+protest_47	1978	O
+protest_47	Treetop	O
+protest_47	Protest	protest_nou
+protest_47	Site	O
+protest_47	is	O
+protest_47	still	O
+protest_47	accessible	O
+protest_47	today	O
+protest_47	and	O
+protest_47	includes	O
+protest_47	platforms	O
+protest_47	high	O
+protest_47	in	O
+protest_47	the	O
+protest_47	trees	O

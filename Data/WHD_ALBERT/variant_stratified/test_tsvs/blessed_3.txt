@@ -1,0 +1,14 @@
+blessed_3	The	O
+blessed_3	recently	O
+blessed_3	renovated	O
+blessed_3	Cathedral	O
+blessed_3	of	O
+blessed_3	the	O
+blessed_3	Blessed	blessed_adj
+blessed_3	Sacrament	O
+blessed_3	located	O
+blessed_3	at	O
+blessed_3	11th	O
+blessed_3	and	O
+blessed_3	K	O
+blessed_3	Streets	O

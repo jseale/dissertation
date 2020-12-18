@@ -1,0 +1,14 @@
+affect_44	It	O
+affect_44	causes	O
+affect_44	intellectual	O
+affect_44	disability	O
+affect_44	and	O
+affect_44	congenital	O
+affect_44	malformations	O
+affect_44	that	O
+affect_44	affect	affect
+affect_44	a	O
+affect_44	variety	O
+affect_44	of	O
+affect_44	organ	O
+affect_44	systems	O

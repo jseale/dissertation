@@ -1,0 +1,14 @@
+read_1	She	O
+read_1	also	O
+read_1	read	read_past
+read_1	much	O
+read_1	and	O
+read_1	especially	O
+read_1	books	O
+read_1	on	O
+read_1	Eastern	O
+read_1	philosophies	O
+read_1	were	O
+read_1	important	O
+read_1	to	O
+read_1	her	O

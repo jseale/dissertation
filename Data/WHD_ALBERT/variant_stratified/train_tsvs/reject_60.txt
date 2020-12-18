@@ -1,0 +1,16 @@
+reject_60	In	O
+reject_60	particular	O
+reject_60	the	O
+reject_60	context	O
+reject_60	driven	O
+reject_60	community	O
+reject_60	and	O
+reject_60	the	O
+reject_60	International	O
+reject_60	Society	O
+reject_60	for	O
+reject_60	Software	O
+reject_60	Testing	O
+reject_60	reject	reject_vrb
+reject_60	these	O
+reject_60	standards	O

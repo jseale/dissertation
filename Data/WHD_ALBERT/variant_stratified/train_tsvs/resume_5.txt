@@ -1,0 +1,8 @@
+resume_5	She	O
+resume_5	constantly	O
+resume_5	tries	O
+resume_5	to	O
+resume_5	build	O
+resume_5	an	O
+resume_5	impressive	O
+resume_5	resume	resume_nou

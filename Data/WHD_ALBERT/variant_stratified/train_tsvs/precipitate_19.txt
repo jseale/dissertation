@@ -1,0 +1,15 @@
+precipitate_19	Lucullus	O
+precipitate_19	reaction	O
+precipitate_19	was	O
+precipitate_19	an	O
+precipitate_19	attack	O
+precipitate_19	that	O
+precipitate_19	was	O
+precipitate_19	so	O
+precipitate_19	precipitate	precipitate_adj-nou
+precipitate_19	that	O
+precipitate_19	he	O
+precipitate_19	took	O
+precipitate_19	Tigranes	O
+precipitate_19	by	O
+precipitate_19	surprise	O

@@ -1,0 +1,12 @@
+document_5	Poros	O
+document_5	was	O
+document_5	mentioned	O
+document_5	in	O
+document_5	a	O
+document_5	1270	O
+document_5	document	document_nou
+document_5	of	O
+document_5	the	O
+document_5	Patriarchate	O
+document_5	of	O
+document_5	Constantinople	O

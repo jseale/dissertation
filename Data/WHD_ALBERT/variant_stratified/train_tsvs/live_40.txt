@@ -1,0 +1,10 @@
+live_40	30,000	O
+live_40	live	live_adj
+live_40	flies	O
+live_40	were	O
+live_40	then	O
+live_40	dumped	O
+live_40	onto	O
+live_40	him	O
+live_40	during	O
+live_40	filming	O

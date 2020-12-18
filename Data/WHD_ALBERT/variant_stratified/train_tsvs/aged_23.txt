@@ -1,0 +1,16 @@
+aged_23	She	O
+aged_23	died	O
+aged_23	at	O
+aged_23	10	O
+aged_23	p.m.	O
+aged_23	on	O
+aged_23	February	O
+aged_23	14	O
+aged_23	1971	O
+aged_23	aged	aged
+aged_23	59	O
+aged_23	at	O
+aged_23	her	O
+aged_23	Miami	O
+aged_23	Beach	O
+aged_23	home	O

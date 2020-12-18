@@ -1,0 +1,10 @@
+increase_79	Until	O
+increase_79	1935	O
+increase_79	the	O
+increase_79	Familienblatt	O
+increase_79	could	O
+increase_79	increase	increase_vrb
+increase_79	its	O
+increase_79	circulation	O
+increase_79	to	O
+increase_79	36,500	O

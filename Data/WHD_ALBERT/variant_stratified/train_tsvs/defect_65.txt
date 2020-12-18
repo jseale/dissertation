@@ -1,0 +1,11 @@
+defect_65	Process	O
+defect_65	change	O
+defect_65	management	O
+defect_65	and	O
+defect_65	defect	defect_nou
+defect_65	prevention	O
+defect_65	programs	O
+defect_65	are	O
+defect_65	integrated	O
+defect_65	into	O
+defect_65	processes	O

@@ -1,0 +1,12 @@
+produce_77	Prism	O
+produce_77	rotators	O
+produce_77	use	O
+produce_77	multiple	O
+produce_77	internal	O
+produce_77	reflections	O
+produce_77	to	O
+produce_77	produce	produce_vrb
+produce_77	beams	O
+produce_77	with	O
+produce_77	rotated	O
+produce_77	polarization	O

@@ -1,0 +1,17 @@
+incline_46	Westbound	O
+incline_46	trains	O
+incline_46	rise	O
+incline_46	up	O
+incline_46	a	O
+incline_46	steep	O
+incline_46	incline	incline_nou
+incline_46	to	O
+incline_46	join	O
+incline_46	the	O
+incline_46	North	O
+incline_46	Clyde	O
+incline_46	line	O
+incline_46	from	O
+incline_46	Queen	O
+incline_46	Street	O
+incline_46	station	O

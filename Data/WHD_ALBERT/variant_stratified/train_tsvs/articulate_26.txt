@@ -1,0 +1,13 @@
+articulate_26	Meristella	O
+articulate_26	is	O
+articulate_26	placed	O
+articulate_26	in	O
+articulate_26	the	O
+articulate_26	family	O
+articulate_26	Meristellidae	O
+articulate_26	of	O
+articulate_26	the	O
+articulate_26	articulate	articulate_adj
+articulate_26	brachiopod	O
+articulate_26	order	O
+articulate_26	Athyridida	O

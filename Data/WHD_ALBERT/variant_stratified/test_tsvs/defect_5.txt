@@ -1,0 +1,15 @@
+defect_5	In	O
+defect_5	2000	O
+defect_5	he	O
+defect_5	had	O
+defect_5	been	O
+defect_5	hospitalized	O
+defect_5	for	O
+defect_5	three	O
+defect_5	weeks	O
+defect_5	because	O
+defect_5	of	O
+defect_5	a	O
+defect_5	congenital	O
+defect_5	heart	O
+defect_5	defect	defect_nou

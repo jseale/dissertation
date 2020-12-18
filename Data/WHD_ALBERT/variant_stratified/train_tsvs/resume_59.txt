@@ -1,0 +1,12 @@
+resume_59	She	O
+resume_59	reunites	O
+resume_59	with	O
+resume_59	M.E.	O
+resume_59	and	O
+resume_59	the	O
+resume_59	two	O
+resume_59	quickly	O
+resume_59	resume	resume_vrb
+resume_59	their	O
+resume_59	close	O
+resume_59	friendship	O

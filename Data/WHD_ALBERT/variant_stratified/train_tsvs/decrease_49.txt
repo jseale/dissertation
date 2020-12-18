@@ -1,0 +1,17 @@
+decrease_49	Mycotoxins	O
+decrease_49	in	O
+decrease_49	animal	O
+decrease_49	fodder	O
+decrease_49	particularly	O
+decrease_49	silage	O
+decrease_49	can	O
+decrease_49	decrease	decrease_vrb
+decrease_49	the	O
+decrease_49	performance	O
+decrease_49	of	O
+decrease_49	farm	O
+decrease_49	animals	O
+decrease_49	and	O
+decrease_49	potentially	O
+decrease_49	kill	O
+decrease_49	them	O

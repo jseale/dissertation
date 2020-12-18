@@ -1,0 +1,16 @@
+frequent_73	Turnover	O
+frequent_73	was	O
+frequent_73	frequent	frequent_adj
+frequent_73	in	O
+frequent_73	many	O
+frequent_73	bands	O
+frequent_73	and	O
+frequent_73	top	O
+frequent_73	soloists	O
+frequent_73	were	O
+frequent_73	often	O
+frequent_73	lured	O
+frequent_73	away	O
+frequent_73	to	O
+frequent_73	better	O
+frequent_73	contracts	O

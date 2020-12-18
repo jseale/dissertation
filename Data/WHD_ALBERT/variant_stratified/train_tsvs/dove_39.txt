@@ -1,0 +1,15 @@
+dove_39	The	O
+dove_39	Enggano	O
+dove_39	cuckoo	O
+dove_39	dove	dove
+dove_39	Macropygia	O
+dove_39	cinnamomea	O
+dove_39	is	O
+dove_39	a	O
+dove_39	species	O
+dove_39	of	O
+dove_39	bird	O
+dove_39	in	O
+dove_39	the	O
+dove_39	family	O
+dove_39	Columbidae	O

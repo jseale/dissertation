@@ -1,0 +1,12 @@
+refuse_22	He	O
+refuse_22	tries	O
+refuse_22	to	O
+refuse_22	contact	O
+refuse_22	his	O
+refuse_22	parents	O
+refuse_22	but	O
+refuse_22	they	O
+refuse_22	refuse	refuse_vrb
+refuse_22	to	O
+refuse_22	help	O
+refuse_22	him	O

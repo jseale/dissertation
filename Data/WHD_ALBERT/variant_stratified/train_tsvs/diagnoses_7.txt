@@ -1,0 +1,17 @@
+diagnoses_7	The	O
+diagnoses_7	diagnoses	diagnoses_nou
+diagnoses_7	led	O
+diagnoses_7	to	O
+diagnoses_7	Roddy	O
+diagnoses_7	becoming	O
+diagnoses_7	a	O
+diagnoses_7	spokesperson	O
+diagnoses_7	for	O
+diagnoses_7	early	O
+diagnoses_7	detection	O
+diagnoses_7	of	O
+diagnoses_7	cancer	O
+diagnoses_7	in	O
+diagnoses_7	his	O
+diagnoses_7	last	O
+diagnoses_7	years	O

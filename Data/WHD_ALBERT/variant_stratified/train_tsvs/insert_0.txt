@@ -1,0 +1,16 @@
+insert_0	These	O
+insert_0	approaches	O
+insert_0	did	O
+insert_0	not	O
+insert_0	require	O
+insert_0	a	O
+insert_0	high	O
+insert_0	conductivity	O
+insert_0	copper	O
+insert_0	insert	insert_nou
+insert_0	but	O
+insert_0	did	O
+insert_0	not	O
+insert_0	preclude	O
+insert_0	its	O
+insert_0	use	O

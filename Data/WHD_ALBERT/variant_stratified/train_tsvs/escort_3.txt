@@ -1,0 +1,17 @@
+escort_3	Gruppe	O
+escort_3	was	O
+escort_3	a	O
+escort_3	Stuka	O
+escort_3	escort	escort_nou
+escort_3	mission	O
+escort_3	to	O
+escort_3	Grodno	O
+escort_3	at	O
+escort_3	6:00	O
+escort_3	am	O
+escort_3	during	O
+escort_3	which	O
+escort_3	Wilcke	O
+escort_3	claimed	O
+escort_3	another	O
+escort_3	victory	O

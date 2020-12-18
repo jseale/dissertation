@@ -1,0 +1,10 @@
+read_70	Issue	O
+read_70	45	O
+read_70	a	O
+read_70	special	O
+read_70	long	O
+read_70	read	read_present
+read_70	edition	O
+read_70	was	O
+read_70	£	O
+read_70	2.99	O

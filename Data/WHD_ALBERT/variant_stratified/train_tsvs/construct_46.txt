@@ -1,0 +1,8 @@
+construct_46	We	O
+construct_46	are	O
+construct_46	thus	O
+construct_46	led	O
+construct_46	to	O
+construct_46	construct	construct_vrb
+construct_46	a	O
+construct_46	hierarchy	O

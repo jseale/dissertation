@@ -1,0 +1,17 @@
+precipitate_73	In	O
+precipitate_73	the	O
+precipitate_73	acidic	O
+precipitate_73	environment	O
+precipitate_73	of	O
+precipitate_73	the	O
+precipitate_73	bog	O
+precipitate_73	a	O
+precipitate_73	chemical	O
+precipitate_73	reaction	O
+precipitate_73	forms	O
+precipitate_73	insoluble	O
+precipitate_73	iron	O
+precipitate_73	compounds	O
+precipitate_73	which	O
+precipitate_73	precipitate	precipitate_vrb
+precipitate_73	out	O

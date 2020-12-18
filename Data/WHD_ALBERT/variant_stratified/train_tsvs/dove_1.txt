@@ -1,0 +1,10 @@
+dove_1	The	O
+dove_1	superb	O
+dove_1	fruit	O
+dove_1	dove	dove
+dove_1	feeds	O
+dove_1	primarily	O
+dove_1	upon	O
+dove_1	fruits	O
+dove_1	and	O
+dove_1	berries	O

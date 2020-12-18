@@ -1,0 +1,16 @@
+subordinate_69	He	O
+subordinate_69	allowed	O
+subordinate_69	his	O
+subordinate_69	subordinate	subordinate_adj-nou
+subordinate_69	commanders	O
+subordinate_69	a	O
+subordinate_69	great	O
+subordinate_69	deal	O
+subordinate_69	of	O
+subordinate_69	latitude	O
+subordinate_69	in	O
+subordinate_69	making	O
+subordinate_69	decisions	O
+subordinate_69	for	O
+subordinate_69	their	O
+subordinate_69	units	O

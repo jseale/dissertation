@@ -1,0 +1,15 @@
+ornament_10	In	O
+ornament_10	the	O
+ornament_10	center	O
+ornament_10	most	O
+ornament_10	models	O
+ornament_10	of	O
+ornament_10	these	O
+ornament_10	rides	O
+ornament_10	have	O
+ornament_10	a	O
+ornament_10	triangle	O
+ornament_10	center	O
+ornament_10	ornament	ornament_nou
+ornament_10	with	O
+ornament_10	lights	O

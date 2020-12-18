@@ -1,0 +1,15 @@
+permit_57	The	O
+permit_57	King	O
+permit_57	was	O
+permit_57	persuaded	O
+permit_57	to	O
+permit_57	permit	permit_vrb
+permit_57	d'Arlandes	O
+permit_57	and	O
+permit_57	de	O
+permit_57	Rozier	O
+permit_57	to	O
+permit_57	become	O
+permit_57	the	O
+permit_57	first	O
+permit_57	pilots	O

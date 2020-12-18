@@ -1,0 +1,13 @@
+fragment_76	This	O
+fragment_76	LDPC	O
+fragment_76	code	O
+fragment_76	fragment	fragment_nou
+fragment_76	represents	O
+fragment_76	a	O
+fragment_76	three	O
+fragment_76	bit	O
+fragment_76	message	O
+fragment_76	encoded	O
+fragment_76	as	O
+fragment_76	six	O
+fragment_76	bits	O

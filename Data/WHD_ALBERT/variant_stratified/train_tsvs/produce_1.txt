@@ -1,0 +1,15 @@
+produce_1	The	O
+produce_1	pupils	O
+produce_1	plans	O
+produce_1	to	O
+produce_1	use	O
+produce_1	produce	produce_nou
+produce_1	grown	O
+produce_1	in	O
+produce_1	the	O
+produce_1	gardens	O
+produce_1	in	O
+produce_1	school	O
+produce_1	meals	O
+produce_1	and	O
+produce_1	projects	O

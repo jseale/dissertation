@@ -1,0 +1,10 @@
+alternate_39	Alternate	alternate_adj-nou
+alternate_39	systems	O
+alternate_39	that	O
+alternate_39	supply	O
+alternate_39	navigational	O
+alternate_39	data	O
+alternate_39	include	O
+alternate_39	Inertial	O
+alternate_39	navigation	O
+alternate_39	systems	O

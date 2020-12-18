@@ -1,0 +1,17 @@
+rebel_5	In	O
+rebel_5	2005	O
+rebel_5	she	O
+rebel_5	was	O
+rebel_5	a	O
+rebel_5	postal	O
+rebel_5	privatization	O
+rebel_5	rebel	rebel_nou
+rebel_5	but	O
+rebel_5	defended	O
+rebel_5	the	O
+rebel_5	seat	O
+rebel_5	against	O
+rebel_5	assassin	O
+rebel_5	candidate	O
+rebel_5	Yukari	O
+rebel_5	Sato	O

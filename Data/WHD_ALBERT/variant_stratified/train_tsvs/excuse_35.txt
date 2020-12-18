@@ -1,0 +1,16 @@
+excuse_35	That	O
+excuse_35	gave	O
+excuse_35	the	O
+excuse_35	traditional	O
+excuse_35	parties	O
+excuse_35	the	O
+excuse_35	excuse	excuse_nou
+excuse_35	to	O
+excuse_35	initiate	O
+excuse_35	a	O
+excuse_35	nationwide	O
+excuse_35	revolt	O
+excuse_35	that	O
+excuse_35	killed	O
+excuse_35	the	O
+excuse_35	president	O

@@ -1,0 +1,17 @@
+wind_20	Kuterastan	O
+wind_20	followed	O
+wind_20	by	O
+wind_20	making	O
+wind_20	the	O
+wind_20	Big	O
+wind_20	Dipper	O
+wind_20	the	O
+wind_20	wind	wind_nou
+wind_20	lightning	O
+wind_20	and	O
+wind_20	thunder	O
+wind_20	each	O
+wind_20	given	O
+wind_20	their	O
+wind_20	characteristic	O
+wind_20	tasks	O

@@ -1,0 +1,11 @@
+document_58	The	O
+document_58	document	document_nou
+document_58	was	O
+document_58	used	O
+document_58	as	O
+document_58	justification	O
+document_58	for	O
+document_58	U.S.	O
+document_58	intervention	O
+document_58	in	O
+document_58	Nicaragua	O

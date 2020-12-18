@@ -1,0 +1,17 @@
+advocate_55	After	O
+advocate_55	leaving	O
+advocate_55	HADITU	O
+advocate_55	ash	O
+advocate_55	Shafi	O
+advocate_55	became	O
+advocate_55	an	O
+advocate_55	active	O
+advocate_55	advocate	advocate_nou
+advocate_55	for	O
+advocate_55	greater	O
+advocate_55	unity	O
+advocate_55	in	O
+advocate_55	the	O
+advocate_55	Egyptian	O
+advocate_55	communist	O
+advocate_55	movement	O

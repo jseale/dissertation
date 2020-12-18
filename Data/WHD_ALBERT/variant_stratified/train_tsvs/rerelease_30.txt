@@ -1,0 +1,12 @@
+rerelease_30	Sprite	O
+rerelease_30	Tropical	O
+rerelease_30	Remix	O
+rerelease_30	has	O
+rerelease_30	seen	O
+rerelease_30	a	O
+rerelease_30	rerelease	rerelease
+rerelease_30	in	O
+rerelease_30	the	O
+rerelease_30	Spring	O
+rerelease_30	of	O
+rerelease_30	2015	O

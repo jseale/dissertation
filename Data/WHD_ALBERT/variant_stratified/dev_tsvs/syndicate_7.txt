@@ -1,0 +1,17 @@
+syndicate_7	During	O
+syndicate_7	an	O
+syndicate_7	investigation	O
+syndicate_7	he	O
+syndicate_7	is	O
+syndicate_7	attacked	O
+syndicate_7	by	O
+syndicate_7	members	O
+syndicate_7	of	O
+syndicate_7	a	O
+syndicate_7	crime	O
+syndicate_7	syndicate	syndicate_nou
+syndicate_7	known	O
+syndicate_7	as	O
+syndicate_7	the	O
+syndicate_7	Black	O
+syndicate_7	Organization	O

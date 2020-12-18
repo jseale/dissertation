@@ -1,0 +1,9 @@
+sow_61	The	O
+sow_61	animals	O
+sow_61	specific	O
+sow_61	name	O
+sow_61	scrofa	O
+sow_61	is	O
+sow_61	Latin	O
+sow_61	for	O
+sow_61	sow	sow_nou

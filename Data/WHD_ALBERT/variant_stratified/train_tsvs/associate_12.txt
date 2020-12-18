@@ -1,0 +1,10 @@
+associate_12	Nebenzal	O
+associate_12	's	O
+associate_12	son	O
+associate_12	Harold	O
+associate_12	was	O
+associate_12	associate	associate_adj-nou
+associate_12	producer	O
+associate_12	of	O
+associate_12	this	O
+associate_12	version	O

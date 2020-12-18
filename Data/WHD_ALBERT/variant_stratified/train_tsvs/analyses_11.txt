@@ -1,0 +1,14 @@
+analyses_11	The	O
+analyses_11	Laurasiatheria	O
+analyses_11	clade	O
+analyses_11	is	O
+analyses_11	based	O
+analyses_11	on	O
+analyses_11	DNA	O
+analyses_11	sequence	O
+analyses_11	analyses	analyses_nou
+analyses_11	and	O
+analyses_11	retrotransposon	O
+analyses_11	presence	O
+analyses_11	absence	O
+analyses_11	data	O

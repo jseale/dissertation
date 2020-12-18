@@ -1,0 +1,16 @@
+affect_76	However	O
+affect_76	this	O
+affect_76	finding	O
+affect_76	may	O
+affect_76	have	O
+affect_76	little	O
+affect_76	to	O
+affect_76	do	O
+affect_76	with	O
+affect_76	affect	affect_nou-psy
+affect_76	derived	O
+affect_76	from	O
+affect_76	events	O
+affect_76	experienced	O
+affect_76	at	O
+affect_76	work	O

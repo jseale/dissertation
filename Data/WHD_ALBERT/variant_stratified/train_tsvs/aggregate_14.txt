@@ -1,0 +1,15 @@
+aggregate_14	Teams	O
+aggregate_14	would	O
+aggregate_14	play	O
+aggregate_14	each	O
+aggregate_14	other	O
+aggregate_14	home	O
+aggregate_14	and	O
+aggregate_14	away	O
+aggregate_14	and	O
+aggregate_14	the	O
+aggregate_14	winner	O
+aggregate_14	on	O
+aggregate_14	aggregate	aggregate_adj-nou
+aggregate_14	would	O
+aggregate_14	advance	O

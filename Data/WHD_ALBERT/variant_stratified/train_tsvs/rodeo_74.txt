@@ -1,0 +1,15 @@
+rodeo_74	Arana	O
+rodeo_74	later	O
+rodeo_74	moved	O
+rodeo_74	to	O
+rodeo_74	the	O
+rodeo_74	Rancho	O
+rodeo_74	Arroyo	O
+rodeo_74	del	O
+rodeo_74	Rodeo	rodeo_geo
+rodeo_74	a	O
+rodeo_74	few	O
+rodeo_74	miles	O
+rodeo_74	to	O
+rodeo_74	the	O
+rodeo_74	east	O

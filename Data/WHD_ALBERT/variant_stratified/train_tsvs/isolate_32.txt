@@ -1,0 +1,17 @@
+isolate_32	Consequently	O
+isolate_32	high	O
+isolate_32	level	O
+isolate_32	radioactive	O
+isolate_32	waste	O
+isolate_32	requires	O
+isolate_32	sophisticated	O
+isolate_32	treatment	O
+isolate_32	and	O
+isolate_32	management	O
+isolate_32	to	O
+isolate_32	successfully	O
+isolate_32	isolate	isolate
+isolate_32	it	O
+isolate_32	from	O
+isolate_32	the	O
+isolate_32	biosphere	O

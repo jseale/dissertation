@@ -1,0 +1,11 @@
+reading_65	Text	O
+reading_65	linguistics	O
+reading_65	stimulates	O
+reading_65	reading	reading_en
+reading_65	by	O
+reading_65	arousing	O
+reading_65	interest	O
+reading_65	in	O
+reading_65	texts	O
+reading_65	or	O
+reading_65	novels	O

@@ -1,0 +1,11 @@
+read_35	He	O
+read_35	read	read_past
+read_35	lectures	O
+read_35	on	O
+read_35	Physics	O
+read_35	Physical	O
+read_35	Optics	O
+read_35	Lighting	O
+read_35	Photometry	O
+read_35	Colometry	O
+read_35	etc	O

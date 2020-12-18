@@ -1,0 +1,17 @@
+permit_54	The	O
+permit_54	use	O
+permit_54	of	O
+permit_54	low	O
+permit_54	fire	O
+permit_54	clay	O
+permit_54	and	O
+permit_54	glazes	O
+permit_54	permit	permit_vrb
+permit_54	the	O
+permit_54	construction	O
+permit_54	of	O
+permit_54	large	O
+permit_54	objects	O
+permit_54	and	O
+permit_54	brighter	O
+permit_54	colours	O

@@ -1,0 +1,17 @@
+wind_23	November	O
+wind_23	to	O
+wind_23	March	O
+wind_23	have	O
+wind_23	the	O
+wind_23	highest	O
+wind_23	mean	O
+wind_23	wind	wind_nou
+wind_23	speeds	O
+wind_23	and	O
+wind_23	June	O
+wind_23	to	O
+wind_23	August	O
+wind_23	have	O
+wind_23	the	O
+wind_23	lightest	O
+wind_23	winds	O

@@ -1,0 +1,14 @@
+coordinate_24	Hence	O
+coordinate_24	the	O
+coordinate_24	ostensible	O
+coordinate_24	fibre	O
+coordinate_24	bundle	O
+coordinate_24	TᵏM	O
+coordinate_24	admits	O
+coordinate_24	a	O
+coordinate_24	local	O
+coordinate_24	trivialization	O
+coordinate_24	in	O
+coordinate_24	each	O
+coordinate_24	coordinate	coordinate_adj-nou
+coordinate_24	neighborhood	O

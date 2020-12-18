@@ -1,0 +1,16 @@
+implant_21	Complete	O
+implant_21	implant	implant_nou
+implant_21	vascularization	O
+implant_21	reduces	O
+implant_21	the	O
+implant_21	risk	O
+implant_21	of	O
+implant_21	infection	O
+implant_21	extrusion	O
+implant_21	and	O
+implant_21	other	O
+implant_21	complications	O
+implant_21	associated	O
+implant_21	with	O
+implant_21	nonintegrated	O
+implant_21	implants	O

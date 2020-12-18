@@ -1,0 +1,17 @@
+implement_25	They	O
+implement_25	wanted	O
+implement_25	to	O
+implement_25	retard	O
+implement_25	British	O
+implement_25	settlement	O
+implement_25	and	O
+implement_25	buy	O
+implement_25	time	O
+implement_25	for	O
+implement_25	France	O
+implement_25	to	O
+implement_25	implement	implement_vrb
+implement_25	its	O
+implement_25	Acadian	O
+implement_25	resettlement	O
+implement_25	scheme	O

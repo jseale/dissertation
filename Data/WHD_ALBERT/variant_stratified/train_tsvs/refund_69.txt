@@ -1,0 +1,12 @@
+refund_69	Elderkin	O
+refund_69	absconded	O
+refund_69	with	O
+refund_69	his	O
+refund_69	clients	O
+refund_69	money	O
+refund_69	and	O
+refund_69	left	O
+refund_69	Angel	O
+refund_69	to	O
+refund_69	refund	refund_vrb
+refund_69	them	O

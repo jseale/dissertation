@@ -1,0 +1,9 @@
+advocate_52	The	O
+advocate_52	highest	O
+advocate_52	level	O
+advocate_52	is	O
+advocate_52	the	O
+advocate_52	Senior	O
+advocate_52	Advocate	advocate_nou
+advocate_52	Supreme	O
+advocate_52	Court	O

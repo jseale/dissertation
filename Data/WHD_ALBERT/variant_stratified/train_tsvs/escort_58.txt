@@ -1,0 +1,15 @@
+escort_58	Cubitt	O
+escort_58	was	O
+escort_58	assigned	O
+escort_58	to	O
+escort_58	Nore	O
+escort_58	Command	O
+escort_58	serving	O
+escort_58	in	O
+escort_58	the	O
+escort_58	21st	O
+escort_58	Escort	escort_nou
+escort_58	Group	O
+escort_58	based	O
+escort_58	at	O
+escort_58	Harwich	O

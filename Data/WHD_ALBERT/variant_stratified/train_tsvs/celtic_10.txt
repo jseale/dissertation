@@ -1,0 +1,13 @@
+celtic_10	Weekday	O
+celtic_10	names	O
+celtic_10	used	O
+celtic_10	in	O
+celtic_10	game	O
+celtic_10	reflect	O
+celtic_10	the	O
+celtic_10	Celtic	celtic
+celtic_10	mythology	O
+celtic_10	that	O
+celtic_10	the	O
+celtic_10	game	O
+celtic_10	evokes	O

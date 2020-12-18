@@ -1,0 +1,17 @@
+rerelease_33	In	O
+rerelease_33	2004	O
+rerelease_33	another	O
+rerelease_33	partnership	O
+rerelease_33	with	O
+rerelease_33	Omega	O
+rerelease_33	Games	O
+rerelease_33	saw	O
+rerelease_33	the	O
+rerelease_33	rerelease	rerelease
+rerelease_33	of	O
+rerelease_33	some	O
+rerelease_33	of	O
+rerelease_33	their	O
+rerelease_33	board	O
+rerelease_33	game	O
+rerelease_33	titles	O

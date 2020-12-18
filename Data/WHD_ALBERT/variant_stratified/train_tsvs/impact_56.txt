@@ -1,0 +1,16 @@
+impact_56	The	O
+impact_56	eventual	O
+impact_56	appearance	O
+impact_56	of	O
+impact_56	the	O
+impact_56	first	O
+impact_56	habitat	O
+impact_56	groups	O
+impact_56	would	O
+impact_56	have	O
+impact_56	a	O
+impact_56	huge	O
+impact_56	impact	impact_nou
+impact_56	on	O
+impact_56	the	O
+impact_56	museum	O

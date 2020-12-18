@@ -1,0 +1,11 @@
+tear_1	They	O
+tear_1	also	O
+tear_1	water	O
+tear_1	cannoned	O
+tear_1	and	O
+tear_1	tear	tear_nou
+tear_1	gassed	O
+tear_1	the	O
+tear_1	Taksim	O
+tear_1	German	O
+tear_1	Hospital	O

@@ -1,0 +1,15 @@
+invert_61	In	O
+invert_61	order	O
+invert_61	to	O
+invert_61	recover	O
+invert_61	the	O
+invert_61	original	O
+invert_61	signal	O
+invert_61	we	O
+invert_61	have	O
+invert_61	to	O
+invert_61	invert	invert_vrb
+invert_61	the	O
+invert_61	Lazy	O
+invert_61	Wavelet	O
+invert_61	Transform	O

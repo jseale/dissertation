@@ -1,0 +1,17 @@
+progress_47	Since	O
+progress_47	its	O
+progress_47	establishment	O
+progress_47	around	O
+progress_47	2009	O
+progress_47	according	O
+progress_47	to	O
+progress_47	some	O
+progress_47	sources	O
+progress_47	the	O
+progress_47	Chinatown	O
+progress_47	has	O
+progress_47	been	O
+progress_47	a	O
+progress_47	work	O
+progress_47	in	O
+progress_47	progress	progress_nou

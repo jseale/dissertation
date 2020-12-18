@@ -1,0 +1,14 @@
+defect_25	Congenital	O
+defect_25	estrogen	O
+defect_25	deficiency	O
+defect_25	can	O
+defect_25	also	O
+defect_25	be	O
+defect_25	caused	O
+defect_25	by	O
+defect_25	a	O
+defect_25	defect	defect_nou
+defect_25	in	O
+defect_25	the	O
+defect_25	aromatase	O
+defect_25	enzyme	O

@@ -1,0 +1,8 @@
+discard_40	It	O
+discard_40	is	O
+discard_40	foolhardy	O
+discard_40	to	O
+discard_40	discard	discard_vrb
+discard_40	such	O
+discard_40	an	O
+discard_40	advantage	O

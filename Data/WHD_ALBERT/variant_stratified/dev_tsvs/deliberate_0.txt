@@ -1,0 +1,17 @@
+deliberate_0	In	O
+deliberate_0	a	O
+deliberate_0	May	O
+deliberate_0	2009	O
+deliberate_0	interview	O
+deliberate_0	Scott	O
+deliberate_0	emphasised	O
+deliberate_0	the	O
+deliberate_0	deliberate	deliberate_adj
+deliberate_0	light	O
+deliberate_0	heartedness	O
+deliberate_0	of	O
+deliberate_0	the	O
+deliberate_0	Sockington	O
+deliberate_0	updates	O
+deliberate_0	and	O
+deliberate_0	pages	O

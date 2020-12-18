@@ -1,0 +1,15 @@
+intrigue_6	The	O
+intrigue_6	film	O
+intrigue_6	was	O
+intrigue_6	a	O
+intrigue_6	variation	O
+intrigue_6	on	O
+intrigue_6	Lady	O
+intrigue_6	Chatterley	O
+intrigue_6	's	O
+intrigue_6	Lover	O
+intrigue_6	with	O
+intrigue_6	some	O
+intrigue_6	added	O
+intrigue_6	political	O
+intrigue_6	intrigue	intrigue_nou

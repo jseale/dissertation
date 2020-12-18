@@ -1,0 +1,12 @@
+advocate_8	Luckenbach	O
+advocate_8	was	O
+advocate_8	also	O
+advocate_8	a	O
+advocate_8	strong	O
+advocate_8	advocate	advocate_nou
+advocate_8	of	O
+advocate_8	Federal	O
+advocate_8	control	O
+advocate_8	of	O
+advocate_8	shipping	O
+advocate_8	rates	O

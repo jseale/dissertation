@@ -1,0 +1,17 @@
+wound_8	On	O
+wound_8	February	O
+wound_8	4	O
+wound_8	2016	O
+wound_8	Mirra	O
+wound_8	died	O
+wound_8	from	O
+wound_8	an	O
+wound_8	apparent	O
+wound_8	self	O
+wound_8	inflicted	O
+wound_8	gunshot	O
+wound_8	wound	wound_nou-vrb
+wound_8	in	O
+wound_8	Greenville	O
+wound_8	North	O
+wound_8	Carolina	O

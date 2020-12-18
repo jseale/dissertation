@@ -1,0 +1,12 @@
+implement_8	Brazil	O
+implement_8	hopes	O
+implement_8	to	O
+implement_8	implement	implement_vrb
+implement_8	modern	O
+implement_8	Smart	O
+implement_8	Grid	O
+implement_8	technology	O
+implement_8	to	O
+implement_8	reduce	O
+implement_8	these	O
+implement_8	losses	O

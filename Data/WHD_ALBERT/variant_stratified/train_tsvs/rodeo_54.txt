@@ -1,0 +1,11 @@
+rodeo_54	Chilean	O
+rodeo_54	rodeo	rodeo
+rodeo_54	is	O
+rodeo_54	different	O
+rodeo_54	from	O
+rodeo_54	the	O
+rodeo_54	rodeo	rodeo
+rodeo_54	found	O
+rodeo_54	in	O
+rodeo_54	North	O
+rodeo_54	America	O

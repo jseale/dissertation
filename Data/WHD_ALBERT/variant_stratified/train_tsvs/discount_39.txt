@@ -1,0 +1,12 @@
+discount_39	Such	O
+discount_39	discount	discount_nou
+discount_39	will	O
+discount_39	apply	O
+discount_39	to	O
+discount_39	registration	O
+discount_39	fees	O
+discount_39	throughout	O
+discount_39	the	O
+discount_39	period	O
+discount_39	of	O
+discount_39	registration	O

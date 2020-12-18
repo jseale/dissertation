@@ -1,0 +1,16 @@
+syndicate_19	This	O
+syndicate_19	teenage	O
+syndicate_19	girl	O
+syndicate_19	is	O
+syndicate_19	part	O
+syndicate_19	of	O
+syndicate_19	a	O
+syndicate_19	helmeted	O
+syndicate_19	syndicate	syndicate_nou
+syndicate_19	that	O
+syndicate_19	is	O
+syndicate_19	hostile	O
+syndicate_19	towards	O
+syndicate_19	Regina	O
+syndicate_19	and	O
+syndicate_19	Dylan	O

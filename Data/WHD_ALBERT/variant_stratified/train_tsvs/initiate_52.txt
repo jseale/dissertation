@@ -1,0 +1,13 @@
+initiate_52	Magdeburg	O
+initiate_52	's	O
+initiate_52	Raugust	O
+initiate_52	Seguin	O
+initiate_52	and	O
+initiate_52	Decker	O
+initiate_52	were	O
+initiate_52	often	O
+initiate_52	able	O
+initiate_52	to	O
+initiate_52	initiate	initiate_vrb
+initiate_52	counter	O
+initiate_52	attacks	O

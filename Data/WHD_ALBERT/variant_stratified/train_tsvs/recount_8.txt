@@ -1,0 +1,10 @@
+recount_8	The	O
+recount_8	Court	O
+recount_8	appointed	O
+recount_8	the	O
+recount_8	Deputy	O
+recount_8	Marshall	O
+recount_8	to	O
+recount_8	conduct	O
+recount_8	a	O
+recount_8	recount	recount_nou

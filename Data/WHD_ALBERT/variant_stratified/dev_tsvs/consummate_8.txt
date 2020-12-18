@@ -1,0 +1,14 @@
+consummate_8	The	O
+consummate_8	gentlemen	O
+consummate_8	leave	O
+consummate_8	in	O
+consummate_8	such	O
+consummate_8	a	O
+consummate_8	rush	O
+consummate_8	that	O
+consummate_8	they	O
+consummate_8	can	O
+consummate_8	not	O
+consummate_8	consummate	consummate_vrb
+consummate_8	their	O
+consummate_8	marriages	O

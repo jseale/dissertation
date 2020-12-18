@@ -1,0 +1,8 @@
+sow_32	In	O
+sow_32	this	O
+sow_32	environment	O
+sow_32	the	O
+sow_32	plant	O
+sow_32	will	O
+sow_32	self	O
+sow_32	sow	sow

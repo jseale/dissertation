@@ -1,0 +1,16 @@
+celtic_73	The	O
+celtic_73	next	O
+celtic_73	round	O
+celtic_73	caught	O
+celtic_73	media	O
+celtic_73	and	O
+celtic_73	football	O
+celtic_73	fans	O
+celtic_73	attention	O
+celtic_73	when	O
+celtic_73	Celtic	celtic_adj-nou-sports
+celtic_73	were	O
+celtic_73	paired	O
+celtic_73	with	O
+celtic_73	Blackburn	O
+celtic_73	Rovers	O

@@ -1,0 +1,15 @@
+delegate_23	He	O
+delegate_23	went	O
+delegate_23	as	O
+delegate_23	a	O
+delegate_23	delegate	delegate_nou
+delegate_23	to	O
+delegate_23	a	O
+delegate_23	White	O
+delegate_23	House	O
+delegate_23	conference	O
+delegate_23	about	O
+delegate_23	conservation	O
+delegate_23	by	O
+delegate_23	Theodore	O
+delegate_23	Roosevelt	O

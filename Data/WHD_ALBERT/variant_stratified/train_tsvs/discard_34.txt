@@ -1,0 +1,11 @@
+discard_34	He	O
+discard_34	was	O
+discard_34	unwilling	O
+discard_34	to	O
+discard_34	discard	discard_vrb
+discard_34	completely	O
+discard_34	Maxwell	O
+discard_34	's	O
+discard_34	theory	O
+discard_34	of	O
+discard_34	electrodynamics	O

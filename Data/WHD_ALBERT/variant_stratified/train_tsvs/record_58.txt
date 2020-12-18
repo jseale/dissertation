@@ -1,0 +1,17 @@
+record_58	After	O
+record_58	finishing	O
+record_58	third	O
+record_58	in	O
+record_58	The	O
+record_58	X	O
+record_58	Factor	O
+record_58	in	O
+record_58	2008	O
+record_58	Quigg	O
+record_58	was	O
+record_58	signed	O
+record_58	by	O
+record_58	record	record_nou
+record_58	label	O
+record_58	RCA	O
+record_58	Records	O

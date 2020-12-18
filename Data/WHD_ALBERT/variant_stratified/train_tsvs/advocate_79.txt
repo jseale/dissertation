@@ -1,0 +1,14 @@
+advocate_79	But	O
+advocate_79	with	O
+advocate_79	fundamentalism	O
+advocate_79	on	O
+advocate_79	the	O
+advocate_79	rise	O
+advocate_79	progressive	O
+advocate_79	interpretations	O
+advocate_79	of	O
+advocate_79	scripture	O
+advocate_79	are	O
+advocate_79	dangerous	O
+advocate_79	to	O
+advocate_79	advocate	advocate_vrb

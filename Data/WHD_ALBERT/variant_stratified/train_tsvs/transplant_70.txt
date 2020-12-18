@@ -1,0 +1,16 @@
+transplant_70	Although	O
+transplant_70	the	O
+transplant_70	Bass	O
+transplant_70	and	O
+transplant_70	Tingey	O
+transplant_70	were	O
+transplant_70	from	O
+transplant_70	different	O
+transplant_70	classes	O
+transplant_70	of	O
+transplant_70	destroyers	O
+transplant_70	the	O
+transplant_70	transplant	transplant_nou
+transplant_70	was	O
+transplant_70	a	O
+transplant_70	success	O

@@ -1,0 +1,16 @@
+sake_70	Yau	O
+sake_70	also	O
+sake_70	served	O
+sake_70	as	O
+sake_70	consultant	O
+sake_70	on	O
+sake_70	the	O
+sake_70	Japanese	O
+sake_70	restaurant	O
+sake_70	Sake	sake_jp
+sake_70	no	O
+sake_70	Hana	O
+sake_70	in	O
+sake_70	St	O
+sake_70	James	O
+sake_70	London	O

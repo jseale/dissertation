@@ -1,0 +1,12 @@
+implant_77	Like	O
+implant_77	why	O
+implant_77	is	O
+implant_77	it	O
+implant_77	so	O
+implant_77	easy	O
+implant_77	to	O
+implant_77	divert	O
+implant_77	thoughts	O
+implant_77	and	O
+implant_77	implant	implant_vrb
+implant_77	others	O

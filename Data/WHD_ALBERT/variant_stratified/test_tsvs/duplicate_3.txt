@@ -1,0 +1,16 @@
+duplicate_3	Free	O
+duplicate_3	Duplicate	duplicate_adj-nou
+duplicate_3	File	O
+duplicate_3	Finder	O
+duplicate_3	has	O
+duplicate_3	been	O
+duplicate_3	tested	O
+duplicate_3	and	O
+duplicate_3	reviewed	O
+duplicate_3	by	O
+duplicate_3	major	O
+duplicate_3	software	O
+duplicate_3	distributors	O
+duplicate_3	and	O
+duplicate_3	reviewing	O
+duplicate_3	websites	O

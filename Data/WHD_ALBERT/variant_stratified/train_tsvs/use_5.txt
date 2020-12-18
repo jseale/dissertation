@@ -1,0 +1,15 @@
+use_5	The	O
+use_5	player	O
+use_5	can	O
+use_5	also	O
+use_5	make	O
+use_5	use	use_nou
+use_5	of	O
+use_5	several	O
+use_5	weapons	O
+use_5	of	O
+use_5	opportunity	O
+use_5	such	O
+use_5	as	O
+use_5	fire	O
+use_5	extinguishers	O

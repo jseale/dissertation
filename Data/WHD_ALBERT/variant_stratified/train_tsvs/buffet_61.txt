@@ -1,0 +1,12 @@
+buffet_61	The	O
+buffet_61	Jolly	O
+buffet_61	Rogers	O
+buffet_61	perform	O
+buffet_61	this	O
+buffet_61	song	O
+buffet_61	on	O
+buffet_61	their	O
+buffet_61	2000	O
+buffet_61	album	O
+buffet_61	Midnight	O
+buffet_61	Buffet	buffet_nou

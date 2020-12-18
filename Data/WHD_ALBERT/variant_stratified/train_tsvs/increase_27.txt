@@ -1,0 +1,14 @@
+increase_27	The	O
+increase_27	fire	O
+increase_27	spread	O
+increase_27	because	O
+increase_27	of	O
+increase_27	angry	O
+increase_27	rioters	O
+increase_27	protested	O
+increase_27	an	O
+increase_27	increase	increase_nou
+increase_27	on	O
+increase_27	the	O
+increase_27	cattle	O
+increase_27	tax	O

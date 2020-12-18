@@ -1,0 +1,15 @@
+estimate_39	His	O
+estimate_39	original	O
+estimate_39	estimate	estimate_nou
+estimate_39	of	O
+estimate_39	1834	O
+estimate_39	of	O
+estimate_39	£	O
+estimate_39	894,874	O
+estimate_39	was	O
+estimate_39	amended	O
+estimate_39	to	O
+estimate_39	£	O
+estimate_39	1,507,753	O
+estimate_39	in	O
+estimate_39	1836	O

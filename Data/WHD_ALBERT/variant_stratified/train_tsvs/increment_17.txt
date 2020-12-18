@@ -1,0 +1,10 @@
+increment_17	But	O
+increment_17	unlike	O
+increment_17	Fischer	O
+increment_17	not	O
+increment_17	always	O
+increment_17	the	O
+increment_17	maximum	O
+increment_17	increment	increment_nou
+increment_17	is	O
+increment_17	added	O

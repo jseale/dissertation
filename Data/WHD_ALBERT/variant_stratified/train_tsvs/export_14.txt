@@ -1,0 +1,10 @@
+export_14	He	O
+export_14	started	O
+export_14	his	O
+export_14	own	O
+export_14	export	export_nou
+export_14	import	O
+export_14	company	O
+export_14	at	O
+export_14	age	O
+export_14	28	O

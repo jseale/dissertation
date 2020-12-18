@@ -1,0 +1,17 @@
+wound_9	There	O
+wound_9	was	O
+wound_9	a	O
+wound_9	gunshot	O
+wound_9	wound	wound_nou-vrb
+wound_9	in	O
+wound_9	his	O
+wound_9	right	O
+wound_9	temple	O
+wound_9	and	O
+wound_9	a	O
+wound_9	revolver	O
+wound_9	was	O
+wound_9	found	O
+wound_9	alongside	O
+wound_9	the	O
+wound_9	body	O

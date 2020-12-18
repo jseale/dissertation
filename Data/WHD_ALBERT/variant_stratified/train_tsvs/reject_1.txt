@@ -1,0 +1,15 @@
+reject_1	The	O
+reject_1	new	O
+reject_1	EA	O
+reject_1	focused	O
+reject_1	on	O
+reject_1	the	O
+reject_1	use	O
+reject_1	of	O
+reject_1	EDT	O
+reject_1	for	O
+reject_1	destroying	O
+reject_1	overpacked	O
+reject_1	and	O
+reject_1	reject	reject_nou
+reject_1	munitions	O

@@ -1,0 +1,15 @@
+bass_47	One	O
+bass_47	week	O
+bass_47	before	O
+bass_47	their	O
+bass_47	first	O
+bass_47	show	O
+bass_47	they	O
+bass_47	brought	O
+bass_47	Marrs	O
+bass_47	in	O
+bass_47	to	O
+bass_47	replace	O
+bass_47	Louis	O
+bass_47	on	O
+bass_47	bass	bass

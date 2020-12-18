@@ -1,0 +1,12 @@
+reject_31	Groups	O
+reject_31	like	O
+reject_31	individual	O
+reject_31	analysts	O
+reject_31	can	O
+reject_31	also	O
+reject_31	reject	reject_vrb
+reject_31	evidence	O
+reject_31	which	O
+reject_31	contradicts	O
+reject_31	prior	O
+reject_31	conclusions	O

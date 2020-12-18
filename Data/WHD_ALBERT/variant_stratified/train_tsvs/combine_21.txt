@@ -1,0 +1,17 @@
+combine_21	Metaphors	O
+combine_21	allow	O
+combine_21	people	O
+combine_21	to	O
+combine_21	combine	combine_vrb
+combine_21	concepts	O
+combine_21	from	O
+combine_21	one	O
+combine_21	area	O
+combine_21	and	O
+combine_21	apply	O
+combine_21	them	O
+combine_21	to	O
+combine_21	another	O
+combine_21	often	O
+combine_21	without	O
+combine_21	thought	O

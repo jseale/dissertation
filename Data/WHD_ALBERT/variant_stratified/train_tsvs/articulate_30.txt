@@ -1,0 +1,11 @@
+articulate_30	Sarah	O
+articulate_30	Palin	O
+articulate_30	is	O
+articulate_30	secretly	O
+articulate_30	an	O
+articulate_30	extremely	O
+articulate_30	intelligent	O
+articulate_30	poised	O
+articulate_30	and	O
+articulate_30	articulate	articulate_adj
+articulate_30	Englishwoman	O

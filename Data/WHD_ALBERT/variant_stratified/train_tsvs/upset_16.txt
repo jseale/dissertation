@@ -1,0 +1,13 @@
+upset_16	In	O
+upset_16	the	O
+upset_16	Disney	O
+upset_16	version	O
+upset_16	she	O
+upset_16	is	O
+upset_16	upset	upset_nou
+upset_16	with	O
+upset_16	Tiger	O
+upset_16	Lily	O
+upset_16	that	O
+upset_16	Peter	O
+upset_16	rescued	O

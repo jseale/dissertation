@@ -1,0 +1,11 @@
+alternate_59	Chartered	O
+alternate_59	motor	O
+alternate_59	coaches	O
+alternate_59	were	O
+alternate_59	used	O
+alternate_59	in	O
+alternate_59	the	O
+alternate_59	interim	O
+alternate_59	as	O
+alternate_59	alternate	alternate_adj-nou
+alternate_59	transportation	O

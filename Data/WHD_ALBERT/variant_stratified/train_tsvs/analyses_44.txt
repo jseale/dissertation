@@ -1,0 +1,10 @@
+analyses_44	Other	O
+analyses_44	analyses	analyses_nou
+analyses_44	indicate	O
+analyses_44	a	O
+analyses_44	spectrum	O
+analyses_44	or	O
+analyses_44	continuum	O
+analyses_44	of	O
+analyses_44	activity	O
+analyses_44	states	O

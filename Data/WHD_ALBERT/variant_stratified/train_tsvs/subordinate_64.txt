@@ -1,0 +1,11 @@
+subordinate_64	PM	O
+subordinate_64	JBC	O
+subordinate_64	P	O
+subordinate_64	transitioned	O
+subordinate_64	into	O
+subordinate_64	a	O
+subordinate_64	subordinate	subordinate_adj-nou
+subordinate_64	product	O
+subordinate_64	of	O
+subordinate_64	PM	O
+subordinate_64	MC	O

@@ -1,0 +1,8 @@
+coordinate_46	The	O
+coordinate_46	two	O
+coordinate_46	companies	O
+coordinate_46	have	O
+coordinate_46	agreed	O
+coordinate_46	to	O
+coordinate_46	coordinate	coordinate_vrb
+coordinate_46	marketing	O

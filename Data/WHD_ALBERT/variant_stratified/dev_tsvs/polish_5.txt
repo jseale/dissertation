@@ -1,0 +1,12 @@
+polish_5	The	O
+polish_5	battle	O
+polish_5	ended	O
+polish_5	with	O
+polish_5	a	O
+polish_5	Polish	polish_geo
+polish_5	victory	O
+polish_5	and	O
+polish_5	the	O
+polish_5	reconquest	O
+polish_5	of	O
+polish_5	Pokutia	O

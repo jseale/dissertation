@@ -1,0 +1,15 @@
+rebel_72	In	O
+rebel_72	Ukraine	O
+rebel_72	the	O
+rebel_72	most	O
+rebel_72	notorious	O
+rebel_72	peasant	O
+rebel_72	rebel	rebel_nou
+rebel_72	leader	O
+rebel_72	was	O
+rebel_72	an	O
+rebel_72	anarchist	O
+rebel_72	general	O
+rebel_72	named	O
+rebel_72	Nestor	O
+rebel_72	Makhno	O

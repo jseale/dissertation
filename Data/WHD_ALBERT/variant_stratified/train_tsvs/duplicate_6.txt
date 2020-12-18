@@ -1,0 +1,8 @@
+duplicate_6	The	O
+duplicate_6	technique	O
+duplicate_6	he	O
+duplicate_6	created	O
+duplicate_6	is	O
+duplicate_6	called	O
+duplicate_6	Duplicate	duplicate_adj-nou
+duplicate_6	Rain	O

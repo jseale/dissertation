@@ -1,0 +1,10 @@
+conjugate_36	The	O
+conjugate_36	conjugate	conjugate_adj-nou
+conjugate_36	partition	O
+conjugate_36	can	O
+conjugate_36	be	O
+conjugate_36	determined	O
+conjugate_36	by	O
+conjugate_36	a	O
+conjugate_36	Ferrers	O
+conjugate_36	diagram	O

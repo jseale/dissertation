@@ -1,0 +1,13 @@
+bass_18	The	O
+bass_18	Mark	O
+bass_18	VI	O
+bass_18	Soprano	O
+bass_18	Baritone	O
+bass_18	and	O
+bass_18	Bass	bass
+bass_18	models	O
+bass_18	were	O
+bass_18	produced	O
+bass_18	from	O
+bass_18	1954	O
+bass_18	1981	O

@@ -1,0 +1,15 @@
+pasty_5	The	O
+pasty_5	town	O
+pasty_5	of	O
+pasty_5	Real	O
+pasty_5	del	O
+pasty_5	Monte	O
+pasty_5	in	O
+pasty_5	Mexico	O
+pasty_5	is	O
+pasty_5	home	O
+pasty_5	of	O
+pasty_5	the	O
+pasty_5	International	O
+pasty_5	Pasty	pasty_adj
+pasty_5	Festival	O

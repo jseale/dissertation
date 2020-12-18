@@ -1,0 +1,15 @@
+compress_4	The	O
+compress_4	tube	O
+compress_4	is	O
+compress_4	drawn	O
+compress_4	through	O
+compress_4	a	O
+compress_4	die	O
+compress_4	to	O
+compress_4	compress	compress
+compress_4	the	O
+compress_4	powder	O
+compress_4	and	O
+compress_4	maximize	O
+compress_4	heat	O
+compress_4	transmission	O

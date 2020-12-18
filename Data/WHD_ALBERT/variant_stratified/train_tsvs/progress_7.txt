@@ -1,0 +1,12 @@
+progress_7	Following	O
+progress_7	the	O
+progress_7	1994	O
+progress_7	Progress	progress_nou
+progress_7	Party	O
+progress_7	national	O
+progress_7	convention	O
+progress_7	he	O
+progress_7	left	O
+progress_7	the	O
+progress_7	Progress	progress_nou
+progress_7	Party	O

@@ -1,0 +1,15 @@
+diffuse_52	At	O
+diffuse_52	high	O
+diffuse_52	temperature	O
+diffuse_52	and	O
+diffuse_52	high	O
+diffuse_52	hydrogen	O
+diffuse_52	partial	O
+diffuse_52	pressure	O
+diffuse_52	hydrogen	O
+diffuse_52	can	O
+diffuse_52	diffuse	diffuse_vrb
+diffuse_52	into	O
+diffuse_52	carbon	O
+diffuse_52	steel	O
+diffuse_52	alloys	O

@@ -1,0 +1,13 @@
+attribute_4	The	O
+attribute_4	left	O
+attribute_4	hand	O
+attribute_4	will	O
+attribute_4	sometimes	O
+attribute_4	hold	O
+attribute_4	an	O
+attribute_4	attribute	attribute_nou
+attribute_4	often	O
+attribute_4	a	O
+attribute_4	scroll	O
+attribute_4	or	O
+attribute_4	leaf	O

@@ -1,0 +1,7 @@
+sow_17	Behold	O
+sow_17	a	O
+sow_17	sower	O
+sow_17	went	O
+sow_17	forth	O
+sow_17	to	O
+sow_17	sow	sow

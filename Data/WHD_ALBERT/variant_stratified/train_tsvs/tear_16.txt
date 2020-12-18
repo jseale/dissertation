@@ -1,0 +1,14 @@
+tear_16	The	O
+tear_16	film	O
+tear_16	ends	O
+tear_16	with	O
+tear_16	Purushan	O
+tear_16	's	O
+tear_16	mother	O
+tear_16	watching	O
+tear_16	Hari	O
+tear_16	's	O
+tear_16	mother	O
+tear_16	wiping	O
+tear_16	her	O
+tear_16	tear	tear_nou

@@ -1,0 +1,13 @@
+increase_13	An	O
+increase_13	increase	increase_nou
+increase_13	decrease	O
+increase_13	in	O
+increase_13	labour	O
+increase_13	market	O
+increase_13	frictions	O
+increase_13	will	O
+increase_13	shift	O
+increase_13	the	O
+increase_13	curve	O
+increase_13	outwards	O
+increase_13	inwards	O

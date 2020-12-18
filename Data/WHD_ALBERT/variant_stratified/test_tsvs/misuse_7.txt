@@ -1,0 +1,12 @@
+misuse_7	Etizolam	O
+misuse_7	is	O
+misuse_7	controlled	O
+misuse_7	in	O
+misuse_7	Denmark	O
+misuse_7	under	O
+misuse_7	the	O
+misuse_7	Danish	O
+misuse_7	Misuse	misuse_nou
+misuse_7	of	O
+misuse_7	Drugs	O
+misuse_7	Act	O

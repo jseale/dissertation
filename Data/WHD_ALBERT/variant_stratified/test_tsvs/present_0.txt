@@ -1,0 +1,14 @@
+present_0	The	O
+present_0	permanent	O
+present_0	collection	O
+present_0	of	O
+present_0	paintings	O
+present_0	spans	O
+present_0	from	O
+present_0	the	O
+present_0	Middle	O
+present_0	Ages	O
+present_0	to	O
+present_0	the	O
+present_0	present	present_adj-nou
+present_0	day	O

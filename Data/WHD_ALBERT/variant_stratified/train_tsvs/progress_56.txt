@@ -1,0 +1,16 @@
+progress_56	Much	O
+progress_56	progress	progress_nou
+progress_56	was	O
+progress_56	made	O
+progress_56	the	O
+progress_56	General	O
+progress_56	Manager	O
+progress_56	resigned	O
+progress_56	and	O
+progress_56	Boxer	O
+progress_56	was	O
+progress_56	hired	O
+progress_56	to	O
+progress_56	manage	O
+progress_56	the	O
+progress_56	property	O

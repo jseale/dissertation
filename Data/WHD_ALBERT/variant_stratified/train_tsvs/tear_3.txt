@@ -1,0 +1,16 @@
+tear_3	This	O
+tear_3	cup	O
+tear_3	type	O
+tear_3	launcher	O
+tear_3	can	O
+tear_3	also	O
+tear_3	be	O
+tear_3	used	O
+tear_3	to	O
+tear_3	launch	O
+tear_3	tear	tear_nou
+tear_3	gas	O
+tear_3	and	O
+tear_3	riot	O
+tear_3	control	O
+tear_3	grenades	O

@@ -1,0 +1,17 @@
+discharge_11	SGLI	O
+discharge_11	policyholders	O
+discharge_11	may	O
+discharge_11	convert	O
+discharge_11	their	O
+discharge_11	policy	O
+discharge_11	to	O
+discharge_11	VGLI	O
+discharge_11	upon	O
+discharge_11	discharge	discharge_nou
+discharge_11	unless	O
+discharge_11	an	O
+discharge_11	exception	O
+discharge_11	for	O
+discharge_11	total	O
+discharge_11	disability	O
+discharge_11	applies	O

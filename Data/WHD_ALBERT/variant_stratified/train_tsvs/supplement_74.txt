@@ -1,0 +1,17 @@
+supplement_74	Your	O
+supplement_74	travel	O
+supplement_74	will	O
+supplement_74	give	O
+supplement_74	rural	O
+supplement_74	communities	O
+supplement_74	additional	O
+supplement_74	source	O
+supplement_74	of	O
+supplement_74	income	O
+supplement_74	to	O
+supplement_74	supplement	supplement_vrb
+supplement_74	their	O
+supplement_74	livelihood	O
+supplement_74	from	O
+supplement_74	subsistence	O
+supplement_74	farming	O

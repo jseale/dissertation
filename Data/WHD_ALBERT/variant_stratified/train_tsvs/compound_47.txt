@@ -1,0 +1,16 @@
+compound_47	It	O
+compound_47	is	O
+compound_47	an	O
+compound_47	aromatic	O
+compound_47	compound	compound_nou
+compound_47	that	O
+compound_47	has	O
+compound_47	two	O
+compound_47	benzene	O
+compound_47	rings	O
+compound_47	fused	O
+compound_47	to	O
+compound_47	a	O
+compound_47	central	O
+compound_47	furan	O
+compound_47	ring	O

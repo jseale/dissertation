@@ -1,0 +1,16 @@
+import_21	In	O
+import_21	1934	O
+import_21	Arcadia	O
+import_21	was	O
+import_21	sold	O
+import_21	to	O
+import_21	Kohlen	O
+import_21	Import	import_nou
+import_21	und	O
+import_21	Poseidon	O
+import_21	Schiffahrt	O
+import_21	Konigsberg	O
+import_21	and	O
+import_21	was	O
+import_21	renamed	O
+import_21	Elbing	O

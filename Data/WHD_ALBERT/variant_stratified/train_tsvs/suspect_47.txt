@@ -1,0 +1,10 @@
+suspect_47	Terror	O
+suspect_47	suspect	suspect_adj-nou
+suspect_47	kept	O
+suspect_47	visa	O
+suspect_47	to	O
+suspect_47	avoid	O
+suspect_47	tipping	O
+suspect_47	off	O
+suspect_47	larger	O
+suspect_47	investigation	O

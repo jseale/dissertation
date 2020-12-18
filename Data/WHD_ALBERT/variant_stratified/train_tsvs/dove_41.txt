@@ -1,0 +1,11 @@
+dove_41	The	O
+dove_41	dove	dove
+dove_41	is	O
+dove_41	the	O
+dove_41	symbol	O
+dove_41	of	O
+dove_41	peace	O
+dove_41	that	O
+dove_41	unites	O
+dove_41	the	O
+dove_41	towns	O

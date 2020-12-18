@@ -1,0 +1,13 @@
+alternate_11	However	O
+alternate_11	an	O
+alternate_11	alternate	alternate_adj-nou
+alternate_11	track	O
+alternate_11	listing	O
+alternate_11	was	O
+alternate_11	posted	O
+alternate_11	on	O
+alternate_11	Tommy2.net	O
+alternate_11	on	O
+alternate_11	January	O
+alternate_11	25	O
+alternate_11	2009	O

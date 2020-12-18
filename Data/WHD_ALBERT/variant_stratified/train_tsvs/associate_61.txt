@@ -1,0 +1,16 @@
+associate_61	His	O
+associate_61	company	O
+associate_61	became	O
+associate_61	a	O
+associate_61	manufacturer	O
+associate_61	of	O
+associate_61	proprietary	O
+associate_61	products	O
+associate_61	usually	O
+associate_61	farming	O
+associate_61	out	O
+associate_61	the	O
+associate_61	assembly	O
+associate_61	to	O
+associate_61	associate	associate_adj-nou
+associate_61	companies	O

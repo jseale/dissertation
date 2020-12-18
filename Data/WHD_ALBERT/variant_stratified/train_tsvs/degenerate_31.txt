@@ -1,0 +1,15 @@
+degenerate_31	Hildebrand	O
+degenerate_31	acquired	O
+degenerate_31	an	O
+degenerate_31	additional	O
+degenerate_31	115	O
+degenerate_31	works	O
+degenerate_31	of	O
+degenerate_31	degenerate	degenerate_adj-nou
+degenerate_31	art	O
+degenerate_31	in	O
+degenerate_31	the	O
+degenerate_31	same	O
+degenerate_31	way	O
+degenerate_31	in	O
+degenerate_31	1941	O

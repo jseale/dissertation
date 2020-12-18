@@ -1,0 +1,14 @@
+suspect_9	Stopping	O
+suspect_9	someone	O
+suspect_9	means	O
+suspect_9	holding	O
+suspect_9	the	O
+suspect_9	suspect	suspect_adj-nou
+suspect_9	while	O
+suspect_9	waiting	O
+suspect_9	for	O
+suspect_9	the	O
+suspect_9	arrival	O
+suspect_9	of	O
+suspect_9	the	O
+suspect_9	police	O

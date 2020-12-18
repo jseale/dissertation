@@ -1,0 +1,11 @@
+discount_40	He	O
+discount_40	worked	O
+discount_40	in	O
+discount_40	the	O
+discount_40	discount	discount_nou
+discount_40	market	O
+discount_40	in	O
+discount_40	the	O
+discount_40	City	O
+discount_40	of	O
+discount_40	London	O

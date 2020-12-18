@@ -1,0 +1,10 @@
+minute_52	The	O
+minute_52	DC	O
+minute_52	Circulator	O
+minute_52	has	O
+minute_52	six	O
+minute_52	lines	O
+minute_52	operating	O
+minute_52	at	O
+minute_52	10-minute	O
+minute_52	intervals	O

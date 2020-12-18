@@ -1,0 +1,11 @@
+lives_45	Phranc	O
+lives_45	lives	lives_vrb
+lives_45	in	O
+lives_45	Santa	O
+lives_45	Monica	O
+lives_45	California	O
+lives_45	with	O
+lives_45	her	O
+lives_45	partner	O
+lives_45	and	O
+lives_45	children	O

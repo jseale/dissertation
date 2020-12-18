@@ -1,0 +1,8 @@
+supplement_0	Is	O
+supplement_0	coral	O
+supplement_0	calcium	O
+supplement_0	a	O
+supplement_0	safe	O
+supplement_0	and	O
+supplement_0	effective	O
+supplement_0	supplement	supplement_nou

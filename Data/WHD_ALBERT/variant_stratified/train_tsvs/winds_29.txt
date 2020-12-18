@@ -1,0 +1,15 @@
+winds_29	Kristen	O
+winds_29	reached	O
+winds_29	its	O
+winds_29	peak	O
+winds_29	intensity	O
+winds_29	of	O
+winds_29	50	O
+winds_29	mph	O
+winds_29	80	O
+winds_29	km	O
+winds_29	h	O
+winds_29	winds	winds_nou
+winds_29	on	O
+winds_29	August	O
+winds_29	6	O

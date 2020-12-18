@@ -1,0 +1,14 @@
+import_24	Ford	O
+import_24	responded	O
+import_24	by	O
+import_24	asking	O
+import_24	the	O
+import_24	U.S.	O
+import_24	government	O
+import_24	to	O
+import_24	place	O
+import_24	import	import_nou
+import_24	quotas	O
+import_24	on	O
+import_24	Japanese	O
+import_24	cars	O

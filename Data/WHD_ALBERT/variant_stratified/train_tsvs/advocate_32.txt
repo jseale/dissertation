@@ -1,0 +1,14 @@
+advocate_32	During	O
+advocate_32	World	O
+advocate_32	War	O
+advocate_32	I	O
+advocate_32	Knox	O
+advocate_32	was	O
+advocate_32	an	O
+advocate_32	advocate	advocate_nou
+advocate_32	of	O
+advocate_32	preparedness	O
+advocate_32	and	O
+advocate_32	United	O
+advocate_32	States	O
+advocate_32	participation	O

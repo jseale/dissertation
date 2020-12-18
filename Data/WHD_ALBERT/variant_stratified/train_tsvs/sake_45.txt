@@ -1,0 +1,13 @@
+sake_45	Was	O
+sake_45	it	O
+sake_45	for	O
+sake_45	the	O
+sake_45	sake	sake
+sake_45	of	O
+sake_45	society	O
+sake_45	to	O
+sake_45	which	O
+sake_45	one	O
+sake_45	was	O
+sake_45	under	O
+sake_45	obligations	O

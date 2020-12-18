@@ -1,0 +1,15 @@
+escort_9	Uhtred	O
+escort_9	is	O
+escort_9	hired	O
+escort_9	to	O
+escort_9	escort	escort_vrb
+escort_9	a	O
+escort_9	Danish	O
+escort_9	merchant	O
+escort_9	's	O
+escort_9	family	O
+escort_9	north	O
+escort_9	through	O
+escort_9	Dunholm	O
+escort_9	to	O
+escort_9	safety	O

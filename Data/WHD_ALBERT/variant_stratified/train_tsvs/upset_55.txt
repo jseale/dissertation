@@ -1,0 +1,17 @@
+upset_55	The	O
+upset_55	girls	O
+upset_55	except	O
+upset_55	Mandy	O
+upset_55	are	O
+upset_55	in	O
+upset_55	the	O
+upset_55	dressing	O
+upset_55	rooms	O
+upset_55	and	O
+upset_55	are	O
+upset_55	upset	upset_nou
+upset_55	that	O
+upset_55	they	O
+upset_55	are	O
+upset_55	locked	O
+upset_55	in	O

@@ -1,0 +1,9 @@
+coordinate_2	Another	O
+coordinate_2	type	O
+coordinate_2	of	O
+coordinate_2	phosphaalkyne	O
+coordinate_2	feature	O
+coordinate_2	pentavalent	O
+coordinate_2	three	O
+coordinate_2	coordinate	coordinate_adj-nou
+coordinate_2	phosphorus	O

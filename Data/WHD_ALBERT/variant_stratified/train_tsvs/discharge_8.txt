@@ -1,0 +1,13 @@
+discharge_8	Must	O
+discharge_8	have	O
+discharge_8	received	O
+discharge_8	an	O
+discharge_8	honorable	O
+discharge_8	discharge	discharge_nou
+discharge_8	or	O
+discharge_8	received	O
+discharge_8	a	O
+discharge_8	discharge	discharge_nou
+discharge_8	under	O
+discharge_8	honorable	O
+discharge_8	conditions	O

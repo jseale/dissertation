@@ -1,0 +1,13 @@
+export_39	Australia	O
+export_39	's	O
+export_39	main	O
+export_39	seafood	O
+export_39	export	export_nou
+export_39	earners	O
+export_39	include	O
+export_39	rock	O
+export_39	lobsters	O
+export_39	prawns	O
+export_39	tuna	O
+export_39	and	O
+export_39	abalone	O

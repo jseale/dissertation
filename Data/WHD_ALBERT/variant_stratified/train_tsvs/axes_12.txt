@@ -1,0 +1,13 @@
+axes_12	All	O
+axes_12	three	O
+axes_12	gimbals	O
+axes_12	can	O
+axes_12	still	O
+axes_12	rotate	O
+axes_12	freely	O
+axes_12	about	O
+axes_12	their	O
+axes_12	respective	O
+axes_12	axes	axes_nou
+axes_12	of	O
+axes_12	suspension	O

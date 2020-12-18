@@ -1,0 +1,16 @@
+precipitate_25	An	O
+precipitate_25	alcian	O
+precipitate_25	blue	O
+precipitate_25	solution	O
+precipitate_25	with	O
+precipitate_25	a	O
+precipitate_25	precipitate	precipitate_adj-nou
+precipitate_25	should	O
+precipitate_25	be	O
+precipitate_25	discarded	O
+precipitate_25	and	O
+precipitate_25	replaced	O
+precipitate_25	not	O
+precipitate_25	filtered	O
+precipitate_25	and	O
+precipitate_25	used	O

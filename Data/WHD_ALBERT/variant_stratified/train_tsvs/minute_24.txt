@@ -1,0 +1,9 @@
+minute_24	The	O
+minute_24	deneuralyzer	O
+minute_24	took	O
+minute_24	a	O
+minute_24	minute	minute
+minute_24	to	O
+minute_24	complete	O
+minute_24	its	O
+minute_24	job	O

@@ -1,0 +1,7 @@
+animate_53	They	O
+animate_53	no	O
+animate_53	longer	O
+animate_53	have	O
+animate_53	to	O
+animate_53	animate	animate_vrb
+animate_53	blind	O

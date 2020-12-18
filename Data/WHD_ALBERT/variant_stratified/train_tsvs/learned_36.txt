@@ -1,0 +1,7 @@
+learned_36	Nene	O
+learned_36	learned	learned_vrb
+learned_36	she	O
+learned_36	could	O
+learned_36	not	O
+learned_36	change	O
+learned_36	Gabby	O

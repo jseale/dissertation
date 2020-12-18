@@ -1,0 +1,16 @@
+aged_1	Porter	O
+aged_1	died	O
+aged_1	suddenly	O
+aged_1	aged	aged
+aged_1	78	O
+aged_1	at	O
+aged_1	his	O
+aged_1	Dublin	O
+aged_1	home	O
+aged_1	on	O
+aged_1	12	O
+aged_1	September	O
+aged_1	1944	O
+aged_1	of	O
+aged_1	heart	O
+aged_1	failure	O

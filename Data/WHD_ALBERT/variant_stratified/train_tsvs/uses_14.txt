@@ -1,0 +1,15 @@
+uses_14	This	O
+uses_14	structural	O
+uses_14	system	O
+uses_14	uses	uses_vrb
+uses_14	combinations	O
+uses_14	of	O
+uses_14	shear	O
+uses_14	walls	O
+uses_14	and	O
+uses_14	frames	O
+uses_14	designed	O
+uses_14	to	O
+uses_14	resist	O
+uses_14	lateral	O
+uses_14	forces	O

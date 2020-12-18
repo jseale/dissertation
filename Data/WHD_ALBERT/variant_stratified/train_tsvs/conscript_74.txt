@@ -1,0 +1,15 @@
+conscript_74	But	O
+conscript_74	when	O
+conscript_74	Ernest	O
+conscript_74	Bevin	O
+conscript_74	became	O
+conscript_74	Minister	O
+conscript_74	of	O
+conscript_74	Labour	O
+conscript_74	in	O
+conscript_74	1940	O
+conscript_74	he	O
+conscript_74	decided	O
+conscript_74	to	O
+conscript_74	conscript	conscript_vrb
+conscript_74	them	O

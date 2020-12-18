@@ -1,0 +1,15 @@
+wound_28	Wedorf	O
+wound_28	resumed	O
+wound_28	his	O
+wound_28	studies	O
+wound_28	one	O
+wound_28	year	O
+wound_28	later	O
+wound_28	after	O
+wound_28	suffering	O
+wound_28	a	O
+wound_28	battle	O
+wound_28	wound	wound_nou-vrb
+wound_28	to	O
+wound_28	his	O
+wound_28	arm	O

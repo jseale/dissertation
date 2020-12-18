@@ -1,0 +1,17 @@
+progress_1	He	O
+progress_1	worked	O
+progress_1	as	O
+progress_1	political	O
+progress_1	advisor	O
+progress_1	and	O
+progress_1	aide	O
+progress_1	to	O
+progress_1	the	O
+progress_1	Progress	progress_nou
+progress_1	Party	O
+progress_1	parliamentary	O
+progress_1	group	O
+progress_1	from	O
+progress_1	1995	O
+progress_1	to	O
+progress_1	1997	O

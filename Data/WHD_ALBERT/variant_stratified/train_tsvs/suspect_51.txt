@@ -1,0 +1,17 @@
+suspect_51	As	O
+suspect_51	a	O
+suspect_51	whole	O
+suspect_51	the	O
+suspect_51	system	O
+suspect_51	began	O
+suspect_51	to	O
+suspect_51	break	O
+suspect_51	down	O
+suspect_51	the	O
+suspect_51	loyalty	O
+suspect_51	of	O
+suspect_51	the	O
+suspect_51	Jannissaries	O
+suspect_51	became	O
+suspect_51	increasingly	O
+suspect_51	suspect	suspect_adj-nou

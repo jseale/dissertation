@@ -1,0 +1,12 @@
+blessed_66	Lieberman	O
+blessed_66	said	O
+blessed_66	about	O
+blessed_66	Louis	O
+blessed_66	casting	O
+blessed_66	I	O
+blessed_66	will	O
+blessed_66	tell	O
+blessed_66	you	O
+blessed_66	we	O
+blessed_66	are	O
+blessed_66	blessed	blessed_vrb

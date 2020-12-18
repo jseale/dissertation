@@ -1,0 +1,16 @@
+subordinate_16	Svalbard	O
+subordinate_16	is	O
+subordinate_16	subordinate	subordinate_adj-nou
+subordinate_16	Nord	O
+subordinate_16	Troms	O
+subordinate_16	District	O
+subordinate_16	Court	O
+subordinate_16	and	O
+subordinate_16	Halogaland	O
+subordinate_16	Court	O
+subordinate_16	of	O
+subordinate_16	Appeal	O
+subordinate_16	both	O
+subordinate_16	located	O
+subordinate_16	in	O
+subordinate_16	Tromso	O

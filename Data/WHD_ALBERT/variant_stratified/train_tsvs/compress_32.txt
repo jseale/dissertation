@@ -1,0 +1,16 @@
+compress_32	He	O
+compress_32	can	O
+compress_32	stretch	O
+compress_32	deform	O
+compress_32	expand	O
+compress_32	compress	compress
+compress_32	and	O
+compress_32	flatten	O
+compress_32	all	O
+compress_32	or	O
+compress_32	part	O
+compress_32	of	O
+compress_32	his	O
+compress_32	body	O
+compress_32	at	O
+compress_32	will	O

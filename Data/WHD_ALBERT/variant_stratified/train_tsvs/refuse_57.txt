@@ -1,0 +1,10 @@
+refuse_57	The	O
+refuse_57	men	O
+refuse_57	refuse	refuse_vrb
+refuse_57	to	O
+refuse_57	continue	O
+refuse_57	work	O
+refuse_57	until	O
+refuse_57	they	O
+refuse_57	are	O
+refuse_57	paid	O

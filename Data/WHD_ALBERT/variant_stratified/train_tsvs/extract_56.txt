@@ -1,0 +1,10 @@
+extract_56	Users	O
+extract_56	extract	extract_vrb
+extract_56	non	O
+extract_56	qualitative	O
+extract_56	data	O
+extract_56	from	O
+extract_56	the	O
+extract_56	kinematically	O
+extract_56	diffracted	O
+extract_56	electrons	O

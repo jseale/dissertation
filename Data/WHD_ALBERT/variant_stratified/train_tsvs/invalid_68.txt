@@ -1,0 +1,12 @@
+invalid_68	She	O
+invalid_68	was	O
+invalid_68	an	O
+invalid_68	invalid	invalid_nou
+invalid_68	for	O
+invalid_68	the	O
+invalid_68	last	O
+invalid_68	two	O
+invalid_68	years	O
+invalid_68	of	O
+invalid_68	her	O
+invalid_68	life	O

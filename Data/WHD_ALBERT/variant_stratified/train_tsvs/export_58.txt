@@ -1,0 +1,8 @@
+export_58	Textiles	O
+export_58	comprise	O
+export_58	57	O
+export_58	of	O
+export_58	Pakistan	O
+export_58	's	O
+export_58	export	export_nou
+export_58	revenues	O

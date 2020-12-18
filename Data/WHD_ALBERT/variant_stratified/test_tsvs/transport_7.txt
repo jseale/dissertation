@@ -1,0 +1,16 @@
+transport_7	Kerala	O
+transport_7	State	O
+transport_7	Road	O
+transport_7	Transport	transport_nou
+transport_7	Corporation	O
+transport_7	operates	O
+transport_7	regular	O
+transport_7	daily	O
+transport_7	bus	O
+transport_7	services	O
+transport_7	from	O
+transport_7	Pathanamthitta	O
+transport_7	Thiruvananthapuram	O
+transport_7	Ernakulam	O
+transport_7	and	O
+transport_7	Kumili	O

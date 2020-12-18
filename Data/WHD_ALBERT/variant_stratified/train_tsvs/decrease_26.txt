@@ -1,0 +1,13 @@
+decrease_26	The	O
+decrease_26	process	O
+decrease_26	is	O
+decrease_26	induced	O
+decrease_26	by	O
+decrease_26	a	O
+decrease_26	decrease	decrease_nou
+decrease_26	in	O
+decrease_26	oxygen	O
+decrease_26	partial	O
+decrease_26	pressure	O
+decrease_26	in	O
+decrease_26	blood	O

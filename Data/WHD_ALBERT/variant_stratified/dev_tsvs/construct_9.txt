@@ -1,0 +1,13 @@
+construct_9	Conversely	O
+construct_9	every	O
+construct_9	utility	O
+construct_9	function	O
+construct_9	can	O
+construct_9	be	O
+construct_9	used	O
+construct_9	to	O
+construct_9	construct	construct_vrb
+construct_9	a	O
+construct_9	unique	O
+construct_9	preference	O
+construct_9	relation	O

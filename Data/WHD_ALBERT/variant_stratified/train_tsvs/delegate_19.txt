@@ -1,0 +1,16 @@
+delegate_19	He	O
+delegate_19	was	O
+delegate_19	also	O
+delegate_19	a	O
+delegate_19	delegate	delegate_nou
+delegate_19	to	O
+delegate_19	the	O
+delegate_19	Democratic	O
+delegate_19	National	O
+delegate_19	Convention	O
+delegate_19	at	O
+delegate_19	St.	O
+delegate_19	Louis	O
+delegate_19	Missouri	O
+delegate_19	in	O
+delegate_19	1888	O

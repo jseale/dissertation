@@ -1,0 +1,13 @@
+perfume_67	Clients	O
+perfume_67	can	O
+perfume_67	create	O
+perfume_67	their	O
+perfume_67	own	O
+perfume_67	personalized	O
+perfume_67	perfume	perfume_nou
+perfume_67	during	O
+perfume_67	the	O
+perfume_67	Tarinology	O
+perfume_67	fragrance	O
+perfume_67	course	O
+perfume_67	workshop	O

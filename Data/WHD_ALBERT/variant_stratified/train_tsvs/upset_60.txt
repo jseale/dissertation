@@ -1,0 +1,15 @@
+upset_60	In	O
+upset_60	the	O
+upset_60	playoffs	O
+upset_60	the	O
+upset_60	Rangers	O
+upset_60	were	O
+upset_60	upset	upset_vrb
+upset_60	by	O
+upset_60	the	O
+upset_60	Syracuse	O
+upset_60	Crunch	O
+upset_60	in	O
+upset_60	the	O
+upset_60	first	O
+upset_60	round	O

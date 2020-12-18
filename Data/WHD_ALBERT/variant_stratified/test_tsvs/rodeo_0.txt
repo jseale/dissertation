@@ -1,0 +1,12 @@
+rodeo_0	It	O
+rodeo_0	also	O
+rodeo_0	hosts	O
+rodeo_0	the	O
+rodeo_0	annual	O
+rodeo_0	Rodeo	rodeo
+rodeo_0	Drive	O
+rodeo_0	Festival	O
+rodeo_0	of	O
+rodeo_0	Watches	O
+rodeo_0	and	O
+rodeo_0	Jewelry	O

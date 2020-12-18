@@ -1,0 +1,14 @@
+minute_57	He	O
+minute_57	was	O
+minute_57	a	O
+minute_57	Four	O
+minute_57	Minute	minute
+minute_57	Man	O
+minute_57	and	O
+minute_57	the	O
+minute_57	director	O
+minute_57	of	O
+minute_57	the	O
+minute_57	Ojai	O
+minute_57	Civic	O
+minute_57	Association	O

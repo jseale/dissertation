@@ -1,0 +1,9 @@
+aggregate_33	Official	O
+aggregate_33	visits	O
+aggregate_33	either	O
+aggregate_33	continuous	O
+aggregate_33	or	O
+aggregate_33	aggregate	aggregate_adj-nou
+aggregate_33	of	O
+aggregate_33	30	O
+aggregate_33	days	O

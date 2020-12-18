@@ -1,0 +1,9 @@
+invert_67	DCC	O
+invert_67	can	O
+invert_67	also	O
+invert_67	be	O
+invert_67	used	O
+invert_67	to	O
+invert_67	invert	invert_vrb
+invert_67	secondary	O
+invert_67	alcohols	O

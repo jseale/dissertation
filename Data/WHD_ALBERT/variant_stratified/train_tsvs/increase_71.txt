@@ -1,0 +1,9 @@
+increase_71	He	O
+increase_71	designed	O
+increase_71	it	O
+increase_71	to	O
+increase_71	increase	increase_vrb
+increase_71	job	O
+increase_71	enrichment	O
+increase_71	for	O
+increase_71	employees	O

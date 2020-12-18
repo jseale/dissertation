@@ -1,0 +1,17 @@
+resume_77	Finsch	O
+resume_77	resigned	O
+resume_77	as	O
+resume_77	curator	O
+resume_77	of	O
+resume_77	the	O
+resume_77	museum	O
+resume_77	in	O
+resume_77	1878	O
+resume_77	in	O
+resume_77	order	O
+resume_77	that	O
+resume_77	he	O
+resume_77	could	O
+resume_77	resume	resume_vrb
+resume_77	his	O
+resume_77	travels	O

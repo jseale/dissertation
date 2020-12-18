@@ -1,0 +1,15 @@
+learned_37	Lessons	O
+learned_37	learned	learned_vrb
+learned_37	from	O
+learned_37	it	O
+learned_37	can	O
+learned_37	help	O
+learned_37	with	O
+learned_37	design	O
+learned_37	of	O
+learned_37	any	O
+learned_37	Mars	O
+learned_37	sample	O
+learned_37	return	O
+learned_37	receiving	O
+learned_37	facility	O

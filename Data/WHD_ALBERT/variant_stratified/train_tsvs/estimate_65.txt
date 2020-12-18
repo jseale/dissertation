@@ -1,0 +1,11 @@
+estimate_65	Wrigley	O
+estimate_65	and	O
+estimate_65	Schofield	O
+estimate_65	estimate	estimate_vrb
+estimate_65	8,664,000	O
+estimate_65	based	O
+estimate_65	on	O
+estimate_65	birth	O
+estimate_65	and	O
+estimate_65	death	O
+estimate_65	records	O

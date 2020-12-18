@@ -1,0 +1,11 @@
+polish_75	During	O
+polish_75	the	O
+polish_75	skirmish	O
+polish_75	a	O
+polish_75	Polish	polish_geo
+polish_75	fighter	O
+polish_75	plane	O
+polish_75	appeared	O
+polish_75	over	O
+polish_75	the	O
+polish_75	battlefield	O

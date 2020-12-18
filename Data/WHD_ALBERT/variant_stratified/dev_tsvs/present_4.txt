@@ -1,0 +1,17 @@
+present_4	Whirlwind	O
+present_4	D	O
+present_4	continues	O
+present_4	to	O
+present_4	record	O
+present_4	and	O
+present_4	perform	O
+present_4	using	O
+present_4	the	O
+present_4	Solid	O
+present_4	n	O
+present_4	Mind	O
+present_4	name	O
+present_4	in	O
+present_4	the	O
+present_4	present	present_adj-nou
+present_4	day	O

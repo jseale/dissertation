@@ -1,0 +1,17 @@
+convict_16	Port	O
+convict_16	Arthur	O
+convict_16	is	O
+convict_16	a	O
+convict_16	small	O
+convict_16	town	O
+convict_16	and	O
+convict_16	former	O
+convict_16	convict	convict_nou
+convict_16	settlement	O
+convict_16	on	O
+convict_16	the	O
+convict_16	Tasman	O
+convict_16	Peninsula	O
+convict_16	in	O
+convict_16	Tasmania	O
+convict_16	Australia	O

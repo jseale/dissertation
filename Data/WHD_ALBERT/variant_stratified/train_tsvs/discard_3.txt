@@ -1,0 +1,9 @@
+discard_3	The	O
+discard_3	discard	discard_nou
+discard_3	service	O
+discard_3	is	O
+discard_3	usually	O
+discard_3	not	O
+discard_3	enabled	O
+discard_3	by	O
+discard_3	default	O

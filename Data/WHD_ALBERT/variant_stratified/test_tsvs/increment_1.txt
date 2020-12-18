@@ -1,0 +1,9 @@
+increment_1	The	O
+increment_1	increment	increment_nou
+increment_1	may	O
+increment_1	be	O
+increment_1	regarded	O
+increment_1	as	O
+increment_1	a	O
+increment_1	view	O
+increment_1	tax	O

@@ -1,0 +1,14 @@
+reading_3	For	O
+reading_3	the	O
+reading_3	purposes	O
+reading_3	of	O
+reading_3	this	O
+reading_3	example	O
+reading_3	this	O
+reading_3	array	O
+reading_3	supports	O
+reading_3	both	O
+reading_3	reading	reading_en
+reading_3	and	O
+reading_3	writing	O
+reading_3	elements	O

@@ -1,0 +1,17 @@
+incline_75	The	O
+incline_75	area	O
+incline_75	was	O
+incline_75	developed	O
+incline_75	in	O
+incline_75	the	O
+incline_75	early	O
+incline_75	1900s	O
+incline_75	as	O
+incline_75	a	O
+incline_75	resort	O
+incline_75	with	O
+incline_75	a	O
+incline_75	hotel	O
+incline_75	and	O
+incline_75	incline	incline_nou
+incline_75	railway	O

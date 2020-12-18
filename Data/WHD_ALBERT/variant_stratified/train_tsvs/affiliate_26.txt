@@ -1,0 +1,14 @@
+affiliate_26	The	O
+affiliate_26	BEL	O
+affiliate_26	was	O
+affiliate_26	admitted	O
+affiliate_26	into	O
+affiliate_26	the	O
+affiliate_26	Socialist	O
+affiliate_26	International	O
+affiliate_26	as	O
+affiliate_26	an	O
+affiliate_26	observer	O
+affiliate_26	affiliate	affiliate_nou
+affiliate_26	in	O
+affiliate_26	1999	O

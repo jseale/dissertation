@@ -1,0 +1,12 @@
+delegate_48	In	O
+delegate_48	1908	O
+delegate_48	9	O
+delegate_48	he	O
+delegate_48	was	O
+delegate_48	a	O
+delegate_48	delegate	delegate_nou
+delegate_48	to	O
+delegate_48	the	O
+delegate_48	Closer	O
+delegate_48	Union	O
+delegate_48	Convention	O

@@ -1,0 +1,14 @@
+axes_33	The	O
+axes_33	long	O
+axes_33	axes	axes_nou
+axes_33	of	O
+axes_33	the	O
+axes_33	feldspar	O
+axes_33	grains	O
+axes_33	show	O
+axes_33	a	O
+axes_33	preferred	O
+axes_33	orientation	O
+axes_33	in	O
+axes_33	some	O
+axes_33	places	O

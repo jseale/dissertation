@@ -1,0 +1,14 @@
+degenerate_72	Due	O
+degenerate_72	to	O
+degenerate_72	federal	O
+degenerate_72	investigations	O
+degenerate_72	and	O
+degenerate_72	the	O
+degenerate_72	lack	O
+degenerate_72	of	O
+degenerate_72	funds	O
+degenerate_72	the	O
+degenerate_72	plans	O
+degenerate_72	may	O
+degenerate_72	degenerate	degenerate_vrb
+degenerate_72	further	O

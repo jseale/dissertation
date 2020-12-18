@@ -1,0 +1,15 @@
+supplement_27	Southern	O
+supplement_27	Fulton	O
+supplement_27	School	O
+supplement_27	District	O
+supplement_27	received	O
+supplement_27	a	O
+supplement_27	$	O
+supplement_27	462,766	O
+supplement_27	supplement	supplement_nou
+supplement_27	for	O
+supplement_27	special	O
+supplement_27	education	O
+supplement_27	services	O
+supplement_27	in	O
+supplement_27	2010	O

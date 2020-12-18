@@ -1,0 +1,16 @@
+frequent_40	Su	O
+frequent_40	Shi	O
+frequent_40	and	O
+frequent_40	friends	O
+frequent_40	continued	O
+frequent_40	to	O
+frequent_40	write	O
+frequent_40	poetry	O
+frequent_40	despite	O
+frequent_40	or	O
+frequent_40	perhaps	O
+frequent_40	encouraged	O
+frequent_40	by	O
+frequent_40	their	O
+frequent_40	frequent	frequent_adj
+frequent_40	banishment	O

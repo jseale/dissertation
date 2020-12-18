@@ -1,0 +1,10 @@
+misuse_13	Unfortunately	O
+misuse_13	many	O
+misuse_13	old	O
+misuse_13	examples	O
+misuse_13	have	O
+misuse_13	been	O
+misuse_13	damaged	O
+misuse_13	by	O
+misuse_13	such	O
+misuse_13	misuse	misuse_nou

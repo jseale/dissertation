@@ -1,0 +1,15 @@
+pasty_68	He	O
+pasty_68	is	O
+pasty_68	described	O
+pasty_68	as	O
+pasty_68	having	O
+pasty_68	a	O
+pasty_68	lank	O
+pasty_68	blonde	O
+pasty_68	coloured	O
+pasty_68	ponytail	O
+pasty_68	pasty	pasty_nou
+pasty_68	skin	O
+pasty_68	and	O
+pasty_68	washy	O
+pasty_68	eyes	O

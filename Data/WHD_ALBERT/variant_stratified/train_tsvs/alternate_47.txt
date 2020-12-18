@@ -1,0 +1,11 @@
+alternate_47	Wheat	O
+alternate_47	is	O
+alternate_47	the	O
+alternate_47	primary	O
+alternate_47	host	O
+alternate_47	and	O
+alternate_47	barberry	O
+alternate_47	is	O
+alternate_47	the	O
+alternate_47	alternate	alternate_adj-nou
+alternate_47	host	O

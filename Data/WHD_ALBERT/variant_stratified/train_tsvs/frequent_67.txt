@@ -1,0 +1,15 @@
+frequent_67	The	O
+frequent_67	mutations	O
+frequent_67	in	O
+frequent_67	this	O
+frequent_67	gene	O
+frequent_67	may	O
+frequent_67	lead	O
+frequent_67	to	O
+frequent_67	but	O
+frequent_67	not	O
+frequent_67	a	O
+frequent_67	frequent	frequent_adj
+frequent_67	cause	O
+frequent_67	of	O
+frequent_67	cryptorchidism	O

@@ -1,0 +1,17 @@
+bow_49	The	O
+bow_49	superiority	O
+bow_49	of	O
+bow_49	Yourkevitch	O
+bow_49	's	O
+bow_49	hull	O
+bow_49	was	O
+bow_49	visible	O
+bow_49	hardly	O
+bow_49	a	O
+bow_49	wave	O
+bow_49	was	O
+bow_49	created	O
+bow_49	off	O
+bow_49	the	O
+bow_49	bulbous	O
+bow_49	bow	bow_nou-ship

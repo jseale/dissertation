@@ -1,0 +1,11 @@
+winds_39	In	O
+winds_39	the	O
+winds_39	Swiss	O
+winds_39	Alps	O
+winds_39	winds	winds_nou
+winds_39	over	O
+winds_39	200	O
+winds_39	km	O
+winds_39	h	O
+winds_39	were	O
+winds_39	recorded	O

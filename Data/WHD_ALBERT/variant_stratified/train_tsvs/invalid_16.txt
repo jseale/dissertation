@@ -1,0 +1,16 @@
+invalid_16	Most	O
+invalid_16	libraries	O
+invalid_16	and	O
+invalid_16	booksellers	O
+invalid_16	display	O
+invalid_16	the	O
+invalid_16	book	O
+invalid_16	record	O
+invalid_16	for	O
+invalid_16	an	O
+invalid_16	invalid	invalid_adj
+invalid_16	ISBN	O
+invalid_16	issued	O
+invalid_16	by	O
+invalid_16	the	O
+invalid_16	publisher	O

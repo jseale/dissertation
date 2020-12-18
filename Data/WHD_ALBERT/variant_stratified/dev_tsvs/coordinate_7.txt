@@ -1,0 +1,14 @@
+coordinate_7	In	O
+coordinate_7	1994	O
+coordinate_7	a	O
+coordinate_7	project	O
+coordinate_7	director	O
+coordinate_7	was	O
+coordinate_7	engaged	O
+coordinate_7	to	O
+coordinate_7	coordinate	coordinate_vrb
+coordinate_7	the	O
+coordinate_7	process	O
+coordinate_7	of	O
+coordinate_7	historical	O
+coordinate_7	research	O

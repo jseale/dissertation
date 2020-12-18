@@ -1,0 +1,14 @@
+implant_70	In	O
+implant_70	1991	O
+implant_70	he	O
+implant_70	developed	O
+implant_70	a	O
+implant_70	technique	O
+implant_70	for	O
+implant_70	ear	O
+implant_70	reconstruction	O
+implant_70	utilizing	O
+implant_70	a	O
+implant_70	porous	O
+implant_70	polyethelene	O
+implant_70	implant	implant_nou

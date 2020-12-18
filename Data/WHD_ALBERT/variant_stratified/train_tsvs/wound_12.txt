@@ -1,0 +1,10 @@
+wound_12	Roache	O
+wound_12	was	O
+wound_12	hospitalized	O
+wound_12	but	O
+wound_12	survived	O
+wound_12	the	O
+wound_12	near	O
+wound_12	fatal	O
+wound_12	gunshot	O
+wound_12	wound	wound_nou-vrb

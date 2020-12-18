@@ -1,0 +1,7 @@
+nestle_23	MJB	O
+nestle_23	was	O
+nestle_23	acquired	O
+nestle_23	by	O
+nestle_23	Nestle	nestle_nam
+nestle_23	in	O
+nestle_23	1985	O

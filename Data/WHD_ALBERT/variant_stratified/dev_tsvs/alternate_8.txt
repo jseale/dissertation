@@ -1,0 +1,9 @@
+alternate_8	She	O
+alternate_8	acted	O
+alternate_8	as	O
+alternate_8	the	O
+alternate_8	event	O
+alternate_8	alternate	alternate_adj-nou
+alternate_8	throughout	O
+alternate_8	the	O
+alternate_8	season	O

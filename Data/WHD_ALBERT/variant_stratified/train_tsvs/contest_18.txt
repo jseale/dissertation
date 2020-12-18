@@ -1,0 +1,15 @@
+contest_18	Gaitana	O
+contest_18	became	O
+contest_18	the	O
+contest_18	first	O
+contest_18	singer	O
+contest_18	of	O
+contest_18	Afro	O
+contest_18	Ukrainian	O
+contest_18	origin	O
+contest_18	to	O
+contest_18	represent	O
+contest_18	Ukraine	O
+contest_18	in	O
+contest_18	the	O
+contest_18	contest	contest_nou

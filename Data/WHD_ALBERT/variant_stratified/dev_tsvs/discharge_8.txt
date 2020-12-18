@@ -1,0 +1,17 @@
+discharge_8	The	O
+discharge_8	average	O
+discharge_8	discharge	discharge_nou
+discharge_8	of	O
+discharge_8	the	O
+discharge_8	river	O
+discharge_8	at	O
+discharge_8	the	O
+discharge_8	mouth	O
+discharge_8	is	O
+discharge_8	2,377	O
+discharge_8	cubic	O
+discharge_8	feet	O
+discharge_8	per	O
+discharge_8	second	O
+discharge_8	67.3	O
+discharge_8	m³/s	O

@@ -1,0 +1,16 @@
+content_73	Christmas	O
+content_73	beer	O
+content_73	is	O
+content_73	another	O
+content_73	type	O
+content_73	of	O
+content_73	winter	O
+content_73	warmer	O
+content_73	similarly	O
+content_73	strong	O
+content_73	in	O
+content_73	alcohol	O
+content_73	content	content_nou
+content_73	and	O
+content_73	usually	O
+content_73	spiced	O

@@ -1,0 +1,16 @@
+subordinate_62	Administratively	O
+subordinate_62	skekSil	O
+subordinate_62	's	O
+subordinate_62	subordinate	subordinate_adj-nou
+subordinate_62	skekShod	O
+subordinate_62	is	O
+subordinate_62	incapable	O
+subordinate_62	of	O
+subordinate_62	acknowledging	O
+subordinate_62	anyone	O
+subordinate_62	's	O
+subordinate_62	presence	O
+subordinate_62	unless	O
+subordinate_62	offered	O
+subordinate_62	some	O
+subordinate_62	gift	O

@@ -1,0 +1,16 @@
+impact_28	Clinical	O
+impact_28	trials	O
+impact_28	of	O
+impact_28	vaccines	O
+impact_28	against	O
+impact_28	HPV	O
+impact_28	and	O
+impact_28	evaluation	O
+impact_28	of	O
+impact_28	the	O
+impact_28	impact	impact_nou
+impact_28	of	O
+impact_28	the	O
+impact_28	HPV	O
+impact_28	vaccine	O
+impact_28	programmes	O

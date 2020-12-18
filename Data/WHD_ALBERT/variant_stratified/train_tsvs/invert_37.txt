@@ -1,0 +1,13 @@
+invert_37	Alternatively	O
+invert_37	the	O
+invert_37	film	O
+invert_37	is	O
+invert_37	processed	O
+invert_37	to	O
+invert_37	invert	invert_vrb
+invert_37	the	O
+invert_37	negative	O
+invert_37	image	O
+invert_37	yielding	O
+invert_37	positive	O
+invert_37	transparencies	O

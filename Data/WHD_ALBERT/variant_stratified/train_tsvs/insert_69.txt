@@ -1,0 +1,11 @@
+insert_69	Therefore	O
+insert_69	we	O
+insert_69	will	O
+insert_69	simply	O
+insert_69	insertand	O
+insert_69	insert	insert_vrb
+insert_69	both	O
+insert_69	values	O
+insert_69	at	O
+insert_69	the	O
+insert_69	end	O

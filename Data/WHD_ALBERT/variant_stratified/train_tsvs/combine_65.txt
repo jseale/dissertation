@@ -1,0 +1,11 @@
+combine_65	Often	O
+combine_65	supernatural	O
+combine_65	horror	O
+combine_65	films	O
+combine_65	combine	combine_vrb
+combine_65	elements	O
+combine_65	of	O
+combine_65	religion	O
+combine_65	into	O
+combine_65	the	O
+combine_65	plot	O

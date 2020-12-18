@@ -1,0 +1,16 @@
+approximate_78	It	O
+approximate_78	is	O
+approximate_78	NP	O
+approximate_78	hard	O
+approximate_78	to	O
+approximate_78	approximate	approximate_vrb
+approximate_78	the	O
+approximate_78	pathwidth	O
+approximate_78	of	O
+approximate_78	a	O
+approximate_78	graph	O
+approximate_78	to	O
+approximate_78	within	O
+approximate_78	an	O
+approximate_78	additive	O
+approximate_78	constant	O

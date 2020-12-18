@@ -1,0 +1,8 @@
+converse_47	All	O
+converse_47	of	O
+converse_47	the	O
+converse_47	wrestlers	O
+converse_47	are	O
+converse_47	wearing	O
+converse_47	Converse	converse_adj-nou
+converse_47	shoes	O

@@ -1,0 +1,10 @@
+produce_78	The	O
+produce_78	flowers	O
+produce_78	produce	produce_vrb
+produce_78	abundant	O
+produce_78	nectar	O
+produce_78	and	O
+produce_78	attract	O
+produce_78	insects	O
+produce_78	and	O
+produce_78	birds	O

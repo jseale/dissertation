@@ -1,0 +1,16 @@
+articulate_46	The	O
+articulate_46	developmental	O
+articulate_46	task	O
+articulate_46	for	O
+articulate_46	this	O
+articulate_46	stage	O
+articulate_46	is	O
+articulate_46	for	O
+articulate_46	each	O
+articulate_46	member	O
+articulate_46	to	O
+articulate_46	articulate	articulate_vrb
+articulate_46	their	O
+articulate_46	wants	O
+articulate_46	and	O
+articulate_46	needs	O

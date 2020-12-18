@@ -1,0 +1,17 @@
+confines_41	Bagnoli	O
+confines_41	is	O
+confines_41	a	O
+confines_41	western	O
+confines_41	seaside	O
+confines_41	quarter	O
+confines_41	of	O
+confines_41	Naples	O
+confines_41	Italy	O
+confines_41	well	O
+confines_41	beyond	O
+confines_41	the	O
+confines_41	confines	confines_nou
+confines_41	of	O
+confines_41	the	O
+confines_41	original	O
+confines_41	city	O

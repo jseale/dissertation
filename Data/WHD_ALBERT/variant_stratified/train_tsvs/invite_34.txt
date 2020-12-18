@@ -1,0 +1,12 @@
+invite_34	Any	O
+invite_34	interruption	O
+invite_34	of	O
+invite_34	the	O
+invite_34	refrigeration	O
+invite_34	however	O
+invite_34	could	O
+invite_34	invite	invite_vrb
+invite_34	bacterial	O
+invite_34	contamination	O
+invite_34	to	O
+invite_34	grow	O

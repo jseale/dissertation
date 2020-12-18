@@ -1,0 +1,14 @@
+abuse_23	Satan	O
+abuse_23	's	O
+abuse_23	Silence	O
+abuse_23	Ritual	O
+abuse_23	Abuse	abuse_nou
+abuse_23	and	O
+abuse_23	the	O
+abuse_23	Making	O
+abuse_23	of	O
+abuse_23	a	O
+abuse_23	Modern	O
+abuse_23	American	O
+abuse_23	Witch	O
+abuse_23	Hunt	O

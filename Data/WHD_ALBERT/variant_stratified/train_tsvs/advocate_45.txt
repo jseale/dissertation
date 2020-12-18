@@ -1,0 +1,15 @@
+advocate_45	Lyddiard	O
+advocate_45	has	O
+advocate_45	always	O
+advocate_45	been	O
+advocate_45	a	O
+advocate_45	strong	O
+advocate_45	advocate	advocate_nou
+advocate_45	of	O
+advocate_45	an	O
+advocate_45	internationalisation	O
+advocate_45	of	O
+advocate_45	the	O
+advocate_45	UK	O
+advocate_45	theatre	O
+advocate_45	scene	O

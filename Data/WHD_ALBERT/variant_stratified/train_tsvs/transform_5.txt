@@ -1,0 +1,13 @@
+transform_5	With	O
+transform_5	the	O
+transform_5	Kirumin	O
+transform_5	these	O
+transform_5	character	O
+transform_5	costume	O
+transform_5	wearing	O
+transform_5	girls	O
+transform_5	can	O
+transform_5	transform	transform
+transform_5	into	O
+transform_5	real	O
+transform_5	animals	O

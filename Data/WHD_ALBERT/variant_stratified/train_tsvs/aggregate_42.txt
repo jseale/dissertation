@@ -1,0 +1,14 @@
+aggregate_42	Bayern	O
+aggregate_42	moved	O
+aggregate_42	on	O
+aggregate_42	due	O
+aggregate_42	to	O
+aggregate_42	aggregate	aggregate_adj-nou
+aggregate_42	and	O
+aggregate_42	went	O
+aggregate_42	on	O
+aggregate_42	to	O
+aggregate_42	win	O
+aggregate_42	the	O
+aggregate_42	European	O
+aggregate_42	Cup	O

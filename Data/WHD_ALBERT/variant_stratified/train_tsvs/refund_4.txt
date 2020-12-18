@@ -1,0 +1,15 @@
+refund_4	An	O
+refund_4	additional	O
+refund_4	$	O
+refund_4	5,000	O
+refund_4	can	O
+refund_4	be	O
+refund_4	purchased	O
+refund_4	using	O
+refund_4	your	O
+refund_4	income	O
+refund_4	tax	O
+refund_4	refund	refund_nou
+refund_4	on	O
+refund_4	form	O
+refund_4	1040	O

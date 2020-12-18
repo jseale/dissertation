@@ -1,0 +1,15 @@
+celtic_70	His	O
+celtic_70	57	O
+celtic_70	League	O
+celtic_70	and	O
+celtic_70	Cup	O
+celtic_70	goals	O
+celtic_70	in	O
+celtic_70	season	O
+celtic_70	1926	O
+celtic_70	27	O
+celtic_70	remains	O
+celtic_70	a	O
+celtic_70	record	O
+celtic_70	at	O
+celtic_70	Celtic	celtic_adj-nou-sports

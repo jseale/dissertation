@@ -1,0 +1,8 @@
+export_33	Mortalities	O
+export_33	that	O
+export_33	occur	O
+export_33	prior	O
+export_33	to	O
+export_33	export	export_nou
+export_33	are	O
+export_33	excluded	O

@@ -1,0 +1,10 @@
+suspect_1	The	O
+suspect_1	police	O
+suspect_1	are	O
+suspect_1	looking	O
+suspect_1	for	O
+suspect_1	Paul	O
+suspect_1	Sothern	O
+suspect_1	the	O
+suspect_1	prime	O
+suspect_1	suspect	suspect_adj-nou

@@ -1,0 +1,14 @@
+invalid_48	Macy	O
+invalid_48	's	O
+invalid_48	marriage	O
+invalid_48	to	O
+invalid_48	Lorenzo	O
+invalid_48	was	O
+invalid_48	invalid	invalid_adj
+invalid_48	leading	O
+invalid_48	Thorne	O
+invalid_48	and	O
+invalid_48	Macy	O
+invalid_48	to	O
+invalid_48	again	O
+invalid_48	reconcile	O

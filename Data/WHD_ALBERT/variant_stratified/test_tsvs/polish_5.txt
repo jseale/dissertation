@@ -1,0 +1,13 @@
+polish_5	It	O
+polish_5	was	O
+polish_5	one	O
+polish_5	of	O
+polish_5	the	O
+polish_5	biggest	O
+polish_5	economic	O
+polish_5	projects	O
+polish_5	of	O
+polish_5	the	O
+polish_5	Second	O
+polish_5	Polish	polish_geo
+polish_5	Republic	O

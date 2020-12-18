@@ -1,0 +1,13 @@
+reject_69	Some	O
+reject_69	MTAs	O
+reject_69	will	O
+reject_69	detect	O
+reject_69	this	O
+reject_69	invalid	O
+reject_69	pipelining	O
+reject_69	and	O
+reject_69	reject	reject_vrb
+reject_69	email	O
+reject_69	sent	O
+reject_69	this	O
+reject_69	way	O

@@ -1,0 +1,11 @@
+pasty_1	With	O
+pasty_1	its	O
+pasty_1	doughy	O
+pasty_1	crust	O
+pasty_1	the	O
+pasty_1	pasty	pasty_adj
+pasty_1	can	O
+pasty_1	be	O
+pasty_1	eaten	O
+pasty_1	without	O
+pasty_1	utensils	O

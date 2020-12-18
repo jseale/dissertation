@@ -1,0 +1,15 @@
+degenerate_6	Degenerate	degenerate_adj-nou
+degenerate_6	zeroth	O
+degenerate_6	order	O
+degenerate_6	states	O
+degenerate_6	of	O
+degenerate_6	opposite	O
+degenerate_6	parity	O
+degenerate_6	occur	O
+degenerate_6	for	O
+degenerate_6	excited	O
+degenerate_6	hydrogen	O
+degenerate_6	like	O
+degenerate_6	one	O
+degenerate_6	electron	O
+degenerate_6	atoms	O

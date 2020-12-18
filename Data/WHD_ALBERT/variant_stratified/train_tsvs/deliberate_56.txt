@@ -1,0 +1,13 @@
+deliberate_56	In	O
+deliberate_56	liturgical	O
+deliberate_56	music	O
+deliberate_56	an	O
+deliberate_56	asterisk	O
+deliberate_56	is	O
+deliberate_56	often	O
+deliberate_56	used	O
+deliberate_56	to	O
+deliberate_56	denote	O
+deliberate_56	a	O
+deliberate_56	deliberate	deliberate_adj
+deliberate_56	pause	O

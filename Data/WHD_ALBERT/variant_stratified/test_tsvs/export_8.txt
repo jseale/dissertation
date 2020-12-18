@@ -1,0 +1,8 @@
+export_8	It	O
+export_8	was	O
+export_8	destined	O
+export_8	for	O
+export_8	export	export_nou
+export_8	to	O
+export_8	Saudi	O
+export_8	Arabia	O

@@ -1,0 +1,12 @@
+resume_20	Filming	O
+resume_20	for	O
+resume_20	this	O
+resume_20	project	O
+resume_20	will	O
+resume_20	resume	resume_vrb
+resume_20	in	O
+resume_20	New	O
+resume_20	York	O
+resume_20	City	O
+resume_20	in	O
+resume_20	2017	O

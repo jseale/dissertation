@@ -1,0 +1,17 @@
+increment_66	If	O
+increment_66	the	O
+increment_66	score	O
+increment_66	was	O
+increment_66	still	O
+increment_66	tied	O
+increment_66	two	O
+increment_66	rapid	O
+increment_66	games	O
+increment_66	10	O
+increment_66	minutes	O
+increment_66	plus	O
+increment_66	10	O
+increment_66	second	O
+increment_66	increment	increment_nou
+increment_66	were	O
+increment_66	played	O

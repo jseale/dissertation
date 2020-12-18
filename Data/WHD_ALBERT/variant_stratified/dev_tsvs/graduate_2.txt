@@ -1,0 +1,16 @@
+graduate_2	By	O
+graduate_2	the	O
+graduate_2	time	O
+graduate_2	aerial	O
+graduate_2	activity	O
+graduate_2	over	O
+graduate_2	the	O
+graduate_2	North	O
+graduate_2	resumed	O
+graduate_2	most	O
+graduate_2	Navy	O
+graduate_2	squadrons	O
+graduate_2	had	O
+graduate_2	a	O
+graduate_2	Topgun	O
+graduate_2	graduate	graduate_adj-nou

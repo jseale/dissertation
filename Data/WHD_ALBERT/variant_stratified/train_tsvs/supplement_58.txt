@@ -1,0 +1,16 @@
+supplement_58	Carucage	O
+supplement_58	was	O
+supplement_58	an	O
+supplement_58	attempt	O
+supplement_58	to	O
+supplement_58	secure	O
+supplement_58	new	O
+supplement_58	sources	O
+supplement_58	of	O
+supplement_58	revenue	O
+supplement_58	to	O
+supplement_58	supplement	supplement_vrb
+supplement_58	existing	O
+supplement_58	sources	O
+supplement_58	of	O
+supplement_58	income	O

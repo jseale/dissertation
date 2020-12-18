@@ -1,0 +1,15 @@
+alternate_2	Di	O
+alternate_2	Meola	O
+alternate_2	used	O
+alternate_2	alternate	alternate_adj-nou
+alternate_2	picking	O
+alternate_2	to	O
+alternate_2	perform	O
+alternate_2	very	O
+alternate_2	rapid	O
+alternate_2	sequences	O
+alternate_2	of	O
+alternate_2	notes	O
+alternate_2	in	O
+alternate_2	his	O
+alternate_2	solos	O

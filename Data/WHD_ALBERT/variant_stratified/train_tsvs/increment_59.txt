@@ -1,0 +1,14 @@
+increment_59	The	O
+increment_59	shopping	O
+increment_59	center	O
+increment_59	also	O
+increment_59	serves	O
+increment_59	as	O
+increment_59	a	O
+increment_59	successful	O
+increment_59	and	O
+increment_59	preplanned	O
+increment_59	Tax	O
+increment_59	increment	increment_nou
+increment_59	finance	O
+increment_59	project	O

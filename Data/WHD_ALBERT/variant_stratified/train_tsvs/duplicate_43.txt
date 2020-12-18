@@ -1,0 +1,14 @@
+duplicate_43	Shortly	O
+duplicate_43	thereafter	O
+duplicate_43	his	O
+duplicate_43	evil	O
+duplicate_43	or	O
+duplicate_43	other	O
+duplicate_43	duplicate	duplicate_adj-nou
+duplicate_43	arrives	O
+duplicate_43	seeking	O
+duplicate_43	pleasure	O
+duplicate_43	drink	O
+duplicate_43	women	O
+duplicate_43	and	O
+duplicate_43	command	O

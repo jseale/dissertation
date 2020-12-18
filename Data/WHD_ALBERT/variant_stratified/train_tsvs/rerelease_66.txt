@@ -1,0 +1,15 @@
+rerelease_66	In	O
+rerelease_66	2010	O
+rerelease_66	Ufouria	O
+rerelease_66	The	O
+rerelease_66	Saga	O
+rerelease_66	was	O
+rerelease_66	rated	O
+rerelease_66	by	O
+rerelease_66	the	O
+rerelease_66	Australian	O
+rerelease_66	OFLC	O
+rerelease_66	implying	O
+rerelease_66	a	O
+rerelease_66	future	O
+rerelease_66	rerelease	rerelease

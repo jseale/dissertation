@@ -1,0 +1,16 @@
+misuse_43	And	O
+misuse_43	it	O
+misuse_43	asks	O
+misuse_43	us	O
+misuse_43	to	O
+misuse_43	look	O
+misuse_43	past	O
+misuse_43	the	O
+misuse_43	potential	O
+misuse_43	for	O
+misuse_43	misuse	misuse_nou
+misuse_43	and	O
+misuse_43	abuse	O
+misuse_43	with	O
+misuse_43	criminal	O
+misuse_43	intent	O

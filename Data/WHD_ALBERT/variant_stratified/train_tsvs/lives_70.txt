@@ -1,0 +1,15 @@
+lives_70	His	O
+lives_70	wife	O
+lives_70	Ashalata	O
+lives_70	has	O
+lives_70	deserted	O
+lives_70	him	O
+lives_70	and	O
+lives_70	lives	lives_vrb
+lives_70	in	O
+lives_70	her	O
+lives_70	maternal	O
+lives_70	house	O
+lives_70	with	O
+lives_70	their	O
+lives_70	children	O

@@ -1,0 +1,16 @@
+conduct_1	He	O
+conduct_1	served	O
+conduct_1	with	O
+conduct_1	distinction	O
+conduct_1	in	O
+conduct_1	Egypt	O
+conduct_1	and	O
+conduct_1	was	O
+conduct_1	awarded	O
+conduct_1	a	O
+conduct_1	sabre	O
+conduct_1	of	O
+conduct_1	honour	O
+conduct_1	for	O
+conduct_1	his	O
+conduct_1	conduct	conduct_nou

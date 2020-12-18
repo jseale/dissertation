@@ -1,0 +1,10 @@
+delegate_32	He	O
+delegate_32	was	O
+delegate_32	also	O
+delegate_32	a	O
+delegate_32	delegate	delegate_nou
+delegate_32	to	O
+delegate_32	Imperial	O
+delegate_32	Conference	O
+delegate_32	in	O
+delegate_32	1930	O

@@ -1,0 +1,15 @@
+reading_4	Conversely	O
+reading_4	a	O
+reading_4	higher	O
+reading_4	reading	reading_en
+reading_4	~1.02	O
+reading_4	of	O
+reading_4	the	O
+reading_4	ratio	O
+reading_4	indicates	O
+reading_4	a	O
+reading_4	bearish	O
+reading_4	sentiment	O
+reading_4	in	O
+reading_4	the	O
+reading_4	market	O

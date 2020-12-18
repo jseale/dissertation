@@ -1,0 +1,13 @@
+correlate_64	Unfortunately	O
+correlate_64	the	O
+correlate_64	peak	O
+correlate_64	level	O
+correlate_64	reading	O
+correlate_64	does	O
+correlate_64	not	O
+correlate_64	correlate	correlate_nou-vrb
+correlate_64	well	O
+correlate_64	with	O
+correlate_64	the	O
+correlate_64	perceived	O
+correlate_64	loudness	O

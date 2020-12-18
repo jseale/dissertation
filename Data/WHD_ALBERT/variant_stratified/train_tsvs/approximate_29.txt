@@ -1,0 +1,8 @@
+approximate_29	Approximate	approximate_adj-nou
+approximate_29	population	O
+approximate_29	in	O
+approximate_29	the	O
+approximate_29	2001	O
+approximate_29	census	O
+approximate_29	was	O
+approximate_29	230,000	O

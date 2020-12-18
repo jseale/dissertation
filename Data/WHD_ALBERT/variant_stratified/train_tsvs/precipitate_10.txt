@@ -1,0 +1,8 @@
+precipitate_10	If	O
+precipitate_10	a	O
+precipitate_10	white	O
+precipitate_10	precipitate	precipitate_adj-nou
+precipitate_10	forms	O
+precipitate_10	Zinc	O
+precipitate_10	is	O
+precipitate_10	present	O

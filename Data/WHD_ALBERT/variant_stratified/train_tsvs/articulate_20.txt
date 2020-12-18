@@ -1,0 +1,10 @@
+articulate_20	It	O
+articulate_20	was	O
+articulate_20	legally	O
+articulate_20	more	O
+articulate_20	articulate	articulate_adj
+articulate_20	as	O
+articulate_20	compared	O
+articulate_20	to	O
+articulate_20	its	O
+articulate_20	predecessor	O

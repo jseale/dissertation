@@ -1,0 +1,9 @@
+live_31	Kingdom	O
+live_31	is	O
+live_31	the	O
+live_31	third	O
+live_31	live	live_adj
+live_31	album	O
+live_31	from	O
+live_31	Covenant	O
+live_31	Worship	O

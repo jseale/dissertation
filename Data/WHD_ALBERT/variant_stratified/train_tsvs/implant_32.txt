@@ -1,0 +1,15 @@
+implant_32	Miller	O
+implant_32	's	O
+implant_32	own	O
+implant_32	grandmother	O
+implant_32	Grace	O
+implant_32	Shumaker	O
+implant_32	was	O
+implant_32	the	O
+implant_32	first	O
+implant_32	recipient	O
+implant_32	of	O
+implant_32	a	O
+implant_32	Biomet	O
+implant_32	hip	O
+implant_32	implant	implant_nou

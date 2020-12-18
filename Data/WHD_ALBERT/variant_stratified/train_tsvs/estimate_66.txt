@@ -1,0 +1,14 @@
+estimate_66	Try	O
+estimate_66	to	O
+estimate_66	accurately	O
+estimate_66	estimate	estimate_vrb
+estimate_66	all	O
+estimate_66	the	O
+estimate_66	costs	O
+estimate_66	that	O
+estimate_66	may	O
+estimate_66	occur	O
+estimate_66	including	O
+estimate_66	the	O
+estimate_66	hidden	O
+estimate_66	ones	O

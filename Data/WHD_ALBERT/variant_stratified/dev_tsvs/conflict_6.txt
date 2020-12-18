@@ -1,0 +1,17 @@
+conflict_6	At	O
+conflict_6	the	O
+conflict_6	high	O
+conflict_6	point	O
+conflict_6	of	O
+conflict_6	the	O
+conflict_6	conflict	conflict_nou
+conflict_6	over	O
+conflict_6	40,000	O
+conflict_6	British	O
+conflict_6	and	O
+conflict_6	Commonwealth	O
+conflict_6	troops	O
+conflict_6	were	O
+conflict_6	stationed	O
+conflict_6	in	O
+conflict_6	Malaya	O

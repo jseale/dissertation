@@ -1,0 +1,17 @@
+insert_47	TATP	O
+insert_47	executes	O
+insert_47	seven	O
+insert_47	pre	O
+insert_47	defined	O
+insert_47	transactions	O
+insert_47	that	O
+insert_47	insert	insert_vrb
+insert_47	update	O
+insert_47	delete	O
+insert_47	and	O
+insert_47	query	O
+insert_47	the	O
+insert_47	data	O
+insert_47	in	O
+insert_47	the	O
+insert_47	database	O

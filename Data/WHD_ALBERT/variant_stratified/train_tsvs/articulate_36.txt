@@ -1,0 +1,15 @@
+articulate_36	His	O
+articulate_36	translations	O
+articulate_36	from	O
+articulate_36	Latin	O
+articulate_36	are	O
+articulate_36	still	O
+articulate_36	articulate	articulate_adj
+articulate_36	examples	O
+articulate_36	of	O
+articulate_36	a	O
+articulate_36	good	O
+articulate_36	understanding	O
+articulate_36	of	O
+articulate_36	the	O
+articulate_36	language	O

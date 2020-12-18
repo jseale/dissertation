@@ -1,0 +1,12 @@
+abuse_79	Frank	O
+abuse_79	Church	O
+abuse_79	Warns	O
+abuse_79	of	O
+abuse_79	How	O
+abuse_79	Easily	O
+abuse_79	Government	O
+abuse_79	Can	O
+abuse_79	Abuse	abuse_vrb
+abuse_79	Expanding	O
+abuse_79	Surveillance	O
+abuse_79	Capabilities	O

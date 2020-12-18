@@ -1,0 +1,11 @@
+isolate_26	It	O
+isolate_26	attacked	O
+isolate_26	Hong	O
+isolate_26	Kong	O
+isolate_26	and	O
+isolate_26	Canton	O
+isolate_26	to	O
+isolate_26	isolate	isolate
+isolate_26	Japanese	O
+isolate_26	forces	O
+isolate_26	there	O

@@ -1,0 +1,8 @@
+defect_50	Patent	O
+defect_50	ductus	O
+defect_50	arteriosus	O
+defect_50	is	O
+defect_50	the	O
+defect_50	most	O
+defect_50	common	O
+defect_50	defect	defect_nou

@@ -1,0 +1,14 @@
+conscript_1	They	O
+conscript_1	remain	O
+conscript_1	in	O
+conscript_1	the	O
+conscript_1	rank	O
+conscript_1	of	O
+conscript_1	enlistee	O
+conscript_1	unless	O
+conscript_1	they	O
+conscript_1	complete	O
+conscript_1	the	O
+conscript_1	conscript	conscript_nou
+conscript_1	NCO	O
+conscript_1	course	O

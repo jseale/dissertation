@@ -1,0 +1,10 @@
+discharge_31	The	O
+discharge_31	drain	O
+discharge_31	discharge	discharge_nou
+discharge_31	is	O
+discharge_31	found	O
+discharge_31	from	O
+discharge_31	an	O
+discharge_31	agricultural	O
+discharge_31	water	O
+discharge_31	balance	O

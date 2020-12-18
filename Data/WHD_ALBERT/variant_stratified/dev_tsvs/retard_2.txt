@@ -1,0 +1,17 @@
+retard_2	Indeed	O
+retard_2	nuclear	O
+retard_2	plants	O
+retard_2	are	O
+retard_2	so	O
+retard_2	slow	O
+retard_2	and	O
+retard_2	costly	O
+retard_2	to	O
+retard_2	build	O
+retard_2	that	O
+retard_2	they	O
+retard_2	reduce	O
+retard_2	and	O
+retard_2	retard	retard_vrb
+retard_2	climate	O
+retard_2	protection	O

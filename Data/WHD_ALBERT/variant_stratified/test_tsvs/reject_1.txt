@@ -1,0 +1,17 @@
+reject_1	They	O
+reject_1	look	O
+reject_1	down	O
+reject_1	upon	O
+reject_1	Ron	O
+reject_1	and	O
+reject_1	his	O
+reject_1	friends	O
+reject_1	and	O
+reject_1	reject	reject_vrb
+reject_1	their	O
+reject_1	mother	O
+reject_1	for	O
+reject_1	this	O
+reject_1	socially	O
+reject_1	unacceptable	O
+reject_1	arrangement	O

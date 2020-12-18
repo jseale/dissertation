@@ -1,0 +1,14 @@
+misuse_54	In	O
+misuse_54	theory	O
+misuse_54	misuse	misuse_nou
+misuse_54	detection	O
+misuse_54	assumes	O
+misuse_54	that	O
+misuse_54	abnormal	O
+misuse_54	behaviour	O
+misuse_54	has	O
+misuse_54	a	O
+misuse_54	simple	O
+misuse_54	to	O
+misuse_54	define	O
+misuse_54	model	O

@@ -1,0 +1,16 @@
+implant_19	At	O
+implant_19	present	O
+implant_19	there	O
+implant_19	are	O
+implant_19	no	O
+implant_19	preventative	O
+implant_19	measures	O
+implant_19	known	O
+implant_19	treatment	O
+implant_19	is	O
+implant_19	by	O
+implant_19	hearing	O
+implant_19	aid	O
+implant_19	or	O
+implant_19	surgical	O
+implant_19	implant	implant_nou

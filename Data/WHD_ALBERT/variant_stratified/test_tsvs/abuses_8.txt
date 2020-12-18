@@ -1,0 +1,14 @@
+abuses_8	According	O
+abuses_8	to	O
+abuses_8	the	O
+abuses_8	U.S.	O
+abuses_8	State	O
+abuses_8	Department	O
+abuses_8	major	O
+abuses_8	human	O
+abuses_8	rights	O
+abuses_8	abuses	abuses_nou
+abuses_8	occur	O
+abuses_8	in	O
+abuses_8	the	O
+abuses_8	country	O

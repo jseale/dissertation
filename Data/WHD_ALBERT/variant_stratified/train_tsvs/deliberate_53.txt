@@ -1,0 +1,16 @@
+deliberate_53	The	O
+deliberate_53	Squadron	O
+deliberate_53	saw	O
+deliberate_53	combat	O
+deliberate_53	action	O
+deliberate_53	in	O
+deliberate_53	Operation	O
+deliberate_53	Deliberate	deliberate_adj
+deliberate_53	Force	O
+deliberate_53	Operation	O
+deliberate_53	Deny	O
+deliberate_53	Flight	O
+deliberate_53	and	O
+deliberate_53	Operation	O
+deliberate_53	Decisive	O
+deliberate_53	Endeavor	O

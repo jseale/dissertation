@@ -1,0 +1,9 @@
+learned_18	From	O
+learned_18	these	O
+learned_18	he	O
+learned_18	learned	learned_vrb
+learned_18	about	O
+learned_18	where	O
+learned_18	others	O
+learned_18	were	O
+learned_18	hiding	O

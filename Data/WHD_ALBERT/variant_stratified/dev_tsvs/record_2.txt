@@ -1,0 +1,14 @@
+record_2	We	O
+record_2	're	O
+record_2	already	O
+record_2	getting	O
+record_2	more	O
+record_2	radio	O
+record_2	play	O
+record_2	than	O
+record_2	the	O
+record_2	whole	O
+record_2	of	O
+record_2	the	O
+record_2	last	O
+record_2	record	record_nou

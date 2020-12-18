@@ -1,0 +1,15 @@
+winds_9	After	O
+winds_9	a	O
+winds_9	brief	O
+winds_9	stop	O
+winds_9	at	O
+winds_9	Punta	O
+winds_9	Delgada	O
+winds_9	they	O
+winds_9	encountered	O
+winds_9	heavy	O
+winds_9	seas	O
+winds_9	and	O
+winds_9	gale	O
+winds_9	force	O
+winds_9	winds	winds_nou

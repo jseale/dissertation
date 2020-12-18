@@ -1,0 +1,17 @@
+bass_21	The	O
+bass_21	band	O
+bass_21	's	O
+bass_21	permanent	O
+bass_21	members	O
+bass_21	were	O
+bass_21	Mick	O
+bass_21	Murphy	O
+bass_21	lead	O
+bass_21	vocals	O
+bass_21	Bob	O
+bass_21	Collins	O
+bass_21	guitar	O
+bass_21	and	O
+bass_21	Mark	O
+bass_21	Matthews	O
+bass_21	bass	bass

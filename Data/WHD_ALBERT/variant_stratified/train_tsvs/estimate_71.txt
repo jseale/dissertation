@@ -1,0 +1,14 @@
+estimate_71	Finite	O
+estimate_71	element	O
+estimate_71	analysis	O
+estimate_71	was	O
+estimate_71	used	O
+estimate_71	to	O
+estimate_71	estimate	estimate_vrb
+estimate_71	the	O
+estimate_71	maximum	O
+estimate_71	bite	O
+estimate_71	force	O
+estimate_71	of	O
+estimate_71	J.	O
+estimate_71	monesi	O

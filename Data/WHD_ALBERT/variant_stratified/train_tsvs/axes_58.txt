@@ -1,0 +1,17 @@
+axes_58	However	O
+axes_58	more	O
+axes_58	recent	O
+axes_58	research	O
+axes_58	demonstrated	O
+axes_58	that	O
+axes_58	hand	O
+axes_58	axes	axes_nou-vrb
+axes_58	from	O
+axes_58	Spain	O
+axes_58	were	O
+axes_58	made	O
+axes_58	more	O
+axes_58	than	O
+axes_58	900,000	O
+axes_58	years	O
+axes_58	ago	O

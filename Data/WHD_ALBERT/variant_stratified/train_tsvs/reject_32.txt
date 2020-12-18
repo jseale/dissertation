@@ -1,0 +1,12 @@
+reject_32	One	O
+reject_32	must	O
+reject_32	either	O
+reject_32	reject	reject_vrb
+reject_32	the	O
+reject_32	norm	O
+reject_32	heterosexuality	O
+reject_32	or	O
+reject_32	embrace	O
+reject_32	it	O
+reject_32	full	O
+reject_32	force	O

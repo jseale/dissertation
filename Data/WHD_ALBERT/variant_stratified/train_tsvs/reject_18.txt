@@ -1,0 +1,13 @@
+reject_18	If	O
+reject_18	he	O
+reject_18	answered	O
+reject_18	Yes	O
+reject_18	he	O
+reject_18	would	O
+reject_18	reject	reject_vrb
+reject_18	Dred	O
+reject_18	Scott	O
+reject_18	and	O
+reject_18	would	O
+reject_18	alienate	O
+reject_18	Southerners	O

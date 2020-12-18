@@ -1,0 +1,17 @@
+sow_75	Horses	O
+sow_75	may	O
+sow_75	also	O
+sow_75	experience	O
+sow_75	an	O
+sow_75	overbite	O
+sow_75	brachygnathism	O
+sow_75	parrot	O
+sow_75	mouth	O
+sow_75	or	O
+sow_75	an	O
+sow_75	underbite	O
+sow_75	prognathism	O
+sow_75	sow	sow_nou
+sow_75	mouth	O
+sow_75	monkey	O
+sow_75	mouth	O

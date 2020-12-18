@@ -1,0 +1,17 @@
+discharge_26	As	O
+discharge_26	pulse	O
+discharge_26	discharge	discharge_nou
+discharge_26	capacitors	O
+discharge_26	they	O
+discharge_26	are	O
+discharge_26	useful	O
+discharge_26	in	O
+discharge_26	applications	O
+discharge_26	with	O
+discharge_26	reversing	O
+discharge_26	voltages	O
+discharge_26	such	O
+discharge_26	as	O
+discharge_26	in	O
+discharge_26	magnetizing	O
+discharge_26	equipment	O

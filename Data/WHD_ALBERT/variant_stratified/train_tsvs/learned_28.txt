@@ -1,0 +1,9 @@
+learned_28	The	O
+learned_28	girls	O
+learned_28	learned	learned_vrb
+learned_28	the	O
+learned_28	song	O
+learned_28	Delta	O
+learned_28	Nu	O
+learned_28	Nu	O
+learned_28	Nu	O

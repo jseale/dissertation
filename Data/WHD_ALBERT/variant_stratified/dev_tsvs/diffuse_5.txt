@@ -1,0 +1,16 @@
+diffuse_5	Radiosity	O
+diffuse_5	was	O
+diffuse_5	perhaps	O
+diffuse_5	the	O
+diffuse_5	first	O
+diffuse_5	rendering	O
+diffuse_5	algorithm	O
+diffuse_5	in	O
+diffuse_5	widespread	O
+diffuse_5	use	O
+diffuse_5	which	O
+diffuse_5	accounted	O
+diffuse_5	for	O
+diffuse_5	diffuse	diffuse_adj
+diffuse_5	indirect	O
+diffuse_5	lighting	O

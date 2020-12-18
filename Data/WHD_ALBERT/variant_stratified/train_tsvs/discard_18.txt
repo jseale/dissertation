@@ -1,0 +1,11 @@
+discard_18	All	O
+discard_18	of	O
+discard_18	the	O
+discard_18	revealed	O
+discard_18	cards	O
+discard_18	are	O
+discard_18	put	O
+discard_18	in	O
+discard_18	a	O
+discard_18	discard	discard_nou
+discard_18	pile	O

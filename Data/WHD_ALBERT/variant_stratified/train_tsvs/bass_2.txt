@@ -1,0 +1,13 @@
+bass_2	He	O
+bass_2	also	O
+bass_2	sang	O
+bass_2	bass	bass
+bass_2	on	O
+bass_2	the	O
+bass_2	soundtrack	O
+bass_2	for	O
+bass_2	the	O
+bass_2	The	O
+bass_2	Temptations	O
+bass_2	mini	O
+bass_2	series	O

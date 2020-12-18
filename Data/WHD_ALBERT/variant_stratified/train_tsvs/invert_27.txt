@@ -1,0 +1,15 @@
+invert_27	In	O
+invert_27	1860	O
+invert_27	Marcellin	O
+invert_27	Berthelot	O
+invert_27	isolated	O
+invert_27	invertase	O
+invert_27	and	O
+invert_27	showed	O
+invert_27	that	O
+invert_27	succinic	O
+invert_27	acid	O
+invert_27	did	O
+invert_27	not	O
+invert_27	invert	invert_vrb
+invert_27	sucrose	O

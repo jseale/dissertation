@@ -1,0 +1,14 @@
+read_94	There	O
+read_94	is	O
+read_94	also	O
+read_94	a	O
+read_94	client	O
+read_94	guest	O
+read_94	mode	O
+read_94	which	O
+read_94	works	O
+read_94	like	O
+read_94	a	O
+read_94	read	read_present
+read_94	only	O
+read_94	mode	O

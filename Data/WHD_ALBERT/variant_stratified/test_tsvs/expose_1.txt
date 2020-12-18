@@ -1,0 +1,10 @@
+expose_1	It	O
+expose_1	will	O
+expose_1	reveal	O
+expose_1	secrets	O
+expose_1	and	O
+expose_1	expose	expose_vrb
+expose_1	truths	O
+expose_1	surrounded	O
+expose_1	by	O
+expose_1	silence	O

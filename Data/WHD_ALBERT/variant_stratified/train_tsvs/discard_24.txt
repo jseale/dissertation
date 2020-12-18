@@ -1,0 +1,7 @@
+discard_24	Use	O
+discard_24	the	O
+discard_24	working	O
+discard_24	solution	O
+discard_24	once	O
+discard_24	then	O
+discard_24	discard	discard_vrb

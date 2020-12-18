@@ -1,0 +1,10 @@
+compound_7	Divided	O
+compound_7	and	O
+compound_7	compound	compound_nou
+compound_7	leaves	O
+compound_7	reduce	O
+compound_7	wind	O
+compound_7	resistance	O
+compound_7	and	O
+compound_7	promote	O
+compound_7	cooling	O

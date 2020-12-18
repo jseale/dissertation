@@ -1,0 +1,7 @@
+diffuse_17	The	O
+diffuse_17	gland	O
+diffuse_17	affected	O
+diffuse_17	has	O
+diffuse_17	a	O
+diffuse_17	diffuse	diffuse_adj
+diffuse_17	swelling	O

@@ -1,0 +1,17 @@
+approximate_30	The	O
+approximate_30	book	O
+approximate_30	contains	O
+approximate_30	descriptions	O
+approximate_30	of	O
+approximate_30	surgery	O
+approximate_30	illnesses	O
+approximate_30	medicinal	O
+approximate_30	plants	O
+approximate_30	and	O
+approximate_30	a	O
+approximate_30	detailed	O
+approximate_30	study	O
+approximate_30	on	O
+approximate_30	anatomy	O
+approximate_30	approximate	approximate_adj-nou
+approximate_30	date	O

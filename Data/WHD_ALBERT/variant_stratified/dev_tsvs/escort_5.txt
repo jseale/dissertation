@@ -1,0 +1,14 @@
+escort_5	She	O
+escort_5	served	O
+escort_5	primarily	O
+escort_5	as	O
+escort_5	an	O
+escort_5	ocean	O
+escort_5	convoy	O
+escort_5	escort	escort_nou
+escort_5	in	O
+escort_5	the	O
+escort_5	Battle	O
+escort_5	of	O
+escort_5	the	O
+escort_5	Atlantic	O

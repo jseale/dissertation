@@ -1,0 +1,14 @@
+conscript_12	Regional	O
+conscript_12	commanders	O
+conscript_12	control	O
+conscript_12	and	O
+conscript_12	administer	O
+conscript_12	bases	O
+conscript_12	logistics	O
+conscript_12	and	O
+conscript_12	housing	O
+conscript_12	as	O
+conscript_12	well	O
+conscript_12	as	O
+conscript_12	conscript	conscript_nou
+conscript_12	training	O

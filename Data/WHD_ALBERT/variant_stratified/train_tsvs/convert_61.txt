@@ -1,0 +1,7 @@
+convert_61	Keep	O
+convert_61	can	O
+convert_61	convert	convert_vrb
+convert_61	text	O
+convert_61	notes	O
+convert_61	into	O
+convert_61	checklists	O

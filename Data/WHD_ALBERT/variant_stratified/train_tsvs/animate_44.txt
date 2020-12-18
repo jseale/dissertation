@@ -1,0 +1,12 @@
+animate_44	He	O
+animate_44	uses	O
+animate_44	it	O
+animate_44	to	O
+animate_44	animate	animate_vrb
+animate_44	the	O
+animate_44	wooden	O
+animate_44	Sawhorse	O
+animate_44	for	O
+animate_44	Jack	O
+animate_44	to	O
+animate_44	ride	O

@@ -1,0 +1,11 @@
+separate_16	There	O
+separate_16	are	O
+separate_16	two	O
+separate_16	distinct	O
+separate_16	forms	O
+separate_16	of	O
+separate_16	rowing	O
+separate_16	on	O
+separate_16	two	O
+separate_16	separate	separate_adj
+separate_16	days	O

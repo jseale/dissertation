@@ -1,0 +1,11 @@
+subordinate_76	He	O
+subordinate_76	left	O
+subordinate_76	his	O
+subordinate_76	subordinate	subordinate_adj-nou
+subordinate_76	Jia	O
+subordinate_76	Xun	O
+subordinate_76	賈循	O
+subordinate_76	in	O
+subordinate_76	charge	O
+subordinate_76	of	O
+subordinate_76	Fanyang	O

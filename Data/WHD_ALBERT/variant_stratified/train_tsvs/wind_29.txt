@@ -1,0 +1,14 @@
+wind_29	The	O
+wind_29	line	O
+wind_29	would	O
+wind_29	carry	O
+wind_29	1,000-MW	O
+wind_29	of	O
+wind_29	power	O
+wind_29	from	O
+wind_29	wind	wind_nou
+wind_29	solar	O
+wind_29	and	O
+wind_29	natural	O
+wind_29	gas	O
+wind_29	producers	O

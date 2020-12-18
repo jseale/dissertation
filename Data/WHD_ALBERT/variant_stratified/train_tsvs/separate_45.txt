@@ -1,0 +1,14 @@
+separate_45	Oud	O
+separate_45	Valkenburg	O
+separate_45	was	O
+separate_45	a	O
+separate_45	separate	separate_adj
+separate_45	municipality	O
+separate_45	until	O
+separate_45	1940	O
+separate_45	when	O
+separate_45	it	O
+separate_45	was	O
+separate_45	merged	O
+separate_45	with	O
+separate_45	Valkenburg	O

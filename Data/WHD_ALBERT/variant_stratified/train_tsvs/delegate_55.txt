@@ -1,0 +1,16 @@
+delegate_55	He	O
+delegate_55	was	O
+delegate_55	ordained	O
+delegate_55	by	O
+delegate_55	the	O
+delegate_55	Apostolic	O
+delegate_55	Delegate	delegate_nou
+delegate_55	with	O
+delegate_55	the	O
+delegate_55	orders	O
+delegate_55	of	O
+delegate_55	porter	O
+delegate_55	lector	O
+delegate_55	exorcist	O
+delegate_55	and	O
+delegate_55	acolyte	O

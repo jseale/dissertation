@@ -1,0 +1,12 @@
+record_9	The	O
+record_9	original	O
+record_9	multi	O
+record_9	channel	O
+record_9	recorders	O
+record_9	could	O
+record_9	only	O
+record_9	record	record_vrb
+record_9	all	O
+record_9	tracks	O
+record_9	at	O
+record_9	once	O

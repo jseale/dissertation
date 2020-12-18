@@ -1,0 +1,15 @@
+aggregate_17	He	O
+aggregate_17	has	O
+aggregate_17	currently	O
+aggregate_17	29	O
+aggregate_17	caps	O
+aggregate_17	for	O
+aggregate_17	Georgia	O
+aggregate_17	with	O
+aggregate_17	3	O
+aggregate_17	tries	O
+aggregate_17	scored	O
+aggregate_17	15	O
+aggregate_17	points	O
+aggregate_17	on	O
+aggregate_17	aggregate	aggregate_adj-nou

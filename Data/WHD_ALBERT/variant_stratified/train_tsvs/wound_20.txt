@@ -1,0 +1,14 @@
+wound_20	Nassour	O
+wound_20	committed	O
+wound_20	suicide	O
+wound_20	with	O
+wound_20	a	O
+wound_20	self	O
+wound_20	inflicted	O
+wound_20	knife	O
+wound_20	wound	wound_nou-vrb
+wound_20	to	O
+wound_20	the	O
+wound_20	heart	O
+wound_20	in	O
+wound_20	1962	O

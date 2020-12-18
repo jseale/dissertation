@@ -1,0 +1,15 @@
+lives_1	Lemuel	O
+lives_1	Christopher	O
+lives_1	de	O
+lives_1	Leon	O
+lives_1	has	O
+lives_1	come	O
+lives_1	out	O
+lives_1	of	O
+lives_1	hiding	O
+lives_1	to	O
+lives_1	make	O
+lives_1	their	O
+lives_1	lives	lives_nou
+lives_1	miserables	O
+lives_1	again	O

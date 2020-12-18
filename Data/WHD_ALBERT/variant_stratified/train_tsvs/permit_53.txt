@@ -1,0 +1,16 @@
+permit_53	In	O
+permit_53	between	O
+permit_53	these	O
+permit_53	two	O
+permit_53	poles	O
+permit_53	are	O
+permit_53	systems	O
+permit_53	that	O
+permit_53	permit	permit_vrb
+permit_53	typed	O
+permit_53	and	O
+permit_53	untyped	O
+permit_53	elements	O
+permit_53	to	O
+permit_53	co	O
+permit_53	exist	O

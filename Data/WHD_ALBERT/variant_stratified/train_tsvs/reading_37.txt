@@ -1,0 +1,16 @@
+reading_37	Taylor	O
+reading_37	learned	O
+reading_37	that	O
+reading_37	he	O
+reading_37	was	O
+reading_37	to	O
+reading_37	receive	O
+reading_37	the	O
+reading_37	award	O
+reading_37	in	O
+reading_37	mid	O
+reading_37	December	O
+reading_37	after	O
+reading_37	reading	reading_en
+reading_37	several	O
+reading_37	newspapers	O

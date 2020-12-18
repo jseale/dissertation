@@ -1,0 +1,12 @@
+incline_35	From	O
+incline_35	this	O
+incline_35	point	O
+incline_35	the	O
+incline_35	remains	O
+incline_35	of	O
+incline_35	the	O
+incline_35	incline	incline_nou
+incline_35	extend	O
+incline_35	up	O
+incline_35	to	O
+incline_35	Denniston	O

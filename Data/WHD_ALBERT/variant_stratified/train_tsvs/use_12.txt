@@ -1,0 +1,11 @@
+use_12	It	O
+use_12	is	O
+use_12	also	O
+use_12	available	O
+use_12	for	O
+use_12	use	use_nou
+use_12	by	O
+use_12	other	O
+use_12	institutions	O
+use_12	for	O
+use_12	seminars	O

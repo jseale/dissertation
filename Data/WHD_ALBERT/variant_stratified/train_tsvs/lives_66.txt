@@ -1,0 +1,8 @@
+lives_66	Bork	O
+lives_66	now	O
+lives_66	lives	lives_vrb
+lives_66	and	O
+lives_66	works	O
+lives_66	in	O
+lives_66	Heidelberg	O
+lives_66	Germany	O

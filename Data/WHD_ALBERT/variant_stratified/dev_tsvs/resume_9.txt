@@ -1,0 +1,16 @@
+resume_9	EU	O
+resume_9	Commissioner	O
+resume_9	Louis	O
+resume_9	Michel	O
+resume_9	likewise	O
+resume_9	called	O
+resume_9	for	O
+resume_9	the	O
+resume_9	TFG	O
+resume_9	and	O
+resume_9	ICU	O
+resume_9	to	O
+resume_9	resume	resume_vrb
+resume_9	talks	O
+resume_9	in	O
+resume_9	Khartoum	O

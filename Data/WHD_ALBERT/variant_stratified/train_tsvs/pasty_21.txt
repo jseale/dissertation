@@ -1,0 +1,14 @@
+pasty_21	The	O
+pasty_21	Cornish	O
+pasty_21	pasty	pasty_adj
+pasty_21	from	O
+pasty_21	Cornwall	O
+pasty_21	has	O
+pasty_21	the	O
+pasty_21	same	O
+pasty_21	basic	O
+pasty_21	idea	O
+pasty_21	of	O
+pasty_21	complete	O
+pasty_21	packed	O
+pasty_21	lunch	O

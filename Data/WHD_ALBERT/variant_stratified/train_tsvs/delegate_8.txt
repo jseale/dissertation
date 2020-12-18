@@ -1,0 +1,13 @@
+delegate_8	The	O
+delegate_8	school	O
+delegate_8	delegate	delegate_nou
+delegate_8	was	O
+delegate_8	sent	O
+delegate_8	to	O
+delegate_8	London	O
+delegate_8	and	O
+delegate_8	won	O
+delegate_8	the	O
+delegate_8	international	O
+delegate_8	level	O
+delegate_8	competition	O

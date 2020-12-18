@@ -1,0 +1,17 @@
+permit_77	The	O
+permit_77	KC-135s	O
+permit_77	were	O
+permit_77	redeployed	O
+permit_77	to	O
+permit_77	permit	permit_vrb
+permit_77	increased	O
+permit_77	B-52	O
+permit_77	operations	O
+permit_77	at	O
+permit_77	U	O
+permit_77	Tapao	O
+permit_77	and	O
+permit_77	F-111	O
+permit_77	deployment	O
+permit_77	at	O
+permit_77	Takhli	O

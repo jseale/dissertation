@@ -1,0 +1,13 @@
+uses_9	While	O
+uses_9	Cusanus	O
+uses_9	writes	O
+uses_9	in	O
+uses_9	a	O
+uses_9	Gothic	O
+uses_9	script	O
+uses_9	Bussi	O
+uses_9	uses	uses_vrb
+uses_9	a	O
+uses_9	cursive	O
+uses_9	Humanist	O
+uses_9	minuscule	O

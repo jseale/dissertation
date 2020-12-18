@@ -1,0 +1,16 @@
+incline_3	The	O
+incline_3	quarry	O
+incline_3	was	O
+incline_3	connected	O
+incline_3	to	O
+incline_3	the	O
+incline_3	Croesor	O
+incline_3	Tramway	O
+incline_3	at	O
+incline_3	the	O
+incline_3	foot	O
+incline_3	of	O
+incline_3	the	O
+incline_3	Lower	O
+incline_3	Parc	O
+incline_3	incline	incline_nou

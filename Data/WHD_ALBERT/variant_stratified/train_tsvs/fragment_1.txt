@@ -1,0 +1,15 @@
+fragment_1	This	O
+fragment_1	production	O
+fragment_1	technique	O
+fragment_1	consists	O
+fragment_1	of	O
+fragment_1	taking	O
+fragment_1	a	O
+fragment_1	small	O
+fragment_1	fragment	fragment_nou
+fragment_1	of	O
+fragment_1	sound	O
+fragment_1	and	O
+fragment_1	repeating	O
+fragment_1	it	O
+fragment_1	rhythmically	O

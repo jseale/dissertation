@@ -1,0 +1,9 @@
+degenerate_32	In	O
+degenerate_32	this	O
+degenerate_32	respect	O
+degenerate_32	they	O
+degenerate_32	resemble	O
+degenerate_32	degenerate	degenerate_adj-nou
+degenerate_32	semiconductors	O
+degenerate_32	more	O
+degenerate_32	closely	O

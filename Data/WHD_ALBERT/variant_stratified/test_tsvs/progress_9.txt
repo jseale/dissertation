@@ -1,0 +1,9 @@
+progress_9	Additional	O
+progress_9	attachment	O
+progress_9	slots	O
+progress_9	can	O
+progress_9	be	O
+progress_9	unlocked	O
+progress_9	as	O
+progress_9	players	O
+progress_9	progress	progress_vrb

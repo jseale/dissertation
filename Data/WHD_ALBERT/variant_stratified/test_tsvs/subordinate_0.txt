@@ -1,0 +1,8 @@
+subordinate_0	It	O
+subordinate_0	is	O
+subordinate_0	a	O
+subordinate_0	subordinate	subordinate_adj-nou
+subordinate_0	unit	O
+subordinate_0	of	O
+subordinate_0	I	O
+subordinate_0	Corps	O

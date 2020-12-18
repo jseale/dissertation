@@ -1,0 +1,14 @@
+transform_23	The	O
+transform_23	project	O
+transform_23	sufficiently	O
+transform_23	successful	O
+transform_23	to	O
+transform_23	transform	transform
+transform_23	United	O
+transform_23	Nations	O
+transform_23	strategy	O
+transform_23	and	O
+transform_23	partner	O
+transform_23	with	O
+transform_23	the	O
+transform_23	initiative	O

@@ -1,0 +1,15 @@
+convert_3	It	O
+convert_3	also	O
+convert_3	catalyzes	O
+convert_3	other	O
+convert_3	reactions	O
+convert_3	that	O
+convert_3	convert	convert_vrb
+convert_3	enol	O
+convert_3	ethers	O
+convert_3	dithioacetals	O
+convert_3	and	O
+convert_3	vinyl	O
+convert_3	sulfides	O
+convert_3	to	O
+convert_3	olefins	O

@@ -1,0 +1,10 @@
+mobile_47	It	O
+mobile_47	also	O
+mobile_47	provides	O
+mobile_47	a	O
+mobile_47	round	O
+mobile_47	the	O
+mobile_47	clock	O
+mobile_47	mobile	mobile
+mobile_47	service	O
+mobile_47	support	O

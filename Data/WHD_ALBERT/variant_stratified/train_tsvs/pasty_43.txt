@@ -1,0 +1,15 @@
+pasty_43	The	O
+pasty_43	association	O
+pasty_43	sponsors	O
+pasty_43	the	O
+pasty_43	World	O
+pasty_43	Pasty	pasty_adj
+pasty_43	Championships	O
+pasty_43	an	O
+pasty_43	annual	O
+pasty_43	event	O
+pasty_43	held	O
+pasty_43	at	O
+pasty_43	the	O
+pasty_43	Eden	O
+pasty_43	Project	O

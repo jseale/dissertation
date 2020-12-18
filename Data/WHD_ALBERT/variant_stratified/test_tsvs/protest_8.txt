@@ -1,0 +1,14 @@
+protest_8	Another	O
+protest_8	For	O
+protest_8	Fair	O
+protest_8	Elections	O
+protest_8	protest	protest_nou
+protest_8	was	O
+protest_8	staged	O
+protest_8	on	O
+protest_8	the	O
+protest_8	Novy	O
+protest_8	Arbat	O
+protest_8	street	O
+protest_8	in	O
+protest_8	Moscow	O

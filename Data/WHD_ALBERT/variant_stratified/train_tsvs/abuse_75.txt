@@ -1,0 +1,14 @@
+abuse_75	In	O
+abuse_75	Tante	O
+abuse_75	Sun	O
+abuse_75	satirize	O
+abuse_75	state	O
+abuse_75	official	O
+abuse_75	wives	O
+abuse_75	who	O
+abuse_75	abuse	abuse_vrb
+abuse_75	the	O
+abuse_75	authority	O
+abuse_75	of	O
+abuse_75	their	O
+abuse_75	husbands	O

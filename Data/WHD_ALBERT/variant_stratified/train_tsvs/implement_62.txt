@@ -1,0 +1,11 @@
+implement_62	Similar	O
+implement_62	effects	O
+implement_62	are	O
+implement_62	easily	O
+implement_62	implement	implement_vrb
+implement_62	on	O
+implement_62	modern	O
+implement_62	GPUs	O
+implement_62	in	O
+implement_62	pixel	O
+implement_62	shaders	O

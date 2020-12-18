@@ -1,0 +1,13 @@
+intrigue_45	Novel	O
+intrigue_45	about	O
+intrigue_45	terrorism	O
+intrigue_45	intrigue	intrigue_nou
+intrigue_45	and	O
+intrigue_45	also	O
+intrigue_45	a	O
+intrigue_45	story	O
+intrigue_45	of	O
+intrigue_45	love	O
+intrigue_45	in	O
+intrigue_45	Madrid	O
+intrigue_45	downtown	O

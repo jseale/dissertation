@@ -1,0 +1,17 @@
+attribute_7	Textual	O
+attribute_7	scholars	O
+attribute_7	attribute	attribute_vrb
+attribute_7	the	O
+attribute_7	description	O
+attribute_7	of	O
+attribute_7	Gershom	O
+attribute_7	to	O
+attribute_7	a	O
+attribute_7	different	O
+attribute_7	source	O
+attribute_7	text	O
+attribute_7	to	O
+attribute_7	the	O
+attribute_7	genealogy	O
+attribute_7	involving	O
+attribute_7	Gershom	O

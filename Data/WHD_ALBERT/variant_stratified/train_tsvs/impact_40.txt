@@ -1,0 +1,15 @@
+impact_40	Its	O
+impact_40	overall	O
+impact_40	impact	impact_nou
+impact_40	however	O
+impact_40	was	O
+impact_40	insufficient	O
+impact_40	to	O
+impact_40	reverse	O
+impact_40	the	O
+impact_40	tide	O
+impact_40	of	O
+impact_40	action	O
+impact_40	in	O
+impact_40	the	O
+impact_40	streets	O

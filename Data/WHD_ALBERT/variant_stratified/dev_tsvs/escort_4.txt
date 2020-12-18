@@ -1,0 +1,9 @@
+escort_4	The	O
+escort_4	convoy	O
+escort_4	escort	escort_nou
+escort_4	ships	O
+escort_4	immediately	O
+escort_4	launched	O
+escort_4	heavy	O
+escort_4	counter	O
+escort_4	attacks	O

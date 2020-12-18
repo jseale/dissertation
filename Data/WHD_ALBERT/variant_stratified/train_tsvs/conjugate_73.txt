@@ -1,0 +1,12 @@
+conjugate_73	The	O
+conjugate_73	Lanczos	O
+conjugate_73	and	O
+conjugate_73	Conjugate	conjugate_adj-nou
+conjugate_73	Gradient	O
+conjugate_73	Algorithms	O
+conjugate_73	From	O
+conjugate_73	Theory	O
+conjugate_73	to	O
+conjugate_73	Finite	O
+conjugate_73	Precision	O
+conjugate_73	Computations	O

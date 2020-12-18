@@ -1,0 +1,16 @@
+wind_5	Studies	O
+wind_5	are	O
+wind_5	often	O
+wind_5	required	O
+wind_5	to	O
+wind_5	ensure	O
+wind_5	that	O
+wind_5	pedestrian	O
+wind_5	wind	wind_nou
+wind_5	comfort	O
+wind_5	and	O
+wind_5	wind	wind_nou
+wind_5	danger	O
+wind_5	concerns	O
+wind_5	are	O
+wind_5	addressed	O

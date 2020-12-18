@@ -1,0 +1,11 @@
+convert_1	Haxe	O
+convert_1	can	O
+convert_1	automatically	O
+convert_1	convert	convert_vrb
+convert_1	miles	O
+convert_1	to	O
+convert_1	kilometers	O
+convert_1	but	O
+convert_1	not	O
+convert_1	the	O
+convert_1	reverse	O

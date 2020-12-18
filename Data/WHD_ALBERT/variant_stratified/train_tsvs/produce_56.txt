@@ -1,0 +1,11 @@
+produce_56	Selling	O
+produce_56	index	O
+produce_56	options	O
+produce_56	12	O
+produce_56	times	O
+produce_56	per	O
+produce_56	year	O
+produce_56	can	O
+produce_56	produce	produce_vrb
+produce_56	significant	O
+produce_56	income	O

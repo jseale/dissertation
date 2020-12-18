@@ -1,0 +1,14 @@
+impact_9	Currently	O
+impact_9	imposing	O
+impact_9	a	O
+impact_9	second	O
+impact_9	adjacent	O
+impact_9	channel	O
+impact_9	restriction	O
+impact_9	would	O
+impact_9	impact	impact_vrb
+impact_9	less	O
+impact_9	than	O
+impact_9	10	O
+impact_9	LPFM	O
+impact_9	stations	O

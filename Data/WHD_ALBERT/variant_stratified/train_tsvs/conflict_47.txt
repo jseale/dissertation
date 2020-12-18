@@ -1,0 +1,8 @@
+conflict_47	Most	O
+conflict_47	represented	O
+conflict_47	compromises	O
+conflict_47	designed	O
+conflict_47	to	O
+conflict_47	avert	O
+conflict_47	military	O
+conflict_47	conflict	conflict_nou

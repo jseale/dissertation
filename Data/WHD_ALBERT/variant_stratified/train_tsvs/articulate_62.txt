@@ -1,0 +1,16 @@
+articulate_62	This	O
+articulate_62	encourages	O
+articulate_62	the	O
+articulate_62	exchange	O
+articulate_62	of	O
+articulate_62	many	O
+articulate_62	new	O
+articulate_62	ideas	O
+articulate_62	and	O
+articulate_62	provides	O
+articulate_62	a	O
+articulate_62	spot	O
+articulate_62	to	O
+articulate_62	articulate	articulate_vrb
+articulate_62	problem	O
+articulate_62	issues	O

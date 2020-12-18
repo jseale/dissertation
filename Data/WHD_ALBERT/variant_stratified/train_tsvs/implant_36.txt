@@ -1,0 +1,15 @@
+implant_36	The	O
+implant_36	implant	implant_nou
+implant_36	does	O
+implant_36	not	O
+implant_36	require	O
+implant_36	open	O
+implant_36	heart	O
+implant_36	surgery	O
+implant_36	and	O
+implant_36	does	O
+implant_36	not	O
+implant_36	need	O
+implant_36	to	O
+implant_36	be	O
+implant_36	replaced	O

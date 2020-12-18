@@ -1,0 +1,14 @@
+laminate_3	Hugo	O
+laminate_3	Junkers	O
+laminate_3	first	O
+laminate_3	explored	O
+laminate_3	the	O
+laminate_3	idea	O
+laminate_3	of	O
+laminate_3	a	O
+laminate_3	honeycomb	O
+laminate_3	core	O
+laminate_3	within	O
+laminate_3	a	O
+laminate_3	laminate	laminate_nou
+laminate_3	structure	O

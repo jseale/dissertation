@@ -1,0 +1,14 @@
+axes_4	One	O
+axes_4	specifies	O
+axes_4	the	O
+axes_4	rectilinear	O
+axes_4	distances	O
+axes_4	of	O
+axes_4	any	O
+axes_4	point	O
+axes_4	from	O
+axes_4	the	O
+axes_4	axes	axes_nou
+axes_4	as	O
+axes_4	the	O
+axes_4	coordinates	O

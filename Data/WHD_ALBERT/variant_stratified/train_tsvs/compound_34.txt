@@ -1,0 +1,17 @@
+compound_34	The	O
+compound_34	head	O
+compound_34	has	O
+compound_34	a	O
+compound_34	pair	O
+compound_34	of	O
+compound_34	long	O
+compound_34	slender	O
+compound_34	antennae	O
+compound_34	two	O
+compound_34	large	O
+compound_34	compound	compound_nou
+compound_34	eyes	O
+compound_34	and	O
+compound_34	two	O
+compound_34	protuberant	O
+compound_34	ocelli	O

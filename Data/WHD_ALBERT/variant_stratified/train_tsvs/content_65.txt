@@ -1,0 +1,12 @@
+content_65	The	O
+content_65	content	content_nou
+content_65	of	O
+content_65	Commercial	O
+content_65	Motor	O
+content_65	consists	O
+content_65	of	O
+content_65	editorial	O
+content_65	followed	O
+content_65	by	O
+content_65	classified	O
+content_65	advertising	O

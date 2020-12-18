@@ -1,0 +1,17 @@
+frequent_46	It	O
+frequent_46	is	O
+frequent_46	developed	O
+frequent_46	in	O
+frequent_46	various	O
+frequent_46	keys	O
+frequent_46	with	O
+frequent_46	frequent	frequent_adj
+frequent_46	modulations	O
+frequent_46	into	O
+frequent_46	the	O
+frequent_46	minor	O
+frequent_46	and	O
+frequent_46	to	O
+frequent_46	other	O
+frequent_46	remote	O
+frequent_46	keys	O

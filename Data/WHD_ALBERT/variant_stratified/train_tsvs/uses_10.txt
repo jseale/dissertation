@@ -1,0 +1,10 @@
+uses_10	Gabe	O
+uses_10	is	O
+uses_10	a	O
+uses_10	genius	O
+uses_10	of	O
+uses_10	technology	O
+uses_10	and	O
+uses_10	uses	uses_vrb
+uses_10	a	O
+uses_10	handheld	O

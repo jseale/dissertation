@@ -1,0 +1,16 @@
+discard_54	The	O
+discard_54	society	O
+discard_54	helped	O
+discard_54	her	O
+discard_54	to	O
+discard_54	discard	discard_vrb
+discard_54	traditional	O
+discard_54	values	O
+discard_54	and	O
+discard_54	develop	O
+discard_54	her	O
+discard_54	own	O
+discard_54	feminist	O
+discard_54	mode	O
+discard_54	of	O
+discard_54	thought	O

@@ -1,0 +1,15 @@
+graduate_1	In	O
+graduate_1	2009	O
+graduate_1	with	O
+graduate_1	the	O
+graduate_1	addition	O
+graduate_1	of	O
+graduate_1	graduate	graduate_adj-nou
+graduate_1	programs	O
+graduate_1	the	O
+graduate_1	company	O
+graduate_1	was	O
+graduate_1	renamed	O
+graduate_1	to	O
+graduate_1	Herzing	O
+graduate_1	University	O

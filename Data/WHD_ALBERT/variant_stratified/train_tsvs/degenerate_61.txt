@@ -1,0 +1,13 @@
+degenerate_61	Of	O
+degenerate_61	course	O
+degenerate_61	backface	O
+degenerate_61	culling	O
+degenerate_61	can	O
+degenerate_61	not	O
+degenerate_61	be	O
+degenerate_61	used	O
+degenerate_61	with	O
+degenerate_61	degenerate	degenerate_adj-nou
+degenerate_61	and	O
+degenerate_61	unclosed	O
+degenerate_61	volumes	O

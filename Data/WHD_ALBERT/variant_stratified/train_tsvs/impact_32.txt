@@ -1,0 +1,13 @@
+impact_32	Before	O
+impact_32	that	O
+impact_32	though	O
+impact_32	the	O
+impact_32	duo	O
+impact_32	faced	O
+impact_32	off	O
+impact_32	against	O
+impact_32	Mexican	O
+impact_32	America	O
+impact_32	on	O
+impact_32	Impact	impact_nou
+impact_32	Wrestling	O

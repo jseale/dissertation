@@ -1,0 +1,10 @@
+present_55	At	O
+present_55	present	present_adj-nou
+present_55	their	O
+present_55	remains	O
+present_55	lie	O
+present_55	within	O
+present_55	the	O
+present_55	Manila	O
+present_55	North	O
+present_55	Cemetery	O

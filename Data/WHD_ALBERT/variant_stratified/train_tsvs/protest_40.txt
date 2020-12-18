@@ -1,0 +1,17 @@
+protest_40	It	O
+protest_40	is	O
+protest_40	thought	O
+protest_40	that	O
+protest_40	many	O
+protest_40	unionists	O
+protest_40	voted	O
+protest_40	for	O
+protest_40	Alliance	O
+protest_40	as	O
+protest_40	a	O
+protest_40	protest	protest_nou
+protest_40	at	O
+protest_40	Robinson	O
+protest_40	's	O
+protest_40	financial	O
+protest_40	misdealings	O

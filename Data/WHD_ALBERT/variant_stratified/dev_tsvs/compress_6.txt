@@ -1,0 +1,10 @@
+compress_6	Two	O
+compress_6	rollers	O
+compress_6	then	O
+compress_6	compress	compress
+compress_6	the	O
+compress_6	powder	O
+compress_6	through	O
+compress_6	the	O
+compress_6	die	O
+compress_6	holes	O

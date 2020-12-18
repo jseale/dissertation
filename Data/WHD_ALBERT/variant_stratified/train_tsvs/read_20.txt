@@ -1,0 +1,16 @@
+read_20	During	O
+read_20	the	O
+read_20	service	O
+read_20	a	O
+read_20	passage	O
+read_20	from	O
+read_20	St	O
+read_20	John	O
+read_20	's	O
+read_20	Gospel	O
+read_20	was	O
+read_20	read	read_past
+read_20	by	O
+read_20	grandson	O
+read_20	Simon	O
+read_20	Shilston	O

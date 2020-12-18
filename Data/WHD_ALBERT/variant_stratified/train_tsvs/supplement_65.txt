@@ -1,0 +1,15 @@
+supplement_65	After	O
+supplement_65	selection	O
+supplement_65	the	O
+supplement_65	students	O
+supplement_65	are	O
+supplement_65	taught	O
+supplement_65	to	O
+supplement_65	supplement	supplement_vrb
+supplement_65	their	O
+supplement_65	training	O
+supplement_65	in	O
+supplement_65	French	O
+supplement_65	language	O
+supplement_65	and	O
+supplement_65	civilization	O

@@ -1,0 +1,9 @@
+conduct_32	Supervision	O
+conduct_32	over	O
+conduct_32	the	O
+conduct_32	rules	O
+conduct_32	of	O
+conduct_32	conduct	conduct_nou
+conduct_32	in	O
+conduct_32	the	O
+conduct_32	IDF	O

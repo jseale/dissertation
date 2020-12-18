@@ -1,0 +1,17 @@
+abuses_65	Human	O
+abuses_65	rights	O
+abuses_65	abuses	abuses_nou
+abuses_65	in	O
+abuses_65	Jammu	O
+abuses_65	and	O
+abuses_65	Kashmir	O
+abuses_65	a	O
+abuses_65	disputed	O
+abuses_65	territory	O
+abuses_65	administered	O
+abuses_65	by	O
+abuses_65	India	O
+abuses_65	are	O
+abuses_65	an	O
+abuses_65	ongoing	O
+abuses_65	issue	O

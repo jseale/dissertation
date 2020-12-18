@@ -1,0 +1,15 @@
+present_62	The	O
+present_62	present	present_adj-nou
+present_62	church	O
+present_62	was	O
+present_62	re	O
+present_62	erected	O
+present_62	in	O
+present_62	1908	O
+present_62	with	O
+present_62	the	O
+present_62	collapse	O
+present_62	of	O
+present_62	the	O
+present_62	former	O
+present_62	structure	O

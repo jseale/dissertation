@@ -1,0 +1,14 @@
+separate_28	The	O
+separate_28	school	O
+separate_28	also	O
+separate_28	has	O
+separate_28	a	O
+separate_28	separate	separate_adj
+separate_28	junior	O
+separate_28	wing	O
+separate_28	for	O
+separate_28	classes	O
+separate_28	up	O
+separate_28	to	O
+separate_28	5th	O
+separate_28	standard	O

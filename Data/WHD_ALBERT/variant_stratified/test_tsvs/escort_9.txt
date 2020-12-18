@@ -1,0 +1,13 @@
+escort_9	After	O
+escort_9	the	O
+escort_9	battle	O
+escort_9	the	O
+escort_9	squadron	O
+escort_9	helped	O
+escort_9	to	O
+escort_9	escort	escort_vrb
+escort_9	the	O
+escort_9	crippled	O
+escort_9	battlecruiser	O
+escort_9	Lion	O
+escort_9	home	O

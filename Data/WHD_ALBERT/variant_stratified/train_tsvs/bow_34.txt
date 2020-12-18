@@ -1,0 +1,14 @@
+bow_34	He	O
+bow_34	is	O
+bow_34	exceptionally	O
+bow_34	skilled	O
+bow_34	with	O
+bow_34	a	O
+bow_34	short	O
+bow_34	bow	bow_nou-knot
+bow_34	and	O
+bow_34	arrow	O
+bow_34	from	O
+bow_34	a	O
+bow_34	short	O
+bow_34	distance	O

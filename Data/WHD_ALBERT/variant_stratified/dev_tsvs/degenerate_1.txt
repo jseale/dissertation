@@ -1,0 +1,9 @@
+degenerate_1	The	O
+degenerate_1	non	O
+degenerate_1	degenerate	degenerate_adj-nou
+degenerate_1	cylindrical	O
+degenerate_1	sections	O
+degenerate_1	are	O
+degenerate_1	ellipses	O
+degenerate_1	or	O
+degenerate_1	circles	O

@@ -1,0 +1,17 @@
+tear_48	He	O
+tear_48	was	O
+tear_48	picked	O
+tear_48	as	O
+tear_48	one	O
+tear_48	of	O
+tear_48	Tear	tear_vrb
+tear_48	Sheet	O
+tear_48	magazine	O
+tear_48	's	O
+tear_48	50	O
+tear_48	Most	O
+tear_48	Beautiful	O
+tear_48	Faces	O
+tear_48	of	O
+tear_48	October	O
+tear_48	2001	O

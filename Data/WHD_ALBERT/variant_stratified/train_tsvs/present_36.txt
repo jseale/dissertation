@@ -1,0 +1,9 @@
+present_36	The	O
+present_36	past	O
+present_36	exists	O
+present_36	in	O
+present_36	easy	O
+present_36	harmony	O
+present_36	with	O
+present_36	the	O
+present_36	present	present_adj-nou

@@ -1,0 +1,17 @@
+laminate_2	The	O
+laminate_2	laminate	laminate_nou
+laminate_2	blade	O
+laminate_2	is	O
+laminate_2	deeply	O
+laminate_2	divided	O
+laminate_2	into	O
+laminate_2	linear	O
+laminate_2	segments	O
+laminate_2	and	O
+laminate_2	is	O
+laminate_2	yellowish	O
+laminate_2	brown	O
+laminate_2	with	O
+laminate_2	large	O
+laminate_2	digitate	O
+laminate_2	segments	O

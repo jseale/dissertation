@@ -1,0 +1,17 @@
+laminate_59	Laminate	laminate_nou
+laminate_59	flooring	O
+laminate_59	is	O
+laminate_59	available	O
+laminate_59	in	O
+laminate_59	many	O
+laminate_59	different	O
+laminate_59	patterns	O
+laminate_59	which	O
+laminate_59	can	O
+laminate_59	resemble	O
+laminate_59	different	O
+laminate_59	woods	O
+laminate_59	or	O
+laminate_59	even	O
+laminate_59	ceramic	O
+laminate_59	tile	O

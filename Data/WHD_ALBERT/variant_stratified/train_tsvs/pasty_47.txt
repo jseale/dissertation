@@ -1,0 +1,14 @@
+pasty_47	It	O
+pasty_47	derives	O
+pasty_47	from	O
+pasty_47	the	O
+pasty_47	post	O
+pasty_47	classical	O
+pasty_47	Latin	O
+pasty_47	pasticium	O
+pasty_47	13th	O
+pasty_47	century	O
+pasty_47	a	O
+pasty_47	pie	O
+pasty_47	or	O
+pasty_47	pasty	pasty_adj

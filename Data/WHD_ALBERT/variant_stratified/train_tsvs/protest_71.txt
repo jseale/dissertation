@@ -1,0 +1,13 @@
+protest_71	During	O
+protest_71	the	O
+protest_71	1960s	O
+protest_71	the	O
+protest_71	UNC	O
+protest_71	campus	O
+protest_71	was	O
+protest_71	the	O
+protest_71	location	O
+protest_71	of	O
+protest_71	significant	O
+protest_71	political	O
+protest_71	protest	protest_nou

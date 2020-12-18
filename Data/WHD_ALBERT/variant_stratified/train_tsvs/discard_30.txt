@@ -1,0 +1,14 @@
+discard_30	Each	O
+discard_30	CobraNet	O
+discard_30	device	O
+discard_30	individually	O
+discard_30	determines	O
+discard_30	if	O
+discard_30	it	O
+discard_30	will	O
+discard_30	use	O
+discard_30	the	O
+discard_30	bundle	O
+discard_30	or	O
+discard_30	discard	discard_vrb
+discard_30	it	O

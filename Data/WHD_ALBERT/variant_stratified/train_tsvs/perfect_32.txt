@@ -1,0 +1,12 @@
+perfect_32	It	O
+perfect_32	was	O
+perfect_32	a	O
+perfect_32	perfect	perfect_adj
+perfect_32	time	O
+perfect_32	for	O
+perfect_32	me	O
+perfect_32	to	O
+perfect_32	hear	O
+perfect_32	that	O
+perfect_32	brilliant	O
+perfect_32	band	O

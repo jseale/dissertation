@@ -1,0 +1,12 @@
+import_14	There	O
+import_14	is	O
+import_14	a	O
+import_14	national	O
+import_14	sales	O
+import_14	office	O
+import_14	and	O
+import_14	import	import_nou
+import_14	administration	O
+import_14	office	O
+import_14	in	O
+import_14	Auckland	O

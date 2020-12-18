@@ -1,0 +1,15 @@
+transform_26	Solomon	O
+transform_26	stated	O
+transform_26	her	O
+transform_26	organization	O
+transform_26	aimed	O
+transform_26	to	O
+transform_26	transform	transform
+transform_26	the	O
+transform_26	historic	O
+transform_26	building	O
+transform_26	into	O
+transform_26	a	O
+transform_26	new	O
+transform_26	arts	O
+transform_26	center	O

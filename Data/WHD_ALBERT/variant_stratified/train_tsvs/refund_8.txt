@@ -1,0 +1,17 @@
+refund_8	They	O
+refund_8	reluctantly	O
+refund_8	agree	O
+refund_8	to	O
+refund_8	stay	O
+refund_8	after	O
+refund_8	Fiddler	O
+refund_8	refuses	O
+refund_8	a	O
+refund_8	refund	refund_nou
+refund_8	and	O
+refund_8	the	O
+refund_8	girls	O
+refund_8	approve	O
+refund_8	of	O
+refund_8	the	O
+refund_8	place	O

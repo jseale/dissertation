@@ -1,0 +1,15 @@
+correlate_3	The	O
+correlate_3	lightness	O
+correlate_3	correlate	correlate_nou
+correlate_3	in	O
+correlate_3	CIELAB	O
+correlate_3	is	O
+correlate_3	calculated	O
+correlate_3	using	O
+correlate_3	the	O
+correlate_3	cube	O
+correlate_3	root	O
+correlate_3	of	O
+correlate_3	the	O
+correlate_3	relative	O
+correlate_3	luminance	O

@@ -1,0 +1,15 @@
+blessed_52	Barakhel	O
+blessed_52	or	O
+blessed_52	Barakel	O
+blessed_52	blessed	blessed_vrb
+blessed_52	by	O
+blessed_52	El	O
+blessed_52	was	O
+blessed_52	a	O
+blessed_52	king	O
+blessed_52	of	O
+blessed_52	Ammon	O
+blessed_52	in	O
+blessed_52	the	O
+blessed_52	670s	O
+blessed_52	BCE	O

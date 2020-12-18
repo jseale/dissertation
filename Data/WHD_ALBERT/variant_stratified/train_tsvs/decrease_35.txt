@@ -1,0 +1,15 @@
+decrease_35	Patients	O
+decrease_35	affected	O
+decrease_35	by	O
+decrease_35	ADT	O
+decrease_35	tachyphylaxis	O
+decrease_35	experience	O
+decrease_35	a	O
+decrease_35	noticeably	O
+decrease_35	sudden	O
+decrease_35	progressive	O
+decrease_35	decrease	decrease_nou
+decrease_35	in	O
+decrease_35	response	O
+decrease_35	to	O
+decrease_35	SSRIs	O

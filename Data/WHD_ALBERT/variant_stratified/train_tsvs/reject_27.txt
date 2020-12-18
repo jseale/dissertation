@@ -1,0 +1,14 @@
+reject_27	But	O
+reject_27	you	O
+reject_27	do	O
+reject_27	n't	O
+reject_27	want	O
+reject_27	to	O
+reject_27	push	O
+reject_27	too	O
+reject_27	hard	O
+reject_27	or	O
+reject_27	they	O
+reject_27	'll	O
+reject_27	reject	reject_vrb
+reject_27	it	O

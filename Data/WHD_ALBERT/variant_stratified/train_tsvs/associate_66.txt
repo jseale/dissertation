@@ -1,0 +1,11 @@
+associate_66	Associate	associate_adj-nou
+associate_66	schools	O
+associate_66	provide	O
+associate_66	opportunities	O
+associate_66	for	O
+associate_66	complementary	O
+associate_66	and	O
+associate_66	contrasting	O
+associate_66	school	O
+associate_66	based	O
+associate_66	training	O

@@ -1,0 +1,14 @@
+winds_69	The	O
+winds_69	strong	O
+winds_69	winds	winds_nou
+winds_69	from	O
+winds_69	Percy	O
+winds_69	knocked	O
+winds_69	out	O
+winds_69	power	O
+winds_69	and	O
+winds_69	communications	O
+winds_69	infrastructure	O
+winds_69	in	O
+winds_69	Swains	O
+winds_69	Island	O

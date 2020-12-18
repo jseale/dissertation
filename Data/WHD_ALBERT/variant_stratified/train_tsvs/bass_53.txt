@@ -1,0 +1,11 @@
+bass_53	Bruno	O
+bass_53	plays	O
+bass_53	upright	O
+bass_53	bass	bass
+bass_53	guitar	O
+bass_53	a	O
+bass_53	little	O
+bass_53	banjo	O
+bass_53	ukulele	O
+bass_53	and	O
+bass_53	mandolin	O

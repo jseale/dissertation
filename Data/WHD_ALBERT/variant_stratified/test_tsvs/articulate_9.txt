@@ -1,0 +1,9 @@
+articulate_9	Greenberg	O
+articulate_9	helped	O
+articulate_9	to	O
+articulate_9	articulate	articulate_vrb
+articulate_9	a	O
+articulate_9	concept	O
+articulate_9	of	O
+articulate_9	medium	O
+articulate_9	specificity	O

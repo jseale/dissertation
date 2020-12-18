@@ -1,0 +1,15 @@
+syndicate_37	This	O
+syndicate_37	theme	O
+syndicate_37	is	O
+syndicate_37	made	O
+syndicate_37	manifest	O
+syndicate_37	by	O
+syndicate_37	the	O
+syndicate_37	Syndicate	syndicate_nou
+syndicate_37	and	O
+syndicate_37	the	O
+syndicate_37	human	O
+syndicate_37	conspiracy	O
+syndicate_37	with	O
+syndicate_37	the	O
+syndicate_37	aliens	O

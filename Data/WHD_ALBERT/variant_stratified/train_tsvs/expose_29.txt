@@ -1,0 +1,17 @@
+expose_29	The	O
+expose_29	player	O
+expose_29	then	O
+expose_29	receives	O
+expose_29	a	O
+expose_29	third	O
+expose_29	card	O
+expose_29	and	O
+expose_29	must	O
+expose_29	immediately	O
+expose_29	expose	expose_vrb
+expose_29	another	O
+expose_29	card	O
+expose_29	in	O
+expose_29	his	O
+expose_29	her	O
+expose_29	hand	O

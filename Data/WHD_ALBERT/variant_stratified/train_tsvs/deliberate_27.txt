@@ -1,0 +1,14 @@
+deliberate_27	This	O
+deliberate_27	calls	O
+deliberate_27	into	O
+deliberate_27	question	O
+deliberate_27	the	O
+deliberate_27	idea	O
+deliberate_27	of	O
+deliberate_27	Ferdowsi	O
+deliberate_27	's	O
+deliberate_27	deliberate	deliberate_adj
+deliberate_27	eschewing	O
+deliberate_27	of	O
+deliberate_27	Arabic	O
+deliberate_27	words	O

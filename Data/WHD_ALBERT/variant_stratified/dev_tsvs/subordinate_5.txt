@@ -1,0 +1,12 @@
+subordinate_5	It	O
+subordinate_5	is	O
+subordinate_5	subordinate	subordinate_adj-nou
+subordinate_5	to	O
+subordinate_5	St	O
+subordinate_5	Mary	O
+subordinate_5	's	O
+subordinate_5	parish	O
+subordinate_5	church	O
+subordinate_5	at	O
+subordinate_5	West	O
+subordinate_5	Dean	O

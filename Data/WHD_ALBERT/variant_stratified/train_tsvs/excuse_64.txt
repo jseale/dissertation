@@ -1,0 +1,13 @@
+excuse_64	He	O
+excuse_64	apparently	O
+excuse_64	used	O
+excuse_64	that	O
+excuse_64	as	O
+excuse_64	an	O
+excuse_64	excuse	excuse_nou
+excuse_64	to	O
+excuse_64	carry	O
+excuse_64	out	O
+excuse_64	his	O
+excuse_64	evil	O
+excuse_64	deeds	O

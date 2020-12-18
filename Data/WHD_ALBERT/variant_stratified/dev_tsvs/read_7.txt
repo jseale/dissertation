@@ -1,0 +1,13 @@
+read_7	For	O
+read_7	whatever	O
+read_7	reason	O
+read_7	MIT	O
+read_7	audiences	O
+read_7	would	O
+read_7	spontaneously	O
+read_7	read	read_present
+read_7	the	O
+read_7	announcements	O
+read_7	aloud	O
+read_7	in	O
+read_7	unison	O

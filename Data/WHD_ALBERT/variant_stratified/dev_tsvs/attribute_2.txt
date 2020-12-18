@@ -1,0 +1,11 @@
+attribute_2	However	O
+attribute_2	its	O
+attribute_2	productivity	O
+attribute_2	is	O
+attribute_2	an	O
+attribute_2	attribute	attribute_nou
+attribute_2	of	O
+attribute_2	individual	O
+attribute_2	nouns	O
+attribute_2	and	O
+attribute_2	verbs	O

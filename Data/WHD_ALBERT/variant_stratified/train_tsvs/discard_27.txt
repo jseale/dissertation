@@ -1,0 +1,17 @@
+discard_27	He	O
+discard_27	took	O
+discard_27	a	O
+discard_27	leading	O
+discard_27	part	O
+discard_27	in	O
+discard_27	the	O
+discard_27	vestiarian	O
+discard_27	controversy	O
+discard_27	and	O
+discard_27	persuaded	O
+discard_27	the	O
+discard_27	college	O
+discard_27	to	O
+discard_27	discard	discard_vrb
+discard_27	the	O
+discard_27	surplice	O

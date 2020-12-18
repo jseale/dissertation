@@ -1,0 +1,15 @@
+conduct_65	This	O
+conduct_65	prompted	O
+conduct_65	her	O
+conduct_65	to	O
+conduct_65	conduct	conduct_vrb
+conduct_65	extensive	O
+conduct_65	research	O
+conduct_65	about	O
+conduct_65	women	O
+conduct_65	and	O
+conduct_65	their	O
+conduct_65	place	O
+conduct_65	in	O
+conduct_65	music	O
+conduct_65	history	O

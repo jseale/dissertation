@@ -1,0 +1,11 @@
+postulate_72	He	O
+postulate_72	was	O
+postulate_72	also	O
+postulate_72	first	O
+postulate_72	to	O
+postulate_72	postulate	postulate_vrb
+postulate_72	the	O
+postulate_72	dark	O
+postulate_72	night	O
+postulate_72	sky	O
+postulate_72	paradox	O

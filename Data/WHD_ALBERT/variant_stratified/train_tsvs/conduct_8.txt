@@ -1,0 +1,17 @@
+conduct_8	She	O
+conduct_8	was	O
+conduct_8	released	O
+conduct_8	in	O
+conduct_8	early	O
+conduct_8	January	O
+conduct_8	2007	O
+conduct_8	a	O
+conduct_8	year	O
+conduct_8	earlier	O
+conduct_8	than	O
+conduct_8	her	O
+conduct_8	original	O
+conduct_8	sentence	O
+conduct_8	for	O
+conduct_8	good	O
+conduct_8	conduct	conduct_nou

@@ -1,0 +1,16 @@
+insult_9	She	O
+insult_9	saw	O
+insult_9	this	O
+insult_9	as	O
+insult_9	an	O
+insult_9	insult	insult_nou
+insult_9	as	O
+insult_9	the	O
+insult_9	Shokan	O
+insult_9	and	O
+insult_9	Centaurs	O
+insult_9	have	O
+insult_9	long	O
+insult_9	been	O
+insult_9	mortal	O
+insult_9	enemies	O

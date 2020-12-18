@@ -1,0 +1,17 @@
+confines_23	Their	O
+confines_23	careers	O
+confines_23	reveal	O
+confines_23	the	O
+confines_23	public	O
+confines_23	acceptance	O
+confines_23	of	O
+confines_23	female	O
+confines_23	management	O
+confines_23	and	O
+confines_23	authority	O
+confines_23	within	O
+confines_23	the	O
+confines_23	confines	confines_nou
+confines_23	of	O
+confines_23	the	O
+confines_23	tavern	O

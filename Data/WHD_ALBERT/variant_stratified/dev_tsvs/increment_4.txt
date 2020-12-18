@@ -1,0 +1,17 @@
+increment_4	Subsequently	O
+increment_4	the	O
+increment_4	requirements	O
+increment_4	for	O
+increment_4	the	O
+increment_4	Small	O
+increment_4	Diameter	O
+increment_4	Bomb	O
+increment_4	SDB	O
+increment_4	Increment	increment_nou
+increment_4	2	O
+increment_4	were	O
+increment_4	modified	O
+increment_4	to	O
+increment_4	incorporate	O
+increment_4	the	O
+increment_4	capability	O

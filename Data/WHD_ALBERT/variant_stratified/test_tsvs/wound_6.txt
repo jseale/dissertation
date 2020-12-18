@@ -1,0 +1,9 @@
+wound_6	To	O
+wound_6	Europe	O
+wound_6	and	O
+wound_6	his	O
+wound_6	band	O
+wound_6	the	O
+wound_6	wound	wound_nou-vrb
+wound_6	seemed	O
+wound_6	superficial	O

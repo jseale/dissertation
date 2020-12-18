@@ -1,0 +1,17 @@
+insult_7	So	O
+insult_7	he	O
+insult_7	always	O
+insult_7	has	O
+insult_7	to	O
+insult_7	insult	insult_vrb
+insult_7	girls	O
+insult_7	to	O
+insult_7	make	O
+insult_7	them	O
+insult_7	run	O
+insult_7	off	O
+insult_7	before	O
+insult_7	it	O
+insult_7	gets	O
+insult_7	to	O
+insult_7	it	O

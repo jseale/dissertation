@@ -1,0 +1,15 @@
+perfume_55	The	O
+perfume_55	scent	O
+perfume_55	of	O
+perfume_55	the	O
+perfume_55	perfume	perfume_nou
+perfume_55	is	O
+perfume_55	known	O
+perfume_55	to	O
+perfume_55	be	O
+perfume_55	more	O
+perfume_55	sweet	O
+perfume_55	than	O
+perfume_55	its	O
+perfume_55	previous	O
+perfume_55	bottle	O

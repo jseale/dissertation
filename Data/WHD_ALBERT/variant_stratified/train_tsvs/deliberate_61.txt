@@ -1,0 +1,16 @@
+deliberate_61	Lippmann	O
+deliberate_61	's	O
+deliberate_61	prescription	O
+deliberate_61	in	O
+deliberate_61	Drift	O
+deliberate_61	and	O
+deliberate_61	Mastery	O
+deliberate_61	was	O
+deliberate_61	deliberate	deliberate_adj
+deliberate_61	and	O
+deliberate_61	scientific	O
+deliberate_61	governing	O
+deliberate_61	what	O
+deliberate_61	he	O
+deliberate_61	termed	O
+deliberate_61	mastery	O

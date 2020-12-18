@@ -1,0 +1,15 @@
+conflict_30	Henry	O
+conflict_30	considered	O
+conflict_30	the	O
+conflict_30	Saxon	O
+conflict_30	question	O
+conflict_30	settled	O
+conflict_30	but	O
+conflict_30	the	O
+conflict_30	Investiture	O
+conflict_30	conflict	conflict_nou
+conflict_30	would	O
+conflict_30	quickly	O
+conflict_30	undo	O
+conflict_30	the	O
+conflict_30	peace	O

@@ -1,0 +1,12 @@
+axes_21	The	O
+axes_21	spacious	O
+axes_21	and	O
+axes_21	imposing	O
+axes_21	buildings	O
+axes_21	are	O
+axes_21	arranged	O
+axes_21	in	O
+axes_21	three	O
+axes_21	main	O
+axes_21	northsouth	O
+axes_21	axes	axes_nou

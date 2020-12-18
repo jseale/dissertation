@@ -1,0 +1,15 @@
+impact_30	Understanding	O
+impact_30	the	O
+impact_30	ultimate	O
+impact_30	financial	O
+impact_30	impact	impact_nou
+impact_30	of	O
+impact_30	any	O
+impact_30	value	O
+impact_30	creating	O
+impact_30	activity	O
+impact_30	is	O
+impact_30	critical	O
+impact_30	for	O
+impact_30	ongoing	O
+impact_30	sustainability	O

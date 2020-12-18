@@ -1,0 +1,14 @@
+buffet_13	Along	O
+buffet_13	this	O
+buffet_13	path	O
+buffet_13	they	O
+buffet_13	opened	O
+buffet_13	the	O
+buffet_13	Riverwalk	O
+buffet_13	Restaurant	O
+buffet_13	later	O
+buffet_13	renamed	O
+buffet_13	Billabong	O
+buffet_13	BBQ	O
+buffet_13	and	O
+buffet_13	Buffet	buffet_nou

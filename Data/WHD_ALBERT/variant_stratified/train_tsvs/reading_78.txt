@@ -1,0 +1,17 @@
+reading_78	Further	O
+reading_78	defeats	O
+reading_78	to	O
+reading_78	Team	O
+reading_78	Northumbria	O
+reading_78	and	O
+reading_78	Reading	reading_geo
+reading_78	sealed	O
+reading_78	their	O
+reading_78	exit	O
+reading_78	at	O
+reading_78	the	O
+reading_78	conclusion	O
+reading_78	of	O
+reading_78	the	O
+reading_78	group	O
+reading_78	stage	O

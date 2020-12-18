@@ -1,0 +1,9 @@
+mobile_7	There	O
+mobile_7	is	O
+mobile_7	no	O
+mobile_7	mobile	mobile
+mobile_7	phone	O
+mobile_7	reception	O
+mobile_7	on	O
+mobile_7	the	O
+mobile_7	island	O

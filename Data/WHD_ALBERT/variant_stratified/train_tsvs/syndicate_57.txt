@@ -1,0 +1,17 @@
+syndicate_57	In	O
+syndicate_57	the	O
+syndicate_57	Franco	O
+syndicate_57	era	O
+syndicate_57	he	O
+syndicate_57	served	O
+syndicate_57	as	O
+syndicate_57	provincial	O
+syndicate_57	president	O
+syndicate_57	of	O
+syndicate_57	the	O
+syndicate_57	metal	O
+syndicate_57	syndicate	syndicate_nou
+syndicate_57	from	O
+syndicate_57	1963	O
+syndicate_57	to	O
+syndicate_57	1966	O

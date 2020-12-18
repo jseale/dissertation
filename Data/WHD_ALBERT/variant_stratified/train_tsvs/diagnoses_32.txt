@@ -1,0 +1,14 @@
+diagnoses_32	This	O
+diagnoses_32	database	O
+diagnoses_32	provided	O
+diagnoses_32	a	O
+diagnoses_32	depository	O
+diagnoses_32	for	O
+diagnoses_32	historical	O
+diagnoses_32	data	O
+diagnoses_32	of	O
+diagnoses_32	diagnoses	diagnoses_nou
+diagnoses_32	research	O
+diagnoses_32	treatments	O
+diagnoses_32	and	O
+diagnoses_32	results	O

@@ -1,0 +1,16 @@
+blessed_6	We	O
+blessed_6	get	O
+blessed_6	blessed	blessed_vrb
+blessed_6	and	O
+blessed_6	all	O
+blessed_6	our	O
+blessed_6	sins	O
+blessed_6	get	O
+blessed_6	cleared	O
+blessed_6	off	O
+blessed_6	watching	O
+blessed_6	and	O
+blessed_6	participating	O
+blessed_6	in	O
+blessed_6	the	O
+blessed_6	fair	O

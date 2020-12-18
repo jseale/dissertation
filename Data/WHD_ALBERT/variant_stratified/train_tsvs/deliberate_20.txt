@@ -1,0 +1,11 @@
+deliberate_20	Operation	O
+deliberate_20	Deliberate	deliberate_adj
+deliberate_20	Force	O
+deliberate_20	The	O
+deliberate_20	UN	O
+deliberate_20	and	O
+deliberate_20	NATO	O
+deliberate_20	Campaign	O
+deliberate_20	in	O
+deliberate_20	Bosnia	O
+deliberate_20	1995	O

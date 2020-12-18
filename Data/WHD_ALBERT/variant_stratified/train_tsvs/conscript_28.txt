@@ -1,0 +1,8 @@
+conscript_28	The	O
+conscript_28	expedition	O
+conscript_28	consisted	O
+conscript_28	mostly	O
+conscript_28	of	O
+conscript_28	southern	O
+conscript_28	Chinese	O
+conscript_28	conscript	conscript_nou

@@ -1,0 +1,15 @@
+precipitate_2	Together	O
+precipitate_2	they	O
+precipitate_2	can	O
+precipitate_2	form	O
+precipitate_2	an	O
+precipitate_2	insoluble	O
+precipitate_2	precipitate	precipitate_adj-nou
+precipitate_2	which	O
+precipitate_2	blocks	O
+precipitate_2	the	O
+precipitate_2	distal	O
+precipitate_2	part	O
+precipitate_2	of	O
+precipitate_2	the	O
+precipitate_2	nephrons	O

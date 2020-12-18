@@ -1,0 +1,15 @@
+overthrow_7	Her	O
+overthrow_7	inability	O
+overthrow_7	to	O
+overthrow_7	provide	O
+overthrow_7	an	O
+overthrow_7	heir	O
+overthrow_7	contributed	O
+overthrow_7	to	O
+overthrow_7	the	O
+overthrow_7	overthrow	overthrow_nou
+overthrow_7	of	O
+overthrow_7	her	O
+overthrow_7	husband	O
+overthrow_7	King	O
+overthrow_7	Otto	O

@@ -1,0 +1,16 @@
+compress_19	Alternatively	O
+compress_19	a	O
+compress_19	stationary	O
+compress_19	or	O
+compress_19	on	O
+compress_19	board	O
+compress_19	compressor	O
+compress_19	can	O
+compress_19	compress	compress
+compress_19	air	O
+compress_19	on	O
+compress_19	demand	O
+compress_19	possibly	O
+compress_19	requiring	O
+compress_19	several	O
+compress_19	hours	O

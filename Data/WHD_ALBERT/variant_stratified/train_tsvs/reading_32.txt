@@ -1,0 +1,15 @@
+reading_32	The	O
+reading_32	tests	O
+reading_32	focused	O
+reading_32	on	O
+reading_32	the	O
+reading_32	state	O
+reading_32	's	O
+reading_32	Academic	O
+reading_32	Standards	O
+reading_32	for	O
+reading_32	reading	reading_en
+reading_32	writing	O
+reading_32	mathematics	O
+reading_32	and	O
+reading_32	science	O

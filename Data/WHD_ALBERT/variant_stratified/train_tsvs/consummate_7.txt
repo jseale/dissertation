@@ -1,0 +1,13 @@
+consummate_7	He	O
+consummate_7	became	O
+consummate_7	known	O
+consummate_7	as	O
+consummate_7	a	O
+consummate_7	consummate	consummate_adj
+consummate_7	master	O
+consummate_7	of	O
+consummate_7	building	O
+consummate_7	according	O
+consummate_7	to	O
+consummate_7	medieval	O
+consummate_7	precedent	O

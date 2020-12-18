@@ -1,0 +1,16 @@
+abuses_53	Gee	O
+abuses_53	brought	O
+abuses_53	correction	O
+abuses_53	to	O
+abuses_53	the	O
+abuses_53	abuses	abuses_nou
+abuses_53	of	O
+abuses_53	Spiritual	O
+abuses_53	Gifts	O
+abuses_53	and	O
+abuses_53	systematically	O
+abuses_53	taught	O
+abuses_53	the	O
+abuses_53	people	O
+abuses_53	the	O
+abuses_53	Word	O

@@ -1,0 +1,16 @@
+intrigue_33	David	O
+intrigue_33	is	O
+intrigue_33	an	O
+intrigue_33	idealistic	O
+intrigue_33	young	O
+intrigue_33	soldier	O
+intrigue_33	who	O
+intrigue_33	finds	O
+intrigue_33	himself	O
+intrigue_33	in	O
+intrigue_33	the	O
+intrigue_33	unfamiliar	O
+intrigue_33	world	O
+intrigue_33	of	O
+intrigue_33	court	O
+intrigue_33	intrigue	intrigue_nou

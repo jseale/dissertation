@@ -1,0 +1,12 @@
+diffuse_41	In	O
+diffuse_41	a	O
+diffuse_41	few	O
+diffuse_41	months	O
+diffuse_41	these	O
+diffuse_41	pioneers	O
+diffuse_41	built	O
+diffuse_41	a	O
+diffuse_41	highly	O
+diffuse_41	diffuse	diffuse_adj
+diffuse_41	underground	O
+diffuse_41	network	O

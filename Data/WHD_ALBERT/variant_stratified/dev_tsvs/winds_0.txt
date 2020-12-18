@@ -1,0 +1,14 @@
+winds_0	Strong	O
+winds_0	winds	winds_nou
+winds_0	heavy	O
+winds_0	rain	O
+winds_0	hit	O
+winds_0	Bahamas	O
+winds_0	as	O
+winds_0	Tropical	O
+winds_0	Storm	O
+winds_0	Rita	O
+winds_0	gathers	O
+winds_0	strength	O
+winds_0	heads	O
+winds_0	West	O

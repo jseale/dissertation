@@ -1,0 +1,7 @@
+coordinate_34	The	O
+coordinate_34	independent	O
+coordinate_34	coordinate	coordinate_adj-nou
+coordinate_34	has	O
+coordinate_34	sense	O
+coordinate_34	of	O
+coordinate_34	time	O

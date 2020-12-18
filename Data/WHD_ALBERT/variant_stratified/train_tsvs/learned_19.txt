@@ -1,0 +1,8 @@
+learned_19	She	O
+learned_19	learned	learned_vrb
+learned_19	an	O
+learned_19	Australian	O
+learned_19	accent	O
+learned_19	for	O
+learned_19	the	O
+learned_19	role	O

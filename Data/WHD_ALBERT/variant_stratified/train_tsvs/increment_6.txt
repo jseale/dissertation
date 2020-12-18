@@ -1,0 +1,13 @@
+increment_6	At	O
+increment_6	each	O
+increment_6	50-meter	O
+increment_6	increment	increment_nou
+increment_6	the	O
+increment_6	artist	O
+increment_6	records	O
+increment_6	a	O
+increment_6	single	O
+increment_6	frame	O
+increment_6	for	O
+increment_6	one	O
+increment_6	minute	O

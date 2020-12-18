@@ -1,0 +1,13 @@
+export_62	By	O
+export_62	2014	O
+export_62	the	O
+export_62	RMG	O
+export_62	industry	O
+export_62	represented	O
+export_62	81.13	O
+export_62	percent	O
+export_62	of	O
+export_62	Bangladesh	O
+export_62	's	O
+export_62	total	O
+export_62	export	export_nou

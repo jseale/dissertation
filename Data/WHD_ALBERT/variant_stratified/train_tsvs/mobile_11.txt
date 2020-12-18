@@ -1,0 +1,14 @@
+mobile_11	Although	O
+mobile_11	mobile	mobile
+mobile_11	suits	O
+mobile_11	are	O
+mobile_11	the	O
+mobile_11	main	O
+mobile_11	focus	O
+mobile_11	of	O
+mobile_11	the	O
+mobile_11	series	O
+mobile_11	tanks	O
+mobile_11	are	O
+mobile_11	in	O
+mobile_11	use	O

@@ -1,0 +1,17 @@
+associate_64	Gambino	O
+associate_64	associate	associate_adj-nou
+associate_64	Joseph	O
+associate_64	Watts	O
+associate_64	wanted	O
+associate_64	Gotti	O
+associate_64	to	O
+associate_64	kill	O
+associate_64	Bilotti	O
+associate_64	's	O
+associate_64	brother	O
+associate_64	Joseph	O
+associate_64	because	O
+associate_64	he	O
+associate_64	might	O
+associate_64	seek	O
+associate_64	revenge	O

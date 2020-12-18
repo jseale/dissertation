@@ -1,0 +1,14 @@
+subordinate_13	Lugdush	O
+subordinate_13	was	O
+subordinate_13	one	O
+subordinate_13	of	O
+subordinate_13	Saruman	O
+subordinate_13	's	O
+subordinate_13	Uruk	O
+subordinate_13	hai	O
+subordinate_13	and	O
+subordinate_13	a	O
+subordinate_13	trusted	O
+subordinate_13	subordinate	subordinate_adj-nou
+subordinate_13	of	O
+subordinate_13	Ugluk	O

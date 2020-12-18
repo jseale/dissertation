@@ -1,0 +1,15 @@
+transform_4	Zones	O
+transform_4	dynamically	O
+transform_4	transform	transform
+transform_4	as	O
+transform_4	a	O
+transform_4	result	O
+transform_4	of	O
+transform_4	player	O
+transform_4	actions	O
+transform_4	and	O
+transform_4	the	O
+transform_4	actions	O
+transform_4	of	O
+transform_4	player	O
+transform_4	guilds	O

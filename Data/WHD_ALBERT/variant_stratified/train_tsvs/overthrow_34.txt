@@ -1,0 +1,17 @@
+overthrow_34	Through	O
+overthrow_34	another	O
+overthrow_34	handmaid	O
+overthrow_34	Ofglen	O
+overthrow_34	Offred	O
+overthrow_34	learns	O
+overthrow_34	of	O
+overthrow_34	the	O
+overthrow_34	Mayday	O
+overthrow_34	resistance	O
+overthrow_34	an	O
+overthrow_34	underground	O
+overthrow_34	network	O
+overthrow_34	working	O
+overthrow_34	to	O
+overthrow_34	overthrow	overthrow_vrb
+overthrow_34	Gilead	O

@@ -1,0 +1,17 @@
+converse_76	While	O
+converse_76	navigating	O
+converse_76	the	O
+converse_76	overworld	O
+converse_76	the	O
+converse_76	player	O
+converse_76	may	O
+converse_76	converse	converse_vrb
+converse_76	with	O
+converse_76	non	O
+converse_76	player	O
+converse_76	characters	O
+converse_76	obtain	O
+converse_76	items	O
+converse_76	or	O
+converse_76	encounter	O
+converse_76	enemies	O

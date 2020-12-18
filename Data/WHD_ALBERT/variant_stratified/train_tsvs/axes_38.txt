@@ -1,0 +1,12 @@
+axes_38	The	O
+axes_38	centres	O
+axes_38	of	O
+axes_38	rotation	O
+axes_38	are	O
+axes_38	not	O
+axes_38	located	O
+axes_38	on	O
+axes_38	the	O
+axes_38	glide	O
+axes_38	reflection	O
+axes_38	axes	axes_nou

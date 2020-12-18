@@ -1,0 +1,11 @@
+minute_76	There	O
+minute_76	is	O
+minute_76	a	O
+minute_76	terminal	O
+minute_76	series	O
+minute_76	of	O
+minute_76	minute	minute_adj
+minute_76	indistinct	O
+minute_76	dark	O
+minute_76	fuscous	O
+minute_76	dots	O

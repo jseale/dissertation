@@ -1,0 +1,10 @@
+winds_17	Gale	O
+winds_17	force	O
+winds_17	winds	winds_nou
+winds_17	ripped	O
+winds_17	through	O
+winds_17	Downpatrick	O
+winds_17	and	O
+winds_17	County	O
+winds_17	Londonderry	O
+winds_17	overnight	O

@@ -1,0 +1,17 @@
+transport_10	Anniyur	O
+transport_10	is	O
+transport_10	well	O
+transport_10	connected	O
+transport_10	by	O
+transport_10	road	O
+transport_10	transport	transport_nou
+transport_10	facility	O
+transport_10	with	O
+transport_10	its	O
+transport_10	district	O
+transport_10	capital	O
+transport_10	Villupuram	O
+transport_10	by	O
+transport_10	four	O
+transport_10	different	O
+transport_10	routes	O

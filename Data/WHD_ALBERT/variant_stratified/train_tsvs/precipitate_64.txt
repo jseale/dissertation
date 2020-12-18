@@ -1,0 +1,17 @@
+precipitate_64	Typically	O
+precipitate_64	an	O
+precipitate_64	acidic	O
+precipitate_64	solution	O
+precipitate_64	of	O
+precipitate_64	thallium(I	O
+precipitate_64	sulfate	O
+precipitate_64	is	O
+precipitate_64	treated	O
+precipitate_64	with	O
+precipitate_64	hydrochloric	O
+precipitate_64	acid	O
+precipitate_64	to	O
+precipitate_64	precipitate	precipitate_vrb
+precipitate_64	insoluble	O
+precipitate_64	thallium(I	O
+precipitate_64	chloride	O

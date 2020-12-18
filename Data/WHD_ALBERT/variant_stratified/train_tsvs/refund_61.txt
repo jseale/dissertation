@@ -1,0 +1,12 @@
+refund_61	Retailers	O
+refund_61	are	O
+refund_61	required	O
+refund_61	to	O
+refund_61	refund	refund_vrb
+refund_61	deposit	O
+refund_61	to	O
+refund_61	consumer	O
+refund_61	when	O
+refund_61	they	O
+refund_61	present	O
+refund_61	containers	O

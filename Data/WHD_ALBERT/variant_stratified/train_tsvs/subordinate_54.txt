@@ -1,0 +1,16 @@
+subordinate_54	Subsequently	O
+subordinate_54	he	O
+subordinate_54	worked	O
+subordinate_54	for	O
+subordinate_54	Sun	O
+subordinate_54	Yuanhua	O
+subordinate_54	governor	O
+subordinate_54	of	O
+subordinate_54	Shandong	O
+subordinate_54	along	O
+subordinate_54	with	O
+subordinate_54	fellow	O
+subordinate_54	Mao	O
+subordinate_54	subordinate	subordinate_adj-nou
+subordinate_54	Geng	O
+subordinate_54	Zhongming	O

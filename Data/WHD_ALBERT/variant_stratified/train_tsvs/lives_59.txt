@@ -1,0 +1,13 @@
+lives_59	The	O
+lives_59	family	O
+lives_59	lives	lives_vrb
+lives_59	on	O
+lives_59	the	O
+lives_59	Pointefield	O
+lives_59	Landing	O
+lives_59	of	O
+lives_59	the	O
+lives_59	Severn	O
+lives_59	River	O
+lives_59	in	O
+lives_59	Maryland	O

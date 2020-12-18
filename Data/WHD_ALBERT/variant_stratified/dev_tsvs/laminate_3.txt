@@ -1,0 +1,9 @@
+laminate_3	The	O
+laminate_3	company	O
+laminate_3	produces	O
+laminate_3	laminate	laminate_nou
+laminate_3	flooring	O
+laminate_3	vinyl	O
+laminate_3	linoleum	O
+laminate_3	and	O
+laminate_3	flooring	O

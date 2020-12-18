@@ -1,0 +1,16 @@
+convert_41	The	O
+convert_41	second	O
+convert_41	part	O
+convert_41	is	O
+convert_41	of	O
+convert_41	those	O
+convert_41	writings	O
+convert_41	inviting	O
+convert_41	other	O
+convert_41	rulers	O
+convert_41	and	O
+convert_41	kings	O
+convert_41	to	O
+convert_41	convert	convert_vrb
+convert_41	to	O
+convert_41	Islam	O

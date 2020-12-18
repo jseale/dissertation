@@ -1,0 +1,15 @@
+pasty_3	The	O
+pasty_3	town	O
+pasty_3	is	O
+pasty_3	renowned	O
+pasty_3	for	O
+pasty_3	its	O
+pasty_3	basketwork	O
+pasty_3	and	O
+pasty_3	the	O
+pasty_3	production	O
+pasty_3	of	O
+pasty_3	pastissets	O
+pasty_3	a	O
+pasty_3	sweet	O
+pasty_3	pasty	pasty_adj

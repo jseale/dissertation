@@ -1,0 +1,9 @@
+record_0	Pop	O
+record_0	Matters	O
+record_0	gave	O
+record_0	the	O
+record_0	record	record_nou
+record_0	a	O
+record_0	rating	O
+record_0	of	O
+record_0	6/10	O

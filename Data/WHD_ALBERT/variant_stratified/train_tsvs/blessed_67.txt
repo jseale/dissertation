@@ -1,0 +1,10 @@
+blessed_67	The	O
+blessed_67	new	O
+blessed_67	school	O
+blessed_67	building	O
+blessed_67	was	O
+blessed_67	blessed	blessed_vrb
+blessed_67	on	O
+blessed_67	September	O
+blessed_67	24	O
+blessed_67	1949	O

@@ -1,0 +1,17 @@
+present_6	Fast	O
+present_6	forward	O
+present_6	to	O
+present_6	the	O
+present_6	present	present_adj-nou
+present_6	where	O
+present_6	Edriss	O
+present_6	is	O
+present_6	on	O
+present_6	trial	O
+present_6	for	O
+present_6	treason	O
+present_6	by	O
+present_6	the	O
+present_6	Council	O
+present_6	of	O
+present_6	Thirteen	O

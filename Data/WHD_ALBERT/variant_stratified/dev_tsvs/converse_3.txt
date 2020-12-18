@@ -1,0 +1,12 @@
+converse_3	The	O
+converse_3	converse	converse_adj-nou
+converse_3	is	O
+converse_3	true	O
+converse_3	in	O
+converse_3	dimension	O
+converse_3	2	O
+converse_3	but	O
+converse_3	not	O
+converse_3	in	O
+converse_3	higher	O
+converse_3	dimensions	O

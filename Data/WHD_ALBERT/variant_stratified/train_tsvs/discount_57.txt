@@ -1,0 +1,13 @@
+discount_57	Seniors	O
+discount_57	can	O
+discount_57	get	O
+discount_57	10	O
+discount_57	discount	discount_nou
+discount_57	every	O
+discount_57	day	O
+discount_57	and	O
+discount_57	for	O
+discount_57	everyone	O
+discount_57	in	O
+discount_57	their	O
+discount_57	party	O

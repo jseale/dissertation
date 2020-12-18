@@ -1,0 +1,9 @@
+invert_47	These	O
+invert_47	combine	O
+invert_47	proper	O
+invert_47	rotations	O
+invert_47	with	O
+invert_47	reflections	O
+invert_47	which	O
+invert_47	invert	invert_vrb
+invert_47	orientation	O

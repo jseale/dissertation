@@ -1,0 +1,15 @@
+document_77	In	O
+document_77	1995	O
+document_77	the	O
+document_77	team	O
+document_77	traveled	O
+document_77	to	O
+document_77	document	document_vrb
+document_77	rural	O
+document_77	areas	O
+document_77	of	O
+document_77	China	O
+document_77	Yemen	O
+document_77	Cambodia	O
+document_77	and	O
+document_77	Burma	O

@@ -1,0 +1,15 @@
+conscript_77	Adolf	O
+conscript_77	Hitler	O
+conscript_77	was	O
+conscript_77	reluctant	O
+conscript_77	to	O
+conscript_77	conscript	conscript_vrb
+conscript_77	women	O
+conscript_77	to	O
+conscript_77	Labor	O
+conscript_77	therefore	O
+conscript_77	alternatives	O
+conscript_77	had	O
+conscript_77	to	O
+conscript_77	be	O
+conscript_77	considered	O

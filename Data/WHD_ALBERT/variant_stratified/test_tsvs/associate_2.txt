@@ -1,0 +1,16 @@
+associate_2	She	O
+associate_2	started	O
+associate_2	translating	O
+associate_2	in	O
+associate_2	1988	O
+associate_2	when	O
+associate_2	she	O
+associate_2	co	O
+associate_2	founded	O
+associate_2	Kist	O
+associate_2	Kilian	O
+associate_2	with	O
+associate_2	her	O
+associate_2	associate	associate_adj-nou
+associate_2	Katy	O
+associate_2	Kist	O

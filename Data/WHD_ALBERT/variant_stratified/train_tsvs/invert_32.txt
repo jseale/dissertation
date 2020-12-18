@@ -1,0 +1,11 @@
+invert_32	They	O
+invert_32	showed	O
+invert_32	how	O
+invert_32	to	O
+invert_32	enhance	O
+invert_32	suppress	O
+invert_32	and	O
+invert_32	invert	invert_vrb
+invert_32	the	O
+invert_32	convection	O
+invert_32	modes	O

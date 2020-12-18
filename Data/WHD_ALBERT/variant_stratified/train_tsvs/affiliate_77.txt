@@ -1,0 +1,15 @@
+affiliate_77	Huntington	O
+affiliate_77	refers	O
+affiliate_77	to	O
+affiliate_77	countries	O
+affiliate_77	that	O
+affiliate_77	are	O
+affiliate_77	seeking	O
+affiliate_77	to	O
+affiliate_77	affiliate	affiliate_vrb
+affiliate_77	with	O
+affiliate_77	another	O
+affiliate_77	civilization	O
+affiliate_77	as	O
+affiliate_77	torn	O
+affiliate_77	countries	O

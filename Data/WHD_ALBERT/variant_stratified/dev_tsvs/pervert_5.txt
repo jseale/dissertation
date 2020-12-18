@@ -1,0 +1,8 @@
+pervert_5	Jeff	O
+pervert_5	is	O
+pervert_5	frequently	O
+pervert_5	shown	O
+pervert_5	to	O
+pervert_5	be	O
+pervert_5	a	O
+pervert_5	pervert	pervert_nou

@@ -1,0 +1,16 @@
+wound_5	In	O
+wound_5	microangiopathy	O
+wound_5	neuropathy	O
+wound_5	and	O
+wound_5	autoregulation	O
+wound_5	of	O
+wound_5	capillaries	O
+wound_5	leads	O
+wound_5	to	O
+wound_5	poor	O
+wound_5	perfusion	O
+wound_5	of	O
+wound_5	tissues	O
+wound_5	especially	O
+wound_5	wound	wound_nou-vrb
+wound_5	base	O

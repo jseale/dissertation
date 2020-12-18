@@ -1,0 +1,17 @@
+conscript_32	The	O
+conscript_32	personnel	O
+conscript_32	of	O
+conscript_32	the	O
+conscript_32	Center	O
+conscript_32	participate	O
+conscript_32	actively	O
+conscript_32	in	O
+conscript_32	the	O
+conscript_32	specialist	O
+conscript_32	conscript	conscript_nou
+conscript_32	training	O
+conscript_32	of	O
+conscript_32	the	O
+conscript_32	Hame	O
+conscript_32	Cavalry	O
+conscript_32	Battalion	O

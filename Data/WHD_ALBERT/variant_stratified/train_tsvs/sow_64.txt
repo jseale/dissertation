@@ -1,0 +1,15 @@
+sow_64	When	O
+sow_64	placed	O
+sow_64	into	O
+sow_64	groups	O
+sow_64	they	O
+sow_64	fight	O
+sow_64	vigorously	O
+sow_64	with	O
+sow_64	one	O
+sow_64	dominant	O
+sow_64	sow	sow_nou
+sow_64	emerging	O
+sow_64	that	O
+sow_64	eats	O
+sow_64	voraciously	O

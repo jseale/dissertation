@@ -1,0 +1,15 @@
+deliberate_49	During	O
+deliberate_49	a	O
+deliberate_49	gradual	O
+deliberate_49	and	O
+deliberate_49	deliberate	deliberate_adj
+deliberate_49	increase	O
+deliberate_49	in	O
+deliberate_49	reactor	O
+deliberate_49	power	O
+deliberate_49	level	O
+deliberate_49	the	O
+deliberate_49	reactor	O
+deliberate_49	is	O
+deliberate_49	delayed	O
+deliberate_49	supercritical	O

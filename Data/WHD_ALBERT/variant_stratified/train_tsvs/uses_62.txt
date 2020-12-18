@@ -1,0 +1,16 @@
+uses_62	Jimmy	O
+uses_62	Page	O
+uses_62	uses	uses_vrb
+uses_62	a	O
+uses_62	double	O
+uses_62	dropped	O
+uses_62	D	O
+uses_62	guitar	O
+uses_62	tuning	O
+uses_62	similar	O
+uses_62	to	O
+uses_62	the	O
+uses_62	alternative	O
+uses_62	tunings	O
+uses_62	Mitchell	O
+uses_62	uses	uses_vrb

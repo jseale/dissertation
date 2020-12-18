@@ -1,0 +1,15 @@
+approximate_2	The	O
+approximate_2	old	O
+approximate_2	castle	O
+approximate_2	today	O
+approximate_2	demolished	O
+approximate_2	had	O
+approximate_2	an	O
+approximate_2	approximate	approximate_adj-nou
+approximate_2	rectangular	O
+approximate_2	plan	O
+approximate_2	with	O
+approximate_2	towers	O
+approximate_2	on	O
+approximate_2	each	O
+approximate_2	vertice	O

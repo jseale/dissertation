@@ -1,0 +1,17 @@
+precipitate_59	This	O
+precipitate_59	avoids	O
+precipitate_59	cutting	O
+precipitate_59	off	O
+precipitate_59	the	O
+precipitate_59	blood	O
+precipitate_59	flow	O
+precipitate_59	to	O
+precipitate_59	the	O
+precipitate_59	digit	O
+precipitate_59	that	O
+precipitate_59	a	O
+precipitate_59	too	O
+precipitate_59	tight	O
+precipitate_59	wrap	O
+precipitate_59	can	O
+precipitate_59	precipitate	precipitate_vrb

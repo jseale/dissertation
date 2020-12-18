@@ -1,0 +1,17 @@
+lead_48	If	O
+lead_48	this	O
+lead_48	happened	O
+lead_48	at	O
+lead_48	low	O
+lead_48	altitude	O
+lead_48	it	O
+lead_48	would	O
+lead_48	often	O
+lead_48	lead	lead_nou-vrb
+lead_48	to	O
+lead_48	the	O
+lead_48	total	O
+lead_48	loss	O
+lead_48	of	O
+lead_48	the	O
+lead_48	aircraft	O

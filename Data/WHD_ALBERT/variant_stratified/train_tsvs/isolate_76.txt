@@ -1,0 +1,15 @@
+isolate_76	The	O
+isolate_76	entire	O
+isolate_76	Indo	O
+isolate_76	European	O
+isolate_76	family	O
+isolate_76	itself	O
+isolate_76	is	O
+isolate_76	a	O
+isolate_76	language	O
+isolate_76	isolate	isolate_nou
+isolate_76	no	O
+isolate_76	further	O
+isolate_76	connections	O
+isolate_76	are	O
+isolate_76	known	O

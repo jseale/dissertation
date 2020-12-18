@@ -1,0 +1,9 @@
+uses_42	He	O
+uses_42	frequently	O
+uses_42	uses	uses_vrb
+uses_42	the	O
+uses_42	theme	O
+uses_42	"game""/""play"	O
+uses_42	in	O
+uses_42	his	O
+uses_42	songs	O

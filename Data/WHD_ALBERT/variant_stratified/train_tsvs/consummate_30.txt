@@ -1,0 +1,17 @@
+consummate_30	He	O
+consummate_30	is	O
+consummate_30	also	O
+consummate_30	a	O
+consummate_30	consummate	consummate_adj
+consummate_30	military	O
+consummate_30	strategist	O
+consummate_30	and	O
+consummate_30	spy	O
+consummate_30	and	O
+consummate_30	a	O
+consummate_30	master	O
+consummate_30	of	O
+consummate_30	disguise	O
+consummate_30	and	O
+consummate_30	excellent	O
+consummate_30	actor	O

@@ -1,0 +1,13 @@
+confines_63	The	O
+confines_63	minister	O
+confines_63	confines	confines_vrb
+confines_63	these	O
+confines_63	problems	O
+confines_63	to	O
+confines_63	Lara	O
+confines_63	a	O
+confines_63	member	O
+confines_63	of	O
+confines_63	the	O
+confines_63	security	O
+confines_63	forces	O

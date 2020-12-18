@@ -1,0 +1,14 @@
+aggregate_60	Another	O
+aggregate_60	review	O
+aggregate_60	aggregate	aggregate_adj-nou
+aggregate_60	Metacritic	O
+aggregate_60	calculated	O
+aggregate_60	an	O
+aggregate_60	average	O
+aggregate_60	score	O
+aggregate_60	of	O
+aggregate_60	50	O
+aggregate_60	based	O
+aggregate_60	on	O
+aggregate_60	39	O
+aggregate_60	reviews	O

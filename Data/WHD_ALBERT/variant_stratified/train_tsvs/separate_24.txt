@@ -1,0 +1,12 @@
+separate_24	The	O
+separate_24	European	O
+separate_24	Community	O
+separate_24	originally	O
+separate_24	consisted	O
+separate_24	of	O
+separate_24	three	O
+separate_24	separate	separate_adj
+separate_24	Communities	O
+separate_24	founded	O
+separate_24	by	O
+separate_24	treaty	O

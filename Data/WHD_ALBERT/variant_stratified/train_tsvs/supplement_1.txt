@@ -1,0 +1,14 @@
+supplement_1	The	O
+supplement_1	supplement	supplement_nou
+supplement_1	comes	O
+supplement_1	in	O
+supplement_1	two	O
+supplement_1	parts	O
+supplement_1	either	O
+supplement_1	in	O
+supplement_1	the	O
+supplement_1	July	O
+supplement_1	August	O
+supplement_1	or	O
+supplement_1	September	O
+supplement_1	issue	O

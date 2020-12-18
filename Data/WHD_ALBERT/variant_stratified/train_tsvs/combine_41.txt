@@ -1,0 +1,13 @@
+combine_41	Fusion	O
+combine_41	reactions	O
+combine_41	combine	combine_vrb
+combine_41	lighter	O
+combine_41	atoms	O
+combine_41	such	O
+combine_41	as	O
+combine_41	hydrogen	O
+combine_41	together	O
+combine_41	to	O
+combine_41	form	O
+combine_41	larger	O
+combine_41	ones	O

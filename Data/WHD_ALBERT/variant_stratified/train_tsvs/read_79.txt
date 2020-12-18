@@ -1,0 +1,7 @@
+read_79	We	O
+read_79	want	O
+read_79	to	O
+read_79	read	read_present
+read_79	out	O
+read_79	the	O
+read_79	phenotypes	O

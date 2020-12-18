@@ -1,0 +1,12 @@
+invalid_34	On	O
+invalid_34	September	O
+invalid_34	4	O
+invalid_34	2013	O
+invalid_34	the	O
+invalid_34	court	O
+invalid_34	declared	O
+invalid_34	the	O
+invalid_34	EIA	O
+invalid_34	report	O
+invalid_34	as	O
+invalid_34	invalid	invalid_adj

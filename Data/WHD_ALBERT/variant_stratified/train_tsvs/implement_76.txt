@@ -1,0 +1,17 @@
+implement_76	There	O
+implement_76	are	O
+implement_76	several	O
+implement_76	software	O
+implement_76	implementations	O
+implement_76	of	O
+implement_76	additional	O
+implement_76	protocols	O
+implement_76	that	O
+implement_76	essentially	O
+implement_76	implement	implement_vrb
+implement_76	a	O
+implement_76	polling	O
+implement_76	or	O
+implement_76	token	O
+implement_76	passing	O
+implement_76	strategy	O

@@ -1,0 +1,17 @@
+initiate_55	In	O
+initiate_55	December	O
+initiate_55	2009	O
+initiate_55	the	O
+initiate_55	FTC	O
+initiate_55	announced	O
+initiate_55	it	O
+initiate_55	would	O
+initiate_55	initiate	initiate_vrb
+initiate_55	an	O
+initiate_55	administrative	O
+initiate_55	proceeding	O
+initiate_55	against	O
+initiate_55	Intel	O
+initiate_55	in	O
+initiate_55	September	O
+initiate_55	2010	O

@@ -1,0 +1,12 @@
+read_9	Nevertheless	O
+read_9	they	O
+read_9	are	O
+read_9	charged	O
+read_9	with	O
+read_9	favoring	O
+read_9	those	O
+read_9	who	O
+read_9	could	O
+read_9	read	read_present
+read_9	and	O
+read_9	write	O

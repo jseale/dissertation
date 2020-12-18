@@ -1,0 +1,12 @@
+perfume_68	She	O
+perfume_68	also	O
+perfume_68	starred	O
+perfume_68	in	O
+perfume_68	independent	O
+perfume_68	films	O
+perfume_68	Perfume	perfume_nou
+perfume_68	G	O
+perfume_68	and	O
+perfume_68	The	O
+perfume_68	Killing	O
+perfume_68	Zone	O

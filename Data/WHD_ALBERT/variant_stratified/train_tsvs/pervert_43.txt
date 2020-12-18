@@ -1,0 +1,15 @@
+pervert_43	During	O
+pervert_43	this	O
+pervert_43	announcement	O
+pervert_43	Bulldog	O
+pervert_43	entered	O
+pervert_43	the	O
+pervert_43	room	O
+pervert_43	and	O
+pervert_43	shouted	O
+pervert_43	That	O
+pervert_43	dirty	O
+pervert_43	rotten	O
+pervert_43	pervert	pervert_nou
+pervert_43	Shawn	O
+pervert_43	Michaels	O

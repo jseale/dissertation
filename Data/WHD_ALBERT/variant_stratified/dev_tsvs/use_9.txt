@@ -1,0 +1,16 @@
+use_9	Smiley	O
+use_9	is	O
+use_9	able	O
+use_9	to	O
+use_9	use	use_vrb
+use_9	this	O
+use_9	irregularity	O
+use_9	against	O
+use_9	Karla	O
+use_9	forcing	O
+use_9	him	O
+use_9	to	O
+use_9	defect	O
+use_9	to	O
+use_9	the	O
+use_9	West	O

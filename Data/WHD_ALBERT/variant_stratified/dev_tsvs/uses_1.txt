@@ -1,0 +1,13 @@
+uses_1	For	O
+uses_1	a	O
+uses_1	time	O
+uses_1	this	O
+uses_1	device	O
+uses_1	defeated	O
+uses_1	the	O
+uses_1	intent	O
+uses_1	of	O
+uses_1	the	O
+uses_1	Statute	O
+uses_1	of	O
+uses_1	Uses	uses_nou

@@ -1,0 +1,14 @@
+tear_78	The	O
+tear_78	point	O
+tear_78	will	O
+tear_78	tear	tear_vrb
+tear_78	even	O
+tear_78	if	O
+tear_78	the	O
+tear_78	rest	O
+tear_78	of	O
+tear_78	the	O
+tear_78	knife	O
+tear_78	is	O
+tear_78	comparatively	O
+tear_78	dull	O

@@ -1,0 +1,9 @@
+combine_6	Compound	O
+combine_6	objects	O
+combine_6	combine	combine_vrb
+combine_6	distributed	O
+combine_6	resources	O
+combine_6	including	O
+combine_6	multiple	O
+combine_6	media	O
+combine_6	types	O

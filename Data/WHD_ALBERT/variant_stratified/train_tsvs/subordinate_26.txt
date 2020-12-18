@@ -1,0 +1,11 @@
+subordinate_26	Hypatius	O
+subordinate_26	's	O
+subordinate_26	subordinate	subordinate_adj-nou
+subordinate_26	commanders	O
+subordinate_26	were	O
+subordinate_26	either	O
+subordinate_26	killed	O
+subordinate_26	or	O
+subordinate_26	joined	O
+subordinate_26	the	O
+subordinate_26	rebellion	O

@@ -1,0 +1,16 @@
+articulate_6	Rhynchonelliformea	O
+articulate_6	is	O
+articulate_6	the	O
+articulate_6	name	O
+articulate_6	now	O
+articulate_6	given	O
+articulate_6	to	O
+articulate_6	the	O
+articulate_6	articulate	articulate_adj
+articulate_6	brachiopods	O
+articulate_6	Class	O
+articulate_6	Articulata	O
+articulate_6	revised	O
+articulate_6	as	O
+articulate_6	a	O
+articulate_6	subphylum	O

@@ -1,0 +1,13 @@
+retard_12	Preservatives	O
+retard_12	are	O
+retard_12	added	O
+retard_12	to	O
+retard_12	products	O
+retard_12	sold	O
+retard_12	as	O
+retard_12	liquid	O
+retard_12	dispersions	O
+retard_12	to	O
+retard_12	retard	retard_vrb
+retard_12	bacterial	O
+retard_12	growth	O

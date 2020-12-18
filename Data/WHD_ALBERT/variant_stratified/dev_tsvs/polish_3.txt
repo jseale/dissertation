@@ -1,0 +1,17 @@
+polish_3	In	O
+polish_3	France	O
+polish_3	he	O
+polish_3	deserted	O
+polish_3	and	O
+polish_3	joined	O
+polish_3	the	O
+polish_3	2nd	O
+polish_3	Polish	polish_geo
+polish_3	Army	O
+polish_3	led	O
+polish_3	by	O
+polish_3	general	O
+polish_3	Wladyslaw	O
+polish_3	Anders	O
+polish_3	in	O
+polish_3	Italy	O

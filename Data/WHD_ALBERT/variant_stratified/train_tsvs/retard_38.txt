@@ -1,0 +1,14 @@
+retard_38	The	O
+retard_38	slope	O
+retard_38	was	O
+retard_38	also	O
+retard_38	designed	O
+retard_38	to	O
+retard_38	retard	retard_vrb
+retard_38	or	O
+retard_38	stop	O
+retard_38	cannon	O
+retard_38	shot	O
+retard_38	from	O
+retard_38	naval	O
+retard_38	ships	O

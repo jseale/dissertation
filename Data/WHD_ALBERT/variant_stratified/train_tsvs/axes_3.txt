@@ -1,0 +1,14 @@
+axes_3	The	O
+axes_3	Representation	O
+axes_3	is	O
+axes_3	one	O
+axes_3	of	O
+axes_3	the	O
+axes_3	axes	axes_nou
+axes_3	around	O
+axes_3	the	O
+axes_3	historiographic	O
+axes_3	disputes	O
+axes_3	about	O
+axes_3	Mariano	O
+axes_3	Moreno	O

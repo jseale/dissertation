@@ -1,0 +1,15 @@
+deliberate_1	The	O
+deliberate_1	deliberate	deliberate_adj
+deliberate_1	introduction	O
+deliberate_1	of	O
+deliberate_1	pigs	O
+deliberate_1	into	O
+deliberate_1	previously	O
+deliberate_1	pig	O
+deliberate_1	free	O
+deliberate_1	areas	O
+deliberate_1	seems	O
+deliberate_1	to	O
+deliberate_1	have	O
+deliberate_1	been	O
+deliberate_1	common	O

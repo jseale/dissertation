@@ -1,0 +1,17 @@
+syndicate_55	Later	O
+syndicate_55	that	O
+syndicate_55	year	O
+syndicate_55	Schulz	O
+syndicate_55	approached	O
+syndicate_55	the	O
+syndicate_55	United	O
+syndicate_55	Feature	O
+syndicate_55	Syndicate	syndicate_nou
+syndicate_55	with	O
+syndicate_55	Li'l	O
+syndicate_55	Folks	O
+syndicate_55	and	O
+syndicate_55	the	O
+syndicate_55	syndicate	syndicate_nou
+syndicate_55	became	O
+syndicate_55	interested	O

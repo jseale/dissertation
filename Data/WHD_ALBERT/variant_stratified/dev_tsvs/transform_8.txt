@@ -1,0 +1,11 @@
+transform_8	It	O
+transform_8	may	O
+transform_8	also	O
+transform_8	be	O
+transform_8	extended	O
+transform_8	to	O
+transform_8	work	O
+transform_8	for	O
+transform_8	evaluating	O
+transform_8	Laplace	O
+transform_8	transform	transform_nou

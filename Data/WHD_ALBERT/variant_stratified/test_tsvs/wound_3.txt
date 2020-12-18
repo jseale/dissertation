@@ -1,0 +1,15 @@
+wound_3	It	O
+wound_3	has	O
+wound_3	been	O
+wound_3	tested	O
+wound_3	and	O
+wound_3	successfully	O
+wound_3	used	O
+wound_3	as	O
+wound_3	a	O
+wound_3	wound	wound_nou-vrb
+wound_3	dressing	O
+wound_3	especially	O
+wound_3	in	O
+wound_3	burn	O
+wound_3	cases	O

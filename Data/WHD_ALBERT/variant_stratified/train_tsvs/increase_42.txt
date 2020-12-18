@@ -1,0 +1,17 @@
+increase_42	Poor	O
+increase_42	roads	O
+increase_42	increase	increase_vrb
+increase_42	the	O
+increase_42	cost	O
+increase_42	of	O
+increase_42	doing	O
+increase_42	business	O
+increase_42	reduce	O
+increase_42	payments	O
+increase_42	to	O
+increase_42	farmers	O
+increase_42	and	O
+increase_42	increase	increase_vrb
+increase_42	prices	O
+increase_42	to	O
+increase_42	consumers	O

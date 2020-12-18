@@ -1,0 +1,11 @@
+postulate_53	It	O
+postulate_53	is	O
+postulate_53	obviously	O
+postulate_53	no	O
+postulate_53	solution	O
+postulate_53	to	O
+postulate_53	postulate	postulate_vrb
+postulate_53	something	O
+postulate_53	even	O
+postulate_53	more	O
+postulate_53	improbable	O

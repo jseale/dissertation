@@ -1,0 +1,15 @@
+impact_71	The	O
+impact_71	dam	O
+impact_71	is	O
+impact_71	opposed	O
+impact_71	based	O
+impact_71	on	O
+impact_71	its	O
+impact_71	impact	impact_nou
+impact_71	of	O
+impact_71	the	O
+impact_71	environment	O
+impact_71	and	O
+impact_71	relocation	O
+impact_71	of	O
+impact_71	residents	O

@@ -1,0 +1,8 @@
+refuse_1	Production	O
+refuse_1	of	O
+refuse_1	equipment	O
+refuse_1	for	O
+refuse_1	recovery	O
+refuse_1	of	O
+refuse_1	building	O
+refuse_1	refuse	refuse_nou

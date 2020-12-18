@@ -1,0 +1,10 @@
+retard_49	To	O
+retard_49	indicate	O
+retard_49	the	O
+retard_49	factors	O
+retard_49	that	O
+retard_49	tend	O
+retard_49	to	O
+retard_49	retard	retard_vrb
+retard_49	economic	O
+retard_49	development	O

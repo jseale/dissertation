@@ -1,0 +1,14 @@
+bow_2	These	O
+bow_2	include	O
+bow_2	dendrites	O
+bow_2	branch	O
+bow_2	type	O
+bow_2	bush	O
+bow_2	type	O
+bow_2	spikes	O
+bow_2	strings	O
+bow_2	bow	bow_nou-knot
+bow_2	ties	O
+bow_2	and	O
+bow_2	vented	O
+bow_2	trees	O

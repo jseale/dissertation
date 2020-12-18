@@ -1,0 +1,14 @@
+expose_30	The	O
+expose_30	oranges	O
+expose_30	then	O
+expose_30	go	O
+expose_30	through	O
+expose_30	roller	O
+expose_30	conveyors	O
+expose_30	which	O
+expose_30	expose	expose_vrb
+expose_30	all	O
+expose_30	sides	O
+expose_30	of	O
+expose_30	the	O
+expose_30	fruit	O

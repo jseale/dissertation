@@ -1,0 +1,12 @@
+intrigue_10	While	O
+intrigue_10	the	O
+intrigue_10	creatures	O
+intrigue_10	intrigue	intrigue_nou-vrb
+intrigue_10	Nancy	O
+intrigue_10	Charlie	O
+intrigue_10	continually	O
+intrigue_10	acts	O
+intrigue_10	with	O
+intrigue_10	fear	O
+intrigue_10	and	O
+intrigue_10	resistance	O

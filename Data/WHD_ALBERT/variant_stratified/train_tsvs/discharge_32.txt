@@ -1,0 +1,14 @@
+discharge_32	By	O
+discharge_32	mean	O
+discharge_32	annual	O
+discharge_32	discharge	discharge_nou
+discharge_32	it	O
+discharge_32	ranks	O
+discharge_32	third	O
+discharge_32	in	O
+discharge_32	Europe	O
+discharge_32	after	O
+discharge_32	the	O
+discharge_32	Volga	O
+discharge_32	and	O
+discharge_32	Danube	O

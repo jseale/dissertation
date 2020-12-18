@@ -1,0 +1,11 @@
+transform_78	The	O
+transform_78	function	O
+transform_78	eᵃˣ	O
+transform_78	is	O
+transform_78	thus	O
+transform_78	an	O
+transform_78	eigenfunction	O
+transform_78	of	O
+transform_78	the	O
+transform_78	Weierstrass	O
+transform_78	transform	transform_nou

@@ -1,0 +1,13 @@
+construct_74	The	O
+construct_74	area	O
+construct_74	in	O
+construct_74	which	O
+construct_74	Augustus	O
+construct_74	wanted	O
+construct_74	to	O
+construct_74	construct	construct_vrb
+construct_74	Classe	O
+construct_74	was	O
+construct_74	in	O
+construct_74	a	O
+construct_74	lagoon	O

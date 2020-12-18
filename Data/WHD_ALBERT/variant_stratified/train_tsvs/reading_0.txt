@@ -1,0 +1,13 @@
+reading_0	On	O
+reading_0	this	O
+reading_0	reading	reading_en
+reading_0	formula	O
+reading_0	is	O
+reading_0	valid	O
+reading_0	if	O
+reading_0	all	O
+reading_0	such	O
+reading_0	interpretations	O
+reading_0	make	O
+reading_0	it	O
+reading_0	true	O

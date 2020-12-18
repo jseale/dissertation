@@ -1,0 +1,12 @@
+attribute_11	An	O
+attribute_11	attribute	attribute_nou
+attribute_11	statement	O
+attribute_11	asserts	O
+attribute_11	that	O
+attribute_11	a	O
+attribute_11	subject	O
+attribute_11	is	O
+attribute_11	associated	O
+attribute_11	with	O
+attribute_11	certain	O
+attribute_11	attributes	O

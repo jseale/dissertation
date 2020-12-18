@@ -1,0 +1,9 @@
+fragment_61	These	O
+fragment_61	steps	O
+fragment_61	are	O
+fragment_61	collectively	O
+fragment_61	referred	O
+fragment_61	to	O
+fragment_61	as	O
+fragment_61	fragment	fragment_nou
+fragment_61	processing	O

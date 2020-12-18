@@ -1,0 +1,17 @@
+coordinate_27	Because	O
+coordinate_27	the	O
+coordinate_27	preferred	O
+coordinate_27	coordinate	coordinate_adj-nou
+coordinate_27	system	O
+coordinate_27	is	O
+coordinate_27	cylindrical	O
+coordinate_27	polar	O
+coordinate_27	this	O
+coordinate_27	type	O
+coordinate_27	of	O
+coordinate_27	orthotropy	O
+coordinate_27	is	O
+coordinate_27	also	O
+coordinate_27	called	O
+coordinate_27	polar	O
+coordinate_27	orthotropy	O

@@ -1,0 +1,15 @@
+progress_31	Much	O
+progress_31	progress	progress_nou
+progress_31	has	O
+progress_31	been	O
+progress_31	made	O
+progress_31	since	O
+progress_31	though	O
+progress_31	there	O
+progress_31	is	O
+progress_31	still	O
+progress_31	debate	O
+progress_31	as	O
+progress_31	to	O
+progress_31	the	O
+progress_31	details	O

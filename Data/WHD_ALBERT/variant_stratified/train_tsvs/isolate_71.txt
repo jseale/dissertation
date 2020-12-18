@@ -1,0 +1,16 @@
+isolate_71	The	O
+isolate_71	complete	O
+isolate_71	sequence	O
+isolate_71	of	O
+isolate_71	the	O
+isolate_71	genomic	O
+isolate_71	RNA	O
+isolate_71	of	O
+isolate_71	an	O
+isolate_71	isolate	isolate_nou
+isolate_71	of	O
+isolate_71	Lily	O
+isolate_71	virus	O
+isolate_71	X	O
+isolate_71	genus	O
+isolate_71	Potexvirus	O

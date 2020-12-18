@@ -1,0 +1,7 @@
+permit_23	This	O
+permit_23	permit	permit_nou
+permit_23	can	O
+permit_23	be	O
+permit_23	obtained	O
+permit_23	at	O
+permit_23	Leh	O

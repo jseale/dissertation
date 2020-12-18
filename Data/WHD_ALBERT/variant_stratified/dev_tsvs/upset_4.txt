@@ -1,0 +1,12 @@
+upset_4	Marta	O
+upset_4	does	O
+upset_4	not	O
+upset_4	understand	O
+upset_4	the	O
+upset_4	situation	O
+upset_4	and	O
+upset_4	is	O
+upset_4	very	O
+upset_4	angry	O
+upset_4	and	O
+upset_4	upset	upset_nou

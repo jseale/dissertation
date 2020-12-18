@@ -1,0 +1,13 @@
+laminate_33	Thin	O
+laminate_33	walled	O
+laminate_33	beams	O
+laminate_33	are	O
+laminate_33	particularly	O
+laminate_33	useful	O
+laminate_33	when	O
+laminate_33	the	O
+laminate_33	material	O
+laminate_33	is	O
+laminate_33	a	O
+laminate_33	composite	O
+laminate_33	laminate	laminate_nou

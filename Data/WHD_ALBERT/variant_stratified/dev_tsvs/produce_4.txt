@@ -1,0 +1,17 @@
+produce_4	P.	O
+produce_4	lutea	O
+produce_4	can	O
+produce_4	produce	produce_vrb
+produce_4	multiple	O
+produce_4	flower	O
+produce_4	stalks	O
+produce_4	in	O
+produce_4	spring	O
+produce_4	and	O
+produce_4	can	O
+produce_4	reach	O
+produce_4	as	O
+produce_4	high	O
+produce_4	as	O
+produce_4	50	O
+produce_4	cm	O

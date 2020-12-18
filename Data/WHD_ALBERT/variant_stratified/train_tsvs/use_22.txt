@@ -1,0 +1,14 @@
+use_22	His	O
+use_22	team	O
+use_22	pioneered	O
+use_22	the	O
+use_22	use	use_nou
+use_22	of	O
+use_22	GRACE	O
+use_22	for	O
+use_22	remote	O
+use_22	sensing	O
+use_22	of	O
+use_22	groundwater	O
+use_22	storage	O
+use_22	changes	O

@@ -1,0 +1,15 @@
+converse_42	It	O
+converse_42	is	O
+converse_42	believed	O
+converse_42	that	O
+converse_42	Thad	O
+converse_42	Miller	O
+converse_42	spent	O
+converse_42	most	O
+converse_42	of	O
+converse_42	his	O
+converse_42	childhood	O
+converse_42	in	O
+converse_42	the	O
+converse_42	Converse	converse_adj-nou
+converse_42	area	O

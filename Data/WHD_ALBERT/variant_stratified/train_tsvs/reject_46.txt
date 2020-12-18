@@ -1,0 +1,14 @@
+reject_46	As	O
+reject_46	a	O
+reject_46	result	O
+reject_46	it	O
+reject_46	motivated	O
+reject_46	this	O
+reject_46	movement	O
+reject_46	to	O
+reject_46	reject	reject_vrb
+reject_46	traditional	O
+reject_46	gender	O
+reject_46	and	O
+reject_46	racial	O
+reject_46	rules	O

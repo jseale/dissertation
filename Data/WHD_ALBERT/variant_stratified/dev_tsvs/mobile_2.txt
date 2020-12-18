@@ -1,0 +1,11 @@
+mobile_2	Fortumo	O
+mobile_2	has	O
+mobile_2	integrated	O
+mobile_2	approximately	O
+mobile_2	350	O
+mobile_2	mobile	mobile
+mobile_2	operators	O
+mobile_2	to	O
+mobile_2	its	O
+mobile_2	billing	O
+mobile_2	platform	O

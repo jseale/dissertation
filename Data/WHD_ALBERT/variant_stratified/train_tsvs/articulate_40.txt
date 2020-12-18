@@ -1,0 +1,17 @@
+articulate_40	Some	O
+articulate_40	thinkers	O
+articulate_40	seek	O
+articulate_40	to	O
+articulate_40	articulate	articulate_vrb
+articulate_40	axiomatic	O
+articulate_40	assumptions	O
+articulate_40	on	O
+articulate_40	which	O
+articulate_40	science	O
+articulate_40	may	O
+articulate_40	be	O
+articulate_40	based	O
+articulate_40	a	O
+articulate_40	form	O
+articulate_40	of	O
+articulate_40	foundationalism	O

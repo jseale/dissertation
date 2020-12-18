@@ -1,0 +1,11 @@
+polish_10	In	O
+polish_10	the	O
+polish_10	Second	O
+polish_10	Polish	polish_geo
+polish_10	Republic	O
+polish_10	Studnicki	O
+polish_10	devoted	O
+polish_10	his	O
+polish_10	time	O
+polish_10	to	O
+polish_10	writing	O

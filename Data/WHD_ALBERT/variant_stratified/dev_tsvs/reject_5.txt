@@ -1,0 +1,13 @@
+reject_5	Both	O
+reject_5	groups	O
+reject_5	reject	reject_vrb
+reject_5	the	O
+reject_5	Oslo	O
+reject_5	Accords	O
+reject_5	and	O
+reject_5	other	O
+reject_5	plans	O
+reject_5	for	O
+reject_5	peace	O
+reject_5	with	O
+reject_5	Israel	O

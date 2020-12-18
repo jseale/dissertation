@@ -1,0 +1,16 @@
+laminate_57	Westermann	O
+laminate_57	experimented	O
+laminate_57	with	O
+laminate_57	all	O
+laminate_57	manner	O
+laminate_57	of	O
+laminate_57	wood	O
+laminate_57	metal	O
+laminate_57	laminate	laminate_nou
+laminate_57	synthetic	O
+laminate_57	materials	O
+laminate_57	such	O
+laminate_57	as	O
+laminate_57	rubber	O
+laminate_57	and	O
+laminate_57	more	O

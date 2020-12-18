@@ -1,0 +1,14 @@
+combine_4	His	O
+combine_4	stock	O
+combine_4	in	O
+combine_4	the	O
+combine_4	2012	O
+combine_4	NFL	O
+combine_4	Draft	O
+combine_4	was	O
+combine_4	greatly	O
+combine_4	improved	O
+combine_4	by	O
+combine_4	his	O
+combine_4	combine	combine_nou
+combine_4	performance	O

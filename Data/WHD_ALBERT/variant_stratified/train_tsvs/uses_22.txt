@@ -1,0 +1,9 @@
+uses_22	Millia	O
+uses_22	uses	uses_vrb
+uses_22	this	O
+uses_22	as	O
+uses_22	another	O
+uses_22	chance	O
+uses_22	to	O
+uses_22	find	O
+uses_22	Zato	O

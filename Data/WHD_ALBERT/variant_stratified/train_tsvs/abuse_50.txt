@@ -1,0 +1,12 @@
+abuse_50	Prevention	O
+abuse_50	of	O
+abuse_50	Mental	O
+abuse_50	Disorders	O
+abuse_50	Substance	O
+abuse_50	Abuse	abuse_nou
+abuse_50	and	O
+abuse_50	Problem	O
+abuse_50	Behaviors	O
+abuse_50	A	O
+abuse_50	Developmental	O
+abuse_50	Perspective	O

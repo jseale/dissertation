@@ -1,0 +1,15 @@
+discard_68	From	O
+discard_68	the	O
+discard_68	13	O
+discard_68	card	O
+discard_68	each	O
+discard_68	player	O
+discard_68	must	O
+discard_68	create	O
+discard_68	4	O
+discard_68	card	O
+discard_68	groups	O
+discard_68	and	O
+discard_68	discard	discard_vrb
+discard_68	one	O
+discard_68	card	O

@@ -1,0 +1,15 @@
+bow_35	In	O
+bow_35	late-2010	O
+bow_35	she	O
+bow_35	began	O
+bow_35	using	O
+bow_35	a	O
+bow_35	bow	bow_nou-knot
+bow_35	constructed	O
+bow_35	for	O
+bow_35	her	O
+bow_35	by	O
+bow_35	Daniel	O
+bow_35	Tobias	O
+bow_35	Navea	O
+bow_35	Vera	O

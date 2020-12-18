@@ -1,0 +1,9 @@
+alternate_54	It	O
+alternate_54	has	O
+alternate_54	alternate	alternate_adj-nou
+alternate_54	entire	O
+alternate_54	smooth	O
+alternate_54	leaves	O
+alternate_54	and	O
+alternate_54	reticulate	O
+alternate_54	veins	O

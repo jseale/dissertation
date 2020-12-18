@@ -1,0 +1,13 @@
+perfect_52	According	O
+perfect_52	to	O
+perfect_52	Vedanta	O
+perfect_52	God	O
+perfect_52	as	O
+perfect_52	Sat	O
+perfect_52	Chit	O
+perfect_52	Ananda	O
+perfect_52	is	O
+perfect_52	perfect	perfect_adj
+perfect_52	existence	O
+perfect_52	consciousness	O
+perfect_52	bliss	O

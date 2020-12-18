@@ -1,0 +1,7 @@
+recount_68	They	O
+recount_68	frequently	O
+recount_68	recount	recount_vrb
+recount_68	stories	O
+recount_68	used	O
+recount_68	in	O
+recount_68	wayang	O

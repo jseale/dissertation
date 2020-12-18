@@ -1,0 +1,12 @@
+delegate_58	Complicating	O
+delegate_58	matters	O
+delegate_58	somewhat	O
+delegate_58	before	O
+delegate_58	the	O
+delegate_58	1960	O
+delegate_58	census	O
+delegate_58	delegate	delegate_nou
+delegate_58	districts	O
+delegate_58	were	O
+delegate_58	not	O
+delegate_58	numbered	O

@@ -1,0 +1,13 @@
+present_70	Value	O
+present_70	Contrasts	O
+present_70	and	O
+present_70	Consensus	O
+present_70	in	O
+present_70	Present	present_adj-nou
+present_70	Day	O
+present_70	Europe	O
+present_70	Painting	O
+present_70	Europe	O
+present_70	's	O
+present_70	Moral	O
+present_70	Landscapes	O

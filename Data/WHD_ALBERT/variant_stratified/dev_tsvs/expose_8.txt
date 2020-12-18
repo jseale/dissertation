@@ -1,0 +1,13 @@
+expose_8	Some	O
+expose_8	programming	O
+expose_8	language	O
+expose_8	implementations	O
+expose_8	expose	expose_vrb
+expose_8	their	O
+expose_8	debugging	O
+expose_8	functions	O
+expose_8	for	O
+expose_8	use	O
+expose_8	by	O
+expose_8	other	O
+expose_8	programs	O

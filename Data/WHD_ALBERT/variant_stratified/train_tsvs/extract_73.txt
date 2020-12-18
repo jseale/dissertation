@@ -1,0 +1,17 @@
+extract_73	Dry	O
+extract_73	blowing	O
+extract_73	is	O
+extract_73	a	O
+extract_73	method	O
+extract_73	to	O
+extract_73	extract	extract_vrb
+extract_73	gold	O
+extract_73	particles	O
+extract_73	from	O
+extract_73	dry	O
+extract_73	soil	O
+extract_73	without	O
+extract_73	the	O
+extract_73	use	O
+extract_73	of	O
+extract_73	water	O

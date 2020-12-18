@@ -1,0 +1,15 @@
+reject_2	This	O
+reject_2	type	O
+reject_2	of	O
+reject_2	structure	O
+reject_2	would	O
+reject_2	be	O
+reject_2	known	O
+reject_2	as	O
+reject_2	a	O
+reject_2	band	O
+reject_2	reject	reject_nou
+reject_2	or	O
+reject_2	band	O
+reject_2	stop	O
+reject_2	filter	O

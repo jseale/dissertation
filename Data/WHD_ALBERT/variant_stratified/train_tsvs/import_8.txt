@@ -1,0 +1,17 @@
+import_8	The	O
+import_8	Canadian	O
+import_8	government	O
+import_8	also	O
+import_8	brought	O
+import_8	in	O
+import_8	heavier	O
+import_8	import	import_nou
+import_8	and	O
+import_8	hygiene	O
+import_8	restrictions	O
+import_8	on	O
+import_8	EU	O
+import_8	cucumbers	O
+import_8	lettuces	O
+import_8	and	O
+import_8	tomatoes	O

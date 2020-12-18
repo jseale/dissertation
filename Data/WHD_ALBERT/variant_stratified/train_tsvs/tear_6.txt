@@ -1,0 +1,15 @@
+tear_6	German	O
+tear_6	Federal	O
+tear_6	and	O
+tear_6	state	O
+tear_6	special	O
+tear_6	police	O
+tear_6	forces	O
+tear_6	use	O
+tear_6	the	O
+tear_6	MZP	O
+tear_6	1	O
+tear_6	as	O
+tear_6	tear	tear_nou
+tear_6	gas	O
+tear_6	launcher	O

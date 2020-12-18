@@ -1,0 +1,12 @@
+correlate_34	The	O
+correlate_34	two	O
+correlate_34	variables	O
+correlate_34	are	O
+correlate_34	n't	O
+correlate_34	related	O
+correlate_34	at	O
+correlate_34	all	O
+correlate_34	but	O
+correlate_34	correlate	correlate_nou-vrb
+correlate_34	by	O
+correlate_34	chance	O

@@ -1,0 +1,15 @@
+escort_2	The	O
+escort_2	ship	O
+escort_2	was	O
+escort_2	converted	O
+escort_2	to	O
+escort_2	an	O
+escort_2	escort	escort_nou
+escort_2	destroyer	O
+escort_2	and	O
+escort_2	sank	O
+escort_2	one	O
+escort_2	submarine	O
+escort_2	during	O
+escort_2	the	O
+escort_2	war	O

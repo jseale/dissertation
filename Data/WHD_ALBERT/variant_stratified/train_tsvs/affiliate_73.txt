@@ -1,0 +1,14 @@
+affiliate_73	He	O
+affiliate_73	last	O
+affiliate_73	pitched	O
+affiliate_73	in	O
+affiliate_73	the	O
+affiliate_73	United	O
+affiliate_73	States	O
+affiliate_73	with	O
+affiliate_73	the	O
+affiliate_73	Cincinnati	O
+affiliate_73	Reds	O
+affiliate_73	AAA	O
+affiliate_73	affiliate	affiliate_nou
+affiliate_73	Louisville	O

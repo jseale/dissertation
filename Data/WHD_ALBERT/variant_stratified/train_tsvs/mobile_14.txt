@@ -1,0 +1,13 @@
+mobile_14	BSNL	O
+mobile_14	Mobile	mobile
+mobile_14	offers	O
+mobile_14	both	O
+mobile_14	GSM	O
+mobile_14	as	O
+mobile_14	well	O
+mobile_14	as	O
+mobile_14	CDMA	O
+mobile_14	prepaid	O
+mobile_14	and	O
+mobile_14	postpaid	O
+mobile_14	services	O

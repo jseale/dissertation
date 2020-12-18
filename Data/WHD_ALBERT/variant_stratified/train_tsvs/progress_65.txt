@@ -1,0 +1,12 @@
+progress_65	You	O
+progress_65	can	O
+progress_65	not	O
+progress_65	progress	progress_vrb
+progress_65	in	O
+progress_65	the	O
+progress_65	storyline	O
+progress_65	without	O
+progress_65	speaking	O
+progress_65	to	O
+progress_65	Al	O
+progress_65	Sinha	O

@@ -1,0 +1,10 @@
+approximate_7	The	O
+approximate_7	earliest	O
+approximate_7	atlas	O
+approximate_7	Ptolemy	O
+approximate_7	's	O
+approximate_7	Geography	O
+approximate_7	is	O
+approximate_7	made	O
+approximate_7	approximate	approximate_adj-nou
+approximate_7	date	O

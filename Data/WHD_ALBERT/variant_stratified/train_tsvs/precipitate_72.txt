@@ -1,0 +1,8 @@
+precipitate_72	The	O
+precipitate_72	suspended	O
+precipitate_72	load	O
+precipitate_72	of	O
+precipitate_72	the	O
+precipitate_72	detritus	O
+precipitate_72	will	O
+precipitate_72	precipitate	precipitate_vrb

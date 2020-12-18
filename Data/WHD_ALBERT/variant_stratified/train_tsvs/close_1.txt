@@ -1,0 +1,15 @@
+close_1	Anecdotal	O
+close_1	evidence	O
+close_1	indicates	O
+close_1	that	O
+close_1	nobody	O
+close_1	would	O
+close_1	show	O
+close_1	a	O
+close_1	bid	O
+close_1	anywhere	O
+close_1	close	close_adj-nou
+close_1	to	O
+close_1	that	O
+close_1	consensus	O
+close_1	level	O

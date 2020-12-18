@@ -1,0 +1,17 @@
+graduate_55	He	O
+graduate_55	graduated	O
+graduate_55	in	O
+graduate_55	1984	O
+graduate_55	and	O
+graduate_55	went	O
+graduate_55	on	O
+graduate_55	to	O
+graduate_55	graduate	graduate_adj-nou
+graduate_55	school	O
+graduate_55	at	O
+graduate_55	Berkeley	O
+graduate_55	receiving	O
+graduate_55	his	O
+graduate_55	Ph.D.	O
+graduate_55	in	O
+graduate_55	1989	O

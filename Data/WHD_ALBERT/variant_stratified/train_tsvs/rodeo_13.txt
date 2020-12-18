@@ -1,0 +1,16 @@
+rodeo_13	She	O
+rodeo_13	studied	O
+rodeo_13	the	O
+rodeo_13	violin	O
+rodeo_13	was	O
+rodeo_13	rodeo	rodeo
+rodeo_13	queen	O
+rodeo_13	and	O
+rodeo_13	took	O
+rodeo_13	lessons	O
+rodeo_13	in	O
+rodeo_13	elocution	O
+rodeo_13	with	O
+rodeo_13	Ida	O
+rodeo_13	Lou	O
+rodeo_13	Anderson	O

@@ -1,0 +1,13 @@
+duplicate_14	Introduction	O
+duplicate_14	to	O
+duplicate_14	the	O
+duplicate_14	Laws	O
+duplicate_14	of	O
+duplicate_14	Duplicate	duplicate_adj-nou
+duplicate_14	Bridge	O
+duplicate_14	issued	O
+duplicate_14	by	O
+duplicate_14	the	O
+duplicate_14	World	O
+duplicate_14	Bridge	O
+duplicate_14	Federation	O

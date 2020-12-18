@@ -1,0 +1,14 @@
+retard_71	Lack	O
+retard_71	of	O
+retard_71	education	O
+retard_71	continued	O
+retard_71	to	O
+retard_71	retard	retard_vrb
+retard_71	the	O
+retard_71	spread	O
+retard_71	of	O
+retard_71	advanced	O
+retard_71	technology	O
+retard_71	in	O
+retard_71	rural	O
+retard_71	areas	O

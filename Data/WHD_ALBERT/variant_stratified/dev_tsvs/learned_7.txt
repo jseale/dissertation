@@ -1,0 +1,17 @@
+learned_7	G	O
+learned_7	Dragon	O
+learned_7	stated	O
+learned_7	that	O
+learned_7	performing	O
+learned_7	with	O
+learned_7	Elliott	O
+learned_7	was	O
+learned_7	such	O
+learned_7	an	O
+learned_7	honor	O
+learned_7	and	O
+learned_7	that	O
+learned_7	he	O
+learned_7	learned	learned_vrb
+learned_7	a	O
+learned_7	lot	O

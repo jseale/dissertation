@@ -1,0 +1,12 @@
+separate_62	It	O
+separate_62	was	O
+separate_62	shown	O
+separate_62	with	O
+separate_62	a	O
+separate_62	separate	separate_adj
+separate_62	English	O
+separate_62	dub	O
+separate_62	produced	O
+separate_62	in	O
+separate_62	the	O
+separate_62	U.S	O

@@ -1,0 +1,13 @@
+perfume_7	Traditionally	O
+perfume_7	girls	O
+perfume_7	wear	O
+perfume_7	perfume	perfume_nou
+perfume_7	and	O
+perfume_7	make	O
+perfume_7	up	O
+perfume_7	such	O
+perfume_7	as	O
+perfume_7	eyeshadow	O
+perfume_7	lipstick	O
+perfume_7	and	O
+perfume_7	blush	O

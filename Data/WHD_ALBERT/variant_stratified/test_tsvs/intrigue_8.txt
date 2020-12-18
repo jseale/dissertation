@@ -1,0 +1,15 @@
+intrigue_8	Evans	O
+intrigue_8	political	O
+intrigue_8	intrigue	intrigue_nou
+intrigue_8	provoked	O
+intrigue_8	Swift	O
+intrigue_8	during	O
+intrigue_8	an	O
+intrigue_8	inspection	O
+intrigue_8	of	O
+intrigue_8	the	O
+intrigue_8	clergy	O
+intrigue_8	of	O
+intrigue_8	Meath	O
+intrigue_8	at	O
+intrigue_8	Trim	O

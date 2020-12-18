@@ -1,0 +1,15 @@
+diffuse_22	Being	O
+diffuse_22	a	O
+diffuse_22	diffuse	diffuse_adj
+diffuse_22	object	O
+diffuse_22	its	O
+diffuse_22	visibility	O
+diffuse_22	is	O
+diffuse_22	strongly	O
+diffuse_22	affected	O
+diffuse_22	by	O
+diffuse_22	small	O
+diffuse_22	amounts	O
+diffuse_22	of	O
+diffuse_22	light	O
+diffuse_22	pollution	O

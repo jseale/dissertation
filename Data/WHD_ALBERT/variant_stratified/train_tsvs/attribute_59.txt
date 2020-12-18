@@ -1,0 +1,12 @@
+attribute_59	Contemporary	O
+attribute_59	Communist	O
+attribute_59	news	O
+attribute_59	sources	O
+attribute_59	attribute	attribute_vrb
+attribute_59	this	O
+attribute_59	decision	O
+attribute_59	to	O
+attribute_59	Fang	O
+attribute_59	Chih	O
+attribute_59	's	O
+attribute_59	deception	O

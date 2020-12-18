@@ -1,0 +1,9 @@
+estimate_4	The	O
+estimate_4	population	O
+estimate_4	of	O
+estimate_4	Chanov	O
+estimate_4	is	O
+estimate_4	1,500	O
+estimate_4	2,000	O
+estimate_4	2006	O
+estimate_4	estimate	estimate_nou

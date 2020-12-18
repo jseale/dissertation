@@ -1,0 +1,15 @@
+impact_3	Will	O
+impact_3	it	O
+impact_3	Blend	O
+impact_3	has	O
+impact_3	had	O
+impact_3	an	O
+impact_3	amazing	O
+impact_3	impact	impact_nou
+impact_3	to	O
+impact_3	our	O
+impact_3	commercial	O
+impact_3	and	O
+impact_3	our	O
+impact_3	retail	O
+impact_3	products	O

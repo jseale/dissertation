@@ -1,0 +1,10 @@
+polish_52	Machulishche	O
+polish_52	Belarusian	O
+polish_52	Machulishche	O
+polish_52	Polish	polish_geo
+polish_52	Machuliskowo	O
+polish_52	is	O
+polish_52	a	O
+polish_52	village	O
+polish_52	in	O
+polish_52	Belarus	O

@@ -1,0 +1,11 @@
+recount_7	In	O
+recount_7	many	O
+recount_7	police	O
+recount_7	stations	O
+recount_7	he	O
+recount_7	did	O
+recount_7	in	O
+recount_7	fact	O
+recount_7	recount	recount_vrb
+recount_7	false	O
+recount_7	assaults	O

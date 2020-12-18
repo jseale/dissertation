@@ -1,0 +1,17 @@
+document_52	It	O
+document_52	is	O
+document_52	a	O
+document_52	pull	O
+document_52	parser	O
+document_52	which	O
+document_52	means	O
+document_52	it	O
+document_52	reads	O
+document_52	a	O
+document_52	little	O
+document_52	bit	O
+document_52	of	O
+document_52	the	O
+document_52	document	document_nou
+document_52	at	O
+document_52	once	O

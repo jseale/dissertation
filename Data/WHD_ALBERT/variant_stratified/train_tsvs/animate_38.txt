@@ -1,0 +1,13 @@
+animate_38	In	O
+animate_38	the	O
+animate_38	daytime	O
+animate_38	they	O
+animate_38	can	O
+animate_38	animate	animate_vrb
+animate_38	a	O
+animate_38	vampires	O
+animate_38	corpse	O
+animate_38	whilst	O
+animate_38	it	O
+animate_38	is	O
+animate_38	soulless	O

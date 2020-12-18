@@ -1,0 +1,16 @@
+sake_68	Along	O
+sake_68	with	O
+sake_68	their	O
+sake_68	constantly	O
+sake_68	updating	O
+sake_68	product	O
+sake_68	list	O
+sake_68	they	O
+sake_68	are	O
+sake_68	well	O
+sake_68	known	O
+sake_68	for	O
+sake_68	their	O
+sake_68	Shimantogawa	O
+sake_68	四万十川	O
+sake_68	sake	sake_jp

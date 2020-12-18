@@ -1,0 +1,17 @@
+pasty_39	The	O
+pasty_39	sign	O
+pasty_39	was	O
+pasty_39	to	O
+pasty_39	be	O
+pasty_39	unveiled	O
+pasty_39	at	O
+pasty_39	a	O
+pasty_39	ceremony	O
+pasty_39	celebrating	O
+pasty_39	mining	O
+pasty_39	during	O
+pasty_39	the	O
+pasty_39	forthcoming	O
+pasty_39	International	O
+pasty_39	Pasty	pasty_adj
+pasty_39	Festival	O

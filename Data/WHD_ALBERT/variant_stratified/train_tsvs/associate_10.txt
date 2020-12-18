@@ -1,0 +1,13 @@
+associate_10	Roselle	O
+associate_10	Huplander	O
+associate_10	an	O
+associate_10	obese	O
+associate_10	associate	associate_adj-nou
+associate_10	of	O
+associate_10	Thelma	O
+associate_10	and	O
+associate_10	Iola	O
+associate_10	who	O
+associate_10	is	O
+associate_10	never	O
+associate_10	seen	O

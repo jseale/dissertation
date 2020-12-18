@@ -1,0 +1,15 @@
+affiliate_53	In	O
+affiliate_53	1978	O
+affiliate_53	HSBC	O
+affiliate_53	was	O
+affiliate_53	forced	O
+affiliate_53	to	O
+affiliate_53	convert	O
+affiliate_53	its	O
+affiliate_53	branches	O
+affiliate_53	into	O
+affiliate_53	an	O
+affiliate_53	affiliate	affiliate_nou
+affiliate_53	Saudi	O
+affiliate_53	British	O
+affiliate_53	Bank	O

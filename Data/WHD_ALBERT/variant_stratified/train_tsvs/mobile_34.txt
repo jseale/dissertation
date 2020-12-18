@@ -1,0 +1,8 @@
+mobile_34	The	O
+mobile_34	Siemens	O
+mobile_34	M65	O
+mobile_34	is	O
+mobile_34	a	O
+mobile_34	robust	O
+mobile_34	mobile	mobile
+mobile_34	phone	O

@@ -1,0 +1,9 @@
+incline_38	The	O
+incline_38	route	O
+incline_38	heads	O
+incline_38	north	O
+incline_38	northeast	O
+incline_38	on	O
+incline_38	a	O
+incline_38	slight	O
+incline_38	incline	incline_nou

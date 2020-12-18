@@ -1,0 +1,12 @@
+conduct_15	This	O
+conduct_15	was	O
+conduct_15	not	O
+conduct_15	Carter	O
+conduct_15	's	O
+conduct_15	first	O
+conduct_15	breach	O
+conduct_15	of	O
+conduct_15	conduct	conduct_nou
+conduct_15	with	O
+conduct_15	the	O
+conduct_15	club	O

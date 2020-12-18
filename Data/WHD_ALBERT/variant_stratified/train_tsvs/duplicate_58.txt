@@ -1,0 +1,13 @@
+duplicate_58	Light	O
+duplicate_58	spectrums	O
+duplicate_58	that	O
+duplicate_58	most	O
+duplicate_58	closely	O
+duplicate_58	duplicate	duplicate_vrb
+duplicate_58	nature	O
+duplicate_58	are	O
+duplicate_58	going	O
+duplicate_58	to	O
+duplicate_58	be	O
+duplicate_58	most	O
+duplicate_58	efficient	O

@@ -1,0 +1,8 @@
+convert_30	Houthis	O
+convert_30	militants	O
+convert_30	to	O
+convert_30	Jews	O
+convert_30	Convert	convert_vrb
+convert_30	or	O
+convert_30	leave	O
+convert_30	Yemen	O

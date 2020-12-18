@@ -1,0 +1,17 @@
+misuse_0	Nawaz	O
+misuse_0	and	O
+misuse_0	Shahbaz	O
+misuse_0	Sharif	O
+misuse_0	were	O
+misuse_0	accused	O
+misuse_0	of	O
+misuse_0	misuse	misuse_nou
+misuse_0	of	O
+misuse_0	authority	O
+misuse_0	and	O
+misuse_0	of	O
+misuse_0	wealth	O
+misuse_0	accumulation	O
+misuse_0	beyond	O
+misuse_0	their	O
+misuse_0	means	O

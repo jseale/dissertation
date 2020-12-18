@@ -1,0 +1,17 @@
+attribute_21	There	O
+attribute_21	is	O
+attribute_21	evidence	O
+attribute_21	that	O
+attribute_21	by	O
+attribute_21	attribute	attribute_nou
+attribute_21	processing	O
+attribute_21	is	O
+attribute_21	the	O
+attribute_21	preferred	O
+attribute_21	process	O
+attribute_21	for	O
+attribute_21	decision	O
+attribute_21	making	O
+attribute_21	Arieli	O
+attribute_21	et	O
+attribute_21	al	O

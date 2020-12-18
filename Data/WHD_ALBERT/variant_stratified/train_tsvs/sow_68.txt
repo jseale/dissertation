@@ -1,0 +1,13 @@
+sow_68	Pedraza	O
+sow_68	lost	O
+sow_68	his	O
+sow_68	second	O
+sow_68	preliminary	O
+sow_68	to	O
+sow_68	Daouda	O
+sow_68	Sow	sow_nou
+sow_68	of	O
+sow_68	France	O
+sow_68	by	O
+sow_68	points	O
+sow_68	13:9	O

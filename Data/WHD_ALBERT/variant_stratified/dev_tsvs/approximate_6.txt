@@ -1,0 +1,8 @@
+approximate_6	The	O
+approximate_6	dates	O
+approximate_6	are	O
+approximate_6	approximate	approximate_adj-nou
+approximate_6	indicating	O
+approximate_6	period	O
+approximate_6	of	O
+approximate_6	introduction	O

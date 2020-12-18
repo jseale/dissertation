@@ -1,0 +1,16 @@
+learned_10	In	O
+learned_10	his	O
+learned_10	adolescent	O
+learned_10	years	O
+learned_10	Moshe	O
+learned_10	learned	learned_vrb
+learned_10	at	O
+learned_10	the	O
+learned_10	yeshiva	O
+learned_10	of	O
+learned_10	Rabbi	O
+learned_10	Avraham	O
+learned_10	Greenberg	O
+learned_10	in	O
+learned_10	Kezmarok	O
+learned_10	Hungary	O

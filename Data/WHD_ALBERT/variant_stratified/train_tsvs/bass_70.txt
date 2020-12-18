@@ -1,0 +1,15 @@
+bass_70	The	O
+bass_70	spotted	O
+bass_70	bass	bass_corp
+bass_70	is	O
+bass_70	known	O
+bass_70	to	O
+bass_70	hybridize	O
+bass_70	with	O
+bass_70	the	O
+bass_70	smallmouth	O
+bass_70	which	O
+bass_70	sometimes	O
+bass_70	makes	O
+bass_70	identification	O
+bass_70	difficult	O

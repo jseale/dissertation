@@ -1,0 +1,13 @@
+uses_73	The	O
+uses_73	series	O
+uses_73	uses	uses_vrb
+uses_73	real	O
+uses_73	vintage	O
+uses_73	aircraft	O
+uses_73	and	O
+uses_73	re	O
+uses_73	creates	O
+uses_73	mid	O
+uses_73	air	O
+uses_73	combat	O
+uses_73	sequences	O

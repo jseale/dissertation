@@ -1,0 +1,12 @@
+use_68	Lancia	O
+use_68	continued	O
+use_68	to	O
+use_68	use	use_vrb
+use_68	the	O
+use_68	HF	O
+use_68	integrale	O
+use_68	16v	O
+use_68	throughout	O
+use_68	the	O
+use_68	1990	O
+use_68	season	O

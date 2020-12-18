@@ -1,0 +1,16 @@
+impact_0	First	O
+impact_0	book	O
+impact_0	in	O
+impact_0	a	O
+impact_0	projected	O
+impact_0	four	O
+impact_0	volume	O
+impact_0	study	O
+impact_0	of	O
+impact_0	the	O
+impact_0	course	O
+impact_0	and	O
+impact_0	impact	impact_nou
+impact_0	of	O
+impact_0	western	O
+impact_0	migration	O

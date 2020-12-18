@@ -1,0 +1,12 @@
+transport_14	The	O
+transport_14	neck	O
+transport_14	is	O
+transport_14	removable	O
+transport_14	from	O
+transport_14	the	O
+transport_14	body	O
+transport_14	for	O
+transport_14	easier	O
+transport_14	storage	O
+transport_14	and	O
+transport_14	transport	transport_nou

@@ -1,0 +1,12 @@
+overthrow_68	He	O
+overthrow_68	conspired	O
+overthrow_68	with	O
+overthrow_68	Yusa	O
+overthrow_68	Naganori	O
+overthrow_68	and	O
+overthrow_68	Yusa	O
+overthrow_68	Nobunori	O
+overthrow_68	to	O
+overthrow_68	overthrow	overthrow_vrb
+overthrow_68	his	O
+overthrow_68	lord	O

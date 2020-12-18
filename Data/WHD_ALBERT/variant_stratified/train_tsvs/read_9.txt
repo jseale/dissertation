@@ -1,0 +1,17 @@
+read_9	His	O
+read_9	translation	O
+read_9	received	O
+read_9	great	O
+read_9	praise	O
+read_9	and	O
+read_9	is	O
+read_9	one	O
+read_9	of	O
+read_9	the	O
+read_9	translations	O
+read_9	still	O
+read_9	read	read_past
+read_9	by	O
+read_9	English	O
+read_9	speakers	O
+read_9	today	O

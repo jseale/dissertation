@@ -1,0 +1,9 @@
+conscript_13	Conscript	conscript_nou
+conscript_13	service	O
+conscript_13	obligation	O
+conscript_13	was	O
+conscript_13	2	O
+conscript_13	years	O
+conscript_13	as	O
+conscript_13	of	O
+conscript_13	2004	O

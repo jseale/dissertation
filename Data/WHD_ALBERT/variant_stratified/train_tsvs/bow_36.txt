@@ -1,0 +1,15 @@
+bow_36	In	O
+bow_36	the	O
+bow_36	lower	O
+bow_36	pair	O
+bow_36	of	O
+bow_36	the	O
+bow_36	arms	O
+bow_36	he	O
+bow_36	holds	O
+bow_36	a	O
+bow_36	bow	bow_nou-knot
+bow_36	and	O
+bow_36	an	O
+bow_36	arrow	O
+bow_36	respectively	O

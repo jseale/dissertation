@@ -1,0 +1,14 @@
+excuse_39	The	O
+excuse_39	Empire	O
+excuse_39	wanted	O
+excuse_39	to	O
+excuse_39	use	O
+excuse_39	the	O
+excuse_39	rebellions	O
+excuse_39	as	O
+excuse_39	an	O
+excuse_39	excuse	excuse_nou
+excuse_39	to	O
+excuse_39	achieve	O
+excuse_39	their	O
+excuse_39	will	O

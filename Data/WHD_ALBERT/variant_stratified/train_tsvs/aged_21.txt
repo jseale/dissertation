@@ -1,0 +1,10 @@
+aged_21	Aged	aged
+aged_21	eleven	O
+aged_21	he	O
+aged_21	lost	O
+aged_21	his	O
+aged_21	right	O
+aged_21	eye	O
+aged_21	in	O
+aged_21	an	O
+aged_21	accident	O

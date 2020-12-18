@@ -1,0 +1,13 @@
+discharge_1	In	O
+discharge_1	1938	O
+discharge_1	he	O
+discharge_1	got	O
+discharge_1	his	O
+discharge_1	first	O
+discharge_1	patent	O
+discharge_1	Electron	O
+discharge_1	Discharge	discharge_nou
+discharge_1	Device	O
+discharge_1	on	O
+discharge_1	electron	O
+discharge_1	multipliers	O

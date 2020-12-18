@@ -1,0 +1,12 @@
+record_6	By	O
+record_6	1940	O
+record_6	they	O
+record_6	had	O
+record_6	a	O
+record_6	record	record_nou
+record_6	of	O
+record_6	338	O
+record_6	wins	O
+record_6	and	O
+record_6	12	O
+record_6	losses	O

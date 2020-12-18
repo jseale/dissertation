@@ -1,0 +1,14 @@
+escort_48	HMS	O
+escort_48	Avenger	O
+escort_48	was	O
+escort_48	a	O
+escort_48	Royal	O
+escort_48	Navy	O
+escort_48	escort	escort_nou
+escort_48	aircraft	O
+escort_48	carrier	O
+escort_48	during	O
+escort_48	the	O
+escort_48	Second	O
+escort_48	World	O
+escort_48	War	O

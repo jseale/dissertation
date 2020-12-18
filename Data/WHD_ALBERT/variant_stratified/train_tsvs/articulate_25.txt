@@ -1,0 +1,15 @@
+articulate_25	The	O
+articulate_25	literate	O
+articulate_25	and	O
+articulate_25	articulate	articulate_adj
+articulate_25	response	O
+articulate_25	of	O
+articulate_25	those	O
+articulate_25	inhabitants	O
+articulate_25	who	O
+articulate_25	wished	O
+articulate_25	to	O
+articulate_25	remain	O
+articulate_25	is	O
+articulate_25	well	O
+articulate_25	documented	O

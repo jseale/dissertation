@@ -1,0 +1,14 @@
+ornament_34	He	O
+ornament_34	works	O
+ornament_34	with	O
+ornament_34	the	O
+ornament_34	simplest	O
+ornament_34	ornament	ornament_nou
+ornament_34	consisting	O
+ornament_34	of	O
+ornament_34	wavy	O
+ornament_34	lines	O
+ornament_34	broken	O
+ornament_34	arches	O
+ornament_34	or	O
+ornament_34	loops	O

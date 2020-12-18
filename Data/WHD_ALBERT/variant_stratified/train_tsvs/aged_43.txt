@@ -1,0 +1,15 @@
+aged_43	Bouverie	O
+aged_43	died	O
+aged_43	on	O
+aged_43	19	O
+aged_43	May	O
+aged_43	1717	O
+aged_43	aged	aged
+aged_43	sixty	O
+aged_43	and	O
+aged_43	was	O
+aged_43	buried	O
+aged_43	at	O
+aged_43	St	O
+aged_43	Catherine	O
+aged_43	Cree	O

@@ -1,0 +1,11 @@
+expose_61	Defeated	O
+expose_61	when	O
+expose_61	the	O
+expose_61	Confessor	O
+expose_61	sacrificed	O
+expose_61	his	O
+expose_61	life	O
+expose_61	to	O
+expose_61	expose	expose_vrb
+expose_61	their	O
+expose_61	plan	O

@@ -1,0 +1,11 @@
+perfume_17	Famous	O
+perfume_17	commercials	O
+perfume_17	of	O
+perfume_17	the	O
+perfume_17	perfume	perfume_nou
+perfume_17	were	O
+perfume_17	directed	O
+perfume_17	by	O
+perfume_17	Jean	O
+perfume_17	Paul	O
+perfume_17	Goude	O

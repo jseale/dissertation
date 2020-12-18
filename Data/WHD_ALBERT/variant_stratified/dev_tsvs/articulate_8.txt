@@ -1,0 +1,17 @@
+articulate_8	Nevertheless	O
+articulate_8	any	O
+articulate_8	attempt	O
+articulate_8	to	O
+articulate_8	articulate	articulate_vrb
+articulate_8	solid	O
+articulate_8	links	O
+articulate_8	between	O
+articulate_8	Dada	O
+articulate_8	and	O
+articulate_8	these	O
+articulate_8	movements	O
+articulate_8	must	O
+articulate_8	be	O
+articulate_8	tenuous	O
+articulate_8	at	O
+articulate_8	best	O

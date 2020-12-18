@@ -1,0 +1,13 @@
+impact_76	It	O
+impact_76	was	O
+impact_76	also	O
+impact_76	equipped	O
+impact_76	to	O
+impact_76	collect	O
+impact_76	selenodetic	O
+impact_76	radiation	O
+impact_76	intensity	O
+impact_76	and	O
+impact_76	micrometeoroid	O
+impact_76	impact	impact_nou
+impact_76	data	O

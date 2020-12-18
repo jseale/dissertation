@@ -1,0 +1,13 @@
+discard_79	The	O
+discard_79	Drej	O
+discard_79	eventually	O
+discard_79	discard	discard_vrb
+discard_79	Akima	O
+discard_79	and	O
+discard_79	extract	O
+discard_79	the	O
+discard_79	Titan	O
+discard_79	's	O
+discard_79	map	O
+discard_79	from	O
+discard_79	Cale	O

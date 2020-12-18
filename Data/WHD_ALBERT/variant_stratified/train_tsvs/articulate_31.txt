@@ -1,0 +1,9 @@
+articulate_31	He	O
+articulate_31	is	O
+articulate_31	perfectly	O
+articulate_31	articulate	articulate_adj
+articulate_31	in	O
+articulate_31	both	O
+articulate_31	French	O
+articulate_31	and	O
+articulate_31	English	O

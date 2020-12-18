@@ -1,0 +1,10 @@
+alternate_77	Jordan	O
+alternate_77	is	O
+alternate_77	now	O
+alternate_77	an	O
+alternate_77	alternate	alternate_adj-nou
+alternate_77	captain	O
+alternate_77	for	O
+alternate_77	the	O
+alternate_77	Carolina	O
+alternate_77	Hurricanes	O

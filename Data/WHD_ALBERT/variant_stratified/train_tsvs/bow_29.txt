@@ -1,0 +1,14 @@
+bow_29	The	O
+bow_29	gaunt	O
+bow_29	honesty	O
+bow_29	of	O
+bow_29	those	O
+bow_29	projecting	O
+bow_29	concrete	O
+bow_29	frames	O
+bow_29	carrying	O
+bow_29	boxed	O
+bow_29	out	O
+bow_29	bow	bow_nou-knot
+bow_29	windows	O
+bow_29	persists	O

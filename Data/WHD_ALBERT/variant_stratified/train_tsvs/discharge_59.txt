@@ -1,0 +1,14 @@
+discharge_59	In	O
+discharge_59	1910	O
+discharge_59	the	O
+discharge_59	House	O
+discharge_59	established	O
+discharge_59	the	O
+discharge_59	first	O
+discharge_59	known	O
+discharge_59	discharge	discharge_nou
+discharge_59	rule	O
+discharge_59	since	O
+discharge_59	the	O
+discharge_59	Civil	O
+discharge_59	War	O

@@ -1,0 +1,9 @@
+coordinate_9	Go	O
+coordinate_9	games	O
+coordinate_9	are	O
+coordinate_9	recorded	O
+coordinate_9	with	O
+coordinate_9	a	O
+coordinate_9	simple	O
+coordinate_9	coordinate	coordinate_adj-nou
+coordinate_9	system	O

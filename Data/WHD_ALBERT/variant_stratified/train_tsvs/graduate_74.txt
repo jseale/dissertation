@@ -1,0 +1,10 @@
+graduate_74	He	O
+graduate_74	is	O
+graduate_74	a	O
+graduate_74	graduate	graduate_adj-nou
+graduate_74	of	O
+graduate_74	the	O
+graduate_74	United	O
+graduate_74	States	O
+graduate_74	Military	O
+graduate_74	Academy	O

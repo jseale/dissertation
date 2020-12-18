@@ -1,0 +1,16 @@
+rebel_59	The	O
+rebel_59	move	O
+rebel_59	made	O
+rebel_59	it	O
+rebel_59	practically	O
+rebel_59	impossible	O
+rebel_59	for	O
+rebel_59	anyone	O
+rebel_59	to	O
+rebel_59	escape	O
+rebel_59	the	O
+rebel_59	onslaught	O
+rebel_59	of	O
+rebel_59	the	O
+rebel_59	rebel	rebel_nou
+rebel_59	war	O

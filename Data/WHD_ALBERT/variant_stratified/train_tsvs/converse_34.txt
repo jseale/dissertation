@@ -1,0 +1,11 @@
+converse_34	The	O
+converse_34	converse	converse_adj-nou
+converse_34	of	O
+converse_34	Schur	O
+converse_34	's	O
+converse_34	lemma	O
+converse_34	is	O
+converse_34	not	O
+converse_34	true	O
+converse_34	in	O
+converse_34	general	O

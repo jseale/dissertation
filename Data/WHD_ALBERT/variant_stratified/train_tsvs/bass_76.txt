@@ -1,0 +1,13 @@
+bass_76	Fish	O
+bass_76	species	O
+bass_76	in	O
+bass_76	the	O
+bass_76	river	O
+bass_76	include	O
+bass_76	northern	O
+bass_76	pike	O
+bass_76	crappie	O
+bass_76	smallmouth	O
+bass_76	bass	bass_corp
+bass_76	and	O
+bass_76	carp	O

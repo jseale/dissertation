@@ -1,0 +1,10 @@
+contest_4	Belarus	O
+contest_4	won	O
+contest_4	the	O
+contest_4	Contest	contest_nou
+contest_4	by	O
+contest_4	a	O
+contest_4	single	O
+contest_4	point	O
+contest_4	over	O
+contest_4	Armenia	O

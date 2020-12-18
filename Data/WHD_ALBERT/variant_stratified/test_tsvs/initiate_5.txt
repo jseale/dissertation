@@ -1,0 +1,16 @@
+initiate_5	The	O
+initiate_5	sensors	O
+initiate_5	help	O
+initiate_5	to	O
+initiate_5	detect	O
+initiate_5	temperature	O
+initiate_5	changes	O
+initiate_5	quickly	O
+initiate_5	to	O
+initiate_5	report	O
+initiate_5	the	O
+initiate_5	fact	O
+initiate_5	to	O
+initiate_5	initiate	initiate_vrb
+initiate_5	preventive	O
+initiate_5	measures	O

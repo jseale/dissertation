@@ -1,0 +1,15 @@
+axes_19	The	O
+axes_19	output	O
+axes_19	for	O
+axes_19	the	O
+axes_19	orientation	O
+axes_19	tensor	O
+axes_19	is	O
+axes_19	in	O
+axes_19	the	O
+axes_19	three	O
+axes_19	orthogonal	O
+axes_19	perpendicular	O
+axes_19	axes	axes_nou
+axes_19	of	O
+axes_19	space	O

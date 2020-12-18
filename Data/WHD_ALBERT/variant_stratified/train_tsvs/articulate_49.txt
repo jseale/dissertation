@@ -1,0 +1,15 @@
+articulate_49	She	O
+articulate_49	said	O
+articulate_49	that	O
+articulate_49	there	O
+articulate_49	was	O
+articulate_49	enough	O
+articulate_49	space	O
+articulate_49	to	O
+articulate_49	articulate	articulate_vrb
+articulate_49	her	O
+articulate_49	political	O
+articulate_49	spirit	O
+articulate_49	at	O
+articulate_49	the	O
+articulate_49	JNU	O

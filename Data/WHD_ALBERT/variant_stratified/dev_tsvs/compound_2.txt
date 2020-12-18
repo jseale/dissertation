@@ -1,0 +1,16 @@
+compound_2	Like	O
+compound_2	ǀXam	O
+compound_2	ǂUngkue	O
+compound_2	used	O
+compound_2	inclusory	O
+compound_2	pronouns	O
+compound_2	for	O
+compound_2	compound	compound_nou
+compound_2	subjects:'The	O
+compound_2	lion	O
+compound_2	and	O
+compound_2	jackal	O
+compound_2	and	O
+compound_2	ostrich	O
+compound_2	they	O
+compound_2	went	O

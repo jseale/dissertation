@@ -1,0 +1,13 @@
+overthrow_9	Zhu	O
+overthrow_9	Youzhen	O
+overthrow_9	would	O
+overthrow_9	in	O
+overthrow_9	turn	O
+overthrow_9	overthrow	overthrow_vrb
+overthrow_9	him	O
+overthrow_9	next	O
+overthrow_9	year	O
+overthrow_9	and	O
+overthrow_9	take	O
+overthrow_9	the	O
+overthrow_9	throne	O

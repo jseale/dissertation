@@ -1,0 +1,15 @@
+invite_10	There	O
+invite_10	have	O
+invite_10	been	O
+invite_10	discussions	O
+invite_10	around	O
+invite_10	their	O
+invite_10	invite	invite_nou
+invite_10	only	O
+invite_10	membership	O
+invite_10	system	O
+invite_10	which	O
+invite_10	has	O
+invite_10	caused	O
+invite_10	some	O
+invite_10	controversy	O

@@ -1,0 +1,8 @@
+extract_12	The	O
+extract_12	extract	extract_nou
+extract_12	is	O
+extract_12	from	O
+extract_12	Rudolf	O
+extract_12	Hoernle	O
+extract_12	's	O
+extract_12	translation	O

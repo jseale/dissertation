@@ -1,0 +1,14 @@
+abuses_43	He	O
+abuses_43	was	O
+abuses_43	elected	O
+abuses_43	to	O
+abuses_43	the	O
+abuses_43	colony	O
+abuses_43	's	O
+abuses_43	assembly	O
+abuses_43	and	O
+abuses_43	spoke	O
+abuses_43	out	O
+abuses_43	against	O
+abuses_43	governmental	O
+abuses_43	abuses	abuses_nou

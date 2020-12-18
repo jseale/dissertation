@@ -1,0 +1,16 @@
+syndicate_4	The	O
+syndicate_4	influence	O
+syndicate_4	of	O
+syndicate_4	the	O
+syndicate_4	Syndicate	syndicate_nou
+syndicate_4	in	O
+syndicate_4	Washington	O
+syndicate_4	D.C.	O
+syndicate_4	opposed	O
+syndicate_4	any	O
+syndicate_4	further	O
+syndicate_4	movement	O
+syndicate_4	towards	O
+syndicate_4	Alaskan	O
+syndicate_4	home	O
+syndicate_4	rule	O

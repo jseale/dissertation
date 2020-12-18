@@ -1,0 +1,9 @@
+live_27	He	O
+live_27	also	O
+live_27	has	O
+live_27	a	O
+live_27	tendency	O
+live_27	to	O
+live_27	eat	O
+live_27	live	live_adj
+live_27	animals	O

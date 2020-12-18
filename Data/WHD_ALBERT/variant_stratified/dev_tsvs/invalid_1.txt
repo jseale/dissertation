@@ -1,0 +1,13 @@
+invalid_1	Central	O
+invalid_1	Tibetan	O
+invalid_1	Administration	O
+invalid_1	considers	O
+invalid_1	it	O
+invalid_1	invalid	invalid_adj
+invalid_1	and	O
+invalid_1	as	O
+invalid_1	having	O
+invalid_1	been	O
+invalid_1	signed	O
+invalid_1	under	O
+invalid_1	duress	O

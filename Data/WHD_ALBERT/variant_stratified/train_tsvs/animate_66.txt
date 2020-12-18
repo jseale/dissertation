@@ -1,0 +1,9 @@
+animate_66	Trees	O
+animate_66	and	O
+animate_66	grass	O
+animate_66	animate	animate_vrb
+animate_66	in	O
+animate_66	the	O
+animate_66	real	O
+animate_66	time	O
+animate_66	preview	O

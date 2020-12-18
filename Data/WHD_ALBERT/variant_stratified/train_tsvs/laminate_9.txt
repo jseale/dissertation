@@ -1,0 +1,8 @@
+laminate_9	The	O
+laminate_9	wood	O
+laminate_9	can	O
+laminate_9	be	O
+laminate_9	either	O
+laminate_9	solid	O
+laminate_9	or	O
+laminate_9	laminate	laminate_nou

@@ -1,0 +1,14 @@
+advocate_3	An	O
+advocate_3	advocate	advocate_nou
+advocate_3	of	O
+advocate_3	practical	O
+advocate_3	learning	O
+advocate_3	for	O
+advocate_3	managers	O
+advocate_3	Brown	O
+advocate_3	created	O
+advocate_3	the	O
+advocate_3	Glacier	O
+advocate_3	Institute	O
+advocate_3	of	O
+advocate_3	Management	O

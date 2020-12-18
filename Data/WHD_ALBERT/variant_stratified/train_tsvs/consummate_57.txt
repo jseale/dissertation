@@ -1,0 +1,17 @@
+consummate_57	Yash	O
+consummate_57	and	O
+consummate_57	Maya	O
+consummate_57	consummate	consummate_vrb
+consummate_57	their	O
+consummate_57	marriage	O
+consummate_57	however	O
+consummate_57	this	O
+consummate_57	proves	O
+consummate_57	to	O
+consummate_57	be	O
+consummate_57	their	O
+consummate_57	first	O
+consummate_57	and	O
+consummate_57	last	O
+consummate_57	night	O
+consummate_57	together	O

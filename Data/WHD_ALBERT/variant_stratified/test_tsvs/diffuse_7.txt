@@ -1,0 +1,16 @@
+diffuse_7	The	O
+diffuse_7	dissolved	O
+diffuse_7	gas	O
+diffuse_7	molecules	O
+diffuse_7	have	O
+diffuse_7	a	O
+diffuse_7	preference	O
+diffuse_7	to	O
+diffuse_7	diffuse	diffuse_vrb
+diffuse_7	to	O
+diffuse_7	activation	O
+diffuse_7	sites	O
+diffuse_7	that	O
+diffuse_7	have	O
+diffuse_7	nucleated	O
+diffuse_7	first	O

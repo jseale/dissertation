@@ -1,0 +1,13 @@
+articulate_5	It	O
+articulate_5	consisted	O
+articulate_5	of	O
+articulate_5	2	O
+articulate_5	x	O
+articulate_5	0	O
+articulate_5	6	O
+articulate_5	0	O
+articulate_5	chassis	O
+articulate_5	coupled	O
+articulate_5	together	O
+articulate_5	to	O
+articulate_5	articulate	articulate_vrb

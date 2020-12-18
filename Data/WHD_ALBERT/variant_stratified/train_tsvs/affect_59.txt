@@ -1,0 +1,7 @@
+affect_59	However	O
+affect_59	many	O
+affect_59	other	O
+affect_59	factors	O
+affect_59	also	O
+affect_59	affect	affect
+affect_59	intelligence	O

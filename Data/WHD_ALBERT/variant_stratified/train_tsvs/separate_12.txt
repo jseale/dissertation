@@ -1,0 +1,15 @@
+separate_12	It	O
+separate_12	allows	O
+separate_12	multiple	O
+separate_12	players	O
+separate_12	on	O
+separate_12	separate	separate_adj
+separate_12	controllers	O
+separate_12	to	O
+separate_12	take	O
+separate_12	over	O
+separate_12	gameplay	O
+separate_12	when	O
+separate_12	one	O
+separate_12	player	O
+separate_12	dies	O

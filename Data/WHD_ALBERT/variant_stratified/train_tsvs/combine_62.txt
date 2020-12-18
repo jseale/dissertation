@@ -1,0 +1,13 @@
+combine_62	He	O
+combine_62	demanded	O
+combine_62	to	O
+combine_62	combine	combine_vrb
+combine_62	this	O
+combine_62	case	O
+combine_62	with	O
+combine_62	the	O
+combine_62	action	O
+combine_62	plan	O
+combine_62	to	O
+combine_62	fight	O
+combine_62	reaction	O

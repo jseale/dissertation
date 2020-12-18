@@ -1,0 +1,11 @@
+mobile_70	Medic	O
+mobile_70	Mobile	mobile
+mobile_70	is	O
+mobile_70	used	O
+mobile_70	in	O
+mobile_70	over	O
+mobile_70	20	O
+mobile_70	countries	O
+mobile_70	with	O
+mobile_70	39	O
+mobile_70	partners	O

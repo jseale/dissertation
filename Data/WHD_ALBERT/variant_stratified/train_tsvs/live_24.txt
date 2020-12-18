@@ -1,0 +1,17 @@
+live_24	Performance	O
+live_24	and	O
+live_24	Cocktails	O
+live_24	Live	live_adj
+live_24	at	O
+live_24	Morfa	O
+live_24	Stadium	O
+live_24	is	O
+live_24	a	O
+live_24	1999	O
+live_24	DVD	O
+live_24	released	O
+live_24	by	O
+live_24	Welsh	O
+live_24	Rock	O
+live_24	trio	O
+live_24	Stereophonics	O

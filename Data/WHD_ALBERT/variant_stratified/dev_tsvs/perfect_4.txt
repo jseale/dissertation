@@ -1,0 +1,17 @@
+perfect_4	These	O
+perfect_4	teams	O
+perfect_4	play	O
+perfect_4	B	O
+perfect_4	level	O
+perfect_4	teams	O
+perfect_4	and	O
+perfect_4	other	O
+perfect_4	house	O
+perfect_4	teams	O
+perfect_4	and	O
+perfect_4	are	O
+perfect_4	perfect	perfect_adj
+perfect_4	for	O
+perfect_4	developing	O
+perfect_4	skater	O
+perfect_4	skills	O

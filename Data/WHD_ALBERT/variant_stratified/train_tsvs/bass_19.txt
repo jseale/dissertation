@@ -1,0 +1,16 @@
+bass_19	It	O
+bass_19	was	O
+bass_19	quickly	O
+bass_19	announced	O
+bass_19	that	O
+bass_19	former	O
+bass_19	Homie	O
+bass_19	member	O
+bass_19	Welsh	O
+bass_19	would	O
+bass_19	take	O
+bass_19	over	O
+bass_19	on	O
+bass_19	bass	bass
+bass_19	for	O
+bass_19	Weezer	O

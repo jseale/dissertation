@@ -1,0 +1,17 @@
+conflict_1	It	O
+conflict_1	is	O
+conflict_1	said	O
+conflict_1	that	O
+conflict_1	about	O
+conflict_1	1000	O
+conflict_1	years	O
+conflict_1	ago	O
+conflict_1	the	O
+conflict_1	King	O
+conflict_1	had	O
+conflict_1	a	O
+conflict_1	conflict	conflict_nou
+conflict_1	with	O
+conflict_1	a	O
+conflict_1	Bohemian	O
+conflict_1	nobleman	O

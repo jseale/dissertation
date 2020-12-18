@@ -1,0 +1,17 @@
+discharge_17	Dryland	O
+discharge_17	salinity	O
+discharge_17	is	O
+discharge_17	broadly	O
+discharge_17	the	O
+discharge_17	result	O
+discharge_17	of	O
+discharge_17	three	O
+discharge_17	processes	O
+discharge_17	Groundwater	O
+discharge_17	recharge	O
+discharge_17	Ground	O
+discharge_17	water	O
+discharge_17	movement	O
+discharge_17	and	O
+discharge_17	Groundwater	O
+discharge_17	discharge	discharge_nou

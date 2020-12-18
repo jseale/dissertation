@@ -1,0 +1,13 @@
+ornament_5	For	O
+ornament_5	ornament	ornament_nou
+ornament_5	French	O
+ornament_5	and	O
+ornament_5	Flemish	O
+ornament_5	Northern	O
+ornament_5	Mannerist	O
+ornament_5	decoration	O
+ornament_5	was	O
+ornament_5	more	O
+ornament_5	influential	O
+ornament_5	than	O
+ornament_5	Italian	O

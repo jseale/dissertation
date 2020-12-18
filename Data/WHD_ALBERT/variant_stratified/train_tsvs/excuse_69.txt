@@ -1,0 +1,15 @@
+excuse_69	When	O
+excuse_69	kids	O
+excuse_69	try	O
+excuse_69	to	O
+excuse_69	trip	O
+excuse_69	him	O
+excuse_69	he	O
+excuse_69	says	O
+excuse_69	excuse	excuse_vrb
+excuse_69	me	O
+excuse_69	or	O
+excuse_69	I	O
+excuse_69	beg	O
+excuse_69	your	O
+excuse_69	pardon	O

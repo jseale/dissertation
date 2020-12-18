@@ -1,0 +1,15 @@
+winds_35	Cyclone	O
+winds_35	Bobby	O
+winds_35	brings	O
+winds_35	powerful	O
+winds_35	winds	winds_nou
+winds_35	and	O
+winds_35	rare	O
+winds_35	heavy	O
+winds_35	rains	O
+winds_35	to	O
+winds_35	much	O
+winds_35	of	O
+winds_35	Western	O
+winds_35	Australia	O
+winds_35	PNG	O

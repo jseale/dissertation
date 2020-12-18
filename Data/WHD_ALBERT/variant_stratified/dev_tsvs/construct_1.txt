@@ -1,0 +1,16 @@
+construct_1	He	O
+construct_1	also	O
+construct_1	reportedly	O
+construct_1	helped	O
+construct_1	construct	construct_vrb
+construct_1	the	O
+construct_1	bombs	O
+construct_1	and	O
+construct_1	was	O
+construct_1	one	O
+construct_1	of	O
+construct_1	the	O
+construct_1	first	O
+construct_1	to	O
+construct_1	be	O
+construct_1	arrested	O

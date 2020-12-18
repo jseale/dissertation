@@ -1,0 +1,10 @@
+construct_17	Sandstone	O
+construct_17	was	O
+construct_17	used	O
+construct_17	to	O
+construct_17	construct	construct_vrb
+construct_17	the	O
+construct_17	window	O
+construct_17	and	O
+construct_17	door	O
+construct_17	openings	O

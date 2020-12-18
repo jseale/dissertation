@@ -1,0 +1,13 @@
+transport_20	Public	O
+transport_20	transport	transport_nou
+transport_20	is	O
+transport_20	freely	O
+transport_20	available	O
+transport_20	as	O
+transport_20	many	O
+transport_20	long	O
+transport_20	route	O
+transport_20	buses	O
+transport_20	pass	O
+transport_20	through	O
+transport_20	Akurana	O

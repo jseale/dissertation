@@ -1,0 +1,14 @@
+tear_45	In	O
+tear_45	this	O
+tear_45	form	O
+tear_45	Torque	O
+tear_45	can	O
+tear_45	tear	tear_vrb
+tear_45	enemies	O
+tear_45	apart	O
+tear_45	and	O
+tear_45	can	O
+tear_45	perform	O
+tear_45	several	O
+tear_45	powerful	O
+tear_45	attacks	O

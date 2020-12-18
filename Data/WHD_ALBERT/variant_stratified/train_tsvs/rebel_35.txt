@@ -1,0 +1,17 @@
+rebel_35	Dunn	O
+rebel_35	trained	O
+rebel_35	and	O
+rebel_35	rode	O
+rebel_35	his	O
+rebel_35	first	O
+rebel_35	World	O
+rebel_35	Grand	O
+rebel_35	Championship	O
+rebel_35	on	O
+rebel_35	the	O
+rebel_35	bay	O
+rebel_35	stallion	O
+rebel_35	Dark	O
+rebel_35	Spirit	O
+rebel_35	's	O
+rebel_35	Rebel	rebel_nou

@@ -1,0 +1,16 @@
+postulate_10	Hammond	O
+postulate_10	's	O
+postulate_10	postulate	postulate_nou
+postulate_10	is	O
+postulate_10	sometimes	O
+postulate_10	called	O
+postulate_10	the	O
+postulate_10	Hammond	O
+postulate_10	Leffler	O
+postulate_10	postulate	postulate_nou
+postulate_10	to	O
+postulate_10	give	O
+postulate_10	credit	O
+postulate_10	to	O
+postulate_10	both	O
+postulate_10	scientists	O

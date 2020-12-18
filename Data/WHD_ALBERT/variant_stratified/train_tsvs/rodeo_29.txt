@@ -1,0 +1,16 @@
+rodeo_29	Flank	O
+rodeo_29	cinches	O
+rodeo_29	were	O
+rodeo_29	added	O
+rodeo_29	after	O
+rodeo_29	the	O
+rodeo_29	rodeo	rodeo
+rodeo_29	sports	O
+rodeo_29	of	O
+rodeo_29	calf	O
+rodeo_29	roping	O
+rodeo_29	and	O
+rodeo_29	team	O
+rodeo_29	roping	O
+rodeo_29	became	O
+rodeo_29	popular	O

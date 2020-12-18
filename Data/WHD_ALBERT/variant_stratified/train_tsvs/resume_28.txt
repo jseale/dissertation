@@ -1,0 +1,11 @@
+resume_28	If	O
+resume_28	the	O
+resume_28	situation	O
+resume_28	calmed	O
+resume_28	they	O
+resume_28	could	O
+resume_28	resume	resume_vrb
+resume_28	their	O
+resume_28	journey	O
+resume_28	to	O
+resume_28	Kentucky	O

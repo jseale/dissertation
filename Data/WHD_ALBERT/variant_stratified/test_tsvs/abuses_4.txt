@@ -1,0 +1,15 @@
+abuses_4	In	O
+abuses_4	1873	O
+abuses_4	Khaznadar	O
+abuses_4	again	O
+abuses_4	undertook	O
+abuses_4	reforms	O
+abuses_4	and	O
+abuses_4	attacked	O
+abuses_4	the	O
+abuses_4	widespread	O
+abuses_4	financial	O
+abuses_4	abuses	abuses_nou
+abuses_4	within	O
+abuses_4	the	O
+abuses_4	bureaucracy	O

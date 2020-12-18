@@ -1,0 +1,13 @@
+lead_26	Dale	O
+lead_26	Earnhardt	O
+lead_26	who	O
+lead_26	was	O
+lead_26	running	O
+lead_26	third	O
+lead_26	slipped	O
+lead_26	by	O
+lead_26	and	O
+lead_26	took	O
+lead_26	over	O
+lead_26	the	O
+lead_26	lead	lead_nou-vrb

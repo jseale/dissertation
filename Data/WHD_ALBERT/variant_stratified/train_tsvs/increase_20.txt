@@ -1,0 +1,17 @@
+increase_20	However	O
+increase_20	despite	O
+increase_20	the	O
+increase_20	transmission	O
+increase_20	of	O
+increase_20	the	O
+increase_20	matches	O
+increase_20	gave	O
+increase_20	them	O
+increase_20	an	O
+increase_20	increase	increase_nou
+increase_20	in	O
+increase_20	ratings	O
+increase_20	their	O
+increase_20	fate	O
+increase_20	was	O
+increase_20	sealed	O

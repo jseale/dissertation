@@ -1,0 +1,14 @@
+live_37	The	O
+live_37	May	O
+live_37	8	O
+live_37	performance	O
+live_37	was	O
+live_37	broadcast	O
+live_37	nationally	O
+live_37	on	O
+live_37	Live	live_adj
+live_37	from	O
+live_37	Lincoln	O
+live_37	Center	O
+live_37	on	O
+live_37	PBS	O

@@ -1,0 +1,17 @@
+associate_14	Marin	O
+associate_14	is	O
+associate_14	married	O
+associate_14	to	O
+associate_14	Hrisanta	O
+associate_14	Trebis	O
+associate_14	Marin	O
+associate_14	Phd	O
+associate_14	musicologist	O
+associate_14	and	O
+associate_14	Associate	associate_adj-nou
+associate_14	Professor	O
+associate_14	at	O
+associate_14	the	O
+associate_14	Franklin	O
+associate_14	University	O
+associate_14	Switzerland	O

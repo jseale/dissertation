@@ -1,0 +1,14 @@
+ornament_44	The	O
+ornament_44	style	O
+ornament_44	of	O
+ornament_44	the	O
+ornament_44	miniatures	O
+ornament_44	is	O
+ornament_44	characterized	O
+ornament_44	by	O
+ornament_44	brilliant	O
+ornament_44	colour	O
+ornament_44	and	O
+ornament_44	exuberant	O
+ornament_44	acanthus	O
+ornament_44	ornament	ornament_nou

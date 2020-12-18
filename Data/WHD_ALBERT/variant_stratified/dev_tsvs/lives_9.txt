@@ -1,0 +1,13 @@
+lives_9	The	O
+lives_9	strongest	O
+lives_9	legacy	O
+lives_9	brand	O
+lives_9	with	O
+lives_9	the	O
+lives_9	best	O
+lives_9	prospects	O
+lives_9	for	O
+lives_9	the	O
+lives_9	future	O
+lives_9	lives	lives_vrb
+lives_9	on	O

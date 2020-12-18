@@ -1,0 +1,16 @@
+import_2	For	O
+import_2	the	O
+import_2	rest	O
+import_2	of	O
+import_2	the	O
+import_2	1970s	O
+import_2	however	O
+import_2	import	import_nou
+import_2	prices	O
+import_2	skyrocketed	O
+import_2	climbing	O
+import_2	219	O
+import_2	from	O
+import_2	1973	O
+import_2	to	O
+import_2	1980	O

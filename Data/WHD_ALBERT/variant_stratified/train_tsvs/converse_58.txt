@@ -1,0 +1,14 @@
+converse_58	He	O
+converse_58	travels	O
+converse_58	to	O
+converse_58	the	O
+converse_58	hometown	O
+converse_58	of	O
+converse_58	the	O
+converse_58	Hamilton	O
+converse_58	's	O
+converse_58	to	O
+converse_58	converse	converse_vrb
+converse_58	with	O
+converse_58	Maurice	O
+converse_58	Oakley	O

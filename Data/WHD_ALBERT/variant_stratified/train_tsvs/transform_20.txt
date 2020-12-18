@@ -1,0 +1,12 @@
+transform_20	Among	O
+transform_20	his	O
+transform_20	various	O
+transform_20	abilities	O
+transform_20	he	O
+transform_20	can	O
+transform_20	also	O
+transform_20	transform	transform
+transform_20	into	O
+transform_20	a	O
+transform_20	liquid	O
+transform_20	metal	O

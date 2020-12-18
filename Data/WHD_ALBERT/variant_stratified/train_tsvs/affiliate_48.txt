@@ -1,0 +1,17 @@
+affiliate_48	It	O
+affiliate_48	began	O
+affiliate_48	as	O
+affiliate_48	a	O
+affiliate_48	state	O
+affiliate_48	affiliate	affiliate_nou
+affiliate_48	of	O
+affiliate_48	the	O
+affiliate_48	Constitution	O
+affiliate_48	Party	O
+affiliate_48	CP	O
+affiliate_48	then	O
+affiliate_48	known	O
+affiliate_48	as	O
+affiliate_48	the	O
+affiliate_48	Taxpayers	O
+affiliate_48	Party	O

@@ -1,0 +1,17 @@
+duplicate_68	Centralized	O
+duplicate_68	storage	O
+duplicate_68	eliminates	O
+duplicate_68	the	O
+duplicate_68	need	O
+duplicate_68	to	O
+duplicate_68	duplicate	duplicate_vrb
+duplicate_68	files	O
+duplicate_68	across	O
+duplicate_68	devices	O
+duplicate_68	or	O
+duplicate_68	wait	O
+duplicate_68	for	O
+duplicate_68	files	O
+duplicate_68	to	O
+duplicate_68	become	O
+duplicate_68	synchronized	O

@@ -1,0 +1,16 @@
+insert_72	She	O
+insert_72	underwent	O
+insert_72	surgery	O
+insert_72	to	O
+insert_72	insert	insert_vrb
+insert_72	a	O
+insert_72	five	O
+insert_72	inch	O
+insert_72	metal	O
+insert_72	plate	O
+insert_72	and	O
+insert_72	eight	O
+insert_72	screws	O
+insert_72	into	O
+insert_72	her	O
+insert_72	leg	O

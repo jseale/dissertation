@@ -1,0 +1,15 @@
+decrease_6	However	O
+decrease_6	a	O
+decrease_6	person	O
+decrease_6	can	O
+decrease_6	decrease	decrease_vrb
+decrease_6	their	O
+decrease_6	susceptibility	O
+decrease_6	to	O
+decrease_6	TTS	O
+decrease_6	by	O
+decrease_6	improving	O
+decrease_6	their	O
+decrease_6	cardiovascular	O
+decrease_6	fitness	O
+decrease_6	overall	O

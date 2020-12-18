@@ -1,0 +1,11 @@
+use_9	To	O
+use_9	use	use_vrb
+use_9	the	O
+use_9	other	O
+use_9	seat	O
+use_9	a	O
+use_9	VT	O
+use_9	switch	O
+use_9	must	O
+use_9	be	O
+use_9	initiated	O

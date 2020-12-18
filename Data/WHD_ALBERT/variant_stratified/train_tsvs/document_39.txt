@@ -1,0 +1,11 @@
+document_39	These	O
+document_39	can	O
+document_39	be	O
+document_39	distant	O
+document_39	from	O
+document_39	the	O
+document_39	original	O
+document_39	source	O
+document_39	of	O
+document_39	the	O
+document_39	document	document_nou

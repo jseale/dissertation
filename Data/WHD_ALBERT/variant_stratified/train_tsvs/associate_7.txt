@@ -1,0 +1,12 @@
+associate_7	He	O
+associate_7	was	O
+associate_7	accompanied	O
+associate_7	by	O
+associate_7	Peter	O
+associate_7	Baynes	O
+associate_7	and	O
+associate_7	an	O
+associate_7	American	O
+associate_7	associate	associate_adj-nou
+associate_7	George	O
+associate_7	Beckwith	O

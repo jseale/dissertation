@@ -1,0 +1,17 @@
+compound_61	Etiracetam	O
+compound_61	is	O
+compound_61	a	O
+compound_61	chemical	O
+compound_61	compound	compound_nou
+compound_61	belonging	O
+compound_61	to	O
+compound_61	the	O
+compound_61	racetam	O
+compound_61	family	O
+compound_61	which	O
+compound_61	was	O
+compound_61	developed	O
+compound_61	as	O
+compound_61	a	O
+compound_61	nootropic	O
+compound_61	drug	O

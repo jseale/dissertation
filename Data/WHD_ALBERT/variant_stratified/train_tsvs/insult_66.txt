@@ -1,0 +1,17 @@
+insult_66	Sewell	O
+insult_66	was	O
+insult_66	strongly	O
+insult_66	opinionated	O
+insult_66	and	O
+insult_66	was	O
+insult_66	known	O
+insult_66	to	O
+insult_66	insult	insult_vrb
+insult_66	the	O
+insult_66	general	O
+insult_66	public	O
+insult_66	for	O
+insult_66	their	O
+insult_66	views	O
+insult_66	on	O
+insult_66	art	O

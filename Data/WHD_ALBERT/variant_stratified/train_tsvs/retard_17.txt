@@ -1,0 +1,13 @@
+retard_17	They	O
+retard_17	served	O
+retard_17	to	O
+retard_17	retard	retard_vrb
+retard_17	the	O
+retard_17	A.F.L.	O
+retard_17	's	O
+retard_17	development	O
+retard_17	for	O
+retard_17	more	O
+retard_17	than	O
+retard_17	a	O
+retard_17	generation	O

@@ -1,0 +1,16 @@
+rodeo_37	Hazlewood	O
+rodeo_37	attempted	O
+rodeo_37	to	O
+rodeo_37	prevent	O
+rodeo_37	Parsons	O
+rodeo_37	vocal	O
+rodeo_37	tracks	O
+rodeo_37	from	O
+rodeo_37	appearing	O
+rodeo_37	on	O
+rodeo_37	the	O
+rodeo_37	Sweetheart	O
+rodeo_37	of	O
+rodeo_37	the	O
+rodeo_37	Rodeo	rodeo
+rodeo_37	album	O

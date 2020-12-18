@@ -1,0 +1,9 @@
+laminate_30	The	O
+laminate_30	body	O
+laminate_30	panels	O
+laminate_30	were	O
+laminate_30	carbon	O
+laminate_30	fiber	O
+laminate_30	and	O
+laminate_30	fiberglass	O
+laminate_30	laminate	laminate_nou

@@ -1,0 +1,17 @@
+confines_48	He	O
+confines_48	is	O
+confines_48	known	O
+confines_48	for	O
+confines_48	using	O
+confines_48	surreal	O
+confines_48	humor	O
+confines_48	and	O
+confines_48	camp	O
+confines_48	style	O
+confines_48	within	O
+confines_48	the	O
+confines_48	confines	confines_nou
+confines_48	of	O
+confines_48	low	O
+confines_48	budget	O
+confines_48	film	O

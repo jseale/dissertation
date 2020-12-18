@@ -1,0 +1,17 @@
+reject_35	Historians	O
+reject_35	reject	reject_vrb
+reject_35	the	O
+reject_35	claim	O
+reject_35	and	O
+reject_35	note	O
+reject_35	that	O
+reject_35	Harding	O
+reject_35	in	O
+reject_35	fact	O
+reject_35	publicly	O
+reject_35	fought	O
+reject_35	and	O
+reject_35	spoke	O
+reject_35	against	O
+reject_35	the	O
+reject_35	Klan	O

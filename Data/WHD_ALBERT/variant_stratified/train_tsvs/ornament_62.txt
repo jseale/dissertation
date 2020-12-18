@@ -1,0 +1,16 @@
+ornament_62	So	O
+ornament_62	we	O
+ornament_62	conclude	O
+ornament_62	that	O
+ornament_62	it	O
+ornament_62	was	O
+ornament_62	placed	O
+ornament_62	in	O
+ornament_62	position	O
+ornament_62	in	O
+ornament_62	these	O
+ornament_62	rooms	O
+ornament_62	for	O
+ornament_62	ornament	ornament_nou
+ornament_62	and	O
+ornament_62	decoration	O

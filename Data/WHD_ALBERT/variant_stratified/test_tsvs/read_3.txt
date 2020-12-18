@@ -1,0 +1,14 @@
+read_3	After	O
+read_3	he	O
+read_3	read	read_past
+read_3	Connolly	O
+read_3	's	O
+read_3	letter	O
+read_3	aloud	O
+read_3	the	O
+read_3	assembly	O
+read_3	declared	O
+read_3	war	O
+read_3	against	O
+read_3	the	O
+read_3	Indians	O

@@ -1,0 +1,11 @@
+axes_16	It	O
+axes_16	comprises	O
+axes_16	erect	O
+axes_16	axes	axes_nou
+axes_16	terminating	O
+axes_16	in	O
+axes_16	corymbose	O
+axes_16	clusters	O
+axes_16	of	O
+axes_16	erect	O
+axes_16	sporangia	O

@@ -1,0 +1,12 @@
+increment_6	Increment	increment_nou
+increment_6	Specific	O
+increment_6	Training	O
+increment_6	also	O
+increment_6	includes	O
+increment_6	training	O
+increment_6	to	O
+increment_6	deal	O
+increment_6	with	O
+increment_6	off	O
+increment_6	nominal	O
+increment_6	situations	O

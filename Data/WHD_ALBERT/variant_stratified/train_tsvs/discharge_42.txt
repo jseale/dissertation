@@ -1,0 +1,11 @@
+discharge_42	The	O
+discharge_42	average	O
+discharge_42	discharge	discharge_nou
+discharge_42	quantity	O
+discharge_42	amounts	O
+discharge_42	to	O
+discharge_42	3	O
+discharge_42	m³/s	O
+discharge_42	at	O
+discharge_42	the	O
+discharge_42	delta	O

@@ -1,0 +1,15 @@
+abuses_66	He	O
+abuses_66	is	O
+abuses_66	married	O
+abuses_66	and	O
+abuses_66	abuses	abuses_vrb
+abuses_66	his	O
+abuses_66	wife	O
+abuses_66	regularly	O
+abuses_66	leading	O
+abuses_66	to	O
+abuses_66	her	O
+abuses_66	losing	O
+abuses_66	touch	O
+abuses_66	with	O
+abuses_66	reality	O

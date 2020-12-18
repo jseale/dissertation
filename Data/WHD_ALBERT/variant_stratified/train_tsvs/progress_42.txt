@@ -1,0 +1,16 @@
+progress_42	He	O
+progress_42	is	O
+progress_42	also	O
+progress_42	known	O
+progress_42	for	O
+progress_42	his	O
+progress_42	use	O
+progress_42	of	O
+progress_42	adaptation	O
+progress_42	as	O
+progress_42	a	O
+progress_42	major	O
+progress_42	factor	O
+progress_42	for	O
+progress_42	human	O
+progress_42	progress	progress_nou

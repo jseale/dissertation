@@ -1,0 +1,9 @@
+isolate_74	Soybean	O
+isolate_74	protein	O
+isolate_74	isolate	isolate_nou
+isolate_74	has	O
+isolate_74	a	O
+isolate_74	biological	O
+isolate_74	value	O
+isolate_74	of	O
+isolate_74	74	O

@@ -1,0 +1,13 @@
+abuse_2	Allegations	O
+abuse_2	included	O
+abuse_2	rape	O
+abuse_2	sodomy	O
+abuse_2	fellatio	O
+abuse_2	and	O
+abuse_2	bizarre	O
+abuse_2	acts	O
+abuse_2	characteristic	O
+abuse_2	of	O
+abuse_2	satanic	O
+abuse_2	ritual	O
+abuse_2	abuse	abuse_nou

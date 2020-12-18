@@ -1,0 +1,13 @@
+rerelease_77	Bennett	O
+rerelease_77	says	O
+rerelease_77	he	O
+rerelease_77	has	O
+rerelease_77	plans	O
+rerelease_77	to	O
+rerelease_77	rerelease	rerelease_vrb
+rerelease_77	it	O
+rerelease_77	in	O
+rerelease_77	the	O
+rerelease_77	summer	O
+rerelease_77	of	O
+rerelease_77	2014	O

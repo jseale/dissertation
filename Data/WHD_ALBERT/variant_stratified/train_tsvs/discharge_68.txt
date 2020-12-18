@@ -1,0 +1,17 @@
+discharge_68	Despite	O
+discharge_68	his	O
+discharge_68	discharge	discharge_nou
+discharge_68	Varlamov	O
+discharge_68	did	O
+discharge_68	not	O
+discharge_68	leave	O
+discharge_68	the	O
+discharge_68	cosmonaut	O
+discharge_68	training	O
+discharge_68	centre	O
+discharge_68	as	O
+discharge_68	other	O
+discharge_68	unsuccessful	O
+discharge_68	candidates	O
+discharge_68	had	O
+discharge_68	done	O

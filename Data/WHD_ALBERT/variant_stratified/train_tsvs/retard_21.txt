@@ -1,0 +1,13 @@
+retard_21	This	O
+retard_21	means	O
+retard_21	that	O
+retard_21	a	O
+retard_21	moment	O
+retard_21	occurs	O
+retard_21	that	O
+retard_21	tends	O
+retard_21	to	O
+retard_21	retard	retard_vrb
+retard_21	the	O
+retard_21	rolling	O
+retard_21	motion	O

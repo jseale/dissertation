@@ -1,0 +1,13 @@
+combine_7	The	O
+combine_7	main	O
+combine_7	reason	O
+combine_7	for	O
+combine_7	this	O
+combine_7	was	O
+combine_7	the	O
+combine_7	opportunity	O
+combine_7	to	O
+combine_7	combine	combine_vrb
+combine_7	football	O
+combine_7	with	O
+combine_7	studies	O

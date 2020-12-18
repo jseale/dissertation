@@ -1,0 +1,11 @@
+upset_77	In	O
+upset_77	the	O
+upset_77	second	O
+upset_77	round	O
+upset_77	she	O
+upset_77	upset	upset_vrb
+upset_77	26th	O
+upset_77	seed	O
+upset_77	Anabel	O
+upset_77	Medina	O
+upset_77	Garrigues	O

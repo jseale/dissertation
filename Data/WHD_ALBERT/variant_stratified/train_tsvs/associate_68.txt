@@ -1,0 +1,12 @@
+associate_68	These	O
+associate_68	associate	associate_adj-nou
+associate_68	membres	O
+associate_68	are	O
+associate_68	parties	O
+associate_68	from	O
+associate_68	EU	O
+associate_68	candidate	O
+associate_68	countries	O
+associate_68	and	O
+associate_68	EFTA	O
+associate_68	countries	O

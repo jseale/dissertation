@@ -1,0 +1,10 @@
+reject_8	The	O
+reject_8	Labour	O
+reject_8	Party	O
+reject_8	would	O
+reject_8	reject	reject_vrb
+reject_8	non	O
+reject_8	intervention	O
+reject_8	in	O
+reject_8	October	O
+reject_8	1937	O

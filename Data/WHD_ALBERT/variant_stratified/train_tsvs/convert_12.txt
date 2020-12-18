@@ -1,0 +1,13 @@
+convert_12	Techniques	O
+convert_12	from	O
+convert_12	control	O
+convert_12	theory	O
+convert_12	convert	convert_vrb
+convert_12	the	O
+convert_12	task	O
+convert_12	into	O
+convert_12	commands	O
+convert_12	that	O
+convert_12	drive	O
+convert_12	the	O
+convert_12	actuators	O

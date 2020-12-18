@@ -1,0 +1,8 @@
+uses_4	So	O
+uses_4	now	O
+uses_4	Metamath	O
+uses_4	uses	uses_vrb
+uses_4	the	O
+uses_4	premise	O
+uses_4	of	O
+uses_4	opreq2i	O

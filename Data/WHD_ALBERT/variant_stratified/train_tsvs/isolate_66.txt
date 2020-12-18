@@ -1,0 +1,17 @@
+isolate_66	11,11'-Dideoxyverticillin	O
+isolate_66	A	O
+isolate_66	an	O
+isolate_66	isolate	isolate_nou
+isolate_66	of	O
+isolate_66	marine	O
+isolate_66	Penicillium	O
+isolate_66	was	O
+isolate_66	used	O
+isolate_66	to	O
+isolate_66	create	O
+isolate_66	dozens	O
+isolate_66	of	O
+isolate_66	semi	O
+isolate_66	synthetic	O
+isolate_66	anticancer	O
+isolate_66	compounds	O

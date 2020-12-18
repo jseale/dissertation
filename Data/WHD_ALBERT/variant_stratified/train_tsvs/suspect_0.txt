@@ -1,0 +1,13 @@
+suspect_0	As	O
+suspect_0	Rojas	O
+suspect_0	chatted	O
+suspect_0	with	O
+suspect_0	the	O
+suspect_0	suspect	suspect_adj-nou
+suspect_0	he	O
+suspect_0	was	O
+suspect_0	shot	O
+suspect_0	four	O
+suspect_0	times	O
+suspect_0	and	O
+suspect_0	killed	O

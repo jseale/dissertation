@@ -1,0 +1,14 @@
+expose_50	Figaro	O
+expose_50	Susanna	O
+expose_50	and	O
+expose_50	the	O
+expose_50	Countess	O
+expose_50	conspire	O
+expose_50	to	O
+expose_50	embarrass	O
+expose_50	the	O
+expose_50	Count	O
+expose_50	and	O
+expose_50	expose	expose_vrb
+expose_50	his	O
+expose_50	scheming	O

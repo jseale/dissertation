@@ -1,0 +1,11 @@
+buffet_55	The	O
+buffet_55	buffet	buffet_nou
+buffet_55	offer	O
+buffet_55	a	O
+buffet_55	wide	O
+buffet_55	variety	O
+buffet_55	of	O
+buffet_55	salads	O
+buffet_55	entrees	O
+buffet_55	and	O
+buffet_55	desserts	O

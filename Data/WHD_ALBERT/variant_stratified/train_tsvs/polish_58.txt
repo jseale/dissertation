@@ -1,0 +1,14 @@
+polish_58	Gerda	O
+polish_58	Elzbieta	O
+polish_58	Brylka	O
+polish_58	later	O
+polish_58	Krajciczek	O
+polish_58	born	O
+polish_58	12	O
+polish_58	August	O
+polish_58	1941	O
+polish_58	is	O
+polish_58	a	O
+polish_58	retired	O
+polish_58	Polish	polish_geo
+polish_58	gymnast	O

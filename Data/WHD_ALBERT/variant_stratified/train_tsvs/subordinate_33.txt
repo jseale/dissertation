@@ -1,0 +1,9 @@
+subordinate_33	Instead	O
+subordinate_33	he	O
+subordinate_33	sends	O
+subordinate_33	his	O
+subordinate_33	subordinate	subordinate_adj-nou
+subordinate_33	Nezha	O
+subordinate_33	to	O
+subordinate_33	arrest	O
+subordinate_33	Wukong	O

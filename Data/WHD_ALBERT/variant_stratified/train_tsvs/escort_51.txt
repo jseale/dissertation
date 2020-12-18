@@ -1,0 +1,12 @@
+escort_51	She	O
+escort_51	is	O
+escort_51	recorded	O
+escort_51	as	O
+escort_51	participating	O
+escort_51	in	O
+escort_51	one	O
+escort_51	escort	escort_nou
+escort_51	in	O
+escort_51	early	O
+escort_51	February	O
+escort_51	1945	O

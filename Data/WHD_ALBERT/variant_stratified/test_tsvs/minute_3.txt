@@ -1,0 +1,9 @@
+minute_3	Wintuk	O
+minute_3	was	O
+minute_3	a	O
+minute_3	90-minute	O
+minute_3	show	O
+minute_3	with	O
+minute_3	a	O
+minute_3	20-minute	O
+minute_3	intermission	O

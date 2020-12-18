@@ -1,0 +1,13 @@
+produce_30	Power	O
+produce_30	He	O
+produce_30	can	O
+produce_30	produce	produce_vrb
+produce_30	high	O
+produce_30	voltages	O
+produce_30	of	O
+produce_30	electricity	O
+produce_30	as	O
+produce_30	well	O
+produce_30	as	O
+produce_30	absorb	O
+produce_30	it	O

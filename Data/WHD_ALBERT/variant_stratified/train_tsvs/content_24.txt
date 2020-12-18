@@ -1,0 +1,16 @@
+content_24	Besides	O
+content_24	technical	O
+content_24	improvements	O
+content_24	the	O
+content_24	IS-2000	O
+content_24	documents	O
+content_24	are	O
+content_24	much	O
+content_24	more	O
+content_24	mature	O
+content_24	in	O
+content_24	terms	O
+content_24	of	O
+content_24	layout	O
+content_24	and	O
+content_24	content	content_nou

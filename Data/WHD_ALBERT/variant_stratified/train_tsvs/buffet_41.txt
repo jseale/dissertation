@@ -1,0 +1,11 @@
+buffet_41	Carter	O
+buffet_41	and	O
+buffet_41	Warren	O
+buffet_41	turn	O
+buffet_41	up	O
+buffet_41	and	O
+buffet_41	head	O
+buffet_41	to	O
+buffet_41	the	O
+buffet_41	buffet	buffet_nou
+buffet_41	table	O

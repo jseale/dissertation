@@ -1,0 +1,13 @@
+pasty_29	Morvah	O
+pasty_29	now	O
+pasty_29	celebrates	O
+pasty_29	pasty	pasty_adj
+pasty_29	day	O
+pasty_29	instead	O
+pasty_29	on	O
+pasty_29	the	O
+pasty_29	first	O
+pasty_29	Tuesday	O
+pasty_29	of	O
+pasty_29	every	O
+pasty_29	August	O

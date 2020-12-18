@@ -1,0 +1,15 @@
+recount_64	Oral	O
+recount_64	histories	O
+recount_64	recount	recount_vrb
+recount_64	how	O
+recount_64	various	O
+recount_64	people	O
+recount_64	used	O
+recount_64	divine	O
+recount_64	power	O
+recount_64	to	O
+recount_64	command	O
+recount_64	the	O
+recount_64	statues	O
+recount_64	to	O
+recount_64	walk	O

@@ -1,0 +1,16 @@
+diagnoses_50	Further	O
+diagnoses_50	procedures	O
+diagnoses_50	are	O
+diagnoses_50	required	O
+diagnoses_50	to	O
+diagnoses_50	confirm	O
+diagnoses_50	the	O
+diagnoses_50	presence	O
+diagnoses_50	of	O
+diagnoses_50	pulmonary	O
+diagnoses_50	hypertension	O
+diagnoses_50	and	O
+diagnoses_50	exclude	O
+diagnoses_50	other	O
+diagnoses_50	possible	O
+diagnoses_50	diagnoses	diagnoses_nou

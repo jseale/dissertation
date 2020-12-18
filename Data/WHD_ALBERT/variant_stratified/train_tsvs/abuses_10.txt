@@ -1,0 +1,15 @@
+abuses_10	There	O
+abuses_10	were	O
+abuses_10	few	O
+abuses_10	reports	O
+abuses_10	of	O
+abuses_10	societal	O
+abuses_10	abuses	abuses_nou
+abuses_10	or	O
+abuses_10	discrimination	O
+abuses_10	based	O
+abuses_10	on	O
+abuses_10	religious	O
+abuses_10	belief	O
+abuses_10	or	O
+abuses_10	practice	O

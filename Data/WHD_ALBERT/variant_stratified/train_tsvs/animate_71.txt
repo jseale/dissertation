@@ -1,0 +1,12 @@
+animate_71	But	O
+animate_71	we	O
+animate_71	will	O
+animate_71	animate	animate_vrb
+animate_71	them	O
+animate_71	he	O
+animate_71	was	O
+animate_71	quoted	O
+animate_71	as	O
+animate_71	saying	O
+animate_71	on	O
+animate_71	ThaiCinema.org	O

@@ -1,0 +1,16 @@
+isolate_22	The	O
+isolate_22	Seychelles	O
+isolate_22	then	O
+isolate_22	underwent	O
+isolate_22	two	O
+isolate_22	more	O
+isolate_22	stages	O
+isolate_22	of	O
+isolate_22	rifting	O
+isolate_22	to	O
+isolate_22	isolate	isolate
+isolate_22	it	O
+isolate_22	from	O
+isolate_22	Madagascar	O
+isolate_22	and	O
+isolate_22	India	O

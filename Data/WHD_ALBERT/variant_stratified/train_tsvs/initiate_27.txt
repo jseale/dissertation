@@ -1,0 +1,16 @@
+initiate_27	In	O
+initiate_27	1999	O
+initiate_27	the	O
+initiate_27	former	O
+initiate_27	Northern	O
+initiate_27	Municipality	O
+initiate_27	Local	O
+initiate_27	Council	O
+initiate_27	began	O
+initiate_27	to	O
+initiate_27	initiate	initiate_vrb
+initiate_27	formal	O
+initiate_27	development	O
+initiate_27	in	O
+initiate_27	the	O
+initiate_27	area	O

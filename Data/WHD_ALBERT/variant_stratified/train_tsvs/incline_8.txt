@@ -1,0 +1,16 @@
+incline_8	The	O
+incline_8	Lickey	O
+incline_8	Incline	incline_nou
+incline_8	is	O
+incline_8	the	O
+incline_8	steepest	O
+incline_8	sustained	O
+incline_8	adhesion	O
+incline_8	worked	O
+incline_8	gradient	O
+incline_8	on	O
+incline_8	a	O
+incline_8	British	O
+incline_8	standard	O
+incline_8	gauge	O
+incline_8	railway	O

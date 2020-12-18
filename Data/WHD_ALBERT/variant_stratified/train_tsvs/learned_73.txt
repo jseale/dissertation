@@ -1,0 +1,16 @@
+learned_73	At	O
+learned_73	the	O
+learned_73	age	O
+learned_73	of	O
+learned_73	12	O
+learned_73	Harle	O
+learned_73	learned	learned_vrb
+learned_73	bass	O
+learned_73	guitar	O
+learned_73	after	O
+learned_73	discovering	O
+learned_73	bands	O
+learned_73	like	O
+learned_73	Slipknot	O
+learned_73	and	O
+learned_73	Madness	O

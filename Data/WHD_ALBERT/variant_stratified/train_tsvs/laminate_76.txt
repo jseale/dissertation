@@ -1,0 +1,17 @@
+laminate_76	An	O
+laminate_76	example	O
+laminate_76	is	O
+laminate_76	a	O
+laminate_76	laminate	laminate_nou
+laminate_76	of	O
+laminate_76	thin	O
+laminate_76	alternating	O
+laminate_76	layers	O
+laminate_76	of	O
+laminate_76	aluminum	O
+laminate_76	and	O
+laminate_76	nickel	O
+laminate_76	commercially	O
+laminate_76	available	O
+laminate_76	as	O
+laminate_76	NanoFoil	O

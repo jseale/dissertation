@@ -1,0 +1,12 @@
+wind_65	Foredunes	O
+wind_65	are	O
+wind_65	formed	O
+wind_65	when	O
+wind_65	sand	O
+wind_65	accumulates	O
+wind_65	and	O
+wind_65	wind	wind_nou
+wind_65	actively	O
+wind_65	transforms	O
+wind_65	the	O
+wind_65	landscape	O

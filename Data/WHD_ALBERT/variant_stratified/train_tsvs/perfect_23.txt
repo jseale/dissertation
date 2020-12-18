@@ -1,0 +1,12 @@
+perfect_23	In	O
+perfect_23	that	O
+perfect_23	respect	O
+perfect_23	Jessica	O
+perfect_23	finds	O
+perfect_23	Elizabeth	O
+perfect_23	and	O
+perfect_23	Todd	O
+perfect_23	perfect	perfect_adj
+perfect_23	for	O
+perfect_23	each	O
+perfect_23	other	O

@@ -1,0 +1,9 @@
+present_37	It	O
+present_37	was	O
+present_37	moved	O
+present_37	to	O
+present_37	its	O
+present_37	present	present_adj-nou
+present_37	location	O
+present_37	about	O
+present_37	1920	O

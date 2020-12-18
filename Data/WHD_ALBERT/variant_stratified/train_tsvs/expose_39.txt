@@ -1,0 +1,12 @@
+expose_39	For	O
+expose_39	me	O
+expose_39	half	O
+expose_39	the	O
+expose_39	album	O
+expose_39	is	O
+expose_39	about	O
+expose_39	being	O
+expose_39	able	O
+expose_39	to	O
+expose_39	expose	expose_vrb
+expose_39	that	O

@@ -1,0 +1,14 @@
+confines_22	Cannon	O
+confines_22	were	O
+confines_22	used	O
+confines_22	but	O
+confines_22	in	O
+confines_22	such	O
+confines_22	confines	confines_nou
+confines_22	of	O
+confines_22	the	O
+confines_22	forest	O
+confines_22	road	O
+confines_22	they	O
+confines_22	were	O
+confines_22	ineffective	O

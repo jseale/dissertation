@@ -1,0 +1,16 @@
+lead_51	The	O
+lead_51	lead	lead_nou-vrb
+lead_51	single	O
+lead_51	In	O
+lead_51	Your	O
+lead_51	Face	O
+lead_51	won	O
+lead_51	the	O
+lead_51	Dove	O
+lead_51	Award	O
+lead_51	for	O
+lead_51	hard	O
+lead_51	music	O
+lead_51	song	O
+lead_51	in	O
+lead_51	1990	O

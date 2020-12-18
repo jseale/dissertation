@@ -1,0 +1,12 @@
+animate_59	This	O
+animate_59	version	O
+animate_59	made	O
+animate_59	it	O
+animate_59	possible	O
+animate_59	to	O
+animate_59	animate	animate_vrb
+animate_59	geometries	O
+animate_59	onscreen	O
+animate_59	in	O
+animate_59	real	O
+animate_59	time	O

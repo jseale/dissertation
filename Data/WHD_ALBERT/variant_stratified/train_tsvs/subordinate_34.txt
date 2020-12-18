@@ -1,0 +1,17 @@
+subordinate_34	Subordinating	O
+subordinate_34	conjunctions	O
+subordinate_34	make	O
+subordinate_34	relations	O
+subordinate_34	between	O
+subordinate_34	clauses	O
+subordinate_34	making	O
+subordinate_34	the	O
+subordinate_34	clause	O
+subordinate_34	in	O
+subordinate_34	which	O
+subordinate_34	they	O
+subordinate_34	appear	O
+subordinate_34	into	O
+subordinate_34	a	O
+subordinate_34	subordinate	subordinate_adj-nou
+subordinate_34	clause	O

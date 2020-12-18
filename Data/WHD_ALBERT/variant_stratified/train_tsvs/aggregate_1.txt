@@ -1,0 +1,9 @@
+aggregate_1	Suduva	O
+aggregate_1	drew	O
+aggregate_1	level	O
+aggregate_1	on	O
+aggregate_1	aggregate	aggregate_adj-nou
+aggregate_1	in	O
+aggregate_1	the	O
+aggregate_1	first	O
+aggregate_1	half	O

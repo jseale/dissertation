@@ -1,0 +1,12 @@
+winds_58	The	O
+winds_58	prevailing	O
+winds_58	winds	winds_nou
+winds_58	are	O
+winds_58	out	O
+winds_58	of	O
+winds_58	the	O
+winds_58	northwest	O
+winds_58	and	O
+winds_58	west	O
+winds_58	all	O
+winds_58	year	O

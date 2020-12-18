@@ -1,0 +1,12 @@
+mobile_4	Mobile	mobile
+mobile_4	devices	O
+mobile_4	have	O
+mobile_4	witnessed	O
+mobile_4	a	O
+mobile_4	phenomenal	O
+mobile_4	growth	O
+mobile_4	in	O
+mobile_4	the	O
+mobile_4	past	O
+mobile_4	few	O
+mobile_4	years	O

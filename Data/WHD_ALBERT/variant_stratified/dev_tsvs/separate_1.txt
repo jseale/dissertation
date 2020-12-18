@@ -1,0 +1,15 @@
+separate_1	The	O
+separate_1	DuPage	O
+separate_1	Airport	O
+separate_1	Authority	O
+separate_1	owns	O
+separate_1	2,800	O
+separate_1	acres	O
+separate_1	1,100	O
+separate_1	ha	O
+separate_1	and	O
+separate_1	operates	O
+separate_1	four	O
+separate_1	separate	separate_adj
+separate_1	business	O
+separate_1	units	O

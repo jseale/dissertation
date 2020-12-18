@@ -1,0 +1,7 @@
+fragment_6	Only	O
+fragment_6	one	O
+fragment_6	fragment	fragment_nou
+fragment_6	survives	O
+fragment_6	from	O
+fragment_6	this	O
+fragment_6	play	O

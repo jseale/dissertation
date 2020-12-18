@@ -1,0 +1,13 @@
+invite_36	The	O
+invite_36	many	O
+invite_36	wineries	O
+invite_36	and	O
+invite_36	Strausswirtschaften	O
+invite_36	invite	invite_vrb
+invite_36	visitors	O
+invite_36	to	O
+invite_36	come	O
+invite_36	and	O
+invite_36	enjoy	O
+invite_36	the	O
+invite_36	wine	O

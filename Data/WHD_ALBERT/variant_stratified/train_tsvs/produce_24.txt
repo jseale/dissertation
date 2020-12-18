@@ -1,0 +1,17 @@
+produce_24	They	O
+produce_24	then	O
+produce_24	produce	produce_vrb
+produce_24	samizdat	O
+produce_24	literature	O
+produce_24	that	O
+produce_24	breathes	O
+produce_24	hatred	O
+produce_24	against	O
+produce_24	everything	O
+produce_24	human	O
+produce_24	and	O
+produce_24	to	O
+produce_24	the	O
+produce_24	Soviet	O
+produce_24	Union	O
+produce_24	especially	O

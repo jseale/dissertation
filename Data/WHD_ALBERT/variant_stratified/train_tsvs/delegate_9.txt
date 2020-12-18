@@ -1,0 +1,16 @@
+delegate_9	He	O
+delegate_9	served	O
+delegate_9	as	O
+delegate_9	delegate	delegate_nou
+delegate_9	to	O
+delegate_9	the	O
+delegate_9	Democratic	O
+delegate_9	National	O
+delegate_9	Conventions	O
+delegate_9	in	O
+delegate_9	1924	O
+delegate_9	1928	O
+delegate_9	1932	O
+delegate_9	1952	O
+delegate_9	and	O
+delegate_9	1960	O

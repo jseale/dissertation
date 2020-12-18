@@ -1,0 +1,14 @@
+perfect_78	Fuller	O
+perfect_78	and	O
+perfect_78	Baker	O
+perfect_78	developed	O
+perfect_78	methods	O
+perfect_78	to	O
+perfect_78	perfect	perfect_vrb
+perfect_78	the	O
+perfect_78	chemical	O
+perfect_78	process	O
+perfect_78	for	O
+perfect_78	large	O
+perfect_78	scale	O
+perfect_78	manufacturing	O

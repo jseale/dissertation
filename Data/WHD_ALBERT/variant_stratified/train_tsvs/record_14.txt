@@ -1,0 +1,12 @@
+record_14	Isota	O
+record_14	Records	O
+record_14	is	O
+record_14	an	O
+record_14	independent	O
+record_14	record	record_nou
+record_14	label	O
+record_14	operated	O
+record_14	out	O
+record_14	of	O
+record_14	Oakland	O
+record_14	California	O

@@ -1,0 +1,14 @@
+insert_50	Users	O
+insert_50	may	O
+insert_50	insert	insert_vrb
+insert_50	update	O
+insert_50	delete	O
+insert_50	or	O
+insert_50	select	O
+insert_50	if	O
+insert_50	they	O
+insert_50	have	O
+insert_50	been	O
+insert_50	granted	O
+insert_50	appropriate	O
+insert_50	privileges	O

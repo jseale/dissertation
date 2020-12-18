@@ -1,0 +1,16 @@
+subordinate_27	The	O
+subordinate_27	area	O
+subordinate_27	has	O
+subordinate_27	been	O
+subordinate_27	populated	O
+subordinate_27	since	O
+subordinate_27	at	O
+subordinate_27	least	O
+subordinate_27	the	O
+subordinate_27	10th	O
+subordinate_27	century	O
+subordinate_27	and	O
+subordinate_27	was	O
+subordinate_27	subordinate	subordinate_adj-nou
+subordinate_27	to	O
+subordinate_27	Pskov	O

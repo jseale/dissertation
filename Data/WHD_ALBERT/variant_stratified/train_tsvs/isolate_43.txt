@@ -1,0 +1,11 @@
+isolate_43	It	O
+isolate_43	is	O
+isolate_43	designed	O
+isolate_43	to	O
+isolate_43	isolate	isolate
+isolate_43	signals	O
+isolate_43	travelling	O
+isolate_43	in	O
+isolate_43	a	O
+isolate_43	particular	O
+isolate_43	direction	O

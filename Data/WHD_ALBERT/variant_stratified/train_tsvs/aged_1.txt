@@ -1,0 +1,10 @@
+aged_1	He	O
+aged_1	died	O
+aged_1	aged	aged
+aged_1	89	O
+aged_1	in	O
+aged_1	the	O
+aged_1	Hopital	O
+aged_1	Pasteur	O
+aged_1	in	O
+aged_1	Paris	O

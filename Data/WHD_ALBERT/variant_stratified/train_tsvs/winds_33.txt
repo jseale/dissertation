@@ -1,0 +1,13 @@
+winds_33	Typhoon	O
+winds_33	Della	O
+winds_33	struck	O
+winds_33	Kyushu	O
+winds_33	Island	O
+winds_33	in	O
+winds_33	southern	O
+winds_33	Japan	O
+winds_33	with	O
+winds_33	winds	winds_nou
+winds_33	of	O
+winds_33	100	O
+winds_33	mph	O

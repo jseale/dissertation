@@ -1,0 +1,12 @@
+intrigue_9	The	O
+intrigue_9	Hartford	O
+intrigue_9	Courant	O
+intrigue_9	called	O
+intrigue_9	it	O
+intrigue_9	an	O
+intrigue_9	entertaining	O
+intrigue_9	piece	O
+intrigue_9	of	O
+intrigue_9	high	O
+intrigue_9	velocity	O
+intrigue_9	intrigue	intrigue_nou

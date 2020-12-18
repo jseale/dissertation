@@ -1,0 +1,16 @@
+invite_58	According	O
+invite_58	to	O
+invite_58	Compaoré	O
+invite_58	Gnassingbé	O
+invite_58	said	O
+invite_58	that	O
+invite_58	he	O
+invite_58	would	O
+invite_58	invite	invite_vrb
+invite_58	the	O
+invite_58	opposition	O
+invite_58	to	O
+invite_58	participate	O
+invite_58	in	O
+invite_58	the	O
+invite_58	government	O

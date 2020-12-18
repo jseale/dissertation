@@ -1,0 +1,14 @@
+abuse_39	Stedman	O
+abuse_39	SJ	O
+abuse_39	Tanner	O
+abuse_39	F.	O
+abuse_39	Refugee	O
+abuse_39	Manipulation	O
+abuse_39	War	O
+abuse_39	Politics	O
+abuse_39	and	O
+abuse_39	the	O
+abuse_39	Abuse	abuse_nou
+abuse_39	of	O
+abuse_39	Human	O
+abuse_39	Suffering	O

@@ -1,0 +1,13 @@
+bass_1	Yanowitz	O
+bass_1	was	O
+bass_1	also	O
+bass_1	the	O
+bass_1	bass	bass
+bass_1	player	O
+bass_1	songwriter	O
+bass_1	and	O
+bass_1	producer	O
+bass_1	for	O
+bass_1	the	O
+bass_1	band	O
+bass_1	Morningwood	O

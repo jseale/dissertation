@@ -1,0 +1,14 @@
+combine_20	In	O
+combine_20	later	O
+combine_20	series	O
+combine_20	tournaments	O
+combine_20	he	O
+combine_20	would	O
+combine_20	combine	combine_vrb
+combine_20	fire	O
+combine_20	with	O
+combine_20	a	O
+combine_20	personal	O
+combine_20	style	O
+combine_20	of	O
+combine_20	kenpo	O

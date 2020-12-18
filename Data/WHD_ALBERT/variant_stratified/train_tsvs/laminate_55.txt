@@ -1,0 +1,16 @@
+laminate_55	Blackout	O
+laminate_55	fabric	O
+laminate_55	consists	O
+laminate_55	of	O
+laminate_55	a	O
+laminate_55	laminate	laminate_nou
+laminate_55	that	O
+laminate_55	sandwiches	O
+laminate_55	an	O
+laminate_55	opaque	O
+laminate_55	layer	O
+laminate_55	between	O
+laminate_55	two	O
+laminate_55	white	O
+laminate_55	exterior	O
+laminate_55	layers	O

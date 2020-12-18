@@ -1,0 +1,16 @@
+protest_18	Hundreds	O
+protest_18	of	O
+protest_18	people	O
+protest_18	organised	O
+protest_18	a	O
+protest_18	gathering	O
+protest_18	outside	O
+protest_18	the	O
+protest_18	American	O
+protest_18	consulate	O
+protest_18	in	O
+protest_18	Karachi	O
+protest_18	to	O
+protest_18	lodge	O
+protest_18	a	O
+protest_18	protest	protest_nou

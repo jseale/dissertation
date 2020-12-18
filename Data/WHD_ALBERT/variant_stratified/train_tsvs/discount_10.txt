@@ -1,0 +1,16 @@
+discount_10	The	O
+discount_10	commercial	O
+discount_10	continued	O
+discount_10	the	O
+discount_10	theme	O
+discount_10	of	O
+discount_10	State	O
+discount_10	Farm	O
+discount_10	commercials	O
+discount_10	featuring	O
+discount_10	Rodgers	O
+discount_10	using	O
+discount_10	the	O
+discount_10	discount	discount_nou
+discount_10	doublecheck	O
+discount_10	slogan	O

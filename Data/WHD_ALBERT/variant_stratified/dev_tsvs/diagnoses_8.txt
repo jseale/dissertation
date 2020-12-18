@@ -1,0 +1,8 @@
+diagnoses_8	House	O
+diagnoses_8	diagnoses	diagnoses_vrb
+diagnoses_8	Flynn	O
+diagnoses_8	with	O
+diagnoses_8	tularemia	O
+diagnoses_8	from	O
+diagnoses_8	his	O
+diagnoses_8	rabbits	O

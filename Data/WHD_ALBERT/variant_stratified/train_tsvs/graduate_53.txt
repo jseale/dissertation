@@ -1,0 +1,12 @@
+graduate_53	Within	O
+graduate_53	10	O
+graduate_53	years	O
+graduate_53	83	O
+graduate_53	of	O
+graduate_53	Pomona	O
+graduate_53	graduates	O
+graduate_53	attend	O
+graduate_53	graduate	graduate_adj-nou
+graduate_53	and/or	O
+graduate_53	professional	O
+graduate_53	school	O

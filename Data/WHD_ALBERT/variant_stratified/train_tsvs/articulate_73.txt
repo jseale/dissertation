@@ -1,0 +1,16 @@
+articulate_73	She	O
+articulate_73	suggested	O
+articulate_73	that	O
+articulate_73	people	O
+articulate_73	within	O
+articulate_73	these	O
+articulate_73	groups	O
+articulate_73	create	O
+articulate_73	alternative	O
+articulate_73	forms	O
+articulate_73	of	O
+articulate_73	communication	O
+articulate_73	to	O
+articulate_73	articulate	articulate_vrb
+articulate_73	their	O
+articulate_73	experiences	O

@@ -1,0 +1,11 @@
+conduct_8	For	O
+conduct_8	his	O
+conduct_8	part	O
+conduct_8	Kondo	O
+conduct_8	found	O
+conduct_8	it	O
+conduct_8	mesmerizing	O
+conduct_8	to	O
+conduct_8	watch	O
+conduct_8	Choi	O
+conduct_8	conduct	conduct_vrb

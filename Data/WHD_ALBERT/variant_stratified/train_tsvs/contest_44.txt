@@ -1,0 +1,11 @@
+contest_44	Loki	O
+contest_44	appears	O
+contest_44	as	O
+contest_44	a	O
+contest_44	playable	O
+contest_44	character	O
+contest_44	in	O
+contest_44	Marvel	O
+contest_44	Contest	contest_nou
+contest_44	of	O
+contest_44	Champions	O

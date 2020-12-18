@@ -1,0 +1,12 @@
+import_3	They	O
+import_3	specialise	O
+import_3	in	O
+import_3	the	O
+import_3	import	import_nou
+import_3	conversion	O
+import_3	and	O
+import_3	retailing	O
+import_3	of	O
+import_3	American	O
+import_3	performance	O
+import_3	vehicles	O

@@ -1,0 +1,15 @@
+consummate_1	In	O
+consummate_1	this	O
+consummate_1	context	O
+consummate_1	it	O
+consummate_1	means	O
+consummate_1	of	O
+consummate_1	a	O
+consummate_1	degree	O
+consummate_1	highest	O
+consummate_1	of	O
+consummate_1	its	O
+consummate_1	kind	O
+consummate_1	or	O
+consummate_1	consummate	consummate_adj
+consummate_1	cf	O

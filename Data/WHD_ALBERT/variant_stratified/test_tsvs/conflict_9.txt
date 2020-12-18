@@ -1,0 +1,9 @@
+conflict_9	In	O
+conflict_9	2014	O
+conflict_9	however	O
+conflict_9	Al	O
+conflict_9	Qaeda	O
+conflict_9	and	O
+conflict_9	ISIL	O
+conflict_9	conflict	conflict_vrb
+conflict_9	directly	O

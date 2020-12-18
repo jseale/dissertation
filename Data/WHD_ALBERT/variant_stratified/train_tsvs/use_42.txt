@@ -1,0 +1,13 @@
+use_42	Membership	O
+use_42	in	O
+use_42	OCLC	O
+use_42	is	O
+use_42	based	O
+use_42	on	O
+use_42	use	use_nou
+use_42	of	O
+use_42	services	O
+use_42	and	O
+use_42	contribution	O
+use_42	of	O
+use_42	data	O

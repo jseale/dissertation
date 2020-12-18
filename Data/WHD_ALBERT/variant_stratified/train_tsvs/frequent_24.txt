@@ -1,0 +1,13 @@
+frequent_24	There	O
+frequent_24	are	O
+frequent_24	frequent	frequent_adj
+frequent_24	buses	O
+frequent_24	running	O
+frequent_24	between	O
+frequent_24	Fuyang	O
+frequent_24	and	O
+frequent_24	Hangzhou	O
+frequent_24	and	O
+frequent_24	other	O
+frequent_24	nearby	O
+frequent_24	cities	O

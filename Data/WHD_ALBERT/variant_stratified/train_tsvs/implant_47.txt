@@ -1,0 +1,15 @@
+implant_47	The	O
+implant_47	proteins	O
+implant_47	surrounding	O
+implant_47	the	O
+implant_47	implant	implant_nou
+implant_47	serve	O
+implant_47	to	O
+implant_47	hide	O
+implant_47	the	O
+implant_47	implant	implant_nou
+implant_47	from	O
+implant_47	the	O
+implant_47	innate	O
+implant_47	immune	O
+implant_47	system	O

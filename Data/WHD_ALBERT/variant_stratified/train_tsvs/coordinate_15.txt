@@ -1,0 +1,17 @@
+coordinate_15	If	O
+coordinate_15	the	O
+coordinate_15	basis	O
+coordinate_15	vectors	O
+coordinate_15	are	O
+coordinate_15	orthogonal	O
+coordinate_15	at	O
+coordinate_15	every	O
+coordinate_15	point	O
+coordinate_15	the	O
+coordinate_15	coordinate	coordinate_adj-nou
+coordinate_15	system	O
+coordinate_15	is	O
+coordinate_15	an	O
+coordinate_15	orthogonal	O
+coordinate_15	coordinate	coordinate_adj-nou
+coordinate_15	system	O

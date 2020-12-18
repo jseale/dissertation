@@ -1,0 +1,9 @@
+diagnoses_8	In	O
+diagnoses_8	most	O
+diagnoses_8	clinical	O
+diagnoses_8	diagnoses	diagnoses_nou
+diagnoses_8	these	O
+diagnoses_8	signs	O
+diagnoses_8	are	O
+diagnoses_8	seldom	O
+diagnoses_8	noticed	O

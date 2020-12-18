@@ -1,0 +1,15 @@
+discharge_39	If	O
+discharge_39	the	O
+discharge_39	stage	O
+discharge_39	discharge	discharge_nou
+discharge_39	relationship	O
+discharge_39	does	O
+discharge_39	not	O
+discharge_39	change	O
+discharge_39	with	O
+discharge_39	time	O
+discharge_39	it	O
+discharge_39	is	O
+discharge_39	called	O
+discharge_39	permanent	O
+discharge_39	control	O

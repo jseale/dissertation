@@ -1,0 +1,12 @@
+aggregate_7	The	O
+aggregate_7	film	O
+aggregate_7	's	O
+aggregate_7	aggregate	aggregate_adj-nou
+aggregate_7	score	O
+aggregate_7	at	O
+aggregate_7	Metacritic	O
+aggregate_7	is	O
+aggregate_7	64	O
+aggregate_7	out	O
+aggregate_7	of	O
+aggregate_7	100	O

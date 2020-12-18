@@ -1,0 +1,9 @@
+increment_24	The	O
+increment_24	minimum	O
+increment_24	possible	O
+increment_24	increment	increment_nou
+increment_24	of	O
+increment_24	horizontal	O
+increment_24	movement	O
+increment_24	is	O
+increment_24	1/120	O

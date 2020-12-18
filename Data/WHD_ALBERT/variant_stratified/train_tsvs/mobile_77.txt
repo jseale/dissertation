@@ -1,0 +1,10 @@
+mobile_77	In	O
+mobile_77	1972	O
+mobile_77	Bedsole	O
+mobile_77	was	O
+mobile_77	elected	O
+mobile_77	the	O
+mobile_77	First	O
+mobile_77	Lady	O
+mobile_77	of	O
+mobile_77	Mobile	mobile_geo

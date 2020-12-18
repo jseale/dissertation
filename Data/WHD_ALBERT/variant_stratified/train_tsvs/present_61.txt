@@ -1,0 +1,17 @@
+present_61	Though	O
+present_61	testosterone	O
+present_61	is	O
+present_61	present	present_adj-nou
+present_61	within	O
+present_61	the	O
+present_61	female	O
+present_61	hormonal	O
+present_61	systems	O
+present_61	women	O
+present_61	have	O
+present_61	lower	O
+present_61	levels	O
+present_61	of	O
+present_61	testosterone	O
+present_61	than	O
+present_61	men	O

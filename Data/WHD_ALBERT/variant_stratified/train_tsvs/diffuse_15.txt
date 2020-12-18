@@ -1,0 +1,17 @@
+diffuse_15	In	O
+diffuse_15	2011	O
+diffuse_15	diffuse	diffuse_adj
+diffuse_15	white	O
+diffuse_15	plumes	O
+diffuse_15	were	O
+diffuse_15	seen	O
+diffuse_15	rising	O
+diffuse_15	from	O
+diffuse_15	Anak	O
+diffuse_15	Ranakah	O
+diffuse_15	Dome	O
+diffuse_15	although	O
+diffuse_15	no	O
+diffuse_15	ash	O
+diffuse_15	was	O
+diffuse_15	detected	O

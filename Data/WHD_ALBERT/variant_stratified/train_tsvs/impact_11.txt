@@ -1,0 +1,12 @@
+impact_11	No	O
+impact_11	actual	O
+impact_11	missile	O
+impact_11	shield	O
+impact_11	has	O
+impact_11	been	O
+impact_11	subjected	O
+impact_11	to	O
+impact_11	an	O
+impact_11	aircraft	O
+impact_11	impact	impact_nou
+impact_11	test	O

@@ -1,0 +1,15 @@
+diffuse_76	The	O
+diffuse_76	university	O
+diffuse_76	leadership	O
+diffuse_76	stepped	O
+diffuse_76	in	O
+diffuse_76	to	O
+diffuse_76	diffuse	diffuse_vrb
+diffuse_76	what	O
+diffuse_76	it	O
+diffuse_76	saw	O
+diffuse_76	as	O
+diffuse_76	a	O
+diffuse_76	potentially	O
+diffuse_76	explosive	O
+diffuse_76	situation	O

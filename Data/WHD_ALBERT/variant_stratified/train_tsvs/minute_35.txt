@@ -1,0 +1,16 @@
+minute_35	In	O
+minute_35	making	O
+minute_35	the	O
+minute_35	two	O
+minute_35	minute	minute
+minute_35	film	O
+minute_35	he	O
+minute_35	videotaped	O
+minute_35	people	O
+minute_35	walking	O
+minute_35	and	O
+minute_35	animated	O
+minute_35	them	O
+minute_35	in	O
+minute_35	walk	O
+minute_35	cycles	O

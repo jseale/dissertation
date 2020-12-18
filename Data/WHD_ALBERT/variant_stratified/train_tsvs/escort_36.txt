@@ -1,0 +1,10 @@
+escort_36	ISBN	O
+escort_36	1	O
+escort_36	85410	O
+escort_36	588	O
+escort_36	4Peter	O
+escort_36	Gretton	O
+escort_36	Convoy	O
+escort_36	Escort	escort_nou
+escort_36	Commander	O
+escort_36	1964	O

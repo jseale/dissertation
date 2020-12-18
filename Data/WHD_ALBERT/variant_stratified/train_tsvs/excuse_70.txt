@@ -1,0 +1,11 @@
+excuse_70	On	O
+excuse_70	August	O
+excuse_70	11	O
+excuse_70	they	O
+excuse_70	released	O
+excuse_70	their	O
+excuse_70	fourth	O
+excuse_70	Japanese	O
+excuse_70	single	O
+excuse_70	Excuse	excuse_vrb
+excuse_70	Me	O

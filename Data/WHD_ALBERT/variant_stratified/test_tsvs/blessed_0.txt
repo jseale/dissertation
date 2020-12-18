@@ -1,0 +1,14 @@
+blessed_0	The	O
+blessed_0	4th	O
+blessed_0	year	O
+blessed_0	sections	O
+blessed_0	are	O
+blessed_0	named	O
+blessed_0	after	O
+blessed_0	the	O
+blessed_0	titles	O
+blessed_0	of	O
+blessed_0	the	O
+blessed_0	Blessed	blessed_adj
+blessed_0	Virgin	O
+blessed_0	Mother	O

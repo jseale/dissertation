@@ -1,0 +1,16 @@
+reading_45	Its	O
+reading_45	genome	O
+reading_45	has	O
+reading_45	been	O
+reading_45	sequenced	O
+reading_45	and	O
+reading_45	contains	O
+reading_45	approximately	O
+reading_45	6600	O
+reading_45	nucleotides	O
+reading_45	organized	O
+reading_45	into	O
+reading_45	four	O
+reading_45	open	O
+reading_45	reading	reading_en
+reading_45	frames	O

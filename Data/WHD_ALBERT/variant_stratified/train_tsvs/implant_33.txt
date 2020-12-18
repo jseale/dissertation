@@ -1,0 +1,13 @@
+implant_33	Assessment	O
+implant_33	of	O
+implant_33	dental	O
+implant_33	implant	implant_nou
+implant_33	stability	O
+implant_33	in	O
+implant_33	osseodistraction	O
+implant_33	generated	O
+implant_33	bone	O
+implant_33	a	O
+implant_33	resonance	O
+implant_33	frequency	O
+implant_33	analysis	O

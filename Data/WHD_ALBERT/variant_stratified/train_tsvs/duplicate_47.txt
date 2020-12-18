@@ -1,0 +1,15 @@
+duplicate_47	In	O
+duplicate_47	some	O
+duplicate_47	implementations	O
+duplicate_47	duplicate	duplicate_adj-nou
+duplicate_47	sections	O
+duplicate_47	simply	O
+duplicate_47	merge	O
+duplicate_47	their	O
+duplicate_47	properties	O
+duplicate_47	together	O
+duplicate_47	as	O
+duplicate_47	if	O
+duplicate_47	they	O
+duplicate_47	occurred	O
+duplicate_47	contiguously	O

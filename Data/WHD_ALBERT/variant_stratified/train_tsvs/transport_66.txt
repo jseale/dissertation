@@ -1,0 +1,16 @@
+transport_66	Control	O
+transport_66	on	O
+transport_66	transport	transport_nou
+transport_66	of	O
+transport_66	crossbows	O
+transport_66	between	O
+transport_66	states	O
+transport_66	has	O
+transport_66	increased	O
+transport_66	to	O
+transport_66	prevent	O
+transport_66	unauthorised	O
+transport_66	use	O
+transport_66	of	O
+transport_66	imported	O
+transport_66	crossbows	O

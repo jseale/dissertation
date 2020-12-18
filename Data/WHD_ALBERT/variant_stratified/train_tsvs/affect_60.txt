@@ -1,0 +1,17 @@
+affect_60	In	O
+affect_60	turn	O
+affect_60	the	O
+affect_60	events	O
+affect_60	of	O
+affect_60	suspense	O
+affect_60	must	O
+affect_60	also	O
+affect_60	directly	O
+affect_60	affect	affect
+affect_60	the	O
+affect_60	relationship	O
+affect_60	and	O
+affect_60	move	O
+affect_60	the	O
+affect_60	story	O
+affect_60	forward	O

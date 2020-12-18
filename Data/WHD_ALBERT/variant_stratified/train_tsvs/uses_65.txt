@@ -1,0 +1,10 @@
+uses_65	To	O
+uses_65	express	O
+uses_65	past	O
+uses_65	tense	O
+uses_65	negative	O
+uses_65	Hawaiian	O
+uses_65	Pidgin	O
+uses_65	uses	uses_vrb
+uses_65	neva	O
+uses_65	never	O

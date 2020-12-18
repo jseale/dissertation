@@ -1,0 +1,15 @@
+produce_45	First	O
+produce_45	courts	O
+produce_45	require	O
+produce_45	that	O
+produce_45	the	O
+produce_45	defense	O
+produce_45	produce	produce_vrb
+produce_45	some	O
+produce_45	evidence	O
+produce_45	to	O
+produce_45	support	O
+produce_45	an	O
+produce_45	allegation	O
+produce_45	of	O
+produce_45	UCI	O

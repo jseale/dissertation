@@ -1,0 +1,14 @@
+refuse_26	Vista	O
+refuse_26	does	O
+refuse_26	not	O
+refuse_26	degrade	O
+refuse_26	or	O
+refuse_26	refuse	refuse_vrb
+refuse_26	to	O
+refuse_26	play	O
+refuse_26	any	O
+refuse_26	existing	O
+refuse_26	media	O
+refuse_26	CDs	O
+refuse_26	or	O
+refuse_26	DVDs	O

@@ -1,0 +1,14 @@
+use_14	In	O
+use_14	common	O
+use_14	use	use_nou
+use_14	cane	O
+use_14	may	O
+use_14	refer	O
+use_14	to	O
+use_14	any	O
+use_14	plant	O
+use_14	with	O
+use_14	a	O
+use_14	long	O
+use_14	thin	O
+use_14	stem	O

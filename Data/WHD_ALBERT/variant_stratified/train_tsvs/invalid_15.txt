@@ -1,0 +1,17 @@
+invalid_15	If	O
+invalid_15	one	O
+invalid_15	sukkah	O
+invalid_15	is	O
+invalid_15	erected	O
+invalid_15	above	O
+invalid_15	another	O
+invalid_15	the	O
+invalid_15	upper	O
+invalid_15	one	O
+invalid_15	is	O
+invalid_15	valid	O
+invalid_15	but	O
+invalid_15	the	O
+invalid_15	lower	O
+invalid_15	is	O
+invalid_15	invalid	invalid_adj

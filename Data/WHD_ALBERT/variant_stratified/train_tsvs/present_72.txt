@@ -1,0 +1,12 @@
+present_72	Furthermore	O
+present_72	α	O
+present_72	methyl	O
+present_72	amino	O
+present_72	acids	O
+present_72	are	O
+present_72	generally	O
+present_72	not	O
+present_72	present	present_adj-nou
+present_72	in	O
+present_72	terrestrial	O
+present_72	chemistry	O

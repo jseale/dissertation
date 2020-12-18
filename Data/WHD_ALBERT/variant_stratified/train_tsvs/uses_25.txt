@@ -1,0 +1,17 @@
+uses_25	The	O
+uses_25	game	O
+uses_25	Puzzle	O
+uses_25	Pirates	O
+uses_25	uses	uses_vrb
+uses_25	the	O
+uses_25	Elo	O
+uses_25	rating	O
+uses_25	system	O
+uses_25	to	O
+uses_25	determine	O
+uses_25	the	O
+uses_25	standings	O
+uses_25	in	O
+uses_25	the	O
+uses_25	various	O
+uses_25	puzzles	O

@@ -1,0 +1,11 @@
+export_22	The	O
+export_22	XA-188	O
+export_22	is	O
+export_22	originally	O
+export_22	a	O
+export_22	Dutch	O
+export_22	export	export_nou
+export_22	version	O
+export_22	of	O
+export_22	the	O
+export_22	APC	O

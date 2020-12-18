@@ -1,0 +1,16 @@
+abuse_26	Incidence	O
+abuse_26	of	O
+abuse_26	drug	O
+abuse_26	abuse	abuse_nou
+abuse_26	is	O
+abuse_26	minuscule	O
+abuse_26	compared	O
+abuse_26	with	O
+abuse_26	other	O
+abuse_26	industrialized	O
+abuse_26	nations	O
+abuse_26	and	O
+abuse_26	limited	O
+abuse_26	mainly	O
+abuse_26	to	O
+abuse_26	stimulants	O

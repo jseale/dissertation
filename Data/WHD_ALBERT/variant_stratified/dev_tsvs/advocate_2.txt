@@ -1,0 +1,16 @@
+advocate_2	However	O
+advocate_2	apart	O
+advocate_2	from	O
+advocate_2	Germany	O
+advocate_2	one	O
+advocate_2	does	O
+advocate_2	not	O
+advocate_2	necessarily	O
+advocate_2	have	O
+advocate_2	to	O
+advocate_2	be	O
+advocate_2	an	O
+advocate_2	advocate	advocate_nou
+advocate_2	to	O
+advocate_2	practice	O
+advocate_2	law	O

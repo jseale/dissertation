@@ -1,0 +1,8 @@
+pervert_51	He	O
+pervert_51	is	O
+pervert_51	described	O
+pervert_51	as	O
+pervert_51	being	O
+pervert_51	a	O
+pervert_51	major	O
+pervert_51	pervert	pervert_nou

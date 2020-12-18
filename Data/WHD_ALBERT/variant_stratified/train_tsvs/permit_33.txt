@@ -1,0 +1,15 @@
+permit_33	Problems	O
+permit_33	with	O
+permit_33	obtaining	O
+permit_33	a	O
+permit_33	work	O
+permit_33	permit	permit_nou
+permit_33	saw	O
+permit_33	this	O
+permit_33	fall	O
+permit_33	through	O
+permit_33	and	O
+permit_33	he	O
+permit_33	returned	O
+permit_33	to	O
+permit_33	Stoke	O

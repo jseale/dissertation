@@ -1,0 +1,12 @@
+diffuse_44	The	O
+diffuse_44	upperside	O
+diffuse_44	of	O
+diffuse_44	the	O
+diffuse_44	hindwing	O
+diffuse_44	is	O
+diffuse_44	black	O
+diffuse_44	with	O
+diffuse_44	two	O
+diffuse_44	diffuse	diffuse_adj
+diffuse_44	white	O
+diffuse_44	bands	O

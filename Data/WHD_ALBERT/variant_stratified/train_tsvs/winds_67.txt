@@ -1,0 +1,13 @@
+winds_67	He	O
+winds_67	likes	O
+winds_67	to	O
+winds_67	sleep	O
+winds_67	on	O
+winds_67	the	O
+winds_67	school	O
+winds_67	roof	O
+winds_67	and	O
+winds_67	play	O
+winds_67	in	O
+winds_67	the	O
+winds_67	winds	winds_nou

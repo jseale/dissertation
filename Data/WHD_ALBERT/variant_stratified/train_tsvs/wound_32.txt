@@ -1,0 +1,17 @@
+wound_32	For	O
+wound_32	tis	O
+wound_32	grievous	O
+wound_32	to	O
+wound_32	wound	wound_nou-vrb
+wound_32	in	O
+wound_32	the	O
+wound_32	rear	O
+wound_32	the	O
+wound_32	back	O
+wound_32	of	O
+wound_32	a	O
+wound_32	flying	O
+wound_32	man	O
+wound_32	in	O
+wound_32	hostile	O
+wound_32	war	O

@@ -1,0 +1,13 @@
+degenerate_19	When	O
+degenerate_19	the	O
+degenerate_19	Nazis	O
+degenerate_19	seized	O
+degenerate_19	power	O
+degenerate_19	much	O
+degenerate_19	of	O
+degenerate_19	Nagel	O
+degenerate_19	's	O
+degenerate_19	work	O
+degenerate_19	was	O
+degenerate_19	declared	O
+degenerate_19	degenerate	degenerate_adj-nou

@@ -1,0 +1,17 @@
+excuse_51	The	O
+excuse_51	PRC	O
+excuse_51	's	O
+excuse_51	Defense	O
+excuse_51	Ministry	O
+excuse_51	has	O
+excuse_51	cited	O
+excuse_51	the	O
+excuse_51	pivot	O
+excuse_51	as	O
+excuse_51	an	O
+excuse_51	excuse	excuse_nou
+excuse_51	for	O
+excuse_51	their	O
+excuse_51	own	O
+excuse_51	continued	O
+excuse_51	buildup	O

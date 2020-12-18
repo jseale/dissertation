@@ -1,0 +1,17 @@
+bow_70	Duffek	O
+bow_70	popularized	O
+bow_70	the	O
+bow_70	bow	bow_nou-ship
+bow_70	draw	O
+bow_70	stroke	O
+bow_70	aka	O
+bow_70	Duffek	O
+bow_70	Stroke	O
+bow_70	as	O
+bow_70	an	O
+bow_70	effective	O
+bow_70	means	O
+bow_70	of	O
+bow_70	pivoting	O
+bow_70	a	O
+bow_70	kayak	O

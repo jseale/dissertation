@@ -1,0 +1,16 @@
+blessed_21	He	O
+blessed_21	kissed	O
+blessed_21	the	O
+blessed_21	blessed	blessed_adj
+blessed_21	feet	O
+blessed_21	of	O
+blessed_21	Hadrat	O
+blessed_21	and	O
+blessed_21	exhaled	O
+blessed_21	3	O
+blessed_21	times	O
+blessed_21	before	O
+blessed_21	coming	O
+blessed_21	down	O
+blessed_21	and	O
+blessed_21	leaving	O

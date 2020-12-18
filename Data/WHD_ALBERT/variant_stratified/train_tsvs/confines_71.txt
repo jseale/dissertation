@@ -1,0 +1,12 @@
+confines_71	Secretive	O
+confines_71	and	O
+confines_71	cautious	O
+confines_71	the	O
+confines_71	blue	O
+confines_71	duiker	O
+confines_71	confines	confines_vrb
+confines_71	itself	O
+confines_71	to	O
+confines_71	the	O
+confines_71	forest	O
+confines_71	fringes	O

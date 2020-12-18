@@ -1,0 +1,10 @@
+celtic_61	Bangura	O
+celtic_61	made	O
+celtic_61	his	O
+celtic_61	Celtic	celtic_adj-nou-sports
+celtic_61	debut	O
+celtic_61	for	O
+celtic_61	Celtic	celtic_adj-nou-sports
+celtic_61	on	O
+celtic_61	10	O
+celtic_61	September	O

@@ -1,0 +1,15 @@
+transform_46	The	O
+transform_46	main	O
+transform_46	purpose	O
+transform_46	of	O
+transform_46	matte	O
+transform_46	glass	O
+transform_46	is	O
+transform_46	to	O
+transform_46	transform	transform
+transform_46	the	O
+transform_46	specular	O
+transform_46	reflection	O
+transform_46	into	O
+transform_46	reflection	O
+transform_46	haze	O

@@ -1,0 +1,17 @@
+read_10	He	O
+read_10	was	O
+read_10	educated	O
+read_10	at	O
+read_10	Eton	O
+read_10	and	O
+read_10	Magdalene	O
+read_10	College	O
+read_10	Cambridge	O
+read_10	where	O
+read_10	he	O
+read_10	read	read_past
+read_10	History	O
+read_10	B.A.	O
+read_10	1890	O
+read_10	M.A.	O
+read_10	1894	O

@@ -1,0 +1,11 @@
+estimate_53	Modern	O
+estimate_53	historians	O
+estimate_53	find	O
+estimate_53	the	O
+estimate_53	latter	O
+estimate_53	estimate	estimate_nou
+estimate_53	to	O
+estimate_53	be	O
+estimate_53	the	O
+estimate_53	most	O
+estimate_53	credible	O

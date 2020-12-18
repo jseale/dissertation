@@ -1,0 +1,14 @@
+use_28	The	O
+use_28	other	O
+use_28	mineral	O
+use_28	found	O
+use_28	in	O
+use_28	large	O
+use_28	quantities	O
+use_28	conveniently	O
+use_28	with	O
+use_28	a	O
+use_28	commercial	O
+use_28	use	use_nou
+use_28	is	O
+use_28	shale	O

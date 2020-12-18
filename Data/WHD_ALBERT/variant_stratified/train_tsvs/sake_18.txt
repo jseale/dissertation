@@ -1,0 +1,13 @@
+sake_18	For	O
+sake_18	the	O
+sake_18	sake	sake
+sake_18	of	O
+sake_18	Mathilde	O
+sake_18	Prudence	O
+sake_18	reluctantly	O
+sake_18	agrees	O
+sake_18	breaking	O
+sake_18	her	O
+sake_18	promise	O
+sake_18	to	O
+sake_18	Tony	O

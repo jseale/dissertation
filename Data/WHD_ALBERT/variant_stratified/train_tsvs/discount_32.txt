@@ -1,0 +1,17 @@
+discount_32	The	O
+discount_32	fortunes	O
+discount_32	of	O
+discount_32	war	O
+discount_32	could	O
+discount_32	be	O
+discount_32	traced	O
+discount_32	through	O
+discount_32	the	O
+discount_32	discount	discount_nou
+discount_32	rates	O
+discount_32	on	O
+discount_32	warrants	O
+discount_32	vouchers	O
+discount_32	and	O
+discount_32	Continental	O
+discount_32	dollars	O

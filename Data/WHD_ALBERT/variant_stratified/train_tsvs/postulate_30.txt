@@ -1,0 +1,10 @@
+postulate_30	The	O
+postulate_30	logic	O
+postulate_30	postulate	postulate_nou
+postulate_30	Two	O
+postulate_30	truths	O
+postulate_30	can	O
+postulate_30	not	O
+postulate_30	contradict	O
+postulate_30	each	O
+postulate_30	other	O

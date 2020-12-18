@@ -1,0 +1,14 @@
+contest_19	This	O
+contest_19	contest	contest_nou
+contest_19	is	O
+contest_19	done	O
+contest_19	annually	O
+contest_19	on	O
+contest_19	that	O
+contest_19	weeklong	O
+contest_19	celebration	O
+contest_19	of	O
+contest_19	the	O
+contest_19	Tacloban	O
+contest_19	City	O
+contest_19	Fiesta	O

@@ -1,0 +1,10 @@
+invite_6	The	O
+invite_6	deal	O
+invite_6	included	O
+invite_6	an	O
+invite_6	invite	invite_nou
+invite_6	to	O
+invite_6	major	O
+invite_6	league	O
+invite_6	spring	O
+invite_6	training	O

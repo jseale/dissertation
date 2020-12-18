@@ -1,0 +1,15 @@
+excuse_5	This	O
+excuse_5	gave	O
+excuse_5	carpaccio	O
+excuse_5	an	O
+excuse_5	excuse	excuse_nou
+excuse_5	for	O
+excuse_5	filling	O
+excuse_5	his	O
+excuse_5	canvas	O
+excuse_5	with	O
+excuse_5	picturesque	O
+excuse_5	oriental	O
+excuse_5	costumes	O
+excuse_5	and	O
+excuse_5	architecture	O

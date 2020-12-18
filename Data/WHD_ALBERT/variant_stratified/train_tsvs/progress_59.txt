@@ -1,0 +1,10 @@
+progress_59	Progress	progress_nou
+progress_59	of	O
+progress_59	civil	O
+progress_59	works	O
+progress_59	up	O
+progress_59	to	O
+progress_59	December	O
+progress_59	2016	O
+progress_59	is	O
+progress_59	86.34	O

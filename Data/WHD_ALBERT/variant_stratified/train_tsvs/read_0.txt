@@ -1,0 +1,9 @@
+read_0	It	O
+read_0	can	O
+read_0	therefore	O
+read_0	be	O
+read_0	read	read_past
+read_0	profitably	O
+read_0	if	O
+read_0	read	read_past
+read_0	critically	O

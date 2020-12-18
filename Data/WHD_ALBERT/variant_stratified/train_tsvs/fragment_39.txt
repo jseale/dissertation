@@ -1,0 +1,8 @@
+fragment_39	Early	O
+fragment_39	Neanderthal	O
+fragment_39	jaw	O
+fragment_39	fragment	fragment_nou
+fragment_39	c.	O
+fragment_39	230,000	O
+fragment_39	years	O
+fragment_39	old	O

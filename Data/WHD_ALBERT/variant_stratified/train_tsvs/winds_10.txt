@@ -1,0 +1,13 @@
+winds_10	The	O
+winds_10	severe	O
+winds_10	waves	O
+winds_10	can	O
+winds_10	be	O
+winds_10	a	O
+winds_10	result	O
+winds_10	of	O
+winds_10	high	O
+winds_10	winds	winds_nou
+winds_10	landslides	O
+winds_10	and	O
+winds_10	earthquakes	O

@@ -1,0 +1,15 @@
+subordinate_41	The	O
+subordinate_41	Task	O
+subordinate_41	Force	O
+subordinate_41	and	O
+subordinate_41	its	O
+subordinate_41	subordinate	subordinate_adj-nou
+subordinate_41	formations	O
+subordinate_41	comprised	O
+subordinate_41	a	O
+subordinate_41	shifting	O
+subordinate_41	group	O
+subordinate_41	of	O
+subordinate_41	units	O
+subordinate_41	and	O
+subordinate_41	formations	O

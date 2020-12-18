@@ -1,0 +1,17 @@
+celtic_18	In	O
+celtic_18	2016	O
+celtic_18	a	O
+celtic_18	group	O
+celtic_18	of	O
+celtic_18	well	O
+celtic_18	wishers	O
+celtic_18	came	O
+celtic_18	together	O
+celtic_18	to	O
+celtic_18	mark	O
+celtic_18	his	O
+celtic_18	grave	O
+celtic_18	with	O
+celtic_18	a	O
+celtic_18	Celtic	celtic
+celtic_18	Cross	O

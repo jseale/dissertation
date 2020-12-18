@@ -1,0 +1,17 @@
+insult_58	George	O
+insult_58	III	O
+insult_58	took	O
+insult_58	this	O
+insult_58	as	O
+insult_58	a	O
+insult_58	personal	O
+insult_58	insult	insult_nou
+insult_58	and	O
+insult_58	as	O
+insult_58	a	O
+insult_58	result	O
+insult_58	disliked	O
+insult_58	Coke	O
+insult_58	until	O
+insult_58	his	O
+insult_58	death	O

@@ -1,0 +1,13 @@
+compound_10	The	O
+compound_10	fading	O
+compound_10	and	O
+compound_10	cracking	O
+compound_10	of	O
+compound_10	older	O
+compound_10	types	O
+compound_10	of	O
+compound_10	plastic	O
+compound_10	siding	O
+compound_10	compound	compound_vrb
+compound_10	this	O
+compound_10	issue	O

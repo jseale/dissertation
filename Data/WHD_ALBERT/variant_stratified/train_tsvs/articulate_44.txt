@@ -1,0 +1,12 @@
+articulate_44	They	O
+articulate_44	would	O
+articulate_44	rather	O
+articulate_44	try	O
+articulate_44	to	O
+articulate_44	have	O
+articulate_44	a	O
+articulate_44	man	O
+articulate_44	articulate	articulate_vrb
+articulate_44	than	O
+articulate_44	a	O
+articulate_44	woman	O

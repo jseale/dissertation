@@ -1,0 +1,15 @@
+lead_12	1469	O
+lead_12	saw	O
+lead_12	a	O
+lead_12	wooden	O
+lead_12	bell	O
+lead_12	tower	O
+lead_12	covered	O
+lead_12	in	O
+lead_12	lead	lead_nou
+lead_12	constructed	O
+lead_12	50	O
+lead_12	feet	O
+lead_12	above	O
+lead_12	the	O
+lead_12	transept	O

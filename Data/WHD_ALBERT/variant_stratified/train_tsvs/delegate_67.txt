@@ -1,0 +1,9 @@
+delegate_67	Liebel	O
+delegate_67	was	O
+delegate_67	a	O
+delegate_67	delegate	delegate_nou
+delegate_67	to	O
+delegate_67	five	O
+delegate_67	Democratic	O
+delegate_67	National	O
+delegate_67	Conventions	O

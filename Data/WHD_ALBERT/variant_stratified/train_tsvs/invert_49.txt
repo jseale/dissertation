@@ -1,0 +1,16 @@
+invert_49	It	O
+invert_49	is	O
+invert_49	an	O
+invert_49	optional	O
+invert_49	bit	O
+invert_49	flipper	O
+invert_49	the	O
+invert_49	deciding	O
+invert_49	input	O
+invert_49	chooses	O
+invert_49	whether	O
+invert_49	to	O
+invert_49	invert	invert_vrb
+invert_49	the	O
+invert_49	data	O
+invert_49	input	O

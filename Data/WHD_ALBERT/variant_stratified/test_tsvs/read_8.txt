@@ -1,0 +1,16 @@
+read_8	The	O
+read_8	teacher	O
+read_8	would	O
+read_8	then	O
+read_8	read	read_present
+read_8	the	O
+read_8	first	O
+read_8	word	O
+read_8	of	O
+read_8	each	O
+read_8	pair	O
+read_8	and	O
+read_8	read	read_present
+read_8	four	O
+read_8	possible	O
+read_8	answers	O

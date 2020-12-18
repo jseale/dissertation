@@ -1,0 +1,13 @@
+convert_34	She	O
+convert_34	attempts	O
+convert_34	to	O
+convert_34	convert	convert_vrb
+convert_34	Gowanus	O
+convert_34	into	O
+convert_34	a	O
+convert_34	new	O
+convert_34	gentrified	O
+convert_34	neighborhood	O
+convert_34	called	O
+convert_34	Boerum	O
+convert_34	Hill	O

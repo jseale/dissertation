@@ -1,0 +1,9 @@
+perfume_52	In	O
+perfume_52	fact	O
+perfume_52	the	O
+perfume_52	perfume	perfume_nou
+perfume_52	contains	O
+perfume_52	some	O
+perfume_52	60	O
+perfume_52	floral	O
+perfume_52	essences	O

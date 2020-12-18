@@ -1,0 +1,9 @@
+consummate_2	That	O
+consummate_2	is	O
+consummate_2	the	O
+consummate_2	position	O
+consummate_2	of	O
+consummate_2	consummate	consummate_adj
+consummate_2	trust	O
+consummate_2	and	O
+consummate_2	authority	O

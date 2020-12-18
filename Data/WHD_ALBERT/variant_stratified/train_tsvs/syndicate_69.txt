@@ -1,0 +1,13 @@
+syndicate_69	Syndicate	syndicate_nou
+syndicate_69	Bank	O
+syndicate_69	is	O
+syndicate_69	one	O
+syndicate_69	of	O
+syndicate_69	the	O
+syndicate_69	oldest	O
+syndicate_69	and	O
+syndicate_69	major	O
+syndicate_69	commercial	O
+syndicate_69	banks	O
+syndicate_69	of	O
+syndicate_69	India	O

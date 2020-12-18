@@ -1,0 +1,17 @@
+import_64	He	O
+import_64	managed	O
+import_64	to	O
+import_64	import	import_vrb
+import_64	directly	O
+import_64	from	O
+import_64	England	O
+import_64	an	O
+import_64	automatic	O
+import_64	flatbed	O
+import_64	printing	O
+import_64	press	O
+import_64	the	O
+import_64	latest	O
+import_64	type	O
+import_64	then	O
+import_64	available	O

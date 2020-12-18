@@ -1,0 +1,13 @@
+fragment_21	It	O
+fragment_21	represents	O
+fragment_21	a	O
+fragment_21	fragment	fragment_nou
+fragment_21	of	O
+fragment_21	a	O
+fragment_21	substantial	O
+fragment_21	hotel	O
+fragment_21	that	O
+fragment_21	served	O
+fragment_21	the	O
+fragment_21	Furness	O
+fragment_21	Railway	O

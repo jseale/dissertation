@@ -1,0 +1,14 @@
+deliberate_2	Opera	O
+deliberate_2	was	O
+deliberate_2	developed	O
+deliberate_2	as	O
+deliberate_2	a	O
+deliberate_2	deliberate	deliberate_adj
+deliberate_2	attempt	O
+deliberate_2	to	O
+deliberate_2	resurrect	O
+deliberate_2	the	O
+deliberate_2	music	O
+deliberate_2	of	O
+deliberate_2	ancient	O
+deliberate_2	Greece	O

@@ -1,0 +1,15 @@
+protest_0	For	O
+protest_0	Nasir	O
+protest_0	Al	O
+protest_0	Din	O
+protest_0	Shah	O
+protest_0	the	O
+protest_0	protest	protest_nou
+protest_0	left	O
+protest_0	him	O
+protest_0	both	O
+protest_0	financially	O
+protest_0	handicapped	O
+protest_0	and	O
+protest_0	publicly	O
+protest_0	humiliated	O

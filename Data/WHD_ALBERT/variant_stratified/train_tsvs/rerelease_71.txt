@@ -1,0 +1,11 @@
+rerelease_71	We	O
+rerelease_71	'd	O
+rerelease_71	all	O
+rerelease_71	love	O
+rerelease_71	to	O
+rerelease_71	recut	O
+rerelease_71	that	O
+rerelease_71	movie	O
+rerelease_71	and	O
+rerelease_71	rerelease	rerelease_vrb
+rerelease_71	it	O

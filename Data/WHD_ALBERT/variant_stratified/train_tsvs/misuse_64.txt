@@ -1,0 +1,15 @@
+misuse_64	He	O
+misuse_64	has	O
+misuse_64	opposed	O
+misuse_64	the	O
+misuse_64	misuse	misuse_nou
+misuse_64	of	O
+misuse_64	funds	O
+misuse_64	for	O
+misuse_64	urban	O
+misuse_64	revitalization	O
+misuse_64	to	O
+misuse_64	instead	O
+misuse_64	destroy	O
+misuse_64	viable	O
+misuse_64	buildings	O

@@ -1,0 +1,11 @@
+winds_63	Strong	O
+winds_63	winds	winds_nou
+winds_63	contributed	O
+winds_63	to	O
+winds_63	power	O
+winds_63	outages	O
+winds_63	and	O
+winds_63	blowing	O
+winds_63	and	O
+winds_63	drifting	O
+winds_63	snow	O

@@ -1,0 +1,16 @@
+expose_45	Classes	O
+expose_45	in	O
+expose_45	studio	O
+expose_45	and	O
+expose_45	location	O
+expose_45	lighting	O
+expose_45	expose	expose_vrb
+expose_45	students	O
+expose_45	to	O
+expose_45	daylight	O
+expose_45	tungsten	O
+expose_45	quartz	O
+expose_45	and	O
+expose_45	electronic	O
+expose_45	flash	O
+expose_45	options	O

@@ -1,0 +1,17 @@
+winds_23	Pretty	O
+winds_23	good	O
+winds_23	strong	O
+winds_23	breeze	O
+winds_23	today	O
+winds_23	15	O
+winds_23	to	O
+winds_23	20	O
+winds_23	mile	O
+winds_23	per	O
+winds_23	hour	O
+winds_23	sustained	O
+winds_23	winds	winds_nou
+winds_23	coming	O
+winds_23	up	O
+winds_23	from	O
+winds_23	Orlando	O

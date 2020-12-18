@@ -1,0 +1,17 @@
+upset_72	The	O
+upset_72	Titans	O
+upset_72	were	O
+upset_72	upset	upset_vrb
+upset_72	by	O
+upset_72	losing	O
+upset_72	in	O
+upset_72	the	O
+upset_72	first	O
+upset_72	round	O
+upset_72	to	O
+upset_72	the	O
+upset_72	Greensboro	O
+upset_72	Whirlies	O
+upset_72	35	O
+upset_72	to	O
+upset_72	41	O

@@ -1,0 +1,9 @@
+duplicate_62	The	O
+duplicate_62	Yale	O
+duplicate_62	football	O
+duplicate_62	1960	O
+duplicate_62	team	O
+duplicate_62	would	O
+duplicate_62	duplicate	duplicate_vrb
+duplicate_62	the	O
+duplicate_62	feat	O

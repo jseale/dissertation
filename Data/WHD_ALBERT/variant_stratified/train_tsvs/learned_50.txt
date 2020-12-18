@@ -1,0 +1,13 @@
+learned_50	King	O
+learned_50	Charles	O
+learned_50	arrived	O
+learned_50	in	O
+learned_50	Gaeta	O
+learned_50	on	O
+learned_50	6	O
+learned_50	June	O
+learned_50	and	O
+learned_50	learned	learned_vrb
+learned_50	of	O
+learned_50	the	O
+learned_50	disaster	O

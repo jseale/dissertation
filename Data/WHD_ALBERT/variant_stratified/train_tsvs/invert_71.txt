@@ -1,0 +1,17 @@
+invert_71	Over	O
+invert_71	a	O
+invert_71	period	O
+invert_71	of	O
+invert_71	hours	O
+invert_71	a	O
+invert_71	pathologic	O
+invert_71	Q	O
+invert_71	wave	O
+invert_71	may	O
+invert_71	appear	O
+invert_71	and	O
+invert_71	the	O
+invert_71	T	O
+invert_71	wave	O
+invert_71	will	O
+invert_71	invert	invert_vrb

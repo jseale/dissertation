@@ -1,0 +1,16 @@
+rerelease_37	It	O
+rerelease_37	is	O
+rerelease_37	a	O
+rerelease_37	2002	O
+rerelease_37	rerelease	rerelease
+rerelease_37	of	O
+rerelease_37	his	O
+rerelease_37	independent	O
+rerelease_37	CDs	O
+rerelease_37	from	O
+rerelease_37	1983	O
+rerelease_37	85	O
+rerelease_37	with	O
+rerelease_37	a	O
+rerelease_37	bonus	O
+rerelease_37	DVD	O

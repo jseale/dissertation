@@ -1,0 +1,14 @@
+aggregate_28	POSCO	O
+aggregate_28	Atoms	O
+aggregate_28	won	O
+aggregate_28	the	O
+aggregate_28	1986	O
+aggregate_28	K	O
+aggregate_28	League	O
+aggregate_28	by	O
+aggregate_28	the	O
+aggregate_28	aggregate	aggregate_adj-nou
+aggregate_28	score	O
+aggregate_28	of	O
+aggregate_28	2	O
+aggregate_28	1	O

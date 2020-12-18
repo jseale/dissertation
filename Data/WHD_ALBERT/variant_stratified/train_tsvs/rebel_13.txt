@@ -1,0 +1,14 @@
+rebel_13	She	O
+rebel_13	released	O
+rebel_13	her	O
+rebel_13	debut	O
+rebel_13	album	O
+rebel_13	Rebel	rebel_nou
+rebel_13	Soul	O
+rebel_13	while	O
+rebel_13	affiliated	O
+rebel_13	with	O
+rebel_13	that	O
+rebel_13	group	O
+rebel_13	in	O
+rebel_13	1990	O

@@ -1,0 +1,17 @@
+pervert_36	After	O
+pervert_36	the	O
+pervert_36	war	O
+pervert_36	a	O
+pervert_36	Pervert	pervert_nou
+pervert_36	Elimination	O
+pervert_36	Campaign	O
+pervert_36	was	O
+pervert_36	initiated	O
+pervert_36	in	O
+pervert_36	Washington	O
+pervert_36	D.C.	O
+pervert_36	by	O
+pervert_36	the	O
+pervert_36	U.S.	O
+pervert_36	Park	O
+pervert_36	Police	O

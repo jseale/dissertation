@@ -1,0 +1,12 @@
+protest_73	Those	O
+protest_73	who	O
+protest_73	have	O
+protest_73	dared	O
+protest_73	to	O
+protest_73	protest	protest_vrb
+protest_73	this	O
+protest_73	were	O
+protest_73	often	O
+protest_73	intimidated	O
+protest_73	and	O
+protest_73	threatened	O

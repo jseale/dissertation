@@ -1,0 +1,17 @@
+intrigue_72	The	O
+intrigue_72	newspapers	O
+intrigue_72	are	O
+intrigue_72	robbed	O
+intrigue_72	of	O
+intrigue_72	all	O
+intrigue_72	their	O
+intrigue_72	old	O
+intrigue_72	interest	O
+intrigue_72	and	O
+intrigue_72	the	O
+intrigue_72	very	O
+intrigue_72	soul	O
+intrigue_72	of	O
+intrigue_72	intrigue	intrigue_nou
+intrigue_72	is	O
+intrigue_72	destroyed	O

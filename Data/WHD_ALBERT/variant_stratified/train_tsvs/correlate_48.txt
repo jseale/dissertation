@@ -1,0 +1,11 @@
+correlate_48	HRT	O
+correlate_48	parameters	O
+correlate_48	correlate	correlate_nou-vrb
+correlate_48	significantly	O
+correlate_48	with	O
+correlate_48	mortality	O
+correlate_48	after	O
+correlate_48	myocardial	O
+correlate_48	infarction	O
+correlate_48	heart	O
+correlate_48	attack	O

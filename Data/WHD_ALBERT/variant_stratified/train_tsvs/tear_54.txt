@@ -1,0 +1,14 @@
+tear_54	They	O
+tear_54	stumble	O
+tear_54	into	O
+tear_54	a	O
+tear_54	monsoon	O
+tear_54	that	O
+tear_54	is	O
+tear_54	threatening	O
+tear_54	to	O
+tear_54	tear	tear_vrb
+tear_54	apart	O
+tear_54	a	O
+tear_54	village	O
+tear_54	church	O

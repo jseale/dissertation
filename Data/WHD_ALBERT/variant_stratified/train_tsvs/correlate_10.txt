@@ -1,0 +1,16 @@
+correlate_10	Fluctuating	O
+correlate_10	asymmetry	O
+correlate_10	in	O
+correlate_10	human	O
+correlate_10	males	O
+correlate_10	is	O
+correlate_10	also	O
+correlate_10	seen	O
+correlate_10	to	O
+correlate_10	positively	O
+correlate_10	correlate	correlate_nou-vrb
+correlate_10	with	O
+correlate_10	levels	O
+correlate_10	of	O
+correlate_10	oxidative	O
+correlate_10	stress	O

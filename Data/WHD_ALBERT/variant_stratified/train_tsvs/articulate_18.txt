@@ -1,0 +1,8 @@
+articulate_18	Unlike	O
+articulate_18	the	O
+articulate_18	comics	O
+articulate_18	he	O
+articulate_18	is	O
+articulate_18	an	O
+articulate_18	articulate	articulate_adj
+articulate_18	speaker	O

@@ -1,0 +1,15 @@
+compress_10	In	O
+compress_10	the	O
+compress_10	following	O
+compress_10	sections	O
+compress_10	a	O
+compress_10	Rake	O
+compress_10	Compress	compress_nou
+compress_10	algorithm	O
+compress_10	will	O
+compress_10	be	O
+compress_10	proposed	O
+compress_10	to	O
+compress_10	fulfill	O
+compress_10	this	O
+compress_10	goal	O

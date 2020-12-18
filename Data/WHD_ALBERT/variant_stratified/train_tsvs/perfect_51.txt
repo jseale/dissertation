@@ -1,0 +1,12 @@
+perfect_51	The	O
+perfect_51	oryx	O
+perfect_51	were	O
+perfect_51	the	O
+perfect_51	perfect	perfect_adj
+perfect_51	candidates	O
+perfect_51	for	O
+perfect_51	the	O
+perfect_51	condition	O
+perfect_51	of	O
+perfect_51	the	O
+perfect_51	park	O

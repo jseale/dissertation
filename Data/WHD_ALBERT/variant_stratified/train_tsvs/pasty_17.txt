@@ -1,0 +1,15 @@
+pasty_17	The	O
+pasty_17	pasty	pasty_adj
+pasty_17	originated	O
+pasty_17	in	O
+pasty_17	the	O
+pasty_17	14th	O
+pasty_17	century	O
+pasty_17	as	O
+pasty_17	a	O
+pasty_17	food	O
+pasty_17	that	O
+pasty_17	miners	O
+pasty_17	could	O
+pasty_17	take	O
+pasty_17	underground	O

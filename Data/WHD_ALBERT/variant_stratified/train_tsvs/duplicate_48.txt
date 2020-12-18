@@ -1,0 +1,17 @@
+duplicate_48	Many	O
+duplicate_48	people	O
+duplicate_48	refer	O
+duplicate_48	to	O
+duplicate_48	this	O
+duplicate_48	film	O
+duplicate_48	as	O
+duplicate_48	a	O
+duplicate_48	duplicate	duplicate_adj-nou
+duplicate_48	of	O
+duplicate_48	the	O
+duplicate_48	1960	O
+duplicate_48	film	O
+duplicate_48	rather	O
+duplicate_48	than	O
+duplicate_48	a	O
+duplicate_48	remake	O

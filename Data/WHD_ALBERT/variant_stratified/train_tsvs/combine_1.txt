@@ -1,0 +1,16 @@
+combine_1	Mitchell	O
+combine_1	was	O
+combine_1	n't	O
+combine_1	invited	O
+combine_1	to	O
+combine_1	the	O
+combine_1	NFL	O
+combine_1	Combine	combine_nou
+combine_1	but	O
+combine_1	performed	O
+combine_1	well	O
+combine_1	at	O
+combine_1	Ohio	O
+combine_1	's	O
+combine_1	Pro	O
+combine_1	Day	O

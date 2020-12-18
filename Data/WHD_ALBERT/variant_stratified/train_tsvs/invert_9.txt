@@ -1,0 +1,7 @@
+invert_9	First	O
+invert_9	the	O
+invert_9	base	O
+invert_9	or	O
+invert_9	invert	invert_adj-nou
+invert_9	was	O
+invert_9	poured	O

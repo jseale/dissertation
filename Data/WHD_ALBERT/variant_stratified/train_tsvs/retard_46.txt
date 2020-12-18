@@ -1,0 +1,12 @@
+retard_46	These	O
+retard_46	inhibitors	O
+retard_46	are	O
+retard_46	primarily	O
+retard_46	utilized	O
+retard_46	to	O
+retard_46	retard	retard_vrb
+retard_46	the	O
+retard_46	formation	O
+retard_46	of	O
+retard_46	clathrate	O
+retard_46	hydrates	O

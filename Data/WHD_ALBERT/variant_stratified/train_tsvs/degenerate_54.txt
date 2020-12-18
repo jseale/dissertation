@@ -1,0 +1,17 @@
+degenerate_54	One	O
+degenerate_54	model	O
+degenerate_54	describes	O
+degenerate_54	the	O
+degenerate_54	core	O
+degenerate_54	as	O
+degenerate_54	superfluid	O
+degenerate_54	neutron	O
+degenerate_54	degenerate	degenerate_adj-nou
+degenerate_54	matter	O
+degenerate_54	mostly	O
+degenerate_54	neutrons	O
+degenerate_54	with	O
+degenerate_54	some	O
+degenerate_54	protons	O
+degenerate_54	and	O
+degenerate_54	electrons	O

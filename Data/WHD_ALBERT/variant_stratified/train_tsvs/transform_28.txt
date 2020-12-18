@@ -1,0 +1,11 @@
+transform_28	His	O
+transform_28	consultancy	O
+transform_28	has	O
+transform_28	helped	O
+transform_28	transform	transform
+transform_28	profitability	O
+transform_28	for	O
+transform_28	well	O
+transform_28	known	O
+transform_28	international	O
+transform_28	companies	O

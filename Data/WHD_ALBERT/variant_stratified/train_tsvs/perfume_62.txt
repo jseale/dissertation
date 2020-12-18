@@ -1,0 +1,14 @@
+perfume_62	He	O
+perfume_62	instead	O
+perfume_62	experimented	O
+perfume_62	with	O
+perfume_62	diverse	O
+perfume_62	areas	O
+perfume_62	such	O
+perfume_62	as	O
+perfume_62	perfume	perfume_nou
+perfume_62	making	O
+perfume_62	and	O
+perfume_62	working	O
+perfume_62	with	O
+perfume_62	wood	O

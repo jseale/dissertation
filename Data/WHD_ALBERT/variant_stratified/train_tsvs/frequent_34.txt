@@ -1,0 +1,14 @@
+frequent_34	There	O
+frequent_34	are	O
+frequent_34	frequent	frequent_adj
+frequent_34	Shipmeets	O
+frequent_34	where	O
+frequent_34	shipmates	O
+frequent_34	get	O
+frequent_34	together	O
+frequent_34	at	O
+frequent_34	different	O
+frequent_34	locations	O
+frequent_34	around	O
+frequent_34	the	O
+frequent_34	world	O

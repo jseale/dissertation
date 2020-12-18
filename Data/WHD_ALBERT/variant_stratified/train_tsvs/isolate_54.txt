@@ -1,0 +1,17 @@
+isolate_54	He	O
+isolate_54	further	O
+isolate_54	tells	O
+isolate_54	them	O
+isolate_54	that	O
+isolate_54	to	O
+isolate_54	isolate	isolate
+isolate_54	them	O
+isolate_54	fully	O
+isolate_54	they	O
+isolate_54	are	O
+isolate_54	forbidden	O
+isolate_54	from	O
+isolate_54	using	O
+isolate_54	any	O
+isolate_54	advanced	O
+isolate_54	technology	O

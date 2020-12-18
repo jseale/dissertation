@@ -1,0 +1,15 @@
+perfect_71	Now	O
+perfect_71	the	O
+perfect_71	only	O
+perfect_71	condition	O
+perfect_71	under	O
+perfect_71	which	O
+perfect_71	cost	O
+perfect_71	of	O
+perfect_71	production	O
+perfect_71	will	O
+perfect_71	regulate	O
+perfect_71	value	O
+perfect_71	is	O
+perfect_71	perfect	perfect_adj
+perfect_71	competition	O

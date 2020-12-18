@@ -1,0 +1,14 @@
+postulate_12	One	O
+postulate_12	of	O
+postulate_12	the	O
+postulate_12	earliest	O
+postulate_12	studies	O
+postulate_12	on	O
+postulate_12	methodology	O
+postulate_12	of	O
+postulate_12	economics	O
+postulate_12	analysing	O
+postulate_12	the	O
+postulate_12	postulate	postulate_nou
+postulate_12	of	O
+postulate_12	rationality	O

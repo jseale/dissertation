@@ -1,0 +1,13 @@
+nestle_17	In	O
+nestle_17	1948	O
+nestle_17	Nestle	nestle_nam
+nestle_17	launched	O
+nestle_17	a	O
+nestle_17	mix	O
+nestle_17	for	O
+nestle_17	chocolate	O
+nestle_17	flavored	O
+nestle_17	milk	O
+nestle_17	called	O
+nestle_17	Nestle	nestle_nam
+nestle_17	Quik	O

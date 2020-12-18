@@ -1,0 +1,16 @@
+sake_29	Description	O
+sake_29	for	O
+sake_29	description	O
+sake_29	's	O
+sake_29	sake	sake
+sake_29	especially	O
+sake_29	in	O
+sake_29	studied	O
+sake_29	verse	O
+sake_29	is	O
+sake_29	rarely	O
+sake_29	a	O
+sake_29	vitalized	O
+sake_29	form	O
+sake_29	of	O
+sake_29	literature	O

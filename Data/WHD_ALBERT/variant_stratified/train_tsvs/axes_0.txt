@@ -1,0 +1,15 @@
+axes_0	The	O
+axes_0	axes	axes_nou
+axes_0	of	O
+axes_0	the	O
+axes_0	skull	O
+axes_0	and	O
+axes_0	muzzle	O
+axes_0	are	O
+axes_0	parallel	O
+axes_0	or	O
+axes_0	slightly	O
+axes_0	divergent	O
+axes_0	towards	O
+axes_0	the	O
+axes_0	front	O

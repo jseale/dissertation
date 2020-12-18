@@ -1,0 +1,16 @@
+implant_7	In	O
+implant_7	body	O
+implant_7	modification	O
+implant_7	an	O
+implant_7	implant	implant_nou
+implant_7	is	O
+implant_7	a	O
+implant_7	device	O
+implant_7	placed	O
+implant_7	under	O
+implant_7	the	O
+implant_7	human	O
+implant_7	skin	O
+implant_7	for	O
+implant_7	decorative	O
+implant_7	purposes	O

@@ -1,0 +1,9 @@
+read_74	To	O
+read_74	read	read_present
+read_74	the	O
+read_74	story	O
+read_74	online	O
+read_74	go	O
+read_74	to	O
+read_74	Project	O
+read_74	Gutenberg	O

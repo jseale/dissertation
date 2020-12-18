@@ -1,0 +1,15 @@
+perfume_42	Perfume	perfume_nou
+perfume_42	sales	O
+perfume_42	in	O
+perfume_42	the	O
+perfume_42	United	O
+perfume_42	States	O
+perfume_42	from	O
+perfume_42	1940	O
+perfume_42	to	O
+perfume_42	1945	O
+perfume_42	had	O
+perfume_42	increased	O
+perfume_42	tenfold	O
+perfume_42	Chanel	O
+perfume_42	No	O

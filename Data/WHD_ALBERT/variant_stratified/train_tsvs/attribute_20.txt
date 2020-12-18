@@ -1,0 +1,17 @@
+attribute_20	The	O
+attribute_20	ship	O
+attribute_20	shields	O
+attribute_20	and	O
+attribute_20	generators	O
+attribute_20	are	O
+attribute_20	not	O
+attribute_20	upgradeable	O
+attribute_20	although	O
+attribute_20	the	O
+attribute_20	player	O
+attribute_20	is	O
+attribute_20	given	O
+attribute_20	a	O
+attribute_20	medium	O
+attribute_20	attribute	attribute_nou
+attribute_20	ship	O

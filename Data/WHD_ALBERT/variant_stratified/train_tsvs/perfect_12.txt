@@ -1,0 +1,9 @@
+perfect_12	She	O
+perfect_12	is	O
+perfect_12	the	O
+perfect_12	perfect	perfect_adj
+perfect_12	model	O
+perfect_12	of	O
+perfect_12	nineteenth	O
+perfect_12	century	O
+perfect_12	womanhood	O

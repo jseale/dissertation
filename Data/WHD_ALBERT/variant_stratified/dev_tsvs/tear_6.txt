@@ -1,0 +1,16 @@
+tear_6	Cats	O
+tear_6	with	O
+tear_6	the	O
+tear_6	condition	O
+tear_6	can	O
+tear_6	not	O
+tear_6	be	O
+tear_6	grasped	O
+tear_6	by	O
+tear_6	the	O
+tear_6	scruff	O
+tear_6	as	O
+tear_6	this	O
+tear_6	may	O
+tear_6	tear	tear_vrb
+tear_6	away	O

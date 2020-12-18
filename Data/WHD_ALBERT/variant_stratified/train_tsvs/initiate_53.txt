@@ -1,0 +1,17 @@
+initiate_53	Shareholder	O
+initiate_53	derivative	O
+initiate_53	suits	O
+initiate_53	permit	O
+initiate_53	a	O
+initiate_53	shareholder	O
+initiate_53	to	O
+initiate_53	initiate	initiate_vrb
+initiate_53	a	O
+initiate_53	suit	O
+initiate_53	when	O
+initiate_53	management	O
+initiate_53	has	O
+initiate_53	failed	O
+initiate_53	to	O
+initiate_53	do	O
+initiate_53	so	O

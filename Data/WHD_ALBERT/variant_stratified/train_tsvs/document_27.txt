@@ -1,0 +1,14 @@
+document_27	The	O
+document_27	person	O
+document_27	may	O
+document_27	ask	O
+document_27	the	O
+document_27	authority	O
+document_27	for	O
+document_27	the	O
+document_27	document	document_nou
+document_27	in	O
+document_27	person	O
+document_27	or	O
+document_27	in	O
+document_27	writing	O

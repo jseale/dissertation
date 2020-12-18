@@ -1,0 +1,14 @@
+diagnoses_9	81	O
+diagnoses_9	of	O
+diagnoses_9	439	O
+diagnoses_9	individuals	O
+diagnoses_9	had	O
+diagnoses_9	been	O
+diagnoses_9	subjected	O
+diagnoses_9	to	O
+diagnoses_9	surgeries	O
+diagnoses_9	due	O
+diagnoses_9	to	O
+diagnoses_9	their	O
+diagnoses_9	intersex	O
+diagnoses_9	diagnoses	diagnoses_nou

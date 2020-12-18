@@ -1,0 +1,14 @@
+content_11	KPFT	O
+content_11	granted	O
+content_11	a	O
+content_11	request	O
+content_11	to	O
+content_11	relinquish	O
+content_11	its	O
+content_11	right	O
+content_11	to	O
+content_11	KUHF	O
+content_11	to	O
+content_11	broadcast	O
+content_11	NPR	O
+content_11	content	content_nou

@@ -1,0 +1,17 @@
+suspect_34	The	O
+suspect_34	police	O
+suspect_34	identified	O
+suspect_34	the	O
+suspect_34	suspect	suspect_adj-nou
+suspect_34	as	O
+suspect_34	a	O
+suspect_34	29-year	O
+suspect_34	old	O
+suspect_34	man	O
+suspect_34	from	O
+suspect_34	Guizhou	O
+suspect_34	Province	O
+suspect_34	named	O
+suspect_34	Zhou	O
+suspect_34	Xingbai	O
+suspect_34	周兴柏	O

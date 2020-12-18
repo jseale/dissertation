@@ -1,0 +1,16 @@
+fragment_18	At	O
+fragment_18	the	O
+fragment_18	end	O
+fragment_18	of	O
+fragment_18	this	O
+fragment_18	stage	O
+fragment_18	each	O
+fragment_18	node	O
+fragment_18	has	O
+fragment_18	received	O
+fragment_18	the	O
+fragment_18	new	O
+fragment_18	fragment	fragment_nou
+fragment_18	ID	O
+fragment_18	and	O
+fragment_18	level	O

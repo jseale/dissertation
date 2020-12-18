@@ -1,0 +1,16 @@
+extract_1	The	O
+extract_1	Adams	O
+extract_1	Extract	extract_nou
+extract_1	building	O
+extract_1	continued	O
+extract_1	production	O
+extract_1	in	O
+extract_1	Austin	O
+extract_1	Texas	O
+extract_1	under	O
+extract_1	direction	O
+extract_1	of	O
+extract_1	John	O
+extract_1	G.	O
+extract_1	Adams	O
+extract_1	Sr	O

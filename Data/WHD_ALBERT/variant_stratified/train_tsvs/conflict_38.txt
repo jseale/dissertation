@@ -1,0 +1,13 @@
+conflict_38	It	O
+conflict_38	sees	O
+conflict_38	no	O
+conflict_38	conflict	conflict_nou
+conflict_38	in	O
+conflict_38	trusting	O
+conflict_38	God	O
+conflict_38	for	O
+conflict_38	healing	O
+conflict_38	while	O
+conflict_38	receiving	O
+conflict_38	medical	O
+conflict_38	care	O

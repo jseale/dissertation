@@ -1,0 +1,11 @@
+resume_76	The	O
+resume_76	train	O
+resume_76	retreated	O
+resume_76	thus	O
+resume_76	allowing	O
+resume_76	the	O
+resume_76	Poles	O
+resume_76	to	O
+resume_76	resume	resume_vrb
+resume_76	their	O
+resume_76	advance	O

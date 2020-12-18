@@ -1,0 +1,13 @@
+polish_56	Mieczyslaw	O
+polish_56	Mietek	O
+polish_56	Detyniecki	O
+polish_56	born	O
+polish_56	28	O
+polish_56	November	O
+polish_56	1938	O
+polish_56	in	O
+polish_56	Warsaw	O
+polish_56	is	O
+polish_56	a	O
+polish_56	Polish	polish_geo
+polish_56	artist	O

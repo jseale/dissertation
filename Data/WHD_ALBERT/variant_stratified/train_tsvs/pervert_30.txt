@@ -1,0 +1,17 @@
+pervert_30	The	O
+pervert_30	police	O
+pervert_30	questioned	O
+pervert_30	more	O
+pervert_30	than	O
+pervert_30	100	O
+pervert_30	possible	O
+pervert_30	suspects	O
+pervert_30	including	O
+pervert_30	every	O
+pervert_30	known	O
+pervert_30	pervert	pervert_nou
+pervert_30	in	O
+pervert_30	town	O
+pervert_30	to	O
+pervert_30	no	O
+pervert_30	avail	O

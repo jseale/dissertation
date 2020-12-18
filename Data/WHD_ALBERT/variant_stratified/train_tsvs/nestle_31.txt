@@ -1,0 +1,15 @@
+nestle_31	The	O
+nestle_31	Buxton	O
+nestle_31	Mineral	O
+nestle_31	Water	O
+nestle_31	Company	O
+nestle_31	owned	O
+nestle_31	by	O
+nestle_31	Nestle	nestle_nam
+nestle_31	extracts	O
+nestle_31	and	O
+nestle_31	bottles	O
+nestle_31	mineral	O
+nestle_31	waters	O
+nestle_31	in	O
+nestle_31	Buxton	O

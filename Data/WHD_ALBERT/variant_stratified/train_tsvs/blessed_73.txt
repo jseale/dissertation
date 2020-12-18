@@ -1,0 +1,12 @@
+blessed_73	He	O
+blessed_73	succeeds	O
+blessed_73	in	O
+blessed_73	answering	O
+blessed_73	the	O
+blessed_73	questions	O
+blessed_73	and	O
+blessed_73	is	O
+blessed_73	blessed	blessed_vrb
+blessed_73	with	O
+blessed_73	heavenly	O
+blessed_73	rewards	O

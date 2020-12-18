@@ -1,0 +1,17 @@
+impact_20	Nonprofit	O
+impact_20	and	O
+impact_20	other	O
+impact_20	social	O
+impact_20	impact	impact_nou
+impact_20	organizations	O
+impact_20	use	O
+impact_20	the	O
+impact_20	site	O
+impact_20	to	O
+impact_20	raise	O
+impact_20	funds	O
+impact_20	and	O
+impact_20	awareness	O
+impact_20	for	O
+impact_20	their	O
+impact_20	causes	O

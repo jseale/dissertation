@@ -1,0 +1,10 @@
+approximate_18	It	O
+approximate_18	is	O
+approximate_18	for	O
+approximate_18	these	O
+approximate_18	approximate	approximate_adj-nou
+approximate_18	areas	O
+approximate_18	that	O
+approximate_18	statistics	O
+approximate_18	are	O
+approximate_18	available	O

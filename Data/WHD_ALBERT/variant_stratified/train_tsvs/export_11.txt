@@ -1,0 +1,16 @@
+export_11	These	O
+export_11	did	O
+export_11	well	O
+export_11	in	O
+export_11	the	O
+export_11	foreign	O
+export_11	markets	O
+export_11	accounting	O
+export_11	for	O
+export_11	90	O
+export_11	of	O
+export_11	the	O
+export_11	export	export_nou
+export_11	share	O
+export_11	by	O
+export_11	value	O

@@ -1,0 +1,14 @@
+fragment_10	Study	O
+fragment_10	of	O
+fragment_10	natural	O
+fragment_10	hybridisation	O
+fragment_10	in	O
+fragment_10	some	O
+fragment_10	tropical	O
+fragment_10	plants	O
+fragment_10	using	O
+fragment_10	amplified	O
+fragment_10	fragment	fragment_nou
+fragment_10	length	O
+fragment_10	polymorphism	O
+fragment_10	analysis	O

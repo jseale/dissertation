@@ -1,0 +1,13 @@
+rodeo_9	She	O
+rodeo_9	reportedly	O
+rodeo_9	left	O
+rodeo_9	Mateen	O
+rodeo_9	and	O
+rodeo_9	joined	O
+rodeo_9	relatives	O
+rodeo_9	in	O
+rodeo_9	Rodeo	rodeo_geo
+rodeo_9	California	O
+rodeo_9	by	O
+rodeo_9	December	O
+rodeo_9	2015	O

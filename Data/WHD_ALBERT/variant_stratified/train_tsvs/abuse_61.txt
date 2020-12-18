@@ -1,0 +1,16 @@
+abuse_61	Medical	O
+abuse_61	examinations	O
+abuse_61	revealed	O
+abuse_61	many	O
+abuse_61	fissures	O
+abuse_61	along	O
+abuse_61	Haru	O
+abuse_61	's	O
+abuse_61	leg	O
+abuse_61	bones	O
+abuse_61	due	O
+abuse_61	to	O
+abuse_61	Fuji	O
+abuse_61	's	O
+abuse_61	habitual	O
+abuse_61	abuse	abuse_nou

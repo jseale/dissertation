@@ -1,0 +1,12 @@
+intrigue_78	Enough	O
+intrigue_78	of	O
+intrigue_78	his	O
+intrigue_78	pictorial	O
+intrigue_78	record	O
+intrigue_78	remained	O
+intrigue_78	however	O
+intrigue_78	to	O
+intrigue_78	intrigue	intrigue_nou-vrb
+intrigue_78	the	O
+intrigue_78	learned	O
+intrigue_78	savants	O

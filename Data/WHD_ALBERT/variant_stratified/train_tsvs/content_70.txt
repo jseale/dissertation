@@ -1,0 +1,16 @@
+content_70	The	O
+content_70	satirical	O
+content_70	lyric	O
+content_70	content	content_nou
+content_70	also	O
+content_70	fitted	O
+content_70	well	O
+content_70	with	O
+content_70	the	O
+content_70	son	O
+content_70	and	O
+content_70	many	O
+content_70	bands	O
+content_70	played	O
+content_70	both	O
+content_70	genres	O

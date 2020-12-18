@@ -1,0 +1,14 @@
+wind_14	For	O
+wind_14	more	O
+wind_14	than	O
+wind_14	two	O
+wind_14	millennia	O
+wind_14	wind	wind_nou
+wind_14	powered	O
+wind_14	machines	O
+wind_14	have	O
+wind_14	ground	O
+wind_14	grain	O
+wind_14	and	O
+wind_14	pumped	O
+wind_14	water	O

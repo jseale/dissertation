@@ -1,0 +1,13 @@
+lives_54	Currently	O
+lives_54	Bishop	O
+lives_54	Zipfel	O
+lives_54	lives	lives_vrb
+lives_54	at	O
+lives_54	Little	O
+lives_54	Sisters	O
+lives_54	of	O
+lives_54	the	O
+lives_54	Poor	O
+lives_54	in	O
+lives_54	Florissant	O
+lives_54	MO	O

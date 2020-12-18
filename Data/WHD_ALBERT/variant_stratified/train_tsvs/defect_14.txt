@@ -1,0 +1,17 @@
+defect_14	However	O
+defect_14	the	O
+defect_14	team	O
+defect_14	discredited	O
+defect_14	them	O
+defect_14	soon	O
+defect_14	afterward	O
+defect_14	saying	O
+defect_14	a	O
+defect_14	road	O
+defect_14	defect	defect_nou
+defect_14	was	O
+defect_14	the	O
+defect_14	cause	O
+defect_14	of	O
+defect_14	the	O
+defect_14	crash	O

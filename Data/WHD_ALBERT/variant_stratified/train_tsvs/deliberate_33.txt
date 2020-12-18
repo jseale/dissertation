@@ -1,0 +1,17 @@
+deliberate_33	This	O
+deliberate_33	deliberate	deliberate_adj
+deliberate_33	act	O
+deliberate_33	of	O
+deliberate_33	concealing	O
+deliberate_33	or	O
+deliberate_33	destroying	O
+deliberate_33	the	O
+deliberate_33	victim	O
+deliberate_33	's	O
+deliberate_33	body	O
+deliberate_33	is	O
+deliberate_33	known	O
+deliberate_33	colloquially	O
+deliberate_33	as	O
+deliberate_33	lupara	O
+deliberate_33	bianca	O

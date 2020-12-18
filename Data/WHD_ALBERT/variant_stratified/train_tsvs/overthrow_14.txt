@@ -1,0 +1,15 @@
+overthrow_14	Sadly	O
+overthrow_14	it	O
+overthrow_14	seems	O
+overthrow_14	that	O
+overthrow_14	for	O
+overthrow_14	him	O
+overthrow_14	Conan	O
+overthrow_14	's	O
+overthrow_14	overthrow	overthrow_nou
+overthrow_14	of	O
+overthrow_14	dark	O
+overthrow_14	priests	O
+overthrow_14	came	O
+overthrow_14	too	O
+overthrow_14	late	O

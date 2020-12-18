@@ -1,0 +1,15 @@
+deliberate_10	In	O
+deliberate_10	short	O
+deliberate_10	this	O
+deliberate_10	book	O
+deliberate_10	is	O
+deliberate_10	flawless	O
+deliberate_10	because	O
+deliberate_10	all	O
+deliberate_10	its	O
+deliberate_10	deficiencies	O
+deliberate_10	are	O
+deliberate_10	deliberate	deliberate_adj
+deliberate_10	products	O
+deliberate_10	of	O
+deliberate_10	art	O

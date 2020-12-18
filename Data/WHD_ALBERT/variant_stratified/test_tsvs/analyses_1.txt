@@ -1,0 +1,13 @@
+analyses_1	It	O
+analyses_1	is	O
+analyses_1	a	O
+analyses_1	method	O
+analyses_1	appropriate	O
+analyses_1	strategy	O
+analyses_1	of	O
+analyses_1	founding	O
+analyses_1	the	O
+analyses_1	credibility	O
+analyses_1	of	O
+analyses_1	qualitative	O
+analyses_1	analyses	analyses_nou

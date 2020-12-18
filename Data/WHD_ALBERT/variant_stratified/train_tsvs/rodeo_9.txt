@@ -1,0 +1,15 @@
+rodeo_9	He	O
+rodeo_9	was	O
+rodeo_9	the	O
+rodeo_9	1985	O
+rodeo_9	1986	O
+rodeo_9	and	O
+rodeo_9	1987	O
+rodeo_9	Professional	O
+rodeo_9	Rodeo	rodeo
+rodeo_9	Cowboys	O
+rodeo_9	Association	O
+rodeo_9	PRCA	O
+rodeo_9	All	O
+rodeo_9	Around	O
+rodeo_9	Cowboy	O

@@ -1,0 +1,12 @@
+deliberate_30	Severe	O
+deliberate_30	beatings	O
+deliberate_30	were	O
+deliberate_30	routine	O
+deliberate_30	as	O
+deliberate_30	was	O
+deliberate_30	deliberate	deliberate_adj
+deliberate_30	starvation	O
+deliberate_30	torture	O
+deliberate_30	and	O
+deliberate_30	summary	O
+deliberate_30	executions	O

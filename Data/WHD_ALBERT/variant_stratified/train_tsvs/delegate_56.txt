@@ -1,0 +1,17 @@
+delegate_56	Harlan	O
+delegate_56	's	O
+delegate_56	support	O
+delegate_56	was	O
+delegate_56	rewarded	O
+delegate_56	and	O
+delegate_56	he	O
+delegate_56	was	O
+delegate_56	elected	O
+delegate_56	a	O
+delegate_56	delegate	delegate_nou
+delegate_56	to	O
+delegate_56	the	O
+delegate_56	1872	O
+delegate_56	Republican	O
+delegate_56	National	O
+delegate_56	Convention	O

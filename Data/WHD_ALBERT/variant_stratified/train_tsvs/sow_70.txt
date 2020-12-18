@@ -1,0 +1,12 @@
+sow_70	Finally	O
+sow_70	the	O
+sow_70	flow	O
+sow_70	stops	O
+sow_70	and	O
+sow_70	so	O
+sow_70	does	O
+sow_70	the	O
+sow_70	grunting	O
+sow_70	of	O
+sow_70	the	O
+sow_70	sow	sow_nou

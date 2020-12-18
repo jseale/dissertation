@@ -1,0 +1,13 @@
+reject_3	Kerry	O
+reject_3	stated	O
+reject_3	afterward	O
+reject_3	We	O
+reject_3	flatly	O
+reject_3	reject	reject_vrb
+reject_3	this	O
+reject_3	illegal	O
+reject_3	effort	O
+reject_3	to	O
+reject_3	further	O
+reject_3	divide	O
+reject_3	Ukraine	O

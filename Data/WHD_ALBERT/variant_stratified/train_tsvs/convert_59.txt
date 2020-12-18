@@ -1,0 +1,15 @@
+convert_59	People	O
+convert_59	and	O
+convert_59	non	O
+convert_59	governmental	O
+convert_59	organisations	O
+convert_59	are	O
+convert_59	pressing	O
+convert_59	hard	O
+convert_59	to	O
+convert_59	convert	convert_vrb
+convert_59	it	O
+convert_59	into	O
+convert_59	an	O
+convert_59	wildlife	O
+convert_59	sanctuary	O

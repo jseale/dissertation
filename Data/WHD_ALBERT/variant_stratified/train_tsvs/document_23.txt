@@ -1,0 +1,17 @@
+document_23	Marktbreit	O
+document_23	was	O
+document_23	first	O
+document_23	mentioned	O
+document_23	as	O
+document_23	broite	O
+document_23	inferior	O
+document_23	in	O
+document_23	a	O
+document_23	document	document_nou
+document_23	of	O
+document_23	the	O
+document_23	Count	O
+document_23	of	O
+document_23	Castell	O
+document_23	in	O
+document_23	1258	O

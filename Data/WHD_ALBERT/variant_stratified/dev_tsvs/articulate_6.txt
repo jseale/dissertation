@@ -1,0 +1,12 @@
+articulate_6	Dent	O
+articulate_6	has	O
+articulate_6	been	O
+articulate_6	described	O
+articulate_6	as	O
+articulate_6	having	O
+articulate_6	helped	O
+articulate_6	to	O
+articulate_6	articulate	articulate_vrb
+articulate_6	the	O
+articulate_6	Southern	O
+articulate_6	Strategy	O

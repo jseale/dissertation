@@ -1,0 +1,7 @@
+perfume_0	Some	O
+perfume_0	dolls	O
+perfume_0	were	O
+perfume_0	even	O
+perfume_0	sprayed	O
+perfume_0	with	O
+perfume_0	perfume	perfume_nou

@@ -1,0 +1,8 @@
+coordinate_6	Eliminations	O
+coordinate_6	from	O
+coordinate_6	the	O
+coordinate_6	three	O
+coordinate_6	coordinate	coordinate_adj-nou
+coordinate_6	compounds	O
+coordinate_6	are	O
+coordinate_6	faster	O

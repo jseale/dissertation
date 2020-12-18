@@ -1,0 +1,17 @@
+upset_74	She	O
+upset_74	upset	upset_vrb
+upset_74	Martina	O
+upset_74	Hingis	O
+upset_74	to	O
+upset_74	win	O
+upset_74	the	O
+upset_74	women	O
+upset_74	's	O
+upset_74	singles	O
+upset_74	title	O
+upset_74	at	O
+upset_74	the	O
+upset_74	French	O
+upset_74	Open	O
+upset_74	in	O
+upset_74	1997	O

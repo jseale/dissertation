@@ -1,0 +1,13 @@
+sake_59	For	O
+sake_59	the	O
+sake_59	sake	sake
+sake_59	of	O
+sake_59	his	O
+sake_59	health	O
+sake_59	Christine	O
+sake_59	convinces	O
+sake_59	him	O
+sake_59	to	O
+sake_59	return	O
+sake_59	to	O
+sake_59	Paris	O

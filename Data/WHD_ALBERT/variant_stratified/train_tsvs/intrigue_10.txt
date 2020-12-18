@@ -1,0 +1,11 @@
+intrigue_10	The	O
+intrigue_10	song	O
+intrigue_10	was	O
+intrigue_10	the	O
+intrigue_10	theme	O
+intrigue_10	from	O
+intrigue_10	the	O
+intrigue_10	film	O
+intrigue_10	Foreign	O
+intrigue_10	Intrigue	intrigue_nou
+intrigue_10	1956	O

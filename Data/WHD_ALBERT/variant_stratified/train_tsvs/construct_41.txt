@@ -1,0 +1,16 @@
+construct_41	Lawrence	O
+construct_41	uses	O
+construct_41	the	O
+construct_41	technology	O
+construct_41	to	O
+construct_41	construct	construct_vrb
+construct_41	the	O
+construct_41	spaceship	O
+construct_41	he	O
+construct_41	has	O
+construct_41	wanted	O
+construct_41	since	O
+construct_41	he	O
+construct_41	was	O
+construct_41	a	O
+construct_41	teenager	O

@@ -1,0 +1,8 @@
+abuse_34	Soviet	O
+abuse_34	psychiatric	O
+abuse_34	abuse	abuse_nou
+abuse_34	the	O
+abuse_34	shadow	O
+abuse_34	over	O
+abuse_34	world	O
+abuse_34	psychiatry	O

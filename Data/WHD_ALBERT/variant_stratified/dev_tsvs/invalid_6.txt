@@ -1,0 +1,15 @@
+invalid_6	In	O
+invalid_6	November	O
+invalid_6	1865	O
+invalid_6	British	O
+invalid_6	Columbia	O
+invalid_6	issued	O
+invalid_6	its	O
+invalid_6	own	O
+invalid_6	stamps	O
+invalid_6	and	O
+invalid_6	the	O
+invalid_6	unified	O
+invalid_6	stamp	O
+invalid_6	became	O
+invalid_6	invalid	invalid_adj

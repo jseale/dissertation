@@ -1,0 +1,7 @@
+extract_34	This	O
+extract_34	extract	extract_nou
+extract_34	transcribed	O
+extract_34	by	O
+extract_34	Roger	O
+extract_34	Pearse	O
+extract_34	2001	O

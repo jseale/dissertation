@@ -1,0 +1,11 @@
+increment_0	Coral	O
+increment_0	Ridge	O
+increment_0	Mall	O
+increment_0	was	O
+increment_0	built	O
+increment_0	in	O
+increment_0	a	O
+increment_0	tax	O
+increment_0	increment	increment_nou
+increment_0	financing	O
+increment_0	district	O

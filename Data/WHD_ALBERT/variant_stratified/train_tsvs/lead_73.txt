@@ -1,0 +1,8 @@
+lead_73	The	O
+lead_73	Yankees	O
+lead_73	extended	O
+lead_73	their	O
+lead_73	lead	lead_nou-vrb
+lead_73	to	O
+lead_73	3½	O
+lead_73	games	O

@@ -1,0 +1,16 @@
+dove_2	They	O
+dove_2	catch	O
+dove_2	a	O
+dove_2	dove	dove
+dove_2	that	O
+dove_2	was	O
+dove_2	actually	O
+dove_2	an	O
+dove_2	angel	O
+dove_2	Sonpari	O
+dove_2	but	O
+dove_2	Fruity	O
+dove_2	makes	O
+dove_2	the	O
+dove_2	dove	dove
+dove_2	fly	O

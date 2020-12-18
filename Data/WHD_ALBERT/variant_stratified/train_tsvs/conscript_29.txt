@@ -1,0 +1,17 @@
+conscript_29	Militia	O
+conscript_29	officers	O
+conscript_29	state	O
+conscript_29	's	O
+conscript_29	attorneys	O
+conscript_29	lawyers	O
+conscript_29	professors	O
+conscript_29	and	O
+conscript_29	schoolteachers	O
+conscript_29	were	O
+conscript_29	in	O
+conscript_29	the	O
+conscript_29	van	O
+conscript_29	of	O
+conscript_29	this	O
+conscript_29	conscript	conscript_nou
+conscript_29	army	O

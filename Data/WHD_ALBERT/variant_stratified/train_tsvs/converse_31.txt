@@ -1,0 +1,16 @@
+converse_31	The	O
+converse_31	Eleventh	O
+converse_31	Doctor	O
+converse_31	upon	O
+converse_31	meeting	O
+converse_31	his	O
+converse_31	previous	O
+converse_31	self	O
+converse_31	referred	O
+converse_31	to	O
+converse_31	his	O
+converse_31	Converse	converse_adj-nou
+converse_31	trainers	O
+converse_31	as	O
+converse_31	sand	O
+converse_31	shoes	O

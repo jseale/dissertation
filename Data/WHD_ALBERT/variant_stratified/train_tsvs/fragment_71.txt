@@ -1,0 +1,13 @@
+fragment_71	RI-1077	O
+fragment_71	is	O
+fragment_71	the	O
+fragment_71	only	O
+fragment_71	site	O
+fragment_71	at	O
+fragment_71	which	O
+fragment_71	a	O
+fragment_71	marine	O
+fragment_71	shell	O
+fragment_71	fragment	fragment_nou
+fragment_71	was	O
+fragment_71	found	O

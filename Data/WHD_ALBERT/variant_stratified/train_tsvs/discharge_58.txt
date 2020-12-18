@@ -1,0 +1,14 @@
+discharge_58	After	O
+discharge_58	his	O
+discharge_58	discharge	discharge_nou
+discharge_58	from	O
+discharge_58	the	O
+discharge_58	Army	O
+discharge_58	McConnell	O
+discharge_58	was	O
+discharge_58	a	O
+discharge_58	gospel	O
+discharge_58	vocalist	O
+discharge_58	with	O
+discharge_58	several	O
+discharge_58	evangelists	O

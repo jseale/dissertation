@@ -1,0 +1,16 @@
+resume_25	As	O
+resume_25	of	O
+resume_25	November	O
+resume_25	9	O
+resume_25	2013	O
+resume_25	WGRV	O
+resume_25	LP	O
+resume_25	remains	O
+resume_25	silent	O
+resume_25	with	O
+resume_25	no	O
+resume_25	immediate	O
+resume_25	plans	O
+resume_25	to	O
+resume_25	resume	resume_vrb
+resume_25	broadcasting	O

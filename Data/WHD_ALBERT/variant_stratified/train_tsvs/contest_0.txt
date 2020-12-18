@@ -1,0 +1,17 @@
+contest_0	The	O
+contest_0	name	O
+contest_0	Burford	O
+contest_0	District	O
+contest_0	Elementary	O
+contest_0	School	O
+contest_0	was	O
+contest_0	chosen	O
+contest_0	as	O
+contest_0	the	O
+contest_0	result	O
+contest_0	of	O
+contest_0	a	O
+contest_0	public	O
+contest_0	contest	contest_nou
+contest_0	suggesting	O
+contest_0	names	O

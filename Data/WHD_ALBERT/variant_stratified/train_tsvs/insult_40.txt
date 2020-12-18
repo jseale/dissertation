@@ -1,0 +1,11 @@
+insult_40	It	O
+insult_40	is	O
+insult_40	a	O
+insult_40	disgrace	O
+insult_40	and	O
+insult_40	an	O
+insult_40	insult	insult_nou
+insult_40	to	O
+insult_40	British	O
+insult_40	Asian	O
+insult_40	actors	O

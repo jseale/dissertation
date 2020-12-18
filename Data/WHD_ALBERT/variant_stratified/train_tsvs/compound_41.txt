@@ -1,0 +1,8 @@
+compound_41	In	O
+compound_41	2006	O
+compound_41	Arcilla	O
+compound_41	starred	O
+compound_41	in	O
+compound_41	the	O
+compound_41	film	O
+compound_41	Compound	compound_nou

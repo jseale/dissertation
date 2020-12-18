@@ -1,0 +1,13 @@
+abuses_23	It	O
+abuses_23	was	O
+abuses_23	dismantled	O
+abuses_23	in	O
+abuses_23	1958	O
+abuses_23	after	O
+abuses_23	the	O
+abuses_23	Party	O
+abuses_23	Congress	O
+abuses_23	that	O
+abuses_23	discussed	O
+abuses_23	his	O
+abuses_23	abuses	abuses_nou

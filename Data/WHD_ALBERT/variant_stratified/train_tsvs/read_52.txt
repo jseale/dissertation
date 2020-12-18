@@ -1,0 +1,9 @@
+read_52	This	O
+read_52	was	O
+read_52	an	O
+read_52	inspiring	O
+read_52	body	O
+read_52	of	O
+read_52	literature	O
+read_52	to	O
+read_52	read	read_present

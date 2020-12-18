@@ -1,0 +1,8 @@
+buffet_20	The	O
+buffet_20	three	O
+buffet_20	full	O
+buffet_20	buffet	buffet_nou
+buffet_20	cars	O
+buffet_20	were	O
+buffet_20	still	O
+buffet_20	utilised	O

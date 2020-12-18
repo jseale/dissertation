@@ -1,0 +1,11 @@
+conscript_55	Those	O
+conscript_55	who	O
+conscript_55	tried	O
+conscript_55	to	O
+conscript_55	escape	O
+conscript_55	the	O
+conscript_55	conscript	conscript_nou
+conscript_55	hunters	O
+conscript_55	would	O
+conscript_55	be	O
+conscript_55	shot	O

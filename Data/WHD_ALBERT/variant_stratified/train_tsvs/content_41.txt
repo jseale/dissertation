@@ -1,0 +1,9 @@
+content_41	Kumi	O
+content_41	Kumi	O
+content_41	is	O
+content_41	known	O
+content_41	for	O
+content_41	its	O
+content_41	exceptional	O
+content_41	alcohol	O
+content_41	content	content_nou

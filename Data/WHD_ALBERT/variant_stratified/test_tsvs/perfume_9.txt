@@ -1,0 +1,15 @@
+perfume_9	The	O
+perfume_9	finished	O
+perfume_9	potpourri	O
+perfume_9	was	O
+perfume_9	set	O
+perfume_9	out	O
+perfume_9	in	O
+perfume_9	special	O
+perfume_9	pots	O
+perfume_9	with	O
+perfume_9	perforated	O
+perfume_9	lids	O
+perfume_9	to	O
+perfume_9	perfume	perfume_vrb
+perfume_9	rooms	O

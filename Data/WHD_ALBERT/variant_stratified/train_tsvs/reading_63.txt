@@ -1,0 +1,17 @@
+reading_63	The	O
+reading_63	Poly-88	O
+reading_63	ROM	O
+reading_63	contained	O
+reading_63	a	O
+reading_63	boot	O
+reading_63	loader	O
+reading_63	program	O
+reading_63	capable	O
+reading_63	of	O
+reading_63	reading	reading_en
+reading_63	programs	O
+reading_63	from	O
+reading_63	the	O
+reading_63	cassette	O
+reading_63	tape	O
+reading_63	interface	O

@@ -1,0 +1,14 @@
+invite_69	There	O
+invite_69	are	O
+invite_69	also	O
+invite_69	plans	O
+invite_69	to	O
+invite_69	re	O
+invite_69	invite	invite_vrb
+invite_69	Nakano	O
+invite_69	football	O
+invite_69	club	O
+invite_69	to	O
+invite_69	the	O
+invite_69	next	O
+invite_69	tournament	O

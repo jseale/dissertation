@@ -1,0 +1,13 @@
+perfect_29	Rehtmeyer	O
+perfect_29	Inc.	O
+perfect_29	becomes	O
+perfect_29	Mazza	O
+perfect_29	's	O
+perfect_29	agent	O
+perfect_29	and	O
+perfect_29	represents	O
+perfect_29	The	O
+perfect_29	Perfect	perfect_adj
+perfect_29	Present	O
+perfect_29	to	O
+perfect_29	publishers	O

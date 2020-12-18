@@ -1,0 +1,9 @@
+combine_27	Manganese	O
+combine_27	phosphates	O
+combine_27	often	O
+combine_27	combine	combine_vrb
+combine_27	with	O
+combine_27	iron	O
+combine_27	phosphates	O
+combine_27	through	O
+combine_27	paragenesis	O

@@ -1,0 +1,17 @@
+animate_27	In	O
+animate_27	some	O
+animate_27	languages	O
+animate_27	different	O
+animate_27	possession	O
+animate_27	verbs	O
+animate_27	are	O
+animate_27	used	O
+animate_27	depending	O
+animate_27	on	O
+animate_27	whether	O
+animate_27	the	O
+animate_27	object	O
+animate_27	is	O
+animate_27	animate	animate_adj-nou
+animate_27	or	O
+animate_27	inanimate	O

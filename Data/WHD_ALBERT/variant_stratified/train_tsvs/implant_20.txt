@@ -1,0 +1,17 @@
+implant_20	Secondary	O
+implant_20	implantation	O
+implant_20	of	O
+implant_20	IOL	O
+implant_20	placement	O
+implant_20	of	O
+implant_20	a	O
+implant_20	lens	O
+implant_20	implant	implant_nou
+implant_20	as	O
+implant_20	a	O
+implant_20	second	O
+implant_20	operation	O
+implant_20	may	O
+implant_20	be	O
+implant_20	considered	O
+implant_20	later	O

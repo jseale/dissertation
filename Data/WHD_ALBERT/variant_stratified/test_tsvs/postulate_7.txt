@@ -1,0 +1,15 @@
+postulate_7	The	O
+postulate_7	describers	O
+postulate_7	postulate	postulate_vrb
+postulate_7	that	O
+postulate_7	R.	O
+postulate_7	orarius	O
+postulate_7	and	O
+postulate_7	R.	O
+postulate_7	jubatus	O
+postulate_7	were	O
+postulate_7	lowland	O
+postulate_7	and	O
+postulate_7	highland	O
+postulate_7	forms	O
+postulate_7	respectively	O

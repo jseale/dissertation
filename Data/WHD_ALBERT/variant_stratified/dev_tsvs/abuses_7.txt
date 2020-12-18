@@ -1,0 +1,15 @@
+abuses_7	Declamation	O
+abuses_7	on	O
+abuses_7	abuses	abuses_nou
+abuses_7	introduced	O
+abuses_7	into	O
+abuses_7	the	O
+abuses_7	Castilian	O
+abuses_7	presented	O
+abuses_7	and	O
+abuses_7	awarded	O
+abuses_7	at	O
+abuses_7	the	O
+abuses_7	Spanish	O
+abuses_7	Academy	O
+abuses_7	1791	O

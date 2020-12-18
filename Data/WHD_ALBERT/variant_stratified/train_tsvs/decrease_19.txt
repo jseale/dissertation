@@ -1,0 +1,12 @@
+decrease_19	Pocahontas	O
+decrease_19	County	O
+decrease_19	has	O
+decrease_19	seen	O
+decrease_19	a	O
+decrease_19	large	O
+decrease_19	decrease	decrease_nou
+decrease_19	in	O
+decrease_19	the	O
+decrease_19	amount	O
+decrease_19	of	O
+decrease_19	farms	O

@@ -1,0 +1,17 @@
+implant_3	Hip	O
+implant_3	replacement	O
+implant_3	is	O
+implant_3	a	O
+implant_3	surgical	O
+implant_3	procedure	O
+implant_3	in	O
+implant_3	which	O
+implant_3	the	O
+implant_3	hip	O
+implant_3	joint	O
+implant_3	is	O
+implant_3	replaced	O
+implant_3	by	O
+implant_3	a	O
+implant_3	prosthetic	O
+implant_3	implant	implant_nou

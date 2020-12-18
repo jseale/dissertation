@@ -1,0 +1,9 @@
+read_47	So	O
+read_47	you	O
+read_47	can	O
+read_47	read	read_present
+read_47	into	O
+read_47	that	O
+read_47	what	O
+read_47	you	O
+read_47	want	O

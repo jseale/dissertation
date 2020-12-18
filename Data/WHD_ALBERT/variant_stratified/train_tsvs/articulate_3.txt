@@ -1,0 +1,17 @@
+articulate_3	One	O
+articulate_3	historian	O
+articulate_3	of	O
+articulate_3	modern	O
+articulate_3	Germany	O
+articulate_3	described	O
+articulate_3	him	O
+articulate_3	as	O
+articulate_3	the	O
+articulate_3	most	O
+articulate_3	articulate	articulate_adj
+articulate_3	anti	O
+articulate_3	Nazi	O
+articulate_3	in	O
+articulate_3	the	O
+articulate_3	Catholic	O
+articulate_3	hierarchy	O

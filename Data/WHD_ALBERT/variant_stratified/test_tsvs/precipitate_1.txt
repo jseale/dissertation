@@ -1,0 +1,14 @@
+precipitate_1	Precipitation	O
+precipitate_1	If	O
+precipitate_1	a	O
+precipitate_1	reaction	O
+precipitate_1	produces	O
+precipitate_1	a	O
+precipitate_1	solid	O
+precipitate_1	a	O
+precipitate_1	precipitate	precipitate_adj-nou
+precipitate_1	will	O
+precipitate_1	form	O
+precipitate_1	during	O
+precipitate_1	the	O
+precipitate_1	titration	O

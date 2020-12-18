@@ -1,0 +1,10 @@
+graduate_17	Haight	O
+graduate_17	graduated	O
+graduate_17	as	O
+graduate_17	a	O
+graduate_17	lawyer	O
+graduate_17	from	O
+graduate_17	Yale	O
+graduate_17	Graduate	graduate_adj-nou
+graduate_17	in	O
+graduate_17	1892	O

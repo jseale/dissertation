@@ -1,0 +1,13 @@
+coordinate_66	However	O
+coordinate_66	the	O
+coordinate_66	school	O
+coordinate_66	continues	O
+coordinate_66	to	O
+coordinate_66	coordinate	coordinate_vrb
+coordinate_66	with	O
+coordinate_66	Warrington	O
+coordinate_66	Borough	O
+coordinate_66	Council	O
+coordinate_66	regarding	O
+coordinate_66	its	O
+coordinate_66	admissions	O

@@ -1,0 +1,11 @@
+invert_26	Any	O
+invert_26	disk	O
+invert_26	change	O
+invert_26	with	O
+invert_26	Amiga	O
+invert_26	formatted	O
+invert_26	disks	O
+invert_26	will	O
+invert_26	invert	invert_vrb
+invert_26	this	O
+invert_26	behaviour	O

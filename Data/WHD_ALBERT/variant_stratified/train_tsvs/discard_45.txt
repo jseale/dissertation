@@ -1,0 +1,15 @@
+discard_45	If	O
+discard_45	West	O
+discard_45	chooses	O
+discard_45	to	O
+discard_45	discard	discard_vrb
+discard_45	a	O
+discard_45	diamond	O
+discard_45	the	O
+discard_45	club	O
+discard_45	jack	O
+discard_45	is	O
+discard_45	underplayed	O
+discard_45	with	O
+discard_45	the	O
+discard_45	five	O

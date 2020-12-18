@@ -1,0 +1,16 @@
+celtic_16	This	O
+celtic_16	collaborative	O
+celtic_16	venture	O
+celtic_16	between	O
+celtic_16	the	O
+celtic_16	Manx	O
+celtic_16	and	O
+celtic_16	London	O
+celtic_16	branches	O
+celtic_16	of	O
+celtic_16	the	O
+celtic_16	Celtic	celtic
+celtic_16	League	O
+celtic_16	was	O
+celtic_16	ultimately	O
+celtic_16	successful	O

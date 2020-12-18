@@ -1,0 +1,17 @@
+affiliate_44	She	O
+affiliate_44	also	O
+affiliate_44	worked	O
+affiliate_44	in	O
+affiliate_44	her	O
+affiliate_44	hometown	O
+affiliate_44	of	O
+affiliate_44	Cleveland	O
+affiliate_44	Ohio	O
+affiliate_44	at	O
+affiliate_44	WKYC	O
+affiliate_44	TV	O
+affiliate_44	the	O
+affiliate_44	NBC	O
+affiliate_44	TV	O
+affiliate_44	affiliate	affiliate_nou
+affiliate_44	there	O

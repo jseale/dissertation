@@ -1,0 +1,9 @@
+pasty_22	His	O
+pasty_22	nickname	O
+pasty_22	of	O
+pasty_22	Pasty	pasty_adj
+pasty_22	referred	O
+pasty_22	to	O
+pasty_22	his	O
+pasty_22	Cornish	O
+pasty_22	origins	O

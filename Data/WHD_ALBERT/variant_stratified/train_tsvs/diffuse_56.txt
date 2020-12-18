@@ -1,0 +1,17 @@
+diffuse_56	Her	O
+diffuse_56	claim	O
+diffuse_56	to	O
+diffuse_56	not	O
+diffuse_56	ask	O
+diffuse_56	too	O
+diffuse_56	much	O
+diffuse_56	serves	O
+diffuse_56	as	O
+diffuse_56	a	O
+diffuse_56	conciliatory	O
+diffuse_56	strategy	O
+diffuse_56	to	O
+diffuse_56	diffuse	diffuse_vrb
+diffuse_56	opposition	O
+diffuse_56	Hamilton	O
+diffuse_56	2001:149	O

@@ -1,0 +1,13 @@
+alternate_3	During	O
+alternate_3	the	O
+alternate_3	Infinity	O
+alternate_3	event	O
+alternate_3	alternate	alternate_adj-nou
+alternate_3	universe	O
+alternate_3	Builders	O
+alternate_3	destroyed	O
+alternate_3	an	O
+alternate_3	Earth	O
+alternate_3	for	O
+alternate_3	the	O
+alternate_3	Illuminati	O

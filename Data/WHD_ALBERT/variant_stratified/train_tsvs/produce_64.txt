@@ -1,0 +1,16 @@
+produce_64	Vanguard	O
+produce_64	uses	O
+produce_64	a	O
+produce_64	number	O
+produce_64	of	O
+produce_64	custom	O
+produce_64	sound	O
+produce_64	chips	O
+produce_64	to	O
+produce_64	produce	produce_vrb
+produce_64	digitized	O
+produce_64	voices	O
+produce_64	and	O
+produce_64	custom	O
+produce_64	synthesizer	O
+produce_64	sounds	O

@@ -1,0 +1,12 @@
+ornament_29	The	O
+ornament_29	provenance	O
+ornament_29	of	O
+ornament_29	the	O
+ornament_29	standing	O
+ornament_29	Bodhisattva	O
+ornament_29	with	O
+ornament_29	triple	O
+ornament_29	head	O
+ornament_29	ornament	ornament_nou
+ornament_29	is	O
+ornament_29	unknown	O

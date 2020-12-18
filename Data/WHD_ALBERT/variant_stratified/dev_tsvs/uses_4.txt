@@ -1,0 +1,7 @@
+uses_4	Cooper	O
+uses_4	uses	uses_vrb
+uses_4	Dean	O
+uses_4	Guitars	O
+uses_4	and	O
+uses_4	EMG-81/85	O
+uses_4	pickups	O

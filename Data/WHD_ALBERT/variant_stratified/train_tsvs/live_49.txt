@@ -1,0 +1,10 @@
+live_49	They	O
+live_49	currently	O
+live_49	live	live_vrb
+live_49	in	O
+live_49	Los	O
+live_49	Angeles	O
+live_49	and	O
+live_49	have	O
+live_49	two	O
+live_49	children	O

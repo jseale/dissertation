@@ -1,0 +1,14 @@
+fragment_38	The	O
+fragment_38	entire	O
+fragment_38	S	O
+fragment_38	segment	O
+fragment_38	and	O
+fragment_38	a	O
+fragment_38	fragment	fragment_nou
+fragment_38	of	O
+fragment_38	the	O
+fragment_38	M	O
+fragment_38	segment	O
+fragment_38	have	O
+fragment_38	been	O
+fragment_38	sequenced	O

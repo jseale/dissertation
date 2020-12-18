@@ -1,0 +1,17 @@
+confines_12	It	O
+confines_12	should	O
+confines_12	be	O
+confines_12	aware	O
+confines_12	of	O
+confines_12	the	O
+confines_12	impact	O
+confines_12	its	O
+confines_12	rulings	O
+confines_12	may	O
+confines_12	have	O
+confines_12	outside	O
+confines_12	the	O
+confines_12	confines	confines_nou
+confines_12	of	O
+confines_12	the	O
+confines_12	Community	O

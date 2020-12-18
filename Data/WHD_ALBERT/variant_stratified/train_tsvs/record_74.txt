@@ -1,0 +1,16 @@
+record_74	The	O
+record_74	band	O
+record_74	then	O
+record_74	later	O
+record_74	returned	O
+record_74	to	O
+record_74	Sticky	O
+record_74	Studios	O
+record_74	to	O
+record_74	record	record_vrb
+record_74	their	O
+record_74	first	O
+record_74	full	O
+record_74	album	O
+record_74	This	O
+record_74	Life	O

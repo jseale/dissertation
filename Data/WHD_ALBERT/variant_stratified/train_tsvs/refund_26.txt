@@ -1,0 +1,17 @@
+refund_26	In	O
+refund_26	April	O
+refund_26	they	O
+refund_26	expected	O
+refund_26	that	O
+refund_26	a	O
+refund_26	tax	O
+refund_26	refund	refund_nou
+refund_26	from	O
+refund_26	the	O
+refund_26	US	O
+refund_26	government	O
+refund_26	would	O
+refund_26	help	O
+refund_26	ease	O
+refund_26	the	O
+refund_26	burden	O

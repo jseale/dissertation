@@ -1,0 +1,13 @@
+abuse_21	Because	O
+abuse_21	of	O
+abuse_21	their	O
+abuse_21	potential	O
+abuse_21	for	O
+abuse_21	abuse	abuse_nou
+abuse_21	sweepstakes	O
+abuse_21	are	O
+abuse_21	heavily	O
+abuse_21	regulated	O
+abuse_21	in	O
+abuse_21	many	O
+abuse_21	countries	O

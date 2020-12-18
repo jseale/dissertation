@@ -1,0 +1,17 @@
+graduate_78	He	O
+graduate_78	went	O
+graduate_78	on	O
+graduate_78	to	O
+graduate_78	graduate	graduate_vrb
+graduate_78	from	O
+graduate_78	Harvard	O
+graduate_78	University	O
+graduate_78	in	O
+graduate_78	1907	O
+graduate_78	and	O
+graduate_78	from	O
+graduate_78	Harvard	O
+graduate_78	Law	O
+graduate_78	School	O
+graduate_78	in	O
+graduate_78	1910	O

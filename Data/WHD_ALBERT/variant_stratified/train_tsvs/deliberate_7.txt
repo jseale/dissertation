@@ -1,0 +1,12 @@
+deliberate_7	Genocide	O
+deliberate_7	is	O
+deliberate_7	the	O
+deliberate_7	deliberate	deliberate_adj
+deliberate_7	mass	O
+deliberate_7	murder	O
+deliberate_7	of	O
+deliberate_7	individuals	O
+deliberate_7	with	O
+deliberate_7	a	O
+deliberate_7	shared	O
+deliberate_7	identity	O

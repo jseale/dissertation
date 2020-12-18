@@ -1,0 +1,12 @@
+perfume_47	Additionally	O
+perfume_47	perfume	perfume_nou
+perfume_47	placed	O
+perfume_47	on	O
+perfume_47	the	O
+perfume_47	violin	O
+perfume_47	chin	O
+perfume_47	rests	O
+perfume_47	prevented	O
+perfume_47	identification	O
+perfume_47	by	O
+perfume_47	smell	O

@@ -1,0 +1,14 @@
+sake_9	Sake	sake_jp
+sake_9	sets	O
+sake_9	are	O
+sake_9	commonly	O
+sake_9	ceramic	O
+sake_9	but	O
+sake_9	may	O
+sake_9	be	O
+sake_9	wood	O
+sake_9	lacquered	O
+sake_9	wood	O
+sake_9	glass	O
+sake_9	or	O
+sake_9	plastic	O

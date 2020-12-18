@@ -1,0 +1,17 @@
+live_11	The	O
+live_11	band	O
+live_11	first	O
+live_11	performed	O
+live_11	the	O
+live_11	song	O
+live_11	live	live_adj
+live_11	on	O
+live_11	Radio	O
+live_11	1	O
+live_11	at	O
+live_11	Maida	O
+live_11	Vale	O
+live_11	studios	O
+live_11	with	O
+live_11	Annie	O
+live_11	Mac	O

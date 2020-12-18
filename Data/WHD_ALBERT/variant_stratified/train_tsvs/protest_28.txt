@@ -1,0 +1,12 @@
+protest_28	Madoyan	O
+protest_28	logded	O
+protest_28	a	O
+protest_28	protest	protest_nou
+protest_28	at	O
+protest_28	the	O
+protest_28	Ministry	O
+protest_28	of	O
+protest_28	Justice	O
+protest_28	against	O
+protest_28	the	O
+protest_28	arrests	O

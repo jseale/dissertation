@@ -1,0 +1,10 @@
+associate_44	He	O
+associate_44	became	O
+associate_44	an	O
+associate_44	associate	associate_adj-nou
+associate_44	of	O
+associate_44	Deloitte	O
+associate_44	Touche	O
+associate_44	in	O
+associate_44	the	O
+associate_44	1980s	O

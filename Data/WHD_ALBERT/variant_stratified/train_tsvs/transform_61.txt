@@ -1,0 +1,12 @@
+transform_61	The	O
+transform_61	Gabor	O
+transform_61	transform	transform_nou
+transform_61	has	O
+transform_61	many	O
+transform_61	properties	O
+transform_61	like	O
+transform_61	those	O
+transform_61	of	O
+transform_61	the	O
+transform_61	Fourier	O
+transform_61	transform	transform_nou

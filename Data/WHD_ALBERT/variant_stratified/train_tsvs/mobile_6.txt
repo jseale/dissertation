@@ -1,0 +1,15 @@
+mobile_6	There	O
+mobile_6	is	O
+mobile_6	a	O
+mobile_6	mobile	mobile
+mobile_6	butcher	O
+mobile_6	and	O
+mobile_6	a	O
+mobile_6	mobile	mobile
+mobile_6	fishmonger	O
+mobile_6	who	O
+mobile_6	each	O
+mobile_6	visit	O
+mobile_6	once	O
+mobile_6	a	O
+mobile_6	week	O

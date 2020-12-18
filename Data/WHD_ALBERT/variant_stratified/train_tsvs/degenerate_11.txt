@@ -1,0 +1,16 @@
+degenerate_11	Therefore	O
+degenerate_11	the	O
+degenerate_11	formerly	O
+degenerate_11	degenerate	degenerate_adj-nou
+degenerate_11	energy	O
+degenerate_11	levels	O
+degenerate_11	will	O
+degenerate_11	split	O
+degenerate_11	into	O
+degenerate_11	slightly	O
+degenerate_11	lower	O
+degenerate_11	and	O
+degenerate_11	slightly	O
+degenerate_11	higher	O
+degenerate_11	energy	O
+degenerate_11	levels	O

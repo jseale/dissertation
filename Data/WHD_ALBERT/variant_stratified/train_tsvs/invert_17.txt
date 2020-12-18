@@ -1,0 +1,14 @@
+invert_17	The	O
+invert_17	bus	O
+invert_17	invert	invert_adj-nou
+invert_17	decoder	O
+invert_17	takes	O
+invert_17	the	O
+invert_17	code	O
+invert_17	word	O
+invert_17	and	O
+invert_17	produces	O
+invert_17	the	O
+invert_17	corresponding	O
+invert_17	source	O
+invert_17	word	O

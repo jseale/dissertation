@@ -1,0 +1,11 @@
+lead_41	The	O
+lead_41	film	O
+lead_41	stars	O
+lead_41	Vishnuvardhan	O
+lead_41	Aarathi	O
+lead_41	Madhavi	O
+lead_41	and	O
+lead_41	Jayamalini	O
+lead_41	in	O
+lead_41	lead	lead_nou-vrb
+lead_41	roles	O

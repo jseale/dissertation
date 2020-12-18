@@ -1,0 +1,14 @@
+upset_50	Since	O
+upset_50	the	O
+upset_50	product	O
+upset_50	was	O
+upset_50	used	O
+upset_50	only	O
+upset_50	externally	O
+upset_50	there	O
+upset_50	was	O
+upset_50	no	O
+upset_50	risk	O
+upset_50	of	O
+upset_50	stomach	O
+upset_50	upset	upset_nou

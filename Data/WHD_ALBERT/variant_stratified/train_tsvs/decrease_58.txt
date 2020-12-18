@@ -1,0 +1,12 @@
+decrease_58	Instead	O
+decrease_58	he	O
+decrease_58	sent	O
+decrease_58	Li	O
+decrease_58	Wu	O
+decrease_58	away	O
+decrease_58	to	O
+decrease_58	try	O
+decrease_58	to	O
+decrease_58	decrease	decrease_vrb
+decrease_58	the	O
+decrease_58	friction	O

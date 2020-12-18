@@ -1,0 +1,17 @@
+export_76	ClickTime	O
+export_76	reports	O
+export_76	also	O
+export_76	export	export_vrb
+export_76	to	O
+export_76	common	O
+export_76	spreadsheets	O
+export_76	and	O
+export_76	reporting	O
+export_76	tools	O
+export_76	and	O
+export_76	can	O
+export_76	integrate	O
+export_76	with	O
+export_76	various	O
+export_76	software	O
+export_76	applications	O

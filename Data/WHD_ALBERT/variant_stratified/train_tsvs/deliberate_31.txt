@@ -1,0 +1,17 @@
+deliberate_31	What	O
+deliberate_31	was	O
+deliberate_31	once	O
+deliberate_31	an	O
+deliberate_31	effortless	O
+deliberate_31	and	O
+deliberate_31	unconscious	O
+deliberate_31	retrieval	O
+deliberate_31	execution	O
+deliberate_31	of	O
+deliberate_31	a	O
+deliberate_31	procedural	O
+deliberate_31	memory	O
+deliberate_31	becomes	O
+deliberate_31	slow	O
+deliberate_31	and	O
+deliberate_31	deliberate	deliberate_adj

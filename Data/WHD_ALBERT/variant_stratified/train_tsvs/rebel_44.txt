@@ -1,0 +1,8 @@
+rebel_44	Canister	O
+rebel_44	shots	O
+rebel_44	killed	O
+rebel_44	more	O
+rebel_44	civilians	O
+rebel_44	than	O
+rebel_44	rebel	rebel_nou
+rebel_44	soldiers	O

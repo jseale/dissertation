@@ -1,0 +1,15 @@
+construct_70	Multirotors	O
+construct_70	are	O
+construct_70	generally	O
+construct_70	more	O
+construct_70	affordable	O
+construct_70	easier	O
+construct_70	to	O
+construct_70	construct	construct_vrb
+construct_70	and	O
+construct_70	simpler	O
+construct_70	to	O
+construct_70	operate	O
+construct_70	than	O
+construct_70	RC	O
+construct_70	helicopters	O

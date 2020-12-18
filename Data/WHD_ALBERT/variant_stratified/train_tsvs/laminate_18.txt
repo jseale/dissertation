@@ -1,0 +1,15 @@
+laminate_18	Part	O
+laminate_18	of	O
+laminate_18	lower	O
+laminate_18	wings	O
+laminate_18	and	O
+laminate_18	chemicals	O
+laminate_18	tanks	O
+laminate_18	were	O
+laminate_18	made	O
+laminate_18	of	O
+laminate_18	a	O
+laminate_18	laminate	laminate_nou
+laminate_18	to	O
+laminate_18	avoid	O
+laminate_18	corrosion	O

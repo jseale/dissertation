@@ -1,0 +1,16 @@
+isolate_5	They	O
+isolate_5	isolate	isolate
+isolate_5	their	O
+isolate_5	servers	O
+isolate_5	by	O
+isolate_5	licensing	O
+isolate_5	software	O
+isolate_5	providers	O
+isolate_5	which	O
+isolate_5	are	O
+isolate_5	called	O
+isolate_5	MPI	O
+isolate_5	merchant	O
+isolate_5	plug	O
+isolate_5	in	O
+isolate_5	providers	O

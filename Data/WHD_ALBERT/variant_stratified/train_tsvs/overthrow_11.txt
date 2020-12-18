@@ -1,0 +1,16 @@
+overthrow_11	In	O
+overthrow_11	1783	O
+overthrow_11	Fox	O
+overthrow_11	produced	O
+overthrow_11	his	O
+overthrow_11	India	O
+overthrow_11	Bill	O
+overthrow_11	which	O
+overthrow_11	led	O
+overthrow_11	to	O
+overthrow_11	the	O
+overthrow_11	overthrow	overthrow_nou
+overthrow_11	of	O
+overthrow_11	the	O
+overthrow_11	coalition	O
+overthrow_11	government	O

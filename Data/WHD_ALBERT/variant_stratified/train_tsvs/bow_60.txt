@@ -1,0 +1,12 @@
+bow_60	For	O
+bow_60	maneuvering	O
+bow_60	at	O
+bow_60	ports	O
+bow_60	Hansa	O
+bow_60	Brandenburg	O
+bow_60	has	O
+bow_60	a	O
+bow_60	900	O
+bow_60	kW	O
+bow_60	bow	bow_nou-ship
+bow_60	thruster	O

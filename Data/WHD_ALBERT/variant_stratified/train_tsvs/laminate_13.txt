@@ -1,0 +1,14 @@
+laminate_13	Construction	O
+laminate_13	is	O
+laminate_13	a	O
+laminate_13	laminate	laminate_nou
+laminate_13	of	O
+laminate_13	fibreglass	O
+laminate_13	with	O
+laminate_13	a	O
+laminate_13	12	O
+laminate_13	mm	O
+laminate_13	end	O
+laminate_13	grain	O
+laminate_13	balsa	O
+laminate_13	core	O

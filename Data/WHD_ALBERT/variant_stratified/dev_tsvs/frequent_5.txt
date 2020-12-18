@@ -1,0 +1,14 @@
+frequent_5	December	O
+frequent_5	2008	O
+frequent_5	was	O
+frequent_5	the	O
+frequent_5	dawn	O
+frequent_5	of	O
+frequent_5	the	O
+frequent_5	station	O
+frequent_5	having	O
+frequent_5	its	O
+frequent_5	most	O
+frequent_5	frequent	frequent_adj
+frequent_5	service	O
+frequent_5	ever	O

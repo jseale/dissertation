@@ -1,0 +1,13 @@
+read_32	It	O
+read_32	recently	O
+read_32	marked	O
+read_32	its	O
+read_32	20th	O
+read_32	anniversary	O
+read_32	and	O
+read_32	is	O
+read_32	read	read_past
+read_32	throughout	O
+read_32	the	O
+read_32	United	O
+read_32	States	O

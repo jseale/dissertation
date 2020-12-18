@@ -1,0 +1,13 @@
+produce_6	They	O
+produce_6	produce	produce_vrb
+produce_6	a	O
+produce_6	variety	O
+produce_6	of	O
+produce_6	sounds	O
+produce_6	including	O
+produce_6	clicks	O
+produce_6	and	O
+produce_6	chatters	O
+produce_6	reminiscent	O
+produce_6	of	O
+produce_6	raccoons	O

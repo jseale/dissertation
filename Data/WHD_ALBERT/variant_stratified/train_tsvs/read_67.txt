@@ -1,0 +1,12 @@
+read_67	The	O
+read_67	AGC	O
+read_67	had	O
+read_67	a	O
+read_67	16-bit	O
+read_67	read	read_present
+read_67	bus	O
+read_67	and	O
+read_67	a	O
+read_67	16-bit	O
+read_67	write	O
+read_67	bus	O

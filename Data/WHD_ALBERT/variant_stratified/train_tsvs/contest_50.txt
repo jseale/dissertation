@@ -1,0 +1,12 @@
+contest_50	Croatia	O
+contest_50	competed	O
+contest_50	in	O
+contest_50	the	O
+contest_50	Eurovision	O
+contest_50	Song	O
+contest_50	Contest	contest_nou
+contest_50	1999	O
+contest_50	held	O
+contest_50	in	O
+contest_50	Jerusalem	O
+contest_50	Israel	O

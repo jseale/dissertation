@@ -1,0 +1,16 @@
+read_91	IGN	O
+read_91	rated	O
+read_91	in	O
+read_91	7.0	O
+read_91	out	O
+read_91	of	O
+read_91	10	O
+read_91	calling	O
+read_91	it	O
+read_91	a	O
+read_91	fine	O
+read_91	read	read_present
+read_91	that	O
+read_91	has	O
+read_91	its	O
+read_91	problems	O

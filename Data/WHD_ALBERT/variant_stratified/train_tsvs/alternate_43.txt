@@ -1,0 +1,11 @@
+alternate_43	The	O
+alternate_43	alternate	alternate_adj-nou
+alternate_43	captains	O
+alternate_43	include	O
+alternate_43	Kelley	O
+alternate_43	Steadman	O
+alternate_43	Bailey	O
+alternate_43	Bram	O
+alternate_43	and	O
+alternate_43	Jess	O
+alternate_43	Jones	O

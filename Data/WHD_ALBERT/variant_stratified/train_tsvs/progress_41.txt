@@ -1,0 +1,17 @@
+progress_41	The	O
+progress_41	pink	O
+progress_41	ribbon	O
+progress_41	is	O
+progress_41	associated	O
+progress_41	with	O
+progress_41	individual	O
+progress_41	generosity	O
+progress_41	faith	O
+progress_41	in	O
+progress_41	scientific	O
+progress_41	progress	progress_nou
+progress_41	and	O
+progress_41	a	O
+progress_41	can	O
+progress_41	do	O
+progress_41	attitude	O

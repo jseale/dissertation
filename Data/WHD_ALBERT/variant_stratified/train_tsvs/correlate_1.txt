@@ -1,0 +1,15 @@
+correlate_1	Factors	O
+correlate_1	such	O
+correlate_1	as	O
+correlate_1	nutritional	O
+correlate_1	intake	O
+correlate_1	age	O
+correlate_1	or	O
+correlate_1	other	O
+correlate_1	medical	O
+correlate_1	conditions	O
+correlate_1	are	O
+correlate_1	correlate	correlate_nou
+correlate_1	in	O
+correlate_1	lesser	O
+correlate_1	degrees	O

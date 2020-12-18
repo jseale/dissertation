@@ -1,0 +1,16 @@
+sake_34	She	O
+sake_34	is	O
+sake_34	in	O
+sake_34	love	O
+sake_34	with	O
+sake_34	Naoya	O
+sake_34	but	O
+sake_34	regretfully	O
+sake_34	gives	O
+sake_34	up	O
+sake_34	her	O
+sake_34	feelings	O
+sake_34	for	O
+sake_34	Nagisa	O
+sake_34	's	O
+sake_34	sake	sake

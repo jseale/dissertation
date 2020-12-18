@@ -1,0 +1,7 @@
+pasty_48	Burger	O
+pasty_48	KingCostaEDCGreggsUpper	O
+pasty_48	CrustKrispy	O
+pasty_48	KremeWest	O
+pasty_48	Cornwall	O
+pasty_48	Pasty	pasty_adj
+pasty_48	Co.	O

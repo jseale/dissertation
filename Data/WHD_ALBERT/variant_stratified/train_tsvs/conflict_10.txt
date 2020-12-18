@@ -1,0 +1,14 @@
+conflict_10	In	O
+conflict_10	the	O
+conflict_10	conflict	conflict_nou
+conflict_10	between	O
+conflict_10	the	O
+conflict_10	two	O
+conflict_10	factions	O
+conflict_10	several	O
+conflict_10	of	O
+conflict_10	Ferrers	O
+conflict_10	's	O
+conflict_10	men	O
+conflict_10	were	O
+conflict_10	killed	O

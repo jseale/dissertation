@@ -1,0 +1,14 @@
+graduate_35	She	O
+graduate_35	is	O
+graduate_35	a	O
+graduate_35	graduate	graduate_adj-nou
+graduate_35	of	O
+graduate_35	the	O
+graduate_35	Italia	O
+graduate_35	Conti	O
+graduate_35	Academy	O
+graduate_35	of	O
+graduate_35	Theatre	O
+graduate_35	Arts	O
+graduate_35	stage	O
+graduate_35	school	O

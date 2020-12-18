@@ -1,0 +1,15 @@
+reject_8	The	O
+reject_8	books	O
+reject_8	of	O
+reject_8	Ruth	O
+reject_8	and	O
+reject_8	Jonah	O
+reject_8	reject	reject_vrb
+reject_8	the	O
+reject_8	racialization	O
+reject_8	of	O
+reject_8	the	O
+reject_8	Israelite	O
+reject_8	religion	O
+reject_8	by	O
+reject_8	Ezra	O

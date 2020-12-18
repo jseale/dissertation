@@ -1,0 +1,14 @@
+retard_47	It	O
+retard_47	is	O
+retard_47	unclear	O
+retard_47	how	O
+retard_47	long	O
+retard_47	the	O
+retard_47	ceramic	O
+retard_47	form	O
+retard_47	will	O
+retard_47	retard	retard_vrb
+retard_47	the	O
+retard_47	release	O
+retard_47	of	O
+retard_47	radioactivity	O

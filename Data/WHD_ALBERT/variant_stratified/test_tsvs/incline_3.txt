@@ -1,0 +1,15 @@
+incline_3	Unusual	O
+incline_3	for	O
+incline_3	the	O
+incline_3	Polish	O
+incline_3	architectural	O
+incline_3	incline	incline_nou
+incline_3	this	O
+incline_3	neat	O
+incline_3	element	O
+incline_3	was	O
+incline_3	borrowed	O
+incline_3	from	O
+incline_3	the	O
+incline_3	Eastern	O
+incline_3	style	O

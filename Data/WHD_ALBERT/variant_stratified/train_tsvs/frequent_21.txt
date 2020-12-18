@@ -1,0 +1,17 @@
+frequent_21	In	O
+frequent_21	1978	O
+frequent_21	she	O
+frequent_21	became	O
+frequent_21	a	O
+frequent_21	lifetime	O
+frequent_21	Honorary	O
+frequent_21	Member	O
+frequent_21	and	O
+frequent_21	frequent	frequent_adj
+frequent_21	exhibitor	O
+frequent_21	in	O
+frequent_21	the	O
+frequent_21	group	O
+frequent_21	's	O
+frequent_21	juried	O
+frequent_21	shows	O

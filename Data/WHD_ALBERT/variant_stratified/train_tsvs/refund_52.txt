@@ -1,0 +1,11 @@
+refund_52	This	O
+refund_52	kind	O
+refund_52	of	O
+refund_52	refund	refund_nou
+refund_52	or	O
+refund_52	rebate	O
+refund_52	is	O
+refund_52	known	O
+refund_52	as	O
+refund_52	a	O
+refund_52	drawback	O

@@ -1,0 +1,9 @@
+bow_38	The	O
+bow_38	bow	bow_nou-ship
+bow_38	would	O
+bow_38	finally	O
+bow_38	sink	O
+bow_38	later	O
+bow_38	the	O
+bow_38	next	O
+bow_38	day	O

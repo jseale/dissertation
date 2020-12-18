@@ -1,0 +1,11 @@
+invalid_11	Additionally	O
+invalid_11	they	O
+invalid_11	declared	O
+invalid_11	President	O
+invalid_11	Sukarno	O
+invalid_11	's	O
+invalid_11	Dwikora	O
+invalid_11	Cabinet	O
+invalid_11	as	O
+invalid_11	invalid	invalid_adj
+invalid_11	demisioner	O

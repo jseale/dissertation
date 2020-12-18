@@ -1,0 +1,14 @@
+expose_71	Its	O
+expose_71	stated	O
+expose_71	goal	O
+expose_71	is	O
+expose_71	to	O
+expose_71	investigate	O
+expose_71	and	O
+expose_71	expose	expose_vrb
+expose_71	crimes	O
+expose_71	against	O
+expose_71	wildlife	O
+expose_71	and	O
+expose_71	the	O
+expose_71	environment	O

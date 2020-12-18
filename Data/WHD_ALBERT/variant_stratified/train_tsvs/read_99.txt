@@ -1,0 +1,12 @@
+read_99	All	O
+read_99	the	O
+read_99	File	O
+read_99	I	O
+read_99	O	O
+read_99	verbs	O
+read_99	such	O
+read_99	as	O
+read_99	READ	read_present
+read_99	WRITE	O
+read_99	DELETE	O
+read_99	etc	O

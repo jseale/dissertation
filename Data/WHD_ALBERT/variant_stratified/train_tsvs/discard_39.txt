@@ -1,0 +1,17 @@
+discard_39	Once	O
+discard_39	this	O
+discard_39	happens	O
+discard_39	both	O
+discard_39	players	O
+discard_39	discard	discard_vrb
+discard_39	cards	O
+discard_39	from	O
+discard_39	their	O
+discard_39	hand	O
+discard_39	down	O
+discard_39	to	O
+discard_39	three	O
+discard_39	and	O
+discard_39	the	O
+discard_39	turn	O
+discard_39	ends	O

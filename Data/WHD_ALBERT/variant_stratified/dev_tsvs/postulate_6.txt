@@ -1,0 +1,17 @@
+postulate_6	They	O
+postulate_6	also	O
+postulate_6	postulate	postulate_vrb
+postulate_6	the	O
+postulate_6	existence	O
+postulate_6	of	O
+postulate_6	a	O
+postulate_6	quantity	O
+postulate_6	named	O
+postulate_6	entropy	O
+postulate_6	which	O
+postulate_6	can	O
+postulate_6	be	O
+postulate_6	defined	O
+postulate_6	for	O
+postulate_6	any	O
+postulate_6	system	O

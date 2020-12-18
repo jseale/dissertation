@@ -1,0 +1,13 @@
+upset_59	He	O
+upset_59	upset	upset_vrb
+upset_59	world	O
+upset_59	4	O
+upset_59	Errol	O
+upset_59	Zimmerman	O
+upset_59	at	O
+upset_59	the	O
+upset_59	opening	O
+upset_59	stage	O
+upset_59	taking	O
+upset_59	a	O
+upset_59	decision	O

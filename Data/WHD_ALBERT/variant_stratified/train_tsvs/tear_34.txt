@@ -1,0 +1,17 @@
+tear_34	The	O
+tear_34	buckram	O
+tear_34	used	O
+tear_34	is	O
+tear_34	a	O
+tear_34	100	O
+tear_34	cotton	O
+tear_34	bulky	O
+tear_34	fabric	O
+tear_34	designed	O
+tear_34	to	O
+tear_34	withstand	O
+tear_34	wear	O
+tear_34	and	O
+tear_34	tear	tear_vrb
+tear_34	Jones	O
+tear_34	1993	O

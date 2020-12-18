@@ -1,0 +1,12 @@
+frequent_8	These	O
+frequent_8	extended	O
+frequent_8	jams	O
+frequent_8	have	O
+frequent_8	become	O
+frequent_8	far	O
+frequent_8	less	O
+frequent_8	frequent	frequent_adj
+frequent_8	since	O
+frequent_8	Entwistle	O
+frequent_8	's	O
+frequent_8	death	O

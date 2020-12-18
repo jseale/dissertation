@@ -1,0 +1,15 @@
+supplement_71	These	O
+supplement_71	stations	O
+supplement_71	supplement	supplement_vrb
+supplement_71	and	O
+supplement_71	expand	O
+supplement_71	on	O
+supplement_71	the	O
+supplement_71	big	O
+supplement_71	five	O
+supplement_71	stations	O
+supplement_71	and	O
+supplement_71	were	O
+supplement_71	launched	O
+supplement_71	in	O
+supplement_71	2002	O

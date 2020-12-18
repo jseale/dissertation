@@ -1,0 +1,12 @@
+fragment_52	This	O
+fragment_52	fragment	fragment_nou
+fragment_52	is	O
+fragment_52	often	O
+fragment_52	found	O
+fragment_52	for	O
+fragment_52	aromatic	O
+fragment_52	compounds	O
+fragment_52	containing	O
+fragment_52	a	O
+fragment_52	benzyl	O
+fragment_52	unit	O

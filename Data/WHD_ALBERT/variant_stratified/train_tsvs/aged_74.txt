@@ -1,0 +1,8 @@
+aged_74	He	O
+aged_74	died	O
+aged_74	on	O
+aged_74	5	O
+aged_74	April	O
+aged_74	1908	O
+aged_74	aged	aged
+aged_74	74	O

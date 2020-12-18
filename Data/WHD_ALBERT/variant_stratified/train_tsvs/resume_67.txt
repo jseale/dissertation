@@ -1,0 +1,11 @@
+resume_67	Without	O
+resume_67	armor	O
+resume_67	support	O
+resume_67	the	O
+resume_67	47th	O
+resume_67	Army	O
+resume_67	could	O
+resume_67	not	O
+resume_67	resume	resume_vrb
+resume_67	the	O
+resume_67	offensive	O

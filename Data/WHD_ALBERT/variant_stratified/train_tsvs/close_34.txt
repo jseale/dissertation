@@ -1,0 +1,14 @@
+close_34	Second	O
+close_34	the	O
+close_34	vehicle	O
+close_34	operates	O
+close_34	very	O
+close_34	close	close_adj-nou
+close_34	to	O
+close_34	the	O
+close_34	ground	O
+close_34	rather	O
+close_34	than	O
+close_34	in	O
+close_34	free	O
+close_34	air	O

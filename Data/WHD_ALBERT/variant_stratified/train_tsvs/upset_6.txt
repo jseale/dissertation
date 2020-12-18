@@ -1,0 +1,13 @@
+upset_6	In	O
+upset_6	a	O
+upset_6	few	O
+upset_6	cases	O
+upset_6	gastrointestinal	O
+upset_6	upset	upset_nou
+upset_6	headaches	O
+upset_6	skin	O
+upset_6	reactions	O
+upset_6	and	O
+upset_6	dizziness	O
+upset_6	were	O
+upset_6	reported	O

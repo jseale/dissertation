@@ -1,0 +1,12 @@
+laminate_63	NEMA	O
+laminate_63	is	O
+laminate_63	the	O
+laminate_63	regulating	O
+laminate_63	authority	O
+laminate_63	for	O
+laminate_63	FR-4	O
+laminate_63	and	O
+laminate_63	other	O
+laminate_63	insulating	O
+laminate_63	laminate	laminate_nou
+laminate_63	grades	O

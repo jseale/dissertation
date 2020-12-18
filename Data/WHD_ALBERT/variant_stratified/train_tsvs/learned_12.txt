@@ -1,0 +1,17 @@
+learned_12	He	O
+learned_12	also	O
+learned_12	learned	learned_vrb
+learned_12	music	O
+learned_12	at	O
+learned_12	the	O
+learned_12	Sa	O
+learned_12	Re	O
+learned_12	Ga	O
+learned_12	Ma	O
+learned_12	Pa	O
+learned_12	Dha	O
+learned_12	Ni	O
+learned_12	Sa	O
+learned_12	Academy	O
+learned_12	in	O
+learned_12	Mumbai	O

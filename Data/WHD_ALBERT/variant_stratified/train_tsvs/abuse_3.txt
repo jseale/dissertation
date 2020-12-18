@@ -1,0 +1,7 @@
+abuse_3	Ecological	O
+abuse_3	Risk	O
+abuse_3	Assessment	O
+abuse_3	Use	O
+abuse_3	Abuse	abuse_nou
+abuse_3	and	O
+abuse_3	Alternatives	O

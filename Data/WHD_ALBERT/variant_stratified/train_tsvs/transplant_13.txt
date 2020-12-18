@@ -1,0 +1,16 @@
+transplant_13	Eyelash	O
+transplant_13	and	O
+transplant_13	eyebrow	O
+transplant_13	transplant	transplant_nou
+transplant_13	surgeries	O
+transplant_13	may	O
+transplant_13	be	O
+transplant_13	help	O
+transplant_13	to	O
+transplant_13	reconstruct	O
+transplant_13	or	O
+transplant_13	thicken	O
+transplant_13	lashes	O
+transplant_13	or	O
+transplant_13	eyebrow	O
+transplant_13	hair	O

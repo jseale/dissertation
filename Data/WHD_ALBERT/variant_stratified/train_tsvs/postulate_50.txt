@@ -1,0 +1,17 @@
+postulate_50	Their	O
+postulate_50	main	O
+postulate_50	postulate	postulate_nou
+postulate_50	was	O
+postulate_50	struggle	O
+postulate_50	against	O
+postulate_50	proprietary	O
+postulate_50	ideology	O
+postulate_50	among	O
+postulate_50	peasants	O
+postulate_50	and	O
+postulate_50	promoting	O
+postulate_50	of	O
+postulate_50	Proletarian	O
+postulate_50	revolution	O
+postulate_50	's	O
+postulate_50	ideals	O

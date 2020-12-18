@@ -1,0 +1,16 @@
+separate_34	The	O
+separate_34	club	O
+separate_34	was	O
+separate_34	part	O
+separate_34	of	O
+separate_34	the	O
+separate_34	separate	separate_adj
+separate_34	football	O
+separate_34	competition	O
+separate_34	that	O
+separate_34	emerged	O
+separate_34	in	O
+separate_34	Soviet	O
+separate_34	occupied	O
+separate_34	East	O
+separate_34	Germany	O

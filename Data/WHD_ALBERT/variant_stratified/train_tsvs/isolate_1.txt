@@ -1,0 +1,13 @@
+isolate_1	Air	O
+isolate_1	raids	O
+isolate_1	were	O
+isolate_1	also	O
+isolate_1	undertaken	O
+isolate_1	to	O
+isolate_1	isolate	isolate
+isolate_1	the	O
+isolate_1	battle	O
+isolate_1	area	O
+isolate_1	from	O
+isolate_1	further	O
+isolate_1	reinforcement	O

@@ -1,0 +1,14 @@
+refuse_5	They	O
+refuse_5	included	O
+refuse_5	a	O
+refuse_5	bread	O
+refuse_5	factory	O
+refuse_5	producing	O
+refuse_5	wholesome	O
+refuse_5	affordable	O
+refuse_5	bread	O
+refuse_5	and	O
+refuse_5	a	O
+refuse_5	refuse	refuse_nou
+refuse_5	collection	O
+refuse_5	service	O

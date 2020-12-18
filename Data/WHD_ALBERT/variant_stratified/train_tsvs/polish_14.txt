@@ -1,0 +1,9 @@
+polish_14	10	O
+polish_14	BRDM-2M-96ik	O
+polish_14	were	O
+polish_14	used	O
+polish_14	by	O
+polish_14	Polish	polish_geo
+polish_14	forces	O
+polish_14	of	O
+polish_14	ISAF	O

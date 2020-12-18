@@ -1,0 +1,15 @@
+isolate_53	The	O
+isolate_53	Council	O
+isolate_53	appreciated	O
+isolate_53	efforts	O
+isolate_53	by	O
+isolate_53	Albania	O
+isolate_53	to	O
+isolate_53	promote	O
+isolate_53	peace	O
+isolate_53	in	O
+isolate_53	the	O
+isolate_53	region	O
+isolate_53	and	O
+isolate_53	isolate	isolate
+isolate_53	extremists	O

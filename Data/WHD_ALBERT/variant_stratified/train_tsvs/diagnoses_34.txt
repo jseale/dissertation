@@ -1,0 +1,16 @@
+diagnoses_34	Complications	O
+diagnoses_34	ensue	O
+diagnoses_34	such	O
+diagnoses_34	as	O
+diagnoses_34	male	O
+diagnoses_34	breast	O
+diagnoses_34	development	O
+diagnoses_34	and	O
+diagnoses_34	after	O
+diagnoses_34	several	O
+diagnoses_34	false	O
+diagnoses_34	diagnoses	diagnoses_nou
+diagnoses_34	the	O
+diagnoses_34	patient	O
+diagnoses_34	is	O
+diagnoses_34	saved	O

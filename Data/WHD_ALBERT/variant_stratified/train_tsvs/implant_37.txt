@@ -1,0 +1,8 @@
+implant_37	Scully	O
+implant_37	tells	O
+implant_37	her	O
+implant_37	not	O
+implant_37	to	O
+implant_37	remove	O
+implant_37	the	O
+implant_37	implant	implant_nou

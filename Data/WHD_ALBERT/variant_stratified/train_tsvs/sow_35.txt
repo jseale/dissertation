@@ -1,0 +1,14 @@
+sow_35	Workers	O
+sow_35	were	O
+sow_35	paid	O
+sow_35	$	O
+sow_35	8	O
+sow_35	per	O
+sow_35	hour	O
+sow_35	to	O
+sow_35	sow	sow
+sow_35	topsoil	O
+sow_35	with	O
+sow_35	the	O
+sow_35	invasive	O
+sow_35	vine	O

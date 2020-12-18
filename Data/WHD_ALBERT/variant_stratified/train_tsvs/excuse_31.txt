@@ -1,0 +1,13 @@
+excuse_31	Jerry	O
+excuse_31	must	O
+excuse_31	wear	O
+excuse_31	glasses	O
+excuse_31	while	O
+excuse_31	around	O
+excuse_31	Lloyd	O
+excuse_31	to	O
+excuse_31	keep	O
+excuse_31	with	O
+excuse_31	Elaine	O
+excuse_31	's	O
+excuse_31	excuse	excuse_nou

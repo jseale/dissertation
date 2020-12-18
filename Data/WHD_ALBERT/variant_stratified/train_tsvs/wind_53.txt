@@ -1,0 +1,11 @@
+wind_53	In	O
+wind_53	addition	O
+wind_53	BLM	O
+wind_53	has	O
+wind_53	authorized	O
+wind_53	over	O
+wind_53	100	O
+wind_53	wind	wind_nou
+wind_53	energy	O
+wind_53	testing	O
+wind_53	sites	O

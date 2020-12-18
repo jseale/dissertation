@@ -1,0 +1,12 @@
+delegate_35	The	O
+delegate_35	primary	O
+delegate_35	had	O
+delegate_35	no	O
+delegate_35	impact	O
+delegate_35	on	O
+delegate_35	the	O
+delegate_35	Democratic	O
+delegate_35	Party	O
+delegate_35	delegate	delegate_nou
+delegate_35	selection	O
+delegate_35	process	O

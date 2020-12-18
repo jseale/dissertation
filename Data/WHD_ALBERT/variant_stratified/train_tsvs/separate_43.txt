@@ -1,0 +1,12 @@
+separate_43	This	O
+separate_43	has	O
+separate_43	already	O
+separate_43	yielded	O
+separate_43	separate	separate_adj
+separate_43	complementary	O
+separate_43	standards	O
+separate_43	for	O
+separate_43	symmetric	O
+separate_43	multiprocessing	O
+separate_43	namely	O
+separate_43	OpenMP	O

@@ -1,0 +1,17 @@
+construct_33	In	O
+construct_33	2010	O
+construct_33	plans	O
+construct_33	were	O
+construct_33	put	O
+construct_33	forward	O
+construct_33	to	O
+construct_33	construct	construct_vrb
+construct_33	a	O
+construct_33	large	O
+construct_33	detention	O
+construct_33	center	O
+construct_33	at	O
+construct_33	Ketziot	O
+construct_33	for	O
+construct_33	illegal	O
+construct_33	immigrants	O

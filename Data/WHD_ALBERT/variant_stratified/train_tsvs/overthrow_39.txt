@@ -1,0 +1,15 @@
+overthrow_39	It	O
+overthrow_39	also	O
+overthrow_39	proposed	O
+overthrow_39	free	O
+overthrow_39	elections	O
+overthrow_39	and	O
+overthrow_39	the	O
+overthrow_39	use	O
+overthrow_39	of	O
+overthrow_39	force	O
+overthrow_39	to	O
+overthrow_39	overthrow	overthrow_vrb
+overthrow_39	the	O
+overthrow_39	Diaz	O
+overthrow_39	regime	O

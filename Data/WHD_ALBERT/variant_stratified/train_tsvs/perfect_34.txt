@@ -1,0 +1,8 @@
+perfect_34	It	O
+perfect_34	is	O
+perfect_34	transparent	O
+perfect_34	to	O
+perfect_34	translucent	O
+perfect_34	with	O
+perfect_34	perfect	perfect_adj
+perfect_34	cleavage	O

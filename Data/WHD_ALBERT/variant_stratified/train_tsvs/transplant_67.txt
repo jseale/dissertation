@@ -1,0 +1,12 @@
+transplant_67	In	O
+transplant_67	rare	O
+transplant_67	circumstances	O
+transplant_67	partial	O
+transplant_67	resection	O
+transplant_67	of	O
+transplant_67	liver	O
+transplant_67	or	O
+transplant_67	transplant	transplant_nou
+transplant_67	may	O
+transplant_67	be	O
+transplant_67	required	O

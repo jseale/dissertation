@@ -1,0 +1,14 @@
+insult_13	His	O
+insult_13	daughter	O
+insult_13	Jen	O
+insult_13	said	O
+insult_13	He	O
+insult_13	saw	O
+insult_13	hunger	O
+insult_13	and	O
+insult_13	poverty	O
+insult_13	as	O
+insult_13	an	O
+insult_13	insult	insult_nou
+insult_13	to	O
+insult_13	America	O

@@ -1,0 +1,14 @@
+uses_12	This	O
+uses_12	lens	O
+uses_12	uses	uses_vrb
+uses_12	an	O
+uses_12	inner	O
+uses_12	focusing	O
+uses_12	system	O
+uses_12	powered	O
+uses_12	by	O
+uses_12	a	O
+uses_12	ring	O
+uses_12	type	O
+uses_12	HSM	O
+uses_12	motor	O

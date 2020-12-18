@@ -1,0 +1,12 @@
+retard_74	These	O
+retard_74	compounds	O
+retard_74	improve	O
+retard_74	the	O
+retard_74	grain	O
+retard_74	refining	O
+retard_74	and	O
+retard_74	retard	retard_vrb
+retard_74	recrystallization	O
+retard_74	and	O
+retard_74	precipitation	O
+retard_74	hardening	O

@@ -1,0 +1,10 @@
+pasty_14	Today	O
+pasty_14	the	O
+pasty_14	pasty	pasty_adj
+pasty_14	is	O
+pasty_14	the	O
+pasty_14	food	O
+pasty_14	most	O
+pasty_14	associated	O
+pasty_14	with	O
+pasty_14	Cornwall	O

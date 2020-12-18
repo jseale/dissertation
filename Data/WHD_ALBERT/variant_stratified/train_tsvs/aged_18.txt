@@ -1,0 +1,15 @@
+aged_18	Together	O
+aged_18	they	O
+aged_18	win	O
+aged_18	the	O
+aged_18	fight	O
+aged_18	but	O
+aged_18	the	O
+aged_18	middle	O
+aged_18	aged	aged
+aged_18	overweight	O
+aged_18	Slaughter	O
+aged_18	collapses	O
+aged_18	from	O
+aged_18	the	O
+aged_18	effort	O

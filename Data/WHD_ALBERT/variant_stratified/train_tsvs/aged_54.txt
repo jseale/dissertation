@@ -1,0 +1,10 @@
+aged_54	He	O
+aged_54	died	O
+aged_54	in	O
+aged_54	2007	O
+aged_54	in	O
+aged_54	Leigh	O
+aged_54	in	O
+aged_54	Dorset	O
+aged_54	aged	aged
+aged_54	98	O

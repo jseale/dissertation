@@ -1,0 +1,8 @@
+affiliate_25	The	O
+affiliate_25	site	O
+affiliate_25	was	O
+affiliate_25	funded	O
+affiliate_25	through	O
+affiliate_25	Amazon	O
+affiliate_25	affiliate	affiliate_nou
+affiliate_25	links	O

@@ -1,0 +1,12 @@
+import_8	He	O
+import_8	had	O
+import_8	to	O
+import_8	import	import_vrb
+import_8	materials	O
+import_8	from	O
+import_8	Dubuque	O
+import_8	and	O
+import_8	Chicago	O
+import_8	to	O
+import_8	build	O
+import_8	it	O

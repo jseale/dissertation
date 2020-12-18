@@ -1,0 +1,16 @@
+compress_25	If	O
+compress_25	applied	O
+compress_25	incorrectly	O
+compress_25	they	O
+compress_25	can	O
+compress_25	compress	compress
+compress_25	the	O
+compress_25	ribcage	O
+compress_25	so	O
+compress_25	greatly	O
+compress_25	as	O
+compress_25	to	O
+compress_25	make	O
+compress_25	normal	O
+compress_25	breathing	O
+compress_25	impossible	O

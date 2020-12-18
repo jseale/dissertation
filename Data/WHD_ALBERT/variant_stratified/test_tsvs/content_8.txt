@@ -1,0 +1,17 @@
+content_8	The	O
+content_8	soils	O
+content_8	are	O
+content_8	dark	O
+content_8	in	O
+content_8	colour	O
+content_8	with	O
+content_8	a	O
+content_8	high	O
+content_8	lime	O
+content_8	content	content_nou
+content_8	permeable	O
+content_8	and	O
+content_8	poor	O
+content_8	in	O
+content_8	organic	O
+content_8	matter	O

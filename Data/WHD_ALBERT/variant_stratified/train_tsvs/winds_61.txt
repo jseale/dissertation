@@ -1,0 +1,16 @@
+winds_61	Later	O
+winds_61	on	O
+winds_61	September	O
+winds_61	20	O
+winds_61	Charlie	O
+winds_61	peaked	O
+winds_61	with	O
+winds_61	maximum	O
+winds_61	sustained	O
+winds_61	winds	winds_nou
+winds_61	of	O
+winds_61	65	O
+winds_61	mph	O
+winds_61	100	O
+winds_61	km	O
+winds_61	h	O

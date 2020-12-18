@@ -1,0 +1,16 @@
+aggregate_70	Flexibility	O
+aggregate_70	and	O
+aggregate_70	plasticity	O
+aggregate_70	allow	O
+aggregate_70	proteins	O
+aggregate_70	to	O
+aggregate_70	bind	O
+aggregate_70	to	O
+aggregate_70	ligands	O
+aggregate_70	form	O
+aggregate_70	oligomers	O
+aggregate_70	aggregate	aggregate_vrb
+aggregate_70	and	O
+aggregate_70	perform	O
+aggregate_70	mechanical	O
+aggregate_70	work	O

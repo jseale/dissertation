@@ -1,0 +1,13 @@
+deliberate_21	This	O
+deliberate_21	ghosting	O
+deliberate_21	effect	O
+deliberate_21	is	O
+deliberate_21	deliberate	deliberate_adj
+deliberate_21	on	O
+deliberate_21	some	O
+deliberate_21	monitors	O
+deliberate_21	known	O
+deliberate_21	as	O
+deliberate_21	long	O
+deliberate_21	persistence	O
+deliberate_21	monitors	O

@@ -1,0 +1,10 @@
+discharge_53	The	O
+discharge_53	river	O
+discharge_53	discharge	discharge_nou
+discharge_53	would	O
+discharge_53	grow	O
+discharge_53	at	O
+discharge_53	nearly	O
+discharge_53	the	O
+discharge_53	same	O
+discharge_53	proportions	O

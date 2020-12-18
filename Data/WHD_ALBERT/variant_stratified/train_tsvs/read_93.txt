@@ -1,0 +1,16 @@
+read_93	Lily	O
+read_93	presses	O
+read_93	him	O
+read_93	about	O
+read_93	how	O
+read_93	the	O
+read_93	novel	O
+read_93	ends	O
+read_93	but	O
+read_93	he	O
+read_93	says	O
+read_93	she	O
+read_93	must	O
+read_93	read	read_present
+read_93	it	O
+read_93	herself	O

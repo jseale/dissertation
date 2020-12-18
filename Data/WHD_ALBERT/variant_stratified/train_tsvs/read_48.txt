@@ -1,0 +1,12 @@
+read_48	Read	read_present
+read_48	the	O
+read_48	Powerful	O
+read_48	Letter	O
+read_48	a	O
+read_48	Sexual	O
+read_48	Assault	O
+read_48	Victim	O
+read_48	Wrote	O
+read_48	to	O
+read_48	Her	O
+read_48	Attacker	O

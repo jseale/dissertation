@@ -1,0 +1,17 @@
+delegate_38	Carcetti	O
+delegate_38	meets	O
+delegate_38	with	O
+delegate_38	Wilson	O
+delegate_38	State	O
+delegate_38	Delegate	delegate_nou
+delegate_38	Odell	O
+delegate_38	Watkins	O
+delegate_38	and	O
+delegate_38	Gerry	O
+delegate_38	to	O
+delegate_38	discuss	O
+delegate_38	their	O
+delegate_38	first	O
+delegate_38	move	O
+delegate_38	in	O
+delegate_38	office	O

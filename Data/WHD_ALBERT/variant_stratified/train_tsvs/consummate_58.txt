@@ -1,0 +1,15 @@
+consummate_58	He	O
+consummate_58	and	O
+consummate_58	Myriam	O
+consummate_58	are	O
+consummate_58	married	O
+consummate_58	beforehand	O
+consummate_58	however	O
+consummate_58	Myriam	O
+consummate_58	is	O
+consummate_58	too	O
+consummate_58	upset	O
+consummate_58	to	O
+consummate_58	consummate	consummate_vrb
+consummate_58	the	O
+consummate_58	marriage	O

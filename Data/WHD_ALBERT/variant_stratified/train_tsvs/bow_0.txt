@@ -1,0 +1,17 @@
+bow_0	When	O
+bow_0	worn	O
+bow_0	by	O
+bow_0	a	O
+bow_0	woman	O
+bow_0	the	O
+bow_0	medal	O
+bow_0	may	O
+bow_0	be	O
+bow_0	suspended	O
+bow_0	by	O
+bow_0	the	O
+bow_0	ribbon	O
+bow_0	shaped	O
+bow_0	into	O
+bow_0	a	O
+bow_0	bow	bow_nou-knot

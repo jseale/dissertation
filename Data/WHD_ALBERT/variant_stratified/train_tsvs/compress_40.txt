@@ -1,0 +1,12 @@
+compress_40	They	O
+compress_40	compress	compress
+compress_40	gas	O
+compress_40	by	O
+compress_40	utilizing	O
+compress_40	a	O
+compress_40	piston	O
+compress_40	pushed	O
+compress_40	by	O
+compress_40	a	O
+compress_40	crank	O
+compress_40	shaft	O

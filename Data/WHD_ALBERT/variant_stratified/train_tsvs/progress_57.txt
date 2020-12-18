@@ -1,0 +1,16 @@
+progress_57	Buffalo	O
+progress_57	County	O
+progress_57	Nebraska	O
+progress_57	and	O
+progress_57	Its	O
+progress_57	People	O
+progress_57	A	O
+progress_57	Record	O
+progress_57	of	O
+progress_57	Settlement	O
+progress_57	Organization	O
+progress_57	Progress	progress_nou
+progress_57	and	O
+progress_57	Achievement	O
+progress_57	Volume	O
+progress_57	1	O

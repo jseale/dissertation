@@ -1,0 +1,13 @@
+retard_19	Irving	O
+retard_19	Langmuir	O
+retard_19	found	O
+retard_19	that	O
+retard_19	an	O
+retard_19	inert	O
+retard_19	gas	O
+retard_19	instead	O
+retard_19	of	O
+retard_19	vacuum	O
+retard_19	would	O
+retard_19	retard	retard_vrb
+retard_19	evaporation	O

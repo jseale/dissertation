@@ -1,0 +1,15 @@
+diagnoses_26	He	O
+diagnoses_26	had	O
+diagnoses_26	been	O
+diagnoses_26	given	O
+diagnoses_26	various	O
+diagnoses_26	diagnoses	diagnoses_nou
+diagnoses_26	over	O
+diagnoses_26	time	O
+diagnoses_26	including	O
+diagnoses_26	paranoid	O
+diagnoses_26	schizophrenia	O
+diagnoses_26	and	O
+diagnoses_26	manic	O
+diagnoses_26	depressive	O
+diagnoses_26	psychosis	O

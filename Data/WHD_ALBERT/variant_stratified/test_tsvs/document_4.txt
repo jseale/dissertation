@@ -1,0 +1,11 @@
+document_4	The	O
+document_4	core	O
+document_4	of	O
+document_4	the	O
+document_4	16	O
+document_4	page	O
+document_4	document	document_nou
+document_4	consists	O
+document_4	of	O
+document_4	two	O
+document_4	parts	O

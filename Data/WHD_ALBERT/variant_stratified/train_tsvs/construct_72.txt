@@ -1,0 +1,17 @@
+construct_72	From	O
+construct_72	this	O
+construct_72	fact	O
+construct_72	it	O
+construct_72	is	O
+construct_72	straightforward	O
+construct_72	to	O
+construct_72	construct	construct_vrb
+construct_72	the	O
+construct_72	limiting	O
+construct_72	points	O
+construct_72	algebraically	O
+construct_72	or	O
+construct_72	by	O
+construct_72	compass	O
+construct_72	and	O
+construct_72	straightedge	O

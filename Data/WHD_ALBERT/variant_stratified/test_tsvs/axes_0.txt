@@ -1,0 +1,10 @@
+axes_0	Taylor	O
+axes_0	articulates	O
+axes_0	these	O
+axes_0	moral	O
+axes_0	frameworks	O
+axes_0	in	O
+axes_0	terms	O
+axes_0	of	O
+axes_0	three	O
+axes_0	axes	axes_nou

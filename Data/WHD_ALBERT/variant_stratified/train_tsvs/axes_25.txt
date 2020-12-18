@@ -1,0 +1,16 @@
+axes_25	San	O
+axes_25	Jorge	O
+axes_25	and	O
+axes_25	Castilla	O
+axes_25	streets	O
+axes_25	are	O
+axes_25	the	O
+axes_25	main	O
+axes_25	axes	axes_nou
+axes_25	on	O
+axes_25	the	O
+axes_25	north	O
+axes_25	side	O
+axes_25	of	O
+axes_25	the	O
+axes_25	neighbourhood	O

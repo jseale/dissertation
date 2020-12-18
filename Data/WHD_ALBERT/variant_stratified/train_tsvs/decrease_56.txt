@@ -1,0 +1,8 @@
+decrease_56	Civil	O
+decrease_56	conflicts	O
+decrease_56	can	O
+decrease_56	also	O
+decrease_56	decrease	decrease_vrb
+decrease_56	access	O
+decrease_56	to	O
+decrease_56	food	O

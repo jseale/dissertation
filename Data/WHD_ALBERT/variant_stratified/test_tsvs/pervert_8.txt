@@ -1,0 +1,15 @@
+pervert_8	Aaron	O
+pervert_8	is	O
+pervert_8	shocked	O
+pervert_8	when	O
+pervert_8	Robert	O
+pervert_8	is	O
+pervert_8	arrested	O
+pervert_8	for	O
+pervert_8	conspiracy	O
+pervert_8	to	O
+pervert_8	pervert	pervert_vrb
+pervert_8	the	O
+pervert_8	course	O
+pervert_8	of	O
+pervert_8	justice	O

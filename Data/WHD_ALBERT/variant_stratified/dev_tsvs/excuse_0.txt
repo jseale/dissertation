@@ -1,0 +1,9 @@
+excuse_0	However	O
+excuse_0	this	O
+excuse_0	tends	O
+excuse_0	not	O
+excuse_0	to	O
+excuse_0	be	O
+excuse_0	a	O
+excuse_0	valid	O
+excuse_0	excuse	excuse_nou

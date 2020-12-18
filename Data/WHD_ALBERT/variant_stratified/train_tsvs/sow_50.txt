@@ -1,0 +1,16 @@
+sow_50	When	O
+sow_50	the	O
+sow_50	sow	sow_nou
+sow_50	discovers	O
+sow_50	the	O
+sow_50	remains	O
+sow_50	of	O
+sow_50	the	O
+sow_50	piglets	O
+sow_50	she	O
+sow_50	runs	O
+sow_50	madly	O
+sow_50	around	O
+sow_50	the	O
+sow_50	farm	O
+sow_50	squealing	O

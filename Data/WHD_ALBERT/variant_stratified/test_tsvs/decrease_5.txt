@@ -1,0 +1,16 @@
+decrease_5	The	O
+decrease_5	barycentric	O
+decrease_5	orbital	O
+decrease_5	period	O
+decrease_5	will	O
+decrease_5	decrease	decrease_vrb
+decrease_5	from	O
+decrease_5	19000	O
+decrease_5	years	O
+decrease_5	epoch	O
+decrease_5	1950	O
+decrease_5	to	O
+decrease_5	9000	O
+decrease_5	years	O
+decrease_5	epoch	O
+decrease_5	2050	O

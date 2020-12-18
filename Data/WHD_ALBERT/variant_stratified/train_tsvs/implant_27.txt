@@ -1,0 +1,11 @@
+implant_27	Risk	O
+implant_27	Factors	O
+implant_27	in	O
+implant_27	Implant	implant_nou
+implant_27	Dentistry	O
+implant_27	Simplified	O
+implant_27	Clinical	O
+implant_27	Analysis	O
+implant_27	for	O
+implant_27	Predictable	O
+implant_27	Treatment	O

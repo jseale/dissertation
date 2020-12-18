@@ -1,0 +1,16 @@
+affiliate_55	That	O
+affiliate_55	was	O
+affiliate_55	originally	O
+affiliate_55	intended	O
+affiliate_55	to	O
+affiliate_55	be	O
+affiliate_55	the	O
+affiliate_55	ABC	O
+affiliate_55	affiliate	affiliate_nou
+affiliate_55	for	O
+affiliate_55	all	O
+affiliate_55	of	O
+affiliate_55	North	O
+affiliate_55	Central	O
+affiliate_55	West	O
+affiliate_55	Virginia	O

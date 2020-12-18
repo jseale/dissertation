@@ -1,0 +1,14 @@
+permit_39	105.9	O
+permit_39	FM	O
+permit_39	was	O
+permit_39	initially	O
+permit_39	a	O
+permit_39	construction	O
+permit_39	permit	permit_nou
+permit_39	with	O
+permit_39	the	O
+permit_39	call	O
+permit_39	letters	O
+permit_39	WVSL	O
+permit_39	in	O
+permit_39	1991	O

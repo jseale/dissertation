@@ -1,0 +1,8 @@
+associate_38	In	O
+associate_38	1961	O
+associate_38	he	O
+associate_38	was	O
+associate_38	promoted	O
+associate_38	to	O
+associate_38	associate	associate_adj-nou
+associate_38	professor	O

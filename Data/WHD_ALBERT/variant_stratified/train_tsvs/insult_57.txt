@@ -1,0 +1,12 @@
+insult_57	With	O
+insult_57	unbearable	O
+insult_57	insult	insult_nou
+insult_57	pain	O
+insult_57	grief	O
+insult_57	and	O
+insult_57	anger	O
+insult_57	she	O
+insult_57	destroyed	O
+insult_57	everything	O
+insult_57	she	O
+insult_57	saw	O

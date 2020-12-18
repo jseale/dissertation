@@ -1,0 +1,9 @@
+lives_0	In	O
+lives_0	fear	O
+lives_0	for	O
+lives_0	their	O
+lives_0	lives	lives_nou
+lives_0	the	O
+lives_0	villagers	O
+lives_0	killed	O
+lives_0	Uvelel'yn	O

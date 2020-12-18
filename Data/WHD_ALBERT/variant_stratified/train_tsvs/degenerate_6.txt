@@ -1,0 +1,9 @@
+degenerate_6	The	O
+degenerate_6	Fleuve	O
+degenerate_6	has	O
+degenerate_6	been	O
+degenerate_6	described	O
+degenerate_6	as	O
+degenerate_6	a	O
+degenerate_6	degenerate	degenerate_adj-nou
+degenerate_6	Barb	O

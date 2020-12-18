@@ -1,0 +1,15 @@
+insert_34	Zetchou	O
+insert_34	Poison	O
+insert_34	was	O
+insert_34	added	O
+insert_34	as	O
+insert_34	an	O
+insert_34	insert	insert_nou
+insert_34	song	O
+insert_34	for	O
+insert_34	the	O
+insert_34	single	O
+insert_34	Hengenjizai	O
+insert_34	no	O
+insert_34	Magical	O
+insert_34	Star	O

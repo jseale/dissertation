@@ -1,0 +1,17 @@
+rerelease_60	On	O
+rerelease_60	August	O
+rerelease_60	21	O
+rerelease_60	2015	O
+rerelease_60	Twiztid	O
+rerelease_60	released	O
+rerelease_60	a	O
+rerelease_60	vinyl	O
+rerelease_60	rerelease	rerelease
+rerelease_60	of	O
+rerelease_60	W.I.C.K.E.D.	O
+rerelease_60	on	O
+rerelease_60	a	O
+rerelease_60	double	O
+rerelease_60	blood	O
+rerelease_60	red	O
+rerelease_60	vinyl	O

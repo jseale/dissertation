@@ -1,0 +1,13 @@
+resume_31	He	O
+resume_31	was	O
+resume_31	able	O
+resume_31	to	O
+resume_31	return	O
+resume_31	and	O
+resume_31	resume	resume_vrb
+resume_31	his	O
+resume_31	trades	O
+resume_31	union	O
+resume_31	career	O
+resume_31	in	O
+resume_31	1945	O

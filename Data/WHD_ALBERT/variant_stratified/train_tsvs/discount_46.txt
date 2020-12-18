@@ -1,0 +1,16 @@
+discount_46	Alternatively	O
+discount_46	a	O
+discount_46	multi	O
+discount_46	use	O
+discount_46	ticket	O
+discount_46	either	O
+discount_46	valid	O
+discount_46	a	O
+discount_46	limited	O
+discount_46	time	O
+discount_46	or	O
+discount_46	indefinitely	O
+discount_46	may	O
+discount_46	provide	O
+discount_46	a	O
+discount_46	discount	discount_nou

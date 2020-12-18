@@ -1,0 +1,15 @@
+initiate_37	The	O
+initiate_37	purpose	O
+initiate_37	of	O
+initiate_37	the	O
+initiate_37	Board	O
+initiate_37	is	O
+initiate_37	to	O
+initiate_37	initiate	initiate_vrb
+initiate_37	and	O
+initiate_37	coordinate	O
+initiate_37	the	O
+initiate_37	activities	O
+initiate_37	of	O
+initiate_37	the	O
+initiate_37	Society	O

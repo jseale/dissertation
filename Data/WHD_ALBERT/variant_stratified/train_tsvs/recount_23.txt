@@ -1,0 +1,12 @@
+recount_23	Republican	O
+recount_23	candidate	O
+recount_23	Albert	O
+recount_23	Howard	O
+recount_23	also	O
+recount_23	requested	O
+recount_23	a	O
+recount_23	recount	recount_nou
+recount_23	in	O
+recount_23	the	O
+recount_23	Republican	O
+recount_23	primary	O

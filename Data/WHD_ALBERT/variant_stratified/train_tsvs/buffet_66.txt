@@ -1,0 +1,14 @@
+buffet_66	Picnic	O
+buffet_66	tables	O
+buffet_66	or	O
+buffet_66	catering	O
+buffet_66	buffet	buffet_nou
+buffet_66	tables	O
+buffet_66	have	O
+buffet_66	long	O
+buffet_66	benches	O
+buffet_66	as	O
+buffet_66	well	O
+buffet_66	as	O
+buffet_66	a	O
+buffet_66	table	O

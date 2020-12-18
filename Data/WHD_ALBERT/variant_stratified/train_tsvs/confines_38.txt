@@ -1,0 +1,17 @@
+confines_38	The	O
+confines_38	pact	O
+confines_38	formed	O
+confines_38	the	O
+confines_38	first	O
+confines_38	extension	O
+confines_38	of	O
+confines_38	Papal	O
+confines_38	territory	O
+confines_38	beyond	O
+confines_38	the	O
+confines_38	confines	confines_nou
+confines_38	of	O
+confines_38	the	O
+confines_38	Duchy	O
+confines_38	of	O
+confines_38	Rome	O

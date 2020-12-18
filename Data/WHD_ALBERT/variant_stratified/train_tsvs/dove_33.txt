@@ -1,0 +1,13 @@
+dove_33	The	O
+dove_33	European	O
+dove_33	turtle	O
+dove_33	dove	dove
+dove_33	in	O
+dove_33	particular	O
+dove_33	has	O
+dove_33	become	O
+dove_33	a	O
+dove_33	symbol	O
+dove_33	of	O
+dove_33	devoted	O
+dove_33	love	O

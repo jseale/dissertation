@@ -1,0 +1,9 @@
+retard_70	These	O
+retard_70	effects	O
+retard_70	consequently	O
+retard_70	retard	retard_vrb
+retard_70	the	O
+retard_70	production	O
+retard_70	of	O
+retard_70	sperm	O
+retard_70	cell	O

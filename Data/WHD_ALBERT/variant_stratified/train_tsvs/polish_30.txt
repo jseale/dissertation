@@ -1,0 +1,13 @@
+polish_30	Poland	O
+polish_30	occupied	O
+polish_30	Zaolzie	O
+polish_30	an	O
+polish_30	area	O
+polish_30	whose	O
+polish_30	population	O
+polish_30	was	O
+polish_30	majority	O
+polish_30	Polish	polish_geo
+polish_30	in	O
+polish_30	October	O
+polish_30	1938	O

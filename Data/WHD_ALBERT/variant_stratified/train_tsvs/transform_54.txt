@@ -1,0 +1,17 @@
+transform_54	The	O
+transform_54	scaling	O
+transform_54	function	O
+transform_54	filters	O
+transform_54	the	O
+transform_54	lowest	O
+transform_54	level	O
+transform_54	of	O
+transform_54	the	O
+transform_54	transform	transform_nou
+transform_54	and	O
+transform_54	ensures	O
+transform_54	all	O
+transform_54	the	O
+transform_54	spectrum	O
+transform_54	is	O
+transform_54	covered	O

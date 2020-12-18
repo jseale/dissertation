@@ -1,0 +1,7 @@
+rerelease_18	The	O
+rerelease_18	CD	O
+rerelease_18	rerelease	rerelease
+rerelease_18	added	O
+rerelease_18	three	O
+rerelease_18	additional	O
+rerelease_18	tracks	O

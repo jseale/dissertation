@@ -1,0 +1,15 @@
+increment_7	This	O
+increment_7	switched	O
+increment_7	the	O
+increment_7	minimum	O
+increment_7	increment	increment_nou
+increment_7	from	O
+increment_7	a	O
+increment_7	sixteenth	O
+increment_7	to	O
+increment_7	a	O
+increment_7	one	O
+increment_7	hundredth	O
+increment_7	of	O
+increment_7	a	O
+increment_7	dollar	O

@@ -1,0 +1,14 @@
+protest_62	The	O
+protest_62	protest	protest_nou
+protest_62	escalated	O
+protest_62	after	O
+protest_62	law	O
+protest_62	enforcers	O
+protest_62	opened	O
+protest_62	fire	O
+protest_62	on	O
+protest_62	protesters	O
+protest_62	killing	O
+protest_62	four	O
+protest_62	of	O
+protest_62	them	O

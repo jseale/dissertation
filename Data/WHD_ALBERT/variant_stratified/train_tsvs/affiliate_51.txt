@@ -1,0 +1,8 @@
+affiliate_51	Four	O
+affiliate_51	affiliate	affiliate_nou
+affiliate_51	members	O
+affiliate_51	each	O
+affiliate_51	participate	O
+affiliate_51	in	O
+affiliate_51	one	O
+affiliate_51	sport	O

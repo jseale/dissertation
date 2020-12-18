@@ -1,0 +1,17 @@
+transport_5	The	O
+transport_5	Indonesian	O
+transport_5	Transport	transport_nou
+transport_5	Minister	O
+transport_5	Hatta	O
+transport_5	Rajasa	O
+transport_5	said	O
+transport_5	that	O
+transport_5	the	O
+transport_5	ship	O
+transport_5	was	O
+transport_5	not	O
+transport_5	old	O
+transport_5	and	O
+transport_5	was	O
+transport_5	still	O
+transport_5	seaworthy	O

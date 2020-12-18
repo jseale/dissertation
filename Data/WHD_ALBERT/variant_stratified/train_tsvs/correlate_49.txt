@@ -1,0 +1,7 @@
+correlate_49	Lower	O
+correlate_49	latitudes	O
+correlate_49	correlate	correlate_nou-vrb
+correlate_49	with	O
+correlate_49	longer	O
+correlate_49	life	O
+correlate_49	cycles	O

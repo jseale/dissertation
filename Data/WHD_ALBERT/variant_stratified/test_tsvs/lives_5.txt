@@ -1,0 +1,10 @@
+lives_5	First	O
+lives_5	discovered	O
+lives_5	in	O
+lives_5	1992	O
+lives_5	this	O
+lives_5	gastropod	O
+lives_5	lives	lives_vrb
+lives_5	in	O
+lives_5	most	O
+lives_5	oceans	O

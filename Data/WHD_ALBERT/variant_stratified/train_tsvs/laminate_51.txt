@@ -1,0 +1,14 @@
+laminate_51	Trestle	O
+laminate_51	is	O
+laminate_51	the	O
+laminate_51	world	O
+laminate_51	's	O
+laminate_51	largest	O
+laminate_51	structure	O
+laminate_51	composed	O
+laminate_51	entirely	O
+laminate_51	of	O
+laminate_51	wood	O
+laminate_51	and	O
+laminate_51	glue	O
+laminate_51	laminate	laminate_nou

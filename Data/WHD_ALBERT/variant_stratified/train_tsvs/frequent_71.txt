@@ -1,0 +1,15 @@
+frequent_71	Brimblecom	O
+frequent_71	began	O
+frequent_71	frequent	frequent_adj
+frequent_71	tours	O
+frequent_71	of	O
+frequent_71	America	O
+frequent_71	and	O
+frequent_71	The	O
+frequent_71	Creature	O
+frequent_71	Comforts	O
+frequent_71	released	O
+frequent_71	2	O
+frequent_71	full	O
+frequent_71	length	O
+frequent_71	albums	O

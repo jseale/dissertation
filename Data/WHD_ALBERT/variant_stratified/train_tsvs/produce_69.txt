@@ -1,0 +1,16 @@
+produce_69	Pharmaceutical	O
+produce_69	companies	O
+produce_69	which	O
+produce_69	produce	produce_vrb
+produce_69	antivenom	O
+produce_69	target	O
+produce_69	their	O
+produce_69	products	O
+produce_69	against	O
+produce_69	the	O
+produce_69	species	O
+produce_69	native	O
+produce_69	to	O
+produce_69	a	O
+produce_69	particular	O
+produce_69	area	O

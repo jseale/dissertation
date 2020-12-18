@@ -1,0 +1,17 @@
+discharge_46	Finally	O
+discharge_46	the	O
+discharge_46	muzzle	O
+discharge_46	velocity	O
+discharge_46	of	O
+discharge_46	the	O
+discharge_46	pellets	O
+discharge_46	is	O
+discharge_46	adjustable	O
+discharge_46	to	O
+discharge_46	minimize	O
+discharge_46	movement	O
+discharge_46	and	O
+discharge_46	balance	O
+discharge_46	shifts	O
+discharge_46	during	O
+discharge_46	discharge	discharge_nou

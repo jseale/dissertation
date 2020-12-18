@@ -1,0 +1,10 @@
+lives_14	Two	O
+lives_14	singles	O
+lives_14	were	O
+lives_14	released	O
+lives_14	from	O
+lives_14	The	O
+lives_14	Time	O
+lives_14	of	O
+lives_14	Our	O
+lives_14	Lives	lives_nou

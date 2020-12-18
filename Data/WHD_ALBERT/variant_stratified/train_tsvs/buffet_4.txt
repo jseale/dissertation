@@ -1,0 +1,17 @@
+buffet_4	Restaurant	O
+buffet_4	buffet	buffet_nou
+buffet_4	bars	O
+buffet_4	tea	O
+buffet_4	buffet	buffet_nou
+buffet_4	bars	O
+buffet_4	and	O
+buffet_4	licensed	O
+buffet_4	bars	O
+buffet_4	were	O
+buffet_4	to	O
+buffet_4	be	O
+buffet_4	found	O
+buffet_4	in	O
+buffet_4	all	O
+buffet_4	three	O
+buffet_4	enclosures	O

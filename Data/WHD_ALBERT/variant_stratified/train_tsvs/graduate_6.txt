@@ -1,0 +1,14 @@
+graduate_6	He	O
+graduate_6	studied	O
+graduate_6	law	O
+graduate_6	in	O
+graduate_6	the	O
+graduate_6	graduate	graduate_adj-nou
+graduate_6	studies	O
+graduate_6	at	O
+graduate_6	the	O
+graduate_6	Law	O
+graduate_6	Faculty	O
+graduate_6	of	O
+graduate_6	Vilnius	O
+graduate_6	University	O

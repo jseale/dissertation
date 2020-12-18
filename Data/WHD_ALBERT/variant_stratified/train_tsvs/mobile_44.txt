@@ -1,0 +1,14 @@
+mobile_44	It	O
+mobile_44	is	O
+mobile_44	currently	O
+mobile_44	available	O
+mobile_44	for	O
+mobile_44	touch	O
+mobile_44	screen	O
+mobile_44	devices	O
+mobile_44	on	O
+mobile_44	Windows	O
+mobile_44	Mobile	mobile
+mobile_44	5	O
+mobile_44	6	O
+mobile_44	only	O

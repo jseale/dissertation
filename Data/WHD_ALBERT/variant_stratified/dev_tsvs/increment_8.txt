@@ -1,0 +1,11 @@
+increment_8	Increment	increment_vrb
+increment_8	the	O
+increment_8	program	O
+increment_8	counter	O
+increment_8	so	O
+increment_8	it	O
+increment_8	points	O
+increment_8	to	O
+increment_8	the	O
+increment_8	next	O
+increment_8	instruction	O

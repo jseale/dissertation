@@ -1,0 +1,9 @@
+axes_60	Pottery	O
+axes_60	burnt	O
+axes_60	stones	O
+axes_60	and	O
+axes_60	broken	O
+axes_60	stone	O
+axes_60	axes	axes_nou-vrb
+axes_60	were	O
+axes_60	found	O

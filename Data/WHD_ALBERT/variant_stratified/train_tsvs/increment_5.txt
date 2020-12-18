@@ -1,0 +1,11 @@
+increment_5	Increment	increment_nou
+increment_5	3	O
+increment_5	in	O
+increment_5	2020	O
+increment_5	shall	O
+increment_5	enable	O
+increment_5	net	O
+increment_5	enabled	O
+increment_5	anti	O
+increment_5	surface	O
+increment_5	warfare	O

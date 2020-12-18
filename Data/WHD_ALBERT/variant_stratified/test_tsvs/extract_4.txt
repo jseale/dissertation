@@ -1,0 +1,14 @@
+extract_4	Major	O
+extract_4	industries	O
+extract_4	include	O
+extract_4	the	O
+extract_4	canning	O
+extract_4	juicing	O
+extract_4	and	O
+extract_4	extract	extract_nou
+extract_4	of	O
+extract_4	citrus	O
+extract_4	fruit	O
+extract_4	and	O
+extract_4	other	O
+extract_4	produce	O

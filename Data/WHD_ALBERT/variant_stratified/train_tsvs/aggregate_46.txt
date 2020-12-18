@@ -1,0 +1,17 @@
+aggregate_46	This	O
+aggregate_46	was	O
+aggregate_46	the	O
+aggregate_46	highest	O
+aggregate_46	aggregate	aggregate_adj-nou
+aggregate_46	ODI	O
+aggregate_46	score	O
+aggregate_46	in	O
+aggregate_46	England	O
+aggregate_46	and	O
+aggregate_46	the	O
+aggregate_46	third	O
+aggregate_46	highest	O
+aggregate_46	aggregate	aggregate_adj-nou
+aggregate_46	ODI	O
+aggregate_46	score	O
+aggregate_46	overall	O

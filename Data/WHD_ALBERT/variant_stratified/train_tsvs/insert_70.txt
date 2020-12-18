@@ -1,0 +1,13 @@
+insert_70	It	O
+insert_70	has	O
+insert_70	SELECT	O
+insert_70	INSERT	insert_vrb
+insert_70	UPDATE	O
+insert_70	DELETE	O
+insert_70	MERGE	O
+insert_70	statements	O
+insert_70	to	O
+insert_70	operate	O
+insert_70	on	O
+insert_70	JSON	O
+insert_70	data	O

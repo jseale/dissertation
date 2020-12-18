@@ -1,0 +1,13 @@
+fragment_7	This	O
+fragment_7	fragment	fragment_nou
+fragment_7	of	O
+fragment_7	a	O
+fragment_7	stone	O
+fragment_7	cross	O
+fragment_7	is	O
+fragment_7	located	O
+fragment_7	in	O
+fragment_7	the	O
+fragment_7	church	O
+fragment_7	Kirk	O
+fragment_7	Michael	O

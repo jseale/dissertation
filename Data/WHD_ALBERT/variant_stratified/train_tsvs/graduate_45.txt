@@ -1,0 +1,13 @@
+graduate_45	She	O
+graduate_45	's	O
+graduate_45	taught	O
+graduate_45	graduate	graduate_adj-nou
+graduate_45	level	O
+graduate_45	courses	O
+graduate_45	in	O
+graduate_45	Mediation	O
+graduate_45	Conflict	O
+graduate_45	Resolution	O
+graduate_45	and	O
+graduate_45	Family	O
+graduate_45	Law	O

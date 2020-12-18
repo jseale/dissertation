@@ -1,0 +1,14 @@
+pervert_32	To	O
+pervert_32	many	O
+pervert_32	the	O
+pervert_32	Black	O
+pervert_32	pervert	pervert_nou
+pervert_32	is	O
+pervert_32	the	O
+pervert_32	most	O
+pervert_32	dangerous	O
+pervert_32	threat	O
+pervert_32	to	O
+pervert_32	the	O
+pervert_32	American	O
+pervert_32	ideal	O

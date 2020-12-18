@@ -1,0 +1,13 @@
+invalid_69	Accused	O
+invalid_69	of	O
+invalid_69	helping	O
+invalid_69	her	O
+invalid_69	husband	O
+invalid_69	cause	O
+invalid_69	the	O
+invalid_69	death	O
+invalid_69	of	O
+invalid_69	her	O
+invalid_69	wealthy	O
+invalid_69	invalid	invalid_nou
+invalid_69	employer	O

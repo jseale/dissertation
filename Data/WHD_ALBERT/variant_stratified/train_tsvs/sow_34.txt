@@ -1,0 +1,17 @@
+sow_34	The	O
+sow_34	song	O
+sow_34	Reap	O
+sow_34	What	O
+sow_34	You	O
+sow_34	Sow	sow
+sow_34	is	O
+sow_34	the	O
+sow_34	first	O
+sow_34	song	O
+sow_34	by	O
+sow_34	Powderfinger	O
+sow_34	to	O
+sow_34	have	O
+sow_34	a	O
+sow_34	music	O
+sow_34	video	O

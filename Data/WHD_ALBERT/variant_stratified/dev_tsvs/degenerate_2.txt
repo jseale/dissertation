@@ -1,0 +1,14 @@
+degenerate_2	With	O
+degenerate_2	the	O
+degenerate_2	arrival	O
+degenerate_2	of	O
+degenerate_2	Nazism	O
+degenerate_2	Hofmann	O
+degenerate_2	was	O
+degenerate_2	marginated	O
+degenerate_2	and	O
+degenerate_2	his	O
+degenerate_2	work	O
+degenerate_2	banned	O
+degenerate_2	as	O
+degenerate_2	degenerate	degenerate_adj-nou

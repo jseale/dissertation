@@ -1,0 +1,12 @@
+mobile_5	Police	O
+mobile_5	resources	O
+mobile_5	include;uniformed	O
+mobile_5	and	O
+mobile_5	plain	O
+mobile_5	clothes	O
+mobile_5	police	O
+mobile_5	officers	O
+mobile_5	sniffer	O
+mobile_5	dogs	O
+mobile_5	mobile	mobile
+mobile_5	scanners	O

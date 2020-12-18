@@ -1,0 +1,15 @@
+lives_9	This	O
+lives_9	guy	O
+lives_9	came	O
+lives_9	out	O
+lives_9	with	O
+lives_9	the	O
+lives_9	biggest	O
+lives_9	lady	O
+lives_9	we	O
+lives_9	had	O
+lives_9	ever	O
+lives_9	seen	O
+lives_9	in	O
+lives_9	our	O
+lives_9	lives	lives_nou

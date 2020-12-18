@@ -1,0 +1,15 @@
+lives_8	This	O
+lives_8	sponge	O
+lives_8	lives	lives_vrb
+lives_8	from	O
+lives_8	the	O
+lives_8	subtidal	O
+lives_8	zone	O
+lives_8	and	O
+lives_8	down	O
+lives_8	to	O
+lives_8	at	O
+lives_8	least	O
+lives_8	15	O
+lives_8	m	O
+lives_8	underwater	O

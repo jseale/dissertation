@@ -1,0 +1,9 @@
+discard_8	The	O
+discard_8	computer	O
+discard_8	may	O
+discard_8	discard	discard_vrb
+discard_8	items	O
+discard_8	because	O
+discard_8	they	O
+discard_8	are	O
+discard_8	expired	O

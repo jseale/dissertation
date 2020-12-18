@@ -1,0 +1,9 @@
+degenerate_71	As	O
+degenerate_71	the	O
+degenerate_71	ameloblasts	O
+degenerate_71	degenerate	degenerate_vrb
+degenerate_71	a	O
+degenerate_71	gingival	O
+degenerate_71	sulcus	O
+degenerate_71	is	O
+degenerate_71	created	O

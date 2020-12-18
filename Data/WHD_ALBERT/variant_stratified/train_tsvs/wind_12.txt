@@ -1,0 +1,14 @@
+wind_12	Additionally	O
+wind_12	a	O
+wind_12	strong	O
+wind_12	westerly	O
+wind_12	wind	wind_nou
+wind_12	was	O
+wind_12	greater	O
+wind_12	in	O
+wind_12	strength	O
+wind_12	than	O
+wind_12	it	O
+wind_12	had	O
+wind_12	been	O
+wind_12	forecasted	O

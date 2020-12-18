@@ -1,0 +1,9 @@
+confines_7	Gix	O
+confines_7	flees	O
+confines_7	and	O
+confines_7	hides	O
+confines_7	within	O
+confines_7	the	O
+confines_7	confines	confines_nou
+confines_7	of	O
+confines_7	Koilos	O

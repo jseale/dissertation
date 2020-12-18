@@ -1,0 +1,13 @@
+lives_49	The	O
+lives_49	player	O
+lives_49	controls	O
+lives_49	a	O
+lives_49	child	O
+lives_49	Noah	O
+lives_49	who	O
+lives_49	lives	lives_vrb
+lives_49	in	O
+lives_49	a	O
+lives_49	utopia	O
+lives_49	called	O
+lives_49	Eden	O

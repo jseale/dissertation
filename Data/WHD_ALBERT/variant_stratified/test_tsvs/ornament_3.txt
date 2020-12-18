@@ -1,0 +1,17 @@
+ornament_3	The	O
+ornament_3	roofline	O
+ornament_3	was	O
+ornament_3	generally	O
+ornament_3	clear	O
+ornament_3	of	O
+ornament_3	ornament	ornament_nou
+ornament_3	except	O
+ornament_3	for	O
+ornament_3	a	O
+ornament_3	balustrade	O
+ornament_3	or	O
+ornament_3	the	O
+ornament_3	top	O
+ornament_3	of	O
+ornament_3	a	O
+ornament_3	pediment	O

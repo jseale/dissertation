@@ -1,0 +1,16 @@
+dove_7	The	O
+dove_7	brown	O
+dove_7	cuckoo	O
+dove_7	dove	dove
+dove_7	is	O
+dove_7	from	O
+dove_7	40	O
+dove_7	to	O
+dove_7	43	O
+dove_7	centimetres	O
+dove_7	16	O
+dove_7	to	O
+dove_7	17	O
+dove_7	in	O
+dove_7	in	O
+dove_7	length	O

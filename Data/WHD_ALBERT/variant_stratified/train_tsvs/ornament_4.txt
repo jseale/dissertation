@@ -1,0 +1,15 @@
+ornament_4	The	O
+ornament_4	outside	O
+ornament_4	circle	O
+ornament_4	bears	O
+ornament_4	an	O
+ornament_4	ornament	ornament_nou
+ornament_4	formed	O
+ornament_4	from	O
+ornament_4	three	O
+ornament_4	evenly	O
+ornament_4	spaced	O
+ornament_4	groups	O
+ornament_4	of	O
+ornament_4	curved	O
+ornament_4	bars	O

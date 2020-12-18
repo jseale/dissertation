@@ -1,0 +1,16 @@
+animate_62	It	O
+animate_62	is	O
+animate_62	a	O
+animate_62	facial	O
+animate_62	animation	O
+animate_62	tool	O
+animate_62	that	O
+animate_62	uses	O
+animate_62	voice	O
+animate_62	and	O
+animate_62	text	O
+animate_62	to	O
+animate_62	vividly	O
+animate_62	animate	animate_vrb
+animate_62	facial	O
+animate_62	images	O

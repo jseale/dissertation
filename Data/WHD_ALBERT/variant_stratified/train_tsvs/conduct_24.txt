@@ -1,0 +1,7 @@
+conduct_24	Conduct	conduct_nou
+conduct_24	of	O
+conduct_24	examinations	O
+conduct_24	and	O
+conduct_24	valuation	O
+conduct_24	are	O
+conduct_24	centralized	O

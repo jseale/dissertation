@@ -1,0 +1,14 @@
+tear_64	The	O
+tear_64	injury	O
+tear_64	proved	O
+tear_64	to	O
+tear_64	be	O
+tear_64	a	O
+tear_64	tear	tear_vrb
+tear_64	of	O
+tear_64	Alexander	O
+tear_64	's	O
+tear_64	anterior	O
+tear_64	cruciate	O
+tear_64	ligament	O
+tear_64	ACL	O

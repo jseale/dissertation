@@ -1,0 +1,11 @@
+lead_30	Vishnu	O
+lead_30	featured	O
+lead_30	in	O
+lead_30	the	O
+lead_30	male	O
+lead_30	lead	lead_nou-vrb
+lead_30	role	O
+lead_30	in	O
+lead_30	both	O
+lead_30	these	O
+lead_30	films	O

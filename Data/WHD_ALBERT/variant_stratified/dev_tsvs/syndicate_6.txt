@@ -1,0 +1,15 @@
+syndicate_6	Hagen	O
+syndicate_6	turned	O
+syndicate_6	in	O
+syndicate_6	20	O
+syndicate_6	rough	O
+syndicate_6	drafts	O
+syndicate_6	to	O
+syndicate_6	Creators	O
+syndicate_6	Syndicate	syndicate_nou
+syndicate_6	and	O
+syndicate_6	within	O
+syndicate_6	weeks	O
+syndicate_6	got	O
+syndicate_6	a	O
+syndicate_6	contract	O

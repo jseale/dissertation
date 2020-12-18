@@ -1,0 +1,13 @@
+increment_70	When	O
+increment_70	accessed	O
+increment_70	via	O
+increment_70	memory	O
+increment_70	indirect	O
+increment_70	addressing	O
+increment_70	these	O
+increment_70	locations	O
+increment_70	would	O
+increment_70	automatically	O
+increment_70	increment	increment_vrb
+increment_70	after	O
+increment_70	use	O

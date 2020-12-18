@@ -1,0 +1,17 @@
+laminate_17	Adhesive	O
+laminate_17	felt	O
+laminate_17	pads	O
+laminate_17	are	O
+laminate_17	often	O
+laminate_17	placed	O
+laminate_17	on	O
+laminate_17	the	O
+laminate_17	feet	O
+laminate_17	of	O
+laminate_17	furniture	O
+laminate_17	on	O
+laminate_17	laminate	laminate_nou
+laminate_17	floors	O
+laminate_17	to	O
+laminate_17	prevent	O
+laminate_17	scratching	O

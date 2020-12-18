@@ -1,0 +1,17 @@
+alternate_35	On	O
+alternate_35	the	O
+alternate_35	alternate	alternate_adj-nou
+alternate_35	Sundays	O
+alternate_35	his	O
+alternate_35	father	O
+alternate_35	in	O
+alternate_35	law	O
+alternate_35	served	O
+alternate_35	as	O
+alternate_35	the	O
+alternate_35	parish	O
+alternate_35	's	O
+alternate_35	lay	O
+alternate_35	leader	O
+alternate_35	while	O
+alternate_35	Rev.	O

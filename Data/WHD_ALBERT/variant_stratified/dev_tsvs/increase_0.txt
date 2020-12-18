@@ -1,0 +1,16 @@
+increase_0	This	O
+increase_0	causes	O
+increase_0	an	O
+increase_0	increase	increase_nou
+increase_0	in	O
+increase_0	the	O
+increase_0	intracranial	O
+increase_0	blood	O
+increase_0	volume	O
+increase_0	thereby	O
+increase_0	causing	O
+increase_0	an	O
+increase_0	increase	increase_nou
+increase_0	in	O
+increase_0	intracranial	O
+increase_0	pressure	O

@@ -1,0 +1,17 @@
+sake_6	The	O
+sake_6	final	O
+sake_6	cause	O
+sake_6	is	O
+sake_6	that	O
+sake_6	for	O
+sake_6	the	O
+sake_6	sake	sake
+sake_6	of	O
+sake_6	which	O
+sake_6	the	O
+sake_6	statue	O
+sake_6	is	O
+sake_6	made	O
+sake_6	the	O
+sake_6	actual	O
+sake_6	statue	O

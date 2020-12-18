@@ -1,0 +1,10 @@
+discharge_9	They	O
+discharge_9	all	O
+discharge_9	flow	O
+discharge_9	northwestward	O
+discharge_9	and	O
+discharge_9	discharge	discharge_vrb
+discharge_9	into	O
+discharge_9	the	O
+discharge_9	Baltic	O
+discharge_9	Sea	O

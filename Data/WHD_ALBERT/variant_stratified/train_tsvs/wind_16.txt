@@ -1,0 +1,17 @@
+wind_16	Kareela	O
+wind_16	is	O
+wind_16	derived	O
+wind_16	from	O
+wind_16	an	O
+wind_16	Aboriginal	O
+wind_16	word	O
+wind_16	meaning	O
+wind_16	place	O
+wind_16	of	O
+wind_16	trees	O
+wind_16	and	O
+wind_16	water	O
+wind_16	or	O
+wind_16	alternatively	O
+wind_16	south	O
+wind_16	wind	wind_nou

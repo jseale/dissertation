@@ -1,0 +1,10 @@
+animate_3	However	O
+animate_3	this	O
+animate_3	was	O
+animate_3	not	O
+animate_3	the	O
+animate_3	first	O
+animate_3	attempt	O
+animate_3	to	O
+animate_3	animate	animate_vrb
+animate_3	it	O

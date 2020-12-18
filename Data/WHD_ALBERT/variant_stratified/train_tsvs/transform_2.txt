@@ -1,0 +1,17 @@
+transform_2	Naturally	O
+transform_2	occurring	O
+transform_2	bacteria	O
+transform_2	in	O
+transform_2	the	O
+transform_2	Everglades	O
+transform_2	that	O
+transform_2	function	O
+transform_2	to	O
+transform_2	reduce	O
+transform_2	sulfur	O
+transform_2	also	O
+transform_2	transform	transform
+transform_2	mercury	O
+transform_2	deposits	O
+transform_2	into	O
+transform_2	methylmercury	O

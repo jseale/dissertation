@@ -1,0 +1,17 @@
+fragment_6	Sword	O
+fragment_6	Art	O
+fragment_6	Online	O
+fragment_6	Hollow	O
+fragment_6	Fragment	fragment_nou
+fragment_6	is	O
+fragment_6	a	O
+fragment_6	PlayStation	O
+fragment_6	Vita	O
+fragment_6	game	O
+fragment_6	released	O
+fragment_6	in	O
+fragment_6	Japan	O
+fragment_6	on	O
+fragment_6	April	O
+fragment_6	24	O
+fragment_6	2014	O

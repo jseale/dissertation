@@ -1,0 +1,14 @@
+discard_2	The	O
+discard_2	abundance	O
+discard_2	of	O
+discard_2	artifacts	O
+discard_2	suggests	O
+discard_2	the	O
+discard_2	location	O
+discard_2	a	O
+discard_2	home	O
+discard_2	or	O
+discard_2	possibly	O
+discard_2	a	O
+discard_2	discard	discard_nou
+discard_2	zone	O

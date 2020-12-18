@@ -1,0 +1,9 @@
+sow_2	In	O
+sow_2	this	O
+sow_2	regard	O
+sow_2	sow	sow
+sow_2	thistles	O
+sow_2	make	O
+sow_2	excellent	O
+sow_2	sacrificial	O
+sow_2	plants	O

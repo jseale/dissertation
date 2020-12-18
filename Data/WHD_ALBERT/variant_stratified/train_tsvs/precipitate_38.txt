@@ -1,0 +1,13 @@
+precipitate_38	By	O
+precipitate_38	adding	O
+precipitate_38	a	O
+precipitate_38	reagent	O
+precipitate_38	here	O
+precipitate_38	ammonia	O
+precipitate_38	the	O
+precipitate_38	calcium	O
+precipitate_38	will	O
+precipitate_38	precipitate	precipitate_vrb
+precipitate_38	as	O
+precipitate_38	calcium	O
+precipitate_38	oxalate	O

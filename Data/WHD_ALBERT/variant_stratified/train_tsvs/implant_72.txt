@@ -1,0 +1,13 @@
+implant_72	There	O
+implant_72	are	O
+implant_72	three	O
+implant_72	groups	O
+implant_72	of	O
+implant_72	sustainable	O
+implant_72	implant	implant_nou
+implant_72	criteria	O
+implant_72	environmental	O
+implant_72	spatial	O
+implant_72	and	O
+implant_72	user	O
+implant_72	related	O

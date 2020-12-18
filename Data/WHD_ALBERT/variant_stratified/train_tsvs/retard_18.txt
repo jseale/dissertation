@@ -1,0 +1,14 @@
+retard_18	To	O
+retard_18	retard	retard_vrb
+retard_18	camshaft	O
+retard_18	timing	O
+retard_18	the	O
+retard_18	actuator	O
+retard_18	motor	O
+retard_18	will	O
+retard_18	rotate	O
+retard_18	slightly	O
+retard_18	slower	O
+retard_18	than	O
+retard_18	camshaft	O
+retard_18	speed	O

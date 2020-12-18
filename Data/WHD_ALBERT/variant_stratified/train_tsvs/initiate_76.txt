@@ -1,0 +1,15 @@
+initiate_76	However	O
+initiate_76	they	O
+initiate_76	were	O
+initiate_76	crippled	O
+initiate_76	with	O
+initiate_76	fear	O
+initiate_76	forcing	O
+initiate_76	Galvatron	O
+initiate_76	to	O
+initiate_76	initiate	initiate_vrb
+initiate_76	the	O
+initiate_76	attack	O
+initiate_76	on	O
+initiate_76	Unicron	O
+initiate_76	himself	O

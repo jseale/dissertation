@@ -1,0 +1,11 @@
+approximate_67	NB	O
+approximate_67	The	O
+approximate_67	dates	O
+approximate_67	are	O
+approximate_67	approximate	approximate_adj-nou
+approximate_67	for	O
+approximate_67	most	O
+approximate_67	of	O
+approximate_67	the	O
+approximate_67	early	O
+approximate_67	rulers	O

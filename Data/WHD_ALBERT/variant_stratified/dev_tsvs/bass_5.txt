@@ -1,0 +1,13 @@
+bass_5	The	O
+bass_5	bass	bass
+bass_5	took	O
+bass_5	2	O
+bass_5	years	O
+bass_5	to	O
+bass_5	complete	O
+bass_5	earning	O
+bass_5	it	O
+bass_5	the	O
+bass_5	nickname	O
+bass_5	Slow	O
+bass_5	Joe	O

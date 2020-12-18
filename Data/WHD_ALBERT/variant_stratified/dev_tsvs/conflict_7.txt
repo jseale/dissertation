@@ -1,0 +1,17 @@
+conflict_7	Antigonus	O
+conflict_7	emerged	O
+conflict_7	from	O
+conflict_7	the	O
+conflict_7	conflict	conflict_nou
+conflict_7	as	O
+conflict_7	the	O
+conflict_7	unchallenged	O
+conflict_7	ruler	O
+conflict_7	of	O
+conflict_7	Macedon	O
+conflict_7	and	O
+conflict_7	the	O
+conflict_7	leading	O
+conflict_7	power	O
+conflict_7	in	O
+conflict_7	Greece	O

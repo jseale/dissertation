@@ -1,0 +1,14 @@
+correlate_54	These	O
+correlate_54	characteristics	O
+correlate_54	correlate	correlate_nou-vrb
+correlate_54	with	O
+correlate_54	reduced	O
+correlate_54	ability	O
+correlate_54	to	O
+correlate_54	repair	O
+correlate_54	double	O
+correlate_54	strand	O
+correlate_54	breaks	O
+correlate_54	in	O
+correlate_54	hematopoietic	O
+correlate_54	tissue	O

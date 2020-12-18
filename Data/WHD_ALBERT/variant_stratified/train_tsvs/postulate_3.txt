@@ -1,0 +1,11 @@
+postulate_3	This	O
+postulate_3	conclusion	O
+postulate_3	by	O
+postulate_3	Bunnett	O
+postulate_3	is	O
+postulate_3	a	O
+postulate_3	contradiction	O
+postulate_3	from	O
+postulate_3	the	O
+postulate_3	Hammond	O
+postulate_3	postulate	postulate_nou

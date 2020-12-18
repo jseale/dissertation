@@ -1,0 +1,15 @@
+delegate_24	Notwithstanding	O
+delegate_24	any	O
+delegate_24	such	O
+delegate_24	concerns	O
+delegate_24	Preckwinkle	O
+delegate_24	was	O
+delegate_24	an	O
+delegate_24	Obama	O
+delegate_24	delegate	delegate_nou
+delegate_24	at	O
+delegate_24	the	O
+delegate_24	2008	O
+delegate_24	Democratic	O
+delegate_24	National	O
+delegate_24	Convention	O

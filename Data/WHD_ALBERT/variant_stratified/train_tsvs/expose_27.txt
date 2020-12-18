@@ -1,0 +1,17 @@
+expose_27	Trotsky	O
+expose_27	intended	O
+expose_27	to	O
+expose_27	use	O
+expose_27	the	O
+expose_27	forum	O
+expose_27	to	O
+expose_27	expose	expose_vrb
+expose_27	the	O
+expose_27	NKVD	O
+expose_27	's	O
+expose_27	activities	O
+expose_27	against	O
+expose_27	him	O
+expose_27	and	O
+expose_27	his	O
+expose_27	followers	O

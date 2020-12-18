@@ -1,0 +1,14 @@
+separate_33	Joy	O
+separate_33	in	O
+separate_33	the	O
+separate_33	stage	O
+separate_33	"version:""See"	O
+separate_33	yourself	O
+separate_33	in	O
+separate_33	the	O
+separate_33	mirror	O
+separate_33	you	O
+separate_33	're	O
+separate_33	separate	separate_adj
+separate_33	from	O
+separate_33	yourself	O

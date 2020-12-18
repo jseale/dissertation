@@ -1,0 +1,12 @@
+learned_7	He	O
+learned_7	and	O
+learned_7	his	O
+learned_7	peers	O
+learned_7	learned	learned_vrb
+learned_7	from	O
+learned_7	their	O
+learned_7	work	O
+learned_7	and	O
+learned_7	from	O
+learned_7	each	O
+learned_7	other	O

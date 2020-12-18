@@ -1,0 +1,15 @@
+resume_35	Tomorrow	O
+resume_35	we	O
+resume_35	will	O
+resume_35	resume	resume_vrb
+resume_35	the	O
+resume_35	battle	O
+resume_35	from	O
+resume_35	another	O
+resume_35	trench	O
+resume_35	now	O
+resume_35	protected	O
+resume_35	by	O
+resume_35	more	O
+resume_35	benevolent	O
+resume_35	signs	O

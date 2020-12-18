@@ -1,0 +1,8 @@
+insult_8	After	O
+insult_8	being	O
+insult_8	greeted	O
+insult_8	Vince	O
+insult_8	begins	O
+insult_8	to	O
+insult_8	insult	insult_vrb
+insult_8	Eminem	O

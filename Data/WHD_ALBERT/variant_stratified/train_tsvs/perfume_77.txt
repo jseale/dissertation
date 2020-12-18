@@ -1,0 +1,13 @@
+perfume_77	Atkinsons	O
+perfume_77	of	O
+perfume_77	London	O
+perfume_77	is	O
+perfume_77	a	O
+perfume_77	British	O
+perfume_77	perfume	perfume_nou
+perfume_77	house	O
+perfume_77	founded	O
+perfume_77	in	O
+perfume_77	London	O
+perfume_77	in	O
+perfume_77	1799	O

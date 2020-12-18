@@ -1,0 +1,17 @@
+diffuse_36	As	O
+diffuse_36	the	O
+diffuse_36	body	O
+diffuse_36	ages	O
+diffuse_36	melanocyte	O
+diffuse_36	distribution	O
+diffuse_36	becomes	O
+diffuse_36	less	O
+diffuse_36	diffuse	diffuse_adj
+diffuse_36	and	O
+diffuse_36	its	O
+diffuse_36	regulation	O
+diffuse_36	less	O
+diffuse_36	controlled	O
+diffuse_36	by	O
+diffuse_36	the	O
+diffuse_36	body	O

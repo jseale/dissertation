@@ -1,0 +1,15 @@
+diagnoses_75	Richard	O
+diagnoses_75	collapses	O
+diagnoses_75	and	O
+diagnoses_75	Mr	O
+diagnoses_75	Woodcourt	O
+diagnoses_75	diagnoses	diagnoses_vrb
+diagnoses_75	him	O
+diagnoses_75	as	O
+diagnoses_75	being	O
+diagnoses_75	in	O
+diagnoses_75	the	O
+diagnoses_75	last	O
+diagnoses_75	stages	O
+diagnoses_75	of	O
+diagnoses_75	tuberculosis	O

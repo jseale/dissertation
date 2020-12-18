@@ -1,0 +1,15 @@
+aggregate_31	On	O
+aggregate_31	Metacritic	O
+aggregate_31	the	O
+aggregate_31	album	O
+aggregate_31	holds	O
+aggregate_31	an	O
+aggregate_31	aggregate	aggregate_adj-nou
+aggregate_31	score	O
+aggregate_31	of	O
+aggregate_31	59/100	O
+aggregate_31	indicating	O
+aggregate_31	mixed	O
+aggregate_31	or	O
+aggregate_31	average	O
+aggregate_31	reviews	O

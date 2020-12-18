@@ -1,0 +1,16 @@
+affect_65	Their	O
+affect_65	bearing	O
+affect_65	deportment	O
+affect_65	and	O
+affect_65	behavior	O
+affect_65	both	O
+affect_65	individually	O
+affect_65	and	O
+affect_65	collectively	O
+affect_65	will	O
+affect_65	affect	affect
+affect_65	the	O
+affect_65	return	O
+affect_65	of	O
+affect_65	their	O
+affect_65	privileges	O

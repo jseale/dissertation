@@ -1,0 +1,16 @@
+reading_62	After	O
+reading_62	a	O
+reading_62	bill	O
+reading_62	takes	O
+reading_62	its	O
+reading_62	second	O
+reading_62	reading	reading_en
+reading_62	it	O
+reading_62	is	O
+reading_62	open	O
+reading_62	to	O
+reading_62	debate	O
+reading_62	on	O
+reading_62	amendments	O
+reading_62	and	O
+reading_62	motions	O

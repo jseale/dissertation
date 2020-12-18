@@ -1,0 +1,10 @@
+separate_41	It	O
+separate_41	also	O
+separate_41	issued	O
+separate_41	separate	separate_adj
+separate_41	guidelines	O
+separate_41	for	O
+separate_41	foreign	O
+separate_41	funded	O
+separate_41	payment	O
+separate_41	institutions	O

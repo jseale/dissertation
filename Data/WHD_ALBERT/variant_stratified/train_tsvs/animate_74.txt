@@ -1,0 +1,14 @@
+animate_74	The	O
+animate_74	simulations	O
+animate_74	employ	O
+animate_74	3D	O
+animate_74	graphics	O
+animate_74	and	O
+animate_74	physics	O
+animate_74	based	O
+animate_74	models	O
+animate_74	to	O
+animate_74	animate	animate_vrb
+animate_74	the	O
+animate_74	virtual	O
+animate_74	humans	O

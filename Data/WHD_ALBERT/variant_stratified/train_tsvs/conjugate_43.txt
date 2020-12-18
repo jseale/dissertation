@@ -1,0 +1,12 @@
+conjugate_43	The	O
+conjugate_43	complex	O
+conjugate_43	conjugate	conjugate_adj-nou
+conjugate_43	operator	O
+conjugate_43	is	O
+conjugate_43	an	O
+conjugate_43	antiunitary	O
+conjugate_43	operator	O
+conjugate_43	on	O
+conjugate_43	the	O
+conjugate_43	complex	O
+conjugate_43	plane	O

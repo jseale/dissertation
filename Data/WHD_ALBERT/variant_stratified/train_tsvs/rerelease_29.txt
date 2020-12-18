@@ -1,0 +1,16 @@
+rerelease_29	The	O
+rerelease_29	2006	O
+rerelease_29	CD	O
+rerelease_29	rerelease	rerelease
+rerelease_29	replaces	O
+rerelease_29	the	O
+rerelease_29	album	O
+rerelease_29	track	O
+rerelease_29	version	O
+rerelease_29	of	O
+rerelease_29	Copacabana	O
+rerelease_29	with	O
+rerelease_29	the	O
+rerelease_29	extended	O
+rerelease_29	disco	O
+rerelease_29	version	O

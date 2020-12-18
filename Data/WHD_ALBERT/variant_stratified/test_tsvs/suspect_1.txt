@@ -1,0 +1,16 @@
+suspect_1	Mouloud	O
+suspect_1	Sihali	O
+suspect_1	born	O
+suspect_1	March	O
+suspect_1	1976	O
+suspect_1	in	O
+suspect_1	Algeria	O
+suspect_1	was	O
+suspect_1	a	O
+suspect_1	suspect	suspect_adj-nou
+suspect_1	in	O
+suspect_1	the	O
+suspect_1	Wood	O
+suspect_1	Green	O
+suspect_1	ricin	O
+suspect_1	plot	O

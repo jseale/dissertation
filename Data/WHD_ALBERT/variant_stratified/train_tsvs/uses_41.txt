@@ -1,0 +1,11 @@
+uses_41	State	O
+uses_41	schools	O
+uses_41	on	O
+uses_41	the	O
+uses_41	island	O
+uses_41	now	O
+uses_41	uses	uses_vrb
+uses_41	a	O
+uses_41	two	O
+uses_41	tier	O
+uses_41	system	O

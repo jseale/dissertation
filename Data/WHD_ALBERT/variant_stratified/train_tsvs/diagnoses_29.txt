@@ -1,0 +1,9 @@
+diagnoses_29	The	O
+diagnoses_29	success	O
+diagnoses_29	of	O
+diagnoses_29	treatment	O
+diagnoses_29	depends	O
+diagnoses_29	on	O
+diagnoses_29	the	O
+diagnoses_29	correct	O
+diagnoses_29	diagnoses	diagnoses_nou

@@ -1,0 +1,11 @@
+perfume_36	Lavender	O
+perfume_36	oil	O
+perfume_36	has	O
+perfume_36	long	O
+perfume_36	been	O
+perfume_36	used	O
+perfume_36	in	O
+perfume_36	the	O
+perfume_36	production	O
+perfume_36	of	O
+perfume_36	perfume	perfume_nou

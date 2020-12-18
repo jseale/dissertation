@@ -1,0 +1,13 @@
+impact_43	Applying	O
+impact_43	Item	O
+impact_43	Response	O
+impact_43	theory	O
+impact_43	methods	O
+impact_43	to	O
+impact_43	examine	O
+impact_43	the	O
+impact_43	impact	impact_nou
+impact_43	of	O
+impact_43	different	O
+impact_43	response	O
+impact_43	formats	O

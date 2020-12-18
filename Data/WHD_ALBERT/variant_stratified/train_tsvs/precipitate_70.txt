@@ -1,0 +1,15 @@
+precipitate_70	Most	O
+precipitate_70	families	O
+precipitate_70	of	O
+precipitate_70	dicot	O
+precipitate_70	contain	O
+precipitate_70	tannin	O
+precipitate_70	free	O
+precipitate_70	species	O
+precipitate_70	tested	O
+precipitate_70	by	O
+precipitate_70	their	O
+precipitate_70	ability	O
+precipitate_70	to	O
+precipitate_70	precipitate	precipitate_vrb
+precipitate_70	proteins	O

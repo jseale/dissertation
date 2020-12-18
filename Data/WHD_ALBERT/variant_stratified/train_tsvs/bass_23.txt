@@ -1,0 +1,16 @@
+bass_23	Kona	O
+bass_23	guitars	O
+bass_23	are	O
+bass_23	included	O
+bass_23	in	O
+bass_23	the	O
+bass_23	Acoustic	O
+bass_23	Electric	O
+bass_23	and	O
+bass_23	Electric	O
+bass_23	Bass	bass
+bass_23	Guitar	O
+bass_23	Starter	O
+bass_23	Packs	O
+bass_23	For	O
+bass_23	Dummies	O

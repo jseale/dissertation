@@ -1,0 +1,16 @@
+compound_35	Nothomyrmecia	O
+compound_35	workers	O
+compound_35	feed	O
+compound_35	on	O
+compound_35	nectar	O
+compound_35	and	O
+compound_35	arthropods	O
+compound_35	using	O
+compound_35	their	O
+compound_35	compound	compound_nou
+compound_35	eyes	O
+compound_35	for	O
+compound_35	prey	O
+compound_35	and	O
+compound_35	navigational	O
+compound_35	purposes	O

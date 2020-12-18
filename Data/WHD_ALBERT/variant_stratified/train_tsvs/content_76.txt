@@ -1,0 +1,14 @@
+content_76	The	O
+content_76	channel	O
+content_76	was	O
+content_76	created	O
+content_76	as	O
+content_76	a	O
+content_76	result	O
+content_76	of	O
+content_76	YouTube	O
+content_76	's	O
+content_76	original	O
+content_76	content	content_nou
+content_76	partner	O
+content_76	scheme	O

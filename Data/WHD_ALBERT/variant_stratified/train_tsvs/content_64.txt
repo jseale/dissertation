@@ -1,0 +1,11 @@
+content_64	These	O
+content_64	orbitals	O
+content_64	have	O
+content_64	a	O
+content_64	higher	O
+content_64	energy	O
+content_64	content	content_nou
+content_64	then	O
+content_64	the	O
+content_64	sp	O
+content_64	orbital	O

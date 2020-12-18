@@ -1,0 +1,8 @@
+document_36	The	O
+document_36	document	document_nou
+document_36	was	O
+document_36	written	O
+document_36	by	O
+document_36	an	O
+document_36	unknown	O
+document_36	scribe	O

@@ -1,0 +1,13 @@
+buffet_76	The	O
+buffet_76	statue	O
+buffet_76	had	O
+buffet_76	to	O
+buffet_76	withstand	O
+buffet_76	the	O
+buffet_76	powerful	O
+buffet_76	windsheers	O
+buffet_76	that	O
+buffet_76	buffet	buffet_vrb
+buffet_76	the	O
+buffet_76	ridge	O
+buffet_76	tops	O

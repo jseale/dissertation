@@ -1,0 +1,17 @@
+defect_71	He	O
+defect_71	stated	O
+defect_71	that	O
+defect_71	he	O
+defect_71	does	O
+defect_71	not	O
+defect_71	regret	O
+defect_71	his	O
+defect_71	decision	O
+defect_71	to	O
+defect_71	defect	defect_vrb
+defect_71	from	O
+defect_71	North	O
+defect_71	Korea	O
+defect_71	to	O
+defect_71	South	O
+defect_71	Korea	O

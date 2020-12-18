@@ -1,0 +1,16 @@
+sake_9	Sake	sake_jp
+sake_9	cups	O
+sake_9	left	O
+sake_9	at	O
+sake_9	each	O
+sake_9	murder	O
+sake_9	scene	O
+sake_9	links	O
+sake_9	the	O
+sake_9	three	O
+sake_9	together	O
+sake_9	in	O
+sake_9	a	O
+sake_9	serial	O
+sake_9	murder	O
+sake_9	case	O

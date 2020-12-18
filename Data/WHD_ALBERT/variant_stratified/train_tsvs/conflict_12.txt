@@ -1,0 +1,16 @@
+conflict_12	In	O
+conflict_12	many	O
+conflict_12	locations	O
+conflict_12	agencies	O
+conflict_12	may	O
+conflict_12	face	O
+conflict_12	unclear	O
+conflict_12	or	O
+conflict_12	overlapping	O
+conflict_12	authority	O
+conflict_12	increasing	O
+conflict_12	conflicts	O
+conflict_12	and	O
+conflict_12	delaying	O
+conflict_12	conflict	conflict_nou
+conflict_12	resolution	O

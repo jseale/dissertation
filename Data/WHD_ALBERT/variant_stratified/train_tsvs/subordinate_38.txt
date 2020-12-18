@@ -1,0 +1,14 @@
+subordinate_38	It	O
+subordinate_38	is	O
+subordinate_38	subordinate	subordinate_adj-nou
+subordinate_38	to	O
+subordinate_38	the	O
+subordinate_38	Federal	O
+subordinate_38	Ministry	O
+subordinate_38	of	O
+subordinate_38	the	O
+subordinate_38	Interior	O
+subordinate_38	Bundesministerium	O
+subordinate_38	des	O
+subordinate_38	Innern	O
+subordinate_38	BMI	O

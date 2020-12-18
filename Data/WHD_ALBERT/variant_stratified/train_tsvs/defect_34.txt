@@ -1,0 +1,17 @@
+defect_34	The	O
+defect_34	main	O
+defect_34	defect	defect_nou
+defect_34	of	O
+defect_34	ID	O
+defect_34	speakers	O
+defect_34	was	O
+defect_34	very	O
+defect_34	poor	O
+defect_34	treble	O
+defect_34	response	O
+defect_34	giving	O
+defect_34	them	O
+defect_34	a	O
+defect_34	characteristic	O
+defect_34	dull	O
+defect_34	drone	O

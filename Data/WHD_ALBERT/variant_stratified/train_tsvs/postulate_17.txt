@@ -1,0 +1,13 @@
+postulate_17	Another	O
+postulate_17	postulate	postulate_nou
+postulate_17	of	O
+postulate_17	special	O
+postulate_17	relativity	O
+postulate_17	is	O
+postulate_17	the	O
+postulate_17	constancy	O
+postulate_17	of	O
+postulate_17	the	O
+postulate_17	speed	O
+postulate_17	of	O
+postulate_17	light	O

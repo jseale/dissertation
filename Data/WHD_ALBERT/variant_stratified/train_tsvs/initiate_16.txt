@@ -1,0 +1,17 @@
+initiate_16	The	O
+initiate_16	first	O
+initiate_16	ruler	O
+initiate_16	to	O
+initiate_16	initiate	initiate_vrb
+initiate_16	the	O
+initiate_16	building	O
+initiate_16	of	O
+initiate_16	palaces	O
+initiate_16	was	O
+initiate_16	King	O
+initiate_16	Houegbadja	O
+initiate_16	who	O
+initiate_16	had	O
+initiate_16	founded	O
+initiate_16	the	O
+initiate_16	city	O

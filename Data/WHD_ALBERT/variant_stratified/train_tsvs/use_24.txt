@@ -1,0 +1,17 @@
+use_24	Without	O
+use_24	the	O
+use_24	use	use_nou
+use_24	of	O
+use_24	that	O
+use_24	confession	O
+use_24	it	O
+use_24	is	O
+use_24	unlikely	O
+use_24	that	O
+use_24	there	O
+use_24	is	O
+use_24	sufficient	O
+use_24	evidence	O
+use_24	to	O
+use_24	retry	O
+use_24	him	O

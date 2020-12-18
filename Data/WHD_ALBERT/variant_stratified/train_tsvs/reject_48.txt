@@ -1,0 +1,16 @@
+reject_48	Within	O
+reject_48	the	O
+reject_48	Jewish	O
+reject_48	community	O
+reject_48	many	O
+reject_48	reject	reject_vrb
+reject_48	Fackenheim	O
+reject_48	's	O
+reject_48	assertion	O
+reject_48	that	O
+reject_48	this	O
+reject_48	could	O
+reject_48	be	O
+reject_48	called	O
+reject_48	a	O
+reject_48	commandment	O

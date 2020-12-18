@@ -1,0 +1,15 @@
+advocate_51	Eric	O
+advocate_51	was	O
+advocate_51	a	O
+advocate_51	keen	O
+advocate_51	advocate	advocate_nou
+advocate_51	of	O
+advocate_51	human	O
+advocate_51	rights	O
+advocate_51	and	O
+advocate_51	the	O
+advocate_51	separation	O
+advocate_51	of	O
+advocate_51	church	O
+advocate_51	and	O
+advocate_51	state	O

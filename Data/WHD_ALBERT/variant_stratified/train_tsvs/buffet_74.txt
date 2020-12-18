@@ -1,0 +1,13 @@
+buffet_74	McLaughlin	O
+buffet_74	won	O
+buffet_74	and	O
+buffet_74	remained	O
+buffet_74	the	O
+buffet_74	representative	O
+buffet_74	until	O
+buffet_74	1943	O
+buffet_74	succeeded	O
+buffet_74	by	O
+buffet_74	Howard	O
+buffet_74	H.	O
+buffet_74	Buffet	buffet_vrb

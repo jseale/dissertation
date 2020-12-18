@@ -1,0 +1,14 @@
+animate_32	After	O
+animate_32	viewing	O
+animate_32	Duncan	O
+animate_32	's	O
+animate_32	online	O
+animate_32	portfolio	O
+animate_32	LaPlegua	O
+animate_32	quickly	O
+animate_32	asked	O
+animate_32	Duncan	O
+animate_32	to	O
+animate_32	animate	animate_vrb
+animate_32	the	O
+animate_32	video	O

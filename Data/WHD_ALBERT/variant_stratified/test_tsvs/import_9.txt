@@ -1,0 +1,13 @@
+import_9	These	O
+import_9	connections	O
+import_9	have	O
+import_9	primarily	O
+import_9	been	O
+import_9	used	O
+import_9	to	O
+import_9	import	import_vrb
+import_9	and	O
+import_9	export	O
+import_9	electricity	O
+import_9	during	O
+import_9	emergencies	O

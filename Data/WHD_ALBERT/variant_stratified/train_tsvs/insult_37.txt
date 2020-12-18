@@ -1,0 +1,10 @@
+insult_37	The	O
+insult_37	New	O
+insult_37	York	O
+insult_37	media	O
+insult_37	portrayed	O
+insult_37	the	O
+insult_37	offer	O
+insult_37	as	O
+insult_37	an	O
+insult_37	insult	insult_nou

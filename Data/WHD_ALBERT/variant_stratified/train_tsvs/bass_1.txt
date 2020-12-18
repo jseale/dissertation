@@ -1,0 +1,11 @@
+bass_1	Yet	O
+bass_1	BHarv	O
+bass_1	is	O
+bass_1	best	O
+bass_1	known	O
+bass_1	for	O
+bass_1	his	O
+bass_1	mastery	O
+bass_1	of	O
+bass_1	the	O
+bass_1	bass	bass

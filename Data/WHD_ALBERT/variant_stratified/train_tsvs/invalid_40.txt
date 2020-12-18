@@ -1,0 +1,13 @@
+invalid_40	About	O
+invalid_40	25	O
+invalid_40	invalid	invalid_adj
+invalid_40	votes	O
+invalid_40	were	O
+invalid_40	recorded	O
+invalid_40	in	O
+invalid_40	the	O
+invalid_40	congressional	O
+invalid_40	election	O
+invalid_40	in	O
+invalid_40	the	O
+invalid_40	district	O

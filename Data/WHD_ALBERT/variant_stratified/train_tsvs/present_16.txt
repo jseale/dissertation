@@ -1,0 +1,15 @@
+present_16	This	O
+present_16	change	O
+present_16	allowed	O
+present_16	the	O
+present_16	present	present_adj-nou
+present_16	Queen	O
+present_16	to	O
+present_16	become	O
+present_16	heir	O
+present_16	presumptive	O
+present_16	and	O
+present_16	eventually	O
+present_16	inherit	O
+present_16	the	O
+present_16	throne	O

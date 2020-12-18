@@ -1,0 +1,17 @@
+discount_3	All	O
+discount_3	premium	O
+discount_3	long	O
+discount_3	distance	O
+discount_3	trains	O
+discount_3	generally	O
+discount_3	share	O
+discount_3	the	O
+discount_3	same	O
+discount_3	discount	discount_nou
+discount_3	schemes	O
+discount_3	even	O
+discount_3	though	O
+discount_3	their	O
+discount_3	fares	O
+discount_3	may	O
+discount_3	differ	O

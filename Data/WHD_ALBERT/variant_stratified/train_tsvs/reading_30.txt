@@ -1,0 +1,13 @@
+reading_30	Dismissing	O
+reading_30	the	O
+reading_30	theory	O
+reading_30	as	O
+reading_30	based	O
+reading_30	on	O
+reading_30	a	O
+reading_30	faulty	O
+reading_30	reading	reading_en
+reading_30	of	O
+reading_30	the	O
+reading_30	original	O
+reading_30	text	O

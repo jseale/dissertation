@@ -1,0 +1,10 @@
+fragment_3	The	O
+fragment_3	measurements	O
+fragment_3	of	O
+fragment_3	the	O
+fragment_3	fragment	fragment_nou
+fragment_3	are	O
+fragment_3	216	O
+fragment_3	by	O
+fragment_3	530	O
+fragment_3	mm	O

@@ -1,0 +1,9 @@
+transport_42	All	O
+transport_42	services	O
+transport_42	are	O
+transport_42	operated	O
+transport_42	by	O
+transport_42	the	O
+transport_42	Public	O
+transport_42	Transport	transport_nou
+transport_42	Authority	O

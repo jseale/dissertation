@@ -1,0 +1,14 @@
+analyses_57	Thus	O
+analyses_57	morphological	O
+analyses_57	analyses	analyses_nou
+analyses_57	are	O
+analyses_57	not	O
+analyses_57	able	O
+analyses_57	to	O
+analyses_57	uncover	O
+analyses_57	realistic	O
+analyses_57	phylogenetical	O
+analyses_57	relationships	O
+analyses_57	neither	O
+analyses_57	appropriate	O
+analyses_57	taxonomy	O

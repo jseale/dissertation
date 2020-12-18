@@ -1,0 +1,10 @@
+sow_55	He	O
+sow_55	nicknamed	O
+sow_55	her	O
+sow_55	Mei	O
+sow_55	Zhu	O
+sow_55	which	O
+sow_55	means	O
+sow_55	Beautiful	O
+sow_55	Sow	sow_nou
+sow_55	美豬	O

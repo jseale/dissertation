@@ -1,0 +1,12 @@
+close_35	Up	O
+close_35	close	close_adj-nou
+close_35	Carol	O
+close_35	Jerrems	O
+close_35	with	O
+close_35	Larry	O
+close_35	Clark	O
+close_35	Nan	O
+close_35	Goldin	O
+close_35	and	O
+close_35	William	O
+close_35	Yang	O

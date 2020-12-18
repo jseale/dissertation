@@ -1,0 +1,8 @@
+ornament_12	The	O
+ornament_12	garment	O
+ornament_12	varied	O
+ornament_12	in	O
+ornament_12	fineness	O
+ornament_12	colour	O
+ornament_12	and	O
+ornament_12	ornament	ornament_nou

@@ -1,0 +1,15 @@
+rebel_49	She	O
+rebel_49	appears	O
+rebel_49	as	O
+rebel_49	a	O
+rebel_49	rebel	rebel_nou
+rebel_49	that	O
+rebel_49	does	O
+rebel_49	n't	O
+rebel_49	let	O
+rebel_49	any	O
+rebel_49	authority	O
+rebel_49	interfere	O
+rebel_49	in	O
+rebel_49	her	O
+rebel_49	life	O

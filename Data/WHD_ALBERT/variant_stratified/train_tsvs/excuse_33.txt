@@ -1,0 +1,17 @@
+excuse_33	Such	O
+excuse_33	barbarity	O
+excuse_33	gave	O
+excuse_33	the	O
+excuse_33	Knights	O
+excuse_33	an	O
+excuse_33	excuse	excuse_nou
+excuse_33	not	O
+excuse_33	to	O
+excuse_33	treat	O
+excuse_33	the	O
+excuse_33	Prussians	O
+excuse_33	as	O
+excuse_33	civilized	O
+excuse_33	and	O
+excuse_33	honorable	O
+excuse_33	people	O

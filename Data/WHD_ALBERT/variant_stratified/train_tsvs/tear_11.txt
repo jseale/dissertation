@@ -1,0 +1,13 @@
+tear_11	Police	O
+tear_11	responded	O
+tear_11	with	O
+tear_11	tear	tear_nou
+tear_11	gas	O
+tear_11	the	O
+tear_11	squatters	O
+tear_11	with	O
+tear_11	slingshots	O
+tear_11	fireworks	O
+tear_11	and	O
+tear_11	Molotov	O
+tear_11	cocktails	O

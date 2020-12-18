@@ -1,0 +1,9 @@
+pasty_46	Pasty	pasty_adj
+pasty_46	varieties	O
+pasty_46	include	O
+pasty_46	chicken	O
+pasty_46	venison	O
+pasty_46	pork	O
+pasty_46	hamburger	O
+pasty_46	and	O
+pasty_46	pizza	O

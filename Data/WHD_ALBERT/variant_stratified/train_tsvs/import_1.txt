@@ -1,0 +1,14 @@
+import_1	The	O
+import_1	cargo	O
+import_1	complex	O
+import_1	consists	O
+import_1	of	O
+import_1	two	O
+import_1	divisions	O
+import_1	namely	O
+import_1	the	O
+import_1	export	O
+import_1	and	O
+import_1	the	O
+import_1	import	import_nou
+import_1	facilities	O

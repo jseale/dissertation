@@ -1,0 +1,12 @@
+degenerate_6	Stellar	O
+degenerate_6	Configurations	O
+degenerate_6	with	O
+degenerate_6	degenerate	degenerate_adj-nou
+degenerate_6	Cores	O
+degenerate_6	S.	O
+degenerate_6	Chandrasekhar	O
+degenerate_6	The	O
+degenerate_6	Observatory	O
+degenerate_6	57	O
+degenerate_6	1934	O
+degenerate_6	pp	O

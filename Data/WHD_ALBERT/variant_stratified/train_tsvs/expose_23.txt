@@ -1,0 +1,12 @@
+expose_23	Exposures	O
+expose_23	of	O
+expose_23	the	O
+expose_23	Shinumo	O
+expose_23	Quartzite	O
+expose_23	and	O
+expose_23	Dox	O
+expose_23	Formation	O
+expose_23	expose	expose_vrb
+expose_23	several	O
+expose_23	basaltic	O
+expose_23	dikes	O

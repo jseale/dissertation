@@ -1,0 +1,17 @@
+combine_55	At	O
+combine_55	elevated	O
+combine_55	temperatures	O
+combine_55	the	O
+combine_55	vapors	O
+combine_55	of	O
+combine_55	the	O
+combine_55	metal	O
+combine_55	combine	combine_vrb
+combine_55	rapidly	O
+combine_55	with	O
+combine_55	oxygen	O
+combine_55	forming	O
+combine_55	the	O
+combine_55	yellow	O
+combine_55	trioxide	O
+combine_55	Bi2O3	O

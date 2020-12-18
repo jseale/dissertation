@@ -1,0 +1,16 @@
+confines_9	She	O
+confines_9	wears	O
+confines_9	a	O
+confines_9	red	O
+confines_9	flat	O
+confines_9	hat	O
+confines_9	over	O
+confines_9	a	O
+confines_9	small	O
+confines_9	cap	O
+confines_9	or	O
+confines_9	caul	O
+confines_9	that	O
+confines_9	confines	confines_vrb
+confines_9	her	O
+confines_9	hair	O

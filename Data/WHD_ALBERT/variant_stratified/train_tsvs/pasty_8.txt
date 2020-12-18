@@ -1,0 +1,15 @@
+pasty_8	The	O
+pasty_8	Cornish	O
+pasty_8	Pasty	pasty_adj
+pasty_8	Association	O
+pasty_8	is	O
+pasty_8	a	O
+pasty_8	British	O
+pasty_8	trade	O
+pasty_8	association	O
+pasty_8	based	O
+pasty_8	in	O
+pasty_8	Cornwall	O
+pasty_8	England	O
+pasty_8	United	O
+pasty_8	Kingdom	O

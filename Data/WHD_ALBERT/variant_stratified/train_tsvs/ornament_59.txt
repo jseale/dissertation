@@ -1,0 +1,14 @@
+ornament_59	Because	O
+ornament_59	of	O
+ornament_59	this	O
+ornament_59	ornament	ornament_nou
+ornament_59	the	O
+ornament_59	building	O
+ornament_59	is	O
+ornament_59	sometimes	O
+ornament_59	referred	O
+ornament_59	to	O
+ornament_59	as	O
+ornament_59	the	O
+ornament_59	Beehive	O
+ornament_59	Building	O

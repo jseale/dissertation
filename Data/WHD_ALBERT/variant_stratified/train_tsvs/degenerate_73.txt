@@ -1,0 +1,13 @@
+degenerate_73	Once	O
+degenerate_73	the	O
+degenerate_73	thyroglossal	O
+degenerate_73	duct	O
+degenerate_73	involutes	O
+degenerate_73	the	O
+degenerate_73	cells	O
+degenerate_73	will	O
+degenerate_73	begin	O
+degenerate_73	to	O
+degenerate_73	degenerate	degenerate_vrb
+degenerate_73	and	O
+degenerate_73	disappear	O

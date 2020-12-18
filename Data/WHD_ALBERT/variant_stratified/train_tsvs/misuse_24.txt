@@ -1,0 +1,14 @@
+misuse_24	And	O
+misuse_24	that	O
+misuse_24	is	O
+misuse_24	not	O
+misuse_24	patent	O
+misuse_24	misuse	misuse_nou
+misuse_24	under	O
+misuse_24	any	O
+misuse_24	court	O
+misuse_24	's	O
+misuse_24	definition	O
+misuse_24	of	O
+misuse_24	the	O
+misuse_24	term	O

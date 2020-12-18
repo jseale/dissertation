@@ -1,0 +1,11 @@
+increase_8	Their	O
+increase_8	aim	O
+increase_8	is	O
+increase_8	to	O
+increase_8	increase	increase_vrb
+increase_8	the	O
+increase_8	consumption	O
+increase_8	of	O
+increase_8	bread	O
+increase_8	and	O
+increase_8	cereals	O

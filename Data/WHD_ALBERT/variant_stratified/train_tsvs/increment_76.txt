@@ -1,0 +1,16 @@
+increment_76	On	O
+increment_76	the	O
+increment_76	other	O
+increment_76	hand	O
+increment_76	if	O
+increment_76	D	O
+increment_76	deems	O
+increment_76	ADRLD	O
+increment_76	satisfactory	O
+increment_76	then	O
+increment_76	H	O
+increment_76	will	O
+increment_76	increment	increment_vrb
+increment_76	R	O
+increment_76	to	O
+increment_76	6	O

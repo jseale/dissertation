@@ -1,0 +1,7 @@
+consummate_40	For	O
+consummate_40	consummate	consummate_adj
+consummate_40	bravery	O
+consummate_40	asks	O
+consummate_40	for	O
+consummate_40	consummate	consummate_adj
+consummate_40	cause	O

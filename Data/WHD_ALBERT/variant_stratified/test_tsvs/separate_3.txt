@@ -1,0 +1,12 @@
+separate_3	It	O
+separate_3	consists	O
+separate_3	of	O
+separate_3	the	O
+separate_3	originally	O
+separate_3	separate	separate_adj
+separate_3	villages	O
+separate_3	of	O
+separate_3	Ober-	O
+separate_3	and	O
+separate_3	Unter	O
+separate_3	Berikon	O

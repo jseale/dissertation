@@ -1,0 +1,13 @@
+graduate_9	In	O
+graduate_9	1961	O
+graduate_9	he	O
+graduate_9	graduated	O
+graduate_9	from	O
+graduate_9	Stanford	O
+graduate_9	Graduate	graduate_adj-nou
+graduate_9	School	O
+graduate_9	of	O
+graduate_9	Business	O
+graduate_9	with	O
+graduate_9	an	O
+graduate_9	MBA	O

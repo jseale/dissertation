@@ -1,0 +1,10 @@
+attribute_3	Any	O
+attribute_3	probabilities	O
+attribute_3	are	O
+attribute_3	computed	O
+attribute_3	from	O
+attribute_3	the	O
+attribute_3	attribute	attribute_nou
+attribute_3	counts	O
+attribute_3	as	O
+attribute_3	needed	O

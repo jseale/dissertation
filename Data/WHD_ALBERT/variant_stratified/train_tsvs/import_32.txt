@@ -1,0 +1,15 @@
+import_32	In	O
+import_32	Selangor	O
+import_32	import	import_nou
+import_32	tax	O
+import_32	on	O
+import_32	opium	O
+import_32	were	O
+import_32	collected	O
+import_32	by	O
+import_32	the	O
+import_32	Chinese	O
+import_32	People	O
+import_32	Affairs	O
+import_32	Protection	O
+import_32	Officers	O

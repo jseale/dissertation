@@ -1,0 +1,9 @@
+lives_39	She	O
+lives_39	lives	lives_vrb
+lives_39	in	O
+lives_39	the	O
+lives_39	Lasalle	O
+lives_39	borough	O
+lives_39	of	O
+lives_39	Montreal	O
+lives_39	Quebec	O

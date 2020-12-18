@@ -1,0 +1,14 @@
+alternate_34	These	O
+alternate_34	monsters	O
+alternate_34	live	O
+alternate_34	in	O
+alternate_34	the	O
+alternate_34	Never	O
+alternate_34	Was	O
+alternate_34	an	O
+alternate_34	alternate	alternate_adj-nou
+alternate_34	world	O
+alternate_34	where	O
+alternate_34	they	O
+alternate_34	are	O
+alternate_34	imprisoned	O

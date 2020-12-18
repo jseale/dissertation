@@ -1,0 +1,14 @@
+transform_70	The	O
+transform_70	eastern	O
+transform_70	sides	O
+transform_70	of	O
+transform_70	these	O
+transform_70	floodplains	O
+transform_70	are	O
+transform_70	bounded	O
+transform_70	by	O
+transform_70	strike	O
+transform_70	slip	O
+transform_70	or	O
+transform_70	transform	transform_nou
+transform_70	faults	O

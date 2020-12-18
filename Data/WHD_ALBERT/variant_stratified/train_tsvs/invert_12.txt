@@ -1,0 +1,17 @@
+invert_12	Another	O
+invert_12	common	O
+invert_12	offense	O
+invert_12	is	O
+invert_12	known	O
+invert_12	as	O
+invert_12	the	O
+invert_12	invert	invert_adj-nou
+invert_12	and	O
+invert_12	is	O
+invert_12	more	O
+invert_12	commonly	O
+invert_12	used	O
+invert_12	at	O
+invert_12	the	O
+invert_12	college	O
+invert_12	level	O

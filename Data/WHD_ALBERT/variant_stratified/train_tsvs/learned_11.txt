@@ -1,0 +1,12 @@
+learned_11	In	O
+learned_11	early	O
+learned_11	2016	O
+learned_11	John	O
+learned_11	finally	O
+learned_11	learned	learned_vrb
+learned_11	the	O
+learned_11	truth	O
+learned_11	behind	O
+learned_11	his	O
+learned_11	murky	O
+learned_11	past	O

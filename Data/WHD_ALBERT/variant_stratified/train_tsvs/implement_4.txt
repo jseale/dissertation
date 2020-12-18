@@ -1,0 +1,13 @@
+implement_4	The	O
+implement_4	implement	implement_nou
+implement_4	is	O
+implement_4	thrown	O
+implement_4	using	O
+implement_4	one	O
+implement_4	hand	O
+implement_4	only	O
+implement_4	but	O
+implement_4	otherwise	O
+implement_4	using	O
+implement_4	any	O
+implement_4	technique	O

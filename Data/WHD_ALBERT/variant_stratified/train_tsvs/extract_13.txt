@@ -1,0 +1,13 @@
+extract_13	McCrory	O
+extract_13	signs	O
+extract_13	9	O
+extract_13	bills	O
+extract_13	including	O
+extract_13	changes	O
+extract_13	to	O
+extract_13	law	O
+extract_13	allowing	O
+extract_13	use	O
+extract_13	of	O
+extract_13	marijuana	O
+extract_13	extract	extract_nou

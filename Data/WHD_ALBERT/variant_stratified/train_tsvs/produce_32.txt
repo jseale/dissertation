@@ -1,0 +1,13 @@
+produce_32	It	O
+produce_32	can	O
+produce_32	also	O
+produce_32	produce	produce_vrb
+produce_32	high	O
+produce_32	quality	O
+produce_32	oil	O
+produce_32	but	O
+produce_32	this	O
+produce_32	is	O
+produce_32	hard	O
+produce_32	to	O
+produce_32	extract	O

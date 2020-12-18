@@ -1,0 +1,15 @@
+precipitate_15	Precipitate	precipitate_adj-nou
+precipitate_15	formation	O
+precipitate_15	is	O
+precipitate_15	useful	O
+precipitate_15	in	O
+precipitate_15	the	O
+precipitate_15	detection	O
+precipitate_15	of	O
+precipitate_15	the	O
+precipitate_15	type	O
+precipitate_15	of	O
+precipitate_15	cation	O
+precipitate_15	in	O
+precipitate_15	a	O
+precipitate_15	salt	O

@@ -1,0 +1,15 @@
+rodeo_21	There	O
+rodeo_21	were	O
+rodeo_21	far	O
+rodeo_21	fewer	O
+rodeo_21	women	O
+rodeo_21	than	O
+rodeo_21	men	O
+rodeo_21	in	O
+rodeo_21	rodeo	rodeo
+rodeo_21	so	O
+rodeo_21	women	O
+rodeo_21	's	O
+rodeo_21	events	O
+rodeo_21	were	O
+rodeo_21	cut	O

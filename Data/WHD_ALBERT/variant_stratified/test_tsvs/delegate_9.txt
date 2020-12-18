@@ -1,0 +1,14 @@
+delegate_9	104	O
+delegate_9	of	O
+delegate_9	1956	O
+delegate_9	which	O
+delegate_9	include	O
+delegate_9	the	O
+delegate_9	faculty	O
+delegate_9	to	O
+delegate_9	appoint	O
+delegate_9	officers	O
+delegate_9	and	O
+delegate_9	to	O
+delegate_9	delegate	delegate_vrb
+delegate_9	functions	O

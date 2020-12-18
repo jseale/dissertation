@@ -1,0 +1,16 @@
+frequent_5	These	O
+frequent_5	names	O
+frequent_5	were	O
+frequent_5	given	O
+frequent_5	to	O
+frequent_5	the	O
+frequent_5	painter	O
+frequent_5	because	O
+frequent_5	of	O
+frequent_5	the	O
+frequent_5	frequent	frequent_adj
+frequent_5	representation	O
+frequent_5	of	O
+frequent_5	the	O
+frequent_5	Palatinate	O
+frequent_5	princes	O

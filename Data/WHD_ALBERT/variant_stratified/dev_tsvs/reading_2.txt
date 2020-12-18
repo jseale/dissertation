@@ -1,0 +1,17 @@
+reading_2	Patrick	O
+reading_2	Nye	O
+reading_2	joined	O
+reading_2	the	O
+reading_2	Laboratories	O
+reading_2	to	O
+reading_2	lead	O
+reading_2	a	O
+reading_2	team	O
+reading_2	working	O
+reading_2	on	O
+reading_2	the	O
+reading_2	reading	reading_en
+reading_2	machine	O
+reading_2	for	O
+reading_2	the	O
+reading_2	blind	O

@@ -1,0 +1,12 @@
+discount_21	Team	O
+discount_21	meals	O
+discount_21	are	O
+discount_21	also	O
+discount_21	available	O
+discount_21	at	O
+discount_21	a	O
+discount_21	discount	discount_nou
+discount_21	when	O
+discount_21	ordered	O
+discount_21	in	O
+discount_21	advance	O

@@ -1,0 +1,14 @@
+wind_64	Through	O
+wind_64	the	O
+wind_64	remainder	O
+wind_64	of	O
+wind_64	the	O
+wind_64	day	O
+wind_64	the	O
+wind_64	wind	wind_nou
+wind_64	gradually	O
+wind_64	changed	O
+wind_64	to	O
+wind_64	a	O
+wind_64	westerly	O
+wind_64	direction	O

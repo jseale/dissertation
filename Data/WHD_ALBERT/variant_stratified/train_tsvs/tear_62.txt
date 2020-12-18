@@ -1,0 +1,15 @@
+tear_62	Fixed	O
+tear_62	assets	O
+tear_62	depreciate	O
+tear_62	in	O
+tear_62	value	O
+tear_62	over	O
+tear_62	time	O
+tear_62	due	O
+tear_62	to	O
+tear_62	wear	O
+tear_62	and	O
+tear_62	tear	tear_vrb
+tear_62	and	O
+tear_62	market	O
+tear_62	obsolescence	O

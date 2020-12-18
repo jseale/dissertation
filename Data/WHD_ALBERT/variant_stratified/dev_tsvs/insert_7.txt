@@ -1,0 +1,13 @@
+insert_7	Personal	O
+insert_7	reel	O
+insert_7	mounts	O
+insert_7	were	O
+insert_7	available	O
+insert_7	with	O
+insert_7	special	O
+insert_7	pockets	O
+insert_7	to	O
+insert_7	insert	insert_vrb
+insert_7	the	O
+insert_7	film	O
+insert_7	chips	O

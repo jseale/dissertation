@@ -1,0 +1,14 @@
+close_4	Sheesh	O
+close_4	Mahal	O
+close_4	was	O
+close_4	reserved	O
+close_4	for	O
+close_4	personal	O
+close_4	use	O
+close_4	by	O
+close_4	the	O
+close_4	imperial	O
+close_4	family	O
+close_4	and	O
+close_4	close	close_adj-nou
+close_4	aides	O

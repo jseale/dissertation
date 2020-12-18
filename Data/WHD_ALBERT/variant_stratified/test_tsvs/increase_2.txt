@@ -1,0 +1,14 @@
+increase_2	Consider	O
+increase_2	what	O
+increase_2	happens	O
+increase_2	when	O
+increase_2	TCP	O
+increase_2	sends	O
+increase_2	a	O
+increase_2	segment	O
+increase_2	after	O
+increase_2	a	O
+increase_2	sharp	O
+increase_2	increase	increase_nou
+increase_2	in	O
+increase_2	delay	O

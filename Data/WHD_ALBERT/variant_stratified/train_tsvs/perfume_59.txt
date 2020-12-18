@@ -1,0 +1,15 @@
+perfume_59	The	O
+perfume_59	scent	O
+perfume_59	of	O
+perfume_59	a	O
+perfume_59	perfume	perfume_nou
+perfume_59	that	O
+perfume_59	appears	O
+perfume_59	close	O
+perfume_59	to	O
+perfume_59	the	O
+perfume_59	departure	O
+perfume_59	of	O
+perfume_59	the	O
+perfume_59	middle	O
+perfume_59	notes	O

@@ -1,0 +1,12 @@
+rodeo_5	The	O
+rodeo_5	Rodeo	rodeo
+rodeo_5	is	O
+rodeo_5	held	O
+rodeo_5	traditionally	O
+rodeo_5	on	O
+rodeo_5	or	O
+rodeo_5	around	O
+rodeo_5	the	O
+rodeo_5	4th	O
+rodeo_5	of	O
+rodeo_5	July	O

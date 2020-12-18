@@ -1,0 +1,11 @@
+ornament_52	Shoe	O
+ornament_52	wes	O
+ornament_52	dureing	O
+ornament_52	her	O
+ornament_52	dayes	O
+ornament_52	a	O
+ornament_52	great	O
+ornament_52	ornament	ornament_nou
+ornament_52	to	O
+ornament_52	that	O
+ornament_52	familie	O

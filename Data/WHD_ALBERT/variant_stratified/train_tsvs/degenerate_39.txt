@@ -1,0 +1,15 @@
+degenerate_39	Degenerate	degenerate_adj-nou
+degenerate_39	stars	O
+degenerate_39	have	O
+degenerate_39	contracted	O
+degenerate_39	into	O
+degenerate_39	a	O
+degenerate_39	compact	O
+degenerate_39	mass	O
+degenerate_39	resulting	O
+degenerate_39	in	O
+degenerate_39	a	O
+degenerate_39	rapid	O
+degenerate_39	rate	O
+degenerate_39	of	O
+degenerate_39	rotation	O

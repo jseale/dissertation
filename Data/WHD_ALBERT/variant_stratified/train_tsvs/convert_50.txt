@@ -1,0 +1,16 @@
+convert_50	Convert	convert_vrb
+convert_50	the	O
+convert_50	whole	O
+convert_50	number	O
+convert_50	to	O
+convert_50	an	O
+convert_50	improper	O
+convert_50	fraction	O
+convert_50	with	O
+convert_50	the	O
+convert_50	same	O
+convert_50	denominator	O
+convert_50	as	O
+convert_50	the	O
+convert_50	fractional	O
+convert_50	part	O

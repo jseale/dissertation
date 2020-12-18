@@ -1,0 +1,12 @@
+conflict_5	Louis	O
+conflict_5	feared	O
+conflict_5	a	O
+conflict_5	further	O
+conflict_5	escalation	O
+conflict_5	of	O
+conflict_5	the	O
+conflict_5	conflict	conflict_nou
+conflict_5	against	O
+conflict_5	this	O
+conflict_5	formidable	O
+conflict_5	coalition	O

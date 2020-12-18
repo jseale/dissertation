@@ -1,0 +1,17 @@
+minute_62	Originally	O
+minute_62	a	O
+minute_62	thirty	O
+minute_62	minute	minute
+minute_62	show	O
+minute_62	it	O
+minute_62	was	O
+minute_62	extended	O
+minute_62	to	O
+minute_62	forty	O
+minute_62	five	O
+minute_62	minutes	O
+minute_62	then	O
+minute_62	later	O
+minute_62	to	O
+minute_62	sixty	O
+minute_62	minutes	O

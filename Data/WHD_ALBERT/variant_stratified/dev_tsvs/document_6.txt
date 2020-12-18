@@ -1,0 +1,13 @@
+document_6	In	O
+document_6	a	O
+document_6	multipage	O
+document_6	document	document_nou
+document_6	only	O
+document_6	the	O
+document_6	page	O
+document_6	being	O
+document_6	editing	O
+document_6	can	O
+document_6	be	O
+document_6	re	O
+document_6	saved	O

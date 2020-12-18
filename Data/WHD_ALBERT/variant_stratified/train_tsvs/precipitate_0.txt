@@ -1,0 +1,17 @@
+precipitate_0	Without	O
+precipitate_0	sufficient	O
+precipitate_0	force	O
+precipitate_0	of	O
+precipitate_0	gravity	O
+precipitate_0	settling	O
+precipitate_0	to	O
+precipitate_0	bring	O
+precipitate_0	the	O
+precipitate_0	solid	O
+precipitate_0	particles	O
+precipitate_0	together	O
+precipitate_0	the	O
+precipitate_0	precipitate	precipitate_adj-nou
+precipitate_0	remains	O
+precipitate_0	in	O
+precipitate_0	suspension	O

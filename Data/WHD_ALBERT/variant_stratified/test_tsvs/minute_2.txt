@@ -1,0 +1,16 @@
+minute_2	The	O
+minute_2	album	O
+minute_2	's	O
+minute_2	lead	O
+minute_2	off	O
+minute_2	single	O
+minute_2	Paranoid	O
+minute_2	was	O
+minute_2	written	O
+minute_2	in	O
+minute_2	the	O
+minute_2	studio	O
+minute_2	at	O
+minute_2	the	O
+minute_2	last	O
+minute_2	minute	minute

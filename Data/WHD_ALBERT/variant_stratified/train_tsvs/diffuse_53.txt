@@ -1,0 +1,15 @@
+diffuse_53	During	O
+diffuse_53	this	O
+diffuse_53	process	O
+diffuse_53	water	O
+diffuse_53	is	O
+diffuse_53	added	O
+diffuse_53	to	O
+diffuse_53	the	O
+diffuse_53	emulsion	O
+diffuse_53	which	O
+diffuse_53	causes	O
+diffuse_53	the	O
+diffuse_53	solvent	O
+diffuse_53	to	O
+diffuse_53	diffuse	diffuse_vrb

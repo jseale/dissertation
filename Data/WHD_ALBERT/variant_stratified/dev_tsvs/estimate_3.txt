@@ -1,0 +1,10 @@
+estimate_3	Roger	O
+estimate_3	Cooper	O
+estimate_3	gives	O
+estimate_3	an	O
+estimate_3	estimate	estimate_nou
+estimate_3	of	O
+estimate_3	between	O
+estimate_3	150,000	O
+estimate_3	and	O
+estimate_3	300,000	O

@@ -1,0 +1,7 @@
+conflict_26	However	O
+conflict_26	Bryant	O
+conflict_26	and	O
+conflict_26	Byrd	O
+conflict_26	came	O
+conflict_26	into	O
+conflict_26	conflict	conflict_nou

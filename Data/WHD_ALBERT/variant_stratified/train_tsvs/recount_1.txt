@@ -1,0 +1,12 @@
+recount_1	After	O
+recount_1	the	O
+recount_1	certification	O
+recount_1	Obenshain	O
+recount_1	requested	O
+recount_1	a	O
+recount_1	recount	recount_nou
+recount_1	which	O
+recount_1	began	O
+recount_1	on	O
+recount_1	December	O
+recount_1	16	O

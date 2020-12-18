@@ -1,0 +1,13 @@
+correlate_45	It	O
+correlate_45	has	O
+correlate_45	been	O
+correlate_45	shown	O
+correlate_45	to	O
+correlate_45	correlate	correlate_nou-vrb
+correlate_45	with	O
+correlate_45	a	O
+correlate_45	number	O
+correlate_45	of	O
+correlate_45	other	O
+correlate_45	chemical	O
+correlate_45	properties	O

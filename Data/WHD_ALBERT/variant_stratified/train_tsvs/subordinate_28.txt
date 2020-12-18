@@ -1,0 +1,12 @@
+subordinate_28	Personal	O
+subordinate_28	infinitive	O
+subordinate_28	sentences	O
+subordinate_28	may	O
+subordinate_28	often	O
+subordinate_28	be	O
+subordinate_28	used	O
+subordinate_28	interchangeably	O
+subordinate_28	with	O
+subordinate_28	finite	O
+subordinate_28	subordinate	subordinate_adj-nou
+subordinate_28	clauses	O

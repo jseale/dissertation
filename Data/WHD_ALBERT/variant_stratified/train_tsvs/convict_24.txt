@@ -1,0 +1,14 @@
+convict_24	The	O
+convict_24	effect	O
+convict_24	of	O
+convict_24	population	O
+convict_24	density	O
+convict_24	on	O
+convict_24	sexual	O
+convict_24	selection	O
+convict_24	for	O
+convict_24	convict	convict_nou
+convict_24	cichlids	O
+convict_24	has	O
+convict_24	been	O
+convict_24	studied	O

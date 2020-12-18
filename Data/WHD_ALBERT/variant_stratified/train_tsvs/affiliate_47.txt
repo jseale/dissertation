@@ -1,0 +1,17 @@
+affiliate_47	It	O
+affiliate_47	can	O
+affiliate_47	also	O
+affiliate_47	been	O
+affiliate_47	seen	O
+affiliate_47	on	O
+affiliate_47	local	O
+affiliate_47	cable	O
+affiliate_47	systems	O
+affiliate_47	in	O
+affiliate_47	British	O
+affiliate_47	Columbia	O
+affiliate_47	as	O
+affiliate_47	the	O
+affiliate_47	local	O
+affiliate_47	CBS	O
+affiliate_47	affiliate	affiliate_nou

@@ -1,0 +1,11 @@
+buffet_5	The	O
+buffet_5	Aztec	O
+buffet_5	Inn	O
+buffet_5	also	O
+buffet_5	features	O
+buffet_5	a	O
+buffet_5	buffet	buffet_nou
+buffet_5	and	O
+buffet_5	a	O
+buffet_5	business	O
+buffet_5	center	O

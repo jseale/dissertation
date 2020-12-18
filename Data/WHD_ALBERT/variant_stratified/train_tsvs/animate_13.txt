@@ -1,0 +1,15 @@
+animate_13	This	O
+animate_13	term	O
+animate_13	can	O
+animate_13	refer	O
+animate_13	to	O
+animate_13	human	O
+animate_13	equivalents	O
+animate_13	of	O
+animate_13	various	O
+animate_13	comparisons	O
+animate_13	of	O
+animate_13	animate	animate_adj-nou
+animate_13	and	O
+animate_13	inanimate	O
+animate_13	things	O

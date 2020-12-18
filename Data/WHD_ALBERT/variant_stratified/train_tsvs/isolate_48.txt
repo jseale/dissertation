@@ -1,0 +1,11 @@
+isolate_48	Websphere	O
+isolate_48	uses	O
+isolate_48	AspectJ	O
+isolate_48	internally	O
+isolate_48	to	O
+isolate_48	isolate	isolate
+isolate_48	features	O
+isolate_48	of	O
+isolate_48	the	O
+isolate_48	different	O
+isolate_48	editions	O

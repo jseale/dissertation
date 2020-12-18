@@ -1,0 +1,11 @@
+uses_3	She	O
+uses_3	is	O
+uses_3	a	O
+uses_3	criminal	O
+uses_3	psychologist	O
+uses_3	who	O
+uses_3	uses	uses_vrb
+uses_3	rationale	O
+uses_3	to	O
+uses_3	analyze	O
+uses_3	everything	O

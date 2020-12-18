@@ -1,0 +1,13 @@
+laminate_71	Lee	O
+laminate_71	also	O
+laminate_71	set	O
+laminate_71	up	O
+laminate_71	a	O
+laminate_71	copper	O
+laminate_71	clad	O
+laminate_71	laminate	laminate_nou
+laminate_71	factory	O
+laminate_71	in	O
+laminate_71	Dongguan	O
+laminate_71	for	O
+laminate_71	Meadville	O

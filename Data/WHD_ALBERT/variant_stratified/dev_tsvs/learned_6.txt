@@ -1,0 +1,7 @@
+learned_6	He	O
+learned_6	learned	learned_vrb
+learned_6	botany	O
+learned_6	from	O
+learned_6	Johann	O
+learned_6	Friedrich	O
+learned_6	Ruthe	O

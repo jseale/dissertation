@@ -1,0 +1,13 @@
+lead_18	The	O
+lead_18	church	O
+lead_18	is	O
+lead_18	constructed	O
+lead_18	in	O
+lead_18	red	O
+lead_18	Runcorn	O
+lead_18	sandstone	O
+lead_18	with	O
+lead_18	lead	lead_nou
+lead_18	and	O
+lead_18	tiled	O
+lead_18	roofs	O

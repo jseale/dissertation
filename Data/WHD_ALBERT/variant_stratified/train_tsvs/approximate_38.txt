@@ -1,0 +1,12 @@
+approximate_38	Longstone	O
+approximate_38	is	O
+approximate_38	located	O
+approximate_38	inland	O
+approximate_38	at	O
+approximate_38	the	O
+approximate_38	approximate	approximate_adj-nou
+approximate_38	geographic	O
+approximate_38	centre	O
+approximate_38	of	O
+approximate_38	the	O
+approximate_38	island	O

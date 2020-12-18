@@ -1,0 +1,10 @@
+perfect_44	The	O
+perfect_44	past	O
+perfect_44	participle	O
+perfect_44	is	O
+perfect_44	needed	O
+perfect_44	to	O
+perfect_44	form	O
+perfect_44	the	O
+perfect_44	Present	O
+perfect_44	Perfect	perfect_adj

@@ -1,0 +1,15 @@
+duplicate_16	Thousands	O
+duplicate_16	worked	O
+duplicate_16	around	O
+duplicate_16	the	O
+duplicate_16	clock	O
+duplicate_16	for	O
+duplicate_16	12	O
+duplicate_16	days	O
+duplicate_16	to	O
+duplicate_16	construct	O
+duplicate_16	a	O
+duplicate_16	duplicate	duplicate_adj-nou
+duplicate_16	German	O
+duplicate_16	V-1	O
+duplicate_16	facility	O

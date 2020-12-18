@@ -1,0 +1,14 @@
+tear_20	The	O
+tear_20	priest	O
+tear_20	is	O
+tear_20	shown	O
+tear_20	watching	O
+tear_20	them	O
+tear_20	leave	O
+tear_20	and	O
+tear_20	wiping	O
+tear_20	a	O
+tear_20	tear	tear_nou
+tear_20	from	O
+tear_20	his	O
+tear_20	eye	O

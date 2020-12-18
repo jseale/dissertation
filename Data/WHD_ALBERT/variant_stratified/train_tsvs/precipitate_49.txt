@@ -1,0 +1,12 @@
+precipitate_49	The	O
+precipitate_49	electrons	O
+precipitate_49	are	O
+precipitate_49	then	O
+precipitate_49	dislodged	O
+precipitate_49	and	O
+precipitate_49	precipitate	precipitate_vrb
+precipitate_49	into	O
+precipitate_49	the	O
+precipitate_49	Earth	O
+precipitate_49	's	O
+precipitate_49	atmosphere	O

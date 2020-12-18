@@ -1,0 +1,12 @@
+degenerate_38	RuvC	O
+degenerate_38	is	O
+degenerate_38	an	O
+degenerate_38	endonuclease	O
+degenerate_38	that	O
+degenerate_38	cuts	O
+degenerate_38	the	O
+degenerate_38	degenerate	degenerate_adj-nou
+degenerate_38	sequence	O
+degenerate_38	5'-(A	O
+degenerate_38	T)TT(G	O
+degenerate_38	C)-3	O

@@ -1,0 +1,7 @@
+extract_9	Liquorice	O
+extract_9	Containing	O
+extract_9	extract	extract_nou
+extract_9	of	O
+extract_9	the	O
+extract_9	liquorice	O
+extract_9	root	O

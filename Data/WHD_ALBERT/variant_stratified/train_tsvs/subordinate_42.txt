@@ -1,0 +1,14 @@
+subordinate_42	It	O
+subordinate_42	is	O
+subordinate_42	subordinate	subordinate_adj-nou
+subordinate_42	to	O
+subordinate_42	the	O
+subordinate_42	National	O
+subordinate_42	Security	O
+subordinate_42	Directorate	O
+subordinate_42	of	O
+subordinate_42	the	O
+subordinate_42	Egyptian	O
+subordinate_42	Ministry	O
+subordinate_42	of	O
+subordinate_42	Interior	O

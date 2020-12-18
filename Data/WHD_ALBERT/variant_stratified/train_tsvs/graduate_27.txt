@@ -1,0 +1,13 @@
+graduate_27	His	O
+graduate_27	areas	O
+graduate_27	of	O
+graduate_27	interests	O
+graduate_27	are	O
+graduate_27	advanced	O
+graduate_27	Architectural	O
+graduate_27	Design	O
+graduate_27	architectural	O
+graduate_27	theory	O
+graduate_27	and	O
+graduate_27	graduate	graduate_adj-nou
+graduate_27	design	O

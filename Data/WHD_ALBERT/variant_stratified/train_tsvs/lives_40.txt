@@ -1,0 +1,15 @@
+lives_40	Ann	O
+lives_40	picks	O
+lives_40	up	O
+lives_40	the	O
+lives_40	blue	O
+lives_40	framed	O
+lives_40	butterfly	O
+lives_40	showing	O
+lives_40	that	O
+lives_40	the	O
+lives_40	apartment	O
+lives_40	is	O
+lives_40	where	O
+lives_40	Alice	O
+lives_40	lives	lives_vrb

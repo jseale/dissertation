@@ -1,0 +1,17 @@
+syndicate_76	The	O
+syndicate_76	original	O
+syndicate_76	team	O
+syndicate_76	was	O
+syndicate_76	specifically	O
+syndicate_76	known	O
+syndicate_76	as	O
+syndicate_76	Crime	O
+syndicate_76	Syndicate	syndicate_nou
+syndicate_76	of	O
+syndicate_76	America	O
+syndicate_76	and	O
+syndicate_76	is	O
+syndicate_76	sometimes	O
+syndicate_76	abbreviated	O
+syndicate_76	as	O
+syndicate_76	CSA	O

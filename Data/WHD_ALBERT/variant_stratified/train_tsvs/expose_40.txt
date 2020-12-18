@@ -1,0 +1,17 @@
+expose_40	She	O
+expose_40	wants	O
+expose_40	to	O
+expose_40	be	O
+expose_40	able	O
+expose_40	to	O
+expose_40	uncover	O
+expose_40	and	O
+expose_40	expose	expose_vrb
+expose_40	more	O
+expose_40	illegal	O
+expose_40	activities	O
+expose_40	that	O
+expose_40	are	O
+expose_40	taking	O
+expose_40	place	O
+expose_40	globally	O

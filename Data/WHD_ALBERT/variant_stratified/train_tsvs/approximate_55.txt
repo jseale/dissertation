@@ -1,0 +1,17 @@
+approximate_55	Minnesota	O
+approximate_55	Functionals	O
+approximate_55	Myz	O
+approximate_55	are	O
+approximate_55	a	O
+approximate_55	group	O
+approximate_55	of	O
+approximate_55	approximate	approximate_adj-nou
+approximate_55	exchange	O
+approximate_55	correlation	O
+approximate_55	energy	O
+approximate_55	functionals	O
+approximate_55	in	O
+approximate_55	density	O
+approximate_55	functional	O
+approximate_55	theory	O
+approximate_55	DFT	O

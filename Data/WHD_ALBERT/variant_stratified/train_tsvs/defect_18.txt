@@ -1,0 +1,12 @@
+defect_18	There	O
+defect_18	is	O
+defect_18	also	O
+defect_18	a	O
+defect_18	defect	defect_nou
+defect_18	in	O
+defect_18	the	O
+defect_18	Btk	O
+defect_18	gene	O
+defect_18	in	O
+defect_18	this	O
+defect_18	condition	O

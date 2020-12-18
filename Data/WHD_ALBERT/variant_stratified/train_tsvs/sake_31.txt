@@ -1,0 +1,14 @@
+sake_31	For	O
+sake_31	the	O
+sake_31	sake	sake
+sake_31	of	O
+sake_31	her	O
+sake_31	father	O
+sake_31	the	O
+sake_31	princess	O
+sake_31	happily	O
+sake_31	agreed	O
+sake_31	to	O
+sake_31	Hans	O
+sake_31	's	O
+sake_31	deal	O

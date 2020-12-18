@@ -1,0 +1,16 @@
+extract_7	Here	O
+extract_7	is	O
+extract_7	an	O
+extract_7	extract	extract_nou
+extract_7	of	O
+extract_7	the	O
+extract_7	interview	O
+extract_7	which	O
+extract_7	took	O
+extract_7	place	O
+extract_7	in	O
+extract_7	the	O
+extract_7	end	O
+extract_7	of	O
+extract_7	the	O
+extract_7	video	O

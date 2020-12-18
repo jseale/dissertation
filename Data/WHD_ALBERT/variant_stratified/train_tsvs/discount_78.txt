@@ -1,0 +1,16 @@
+discount_78	While	O
+discount_78	the	O
+discount_78	name	O
+discount_78	suggests	O
+discount_78	a	O
+discount_78	relationship	O
+discount_78	with	O
+discount_78	the	O
+discount_78	Italian	O
+discount_78	variety	O
+discount_78	Aleatico	O
+discount_78	ampelographers	O
+discount_78	currently	O
+discount_78	discount	discount_vrb
+discount_78	a	O
+discount_78	connection	O

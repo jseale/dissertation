@@ -1,0 +1,13 @@
+impact_38	For	O
+impact_38	its	O
+impact_38	first	O
+impact_38	decade	O
+impact_38	it	O
+impact_38	had	O
+impact_38	rather	O
+impact_38	limited	O
+impact_38	impact	impact_nou
+impact_38	outside	O
+impact_38	of	O
+impact_38	aerospace	O
+impact_38	work	O

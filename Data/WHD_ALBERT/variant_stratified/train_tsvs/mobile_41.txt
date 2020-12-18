@@ -1,0 +1,15 @@
+mobile_41	Image	O
+mobile_41	translation	O
+mobile_41	is	O
+mobile_41	a	O
+mobile_41	term	O
+mobile_41	related	O
+mobile_41	to	O
+mobile_41	machine	O
+mobile_41	translation	O
+mobile_41	services	O
+mobile_41	for	O
+mobile_41	mobile	mobile
+mobile_41	devices	O
+mobile_41	mobile	mobile
+mobile_41	translation	O

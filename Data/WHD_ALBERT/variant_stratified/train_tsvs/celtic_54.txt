@@ -1,0 +1,12 @@
+celtic_54	The	O
+celtic_54	first	O
+celtic_54	known	O
+celtic_54	inhabitants	O
+celtic_54	were	O
+celtic_54	the	O
+celtic_54	Vettones	O
+celtic_54	a	O
+celtic_54	pre	O
+celtic_54	Roman	O
+celtic_54	Celtic	celtic
+celtic_54	people	O

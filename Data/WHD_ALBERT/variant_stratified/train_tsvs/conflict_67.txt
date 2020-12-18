@@ -1,0 +1,15 @@
+conflict_67	The	O
+conflict_67	deep	O
+conflict_67	southern	O
+conflict_67	half	O
+conflict_67	was	O
+conflict_67	however	O
+conflict_67	a	O
+conflict_67	Sinhala	O
+conflict_67	stronghold	O
+conflict_67	in	O
+conflict_67	perpetual	O
+conflict_67	conflict	conflict_nou
+conflict_67	with	O
+conflict_67	the	O
+conflict_67	Cholas	O

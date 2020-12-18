@@ -1,0 +1,17 @@
+suspect_2	He	O
+suspect_2	runs	O
+suspect_2	out	O
+suspect_2	of	O
+suspect_2	the	O
+suspect_2	garage	O
+suspect_2	on	O
+suspect_2	foot	O
+suspect_2	and	O
+suspect_2	becomes	O
+suspect_2	the	O
+suspect_2	prime	O
+suspect_2	suspect	suspect_adj-nou
+suspect_2	in	O
+suspect_2	a	O
+suspect_2	murder	O
+suspect_2	case	O

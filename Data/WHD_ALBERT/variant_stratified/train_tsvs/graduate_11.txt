@@ -1,0 +1,17 @@
+graduate_11	In	O
+graduate_11	1970	O
+graduate_11	he	O
+graduate_11	received	O
+graduate_11	a	O
+graduate_11	master	O
+graduate_11	of	O
+graduate_11	arts	O
+graduate_11	in	O
+graduate_11	teaching	O
+graduate_11	from	O
+graduate_11	the	O
+graduate_11	Harvard	O
+graduate_11	Graduate	graduate_adj-nou
+graduate_11	School	O
+graduate_11	of	O
+graduate_11	Education	O

@@ -1,0 +1,9 @@
+consummate_48	During	O
+consummate_48	this	O
+consummate_48	time	O
+consummate_48	Tasha	O
+consummate_48	and	O
+consummate_48	Robbie	O
+consummate_48	consummate	consummate_vrb
+consummate_48	their	O
+consummate_48	relationship	O

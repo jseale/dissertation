@@ -1,0 +1,15 @@
+syndicate_46	The	O
+syndicate_46	syndicate	syndicate_nou
+syndicate_46	entered	O
+syndicate_46	Fine	O
+syndicate_46	Cotton	O
+syndicate_46	in	O
+syndicate_46	a	O
+syndicate_46	race	O
+syndicate_46	at	O
+syndicate_46	Eagle	O
+syndicate_46	Farm	O
+syndicate_46	on	O
+syndicate_46	18	O
+syndicate_46	August	O
+syndicate_46	1984	O

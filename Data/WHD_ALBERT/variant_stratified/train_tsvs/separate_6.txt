@@ -1,0 +1,9 @@
+separate_6	However	O
+separate_6	there	O
+separate_6	are	O
+separate_6	separate	separate_adj
+separate_6	rules	O
+separate_6	applied	O
+separate_6	to	O
+separate_6	most	O
+separate_6	banks	O

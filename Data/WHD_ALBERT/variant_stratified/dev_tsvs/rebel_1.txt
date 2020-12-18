@@ -1,0 +1,17 @@
+rebel_1	Somehow	O
+rebel_1	the	O
+rebel_1	rebel	rebel_nou
+rebel_1	Basestar	O
+rebel_1	's	O
+rebel_1	hybrid	O
+rebel_1	detects	O
+rebel_1	her	O
+rebel_1	shooting	O
+rebel_1	and	O
+rebel_1	panics	O
+rebel_1	causing	O
+rebel_1	the	O
+rebel_1	ship	O
+rebel_1	to	O
+rebel_1	jump	O
+rebel_1	away	O

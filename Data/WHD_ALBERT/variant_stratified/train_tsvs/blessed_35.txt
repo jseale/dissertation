@@ -1,0 +1,13 @@
+blessed_35	It	O
+blessed_35	is	O
+blessed_35	claimed	O
+blessed_35	that	O
+blessed_35	she	O
+blessed_35	developed	O
+blessed_35	a	O
+blessed_35	mysterious	O
+blessed_35	awareness	O
+blessed_35	of	O
+blessed_35	the	O
+blessed_35	Blessed	blessed_adj
+blessed_35	Sacrament	O

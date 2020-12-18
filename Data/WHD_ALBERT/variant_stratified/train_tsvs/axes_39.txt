@@ -1,0 +1,13 @@
+axes_39	On	O
+axes_39	the	O
+axes_39	diagonal	O
+axes_39	axes	axes_nou
+axes_39	are	O
+axes_39	four	O
+axes_39	chapels	O
+axes_39	lower	O
+axes_39	than	O
+axes_39	those	O
+axes_39	which	O
+axes_39	determine	O
+axes_39	presbytery	O

@@ -1,0 +1,9 @@
+combine_52	Together	O
+combine_52	the	O
+combine_52	six	O
+combine_52	interior	O
+combine_52	robots	O
+combine_52	could	O
+combine_52	combine	combine_vrb
+combine_52	into	O
+combine_52	Monstructor	O

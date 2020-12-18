@@ -1,0 +1,16 @@
+use_0	This	O
+use_0	may	O
+use_0	affect	O
+use_0	its	O
+use_0	proper	O
+use_0	use	use_nou
+use_0	in	O
+use_0	text	O
+use_0	and	O
+use_0	who	O
+use_0	has	O
+use_0	permission	O
+use_0	to	O
+use_0	use	use_nou
+use_0	the	O
+use_0	template	O

@@ -1,0 +1,7 @@
+frequent_9	His	O
+frequent_9	most	O
+frequent_9	frequent	frequent_adj
+frequent_9	collaborator	O
+frequent_9	was	O
+frequent_9	Vicente	O
+frequent_9	Giner	O

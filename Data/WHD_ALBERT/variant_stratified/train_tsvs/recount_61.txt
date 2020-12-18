@@ -1,0 +1,13 @@
+recount_61	The	O
+recount_61	events	O
+recount_61	of	O
+recount_61	the	O
+recount_61	late	O
+recount_61	afternoon	O
+recount_61	and	O
+recount_61	evening	O
+recount_61	hours	O
+recount_61	are	O
+recount_61	difficult	O
+recount_61	to	O
+recount_61	recount	recount_vrb

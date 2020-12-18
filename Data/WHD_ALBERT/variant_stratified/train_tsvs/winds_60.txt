@@ -1,0 +1,15 @@
+winds_60	Strong	O
+winds_60	winds	winds_nou
+winds_60	uprooted	O
+winds_60	trees	O
+winds_60	or	O
+winds_60	snapped	O
+winds_60	their	O
+winds_60	limbs	O
+winds_60	damaging	O
+winds_60	power	O
+winds_60	lines	O
+winds_60	and	O
+winds_60	knocking	O
+winds_60	out	O
+winds_60	power	O

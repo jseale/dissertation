@@ -1,0 +1,13 @@
+rebel_14	Three	O
+rebel_14	other	O
+rebel_14	border	O
+rebel_14	crossings	O
+rebel_14	with	O
+rebel_14	Iraq	O
+rebel_14	and	O
+rebel_14	Turkey	O
+rebel_14	were	O
+rebel_14	however	O
+rebel_14	in	O
+rebel_14	rebel	rebel_nou
+rebel_14	hands	O

@@ -1,0 +1,11 @@
+refund_50	The	O
+refund_50	process	O
+refund_50	of	O
+refund_50	claiming	O
+refund_50	a	O
+refund_50	refund	refund_nou
+refund_50	is	O
+refund_50	known	O
+refund_50	as	O
+refund_50	duty	O
+refund_50	drawback	O

@@ -1,0 +1,16 @@
+pasty_13	The	O
+pasty_13	annual	O
+pasty_13	International	O
+pasty_13	Pasty	pasty_adj
+pasty_13	Festival	O
+pasty_13	is	O
+pasty_13	held	O
+pasty_13	in	O
+pasty_13	Real	O
+pasty_13	del	O
+pasty_13	Monte	O
+pasty_13	for	O
+pasty_13	three	O
+pasty_13	days	O
+pasty_13	each	O
+pasty_13	October	O

@@ -1,0 +1,13 @@
+delegate_3	In	O
+delegate_3	2005	O
+delegate_3	former	O
+delegate_3	state	O
+delegate_3	delegate	delegate_nou
+delegate_3	Chap	O
+delegate_3	Petersen	O
+delegate_3	joined	O
+delegate_3	the	O
+delegate_3	firm	O
+delegate_3	as	O
+delegate_3	a	O
+delegate_3	partner	O

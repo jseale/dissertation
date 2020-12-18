@@ -1,0 +1,17 @@
+axes_71	Finds	O
+axes_71	such	O
+axes_71	as	O
+axes_71	stone	O
+axes_71	axes	axes_nou-vrb
+axes_71	indicate	O
+axes_71	that	O
+axes_71	the	O
+axes_71	Hunsruck	O
+axes_71	has	O
+axes_71	been	O
+axes_71	settled	O
+axes_71	since	O
+axes_71	the	O
+axes_71	New	O
+axes_71	Stone	O
+axes_71	Age	O

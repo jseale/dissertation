@@ -1,0 +1,14 @@
+supplement_38	Gray	O
+supplement_38	wrote	O
+supplement_38	a	O
+supplement_38	Supplement	supplement_nou
+supplement_38	to	O
+supplement_38	the	O
+supplement_38	Pharmacopoeia	O
+supplement_38	published	O
+supplement_38	in	O
+supplement_38	1818	O
+supplement_38	with	O
+supplement_38	several	O
+supplement_38	subsequent	O
+supplement_38	editions	O

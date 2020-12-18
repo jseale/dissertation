@@ -1,0 +1,14 @@
+diagnoses_23	The	O
+diagnoses_23	psychiatric	O
+diagnoses_23	history	O
+diagnoses_23	frequently	O
+diagnoses_23	contains	O
+diagnoses_23	multiple	O
+diagnoses_23	previous	O
+diagnoses_23	diagnoses	diagnoses_nou
+diagnoses_23	of	O
+diagnoses_23	various	O
+diagnoses_23	disorders	O
+diagnoses_23	and	O
+diagnoses_23	treatment	O
+diagnoses_23	failures	O

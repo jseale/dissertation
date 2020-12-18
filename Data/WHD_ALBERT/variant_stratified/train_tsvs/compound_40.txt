@@ -1,0 +1,9 @@
+compound_40	This	O
+compound_40	compound	compound_nou
+compound_40	exhibits	O
+compound_40	ability	O
+compound_40	to	O
+compound_40	lower	O
+compound_40	levels	O
+compound_40	of	O
+compound_40	Aromatase	O

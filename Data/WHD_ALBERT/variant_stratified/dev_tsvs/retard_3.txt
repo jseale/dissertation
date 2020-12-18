@@ -1,0 +1,13 @@
+retard_3	Medication	O
+retard_3	can	O
+retard_3	be	O
+retard_3	used	O
+retard_3	to	O
+retard_3	retard	retard_vrb
+retard_3	this	O
+retard_3	effect	O
+retard_3	but	O
+retard_3	is	O
+retard_3	not	O
+retard_3	always	O
+retard_3	successful	O

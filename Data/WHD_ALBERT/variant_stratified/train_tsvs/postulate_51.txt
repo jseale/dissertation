@@ -1,0 +1,15 @@
+postulate_51	The	O
+postulate_51	phrase	O
+postulate_51	single	O
+postulate_51	postulate	postulate_nou
+postulate_51	is	O
+postulate_51	just	O
+postulate_51	used	O
+postulate_51	in	O
+postulate_51	comparison	O
+postulate_51	with	O
+postulate_51	the	O
+postulate_51	original	O
+postulate_51	two	O
+postulate_51	postulate	postulate_nou
+postulate_51	formulation	O

@@ -1,0 +1,13 @@
+discharge_78	He	O
+discharge_78	can	O
+discharge_78	not	O
+discharge_78	discharge	discharge_vrb
+discharge_78	them	O
+discharge_78	as	O
+discharge_78	they	O
+discharge_78	have	O
+discharge_78	been	O
+discharge_78	unionized	O
+discharge_78	by	O
+discharge_78	the	O
+discharge_78	ILW	O

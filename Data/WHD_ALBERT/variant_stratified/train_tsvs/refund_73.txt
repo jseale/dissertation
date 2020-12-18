@@ -1,0 +1,15 @@
+refund_73	PayPal	O
+refund_73	refunded	O
+refund_73	the	O
+refund_73	money	O
+refund_73	but	O
+refund_73	did	O
+refund_73	not	O
+refund_73	refund	refund_vrb
+refund_73	exchange	O
+refund_73	and	O
+refund_73	handling	O
+refund_73	fees	O
+refund_73	for	O
+refund_73	international	O
+refund_73	donors	O

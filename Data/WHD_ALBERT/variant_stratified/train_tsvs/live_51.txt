@@ -1,0 +1,7 @@
+live_51	Roughly	O
+live_51	half	O
+live_51	of	O
+live_51	them	O
+live_51	live	live_vrb
+live_51	in	O
+live_51	Gauteng	O

@@ -1,0 +1,16 @@
+contest_28	The	O
+contest_28	contest	contest_nou
+contest_28	probably	O
+contest_28	was	O
+contest_28	n't	O
+contest_28	in	O
+contest_28	the	O
+contest_28	beginning	O
+contest_28	a	O
+contest_28	national	O
+contest_28	selection	O
+contest_28	for	O
+contest_28	the	O
+contest_28	Eurovision	O
+contest_28	Song	O
+contest_28	Contest	contest_nou

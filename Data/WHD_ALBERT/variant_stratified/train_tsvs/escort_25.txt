@@ -1,0 +1,15 @@
+escort_25	The	O
+escort_25	CVH	O
+escort_25	was	O
+escort_25	enlarged	O
+escort_25	to	O
+escort_25	1.9	O
+escort_25	L	O
+escort_25	for	O
+escort_25	the	O
+escort_25	North	O
+escort_25	American	O
+escort_25	1986	O
+escort_25	model	O
+escort_25	year	O
+escort_25	Escort	escort_nou

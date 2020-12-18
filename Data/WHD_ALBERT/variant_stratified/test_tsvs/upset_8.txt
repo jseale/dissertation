@@ -1,0 +1,17 @@
+upset_8	Unless	O
+upset_8	stopped	O
+upset_8	at	O
+upset_8	once	O
+upset_8	it	O
+upset_8	is	O
+upset_8	likely	O
+upset_8	to	O
+upset_8	upset	upset_vrb
+upset_8	the	O
+upset_8	friendly	O
+upset_8	relations	O
+upset_8	existing	O
+upset_8	between	O
+upset_8	Australia	O
+upset_8	and	O
+upset_8	England	O

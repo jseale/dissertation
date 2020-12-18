@@ -1,0 +1,16 @@
+excuse_50	This	O
+excuse_50	intelligence	O
+excuse_50	was	O
+excuse_50	used	O
+excuse_50	as	O
+excuse_50	an	O
+excuse_50	excuse	excuse_nou
+excuse_50	by	O
+excuse_50	the	O
+excuse_50	French	O
+excuse_50	for	O
+excuse_50	assisting	O
+excuse_50	Henry	O
+excuse_50	Tudor	O
+excuse_50	's	O
+excuse_50	invasion	O

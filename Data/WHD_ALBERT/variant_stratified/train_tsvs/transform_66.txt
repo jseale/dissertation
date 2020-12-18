@@ -1,0 +1,11 @@
+transform_66	The	O
+transform_66	Laplace	O
+transform_66	transform	transform_nou
+transform_66	of	O
+transform_66	the	O
+transform_66	Heaviside	O
+transform_66	step	O
+transform_66	function	O
+transform_66	is	O
+transform_66	a	O
+transform_66	distribution	O

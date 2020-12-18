@@ -1,0 +1,15 @@
+insult_25	Will	O
+insult_25	Sukhi	O
+insult_25	ever	O
+insult_25	get	O
+insult_25	over	O
+insult_25	his	O
+insult_25	insult	insult_nou
+insult_25	at	O
+insult_25	the	O
+insult_25	hands	O
+insult_25	of	O
+insult_25	his	O
+insult_25	former	O
+insult_25	friend	O
+insult_25	Dhanwant	O

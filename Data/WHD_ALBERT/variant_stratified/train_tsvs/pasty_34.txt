@@ -1,0 +1,16 @@
+pasty_34	SarmaSamosa	O
+pasty_34	a	O
+pasty_34	small	O
+pasty_34	fried	O
+pasty_34	or	O
+pasty_34	baked	O
+pasty_34	pasty	pasty_adj
+pasty_34	which	O
+pasty_34	may	O
+pasty_34	be	O
+pasty_34	either	O
+pasty_34	half	O
+pasty_34	moon	O
+pasty_34	shaped	O
+pasty_34	or	O
+pasty_34	triangular	O

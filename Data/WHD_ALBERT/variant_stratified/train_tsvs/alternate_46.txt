@@ -1,0 +1,11 @@
+alternate_46	G.	O
+alternate_46	Schirmer	O
+alternate_46	has	O
+alternate_46	published	O
+alternate_46	several	O
+alternate_46	alternate	alternate_adj-nou
+alternate_46	arrangements	O
+alternate_46	for	O
+alternate_46	Adagio	O
+alternate_46	for	O
+alternate_46	Strings	O

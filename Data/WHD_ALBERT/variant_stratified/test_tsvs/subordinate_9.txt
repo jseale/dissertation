@@ -1,0 +1,12 @@
+subordinate_9	Equitable	O
+subordinate_9	subordination	O
+subordinate_9	can	O
+subordinate_9	be	O
+subordinate_9	used	O
+subordinate_9	to	O
+subordinate_9	subordinate	subordinate_vrb
+subordinate_9	both	O
+subordinate_9	secured	O
+subordinate_9	and	O
+subordinate_9	unsecured	O
+subordinate_9	claims	O

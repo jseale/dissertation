@@ -1,0 +1,16 @@
+upset_42	He	O
+upset_42	heads	O
+upset_42	to	O
+upset_42	Berlin	O
+upset_42	leaving	O
+upset_42	behind	O
+upset_42	an	O
+upset_42	upset	upset_nou
+upset_42	Marianna	O
+upset_42	who	O
+upset_42	tells	O
+upset_42	him	O
+upset_42	not	O
+upset_42	to	O
+upset_42	return	O
+upset_42	Paradise	O

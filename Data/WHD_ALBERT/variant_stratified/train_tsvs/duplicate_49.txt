@@ -1,0 +1,10 @@
+duplicate_49	The	O
+duplicate_49	Renegades	O
+duplicate_49	ambushed	O
+duplicate_49	Leader-1	O
+duplicate_49	and	O
+duplicate_49	replaced	O
+duplicate_49	him	O
+duplicate_49	with	O
+duplicate_49	his	O
+duplicate_49	duplicate	duplicate_adj-nou

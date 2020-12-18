@@ -1,0 +1,11 @@
+celtic_39	The	O
+celtic_39	Celtic	celtic
+celtic_39	languages	O
+celtic_39	are	O
+celtic_39	well	O
+celtic_39	known	O
+celtic_39	for	O
+celtic_39	their	O
+celtic_39	initial	O
+celtic_39	consonant	O
+celtic_39	mutations	O

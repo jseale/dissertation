@@ -1,0 +1,14 @@
+subordinate_67	On	O
+subordinate_67	August	O
+subordinate_67	20	O
+subordinate_67	the	O
+subordinate_67	North	O
+subordinate_67	Korean	O
+subordinate_67	commands	O
+subordinate_67	distributed	O
+subordinate_67	operations	O
+subordinate_67	orders	O
+subordinate_67	to	O
+subordinate_67	their	O
+subordinate_67	subordinate	subordinate_adj-nou
+subordinate_67	units	O

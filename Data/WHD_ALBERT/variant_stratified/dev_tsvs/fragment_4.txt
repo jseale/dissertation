@@ -1,0 +1,15 @@
+fragment_4	One	O
+fragment_4	good	O
+fragment_4	example	O
+fragment_4	is	O
+fragment_4	shown	O
+fragment_4	in	O
+fragment_4	the	O
+fragment_4	fragment	fragment_nou
+fragment_4	below	O
+fragment_4	labeled	O
+fragment_4	oracle	O
+fragment_4	bone	O
+fragment_4	script	O
+fragment_4	for	O
+fragment_4	Spring	O

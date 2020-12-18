@@ -1,0 +1,7 @@
+overthrow_66	The	O
+overthrow_66	front	O
+overthrow_66	vowed	O
+overthrow_66	to	O
+overthrow_66	overthrow	overthrow_vrb
+overthrow_66	Saddam	O
+overthrow_66	Hussein	O

@@ -1,0 +1,13 @@
+overthrow_65	The	O
+overthrow_65	first	O
+overthrow_65	major	O
+overthrow_65	demonstrations	O
+overthrow_65	to	O
+overthrow_65	overthrow	overthrow_vrb
+overthrow_65	Mohammad	O
+overthrow_65	Reza	O
+overthrow_65	Pahlavi	O
+overthrow_65	began	O
+overthrow_65	in	O
+overthrow_65	January	O
+overthrow_65	1978	O

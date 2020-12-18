@@ -1,0 +1,12 @@
+frequent_0	Thomas	O
+frequent_0	Ice	O
+frequent_0	engages	O
+frequent_0	in	O
+frequent_0	frequent	frequent_adj
+frequent_0	debates	O
+frequent_0	on	O
+frequent_0	the	O
+frequent_0	subject	O
+frequent_0	of	O
+frequent_0	the	O
+frequent_0	Rapture	O

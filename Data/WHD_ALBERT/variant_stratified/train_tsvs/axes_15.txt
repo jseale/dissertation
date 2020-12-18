@@ -1,0 +1,13 @@
+axes_15	The	O
+axes_15	axes	axes_nou
+axes_15	of	O
+axes_15	advance	O
+axes_15	for	O
+axes_15	both	O
+axes_15	Eugene	O
+axes_15	and	O
+axes_15	Jellacic	O
+axes_15	intersected	O
+axes_15	at	O
+axes_15	Sankt	O
+axes_15	Michael	O

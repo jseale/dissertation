@@ -1,0 +1,15 @@
+estimate_59	Local	O
+estimate_59	NGOs	O
+estimate_59	estimate	estimate_vrb
+estimate_59	the	O
+estimate_59	total	O
+estimate_59	number	O
+estimate_59	of	O
+estimate_59	female	O
+estimate_59	prostitutes	O
+estimate_59	to	O
+estimate_59	be	O
+estimate_59	as	O
+estimate_59	many	O
+estimate_59	as	O
+estimate_59	100,000	O

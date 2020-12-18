@@ -1,0 +1,10 @@
+confines_5	She	O
+confines_5	argues	O
+confines_5	for	O
+confines_5	education	O
+confines_5	beyond	O
+confines_5	the	O
+confines_5	confines	confines_nou
+confines_5	of	O
+confines_5	traditional	O
+confines_5	knowledge	O

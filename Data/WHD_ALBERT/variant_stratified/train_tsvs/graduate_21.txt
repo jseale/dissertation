@@ -1,0 +1,16 @@
+graduate_21	Grandhi	O
+graduate_21	Venkata	O
+graduate_21	Reddy	O
+graduate_21	Naidu	O
+graduate_21	received	O
+graduate_21	his	O
+graduate_21	graduate	graduate_adj-nou
+graduate_21	B.A.	O
+graduate_21	and	O
+graduate_21	law	O
+graduate_21	L.L.B.	O
+graduate_21	degrees	O
+graduate_21	from	O
+graduate_21	University	O
+graduate_21	of	O
+graduate_21	Madras	O

@@ -1,0 +1,17 @@
+refuse_41	Marge	O
+refuse_41	decides	O
+refuse_41	to	O
+refuse_41	refuse	refuse_vrb
+refuse_41	to	O
+refuse_41	pay	O
+refuse_41	any	O
+refuse_41	money	O
+refuse_41	to	O
+refuse_41	the	O
+refuse_41	mafia	O
+refuse_41	and	O
+refuse_41	to	O
+refuse_41	go	O
+refuse_41	on	O
+refuse_41	making	O
+refuse_41	pretzels	O

@@ -1,0 +1,13 @@
+reading_6	This	O
+reading_6	largely	O
+reading_6	accounts	O
+reading_6	for	O
+reading_6	the	O
+reading_6	focus	O
+reading_6	on	O
+reading_6	time	O
+reading_6	spent	O
+reading_6	reading	reading_en
+reading_6	especially	O
+reading_6	independent	O
+reading_6	reading	reading_en

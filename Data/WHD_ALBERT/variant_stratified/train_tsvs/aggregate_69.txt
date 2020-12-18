@@ -1,0 +1,17 @@
+aggregate_69	England	O
+aggregate_69	won	O
+aggregate_69	2	O
+aggregate_69	0	O
+aggregate_69	on	O
+aggregate_69	aggregate	aggregate_adj-nou
+aggregate_69	and	O
+aggregate_69	qualified	O
+aggregate_69	for	O
+aggregate_69	the	O
+aggregate_69	UEFA	O
+aggregate_69	U21	O
+aggregate_69	Championships	O
+aggregate_69	in	O
+aggregate_69	2013	O
+aggregate_69	in	O
+aggregate_69	Israel	O

@@ -1,0 +1,16 @@
+fragment_64	This	O
+fragment_64	ensures	O
+fragment_64	that	O
+fragment_64	the	O
+fragment_64	fragment	fragment_nou
+fragment_64	chain	O
+fragment_64	forms	O
+fragment_64	realistic	O
+fragment_64	angles	O
+fragment_64	both	O
+fragment_64	within	O
+fragment_64	the	O
+fragment_64	fragment	fragment_nou
+fragment_64	and	O
+fragment_64	between	O
+fragment_64	fragments	O

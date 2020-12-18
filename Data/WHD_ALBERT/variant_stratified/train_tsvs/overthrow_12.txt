@@ -1,0 +1,16 @@
+overthrow_12	These	O
+overthrow_12	plans	O
+overthrow_12	however	O
+overthrow_12	were	O
+overthrow_12	repeatedly	O
+overthrow_12	postponed	O
+overthrow_12	and	O
+overthrow_12	eventually	O
+overthrow_12	discarded	O
+overthrow_12	after	O
+overthrow_12	the	O
+overthrow_12	overthrow	overthrow_nou
+overthrow_12	of	O
+overthrow_12	communism	O
+overthrow_12	in	O
+overthrow_12	1989	O

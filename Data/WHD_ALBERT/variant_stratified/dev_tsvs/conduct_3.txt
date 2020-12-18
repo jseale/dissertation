@@ -1,0 +1,13 @@
+conduct_3	He	O
+conduct_3	was	O
+conduct_3	given	O
+conduct_3	a	O
+conduct_3	25-year	O
+conduct_3	sentence	O
+conduct_3	for	O
+conduct_3	disorderly	O
+conduct_3	conduct	conduct_nou
+conduct_3	and	O
+conduct_3	counter	O
+conduct_3	revolutionary	O
+conduct_3	activities	O

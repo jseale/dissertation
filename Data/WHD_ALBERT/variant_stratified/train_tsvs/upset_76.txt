@@ -1,0 +1,9 @@
+upset_76	Ogle	O
+upset_76	upset	upset_vrb
+upset_76	Walsh	O
+upset_76	winning	O
+upset_76	the	O
+upset_76	fight	O
+upset_76	via	O
+upset_76	unanimous	O
+upset_76	decision	O

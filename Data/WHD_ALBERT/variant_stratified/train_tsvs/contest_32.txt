@@ -1,0 +1,15 @@
+contest_32	This	O
+contest_32	event	O
+contest_32	gathers	O
+contest_32	big	O
+contest_32	wave	O
+contest_32	surfers	O
+contest_32	from	O
+contest_32	all	O
+contest_32	around	O
+contest_32	the	O
+contest_32	world	O
+contest_32	in	O
+contest_32	a	O
+contest_32	one	O
+contest_32	contest	contest_nou

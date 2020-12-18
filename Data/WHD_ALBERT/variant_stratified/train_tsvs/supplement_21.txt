@@ -1,0 +1,14 @@
+supplement_21	The	O
+supplement_21	hell	O
+supplement_21	hound	O
+supplement_21	was	O
+supplement_21	introduced	O
+supplement_21	to	O
+supplement_21	the	O
+supplement_21	game	O
+supplement_21	in	O
+supplement_21	its	O
+supplement_21	first	O
+supplement_21	supplement	supplement_nou
+supplement_21	Greyhawk	O
+supplement_21	1975	O

@@ -1,0 +1,17 @@
+insert_14	This	O
+insert_14	allows	O
+insert_14	genes	O
+insert_14	that	O
+insert_14	have	O
+insert_14	restriction	O
+insert_14	sites	O
+insert_14	to	O
+insert_14	be	O
+insert_14	cloned	O
+insert_14	without	O
+insert_14	worry	O
+insert_14	of	O
+insert_14	chopping	O
+insert_14	up	O
+insert_14	the	O
+insert_14	insert	insert_nou

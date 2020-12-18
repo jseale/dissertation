@@ -1,0 +1,8 @@
+lives_72	She	O
+lives_72	lives	lives_vrb
+lives_72	in	O
+lives_72	the	O
+lives_72	Lakouanga	O
+lives_72	neighborhood	O
+lives_72	of	O
+lives_72	Bangui	O

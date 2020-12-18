@@ -1,0 +1,11 @@
+construct_71	There	O
+construct_71	are	O
+construct_71	also	O
+construct_71	plans	O
+construct_71	to	O
+construct_71	construct	construct_vrb
+construct_71	a	O
+construct_71	tram	O
+construct_71	network	O
+construct_71	in	O
+construct_71	Tbilisi	O

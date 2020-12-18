@@ -1,0 +1,16 @@
+implement_64	The	O
+implement_64	Government	O
+implement_64	of	O
+implement_64	India	O
+implement_64	decided	O
+implement_64	to	O
+implement_64	implement	implement_vrb
+implement_64	the	O
+implement_64	first	O
+implement_64	part	O
+implement_64	of	O
+implement_64	the	O
+implement_64	EPC	O
+implement_64	recommendations	O
+implement_64	in	O
+implement_64	1957	O

@@ -1,0 +1,10 @@
+frequent_1	Julie	O
+frequent_1	Crumrine	O
+frequent_1	vocals	O
+frequent_1	and	O
+frequent_1	Julie	O
+frequent_1	Niksitch	O
+frequent_1	vocals	O
+frequent_1	made	O
+frequent_1	frequent	frequent_adj
+frequent_1	appearances	O

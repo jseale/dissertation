@@ -1,0 +1,15 @@
+permit_36	Furthermore	O
+permit_36	not	O
+permit_36	all	O
+permit_36	Chinese	O
+permit_36	nationals	O
+permit_36	in	O
+permit_36	Hong	O
+permit_36	Kong	O
+permit_36	or	O
+permit_36	Macau	O
+permit_36	have	O
+permit_36	a	O
+permit_36	Home	O
+permit_36	Return	O
+permit_36	Permit	permit_nou

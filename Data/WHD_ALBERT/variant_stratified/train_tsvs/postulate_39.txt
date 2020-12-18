@@ -1,0 +1,9 @@
+postulate_39	Now	O
+postulate_39	let	O
+postulate_39	us	O
+postulate_39	consider	O
+postulate_39	the	O
+postulate_39	group	O
+postulate_39	postulate	postulate_nou
+postulate_39	inverse	O
+postulate_39	element	O

@@ -1,0 +1,16 @@
+learned_38	After	O
+learned_38	Gram	O
+learned_38	learned	learned_vrb
+learned_38	what	O
+learned_38	happened	O
+learned_38	from	O
+learned_38	Bon	O
+learned_38	's	O
+learned_38	little	O
+learned_38	sister	O
+learned_38	Shie	O
+learned_38	he	O
+learned_38	intervened	O
+learned_38	to	O
+learned_38	rescue	O
+learned_38	him	O

@@ -1,0 +1,14 @@
+uses_18	The	O
+uses_18	episode	O
+uses_18	uses	uses_vrb
+uses_18	elements	O
+uses_18	from	O
+uses_18	The	O
+uses_18	Legend	O
+uses_18	of	O
+uses_18	Zelda	O
+uses_18	and	O
+uses_18	The	O
+uses_18	Adventure	O
+uses_18	of	O
+uses_18	Link	O

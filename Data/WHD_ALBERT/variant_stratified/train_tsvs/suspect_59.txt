@@ -1,0 +1,17 @@
+suspect_59	Asterix	O
+suspect_59	finds	O
+suspect_59	out	O
+suspect_59	that	O
+suspect_59	some	O
+suspect_59	people	O
+suspect_59	suspect	suspect_vrb
+suspect_59	the	O
+suspect_59	baby	O
+suspect_59	is	O
+suspect_59	his	O
+suspect_59	illegitimate	O
+suspect_59	child	O
+suspect_59	leaving	O
+suspect_59	him	O
+suspect_59	mildly	O
+suspect_59	shocked	O

@@ -1,0 +1,14 @@
+overthrow_6	In	O
+overthrow_6	510	O
+overthrow_6	Spartan	O
+overthrow_6	troops	O
+overthrow_6	helped	O
+overthrow_6	the	O
+overthrow_6	Athenians	O
+overthrow_6	overthrow	overthrow_vrb
+overthrow_6	the	O
+overthrow_6	tyrant	O
+overthrow_6	Hippias	O
+overthrow_6	son	O
+overthrow_6	of	O
+overthrow_6	Peisistratos	O

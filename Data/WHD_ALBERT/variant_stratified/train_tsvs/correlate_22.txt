@@ -1,0 +1,16 @@
+correlate_22	Reproductive	O
+correlate_22	success	O
+correlate_22	of	O
+correlate_22	sires	O
+correlate_22	was	O
+correlate_22	found	O
+correlate_22	to	O
+correlate_22	correlate	correlate_nou-vrb
+correlate_22	inversely	O
+correlate_22	with	O
+correlate_22	their	O
+correlate_22	genetic	O
+correlate_22	relatedness	O
+correlate_22	to	O
+correlate_22	the	O
+correlate_22	mother	O

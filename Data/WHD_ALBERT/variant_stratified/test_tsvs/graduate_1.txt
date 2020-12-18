@@ -1,0 +1,14 @@
+graduate_1	She	O
+graduate_1	began	O
+graduate_1	her	O
+graduate_1	graduate	graduate_adj-nou
+graduate_1	studies	O
+graduate_1	in	O
+graduate_1	1974	O
+graduate_1	at	O
+graduate_1	the	O
+graduate_1	University	O
+graduate_1	of	O
+graduate_1	Colorado	O
+graduate_1	at	O
+graduate_1	Boulder	O

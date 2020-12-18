@@ -1,0 +1,9 @@
+sake_8	You	O
+sake_8	're	O
+sake_8	in	O
+sake_8	a	O
+sake_8	nightclub	O
+sake_8	for	O
+sake_8	God	O
+sake_8	's	O
+sake_8	sake	sake

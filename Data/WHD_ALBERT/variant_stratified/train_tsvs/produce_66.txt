@@ -1,0 +1,15 @@
+produce_66	Artist	O
+produce_66	Michael	O
+produce_66	Green	O
+produce_66	worked	O
+produce_66	with	O
+produce_66	Coleman	O
+produce_66	Barks	O
+produce_66	to	O
+produce_66	produce	produce_vrb
+produce_66	illustrated	O
+produce_66	version	O
+produce_66	of	O
+produce_66	Rumi	O
+produce_66	's	O
+produce_66	works	O

@@ -1,0 +1,12 @@
+retard_8	Momentum	O
+retard_8	carries	O
+retard_8	the	O
+retard_8	blade	O
+retard_8	further	O
+retard_8	before	O
+retard_8	flanges	O
+retard_8	not	O
+retard_8	shown	O
+retard_8	retard	retard_vrb
+retard_8	its	O
+retard_8	motion	O

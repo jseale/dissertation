@@ -1,0 +1,14 @@
+rerelease_61	This	O
+rerelease_61	DVD	O
+rerelease_61	set	O
+rerelease_61	contains	O
+rerelease_61	the	O
+rerelease_61	rerelease	rerelease
+rerelease_61	version	O
+rerelease_61	of	O
+rerelease_61	this	O
+rerelease_61	film	O
+rerelease_61	from	O
+rerelease_61	Realart	O
+rerelease_61	Pictures	O
+rerelease_61	Inc	O

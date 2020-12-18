@@ -1,0 +1,9 @@
+bass_6	It	O
+bass_6	is	O
+bass_6	vocal	O
+bass_6	music	O
+bass_6	accompanied	O
+bass_6	by	O
+bass_6	a	O
+bass_6	double	O
+bass_6	bass	bass

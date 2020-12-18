@@ -1,0 +1,16 @@
+invert_1	This	O
+invert_1	means	O
+invert_1	that	O
+invert_1	invert	invert_adj-nou
+invert_1	sugar	O
+invert_1	has	O
+invert_1	the	O
+invert_1	ability	O
+invert_1	to	O
+invert_1	prevent	O
+invert_1	crystallization	O
+invert_1	and	O
+invert_1	produce	O
+invert_1	a	O
+invert_1	tender	O
+invert_1	marshmallow	O

@@ -1,0 +1,11 @@
+intrigue_31	The	O
+intrigue_31	episode	O
+intrigue_31	is	O
+intrigue_31	a	O
+intrigue_31	tale	O
+intrigue_31	of	O
+intrigue_31	intrigue	intrigue_nou
+intrigue_31	involving	O
+intrigue_31	the	O
+intrigue_31	Texas	O
+intrigue_31	Revolution	O

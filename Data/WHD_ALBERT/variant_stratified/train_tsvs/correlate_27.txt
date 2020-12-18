@@ -1,0 +1,14 @@
+correlate_27	These	O
+correlate_27	assessments	O
+correlate_27	by	O
+correlate_27	historians	O
+correlate_27	correlate	correlate_nou-vrb
+correlate_27	with	O
+correlate_27	the	O
+correlate_27	goal	O
+correlate_27	Gladden	O
+correlate_27	held	O
+correlate_27	up	O
+correlate_27	for	O
+correlate_27	his	O
+correlate_27	ministry	O

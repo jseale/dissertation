@@ -1,0 +1,14 @@
+associate_37	He	O
+associate_37	served	O
+associate_37	as	O
+associate_37	an	O
+associate_37	Associate	associate_adj-nou
+associate_37	Justice	O
+associate_37	until	O
+associate_37	his	O
+associate_37	ascension	O
+associate_37	to	O
+associate_37	Chief	O
+associate_37	Justice	O
+associate_37	in	O
+associate_37	1972	O

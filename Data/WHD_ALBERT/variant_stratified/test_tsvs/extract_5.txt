@@ -1,0 +1,14 @@
+extract_5	ITOA	O
+extract_5	may	O
+extract_5	apply	O
+extract_5	big	O
+extract_5	data	O
+extract_5	analytics	O
+extract_5	to	O
+extract_5	large	O
+extract_5	datasets	O
+extract_5	where	O
+extract_5	to	O
+extract_5	extract	extract_vrb
+extract_5	business	O
+extract_5	insights	O

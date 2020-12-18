@@ -1,0 +1,16 @@
+present_76	The	O
+present_76	14th	O
+present_76	century	O
+present_76	brasses	O
+present_76	are	O
+present_76	much	O
+present_76	more	O
+present_76	numerous	O
+present_76	and	O
+present_76	present	present_vrb
+present_76	a	O
+present_76	remarkable	O
+present_76	variety	O
+present_76	in	O
+present_76	their	O
+present_76	details	O

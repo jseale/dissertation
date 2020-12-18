@@ -1,0 +1,13 @@
+convert_11	However	O
+convert_11	she	O
+convert_11	made	O
+convert_11	known	O
+convert_11	to	O
+convert_11	Sebastian	O
+convert_11	her	O
+convert_11	desire	O
+convert_11	to	O
+convert_11	convert	convert_vrb
+convert_11	to	O
+convert_11	the	O
+convert_11	Church	O

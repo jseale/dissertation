@@ -1,0 +1,16 @@
+import_34	Ningbo	O
+import_34	is	O
+import_34	a	O
+import_34	growing	O
+import_34	economic	O
+import_34	port	O
+import_34	which	O
+import_34	provides	O
+import_34	import	import_nou
+import_34	and	O
+import_34	export	O
+import_34	routes	O
+import_34	for	O
+import_34	neighboring	O
+import_34	provincial	O
+import_34	cities	O

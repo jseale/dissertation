@@ -1,0 +1,13 @@
+fragment_20	Lenz	O
+fragment_20	is	O
+fragment_20	a	O
+fragment_20	novella	O
+fragment_20	fragment	fragment_nou
+fragment_20	written	O
+fragment_20	by	O
+fragment_20	Georg	O
+fragment_20	Buchner	O
+fragment_20	in	O
+fragment_20	Strasbourg	O
+fragment_20	in	O
+fragment_20	1836	O

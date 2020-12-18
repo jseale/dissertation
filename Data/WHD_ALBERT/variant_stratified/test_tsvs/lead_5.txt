@@ -1,0 +1,9 @@
+lead_5	It	O
+lead_5	is	O
+lead_5	the	O
+lead_5	lead	lead_nou-vrb
+lead_5	single	O
+lead_5	from	O
+lead_5	his	O
+lead_5	album	O
+lead_5	Celebrate	O

@@ -1,0 +1,11 @@
+protest_4	Other	O
+protest_4	protest	protest_nou
+protest_4	encampments	O
+protest_4	were	O
+protest_4	created	O
+protest_4	and	O
+protest_4	subsequently	O
+protest_4	dismantled	O
+protest_4	by	O
+protest_4	law	O
+protest_4	enforcement	O

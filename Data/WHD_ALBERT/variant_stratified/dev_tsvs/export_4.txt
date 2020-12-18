@@ -1,0 +1,15 @@
+export_4	Export	export_nou
+export_4	of	O
+export_4	petroleum	O
+export_4	and	O
+export_4	related	O
+export_4	products	O
+export_4	amounted	O
+export_4	to	O
+export_4	$	O
+export_4	2.6	O
+export_4	billion	O
+export_4	in	O
+export_4	the	O
+export_4	year	O
+export_4	2000	O

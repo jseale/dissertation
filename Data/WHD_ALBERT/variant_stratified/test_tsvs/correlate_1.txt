@@ -1,0 +1,15 @@
+correlate_1	There	O
+correlate_1	is	O
+correlate_1	also	O
+correlate_1	evidence	O
+correlate_1	that	O
+correlate_1	other	O
+correlate_1	non	O
+correlate_1	trait	O
+correlate_1	elements	O
+correlate_1	of	O
+correlate_1	personality	O
+correlate_1	may	O
+correlate_1	correlate	correlate_nou-vrb
+correlate_1	with	O
+correlate_1	happiness	O

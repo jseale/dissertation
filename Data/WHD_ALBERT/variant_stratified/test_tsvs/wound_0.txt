@@ -1,0 +1,17 @@
+wound_0	His	O
+wound_0	doctors	O
+wound_0	commented	O
+wound_0	in	O
+wound_0	their	O
+wound_0	report	O
+wound_0	on	O
+wound_0	how	O
+wound_0	clean	O
+wound_0	Marvin	O
+wound_0	's	O
+wound_0	head	O
+wound_0	wound	wound_nou-vrb
+wound_0	was	O
+wound_0	given	O
+wound_0	the	O
+wound_0	circumstances	O

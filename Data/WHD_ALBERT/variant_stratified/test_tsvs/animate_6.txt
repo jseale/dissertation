@@ -1,0 +1,15 @@
+animate_6	We	O
+animate_6	have	O
+animate_6	not	O
+animate_6	forgotten	O
+animate_6	that	O
+animate_6	you	O
+animate_6	are	O
+animate_6	anxious	O
+animate_6	to	O
+animate_6	animate	animate_vrb
+animate_6	here	O
+animate_6	at	O
+animate_6	the	O
+animate_6	studio	O
+animate_6	but	O

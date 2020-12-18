@@ -1,0 +1,17 @@
+upset_75	The	O
+upset_75	first	O
+upset_75	is	O
+upset_75	that	O
+upset_75	you	O
+upset_75	were	O
+upset_75	in	O
+upset_75	a	O
+upset_75	dead	O
+upset_75	end	O
+upset_75	because	O
+upset_75	you	O
+upset_75	upset	upset_vrb
+upset_75	everyone	O
+upset_75	without	O
+upset_75	satisfying	O
+upset_75	Italy	O

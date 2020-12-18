@@ -1,0 +1,9 @@
+conjugate_1	Minimal	O
+conjugate_1	polynomials	O
+conjugate_1	are	O
+conjugate_1	also	O
+conjugate_1	used	O
+conjugate_1	to	O
+conjugate_1	define	O
+conjugate_1	conjugate	conjugate_adj-nou
+conjugate_1	elements	O

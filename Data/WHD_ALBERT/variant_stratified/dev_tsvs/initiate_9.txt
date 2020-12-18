@@ -1,0 +1,15 @@
+initiate_9	Sustainability	O
+initiate_9	mini	O
+initiate_9	grants	O
+initiate_9	also	O
+initiate_9	provide	O
+initiate_9	students	O
+initiate_9	with	O
+initiate_9	opportunities	O
+initiate_9	to	O
+initiate_9	initiate	initiate_vrb
+initiate_9	contributions	O
+initiate_9	to	O
+initiate_9	campus	O
+initiate_9	sustainability	O
+initiate_9	efforts	O

@@ -1,0 +1,8 @@
+animate_9	Motion	O
+animate_9	capturing	O
+animate_9	was	O
+animate_9	used	O
+animate_9	to	O
+animate_9	animate	animate_vrb
+animate_9	the	O
+animate_9	film	O

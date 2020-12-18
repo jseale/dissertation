@@ -1,0 +1,14 @@
+nestle_48	Russky	O
+nestle_48	Produkt	O
+nestle_48	's	O
+nestle_48	largest	O
+nestle_48	international	O
+nestle_48	competitors	O
+nestle_48	are	O
+nestle_48	Nestle	nestle_nam
+nestle_48	Kraft	O
+nestle_48	Foods	O
+nestle_48	Unilever	O
+nestle_48	and	O
+nestle_48	Mars	O
+nestle_48	Incorporated	O

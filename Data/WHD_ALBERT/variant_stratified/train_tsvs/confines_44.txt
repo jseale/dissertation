@@ -1,0 +1,16 @@
+confines_44	One	O
+confines_44	day	O
+confines_44	Jerusalem	O
+confines_44	escaped	O
+confines_44	from	O
+confines_44	her	O
+confines_44	confines	confines_nou
+confines_44	into	O
+confines_44	a	O
+confines_44	nearby	O
+confines_44	forest	O
+confines_44	and	O
+confines_44	became	O
+confines_44	aggressive	O
+confines_44	and	O
+confines_44	wild	O

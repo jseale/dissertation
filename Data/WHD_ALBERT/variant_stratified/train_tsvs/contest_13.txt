@@ -1,0 +1,10 @@
+contest_13	For	O
+contest_13	the	O
+contest_13	second	O
+contest_13	contest	contest_nou
+contest_13	from	O
+contest_13	Inkshares	O
+contest_13	they	O
+contest_13	partnered	O
+contest_13	with	O
+contest_13	Nerdist	O

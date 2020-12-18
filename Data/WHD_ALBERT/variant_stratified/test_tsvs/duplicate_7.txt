@@ -1,0 +1,17 @@
+duplicate_7	Between	O
+duplicate_7	2008	O
+duplicate_7	and	O
+duplicate_7	2010	O
+duplicate_7	work	O
+duplicate_7	was	O
+duplicate_7	carried	O
+duplicate_7	out	O
+duplicate_7	to	O
+duplicate_7	duplicate	duplicate_vrb
+duplicate_7	the	O
+duplicate_7	tracks	O
+duplicate_7	between	O
+duplicate_7	Darra	O
+duplicate_7	and	O
+duplicate_7	Corinda	O
+duplicate_7	stations	O

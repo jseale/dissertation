@@ -1,0 +1,15 @@
+deliberate_5	Nothing	O
+deliberate_5	more	O
+deliberate_5	than	O
+deliberate_5	a	O
+deliberate_5	terribly	O
+deliberate_5	produced	O
+deliberate_5	mess	O
+deliberate_5	of	O
+deliberate_5	tragic	O
+deliberate_5	rock	O
+deliberate_5	star	O
+deliberate_5	baiting	O
+deliberate_5	and	O
+deliberate_5	deliberate	deliberate_adj
+deliberate_5	discordance	O

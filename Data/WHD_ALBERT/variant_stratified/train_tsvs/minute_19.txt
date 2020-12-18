@@ -1,0 +1,13 @@
+minute_19	It	O
+minute_19	's	O
+minute_19	about	O
+minute_19	a	O
+minute_19	15-minute	O
+minute_19	walk	O
+minute_19	from	O
+minute_19	the	O
+minute_19	parking	O
+minute_19	lot	O
+minute_19	to	O
+minute_19	the	O
+minute_19	beach	O

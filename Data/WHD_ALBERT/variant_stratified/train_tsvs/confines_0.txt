@@ -1,0 +1,14 @@
+confines_0	Part	O
+confines_0	of	O
+confines_0	the	O
+confines_0	river	O
+confines_0	exists	O
+confines_0	within	O
+confines_0	the	O
+confines_0	confines	confines_nou
+confines_0	of	O
+confines_0	the	O
+confines_0	Alafia	O
+confines_0	River	O
+confines_0	State	O
+confines_0	Park	O

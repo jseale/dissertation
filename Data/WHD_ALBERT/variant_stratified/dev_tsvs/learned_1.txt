@@ -1,0 +1,10 @@
+learned_1	It	O
+learned_1	was	O
+learned_1	created	O
+learned_1	after	O
+learned_1	lessons	O
+learned_1	learned	learned_vrb
+learned_1	in	O
+learned_1	Afghanistan	O
+learned_1	and	O
+learned_1	Iraq	O

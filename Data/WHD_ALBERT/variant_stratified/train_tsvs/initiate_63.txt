@@ -1,0 +1,9 @@
+initiate_63	They	O
+initiate_63	initiate	initiate_vrb
+initiate_63	a	O
+initiate_63	prison	O
+initiate_63	riot	O
+initiate_63	to	O
+initiate_63	distract	O
+initiate_63	the	O
+initiate_63	guards	O

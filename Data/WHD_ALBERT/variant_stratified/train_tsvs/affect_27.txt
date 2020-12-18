@@ -1,0 +1,15 @@
+affect_27	Therefore	O
+affect_27	signals	O
+affect_27	from	O
+affect_27	an	O
+affect_27	interval	O
+affect_27	approximately	O
+affect_27	into	O
+affect_27	the	O
+affect_27	future	O
+affect_27	affect	affect
+affect_27	the	O
+affect_27	acceleration	O
+affect_27	in	O
+affect_27	the	O
+affect_27	present	O

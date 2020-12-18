@@ -1,0 +1,14 @@
+attribute_50	Many	O
+attribute_50	attribute	attribute_vrb
+attribute_50	Manley	O
+attribute_50	's	O
+attribute_50	victory	O
+attribute_50	to	O
+attribute_50	attracting	O
+attribute_50	business	O
+attribute_50	to	O
+attribute_50	Ottawa	O
+attribute_50	's	O
+attribute_50	high	O
+attribute_50	tech	O
+attribute_50	sector	O

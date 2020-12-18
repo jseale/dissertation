@@ -1,0 +1,16 @@
+nestle_6	The	O
+nestle_6	milk	O
+nestle_6	is	O
+nestle_6	collected	O
+nestle_6	by	O
+nestle_6	various	O
+nestle_6	milk	O
+nestle_6	reprocessing	O
+nestle_6	companies	O
+nestle_6	like	O
+nestle_6	Nestle	nestle_nam
+nestle_6	Chaudhry	O
+nestle_6	Dairies	O
+nestle_6	Limited	O
+nestle_6	Mubarak	O
+nestle_6	Dairies	O

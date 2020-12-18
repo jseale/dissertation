@@ -1,0 +1,17 @@
+duplicate_3	Michigan	O
+duplicate_3	election	O
+duplicate_3	law	O
+duplicate_3	stipulates	O
+duplicate_3	that	O
+duplicate_3	if	O
+duplicate_3	duplicates	O
+duplicate_3	are	O
+duplicate_3	found	O
+duplicate_3	both	O
+duplicate_3	the	O
+duplicate_3	original	O
+duplicate_3	and	O
+duplicate_3	duplicate	duplicate_adj-nou
+duplicate_3	are	O
+duplicate_3	ruled	O
+duplicate_3	invalid	O

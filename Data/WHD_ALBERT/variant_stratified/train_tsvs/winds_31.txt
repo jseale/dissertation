@@ -1,0 +1,12 @@
+winds_31	Gusty	O
+winds_31	winds	winds_nou
+winds_31	were	O
+winds_31	also	O
+winds_31	reported	O
+winds_31	causing	O
+winds_31	power	O
+winds_31	outages	O
+winds_31	to	O
+winds_31	over	O
+winds_31	100,000	O
+winds_31	people	O

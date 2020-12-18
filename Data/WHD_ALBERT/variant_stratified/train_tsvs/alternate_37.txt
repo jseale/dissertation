@@ -1,0 +1,17 @@
+alternate_37	Also	O
+alternate_37	during	O
+alternate_37	round	O
+alternate_37	robin	O
+alternate_37	play	O
+alternate_37	Serena	O
+alternate_37	Williams	O
+alternate_37	withdrew	O
+alternate_37	and	O
+alternate_37	Marion	O
+alternate_37	Bartoli	O
+alternate_37	was	O
+alternate_37	brought	O
+alternate_37	in	O
+alternate_37	as	O
+alternate_37	the	O
+alternate_37	alternate	alternate_adj-nou

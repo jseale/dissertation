@@ -1,0 +1,12 @@
+reading_9	The	O
+reading_9	station	O
+reading_9	is	O
+reading_9	licensed	O
+reading_9	to	O
+reading_9	Boyertown	O
+reading_9	Pennsylvania	O
+reading_9	and	O
+reading_9	serves	O
+reading_9	the	O
+reading_9	Reading	reading_geo
+reading_9	area	O

@@ -1,0 +1,13 @@
+graduate_8	An	O
+graduate_8	Annapolis	O
+graduate_8	graduate	graduate_adj-nou
+graduate_8	and	O
+graduate_8	expert	O
+graduate_8	marksman	O
+graduate_8	Captain	O
+graduate_8	Tomb	O
+graduate_8	had	O
+graduate_8	a	O
+graduate_8	distinguished	O
+graduate_8	naval	O
+graduate_8	career	O

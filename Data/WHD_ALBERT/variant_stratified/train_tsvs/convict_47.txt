@@ -1,0 +1,12 @@
+convict_47	ReferencesBateson	O
+convict_47	Charles	O
+convict_47	1969	O
+convict_47	The	O
+convict_47	Convict	convict_nou
+convict_47	Ships	O
+convict_47	1787	O
+convict_47	1868	O
+convict_47	Glasgow	O
+convict_47	Brown	O
+convict_47	Son	O
+convict_47	Ferguson	O

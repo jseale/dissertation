@@ -1,0 +1,12 @@
+permit_78	Because	O
+permit_78	of	O
+permit_78	this	O
+permit_78	many	O
+permit_78	competition	O
+permit_78	production	O
+permit_78	companies	O
+permit_78	permit	permit_vrb
+permit_78	photography	O
+permit_78	at	O
+permit_78	their	O
+permit_78	competitions	O

@@ -1,0 +1,16 @@
+coordinate_74	The	O
+coordinate_74	ACLU	O
+coordinate_74	formed	O
+coordinate_74	the	O
+coordinate_74	National	O
+coordinate_74	Committee	O
+coordinate_74	on	O
+coordinate_74	Freedom	O
+coordinate_74	from	O
+coordinate_74	Censorship	O
+coordinate_74	in	O
+coordinate_74	1931	O
+coordinate_74	to	O
+coordinate_74	coordinate	coordinate_vrb
+coordinate_74	this	O
+coordinate_74	effort	O

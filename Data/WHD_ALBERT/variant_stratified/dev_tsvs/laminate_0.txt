@@ -1,0 +1,8 @@
+laminate_0	Every	O
+laminate_0	person	O
+laminate_0	in	O
+laminate_0	the	O
+laminate_0	crowd	O
+laminate_0	had	O
+laminate_0	a	O
+laminate_0	laminate	laminate_nou

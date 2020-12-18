@@ -1,0 +1,15 @@
+extract_28	In	O
+extract_28	2009	O
+extract_28	she	O
+extract_28	appeared	O
+extract_28	in	O
+extract_28	the	O
+extract_28	comedy	O
+extract_28	film	O
+extract_28	Extract	extract_nou
+extract_28	with	O
+extract_28	Ben	O
+extract_28	Affleck	O
+extract_28	and	O
+extract_28	Jason	O
+extract_28	Bateman	O

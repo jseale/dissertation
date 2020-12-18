@@ -1,0 +1,12 @@
+incline_7	The	O
+incline_7	Duquesne	O
+incline_7	Incline	incline_nou
+incline_7	connects	O
+incline_7	Duquesne	O
+incline_7	Heights	O
+incline_7	with	O
+incline_7	the	O
+incline_7	lower	O
+incline_7	elevations	O
+incline_7	of	O
+incline_7	Pittsburgh	O

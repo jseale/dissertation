@@ -1,0 +1,16 @@
+abuses_22	Frank	O
+abuses_22	and	O
+abuses_22	outspoken	O
+abuses_22	he	O
+abuses_22	took	O
+abuses_22	every	O
+abuses_22	opportunity	O
+abuses_22	to	O
+abuses_22	denounce	O
+abuses_22	the	O
+abuses_22	abuses	abuses_nou
+abuses_22	and	O
+abuses_22	arrogance	O
+abuses_22	of	O
+abuses_22	the	O
+abuses_22	Spaniards	O

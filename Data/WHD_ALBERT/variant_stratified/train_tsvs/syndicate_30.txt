@@ -1,0 +1,15 @@
+syndicate_30	As	O
+syndicate_30	such	O
+syndicate_30	humanity	O
+syndicate_30	was	O
+syndicate_30	spared	O
+syndicate_30	immediate	O
+syndicate_30	invasion	O
+syndicate_30	and	O
+syndicate_30	The	O
+syndicate_30	Syndicate	syndicate_nou
+syndicate_30	began	O
+syndicate_30	negotiations	O
+syndicate_30	with	O
+syndicate_30	the	O
+syndicate_30	Colonists	O

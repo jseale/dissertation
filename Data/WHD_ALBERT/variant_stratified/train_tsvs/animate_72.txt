@@ -1,0 +1,14 @@
+animate_72	Shortly	O
+animate_72	after	O
+animate_72	that	O
+animate_72	Toba	O
+animate_72	formally	O
+animate_72	made	O
+animate_72	the	O
+animate_72	proposal	O
+animate_72	to	O
+animate_72	P.A.Works	O
+animate_72	to	O
+animate_72	animate	animate_vrb
+animate_72	the	O
+animate_72	project	O

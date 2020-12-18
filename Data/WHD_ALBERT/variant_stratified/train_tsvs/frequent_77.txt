@@ -1,0 +1,9 @@
+frequent_77	Floods	O
+frequent_77	frequent	frequent_vrb
+frequent_77	the	O
+frequent_77	island	O
+frequent_77	every	O
+frequent_77	year	O
+frequent_77	without	O
+frequent_77	any	O
+frequent_77	exception	O

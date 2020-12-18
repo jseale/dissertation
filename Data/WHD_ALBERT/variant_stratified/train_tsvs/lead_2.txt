@@ -1,0 +1,8 @@
+lead_2	Lead	lead_nou
+lead_2	is	O
+lead_2	a	O
+lead_2	relatively	O
+lead_2	unreactive	O
+lead_2	post	O
+lead_2	transition	O
+lead_2	metal	O

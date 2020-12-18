@@ -1,0 +1,16 @@
+coordinate_7	No	O
+coordinate_7	coordinate	coordinate_adj-nou
+coordinate_7	condition	O
+coordinate_7	is	O
+coordinate_7	generally	O
+coordinate_7	covariant	O
+coordinate_7	but	O
+coordinate_7	many	O
+coordinate_7	coordinate	coordinate_adj-nou
+coordinate_7	conditions	O
+coordinate_7	are	O
+coordinate_7	Lorentz	O
+coordinate_7	covariant	O
+coordinate_7	or	O
+coordinate_7	rotationally	O
+coordinate_7	covariant	O

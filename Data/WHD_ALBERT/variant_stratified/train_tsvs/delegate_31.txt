@@ -1,0 +1,11 @@
+delegate_31	He	O
+delegate_31	was	O
+delegate_31	an	O
+delegate_31	alternate	O
+delegate_31	delegate	delegate_nou
+delegate_31	to	O
+delegate_31	the	O
+delegate_31	1912	O
+delegate_31	Democratic	O
+delegate_31	National	O
+delegate_31	Convention	O

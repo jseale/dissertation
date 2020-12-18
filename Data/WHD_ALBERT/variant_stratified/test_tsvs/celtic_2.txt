@@ -1,0 +1,14 @@
+celtic_2	The	O
+celtic_2	name	O
+celtic_2	is	O
+celtic_2	said	O
+celtic_2	to	O
+celtic_2	have	O
+celtic_2	come	O
+celtic_2	from	O
+celtic_2	the	O
+celtic_2	Celtic	celtic
+celtic_2	word	O
+celtic_2	for	O
+celtic_2	elm	O
+celtic_2	Lemo	O

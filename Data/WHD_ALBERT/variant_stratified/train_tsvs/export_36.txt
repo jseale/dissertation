@@ -1,0 +1,8 @@
+export_36	Export	export_nou
+export_36	share	O
+export_36	60	O
+export_36	worldwide	O
+export_36	roughly	O
+export_36	45/55	O
+export_36	Europe	O
+export_36	world	O

@@ -1,0 +1,13 @@
+perfect_2	After	O
+perfect_2	two	O
+perfect_2	time	O
+perfect_2	limit	O
+perfect_2	draws	O
+perfect_2	Mr.	O
+perfect_2	Perfect	perfect_adj
+perfect_2	defeated	O
+perfect_2	Doink	O
+perfect_2	in	O
+perfect_2	their	O
+perfect_2	third	O
+perfect_2	match	O

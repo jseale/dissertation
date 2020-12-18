@@ -1,0 +1,16 @@
+refuse_23	Frightened	O
+refuse_23	Rebecca	O
+refuse_23	repeatedly	O
+refuse_23	asks	O
+refuse_23	Noah	O
+refuse_23	about	O
+refuse_23	the	O
+refuse_23	mark	O
+refuse_23	only	O
+refuse_23	for	O
+refuse_23	him	O
+refuse_23	to	O
+refuse_23	refuse	refuse_vrb
+refuse_23	to	O
+refuse_23	answer	O
+refuse_23	her	O

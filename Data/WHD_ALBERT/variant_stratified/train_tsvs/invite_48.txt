@@ -1,0 +1,13 @@
+invite_48	It	O
+invite_48	was	O
+invite_48	the	O
+invite_48	first	O
+invite_48	popular	O
+invite_48	centre	O
+invite_48	to	O
+invite_48	invite	invite_vrb
+invite_48	teachers	O
+invite_48	gurus	O
+invite_48	monks	O
+invite_48	researchers	O
+invite_48	etc	O

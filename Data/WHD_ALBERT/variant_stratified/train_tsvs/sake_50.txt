@@ -1,0 +1,16 @@
+sake_50	Whatever	O
+sake_50	repercussions	O
+sake_50	come	O
+sake_50	I	O
+sake_50	'm	O
+sake_50	willing	O
+sake_50	to	O
+sake_50	be	O
+sake_50	on	O
+sake_50	that	O
+sake_50	chopping	O
+sake_50	block	O
+sake_50	for	O
+sake_50	entertainment	O
+sake_50	's	O
+sake_50	sake	sake

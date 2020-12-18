@@ -1,0 +1,17 @@
+implant_16	The	O
+implant_16	prosthetic	O
+implant_16	can	O
+implant_16	be	O
+implant_16	controlled	O
+implant_16	by	O
+implant_16	the	O
+implant_16	brain	O
+implant_16	using	O
+implant_16	a	O
+implant_16	direct	O
+implant_16	implant	implant_nou
+implant_16	or	O
+implant_16	implant	implant_nou
+implant_16	into	O
+implant_16	various	O
+implant_16	muscles	O

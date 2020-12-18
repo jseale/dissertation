@@ -1,0 +1,17 @@
+blessed_3	The	O
+blessed_3	Church	O
+blessed_3	of	O
+blessed_3	Springfield	O
+blessed_3	is	O
+blessed_3	incarnated	O
+blessed_3	as	O
+blessed_3	a	O
+blessed_3	blessed	blessed_adj
+blessed_3	community	O
+blessed_3	of	O
+blessed_3	faith	O
+blessed_3	with	O
+blessed_3	no	O
+blessed_3	fences	O
+blessed_3	of	O
+blessed_3	creed	O

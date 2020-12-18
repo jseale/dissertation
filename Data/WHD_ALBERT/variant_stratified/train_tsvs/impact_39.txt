@@ -1,0 +1,16 @@
+impact_39	And	O
+impact_39	for	O
+impact_39	maximum	O
+impact_39	impact	impact_nou
+impact_39	they	O
+impact_39	'll	O
+impact_39	be	O
+impact_39	performing	O
+impact_39	their	O
+impact_39	own	O
+impact_39	stunts	O
+impact_39	in	O
+impact_39	this	O
+impact_39	action	O
+impact_39	oriented	O
+impact_39	feature	O

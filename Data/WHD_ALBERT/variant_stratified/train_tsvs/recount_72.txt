@@ -1,0 +1,9 @@
+recount_72	Many	O
+recount_72	sources	O
+recount_72	recount	recount_vrb
+recount_72	his	O
+recount_72	virtuosity	O
+recount_72	as	O
+recount_72	a	O
+recount_72	theorbo	O
+recount_72	player	O

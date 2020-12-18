@@ -1,0 +1,16 @@
+combine_9	In	O
+combine_9	Maryland	O
+combine_9	the	O
+combine_9	Catholic	O
+combine_9	planter	O
+combine_9	urban	O
+combine_9	vote	O
+combine_9	could	O
+combine_9	combine	combine_vrb
+combine_9	to	O
+combine_9	establish	O
+combine_9	a	O
+combine_9	pro	O
+combine_9	slavery	O
+combine_9	state	O
+combine_9	government	O

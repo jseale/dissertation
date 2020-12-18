@@ -1,0 +1,7 @@
+refuse_75	When	O
+refuse_75	the	O
+refuse_75	Reunciates	O
+refuse_75	refuse	refuse_vrb
+refuse_75	a	O
+refuse_75	fight	O
+refuse_75	ensues	O

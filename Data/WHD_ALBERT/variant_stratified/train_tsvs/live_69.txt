@@ -1,0 +1,17 @@
+live_69	Members	O
+live_69	of	O
+live_69	the	O
+live_69	genus	O
+live_69	live	live_vrb
+live_69	solitarily	O
+live_69	with	O
+live_69	the	O
+live_69	exception	O
+live_69	of	O
+live_69	the	O
+live_69	time	O
+live_69	cubs	O
+live_69	spend	O
+live_69	with	O
+live_69	their	O
+live_69	mothers	O

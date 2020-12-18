@@ -1,0 +1,14 @@
+confines_19	Variants	O
+confines_19	of	O
+confines_19	the	O
+confines_19	subject	O
+confines_19	outside	O
+confines_19	such	O
+confines_19	formal	O
+confines_19	confines	confines_nou
+confines_19	include	O
+confines_19	natural	O
+confines_19	and	O
+confines_19	quasi	O
+confines_19	natural	O
+confines_19	experiments	O

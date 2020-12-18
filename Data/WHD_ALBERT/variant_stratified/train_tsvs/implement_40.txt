@@ -1,0 +1,14 @@
+implement_40	Mr.	O
+implement_40	Alier	O
+implement_40	's	O
+implement_40	book	O
+implement_40	was	O
+implement_40	about	O
+implement_40	such	O
+implement_40	agreements	O
+implement_40	and	O
+implement_40	the	O
+implement_40	failure	O
+implement_40	to	O
+implement_40	implement	implement_vrb
+implement_40	them	O

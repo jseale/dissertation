@@ -1,0 +1,9 @@
+mobile_10	She	O
+mobile_10	was	O
+mobile_10	decommissioned	O
+mobile_10	in	O
+mobile_10	Mobile	mobile_geo
+mobile_10	on	O
+mobile_10	3	O
+mobile_10	August	O
+mobile_10	1998	O

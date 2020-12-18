@@ -1,0 +1,17 @@
+wind_5	Doppler	O
+wind_5	lidars	O
+wind_5	are	O
+wind_5	usually	O
+wind_5	pointed	O
+wind_5	to	O
+wind_5	zenith	O
+wind_5	and	O
+wind_5	provide	O
+wind_5	vertically	O
+wind_5	resolved	O
+wind_5	profiles	O
+wind_5	of	O
+wind_5	the	O
+wind_5	vertical	O
+wind_5	wind	wind_nou
+wind_5	component	O

@@ -1,0 +1,10 @@
+learned_31	They	O
+learned_31	've	O
+learned_31	come	O
+learned_31	through	O
+learned_31	it	O
+learned_31	all	O
+learned_31	and	O
+learned_31	learned	learned_vrb
+learned_31	the	O
+learned_31	most	O

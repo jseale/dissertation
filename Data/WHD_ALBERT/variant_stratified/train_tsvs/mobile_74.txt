@@ -1,0 +1,14 @@
+mobile_74	His	O
+mobile_74	Suicide	O
+mobile_74	Squad	O
+mobile_74	film	O
+mobile_74	version	O
+mobile_74	is	O
+mobile_74	playable	O
+mobile_74	in	O
+mobile_74	the	O
+mobile_74	mobile	mobile
+mobile_74	version	O
+mobile_74	of	O
+mobile_74	the	O
+mobile_74	game	O

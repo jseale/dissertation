@@ -1,0 +1,17 @@
+polish_16	In	O
+polish_16	2008	O
+polish_16	the	O
+polish_16	Polish	polish_geo
+polish_16	Archaeological	O
+polish_16	Mission	O
+polish_16	Tyritake	O
+polish_16	of	O
+polish_16	National	O
+polish_16	Museum	O
+polish_16	in	O
+polish_16	Warsaw	O
+polish_16	commenced	O
+polish_16	works	O
+polish_16	at	O
+polish_16	Tyritake	O
+polish_16	Crimea	O

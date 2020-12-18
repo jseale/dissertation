@@ -1,0 +1,16 @@
+sow_65	This	O
+sow_65	sow	sow_nou
+sow_65	head	O
+sow_65	relates	O
+sow_65	to	O
+sow_65	the	O
+sow_65	origins	O
+sow_65	of	O
+sow_65	Vajravarahi	O
+sow_65	from	O
+sow_65	the	O
+sow_65	Hindu	O
+sow_65	sow	sow_nou
+sow_65	faced	O
+sow_65	goddess	O
+sow_65	Varahi	O

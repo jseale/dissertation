@@ -1,0 +1,13 @@
+progress_50	Mary	O
+progress_50	visited	O
+progress_50	him	O
+progress_50	daily	O
+progress_50	so	O
+progress_50	that	O
+progress_50	it	O
+progress_50	appeared	O
+progress_50	a	O
+progress_50	reconciliation	O
+progress_50	was	O
+progress_50	in	O
+progress_50	progress	progress_nou

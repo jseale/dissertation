@@ -1,0 +1,9 @@
+precipitate_56	This	O
+precipitate_56	split	O
+precipitate_56	would	O
+precipitate_56	eventually	O
+precipitate_56	precipitate	precipitate_vrb
+precipitate_56	the	O
+precipitate_56	Fall	O
+precipitate_56	of	O
+precipitate_56	Numenor	O

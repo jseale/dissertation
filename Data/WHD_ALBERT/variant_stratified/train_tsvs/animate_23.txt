@@ -1,0 +1,17 @@
+animate_23	One	O
+animate_23	group	O
+animate_23	of	O
+animate_23	languages	O
+animate_23	requires	O
+animate_23	both	O
+animate_23	the	O
+animate_23	accompanee	O
+animate_23	and	O
+animate_23	the	O
+animate_23	companion	O
+animate_23	to	O
+animate_23	be	O
+animate_23	either	O
+animate_23	human	O
+animate_23	or	O
+animate_23	animate	animate_adj-nou

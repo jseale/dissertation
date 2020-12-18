@@ -1,0 +1,15 @@
+sake_32	Lean	O
+sake_32	shouted	O
+sake_32	at	O
+sake_32	them	O
+sake_32	For	O
+sake_32	God	O
+sake_32	's	O
+sake_32	sake	sake
+sake_32	whistle	O
+sake_32	a	O
+sake_32	march	O
+sake_32	to	O
+sake_32	keep	O
+sake_32	time	O
+sake_32	to	O

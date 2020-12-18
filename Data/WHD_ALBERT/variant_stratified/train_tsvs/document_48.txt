@@ -1,0 +1,12 @@
+document_48	The	O
+document_48	same	O
+document_48	document	document_nou
+document_48	also	O
+document_48	mentions	O
+document_48	the	O
+document_48	church	O
+document_48	of	O
+document_48	S.	O
+document_48	Tommaso	O
+document_48	in	O
+document_48	Agra	O

@@ -1,0 +1,17 @@
+affect_72	Engagement	O
+affect_72	is	O
+affect_72	complex	O
+affect_72	because	O
+affect_72	a	O
+affect_72	variety	O
+affect_72	of	O
+affect_72	exposure	O
+affect_72	and	O
+affect_72	relationship	O
+affect_72	factors	O
+affect_72	affect	affect
+affect_72	engagement	O
+affect_72	making	O
+affect_72	simplified	O
+affect_72	rankings	O
+affect_72	misleading	O

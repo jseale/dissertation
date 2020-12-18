@@ -1,0 +1,16 @@
+separate_55	It	O
+separate_55	had	O
+separate_55	separate	separate_adj
+separate_55	Tx	O
+separate_55	and	O
+separate_55	Rx	O
+separate_55	antennas	O
+separate_55	combined	O
+separate_55	in	O
+separate_55	Type	O
+separate_55	279	O
+separate_55	M	O
+separate_55	to	O
+separate_55	single	O
+separate_55	antenna	O
+separate_55	operation	O

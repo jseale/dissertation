@@ -1,0 +1,17 @@
+misuse_36	Its	O
+misuse_36	most	O
+misuse_36	likely	O
+misuse_36	use	O
+misuse_36	is	O
+misuse_36	for	O
+misuse_36	the	O
+misuse_36	cybercriminals	O
+misuse_36	to	O
+misuse_36	lease	O
+misuse_36	out	O
+misuse_36	portions	O
+misuse_36	of	O
+misuse_36	the	O
+misuse_36	network	O
+misuse_36	for	O
+misuse_36	misuse	misuse_nou

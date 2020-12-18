@@ -1,0 +1,15 @@
+upset_44	Business	O
+upset_44	acquaintances	O
+upset_44	are	O
+upset_44	upset	upset_nou
+upset_44	because	O
+upset_44	Lash	O
+upset_44	might	O
+upset_44	shut	O
+upset_44	down	O
+upset_44	clubs	O
+upset_44	like	O
+upset_44	theirs	O
+upset_44	if	O
+upset_44	elected	O
+upset_44	DA	O

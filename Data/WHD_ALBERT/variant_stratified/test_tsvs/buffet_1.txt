@@ -1,0 +1,16 @@
+buffet_1	In	O
+buffet_1	Sweden	O
+buffet_1	a	O
+buffet_1	traditional	O
+buffet_1	form	O
+buffet_1	of	O
+buffet_1	buffet	buffet_nou
+buffet_1	is	O
+buffet_1	the	O
+buffet_1	smorgasbord	O
+buffet_1	which	O
+buffet_1	literally	O
+buffet_1	means	O
+buffet_1	table	O
+buffet_1	of	O
+buffet_1	sandwiches	O

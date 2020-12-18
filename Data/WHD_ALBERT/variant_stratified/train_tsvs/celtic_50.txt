@@ -1,0 +1,11 @@
+celtic_50	This	O
+celtic_50	indicates	O
+celtic_50	that	O
+celtic_50	she	O
+celtic_50	belonged	O
+celtic_50	to	O
+celtic_50	the	O
+celtic_50	illegal	O
+celtic_50	Celtic	celtic
+celtic_50	Christian	O
+celtic_50	faith	O

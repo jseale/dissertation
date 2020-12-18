@@ -1,0 +1,12 @@
+resume_44	Karl	O
+resume_44	and	O
+resume_44	Tanya	O
+resume_44	decided	O
+resume_44	to	O
+resume_44	resume	resume_vrb
+resume_44	their	O
+resume_44	relationship	O
+resume_44	and	O
+resume_44	a	O
+resume_44	normal	O
+resume_44	life	O

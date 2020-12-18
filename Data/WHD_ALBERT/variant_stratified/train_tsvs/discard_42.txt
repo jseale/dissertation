@@ -1,0 +1,8 @@
+discard_42	We	O
+discard_42	are	O
+discard_42	going	O
+discard_42	to	O
+discard_42	discard	discard_vrb
+discard_42	entirely	O
+discard_42	all	O
+discard_42	ornament	O

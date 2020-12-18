@@ -1,0 +1,14 @@
+discard_29	Moreover	O
+discard_29	whenever	O
+discard_29	they	O
+discard_29	draw	O
+discard_29	discard	discard_vrb
+discard_29	they	O
+discard_29	must	O
+discard_29	ensure	O
+discard_29	their	O
+discard_29	hand	O
+discard_29	stays	O
+discard_29	under	O
+discard_29	12	O
+discard_29	points	O

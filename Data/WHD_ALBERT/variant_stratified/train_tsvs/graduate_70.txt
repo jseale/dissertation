@@ -1,0 +1,14 @@
+graduate_70	Wojciech	O
+graduate_70	is	O
+graduate_70	a	O
+graduate_70	graduate	graduate_adj-nou
+graduate_70	of	O
+graduate_70	history	O
+graduate_70	of	O
+graduate_70	John	O
+graduate_70	Paul	O
+graduate_70	II	O
+graduate_70	Catholic	O
+graduate_70	University	O
+graduate_70	of	O
+graduate_70	Lublin	O

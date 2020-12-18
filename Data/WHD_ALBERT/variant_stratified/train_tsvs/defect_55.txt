@@ -1,0 +1,16 @@
+defect_55	In	O
+defect_55	rare	O
+defect_55	cases	O
+defect_55	congenital	O
+defect_55	defect	defect_nou
+defect_55	results	O
+defect_55	in	O
+defect_55	a	O
+defect_55	short	O
+defect_55	tail	O
+defect_55	like	O
+defect_55	structure	O
+defect_55	being	O
+defect_55	present	O
+defect_55	at	O
+defect_55	birth	O

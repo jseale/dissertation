@@ -1,0 +1,14 @@
+refund_20	Many	O
+refund_20	consumers	O
+refund_20	have	O
+refund_20	trouble	O
+refund_20	getting	O
+refund_20	a	O
+refund_20	refund	refund_nou
+refund_20	or	O
+refund_20	exchange	O
+refund_20	for	O
+refund_20	these	O
+refund_20	often	O
+refund_20	defective	O
+refund_20	DVDs	O

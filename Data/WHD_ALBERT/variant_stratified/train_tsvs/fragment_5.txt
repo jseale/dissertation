@@ -1,0 +1,10 @@
+fragment_5	The	O
+fragment_5	measurements	O
+fragment_5	of	O
+fragment_5	the	O
+fragment_5	fragment	fragment_nou
+fragment_5	are	O
+fragment_5	273	O
+fragment_5	by	O
+fragment_5	158	O
+fragment_5	mm	O

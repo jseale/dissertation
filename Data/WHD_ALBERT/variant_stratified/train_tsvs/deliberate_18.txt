@@ -1,0 +1,15 @@
+deliberate_18	As	O
+deliberate_18	such	O
+deliberate_18	it	O
+deliberate_18	is	O
+deliberate_18	a	O
+deliberate_18	deliberate	deliberate_adj
+deliberate_18	mental	O
+deliberate_18	attitude	O
+deliberate_18	which	O
+deliberate_18	avoids	O
+deliberate_18	engaging	O
+deliberate_18	the	O
+deliberate_18	emotions	O
+deliberate_18	of	O
+deliberate_18	others	O

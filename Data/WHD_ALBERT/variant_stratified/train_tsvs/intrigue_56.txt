@@ -1,0 +1,13 @@
+intrigue_56	Children	O
+intrigue_56	's	O
+intrigue_56	Literature	O
+intrigue_56	wrote	O
+intrigue_56	that	O
+intrigue_56	the	O
+intrigue_56	book	O
+intrigue_56	is	O
+intrigue_56	filled	O
+intrigue_56	with	O
+intrigue_56	intrigue	intrigue_nou
+intrigue_56	and	O
+intrigue_56	adventure	O

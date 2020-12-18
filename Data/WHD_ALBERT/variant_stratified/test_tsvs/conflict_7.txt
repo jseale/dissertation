@@ -1,0 +1,17 @@
+conflict_7	However	O
+conflict_7	compulsive	O
+conflict_7	buying	O
+conflict_7	has	O
+conflict_7	negative	O
+conflict_7	effects	O
+conflict_7	which	O
+conflict_7	include	O
+conflict_7	financial	O
+conflict_7	debt	O
+conflict_7	psychological	O
+conflict_7	issues	O
+conflict_7	and	O
+conflict_7	interpersonal	O
+conflict_7	and	O
+conflict_7	marital	O
+conflict_7	conflict	conflict_nou

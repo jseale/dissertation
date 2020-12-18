@@ -1,0 +1,11 @@
+minute_65	The	O
+minute_65	15-minute	O
+minute_65	show	O
+minute_65	was	O
+minute_65	hosted	O
+minute_65	by	O
+minute_65	famous	O
+minute_65	sports	O
+minute_65	announcer	O
+minute_65	Russ	O
+minute_65	Hodges	O

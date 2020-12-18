@@ -1,0 +1,14 @@
+escort_55	On	O
+escort_55	24	O
+escort_55	July	O
+escort_55	he	O
+escort_55	spotted	O
+escort_55	and	O
+escort_55	engaged	O
+escort_55	a	O
+escort_55	transport	O
+escort_55	with	O
+escort_55	a	O
+escort_55	single	O
+escort_55	destroyer	O
+escort_55	escort	escort_nou

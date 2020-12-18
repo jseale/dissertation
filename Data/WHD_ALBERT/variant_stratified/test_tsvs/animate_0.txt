@@ -1,0 +1,16 @@
+animate_0	The	O
+animate_0	six	O
+animate_0	minute	O
+animate_0	sequence	O
+animate_0	follows	O
+animate_0	an	O
+animate_0	animate	animate_adj-nou
+animate_0	paper	O
+animate_0	lantern	O
+animate_0	gradually	O
+animate_0	making	O
+animate_0	it	O
+animate_0	back	O
+animate_0	for	O
+animate_0	a	O
+animate_0	festival	O

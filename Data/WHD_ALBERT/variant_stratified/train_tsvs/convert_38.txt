@@ -1,0 +1,16 @@
+convert_38	It	O
+convert_38	is	O
+convert_38	nothing	O
+convert_38	more	O
+convert_38	than	O
+convert_38	a	O
+convert_38	disguised	O
+convert_38	effort	O
+convert_38	to	O
+convert_38	missionize	O
+convert_38	Jews	O
+convert_38	and	O
+convert_38	convert	convert_vrb
+convert_38	them	O
+convert_38	to	O
+convert_38	Christianity	O

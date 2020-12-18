@@ -1,0 +1,13 @@
+diagnoses_48	Radiographic	O
+diagnoses_48	evaluation	O
+diagnoses_48	of	O
+diagnoses_48	the	O
+diagnoses_48	elbow	O
+diagnoses_48	should	O
+diagnoses_48	be	O
+diagnoses_48	performed	O
+diagnoses_48	to	O
+diagnoses_48	rule	O
+diagnoses_48	out	O
+diagnoses_48	other	O
+diagnoses_48	diagnoses	diagnoses_nou

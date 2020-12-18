@@ -1,0 +1,16 @@
+consummate_5	For	O
+consummate_5	this	O
+consummate_5	very	O
+consummate_5	reason	O
+consummate_5	the	O
+consummate_5	probability	O
+consummate_5	that	O
+consummate_5	the	O
+consummate_5	merger	O
+consummate_5	will	O
+consummate_5	consummate	consummate_vrb
+consummate_5	increases	O
+consummate_5	as	O
+consummate_5	arbitrageur	O
+consummate_5	control	O
+consummate_5	increases	O

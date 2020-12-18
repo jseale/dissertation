@@ -1,0 +1,16 @@
+articulate_10	He	O
+articulate_10	was	O
+articulate_10	a	O
+articulate_10	distinguished	O
+articulate_10	Naval	O
+articulate_10	Officer	O
+articulate_10	a	O
+articulate_10	brilliant	O
+articulate_10	engineer	O
+articulate_10	an	O
+articulate_10	industrial	O
+articulate_10	giant	O
+articulate_10	and	O
+articulate_10	articulate	articulate_adj
+articulate_10	national	O
+articulate_10	spokesman	O

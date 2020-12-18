@@ -1,0 +1,16 @@
+expose_7	British	O
+expose_7	forces	O
+expose_7	placed	O
+expose_7	there	O
+expose_7	would	O
+expose_7	expose	expose_vrb
+expose_7	the	O
+expose_7	colonial	O
+expose_7	forces	O
+expose_7	in	O
+expose_7	Boston	O
+expose_7	to	O
+expose_7	attack	O
+expose_7	from	O
+expose_7	the	O
+expose_7	rear	O

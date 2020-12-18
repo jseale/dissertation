@@ -1,0 +1,14 @@
+isolate_24	It	O
+isolate_24	is	O
+isolate_24	then	O
+isolate_24	filtered	O
+isolate_24	lysed	O
+isolate_24	and	O
+isolate_24	centrifuged	O
+isolate_24	to	O
+isolate_24	isolate	isolate
+isolate_24	the	O
+isolate_24	final	O
+isolate_24	mcl	O
+isolate_24	PHA	O
+isolate_24	product	O

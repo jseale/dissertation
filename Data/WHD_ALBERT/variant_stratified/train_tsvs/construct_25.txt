@@ -1,0 +1,8 @@
+construct_25	Requires	O
+construct_25	30	O
+construct_25	crystals	O
+construct_25	to	O
+construct_25	construct	construct_vrb
+construct_25	limit	O
+construct_25	of	O
+construct_25	3	O

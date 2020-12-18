@@ -1,0 +1,13 @@
+expose_74	The	O
+expose_74	graft	O
+expose_74	skin	O
+expose_74	is	O
+expose_74	dissected	O
+expose_74	to	O
+expose_74	expose	expose_vrb
+expose_74	the	O
+expose_74	veins	O
+expose_74	and	O
+expose_74	the	O
+expose_74	thoracodorsal	O
+expose_74	nerves	O

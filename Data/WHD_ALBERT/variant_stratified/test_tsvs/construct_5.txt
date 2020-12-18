@@ -1,0 +1,14 @@
+construct_5	Mathematical	O
+construct_5	sociology	O
+construct_5	is	O
+construct_5	the	O
+construct_5	area	O
+construct_5	of	O
+construct_5	sociology	O
+construct_5	that	O
+construct_5	uses	O
+construct_5	mathematics	O
+construct_5	to	O
+construct_5	construct	construct_vrb
+construct_5	social	O
+construct_5	theories	O

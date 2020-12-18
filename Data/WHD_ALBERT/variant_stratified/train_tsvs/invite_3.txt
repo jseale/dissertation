@@ -1,0 +1,9 @@
+invite_3	Aust	O
+invite_3	wins	O
+invite_3	invite	invite_nou
+invite_3	to	O
+invite_3	next	O
+invite_3	year	O
+invite_3	's	O
+invite_3	ASEAN	O
+invite_3	summit	O

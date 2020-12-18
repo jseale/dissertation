@@ -1,0 +1,15 @@
+minute_11	On	O
+minute_11	26	O
+minute_11	June	O
+minute_11	Morsi	O
+minute_11	delivered	O
+minute_11	a	O
+minute_11	two	O
+minute_11	hour	O
+minute_11	and	O
+minute_11	forty	O
+minute_11	minute	minute
+minute_11	speech	O
+minute_11	to	O
+minute_11	the	O
+minute_11	nation	O

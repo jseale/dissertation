@@ -1,0 +1,15 @@
+protest_36	Midgley	O
+protest_36	resigned	O
+protest_36	from	O
+protest_36	the	O
+protest_36	NILP	O
+protest_36	the	O
+protest_36	following	O
+protest_36	year	O
+protest_36	in	O
+protest_36	protest	protest_nou
+protest_36	at	O
+protest_36	Jack	O
+protest_36	Beattie	O
+protest_36	's	O
+protest_36	leadership	O

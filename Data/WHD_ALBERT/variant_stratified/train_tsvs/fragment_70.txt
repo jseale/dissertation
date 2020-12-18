@@ -1,0 +1,15 @@
+fragment_70	The	O
+fragment_70	fragment	fragment_nou
+fragment_70	is	O
+fragment_70	not	O
+fragment_70	cited	O
+fragment_70	in	O
+fragment_70	critical	O
+fragment_70	editions	O
+fragment_70	of	O
+fragment_70	the	O
+fragment_70	Greek	O
+fragment_70	New	O
+fragment_70	Testament	O
+fragment_70	UBS4	O
+fragment_70	NA28	O

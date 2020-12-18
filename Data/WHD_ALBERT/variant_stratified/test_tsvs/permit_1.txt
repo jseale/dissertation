@@ -1,0 +1,15 @@
+permit_1	In	O
+permit_1	February	O
+permit_1	1999	O
+permit_1	he	O
+permit_1	signed	O
+permit_1	for	O
+permit_1	Wycombe	O
+permit_1	Wanderers	O
+permit_1	after	O
+permit_1	initially	O
+permit_1	being	O
+permit_1	refused	O
+permit_1	a	O
+permit_1	work	O
+permit_1	permit	permit_nou

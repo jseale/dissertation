@@ -1,0 +1,11 @@
+correlate_52	Interglacial	O
+correlate_52	periods	O
+correlate_52	correlate	correlate_nou-vrb
+correlate_52	well	O
+correlate_52	with	O
+correlate_52	an	O
+correlate_52	intensification	O
+correlate_52	of	O
+correlate_52	the	O
+correlate_52	monsoon	O
+correlate_52	circulation	O

@@ -1,0 +1,9 @@
+mobile_42	These	O
+mobile_42	are	O
+mobile_42	delivered	O
+mobile_42	via	O
+mobile_42	their	O
+mobile_42	website	O
+mobile_42	and	O
+mobile_42	mobile	mobile
+mobile_42	apps	O

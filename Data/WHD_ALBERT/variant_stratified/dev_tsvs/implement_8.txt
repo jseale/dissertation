@@ -1,0 +1,14 @@
+implement_8	It	O
+implement_8	also	O
+implement_8	requires	O
+implement_8	each	O
+implement_8	signatory	O
+implement_8	state	O
+implement_8	to	O
+implement_8	implement	implement_vrb
+implement_8	certain	O
+implement_8	procedural	O
+implement_8	mechanisms	O
+implement_8	within	O
+implement_8	their	O
+implement_8	laws	O

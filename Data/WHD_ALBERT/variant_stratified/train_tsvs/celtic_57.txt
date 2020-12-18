@@ -1,0 +1,10 @@
+celtic_57	In	O
+celtic_57	January	O
+celtic_57	2010	O
+celtic_57	he	O
+celtic_57	was	O
+celtic_57	linked	O
+celtic_57	to	O
+celtic_57	Scottish	O
+celtic_57	club	O
+celtic_57	Celtic	celtic_adj-nou-sports

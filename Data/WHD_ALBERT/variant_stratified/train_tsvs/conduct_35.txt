@@ -1,0 +1,12 @@
+conduct_35	He	O
+conduct_35	also	O
+conduct_35	arranged	O
+conduct_35	a	O
+conduct_35	Safe	O
+conduct_35	conduct	conduct_nou
+conduct_35	to	O
+conduct_35	visit	O
+conduct_35	the	O
+conduct_35	captive	O
+conduct_35	King	O
+conduct_35	David	O

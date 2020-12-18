@@ -1,0 +1,16 @@
+document_8	Several	O
+document_8	Biblical	O
+document_8	accounts	O
+document_8	document	document_vrb
+document_8	the	O
+document_8	presence	O
+document_8	of	O
+document_8	lions	O
+document_8	and	O
+document_8	cultural	O
+document_8	perception	O
+document_8	of	O
+document_8	them	O
+document_8	in	O
+document_8	ancient	O
+document_8	Palestine	O

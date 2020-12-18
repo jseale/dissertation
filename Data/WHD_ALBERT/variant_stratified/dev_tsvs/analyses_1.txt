@@ -1,0 +1,12 @@
+analyses_1	Since	O
+analyses_1	developing	O
+analyses_1	AMOVA	O
+analyses_1	Excoffier	O
+analyses_1	has	O
+analyses_1	written	O
+analyses_1	a	O
+analyses_1	program	O
+analyses_1	for	O
+analyses_1	running	O
+analyses_1	such	O
+analyses_1	analyses	analyses_nou

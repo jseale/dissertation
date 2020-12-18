@@ -1,0 +1,14 @@
+compound_37	Isolation	O
+compound_37	and	O
+compound_37	identification	O
+compound_37	of	O
+compound_37	an	O
+compound_37	anti	O
+compound_37	hepatitis	O
+compound_37	B	O
+compound_37	virus	O
+compound_37	compound	compound_nou
+compound_37	from	O
+compound_37	Hydrocotyle	O
+compound_37	sibthorpioides	O
+compound_37	Lam	O

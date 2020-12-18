@@ -1,0 +1,17 @@
+deliberate_74	Some	O
+deliberate_74	Native	O
+deliberate_74	American	O
+deliberate_74	groups	O
+deliberate_74	in	O
+deliberate_74	the	O
+deliberate_74	southeastern	O
+deliberate_74	portion	O
+deliberate_74	of	O
+deliberate_74	North	O
+deliberate_74	America	O
+deliberate_74	practised	O
+deliberate_74	deliberate	deliberate_adj
+deliberate_74	excarnation	O
+deliberate_74	in	O
+deliberate_74	protohistoric	O
+deliberate_74	times	O

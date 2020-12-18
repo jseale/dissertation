@@ -1,0 +1,8 @@
+reading_75	He	O
+reading_75	obtained	O
+reading_75	a	O
+reading_75	BSc	O
+reading_75	degree	O
+reading_75	from	O
+reading_75	Reading	reading_geo
+reading_75	University	O

@@ -1,0 +1,13 @@
+export_45	By	O
+export_45	the	O
+export_45	2nd	O
+export_45	century	O
+export_45	CE	O
+export_45	olive	O
+export_45	oil	O
+export_45	rivaled	O
+export_45	cereals	O
+export_45	as	O
+export_45	an	O
+export_45	export	export_nou
+export_45	item	O

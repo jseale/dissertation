@@ -1,0 +1,17 @@
+uses_50	It	O
+uses_50	mainly	O
+uses_50	uses	uses_vrb
+uses_50	a	O
+uses_50	green	O
+uses_50	screen	O
+uses_50	and	O
+uses_50	computer	O
+uses_50	generated	O
+uses_50	effects	O
+uses_50	making	O
+uses_50	the	O
+uses_50	clip	O
+uses_50	minimal	O
+uses_50	and	O
+uses_50	performance	O
+uses_50	based	O

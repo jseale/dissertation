@@ -1,0 +1,11 @@
+rerelease_40	It	O
+rerelease_40	shows	O
+rerelease_40	up	O
+rerelease_40	on	O
+rerelease_40	the	O
+rerelease_40	UK	O
+rerelease_40	rerelease	rerelease
+rerelease_40	of	O
+rerelease_40	Speak	O
+rerelease_40	and	O
+rerelease_40	Spell	O

@@ -1,0 +1,13 @@
+axes_64	The	O
+axes_64	thick	O
+axes_64	layers	O
+axes_64	of	O
+axes_64	Jabroudian	O
+axes_64	consist	O
+axes_64	mainly	O
+axes_64	in	O
+axes_64	heavy	O
+axes_64	scratchers	O
+axes_64	and	O
+axes_64	hand	O
+axes_64	axes	axes_nou-vrb

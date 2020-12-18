@@ -1,0 +1,14 @@
+estimate_5	Some	O
+estimate_5	estimate	estimate_nou
+estimate_5	suggests	O
+estimate_5	40	O
+estimate_5	percent	O
+estimate_5	of	O
+estimate_5	displaced	O
+estimate_5	people	O
+estimate_5	are	O
+estimate_5	of	O
+estimate_5	tribal	O
+estimate_5	origins	O
+estimate_5	Fernandes	O
+estimate_5	2008	O

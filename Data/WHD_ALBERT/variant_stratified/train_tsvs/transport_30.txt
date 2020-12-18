@@ -1,0 +1,15 @@
+transport_30	Brazil	O
+transport_30	offered	O
+transport_30	Gutiérrez	O
+transport_30	asylum	O
+transport_30	and	O
+transport_30	arranged	O
+transport_30	air	O
+transport_30	transport	transport_nou
+transport_30	out	O
+transport_30	of	O
+transport_30	Ecuador	O
+transport_30	for	O
+transport_30	the	O
+transport_30	former	O
+transport_30	president	O

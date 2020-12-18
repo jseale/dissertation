@@ -1,0 +1,14 @@
+discharge_3	The	O
+discharge_3	electrical	O
+discharge_3	discharge	discharge_nou
+discharge_3	of	O
+discharge_3	M.	O
+discharge_3	electricus	O
+discharge_3	is	O
+discharge_3	not	O
+discharge_3	known	O
+discharge_3	to	O
+discharge_3	be	O
+discharge_3	fatal	O
+discharge_3	to	O
+discharge_3	humans	O

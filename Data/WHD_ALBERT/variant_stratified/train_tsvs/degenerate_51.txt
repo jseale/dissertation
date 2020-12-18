@@ -1,0 +1,15 @@
+degenerate_51	His	O
+degenerate_51	squad	O
+degenerate_51	was	O
+degenerate_51	hunting	O
+degenerate_51	the	O
+degenerate_51	operators	O
+degenerate_51	of	O
+degenerate_51	gladiatorial	O
+degenerate_51	contests	O
+degenerate_51	in	O
+degenerate_51	the	O
+degenerate_51	degenerate	degenerate_adj-nou
+degenerate_51	slums	O
+degenerate_51	particularly	O
+degenerate_51	Megatron	O

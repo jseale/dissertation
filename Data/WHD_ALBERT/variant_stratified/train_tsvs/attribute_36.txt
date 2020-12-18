@@ -1,0 +1,12 @@
+attribute_36	It	O
+attribute_36	distributes	O
+attribute_36	tuples	O
+attribute_36	based	O
+attribute_36	on	O
+attribute_36	the	O
+attribute_36	value	O
+attribute_36	intervals	O
+attribute_36	ranges	O
+attribute_36	of	O
+attribute_36	some	O
+attribute_36	attribute	attribute_nou

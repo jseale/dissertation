@@ -1,0 +1,14 @@
+discharge_74	After	O
+discharge_74	the	O
+discharge_74	assault	O
+discharge_74	Warren	O
+discharge_74	returns	O
+discharge_74	to	O
+discharge_74	work	O
+discharge_74	determined	O
+discharge_74	to	O
+discharge_74	discharge	discharge_vrb
+discharge_74	Mateo	O
+discharge_74	from	O
+discharge_74	his	O
+discharge_74	department	O

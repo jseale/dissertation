@@ -1,0 +1,12 @@
+delegate_73	Holman	O
+delegate_73	was	O
+delegate_73	a	O
+delegate_73	delegate	delegate_nou
+delegate_73	to	O
+delegate_73	the	O
+delegate_73	League	O
+delegate_73	of	O
+delegate_73	Nations	O
+delegate_73	Assembly	O
+delegate_73	in	O
+delegate_73	1930	O

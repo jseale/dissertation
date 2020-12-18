@@ -1,0 +1,17 @@
+converse_8	It	O
+converse_8	was	O
+converse_8	established	O
+converse_8	by	O
+converse_8	a	O
+converse_8	group	O
+converse_8	of	O
+converse_8	Spartanburg	O
+converse_8	residents	O
+converse_8	and	O
+converse_8	named	O
+converse_8	after	O
+converse_8	textile	O
+converse_8	pioneer	O
+converse_8	Dexter	O
+converse_8	Edgar	O
+converse_8	Converse	converse_adj-nou

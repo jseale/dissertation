@@ -1,0 +1,13 @@
+contest_3	In	O
+contest_3	2001	O
+contest_3	K	O
+contest_3	Ci	O
+contest_3	pleaded	O
+contest_3	no	O
+contest_3	contest	contest_nou
+contest_3	to	O
+contest_3	four	O
+contest_3	charges	O
+contest_3	of	O
+contest_3	lewd	O
+contest_3	conduct	O

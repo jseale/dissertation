@@ -1,0 +1,17 @@
+pervert_65	In	O
+pervert_65	2008	O
+pervert_65	Newton	O
+pervert_65	was	O
+pervert_65	found	O
+pervert_65	guilty	O
+pervert_65	of	O
+pervert_65	nine	O
+pervert_65	counts	O
+pervert_65	of	O
+pervert_65	attempting	O
+pervert_65	to	O
+pervert_65	pervert	pervert_vrb
+pervert_65	the	O
+pervert_65	course	O
+pervert_65	of	O
+pervert_65	justice	O

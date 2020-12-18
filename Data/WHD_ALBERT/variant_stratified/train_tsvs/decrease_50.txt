@@ -1,0 +1,12 @@
+decrease_50	Women	O
+decrease_50	's	O
+decrease_50	earnings	O
+decrease_50	in	O
+decrease_50	family	O
+decrease_50	income	O
+decrease_50	decrease	decrease_vrb
+decrease_50	as	O
+decrease_50	men	O
+decrease_50	's	O
+decrease_50	incomes	O
+decrease_50	increase	O

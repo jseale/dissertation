@@ -1,0 +1,17 @@
+permit_6	Normally	O
+permit_6	CAFO	O
+permit_6	operators	O
+permit_6	are	O
+permit_6	subject	O
+permit_6	to	O
+permit_6	the	O
+permit_6	terms	O
+permit_6	of	O
+permit_6	their	O
+permit_6	permit	permit_nou
+permit_6	for	O
+permit_6	a	O
+permit_6	period	O
+permit_6	of	O
+permit_6	5	O
+permit_6	years	O

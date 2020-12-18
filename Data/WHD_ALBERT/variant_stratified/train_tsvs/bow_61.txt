@@ -1,0 +1,15 @@
+bow_61	Shreaves	O
+bow_61	and	O
+bow_61	his	O
+bow_61	crew	O
+bow_61	worked	O
+bow_61	another	O
+bow_61	cable	O
+bow_61	set	O
+bow_61	under	O
+bow_61	the	O
+bow_61	bow	bow_nou-ship
+bow_61	and	O
+bow_61	again	O
+bow_61	Ajax	O
+bow_61	pulled	O

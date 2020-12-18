@@ -1,0 +1,17 @@
+bass_8	Lyons	O
+bass_8	asked	O
+bass_8	a	O
+bass_8	friend	O
+bass_8	to	O
+bass_8	build	O
+bass_8	a	O
+bass_8	2-string	O
+bass_8	bass	bass
+bass_8	for	O
+bass_8	him	O
+bass_8	and	O
+bass_8	started	O
+bass_8	learning	O
+bass_8	the	O
+bass_8	Morphine	O
+bass_8	repertoire	O

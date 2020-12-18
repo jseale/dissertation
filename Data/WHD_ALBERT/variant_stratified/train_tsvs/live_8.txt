@@ -1,0 +1,8 @@
+live_8	This	O
+live_8	includes	O
+live_8	live	live_adj
+live_8	music	O
+live_8	and	O
+live_8	local	O
+live_8	music	O
+live_8	tracks	O

@@ -1,0 +1,8 @@
+perfect_37	The	O
+perfect_37	perfect	perfect_adj
+perfect_37	indicates	O
+perfect_37	that	O
+perfect_37	an	O
+perfect_37	action	O
+perfect_37	is	O
+perfect_37	complete	O

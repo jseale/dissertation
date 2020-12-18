@@ -1,0 +1,14 @@
+correlate_2	The	O
+correlate_2	above	O
+correlate_2	mentioned	O
+correlate_2	studies	O
+correlate_2	allow	O
+correlate_2	inferring	O
+correlate_2	the	O
+correlate_2	neural	O
+correlate_2	correlate	correlate_nou
+correlate_2	of	O
+correlate_2	the	O
+correlate_2	numerical	O
+correlate_2	Stroop	O
+correlate_2	effect	O

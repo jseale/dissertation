@@ -1,0 +1,17 @@
+export_32	The	O
+export_32	Japanese	O
+export_32	export	export_nou
+export_32	had	O
+export_32	two	O
+export_32	bonus	O
+export_32	tracks	O
+export_32	Bu	O
+export_32	Gece	O
+export_32	Kir	O
+export_32	Zincirlerini	O
+export_32	Club	O
+export_32	Remix	O
+export_32	and	O
+export_32	Simarik	O
+export_32	Malagutti	O
+export_32	Remix	O

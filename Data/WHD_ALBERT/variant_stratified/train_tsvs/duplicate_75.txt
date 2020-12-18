@@ -1,0 +1,15 @@
+duplicate_75	However	O
+duplicate_75	other	O
+duplicate_75	investigators	O
+duplicate_75	could	O
+duplicate_75	not	O
+duplicate_75	duplicate	duplicate_vrb
+duplicate_75	his	O
+duplicate_75	results	O
+duplicate_75	and	O
+duplicate_75	the	O
+duplicate_75	ineffective	O
+duplicate_75	vaccine	O
+duplicate_75	was	O
+duplicate_75	eventually	O
+duplicate_75	abandoned	O

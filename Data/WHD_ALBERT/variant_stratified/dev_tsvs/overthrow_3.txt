@@ -1,0 +1,15 @@
+overthrow_3	And	O
+overthrow_3	then	O
+overthrow_3	came	O
+overthrow_3	as	O
+overthrow_3	if	O
+overthrow_3	to	O
+overthrow_3	my	O
+overthrow_3	final	O
+overthrow_3	and	O
+overthrow_3	irrevocable	O
+overthrow_3	overthrow	overthrow_nou
+overthrow_3	the	O
+overthrow_3	spirit	O
+overthrow_3	of	O
+overthrow_3	perverseness	O

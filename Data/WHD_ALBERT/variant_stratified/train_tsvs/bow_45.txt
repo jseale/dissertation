@@ -1,0 +1,17 @@
+bow_45	The	O
+bow_45	latter	O
+bow_45	had	O
+bow_45	one	O
+bow_45	compartment	O
+bow_45	below	O
+bow_45	water	O
+bow_45	holed	O
+bow_45	but	O
+bow_45	Ajax	O
+bow_45	only	O
+bow_45	received	O
+bow_45	two	O
+bow_45	holes	O
+bow_45	in	O
+bow_45	her	O
+bow_45	bow	bow_nou-ship

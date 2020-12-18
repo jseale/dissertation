@@ -1,0 +1,13 @@
+approximate_13	The	O
+approximate_13	models	O
+approximate_13	are	O
+approximate_13	each	O
+approximate_13	named	O
+approximate_13	for	O
+approximate_13	their	O
+approximate_13	approximate	approximate_adj-nou
+approximate_13	wing	O
+approximate_13	area	O
+approximate_13	in	O
+approximate_13	square	O
+approximate_13	metres	O

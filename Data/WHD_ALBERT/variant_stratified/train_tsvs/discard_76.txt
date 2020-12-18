@@ -1,0 +1,15 @@
+discard_76	The	O
+discard_76	time	O
+discard_76	has	O
+discard_76	come	O
+discard_76	to	O
+discard_76	discard	discard_vrb
+discard_76	old	O
+discard_76	conceptions	O
+discard_76	and	O
+discard_76	look	O
+discard_76	anew	O
+discard_76	at	O
+discard_76	Late	O
+discard_76	Gothic	O
+discard_76	architecture	O

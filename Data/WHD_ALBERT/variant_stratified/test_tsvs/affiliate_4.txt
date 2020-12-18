@@ -1,0 +1,15 @@
+affiliate_4	Rick	O
+affiliate_4	Kupchella	O
+affiliate_4	was	O
+affiliate_4	a	O
+affiliate_4	weekend	O
+affiliate_4	anchor	O
+affiliate_4	at	O
+affiliate_4	the	O
+affiliate_4	NBC	O
+affiliate_4	television	O
+affiliate_4	affiliate	affiliate_nou
+affiliate_4	KARE-11	O
+affiliate_4	in	O
+affiliate_4	Minneapolis	O
+affiliate_4	Minnesota	O

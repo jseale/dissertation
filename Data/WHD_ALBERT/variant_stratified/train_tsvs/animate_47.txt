@@ -1,0 +1,11 @@
+animate_47	Weight	O
+animate_47	path	O
+animate_47	controlled	O
+animate_47	animation	O
+animate_47	between	O
+animate_47	multiple	O
+animate_47	curves	O
+animate_47	and	O
+animate_47	animate	animate_vrb
+animate_47	the	O
+animate_47	weight	O

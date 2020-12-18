@@ -1,0 +1,8 @@
+defect_0	The	O
+defect_0	difference	O
+defect_0	is	O
+defect_0	referred	O
+defect_0	to	O
+defect_0	as	O
+defect_0	the	O
+defect_0	defect	defect_nou

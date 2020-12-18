@@ -1,0 +1,17 @@
+approximate_7	However	O
+approximate_7	there	O
+approximate_7	are	O
+approximate_7	approximate	approximate_adj-nou
+approximate_7	protocols	O
+approximate_7	for	O
+approximate_7	estimating	O
+approximate_7	the	O
+approximate_7	parameter	O
+approximate_7	using	O
+approximate_7	the	O
+approximate_7	chi	O
+approximate_7	squared	O
+approximate_7	goodness	O
+approximate_7	of	O
+approximate_7	fit	O
+approximate_7	statistic	O

@@ -1,0 +1,12 @@
+learned_66	He	O
+learned_66	learned	learned_vrb
+learned_66	by	O
+learned_66	copying	O
+learned_66	the	O
+learned_66	The	O
+learned_66	Wedding	O
+learned_66	at	O
+learned_66	Cana	O
+learned_66	at	O
+learned_66	the	O
+learned_66	Louvre	O

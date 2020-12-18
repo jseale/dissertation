@@ -1,0 +1,17 @@
+transplant_61	The	O
+transplant_61	only	O
+transplant_61	curative	O
+transplant_61	treatment	O
+transplant_61	for	O
+transplant_61	CML	O
+transplant_61	is	O
+transplant_61	a	O
+transplant_61	bone	O
+transplant_61	marrow	O
+transplant_61	transplant	transplant_nou
+transplant_61	or	O
+transplant_61	an	O
+transplant_61	allogeneic	O
+transplant_61	stem	O
+transplant_61	cell	O
+transplant_61	transplant	transplant_nou

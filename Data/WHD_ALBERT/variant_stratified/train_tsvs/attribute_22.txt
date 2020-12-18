@@ -1,0 +1,17 @@
+attribute_22	The	O
+attribute_22	attribute	attribute_nou
+attribute_22	tumtumaniyya	O
+attribute_22	was	O
+attribute_22	given	O
+attribute_22	in	O
+attribute_22	the	O
+attribute_22	literature	O
+attribute_22	to	O
+attribute_22	the	O
+attribute_22	Himyaritic	O
+attribute_22	dialect	O
+attribute_22	as	O
+attribute_22	a	O
+attribute_22	form	O
+attribute_22	of	O
+attribute_22	mockery	O

@@ -1,0 +1,17 @@
+attribute_9	They	O
+attribute_9	could	O
+attribute_9	attribute	attribute_vrb
+attribute_9	all	O
+attribute_9	the	O
+attribute_9	suspicious	O
+attribute_9	losses	O
+attribute_9	of	O
+attribute_9	the	O
+attribute_9	autumn	O
+attribute_9	to	O
+attribute_9	the	O
+attribute_9	capabilities	O
+attribute_9	of	O
+attribute_9	British	O
+attribute_9	Huff	O
+attribute_9	Duff	O

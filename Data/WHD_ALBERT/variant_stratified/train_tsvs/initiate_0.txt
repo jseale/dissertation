@@ -1,0 +1,13 @@
+initiate_0	Afterwards	O
+initiate_0	the	O
+initiate_0	initiate	initiate_nou
+initiate_0	had	O
+initiate_0	to	O
+initiate_0	buy	O
+initiate_0	the	O
+initiate_0	other	O
+initiate_0	members	O
+initiate_0	a	O
+initiate_0	round	O
+initiate_0	of	O
+initiate_0	drinks	O

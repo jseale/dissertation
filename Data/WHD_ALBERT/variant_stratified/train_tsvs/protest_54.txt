@@ -1,0 +1,12 @@
+protest_54	The	O
+protest_54	protest	protest_nou
+protest_54	of	O
+protest_54	the	O
+protest_54	league	O
+protest_54	involved	O
+protest_54	picketing	O
+protest_54	and	O
+protest_54	beatings	O
+protest_54	of	O
+protest_54	the	O
+protest_54	Issei	O

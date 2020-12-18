@@ -1,0 +1,13 @@
+present_66	Conversely	O
+present_66	when	O
+present_66	the	O
+present_66	lines	O
+present_66	intersect	O
+present_66	above	O
+present_66	the	O
+present_66	road	O
+present_66	negative	O
+present_66	scrub	O
+present_66	radius	O
+present_66	is	O
+present_66	present	present_adj-nou

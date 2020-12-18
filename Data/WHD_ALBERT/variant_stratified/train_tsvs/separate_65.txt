@@ -1,0 +1,17 @@
+separate_65	The	O
+separate_65	purpose	O
+separate_65	of	O
+separate_65	a	O
+separate_65	separate	separate_adj
+separate_65	court	O
+separate_65	is	O
+separate_65	that	O
+separate_65	its	O
+separate_65	purpose	O
+separate_65	is	O
+separate_65	socio	O
+separate_65	legal	O
+separate_65	reformation	O
+separate_65	but	O
+separate_65	not	O
+separate_65	punishment	O

@@ -1,0 +1,14 @@
+construct_24	Multiple	O
+construct_24	microservers	O
+construct_24	can	O
+construct_24	be	O
+construct_24	put	O
+construct_24	together	O
+construct_24	in	O
+construct_24	a	O
+construct_24	small	O
+construct_24	package	O
+construct_24	to	O
+construct_24	construct	construct_vrb
+construct_24	a	O
+construct_24	microdatacenter	O

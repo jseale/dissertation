@@ -1,0 +1,11 @@
+confines_8	He	O
+confines_8	confines	confines_vrb
+confines_8	Marian	O
+confines_8	when	O
+confines_8	she	O
+confines_8	tries	O
+confines_8	to	O
+confines_8	summon	O
+confines_8	help	O
+confines_8	from	O
+confines_8	France	O

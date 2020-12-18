@@ -1,0 +1,15 @@
+delegate_54	Delegate	delegate_nou
+delegate_54	Mason	O
+delegate_54	Mathews	O
+delegate_54	from	O
+delegate_54	Greenbrier	O
+delegate_54	County	O
+delegate_54	instead	O
+delegate_54	attended	O
+delegate_54	the	O
+delegate_54	Virginia	O
+delegate_54	General	O
+delegate_54	Assembly	O
+delegate_54	in	O
+delegate_54	Confederate	O
+delegate_54	Richmond	O

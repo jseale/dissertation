@@ -1,0 +1,12 @@
+laminate_28	These	O
+laminate_28	were	O
+laminate_28	the	O
+laminate_28	first	O
+laminate_28	to	O
+laminate_28	have	O
+laminate_28	a	O
+laminate_28	laminate	laminate_nou
+laminate_28	built	O
+laminate_28	into	O
+laminate_28	the	O
+laminate_28	document	O

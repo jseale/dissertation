@@ -1,0 +1,14 @@
+permit_75	To	O
+permit_75	permit	permit_vrb
+permit_75	its	O
+permit_75	use	O
+permit_75	for	O
+permit_75	high	O
+permit_75	horsepower	O
+permit_75	locomotives	O
+permit_75	the	O
+permit_75	motor	O
+permit_75	was	O
+permit_75	split	O
+permit_75	in	O
+permit_75	two	O

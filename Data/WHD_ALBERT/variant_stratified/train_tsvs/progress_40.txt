@@ -1,0 +1,16 @@
+progress_40	Testing	O
+progress_40	is	O
+progress_40	still	O
+progress_40	in	O
+progress_40	progress	progress_nou
+progress_40	to	O
+progress_40	determine	O
+progress_40	whether	O
+progress_40	this	O
+progress_40	treatment	O
+progress_40	can	O
+progress_40	be	O
+progress_40	used	O
+progress_40	effectively	O
+progress_40	in	O
+progress_40	humans	O

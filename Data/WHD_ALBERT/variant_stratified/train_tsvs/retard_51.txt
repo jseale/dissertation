@@ -1,0 +1,14 @@
+retard_51	Low	O
+retard_51	temperatures	O
+retard_51	tend	O
+retard_51	to	O
+retard_51	prolong	O
+retard_51	animal	O
+retard_51	development	O
+retard_51	and	O
+retard_51	high	O
+retard_51	temperatures	O
+retard_51	tend	O
+retard_51	to	O
+retard_51	retard	retard_vrb
+retard_51	it	O

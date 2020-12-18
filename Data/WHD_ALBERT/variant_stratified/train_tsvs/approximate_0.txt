@@ -1,0 +1,14 @@
+approximate_0	The	O
+approximate_0	exact	O
+approximate_0	position	O
+approximate_0	was	O
+approximate_0	not	O
+approximate_0	publicly	O
+approximate_0	disclosed	O
+approximate_0	but	O
+approximate_0	a	O
+approximate_0	plaque	O
+approximate_0	marks	O
+approximate_0	the	O
+approximate_0	approximate	approximate_adj-nou
+approximate_0	location	O

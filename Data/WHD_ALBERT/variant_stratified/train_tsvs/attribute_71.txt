@@ -1,0 +1,17 @@
+attribute_71	Eadmer	O
+attribute_71	credited	O
+attribute_71	Anselm	O
+attribute_71	with	O
+attribute_71	restraining	O
+attribute_71	the	O
+attribute_71	pope	O
+attribute_71	from	O
+attribute_71	excommunicating	O
+attribute_71	him	O
+attribute_71	although	O
+attribute_71	others	O
+attribute_71	attribute	attribute_vrb
+attribute_71	Urban	O
+attribute_71	's	O
+attribute_71	politic	O
+attribute_71	nature	O

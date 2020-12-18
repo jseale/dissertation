@@ -1,0 +1,8 @@
+aged_15	He	O
+aged_15	died	O
+aged_15	on	O
+aged_15	8	O
+aged_15	May	O
+aged_15	2011	O
+aged_15	aged	aged
+aged_15	92	O

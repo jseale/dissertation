@@ -1,0 +1,15 @@
+blessed_4	It	O
+blessed_4	also	O
+blessed_4	contains	O
+blessed_4	paintings	O
+blessed_4	by	O
+blessed_4	Biagio	O
+blessed_4	Miniera	O
+blessed_4	and	O
+blessed_4	Nicola	O
+blessed_4	Monti	O
+blessed_4	depicting	O
+blessed_4	the	O
+blessed_4	Blessed	blessed_adj
+blessed_4	Beato	O
+blessed_4	Corrado	O

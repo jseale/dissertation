@@ -1,0 +1,10 @@
+aged_69	She	O
+aged_69	died	O
+aged_69	in	O
+aged_69	New	O
+aged_69	York	O
+aged_69	City	O
+aged_69	in	O
+aged_69	2002	O
+aged_69	aged	aged
+aged_69	83	O

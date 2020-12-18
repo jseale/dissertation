@@ -1,0 +1,16 @@
+perfume_72	Hopkins	O
+perfume_72	original	O
+perfume_72	mentor	O
+perfume_72	in	O
+perfume_72	perfume	perfume_nou
+perfume_72	production	O
+perfume_72	was	O
+perfume_72	George	O
+perfume_72	Diamond	O
+perfume_72	who	O
+perfume_72	holds	O
+perfume_72	many	O
+perfume_72	patents	O
+perfume_72	in	O
+perfume_72	perfume	perfume_nou
+perfume_72	production	O

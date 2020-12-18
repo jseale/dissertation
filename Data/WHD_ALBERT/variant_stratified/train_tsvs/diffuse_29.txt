@@ -1,0 +1,10 @@
+diffuse_29	The	O
+diffuse_29	style	O
+diffuse_29	is	O
+diffuse_29	diffuse	diffuse_adj
+diffuse_29	but	O
+diffuse_29	the	O
+diffuse_29	interest	O
+diffuse_29	is	O
+diffuse_29	well	O
+diffuse_29	sustained	O

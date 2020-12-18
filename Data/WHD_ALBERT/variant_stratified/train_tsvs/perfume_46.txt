@@ -1,0 +1,13 @@
+perfume_46	Introduced	O
+perfume_46	in	O
+perfume_46	1889	O
+perfume_46	it	O
+perfume_46	is	O
+perfume_46	the	O
+perfume_46	oldest	O
+perfume_46	continuously	O
+perfume_46	produced	O
+perfume_46	perfume	perfume_nou
+perfume_46	in	O
+perfume_46	the	O
+perfume_46	world	O

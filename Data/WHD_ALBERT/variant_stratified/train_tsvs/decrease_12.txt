@@ -1,0 +1,14 @@
+decrease_12	If	O
+decrease_12	either	O
+decrease_12	residue	O
+decrease_12	exhibits	O
+decrease_12	a	O
+decrease_12	mutation	O
+decrease_12	can	O
+decrease_12	result	O
+decrease_12	in	O
+decrease_12	a	O
+decrease_12	decrease	decrease_nou
+decrease_12	in	O
+decrease_12	CRAT	O
+decrease_12	activity	O

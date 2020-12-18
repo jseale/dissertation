@@ -1,0 +1,16 @@
+escort_73	Emperor	O
+escort_73	Xuanzong	O
+escort_73	had	O
+escort_73	Gao	O
+escort_73	escort	escort_vrb
+escort_73	her	O
+escort_73	back	O
+escort_73	to	O
+escort_73	the	O
+escort_73	palace	O
+escort_73	and	O
+escort_73	thereafter	O
+escort_73	loved	O
+escort_73	her	O
+escort_73	even	O
+escort_73	greater	O

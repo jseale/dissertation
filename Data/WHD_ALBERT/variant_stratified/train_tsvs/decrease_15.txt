@@ -1,0 +1,12 @@
+decrease_15	With	O
+decrease_15	the	O
+decrease_15	decrease	decrease_nou
+decrease_15	in	O
+decrease_15	structural	O
+decrease_15	supports	O
+decrease_15	women	O
+decrease_15	's	O
+decrease_15	roles	O
+decrease_15	in	O
+decrease_15	policing	O
+decrease_15	stagnated	O

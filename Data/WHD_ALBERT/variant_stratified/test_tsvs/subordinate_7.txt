@@ -1,0 +1,17 @@
+subordinate_7	The	O
+subordinate_7	idea	O
+subordinate_7	of	O
+subordinate_7	keeping	O
+subordinate_7	slaves	O
+subordinate_7	illiterate	O
+subordinate_7	was	O
+subordinate_7	a	O
+subordinate_7	tool	O
+subordinate_7	for	O
+subordinate_7	white	O
+subordinate_7	Southerners	O
+subordinate_7	to	O
+subordinate_7	keep	O
+subordinate_7	the	O
+subordinate_7	slaves	O
+subordinate_7	subordinate	subordinate_adj-nou

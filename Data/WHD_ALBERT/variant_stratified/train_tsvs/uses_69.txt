@@ -1,0 +1,17 @@
+uses_69	The	O
+uses_69	husband	O
+uses_69	shows	O
+uses_69	Osama	O
+uses_69	the	O
+uses_69	padlocks	O
+uses_69	he	O
+uses_69	uses	uses_vrb
+uses_69	on	O
+uses_69	his	O
+uses_69	wives	O
+uses_69	rooms	O
+uses_69	reserving	O
+uses_69	the	O
+uses_69	largest	O
+uses_69	for	O
+uses_69	Osama	O

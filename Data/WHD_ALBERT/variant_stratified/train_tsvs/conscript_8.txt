@@ -1,0 +1,16 @@
+conscript_8	After	O
+conscript_8	World	O
+conscript_8	War	O
+conscript_8	II	O
+conscript_8	the	O
+conscript_8	Austrian	O
+conscript_8	Armed	O
+conscript_8	Forces	O
+conscript_8	Bundesheer	O
+conscript_8	were	O
+conscript_8	reestablished	O
+conscript_8	as	O
+conscript_8	a	O
+conscript_8	conscript	conscript_nou
+conscript_8	military	O
+conscript_8	force	O

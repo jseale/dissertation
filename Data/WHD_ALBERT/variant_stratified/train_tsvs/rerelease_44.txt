@@ -1,0 +1,10 @@
+rerelease_44	An	O
+rerelease_44	alternate	O
+rerelease_44	take	O
+rerelease_44	is	O
+rerelease_44	provided	O
+rerelease_44	on	O
+rerelease_44	the	O
+rerelease_44	1999	O
+rerelease_44	CD	O
+rerelease_44	rerelease	rerelease

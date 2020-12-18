@@ -1,0 +1,13 @@
+construct_40	In	O
+construct_40	February	O
+construct_40	1843	O
+construct_40	the	O
+construct_40	residents	O
+construct_40	formally	O
+construct_40	petitioned	O
+construct_40	the	O
+construct_40	government	O
+construct_40	to	O
+construct_40	construct	construct_vrb
+construct_40	the	O
+construct_40	route	O

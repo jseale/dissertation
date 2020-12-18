@@ -1,0 +1,13 @@
+refuse_38	The	O
+refuse_38	monks	O
+refuse_38	refuse	refuse_vrb
+refuse_38	to	O
+refuse_38	capitulate	O
+refuse_38	so	O
+refuse_38	Tong	O
+refuse_38	orders	O
+refuse_38	Shaolin	O
+refuse_38	to	O
+refuse_38	be	O
+refuse_38	burnt	O
+refuse_38	down	O

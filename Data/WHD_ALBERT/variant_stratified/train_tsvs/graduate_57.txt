@@ -1,0 +1,17 @@
+graduate_57	Gilpin	O
+graduate_57	is	O
+graduate_57	a	O
+graduate_57	graduate	graduate_adj-nou
+graduate_57	of	O
+graduate_57	Phillips	O
+graduate_57	Exeter	O
+graduate_57	Academy	O
+graduate_57	class	O
+graduate_57	of	O
+graduate_57	1969	O
+graduate_57	and	O
+graduate_57	Harvard	O
+graduate_57	University	O
+graduate_57	class	O
+graduate_57	of	O
+graduate_57	1973	O

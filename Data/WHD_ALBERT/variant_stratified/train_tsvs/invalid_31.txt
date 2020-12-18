@@ -1,0 +1,15 @@
+invalid_31	Of	O
+invalid_31	the	O
+invalid_31	1,823	O
+invalid_31	Smith	O
+invalid_31	gathered	O
+invalid_31	492	O
+invalid_31	were	O
+invalid_31	deemed	O
+invalid_31	invalid	invalid_adj
+invalid_31	meaning	O
+invalid_31	he	O
+invalid_31	needed	O
+invalid_31	248	O
+invalid_31	more	O
+invalid_31	signatures	O

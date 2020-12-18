@@ -1,0 +1,15 @@
+incline_27	In	O
+incline_27	the	O
+incline_27	tunnel	O
+incline_27	under	O
+incline_27	Lake	O
+incline_27	Ontario	O
+incline_27	two	O
+incline_27	men	O
+incline_27	shake	O
+incline_27	hands	O
+incline_27	on	O
+incline_27	an	O
+incline_27	incline	incline_nou
+incline_27	of	O
+incline_27	mud	O

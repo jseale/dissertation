@@ -1,0 +1,15 @@
+blessed_51	And	O
+blessed_51	I	O
+blessed_51	marveled	O
+blessed_51	and	O
+blessed_51	blessed	blessed_vrb
+blessed_51	the	O
+blessed_51	Lord	O
+blessed_51	God	O
+blessed_51	for	O
+blessed_51	all	O
+blessed_51	the	O
+blessed_51	things	O
+blessed_51	which	O
+blessed_51	I	O
+blessed_51	saw	O

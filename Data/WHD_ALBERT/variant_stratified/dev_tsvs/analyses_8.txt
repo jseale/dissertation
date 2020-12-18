@@ -1,0 +1,9 @@
+analyses_8	The	O
+analyses_8	journal	O
+analyses_8	publishes	O
+analyses_8	economic	O
+analyses_8	analyses	analyses_nou
+analyses_8	focused	O
+analyses_8	entirely	O
+analyses_8	on	O
+analyses_8	Africa	O

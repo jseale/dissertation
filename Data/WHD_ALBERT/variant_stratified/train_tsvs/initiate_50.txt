@@ -1,0 +1,11 @@
+initiate_50	Clients	O
+initiate_50	therefore	O
+initiate_50	initiate	initiate_vrb
+initiate_50	communication	O
+initiate_50	sessions	O
+initiate_50	with	O
+initiate_50	servers	O
+initiate_50	which	O
+initiate_50	await	O
+initiate_50	incoming	O
+initiate_50	requests	O

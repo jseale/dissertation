@@ -1,0 +1,12 @@
+polish_6	Marzena	O
+polish_6	Godecki	O
+polish_6	born	O
+polish_6	28	O
+polish_6	September	O
+polish_6	1978	O
+polish_6	is	O
+polish_6	a	O
+polish_6	Polish	polish_geo
+polish_6	born	O
+polish_6	Australian	O
+polish_6	actress	O

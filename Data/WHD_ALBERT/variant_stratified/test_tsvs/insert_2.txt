@@ -1,0 +1,17 @@
+insert_2	Also	O
+insert_2	included	O
+insert_2	on	O
+insert_2	the	O
+insert_2	album	O
+insert_2	insert	insert_nou
+insert_2	were	O
+insert_2	descriptions	O
+insert_2	of	O
+insert_2	what	O
+insert_2	each	O
+insert_2	song	O
+insert_2	meant	O
+insert_2	in	O
+insert_2	the	O
+insert_2	overall	O
+insert_2	story	O

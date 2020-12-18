@@ -1,0 +1,11 @@
+resume_0	Beatty	O
+resume_0	also	O
+resume_0	has	O
+resume_0	an	O
+resume_0	extensive	O
+resume_0	resume	resume_nou
+resume_0	of	O
+resume_0	actual	O
+resume_0	comic	O
+resume_0	book	O
+resume_0	projects	O

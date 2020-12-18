@@ -1,0 +1,14 @@
+transport_39	River	O
+transport_39	transport	transport_nou
+transport_39	also	O
+transport_39	connects	O
+transport_39	to	O
+transport_39	dozens	O
+transport_39	of	O
+transport_39	ports	O
+transport_39	upstream	O
+transport_39	such	O
+transport_39	as	O
+transport_39	Kisangani	O
+transport_39	and	O
+transport_39	Bangui	O

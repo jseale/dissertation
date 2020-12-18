@@ -1,0 +1,15 @@
+perfect_72	Bradley	O
+perfect_72	Wete	O
+perfect_72	from	O
+perfect_72	Entertainment	O
+perfect_72	Weekly	O
+perfect_72	agreed	O
+perfect_72	further	O
+perfect_72	commenting	O
+perfect_72	that	O
+perfect_72	Lopez	O
+perfect_72	is	O
+perfect_72	at	O
+perfect_72	her	O
+perfect_72	perfect	perfect_adj
+perfect_72	pitch	O

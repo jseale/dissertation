@@ -1,0 +1,13 @@
+pasty_36	The	O
+pasty_36	traditional	O
+pasty_36	Chilean	O
+pasty_36	pasty	pasty_adj
+pasty_36	had	O
+pasty_36	beef	O
+pasty_36	onion	O
+pasty_36	hard	O
+pasty_36	boiled	O
+pasty_36	eggs	O
+pasty_36	olives	O
+pasty_36	and	O
+pasty_36	sultanas	O

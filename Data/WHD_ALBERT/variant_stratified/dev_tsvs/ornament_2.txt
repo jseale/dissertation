@@ -1,0 +1,17 @@
+ornament_2	Pearl	O
+ornament_2	shell	O
+ornament_2	ornament	ornament_nou
+ornament_2	decorated	O
+ornament_2	with	O
+ornament_2	incised	O
+ornament_2	images	O
+ornament_2	of	O
+ornament_2	Australian	O
+ornament_2	flora	O
+ornament_2	and	O
+ornament_2	fauna	O
+ornament_2	made	O
+ornament_2	by	O
+ornament_2	Butcher	O
+ornament_2	Joe	O
+ornament_2	Nangan	O

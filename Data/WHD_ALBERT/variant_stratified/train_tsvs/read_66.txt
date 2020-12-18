@@ -1,0 +1,10 @@
+read_66	Jimmy	O
+read_66	suggests	O
+read_66	you	O
+read_66	read	read_present
+read_66	his	O
+read_66	book	O
+read_66	GO	O
+read_66	GET	O
+read_66	EM	O
+read_66	TIGER	O

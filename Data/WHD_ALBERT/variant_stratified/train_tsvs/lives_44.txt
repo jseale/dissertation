@@ -1,0 +1,10 @@
+lives_44	He	O
+lives_44	lives	lives_vrb
+lives_44	in	O
+lives_44	the	O
+lives_44	Manor	O
+lives_44	of	O
+lives_44	Turville	O
+lives_44	in	O
+lives_44	Turville	O
+lives_44	Buckinghamshire	O

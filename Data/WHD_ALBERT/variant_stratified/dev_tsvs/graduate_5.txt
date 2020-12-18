@@ -1,0 +1,7 @@
+graduate_5	She	O
+graduate_5	is	O
+graduate_5	a	O
+graduate_5	graduate	graduate_adj-nou
+graduate_5	in	O
+graduate_5	fashion	O
+graduate_5	designing	O

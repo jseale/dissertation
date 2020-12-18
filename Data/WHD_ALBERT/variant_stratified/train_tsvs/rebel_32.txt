@@ -1,0 +1,10 @@
+rebel_32	Teeling	O
+rebel_32	was	O
+rebel_32	court	O
+rebel_32	martialled	O
+rebel_32	by	O
+rebel_32	Britain	O
+rebel_32	as	O
+rebel_32	an	O
+rebel_32	Irish	O
+rebel_32	rebel	rebel_nou

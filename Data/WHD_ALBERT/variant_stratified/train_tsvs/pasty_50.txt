@@ -1,0 +1,13 @@
+pasty_50	Pasty	pasty_adj
+pasty_50	ingredients	O
+pasty_50	are	O
+pasty_50	usually	O
+pasty_50	seasoned	O
+pasty_50	with	O
+pasty_50	salt	O
+pasty_50	and	O
+pasty_50	pepper	O
+pasty_50	depending	O
+pasty_50	on	O
+pasty_50	individual	O
+pasty_50	taste	O

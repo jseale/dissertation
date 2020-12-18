@@ -1,0 +1,11 @@
+conscript_26	From	O
+conscript_26	1932	O
+conscript_26	to	O
+conscript_26	1945	O
+conscript_26	he	O
+conscript_26	chaired	O
+conscript_26	the	O
+conscript_26	nationwide	O
+conscript_26	Conscript	conscript_nou
+conscript_26	Officers	O
+conscript_26	Association	O

@@ -1,0 +1,12 @@
+bow_54	The	O
+bow_54	wreck	O
+bow_54	is	O
+bow_54	marked	O
+bow_54	with	O
+bow_54	red	O
+bow_54	buoys	O
+bow_54	at	O
+bow_54	the	O
+bow_54	bow	bow_nou-ship
+bow_54	and	O
+bow_54	stern	O

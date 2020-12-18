@@ -1,0 +1,10 @@
+fragment_0	One	O
+fragment_0	man	O
+fragment_0	was	O
+fragment_0	lost	O
+fragment_0	through	O
+fragment_0	a	O
+fragment_0	fragment	fragment_nou
+fragment_0	of	O
+fragment_0	a	O
+fragment_0	shell	O

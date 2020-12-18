@@ -1,0 +1,13 @@
+insert_33	The	O
+insert_33	insert	insert_nou
+insert_33	is	O
+insert_33	placed	O
+insert_33	in	O
+insert_33	the	O
+insert_33	mold	O
+insert_33	of	O
+insert_33	an	O
+insert_33	injection	O
+insert_33	molded	O
+insert_33	part	O
+insert_33	beforehand	O

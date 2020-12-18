@@ -1,0 +1,16 @@
+coordinate_64	Some	O
+coordinate_64	Phalaenopsis	O
+coordinate_64	species	O
+coordinate_64	in	O
+coordinate_64	Malaysia	O
+coordinate_64	are	O
+coordinate_64	known	O
+coordinate_64	to	O
+coordinate_64	use	O
+coordinate_64	subtle	O
+coordinate_64	weather	O
+coordinate_64	cues	O
+coordinate_64	to	O
+coordinate_64	coordinate	coordinate_vrb
+coordinate_64	mass	O
+coordinate_64	flowering	O

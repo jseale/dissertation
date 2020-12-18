@@ -1,0 +1,14 @@
+discharge_54	On	O
+discharge_54	December	O
+discharge_54	14	O
+discharge_54	2012	O
+discharge_54	judge	O
+discharge_54	Timothy	O
+discharge_54	Dore	O
+discharge_54	denied	O
+discharge_54	Hazelrigg	O
+discharge_54	a	O
+discharge_54	discharge	discharge_nou
+discharge_54	of	O
+discharge_54	his	O
+discharge_54	debt	O

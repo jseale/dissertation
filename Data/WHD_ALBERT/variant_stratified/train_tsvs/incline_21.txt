@@ -1,0 +1,16 @@
+incline_21	The	O
+incline_21	total	O
+incline_21	climbing	O
+incline_21	was	O
+incline_21	306	O
+incline_21	m	O
+incline_21	1,004	O
+incline_21	ft	O
+incline_21	per	O
+incline_21	lap	O
+incline_21	and	O
+incline_21	the	O
+incline_21	maximum	O
+incline_21	incline	incline_nou
+incline_21	was	O
+incline_21	10.7	O

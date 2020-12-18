@@ -1,0 +1,11 @@
+document_32	The	O
+document_32	comparison	O
+document_32	of	O
+document_32	document	document_nou
+document_32	maps	O
+document_32	from	O
+document_32	feature	O
+document_32	space	O
+document_32	to	O
+document_32	distance	O
+document_32	space	O

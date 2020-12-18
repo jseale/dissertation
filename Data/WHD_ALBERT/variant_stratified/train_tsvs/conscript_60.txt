@@ -1,0 +1,14 @@
+conscript_60	Russia	O
+conscript_60	as	O
+conscript_60	well	O
+conscript_60	as	O
+conscript_60	many	O
+conscript_60	smaller	O
+conscript_60	nations	O
+conscript_60	such	O
+conscript_60	as	O
+conscript_60	Switzerland	O
+conscript_60	retain	O
+conscript_60	mainly	O
+conscript_60	conscript	conscript_nou
+conscript_60	armies	O

@@ -1,0 +1,11 @@
+reject_28	He	O
+reject_28	has	O
+reject_28	done	O
+reject_28	this	O
+reject_28	again	O
+reject_28	and	O
+reject_28	we	O
+reject_28	again	O
+reject_28	reject	reject_vrb
+reject_28	his	O
+reject_28	allegations	O

@@ -1,0 +1,16 @@
+mobile_13	According	O
+mobile_13	to	O
+mobile_13	the	O
+mobile_13	company	O
+mobile_13	blog	O
+mobile_13	it	O
+mobile_13	works	O
+mobile_13	on	O
+mobile_13	80	O
+mobile_13	of	O
+mobile_13	mobile	mobile
+mobile_13	phones	O
+mobile_13	available	O
+mobile_13	in	O
+mobile_13	the	O
+mobile_13	market	O

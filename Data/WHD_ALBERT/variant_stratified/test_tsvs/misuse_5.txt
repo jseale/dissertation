@@ -1,0 +1,10 @@
+misuse_5	There	O
+misuse_5	was	O
+misuse_5	widespread	O
+misuse_5	criticism	O
+misuse_5	of	O
+misuse_5	the	O
+misuse_5	misuse	misuse_nou
+misuse_5	of	O
+misuse_5	Emergency	O
+misuse_5	powers	O

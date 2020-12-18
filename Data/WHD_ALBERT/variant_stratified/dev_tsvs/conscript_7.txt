@@ -1,0 +1,9 @@
+conscript_7	The	O
+conscript_7	Tunisian	O
+conscript_7	army	O
+conscript_7	is	O
+conscript_7	in	O
+conscript_7	part	O
+conscript_7	a	O
+conscript_7	conscript	conscript_nou
+conscript_7	army	O

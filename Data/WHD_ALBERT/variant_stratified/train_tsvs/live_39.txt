@@ -1,0 +1,16 @@
+live_39	It	O
+live_39	was	O
+live_39	originally	O
+live_39	performed	O
+live_39	in	O
+live_39	1998	O
+live_39	and	O
+live_39	1999	O
+live_39	in	O
+live_39	live	live_adj
+live_39	concerts	O
+live_39	for	O
+live_39	her	O
+live_39	debut	O
+live_39	album	O
+live_39	Songbird	O

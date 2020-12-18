@@ -1,0 +1,11 @@
+overthrow_13	Mengistu	O
+overthrow_13	's	O
+overthrow_13	overthrow	overthrow_nou
+overthrow_13	in	O
+overthrow_13	May	O
+overthrow_13	1991	O
+overthrow_13	caused	O
+overthrow_13	a	O
+overthrow_13	number	O
+overthrow_13	of	O
+overthrow_13	shifts	O

@@ -1,0 +1,11 @@
+convert_32	Software	O
+convert_32	translators	O
+convert_32	could	O
+convert_32	convert	convert_vrb
+convert_32	documents	O
+convert_32	between	O
+convert_32	WordStar	O
+convert_32	and	O
+convert_32	MacWrite	O
+convert_32	among	O
+convert_32	others	O

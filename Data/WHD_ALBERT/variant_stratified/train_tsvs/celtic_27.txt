@@ -1,0 +1,11 @@
+celtic_27	Bathanatos	O
+celtic_27	was	O
+celtic_27	a	O
+celtic_27	Celtic	celtic
+celtic_27	king	O
+celtic_27	in	O
+celtic_27	Thrace	O
+celtic_27	that	O
+celtic_27	ruled	O
+celtic_27	the	O
+celtic_27	Scordisci	O

@@ -1,0 +1,17 @@
+rerelease_6	IGN	O
+rerelease_6	praised	O
+rerelease_6	the	O
+rerelease_6	2011	O
+rerelease_6	rerelease	rerelease
+rerelease_6	scoring	O
+rerelease_6	8.5	O
+rerelease_6	for	O
+rerelease_6	the	O
+rerelease_6	XBLA	O
+rerelease_6	version	O
+rerelease_6	and	O
+rerelease_6	9.0	O
+rerelease_6	for	O
+rerelease_6	the	O
+rerelease_6	iOS	O
+rerelease_6	version	O

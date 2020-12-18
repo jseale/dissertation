@@ -1,0 +1,14 @@
+learned_60	In	O
+learned_60	September	O
+learned_60	he	O
+learned_60	learned	learned_vrb
+learned_60	he	O
+learned_60	had	O
+learned_60	passed	O
+learned_60	the	O
+learned_60	entrance	O
+learned_60	exam	O
+learned_60	for	O
+learned_60	Clare	O
+learned_60	College	O
+learned_60	Cambridge	O

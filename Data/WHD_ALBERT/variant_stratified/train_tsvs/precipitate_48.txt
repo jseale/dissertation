@@ -1,0 +1,7 @@
+precipitate_48	These	O
+precipitate_48	compounds	O
+precipitate_48	slowly	O
+precipitate_48	precipitate	precipitate_vrb
+precipitate_48	on	O
+precipitate_48	the	O
+precipitate_48	surface	O

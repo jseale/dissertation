@@ -1,0 +1,12 @@
+polish_17	Leon	O
+polish_17	Rekawek	O
+polish_17	born	O
+polish_17	1905	O
+polish_17	date	O
+polish_17	of	O
+polish_17	death	O
+polish_17	unknown	O
+polish_17	was	O
+polish_17	a	O
+polish_17	Polish	polish_geo
+polish_17	wrestler	O

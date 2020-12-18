@@ -1,0 +1,17 @@
+resume_65	Normal	O
+resume_65	programming	O
+resume_65	would	O
+resume_65	not	O
+resume_65	resume	resume_vrb
+resume_65	until	O
+resume_65	the	O
+resume_65	transmission	O
+resume_65	of	O
+resume_65	an	O
+resume_65	Emergency	O
+resume_65	Action	O
+resume_65	Termination	O
+resume_65	message	O
+resume_65	SAME	O
+resume_65	code	O
+resume_65	EAT	O

@@ -1,0 +1,16 @@
+correlate_19	In	O
+correlate_19	melanoma	O
+correlate_19	and	O
+correlate_19	certain	O
+correlate_19	other	O
+correlate_19	cancers	O
+correlate_19	the	O
+correlate_19	numbers	O
+correlate_19	of	O
+correlate_19	mutations	O
+correlate_19	and	O
+correlate_19	neoantigens	O
+correlate_19	correlate	correlate_nou-vrb
+correlate_19	with	O
+correlate_19	patient	O
+correlate_19	response	O

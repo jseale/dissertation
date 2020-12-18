@@ -1,0 +1,14 @@
+ornament_1	If	O
+ornament_1	you	O
+ornament_1	do	O
+ornament_1	n't	O
+ornament_1	like	O
+ornament_1	his	O
+ornament_1	ornament	ornament_nou
+ornament_1	you	O
+ornament_1	should	O
+ornament_1	be	O
+ornament_1	listening	O
+ornament_1	to	O
+ornament_1	someone	O
+ornament_1	else	O

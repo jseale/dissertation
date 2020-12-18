@@ -1,0 +1,15 @@
+incline_57	The	O
+incline_57	path	O
+incline_57	runs	O
+incline_57	downhill	O
+incline_57	but	O
+incline_57	the	O
+incline_57	incline	incline_nou
+incline_57	is	O
+incline_57	so	O
+incline_57	slight	O
+incline_57	that	O
+incline_57	it	O
+incline_57	is	O
+incline_57	barely	O
+incline_57	perceptible	O

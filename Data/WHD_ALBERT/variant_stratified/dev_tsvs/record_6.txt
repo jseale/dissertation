@@ -1,0 +1,16 @@
+record_6	The	O
+record_6	film	O
+record_6	performed	O
+record_6	exceptionally	O
+record_6	well	O
+record_6	overseas	O
+record_6	collecting	O
+record_6	record	record_nou
+record_6	figures	O
+record_6	unheard	O
+record_6	of	O
+record_6	for	O
+record_6	a	O
+record_6	heroine	O
+record_6	oriented	O
+record_6	film	O

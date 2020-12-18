@@ -1,0 +1,11 @@
+insult_28	This	O
+insult_28	was	O
+insult_28	seen	O
+insult_28	as	O
+insult_28	an	O
+insult_28	affront	O
+insult_28	and	O
+insult_28	insult	insult_nou
+insult_28	to	O
+insult_28	Genghis	O
+insult_28	Khan	O

@@ -1,0 +1,11 @@
+discard_9	Allow	O
+discard_9	water	O
+discard_9	to	O
+discard_9	drain	O
+discard_9	into	O
+discard_9	the	O
+discard_9	saucer	O
+discard_9	and	O
+discard_9	discard	discard_vrb
+discard_9	excess	O
+discard_9	water	O

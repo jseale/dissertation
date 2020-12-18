@@ -1,0 +1,15 @@
+upset_61	The	O
+upset_61	memory	O
+upset_61	of	O
+upset_61	her	O
+upset_61	father	O
+upset_61	's	O
+upset_61	death	O
+upset_61	begins	O
+upset_61	to	O
+upset_61	upset	upset_vrb
+upset_61	her	O
+upset_61	studies	O
+upset_61	and	O
+upset_61	her	O
+upset_61	relationships	O

@@ -1,0 +1,12 @@
+decrease_51	In	O
+decrease_51	general	O
+decrease_51	air	O
+decrease_51	pressure	O
+decrease_51	and	O
+decrease_51	density	O
+decrease_51	decrease	decrease_vrb
+decrease_51	with	O
+decrease_51	altitude	O
+decrease_51	in	O
+decrease_51	the	O
+decrease_51	atmosphere	O

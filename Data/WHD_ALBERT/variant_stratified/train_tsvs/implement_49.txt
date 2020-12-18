@@ -1,0 +1,17 @@
+implement_49	But	O
+implement_49	then	O
+implement_49	it	O
+implement_49	will	O
+implement_49	only	O
+implement_49	be	O
+implement_49	able	O
+implement_49	to	O
+implement_49	implement	implement_vrb
+implement_49	its	O
+implement_49	duties	O
+implement_49	for	O
+implement_49	no	O
+implement_49	more	O
+implement_49	than	O
+implement_49	60	O
+implement_49	days	O

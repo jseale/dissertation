@@ -1,0 +1,12 @@
+reject_74	Voters	O
+reject_74	then	O
+reject_74	decide	O
+reject_74	whether	O
+reject_74	to	O
+reject_74	accept	O
+reject_74	or	O
+reject_74	reject	reject_vrb
+reject_74	all	O
+reject_74	amendments	O
+reject_74	put	O
+reject_74	forth	O

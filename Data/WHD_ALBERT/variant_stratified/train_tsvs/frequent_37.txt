@@ -1,0 +1,12 @@
+frequent_37	It	O
+frequent_37	represents	O
+frequent_37	the	O
+frequent_37	most	O
+frequent_37	frequent	frequent_adj
+frequent_37	cause	O
+frequent_37	of	O
+frequent_37	hypogonadism	O
+frequent_37	and	O
+frequent_37	infertility	O
+frequent_37	in	O
+frequent_37	men	O

@@ -1,0 +1,17 @@
+learned_1	Production	O
+learned_1	budgets	O
+learned_1	at	O
+learned_1	SBS	O
+learned_1	were	O
+learned_1	always	O
+learned_1	low	O
+learned_1	and	O
+learned_1	she	O
+learned_1	learned	learned_vrb
+learned_1	to	O
+learned_1	make	O
+learned_1	do	O
+learned_1	with	O
+learned_1	what	O
+learned_1	they	O
+learned_1	had	O

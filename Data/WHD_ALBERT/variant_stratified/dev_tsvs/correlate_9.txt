@@ -1,0 +1,10 @@
+correlate_9	Differences	O
+correlate_9	within	O
+correlate_9	languages	O
+correlate_9	directly	O
+correlate_9	correlate	correlate_nou-vrb
+correlate_9	to	O
+correlate_9	differences	O
+correlate_9	in	O
+correlate_9	emotion	O
+correlate_9	taxonomy	O

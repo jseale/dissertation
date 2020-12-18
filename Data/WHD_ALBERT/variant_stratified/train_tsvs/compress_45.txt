@@ -1,0 +1,13 @@
+compress_45	The	O
+compress_45	larger	O
+compress_45	bombs	O
+compress_45	used	O
+compress_45	more	O
+compress_45	explosives	O
+compress_45	to	O
+compress_45	super	O
+compress_45	compress	compress
+compress_45	the	O
+compress_45	fissionables	O
+compress_45	increasing	O
+compress_45	efficiency	O

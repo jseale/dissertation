@@ -1,0 +1,8 @@
+discard_22	Players	O
+discard_22	do	O
+discard_22	not	O
+discard_22	discard	discard_vrb
+discard_22	three	O
+discard_22	of	O
+discard_22	a	O
+discard_22	kind	O

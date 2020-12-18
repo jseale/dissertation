@@ -1,0 +1,11 @@
+decrease_41	These	O
+decrease_41	phosphatases	O
+decrease_41	decrease	decrease_vrb
+decrease_41	the	O
+decrease_41	activation	O
+decrease_41	of	O
+decrease_41	molecules	O
+decrease_41	involved	O
+decrease_41	in	O
+decrease_41	cell	O
+decrease_41	signaling	O

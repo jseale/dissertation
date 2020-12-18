@@ -1,0 +1,16 @@
+read_25	It	O
+read_25	read	read_past
+read_25	paraphrased	O
+read_25	Thank	O
+read_25	you	O
+read_25	for	O
+read_25	the	O
+read_25	wonderful	O
+read_25	display	O
+read_25	of	O
+read_25	aerobatics	O
+read_25	by	O
+read_25	three	O
+read_25	of	O
+read_25	your	O
+read_25	pilots	O

@@ -1,0 +1,14 @@
+document_57	The	O
+document_57	arrival	O
+document_57	of	O
+document_57	SGML	O
+document_57	XML	O
+document_57	as	O
+document_57	the	O
+document_57	document	document_nou
+document_57	model	O
+document_57	made	O
+document_57	other	O
+document_57	typesetting	O
+document_57	engines	O
+document_57	popular	O

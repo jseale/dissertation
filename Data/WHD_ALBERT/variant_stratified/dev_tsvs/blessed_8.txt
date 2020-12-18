@@ -1,0 +1,14 @@
+blessed_8	Guru	O
+blessed_8	Nanak	O
+blessed_8	not	O
+blessed_8	only	O
+blessed_8	blessed	blessed_vrb
+blessed_8	Kempegowda	O
+blessed_8	but	O
+blessed_8	also	O
+blessed_8	advised	O
+blessed_8	him	O
+blessed_8	to	O
+blessed_8	develop	O
+blessed_8	the	O
+blessed_8	place	O

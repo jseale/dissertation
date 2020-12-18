@@ -1,0 +1,15 @@
+convert_45	After	O
+convert_45	refusing	O
+convert_45	to	O
+convert_45	convert	convert_vrb
+convert_45	to	O
+convert_45	Islam	O
+convert_45	they	O
+convert_45	were	O
+convert_45	executed	O
+convert_45	at	O
+convert_45	Samarra	O
+convert_45	on	O
+convert_45	6	O
+convert_45	March	O
+convert_45	845	O

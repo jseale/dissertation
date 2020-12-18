@@ -1,0 +1,13 @@
+abuses_33	The	O
+abuses_33	1979	O
+abuses_33	Beach	O
+abuses_33	Inquiry	O
+abuses_33	found	O
+abuses_33	that	O
+abuses_33	the	O
+abuses_33	Armed	O
+abuses_33	Robbery	O
+abuses_33	Squad	O
+abuses_33	had	O
+abuses_33	committed	O
+abuses_33	abuses	abuses_nou

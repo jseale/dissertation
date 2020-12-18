@@ -1,0 +1,17 @@
+expose_19	Jack	O
+expose_19	reveals	O
+expose_19	to	O
+expose_19	Rachel	O
+expose_19	why	O
+expose_19	he	O
+expose_19	's	O
+expose_19	in	O
+expose_19	New	O
+expose_19	York	O
+expose_19	and	O
+expose_19	the	O
+expose_19	two	O
+expose_19	conspire	O
+expose_19	to	O
+expose_19	expose	expose_vrb
+expose_19	Pryce	O

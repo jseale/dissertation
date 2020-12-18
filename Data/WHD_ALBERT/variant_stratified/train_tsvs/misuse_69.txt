@@ -1,0 +1,11 @@
+misuse_69	These	O
+misuse_69	are	O
+misuse_69	expensive	O
+misuse_69	and	O
+misuse_69	susceptible	O
+misuse_69	to	O
+misuse_69	failure	O
+misuse_69	improper	O
+misuse_69	configuration	O
+misuse_69	and	O
+misuse_69	misuse	misuse_nou

@@ -1,0 +1,16 @@
+correlate_21	Note	O
+correlate_21	Colours	O
+correlate_21	are	O
+correlate_21	representative	O
+correlate_21	only	O
+correlate_21	and	O
+correlate_21	do	O
+correlate_21	not	O
+correlate_21	directly	O
+correlate_21	correlate	correlate_nou-vrb
+correlate_21	to	O
+correlate_21	liveries	O
+correlate_21	worn	O
+correlate_21	in	O
+correlate_21	the	O
+correlate_21	era	O

@@ -1,0 +1,14 @@
+nestle_68	Ancient	O
+nestle_68	castles	O
+nestle_68	nestle	nestle_vrb
+nestle_68	on	O
+nestle_68	lonely	O
+nestle_68	hills	O
+nestle_68	the	O
+nestle_68	most	O
+nestle_68	famous	O
+nestle_68	being	O
+nestle_68	the	O
+nestle_68	magnificent	O
+nestle_68	Loarre	O
+nestle_68	Castle	O

@@ -1,0 +1,9 @@
+compress_2	The	O
+compress_2	gravity	O
+compress_2	compress	compress
+compress_2	the	O
+compress_2	air	O
+compress_2	in	O
+compress_2	the	O
+compress_2	pneumatic	O
+compress_2	cylinder	O

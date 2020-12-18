@@ -1,0 +1,15 @@
+tear_74	An	O
+tear_74	MRI	O
+tear_74	exam	O
+tear_74	revealed	O
+tear_74	that	O
+tear_74	he	O
+tear_74	had	O
+tear_74	a	O
+tear_74	complete	O
+tear_74	tear	tear_vrb
+tear_74	of	O
+tear_74	the	O
+tear_74	ulnar	O
+tear_74	collateral	O
+tear_74	ligament	O

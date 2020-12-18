@@ -1,0 +1,11 @@
+attribute_14	Skill	O
+attribute_14	and	O
+attribute_14	attribute	attribute_nou
+attribute_14	development	O
+attribute_14	are	O
+attribute_14	dependent	O
+attribute_14	on	O
+attribute_14	Titles	O
+attribute_14	and	O
+attribute_14	their	O
+attribute_14	levels	O

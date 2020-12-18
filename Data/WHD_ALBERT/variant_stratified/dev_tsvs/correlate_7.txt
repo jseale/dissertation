@@ -1,0 +1,13 @@
+correlate_7	However	O
+correlate_7	they	O
+correlate_7	did	O
+correlate_7	correlate	correlate_nou-vrb
+correlate_7	but	O
+correlate_7	only	O
+correlate_7	faintly	O
+correlate_7	with	O
+correlate_7	measures	O
+correlate_7	of	O
+correlate_7	explicit	O
+correlate_7	self	O
+correlate_7	esteem	O

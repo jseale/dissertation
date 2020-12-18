@@ -1,0 +1,13 @@
+overthrow_29	He	O
+overthrow_29	leads	O
+overthrow_29	the	O
+overthrow_29	Partisans	O
+overthrow_29	who	O
+overthrow_29	are	O
+overthrow_29	trying	O
+overthrow_29	to	O
+overthrow_29	overthrow	overthrow_vrb
+overthrow_29	Isabella	O
+overthrow_29	for	O
+overthrow_29	her	O
+overthrow_29	crimes	O

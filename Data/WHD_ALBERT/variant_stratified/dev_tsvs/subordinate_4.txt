@@ -1,0 +1,17 @@
+subordinate_4	His	O
+subordinate_4	subordinate	subordinate_adj-nou
+subordinate_4	generals	O
+subordinate_4	were	O
+subordinate_4	supportive	O
+subordinate_4	of	O
+subordinate_4	this	O
+subordinate_4	line	O
+subordinate_4	of	O
+subordinate_4	reasoning	O
+subordinate_4	and	O
+subordinate_4	counseled	O
+subordinate_4	delay	O
+subordinate_4	all	O
+subordinate_4	except	O
+subordinate_4	for	O
+subordinate_4	Brig	O

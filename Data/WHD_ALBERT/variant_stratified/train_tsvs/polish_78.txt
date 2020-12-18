@@ -1,0 +1,10 @@
+polish_78	Krzysztof	O
+polish_78	Kiersznowski	O
+polish_78	born	O
+polish_78	26	O
+polish_78	November	O
+polish_78	1950	O
+polish_78	is	O
+polish_78	a	O
+polish_78	Polish	polish_geo
+polish_78	actor	O

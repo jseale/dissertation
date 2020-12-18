@@ -1,0 +1,16 @@
+bow_78	The	O
+bow_78	bow	bow_nou-ship
+bow_78	above	O
+bow_78	the	O
+bow_78	waterline	O
+bow_78	was	O
+bow_78	nearly	O
+bow_78	straight	O
+bow_78	in	O
+bow_78	contrast	O
+bow_78	to	O
+bow_78	that	O
+bow_78	of	O
+bow_78	wooden	O
+bow_78	sailing	O
+bow_78	ships	O

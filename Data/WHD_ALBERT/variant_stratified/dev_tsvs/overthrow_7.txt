@@ -1,0 +1,9 @@
+overthrow_7	The	O
+overthrow_7	Supreme	O
+overthrow_7	Court	O
+overthrow_7	can	O
+overthrow_7	overthrow	overthrow_vrb
+overthrow_7	any	O
+overthrow_7	lower	O
+overthrow_7	courts	O
+overthrow_7	decision	O

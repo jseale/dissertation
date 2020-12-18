@@ -1,0 +1,13 @@
+pervert_0	He	O
+pervert_0	is	O
+pervert_0	a	O
+pervert_0	pervert	pervert_nou
+pervert_0	and	O
+pervert_0	seems	O
+pervert_0	to	O
+pervert_0	only	O
+pervert_0	show	O
+pervert_0	kindness	O
+pervert_0	to	O
+pervert_0	his	O
+pervert_0	sister	O

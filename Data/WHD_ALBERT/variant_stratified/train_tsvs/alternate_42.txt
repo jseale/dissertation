@@ -1,0 +1,8 @@
+alternate_42	Similarly	O
+alternate_42	critics	O
+alternate_42	were	O
+alternate_42	ambivalent	O
+alternate_42	towards	O
+alternate_42	the	O
+alternate_42	alternate	alternate_adj-nou
+alternate_42	finale	O

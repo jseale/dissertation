@@ -1,0 +1,7 @@
+aged_59	He	O
+aged_59	died	O
+aged_59	in	O
+aged_59	Claremont	O
+aged_59	California	O
+aged_59	aged	aged
+aged_59	82	O

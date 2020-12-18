@@ -1,0 +1,17 @@
+convert_62	Luteal	O
+convert_62	cells	O
+convert_62	possess	O
+convert_62	the	O
+convert_62	necessary	O
+convert_62	enzymes	O
+convert_62	to	O
+convert_62	convert	convert_vrb
+convert_62	cholesterol	O
+convert_62	to	O
+convert_62	pregnenolone	O
+convert_62	which	O
+convert_62	is	O
+convert_62	subsequently	O
+convert_62	converted	O
+convert_62	into	O
+convert_62	progesterone	O

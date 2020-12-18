@@ -1,0 +1,16 @@
+axes_20	This	O
+axes_20	product	O
+axes_20	is	O
+axes_20	where	O
+axes_20	a	O
+axes_20	and	O
+axes_20	b	O
+axes_20	are	O
+axes_20	the	O
+axes_20	semi	O
+axes_20	major	O
+axes_20	and	O
+axes_20	semi	O
+axes_20	minor	O
+axes_20	axes	axes_nou
+axes_20	respectively	O

@@ -1,0 +1,14 @@
+separate_14	Ogilvy	O
+separate_14	Mather	O
+separate_14	continued	O
+separate_14	to	O
+separate_14	operate	O
+separate_14	D	O
+separate_14	A	O
+separate_14	Y	O
+separate_14	as	O
+separate_14	a	O
+separate_14	separate	separate_adj
+separate_14	division	O
+separate_14	until	O
+separate_14	1988	O

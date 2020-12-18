@@ -1,0 +1,17 @@
+graduate_19	Another	O
+graduate_19	Boys	O
+graduate_19	High	O
+graduate_19	graduate	graduate_adj-nou
+graduate_19	remembered	O
+graduate_19	that	O
+graduate_19	I	O
+graduate_19	went	O
+graduate_19	to	O
+graduate_19	Boys	O
+graduate_19	High	O
+graduate_19	School	O
+graduate_19	in	O
+graduate_19	Brooklyn	O
+graduate_19	a	O
+graduate_19	great	O
+graduate_19	school	O

@@ -1,0 +1,17 @@
+extract_33	Some	O
+extract_33	liquorice	O
+extract_33	candy	O
+extract_33	is	O
+extract_33	flavoured	O
+extract_33	with	O
+extract_33	anise	O
+extract_33	oil	O
+extract_33	instead	O
+extract_33	of	O
+extract_33	or	O
+extract_33	in	O
+extract_33	combination	O
+extract_33	with	O
+extract_33	liquorice	O
+extract_33	root	O
+extract_33	extract	extract_nou

@@ -1,0 +1,17 @@
+rebel_1	From	O
+rebel_1	the	O
+rebel_1	start	O
+rebel_1	of	O
+rebel_1	the	O
+rebel_1	conflict	O
+rebel_1	Pope	O
+rebel_1	Innocent	O
+rebel_1	III	O
+rebel_1	began	O
+rebel_1	excommunicating	O
+rebel_1	rebel	rebel_nou
+rebel_1	barons	O
+rebel_1	negatively	O
+rebel_1	affecting	O
+rebel_1	their	O
+rebel_1	efforts	O

@@ -1,0 +1,13 @@
+separate_30	Oudheusden	O
+separate_30	was	O
+separate_30	a	O
+separate_30	separate	separate_adj
+separate_30	municipality	O
+separate_30	until	O
+separate_30	1935	O
+separate_30	when	O
+separate_30	it	O
+separate_30	became	O
+separate_30	part	O
+separate_30	of	O
+separate_30	Drunen	O

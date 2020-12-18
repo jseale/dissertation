@@ -1,0 +1,16 @@
+close_45	It	O
+close_45	was	O
+close_45	located	O
+close_45	at	O
+close_45	Grosser	O
+close_45	Wannsee	O
+close_45	on	O
+close_45	the	O
+close_45	estate	O
+close_45	of	O
+close_45	his	O
+close_45	father	O
+close_45	close	close_adj-nou
+close_45	to	O
+close_45	Villa	O
+close_45	Arons	O

@@ -1,0 +1,17 @@
+record_64	His	O
+record_64	144	O
+record_64	points	O
+record_64	last	O
+record_64	season	O
+record_64	broke	O
+record_64	the	O
+record_64	record	record_nou
+record_64	of	O
+record_64	138	O
+record_64	that	O
+record_64	he	O
+record_64	had	O
+record_64	set	O
+record_64	the	O
+record_64	previous	O
+record_64	season	O

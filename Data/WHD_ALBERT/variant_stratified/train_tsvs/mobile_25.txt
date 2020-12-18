@@ -1,0 +1,12 @@
+mobile_25	The	O
+mobile_25	Starmap	O
+mobile_25	mobile	mobile
+mobile_25	Alliance	O
+mobile_25	was	O
+mobile_25	shut	O
+mobile_25	down	O
+mobile_25	at	O
+mobile_25	the	O
+mobile_25	beginning	O
+mobile_25	of	O
+mobile_25	2007	O

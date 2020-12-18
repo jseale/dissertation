@@ -1,0 +1,16 @@
+coordinate_21	Typically	O
+coordinate_21	the	O
+coordinate_21	origin	O
+coordinate_21	and	O
+coordinate_21	at	O
+coordinate_21	least	O
+coordinate_21	some	O
+coordinate_21	of	O
+coordinate_21	the	O
+coordinate_21	coordinate	coordinate_adj-nou
+coordinate_21	axes	O
+coordinate_21	of	O
+coordinate_21	each	O
+coordinate_21	space	O
+coordinate_21	are	O
+coordinate_21	different	O

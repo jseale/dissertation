@@ -1,0 +1,14 @@
+estimate_17	Its	O
+estimate_17	report	O
+estimate_17	which	O
+estimate_17	was	O
+estimate_17	not	O
+estimate_17	released	O
+estimate_17	until	O
+estimate_17	2013	O
+estimate_17	concluded	O
+estimate_17	that	O
+estimate_17	as	O
+estimate_17	a	O
+estimate_17	conservative	O
+estimate_17	estimate	estimate_nou

@@ -1,0 +1,16 @@
+affect_34	The	O
+affect_34	game	O
+affect_34	used	O
+affect_34	real	O
+affect_34	world	O
+affect_34	traffic	O
+affect_34	data	O
+affect_34	to	O
+affect_34	affect	affect
+affect_34	the	O
+affect_34	behavior	O
+affect_34	of	O
+affect_34	monsters	O
+affect_34	in	O
+affect_34	the	O
+affect_34	game	O

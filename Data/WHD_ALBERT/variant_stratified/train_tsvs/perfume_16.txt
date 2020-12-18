@@ -1,0 +1,17 @@
+perfume_16	Marissa	O
+perfume_16	G.	O
+perfume_16	Muller	O
+perfume_16	of	O
+perfume_16	MTV	O
+perfume_16	compared	O
+perfume_16	the	O
+perfume_16	packaging	O
+perfume_16	with	O
+perfume_16	the	O
+perfume_16	foil	O
+perfume_16	of	O
+perfume_16	Jay	O
+perfume_16	Z	O
+perfume_16	's	O
+perfume_16	Gold	O
+perfume_16	perfume	perfume_nou

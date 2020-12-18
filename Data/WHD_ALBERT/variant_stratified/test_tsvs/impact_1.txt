@@ -1,0 +1,9 @@
+impact_1	The	O
+impact_1	overall	O
+impact_1	impact	impact_nou
+impact_1	of	O
+impact_1	managed	O
+impact_1	care	O
+impact_1	remains	O
+impact_1	widely	O
+impact_1	debated	O

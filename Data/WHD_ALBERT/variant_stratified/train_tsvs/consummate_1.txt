@@ -1,0 +1,11 @@
+consummate_1	In	O
+consummate_1	this	O
+consummate_1	approach	O
+consummate_1	the	O
+consummate_1	Four	O
+consummate_1	Noble	O
+consummate_1	Truths	O
+consummate_1	are	O
+consummate_1	the	O
+consummate_1	consummate	consummate_adj
+consummate_1	teaching	O

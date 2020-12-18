@@ -1,0 +1,14 @@
+laminate_16	Laminate	laminate_nou
+laminate_16	may	O
+laminate_16	be	O
+laminate_16	more	O
+laminate_16	durable	O
+laminate_16	than	O
+laminate_16	hardwood	O
+laminate_16	but	O
+laminate_16	can	O
+laminate_16	not	O
+laminate_16	be	O
+laminate_16	refinished	O
+laminate_16	like	O
+laminate_16	hardwood	O

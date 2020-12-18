@@ -1,0 +1,15 @@
+lives_21	Her	O
+lives_21	ambition	O
+lives_21	was	O
+lives_21	to	O
+lives_21	become	O
+lives_21	a	O
+lives_21	doctor	O
+lives_21	who	O
+lives_21	improved	O
+lives_21	the	O
+lives_21	lives	lives_nou
+lives_21	of	O
+lives_21	women	O
+lives_21	and	O
+lives_21	children	O

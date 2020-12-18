@@ -1,0 +1,12 @@
+live_6	She	O
+live_6	went	O
+live_6	to	O
+live_6	live	live_vrb
+live_6	with	O
+live_6	her	O
+live_6	aunt	O
+live_6	whose	O
+live_6	family	O
+live_6	name	O
+live_6	was	O
+live_6	Wang	O

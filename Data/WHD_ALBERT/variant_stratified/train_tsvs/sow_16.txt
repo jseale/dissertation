@@ -1,0 +1,17 @@
+sow_16	He	O
+sow_16	would	O
+sow_16	sow	sow
+sow_16	a	O
+sow_16	seed	O
+sow_16	and	O
+sow_16	then	O
+sow_16	wait	O
+sow_16	to	O
+sow_16	see	O
+sow_16	if	O
+sow_16	I	O
+sow_16	would	O
+sow_16	pick	O
+sow_16	up	O
+sow_16	on	O
+sow_16	it	O

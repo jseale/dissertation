@@ -1,0 +1,16 @@
+estimate_6	The	O
+estimate_6	estimate	estimate_nou
+estimate_6	is	O
+estimate_6	for	O
+estimate_6	a	O
+estimate_6	copy	O
+estimate_6	in	O
+estimate_6	very	O
+estimate_6	good	O
+estimate_6	to	O
+estimate_6	fine	O
+estimate_6	condition	O
+estimate_6	in	O
+estimate_6	a	O
+estimate_6	like	O
+estimate_6	dustjacket	O

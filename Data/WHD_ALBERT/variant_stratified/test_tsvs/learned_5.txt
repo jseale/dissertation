@@ -1,0 +1,11 @@
+learned_5	Late	O
+learned_5	Neoplatonic	O
+learned_5	sources	O
+learned_5	state	O
+learned_5	that	O
+learned_5	Pythagoras	O
+learned_5	learned	learned_vrb
+learned_5	mathematics	O
+learned_5	from	O
+learned_5	the	O
+learned_5	Babylonians	O

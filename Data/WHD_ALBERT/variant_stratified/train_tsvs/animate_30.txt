@@ -1,0 +1,12 @@
+animate_30	Pollock	O
+animate_30	had	O
+animate_30	an	O
+animate_30	unfettered	O
+animate_30	desire	O
+animate_30	to	O
+animate_30	animate	animate_vrb
+animate_30	every	O
+animate_30	aspect	O
+animate_30	of	O
+animate_30	his	O
+animate_30	paintings	O

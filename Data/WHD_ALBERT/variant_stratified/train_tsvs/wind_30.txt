@@ -1,0 +1,9 @@
+wind_30	This	O
+wind_30	would	O
+wind_30	give	O
+wind_30	a	O
+wind_30	plausible	O
+wind_30	meaning	O
+wind_30	of	O
+wind_30	India	O
+wind_30	wind	wind_nou

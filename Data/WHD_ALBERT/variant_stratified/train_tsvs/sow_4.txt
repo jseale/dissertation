@@ -1,0 +1,13 @@
+sow_4	Subtropical	O
+sow_4	areas	O
+sow_4	should	O
+sow_4	sow	sow
+sow_4	seed	O
+sow_4	once	O
+sow_4	the	O
+sow_4	soil	O
+sow_4	has	O
+sow_4	warmed	O
+sow_4	in	O
+sow_4	the	O
+sow_4	spring	O

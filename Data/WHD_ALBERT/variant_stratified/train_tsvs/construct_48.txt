@@ -1,0 +1,17 @@
+construct_48	Here	O
+construct_48	I	O
+construct_48	wanted	O
+construct_48	to	O
+construct_48	depart	O
+construct_48	from	O
+construct_48	the	O
+construct_48	standard	O
+construct_48	three	O
+construct_48	or	O
+construct_48	four	O
+construct_48	movement	O
+construct_48	concerto	O
+construct_48	and	O
+construct_48	construct	construct_vrb
+construct_48	something	O
+construct_48	different	O

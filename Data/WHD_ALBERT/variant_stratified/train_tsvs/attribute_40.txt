@@ -1,0 +1,9 @@
+attribute_40	Attribute	attribute_nou
+attribute_40	scores	O
+attribute_40	also	O
+attribute_40	determine	O
+attribute_40	the	O
+attribute_40	eight	O
+attribute_40	combat	O
+attribute_40	ability	O
+attribute_40	scores	O

@@ -1,0 +1,14 @@
+record_12	He	O
+record_12	also	O
+record_12	runs	O
+record_12	Ecstatic	O
+record_12	Yod	O
+record_12	a	O
+record_12	record	record_nou
+record_12	label	O
+record_12	and	O
+record_12	shop	O
+record_12	based	O
+record_12	in	O
+record_12	Florence	O
+record_12	Massachusetts	O

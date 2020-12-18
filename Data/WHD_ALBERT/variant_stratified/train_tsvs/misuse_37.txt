@@ -1,0 +1,17 @@
+misuse_37	This	O
+misuse_37	practice	O
+misuse_37	has	O
+misuse_37	now	O
+misuse_37	led	O
+misuse_37	to	O
+misuse_37	a	O
+misuse_37	new	O
+misuse_37	and	O
+misuse_37	growing	O
+misuse_37	problem	O
+misuse_37	with	O
+misuse_37	addiction	O
+misuse_37	and	O
+misuse_37	misuse	misuse_nou
+misuse_37	of	O
+misuse_37	opioids	O

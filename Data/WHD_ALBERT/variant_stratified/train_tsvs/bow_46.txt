@@ -1,0 +1,16 @@
+bow_46	During	O
+bow_46	its	O
+bow_46	scuttling	O
+bow_46	the	O
+bow_46	bow	bow_nou-ship
+bow_46	section	O
+bow_46	broke	O
+bow_46	off	O
+bow_46	exposing	O
+bow_46	the	O
+bow_46	forward	O
+bow_46	torpedoes	O
+bow_46	tubes	O
+bow_46	and	O
+bow_46	bow	bow_nou-ship
+bow_46	modifications	O

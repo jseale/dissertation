@@ -1,0 +1,13 @@
+buffet_26	The	O
+buffet_26	buffet	buffet_nou
+buffet_26	cars	O
+buffet_26	were	O
+buffet_26	fitted	O
+buffet_26	with	O
+buffet_26	new	O
+buffet_26	Japanese	O
+buffet_26	bogies	O
+buffet_26	of	O
+buffet_26	Kinki	O
+buffet_26	Sharyo	O
+buffet_26	manufacture	O

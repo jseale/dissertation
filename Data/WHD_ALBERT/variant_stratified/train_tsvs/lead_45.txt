@@ -1,0 +1,12 @@
+lead_45	The	O
+lead_45	race	O
+lead_45	is	O
+lead_45	the	O
+lead_45	main	O
+lead_45	lead	lead_nou-vrb
+lead_45	up	O
+lead_45	race	O
+lead_45	for	O
+lead_45	the	O
+lead_45	Australian	O
+lead_45	Oaks	O

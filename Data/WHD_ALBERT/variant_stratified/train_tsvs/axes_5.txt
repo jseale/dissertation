@@ -1,0 +1,12 @@
+axes_5	Solar	O
+axes_5	sails	O
+axes_5	are	O
+axes_5	pivotally	O
+axes_5	mounted	O
+axes_5	wings	O
+axes_5	capable	O
+axes_5	of	O
+axes_5	rotation	O
+axes_5	on	O
+axes_5	two	O
+axes_5	axes	axes_nou

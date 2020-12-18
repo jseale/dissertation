@@ -1,0 +1,15 @@
+winds_42	Sustained	O
+winds_42	winds	winds_nou
+winds_42	of	O
+winds_42	25	O
+winds_42	miles	O
+winds_42	per	O
+winds_42	hour	O
+winds_42	40	O
+winds_42	km	O
+winds_42	h	O
+winds_42	or	O
+winds_42	greater	O
+winds_42	are	O
+winds_42	usually	O
+winds_42	required	O

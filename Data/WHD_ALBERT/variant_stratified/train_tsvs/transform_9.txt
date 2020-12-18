@@ -1,0 +1,14 @@
+transform_9	Mitochondria	O
+transform_9	are	O
+transform_9	organelles	O
+transform_9	which	O
+transform_9	function	O
+transform_9	to	O
+transform_9	transform	transform
+transform_9	energy	O
+transform_9	as	O
+transform_9	a	O
+transform_9	result	O
+transform_9	of	O
+transform_9	cellular	O
+transform_9	respiration	O

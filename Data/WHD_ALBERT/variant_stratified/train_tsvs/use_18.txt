@@ -1,0 +1,13 @@
+use_18	It	O
+use_18	was	O
+use_18	a	O
+use_18	hairstyle	O
+use_18	that	O
+use_18	remained	O
+use_18	in	O
+use_18	constant	O
+use_18	use	use_nou
+use_18	even	O
+use_18	when	O
+use_18	fashion	O
+use_18	changed	O

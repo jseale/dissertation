@@ -1,0 +1,13 @@
+construct_64	For	O
+construct_64	Hugh	O
+construct_64	and	O
+construct_64	I	O
+construct_64	the	O
+construct_64	first	O
+construct_64	goal	O
+construct_64	was	O
+construct_64	to	O
+construct_64	construct	construct_vrb
+construct_64	something	O
+construct_64	more	O
+construct_64	intimate	O

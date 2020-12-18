@@ -1,0 +1,10 @@
+transform_5	Clown	O
+transform_5	quickly	O
+transform_5	shies	O
+transform_5	away	O
+transform_5	as	O
+transform_5	the	O
+transform_5	Freak	O
+transform_5	begins	O
+transform_5	to	O
+transform_5	transform	transform

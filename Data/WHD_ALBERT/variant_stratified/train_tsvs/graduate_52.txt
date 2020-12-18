@@ -1,0 +1,13 @@
+graduate_52	In	O
+graduate_52	1979	O
+graduate_52	the	O
+graduate_52	School	O
+graduate_52	of	O
+graduate_52	Professional	O
+graduate_52	Psychology	O
+graduate_52	was	O
+graduate_52	established	O
+graduate_52	at	O
+graduate_52	Ferkauf	O
+graduate_52	Graduate	graduate_adj-nou
+graduate_52	School	O

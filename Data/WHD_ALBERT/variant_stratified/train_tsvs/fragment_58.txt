@@ -1,0 +1,13 @@
+fragment_58	In	O
+fragment_58	addition	O
+fragment_58	there	O
+fragment_58	is	O
+fragment_58	a	O
+fragment_58	skull	O
+fragment_58	fragment	fragment_nou
+fragment_58	from	O
+fragment_58	the	O
+fragment_58	Troublesome	O
+fragment_58	Formation	O
+fragment_58	of	O
+fragment_58	Colorado	O

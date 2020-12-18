@@ -1,0 +1,12 @@
+upset_8	In	O
+upset_8	a	O
+upset_8	surprising	O
+upset_8	upset	upset_nou
+upset_8	the	O
+upset_8	Knesset	O
+upset_8	elected	O
+upset_8	Katsav	O
+upset_8	by	O
+upset_8	63	O
+upset_8	to	O
+upset_8	57	O

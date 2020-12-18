@@ -1,0 +1,16 @@
+misuse_55	Penalties	O
+misuse_55	for	O
+misuse_55	misuse	misuse_nou
+misuse_55	of	O
+misuse_55	emergency	O
+misuse_55	door	O
+misuse_55	opening	O
+misuse_55	handles	O
+misuse_55	are	O
+misuse_55	similar	O
+misuse_55	to	O
+misuse_55	those	O
+misuse_55	for	O
+misuse_55	stop	O
+misuse_55	valve	O
+misuse_55	misuse	misuse_nou

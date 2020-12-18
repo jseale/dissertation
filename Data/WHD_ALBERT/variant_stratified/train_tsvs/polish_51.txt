@@ -1,0 +1,12 @@
+polish_51	The	O
+polish_51	opera	O
+polish_51	was	O
+polish_51	in	O
+polish_51	German	O
+polish_51	although	O
+polish_51	the	O
+polish_51	librettist	O
+polish_51	Jerzy	O
+polish_51	Jarocki	O
+polish_51	was	O
+polish_51	Polish	polish_geo

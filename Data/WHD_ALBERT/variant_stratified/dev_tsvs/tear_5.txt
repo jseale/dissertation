@@ -1,0 +1,16 @@
+tear_5	The	O
+tear_5	1990s	O
+tear_5	saw	O
+tear_5	the	O
+tear_5	FLNC	O
+tear_5	organisation	O
+tear_5	tear	tear_vrb
+tear_5	itself	O
+tear_5	apart	O
+tear_5	through	O
+tear_5	a	O
+tear_5	series	O
+tear_5	of	O
+tear_5	deadly	O
+tear_5	internal	O
+tear_5	feuds	O

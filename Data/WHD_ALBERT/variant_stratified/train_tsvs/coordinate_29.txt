@@ -1,0 +1,12 @@
+coordinate_29	The	O
+coordinate_29	rotated	O
+coordinate_29	coordinate	coordinate_adj-nou
+coordinate_29	system	O
+coordinate_29	makes	O
+coordinate_29	an	O
+coordinate_29	angle	O
+coordinate_29	with	O
+coordinate_29	the	O
+coordinate_29	original	O
+coordinate_29	coordinate	coordinate_adj-nou
+coordinate_29	system	O

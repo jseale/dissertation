@@ -1,0 +1,16 @@
+subordinate_73	It	O
+subordinate_73	was	O
+subordinate_73	headed	O
+subordinate_73	by	O
+subordinate_73	a	O
+subordinate_73	governor	O
+subordinate_73	subordinate	subordinate_adj-nou
+subordinate_73	to	O
+subordinate_73	the	O
+subordinate_73	U.S.	O
+subordinate_73	Governor	O
+subordinate_73	General	O
+subordinate_73	of	O
+subordinate_73	the	O
+subordinate_73	Philippine	O
+subordinate_73	Islands	O

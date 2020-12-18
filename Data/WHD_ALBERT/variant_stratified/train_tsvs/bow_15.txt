@@ -1,0 +1,11 @@
+bow_15	Drawing	O
+bow_15	a	O
+bow_15	bow	bow_nou-knot
+bow_15	across	O
+bow_15	the	O
+bow_15	strings	O
+bow_15	causes	O
+bow_15	the	O
+bow_15	strings	O
+bow_15	to	O
+bow_15	vibrate	O

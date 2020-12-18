@@ -1,0 +1,14 @@
+lead_1	Slings	O
+lead_1	used	O
+lead_1	both	O
+lead_1	lead	lead_nou
+lead_1	pellets	O
+lead_1	and	O
+lead_1	stones	O
+lead_1	stones	O
+lead_1	were	O
+lead_1	also	O
+lead_1	commonly	O
+lead_1	thrown	O
+lead_1	by	O
+lead_1	hand	O

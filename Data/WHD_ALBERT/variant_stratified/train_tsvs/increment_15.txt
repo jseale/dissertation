@@ -1,0 +1,17 @@
+increment_15	Additionally	O
+increment_15	for	O
+increment_15	any	O
+increment_15	given	O
+increment_15	click	O
+increment_15	received	O
+increment_15	advertisers	O
+increment_15	only	O
+increment_15	pay	O
+increment_15	one	O
+increment_15	bid	O
+increment_15	increment	increment_nou
+increment_15	above	O
+increment_15	the	O
+increment_15	second	O
+increment_15	highest	O
+increment_15	bid	O

@@ -1,0 +1,15 @@
+degenerate_33	Edelman	O
+degenerate_33	used	O
+degenerate_33	the	O
+degenerate_33	terms	O
+degenerate_33	reentrant	O
+degenerate_33	and	O
+degenerate_33	degenerate	degenerate_adj-nou
+degenerate_33	in	O
+degenerate_33	order	O
+degenerate_33	to	O
+degenerate_33	describe	O
+degenerate_33	these	O
+degenerate_33	complex	O
+degenerate_33	neural	O
+degenerate_33	connections	O

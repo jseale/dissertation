@@ -1,0 +1,17 @@
+convert_67	It	O
+convert_67	has	O
+convert_67	the	O
+convert_67	ability	O
+convert_67	to	O
+convert_67	convert	convert_vrb
+convert_67	carbohydrates	O
+convert_67	to	O
+convert_67	butyrate	O
+convert_67	acetate	O
+convert_67	carbon	O
+convert_67	dioxide	O
+convert_67	and	O
+convert_67	molecular	O
+convert_67	hydrogen	O
+convert_67	through	O
+convert_67	fermentation	O

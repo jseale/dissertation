@@ -1,0 +1,16 @@
+refuse_32	Sinn	O
+refuse_32	Féin	O
+refuse_32	as	O
+refuse_32	an	O
+refuse_32	Irish	O
+refuse_32	republican	O
+refuse_32	party	O
+refuse_32	refuse	refuse_vrb
+refuse_32	to	O
+refuse_32	take	O
+refuse_32	their	O
+refuse_32	seats	O
+refuse_32	at	O
+refuse_32	Westminster	O
+refuse_32	see	O
+refuse_32	abstentionism	O

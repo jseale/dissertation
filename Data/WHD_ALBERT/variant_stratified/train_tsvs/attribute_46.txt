@@ -1,0 +1,10 @@
+attribute_46	Some	O
+attribute_46	sources	O
+attribute_46	attribute	attribute_vrb
+attribute_46	to	O
+attribute_46	him	O
+attribute_46	the	O
+attribute_46	sanctions	O
+attribute_46	against	O
+attribute_46	the	O
+attribute_46	Vestals	O

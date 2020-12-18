@@ -1,0 +1,16 @@
+buffet_8	The	O
+buffet_8	buffet	buffet_nou
+buffet_8	lounge	O
+buffet_8	observation	O
+buffet_8	cars	O
+buffet_8	built	O
+buffet_8	by	O
+buffet_8	Pullman	O
+buffet_8	Standard	O
+buffet_8	were	O
+buffet_8	named	O
+buffet_8	Mountain	O
+buffet_8	View	O
+buffet_8	and	O
+buffet_8	Tower	O
+buffet_8	View	O

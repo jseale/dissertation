@@ -1,0 +1,8 @@
+mobile_7	Polarons	O
+mobile_7	are	O
+mobile_7	highly	O
+mobile_7	mobile	mobile
+mobile_7	and	O
+mobile_7	can	O
+mobile_7	diffuse	O
+mobile_7	away	O

@@ -1,0 +1,8 @@
+invalid_20	RE	O
+invalid_20	37,516	O
+invalid_20	has	O
+invalid_20	been	O
+invalid_20	declared	O
+invalid_20	invalid	invalid_adj
+invalid_20	and	O
+invalid_20	unenforceable	O

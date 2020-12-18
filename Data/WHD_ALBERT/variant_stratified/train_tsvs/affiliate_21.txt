@@ -1,0 +1,17 @@
+affiliate_21	Until	O
+affiliate_21	May	O
+affiliate_21	12	O
+affiliate_21	2016	O
+affiliate_21	KYVV	O
+affiliate_21	broadcast	O
+affiliate_21	on	O
+affiliate_21	channel	O
+affiliate_21	28	O
+affiliate_21	virtual	O
+affiliate_21	channel	O
+affiliate_21	10	O
+affiliate_21	as	O
+affiliate_21	an	O
+affiliate_21	affiliate	affiliate_nou
+affiliate_21	of	O
+affiliate_21	MundoMax	O

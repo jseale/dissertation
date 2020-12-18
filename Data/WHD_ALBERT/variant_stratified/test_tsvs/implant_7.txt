@@ -1,0 +1,14 @@
+implant_7	To	O
+implant_7	prevent	O
+implant_7	these	O
+implant_7	complications	O
+implant_7	an	O
+implant_7	implant	implant_nou
+implant_7	made	O
+implant_7	out	O
+implant_7	of	O
+implant_7	alloplastic	O
+implant_7	material	O
+implant_7	could	O
+implant_7	be	O
+implant_7	considered	O

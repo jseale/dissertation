@@ -1,0 +1,17 @@
+invite_14	The	O
+invite_14	game	O
+invite_14	originally	O
+invite_14	gave	O
+invite_14	an	O
+invite_14	automatic	O
+invite_14	invite	invite_nou
+invite_14	to	O
+invite_14	a	O
+invite_14	team	O
+invite_14	from	O
+invite_14	the	O
+invite_14	now	O
+invite_14	defunct	O
+invite_14	Southwest	O
+invite_14	Conference	O
+invite_14	SWC	O

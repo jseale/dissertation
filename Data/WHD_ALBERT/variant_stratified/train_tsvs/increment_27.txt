@@ -1,0 +1,11 @@
+increment_27	The	O
+increment_27	plan	O
+increment_27	included	O
+increment_27	$	O
+increment_27	20	O
+increment_27	million	O
+increment_27	in	O
+increment_27	additional	O
+increment_27	tax	O
+increment_27	increment	increment_nou
+increment_27	financing	O

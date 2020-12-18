@@ -1,0 +1,17 @@
+frequent_15	During	O
+frequent_15	his	O
+frequent_15	later	O
+frequent_15	years	O
+frequent_15	Ramirez	O
+frequent_15	had	O
+frequent_15	frequent	frequent_adj
+frequent_15	problems	O
+frequent_15	with	O
+frequent_15	the	O
+frequent_15	law	O
+frequent_15	due	O
+frequent_15	to	O
+frequent_15	his	O
+frequent_15	consumption	O
+frequent_15	of	O
+frequent_15	narcotics	O

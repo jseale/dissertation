@@ -1,0 +1,16 @@
+animate_31	The	O
+animate_31	Metal	O
+animate_31	Master	O
+animate_31	possesses	O
+animate_31	the	O
+animate_31	ability	O
+animate_31	to	O
+animate_31	animate	animate_vrb
+animate_31	and	O
+animate_31	control	O
+animate_31	virtually	O
+animate_31	all	O
+animate_31	known	O
+animate_31	forms	O
+animate_31	of	O
+animate_31	metal	O

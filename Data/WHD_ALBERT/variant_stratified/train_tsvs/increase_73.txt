@@ -1,0 +1,17 @@
+increase_73	At	O
+increase_73	the	O
+increase_73	same	O
+increase_73	time	O
+increase_73	government	O
+increase_73	of	O
+increase_73	Assam	O
+increase_73	decided	O
+increase_73	to	O
+increase_73	increase	increase_vrb
+increase_73	the	O
+increase_73	undergraduate	O
+increase_73	seats	O
+increase_73	from	O
+increase_73	65	O
+increase_73	to	O
+increase_73	100	O

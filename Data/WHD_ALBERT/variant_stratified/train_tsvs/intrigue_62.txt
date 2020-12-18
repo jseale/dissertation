@@ -1,0 +1,17 @@
+intrigue_62	The	O
+intrigue_62	Oldsmobile	O
+intrigue_62	Intrigue	intrigue_nou
+intrigue_62	is	O
+intrigue_62	a	O
+intrigue_62	mid	O
+intrigue_62	size	O
+intrigue_62	sedan	O
+intrigue_62	that	O
+intrigue_62	was	O
+intrigue_62	manufactured	O
+intrigue_62	from	O
+intrigue_62	1998	O
+intrigue_62	through	O
+intrigue_62	2002	O
+intrigue_62	by	O
+intrigue_62	Oldsmobile	O

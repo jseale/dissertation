@@ -1,0 +1,14 @@
+abuse_6	This	O
+abuse_6	led	O
+abuse_6	to	O
+abuse_6	abuse	abuse_nou
+abuse_6	of	O
+abuse_6	drugs	O
+abuse_6	such	O
+abuse_6	as	O
+abuse_6	cocaine	O
+abuse_6	which	O
+abuse_6	quickly	O
+abuse_6	escalated	O
+abuse_6	into	O
+abuse_6	addiction	O

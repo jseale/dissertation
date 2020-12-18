@@ -1,0 +1,15 @@
+diffuse_1	Terzan	O
+diffuse_1	has	O
+diffuse_1	also	O
+diffuse_1	discovered	O
+diffuse_1	158	O
+diffuse_1	diffuse	diffuse_adj
+diffuse_1	nebulae	O
+diffuse_1	124	O
+diffuse_1	galaxies	O
+diffuse_1	and	O
+diffuse_1	1428	O
+diffuse_1	high	O
+diffuse_1	proper	O
+diffuse_1	motion	O
+diffuse_1	stars	O

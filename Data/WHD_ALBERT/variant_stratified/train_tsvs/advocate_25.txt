@@ -1,0 +1,14 @@
+advocate_25	Throughout	O
+advocate_25	his	O
+advocate_25	legislative	O
+advocate_25	career	O
+advocate_25	Steinberg	O
+advocate_25	has	O
+advocate_25	been	O
+advocate_25	a	O
+advocate_25	strong	O
+advocate_25	advocate	advocate_nou
+advocate_25	for	O
+advocate_25	mental	O
+advocate_25	health	O
+advocate_25	care	O

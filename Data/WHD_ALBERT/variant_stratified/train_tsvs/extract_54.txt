@@ -1,0 +1,14 @@
+extract_54	It	O
+extract_54	would	O
+extract_54	discourage	O
+extract_54	the	O
+extract_54	DisComs	O
+extract_54	to	O
+extract_54	extract	extract_vrb
+extract_54	higher	O
+extract_54	electricity	O
+extract_54	charges	O
+extract_54	selectively	O
+extract_54	from	O
+extract_54	its	O
+extract_54	consumers	O

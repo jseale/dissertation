@@ -1,0 +1,9 @@
+aggregate_6	The	O
+aggregate_6	winners	O
+aggregate_6	on	O
+aggregate_6	aggregate	aggregate_adj-nou
+aggregate_6	advanced	O
+aggregate_6	to	O
+aggregate_6	the	O
+aggregate_6	next	O
+aggregate_6	round	O

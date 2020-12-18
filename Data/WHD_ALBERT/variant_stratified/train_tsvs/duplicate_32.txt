@@ -1,0 +1,16 @@
+duplicate_32	The	O
+duplicate_32	map	O
+duplicate_32	of	O
+duplicate_32	preliminary	O
+duplicate_32	reports	O
+duplicate_32	does	O
+duplicate_32	not	O
+duplicate_32	take	O
+duplicate_32	into	O
+duplicate_32	account	O
+duplicate_32	storm	O
+duplicate_32	surveys	O
+duplicate_32	and	O
+duplicate_32	possible	O
+duplicate_32	duplicate	duplicate_adj-nou
+duplicate_32	reports	O

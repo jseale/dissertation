@@ -1,0 +1,9 @@
+invert_36	They	O
+invert_36	function	O
+invert_36	to	O
+invert_36	invert	invert_vrb
+invert_36	the	O
+invert_36	effects	O
+invert_36	of	O
+invert_36	other	O
+invert_36	molecules	O

@@ -1,0 +1,15 @@
+diffuse_31	Physical	O
+diffuse_31	control	O
+diffuse_31	of	O
+diffuse_31	diffuse	diffuse_adj
+diffuse_31	knapweed	O
+diffuse_31	primarily	O
+diffuse_31	comprises	O
+diffuse_31	cutting	O
+diffuse_31	digging	O
+diffuse_31	or	O
+diffuse_31	burning	O
+diffuse_31	to	O
+diffuse_31	remove	O
+diffuse_31	the	O
+diffuse_31	plants	O

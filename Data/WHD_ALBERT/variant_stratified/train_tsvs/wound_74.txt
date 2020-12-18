@@ -1,0 +1,15 @@
+wound_74	The	O
+wound_74	trawl	O
+wound_74	is	O
+wound_74	a	O
+wound_74	sort	O
+wound_74	of	O
+wound_74	big	O
+wound_74	fishing	O
+wound_74	net	O
+wound_74	that	O
+wound_74	is	O
+wound_74	wound	wound_vrb
+wound_74	on	O
+wound_74	the	O
+wound_74	windlass	O

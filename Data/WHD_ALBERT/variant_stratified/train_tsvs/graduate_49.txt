@@ -1,0 +1,14 @@
+graduate_49	Professor	O
+graduate_49	John	O
+graduate_49	Michael	O
+graduate_49	Clarke	O
+graduate_49	is	O
+graduate_49	a	O
+graduate_49	graduate	graduate_adj-nou
+graduate_49	of	O
+graduate_49	St	O
+graduate_49	Chad	O
+graduate_49	's	O
+graduate_49	College	O
+graduate_49	Durham	O
+graduate_49	University	O

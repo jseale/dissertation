@@ -1,0 +1,14 @@
+suspect_31	Taber	O
+suspect_31	then	O
+suspect_31	asked	O
+suspect_31	him	O
+suspect_31	why	O
+suspect_31	he	O
+suspect_31	thought	O
+suspect_31	that	O
+suspect_31	he	O
+suspect_31	would	O
+suspect_31	be	O
+suspect_31	considered	O
+suspect_31	a	O
+suspect_31	suspect	suspect_adj-nou

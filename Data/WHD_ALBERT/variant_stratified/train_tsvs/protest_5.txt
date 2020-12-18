@@ -1,0 +1,17 @@
+protest_5	With	O
+protest_5	the	O
+protest_5	song	O
+protest_5	Machine	O
+protest_5	Gun	O
+protest_5	dedicated	O
+protest_5	to	O
+protest_5	those	O
+protest_5	fighting	O
+protest_5	in	O
+protest_5	Vietnam	O
+protest_5	this	O
+protest_5	protest	protest_nou
+protest_5	of	O
+protest_5	violence	O
+protest_5	is	O
+protest_5	manifest	O

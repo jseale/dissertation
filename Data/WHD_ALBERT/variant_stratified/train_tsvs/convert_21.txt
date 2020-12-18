@@ -1,0 +1,16 @@
+convert_21	These	O
+convert_21	religions	O
+convert_21	are	O
+convert_21	not	O
+convert_21	permitted	O
+convert_21	to	O
+convert_21	proselytize	O
+convert_21	or	O
+convert_21	to	O
+convert_21	try	O
+convert_21	and	O
+convert_21	convert	convert_vrb
+convert_21	others	O
+convert_21	into	O
+convert_21	their	O
+convert_21	faith	O

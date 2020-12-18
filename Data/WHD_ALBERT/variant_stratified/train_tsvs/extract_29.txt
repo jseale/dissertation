@@ -1,0 +1,16 @@
+extract_29	To	O
+extract_29	keep	O
+extract_29	the	O
+extract_29	chocolate	O
+extract_29	extract	extract_nou
+extract_29	in	O
+extract_29	suspension	O
+extract_29	and	O
+extract_29	make	O
+extract_29	the	O
+extract_29	liqueur	O
+extract_29	thicker	O
+extract_29	glycerine	O
+extract_29	may	O
+extract_29	be	O
+extract_29	added	O

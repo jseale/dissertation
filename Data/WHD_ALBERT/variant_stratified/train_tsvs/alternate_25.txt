@@ -1,0 +1,14 @@
+alternate_25	The	O
+alternate_25	game	O
+alternate_25	takes	O
+alternate_25	place	O
+alternate_25	on	O
+alternate_25	an	O
+alternate_25	alternate	alternate_adj-nou
+alternate_25	Earth	O
+alternate_25	in	O
+alternate_25	an	O
+alternate_25	era	O
+alternate_25	resembling	O
+alternate_25	the	O
+alternate_25	1940s	O

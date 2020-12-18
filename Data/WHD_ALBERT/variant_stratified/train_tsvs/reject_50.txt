@@ -1,0 +1,10 @@
+reject_50	Panchali	O
+reject_50	tries	O
+reject_50	to	O
+reject_50	reject	reject_vrb
+reject_50	his	O
+reject_50	advances	O
+reject_50	but	O
+reject_50	Keechaka	O
+reject_50	presses	O
+reject_50	on	O

@@ -1,0 +1,13 @@
+close_7	The	O
+close_7	regional	O
+close_7	checkoff	O
+close_7	is	O
+close_7	within	O
+close_7	their	O
+close_7	state	O
+close_7	or	O
+close_7	very	O
+close_7	close	close_adj-nou
+close_7	to	O
+close_7	the	O
+close_7	state	O

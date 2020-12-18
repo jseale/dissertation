@@ -1,0 +1,12 @@
+suspect_4	The	O
+suspect_4	female	O
+suspect_4	suspect	suspect_adj-nou
+suspect_4	whose	O
+suspect_4	surname	O
+suspect_4	is	O
+suspect_4	Ko	O
+suspect_4	was	O
+suspect_4	apprehended	O
+suspect_4	on	O
+suspect_4	October	O
+suspect_4	16	O

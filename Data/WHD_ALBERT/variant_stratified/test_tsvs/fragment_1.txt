@@ -1,0 +1,17 @@
+fragment_1	For	O
+fragment_1	visualization	O
+fragment_1	purposes	O
+fragment_1	the	O
+fragment_1	nucleic	O
+fragment_1	acid	O
+fragment_1	fragment	fragment_nou
+fragment_1	is	O
+fragment_1	usually	O
+fragment_1	labelled	O
+fragment_1	with	O
+fragment_1	a	O
+fragment_1	radioactive	O
+fragment_1	fluorescent	O
+fragment_1	or	O
+fragment_1	biotin	O
+fragment_1	label	O

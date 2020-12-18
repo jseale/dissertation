@@ -1,0 +1,17 @@
+conjugate_72	It	O
+conjugate_72	turns	O
+conjugate_72	out	O
+conjugate_72	that	O
+conjugate_72	is	O
+conjugate_72	the	O
+conjugate_72	conjugate	conjugate_adj-nou
+conjugate_72	momentum	O
+conjugate_72	of	O
+conjugate_72	and	O
+conjugate_72	together	O
+conjugate_72	these	O
+conjugate_72	form	O
+conjugate_72	Ashtekar	O
+conjugate_72	's	O
+conjugate_72	new	O
+conjugate_72	variables	O

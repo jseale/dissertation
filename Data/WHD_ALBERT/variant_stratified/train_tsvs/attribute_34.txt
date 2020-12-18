@@ -1,0 +1,17 @@
+attribute_34	In	O
+attribute_34	this	O
+attribute_34	variant	O
+attribute_34	players	O
+attribute_34	are	O
+attribute_34	given	O
+attribute_34	two	O
+attribute_34	cards	O
+attribute_34	the	O
+attribute_34	first	O
+attribute_34	contains	O
+attribute_34	their	O
+attribute_34	role	O
+attribute_34	the	O
+attribute_34	second	O
+attribute_34	an	O
+attribute_34	attribute	attribute_nou

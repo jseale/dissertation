@@ -1,0 +1,16 @@
+estimate_16	The	O
+estimate_16	White	O
+estimate_16	House	O
+estimate_16	office	O
+estimate_16	said	O
+estimate_16	its	O
+estimate_16	estimate	estimate_nou
+estimate_16	was	O
+estimate_16	based	O
+estimate_16	on	O
+estimate_16	sampling	O
+estimate_16	from	O
+estimate_16	high	O
+estimate_16	resolution	O
+estimate_16	satellite	O
+estimate_16	imagery	O

@@ -1,0 +1,17 @@
+insert_62	Cpf1	O
+insert_62	appears	O
+insert_62	to	O
+insert_62	be	O
+insert_62	more	O
+insert_62	able	O
+insert_62	to	O
+insert_62	insert	insert_vrb
+insert_62	new	O
+insert_62	sequences	O
+insert_62	at	O
+insert_62	the	O
+insert_62	cut	O
+insert_62	site	O
+insert_62	compared	O
+insert_62	to	O
+insert_62	Cas9	O

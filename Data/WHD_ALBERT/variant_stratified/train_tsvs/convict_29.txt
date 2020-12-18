@@ -1,0 +1,11 @@
+convict_29	The	O
+convict_29	convict	convict_nou
+convict_29	threatens	O
+convict_29	Frost	O
+convict_29	but	O
+convict_29	the	O
+convict_29	guard	O
+convict_29	comes	O
+convict_29	and	O
+convict_29	they	O
+convict_29	run	O

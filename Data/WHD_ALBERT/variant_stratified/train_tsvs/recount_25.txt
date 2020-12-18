@@ -1,0 +1,13 @@
+recount_25	The	O
+recount_25	result	O
+recount_25	of	O
+recount_25	the	O
+recount_25	recount	recount_nou
+recount_25	would	O
+recount_25	be	O
+recount_25	used	O
+recount_25	as	O
+recount_25	evidences	O
+recount_25	in	O
+recount_25	the	O
+recount_25	lawsuits	O

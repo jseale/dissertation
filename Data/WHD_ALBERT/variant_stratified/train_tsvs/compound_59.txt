@@ -1,0 +1,15 @@
+compound_59	Disodium	O
+compound_59	phosphate	O
+compound_59	DSP	O
+compound_59	or	O
+compound_59	sodium	O
+compound_59	hydrogen	O
+compound_59	phosphate	O
+compound_59	is	O
+compound_59	the	O
+compound_59	inorganic	O
+compound_59	compound	compound_nou
+compound_59	with	O
+compound_59	the	O
+compound_59	formula	O
+compound_59	Na₂HPO₄.	O

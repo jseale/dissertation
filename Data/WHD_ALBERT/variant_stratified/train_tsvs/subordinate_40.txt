@@ -1,0 +1,16 @@
+subordinate_40	These	O
+subordinate_40	individuals	O
+subordinate_40	were	O
+subordinate_40	in	O
+subordinate_40	networks	O
+subordinate_40	of	O
+subordinate_40	subordinate	subordinate_adj-nou
+subordinate_40	organizations	O
+subordinate_40	called	O
+subordinate_40	kikan	O
+subordinate_40	that	O
+subordinate_40	would	O
+subordinate_40	carry	O
+subordinate_40	out	O
+subordinate_40	actual	O
+subordinate_40	operations	O

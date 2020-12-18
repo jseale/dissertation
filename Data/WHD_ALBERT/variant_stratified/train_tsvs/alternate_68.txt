@@ -1,0 +1,14 @@
+alternate_68	Sometimes	O
+alternate_68	appended	O
+alternate_68	with	O
+alternate_68	the	O
+alternate_68	speaker	O
+alternate_68	's	O
+alternate_68	name	O
+alternate_68	in	O
+alternate_68	alternate	alternate_adj-nou
+alternate_68	case	O
+alternate_68	followed	O
+alternate_68	by	O
+alternate_68	a	O
+alternate_68	colon	O

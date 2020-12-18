@@ -1,0 +1,16 @@
+convict_51	As	O
+convict_51	prison	O
+convict_51	populations	O
+convict_51	grew	O
+convict_51	the	O
+convict_51	informal	O
+convict_51	convict	convict_nou
+convict_51	code	O
+convict_51	no	O
+convict_51	longer	O
+convict_51	sufficed	O
+convict_51	to	O
+convict_51	coordinate	O
+convict_51	and	O
+convict_51	protect	O
+convict_51	inmates	O

@@ -1,0 +1,14 @@
+upset_37	Back	O
+upset_37	at	O
+upset_37	their	O
+upset_37	camp	O
+upset_37	they	O
+upset_37	see	O
+upset_37	a	O
+upset_37	blonde	O
+upset_37	woman	O
+upset_37	upset	upset_nou
+upset_37	over	O
+upset_37	their	O
+upset_37	dead	O
+upset_37	gators	O

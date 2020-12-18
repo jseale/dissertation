@@ -1,0 +1,16 @@
+initiate_62	The	O
+initiate_62	emerging	O
+initiate_62	combined	O
+initiate_62	group	O
+initiate_62	may	O
+initiate_62	then	O
+initiate_62	initiate	initiate_vrb
+initiate_62	a	O
+initiate_62	recurrent	O
+initiate_62	expansionist	O
+initiate_62	process	O
+initiate_62	of	O
+initiate_62	ethnic	O
+initiate_62	and	O
+initiate_62	language	O
+initiate_62	shift	O

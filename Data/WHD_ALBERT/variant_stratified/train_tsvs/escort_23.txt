@@ -1,0 +1,7 @@
+escort_23	Tigranes	O
+escort_23	escaped	O
+escort_23	capture	O
+escort_23	with	O
+escort_23	a	O
+escort_23	small	O
+escort_23	escort	escort_nou

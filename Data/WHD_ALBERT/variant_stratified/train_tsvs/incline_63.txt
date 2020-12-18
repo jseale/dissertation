@@ -1,0 +1,17 @@
+incline_63	They	O
+incline_63	were	O
+incline_63	primarily	O
+incline_63	used	O
+incline_63	on	O
+incline_63	the	O
+incline_63	Pwllyrhebog	O
+incline_63	Colliery	O
+incline_63	Incline	incline_nou
+incline_63	and	O
+incline_63	had	O
+incline_63	special	O
+incline_63	tapered	O
+incline_63	boilers	O
+incline_63	for	O
+incline_63	this	O
+incline_63	purpose	O

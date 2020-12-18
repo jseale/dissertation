@@ -1,0 +1,15 @@
+export_3	This	O
+export_3	is	O
+export_3	because	O
+export_3	eIF4E	O
+export_3	promotes	O
+export_3	the	O
+export_3	export	export_nou
+export_3	of	O
+export_3	cyclin	O
+export_3	D	O
+export_3	mRNAs	O
+export_3	out	O
+export_3	of	O
+export_3	the	O
+export_3	nucleus	O

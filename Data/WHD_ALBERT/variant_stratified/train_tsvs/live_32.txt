@@ -1,0 +1,12 @@
+live_32	In	O
+live_32	total	O
+live_32	Live	live_adj
+live_32	Aid	O
+live_32	raised	O
+live_32	over	O
+live_32	£	O
+live_32	150	O
+live_32	million	O
+live_32	for	O
+live_32	famine	O
+live_32	relief	O

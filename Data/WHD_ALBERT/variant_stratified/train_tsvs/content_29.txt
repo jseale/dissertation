@@ -1,0 +1,8 @@
+content_29	He	O
+content_29	had	O
+content_29	a	O
+content_29	blood	O
+content_29	alcohol	O
+content_29	content	content_nou
+content_29	of	O
+content_29	0.12	O

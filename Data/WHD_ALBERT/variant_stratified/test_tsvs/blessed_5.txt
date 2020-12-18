@@ -1,0 +1,12 @@
+blessed_5	Satchidananda	O
+blessed_5	blessed	blessed_vrb
+blessed_5	Richard	O
+blessed_5	that	O
+blessed_5	he	O
+blessed_5	may	O
+blessed_5	discover	O
+blessed_5	the	O
+blessed_5	treasure	O
+blessed_5	of	O
+blessed_5	his	O
+blessed_5	heart	O

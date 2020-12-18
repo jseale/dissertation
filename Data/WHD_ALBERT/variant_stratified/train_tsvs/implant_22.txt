@@ -1,0 +1,13 @@
+implant_22	After	O
+implant_22	cutting	O
+implant_22	the	O
+implant_22	implant	implant_nou
+implant_22	pocket	O
+implant_22	the	O
+implant_22	surgeon	O
+implant_22	then	O
+implant_22	de	O
+implant_22	epithelializes	O
+implant_22	the	O
+implant_22	B	O
+implant_22	pedicle	O

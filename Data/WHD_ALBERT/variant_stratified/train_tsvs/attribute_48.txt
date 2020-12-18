@@ -1,0 +1,7 @@
+attribute_48	Mesozoic	O
+attribute_48	fossil	O
+attribute_48	footprints	O
+attribute_48	are	O
+attribute_48	hardest	O
+attribute_48	to	O
+attribute_48	attribute	attribute_vrb

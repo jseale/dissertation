@@ -1,0 +1,13 @@
+mobile_8	Hashtag	O
+mobile_8	United	O
+mobile_8	were	O
+mobile_8	formerly	O
+mobile_8	sponsored	O
+mobile_8	by	O
+mobile_8	EE	O
+mobile_8	Limited	O
+mobile_8	a	O
+mobile_8	British	O
+mobile_8	mobile	mobile
+mobile_8	network	O
+mobile_8	operator	O

@@ -1,0 +1,11 @@
+document_7	The	O
+document_7	document	document_nou
+document_7	granted	O
+document_7	feudal	O
+document_7	rights	O
+document_7	of	O
+document_7	the	O
+document_7	area	O
+document_7	to	O
+document_7	Pierre	O
+document_7	Coul	O

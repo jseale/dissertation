@@ -1,0 +1,16 @@
+live_38	Tomando	O
+live_38	Control	O
+live_38	Live	live_adj
+live_38	English	O
+live_38	Taking	O
+live_38	Control	O
+live_38	is	O
+live_38	a	O
+live_38	live	live_adj
+live_38	album	O
+live_38	by	O
+live_38	Puerto	O
+live_38	Rican	O
+live_38	duo	O
+live_38	Wisin	O
+live_38	Yandel	O

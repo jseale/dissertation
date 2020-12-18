@@ -1,0 +1,13 @@
+aged_2	He	O
+aged_2	died	O
+aged_2	at	O
+aged_2	the	O
+aged_2	Regional	O
+aged_2	Medical	O
+aged_2	Center	O
+aged_2	in	O
+aged_2	Spartanburg	O
+aged_2	South	O
+aged_2	Carolina	O
+aged_2	aged	aged
+aged_2	71	O

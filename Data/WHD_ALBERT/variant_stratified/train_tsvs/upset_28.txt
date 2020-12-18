@@ -1,0 +1,15 @@
+upset_28	Arizona	O
+upset_28	was	O
+upset_28	nearly	O
+upset_28	the	O
+upset_28	victim	O
+upset_28	of	O
+upset_28	yet	O
+upset_28	another	O
+upset_28	upset	upset_nou
+upset_28	outlasting	O
+upset_28	a	O
+upset_28	5-game	O
+upset_28	match	O
+upset_28	to	O
+upset_28	Ohio	O

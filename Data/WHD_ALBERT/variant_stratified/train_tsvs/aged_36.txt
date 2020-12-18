@@ -1,0 +1,15 @@
+aged_36	Approximately	O
+aged_36	2.4	O
+aged_36	million	O
+aged_36	adolescents	O
+aged_36	aged	aged
+aged_36	16	O
+aged_36	to	O
+aged_36	17	O
+aged_36	years	O
+aged_36	worked	O
+aged_36	in	O
+aged_36	the	O
+aged_36	U.S.	O
+aged_36	in	O
+aged_36	2006	O

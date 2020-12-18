@@ -1,0 +1,12 @@
+alternate_20	It	O
+alternate_20	serves	O
+alternate_20	as	O
+alternate_20	a	O
+alternate_20	business	O
+alternate_20	loop	O
+alternate_20	and	O
+alternate_20	an	O
+alternate_20	alternate	alternate_adj-nou
+alternate_20	route	O
+alternate_20	for	O
+alternate_20	I-70	O

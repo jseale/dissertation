@@ -1,0 +1,13 @@
+estimate_63	In	O
+estimate_63	modern	O
+estimate_63	scholarship	O
+estimate_63	researchers	O
+estimate_63	estimate	estimate_vrb
+estimate_63	597	O
+estimate_63	Mexicans	O
+estimate_63	were	O
+estimate_63	lynched	O
+estimate_63	between	O
+estimate_63	1848	O
+estimate_63	and	O
+estimate_63	1928	O

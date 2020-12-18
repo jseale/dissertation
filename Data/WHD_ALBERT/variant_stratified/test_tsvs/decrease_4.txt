@@ -1,0 +1,16 @@
+decrease_4	The	O
+decrease_4	decrease	decrease_nou
+decrease_4	was	O
+decrease_4	minimal	O
+decrease_4	compared	O
+decrease_4	to	O
+decrease_4	other	O
+decrease_4	townlands	O
+decrease_4	due	O
+decrease_4	to	O
+decrease_4	work	O
+decrease_4	being	O
+decrease_4	available	O
+decrease_4	in	O
+decrease_4	the	O
+decrease_4	town	O

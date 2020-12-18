@@ -1,0 +1,14 @@
+affect_11	Wind	O
+affect_11	temperature	O
+affect_11	and	O
+affect_11	humidity	O
+affect_11	also	O
+affect_11	affect	affect
+affect_11	the	O
+affect_11	rate	O
+affect_11	of	O
+affect_11	volatilisation	O
+affect_11	with	O
+affect_11	humidity	O
+affect_11	reducing	O
+affect_11	in	O

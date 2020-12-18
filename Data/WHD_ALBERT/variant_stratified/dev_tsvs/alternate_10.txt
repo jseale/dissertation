@@ -1,0 +1,14 @@
+alternate_10	John	O
+alternate_10	Dittrich	O
+alternate_10	Dave	O
+alternate_10	Innis	O
+alternate_10	and	O
+alternate_10	Paul	O
+alternate_10	Gregg	O
+alternate_10	alternate	alternate_vrb
+alternate_10	as	O
+alternate_10	lead	O
+alternate_10	vocalists	O
+alternate_10	on	O
+alternate_10	this	O
+alternate_10	album	O

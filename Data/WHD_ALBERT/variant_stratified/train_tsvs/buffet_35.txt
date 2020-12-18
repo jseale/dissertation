@@ -1,0 +1,17 @@
+buffet_35	Jensen	O
+buffet_35	was	O
+buffet_35	brought	O
+buffet_35	into	O
+buffet_35	Old	O
+buffet_35	Country	O
+buffet_35	Buffet	buffet_nou
+buffet_35	in	O
+buffet_35	by	O
+buffet_35	Roe	O
+buffet_35	Hatlen	O
+buffet_35	and	O
+buffet_35	C.	O
+buffet_35	Dennis	O
+buffet_35	Scott	O
+buffet_35	in	O
+buffet_35	1983	O

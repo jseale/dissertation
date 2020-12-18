@@ -1,0 +1,14 @@
+abuses_67	He	O
+abuses_67	cruelly	O
+abuses_67	abuses	abuses_vrb
+abuses_67	her	O
+abuses_67	as	O
+abuses_67	Cathy	O
+abuses_67	's	O
+abuses_67	marriage	O
+abuses_67	to	O
+abuses_67	Edgar	O
+abuses_67	continues	O
+abuses_67	to	O
+abuses_67	torment	O
+abuses_67	him	O

@@ -1,0 +1,15 @@
+diagnoses_6	Furthermore	O
+diagnoses_6	pediatric	O
+diagnoses_6	diagnoses	diagnoses_nou
+diagnoses_6	are	O
+diagnoses_6	not	O
+diagnoses_6	distinguished	O
+diagnoses_6	from	O
+diagnoses_6	adult	O
+diagnoses_6	diagnoses	diagnoses_nou
+diagnoses_6	except	O
+diagnoses_6	for	O
+diagnoses_6	sleep	O
+diagnoses_6	related	O
+diagnoses_6	breathing	O
+diagnoses_6	disorders	O

@@ -1,0 +1,12 @@
+compress_61	Most	O
+compress_61	binary	O
+compress_61	images	O
+compress_61	also	O
+compress_61	compress	compress
+compress_61	well	O
+compress_61	with	O
+compress_61	simple	O
+compress_61	run	O
+compress_61	length	O
+compress_61	compression	O
+compress_61	schemes	O

@@ -1,0 +1,16 @@
+import_0	The	O
+import_0	importation	O
+import_0	of	O
+import_0	airsoft	O
+import_0	firearms	O
+import_0	is	O
+import_0	restricted	O
+import_0	to	O
+import_0	companies	O
+import_0	and	O
+import_0	individuals	O
+import_0	who	O
+import_0	hold	O
+import_0	weapons	O
+import_0	import	import_nou
+import_0	licences	O

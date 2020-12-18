@@ -1,0 +1,12 @@
+subordinate_6	Typically	O
+subordinate_6	an	O
+subordinate_6	individual	O
+subordinate_6	may	O
+subordinate_6	work	O
+subordinate_6	with	O
+subordinate_6	or	O
+subordinate_6	be	O
+subordinate_6	subordinate	subordinate_adj-nou
+subordinate_6	to	O
+subordinate_6	a	O
+subordinate_6	conservator	O

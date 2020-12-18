@@ -1,0 +1,10 @@
+syndicate_29	They	O
+syndicate_29	sponsor	O
+syndicate_29	the	O
+syndicate_29	Santa	O
+syndicate_29	Cruz	O
+syndicate_29	Syndicate	syndicate_nou
+syndicate_29	a	O
+syndicate_29	downhill	O
+syndicate_29	racing	O
+syndicate_29	team	O

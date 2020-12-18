@@ -1,0 +1,13 @@
+extract_10	In	O
+extract_10	the	O
+extract_10	United	O
+extract_10	States	O
+extract_10	Maria	O
+extract_10	Parloa	O
+extract_10	extolled	O
+extract_10	the	O
+extract_10	benefits	O
+extract_10	of	O
+extract_10	Liebig	O
+extract_10	's	O
+extract_10	extract	extract_nou

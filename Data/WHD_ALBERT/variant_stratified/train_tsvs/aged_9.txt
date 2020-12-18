@@ -1,0 +1,12 @@
+aged_9	The	O
+aged_9	oldest	O
+aged_9	was	O
+aged_9	Servite	O
+aged_9	Sister	O
+aged_9	Aurora	O
+aged_9	Lopez	O
+aged_9	Gonzalez	O
+aged_9	was	O
+aged_9	executed	O
+aged_9	aged	aged
+aged_9	86	O

@@ -1,0 +1,16 @@
+protest_34	He	O
+protest_34	also	O
+protest_34	instigated	O
+protest_34	the	O
+protest_34	protest	protest_nou
+protest_34	against	O
+protest_34	Indonesia	O
+protest_34	's	O
+protest_34	April	O
+protest_34	Manganang	O
+protest_34	over	O
+protest_34	claims	O
+protest_34	of	O
+protest_34	being	O
+protest_34	a	O
+protest_34	hermaphrodite	O

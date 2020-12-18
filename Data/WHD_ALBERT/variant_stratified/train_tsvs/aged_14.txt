@@ -1,0 +1,7 @@
+aged_14	Aged	aged
+aged_14	88	O
+aged_14	he	O
+aged_14	died	O
+aged_14	in	O
+aged_14	Chichester	O
+aged_14	Sussex	O

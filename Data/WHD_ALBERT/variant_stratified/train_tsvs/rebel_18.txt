@@ -1,0 +1,17 @@
+rebel_18	His	O
+rebel_18	Rhodesian	O
+rebel_18	visit	O
+rebel_18	has	O
+rebel_18	been	O
+rebel_18	cited	O
+rebel_18	as	O
+rebel_18	precursoring	O
+rebel_18	the	O
+rebel_18	South	O
+rebel_18	African	O
+rebel_18	rebel	rebel_nou
+rebel_18	tours	O
+rebel_18	controversy	O
+rebel_18	of	O
+rebel_18	the	O
+rebel_18	1980s	O

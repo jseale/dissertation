@@ -1,0 +1,14 @@
+affiliate_76	Upon	O
+affiliate_76	conclusion	O
+affiliate_76	of	O
+affiliate_76	the	O
+affiliate_76	lockout	O
+affiliate_76	he	O
+affiliate_76	was	O
+affiliate_76	assigned	O
+affiliate_76	to	O
+affiliate_76	AHL	O
+affiliate_76	affiliate	affiliate_nou
+affiliate_76	the	O
+affiliate_76	Portland	O
+affiliate_76	Pirates	O

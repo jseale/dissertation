@@ -1,0 +1,17 @@
+insert_57	When	O
+insert_57	inserted	O
+insert_57	into	O
+insert_57	the	O
+insert_57	cartridge	O
+insert_57	slot	O
+insert_57	another	O
+insert_57	slot	O
+insert_57	would	O
+insert_57	pop	O
+insert_57	up	O
+insert_57	to	O
+insert_57	insert	insert_vrb
+insert_57	the	O
+insert_57	Game	O
+insert_57	Gear	O
+insert_57	cartridge	O

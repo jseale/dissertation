@@ -1,0 +1,11 @@
+isolate_12	It	O
+isolate_12	attempts	O
+isolate_12	to	O
+isolate_12	isolate	isolate
+isolate_12	and	O
+isolate_12	exploit	O
+isolate_12	a	O
+isolate_12	mismatch	O
+isolate_12	using	O
+isolate_12	these	O
+isolate_12	skills	O

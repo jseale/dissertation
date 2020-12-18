@@ -1,0 +1,16 @@
+laminate_20	It	O
+laminate_20	is	O
+laminate_20	generally	O
+laminate_20	known	O
+laminate_20	as	O
+laminate_20	being	O
+laminate_20	made	O
+laminate_20	of	O
+laminate_20	100	O
+laminate_20	wood	O
+laminate_20	usually	O
+laminate_20	without	O
+laminate_20	particle	O
+laminate_20	board	O
+laminate_20	or	O
+laminate_20	laminate	laminate_nou

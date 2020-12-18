@@ -1,0 +1,15 @@
+bass_45	The	O
+bass_45	album	O
+bass_45	featured	O
+bass_45	Tyler	O
+bass_45	Bates	O
+bass_45	on	O
+bass_45	electric	O
+bass_45	acoustic	O
+bass_45	and	O
+bass_45	bass	bass
+bass_45	guitars	O
+bass_45	keyboards	O
+bass_45	arrangements	O
+bass_45	and	O
+bass_45	programming	O

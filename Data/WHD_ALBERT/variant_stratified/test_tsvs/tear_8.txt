@@ -1,0 +1,11 @@
+tear_8	During	O
+tear_8	shaping	O
+tear_8	he	O
+tear_8	would	O
+tear_8	vigorously	O
+tear_8	tear	tear_vrb
+tear_8	pound	O
+tear_8	and	O
+tear_8	gouge	O
+tear_8	their	O
+tear_8	surfaces	O

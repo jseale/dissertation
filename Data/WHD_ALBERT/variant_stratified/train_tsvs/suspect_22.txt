@@ -1,0 +1,11 @@
+suspect_22	Both	O
+suspect_22	were	O
+suspect_22	considered	O
+suspect_22	suspect	suspect_adj-nou
+suspect_22	by	O
+suspect_22	ideological	O
+suspect_22	conservatives	O
+suspect_22	within	O
+suspect_22	the	O
+suspect_22	Republican	O
+suspect_22	Party	O

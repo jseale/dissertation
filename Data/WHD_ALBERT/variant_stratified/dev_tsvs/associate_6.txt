@@ -1,0 +1,16 @@
+associate_6	The	O
+associate_6	governing	O
+associate_6	body	O
+associate_6	is	O
+associate_6	the	O
+associate_6	Tanzania	O
+associate_6	Rugby	O
+associate_6	Union	O
+associate_6	which	O
+associate_6	is	O
+associate_6	an	O
+associate_6	associate	associate_adj-nou
+associate_6	member	O
+associate_6	of	O
+associate_6	the	O
+associate_6	IRB	O

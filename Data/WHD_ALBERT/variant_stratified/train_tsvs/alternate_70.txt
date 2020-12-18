@@ -1,0 +1,15 @@
+alternate_70	County	O
+alternate_70	Road	O
+alternate_70	189A	O
+alternate_70	in	O
+alternate_70	southeastern	O
+alternate_70	Okaloosa	O
+alternate_70	County	O
+alternate_70	is	O
+alternate_70	a	O
+alternate_70	county	O
+alternate_70	suffixed	O
+alternate_70	alternate	alternate_adj-nou
+alternate_70	of	O
+alternate_70	SR	O
+alternate_70	189	O

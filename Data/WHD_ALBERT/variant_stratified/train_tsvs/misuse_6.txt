@@ -1,0 +1,10 @@
+misuse_6	Pesticide	O
+misuse_6	misuse	misuse_nou
+misuse_6	can	O
+misuse_6	also	O
+misuse_6	endanger	O
+misuse_6	wildlife	O
+misuse_6	and	O
+misuse_6	other	O
+misuse_6	environmental	O
+misuse_6	resources	O

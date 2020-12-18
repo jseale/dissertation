@@ -1,0 +1,13 @@
+read_71	He	O
+read_71	suggested	O
+read_71	Merton	O
+read_71	read	read_present
+read_71	The	O
+read_71	Confessions	O
+read_71	of	O
+read_71	Augustine	O
+read_71	and	O
+read_71	The	O
+read_71	Imitation	O
+read_71	of	O
+read_71	Christ	O

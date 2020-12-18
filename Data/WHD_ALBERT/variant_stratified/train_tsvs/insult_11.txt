@@ -1,0 +1,16 @@
+insult_11	Vowing	O
+insult_11	to	O
+insult_11	take	O
+insult_11	revenge	O
+insult_11	against	O
+insult_11	the	O
+insult_11	insult	insult_nou
+insult_11	the	O
+insult_11	minister	O
+insult_11	goes	O
+insult_11	in	O
+insult_11	search	O
+insult_11	of	O
+insult_11	a	O
+insult_11	foolish	O
+insult_11	groom	O

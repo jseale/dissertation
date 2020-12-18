@@ -1,0 +1,17 @@
+content_23	The	O
+content_23	teacher	O
+content_23	and	O
+content_23	sometimes	O
+content_23	also	O
+content_23	the	O
+content_23	student	O
+content_23	can	O
+content_23	make	O
+content_23	anecdotal	O
+content_23	notes	O
+content_23	about	O
+content_23	the	O
+content_23	content	content_nou
+content_23	of	O
+content_23	the	O
+content_23	conference	O

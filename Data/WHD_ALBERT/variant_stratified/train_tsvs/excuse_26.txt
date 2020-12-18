@@ -1,0 +1,17 @@
+excuse_26	She	O
+excuse_26	uses	O
+excuse_26	the	O
+excuse_26	tragedy	O
+excuse_26	as	O
+excuse_26	an	O
+excuse_26	excuse	excuse_nou
+excuse_26	to	O
+excuse_26	avoid	O
+excuse_26	seeing	O
+excuse_26	the	O
+excuse_26	Duke	O
+excuse_26	whom	O
+excuse_26	she	O
+excuse_26	does	O
+excuse_26	not	O
+excuse_26	love	O

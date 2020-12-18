@@ -1,0 +1,9 @@
+separate_1	It	O
+separate_1	was	O
+separate_1	considered	O
+separate_1	a	O
+separate_1	separate	separate_adj
+separate_1	service	O
+separate_1	from	O
+separate_1	special	O
+separate_1	delivery	O

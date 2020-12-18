@@ -1,0 +1,8 @@
+isolate_19	They	O
+isolate_19	isolate	isolate
+isolate_19	the	O
+isolate_19	rose	O
+isolate_19	tend	O
+isolate_19	it	O
+isolate_19	foster	O
+isolate_19	it	O

@@ -1,0 +1,14 @@
+attribute_66	Bowers	O
+attribute_66	does	O
+attribute_66	not	O
+attribute_66	attribute	attribute_vrb
+attribute_66	a	O
+attribute_66	cameraman	O
+attribute_66	for	O
+attribute_66	this	O
+attribute_66	production	O
+attribute_66	but	O
+attribute_66	two	O
+attribute_66	possible	O
+attribute_66	candidates	O
+attribute_66	exist	O

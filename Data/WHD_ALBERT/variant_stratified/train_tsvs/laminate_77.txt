@@ -1,0 +1,17 @@
+laminate_77	The	O
+laminate_77	machines	O
+laminate_77	used	O
+laminate_77	to	O
+laminate_77	laminate	laminate_vrb
+laminate_77	waterproof	O
+laminate_77	and	O
+laminate_77	join	O
+laminate_77	the	O
+laminate_77	individual	O
+laminate_77	bamboo	O
+laminate_77	bikes	O
+laminate_77	are	O
+laminate_77	state	O
+laminate_77	of	O
+laminate_77	the	O
+laminate_77	art	O

@@ -1,0 +1,9 @@
+refuse_1	Solid	O
+refuse_1	Waste	O
+refuse_1	provides	O
+refuse_1	refuse	refuse_nou
+refuse_1	yard	O
+refuse_1	waste	O
+refuse_1	and	O
+refuse_1	recycling	O
+refuse_1	collection	O

@@ -1,0 +1,9 @@
+insert_44	Fabricate	O
+insert_44	and	O
+insert_44	insert	insert_vrb
+insert_44	dentures	O
+insert_44	in	O
+insert_44	the	O
+insert_44	mouths	O
+insert_44	of	O
+insert_44	patients	O

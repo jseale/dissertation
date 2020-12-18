@@ -1,0 +1,13 @@
+close_8	In	O
+close_8	Carinthia	O
+close_8	similar	O
+close_8	policy	O
+close_8	was	O
+close_8	conducted	O
+close_8	by	O
+close_8	Wilhelm	O
+close_8	Schick	O
+close_8	Gauleiter	O
+close_8	's	O
+close_8	close	close_adj-nou
+close_8	associate	O

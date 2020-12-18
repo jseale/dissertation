@@ -1,0 +1,17 @@
+consummate_70	At	O
+consummate_70	the	O
+consummate_70	opening	O
+consummate_70	Naosuke	O
+consummate_70	is	O
+consummate_70	pressuring	O
+consummate_70	Osode	O
+consummate_70	to	O
+consummate_70	consummate	consummate_vrb
+consummate_70	their	O
+consummate_70	marriage	O
+consummate_70	to	O
+consummate_70	which	O
+consummate_70	she	O
+consummate_70	seems	O
+consummate_70	oddly	O
+consummate_70	averse	O

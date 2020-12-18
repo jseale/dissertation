@@ -1,0 +1,14 @@
+conscript_0	After	O
+conscript_0	the	O
+conscript_0	Armistice	O
+conscript_0	however	O
+conscript_0	domestic	O
+conscript_0	opinion	O
+conscript_0	turned	O
+conscript_0	against	O
+conscript_0	foreign	O
+conscript_0	involvement	O
+conscript_0	particularly	O
+conscript_0	with	O
+conscript_0	conscript	conscript_nou
+conscript_0	troops	O

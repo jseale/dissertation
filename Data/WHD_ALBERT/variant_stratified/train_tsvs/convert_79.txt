@@ -1,0 +1,13 @@
+convert_79	Bahrain	O
+convert_79	was	O
+convert_79	one	O
+convert_79	of	O
+convert_79	the	O
+convert_79	earliest	O
+convert_79	areas	O
+convert_79	to	O
+convert_79	convert	convert_vrb
+convert_79	to	O
+convert_79	Islam	O
+convert_79	AD	O
+convert_79	628	O

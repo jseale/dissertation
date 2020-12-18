@@ -1,0 +1,8 @@
+reject_49	Proposal	O
+reject_49	to	O
+reject_49	Reject	reject_vrb
+reject_49	the	O
+reject_49	Name	O
+reject_49	Gaura	O
+reject_49	mollis	O
+reject_49	Onagraceae	O

@@ -1,0 +1,17 @@
+conscript_17	The	O
+conscript_17	neologism	O
+conscript_17	pioupiou	O
+conscript_17	to	O
+conscript_17	refer	O
+conscript_17	to	O
+conscript_17	an	O
+conscript_17	unexperienced	O
+conscript_17	young	O
+conscript_17	conscript	conscript_nou
+conscript_17	was	O
+conscript_17	created	O
+conscript_17	in	O
+conscript_17	this	O
+conscript_17	play	O
+conscript_17	by	O
+conscript_17	Varner	O

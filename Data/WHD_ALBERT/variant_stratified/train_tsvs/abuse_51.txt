@@ -1,0 +1,10 @@
+abuse_51	She	O
+abuse_51	also	O
+abuse_51	has	O
+abuse_51	a	O
+abuse_51	certificate	O
+abuse_51	as	O
+abuse_51	a	O
+abuse_51	sexual	O
+abuse_51	abuse	abuse_nou
+abuse_51	counsellor	O

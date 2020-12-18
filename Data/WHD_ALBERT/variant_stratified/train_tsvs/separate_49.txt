@@ -1,0 +1,17 @@
+separate_49	Lebel	O
+separate_49	J	O
+separate_49	rejected	O
+separate_49	the	O
+separate_49	lower	O
+separate_49	courts	O
+separate_49	treatment	O
+separate_49	of	O
+separate_49	each	O
+separate_49	claim	O
+separate_49	in	O
+separate_49	a	O
+separate_49	patent	O
+separate_49	as	O
+separate_49	a	O
+separate_49	separate	separate_adj
+separate_49	invention	O

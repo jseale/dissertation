@@ -1,0 +1,17 @@
+associate_32	He	O
+associate_32	was	O
+associate_32	promoted	O
+associate_32	as	O
+associate_32	Associate	associate_adj-nou
+associate_32	Professor	O
+associate_32	and	O
+associate_32	later	O
+associate_32	as	O
+associate_32	Head	O
+associate_32	of	O
+associate_32	the	O
+associate_32	Department	O
+associate_32	of	O
+associate_32	Medicine	O
+associate_32	in	O
+associate_32	1969	O

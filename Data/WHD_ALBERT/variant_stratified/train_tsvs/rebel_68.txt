@@ -1,0 +1,14 @@
+rebel_68	She	O
+rebel_68	was	O
+rebel_68	a	O
+rebel_68	leading	O
+rebel_68	Labour	O
+rebel_68	rebel	rebel_nou
+rebel_68	supporting	O
+rebel_68	a	O
+rebel_68	referendum	O
+rebel_68	on	O
+rebel_68	the	O
+rebel_68	EU	O
+rebel_68	Lisbon	O
+rebel_68	Treaty	O

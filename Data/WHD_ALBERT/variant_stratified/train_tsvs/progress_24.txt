@@ -1,0 +1,13 @@
+progress_24	Urbino	O
+progress_24	is	O
+progress_24	a	O
+progress_24	medical	O
+progress_24	doctor	O
+progress_24	devoted	O
+progress_24	to	O
+progress_24	science	O
+progress_24	modernity	O
+progress_24	and	O
+progress_24	order	O
+progress_24	and	O
+progress_24	progress	progress_nou

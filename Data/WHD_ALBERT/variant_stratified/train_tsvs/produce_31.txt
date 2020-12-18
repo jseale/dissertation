@@ -1,0 +1,12 @@
+produce_31	Females	O
+produce_31	produce	produce_vrb
+produce_31	litters	O
+produce_31	of	O
+produce_31	one	O
+produce_31	to	O
+produce_31	six	O
+produce_31	young	O
+produce_31	either	O
+produce_31	annually	O
+produce_31	or	O
+produce_31	biennially	O

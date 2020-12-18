@@ -1,0 +1,17 @@
+celtic_63	Cha	O
+celtic_63	then	O
+celtic_63	scored	O
+celtic_63	his	O
+celtic_63	first	O
+celtic_63	Celtic	celtic_adj-nou-sports
+celtic_63	goal	O
+celtic_63	against	O
+celtic_63	St	O
+celtic_63	Johnstone	O
+celtic_63	in	O
+celtic_63	the	O
+celtic_63	SPL	O
+celtic_63	on	O
+celtic_63	26	O
+celtic_63	December	O
+celtic_63	2010	O

@@ -1,0 +1,11 @@
+laminate_24	Examples	O
+laminate_24	of	O
+laminate_24	laminate	laminate_nou
+laminate_24	materials	O
+laminate_24	include	O
+laminate_24	melamine	O
+laminate_24	adhesive	O
+laminate_24	countertop	O
+laminate_24	surfacing	O
+laminate_24	and	O
+laminate_24	plywood	O

@@ -1,0 +1,14 @@
+precipitate_12	Initially	O
+precipitate_12	at	O
+precipitate_12	low	O
+precipitate_12	antigen	O
+precipitate_12	concentration	O
+precipitate_12	all	O
+precipitate_12	of	O
+precipitate_12	the	O
+precipitate_12	antibody	O
+precipitate_12	is	O
+precipitate_12	contained	O
+precipitate_12	in	O
+precipitate_12	the	O
+precipitate_12	precipitate	precipitate_adj-nou

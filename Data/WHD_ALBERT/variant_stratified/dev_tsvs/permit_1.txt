@@ -1,0 +1,13 @@
+permit_1	Default	O
+permit_1	permit	permit_nou
+permit_1	Everything	O
+permit_1	not	O
+permit_1	explicitly	O
+permit_1	forbidden	O
+permit_1	is	O
+permit_1	"permitted""Allows"	O
+permit_1	greater	O
+permit_1	functionality	O
+permit_1	by	O
+permit_1	sacrificing	O
+permit_1	security	O

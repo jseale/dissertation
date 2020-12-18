@@ -1,0 +1,16 @@
+present_29	In	O
+present_29	the	O
+present_29	present	present_adj-nou
+present_29	Manwantara	O
+present_29	Vishnu	O
+present_29	was	O
+present_29	again	O
+present_29	born	O
+present_29	as	O
+present_29	Vamana	O
+present_29	the	O
+present_29	son	O
+present_29	of	O
+present_29	Kasyapa	O
+present_29	by	O
+present_29	Aditi	O

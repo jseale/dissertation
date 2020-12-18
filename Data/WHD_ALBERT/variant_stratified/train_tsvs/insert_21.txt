@@ -1,0 +1,9 @@
+insert_21	Credits	O
+insert_21	for	O
+insert_21	Welcome	O
+insert_21	To	O
+insert_21	Tokyo	O
+insert_21	adapted	O
+insert_21	from	O
+insert_21	album	O
+insert_21	insert	insert_nou

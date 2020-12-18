@@ -1,0 +1,15 @@
+attribute_70	Some	O
+attribute_70	attribute	attribute_vrb
+attribute_70	the	O
+attribute_70	decline	O
+attribute_70	to	O
+attribute_70	lower	O
+attribute_70	demand	O
+attribute_70	of	O
+attribute_70	Saris	O
+attribute_70	or	O
+attribute_70	higher	O
+attribute_70	number	O
+attribute_70	of	O
+attribute_70	imported	O
+attribute_70	Saris	O

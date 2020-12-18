@@ -1,0 +1,10 @@
+defect_8	Like	O
+defect_8	all	O
+defect_8	train	O
+defect_8	safety	O
+defect_8	equipment	O
+defect_8	defect	defect_nou
+defect_8	detectors	O
+defect_8	are	O
+defect_8	not	O
+defect_8	foolproof	O

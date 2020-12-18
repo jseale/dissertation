@@ -1,0 +1,15 @@
+expose_77	There	O
+expose_77	have	O
+expose_77	been	O
+expose_77	also	O
+expose_77	attempts	O
+expose_77	to	O
+expose_77	expose	expose_vrb
+expose_77	problems	O
+expose_77	of	O
+expose_77	voting	O
+expose_77	system	O
+expose_77	by	O
+expose_77	proofs	O
+expose_77	of	O
+expose_77	concept	O

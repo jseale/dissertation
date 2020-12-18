@@ -1,0 +1,11 @@
+attribute_2	Sex	O
+attribute_2	is	O
+attribute_2	a	O
+attribute_2	ubiquitous	O
+attribute_2	ancient	O
+attribute_2	and	O
+attribute_2	inherent	O
+attribute_2	attribute	attribute_nou
+attribute_2	of	O
+attribute_2	eukaryotic	O
+attribute_2	life	O

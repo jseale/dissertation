@@ -1,0 +1,13 @@
+learned_40	Keyser	O
+learned_40	learned	learned_vrb
+learned_40	how	O
+learned_40	to	O
+learned_40	play	O
+learned_40	the	O
+learned_40	glockenspiel	O
+learned_40	hand	O
+learned_40	bells	O
+learned_40	and	O
+learned_40	various	O
+learned_40	other	O
+learned_40	instruments	O

@@ -1,0 +1,16 @@
+close_68	He	O
+close_68	was	O
+close_68	followed	O
+close_68	there	O
+close_68	by	O
+close_68	one	O
+close_68	of	O
+close_68	his	O
+close_68	Facla	O
+close_68	subordinates	O
+close_68	and	O
+close_68	a	O
+close_68	close	close_adj-nou
+close_68	friend	O
+close_68	Vlaicu	O
+close_68	Barna	O

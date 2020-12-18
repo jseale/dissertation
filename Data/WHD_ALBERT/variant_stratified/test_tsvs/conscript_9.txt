@@ -1,0 +1,17 @@
+conscript_9	Moroni	O
+conscript_9	requested	O
+conscript_9	Pahoran	O
+conscript_9	give	O
+conscript_9	him	O
+conscript_9	the	O
+conscript_9	right	O
+conscript_9	to	O
+conscript_9	conscript	conscript_vrb
+conscript_9	the	O
+conscript_9	king	O
+conscript_9	men	O
+conscript_9	or	O
+conscript_9	be	O
+conscript_9	executed	O
+conscript_9	for	O
+conscript_9	treason	O

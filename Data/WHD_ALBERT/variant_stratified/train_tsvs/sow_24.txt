@@ -1,0 +1,15 @@
+sow_24	She	O
+sow_24	was	O
+sow_24	made	O
+sow_24	by	O
+sow_24	Gargamel	O
+sow_24	as	O
+sow_24	a	O
+sow_24	means	O
+sow_24	to	O
+sow_24	sow	sow
+sow_24	unrest	O
+sow_24	in	O
+sow_24	the	O
+sow_24	Smurf	O
+sow_24	village	O

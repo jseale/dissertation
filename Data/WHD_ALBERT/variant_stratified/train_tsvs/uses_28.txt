@@ -1,0 +1,12 @@
+uses_28	Line	O
+uses_28	2	O
+uses_28	uses	uses_vrb
+uses_28	four	O
+uses_28	car	O
+uses_28	trains	O
+uses_28	of	O
+uses_28	class	O
+uses_28	3400	O
+uses_28	since	O
+uses_28	summer	O
+uses_28	2007	O

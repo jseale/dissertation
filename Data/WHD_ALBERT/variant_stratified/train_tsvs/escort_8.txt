@@ -1,0 +1,16 @@
+escort_8	He	O
+escort_8	operated	O
+escort_8	escort	escort_nou
+escort_8	missions	O
+escort_8	from	O
+escort_8	Ursel	O
+escort_8	base	O
+escort_8	Belgium	O
+escort_8	engaging	O
+escort_8	in	O
+escort_8	several	O
+escort_8	dogfights	O
+escort_8	with	O
+escort_8	British	O
+escort_8	Supermarine	O
+escort_8	Spitfires	O

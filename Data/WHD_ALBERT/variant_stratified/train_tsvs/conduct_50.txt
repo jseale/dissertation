@@ -1,0 +1,16 @@
+conduct_50	Lecturers	O
+conduct_50	from	O
+conduct_50	various	O
+conduct_50	parts	O
+conduct_50	of	O
+conduct_50	the	O
+conduct_50	Philippines	O
+conduct_50	particularly	O
+conduct_50	from	O
+conduct_50	Manila	O
+conduct_50	are	O
+conduct_50	employed	O
+conduct_50	to	O
+conduct_50	conduct	conduct_vrb
+conduct_50	the	O
+conduct_50	classes	O

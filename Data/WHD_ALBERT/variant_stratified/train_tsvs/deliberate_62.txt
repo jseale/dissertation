@@ -1,0 +1,16 @@
+deliberate_62	The	O
+deliberate_62	GRENADIERS	O
+deliberate_62	then	O
+deliberate_62	launched	O
+deliberate_62	a	O
+deliberate_62	deliberate	deliberate_adj
+deliberate_62	two	O
+deliberate_62	pronged	O
+deliberate_62	night	O
+deliberate_62	attack	O
+deliberate_62	supported	O
+deliberate_62	by	O
+deliberate_62	artillery	O
+deliberate_62	on	O
+deliberate_62	29	O
+deliberate_62	July	O

@@ -1,0 +1,13 @@
+implant_61	Optimal	O
+implant_61	implant	implant_nou
+implant_61	positioning	O
+implant_61	and	O
+implant_61	soft	O
+implant_61	tissue	O
+implant_61	management	O
+implant_61	for	O
+implant_61	the	O
+implant_61	Branemark	O
+implant_61	system	O
+implant_61	in	O
+implant_61	english	O

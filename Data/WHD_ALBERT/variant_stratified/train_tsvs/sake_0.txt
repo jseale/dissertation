@@ -1,0 +1,16 @@
+sake_0	As	O
+sake_0	a	O
+sake_0	result	O
+sake_0	a	O
+sake_0	is	O
+sake_0	usually	O
+sake_0	promoted	O
+sake_0	to	O
+sake_0	in	O
+sake_0	Israeli	O
+sake_0	writing	O
+sake_0	for	O
+sake_0	the	O
+sake_0	sake	sake
+sake_0	of	O
+sake_0	disambiguation	O

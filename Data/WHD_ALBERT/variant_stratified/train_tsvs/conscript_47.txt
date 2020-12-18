@@ -1,0 +1,10 @@
+conscript_47	Thereafter	O
+conscript_47	the	O
+conscript_47	conscript	conscript_nou
+conscript_47	is	O
+conscript_47	no	O
+conscript_47	longer	O
+conscript_47	part	O
+conscript_47	of	O
+conscript_47	the	O
+conscript_47	reserve	O

@@ -1,0 +1,7 @@
+pasty_70	Uricotelic	O
+pasty_70	organisms	O
+pasty_70	typically	O
+pasty_70	have	O
+pasty_70	white	O
+pasty_70	pasty	pasty_nou
+pasty_70	excreta	O

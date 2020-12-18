@@ -1,0 +1,10 @@
+invalid_35	Attorney	O
+invalid_35	General	O
+invalid_35	John	O
+invalid_35	Suthers	O
+invalid_35	declared	O
+invalid_35	that	O
+invalid_35	they	O
+invalid_35	would	O
+invalid_35	be	O
+invalid_35	invalid	invalid_adj

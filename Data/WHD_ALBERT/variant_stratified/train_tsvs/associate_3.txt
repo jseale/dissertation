@@ -1,0 +1,16 @@
+associate_3	Harryette	O
+associate_3	was	O
+associate_3	an	O
+associate_3	associate	associate_adj-nou
+associate_3	professor	O
+associate_3	and	O
+associate_3	lecturer	O
+associate_3	at	O
+associate_3	SMU	O
+associate_3	Texas	O
+associate_3	Women	O
+associate_3	's	O
+associate_3	University	O
+associate_3	and	O
+associate_3	other	O
+associate_3	colleges	O

@@ -1,0 +1,13 @@
+decrease_6	Moreover	O
+decrease_6	the	O
+decrease_6	water	O
+decrease_6	vapour	O
+decrease_6	continuum	O
+decrease_6	absorptivity	O
+decrease_6	molecule	O
+decrease_6	for	O
+decrease_6	molecule	O
+decrease_6	decreases	O
+decrease_6	with	O
+decrease_6	pressure	O
+decrease_6	decrease	decrease_nou

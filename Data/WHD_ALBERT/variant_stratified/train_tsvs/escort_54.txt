@@ -1,0 +1,16 @@
+escort_54	In	O
+escort_54	October	O
+escort_54	1939	O
+escort_54	the	O
+escort_54	flotilla	O
+escort_54	was	O
+escort_54	reassigned	O
+escort_54	to	O
+escort_54	the	O
+escort_54	Home	O
+escort_54	Fleet	O
+escort_54	on	O
+escort_54	escort	escort_nou
+escort_54	duty	O
+escort_54	from	O
+escort_54	Portland	O

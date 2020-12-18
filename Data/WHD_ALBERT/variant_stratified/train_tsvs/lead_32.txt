@@ -1,0 +1,13 @@
+lead_32	It	O
+lead_32	stars	O
+lead_32	Tarun	O
+lead_32	Chandra	O
+lead_32	Radhika	O
+lead_32	Pandit	O
+lead_32	and	O
+lead_32	Dileep	O
+lead_32	Raj	O
+lead_32	in	O
+lead_32	the	O
+lead_32	lead	lead_nou-vrb
+lead_32	roles	O

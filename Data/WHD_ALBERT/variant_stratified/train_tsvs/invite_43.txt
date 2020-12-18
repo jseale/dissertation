@@ -1,0 +1,17 @@
+invite_43	The	O
+invite_43	would	O
+invite_43	be	O
+invite_43	guests	O
+invite_43	then	O
+invite_43	invite	invite_vrb
+invite_43	Mme	O
+invite_43	Sénéchal	O
+invite_43	to	O
+invite_43	join	O
+invite_43	them	O
+invite_43	for	O
+invite_43	dinner	O
+invite_43	at	O
+invite_43	a	O
+invite_43	nearby	O
+invite_43	inn	O

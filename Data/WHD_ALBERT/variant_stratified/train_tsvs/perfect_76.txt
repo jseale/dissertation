@@ -1,0 +1,14 @@
+perfect_76	The	O
+perfect_76	group	O
+perfect_76	and	O
+perfect_76	Billy	O
+perfect_76	J	O
+perfect_76	Kramer	O
+perfect_76	then	O
+perfect_76	went	O
+perfect_76	to	O
+perfect_76	Hamburg	O
+perfect_76	to	O
+perfect_76	perfect	perfect_vrb
+perfect_76	their	O
+perfect_76	act	O

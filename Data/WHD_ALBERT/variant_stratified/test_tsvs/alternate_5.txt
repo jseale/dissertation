@@ -1,0 +1,14 @@
+alternate_5	In	O
+alternate_5	the	O
+alternate_5	novel	O
+alternate_5	she	O
+alternate_5	has	O
+alternate_5	an	O
+alternate_5	alternate	alternate_adj-nou
+alternate_5	history	O
+alternate_5	compared	O
+alternate_5	to	O
+alternate_5	the	O
+alternate_5	real	O
+alternate_5	George	O
+alternate_5	Sand	O

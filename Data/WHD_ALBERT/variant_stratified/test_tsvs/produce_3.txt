@@ -1,0 +1,10 @@
+produce_3	The	O
+produce_3	palm	O
+produce_3	tree	O
+produce_3	forests	O
+produce_3	produce	produce_vrb
+produce_3	ample	O
+produce_3	fruit	O
+produce_3	that	O
+produce_3	attracts	O
+produce_3	oilbirds	O

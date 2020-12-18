@@ -1,0 +1,11 @@
+suspect_17	Jury	O
+suspect_17	acquitted	O
+suspect_17	a	O
+suspect_17	Buinaksk	O
+suspect_17	suspect	suspect_adj-nou
+suspect_17	again	O
+suspect_17	Lenta	O
+suspect_17	Ru	O
+suspect_17	2006	O
+suspect_17	November	O
+suspect_17	13	O

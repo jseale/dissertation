@@ -1,0 +1,16 @@
+convict_31	John	O
+convict_31	Arscott	O
+convict_31	John	O
+convict_31	Arscott	O
+convict_31	's	O
+convict_31	hopelessness	O
+convict_31	as	O
+convict_31	a	O
+convict_31	convict	convict_nou
+convict_31	becomes	O
+convict_31	apparent	O
+convict_31	in	O
+convict_31	Act	O
+convict_31	Two	O
+convict_31	Scene	O
+convict_31	One	O

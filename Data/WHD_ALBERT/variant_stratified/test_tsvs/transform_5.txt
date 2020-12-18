@@ -1,0 +1,17 @@
+transform_5	Such	O
+transform_5	settlements	O
+transform_5	are	O
+transform_5	often	O
+transform_5	understood	O
+transform_5	to	O
+transform_5	transform	transform
+transform_5	government	O
+transform_5	from	O
+transform_5	an	O
+transform_5	autocratic	O
+transform_5	mode	O
+transform_5	into	O
+transform_5	more	O
+transform_5	pluralistic	O
+transform_5	democratic	O
+transform_5	form	O

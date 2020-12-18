@@ -1,0 +1,17 @@
+convict_58	Watermeyer	O
+convict_58	had	O
+convict_58	been	O
+convict_58	an	O
+convict_58	early	O
+convict_58	supporter	O
+convict_58	of	O
+convict_58	the	O
+convict_58	anti	O
+convict_58	government	O
+convict_58	popular	O
+convict_58	party	O
+convict_58	since	O
+convict_58	the	O
+convict_58	1850	O
+convict_58	Convict	convict_nou
+convict_58	Crisis	O

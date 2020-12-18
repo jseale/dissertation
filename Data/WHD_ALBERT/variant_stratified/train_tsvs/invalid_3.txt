@@ -1,0 +1,11 @@
+invalid_3	It	O
+invalid_3	covers	O
+invalid_3	all	O
+invalid_3	names	O
+invalid_3	whether	O
+invalid_3	current	O
+invalid_3	names	O
+invalid_3	synonyms	O
+invalid_3	or	O
+invalid_3	invalid	invalid_adj
+invalid_3	names	O

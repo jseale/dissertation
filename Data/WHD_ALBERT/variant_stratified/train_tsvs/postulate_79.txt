@@ -1,0 +1,15 @@
+postulate_79	We	O
+postulate_79	can	O
+postulate_79	draw	O
+postulate_79	conclusions	O
+postulate_79	about	O
+postulate_79	the	O
+postulate_79	invisible	O
+postulate_79	we	O
+postulate_79	can	O
+postulate_79	postulate	postulate_vrb
+postulate_79	its	O
+postulate_79	existence	O
+postulate_79	with	O
+postulate_79	relative	O
+postulate_79	certainty	O

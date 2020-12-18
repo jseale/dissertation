@@ -1,0 +1,10 @@
+advocate_12	He	O
+advocate_12	is	O
+advocate_12	a	O
+advocate_12	vegetarian	O
+advocate_12	and	O
+advocate_12	an	O
+advocate_12	advocate	advocate_nou
+advocate_12	of	O
+advocate_12	animal	O
+advocate_12	rights	O

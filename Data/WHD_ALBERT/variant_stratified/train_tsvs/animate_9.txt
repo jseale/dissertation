@@ -1,0 +1,12 @@
+animate_9	For	O
+animate_9	animate	animate_adj-nou
+animate_9	nouns	O
+animate_9	the	O
+animate_9	accusative	O
+animate_9	singular	O
+animate_9	is	O
+animate_9	identical	O
+animate_9	to	O
+animate_9	the	O
+animate_9	genitive	O
+animate_9	singular	O

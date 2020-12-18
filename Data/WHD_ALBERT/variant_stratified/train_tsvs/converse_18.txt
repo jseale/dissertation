@@ -1,0 +1,15 @@
+converse_18	Commander	O
+converse_18	of	O
+converse_18	the	O
+converse_18	garrison	O
+converse_18	Captain	O
+converse_18	James	O
+converse_18	Converse	converse_adj-nou
+converse_18	successfully	O
+converse_18	repelled	O
+converse_18	the	O
+converse_18	raid	O
+converse_18	despite	O
+converse_18	being	O
+converse_18	greatly	O
+converse_18	outnumbered	O

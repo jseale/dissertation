@@ -1,0 +1,13 @@
+mobile_38	Bowden	O
+mobile_38	said	O
+mobile_38	they	O
+mobile_38	ultimately	O
+mobile_38	chose	O
+mobile_38	Ponder	O
+mobile_38	because	O
+mobile_38	he	O
+mobile_38	was	O
+mobile_38	the	O
+mobile_38	more	O
+mobile_38	mobile	mobile
+mobile_38	quarterback	O

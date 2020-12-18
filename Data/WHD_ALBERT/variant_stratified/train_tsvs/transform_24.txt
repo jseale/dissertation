@@ -1,0 +1,17 @@
+transform_24	It	O
+transform_24	allows	O
+transform_24	developers	O
+transform_24	to	O
+transform_24	connect	O
+transform_24	model	O
+transform_24	transform	transform
+transform_24	and	O
+transform_24	optimize	O
+transform_24	data	O
+transform_24	for	O
+transform_24	both	O
+transform_24	native	O
+transform_24	or	O
+transform_24	web	O
+transform_24	app	O
+transform_24	clients	O

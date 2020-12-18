@@ -1,0 +1,17 @@
+graduate_9	She	O
+graduate_9	then	O
+graduate_9	completed	O
+graduate_9	her	O
+graduate_9	graduate	graduate_adj-nou
+graduate_9	studies	O
+graduate_9	at	O
+graduate_9	the	O
+graduate_9	New	O
+graduate_9	York	O
+graduate_9	University	O
+graduate_9	Institute	O
+graduate_9	of	O
+graduate_9	Fine	O
+graduate_9	Arts	O
+graduate_9	in	O
+graduate_9	1970	O

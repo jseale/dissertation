@@ -1,0 +1,14 @@
+articulate_79	Annual	O
+articulate_79	standardized	O
+articulate_79	assessments	O
+articulate_79	require	O
+articulate_79	students	O
+articulate_79	to	O
+articulate_79	articulate	articulate_vrb
+articulate_79	their	O
+articulate_79	understanding	O
+articulate_79	and	O
+articulate_79	mastery	O
+articulate_79	of	O
+articulate_79	each	O
+articulate_79	subject	O

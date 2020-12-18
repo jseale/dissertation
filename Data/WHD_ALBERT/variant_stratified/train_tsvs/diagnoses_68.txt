@@ -1,0 +1,15 @@
+diagnoses_68	When	O
+diagnoses_68	blood	O
+diagnoses_68	begins	O
+diagnoses_68	to	O
+diagnoses_68	appear	O
+diagnoses_68	from	O
+diagnoses_68	everywhere	O
+diagnoses_68	Meredith	O
+diagnoses_68	diagnoses	diagnoses_vrb
+diagnoses_68	herself	O
+diagnoses_68	in	O
+diagnoses_68	as	O
+diagnoses_68	being	O
+diagnoses_68	in	O
+diagnoses_68	DIC	O

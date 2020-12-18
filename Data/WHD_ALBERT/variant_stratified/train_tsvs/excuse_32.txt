@@ -1,0 +1,17 @@
+excuse_32	The	O
+excuse_32	same	O
+excuse_32	excuse	excuse_nou
+excuse_32	was	O
+excuse_32	made	O
+excuse_32	that	O
+excuse_32	they	O
+excuse_32	could	O
+excuse_32	not	O
+excuse_32	be	O
+excuse_32	trusted	O
+excuse_32	to	O
+excuse_32	march	O
+excuse_32	unbound	O
+excuse_32	to	O
+excuse_32	the	O
+excuse_32	camp	O

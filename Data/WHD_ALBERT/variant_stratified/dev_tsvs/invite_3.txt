@@ -1,0 +1,16 @@
+invite_3	Bebe	O
+invite_3	announces	O
+invite_3	a	O
+invite_3	Stupid	O
+invite_3	Spoiled	O
+invite_3	Whore	O
+invite_3	party	O
+invite_3	at	O
+invite_3	her	O
+invite_3	house	O
+invite_3	and	O
+invite_3	they	O
+invite_3	refuse	O
+invite_3	to	O
+invite_3	invite	invite_vrb
+invite_3	Wendy	O

@@ -1,0 +1,17 @@
+celtic_3	The	O
+celtic_3	Society	O
+celtic_3	does	O
+celtic_3	support	O
+celtic_3	Celtic	celtic
+celtic_3	heritage	O
+celtic_3	activities	O
+celtic_3	in	O
+celtic_3	the	O
+celtic_3	United	O
+celtic_3	States	O
+celtic_3	through	O
+celtic_3	an	O
+celtic_3	affiliated	O
+celtic_3	non	O
+celtic_3	profit	O
+celtic_3	organization	O

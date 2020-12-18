@@ -1,0 +1,16 @@
+attribute_0	Other	O
+attribute_0	historians	O
+attribute_0	point	O
+attribute_0	out	O
+attribute_0	Minton	O
+attribute_0	's	O
+attribute_0	strong	O
+attribute_0	commitment	O
+attribute_0	to	O
+attribute_0	his	O
+attribute_0	judicial	O
+attribute_0	principles	O
+attribute_0	as	O
+attribute_0	a	O
+attribute_0	valuable	O
+attribute_0	attribute	attribute_nou

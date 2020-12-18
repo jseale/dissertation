@@ -1,0 +1,9 @@
+record_1	There	O
+record_1	were	O
+record_1	a	O
+record_1	record	record_nou
+record_1	15	O
+record_1	entries	O
+record_1	for	O
+record_1	the	O
+record_1	Championship	O

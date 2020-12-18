@@ -1,0 +1,13 @@
+ornament_8	His	O
+ornament_8	ornament	ornament_nou
+ornament_8	prints	O
+ornament_8	were	O
+ornament_8	very	O
+ornament_8	innovative	O
+ornament_8	seeming	O
+ornament_8	to	O
+ornament_8	look	O
+ornament_8	forward	O
+ornament_8	to	O
+ornament_8	the	O
+ornament_8	Rococo	O

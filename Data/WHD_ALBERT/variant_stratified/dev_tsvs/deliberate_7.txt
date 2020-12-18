@@ -1,0 +1,17 @@
+deliberate_7	Its	O
+deliberate_7	deliberate	deliberate_adj
+deliberate_7	nature	O
+deliberate_7	is	O
+deliberate_7	underscored	O
+deliberate_7	by	O
+deliberate_7	the	O
+deliberate_7	fact	O
+deliberate_7	that	O
+deliberate_7	no	O
+deliberate_7	physical	O
+deliberate_7	basis	O
+deliberate_7	for	O
+deliberate_7	famine	O
+deliberate_7	existed	O
+deliberate_7	in	O
+deliberate_7	Ukraine	O

@@ -1,0 +1,16 @@
+rebel_4	One	O
+rebel_4	rebel	rebel_nou
+rebel_4	leader	O
+rebel_4	Harold	O
+rebel_4	Keke	O
+rebel_4	did	O
+rebel_4	not	O
+rebel_4	comply	O
+rebel_4	with	O
+rebel_4	the	O
+rebel_4	agreement	O
+rebel_4	and	O
+rebel_4	continued	O
+rebel_4	to	O
+rebel_4	cause	O
+rebel_4	trouble	O

@@ -1,0 +1,15 @@
+tear_26	Because	O
+tear_26	ribbon	O
+tear_26	seal	O
+tear_26	skins	O
+tear_26	tear	tear_vrb
+tear_26	easily	O
+tear_26	they	O
+tear_26	are	O
+tear_26	most	O
+tear_26	suitable	O
+tear_26	for	O
+tear_26	decoration	O
+tear_26	or	O
+tear_26	ceremonial	O
+tear_26	clothing	O

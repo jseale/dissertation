@@ -1,0 +1,16 @@
+refund_44	In	O
+refund_44	2011	O
+refund_44	the	O
+refund_44	FTC	O
+refund_44	mailed	O
+refund_44	450,177	O
+refund_44	refund	refund_nou
+refund_44	checks	O
+refund_44	to	O
+refund_44	homeowners	O
+refund_44	who	O
+refund_44	were	O
+refund_44	allegedly	O
+refund_44	overcharged	O
+refund_44	by	O
+refund_44	Countrywide	O

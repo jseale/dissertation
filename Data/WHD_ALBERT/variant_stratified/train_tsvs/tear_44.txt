@@ -1,0 +1,17 @@
+tear_44	He	O
+tear_44	played	O
+tear_44	bass	O
+tear_44	and	O
+tear_44	shared	O
+tear_44	responsibility	O
+tear_44	for	O
+tear_44	keyboard	O
+tear_44	parts	O
+tear_44	with	O
+tear_44	John	O
+tear_44	Evans	O
+tear_44	on	O
+tear_44	the	O
+tear_44	Tear	tear_vrb
+tear_44	Off	O
+tear_44	album	O

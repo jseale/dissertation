@@ -1,0 +1,16 @@
+ornament_46	This	O
+ornament_46	included	O
+ornament_46	a	O
+ornament_46	shield	O
+ornament_46	ornament	ornament_nou
+ornament_46	containing	O
+ornament_46	an	O
+ornament_46	Assyrian	O
+ornament_46	style	O
+ornament_46	subject	O
+ornament_46	of	O
+ornament_46	lions	O
+ornament_46	and	O
+ornament_46	men	O
+ornament_46	being	O
+ornament_46	trampled	O

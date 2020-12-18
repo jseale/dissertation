@@ -1,0 +1,16 @@
+invert_5	Kokolo	O
+invert_5	aimed	O
+invert_5	to	O
+invert_5	invert	invert_vrb
+invert_5	the	O
+invert_5	negative	O
+invert_5	connotation	O
+invert_5	of	O
+invert_5	the	O
+invert_5	term	O
+invert_5	through	O
+invert_5	the	O
+invert_5	positivity	O
+invert_5	in	O
+invert_5	their	O
+invert_5	music	O

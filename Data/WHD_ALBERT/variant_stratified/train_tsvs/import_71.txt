@@ -1,0 +1,17 @@
+import_71	Civilians	O
+import_71	Can	O
+import_71	not	O
+import_71	import	import_vrb
+import_71	or	O
+import_71	order	O
+import_71	Airsoft	O
+import_71	Weapons	O
+import_71	only	O
+import_71	weapon	O
+import_71	stores	O
+import_71	can	O
+import_71	import	import_vrb
+import_71	them	O
+import_71	as	O
+import_71	Air	O
+import_71	Guns	O

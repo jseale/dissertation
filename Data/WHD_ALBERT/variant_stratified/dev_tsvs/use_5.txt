@@ -1,0 +1,12 @@
+use_5	MOD	O
+use_5	and	O
+use_5	TOD	O
+use_5	are	O
+use_5	recording	O
+use_5	formats	O
+use_5	for	O
+use_5	use	use_nou
+use_5	in	O
+use_5	digital	O
+use_5	tapeless	O
+use_5	camcorders	O

@@ -1,0 +1,14 @@
+convert_19	Some	O
+convert_19	reports	O
+convert_19	also	O
+convert_19	show	O
+convert_19	that	O
+convert_19	many	O
+convert_19	of	O
+convert_19	the	O
+convert_19	Chinese	O
+convert_19	Indonesians	O
+convert_19	minority	O
+convert_19	convert	convert_vrb
+convert_19	to	O
+convert_19	Christianity	O

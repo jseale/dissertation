@@ -1,0 +1,15 @@
+duplicate_73	After	O
+duplicate_73	thousands	O
+duplicate_73	of	O
+duplicate_73	card	O
+duplicate_73	runs	O
+duplicate_73	James	O
+duplicate_73	Charles	O
+duplicate_73	Crumbaugh	O
+duplicate_73	failed	O
+duplicate_73	to	O
+duplicate_73	duplicate	duplicate_vrb
+duplicate_73	the	O
+duplicate_73	results	O
+duplicate_73	of	O
+duplicate_73	Rhine	O

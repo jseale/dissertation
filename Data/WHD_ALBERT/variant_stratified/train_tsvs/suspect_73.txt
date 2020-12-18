@@ -1,0 +1,15 @@
+suspect_73	They	O
+suspect_73	gave	O
+suspect_73	no	O
+suspect_73	reason	O
+suspect_73	to	O
+suspect_73	suspect	suspect_vrb
+suspect_73	the	O
+suspect_73	existence	O
+suspect_73	of	O
+suspect_73	a	O
+suspect_73	new	O
+suspect_73	distinctive	O
+suspect_73	group	O
+suspect_73	of	O
+suspect_73	dinosaurs	O

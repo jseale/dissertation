@@ -1,0 +1,15 @@
+perfect_8	The	O
+perfect_8	song	O
+perfect_8	Perfect	perfect_adj
+perfect_8	Timing	O
+perfect_8	pays	O
+perfect_8	homage	O
+perfect_8	to	O
+perfect_8	Dashboard	O
+perfect_8	Confessional	O
+perfect_8	and	O
+perfect_8	their	O
+perfect_8	song	O
+perfect_8	As	O
+perfect_8	Lovers	O
+perfect_8	Go	O

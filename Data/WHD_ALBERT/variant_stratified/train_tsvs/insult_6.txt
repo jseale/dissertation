@@ -1,0 +1,16 @@
+insult_6	This	O
+insult_6	started	O
+insult_6	off	O
+insult_6	as	O
+insult_6	an	O
+insult_6	insult	insult_nou
+insult_6	but	O
+insult_6	grew	O
+insult_6	into	O
+insult_6	a	O
+insult_6	kind	O
+insult_6	of	O
+insult_6	cute	O
+insult_6	and	O
+insult_6	affectionate	O
+insult_6	nickname	O

@@ -1,0 +1,13 @@
+conflict_2	The	O
+conflict_2	first	O
+conflict_2	serious	O
+conflict_2	armed	O
+conflict_2	conflict	conflict_nou
+conflict_2	of	O
+conflict_2	the	O
+conflict_2	war	O
+conflict_2	took	O
+conflict_2	place	O
+conflict_2	on	O
+conflict_2	February	O
+conflict_2	14	O

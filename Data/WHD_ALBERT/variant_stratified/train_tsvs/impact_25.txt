@@ -1,0 +1,12 @@
+impact_25	Gaming	O
+impact_25	fans	O
+impact_25	have	O
+impact_25	also	O
+impact_25	recently	O
+impact_25	made	O
+impact_25	a	O
+impact_25	big	O
+impact_25	impact	impact_nou
+impact_25	on	O
+impact_25	content	O
+impact_25	developers	O

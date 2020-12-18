@@ -1,0 +1,13 @@
+rebel_8	On	O
+rebel_8	5	O
+rebel_8	July	O
+rebel_8	the	O
+rebel_8	First	O
+rebel_8	Mixed	O
+rebel_8	Brigade	O
+rebel_8	infiltrated	O
+rebel_8	the	O
+rebel_8	rebel	rebel_nou
+rebel_8	lines	O
+rebel_8	near	O
+rebel_8	Brunete	O

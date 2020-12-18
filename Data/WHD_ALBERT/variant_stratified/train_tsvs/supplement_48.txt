@@ -1,0 +1,10 @@
+supplement_48	It	O
+supplement_48	later	O
+supplement_48	added	O
+supplement_48	a	O
+supplement_48	half	O
+supplement_48	tone	O
+supplement_48	broadsheet	O
+supplement_48	supplement	supplement_nou
+supplement_48	in	O
+supplement_48	1902	O

@@ -1,0 +1,15 @@
+recount_41	However	O
+recount_41	a	O
+recount_41	recount	recount_nou
+recount_41	resulted	O
+recount_41	in	O
+recount_41	a	O
+recount_41	tie	O
+recount_41	with	O
+recount_41	both	O
+recount_41	Bezanson	O
+recount_41	and	O
+recount_41	Tidman	O
+recount_41	receiving	O
+recount_41	3735	O
+recount_41	votes	O

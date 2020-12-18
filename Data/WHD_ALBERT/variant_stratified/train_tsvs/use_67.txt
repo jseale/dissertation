@@ -1,0 +1,17 @@
+use_67	The	O
+use_67	Sugpiaq	O
+use_67	Alaska	O
+use_67	also	O
+use_67	use	use_vrb
+use_67	it	O
+use_67	for	O
+use_67	bandages	O
+use_67	and	O
+use_67	as	O
+use_67	a	O
+use_67	hot	O
+use_67	compress	O
+use_67	in	O
+use_67	medicinal	O
+use_67	steam	O
+use_67	baths	O

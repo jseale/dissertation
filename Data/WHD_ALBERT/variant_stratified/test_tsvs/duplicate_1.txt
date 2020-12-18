@@ -1,0 +1,11 @@
+duplicate_1	There	O
+duplicate_1	are	O
+duplicate_1	two	O
+duplicate_1	main	O
+duplicate_1	categories	O
+duplicate_1	of	O
+duplicate_1	scoring	O
+duplicate_1	duplicate	duplicate_adj-nou
+duplicate_1	and	O
+duplicate_1	rubber	O
+duplicate_1	scoring	O

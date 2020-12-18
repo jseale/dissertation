@@ -1,0 +1,17 @@
+refuse_0	Hambledon	O
+refuse_0	Rural	O
+refuse_0	District	O
+refuse_0	Council	O
+refuse_0	used	O
+refuse_0	Baynards	O
+refuse_0	Tunnel	O
+refuse_0	as	O
+refuse_0	a	O
+refuse_0	refuse	refuse_nou
+refuse_0	tip	O
+refuse_0	by	O
+refuse_0	after	O
+refuse_0	the	O
+refuse_0	line	O
+refuse_0	's	O
+refuse_0	closure	O

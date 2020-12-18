@@ -1,0 +1,17 @@
+rodeo_57	The	O
+rodeo_57	rodeo	rodeo
+rodeo_57	clown	O
+rodeo_57	goes	O
+rodeo_57	back	O
+rodeo_57	to	O
+rodeo_57	the	O
+rodeo_57	old	O
+rodeo_57	western	O
+rodeo_57	stories	O
+rodeo_57	where	O
+rodeo_57	cowboys	O
+rodeo_57	play	O
+rodeo_57	tricks	O
+rodeo_57	and	O
+rodeo_57	tell	O
+rodeo_57	lies	O

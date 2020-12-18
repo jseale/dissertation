@@ -1,0 +1,16 @@
+perfect_24	There	O
+perfect_24	was	O
+perfect_24	however	O
+perfect_24	no	O
+perfect_24	consensus	O
+perfect_24	among	O
+perfect_24	the	O
+perfect_24	Greeks	O
+perfect_24	as	O
+perfect_24	to	O
+perfect_24	which	O
+perfect_24	numbers	O
+perfect_24	were	O
+perfect_24	perfect	perfect_adj
+perfect_24	or	O
+perfect_24	why	O

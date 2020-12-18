@@ -1,0 +1,9 @@
+discount_34	Members	O
+discount_34	of	O
+discount_34	the	O
+discount_34	association	O
+discount_34	received	O
+discount_34	a	O
+discount_34	$	O
+discount_34	100	O
+discount_34	discount	discount_nou

@@ -1,0 +1,16 @@
+deliberate_71	However	O
+deliberate_71	MSNBC	O
+deliberate_71	reported	O
+deliberate_71	that	O
+deliberate_71	this	O
+deliberate_71	was	O
+deliberate_71	a	O
+deliberate_71	deliberate	deliberate_adj
+deliberate_71	snub	O
+deliberate_71	by	O
+deliberate_71	Nixon	O
+deliberate_71	who	O
+deliberate_71	was	O
+deliberate_71	a	O
+deliberate_71	Redskins	O
+deliberate_71	fan	O

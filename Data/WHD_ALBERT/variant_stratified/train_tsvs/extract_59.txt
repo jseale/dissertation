@@ -1,0 +1,17 @@
+extract_59	The	O
+extract_59	discrete	O
+extract_59	time	O
+extract_59	signals	O
+extract_59	are	O
+extract_59	in	O
+extract_59	turn	O
+extract_59	processed	O
+extract_59	using	O
+extract_59	digital	O
+extract_59	hardware	O
+extract_59	to	O
+extract_59	extract	extract_vrb
+extract_59	information	O
+extract_59	from	O
+extract_59	the	O
+extract_59	signal	O

@@ -1,0 +1,13 @@
+axes_8	However	O
+axes_8	axes	axes_nou-vrb
+axes_8	have	O
+axes_8	been	O
+axes_8	discovered	O
+axes_8	that	O
+axes_8	do	O
+axes_8	not	O
+axes_8	clearly	O
+axes_8	fit	O
+axes_8	into	O
+axes_8	either	O
+axes_8	category	O

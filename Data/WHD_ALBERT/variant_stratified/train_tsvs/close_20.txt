@@ -1,0 +1,8 @@
+close_20	The	O
+close_20	settlement	O
+close_20	is	O
+close_20	close	close_adj-nou
+close_20	to	O
+close_20	Edworth	O
+close_20	and	O
+close_20	Langford	O

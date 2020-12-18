@@ -1,0 +1,9 @@
+buffet_5	Where'n	O
+buffet_5	the	O
+buffet_5	Hell	O
+buffet_5	is	O
+buffet_5	the	O
+buffet_5	God	O
+buffet_5	damn	O
+buffet_5	buffet	buffet_nou
+buffet_5	at	O

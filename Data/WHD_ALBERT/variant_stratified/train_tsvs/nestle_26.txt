@@ -1,0 +1,12 @@
+nestle_26	She	O
+nestle_26	has	O
+nestle_26	studied	O
+nestle_26	for	O
+nestle_26	an	O
+nestle_26	MBA	O
+nestle_26	and	O
+nestle_26	worked	O
+nestle_26	with	O
+nestle_26	Nestle	nestle_nam
+nestle_26	as	O
+nestle_26	manager	O

@@ -1,0 +1,15 @@
+combine_46	The	O
+combine_46	club	O
+combine_46	was	O
+combine_46	formed	O
+combine_46	to	O
+combine_46	allow	O
+combine_46	the	O
+combine_46	players	O
+combine_46	to	O
+combine_46	combine	combine_vrb
+combine_46	professional	O
+combine_46	football	O
+combine_46	with	O
+combine_46	higher	O
+combine_46	education	O

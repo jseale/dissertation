@@ -1,0 +1,14 @@
+record_61	The	O
+record_61	winning	O
+record_61	time	O
+record_61	1:11.0	O
+record_61	was	O
+record_61	a	O
+record_61	new	O
+record_61	course	O
+record_61	record	record_nou
+record_61	for	O
+record_61	a	O
+record_61	two	O
+record_61	year	O
+record_61	old	O

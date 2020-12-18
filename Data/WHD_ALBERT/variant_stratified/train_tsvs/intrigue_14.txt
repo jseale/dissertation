@@ -1,0 +1,16 @@
+intrigue_14	Its	O
+intrigue_14	budget	O
+intrigue_14	was	O
+intrigue_14	$	O
+intrigue_14	6	O
+intrigue_14	million	O
+intrigue_14	the	O
+intrigue_14	financing	O
+intrigue_14	of	O
+intrigue_14	which	O
+intrigue_14	has	O
+intrigue_14	remained	O
+intrigue_14	a	O
+intrigue_14	source	O
+intrigue_14	of	O
+intrigue_14	intrigue	intrigue_nou

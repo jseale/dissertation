@@ -1,0 +1,15 @@
+discard_5	Norbert	O
+discard_5	decides	O
+discard_5	to	O
+discard_5	discard	discard_vrb
+discard_5	their	O
+discard_5	next	O
+discard_5	project	O
+discard_5	John	O
+discard_5	the	O
+discard_5	Baptist	O
+discard_5	and	O
+discard_5	move	O
+discard_5	directly	O
+discard_5	to	O
+discard_5	Jesus	O

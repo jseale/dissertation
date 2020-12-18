@@ -1,0 +1,10 @@
+compound_67	Dichlorine	O
+compound_67	heptoxide	O
+compound_67	is	O
+compound_67	the	O
+compound_67	chemical	O
+compound_67	compound	compound_nou
+compound_67	with	O
+compound_67	the	O
+compound_67	formula	O
+compound_67	Cl₂O₇.	O

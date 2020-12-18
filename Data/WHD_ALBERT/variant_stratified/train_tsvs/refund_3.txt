@@ -1,0 +1,11 @@
+refund_3	The	O
+refund_3	Gotchers	O
+refund_3	paid	O
+refund_3	the	O
+refund_3	deficiency	O
+refund_3	and	O
+refund_3	filed	O
+refund_3	suit	O
+refund_3	for	O
+refund_3	a	O
+refund_3	refund	refund_nou

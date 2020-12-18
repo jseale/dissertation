@@ -1,0 +1,12 @@
+uses_76	It	O
+uses_76	uses	uses_vrb
+uses_76	a	O
+uses_76	simple	O
+uses_76	3-operand	O
+uses_76	code	O
+uses_76	with	O
+uses_76	SSA	O
+uses_76	for	O
+uses_76	its	O
+uses_76	intermediate	O
+uses_76	representation	O

@@ -1,0 +1,14 @@
+rerelease_67	The	O
+rerelease_67	film	O
+rerelease_67	was	O
+rerelease_67	later	O
+rerelease_67	condensed	O
+rerelease_67	for	O
+rerelease_67	rerelease	rerelease
+rerelease_67	and	O
+rerelease_67	titled	O
+rerelease_67	The	O
+rerelease_67	Kaiser	O
+rerelease_67	's	O
+rerelease_67	Last	O
+rerelease_67	Squeal	O

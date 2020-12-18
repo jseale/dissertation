@@ -1,0 +1,8 @@
+polish_3	Wojciech	O
+polish_3	Krysiak	O
+polish_3	is	O
+polish_3	a	O
+polish_3	Polish	polish_geo
+polish_3	male	O
+polish_3	acrobatic	O
+polish_3	gymnast	O

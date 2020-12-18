@@ -1,0 +1,16 @@
+reading_18	This	O
+reading_18	ranking	O
+reading_18	was	O
+reading_18	based	O
+reading_18	upon	O
+reading_18	that	O
+reading_18	school	O
+reading_18	year	O
+reading_18	's	O
+reading_18	combined	O
+reading_18	math	O
+reading_18	and	O
+reading_18	reading	reading_en
+reading_18	PSSA	O
+reading_18	test	O
+reading_18	scores	O

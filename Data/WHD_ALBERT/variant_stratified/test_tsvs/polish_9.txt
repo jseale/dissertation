@@ -1,0 +1,14 @@
+polish_9	Of	O
+polish_9	these	O
+polish_9	87.5	O
+polish_9	were	O
+polish_9	of	O
+polish_9	Belarusian	O
+polish_9	6.4	O
+polish_9	Russian	O
+polish_9	3.4	O
+polish_9	Ukrainian	O
+polish_9	and	O
+polish_9	1.9	O
+polish_9	Polish	polish_geo
+polish_9	ethnicity	O

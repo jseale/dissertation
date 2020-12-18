@@ -1,0 +1,16 @@
+duplicate_17	The	O
+duplicate_17	first	O
+duplicate_17	seal	O
+duplicate_17	engraved	O
+duplicate_17	was	O
+duplicate_17	essentially	O
+duplicate_17	a	O
+duplicate_17	duplicate	duplicate_adj-nou
+duplicate_17	of	O
+duplicate_17	the	O
+duplicate_17	Great	O
+duplicate_17	Seal	O
+duplicate_17	of	O
+duplicate_17	the	O
+duplicate_17	United	O
+duplicate_17	States	O

@@ -1,0 +1,17 @@
+convict_19	Yatheendran	O
+convict_19	Keerikkadan	O
+convict_19	Jose	O
+convict_19	another	O
+convict_19	convict	convict_nou
+convict_19	identifies	O
+convict_19	Mahi	O
+convict_19	as	O
+convict_19	Mayavi	O
+convict_19	and	O
+convict_19	Thottappally	O
+convict_19	brothers	O
+convict_19	entrusts	O
+convict_19	Yatheendran	O
+convict_19	to	O
+convict_19	kill	O
+convict_19	Mahi	O

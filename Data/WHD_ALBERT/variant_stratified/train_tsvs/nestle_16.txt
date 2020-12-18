@@ -1,0 +1,14 @@
+nestle_16	Amongst	O
+nestle_16	the	O
+nestle_16	major	O
+nestle_16	companies	O
+nestle_16	operating	O
+nestle_16	in	O
+nestle_16	the	O
+nestle_16	town	O
+nestle_16	are	O
+nestle_16	Nestle	nestle_nam
+nestle_16	and	O
+nestle_16	Agco	O
+nestle_16	Massey	O
+nestle_16	Ferguson	O

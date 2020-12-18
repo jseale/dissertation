@@ -1,0 +1,17 @@
+overthrow_19	He	O
+overthrow_19	became	O
+overthrow_19	the	O
+overthrow_19	sovereign	O
+overthrow_19	of	O
+overthrow_19	the	O
+overthrow_19	English	O
+overthrow_19	government	O
+overthrow_19	by	O
+overthrow_19	the	O
+overthrow_19	overthrow	overthrow_nou
+overthrow_19	of	O
+overthrow_19	James	O
+overthrow_19	in	O
+overthrow_19	the	O
+overthrow_19	Glorious	O
+overthrow_19	Revolution	O

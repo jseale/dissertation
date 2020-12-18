@@ -1,0 +1,12 @@
+reading_5	Riegels	O
+reading_5	reportedly	O
+reading_5	later	O
+reading_5	sent	O
+reading_5	Marshall	O
+reading_5	a	O
+reading_5	letter	O
+reading_5	reading	reading_en
+reading_5	Welcome	O
+reading_5	to	O
+reading_5	the	O
+reading_5	club	O

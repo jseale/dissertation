@@ -1,0 +1,14 @@
+affiliate_39	Throughout	O
+affiliate_39	the	O
+affiliate_39	station	O
+affiliate_39	's	O
+affiliate_39	history	O
+affiliate_39	it	O
+affiliate_39	competed	O
+affiliate_39	against	O
+affiliate_39	Des	O
+affiliate_39	Moines	O
+affiliate_39	NBC	O
+affiliate_39	affiliate	affiliate_nou
+affiliate_39	WHO	O
+affiliate_39	TV	O

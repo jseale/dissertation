@@ -1,0 +1,8 @@
+incline_2	Another	O
+incline_2	signal	O
+incline_2	box	O
+incline_2	was	O
+incline_2	provided	O
+incline_2	at	O
+incline_2	Honiton	O
+incline_2	Incline	incline_nou

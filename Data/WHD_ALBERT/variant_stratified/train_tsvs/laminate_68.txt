@@ -1,0 +1,15 @@
+laminate_68	Fabric	O
+laminate_68	layers	O
+laminate_68	or	O
+laminate_68	continuous	O
+laminate_68	strand	O
+laminate_68	mats	O
+laminate_68	are	O
+laminate_68	added	O
+laminate_68	into	O
+laminate_68	the	O
+laminate_68	laminate	laminate_nou
+laminate_68	depending	O
+laminate_68	on	O
+laminate_68	performance	O
+laminate_68	requirements	O

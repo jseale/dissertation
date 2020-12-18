@@ -1,0 +1,12 @@
+postulate_32	To	O
+postulate_32	the	O
+postulate_32	ancients	O
+postulate_32	the	O
+postulate_32	parallel	O
+postulate_32	postulate	postulate_nou
+postulate_32	seemed	O
+postulate_32	less	O
+postulate_32	obvious	O
+postulate_32	than	O
+postulate_32	the	O
+postulate_32	others	O

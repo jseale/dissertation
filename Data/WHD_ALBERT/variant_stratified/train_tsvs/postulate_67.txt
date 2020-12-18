@@ -1,0 +1,17 @@
+postulate_67	In	O
+postulate_67	contrast	O
+postulate_67	Dennett	O
+postulate_67	states	O
+postulate_67	that	O
+postulate_67	it	O
+postulate_67	is	O
+postulate_67	incorrect	O
+postulate_67	to	O
+postulate_67	postulate	postulate_vrb
+postulate_67	an	O
+postulate_67	economic	O
+postulate_67	interpretation	O
+postulate_67	of	O
+postulate_67	the	O
+postulate_67	Abbasid	O
+postulate_67	revolution	O

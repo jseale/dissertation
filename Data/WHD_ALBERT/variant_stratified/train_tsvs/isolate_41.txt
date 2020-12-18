@@ -1,0 +1,17 @@
+isolate_41	They	O
+isolate_41	managed	O
+isolate_41	to	O
+isolate_41	isolate	isolate
+isolate_41	their	O
+isolate_41	feedback	O
+isolate_41	from	O
+isolate_41	the	O
+isolate_41	standards	O
+isolate_41	thereby	O
+isolate_41	minimizing	O
+isolate_41	the	O
+isolate_41	threat	O
+isolate_41	to	O
+isolate_41	their	O
+isolate_41	self	O
+isolate_41	esteem	O

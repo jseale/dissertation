@@ -1,0 +1,12 @@
+wind_70	On	O
+wind_70	the	O
+wind_70	other	O
+wind_70	hand	O
+wind_70	the	O
+wind_70	wind	wind_nou
+wind_70	instruments	O
+wind_70	and	O
+wind_70	percussions	O
+wind_70	are	O
+wind_70	particularly	O
+wind_70	prominent	O

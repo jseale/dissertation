@@ -1,0 +1,15 @@
+diagnoses_24	Most	O
+diagnoses_24	diagnoses	diagnoses_nou
+diagnoses_24	are	O
+diagnoses_24	made	O
+diagnoses_24	by	O
+diagnoses_24	identifying	O
+diagnoses_24	the	O
+diagnoses_24	appearance	O
+diagnoses_24	of	O
+diagnoses_24	the	O
+diagnoses_24	worm	O
+diagnoses_24	or	O
+diagnoses_24	eggs	O
+diagnoses_24	in	O
+diagnoses_24	feces	O

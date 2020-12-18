@@ -1,0 +1,15 @@
+transform_17	Rochester	O
+transform_17	scientists	O
+transform_17	used	O
+transform_17	frequency	O
+transform_17	tripling	O
+transform_17	crystals	O
+transform_17	to	O
+transform_17	transform	transform
+transform_17	the	O
+transform_17	infrared	O
+transform_17	laser	O
+transform_17	beams	O
+transform_17	into	O
+transform_17	ultraviolet	O
+transform_17	beams	O

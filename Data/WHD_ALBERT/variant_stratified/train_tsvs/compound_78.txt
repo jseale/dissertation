@@ -1,0 +1,7 @@
+compound_78	These	O
+compound_78	compound	compound_vrb
+compound_78	the	O
+compound_78	weaknesses	O
+compound_78	of	O
+compound_78	ordinary	O
+compound_78	joints	O

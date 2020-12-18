@@ -1,0 +1,13 @@
+bass_11	Little	O
+bass_11	originally	O
+bass_11	played	O
+bass_11	piano	O
+bass_11	but	O
+bass_11	switched	O
+bass_11	to	O
+bass_11	bass	bass
+bass_11	after	O
+bass_11	serving	O
+bass_11	in	O
+bass_11	the	O
+bass_11	military	O

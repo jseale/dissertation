@@ -1,0 +1,17 @@
+winds_52	By	O
+winds_52	far	O
+winds_52	the	O
+winds_52	most	O
+winds_52	famous	O
+winds_52	section	O
+winds_52	of	O
+winds_52	the	O
+winds_52	Cave	O
+winds_52	of	O
+winds_52	the	O
+winds_52	Winds	winds_nou
+winds_52	is	O
+winds_52	the	O
+winds_52	Silent	O
+winds_52	Splendor	O
+winds_52	room	O

@@ -1,0 +1,16 @@
+winds_16	On	O
+winds_16	January	O
+winds_16	16	O
+winds_16	the	O
+winds_16	storm	O
+winds_16	developed	O
+winds_16	hurricane	O
+winds_16	force	O
+winds_16	winds	winds_nou
+winds_16	and	O
+winds_16	Eric	O
+winds_16	began	O
+winds_16	to	O
+winds_16	undergo	O
+winds_16	rapid	O
+winds_16	deepening	O

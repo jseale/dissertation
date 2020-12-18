@@ -1,0 +1,16 @@
+delegate_3	She	O
+delegate_3	served	O
+delegate_3	as	O
+delegate_3	a	O
+delegate_3	federal	O
+delegate_3	delegate	delegate_nou
+delegate_3	from	O
+delegate_3	the	O
+delegate_3	state	O
+delegate_3	of	O
+delegate_3	Guanajuato	O
+delegate_3	to	O
+delegate_3	the	O
+delegate_3	53rd	O
+delegate_3	Mexican	O
+delegate_3	legislature	O

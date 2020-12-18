@@ -1,0 +1,13 @@
+decrease_5	The	O
+decrease_5	last	O
+decrease_5	toll	O
+decrease_5	rise	O
+decrease_5	led	O
+decrease_5	to	O
+decrease_5	a	O
+decrease_5	decrease	decrease_nou
+decrease_5	in	O
+decrease_5	usage	O
+decrease_5	of	O
+decrease_5	the	O
+decrease_5	tunnel	O

@@ -1,0 +1,15 @@
+conscript_27	As	O
+conscript_27	predominantly	O
+conscript_27	conscript	conscript_nou
+conscript_27	units	O
+conscript_27	the	O
+conscript_27	Zouaves	O
+conscript_27	did	O
+conscript_27	not	O
+conscript_27	serve	O
+conscript_27	in	O
+conscript_27	Indochina	O
+conscript_27	between	O
+conscript_27	1945	O
+conscript_27	and	O
+conscript_27	1954	O

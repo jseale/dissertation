@@ -1,0 +1,15 @@
+reject_7	It	O
+reject_7	is	O
+reject_7	a	O
+reject_7	pretext	O
+reject_7	so	O
+reject_7	be	O
+reject_7	it	O
+reject_7	but	O
+reject_7	a	O
+reject_7	pretext	O
+reject_7	which	O
+reject_7	we	O
+reject_7	should	O
+reject_7	not	O
+reject_7	reject	reject_vrb

@@ -1,0 +1,11 @@
+sake_14	For	O
+sake_14	the	O
+sake_14	sake	sake
+sake_14	of	O
+sake_14	geographical	O
+sake_14	balance	O
+sake_14	most	O
+sake_14	of	O
+sake_14	these	O
+sake_14	were	O
+sake_14	Italians	O

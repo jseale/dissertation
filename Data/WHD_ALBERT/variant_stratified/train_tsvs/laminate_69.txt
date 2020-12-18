@@ -1,0 +1,10 @@
+laminate_69	Vacuum	O
+laminate_69	pressure	O
+laminate_69	is	O
+laminate_69	used	O
+laminate_69	to	O
+laminate_69	drive	O
+laminate_69	resin	O
+laminate_69	into	O
+laminate_69	the	O
+laminate_69	laminate	laminate_nou

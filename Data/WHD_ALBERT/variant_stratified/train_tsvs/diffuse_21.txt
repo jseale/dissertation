@@ -1,0 +1,14 @@
+diffuse_21	High	O
+diffuse_21	values	O
+diffuse_21	of	O
+diffuse_21	comfort	O
+diffuse_21	imply	O
+diffuse_21	more	O
+diffuse_21	diffuse	diffuse_adj
+diffuse_21	lighting	O
+diffuse_21	the	O
+diffuse_21	light	O
+diffuse_21	comes	O
+diffuse_21	from	O
+diffuse_21	many	O
+diffuse_21	directions	O

@@ -1,0 +1,14 @@
+consummate_33	And	O
+consummate_33	all	O
+consummate_33	of	O
+consummate_33	them	O
+consummate_33	had	O
+consummate_33	the	O
+consummate_33	consummate	consummate_adj
+consummate_33	good	O
+consummate_33	sense	O
+consummate_33	not	O
+consummate_33	to	O
+consummate_33	let	O
+consummate_33	it	O
+consummate_33	escalate	O

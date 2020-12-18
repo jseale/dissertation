@@ -1,0 +1,14 @@
+approximate_8	Repeat	O
+approximate_8	until	O
+approximate_8	an	O
+approximate_8	approximate	approximate_adj-nou
+approximate_8	minimum	O
+approximate_8	is	O
+approximate_8	obtained	O
+approximate_8	Randomly	O
+approximate_8	shuffle	O
+approximate_8	examples	O
+approximate_8	in	O
+approximate_8	the	O
+approximate_8	training	O
+approximate_8	set	O

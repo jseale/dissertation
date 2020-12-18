@@ -1,0 +1,13 @@
+perfume_66	Henri	O
+perfume_66	is	O
+perfume_66	also	O
+perfume_66	a	O
+perfume_66	painter	O
+perfume_66	and	O
+perfume_66	has	O
+perfume_66	launched	O
+perfume_66	his	O
+perfume_66	own	O
+perfume_66	brand	O
+perfume_66	of	O
+perfume_66	perfume	perfume_nou

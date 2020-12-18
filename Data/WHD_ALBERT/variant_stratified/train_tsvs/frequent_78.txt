@@ -1,0 +1,15 @@
+frequent_78	He	O
+frequent_78	used	O
+frequent_78	to	O
+frequent_78	frequent	frequent_vrb
+frequent_78	the	O
+frequent_78	library	O
+frequent_78	and	O
+frequent_78	read	O
+frequent_78	a	O
+frequent_78	lot	O
+frequent_78	of	O
+frequent_78	books	O
+frequent_78	since	O
+frequent_78	his	O
+frequent_78	childhood	O

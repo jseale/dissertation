@@ -1,0 +1,13 @@
+celtic_56	His	O
+celtic_56	time	O
+celtic_56	at	O
+celtic_56	Celtic	celtic_adj-nou-sports
+celtic_56	was	O
+celtic_56	ultimately	O
+celtic_56	over	O
+celtic_56	after	O
+celtic_56	the	O
+celtic_56	signing	O
+celtic_56	of	O
+celtic_56	Georgios	O
+celtic_56	Samaras	O

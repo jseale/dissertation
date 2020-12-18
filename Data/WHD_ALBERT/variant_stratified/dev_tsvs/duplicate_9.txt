@@ -1,0 +1,15 @@
+duplicate_9	The	O
+duplicate_9	Miami	O
+duplicate_9	Dolphins	O
+duplicate_9	would	O
+duplicate_9	duplicate	duplicate_vrb
+duplicate_9	this	O
+duplicate_9	feat	O
+duplicate_9	the	O
+duplicate_9	following	O
+duplicate_9	season	O
+duplicate_9	by	O
+duplicate_9	winning	O
+duplicate_9	Super	O
+duplicate_9	Bowl	O
+duplicate_9	VII	O

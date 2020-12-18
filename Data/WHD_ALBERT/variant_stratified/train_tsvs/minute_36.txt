@@ -1,0 +1,17 @@
+minute_36	Labo	O
+minute_36	played	O
+minute_36	his	O
+minute_36	first	O
+minute_36	game	O
+minute_36	on	O
+minute_36	22	O
+minute_36	August	O
+minute_36	2007	O
+minute_36	against	O
+minute_36	Zambia	O
+minute_36	appearing	O
+minute_36	as	O
+minute_36	substitute	O
+minute_36	in	O
+minute_36	minute	minute
+minute_36	60	O

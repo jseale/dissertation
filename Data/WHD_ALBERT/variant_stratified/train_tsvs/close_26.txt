@@ -1,0 +1,17 @@
+close_26	In	O
+close_26	May	O
+close_26	2010	O
+close_26	Cardiff	O
+close_26	University	O
+close_26	announced	O
+close_26	that	O
+close_26	the	O
+close_26	Academy	O
+close_26	would	O
+close_26	close	close_adj-nou
+close_26	because	O
+close_26	of	O
+close_26	a	O
+close_26	lack	O
+close_26	of	O
+close_26	funds	O

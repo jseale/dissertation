@@ -1,0 +1,10 @@
+analyses_72	This	O
+analyses_72	book	O
+analyses_72	analyses	analyses_vrb
+analyses_72	their	O
+analyses_72	efforts	O
+analyses_72	using	O
+analyses_72	modern	O
+analyses_72	project	O
+analyses_72	management	O
+analyses_72	methods	O

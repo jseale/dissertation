@@ -1,0 +1,14 @@
+invite_21	He	O
+invite_21	would	O
+invite_21	invite	invite_vrb
+invite_21	any	O
+invite_21	passengers	O
+invite_21	by	O
+invite_21	especially	O
+invite_21	Brahmins	O
+invite_21	for	O
+invite_21	grand	O
+invite_21	feast	O
+invite_21	at	O
+invite_21	his	O
+invite_21	home	O

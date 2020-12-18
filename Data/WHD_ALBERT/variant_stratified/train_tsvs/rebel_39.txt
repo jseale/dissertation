@@ -1,0 +1,16 @@
+rebel_39	In	O
+rebel_39	the	O
+rebel_39	Beano	O
+rebel_39	Christmas	O
+rebel_39	special	O
+rebel_39	2007	O
+rebel_39	Robbie	O
+rebel_39	Rebel	rebel_nou
+rebel_39	had	O
+rebel_39	a	O
+rebel_39	joint	O
+rebel_39	strip	O
+rebel_39	with	O
+rebel_39	The	O
+rebel_39	Riot	O
+rebel_39	Squad	O

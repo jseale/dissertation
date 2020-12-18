@@ -1,0 +1,17 @@
+export_52	In	O
+export_52	2011	O
+export_52	the	O
+export_52	total	O
+export_52	export	export_nou
+export_52	output	O
+export_52	of	O
+export_52	aerospace	O
+export_52	products	O
+export_52	in	O
+export_52	the	O
+export_52	Philippines	O
+export_52	reached	O
+export_52	US	O
+export_52	$	O
+export_52	3	O
+export_52	billion	O

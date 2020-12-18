@@ -1,0 +1,13 @@
+precipitate_65	The	O
+precipitate_65	slightest	O
+precipitate_65	inadvertence	O
+precipitate_65	can	O
+precipitate_65	precipitate	precipitate_vrb
+precipitate_65	him	O
+precipitate_65	who	O
+precipitate_65	crosses	O
+precipitate_65	this	O
+precipitate_65	bridge	O
+precipitate_65	into	O
+precipitate_65	the	O
+precipitate_65	abyss	O

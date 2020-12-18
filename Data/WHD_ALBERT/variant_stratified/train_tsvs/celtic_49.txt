@@ -1,0 +1,15 @@
+celtic_49	The	O
+celtic_49	studio	O
+celtic_49	album	O
+celtic_49	titled	O
+celtic_49	Celtic	celtic
+celtic_49	Woman	O
+celtic_49	A	O
+celtic_49	New	O
+celtic_49	Journey	O
+celtic_49	was	O
+celtic_49	released	O
+celtic_49	on	O
+celtic_49	30	O
+celtic_49	January	O
+celtic_49	2007	O

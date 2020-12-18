@@ -1,0 +1,15 @@
+reject_70	Christadelphians	O
+reject_70	and	O
+reject_70	Jehovah	O
+reject_70	's	O
+reject_70	Witnesses	O
+reject_70	reject	reject_vrb
+reject_70	the	O
+reject_70	view	O
+reject_70	of	O
+reject_70	a	O
+reject_70	living	O
+reject_70	conscious	O
+reject_70	soul	O
+reject_70	after	O
+reject_70	death	O

@@ -1,0 +1,13 @@
+upset_53	Stan	O
+upset_53	is	O
+upset_53	upset	upset_nou
+upset_53	that	O
+upset_53	no	O
+upset_53	one	O
+upset_53	cares	O
+upset_53	about	O
+upset_53	Rosie	O
+upset_53	as	O
+upset_53	a	O
+upset_53	person	O
+upset_53	anymore	O

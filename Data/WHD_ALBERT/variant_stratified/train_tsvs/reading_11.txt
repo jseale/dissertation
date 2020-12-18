@@ -1,0 +1,15 @@
+reading_11	Reading	reading_en
+reading_11	and	O
+reading_11	replying	O
+reading_11	to	O
+reading_11	the	O
+reading_11	mail	O
+reading_11	sometimes	O
+reading_11	takes	O
+reading_11	her	O
+reading_11	more	O
+reading_11	than	O
+reading_11	eight	O
+reading_11	hours	O
+reading_11	a	O
+reading_11	day	O

@@ -1,0 +1,14 @@
+converse_5	Current	O
+converse_5	manufacturers	O
+converse_5	are	O
+converse_5	Altama	O
+converse_5	Bates	O
+converse_5	Belleville	O
+converse_5	Boot	O
+converse_5	McRae	O
+converse_5	Rocky	O
+converse_5	Warson	O
+converse_5	Brands	O
+converse_5	Converse	converse_adj-nou
+converse_5	and	O
+converse_5	Wellco	O

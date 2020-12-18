@@ -1,0 +1,13 @@
+impact_4	But	O
+impact_4	the	O
+impact_4	impact	impact_nou
+impact_4	reached	O
+impact_4	far	O
+impact_4	beyond	O
+impact_4	the	O
+impact_4	confines	O
+impact_4	of	O
+impact_4	mainstream	O
+impact_4	American	O
+impact_4	theater	O
+impact_4	goers	O

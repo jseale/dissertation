@@ -1,0 +1,14 @@
+excuse_3	There	O
+excuse_3	is	O
+excuse_3	no	O
+excuse_3	excuse	excuse_nou
+excuse_3	for	O
+excuse_3	the	O
+excuse_3	way	O
+excuse_3	they	O
+excuse_3	are	O
+excuse_3	treated	O
+excuse_3	there	O
+excuse_3	are	O
+excuse_3	always	O
+excuse_3	alternatives	O

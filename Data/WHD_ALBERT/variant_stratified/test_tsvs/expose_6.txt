@@ -1,0 +1,13 @@
+expose_6	These	O
+expose_6	individuals	O
+expose_6	expose	expose_vrb
+expose_6	themselves	O
+expose_6	to	O
+expose_6	great	O
+expose_6	danger	O
+expose_6	in	O
+expose_6	order	O
+expose_6	to	O
+expose_6	protect	O
+expose_6	the	O
+expose_6	cowboy	O

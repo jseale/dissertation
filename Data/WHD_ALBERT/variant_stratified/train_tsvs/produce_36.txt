@@ -1,0 +1,13 @@
+produce_36	Buttons	O
+produce_36	are	O
+produce_36	chewed	O
+produce_36	to	O
+produce_36	produce	produce_vrb
+produce_36	the	O
+produce_36	effects	O
+produce_36	or	O
+produce_36	soaked	O
+produce_36	in	O
+produce_36	water	O
+produce_36	to	O
+produce_36	drink	O

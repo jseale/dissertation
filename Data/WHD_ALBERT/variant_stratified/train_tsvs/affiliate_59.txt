@@ -1,0 +1,13 @@
+affiliate_59	CELSI	O
+affiliate_59	is	O
+affiliate_59	an	O
+affiliate_59	affiliate	affiliate_nou
+affiliate_59	partner	O
+affiliate_59	of	O
+affiliate_59	the	O
+affiliate_59	Marie	O
+affiliate_59	Curie	O
+affiliate_59	International	O
+affiliate_59	Training	O
+affiliate_59	Network	O
+affiliate_59	EDUWORKS	O

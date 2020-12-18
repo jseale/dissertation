@@ -1,0 +1,15 @@
+close_15	The	O
+close_15	term	O
+close_15	Gandhian	O
+close_15	economics	O
+close_15	was	O
+close_15	coined	O
+close_15	by	O
+close_15	J.	O
+close_15	C.	O
+close_15	Kumarappa	O
+close_15	a	O
+close_15	close	close_adj-nou
+close_15	supporter	O
+close_15	of	O
+close_15	Gandhi	O

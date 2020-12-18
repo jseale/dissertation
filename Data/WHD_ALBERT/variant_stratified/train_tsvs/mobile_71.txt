@@ -1,0 +1,12 @@
+mobile_71	Through	O
+mobile_71	Mobile	mobile
+mobile_71	IPTV	O
+mobile_71	users	O
+mobile_71	can	O
+mobile_71	view	O
+mobile_71	IPTV	O
+mobile_71	services	O
+mobile_71	using	O
+mobile_71	a	O
+mobile_71	mobile	mobile
+mobile_71	device	O

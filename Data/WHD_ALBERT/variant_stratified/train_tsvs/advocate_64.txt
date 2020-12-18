@@ -1,0 +1,14 @@
+advocate_64	He	O
+advocate_64	became	O
+advocate_64	an	O
+advocate_64	advocate	advocate_nou
+advocate_64	in	O
+advocate_64	1948	O
+advocate_64	and	O
+advocate_64	served	O
+advocate_64	as	O
+advocate_64	an	O
+advocate_64	Advocate	advocate_nou
+advocate_64	Depute	O
+advocate_64	from	O
+advocate_64	1955	O

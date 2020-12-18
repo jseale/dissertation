@@ -1,0 +1,17 @@
+postulate_46	Lack	O
+postulate_46	of	O
+postulate_46	clarity	O
+postulate_46	on	O
+postulate_46	whether	O
+postulate_46	a	O
+postulate_46	straight	O
+postulate_46	line	O
+postulate_46	is	O
+postulate_46	infinite	O
+postulate_46	or	O
+postulate_46	boundary	O
+postulate_46	less	O
+postulate_46	in	O
+postulate_46	the	O
+postulate_46	second	O
+postulate_46	postulate	postulate_nou

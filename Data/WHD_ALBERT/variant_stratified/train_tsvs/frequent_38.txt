@@ -1,0 +1,9 @@
+frequent_38	Its	O
+frequent_38	most	O
+frequent_38	frequent	frequent_adj
+frequent_38	application	O
+frequent_38	is	O
+frequent_38	perhaps	O
+frequent_38	in	O
+frequent_38	probability	O
+frequent_38	theory	O

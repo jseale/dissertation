@@ -1,0 +1,15 @@
+articulate_1	As	O
+articulate_1	a	O
+articulate_1	child	O
+articulate_1	he	O
+articulate_1	stammered	O
+articulate_1	but	O
+articulate_1	possessed	O
+articulate_1	early	O
+articulate_1	on	O
+articulate_1	a	O
+articulate_1	high	O
+articulate_1	degree	O
+articulate_1	of	O
+articulate_1	articulate	articulate_adj
+articulate_1	intelligence	O

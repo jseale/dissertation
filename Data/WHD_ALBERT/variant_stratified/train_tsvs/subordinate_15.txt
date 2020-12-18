@@ -1,0 +1,17 @@
+subordinate_15	He	O
+subordinate_15	had	O
+subordinate_15	entered	O
+subordinate_15	the	O
+subordinate_15	village	O
+subordinate_15	with	O
+subordinate_15	two	O
+subordinate_15	of	O
+subordinate_15	his	O
+subordinate_15	subordinate	subordinate_adj-nou
+subordinate_15	commanders	O
+subordinate_15	and	O
+subordinate_15	a	O
+subordinate_15	few	O
+subordinate_15	of	O
+subordinate_15	his	O
+subordinate_15	fighters	O

@@ -1,0 +1,13 @@
+abuses_3	But	O
+abuses_3	there	O
+abuses_3	was	O
+abuses_3	nothing	O
+abuses_3	prudish	O
+abuses_3	about	O
+abuses_3	their	O
+abuses_3	concerted	O
+abuses_3	opposition	O
+abuses_3	to	O
+abuses_3	civil	O
+abuses_3	rights	O
+abuses_3	abuses	abuses_nou

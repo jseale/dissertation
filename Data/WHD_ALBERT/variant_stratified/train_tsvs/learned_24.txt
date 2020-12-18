@@ -1,0 +1,15 @@
+learned_24	There	O
+learned_24	he	O
+learned_24	studied	O
+learned_24	English	O
+learned_24	and	O
+learned_24	continued	O
+learned_24	to	O
+learned_24	work	O
+learned_24	on	O
+learned_24	the	O
+learned_24	techniques	O
+learned_24	he	O
+learned_24	learned	learned_vrb
+learned_24	in	O
+learned_24	Bogota	O

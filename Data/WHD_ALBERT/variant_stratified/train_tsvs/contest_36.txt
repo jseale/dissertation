@@ -1,0 +1,14 @@
+contest_36	He	O
+contest_36	was	O
+contest_36	placed	O
+contest_36	fourth	O
+contest_36	in	O
+contest_36	the	O
+contest_36	UK	O
+contest_36	heat	O
+contest_36	of	O
+contest_36	the	O
+contest_36	1957	O
+contest_36	Eurovision	O
+contest_36	Song	O
+contest_36	Contest	contest_nou

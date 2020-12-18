@@ -1,0 +1,17 @@
+minute_41	Buses	O
+minute_41	run	O
+minute_41	regularly	O
+minute_41	from	O
+minute_41	Knott	O
+minute_41	End	O
+minute_41	there	O
+minute_41	is	O
+minute_41	also	O
+minute_41	a	O
+minute_41	seasonal	O
+minute_41	three	O
+minute_41	minute	minute
+minute_41	ferry	O
+minute_41	crossing	O
+minute_41	to	O
+minute_41	Fleetwood	O

@@ -1,0 +1,10 @@
+retard_34	Use	O
+retard_34	it	O
+retard_34	to	O
+retard_34	retard	retard_vrb
+retard_34	your	O
+retard_34	gravitational	O
+retard_34	access	O
+retard_34	to	O
+retard_34	the	O
+retard_34	ground	O

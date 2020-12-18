@@ -1,0 +1,15 @@
+wind_2	During	O
+wind_2	the	O
+wind_2	night	O
+wind_2	the	O
+wind_2	wind	wind_nou
+wind_2	increased	O
+wind_2	in	O
+wind_2	strength	O
+wind_2	and	O
+wind_2	shifted	O
+wind_2	to	O
+wind_2	a	O
+wind_2	more	O
+wind_2	westerly	O
+wind_2	direction	O

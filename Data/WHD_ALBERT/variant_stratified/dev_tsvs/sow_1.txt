@@ -1,0 +1,17 @@
+sow_1	Known	O
+sow_1	only	O
+sow_1	to	O
+sow_1	each	O
+sow_1	other	O
+sow_1	the	O
+sow_1	fascists	O
+sow_1	coordinate	O
+sow_1	to	O
+sow_1	sow	sow
+sow_1	distrust	O
+sow_1	and	O
+sow_1	install	O
+sow_1	their	O
+sow_1	cold	O
+sow_1	blooded	O
+sow_1	leader	O

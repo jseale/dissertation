@@ -1,0 +1,14 @@
+laminate_36	Maica	O
+laminate_36	Laminates	O
+laminate_36	Sdn	O
+laminate_36	Bhd	O
+laminate_36	is	O
+laminate_36	the	O
+laminate_36	first	O
+laminate_36	high	O
+laminate_36	pressure	O
+laminate_36	laminate	laminate_nou
+laminate_36	HPL	O
+laminate_36	manufacturer	O
+laminate_36	in	O
+laminate_36	Malaysia	O

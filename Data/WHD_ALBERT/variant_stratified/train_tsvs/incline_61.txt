@@ -1,0 +1,16 @@
+incline_61	Once	O
+incline_61	on	O
+incline_61	the	O
+incline_61	ride	O
+incline_61	riders	O
+incline_61	would	O
+incline_61	travel	O
+incline_61	down	O
+incline_61	a	O
+incline_61	short	O
+incline_61	incline	incline_nou
+incline_61	propelling	O
+incline_61	them	O
+incline_61	down	O
+incline_61	the	O
+incline_61	ride	O

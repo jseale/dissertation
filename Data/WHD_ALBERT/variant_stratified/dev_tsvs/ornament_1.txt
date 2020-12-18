@@ -1,0 +1,14 @@
+ornament_1	The	O
+ornament_1	silver	O
+ornament_1	spaceship	O
+ornament_1	is	O
+ornament_1	or	O
+ornament_1	strongly	O
+ornament_1	resembles	O
+ornament_1	the	O
+ornament_1	hood	O
+ornament_1	ornament	ornament_nou
+ornament_1	of	O
+ornament_1	a	O
+ornament_1	1955	O
+ornament_1	Chevrolet	O

@@ -1,0 +1,16 @@
+defect_2	When	O
+defect_2	there	O
+defect_2	is	O
+defect_2	a	O
+defect_2	homozygous	O
+defect_2	mutation	O
+defect_2	it	O
+defect_2	causes	O
+defect_2	a	O
+defect_2	uroporphyringen	O
+defect_2	III	O
+defect_2	synthase	O
+defect_2	and	O
+defect_2	uroporphyrinogen	O
+defect_2	cosynthetase	O
+defect_2	defect	defect_nou

@@ -1,0 +1,10 @@
+incline_7	The	O
+incline_7	incline	incline_nou
+incline_7	system	O
+incline_7	was	O
+incline_7	used	O
+incline_7	in	O
+incline_7	revenue	O
+incline_7	service	O
+incline_7	till	O
+incline_7	1982	O

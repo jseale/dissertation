@@ -1,0 +1,9 @@
+aggregate_75	Environmental	O
+aggregate_75	stress	O
+aggregate_75	can	O
+aggregate_75	cause	O
+aggregate_75	proteins	O
+aggregate_75	to	O
+aggregate_75	misfold	O
+aggregate_75	and	O
+aggregate_75	aggregate	aggregate_vrb

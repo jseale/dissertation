@@ -1,0 +1,17 @@
+retard_6	These	O
+retard_6	basins	O
+retard_6	are	O
+retard_6	used	O
+retard_6	to	O
+retard_6	retard	retard_vrb
+retard_6	flood	O
+retard_6	flows	O
+retard_6	in	O
+retard_6	the	O
+retard_6	urbanized	O
+retard_6	area	O
+retard_6	downstream	O
+retard_6	of	O
+retard_6	Carbon	O
+retard_6	Canyon	O
+retard_6	Dam	O

@@ -1,0 +1,16 @@
+pervert_72	Their	O
+pervert_72	accuser	O
+pervert_72	Nadine	O
+pervert_72	Milroy	O
+pervert_72	Sloan	O
+pervert_72	was	O
+pervert_72	later	O
+pervert_72	imprisoned	O
+pervert_72	for	O
+pervert_72	attempting	O
+pervert_72	to	O
+pervert_72	pervert	pervert_vrb
+pervert_72	the	O
+pervert_72	course	O
+pervert_72	of	O
+pervert_72	justice	O

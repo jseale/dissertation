@@ -1,0 +1,12 @@
+blessed_13	The	O
+blessed_13	school	O
+blessed_13	name	O
+blessed_13	was	O
+blessed_13	changed	O
+blessed_13	to	O
+blessed_13	Blessed	blessed_adj
+blessed_13	Cardinal	O
+blessed_13	Newman	O
+blessed_13	in	O
+blessed_13	February	O
+blessed_13	2011	O

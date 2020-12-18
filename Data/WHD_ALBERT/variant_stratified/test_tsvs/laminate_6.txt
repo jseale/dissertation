@@ -1,0 +1,15 @@
+laminate_6	Economical	O
+laminate_6	boards	O
+laminate_6	comprise	O
+laminate_6	paper	O
+laminate_6	plastic	O
+laminate_6	or	O
+laminate_6	laminate	laminate_nou
+laminate_6	which	O
+laminate_6	can	O
+laminate_6	easily	O
+laminate_6	be	O
+laminate_6	folded	O
+laminate_6	away	O
+laminate_6	and	O
+laminate_6	stored	O

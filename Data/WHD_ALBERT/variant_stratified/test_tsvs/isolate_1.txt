@@ -1,0 +1,9 @@
+isolate_1	At	O
+isolate_1	the	O
+isolate_1	same	O
+isolate_1	time	O
+isolate_1	he	O
+isolate_1	began	O
+isolate_1	to	O
+isolate_1	isolate	isolate
+isolate_1	himself	O

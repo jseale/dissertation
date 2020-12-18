@@ -1,0 +1,13 @@
+syndicate_42	It	O
+syndicate_42	ran	O
+syndicate_42	1992	O
+syndicate_42	1994	O
+syndicate_42	through	O
+syndicate_42	his	O
+syndicate_42	future	O
+syndicate_42	editorial	O
+syndicate_42	cartooning	O
+syndicate_42	syndicate	syndicate_nou
+syndicate_42	Universal	O
+syndicate_42	Press	O
+syndicate_42	Syndicate	syndicate_nou

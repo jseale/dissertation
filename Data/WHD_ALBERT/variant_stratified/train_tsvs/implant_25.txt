@@ -1,0 +1,17 @@
+implant_25	For	O
+implant_25	individual	O
+implant_25	tooth	O
+implant_25	replacement	O
+implant_25	an	O
+implant_25	implant	implant_nou
+implant_25	abutment	O
+implant_25	is	O
+implant_25	first	O
+implant_25	secured	O
+implant_25	to	O
+implant_25	the	O
+implant_25	implant	implant_nou
+implant_25	with	O
+implant_25	an	O
+implant_25	abutment	O
+implant_25	screw	O

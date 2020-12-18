@@ -1,0 +1,14 @@
+graduate_66	The	O
+graduate_66	tuition	O
+graduate_66	varies	O
+graduate_66	depending	O
+graduate_66	on	O
+graduate_66	undergraduate	O
+graduate_66	lower	O
+graduate_66	and	O
+graduate_66	upper	O
+graduate_66	level	O
+graduate_66	division	O
+graduate_66	and	O
+graduate_66	graduate	graduate_adj-nou
+graduate_66	students	O

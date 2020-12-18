@@ -1,0 +1,10 @@
+resume_14	Sports	O
+resume_14	began	O
+resume_14	to	O
+resume_14	resume	resume_vrb
+resume_14	once	O
+resume_14	more	O
+resume_14	with	O
+resume_14	a	O
+resume_14	limited	O
+resume_14	schedule	O

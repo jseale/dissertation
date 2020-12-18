@@ -1,0 +1,12 @@
+delegate_60	He	O
+delegate_60	served	O
+delegate_60	as	O
+delegate_60	a	O
+delegate_60	delegate	delegate_nou
+delegate_60	to	O
+delegate_60	the	O
+delegate_60	Democratic	O
+delegate_60	National	O
+delegate_60	Convention	O
+delegate_60	in	O
+delegate_60	1908	O

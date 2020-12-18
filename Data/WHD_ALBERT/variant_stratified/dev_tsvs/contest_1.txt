@@ -1,0 +1,11 @@
+contest_1	Vojnovic	O
+contest_1	authored	O
+contest_1	the	O
+contest_1	book	O
+contest_1	Contest	contest_nou
+contest_1	Theory	O
+contest_1	Incentive	O
+contest_1	Mechanisms	O
+contest_1	and	O
+contest_1	Ranking	O
+contest_1	Methods	O

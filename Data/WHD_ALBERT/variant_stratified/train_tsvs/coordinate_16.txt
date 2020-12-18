@@ -1,0 +1,14 @@
+coordinate_16	In	O
+coordinate_16	the	O
+coordinate_16	Cartesian	O
+coordinate_16	coordinate	coordinate_adj-nou
+coordinate_16	system	O
+coordinate_16	x	O
+coordinate_16	is	O
+coordinate_16	used	O
+coordinate_16	to	O
+coordinate_16	refer	O
+coordinate_16	to	O
+coordinate_16	the	O
+coordinate_16	horizontal	O
+coordinate_16	axis	O

@@ -1,0 +1,12 @@
+attribute_2	Similar	O
+attribute_2	to	O
+attribute_2	the	O
+attribute_2	standard	O
+attribute_2	column	O
+attribute_2	family	O
+attribute_2	sorting	O
+attribute_2	is	O
+attribute_2	defined	O
+attribute_2	by	O
+attribute_2	an	O
+attribute_2	attribute	attribute_nou

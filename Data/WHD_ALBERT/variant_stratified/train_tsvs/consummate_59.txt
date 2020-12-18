@@ -1,0 +1,16 @@
+consummate_59	The	O
+consummate_59	two	O
+consummate_59	quickly	O
+consummate_59	decide	O
+consummate_59	to	O
+consummate_59	marry	O
+consummate_59	and	O
+consummate_59	consummate	consummate_vrb
+consummate_59	their	O
+consummate_59	marriage	O
+consummate_59	after	O
+consummate_59	receiving	O
+consummate_59	the	O
+consummate_59	King	O
+consummate_59	's	O
+consummate_59	approval	O

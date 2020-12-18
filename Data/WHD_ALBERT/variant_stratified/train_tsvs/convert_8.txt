@@ -1,0 +1,17 @@
+convert_8	In	O
+convert_8	Ogden	O
+convert_8	Utah	O
+convert_8	L.J.	O
+convert_8	meets	O
+convert_8	and	O
+convert_8	marries	O
+convert_8	Mary	O
+convert_8	Dee	O
+convert_8	daughter	O
+convert_8	of	O
+convert_8	a	O
+convert_8	Mormon	O
+convert_8	convert	convert_nou
+convert_8	from	O
+convert_8	the	O
+convert_8	Netherlands	O

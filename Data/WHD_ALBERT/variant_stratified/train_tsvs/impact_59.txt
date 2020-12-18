@@ -1,0 +1,15 @@
+impact_59	According	O
+impact_59	to	O
+impact_59	the	O
+impact_59	Journal	O
+impact_59	Citation	O
+impact_59	Reports	O
+impact_59	the	O
+impact_59	journal	O
+impact_59	has	O
+impact_59	a	O
+impact_59	2013	O
+impact_59	impact	impact_nou
+impact_59	factor	O
+impact_59	of	O
+impact_59	3.465	O

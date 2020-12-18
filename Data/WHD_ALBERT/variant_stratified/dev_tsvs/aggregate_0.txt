@@ -1,0 +1,17 @@
+aggregate_0	The	O
+aggregate_0	game	O
+aggregate_0	received	O
+aggregate_0	an	O
+aggregate_0	average	O
+aggregate_0	score	O
+aggregate_0	of	O
+aggregate_0	67.35	O
+aggregate_0	at	O
+aggregate_0	GameRankings	O
+aggregate_0	based	O
+aggregate_0	on	O
+aggregate_0	an	O
+aggregate_0	aggregate	aggregate_adj-nou
+aggregate_0	of	O
+aggregate_0	17	O
+aggregate_0	reviews	O

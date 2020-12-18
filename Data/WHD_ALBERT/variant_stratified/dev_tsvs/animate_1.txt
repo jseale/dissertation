@@ -1,0 +1,17 @@
+animate_1	First	O
+animate_1	principles	O
+animate_1	organize	O
+animate_1	attention	O
+animate_1	to	O
+animate_1	and	O
+animate_1	learning	O
+animate_1	about	O
+animate_1	relevant	O
+animate_1	data	O
+animate_1	Number	O
+animate_1	and	O
+animate_1	animate	animate_adj-nou
+animate_1	inanimate	O
+animate_1	distinction	O
+animate_1	as	O
+animate_1	examples	O

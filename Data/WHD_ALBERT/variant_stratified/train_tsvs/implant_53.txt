@@ -1,0 +1,17 @@
+implant_53	It	O
+implant_53	is	O
+implant_53	utilized	O
+implant_53	when	O
+implant_53	the	O
+implant_53	implant	implant_nou
+implant_53	is	O
+implant_53	at	O
+implant_53	a	O
+implant_53	different	O
+implant_53	inclination	O
+implant_53	in	O
+implant_53	relation	O
+implant_53	to	O
+implant_53	the	O
+implant_53	proposed	O
+implant_53	prosthesis	O

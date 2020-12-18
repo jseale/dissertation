@@ -1,0 +1,9 @@
+learned_74	Carey	O
+learned_74	only	O
+learned_74	learned	learned_vrb
+learned_74	of	O
+learned_74	Hilgenberg	O
+learned_74	's	O
+learned_74	work	O
+learned_74	in	O
+learned_74	1956	O

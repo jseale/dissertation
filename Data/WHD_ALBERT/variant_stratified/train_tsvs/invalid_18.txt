@@ -1,0 +1,17 @@
+invalid_18	In	O
+invalid_18	1893	O
+invalid_18	his	O
+invalid_18	election	O
+invalid_18	for	O
+invalid_18	Brandon	O
+invalid_18	City	O
+invalid_18	was	O
+invalid_18	declared	O
+invalid_18	invalid	invalid_adj
+invalid_18	and	O
+invalid_18	he	O
+invalid_18	lost	O
+invalid_18	the	O
+invalid_18	subsequent	O
+invalid_18	by	O
+invalid_18	election	O

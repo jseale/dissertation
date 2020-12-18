@@ -1,0 +1,14 @@
+minute_25	Since	O
+minute_25	the	O
+minute_25	opening	O
+minute_25	of	O
+minute_25	the	O
+minute_25	line	O
+minute_25	the	O
+minute_25	line	O
+minute_25	has	O
+minute_25	been	O
+minute_25	served	O
+minute_25	at	O
+minute_25	20-minute	O
+minute_25	intervals	O

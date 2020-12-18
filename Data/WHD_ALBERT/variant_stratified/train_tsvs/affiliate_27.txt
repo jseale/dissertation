@@ -1,0 +1,17 @@
+affiliate_27	Another	O
+affiliate_27	USA	O
+affiliate_27	Funds	O
+affiliate_27	affiliate	affiliate_nou
+affiliate_27	Northwest	O
+affiliate_27	Education	O
+affiliate_27	Loan	O
+affiliate_27	Association	O
+affiliate_27	is	O
+affiliate_27	a	O
+affiliate_27	nonprofit	O
+affiliate_27	guarantor	O
+affiliate_27	that	O
+affiliate_27	serves	O
+affiliate_27	the	O
+affiliate_27	Pacific	O
+affiliate_27	Northwest	O

@@ -1,0 +1,11 @@
+dove_43	The	O
+dove_43	zebra	O
+dove_43	dove	dove
+dove_43	and	O
+dove_43	diamond	O
+dove_43	dove	dove
+dove_43	are	O
+dove_43	commonly	O
+dove_43	kept	O
+dove_43	in	O
+dove_43	captivity	O

@@ -1,0 +1,17 @@
+buffet_31	In	O
+buffet_31	2015	O
+buffet_31	Tado	O
+buffet_31	Steakhouse	O
+buffet_31	was	O
+buffet_31	constructed	O
+buffet_31	Tradewinds	O
+buffet_31	Buffet	buffet_nou
+buffet_31	was	O
+buffet_31	remodeled	O
+buffet_31	and	O
+buffet_31	the	O
+buffet_31	water	O
+buffet_31	park	O
+buffet_31	spa	O
+buffet_31	construction	O
+buffet_31	began	O

@@ -1,0 +1,15 @@
+laminate_56	These	O
+laminate_56	asbestos	O
+laminate_56	boards	O
+laminate_56	have	O
+laminate_56	generally	O
+laminate_56	been	O
+laminate_56	replaced	O
+laminate_56	by	O
+laminate_56	a	O
+laminate_56	laminate	laminate_nou
+laminate_56	for	O
+laminate_56	health	O
+laminate_56	and	O
+laminate_56	safety	O
+laminate_56	reasons	O

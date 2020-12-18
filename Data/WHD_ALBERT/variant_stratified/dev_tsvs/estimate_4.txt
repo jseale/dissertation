@@ -1,0 +1,12 @@
+estimate_4	For	O
+estimate_4	a	O
+estimate_4	given	O
+estimate_4	value	O
+estimate_4	for	O
+estimate_4	an	O
+estimate_4	estimate	estimate_nou
+estimate_4	of	O
+estimate_4	the	O
+estimate_4	functionusing	O
+estimate_4	kernel	O
+estimate_4	method	O

@@ -1,0 +1,13 @@
+graduate_7	The	O
+graduate_7	graduate	graduate_adj-nou
+graduate_7	health	O
+graduate_7	course	O
+graduate_7	attracted	O
+graduate_7	considerable	O
+graduate_7	media	O
+graduate_7	attention	O
+graduate_7	despite	O
+graduate_7	enrolling	O
+graduate_7	only	O
+graduate_7	three	O
+graduate_7	students	O

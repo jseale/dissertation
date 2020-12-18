@@ -1,0 +1,14 @@
+approximate_16	We	O
+approximate_16	know	O
+approximate_16	nothing	O
+approximate_16	about	O
+approximate_16	him	O
+approximate_16	personally	O
+approximate_16	other	O
+approximate_16	than	O
+approximate_16	the	O
+approximate_16	approximate	approximate_adj-nou
+approximate_16	date	O
+approximate_16	of	O
+approximate_16	his	O
+approximate_16	work	O

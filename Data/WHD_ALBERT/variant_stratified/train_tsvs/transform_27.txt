@@ -1,0 +1,12 @@
+transform_27	They	O
+transform_27	each	O
+transform_27	have	O
+transform_27	a	O
+transform_27	clover	O
+transform_27	shaped	O
+transform_27	badge	O
+transform_27	that	O
+transform_27	enables	O
+transform_27	them	O
+transform_27	to	O
+transform_27	transform	transform

@@ -1,0 +1,14 @@
+winds_14	Throughout	O
+winds_14	southwestern	O
+winds_14	Puerto	O
+winds_14	Rico	O
+winds_14	the	O
+winds_14	storm	O
+winds_14	brought	O
+winds_14	moderate	O
+winds_14	rains	O
+winds_14	strong	O
+winds_14	winds	winds_nou
+winds_14	and	O
+winds_14	rough	O
+winds_14	seas	O

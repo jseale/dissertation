@@ -1,0 +1,16 @@
+supplement_7	The	O
+supplement_7	reign	O
+supplement_7	of	O
+supplement_7	Justinian	O
+supplement_7	saw	O
+supplement_7	the	O
+supplement_7	construction	O
+supplement_7	of	O
+supplement_7	over	O
+supplement_7	100	O
+supplement_7	legionary	O
+supplement_7	fortresses	O
+supplement_7	to	O
+supplement_7	supplement	supplement_vrb
+supplement_7	the	O
+supplement_7	defense	O

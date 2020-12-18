@@ -1,0 +1,9 @@
+lives_34	Savithiri	O
+lives_34	does	O
+lives_34	not	O
+lives_34	like	O
+lives_34	the	O
+lives_34	life	O
+lives_34	that	O
+lives_34	M.G.R.	O
+lives_34	lives	lives_vrb

@@ -1,0 +1,10 @@
+transport_28	Parner	O
+transport_28	is	O
+transport_28	served	O
+transport_28	by	O
+transport_28	the	O
+transport_28	Maharashtra	O
+transport_28	State	O
+transport_28	Road	O
+transport_28	Transport	transport_nou
+transport_28	Corporation	O

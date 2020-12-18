@@ -1,0 +1,17 @@
+diagnoses_64	The	O
+diagnoses_64	vehicle	O
+diagnoses_64	computer	O
+diagnoses_64	diagnoses	diagnoses_vrb
+diagnoses_64	the	O
+diagnoses_64	tram	O
+diagnoses_64	displays	O
+diagnoses_64	the	O
+diagnoses_64	speedometer	O
+diagnoses_64	gives	O
+diagnoses_64	access	O
+diagnoses_64	to	O
+diagnoses_64	the	O
+diagnoses_64	sander	O
+diagnoses_64	status	O
+diagnoses_64	and	O
+diagnoses_64	more	O

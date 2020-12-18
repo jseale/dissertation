@@ -1,0 +1,14 @@
+sake_2	However	O
+sake_2	they	O
+sake_2	decided	O
+sake_2	to	O
+sake_2	put	O
+sake_2	it	O
+sake_2	on	O
+sake_2	hold	O
+sake_2	for	O
+sake_2	the	O
+sake_2	sake	sake
+sake_2	of	O
+sake_2	the	O
+sake_2	twins	O

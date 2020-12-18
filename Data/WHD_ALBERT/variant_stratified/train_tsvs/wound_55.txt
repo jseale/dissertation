@@ -1,0 +1,16 @@
+wound_55	He	O
+wound_55	wound	wound_vrb
+wound_55	up	O
+wound_55	batting	O
+wound_55	over	O
+wound_55	.335	O
+wound_55	twice	O
+wound_55	over	O
+wound_55	.300	O
+wound_55	five	O
+wound_55	times	O
+wound_55	and	O
+wound_55	over	O
+wound_55	.290	O
+wound_55	nine	O
+wound_55	times	O

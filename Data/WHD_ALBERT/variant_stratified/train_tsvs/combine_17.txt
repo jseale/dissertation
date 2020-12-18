@@ -1,0 +1,16 @@
+combine_17	From	O
+combine_17	about	O
+combine_17	age	O
+combine_17	three	O
+combine_17	the	O
+combine_17	child	O
+combine_17	begins	O
+combine_17	to	O
+combine_17	combine	combine_vrb
+combine_17	circles	O
+combine_17	and	O
+combine_17	lines	O
+combine_17	to	O
+combine_17	make	O
+combine_17	simple	O
+combine_17	figures	O

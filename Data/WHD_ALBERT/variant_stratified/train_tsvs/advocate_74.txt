@@ -1,0 +1,10 @@
+advocate_74	Calderhead	O
+advocate_74	was	O
+advocate_74	willing	O
+advocate_74	to	O
+advocate_74	travel	O
+advocate_74	extensively	O
+advocate_74	to	O
+advocate_74	advocate	advocate_vrb
+advocate_74	for	O
+advocate_74	suffrage	O

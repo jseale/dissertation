@@ -1,0 +1,8 @@
+affect_8	It	O
+affect_8	has	O
+affect_8	the	O
+affect_8	power	O
+affect_8	to	O
+affect_8	affect	affect
+affect_8	people	O
+affect_8	deeply	O

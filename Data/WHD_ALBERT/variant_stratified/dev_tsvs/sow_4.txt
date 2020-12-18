@@ -1,0 +1,15 @@
+sow_4	Let	O
+sow_4	there	O
+sow_4	be	O
+sow_4	a	O
+sow_4	reconciliation	O
+sow_4	of	O
+sow_4	disputes	O
+sow_4	that	O
+sow_4	often	O
+sow_4	sow	sow
+sow_4	the	O
+sow_4	seeds	O
+sow_4	of	O
+sow_4	further	O
+sow_4	misfortunes	O

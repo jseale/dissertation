@@ -1,0 +1,14 @@
+coordinate_26	The	O
+coordinate_26	syntactic	O
+coordinate_26	units	O
+coordinate_26	of	O
+coordinate_26	sentences	O
+coordinate_26	are	O
+coordinate_26	often	O
+coordinate_26	either	O
+coordinate_26	subordinate	O
+coordinate_26	or	O
+coordinate_26	coordinate	coordinate_adj-nou
+coordinate_26	to	O
+coordinate_26	each	O
+coordinate_26	other	O

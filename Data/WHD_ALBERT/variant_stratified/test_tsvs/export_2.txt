@@ -1,0 +1,15 @@
+export_2	In	O
+export_2	the	O
+export_2	last	O
+export_2	few	O
+export_2	years	O
+export_2	export	export_nou
+export_2	accounted	O
+export_2	for	O
+export_2	between	O
+export_2	73	O
+export_2	and	O
+export_2	75	O
+export_2	percent	O
+export_2	of	O
+export_2	sales	O

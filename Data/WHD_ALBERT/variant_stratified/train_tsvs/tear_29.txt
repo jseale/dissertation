@@ -1,0 +1,16 @@
+tear_29	Taylor	O
+tear_29	warns	O
+tear_29	the	O
+tear_29	family	O
+tear_29	that	O
+tear_29	Kane	O
+tear_29	is	O
+tear_29	extremely	O
+tear_29	clever	O
+tear_29	and	O
+tear_29	will	O
+tear_29	try	O
+tear_29	to	O
+tear_29	tear	tear_vrb
+tear_29	them	O
+tear_29	apart	O

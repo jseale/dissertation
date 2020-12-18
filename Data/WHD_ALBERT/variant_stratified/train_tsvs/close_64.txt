@@ -1,0 +1,17 @@
+close_64	Tracing	O
+close_64	a	O
+close_64	line	O
+close_64	from	O
+close_64	Gacrux	O
+close_64	to	O
+close_64	Acrux	O
+close_64	leads	O
+close_64	to	O
+close_64	a	O
+close_64	point	O
+close_64	close	close_adj-nou
+close_64	to	O
+close_64	the	O
+close_64	Southern	O
+close_64	Celestial	O
+close_64	Pole	O

@@ -1,0 +1,13 @@
+combine_78	These	O
+combine_78	states	O
+combine_78	include	O
+combine_78	nonfilamentous	O
+combine_78	particles	O
+combine_78	which	O
+combine_78	combine	combine_vrb
+combine_78	to	O
+combine_78	firm	O
+combine_78	short	O
+combine_78	IFs	O
+combine_78	or	O
+combine_78	squiggles	O

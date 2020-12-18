@@ -1,0 +1,8 @@
+ornament_41	The	O
+ornament_41	Jewel	O
+ornament_41	Ornament	ornament_nou
+ornament_41	of	O
+ornament_41	Liberation	O
+ornament_41	p.	O
+ornament_41	ix	O
+ornament_41	Preface	O

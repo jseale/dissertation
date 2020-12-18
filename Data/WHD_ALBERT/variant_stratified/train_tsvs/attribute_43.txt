@@ -1,0 +1,15 @@
+attribute_43	We	O
+attribute_43	could	O
+attribute_43	attribute	attribute_vrb
+attribute_43	these	O
+attribute_43	changes	O
+attribute_43	to	O
+attribute_43	surrender	O
+attribute_43	devotion	O
+attribute_43	and	O
+attribute_43	their	O
+attribute_43	involvement	O
+attribute_43	in	O
+attribute_43	the	O
+attribute_43	premie	O
+attribute_43	community	O

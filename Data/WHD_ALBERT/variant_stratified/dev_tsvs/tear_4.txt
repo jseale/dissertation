@@ -1,0 +1,14 @@
+tear_4	They	O
+tear_4	'd	O
+tear_4	rather	O
+tear_4	try	O
+tear_4	to	O
+tear_4	tear	tear_vrb
+tear_4	our	O
+tear_4	campaign	O
+tear_4	down	O
+tear_4	than	O
+tear_4	lift	O
+tear_4	this	O
+tear_4	country	O
+tear_4	up	O

@@ -1,0 +1,13 @@
+refuse_29	Jaquino	O
+refuse_29	once	O
+refuse_29	again	O
+refuse_29	begs	O
+refuse_29	Marzelline	O
+refuse_29	to	O
+refuse_29	marry	O
+refuse_29	him	O
+refuse_29	but	O
+refuse_29	she	O
+refuse_29	continues	O
+refuse_29	to	O
+refuse_29	refuse	refuse_vrb

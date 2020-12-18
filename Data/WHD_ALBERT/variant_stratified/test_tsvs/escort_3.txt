@@ -1,0 +1,13 @@
+escort_3	ON	O
+escort_3	18	O
+escort_3	sailed	O
+escort_3	24	O
+escort_3	September	O
+escort_3	as	O
+escort_3	the	O
+escort_3	first	O
+escort_3	westbound	O
+escort_3	convoy	O
+escort_3	with	O
+escort_3	American	O
+escort_3	escort	escort_nou

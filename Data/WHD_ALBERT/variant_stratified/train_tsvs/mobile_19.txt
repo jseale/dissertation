@@ -1,0 +1,10 @@
+mobile_19	It	O
+mobile_19	can	O
+mobile_19	also	O
+mobile_19	affect	O
+mobile_19	mobile	mobile
+mobile_19	phones	O
+mobile_19	FM	O
+mobile_19	radios	O
+mobile_19	and	O
+mobile_19	televisions	O

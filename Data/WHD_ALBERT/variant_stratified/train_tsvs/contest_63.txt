@@ -1,0 +1,12 @@
+contest_63	The	O
+contest_63	Eurovision	O
+contest_63	Song	O
+contest_63	Contest	contest_nou
+contest_63	2003	O
+contest_63	was	O
+contest_63	the	O
+contest_63	48th	O
+contest_63	annual	O
+contest_63	Eurovision	O
+contest_63	Song	O
+contest_63	Contest	contest_nou

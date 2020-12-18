@@ -1,0 +1,16 @@
+diffuse_73	The	O
+diffuse_73	less	O
+diffuse_73	bound	O
+diffuse_73	a	O
+diffuse_73	drug	O
+diffuse_73	is	O
+diffuse_73	the	O
+diffuse_73	more	O
+diffuse_73	efficiently	O
+diffuse_73	it	O
+diffuse_73	can	O
+diffuse_73	traverse	O
+diffuse_73	cell	O
+diffuse_73	membranes	O
+diffuse_73	or	O
+diffuse_73	diffuse	diffuse_vrb

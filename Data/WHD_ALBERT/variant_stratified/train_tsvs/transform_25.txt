@@ -1,0 +1,17 @@
+transform_25	Continuous	O
+transform_25	production	O
+transform_25	industries	O
+transform_25	typically	O
+transform_25	use	O
+transform_25	heat	O
+transform_25	or	O
+transform_25	electricity	O
+transform_25	to	O
+transform_25	transform	transform
+transform_25	streams	O
+transform_25	of	O
+transform_25	raw	O
+transform_25	materials	O
+transform_25	into	O
+transform_25	finished	O
+transform_25	products	O

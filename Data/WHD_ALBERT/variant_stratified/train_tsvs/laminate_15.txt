@@ -1,0 +1,14 @@
+laminate_15	The	O
+laminate_15	polyethylene	O
+laminate_15	side	O
+laminate_15	of	O
+laminate_15	such	O
+laminate_15	a	O
+laminate_15	laminate	laminate_nou
+laminate_15	appears	O
+laminate_15	dull	O
+laminate_15	and	O
+laminate_15	the	O
+laminate_15	PET	O
+laminate_15	side	O
+laminate_15	shiny	O

@@ -1,0 +1,9 @@
+extract_1	The	O
+extract_1	malt	O
+extract_1	extract	extract_nou
+extract_1	is	O
+extract_1	stabilized	O
+extract_1	and	O
+extract_1	sterilised	O
+extract_1	during	O
+extract_1	boiling	O

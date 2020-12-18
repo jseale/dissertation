@@ -1,0 +1,14 @@
+progress_16	Contemporary	O
+progress_16	progress	progress_nou
+progress_16	in	O
+progress_16	philosophy	O
+progress_16	was	O
+progress_16	at	O
+progress_16	a	O
+progress_16	point	O
+progress_16	where	O
+progress_16	Metochites	O
+progress_16	could	O
+progress_16	openly	O
+progress_16	attack	O
+progress_16	Aristotle	O

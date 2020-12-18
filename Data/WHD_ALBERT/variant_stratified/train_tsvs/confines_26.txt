@@ -1,0 +1,11 @@
+confines_26	This	O
+confines_26	can	O
+confines_26	turn	O
+confines_26	quite	O
+confines_26	vicious	O
+confines_26	in	O
+confines_26	the	O
+confines_26	limited	O
+confines_26	confines	confines_nou
+confines_26	of	O
+confines_26	captivity	O

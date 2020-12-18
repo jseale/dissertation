@@ -1,0 +1,16 @@
+misuse_35	Often	O
+misuse_35	both	O
+misuse_35	the	O
+misuse_35	alcohol	O
+misuse_35	misuse	misuse_nou
+misuse_35	and	O
+misuse_35	psychological	O
+misuse_35	problems	O
+misuse_35	need	O
+misuse_35	to	O
+misuse_35	be	O
+misuse_35	treated	O
+misuse_35	at	O
+misuse_35	the	O
+misuse_35	same	O
+misuse_35	time	O

@@ -1,0 +1,13 @@
+compress_1	Additional	O
+compress_1	post	O
+compress_1	processing	O
+compress_1	is	O
+compress_1	then	O
+compress_1	applied	O
+compress_1	to	O
+compress_1	compress	compress
+compress_1	this	O
+compress_1	fingerprint	O
+compress_1	while	O
+compress_1	retaining	O
+compress_1	patterns	O

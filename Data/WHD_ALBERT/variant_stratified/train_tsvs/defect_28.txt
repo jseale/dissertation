@@ -1,0 +1,10 @@
+defect_28	YBCO	O
+defect_28	crystallises	O
+defect_28	in	O
+defect_28	a	O
+defect_28	defect	defect_nou
+defect_28	perovskite	O
+defect_28	structure	O
+defect_28	consisting	O
+defect_28	of	O
+defect_28	layers	O

@@ -1,0 +1,10 @@
+intrigue_52	Adventure	O
+intrigue_52	Politics	O
+intrigue_52	Intrigue	intrigue_nou
+intrigue_52	and	O
+intrigue_52	Power	O
+intrigue_52	A	O
+intrigue_52	History	O
+intrigue_52	of	O
+intrigue_52	the	O
+intrigue_52	Jesuits	O

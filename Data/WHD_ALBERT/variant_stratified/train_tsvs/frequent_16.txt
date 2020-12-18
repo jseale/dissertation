@@ -1,0 +1,14 @@
+frequent_16	However	O
+frequent_16	he	O
+frequent_16	remained	O
+frequent_16	a	O
+frequent_16	frequent	frequent_adj
+frequent_16	visitor	O
+frequent_16	to	O
+frequent_16	The	O
+frequent_16	Club	O
+frequent_16	a	O
+frequent_16	gym	O
+frequent_16	located	O
+frequent_16	in	O
+frequent_16	Woodbridge	O

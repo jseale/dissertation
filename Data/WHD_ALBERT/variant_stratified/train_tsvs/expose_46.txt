@@ -1,0 +1,8 @@
+expose_46	He	O
+expose_46	wants	O
+expose_46	to	O
+expose_46	expose	expose_vrb
+expose_46	the	O
+expose_46	malpractice	O
+expose_46	of	O
+expose_46	Ignatz	O

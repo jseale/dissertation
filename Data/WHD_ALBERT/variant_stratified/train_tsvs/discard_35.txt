@@ -1,0 +1,16 @@
+discard_35	In	O
+discard_35	this	O
+discard_35	case	O
+discard_35	the	O
+discard_35	voting	O
+discard_35	circuit	O
+discard_35	can	O
+discard_35	output	O
+discard_35	the	O
+discard_35	correct	O
+discard_35	result	O
+discard_35	and	O
+discard_35	discard	discard_vrb
+discard_35	the	O
+discard_35	erroneous	O
+discard_35	version	O

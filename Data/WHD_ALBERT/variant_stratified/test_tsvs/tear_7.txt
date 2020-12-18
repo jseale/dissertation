@@ -1,0 +1,16 @@
+tear_7	The	O
+tear_7	end	O
+tear_7	result	O
+tear_7	of	O
+tear_7	the	O
+tear_7	process	O
+tear_7	is	O
+tear_7	a	O
+tear_7	lustrous	O
+tear_7	tear	tear_vrb
+tear_7	resistant	O
+tear_7	yarn	O
+tear_7	which	O
+tear_7	is	O
+tear_7	extremely	O
+tear_7	hardwearing	O

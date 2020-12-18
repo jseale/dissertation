@@ -1,0 +1,16 @@
+buffet_62	The	O
+buffet_62	buffet	buffet_nou
+buffet_62	is	O
+buffet_62	in	O
+buffet_62	place	O
+buffet_62	of	O
+buffet_62	the	O
+buffet_62	Sitka	O
+buffet_62	Coffee	O
+buffet_62	Place	O
+buffet_62	at	O
+buffet_62	one	O
+buffet_62	end	O
+buffet_62	of	O
+buffet_62	deck	O
+buffet_62	6	O

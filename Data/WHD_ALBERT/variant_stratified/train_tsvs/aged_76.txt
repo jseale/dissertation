@@ -1,0 +1,13 @@
+aged_76	In	O
+aged_76	1805	O
+aged_76	aged	aged
+aged_76	18	O
+aged_76	he	O
+aged_76	moved	O
+aged_76	to	O
+aged_76	Batavia	O
+aged_76	New	O
+aged_76	York	O
+aged_76	with	O
+aged_76	his	O
+aged_76	parents	O

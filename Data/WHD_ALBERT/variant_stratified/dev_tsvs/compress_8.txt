@@ -1,0 +1,12 @@
+compress_8	Conversion	O
+compress_8	of	O
+compress_8	radiant	O
+compress_8	energy	O
+compress_8	into	O
+compress_8	mechanical	O
+compress_8	energy	O
+compress_8	to	O
+compress_8	compress	compress
+compress_8	the	O
+compress_8	main	O
+compress_8	body	O

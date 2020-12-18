@@ -1,0 +1,17 @@
+compress_38	The	O
+compress_38	shovel	O
+compress_38	shaped	O
+compress_38	forward	O
+compress_38	fuselage	O
+compress_38	generated	O
+compress_38	a	O
+compress_38	shock	O
+compress_38	wave	O
+compress_38	to	O
+compress_38	compress	compress
+compress_38	air	O
+compress_38	before	O
+compress_38	it	O
+compress_38	entered	O
+compress_38	the	O
+compress_38	engine	O

@@ -1,0 +1,16 @@
+deliberate_58	To	O
+deliberate_58	have	O
+deliberate_58	suicidal	O
+deliberate_58	intent	O
+deliberate_58	is	O
+deliberate_58	to	O
+deliberate_58	have	O
+deliberate_58	suicide	O
+deliberate_58	or	O
+deliberate_58	deliberate	deliberate_adj
+deliberate_58	self	O
+deliberate_58	killing	O
+deliberate_58	as	O
+deliberate_58	one	O
+deliberate_58	's	O
+deliberate_58	purpose	O

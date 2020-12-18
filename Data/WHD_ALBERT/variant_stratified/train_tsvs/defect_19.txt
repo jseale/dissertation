@@ -1,0 +1,13 @@
+defect_19	This	O
+defect_19	can	O
+defect_19	be	O
+defect_19	compared	O
+defect_19	to	O
+defect_19	less	O
+defect_19	than	O
+defect_19	0.5	O
+defect_19	defect	defect_nou
+defect_19	rate	O
+defect_19	on	O
+defect_19	normal	O
+defect_19	bottles	O

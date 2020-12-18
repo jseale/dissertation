@@ -1,0 +1,14 @@
+suspect_63	There	O
+suspect_63	is	O
+suspect_63	reason	O
+suspect_63	to	O
+suspect_63	suspect	suspect_vrb
+suspect_63	that	O
+suspect_63	Dunan	O
+suspect_63	was	O
+suspect_63	Roolwer	O
+suspect_63	's	O
+suspect_63	antecessor	O
+suspect_63	in	O
+suspect_63	the	O
+suspect_63	Isles	O

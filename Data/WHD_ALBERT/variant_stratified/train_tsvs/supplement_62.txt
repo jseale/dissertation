@@ -1,0 +1,13 @@
+supplement_62	Grants	O
+supplement_62	can	O
+supplement_62	provide	O
+supplement_62	an	O
+supplement_62	opportunity	O
+supplement_62	to	O
+supplement_62	supplement	supplement_vrb
+supplement_62	school	O
+supplement_62	funding	O
+supplement_62	without	O
+supplement_62	raising	O
+supplement_62	local	O
+supplement_62	taxes	O

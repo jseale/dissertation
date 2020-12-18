@@ -1,0 +1,16 @@
+retard_40	Depending	O
+retard_40	on	O
+retard_40	their	O
+retard_40	size	O
+retard_40	and	O
+retard_40	distribution	O
+retard_40	such	O
+retard_40	particles	O
+retard_40	may	O
+retard_40	act	O
+retard_40	to	O
+retard_40	either	O
+retard_40	encourage	O
+retard_40	or	O
+retard_40	retard	retard_vrb
+retard_40	recrystallization	O

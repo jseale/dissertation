@@ -1,0 +1,14 @@
+degenerate_58	The	O
+degenerate_58	society	O
+degenerate_58	of	O
+degenerate_58	Bellamira	O
+degenerate_58	is	O
+degenerate_58	morally	O
+degenerate_58	corrupt	O
+degenerate_58	and	O
+degenerate_58	profit	O
+degenerate_58	seeking	O
+degenerate_58	degenerate	degenerate_adj-nou
+degenerate_58	cunning	O
+degenerate_58	and	O
+degenerate_58	violent	O

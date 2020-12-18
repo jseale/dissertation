@@ -1,0 +1,16 @@
+export_77	These	O
+export_77	Tiles	O
+export_77	are	O
+export_77	export	export_vrb
+export_77	to	O
+export_77	Fareast	O
+export_77	Europe	O
+export_77	Australia	O
+export_77	Africa	O
+export_77	and	O
+export_77	as	O
+export_77	close	O
+export_77	as	O
+export_77	Middle	O
+export_77	Eastern	O
+export_77	Countries	O

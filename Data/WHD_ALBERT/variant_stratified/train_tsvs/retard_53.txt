@@ -1,0 +1,16 @@
+retard_53	The	O
+retard_53	increased	O
+retard_53	hydrophobic	O
+retard_53	moment	O
+retard_53	is	O
+retard_53	thought	O
+retard_53	to	O
+retard_53	retard	retard_vrb
+retard_53	or	O
+retard_53	abolish	O
+retard_53	antimicrobial	O
+retard_53	peptide	O
+retard_53	insertion	O
+retard_53	and	O
+retard_53	pore	O
+retard_53	formation	O

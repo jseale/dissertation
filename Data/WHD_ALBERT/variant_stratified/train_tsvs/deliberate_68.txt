@@ -1,0 +1,14 @@
+deliberate_68	The	O
+deliberate_68	title	O
+deliberate_68	is	O
+deliberate_68	a	O
+deliberate_68	deliberate	deliberate_adj
+deliberate_68	play	O
+deliberate_68	on	O
+deliberate_68	the	O
+deliberate_68	books	O
+deliberate_68	of	O
+deliberate_68	Robinson	O
+deliberate_68	's	O
+deliberate_68	Mars	O
+deliberate_68	Trilogy	O

@@ -1,0 +1,14 @@
+extract_78	If	O
+extract_78	electricity	O
+extract_78	existed	O
+extract_78	in	O
+extract_78	the	O
+extract_78	cloud	O
+extract_78	the	O
+extract_78	conductor	O
+extract_78	could	O
+extract_78	be	O
+extract_78	used	O
+extract_78	to	O
+extract_78	extract	extract_vrb
+extract_78	it	O

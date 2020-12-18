@@ -1,0 +1,9 @@
+isolate_73	Eupenifeldin	O
+isolate_73	is	O
+isolate_73	a	O
+isolate_73	cytotoxic	O
+isolate_73	bistropolone	O
+isolate_73	isolate	isolate_nou
+isolate_73	of	O
+isolate_73	Eupenicillium	O
+isolate_73	brefeldianum	O

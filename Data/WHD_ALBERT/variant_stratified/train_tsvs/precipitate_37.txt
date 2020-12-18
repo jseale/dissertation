@@ -1,0 +1,15 @@
+precipitate_37	Reactions	O
+precipitate_37	conducted	O
+precipitate_37	in	O
+precipitate_37	DMSO	O
+precipitate_37	are	O
+precipitate_37	often	O
+precipitate_37	diluted	O
+precipitate_37	with	O
+precipitate_37	water	O
+precipitate_37	to	O
+precipitate_37	precipitate	precipitate_vrb
+precipitate_37	or	O
+precipitate_37	phase	O
+precipitate_37	separate	O
+precipitate_37	products	O

@@ -1,0 +1,15 @@
+laminate_72	The	O
+laminate_72	stock	O
+laminate_72	is	O
+laminate_72	made	O
+laminate_72	from	O
+laminate_72	a	O
+laminate_72	brown	O
+laminate_72	laminate	laminate_nou
+laminate_72	and	O
+laminate_72	has	O
+laminate_72	a	O
+laminate_72	basic	O
+laminate_72	rubber	O
+laminate_72	recoil	O
+laminate_72	pad	O

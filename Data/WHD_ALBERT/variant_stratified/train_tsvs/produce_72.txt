@@ -1,0 +1,10 @@
+produce_72	Algaculture	O
+produce_72	could	O
+produce_72	potentially	O
+produce_72	produce	produce_vrb
+produce_72	far	O
+produce_72	more	O
+produce_72	oil	O
+produce_72	per	O
+produce_72	unit	O
+produce_72	area	O

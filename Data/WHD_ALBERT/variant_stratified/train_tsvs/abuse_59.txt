@@ -1,0 +1,10 @@
+abuse_59	Disqualifying	O
+abuse_59	events	O
+abuse_59	include	O
+abuse_59	convictions	O
+abuse_59	for	O
+abuse_59	domestic	O
+abuse_59	violence	O
+abuse_59	and	O
+abuse_59	child	O
+abuse_59	abuse	abuse_nou

@@ -1,0 +1,17 @@
+convict_60	The	O
+convict_60	powerful	O
+convict_60	squatting	O
+convict_60	fraternity	O
+convict_60	who	O
+convict_60	were	O
+convict_60	heavily	O
+convict_60	reliant	O
+convict_60	on	O
+convict_60	cheap	O
+convict_60	labour	O
+convict_60	advocated	O
+convict_60	a	O
+convict_60	renewal	O
+convict_60	of	O
+convict_60	convict	convict_nou
+convict_60	transportation	O

@@ -1,0 +1,16 @@
+record_78	Muntz	O
+record_78	and	O
+record_78	Friedman	O
+record_78	both	O
+record_78	Holocaust	O
+record_78	survivors	O
+record_78	to	O
+record_78	record	record_vrb
+record_78	his	O
+record_78	work	O
+record_78	and	O
+record_78	daily	O
+record_78	life	O
+record_78	at	O
+record_78	the	O
+record_78	hospital	O

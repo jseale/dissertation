@@ -1,0 +1,14 @@
+abuse_17	Similarly	O
+abuse_17	the	O
+abuse_17	novel	O
+abuse_17	deals	O
+abuse_17	with	O
+abuse_17	the	O
+abuse_17	misuse	O
+abuse_17	and	O
+abuse_17	abuse	abuse_nou
+abuse_17	of	O
+abuse_17	land	O
+abuse_17	in	O
+abuse_17	the	O
+abuse_17	south	O

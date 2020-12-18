@@ -1,0 +1,14 @@
+blessed_0	Edessa	O
+blessed_0	thus	O
+blessed_0	became	O
+blessed_0	the	O
+blessed_0	blessed	blessed_adj
+blessed_0	city	O
+blessed_0	by	O
+blessed_0	possessing	O
+blessed_0	the	O
+blessed_0	greatest	O
+blessed_0	pearl	O
+blessed_0	India	O
+blessed_0	could	O
+blessed_0	yield	O

@@ -1,0 +1,15 @@
+conscript_73	The	O
+conscript_73	Vendeans	O
+conscript_73	would	O
+conscript_73	also	O
+conscript_73	rise	O
+conscript_73	up	O
+conscript_73	against	O
+conscript_73	Napoleon	O
+conscript_73	's	O
+conscript_73	attempt	O
+conscript_73	to	O
+conscript_73	conscript	conscript_vrb
+conscript_73	them	O
+conscript_73	in	O
+conscript_73	1815	O

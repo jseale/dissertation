@@ -1,0 +1,13 @@
+permit_32	There	O
+permit_32	is	O
+permit_32	a	O
+permit_32	trail	O
+permit_32	in	O
+permit_32	the	O
+permit_32	park	O
+permit_32	but	O
+permit_32	using	O
+permit_32	it	O
+permit_32	requires	O
+permit_32	a	O
+permit_32	permit	permit_nou

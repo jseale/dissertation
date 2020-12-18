@@ -1,0 +1,14 @@
+discard_10	In	O
+discard_10	order	O
+discard_10	to	O
+discard_10	do	O
+discard_10	this	O
+discard_10	players	O
+discard_10	must	O
+discard_10	be	O
+discard_10	able	O
+discard_10	to	O
+discard_10	meld	O
+discard_10	the	O
+discard_10	top	O
+discard_10	discard	discard_nou

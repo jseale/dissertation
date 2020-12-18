@@ -1,0 +1,14 @@
+initiate_47	However	O
+initiate_47	NCTE	O
+initiate_47	may	O
+initiate_47	also	O
+initiate_47	initiate	initiate_vrb
+initiate_47	the	O
+initiate_47	process	O
+initiate_47	of	O
+initiate_47	withdrawal	O
+initiate_47	of	O
+initiate_47	recognition	O
+initiate_47	to	O
+initiate_47	these	O
+initiate_47	colleges	O

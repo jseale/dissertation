@@ -1,0 +1,11 @@
+wind_37	During	O
+wind_37	the	O
+wind_37	races	O
+wind_37	the	O
+wind_37	wind	wind_nou
+wind_37	was	O
+wind_37	pretty	O
+wind_37	light	O
+wind_37	and	O
+wind_37	quite	O
+wind_37	unpredictable	O

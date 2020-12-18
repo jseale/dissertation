@@ -1,0 +1,17 @@
+resume_8	Dinger	O
+resume_8	and	O
+resume_8	Rother	O
+resume_8	sealed	O
+resume_8	the	O
+resume_8	master	O
+resume_8	reels	O
+resume_8	with	O
+resume_8	wax	O
+resume_8	intending	O
+resume_8	to	O
+resume_8	resume	resume_vrb
+resume_8	sessions	O
+resume_8	at	O
+resume_8	a	O
+resume_8	later	O
+resume_8	date	O

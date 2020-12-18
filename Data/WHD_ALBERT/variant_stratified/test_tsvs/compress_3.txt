@@ -1,0 +1,17 @@
+compress_3	Throughout	O
+compress_3	embryonic	O
+compress_3	development	O
+compress_3	the	O
+compress_3	cells	O
+compress_3	within	O
+compress_3	the	O
+compress_3	midbrain	O
+compress_3	continually	O
+compress_3	multiply	O
+compress_3	and	O
+compress_3	compress	compress
+compress_3	the	O
+compress_3	still	O
+compress_3	forming	O
+compress_3	cerebral	O
+compress_3	aqueduct	O

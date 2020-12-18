@@ -1,0 +1,17 @@
+convert_57	Church	O
+convert_57	leaders	O
+convert_57	and	O
+convert_57	Christian	O
+convert_57	communities	O
+convert_57	received	O
+convert_57	letters	O
+convert_57	warning	O
+convert_57	them	O
+convert_57	to	O
+convert_57	convert	convert_vrb
+convert_57	to	O
+convert_57	Islam	O
+convert_57	or	O
+convert_57	face	O
+convert_57	suicide	O
+convert_57	bombings	O

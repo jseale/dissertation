@@ -1,0 +1,13 @@
+compound_62	Buddhist	O
+compound_62	temple	O
+compound_62	compound	compound_nou
+compound_62	located	O
+compound_62	few	O
+compound_62	kilometers	O
+compound_62	east	O
+compound_62	from	O
+compound_62	Sewu	O
+compound_62	temple	O
+compound_62	probably	O
+compound_62	9th	O
+compound_62	century	O

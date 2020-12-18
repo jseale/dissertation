@@ -1,0 +1,15 @@
+bass_75	TNN	O
+bass_75	Bass	bass_corp
+bass_75	Tournament	O
+bass_75	of	O
+bass_75	Champions	O
+bass_75	was	O
+bass_75	followed	O
+bass_75	by	O
+bass_75	the	O
+bass_75	sequel	O
+bass_75	TNN	O
+bass_75	Outdoors	O
+bass_75	Bass	bass_corp
+bass_75	Tournament	O
+bass_75	96	O

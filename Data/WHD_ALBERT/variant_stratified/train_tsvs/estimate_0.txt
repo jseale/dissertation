@@ -1,0 +1,9 @@
+estimate_0	According	O
+estimate_0	to	O
+estimate_0	one	O
+estimate_0	estimate	estimate_nou
+estimate_0	150	O
+estimate_0	MiG-21s	O
+estimate_0	are	O
+estimate_0	in	O
+estimate_0	service	O

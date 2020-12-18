@@ -1,0 +1,9 @@
+impact_45	The	O
+impact_45	book	O
+impact_45	had	O
+impact_45	an	O
+impact_45	enormous	O
+impact_45	impact	impact_nou
+impact_45	on	O
+impact_45	Armenian	O
+impact_45	historiography	O

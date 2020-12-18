@@ -1,0 +1,12 @@
+blessed_72	During	O
+blessed_72	the	O
+blessed_72	Vamana	O
+blessed_72	avatar	O
+blessed_72	Lord	O
+blessed_72	Vishnu	O
+blessed_72	blessed	blessed_vrb
+blessed_72	him	O
+blessed_72	to	O
+blessed_72	be	O
+blessed_72	a	O
+blessed_72	Chiranjivi	O

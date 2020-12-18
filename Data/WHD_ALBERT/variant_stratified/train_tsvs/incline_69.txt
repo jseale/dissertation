@@ -1,0 +1,12 @@
+incline_69	The	O
+incline_69	Dyne	O
+incline_69	Steel	O
+incline_69	Incline	incline_nou
+incline_69	railway	O
+incline_69	over	O
+incline_69	the	O
+incline_69	mountain	O
+incline_69	was	O
+incline_69	built	O
+incline_69	about	O
+incline_69	1850	O

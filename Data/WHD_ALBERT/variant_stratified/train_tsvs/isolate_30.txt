@@ -1,0 +1,15 @@
+isolate_30	It	O
+isolate_30	is	O
+isolate_30	not	O
+isolate_30	possible	O
+isolate_30	to	O
+isolate_30	completely	O
+isolate_30	isolate	isolate
+isolate_30	a	O
+isolate_30	portion	O
+isolate_30	of	O
+isolate_30	the	O
+isolate_30	maze	O
+isolate_30	through	O
+isolate_30	gate	O
+isolate_30	shifting	O

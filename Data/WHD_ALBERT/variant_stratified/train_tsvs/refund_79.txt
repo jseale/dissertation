@@ -1,0 +1,14 @@
+refund_79	He	O
+refund_79	returned	O
+refund_79	in	O
+refund_79	1926	O
+refund_79	to	O
+refund_79	refund	refund_vrb
+refund_79	a	O
+refund_79	portion	O
+refund_79	of	O
+refund_79	the	O
+refund_79	bribe	O
+refund_79	back	O
+refund_79	to	O
+refund_79	Iran	O

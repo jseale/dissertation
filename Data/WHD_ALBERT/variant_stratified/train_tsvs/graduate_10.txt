@@ -1,0 +1,15 @@
+graduate_10	Snyder	O
+graduate_10	born	O
+graduate_10	23	O
+graduate_10	November	O
+graduate_10	1958	O
+graduate_10	is	O
+graduate_10	a	O
+graduate_10	Civil	O
+graduate_10	Engineering	O
+graduate_10	graduate	graduate_adj-nou
+graduate_10	from	O
+graduate_10	the	O
+graduate_10	University	O
+graduate_10	of	O
+graduate_10	Waterloo	O

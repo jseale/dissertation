@@ -1,0 +1,15 @@
+subordinate_65	Voltaire	O
+subordinate_65	also	O
+subordinate_65	wonders	O
+subordinate_65	about	O
+subordinate_65	such	O
+subordinate_65	detention	O
+subordinate_65	measures	O
+subordinate_65	and	O
+subordinate_65	state	O
+subordinate_65	secrecy	O
+subordinate_65	around	O
+subordinate_65	a	O
+subordinate_65	simple	O
+subordinate_65	subordinate	subordinate_adj-nou
+subordinate_65	confidant	O

@@ -1,0 +1,17 @@
+bow_57	The	O
+bow_57	main	O
+bow_57	armament	O
+bow_57	comprised	O
+bow_57	a	O
+bow_57	single	O
+bow_57	305-millimetre	O
+bow_57	12	O
+bow_57	in	O
+bow_57	gun	O
+bow_57	in	O
+bow_57	a	O
+bow_57	barbette	O
+bow_57	mounting	O
+bow_57	at	O
+bow_57	the	O
+bow_57	bow	bow_nou-ship

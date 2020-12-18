@@ -1,0 +1,14 @@
+lives_6	An	O
+lives_6	exploration	O
+lives_6	of	O
+lives_6	the	O
+lives_6	magical	O
+lives_6	force	O
+lives_6	of	O
+lives_6	music	O
+lives_6	in	O
+lives_6	the	O
+lives_6	lives	lives_nou
+lives_6	of	O
+lives_6	human	O
+lives_6	beings	O

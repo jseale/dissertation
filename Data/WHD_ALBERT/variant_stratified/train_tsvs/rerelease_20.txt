@@ -1,0 +1,16 @@
+rerelease_20	On	O
+rerelease_20	the	O
+rerelease_20	book	O
+rerelease_20	jacket	O
+rerelease_20	of	O
+rerelease_20	the	O
+rerelease_20	2012	O
+rerelease_20	rerelease	rerelease
+rerelease_20	William	O
+rerelease_20	Gibson	O
+rerelease_20	calls	O
+rerelease_20	Shirley	O
+rerelease_20	cyberpunk	O
+rerelease_20	's	O
+rerelease_20	patient	O
+rerelease_20	zero	O

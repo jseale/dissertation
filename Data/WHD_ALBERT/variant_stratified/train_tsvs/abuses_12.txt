@@ -1,0 +1,17 @@
+abuses_12	The	O
+abuses_12	US	O
+abuses_12	government	O
+abuses_12	received	O
+abuses_12	no	O
+abuses_12	reports	O
+abuses_12	of	O
+abuses_12	societal	O
+abuses_12	abuses	abuses_nou
+abuses_12	or	O
+abuses_12	discrimination	O
+abuses_12	based	O
+abuses_12	on	O
+abuses_12	religious	O
+abuses_12	belief	O
+abuses_12	or	O
+abuses_12	practice	O

@@ -1,0 +1,17 @@
+perfume_7	Since	O
+perfume_7	Claire	O
+perfume_7	is	O
+perfume_7	unable	O
+perfume_7	to	O
+perfume_7	wear	O
+perfume_7	the	O
+perfume_7	perfume	perfume_nou
+perfume_7	due	O
+perfume_7	to	O
+perfume_7	prison	O
+perfume_7	rules	O
+perfume_7	she	O
+perfume_7	gives	O
+perfume_7	it	O
+perfume_7	to	O
+perfume_7	Betty	O

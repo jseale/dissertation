@@ -1,0 +1,17 @@
+insult_4	When	O
+insult_4	she	O
+insult_4	went	O
+insult_4	there	O
+insult_4	her	O
+insult_4	father	O
+insult_4	compounded	O
+insult_4	the	O
+insult_4	insult	insult_nou
+insult_4	by	O
+insult_4	totally	O
+insult_4	ignoring	O
+insult_4	her	O
+insult_4	presence	O
+insult_4	and	O
+insult_4	vilifying	O
+insult_4	Shiva	O

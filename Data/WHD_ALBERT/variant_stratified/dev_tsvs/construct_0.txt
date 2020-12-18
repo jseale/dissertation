@@ -1,0 +1,11 @@
+construct_0	In	O
+construct_0	1898	O
+construct_0	work	O
+construct_0	began	O
+construct_0	on	O
+construct_0	the	O
+construct_0	construct	construct_nou
+construct_0	of	O
+construct_0	the	O
+construct_0	Emery	O
+construct_0	meetinghouse	O

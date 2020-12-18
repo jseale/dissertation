@@ -1,0 +1,14 @@
+laminate_78	An	O
+laminate_78	option	O
+laminate_78	is	O
+laminate_78	to	O
+laminate_78	make	O
+laminate_78	and	O
+laminate_78	laminate	laminate_vrb
+laminate_78	a	O
+laminate_78	permanent	O
+laminate_78	ink	O
+laminate_78	duplicate	O
+laminate_78	of	O
+laminate_78	the	O
+laminate_78	image	O

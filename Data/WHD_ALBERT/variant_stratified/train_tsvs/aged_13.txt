@@ -1,0 +1,11 @@
+aged_13	He	O
+aged_13	died	O
+aged_13	of	O
+aged_13	lung	O
+aged_13	cancer	O
+aged_13	in	O
+aged_13	Grimsby	O
+aged_13	in	O
+aged_13	1960	O
+aged_13	aged	aged
+aged_13	38	O

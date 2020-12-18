@@ -1,0 +1,9 @@
+uses_58	Tibetan	O
+uses_58	uses	uses_vrb
+uses_58	an	O
+uses_58	alphabet	O
+uses_58	based	O
+uses_58	on	O
+uses_58	an	O
+uses_58	Indic	O
+uses_58	script	O

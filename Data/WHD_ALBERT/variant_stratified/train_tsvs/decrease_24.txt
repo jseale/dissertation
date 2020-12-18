@@ -1,0 +1,14 @@
+decrease_24	Its	O
+decrease_24	population	O
+decrease_24	was	O
+decrease_24	303	O
+decrease_24	at	O
+decrease_24	the	O
+decrease_24	2010	O
+decrease_24	census	O
+decrease_24	a	O
+decrease_24	decrease	decrease_nou
+decrease_24	from	O
+decrease_24	369	O
+decrease_24	in	O
+decrease_24	2000	O

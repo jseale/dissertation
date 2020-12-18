@@ -1,0 +1,13 @@
+diffuse_2	Another	O
+diffuse_2	distinction	O
+diffuse_2	is	O
+diffuse_2	made	O
+diffuse_2	between	O
+diffuse_2	focal	O
+diffuse_2	areas	O
+diffuse_2	and	O
+diffuse_2	diffuse	diffuse_adj
+diffuse_2	involvement	O
+diffuse_2	of	O
+diffuse_2	the	O
+diffuse_2	bladder	O

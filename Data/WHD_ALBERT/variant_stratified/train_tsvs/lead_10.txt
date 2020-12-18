@@ -1,0 +1,13 @@
+lead_10	The	O
+lead_10	use	O
+lead_10	of	O
+lead_10	Siberian	O
+lead_10	red	O
+lead_10	lead	lead_nou
+lead_10	as	O
+lead_10	a	O
+lead_10	paint	O
+lead_10	pigment	O
+lead_10	then	O
+lead_10	developed	O
+lead_10	rapidly	O

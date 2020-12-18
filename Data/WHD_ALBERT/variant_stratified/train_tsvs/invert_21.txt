@@ -1,0 +1,11 @@
+invert_21	The	O
+invert_21	video	O
+invert_21	invert	invert_adj-nou
+invert_21	parallel	O
+invert_21	attribute	O
+invert_21	is	O
+invert_21	also	O
+invert_21	usable	O
+invert_21	in	O
+invert_21	this	O
+invert_21	mode	O

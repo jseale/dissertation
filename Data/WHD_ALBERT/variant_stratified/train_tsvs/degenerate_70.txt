@@ -1,0 +1,15 @@
+degenerate_70	If	O
+degenerate_70	and	O
+degenerate_70	are	O
+degenerate_70	independent	O
+degenerate_70	this	O
+degenerate_70	model	O
+degenerate_70	will	O
+degenerate_70	degenerate	degenerate_vrb
+degenerate_70	to	O
+degenerate_70	a	O
+degenerate_70	probit	O
+degenerate_70	model	O
+degenerate_70	with	O
+degenerate_70	unobservable	O
+degenerate_70	heterogeneity	O

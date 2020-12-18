@@ -1,0 +1,12 @@
+deliberate_41	Her	O
+deliberate_41	interpretation	O
+deliberate_41	often	O
+deliberate_41	incorporated	O
+deliberate_41	deliberate	deliberate_adj
+deliberate_41	farce	O
+deliberate_41	to	O
+deliberate_41	express	O
+deliberate_41	the	O
+deliberate_41	complexities	O
+deliberate_41	of	O
+deliberate_41	life	O

@@ -1,0 +1,7 @@
+isolate_39	However	O
+isolate_39	attempts	O
+isolate_39	to	O
+isolate_39	isolate	isolate
+isolate_39	gnomium	O
+isolate_39	proved	O
+isolate_39	fruitless	O

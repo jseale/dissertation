@@ -1,0 +1,17 @@
+defect_42	This	O
+defect_42	was	O
+defect_42	due	O
+defect_42	to	O
+defect_42	a	O
+defect_42	metallurgical	O
+defect_42	and	O
+defect_42	manufacturing	O
+defect_42	defect	defect_nou
+defect_42	in	O
+defect_42	the	O
+defect_42	first	O
+defect_42	stage	O
+defect_42	low	O
+defect_42	pressure	O
+defect_42	compressor	O
+defect_42	disk	O

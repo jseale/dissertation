@@ -1,0 +1,13 @@
+escort_47	In	O
+escort_47	1961	O
+escort_47	the	O
+escort_47	frigate	O
+escort_47	was	O
+escort_47	a	O
+escort_47	member	O
+escort_47	of	O
+escort_47	the	O
+escort_47	Ninth	O
+escort_47	Canadian	O
+escort_47	Escort	escort_nou
+escort_47	Squadron	O

@@ -1,0 +1,11 @@
+uses_31	The	O
+uses_31	starfield	O
+uses_31	effect	O
+uses_31	uses	uses_vrb
+uses_31	a	O
+uses_31	bug	O
+uses_31	in	O
+uses_31	the	O
+uses_31	Atari	O
+uses_31	2600	O
+uses_31	hardware	O

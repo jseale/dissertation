@@ -1,0 +1,10 @@
+transform_53	He	O
+transform_53	also	O
+transform_53	can	O
+transform_53	transform	transform
+transform_53	into	O
+transform_53	Scorpion	O
+transform_53	armor	O
+transform_53	like	O
+transform_53	his	O
+transform_53	father	O

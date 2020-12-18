@@ -1,0 +1,12 @@
+perfume_74	The	O
+perfume_74	flower	O
+perfume_74	has	O
+perfume_74	essential	O
+perfume_74	oils	O
+perfume_74	and	O
+perfume_74	can	O
+perfume_74	be	O
+perfume_74	used	O
+perfume_74	to	O
+perfume_74	make	O
+perfume_74	perfume	perfume_nou

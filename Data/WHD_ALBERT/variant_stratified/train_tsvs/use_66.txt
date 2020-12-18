@@ -1,0 +1,14 @@
+use_66	The	O
+use_66	HM	O
+use_66	in	O
+use_66	the	O
+use_66	name	O
+use_66	indicates	O
+use_66	that	O
+use_66	these	O
+use_66	lenses	O
+use_66	use	use_vrb
+use_66	high	O
+use_66	modulation	O
+use_66	glass	O
+use_66	elements	O

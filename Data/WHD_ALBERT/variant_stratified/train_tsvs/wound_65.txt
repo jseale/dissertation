@@ -1,0 +1,13 @@
+wound_65	He	O
+wound_65	wound	wound_vrb
+wound_65	up	O
+wound_65	Brax	O
+wound_65	when	O
+wound_65	his	O
+wound_65	relationship	O
+wound_65	with	O
+wound_65	Charlie	O
+wound_65	made	O
+wound_65	front	O
+wound_65	page	O
+wound_65	news	O

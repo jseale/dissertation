@@ -1,0 +1,13 @@
+escort_4	In	O
+escort_4	1943	O
+escort_4	the	O
+escort_4	destroyer	O
+escort_4	escort	escort_nou
+escort_4	USS	O
+escort_4	Wiseman	O
+escort_4	was	O
+escort_4	named	O
+escort_4	in	O
+escort_4	honor	O
+escort_4	of	O
+escort_4	Lt	O

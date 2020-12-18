@@ -1,0 +1,14 @@
+coordinate_67	They	O
+coordinate_67	would	O
+coordinate_67	also	O
+coordinate_67	coordinate	coordinate_vrb
+coordinate_67	the	O
+coordinate_67	arrangements	O
+coordinate_67	of	O
+coordinate_67	their	O
+coordinate_67	shows	O
+coordinate_67	in	O
+coordinate_67	order	O
+coordinate_67	to	O
+coordinate_67	avoid	O
+coordinate_67	clashes	O

@@ -1,0 +1,14 @@
+suspect_4	The	O
+suspect_4	embassy	O
+suspect_4	declined	O
+suspect_4	the	O
+suspect_4	request	O
+suspect_4	due	O
+suspect_4	to	O
+suspect_4	Yoo	O
+suspect_4	's	O
+suspect_4	status	O
+suspect_4	as	O
+suspect_4	a	O
+suspect_4	criminal	O
+suspect_4	suspect	suspect_adj-nou

@@ -1,0 +1,14 @@
+construct_4	In	O
+construct_4	1902	O
+construct_4	funds	O
+construct_4	were	O
+construct_4	raised	O
+construct_4	to	O
+construct_4	construct	construct_vrb
+construct_4	a	O
+construct_4	church	O
+construct_4	at	O
+construct_4	Washington	O
+construct_4	and	O
+construct_4	Maynard	O
+construct_4	streets	O

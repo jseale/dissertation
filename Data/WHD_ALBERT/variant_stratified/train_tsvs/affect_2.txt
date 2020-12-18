@@ -1,0 +1,9 @@
+affect_2	It	O
+affect_2	also	O
+affect_2	does	O
+affect_2	not	O
+affect_2	always	O
+affect_2	affect	affect
+affect_2	the	O
+affect_2	entire	O
+affect_2	body	O

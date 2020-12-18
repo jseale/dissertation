@@ -1,0 +1,14 @@
+convict_23	The	O
+convict_23	convict	convict_nou
+convict_23	demands	O
+convict_23	he	O
+convict_23	change	O
+convict_23	it	O
+convict_23	but	O
+convict_23	Antoine	O
+convict_23	passes	O
+convict_23	out	O
+convict_23	so	O
+convict_23	the	O
+convict_23	convict	convict_nou
+convict_23	does	O

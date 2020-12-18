@@ -1,0 +1,13 @@
+bass_10	At	O
+bass_10	school	O
+bass_10	in	O
+bass_10	South	O
+bass_10	Yorkshire	O
+bass_10	he	O
+bass_10	learnt	O
+bass_10	to	O
+bass_10	play	O
+bass_10	guitar	O
+bass_10	and	O
+bass_10	bass	bass
+bass_10	guitar	O

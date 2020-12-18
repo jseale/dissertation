@@ -1,0 +1,17 @@
+construct_14	In	O
+construct_14	particular	O
+construct_14	they	O
+construct_14	outlined	O
+construct_14	a	O
+construct_14	work	O
+construct_14	program	O
+construct_14	that	O
+construct_14	would	O
+construct_14	allow	O
+construct_14	poor	O
+construct_14	people	O
+construct_14	to	O
+construct_14	construct	construct_vrb
+construct_14	and	O
+construct_14	rehabilitate	O
+construct_14	housing	O

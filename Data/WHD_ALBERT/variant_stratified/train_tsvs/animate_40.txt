@@ -1,0 +1,13 @@
+animate_40	The	O
+animate_40	artists	O
+animate_40	also	O
+animate_40	discovered	O
+animate_40	that	O
+animate_40	it	O
+animate_40	would	O
+animate_40	be	O
+animate_40	challenging	O
+animate_40	to	O
+animate_40	animate	animate_vrb
+animate_40	deer	O
+animate_40	realistically	O

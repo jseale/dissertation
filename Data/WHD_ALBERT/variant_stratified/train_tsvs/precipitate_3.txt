@@ -1,0 +1,14 @@
+precipitate_3	The	O
+precipitate_3	precipitate	precipitate_adj-nou
+precipitate_3	is	O
+precipitate_3	washed	O
+precipitate_3	with	O
+precipitate_3	hot	O
+precipitate_3	water	O
+precipitate_3	5x	O
+precipitate_3	10	O
+precipitate_3	ml	O
+precipitate_3	and	O
+precipitate_3	dried	O
+precipitate_3	over	O
+precipitate_3	CaCl₂.	O

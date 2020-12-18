@@ -1,0 +1,16 @@
+content_55	Low	O
+content_55	silicon	O
+content_55	content	content_nou
+content_55	is	O
+content_55	indicative	O
+content_55	of	O
+content_55	mafic	O
+content_55	and	O
+content_55	ultramafic	O
+content_55	igneous	O
+content_55	rocks	O
+content_55	such	O
+content_55	as	O
+content_55	basalt	O
+content_55	and	O
+content_55	dunite	O

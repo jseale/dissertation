@@ -1,0 +1,8 @@
+syndicate_10	RSS	O
+syndicate_10	feeds	O
+syndicate_10	enable	O
+syndicate_10	publishers	O
+syndicate_10	to	O
+syndicate_10	syndicate	syndicate_vrb
+syndicate_10	data	O
+syndicate_10	automatically	O

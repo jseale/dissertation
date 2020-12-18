@@ -1,0 +1,17 @@
+pervert_3	He	O
+pervert_3	is	O
+pervert_3	portrayed	O
+pervert_3	as	O
+pervert_3	a	O
+pervert_3	pervert	pervert_nou
+pervert_3	when	O
+pervert_3	his	O
+pervert_3	sister	O
+pervert_3	is	O
+pervert_3	around	O
+pervert_3	who	O
+pervert_3	only	O
+pervert_3	appears	O
+pervert_3	in	O
+pervert_3	Please	O
+pervert_3	Twins	O

@@ -1,0 +1,17 @@
+celtic_35	Lug	O
+celtic_35	is	O
+celtic_35	the	O
+celtic_35	Celtic	celtic
+celtic_35	god	O
+celtic_35	of	O
+celtic_35	light	O
+celtic_35	and	O
+celtic_35	the	O
+celtic_35	name	O
+celtic_35	Lea	O
+celtic_35	may	O
+celtic_35	be	O
+celtic_35	derived	O
+celtic_35	from	O
+celtic_35	this	O
+celtic_35	name	O

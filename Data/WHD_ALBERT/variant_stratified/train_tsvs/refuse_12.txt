@@ -1,0 +1,14 @@
+refuse_12	For	O
+refuse_12	example	O
+refuse_12	many	O
+refuse_12	Chinese	O
+refuse_12	employers	O
+refuse_12	and	O
+refuse_12	universities	O
+refuse_12	refuse	refuse_vrb
+refuse_12	to	O
+refuse_12	accept	O
+refuse_12	anyone	O
+refuse_12	who	O
+refuse_12	tests	O
+refuse_12	positive	O

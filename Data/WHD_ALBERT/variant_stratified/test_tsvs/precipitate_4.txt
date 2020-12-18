@@ -1,0 +1,11 @@
+precipitate_4	They	O
+precipitate_4	are	O
+precipitate_4	contraindicated	O
+precipitate_4	in	O
+precipitate_4	variant	O
+precipitate_4	angina	O
+precipitate_4	and	O
+precipitate_4	can	O
+precipitate_4	precipitate	precipitate_vrb
+precipitate_4	heart	O
+precipitate_4	failure	O

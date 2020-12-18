@@ -1,0 +1,11 @@
+live_41	Mere	O
+live_41	is	O
+live_41	the	O
+live_41	first	O
+live_41	live	live_adj
+live_41	album	O
+live_41	by	O
+live_41	Norwegian	O
+live_41	rock	O
+live_41	band	O
+live_41	deLillos	O

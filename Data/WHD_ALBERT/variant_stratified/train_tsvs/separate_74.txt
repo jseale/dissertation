@@ -1,0 +1,14 @@
+separate_74	While	O
+separate_74	numerous	O
+separate_74	6502-based	O
+separate_74	processors	O
+separate_74	could	O
+separate_74	do	O
+separate_74	bank	O
+separate_74	switching	O
+separate_74	they	O
+separate_74	did	O
+separate_74	this	O
+separate_74	via	O
+separate_74	separate	separate_adj
+separate_74	logic	O

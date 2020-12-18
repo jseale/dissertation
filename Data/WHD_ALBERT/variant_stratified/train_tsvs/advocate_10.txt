@@ -1,0 +1,17 @@
+advocate_10	Muloki	O
+advocate_10	was	O
+advocate_10	a	O
+advocate_10	strong	O
+advocate_10	advocate	advocate_nou
+advocate_10	for	O
+advocate_10	the	O
+advocate_10	Girl	O
+advocate_10	Child	O
+advocate_10	Education	O
+advocate_10	programmes	O
+advocate_10	and	O
+advocate_10	various	O
+advocate_10	other	O
+advocate_10	programmes	O
+advocate_10	in	O
+advocate_10	Busoga	O

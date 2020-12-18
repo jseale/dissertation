@@ -1,0 +1,15 @@
+aged_52	The	O
+aged_52	Argonauts	O
+aged_52	Club	O
+aged_52	was	O
+aged_52	open	O
+aged_52	to	O
+aged_52	Australian	O
+aged_52	boys	O
+aged_52	and	O
+aged_52	girls	O
+aged_52	aged	aged
+aged_52	from	O
+aged_52	7	O
+aged_52	to	O
+aged_52	17	O

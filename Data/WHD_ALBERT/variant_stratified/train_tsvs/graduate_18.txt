@@ -1,0 +1,7 @@
+graduate_18	O'Meara	O
+graduate_18	is	O
+graduate_18	a	O
+graduate_18	graduate	graduate_adj-nou
+graduate_18	of	O
+graduate_18	American	O
+graduate_18	University	O

@@ -1,0 +1,16 @@
+aged_51	Maxime	O
+aged_51	Leconte	O
+aged_51	aged	aged
+aged_51	21	O
+aged_51	had	O
+aged_51	been	O
+aged_51	living	O
+aged_51	in	O
+aged_51	London	O
+aged_51	for	O
+aged_51	a	O
+aged_51	few	O
+aged_51	months	O
+aged_51	prior	O
+aged_51	the	O
+aged_51	show	O

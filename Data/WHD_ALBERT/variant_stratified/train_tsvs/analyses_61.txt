@@ -1,0 +1,14 @@
+analyses_61	Boileau	O
+analyses_61	rules	O
+analyses_61	on	O
+analyses_61	the	O
+analyses_61	language	O
+analyses_61	of	O
+analyses_61	poetry	O
+analyses_61	and	O
+analyses_61	analyses	analyses_nou
+analyses_61	various	O
+analyses_61	kinds	O
+analyses_61	of	O
+analyses_61	verse	O
+analyses_61	composition	O

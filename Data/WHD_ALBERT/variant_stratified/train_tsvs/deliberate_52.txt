@@ -1,0 +1,17 @@
+deliberate_52	The	O
+deliberate_52	bridge	O
+deliberate_52	had	O
+deliberate_52	endured	O
+deliberate_52	months	O
+deliberate_52	of	O
+deliberate_52	aircraft	O
+deliberate_52	bombing	O
+deliberate_52	direct	O
+deliberate_52	artillery	O
+deliberate_52	hits	O
+deliberate_52	near	O
+deliberate_52	misses	O
+deliberate_52	and	O
+deliberate_52	deliberate	deliberate_adj
+deliberate_52	demolition	O
+deliberate_52	attempts	O

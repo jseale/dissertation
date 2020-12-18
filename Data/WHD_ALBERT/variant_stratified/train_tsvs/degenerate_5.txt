@@ -1,0 +1,15 @@
+degenerate_5	The	O
+degenerate_5	explosive	O
+degenerate_5	nature	O
+degenerate_5	of	O
+degenerate_5	the	O
+degenerate_5	helium	O
+degenerate_5	flash	O
+degenerate_5	arises	O
+degenerate_5	from	O
+degenerate_5	its	O
+degenerate_5	taking	O
+degenerate_5	place	O
+degenerate_5	in	O
+degenerate_5	degenerate	degenerate_adj-nou
+degenerate_5	matter	O

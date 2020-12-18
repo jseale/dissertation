@@ -1,0 +1,15 @@
+intrigue_9	It	O
+intrigue_9	was	O
+intrigue_9	diametrically	O
+intrigue_9	opposed	O
+intrigue_9	to	O
+intrigue_9	abstract	O
+intrigue_9	art	O
+intrigue_9	and	O
+intrigue_9	far	O
+intrigue_9	removed	O
+intrigue_9	from	O
+intrigue_9	the	O
+intrigue_9	intrigue	intrigue_nou
+intrigue_9	of	O
+intrigue_9	surrealism	O

@@ -1,0 +1,10 @@
+attribute_3	For	O
+attribute_3	example	O
+attribute_3	suppose	O
+attribute_3	the	O
+attribute_3	training	O
+attribute_3	data	O
+attribute_3	contains	O
+attribute_3	a	O
+attribute_3	continuous	O
+attribute_3	attribute	attribute_nou

@@ -1,0 +1,15 @@
+invert_58	Finally	O
+invert_58	one	O
+invert_58	can	O
+invert_58	invert	invert_vrb
+invert_58	the	O
+invert_58	view	O
+invert_58	switching	O
+invert_58	from	O
+invert_58	functions	O
+invert_58	of	O
+invert_58	orders	O
+invert_58	to	O
+invert_58	orders	O
+invert_58	of	O
+invert_58	functions	O

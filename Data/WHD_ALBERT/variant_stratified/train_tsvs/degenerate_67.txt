@@ -1,0 +1,10 @@
+degenerate_67	Similarly	O
+degenerate_67	Aristocracy	O
+degenerate_67	may	O
+degenerate_67	degenerate	degenerate_vrb
+degenerate_67	into	O
+degenerate_67	Oligarchy	O
+degenerate_67	and	O
+degenerate_67	needs	O
+degenerate_67	analogous	O
+degenerate_67	checks	O

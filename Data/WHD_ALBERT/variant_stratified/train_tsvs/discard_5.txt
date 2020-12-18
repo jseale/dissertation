@@ -1,0 +1,14 @@
+discard_5	Towards	O
+discard_5	the	O
+discard_5	bottom	O
+discard_5	are	O
+discard_5	the	O
+discard_5	Deck	O
+discard_5	the	O
+discard_5	2	O
+discard_5	Dealt	O
+discard_5	piles	O
+discard_5	and	O
+discard_5	the	O
+discard_5	Discard	discard_nou
+discard_5	pile	O

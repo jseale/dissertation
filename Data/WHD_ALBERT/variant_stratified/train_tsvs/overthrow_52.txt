@@ -1,0 +1,13 @@
+overthrow_52	The	O
+overthrow_52	National	O
+overthrow_52	Assembly	O
+overthrow_52	did	O
+overthrow_52	not	O
+overthrow_52	hold	O
+overthrow_52	a	O
+overthrow_52	vote	O
+overthrow_52	to	O
+overthrow_52	overthrow	overthrow_vrb
+overthrow_52	the	O
+overthrow_52	royal	O
+overthrow_52	veto	O

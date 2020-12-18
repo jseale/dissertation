@@ -1,0 +1,16 @@
+sake_62	Kang	O
+sake_62	responded	O
+sake_62	with	O
+sake_62	the	O
+sake_62	remark	O
+sake_62	that	O
+sake_62	his	O
+sake_62	behaviour	O
+sake_62	was	O
+sake_62	only	O
+sake_62	for	O
+sake_62	the	O
+sake_62	sake	sake
+sake_62	of	O
+sake_62	the	O
+sake_62	show	O

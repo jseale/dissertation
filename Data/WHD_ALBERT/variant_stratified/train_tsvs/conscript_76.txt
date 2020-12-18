@@ -1,0 +1,8 @@
+conscript_76	The	O
+conscript_76	Finnish	O
+conscript_76	Defense	O
+conscript_76	Forces	O
+conscript_76	does	O
+conscript_76	not	O
+conscript_76	conscript	conscript_vrb
+conscript_76	women	O

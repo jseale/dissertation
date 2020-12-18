@@ -1,0 +1,16 @@
+winds_75	The	O
+winds_75	procession	O
+winds_75	winds	winds_vrb
+winds_75	its	O
+winds_75	way	O
+winds_75	along	O
+winds_75	the	O
+winds_75	main	O
+winds_75	streets	O
+winds_75	of	O
+winds_75	the	O
+winds_75	historic	O
+winds_75	center	O
+winds_75	completely	O
+winds_75	in	O
+winds_75	silence	O

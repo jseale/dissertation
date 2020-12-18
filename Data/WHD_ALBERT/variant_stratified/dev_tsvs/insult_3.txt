@@ -1,0 +1,13 @@
+insult_3	The	O
+insult_3	men	O
+insult_3	guarding	O
+insult_3	the	O
+insult_3	grave	O
+insult_3	take	O
+insult_3	it	O
+insult_3	as	O
+insult_3	an	O
+insult_3	insult	insult_nou
+insult_3	and	O
+insult_3	attack	O
+insult_3	them	O

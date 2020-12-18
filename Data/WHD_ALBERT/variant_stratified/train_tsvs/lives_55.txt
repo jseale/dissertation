@@ -1,0 +1,7 @@
+lives_55	He	O
+lives_55	currently	O
+lives_55	lives	lives_vrb
+lives_55	in	O
+lives_55	Freetown	O
+lives_55	Sierra	O
+lives_55	Leone	O

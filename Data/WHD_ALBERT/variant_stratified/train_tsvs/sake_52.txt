@@ -1,0 +1,15 @@
+sake_52	But	O
+sake_52	if	O
+sake_52	I	O
+sake_52	worship	O
+sake_52	You	O
+sake_52	for	O
+sake_52	Your	O
+sake_52	Own	O
+sake_52	sake	sake
+sake_52	grudge	O
+sake_52	me	O
+sake_52	not	O
+sake_52	Your	O
+sake_52	everlasting	O
+sake_52	Beauty	O

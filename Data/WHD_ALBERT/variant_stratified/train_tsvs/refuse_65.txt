@@ -1,0 +1,15 @@
+refuse_65	However	O
+refuse_65	in	O
+refuse_65	some	O
+refuse_65	cases	O
+refuse_65	the	O
+refuse_65	court	O
+refuse_65	may	O
+refuse_65	refuse	refuse_vrb
+refuse_65	to	O
+refuse_65	permit	O
+refuse_65	a	O
+refuse_65	defense	O
+refuse_65	witness	O
+refuse_65	to	O
+refuse_65	testify	O

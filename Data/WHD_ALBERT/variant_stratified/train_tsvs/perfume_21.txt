@@ -1,0 +1,7 @@
+perfume_21	Perry	O
+perfume_21	also	O
+perfume_21	described	O
+perfume_21	the	O
+perfume_21	perfume	perfume_nou
+perfume_21	as	O
+perfume_21	edible	O

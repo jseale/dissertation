@@ -1,0 +1,10 @@
+defect_51	Tye	O
+defect_51	died	O
+defect_51	in	O
+defect_51	infancy	O
+defect_51	in	O
+defect_51	1995	O
+defect_51	from	O
+defect_51	a	O
+defect_51	heart	O
+defect_51	defect	defect_nou

@@ -1,0 +1,15 @@
+compress_16	Fluid	O
+compress_16	compression	O
+compress_16	is	O
+compress_16	negligible	O
+compress_16	while	O
+compress_16	the	O
+compress_16	tissue	O
+compress_16	surrounding	O
+compress_16	the	O
+compress_16	organs	O
+compress_16	of	O
+compress_16	these	O
+compress_16	animals	O
+compress_16	will	O
+compress_16	compress	compress

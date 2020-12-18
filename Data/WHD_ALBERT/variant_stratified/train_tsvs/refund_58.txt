@@ -1,0 +1,15 @@
+refund_58	The	O
+refund_58	seller	O
+refund_58	was	O
+refund_58	then	O
+refund_58	to	O
+refund_58	refund	refund_vrb
+refund_58	the	O
+refund_58	Iraqi	O
+refund_58	government	O
+refund_58	a	O
+refund_58	certain	O
+refund_58	percentage	O
+refund_58	of	O
+refund_58	the	O
+refund_58	commission	O

@@ -1,0 +1,16 @@
+reading_71	Following	O
+reading_71	graduation	O
+reading_71	he	O
+reading_71	began	O
+reading_71	his	O
+reading_71	professional	O
+reading_71	career	O
+reading_71	with	O
+reading_71	the	O
+reading_71	Reading	reading_geo
+reading_71	Rage	O
+reading_71	of	O
+reading_71	the	O
+reading_71	Premier	O
+reading_71	Development	O
+reading_71	League	O

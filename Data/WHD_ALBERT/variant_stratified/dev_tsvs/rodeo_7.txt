@@ -1,0 +1,15 @@
+rodeo_7	He	O
+rodeo_7	also	O
+rodeo_7	gave	O
+rodeo_7	sharpshooting	O
+rodeo_7	exhibitions	O
+rodeo_7	at	O
+rodeo_7	such	O
+rodeo_7	events	O
+rodeo_7	as	O
+rodeo_7	the	O
+rodeo_7	Houston	O
+rodeo_7	Livestock	O
+rodeo_7	Show	O
+rodeo_7	and	O
+rodeo_7	Rodeo	rodeo

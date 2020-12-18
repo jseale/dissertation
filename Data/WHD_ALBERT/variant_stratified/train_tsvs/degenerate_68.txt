@@ -1,0 +1,17 @@
+degenerate_68	Free	O
+degenerate_68	beer	O
+degenerate_68	would	O
+degenerate_68	traditionally	O
+degenerate_68	be	O
+degenerate_68	distributed	O
+degenerate_68	at	O
+degenerate_68	these	O
+degenerate_68	events	O
+degenerate_68	which	O
+degenerate_68	would	O
+degenerate_68	on	O
+degenerate_68	occasion	O
+degenerate_68	degenerate	degenerate_vrb
+degenerate_68	into	O
+degenerate_68	drunken	O
+degenerate_68	disorder	O

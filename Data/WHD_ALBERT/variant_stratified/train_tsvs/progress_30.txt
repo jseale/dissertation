@@ -1,0 +1,7 @@
+progress_30	There	O
+progress_30	is	O
+progress_30	unfortunately	O
+progress_30	an	O
+progress_30	emergency	O
+progress_30	in	O
+progress_30	progress	progress_nou

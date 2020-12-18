@@ -1,0 +1,15 @@
+lives_78	Goss	O
+lives_78	currently	O
+lives_78	lives	lives_vrb
+lives_78	in	O
+lives_78	Torpoint	O
+lives_78	Cornwall	O
+lives_78	and	O
+lives_78	has	O
+lives_78	three	O
+lives_78	teenage	O
+lives_78	children	O
+lives_78	Alex	O
+lives_78	Livvy	O
+lives_78	and	O
+lives_78	Eliot	O

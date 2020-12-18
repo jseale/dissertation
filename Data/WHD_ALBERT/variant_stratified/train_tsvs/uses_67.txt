@@ -1,0 +1,11 @@
+uses_67	The	O
+uses_67	Warlpiri	O
+uses_67	alphabet	O
+uses_67	uses	uses_vrb
+uses_67	only	O
+uses_67	ordinary	O
+uses_67	letters	O
+uses_67	with	O
+uses_67	no	O
+uses_67	accent	O
+uses_67	marks	O

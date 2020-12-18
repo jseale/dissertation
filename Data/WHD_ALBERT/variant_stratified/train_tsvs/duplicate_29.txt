@@ -1,0 +1,11 @@
+duplicate_29	Powerglide	O
+duplicate_29	is	O
+duplicate_29	a	O
+duplicate_29	mirror	O
+duplicate_29	universe	O
+duplicate_29	duplicate	duplicate_adj-nou
+duplicate_29	of	O
+duplicate_29	the	O
+duplicate_29	Generation	O
+duplicate_29	1	O
+duplicate_29	character	O

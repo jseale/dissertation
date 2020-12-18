@@ -1,0 +1,13 @@
+analyses_31	The	O
+analyses_31	ABRP	O
+analyses_31	also	O
+analyses_31	collects	O
+analyses_31	fecal	O
+analyses_31	samples	O
+analyses_31	for	O
+analyses_31	genetic	O
+analyses_31	hormonal	O
+analyses_31	and	O
+analyses_31	intestinal	O
+analyses_31	bacterial	O
+analyses_31	analyses	analyses_nou

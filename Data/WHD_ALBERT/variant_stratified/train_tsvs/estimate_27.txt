@@ -1,0 +1,12 @@
+estimate_27	An	O
+estimate_27	estimate	estimate_nou
+estimate_27	of	O
+estimate_27	the	O
+estimate_27	cost	O
+estimate_27	of	O
+estimate_27	such	O
+estimate_27	an	O
+estimate_27	undertaking	O
+estimate_27	was	O
+estimate_27	$	O
+estimate_27	500,000	O

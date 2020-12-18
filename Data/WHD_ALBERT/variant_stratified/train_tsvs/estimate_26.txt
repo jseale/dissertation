@@ -1,0 +1,11 @@
+estimate_26	It	O
+estimate_26	is	O
+estimate_26	carried	O
+estimate_26	by	O
+estimate_26	approximately	O
+estimate_26	110	O
+estimate_26	million	O
+estimate_26	European	O
+estimate_26	men	O
+estimate_26	2010	O
+estimate_26	estimate	estimate_nou

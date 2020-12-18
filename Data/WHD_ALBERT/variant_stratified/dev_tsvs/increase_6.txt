@@ -1,0 +1,16 @@
+increase_6	The	O
+increase_6	use	O
+increase_6	of	O
+increase_6	antibiotics	O
+increase_6	to	O
+increase_6	increase	increase_vrb
+increase_6	the	O
+increase_6	growth	O
+increase_6	of	O
+increase_6	pigs	O
+increase_6	is	O
+increase_6	most	O
+increase_6	studied	O
+increase_6	of	O
+increase_6	all	O
+increase_6	livestock	O

@@ -1,0 +1,6 @@
+winds_5	Storm	O
+winds_5	winds	winds_nou
+winds_5	damage	O
+winds_5	historic	O
+winds_5	downtown	O
+winds_5	buildings	O

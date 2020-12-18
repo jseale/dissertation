@@ -1,0 +1,15 @@
+buffet_34	Amtrak	O
+buffet_34	converted	O
+buffet_34	four	O
+buffet_34	buffet	buffet_nou
+buffet_34	cars	O
+buffet_34	to	O
+buffet_34	automats	O
+buffet_34	in	O
+buffet_34	1985	O
+buffet_34	for	O
+buffet_34	use	O
+buffet_34	on	O
+buffet_34	the	O
+buffet_34	Auto	O
+buffet_34	Train	O

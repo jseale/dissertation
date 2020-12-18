@@ -1,0 +1,14 @@
+aged_55	Toward	O
+aged_55	the	O
+aged_55	beginning	O
+aged_55	of	O
+aged_55	1993	O
+aged_55	Puccio	O
+aged_55	aged	aged
+aged_55	20	O
+aged_55	began	O
+aged_55	dating	O
+aged_55	Lisa	O
+aged_55	Connelly	O
+aged_55	aged	aged
+aged_55	18	O

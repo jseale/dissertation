@@ -1,0 +1,17 @@
+wind_59	Weather	O
+wind_59	66	O
+wind_59	72	O
+wind_59	78Scorer	O
+wind_59	R.S.	O
+wind_59	1952	O
+wind_59	Mountain	O
+wind_59	gap	O
+wind_59	winds	O
+wind_59	a	O
+wind_59	study	O
+wind_59	of	O
+wind_59	the	O
+wind_59	surface	O
+wind_59	wind	wind_nou
+wind_59	in	O
+wind_59	Gibraltar	O

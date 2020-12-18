@@ -1,0 +1,16 @@
+record_7	Olwine	O
+record_7	shares	O
+record_7	the	O
+record_7	major	O
+record_7	league	O
+record_7	baseball	O
+record_7	record	record_nou
+record_7	for	O
+record_7	most	O
+record_7	games	O
+record_7	pitched	O
+record_7	without	O
+record_7	a	O
+record_7	win	O
+record_7	at	O
+record_7	80	O

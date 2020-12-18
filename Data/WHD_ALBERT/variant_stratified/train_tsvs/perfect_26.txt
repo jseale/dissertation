@@ -1,0 +1,14 @@
+perfect_26	This	O
+perfect_26	theoretically	O
+perfect_26	perfect	perfect_adj
+perfect_26	magnetometer	O
+perfect_26	is	O
+perfect_26	now	O
+perfect_26	functional	O
+perfect_26	and	O
+perfect_26	so	O
+perfect_26	can	O
+perfect_26	begin	O
+perfect_26	to	O
+perfect_26	make	O
+perfect_26	measurements	O

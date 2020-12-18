@@ -1,0 +1,10 @@
+graduate_15	The	O
+graduate_15	school	O
+graduate_15	has	O
+graduate_15	88	O
+graduate_15	doctoral	O
+graduate_15	students	O
+graduate_15	and	O
+graduate_15	279	O
+graduate_15	graduate	graduate_adj-nou
+graduate_15	students	O

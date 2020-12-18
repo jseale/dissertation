@@ -1,0 +1,11 @@
+impact_70	Additionally	O
+impact_70	many	O
+impact_70	rivers	O
+impact_70	are	O
+impact_70	dammed	O
+impact_70	at	O
+impact_70	multiple	O
+impact_70	locations	O
+impact_70	amplifying	O
+impact_70	the	O
+impact_70	impact	impact_nou

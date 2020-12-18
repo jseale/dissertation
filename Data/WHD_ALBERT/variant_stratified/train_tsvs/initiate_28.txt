@@ -1,0 +1,12 @@
+initiate_28	After	O
+initiate_28	the	O
+initiate_28	fronts	O
+initiate_28	dissipated	O
+initiate_28	deep	O
+initiate_28	convection	O
+initiate_28	began	O
+initiate_28	to	O
+initiate_28	initiate	initiate_vrb
+initiate_28	near	O
+initiate_28	the	O
+initiate_28	center	O

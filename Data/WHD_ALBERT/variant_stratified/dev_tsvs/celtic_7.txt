@@ -1,0 +1,14 @@
+celtic_7	Best	O
+celtic_7	had	O
+celtic_7	a	O
+celtic_7	brief	O
+celtic_7	spell	O
+celtic_7	at	O
+celtic_7	Cork	O
+celtic_7	Celtic	celtic_adj-nou-sports
+celtic_7	in	O
+celtic_7	December	O
+celtic_7	1975	O
+celtic_7	and	O
+celtic_7	January	O
+celtic_7	1976	O

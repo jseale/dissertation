@@ -1,0 +1,7 @@
+wind_8	Siemens	O
+wind_8	Energy	O
+wind_8	to	O
+wind_8	supply	O
+wind_8	wind	wind_nou
+wind_8	farm	O
+wind_8	turbines	O

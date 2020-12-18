@@ -1,0 +1,15 @@
+laminate_3	It	O
+laminate_3	is	O
+laminate_3	generally	O
+laminate_3	made	O
+laminate_3	of	O
+laminate_3	either	O
+laminate_3	a	O
+laminate_3	plywood	O
+laminate_3	laminate	laminate_nou
+laminate_3	or	O
+laminate_3	aluminum	O
+laminate_3	with	O
+laminate_3	a	O
+laminate_3	rubber	O
+laminate_3	laminate	laminate_nou

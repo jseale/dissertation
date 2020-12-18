@@ -1,0 +1,12 @@
+analyses_52	Cost	O
+analyses_52	analyses	analyses_nou
+analyses_52	have	O
+analyses_52	shown	O
+analyses_52	GreenLight	O
+analyses_52	to	O
+analyses_52	be	O
+analyses_52	less	O
+analyses_52	costly	O
+analyses_52	than	O
+analyses_52	traditional	O
+analyses_52	surgery	O

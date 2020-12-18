@@ -1,0 +1,9 @@
+retard_4	APP	O
+retard_4	is	O
+retard_4	also	O
+retard_4	applied	O
+retard_4	to	O
+retard_4	flame	O
+retard_4	retard	retard_vrb
+retard_4	polyurethane	O
+retard_4	foams	O

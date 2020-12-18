@@ -1,0 +1,15 @@
+polish_49	For	O
+polish_49	his	O
+polish_49	service	O
+polish_49	to	O
+polish_49	the	O
+polish_49	Polish	polish_geo
+polish_49	team	O
+polish_49	he	O
+polish_49	was	O
+polish_49	awarded	O
+polish_49	a	O
+polish_49	Davis	O
+polish_49	Cup	O
+polish_49	Commitment	O
+polish_49	Award	O

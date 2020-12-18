@@ -1,0 +1,11 @@
+laminate_11	The	O
+laminate_11	laminate	laminate_nou
+laminate_11	encapsulation	O
+laminate_11	material	O
+laminate_11	was	O
+laminate_11	durable	O
+laminate_11	ETFE	O
+laminate_11	high	O
+laminate_11	light	O
+laminate_11	transmissive	O
+laminate_11	polymer	O

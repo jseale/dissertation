@@ -1,0 +1,16 @@
+refund_0	The	O
+refund_0	largest	O
+refund_0	refund	refund_nou
+refund_0	went	O
+refund_0	to	O
+refund_0	Davies	O
+refund_0	who	O
+refund_0	received	O
+refund_0	in	O
+refund_0	excess	O
+refund_0	of	O
+refund_0	seven	O
+refund_0	hundred	O
+refund_0	wrongly	O
+refund_0	deducted	O
+refund_0	points	O

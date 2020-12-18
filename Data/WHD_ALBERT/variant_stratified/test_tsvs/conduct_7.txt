@@ -1,0 +1,17 @@
+conduct_7	To	O
+conduct_7	conduct	conduct_vrb
+conduct_7	film	O
+conduct_7	shows	O
+conduct_7	at	O
+conduct_7	different	O
+conduct_7	educational	O
+conduct_7	institutions	O
+conduct_7	and	O
+conduct_7	small	O
+conduct_7	towns	O
+conduct_7	to	O
+conduct_7	create	O
+conduct_7	awareness	O
+conduct_7	among	O
+conduct_7	the	O
+conduct_7	people	O

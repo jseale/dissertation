@@ -1,0 +1,16 @@
+attribute_1	An	O
+attribute_1	example	O
+attribute_1	of	O
+attribute_1	an	O
+attribute_1	attribute	attribute_nou
+attribute_1	is	O
+attribute_1	red	O
+attribute_1	gear	O
+attribute_1	which	O
+attribute_1	means	O
+attribute_1	that	O
+attribute_1	gear	O
+attribute_1	has	O
+attribute_1	the	O
+attribute_1	attribute	attribute_nou
+attribute_1	red	O

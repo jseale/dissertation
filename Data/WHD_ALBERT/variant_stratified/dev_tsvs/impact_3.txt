@@ -1,0 +1,14 @@
+impact_3	The	O
+impact_3	aircraft	O
+impact_3	was	O
+impact_3	destroyed	O
+impact_3	upon	O
+impact_3	impact	impact_nou
+impact_3	after	O
+impact_3	it	O
+impact_3	was	O
+impact_3	jettisoned	O
+impact_3	from	O
+impact_3	its	O
+impact_3	EB-50A	O
+impact_3	mothership	O

@@ -1,0 +1,17 @@
+affect_75	Narratology	O
+affect_75	is	O
+affect_75	the	O
+affect_75	study	O
+affect_75	of	O
+affect_75	narrative	O
+affect_75	and	O
+affect_75	narrative	O
+affect_75	structure	O
+affect_75	and	O
+affect_75	the	O
+affect_75	ways	O
+affect_75	that	O
+affect_75	these	O
+affect_75	affect	affect
+affect_75	our	O
+affect_75	perception	O

@@ -1,0 +1,10 @@
+affiliate_58	It	O
+affiliate_58	is	O
+affiliate_58	a	O
+affiliate_58	radio	O
+affiliate_58	affiliate	affiliate_nou
+affiliate_58	of	O
+affiliate_58	the	O
+affiliate_58	Los	O
+affiliate_58	Angeles	O
+affiliate_58	Rams	O

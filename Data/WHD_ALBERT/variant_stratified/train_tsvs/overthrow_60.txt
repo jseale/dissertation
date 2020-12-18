@@ -1,0 +1,8 @@
+overthrow_60	They	O
+overthrow_60	return	O
+overthrow_60	to	O
+overthrow_60	Cybertron	O
+overthrow_60	and	O
+overthrow_60	overthrow	overthrow_vrb
+overthrow_60	Rodimus	O
+overthrow_60	Prime	O

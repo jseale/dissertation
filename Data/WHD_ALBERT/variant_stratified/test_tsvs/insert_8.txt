@@ -1,0 +1,14 @@
+insert_8	They	O
+insert_8	are	O
+insert_8	used	O
+insert_8	by	O
+insert_8	viruses	O
+insert_8	to	O
+insert_8	insert	insert_vrb
+insert_8	their	O
+insert_8	genetic	O
+insert_8	material	O
+insert_8	into	O
+insert_8	the	O
+insert_8	host	O
+insert_8	genomes	O

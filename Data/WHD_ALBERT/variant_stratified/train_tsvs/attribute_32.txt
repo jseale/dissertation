@@ -1,0 +1,10 @@
+attribute_32	XHTML	O
+attribute_32	uses	O
+attribute_32	XML	O
+attribute_32	's	O
+attribute_32	built	O
+attribute_32	in	O
+attribute_32	language	O
+attribute_32	defining	O
+attribute_32	functionality	O
+attribute_32	attribute	attribute_nou

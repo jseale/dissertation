@@ -1,0 +1,16 @@
+compress_30	Elastomeric	O
+compress_30	bearing	O
+compress_30	pads	O
+compress_30	compress	compress
+compress_30	on	O
+compress_30	vertical	O
+compress_30	load	O
+compress_30	and	O
+compress_30	accommodate	O
+compress_30	horizontal	O
+compress_30	rotation	O
+compress_30	and	O
+compress_30	provide	O
+compress_30	lateral	O
+compress_30	shear	O
+compress_30	movement	O

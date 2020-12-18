@@ -1,0 +1,15 @@
+separate_69	The	O
+separate_69	station	O
+separate_69	consists	O
+separate_69	of	O
+separate_69	three	O
+separate_69	separate	separate_adj
+separate_69	island	O
+separate_69	platforms	O
+separate_69	serving	O
+separate_69	two	O
+separate_69	tracks	O
+separate_69	for	O
+separate_69	each	O
+separate_69	respective	O
+separate_69	line	O

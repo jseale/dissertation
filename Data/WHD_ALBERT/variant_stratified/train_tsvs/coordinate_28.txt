@@ -1,0 +1,7 @@
+coordinate_28	The	O
+coordinate_28	x	O
+coordinate_28	coordinate	coordinate_adj-nou
+coordinate_28	is	O
+coordinate_28	a	O
+coordinate_28	continuous	O
+coordinate_28	index	O

@@ -1,0 +1,17 @@
+bass_32	These	O
+bass_32	10-foot	O
+bass_32	long	O
+bass_32	sheet	O
+bass_32	metal	O
+bass_32	idiophones	O
+bass_32	are	O
+bass_32	played	O
+bass_32	with	O
+bass_32	a	O
+bass_32	bass	bass
+bass_32	bow	O
+bass_32	to	O
+bass_32	create	O
+bass_32	low	O
+bass_32	resonating	O
+bass_32	tones	O

@@ -1,0 +1,13 @@
+impact_6	He	O
+impact_6	was	O
+impact_6	traded	O
+impact_6	to	O
+impact_6	Montreal	O
+impact_6	Impact	impact_nou
+impact_6	on	O
+impact_6	27	O
+impact_6	January	O
+impact_6	2015	O
+impact_6	for	O
+impact_6	allocation	O
+impact_6	money	O

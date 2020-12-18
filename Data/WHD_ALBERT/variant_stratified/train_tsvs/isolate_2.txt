@@ -1,0 +1,16 @@
+isolate_2	Efforts	O
+isolate_2	were	O
+isolate_2	made	O
+isolate_2	to	O
+isolate_2	isolate	isolate
+isolate_2	the	O
+isolate_2	active	O
+isolate_2	components	O
+isolate_2	in	O
+isolate_2	dead	O
+isolate_2	shark	O
+isolate_2	bodies	O
+isolate_2	that	O
+isolate_2	repelled	O
+isolate_2	other	O
+isolate_2	sharks	O

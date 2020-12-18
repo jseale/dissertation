@@ -1,0 +1,14 @@
+compound_66	For	O
+compound_66	the	O
+compound_66	Amity	O
+compound_66	Compound	compound_nou
+compound_66	a	O
+compound_66	set	O
+compound_66	was	O
+compound_66	constructed	O
+compound_66	at	O
+compound_66	Serenbe	O
+compound_66	Community	O
+compound_66	south	O
+compound_66	of	O
+compound_66	Atlanta	O

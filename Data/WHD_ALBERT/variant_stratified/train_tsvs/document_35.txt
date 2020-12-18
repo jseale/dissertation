@@ -1,0 +1,15 @@
+document_35	Ford	O
+document_35	was	O
+document_35	the	O
+document_35	center	O
+document_35	of	O
+document_35	attention	O
+document_35	and	O
+document_35	the	O
+document_35	resulting	O
+document_35	document	document_nou
+document_35	known	O
+document_35	as	O
+document_35	the	O
+document_35	Palmdale	O
+document_35	statement	O

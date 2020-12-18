@@ -1,0 +1,15 @@
+escort_45	He	O
+escort_45	had	O
+escort_45	one	O
+escort_45	very	O
+escort_45	short	O
+escort_45	encounter	O
+escort_45	with	O
+escort_45	an	O
+escort_45	Asian	O
+escort_45	American	O
+escort_45	escort	escort_nou
+escort_45	during	O
+escort_45	The	O
+escort_45	Test	O
+escort_45	Dream	O

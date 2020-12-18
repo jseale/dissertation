@@ -1,0 +1,15 @@
+ornament_24	However	O
+ornament_24	a	O
+ornament_24	jade	O
+ornament_24	ornament	ornament_nou
+ornament_24	will	O
+ornament_24	appear	O
+ornament_24	more	O
+ornament_24	brilliant	O
+ornament_24	and	O
+ornament_24	transparent	O
+ornament_24	if	O
+ornament_24	good	O
+ornament_24	fortune	O
+ornament_24	lies	O
+ornament_24	ahead	O

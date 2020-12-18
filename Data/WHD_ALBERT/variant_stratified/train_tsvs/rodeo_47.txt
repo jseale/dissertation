@@ -1,0 +1,13 @@
+rodeo_47	Other	O
+rodeo_47	activities	O
+rodeo_47	such	O
+rodeo_47	as	O
+rodeo_47	hockey	O
+rodeo_47	rodeo	rodeo
+rodeo_47	and	O
+rodeo_47	baseball	O
+rodeo_47	are	O
+rodeo_47	offered	O
+rodeo_47	through	O
+rodeo_47	the	O
+rodeo_47	community	O

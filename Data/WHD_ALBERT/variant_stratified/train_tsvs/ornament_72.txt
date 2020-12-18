@@ -1,0 +1,12 @@
+ornament_72	These	O
+ornament_72	trees	O
+ornament_72	and	O
+ornament_72	river	O
+ornament_72	looked	O
+ornament_72	like	O
+ornament_72	an	O
+ornament_72	ornament	ornament_nou
+ornament_72	hence	O
+ornament_72	the	O
+ornament_72	name	O
+ornament_72	Arni	O

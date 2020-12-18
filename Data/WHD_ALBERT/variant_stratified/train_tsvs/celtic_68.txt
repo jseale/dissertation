@@ -1,0 +1,7 @@
+celtic_68	In	O
+celtic_68	summer	O
+celtic_68	1990	O
+celtic_68	Nicholas	O
+celtic_68	returned	O
+celtic_68	to	O
+celtic_68	Celtic	celtic_adj-nou-sports

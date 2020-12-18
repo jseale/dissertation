@@ -1,0 +1,11 @@
+present_31	The	O
+present_31	stipules	O
+present_31	are	O
+present_31	obsolete	O
+present_31	being	O
+present_31	barely	O
+present_31	evident	O
+present_31	if	O
+present_31	present	present_adj-nou
+present_31	at	O
+present_31	all	O

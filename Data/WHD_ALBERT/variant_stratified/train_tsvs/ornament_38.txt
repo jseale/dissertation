@@ -1,0 +1,13 @@
+ornament_38	They	O
+ornament_38	provide	O
+ornament_38	many	O
+ornament_38	desirable	O
+ornament_38	characteristics	O
+ornament_38	for	O
+ornament_38	use	O
+ornament_38	as	O
+ornament_38	ornament	ornament_nou
+ornament_38	timber	O
+ornament_38	firewood	O
+ornament_38	and	O
+ornament_38	pulpwood	O

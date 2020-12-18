@@ -1,0 +1,16 @@
+read_30	The	O
+read_30	feat	O
+read_30	was	O
+read_30	recognized	O
+read_30	on	O
+read_30	Greer	O
+read_30	Stadium	O
+read_30	's	O
+read_30	iconic	O
+read_30	guitar	O
+read_30	shaped	O
+read_30	scoreboard	O
+read_30	which	O
+read_30	read	read_past
+read_30	PERFECT	O
+read_30	GAME	O

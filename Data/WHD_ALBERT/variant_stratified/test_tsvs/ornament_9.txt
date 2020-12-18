@@ -1,0 +1,16 @@
+ornament_9	He	O
+ornament_9	continued	O
+ornament_9	to	O
+ornament_9	ornament	ornament_vrb
+ornament_9	churches	O
+ornament_9	and	O
+ornament_9	convents	O
+ornament_9	of	O
+ornament_9	Rome	O
+ornament_9	during	O
+ornament_9	the	O
+ornament_9	reign	O
+ornament_9	of	O
+ornament_9	Pope	O
+ornament_9	Clement	O
+ornament_9	VIII	O

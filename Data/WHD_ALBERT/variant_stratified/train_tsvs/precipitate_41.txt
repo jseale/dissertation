@@ -1,0 +1,16 @@
+precipitate_41	Bordiga	O
+precipitate_41	's	O
+precipitate_41	entrance	O
+precipitate_41	to	O
+precipitate_41	the	O
+precipitate_41	party	O
+precipitate_41	in	O
+precipitate_41	1949	O
+precipitate_41	was	O
+precipitate_41	to	O
+precipitate_41	precipitate	precipitate_vrb
+precipitate_41	the	O
+precipitate_41	formation	O
+precipitate_41	of	O
+precipitate_41	opposition	O
+precipitate_41	blocks	O

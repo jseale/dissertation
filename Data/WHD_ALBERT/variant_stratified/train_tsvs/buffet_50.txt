@@ -1,0 +1,10 @@
+buffet_50	The	O
+buffet_50	museum	O
+buffet_50	includes	O
+buffet_50	a	O
+buffet_50	cloakroom	O
+buffet_50	buffet	buffet_nou
+buffet_50	library	O
+buffet_50	and	O
+buffet_50	souvenir	O
+buffet_50	shop	O

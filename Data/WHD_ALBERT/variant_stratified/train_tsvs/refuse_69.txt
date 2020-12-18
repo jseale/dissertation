@@ -1,0 +1,11 @@
+refuse_69	Begum	O
+refuse_69	asks	O
+refuse_69	them	O
+refuse_69	to	O
+refuse_69	sell	O
+refuse_69	their	O
+refuse_69	house	O
+refuse_69	but	O
+refuse_69	they	O
+refuse_69	bluntly	O
+refuse_69	refuse	refuse_vrb

@@ -1,0 +1,17 @@
+bow_7	He	O
+bow_7	is	O
+bow_7	skillful	O
+bow_7	with	O
+bow_7	weaponries	O
+bow_7	such	O
+bow_7	as	O
+bow_7	the	O
+bow_7	sword	O
+bow_7	keris	O
+bow_7	long	O
+bow_7	keris	O
+bow_7	bow	bow_nou-knot
+bow_7	cross	O
+bow_7	bow	bow_nou-knot
+bow_7	and	O
+bow_7	spear	O

@@ -1,0 +1,15 @@
+wind_78	On	O
+wind_78	23	O
+wind_78	May	O
+wind_78	2014	O
+wind_78	it	O
+wind_78	was	O
+wind_78	announced	O
+wind_78	that	O
+wind_78	it	O
+wind_78	would	O
+wind_78	wind	wind_vrb
+wind_78	down	O
+wind_78	and	O
+wind_78	eventually	O
+wind_78	close	O

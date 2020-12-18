@@ -1,0 +1,11 @@
+pervert_71	Robinson	O
+pervert_71	's	O
+pervert_71	voice	O
+pervert_71	continues	O
+pervert_71	repeatedly	O
+pervert_71	with	O
+pervert_71	the	O
+pervert_71	music	O
+pervert_71	Pervert	pervert_vrb
+pervert_71	the	O
+pervert_71	language	O

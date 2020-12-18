@@ -1,0 +1,17 @@
+pasty_55	For	O
+pasty_55	example	O
+pasty_55	a	O
+pasty_55	giant	O
+pasty_55	pasty	pasty_adj
+pasty_55	is	O
+pasty_55	paraded	O
+pasty_55	from	O
+pasty_55	Polruan	O
+pasty_55	to	O
+pasty_55	Fowey	O
+pasty_55	through	O
+pasty_55	the	O
+pasty_55	streets	O
+pasty_55	during	O
+pasty_55	regatta	O
+pasty_55	week	O

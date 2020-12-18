@@ -1,0 +1,15 @@
+diagnoses_72	After	O
+diagnoses_72	the	O
+diagnoses_72	Queen	O
+diagnoses_72	Bee	O
+diagnoses_72	dies	O
+diagnoses_72	her	O
+diagnoses_72	successor	O
+diagnoses_72	diagnoses	diagnoses_vrb
+diagnoses_72	his	O
+diagnoses_72	condition	O
+diagnoses_72	as	O
+diagnoses_72	schizophrenia	O
+diagnoses_72	and	O
+diagnoses_72	arrests	O
+diagnoses_72	him	O

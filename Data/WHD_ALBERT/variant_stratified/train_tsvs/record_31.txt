@@ -1,0 +1,17 @@
+record_31	One	O
+record_31	of	O
+record_31	the	O
+record_31	first	O
+record_31	British	O
+record_31	athletes	O
+record_31	to	O
+record_31	throw	O
+record_31	the	O
+record_31	discus	O
+record_31	he	O
+record_31	set	O
+record_31	a	O
+record_31	British	O
+record_31	record	record_nou
+record_31	in	O
+record_31	1908	O

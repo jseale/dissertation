@@ -1,0 +1,10 @@
+consummate_12	The	O
+consummate_12	more	O
+consummate_12	consummate	consummate_adj
+consummate_12	the	O
+consummate_12	king	O
+consummate_12	the	O
+consummate_12	more	O
+consummate_12	exemplary	O
+consummate_12	the	O
+consummate_12	centre	O

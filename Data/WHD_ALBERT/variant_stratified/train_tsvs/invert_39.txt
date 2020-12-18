@@ -1,0 +1,9 @@
+invert_39	In	O
+invert_39	the	O
+invert_39	question	O
+invert_39	these	O
+invert_39	two	O
+invert_39	elements	O
+invert_39	change	O
+invert_39	places	O
+invert_39	invert	invert_vrb

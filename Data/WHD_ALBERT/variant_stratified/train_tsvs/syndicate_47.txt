@@ -1,0 +1,13 @@
+syndicate_47	During	O
+syndicate_47	1945	O
+syndicate_47	King	O
+syndicate_47	Features	O
+syndicate_47	Syndicate	syndicate_nou
+syndicate_47	attempted	O
+syndicate_47	to	O
+syndicate_47	distribute	O
+syndicate_47	Jane	O
+syndicate_47	in	O
+syndicate_47	the	O
+syndicate_47	United	O
+syndicate_47	States	O

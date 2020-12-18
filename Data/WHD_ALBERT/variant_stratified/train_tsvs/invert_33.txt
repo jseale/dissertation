@@ -1,0 +1,14 @@
+invert_33	The	O
+invert_33	knot	O
+invert_33	will	O
+invert_33	invert	invert_vrb
+invert_33	much	O
+invert_33	the	O
+invert_33	same	O
+invert_33	as	O
+invert_33	a	O
+invert_33	mitten	O
+invert_33	is	O
+invert_33	turned	O
+invert_33	inside	O
+invert_33	out	O

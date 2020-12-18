@@ -1,0 +1,15 @@
+misuse_15	Alcohol	O
+misuse_15	misuse	misuse_nou
+misuse_15	costs	O
+misuse_15	the	O
+misuse_15	United	O
+misuse_15	Kingdom	O
+misuse_15	's	O
+misuse_15	National	O
+misuse_15	Health	O
+misuse_15	Service	O
+misuse_15	£	O
+misuse_15	3	O
+misuse_15	billion	O
+misuse_15	per	O
+misuse_15	year	O

@@ -1,0 +1,14 @@
+celtic_23	It	O
+celtic_23	is	O
+celtic_23	a	O
+celtic_23	fifteen	O
+celtic_23	foot	O
+celtic_23	Celtic	celtic
+celtic_23	cross	O
+celtic_23	of	O
+celtic_23	granite	O
+celtic_23	situated	O
+celtic_23	in	O
+celtic_23	East	O
+celtic_23	High	O
+celtic_23	Street	O

@@ -1,0 +1,16 @@
+coordinate_49	Today	O
+coordinate_49	the	O
+coordinate_49	main	O
+coordinate_49	purpose	O
+coordinate_49	of	O
+coordinate_49	these	O
+coordinate_49	is	O
+coordinate_49	to	O
+coordinate_49	coordinate	coordinate_vrb
+coordinate_49	the	O
+coordinate_49	cooperation	O
+coordinate_49	and	O
+coordinate_49	agitation	O
+coordinate_49	of	O
+coordinate_49	the	O
+coordinate_49	syndicates	O

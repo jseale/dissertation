@@ -1,0 +1,16 @@
+import_49	Indian	O
+import_49	pharmaceutical	O
+import_49	companies	O
+import_49	in	O
+import_49	Moldova	O
+import_49	are	O
+import_49	among	O
+import_49	the	O
+import_49	top	O
+import_49	ten	O
+import_49	based	O
+import_49	on	O
+import_49	medicine	O
+import_49	import	import_nou
+import_49	by	O
+import_49	Moldova	O

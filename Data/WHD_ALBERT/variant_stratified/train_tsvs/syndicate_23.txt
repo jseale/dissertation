@@ -1,0 +1,17 @@
+syndicate_23	An	O
+syndicate_23	alternate	O
+syndicate_23	version	O
+syndicate_23	of	O
+syndicate_23	Mary	O
+syndicate_23	appeared	O
+syndicate_23	on	O
+syndicate_23	a	O
+syndicate_23	computer	O
+syndicate_23	page	O
+syndicate_23	of	O
+syndicate_23	the	O
+syndicate_23	lesser	O
+syndicate_23	members	O
+syndicate_23	of	O
+syndicate_23	the	O
+syndicate_23	Syndicate	syndicate_nou

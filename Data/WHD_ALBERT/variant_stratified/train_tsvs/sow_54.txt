@@ -1,0 +1,17 @@
+sow_54	Nalco	O
+sow_54	manufactures	O
+sow_54	primary	O
+sow_54	aluminium	O
+sow_54	metal	O
+sow_54	in	O
+sow_54	the	O
+sow_54	form	O
+sow_54	of	O
+sow_54	ingots	O
+sow_54	wire	O
+sow_54	rods	O
+sow_54	sow	sow_nou
+sow_54	moulds	O
+sow_54	billets	O
+sow_54	and	O
+sow_54	strips	O

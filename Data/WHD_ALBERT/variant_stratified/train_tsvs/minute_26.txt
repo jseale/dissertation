@@ -1,0 +1,12 @@
+minute_26	King	O
+minute_26	delivered	O
+minute_26	a	O
+minute_26	17-minute	O
+minute_26	speech	O
+minute_26	later	O
+minute_26	known	O
+minute_26	as	O
+minute_26	I	O
+minute_26	Have	O
+minute_26	a	O
+minute_26	Dream	O

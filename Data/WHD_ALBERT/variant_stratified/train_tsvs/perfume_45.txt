@@ -1,0 +1,11 @@
+perfume_45	Meek	O
+perfume_45	henpecked	O
+perfume_45	Alvin	O
+perfume_45	Atterbury	O
+perfume_45	is	O
+perfume_45	a	O
+perfume_45	chemist	O
+perfume_45	for	O
+perfume_45	a	O
+perfume_45	perfume	perfume_nou
+perfume_45	factory	O

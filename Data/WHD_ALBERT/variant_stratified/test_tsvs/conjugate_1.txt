@@ -1,0 +1,12 @@
+conjugate_1	The	O
+conjugate_1	square	O
+conjugate_1	of	O
+conjugate_1	the	O
+conjugate_1	absolute	O
+conjugate_1	value	O
+conjugate_1	iswhere	O
+conjugate_1	is	O
+conjugate_1	the	O
+conjugate_1	complex	O
+conjugate_1	conjugate	conjugate_adj-nou
+conjugate_1	of	O

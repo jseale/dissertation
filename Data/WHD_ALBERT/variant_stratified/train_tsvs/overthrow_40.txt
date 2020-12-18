@@ -1,0 +1,13 @@
+overthrow_40	They	O
+overthrow_40	hoped	O
+overthrow_40	to	O
+overthrow_40	overthrow	overthrow_vrb
+overthrow_40	Khanh	O
+overthrow_40	before	O
+overthrow_40	their	O
+overthrow_40	scheduled	O
+overthrow_40	removal	O
+overthrow_40	from	O
+overthrow_40	command	O
+overthrow_40	took	O
+overthrow_40	effect	O

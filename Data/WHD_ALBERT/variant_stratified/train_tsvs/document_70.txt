@@ -1,0 +1,13 @@
+document_70	The	O
+document_70	mission	O
+document_70	of	O
+document_70	the	O
+document_70	organization	O
+document_70	is	O
+document_70	to	O
+document_70	document	document_vrb
+document_70	preserve	O
+document_70	and	O
+document_70	promote	O
+document_70	Modernist	O
+document_70	houses	O

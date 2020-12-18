@@ -1,0 +1,14 @@
+dove_24	The	O
+dove_24	bar	O
+dove_24	shouldered	O
+dove_24	dove	dove
+dove_24	Geopelia	O
+dove_24	humeralis	O
+dove_24	is	O
+dove_24	native	O
+dove_24	to	O
+dove_24	Australia	O
+dove_24	and	O
+dove_24	southern	O
+dove_24	New	O
+dove_24	Guinea	O

@@ -1,0 +1,12 @@
+delegate_62	He	O
+delegate_62	was	O
+delegate_62	a	O
+delegate_62	delegate	delegate_nou
+delegate_62	to	O
+delegate_62	the	O
+delegate_62	Fifth	O
+delegate_62	Ecumencial	O
+delegate_62	Conference	O
+delegate_62	London	O
+delegate_62	England	O
+delegate_62	1921	O

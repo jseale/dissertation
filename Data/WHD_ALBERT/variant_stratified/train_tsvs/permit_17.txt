@@ -1,0 +1,17 @@
+permit_17	Subsequently	O
+permit_17	EPA	O
+permit_17	issued	O
+permit_17	an	O
+permit_17	initial	O
+permit_17	Vessel	O
+permit_17	General	O
+permit_17	Permit	permit_nou
+permit_17	VGP	O
+permit_17	with	O
+permit_17	an	O
+permit_17	effective	O
+permit_17	date	O
+permit_17	of	O
+permit_17	February	O
+permit_17	6	O
+permit_17	2009	O

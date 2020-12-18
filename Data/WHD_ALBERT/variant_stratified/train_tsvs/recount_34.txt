@@ -1,0 +1,10 @@
+recount_34	After	O
+recount_34	the	O
+recount_34	election	O
+recount_34	Moehau	O
+recount_34	requested	O
+recount_34	a	O
+recount_34	recount	recount_nou
+recount_34	which	O
+recount_34	took	O
+recount_34	place	O

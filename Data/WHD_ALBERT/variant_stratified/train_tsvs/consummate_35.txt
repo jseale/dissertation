@@ -1,0 +1,10 @@
+consummate_35	His	O
+consummate_35	bravery	O
+consummate_35	was	O
+consummate_35	that	O
+consummate_35	of	O
+consummate_35	Putnam	O
+consummate_35	tempered	O
+consummate_35	with	O
+consummate_35	consummate	consummate_adj
+consummate_35	prudence	O

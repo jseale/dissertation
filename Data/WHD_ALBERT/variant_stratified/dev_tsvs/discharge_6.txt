@@ -1,0 +1,14 @@
+discharge_6	In	O
+discharge_6	1958	O
+discharge_6	after	O
+discharge_6	his	O
+discharge_6	discharge	discharge_nou
+discharge_6	he	O
+discharge_6	rejoined	O
+discharge_6	the	O
+discharge_6	Bluegrass	O
+discharge_6	Boys	O
+discharge_6	recording	O
+discharge_6	ten	O
+discharge_6	more	O
+discharge_6	songs	O

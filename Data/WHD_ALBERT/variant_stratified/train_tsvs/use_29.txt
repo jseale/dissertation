@@ -1,0 +1,12 @@
+use_29	In	O
+use_29	the	O
+use_29	early	O
+use_29	1890s	O
+use_29	bookcases	O
+use_29	were	O
+use_29	purchased	O
+use_29	for	O
+use_29	use	use_nou
+use_29	in	O
+use_29	each	O
+use_29	classroom	O

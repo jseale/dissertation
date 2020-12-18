@@ -1,0 +1,17 @@
+rodeo_0	Occasionally	O
+rodeo_0	they	O
+rodeo_0	travel	O
+rodeo_0	on	O
+rodeo_0	the	O
+rodeo_0	Professional	O
+rodeo_0	Rodeo	rodeo
+rodeo_0	Cowboys	O
+rodeo_0	Association	O
+rodeo_0	rodeo	rodeo
+rodeo_0	circuit	O
+rodeo_0	of	O
+rodeo_0	which	O
+rodeo_0	O'Neal	O
+rodeo_0	is	O
+rodeo_0	a	O
+rodeo_0	part	O

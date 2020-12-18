@@ -1,0 +1,12 @@
+use_30	In	O
+use_30	2007	O
+use_30	the	O
+use_30	terminal	O
+use_30	's	O
+use_30	use	use_nou
+use_30	changed	O
+use_30	to	O
+use_30	pilgrimage	O
+use_30	and	O
+use_30	charter	O
+use_30	flights	O

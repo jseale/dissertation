@@ -1,0 +1,15 @@
+tear_5	Finally	O
+tear_5	Gamera	O
+tear_5	manages	O
+tear_5	to	O
+tear_5	tear	tear_vrb
+tear_5	off	O
+tear_5	Legion	O
+tear_5	's	O
+tear_5	horn	O
+tear_5	and	O
+tear_5	she	O
+tear_5	momentarily	O
+tear_5	collapses	O
+tear_5	in	O
+tear_5	defeat	O

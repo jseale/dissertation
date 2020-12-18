@@ -1,0 +1,9 @@
+conscript_4	It	O
+conscript_4	was	O
+conscript_4	therefore	O
+conscript_4	decided	O
+conscript_4	to	O
+conscript_4	introduce	O
+conscript_4	conscript	conscript_nou
+conscript_4	warrant	O
+conscript_4	officers(underofficerare	O

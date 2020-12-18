@@ -1,0 +1,13 @@
+import_25	Energy	O
+import_25	in	O
+import_25	Vietnam	O
+import_25	describes	O
+import_25	energy	O
+import_25	and	O
+import_25	electricity	O
+import_25	production	O
+import_25	consumption	O
+import_25	and	O
+import_25	import	import_nou
+import_25	in	O
+import_25	Vietnam	O

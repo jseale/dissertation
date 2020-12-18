@@ -1,0 +1,16 @@
+compress_5	Cloop	O
+compress_5	is	O
+compress_5	mostly	O
+compress_5	used	O
+compress_5	as	O
+compress_5	a	O
+compress_5	convenient	O
+compress_5	way	O
+compress_5	to	O
+compress_5	compress	compress
+compress_5	conventional	O
+compress_5	file	O
+compress_5	systems	O
+compress_5	onto	O
+compress_5	Live	O
+compress_5	CDs	O

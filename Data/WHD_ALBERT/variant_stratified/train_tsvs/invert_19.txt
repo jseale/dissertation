@@ -1,0 +1,17 @@
+invert_19	After	O
+invert_19	a	O
+invert_19	box	O
+invert_19	split	O
+invert_19	and	O
+invert_19	locking	O
+invert_19	solo	O
+invert_19	by	O
+invert_19	Hok	O
+invert_19	Victor	O
+invert_19	Kim	O
+invert_19	performed	O
+invert_19	a	O
+invert_19	hollowback	O
+invert_19	into	O
+invert_19	an	O
+invert_19	invert	invert_adj-nou

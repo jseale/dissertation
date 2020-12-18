@@ -1,0 +1,10 @@
+conduct_3	Lawrence	O
+conduct_3	's	O
+conduct_3	conduct	conduct_nou
+conduct_3	of	O
+conduct_3	the	O
+conduct_3	defence	O
+conduct_3	was	O
+conduct_3	admired	O
+conduct_3	by	O
+conduct_3	many	O

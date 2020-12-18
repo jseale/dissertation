@@ -1,0 +1,16 @@
+incline_70	The	O
+incline_70	floor	O
+incline_70	is	O
+incline_70	angled	O
+incline_70	in	O
+incline_70	an	O
+incline_70	incline	incline_nou
+incline_70	so	O
+incline_70	that	O
+incline_70	melting	O
+incline_70	ice	O
+incline_70	water	O
+incline_70	flows	O
+incline_70	toward	O
+incline_70	the	O
+incline_70	floor	O

@@ -1,0 +1,17 @@
+frequent_69	In	O
+frequent_69	the	O
+frequent_69	1960s	O
+frequent_69	he	O
+frequent_69	was	O
+frequent_69	a	O
+frequent_69	frequent	frequent_adj
+frequent_69	accompanist	O
+frequent_69	on	O
+frequent_69	recordings	O
+frequent_69	by	O
+frequent_69	popular	O
+frequent_69	Australian	O
+frequent_69	folk	O
+frequent_69	performer	O
+frequent_69	Lionel	O
+frequent_69	Long	O

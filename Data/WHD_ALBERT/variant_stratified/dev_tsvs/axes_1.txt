@@ -1,0 +1,12 @@
+axes_1	The	O
+axes_1	number	O
+axes_1	of	O
+axes_1	axes	axes_nou
+axes_1	for	O
+axes_1	multiaxis	O
+axes_1	machines	O
+axes_1	varies	O
+axes_1	from	O
+axes_1	4	O
+axes_1	to	O
+axes_1	9	O

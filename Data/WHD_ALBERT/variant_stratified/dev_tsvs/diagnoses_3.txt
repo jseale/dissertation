@@ -1,0 +1,14 @@
+diagnoses_3	Working	O
+diagnoses_3	with	O
+diagnoses_3	the	O
+diagnoses_3	substance	O
+diagnoses_3	abuse	O
+diagnoses_3	patients	O
+diagnoses_3	and	O
+diagnoses_3	other	O
+diagnoses_3	Axis	O
+diagnoses_3	I	O
+diagnoses_3	and	O
+diagnoses_3	Axis	O
+diagnoses_3	II	O
+diagnoses_3	diagnoses	diagnoses_nou

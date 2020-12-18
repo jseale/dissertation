@@ -1,0 +1,14 @@
+graduate_13	First	O
+graduate_13	Three	O
+graduate_13	Graduate	graduate_adj-nou
+graduate_13	Nurses	O
+graduate_13	of	O
+graduate_13	the	O
+graduate_13	Philippines	O
+graduate_13	The	O
+graduate_13	News	O
+graduate_13	Today	O
+graduate_13	Retrieved	O
+graduate_13	December	O
+graduate_13	29	O
+graduate_13	2015	O

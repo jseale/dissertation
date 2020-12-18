@@ -1,0 +1,15 @@
+winds_4	Further	O
+winds_4	strengthening	O
+winds_4	occurred	O
+winds_4	as	O
+winds_4	the	O
+winds_4	storm	O
+winds_4	attained	O
+winds_4	peak	O
+winds_4	winds	winds_nou
+winds_4	of	O
+winds_4	45	O
+winds_4	mph	O
+winds_4	75	O
+winds_4	km	O
+winds_4	h	O

@@ -1,0 +1,17 @@
+refund_29	Consumers	O
+refund_29	were	O
+refund_29	able	O
+refund_29	to	O
+refund_29	receive	O
+refund_29	a	O
+refund_29	refund	refund_nou
+refund_29	or	O
+refund_29	have	O
+refund_29	their	O
+refund_29	purchase	O
+refund_29	transferred	O
+refund_29	to	O
+refund_29	another	O
+refund_29	collector	O
+refund_29	's	O
+refund_29	edition	O

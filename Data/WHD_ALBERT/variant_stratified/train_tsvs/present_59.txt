@@ -1,0 +1,8 @@
+present_59	Paxton	O
+present_59	contributed	O
+present_59	to	O
+present_59	Brinsmead	O
+present_59	's	O
+present_59	Present	present_adj-nou
+present_59	Truth	O
+present_59	Magazine	O

@@ -1,0 +1,14 @@
+conduct_66	The	O
+conduct_66	devotees	O
+conduct_66	should	O
+conduct_66	conduct	conduct_vrb
+conduct_66	fast	O
+conduct_66	and	O
+conduct_66	remain	O
+conduct_66	in	O
+conduct_66	the	O
+conduct_66	temple	O
+conduct_66	on	O
+conduct_66	the	O
+conduct_66	previous	O
+conduct_66	day	O

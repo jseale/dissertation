@@ -1,0 +1,8 @@
+compound_11	Ytterbium(III	O
+compound_11	chloride	O
+compound_11	YbCl₃	O
+compound_11	is	O
+compound_11	an	O
+compound_11	inorganic	O
+compound_11	chemical	O
+compound_11	compound	compound_nou

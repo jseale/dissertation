@@ -1,0 +1,9 @@
+perfume_22	To	O
+perfume_22	promote	O
+perfume_22	the	O
+perfume_22	Uninhibited	O
+perfume_22	perfume	perfume_nou
+perfume_22	Cher	O
+perfume_22	filmed	O
+perfume_22	two	O
+perfume_22	commercials	O

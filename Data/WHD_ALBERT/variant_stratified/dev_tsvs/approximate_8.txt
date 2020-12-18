@@ -1,0 +1,9 @@
+approximate_8	MBP	O
+approximate_8	has	O
+approximate_8	an	O
+approximate_8	approximate	approximate_adj-nou
+approximate_8	molecular	O
+approximate_8	mass	O
+approximate_8	of	O
+approximate_8	42.5	O
+approximate_8	kilodaltons	O

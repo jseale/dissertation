@@ -1,0 +1,14 @@
+insert_9	During	O
+insert_9	feeding	O
+insert_9	the	O
+insert_9	bee	O
+insert_9	will	O
+insert_9	insert	insert_vrb
+insert_9	its	O
+insert_9	proboscis	O
+insert_9	into	O
+insert_9	the	O
+insert_9	keel	O
+insert_9	of	O
+insert_9	the	O
+insert_9	plant	O

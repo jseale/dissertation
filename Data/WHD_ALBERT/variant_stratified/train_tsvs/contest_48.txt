@@ -1,0 +1,16 @@
+contest_48	Following	O
+contest_48	the	O
+contest_48	introduction	O
+contest_48	of	O
+contest_48	semi	O
+contest_48	finals	O
+contest_48	for	O
+contest_48	the	O
+contest_48	2004	O
+contest_48	contest	contest_nou
+contest_48	Croatia	O
+contest_48	had	O
+contest_48	featured	O
+contest_48	in	O
+contest_48	six	O
+contest_48	finals	O

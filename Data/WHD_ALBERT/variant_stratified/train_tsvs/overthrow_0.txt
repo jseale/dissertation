@@ -1,0 +1,15 @@
+overthrow_0	Following	O
+overthrow_0	the	O
+overthrow_0	overthrow	overthrow_nou
+overthrow_0	of	O
+overthrow_0	the	O
+overthrow_0	sultanate	O
+overthrow_0	Ibn	O
+overthrow_0	Battuta	O
+overthrow_0	had	O
+overthrow_0	no	O
+overthrow_0	choice	O
+overthrow_0	but	O
+overthrow_0	to	O
+overthrow_0	leave	O
+overthrow_0	India	O

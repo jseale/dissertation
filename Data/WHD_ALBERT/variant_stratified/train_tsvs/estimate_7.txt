@@ -1,0 +1,16 @@
+estimate_7	According	O
+estimate_7	to	O
+estimate_7	a	O
+estimate_7	June	O
+estimate_7	2015	O
+estimate_7	Statistics	O
+estimate_7	New	O
+estimate_7	Zealand	O
+estimate_7	estimate	estimate_nou
+estimate_7	Bulls	O
+estimate_7	has	O
+estimate_7	a	O
+estimate_7	population	O
+estimate_7	of	O
+estimate_7	1,630	O
+estimate_7	inhabitants	O

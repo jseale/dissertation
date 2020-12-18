@@ -1,0 +1,15 @@
+perfume_61	She	O
+perfume_61	has	O
+perfume_61	appeared	O
+perfume_61	in	O
+perfume_61	commercials	O
+perfume_61	for	O
+perfume_61	and	O
+perfume_61	been	O
+perfume_61	spokeswoman	O
+perfume_61	for	O
+perfume_61	Thierry	O
+perfume_61	Mugler	O
+perfume_61	's	O
+perfume_61	perfume	perfume_nou
+perfume_61	Womanity	O

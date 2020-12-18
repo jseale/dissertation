@@ -1,0 +1,14 @@
+associate_42	He	O
+associate_42	is	O
+associate_42	a	O
+associate_42	Distinguished	O
+associate_42	Associate	associate_adj-nou
+associate_42	of	O
+associate_42	the	O
+associate_42	Psychometrics	O
+associate_42	Centre	O
+associate_42	at	O
+associate_42	the	O
+associate_42	University	O
+associate_42	of	O
+associate_42	Cambridge	O

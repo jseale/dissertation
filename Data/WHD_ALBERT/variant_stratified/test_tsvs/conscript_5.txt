@@ -1,0 +1,11 @@
+conscript_5	After	O
+conscript_5	his	O
+conscript_5	studies	O
+conscript_5	he	O
+conscript_5	entered	O
+conscript_5	the	O
+conscript_5	Dutch	O
+conscript_5	Navy	O
+conscript_5	as	O
+conscript_5	a	O
+conscript_5	conscript	conscript_nou

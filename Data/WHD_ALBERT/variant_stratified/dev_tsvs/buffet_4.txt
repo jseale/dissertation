@@ -1,0 +1,13 @@
+buffet_4	Patrons	O
+buffet_4	may	O
+buffet_4	also	O
+buffet_4	dine	O
+buffet_4	from	O
+buffet_4	the	O
+buffet_4	buffet	buffet_nou
+buffet_4	only	O
+buffet_4	without	O
+buffet_4	ordering	O
+buffet_4	a	O
+buffet_4	meat	O
+buffet_4	entree	O

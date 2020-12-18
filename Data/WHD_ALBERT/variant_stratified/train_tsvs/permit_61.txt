@@ -1,0 +1,12 @@
+permit_61	For	O
+permit_61	example	O
+permit_61	these	O
+permit_61	methods	O
+permit_61	permit	permit_vrb
+permit_61	preventing	O
+permit_61	R	O
+permit_61	rated	O
+permit_61	content	O
+permit_61	from	O
+permit_61	being	O
+permit_61	played	O

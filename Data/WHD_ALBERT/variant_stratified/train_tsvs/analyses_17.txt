@@ -1,0 +1,16 @@
+analyses_17	However	O
+analyses_17	many	O
+analyses_17	recent	O
+analyses_17	cladistic	O
+analyses_17	analyses	analyses_nou
+analyses_17	found	O
+analyses_17	Ophthalmosaurus	O
+analyses_17	to	O
+analyses_17	nest	O
+analyses_17	in	O
+analyses_17	a	O
+analyses_17	clade	O
+analyses_17	with	O
+analyses_17	Acamptonectes	O
+analyses_17	and	O
+analyses_17	Mollesaurus	O

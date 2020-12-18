@@ -1,0 +1,9 @@
+wind_47	Washington	O
+wind_47	state	O
+wind_47	has	O
+wind_47	sales	O
+wind_47	tax	O
+wind_47	exemptions	O
+wind_47	for	O
+wind_47	wind	wind_nou
+wind_47	energy	O

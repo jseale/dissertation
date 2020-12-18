@@ -1,0 +1,7 @@
+aged_49	He	O
+aged_49	died	O
+aged_49	in	O
+aged_49	January	O
+aged_49	2003	O
+aged_49	aged	aged
+aged_49	80	O

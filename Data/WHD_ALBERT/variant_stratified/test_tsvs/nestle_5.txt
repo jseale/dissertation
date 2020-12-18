@@ -1,0 +1,16 @@
+nestle_5	The	O
+nestle_5	town	O
+nestle_5	has	O
+nestle_5	a	O
+nestle_5	Nestle	nestle_nam
+nestle_5	Research	O
+nestle_5	Development	O
+nestle_5	factory	O
+nestle_5	with	O
+nestle_5	a	O
+nestle_5	working	O
+nestle_5	force	O
+nestle_5	of	O
+nestle_5	over	O
+nestle_5	500	O
+nestle_5	employees	O

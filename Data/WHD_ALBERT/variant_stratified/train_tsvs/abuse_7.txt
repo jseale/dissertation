@@ -1,0 +1,16 @@
+abuse_7	Etiological	O
+abuse_7	correlates	O
+abuse_7	of	O
+abuse_7	vaginismus	O
+abuse_7	Sexual	O
+abuse_7	and	O
+abuse_7	physical	O
+abuse_7	abuse	abuse_nou
+abuse_7	sexual	O
+abuse_7	knowledge	O
+abuse_7	sexual	O
+abuse_7	self	O
+abuse_7	schema	O
+abuse_7	and	O
+abuse_7	relationship	O
+abuse_7	adjustment	O

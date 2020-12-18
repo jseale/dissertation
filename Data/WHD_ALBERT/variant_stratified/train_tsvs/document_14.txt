@@ -1,0 +1,12 @@
+document_14	The	O
+document_14	document	document_nou
+document_14	lists	O
+document_14	that	O
+document_14	Northrop	O
+document_14	received	O
+document_14	a	O
+document_14	Combat	O
+document_14	Infantry	O
+document_14	Badge	O
+document_14	Second	O
+document_14	Award	O

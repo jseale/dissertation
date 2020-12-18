@@ -1,0 +1,17 @@
+document_71	Rea	O
+document_71	was	O
+document_71	the	O
+document_71	first	O
+document_71	to	O
+document_71	document	document_vrb
+document_71	such	O
+document_71	large	O
+document_71	scales	O
+document_71	of	O
+document_71	borrowing	O
+document_71	citing	O
+document_71	75	O
+document_71	books	O
+document_71	White	O
+document_71	depended	O
+document_71	on	O

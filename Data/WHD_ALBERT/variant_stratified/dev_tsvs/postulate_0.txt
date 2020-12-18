@@ -1,0 +1,14 @@
+postulate_0	Before	O
+postulate_0	him	O
+postulate_0	mathematicians	O
+postulate_0	were	O
+postulate_0	trying	O
+postulate_0	to	O
+postulate_0	deduce	O
+postulate_0	Euclid	O
+postulate_0	's	O
+postulate_0	fifth	O
+postulate_0	postulate	postulate_nou
+postulate_0	from	O
+postulate_0	other	O
+postulate_0	axioms	O

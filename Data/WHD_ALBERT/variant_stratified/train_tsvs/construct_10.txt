@@ -1,0 +1,14 @@
+construct_10	The	O
+construct_10	order	O
+construct_10	to	O
+construct_10	construct	construct_vrb
+construct_10	the	O
+construct_10	ship	O
+construct_10	was	O
+construct_10	given	O
+construct_10	by	O
+construct_10	the	O
+construct_10	Admiralty	O
+construct_10	of	O
+construct_10	the	O
+construct_10	Meuse	O

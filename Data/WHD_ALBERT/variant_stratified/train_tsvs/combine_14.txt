@@ -1,0 +1,12 @@
+combine_14	Des	O
+combine_14	Peres	O
+combine_14	combine	combine_vrb
+combine_14	a	O
+combine_14	theatrical	O
+combine_14	stage	O
+combine_14	approach	O
+combine_14	with	O
+combine_14	a	O
+combine_14	sample	O
+combine_14	heavy	O
+combine_14	sound	O

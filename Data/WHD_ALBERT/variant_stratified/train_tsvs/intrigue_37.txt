@@ -1,0 +1,13 @@
+intrigue_37	In	O
+intrigue_37	358	O
+intrigue_37	Murong	O
+intrigue_37	Chui	O
+intrigue_37	would	O
+intrigue_37	lose	O
+intrigue_37	his	O
+intrigue_37	wife	O
+intrigue_37	Princess	O
+intrigue_37	Duan	O
+intrigue_37	to	O
+intrigue_37	political	O
+intrigue_37	intrigue	intrigue_nou

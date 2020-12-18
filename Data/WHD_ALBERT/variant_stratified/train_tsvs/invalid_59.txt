@@ -1,0 +1,13 @@
+invalid_59	Also	O
+invalid_59	those	O
+invalid_59	instructions	O
+invalid_59	generate	O
+invalid_59	invalid	invalid_adj
+invalid_59	opcode	O
+invalid_59	exception	O
+invalid_59	on	O
+invalid_59	any	O
+invalid_59	CPU	O
+invalid_59	newer	O
+invalid_59	than	O
+invalid_59	80486	O

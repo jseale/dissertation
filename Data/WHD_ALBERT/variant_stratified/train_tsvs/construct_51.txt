@@ -1,0 +1,17 @@
+construct_51	In	O
+construct_51	1999	O
+construct_51	Alan	O
+construct_51	Gilbert	O
+construct_51	hired	O
+construct_51	Fitch	O
+construct_51	to	O
+construct_51	design	O
+construct_51	and	O
+construct_51	construct	construct_vrb
+construct_51	the	O
+construct_51	interior	O
+construct_51	of	O
+construct_51	his	O
+construct_51	New	O
+construct_51	York	O
+construct_51	apartment	O

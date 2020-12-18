@@ -1,0 +1,8 @@
+implant_38	He	O
+implant_38	has	O
+implant_38	performed	O
+implant_38	over	O
+implant_38	2300	O
+implant_38	cochlear	O
+implant_38	implant	implant_nou
+implant_38	surgeries	O

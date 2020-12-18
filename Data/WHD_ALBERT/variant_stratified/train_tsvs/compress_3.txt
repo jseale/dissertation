@@ -1,0 +1,16 @@
+compress_3	By	O
+compress_3	contrast	O
+compress_3	in	O
+compress_3	a	O
+compress_3	dipolar	O
+compress_3	magnetic	O
+compress_3	field	O
+compress_3	fluctuations	O
+compress_3	tend	O
+compress_3	to	O
+compress_3	compress	compress
+compress_3	the	O
+compress_3	plasma	O
+compress_3	without	O
+compress_3	energy	O
+compress_3	loss	O

@@ -1,0 +1,15 @@
+recount_4	Since	O
+recount_4	the	O
+recount_4	results	O
+recount_4	showed	O
+recount_4	that	O
+recount_4	he	O
+recount_4	was	O
+recount_4	only	O
+recount_4	600	O
+recount_4	votes	O
+recount_4	behind	O
+recount_4	he	O
+recount_4	requested	O
+recount_4	a	O
+recount_4	recount	recount_nou

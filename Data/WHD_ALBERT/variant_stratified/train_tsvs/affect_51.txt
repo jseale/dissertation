@@ -1,0 +1,10 @@
+affect_51	The	O
+affect_51	phenomena	O
+affect_51	may	O
+affect_51	affect	affect
+affect_51	electromagnetic	O
+affect_51	frequencies	O
+affect_51	beyond	O
+affect_51	the	O
+affect_51	microwave	O
+affect_51	region	O

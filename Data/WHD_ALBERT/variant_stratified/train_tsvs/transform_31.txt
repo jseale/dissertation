@@ -1,0 +1,16 @@
+transform_31	Only	O
+transform_31	the	O
+transform_31	great	O
+transform_31	artists	O
+transform_31	have	O
+transform_31	been	O
+transform_31	able	O
+transform_31	to	O
+transform_31	evoke	O
+transform_31	that	O
+transform_31	dimension	O
+transform_31	and	O
+transform_31	transform	transform
+transform_31	it	O
+transform_31	into	O
+transform_31	myth	O

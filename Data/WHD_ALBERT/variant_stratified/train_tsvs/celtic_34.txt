@@ -1,0 +1,11 @@
+celtic_34	Folklorists	O
+celtic_34	of	O
+celtic_34	the	O
+celtic_34	19th	O
+celtic_34	century	O
+celtic_34	saw	O
+celtic_34	these	O
+celtic_34	figures	O
+celtic_34	as	O
+celtic_34	Celtic	celtic
+celtic_34	fairies	O

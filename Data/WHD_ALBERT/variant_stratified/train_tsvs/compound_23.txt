@@ -1,0 +1,14 @@
+compound_23	Christie	O
+compound_23	Colin	O
+compound_23	maiden	O
+compound_23	name	O
+compound_23	Bisco	O
+compound_23	born	O
+compound_23	June	O
+compound_23	14	O
+compound_23	1982	O
+compound_23	is	O
+compound_23	an	O
+compound_23	American	O
+compound_23	compound	compound_nou
+compound_23	archer	O

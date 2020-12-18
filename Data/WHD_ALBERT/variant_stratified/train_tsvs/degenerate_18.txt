@@ -1,0 +1,13 @@
+degenerate_18	Hence	O
+degenerate_18	modern	O
+degenerate_18	authors	O
+degenerate_18	allow	O
+degenerate_18	the	O
+degenerate_18	degenerate	degenerate_adj-nou
+degenerate_18	Boolean	O
+degenerate_18	algebra	O
+degenerate_18	and	O
+degenerate_18	let	O
+degenerate_18	X	O
+degenerate_18	be	O
+degenerate_18	empty	O

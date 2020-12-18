@@ -1,0 +1,13 @@
+estimate_22	The	O
+estimate_22	population	O
+estimate_22	estimate	estimate_nou
+estimate_22	of	O
+estimate_22	Sindh	O
+estimate_22	ibex	O
+estimate_22	in	O
+estimate_22	kirthar	O
+estimate_22	national	O
+estimate_22	park	O
+estimate_22	is	O
+estimate_22	around	O
+estimate_22	13,000	O

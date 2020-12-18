@@ -1,0 +1,17 @@
+advocate_1	Originally	O
+advocate_1	built	O
+advocate_1	in	O
+advocate_1	1930	O
+advocate_1	Gregory	O
+advocate_1	Gymnasium	O
+advocate_1	was	O
+advocate_1	named	O
+advocate_1	after	O
+advocate_1	its	O
+advocate_1	main	O
+advocate_1	advocate	advocate_nou
+advocate_1	and	O
+advocate_1	planner	O
+advocate_1	Thomas	O
+advocate_1	Watt	O
+advocate_1	Gregory	O

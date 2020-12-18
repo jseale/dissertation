@@ -1,0 +1,8 @@
+live_54	Jacques	O
+live_54	now	O
+live_54	only	O
+live_54	has	O
+live_54	12	O
+live_54	hours	O
+live_54	to	O
+live_54	live	live_vrb

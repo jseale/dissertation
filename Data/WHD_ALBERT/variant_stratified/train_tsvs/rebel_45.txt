@@ -1,0 +1,16 @@
+rebel_45	The	O
+rebel_45	Mon	O
+rebel_45	language	O
+rebel_45	instruction	O
+rebel_45	survives	O
+rebel_45	in	O
+rebel_45	the	O
+rebel_45	Thai	O
+rebel_45	Burmese	O
+rebel_45	border	O
+rebel_45	inside	O
+rebel_45	the	O
+rebel_45	Mon	O
+rebel_45	rebel	rebel_nou
+rebel_45	controlled	O
+rebel_45	areas	O

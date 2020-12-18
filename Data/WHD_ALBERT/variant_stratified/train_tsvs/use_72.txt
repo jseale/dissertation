@@ -1,0 +1,9 @@
+use_72	Especially	O
+use_72	people	O
+use_72	who	O
+use_72	often	O
+use_72	use	use_vrb
+use_72	them	O
+use_72	for	O
+use_72	various	O
+use_72	purposes	O

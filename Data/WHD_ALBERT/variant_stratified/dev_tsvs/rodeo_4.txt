@@ -1,0 +1,11 @@
+rodeo_4	Since	O
+rodeo_4	then	O
+rodeo_4	other	O
+rodeo_4	organizations	O
+rodeo_4	are	O
+rodeo_4	seeking	O
+rodeo_4	a	O
+rodeo_4	ban	O
+rodeo_4	on	O
+rodeo_4	Chilean	O
+rodeo_4	rodeo	rodeo

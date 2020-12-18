@@ -1,0 +1,9 @@
+blessed_4	Linxia	O
+blessed_4	is	O
+blessed_4	blessed	blessed_vrb
+blessed_4	with	O
+blessed_4	both	O
+blessed_4	natural	O
+blessed_4	and	O
+blessed_4	cultural	O
+blessed_4	wonders	O

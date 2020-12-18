@@ -1,0 +1,14 @@
+syndicate_26	The	O
+syndicate_26	trio	O
+syndicate_26	meet	O
+syndicate_26	their	O
+syndicate_26	wives	O
+syndicate_26	their	O
+syndicate_26	kids	O
+syndicate_26	and	O
+syndicate_26	Kwai	O
+syndicate_26	's	O
+syndicate_26	syndicate	syndicate_nou
+syndicate_26	during	O
+syndicate_26	a	O
+syndicate_26	barbecue	O

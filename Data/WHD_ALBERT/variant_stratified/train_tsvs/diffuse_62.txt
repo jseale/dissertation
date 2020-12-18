@@ -1,0 +1,15 @@
+diffuse_62	During	O
+diffuse_62	the	O
+diffuse_62	second	O
+diffuse_62	most	O
+diffuse_62	densification	O
+diffuse_62	occurs	O
+diffuse_62	the	O
+diffuse_62	structure	O
+diffuse_62	recrystallizes	O
+diffuse_62	and	O
+diffuse_62	particles	O
+diffuse_62	diffuse	diffuse_vrb
+diffuse_62	into	O
+diffuse_62	each	O
+diffuse_62	other	O

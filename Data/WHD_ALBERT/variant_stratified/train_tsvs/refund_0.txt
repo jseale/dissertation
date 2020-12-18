@@ -1,0 +1,14 @@
+refund_0	Effective	O
+refund_0	from	O
+refund_0	1973	O
+refund_0	vacant	O
+refund_0	properties	O
+refund_0	could	O
+refund_0	only	O
+refund_0	enjoy	O
+refund_0	a	O
+refund_0	50	O
+refund_0	refund	refund_nou
+refund_0	of	O
+refund_0	the	O
+refund_0	rates	O

@@ -1,0 +1,14 @@
+decrease_47	It	O
+decrease_47	would	O
+decrease_47	tend	O
+decrease_47	to	O
+decrease_47	decrease	decrease_vrb
+decrease_47	the	O
+decrease_47	political	O
+decrease_47	power	O
+decrease_47	and	O
+decrease_47	revenue	O
+decrease_47	flowing	O
+decrease_47	to	O
+decrease_47	government	O
+decrease_47	bureaucrats	O

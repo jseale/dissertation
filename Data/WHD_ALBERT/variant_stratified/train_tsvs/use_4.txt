@@ -1,0 +1,9 @@
+use_4	The	O
+use_4	Hadley	O
+use_4	Fund	O
+use_4	Endowment	O
+use_4	Charter	O
+use_4	and	O
+use_4	Terms	O
+use_4	of	O
+use_4	Use	use_nou

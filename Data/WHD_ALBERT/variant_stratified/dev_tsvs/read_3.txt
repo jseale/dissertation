@@ -1,0 +1,16 @@
+read_3	Dictation	O
+read_3	is	O
+read_3	read	read_past
+read_3	into	O
+read_3	the	O
+read_3	database	O
+read_3	and	O
+read_3	the	O
+read_3	program	O
+read_3	continuously	O
+read_3	learns	O
+read_3	the	O
+read_3	spoken	O
+read_3	words	O
+read_3	and	O
+read_3	phrases	O

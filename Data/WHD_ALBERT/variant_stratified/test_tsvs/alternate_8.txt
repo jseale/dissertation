@@ -1,0 +1,11 @@
+alternate_8	In	O
+alternate_8	real	O
+alternate_8	life	O
+alternate_8	both	O
+alternate_8	the	O
+alternate_8	turkey	O
+alternate_8	and	O
+alternate_8	the	O
+alternate_8	alternate	alternate_adj-nou
+alternate_8	are	O
+alternate_8	spared	O

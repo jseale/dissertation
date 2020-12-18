@@ -1,0 +1,8 @@
+converse_10	This	O
+converse_10	converse	converse_adj-nou
+converse_10	phenomenon	O
+converse_10	is	O
+converse_10	known	O
+converse_10	as	O
+converse_10	salting	O
+converse_10	in	O

@@ -1,0 +1,7 @@
+aged_10	Johanna	O
+aged_10	Beatrix	O
+aged_10	died	O
+aged_10	in	O
+aged_10	Brno	O
+aged_10	aged	aged
+aged_10	51	O

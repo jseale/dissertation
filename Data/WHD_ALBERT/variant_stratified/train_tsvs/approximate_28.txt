@@ -1,0 +1,8 @@
+approximate_28	Approximate	approximate_adj-nou
+approximate_28	post	O
+approximate_28	time	O
+approximate_28	was	O
+approximate_28	5:50	O
+approximate_28	p.m.	O
+approximate_28	Eastern	O
+approximate_28	Time	O

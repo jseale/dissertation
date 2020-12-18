@@ -1,0 +1,17 @@
+implant_13	In	O
+implant_13	2015	O
+implant_13	Stanton	O
+implant_13	Fisher	O
+implant_13	represented	O
+implant_13	numerous	O
+implant_13	women	O
+implant_13	with	O
+implant_13	Poly	O
+implant_13	Implant	implant_nou
+implant_13	Prothese	O
+implant_13	PIP	O
+implant_13	implants	O
+implant_13	in	O
+implant_13	UK	O
+implant_13	and	O
+implant_13	Ireland	O

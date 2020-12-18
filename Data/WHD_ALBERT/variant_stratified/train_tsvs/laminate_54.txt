@@ -1,0 +1,16 @@
+laminate_54	In	O
+laminate_54	2001	O
+laminate_54	an	O
+laminate_54	estimated	O
+laminate_54	50	O
+laminate_54	million	O
+laminate_54	kilograms	O
+laminate_54	of	O
+laminate_54	fibreglass	O
+laminate_54	laminate	laminate_nou
+laminate_54	were	O
+laminate_54	used	O
+laminate_54	in	O
+laminate_54	wind	O
+laminate_54	turbine	O
+laminate_54	blades	O

@@ -1,0 +1,13 @@
+insert_12	The	O
+insert_12	insert	insert_nou
+insert_12	is	O
+insert_12	purified	O
+insert_12	in	O
+insert_12	order	O
+insert_12	to	O
+insert_12	isolate	O
+insert_12	it	O
+insert_12	from	O
+insert_12	other	O
+insert_12	DNA	O
+insert_12	molecules	O

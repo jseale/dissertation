@@ -1,0 +1,15 @@
+produce_3	In	O
+produce_3	the	O
+produce_3	1960s	O
+produce_3	he	O
+produce_3	was	O
+produce_3	the	O
+produce_3	largest	O
+produce_3	licensed	O
+produce_3	produce	produce_nou
+produce_3	buying	O
+produce_3	agent	O
+produce_3	of	O
+produce_3	groundnut	O
+produce_3	in	O
+produce_3	Nigeria	O

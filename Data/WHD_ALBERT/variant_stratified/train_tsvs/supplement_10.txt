@@ -1,0 +1,13 @@
+supplement_10	The	O
+supplement_10	final	O
+supplement_10	installment	O
+supplement_10	for	O
+supplement_10	November	O
+supplement_10	1928	O
+supplement_10	appeared	O
+supplement_10	as	O
+supplement_10	a	O
+supplement_10	supplement	supplement_nou
+supplement_10	to	O
+supplement_10	The	O
+supplement_10	Bookman	O

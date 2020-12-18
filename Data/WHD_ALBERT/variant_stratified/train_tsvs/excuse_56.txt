@@ -1,0 +1,13 @@
+excuse_56	Dutt	O
+excuse_56	recalled	O
+excuse_56	I	O
+excuse_56	do	O
+excuse_56	n't	O
+excuse_56	know	O
+excuse_56	what	O
+excuse_56	excuse	excuse_nou
+excuse_56	Kevin	O
+excuse_56	gave	O
+excuse_56	them	O
+excuse_56	for	O
+excuse_56	leaving	O

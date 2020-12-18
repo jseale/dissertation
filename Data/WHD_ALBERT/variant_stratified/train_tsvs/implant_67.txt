@@ -1,0 +1,16 @@
+implant_67	This	O
+implant_67	can	O
+implant_67	be	O
+implant_67	corrected	O
+implant_67	by	O
+implant_67	wearing	O
+implant_67	glasses	O
+implant_67	contact	O
+implant_67	lenses	O
+implant_67	or	O
+implant_67	by	O
+implant_67	implant	implant_nou
+implant_67	of	O
+implant_67	an	O
+implant_67	artificial	O
+implant_67	lens	O

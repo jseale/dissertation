@@ -1,0 +1,9 @@
+winds_22	The	O
+winds_22	strongest	O
+winds_22	winds	winds_nou
+winds_22	hit	O
+winds_22	Wales	O
+winds_22	and	O
+winds_22	Northwest	O
+winds_22	English	O
+winds_22	coasts	O

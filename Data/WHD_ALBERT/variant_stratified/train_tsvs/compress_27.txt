@@ -1,0 +1,11 @@
+compress_27	Simply	O
+compress_27	compress	compress
+compress_27	the	O
+compress_27	take	O
+compress_27	up	O
+compress_27	springs	O
+compress_27	and	O
+compress_27	your	O
+compress_27	problem	O
+compress_27	goes	O
+compress_27	away	O

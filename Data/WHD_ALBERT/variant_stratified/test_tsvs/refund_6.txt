@@ -1,0 +1,15 @@
+refund_6	The	O
+refund_6	company	O
+refund_6	ended	O
+refund_6	production	O
+refund_6	without	O
+refund_6	any	O
+refund_6	type	O
+refund_6	of	O
+refund_6	notification	O
+refund_6	or	O
+refund_6	refund	refund_nou
+refund_6	to	O
+refund_6	subscribers	O
+refund_6	or	O
+refund_6	advertisers	O

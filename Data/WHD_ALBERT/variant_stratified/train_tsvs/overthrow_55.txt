@@ -1,0 +1,17 @@
+overthrow_55	Eventually	O
+overthrow_55	disgusted	O
+overthrow_55	by	O
+overthrow_55	the	O
+overthrow_55	abusive	O
+overthrow_55	practices	O
+overthrow_55	of	O
+overthrow_55	the	O
+overthrow_55	Gods	O
+overthrow_55	he	O
+overthrow_55	joins	O
+overthrow_55	Sam	O
+overthrow_55	's	O
+overthrow_55	efforts	O
+overthrow_55	to	O
+overthrow_55	overthrow	overthrow_vrb
+overthrow_55	them	O

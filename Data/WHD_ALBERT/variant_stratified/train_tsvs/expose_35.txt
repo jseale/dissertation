@@ -1,0 +1,11 @@
+expose_35	He	O
+expose_35	risks	O
+expose_35	his	O
+expose_35	career	O
+expose_35	and	O
+expose_35	his	O
+expose_35	life	O
+expose_35	to	O
+expose_35	expose	expose_vrb
+expose_35	the	O
+expose_35	truth	O

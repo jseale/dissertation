@@ -1,0 +1,12 @@
+rerelease_56	Premium	O
+rerelease_56	pack	O
+rerelease_56	version	O
+rerelease_56	available	O
+rerelease_56	at	O
+rerelease_56	PlayStation	O
+rerelease_56	2	O
+rerelease_56	rerelease	rerelease
+rerelease_56	includes	O
+rerelease_56	a	O
+rerelease_56	robot	O
+rerelease_56	figure	O

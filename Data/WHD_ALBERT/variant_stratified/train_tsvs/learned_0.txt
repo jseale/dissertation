@@ -1,0 +1,12 @@
+learned_0	Also	O
+learned_0	the	O
+learned_0	assembly	O
+learned_0	witnessing	O
+learned_0	the	O
+learned_0	debate	O
+learned_0	is	O
+learned_0	classified	O
+learned_0	as	O
+learned_0	learned	learned_adj
+learned_0	and	O
+learned_0	ignorant	O

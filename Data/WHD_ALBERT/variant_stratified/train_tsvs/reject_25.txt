@@ -1,0 +1,15 @@
+reject_25	Because	O
+reject_25	Buddhists	O
+reject_25	also	O
+reject_25	reject	reject_vrb
+reject_25	agenthood	O
+reject_25	the	O
+reject_25	traditional	O
+reject_25	compatibilist	O
+reject_25	strategies	O
+reject_25	are	O
+reject_25	closed	O
+reject_25	to	O
+reject_25	them	O
+reject_25	as	O
+reject_25	well	O

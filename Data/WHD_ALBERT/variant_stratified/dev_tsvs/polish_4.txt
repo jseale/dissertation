@@ -1,0 +1,12 @@
+polish_4	The	O
+polish_4	Polish	polish_geo
+polish_4	Treasury	O
+polish_4	currently	O
+polish_4	owns	O
+polish_4	62.1	O
+polish_4	percent	O
+polish_4	while	O
+polish_4	LOT	O
+polish_4	retains	O
+polish_4	37.9	O
+polish_4	percent	O

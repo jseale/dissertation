@@ -1,0 +1,14 @@
+deliberate_65	Deliberate	deliberate_adj
+deliberate_65	spreading	O
+deliberate_65	of	O
+deliberate_65	computer	O
+deliberate_65	viruses	O
+deliberate_65	is	O
+deliberate_65	also	O
+deliberate_65	illegal	O
+deliberate_65	in	O
+deliberate_65	the	O
+deliberate_65	United	O
+deliberate_65	States	O
+deliberate_65	and	O
+deliberate_65	elsewhere	O

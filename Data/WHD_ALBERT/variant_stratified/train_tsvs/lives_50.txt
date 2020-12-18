@@ -1,0 +1,11 @@
+lives_50	Bean	O
+lives_50	lives	lives_vrb
+lives_50	in	O
+lives_50	Lakeland	O
+lives_50	Florida	O
+lives_50	where	O
+lives_50	he	O
+lives_50	enjoys	O
+lives_50	hunting	O
+lives_50	and	O
+lives_50	fishing	O

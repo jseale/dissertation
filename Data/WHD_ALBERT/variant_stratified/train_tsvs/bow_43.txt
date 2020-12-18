@@ -1,0 +1,17 @@
+bow_43	People	O
+bow_43	should	O
+bow_43	bow	bow_nou-ship
+bow_43	one	O
+bow_43	time	O
+bow_43	for	O
+bow_43	those	O
+bow_43	who	O
+bow_43	are	O
+bow_43	alive	O
+bow_43	and	O
+bow_43	twice	O
+bow_43	for	O
+bow_43	those	O
+bow_43	who	O
+bow_43	are	O
+bow_43	deceased	O

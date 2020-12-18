@@ -1,0 +1,13 @@
+estimate_25	The	O
+estimate_25	most	O
+estimate_25	widely	O
+estimate_25	accepted	O
+estimate_25	estimate	estimate_nou
+estimate_25	of	O
+estimate_25	the	O
+estimate_25	number	O
+estimate_25	of	O
+estimate_25	dead	O
+estimate_25	is	O
+estimate_25	about	O
+estimate_25	22,000	O

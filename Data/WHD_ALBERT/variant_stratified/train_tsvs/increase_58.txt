@@ -1,0 +1,13 @@
+increase_58	Depending	O
+increase_58	on	O
+increase_58	the	O
+increase_58	type	O
+increase_58	of	O
+increase_58	sensor	O
+increase_58	the	O
+increase_58	resistance	O
+increase_58	will	O
+increase_58	either	O
+increase_58	increase	increase_vrb
+increase_58	or	O
+increase_58	decrease	O

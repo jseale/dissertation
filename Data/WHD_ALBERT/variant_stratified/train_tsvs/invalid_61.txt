@@ -1,0 +1,17 @@
+invalid_61	With	O
+invalid_61	an	O
+invalid_61	invalid	invalid_nou
+invalid_61	in	O
+invalid_61	the	O
+invalid_61	White	O
+invalid_61	House	O
+invalid_61	and	O
+invalid_61	less	O
+invalid_61	support	O
+invalid_61	in	O
+invalid_61	the	O
+invalid_61	country	O
+invalid_61	the	O
+invalid_61	treaty	O
+invalid_61	was	O
+invalid_61	defeated	O

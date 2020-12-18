@@ -1,0 +1,15 @@
+affiliate_61	XHTAO	O
+affiliate_61	TDT	O
+affiliate_61	channel	O
+affiliate_61	47	O
+affiliate_61	virtual	O
+affiliate_61	channel	O
+affiliate_61	12	O
+affiliate_61	is	O
+affiliate_61	a	O
+affiliate_61	Multimedios	O
+affiliate_61	Television	O
+affiliate_61	affiliate	affiliate_nou
+affiliate_61	in	O
+affiliate_61	Tampico	O
+affiliate_61	Tamaulipas	O

@@ -1,0 +1,10 @@
+celtic_29	The	O
+celtic_29	Duero	O
+celtic_29	group	O
+celtic_29	possibly	O
+celtic_29	the	O
+celtic_29	precursor	O
+celtic_29	of	O
+celtic_29	the	O
+celtic_29	Celtic	celtic
+celtic_29	Vaccei	O

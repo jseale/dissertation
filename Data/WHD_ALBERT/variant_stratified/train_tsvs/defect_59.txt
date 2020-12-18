@@ -1,0 +1,17 @@
+defect_59	Starkweather	O
+defect_59	was	O
+defect_59	born	O
+defect_59	with	O
+defect_59	genu	O
+defect_59	varum	O
+defect_59	a	O
+defect_59	mild	O
+defect_59	birth	O
+defect_59	defect	defect_nou
+defect_59	that	O
+defect_59	caused	O
+defect_59	his	O
+defect_59	legs	O
+defect_59	to	O
+defect_59	be	O
+defect_59	misshapen	O

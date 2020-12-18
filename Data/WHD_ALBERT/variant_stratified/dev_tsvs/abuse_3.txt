@@ -1,0 +1,14 @@
+abuse_3	It	O
+abuse_3	smashed	O
+abuse_3	taboos	O
+abuse_3	surrounding	O
+abuse_3	mental	O
+abuse_3	health	O
+abuse_3	abuse	abuse_nou
+abuse_3	sexuality	O
+abuse_3	and	O
+abuse_3	religion	O
+abuse_3	with	O
+abuse_3	humor	O
+abuse_3	and	O
+abuse_3	optimism	O

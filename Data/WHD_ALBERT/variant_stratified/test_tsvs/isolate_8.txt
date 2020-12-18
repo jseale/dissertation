@@ -1,0 +1,14 @@
+isolate_8	Pectolinarigenin	O
+isolate_8	is	O
+isolate_8	a	O
+isolate_8	Cirsium	O
+isolate_8	isolate	isolate_nou
+isolate_8	with	O
+isolate_8	anti	O
+isolate_8	inflammatory	O
+isolate_8	activity	O
+isolate_8	and	O
+isolate_8	belongs	O
+isolate_8	to	O
+isolate_8	the	O
+isolate_8	flavones	O

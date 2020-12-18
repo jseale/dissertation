@@ -1,0 +1,13 @@
+live_1	One	O
+live_1	episode	O
+live_1	included	O
+live_1	a	O
+live_1	live	live_adj
+live_1	performance	O
+live_1	of	O
+live_1	My	O
+live_1	Little	O
+live_1	Angel	O
+live_1	by	O
+live_1	William	O
+live_1	Shakespeare	O

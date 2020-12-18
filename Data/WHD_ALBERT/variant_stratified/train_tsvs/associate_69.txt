@@ -1,0 +1,11 @@
+associate_69	Blade	O
+associate_69	currently	O
+associate_69	serves	O
+associate_69	as	O
+associate_69	an	O
+associate_69	Associate	associate_adj-nou
+associate_69	Editor	O
+associate_69	for	O
+associate_69	the	O
+associate_69	Agronomy	O
+associate_69	Journal	O

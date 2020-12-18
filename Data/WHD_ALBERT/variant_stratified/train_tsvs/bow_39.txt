@@ -1,0 +1,13 @@
+bow_39	Often	O
+bow_39	swim	O
+bow_39	alongside	O
+bow_39	the	O
+bow_39	bow	bow_nou-ship
+bow_39	of	O
+bow_39	vessels	O
+bow_39	and	O
+bow_39	frolic	O
+bow_39	in	O
+bow_39	the	O
+bow_39	bow	bow_nou-ship
+bow_39	waves	O

@@ -1,0 +1,14 @@
+implant_48	The	O
+implant_48	compact	O
+implant_48	nature	O
+implant_48	of	O
+implant_48	the	O
+implant_48	subretinal	O
+implant_48	space	O
+implant_48	imposes	O
+implant_48	significant	O
+implant_48	size	O
+implant_48	constraints	O
+implant_48	on	O
+implant_48	the	O
+implant_48	implant	implant_nou

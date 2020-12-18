@@ -1,0 +1,11 @@
+reading_1	His	O
+reading_1	performance	O
+reading_1	is	O
+reading_1	based	O
+reading_1	on	O
+reading_1	Charles	O
+reading_1	Dickens	O
+reading_1	original	O
+reading_1	reading	reading_en
+reading_1	tour	O
+reading_1	script	O

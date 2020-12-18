@@ -1,0 +1,11 @@
+transport_55	The	O
+transport_55	transport	transport_nou
+transport_55	volume	O
+transport_55	in	O
+transport_55	2008	O
+transport_55	amounted	O
+transport_55	to	O
+transport_55	over	O
+transport_55	90	O
+transport_55	million	O
+transport_55	tons	O

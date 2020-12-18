@@ -1,0 +1,17 @@
+insert_64	These	O
+insert_64	pockets	O
+insert_64	are	O
+insert_64	attached	O
+insert_64	on	O
+insert_64	three	O
+insert_64	sides	O
+insert_64	with	O
+insert_64	the	O
+insert_64	top	O
+insert_64	side	O
+insert_64	being	O
+insert_64	open	O
+insert_64	to	O
+insert_64	insert	insert_vrb
+insert_64	the	O
+insert_64	stamps	O

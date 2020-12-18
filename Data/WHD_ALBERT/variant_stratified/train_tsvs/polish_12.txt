@@ -1,0 +1,11 @@
+polish_12	Before	O
+polish_12	World	O
+polish_12	War	O
+polish_12	II	O
+polish_12	Chudek	O
+polish_12	served	O
+polish_12	in	O
+polish_12	Polish	polish_geo
+polish_12	114th	O
+polish_12	Fighter	O
+polish_12	Escadrille	O

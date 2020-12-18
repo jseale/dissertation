@@ -1,0 +1,16 @@
+lives_41	This	O
+lives_41	concern	O
+lives_41	for	O
+lives_41	equality	O
+lives_41	and	O
+lives_41	humanity	O
+lives_41	extends	O
+lives_41	also	O
+lives_41	to	O
+lives_41	the	O
+lives_41	stranger	O
+lives_41	who	O
+lives_41	lives	lives_vrb
+lives_41	among	O
+lives_41	the	O
+lives_41	Israelites	O

@@ -1,0 +1,17 @@
+analyses_5	Viewshed	O
+analyses_5	analyses	analyses_nou
+analyses_5	are	O
+analyses_5	also	O
+analyses_5	used	O
+analyses_5	to	O
+analyses_5	locate	O
+analyses_5	fire	O
+analyses_5	observation	O
+analyses_5	stations	O
+analyses_5	in	O
+analyses_5	mountain	O
+analyses_5	areas	O
+analyses_5	Lee	O
+analyses_5	and	O
+analyses_5	Stucky	O
+analyses_5	1998	O

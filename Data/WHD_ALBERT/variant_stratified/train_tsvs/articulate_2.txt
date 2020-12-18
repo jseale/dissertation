@@ -1,0 +1,15 @@
+articulate_2	The	O
+articulate_2	District	O
+articulate_2	has	O
+articulate_2	a	O
+articulate_2	stimulating	O
+articulate_2	and	O
+articulate_2	challenging	O
+articulate_2	atmosphere	O
+articulate_2	with	O
+articulate_2	a	O
+articulate_2	capable	O
+articulate_2	articulate	articulate_adj
+articulate_2	and	O
+articulate_2	professional	O
+articulate_2	staff	O

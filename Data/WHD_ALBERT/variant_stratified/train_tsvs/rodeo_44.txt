@@ -1,0 +1,16 @@
+rodeo_44	The	O
+rodeo_44	West	O
+rodeo_44	Village	O
+rodeo_44	Rodeo	rodeo
+rodeo_44	Grounds	O
+rodeo_44	area	O
+rodeo_44	lies	O
+rodeo_44	on	O
+rodeo_44	the	O
+rodeo_44	North	O
+rodeo_44	and	O
+rodeo_44	West	O
+rodeo_44	sides	O
+rodeo_44	of	O
+rodeo_44	Gull	O
+rodeo_44	Lake	O

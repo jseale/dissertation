@@ -1,0 +1,7 @@
+wound_0	The	O
+wound_0	evidence	O
+wound_0	regarding	O
+wound_0	wound	wound_nou-vrb
+wound_0	healing	O
+wound_0	is	O
+wound_0	contradictory	O

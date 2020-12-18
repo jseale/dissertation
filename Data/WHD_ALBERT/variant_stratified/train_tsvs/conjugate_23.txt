@@ -1,0 +1,13 @@
+conjugate_23	The	O
+conjugate_23	above	O
+conjugate_23	algorithm	O
+conjugate_23	gives	O
+conjugate_23	the	O
+conjugate_23	most	O
+conjugate_23	straightforward	O
+conjugate_23	explanation	O
+conjugate_23	of	O
+conjugate_23	the	O
+conjugate_23	conjugate	conjugate_adj-nou
+conjugate_23	gradient	O
+conjugate_23	method	O

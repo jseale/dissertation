@@ -1,0 +1,17 @@
+delegate_17	He	O
+delegate_17	was	O
+delegate_17	affiliated	O
+delegate_17	with	O
+delegate_17	the	O
+delegate_17	Republican	O
+delegate_17	Party	O
+delegate_17	and	O
+delegate_17	was	O
+delegate_17	a	O
+delegate_17	delegate	delegate_nou
+delegate_17	at	O
+delegate_17	the	O
+delegate_17	1860	O
+delegate_17	Republican	O
+delegate_17	National	O
+delegate_17	Convention	O

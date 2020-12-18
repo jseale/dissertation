@@ -1,0 +1,9 @@
+decrease_57	Eggs	O
+decrease_57	decrease	decrease_vrb
+decrease_57	slightly	O
+decrease_57	in	O
+decrease_57	size	O
+decrease_57	from	O
+decrease_57	laying	O
+decrease_57	to	O
+decrease_57	hatching	O

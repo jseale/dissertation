@@ -1,0 +1,7 @@
+sow_7	What	O
+sow_7	you	O
+sow_7	sow	sow
+sow_7	you	O
+sow_7	have	O
+sow_7	to	O
+sow_7	reap	O

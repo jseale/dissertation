@@ -1,0 +1,8 @@
+aged_71	Classen	O
+aged_71	died	O
+aged_71	on	O
+aged_71	29	O
+aged_71	September	O
+aged_71	2013	O
+aged_71	aged	aged
+aged_71	85	O

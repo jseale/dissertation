@@ -1,0 +1,15 @@
+wind_22	Typically	O
+wind_22	the	O
+wind_22	most	O
+wind_22	important	O
+wind_22	weather	O
+wind_22	parameter	O
+wind_22	measured	O
+wind_22	at	O
+wind_22	this	O
+wind_22	height	O
+wind_22	is	O
+wind_22	wind	wind_nou
+wind_22	speed	O
+wind_22	and	O
+wind_22	direction	O

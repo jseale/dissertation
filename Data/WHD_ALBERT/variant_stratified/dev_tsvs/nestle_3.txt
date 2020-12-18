@@ -1,0 +1,9 @@
+nestle_3	Nestle	nestle_nam
+nestle_3	later	O
+nestle_3	acquired	O
+nestle_3	the	O
+nestle_3	company	O
+nestle_3	and	O
+nestle_3	closed	O
+nestle_3	this	O
+nestle_3	plant	O

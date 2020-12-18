@@ -1,0 +1,16 @@
+graduate_61	He	O
+graduate_61	served	O
+graduate_61	as	O
+graduate_61	a	O
+graduate_61	graduate	graduate_adj-nou
+graduate_61	assistant	O
+graduate_61	coach	O
+graduate_61	there	O
+graduate_61	where	O
+graduate_61	he	O
+graduate_61	coached	O
+graduate_61	wide	O
+graduate_61	receivers	O
+graduate_61	and	O
+graduate_61	defensive	O
+graduate_61	backs	O

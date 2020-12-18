@@ -1,0 +1,7 @@
+increment_74	Avenues	O
+increment_74	increment	increment_vrb
+increment_74	alphabetically	O
+increment_74	as	O
+increment_74	travel	O
+increment_74	proceeds	O
+increment_74	west	O

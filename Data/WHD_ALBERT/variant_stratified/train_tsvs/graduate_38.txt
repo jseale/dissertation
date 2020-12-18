@@ -1,0 +1,10 @@
+graduate_38	Harding	O
+graduate_38	of	O
+graduate_38	Memphis	O
+graduate_38	Graduate	graduate_adj-nou
+graduate_38	School	O
+graduate_38	Bulletin	O
+graduate_38	13.8	O
+graduate_38	Nov.	O
+graduate_38	1974	O
+graduate_38	4	O

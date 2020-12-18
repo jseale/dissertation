@@ -1,0 +1,16 @@
+close_3	Close	close_adj-nou
+close_3	to	O
+close_3	the	O
+close_3	east	O
+close_3	portals	O
+close_3	is	O
+close_3	a	O
+close_3	130-foot	O
+close_3	40	O
+close_3	m	O
+close_3	tunnel	O
+close_3	underpass	O
+close_3	carrying	O
+close_3	SW	O
+close_3	18th	O
+close_3	Avenue	O

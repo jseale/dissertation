@@ -1,0 +1,15 @@
+blessed_71	He	O
+blessed_71	said	O
+blessed_71	in	O
+blessed_71	a	O
+blessed_71	2002	O
+blessed_71	interview	O
+blessed_71	that	O
+blessed_71	as	O
+blessed_71	a	O
+blessed_71	child	O
+blessed_71	he	O
+blessed_71	was	O
+blessed_71	shy	O
+blessed_71	bright	O
+blessed_71	blessed	blessed_vrb

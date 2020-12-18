@@ -1,0 +1,12 @@
+affiliate_67	KGMY	O
+affiliate_67	was	O
+affiliate_67	the	O
+affiliate_67	ESPN	O
+affiliate_67	Radio	O
+affiliate_67	affiliate	affiliate_nou
+affiliate_67	for	O
+affiliate_67	Springfield	O
+affiliate_67	until	O
+affiliate_67	January	O
+affiliate_67	1	O
+affiliate_67	2015	O

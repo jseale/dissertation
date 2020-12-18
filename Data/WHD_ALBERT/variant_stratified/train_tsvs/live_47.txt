@@ -1,0 +1,15 @@
+live_47	Both	O
+live_47	the	O
+live_47	second	O
+live_47	television	O
+live_47	series	O
+live_47	and	O
+live_47	the	O
+live_47	live	live_adj
+live_47	action	O
+live_47	series	O
+live_47	were	O
+live_47	broadcast	O
+live_47	in	O
+live_47	1080i	O
+live_47	HDTV	O

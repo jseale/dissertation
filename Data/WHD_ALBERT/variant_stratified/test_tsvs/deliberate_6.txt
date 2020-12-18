@@ -1,0 +1,17 @@
+deliberate_6	Behavior	O
+deliberate_6	Cycles	O
+deliberate_6	Represents	O
+deliberate_6	deliberate	deliberate_adj
+deliberate_6	communication	O
+deliberate_6	activities	O
+deliberate_6	on	O
+deliberate_6	the	O
+deliberate_6	part	O
+deliberate_6	of	O
+deliberate_6	an	O
+deliberate_6	organization	O
+deliberate_6	to	O
+deliberate_6	decrease	O
+deliberate_6	levels	O
+deliberate_6	of	O
+deliberate_6	ambiguity	O

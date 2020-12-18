@@ -1,0 +1,17 @@
+increment_2	Based	O
+increment_2	on	O
+increment_2	his	O
+increment_2	statistical	O
+increment_2	analysis	O
+increment_2	he	O
+increment_2	concluded	O
+increment_2	that	O
+increment_2	the	O
+increment_2	rate	O
+increment_2	constant	O
+increment_2	is	O
+increment_2	proportional	O
+increment_2	to	O
+increment_2	the	O
+increment_2	critical	O
+increment_2	increment	increment_nou

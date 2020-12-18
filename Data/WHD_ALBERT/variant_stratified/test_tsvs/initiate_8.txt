@@ -1,0 +1,15 @@
+initiate_8	However	O
+initiate_8	radiation	O
+initiate_8	induced	O
+initiate_8	breaks	O
+initiate_8	can	O
+initiate_8	also	O
+initiate_8	initiate	initiate_vrb
+initiate_8	recombination	O
+initiate_8	in	O
+initiate_8	mutants	O
+initiate_8	deleted	O
+initiate_8	for	O
+initiate_8	this	O
+initiate_8	spo11	O
+initiate_8	homolog	O

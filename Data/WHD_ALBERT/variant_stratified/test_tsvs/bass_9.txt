@@ -1,0 +1,15 @@
+bass_9	From	O
+bass_9	the	O
+bass_9	rivers	O
+bass_9	estuaries	O
+bass_9	and	O
+bass_9	seas	O
+bass_9	they	O
+bass_9	harvested	O
+bass_9	shad	O
+bass_9	smelts	O
+bass_9	gaspereau	O
+bass_9	cod	O
+bass_9	salmon	O
+bass_9	bass	bass_corp
+bass_9	etc	O

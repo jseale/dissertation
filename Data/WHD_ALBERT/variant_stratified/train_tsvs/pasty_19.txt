@@ -1,0 +1,13 @@
+pasty_19	The	O
+pasty_19	website	O
+pasty_19	featured	O
+pasty_19	various	O
+pasty_19	words	O
+pasty_19	related	O
+pasty_19	to	O
+pasty_19	Cornwall	O
+pasty_19	such	O
+pasty_19	as	O
+pasty_19	pasty	pasty_adj
+pasty_19	and	O
+pasty_19	chough	O

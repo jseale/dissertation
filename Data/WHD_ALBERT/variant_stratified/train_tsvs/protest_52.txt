@@ -1,0 +1,16 @@
+protest_52	In	O
+protest_52	February	O
+protest_52	1942	O
+protest_52	the	O
+protest_52	Riverside	O
+protest_52	County	O
+protest_52	Board	O
+protest_52	of	O
+protest_52	Supervisors	O
+protest_52	renewed	O
+protest_52	its	O
+protest_52	protest	protest_nou
+protest_52	against	O
+protest_52	exporting	O
+protest_52	local	O
+protest_52	water	O

@@ -1,0 +1,17 @@
+estimate_13	The	O
+estimate_13	simple	O
+estimate_13	estimate	estimate_nou
+estimate_13	of	O
+estimate_13	cardinality	O
+estimate_13	obtained	O
+estimate_13	using	O
+estimate_13	the	O
+estimate_13	algorithm	O
+estimate_13	above	O
+estimate_13	has	O
+estimate_13	the	O
+estimate_13	disadvantage	O
+estimate_13	of	O
+estimate_13	a	O
+estimate_13	large	O
+estimate_13	variance	O

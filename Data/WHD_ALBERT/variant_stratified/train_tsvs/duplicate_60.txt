@@ -1,0 +1,17 @@
+duplicate_60	Nevertheless	O
+duplicate_60	the	O
+duplicate_60	basic	O
+duplicate_60	issue	O
+duplicate_60	of	O
+duplicate_60	users	O
+duplicate_60	being	O
+duplicate_60	able	O
+duplicate_60	to	O
+duplicate_60	duplicate	duplicate_vrb
+duplicate_60	content	O
+duplicate_60	that	O
+duplicate_60	is	O
+duplicate_60	sent	O
+duplicate_60	to	O
+duplicate_60	them	O
+duplicate_60	remains	O

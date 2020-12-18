@@ -1,0 +1,14 @@
+ornament_47	During	O
+ornament_47	her	O
+ornament_47	visits	O
+ornament_47	she	O
+ornament_47	studies	O
+ornament_47	their	O
+ornament_47	decorative	O
+ornament_47	traditions	O
+ornament_47	and	O
+ornament_47	the	O
+ornament_47	cultural	O
+ornament_47	significance	O
+ornament_47	of	O
+ornament_47	ornament	ornament_nou

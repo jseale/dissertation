@@ -1,0 +1,7 @@
+reject_9	We	O
+reject_9	reject	reject_vrb
+reject_9	all	O
+reject_9	government	O
+reject_9	and	O
+reject_9	economic	O
+reject_9	repression	O

@@ -1,0 +1,16 @@
+tear_50	At	O
+tear_50	the	O
+tear_50	apartment	O
+tear_50	a	O
+tear_50	vengeance	O
+tear_50	demon	O
+tear_50	appears	O
+tear_50	suddenly	O
+tear_50	before	O
+tear_50	Xander	O
+tear_50	threatening	O
+tear_50	to	O
+tear_50	tear	tear_vrb
+tear_50	him	O
+tear_50	into	O
+tear_50	pieces	O

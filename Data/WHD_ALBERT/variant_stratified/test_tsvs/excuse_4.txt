@@ -1,0 +1,14 @@
+excuse_4	They	O
+excuse_4	all	O
+excuse_4	were	O
+excuse_4	not	O
+excuse_4	hypnotised	O
+excuse_4	on	O
+excuse_4	the	O
+excuse_4	excuse	excuse_nou
+excuse_4	that	O
+excuse_4	they	O
+excuse_4	have	O
+excuse_4	a	O
+excuse_4	secret	O
+excuse_4	mission	O

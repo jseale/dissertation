@@ -1,0 +1,11 @@
+discount_1	Discount	discount_nou
+discount_1	passes	O
+discount_1	are	O
+discount_1	available	O
+discount_1	for	O
+discount_1	grade	O
+discount_1	school	O
+discount_1	and	O
+discount_1	higher	O
+discount_1	education	O
+discount_1	students	O

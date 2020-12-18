@@ -1,0 +1,16 @@
+conflict_4	Fear	O
+conflict_4	of	O
+conflict_4	communism	O
+conflict_4	extreme	O
+conflict_4	revolutionary	O
+conflict_4	ideas	O
+conflict_4	and	O
+conflict_4	ultra	O
+conflict_4	nationalism	O
+conflict_4	caused	O
+conflict_4	conflict	conflict_nou
+conflict_4	among	O
+conflict_4	the	O
+conflict_4	new	O
+conflict_4	ruling	O
+conflict_4	elites	O

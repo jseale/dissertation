@@ -1,0 +1,13 @@
+misuse_8	The	O
+misuse_8	European	O
+misuse_8	Commission	O
+misuse_8	accused	O
+misuse_8	E.ON	O
+misuse_8	of	O
+misuse_8	the	O
+misuse_8	misuse	misuse_nou
+misuse_8	of	O
+misuse_8	markets	O
+misuse_8	in	O
+misuse_8	February	O
+misuse_8	2008	O

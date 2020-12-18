@@ -1,0 +1,15 @@
+live_71	However	O
+live_71	only	O
+live_71	about	O
+live_71	43	O
+live_71	of	O
+live_71	the	O
+live_71	ger	O
+live_71	district	O
+live_71	residents	O
+live_71	in	O
+live_71	Ulaanbaatar	O
+live_71	actually	O
+live_71	live	live_vrb
+live_71	in	O
+live_71	gers	O

@@ -1,0 +1,17 @@
+precipitate_28	Because	O
+precipitate_28	of	O
+precipitate_28	its	O
+precipitate_28	color	O
+precipitate_28	the	O
+precipitate_28	precipitate	precipitate_adj-nou
+precipitate_28	of	O
+precipitate_28	kermesite	O
+precipitate_28	was	O
+precipitate_28	used	O
+precipitate_28	as	O
+precipitate_28	a	O
+precipitate_28	coloring	O
+precipitate_28	agent	O
+precipitate_28	and	O
+precipitate_28	in	O
+precipitate_28	alchemy	O

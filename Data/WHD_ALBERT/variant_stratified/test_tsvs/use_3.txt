@@ -1,0 +1,14 @@
+use_3	Even	O
+use_3	by	O
+use_3	that	O
+use_3	definition	O
+use_3	the	O
+use_3	use	use_nou
+use_3	of	O
+use_3	four	O
+use_3	wheels	O
+use_3	instead	O
+use_3	of	O
+use_3	two	O
+use_3	raises	O
+use_3	doubts	O

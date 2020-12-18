@@ -1,0 +1,16 @@
+perfume_6	Historically	O
+perfume_6	ointment	O
+perfume_6	like	O
+perfume_6	unguents	O
+perfume_6	have	O
+perfume_6	been	O
+perfume_6	used	O
+perfume_6	as	O
+perfume_6	a	O
+perfume_6	type	O
+perfume_6	of	O
+perfume_6	solid	O
+perfume_6	perfume	perfume_nou
+perfume_6	since	O
+perfume_6	Egyptian	O
+perfume_6	times	O

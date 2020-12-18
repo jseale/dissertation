@@ -1,0 +1,17 @@
+convict_34	His	O
+convict_34	early	O
+convict_34	activity	O
+convict_34	involved	O
+convict_34	lobbying	O
+convict_34	for	O
+convict_34	increased	O
+convict_34	European	O
+convict_34	immigration	O
+convict_34	and	O
+convict_34	the	O
+convict_34	widespread	O
+convict_34	anti	O
+convict_34	convict	convict_nou
+convict_34	agitation	O
+convict_34	of	O
+convict_34	1849	O

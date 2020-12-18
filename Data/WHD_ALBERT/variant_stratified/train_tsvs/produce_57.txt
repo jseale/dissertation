@@ -1,0 +1,9 @@
+produce_57	The	O
+produce_57	surrounding	O
+produce_57	areas	O
+produce_57	produce	produce_vrb
+produce_57	wheat	O
+produce_57	and	O
+produce_57	other	O
+produce_57	cereal	O
+produce_57	crops	O

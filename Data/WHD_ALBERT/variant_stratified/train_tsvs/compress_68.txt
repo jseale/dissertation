@@ -1,0 +1,16 @@
+compress_68	The	O
+compress_68	musician	O
+compress_68	may	O
+compress_68	freely	O
+compress_68	stretch	O
+compress_68	or	O
+compress_68	compress	compress
+compress_68	its	O
+compress_68	rhythm	O
+compress_68	and	O
+compress_68	often	O
+compress_68	will	O
+compress_68	highly	O
+compress_68	ornament	O
+compress_68	each	O
+compress_68	note	O

@@ -1,0 +1,16 @@
+live_66	With	O
+live_66	the	O
+live_66	money	O
+live_66	left	O
+live_66	by	O
+live_66	the	O
+live_66	rich	O
+live_66	man	O
+live_66	's	O
+live_66	mouse	O
+live_66	the	O
+live_66	two	O
+live_66	live	live_vrb
+live_66	happily	O
+live_66	ever	O
+live_66	after	O

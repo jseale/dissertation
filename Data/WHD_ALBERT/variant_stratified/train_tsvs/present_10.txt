@@ -1,0 +1,13 @@
+present_10	In	O
+present_10	both	O
+present_10	molybdenum	O
+present_10	porphyries	O
+present_10	and	O
+present_10	copper	O
+present_10	porphyries	O
+present_10	the	O
+present_10	molybdenum	O
+present_10	is	O
+present_10	present	present_adj-nou
+present_10	as	O
+present_10	molybdenite	O

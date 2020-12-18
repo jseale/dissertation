@@ -1,0 +1,14 @@
+invite_23	They	O
+invite_23	then	O
+invite_23	invite	invite_vrb
+invite_23	him	O
+invite_23	to	O
+invite_23	their	O
+invite_23	wedding	O
+invite_23	reception	O
+invite_23	that	O
+invite_23	evening	O
+invite_23	which	O
+invite_23	invitation	O
+invite_23	he	O
+invite_23	accepts	O

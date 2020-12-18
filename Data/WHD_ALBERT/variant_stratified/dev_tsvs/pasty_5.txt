@@ -1,0 +1,15 @@
+pasty_5	Since	O
+pasty_5	2011	O
+pasty_5	a	O
+pasty_5	pasty	pasty_adj
+pasty_5	must	O
+pasty_5	be	O
+pasty_5	made	O
+pasty_5	in	O
+pasty_5	Cornwall	O
+pasty_5	to	O
+pasty_5	carry	O
+pasty_5	the	O
+pasty_5	label	O
+pasty_5	Cornish	O
+pasty_5	Pasty	pasty_adj

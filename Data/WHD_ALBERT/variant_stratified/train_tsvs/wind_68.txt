@@ -1,0 +1,16 @@
+wind_68	The	O
+wind_68	yacht	O
+wind_68	's	O
+wind_68	sophisticated	O
+wind_68	computer	O
+wind_68	detects	O
+wind_68	parameters	O
+wind_68	such	O
+wind_68	as	O
+wind_68	wind	wind_nou
+wind_68	speed	O
+wind_68	automatically	O
+wind_68	and	O
+wind_68	displays	O
+wind_68	key	O
+wind_68	data	O

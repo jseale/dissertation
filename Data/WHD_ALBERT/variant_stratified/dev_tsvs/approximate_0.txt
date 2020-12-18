@@ -1,0 +1,17 @@
+approximate_0	After	O
+approximate_0	the	O
+approximate_0	initial	O
+approximate_0	peak	O
+approximate_0	radio	O
+approximate_0	traffic	O
+approximate_0	through	O
+approximate_0	the	O
+approximate_0	incident	O
+approximate_0	followed	O
+approximate_0	an	O
+approximate_0	approximate	approximate_adj-nou
+approximate_0	factor	O
+approximate_0	of	O
+approximate_0	three	O
+approximate_0	steady	O
+approximate_0	increase	O

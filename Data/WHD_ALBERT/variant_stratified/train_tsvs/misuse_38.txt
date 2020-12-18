@@ -1,0 +1,17 @@
+misuse_38	The	O
+misuse_38	substance	O
+misuse_38	could	O
+misuse_38	also	O
+misuse_38	be	O
+misuse_38	considered	O
+misuse_38	illegal	O
+misuse_38	in	O
+misuse_38	the	O
+misuse_38	UK	O
+misuse_38	under	O
+misuse_38	the	O
+misuse_38	Misuse	misuse_nou
+misuse_38	of	O
+misuse_38	Drugs	O
+misuse_38	Act	O
+misuse_38	1971	O

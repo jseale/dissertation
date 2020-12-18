@@ -1,0 +1,7 @@
+tear_35	Young	O
+tear_35	women	O
+tear_35	tear	tear_vrb
+tear_35	down	O
+tear_35	the	O
+tear_35	patriotic	O
+tear_35	posters	O

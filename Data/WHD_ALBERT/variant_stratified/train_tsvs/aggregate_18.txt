@@ -1,0 +1,16 @@
+aggregate_18	Proof66	O
+aggregate_18	's	O
+aggregate_18	aggregate	aggregate_adj-nou
+aggregate_18	rating	O
+aggregate_18	ranks	O
+aggregate_18	the	O
+aggregate_18	spirit	O
+aggregate_18	as	O
+aggregate_18	the	O
+aggregate_18	3	O
+aggregate_18	vodka	O
+aggregate_18	among	O
+aggregate_18	all	O
+aggregate_18	types	O
+aggregate_18	of	O
+aggregate_18	vodka	O

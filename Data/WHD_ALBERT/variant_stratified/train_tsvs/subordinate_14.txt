@@ -1,0 +1,17 @@
+subordinate_14	The	O
+subordinate_14	units	O
+subordinate_14	of	O
+subordinate_14	Raveneck	O
+subordinate_14	and	O
+subordinate_14	his	O
+subordinate_14	subordinate	subordinate_adj-nou
+subordinate_14	Kaspar	O
+subordinate_14	Nostyc	O
+subordinate_14	commander	O
+subordinate_14	from	O
+subordinate_14	Conitz	O
+subordinate_14	Chojnice	O
+subordinate_14	also	O
+subordinate_14	created	O
+subordinate_14	a	O
+subordinate_14	tabor	O

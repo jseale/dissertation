@@ -1,0 +1,13 @@
+precipitate_44	The	O
+precipitate_44	moments	O
+precipitate_44	of	O
+precipitate_44	exhaustion	O
+precipitate_44	might	O
+precipitate_44	consequently	O
+precipitate_44	precipitate	precipitate_vrb
+precipitate_44	an	O
+precipitate_44	inversion	O
+precipitate_44	in	O
+precipitate_44	the	O
+precipitate_44	thematic	O
+precipitate_44	flux	O

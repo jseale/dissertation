@@ -1,0 +1,13 @@
+close_2	Smoothness	O
+close_2	is	O
+close_2	a	O
+close_2	measure	O
+close_2	of	O
+close_2	how	O
+close_2	similar	O
+close_2	colors	O
+close_2	that	O
+close_2	are	O
+close_2	close	close_adj-nou
+close_2	together	O
+close_2	are	O

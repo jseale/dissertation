@@ -1,0 +1,10 @@
+close_0	At	O
+close_0	the	O
+close_0	close	close_adj-nou
+close_0	of	O
+close_0	each	O
+close_0	episode	O
+close_0	Burnett	O
+close_0	tugged	O
+close_0	her	O
+close_0	ear	O

@@ -1,0 +1,14 @@
+lead_74	It	O
+lead_74	was	O
+lead_74	released	O
+lead_74	as	O
+lead_74	the	O
+lead_74	lead	lead_nou-vrb
+lead_74	single	O
+lead_74	from	O
+lead_74	their	O
+lead_74	third	O
+lead_74	studio	O
+lead_74	album	O
+lead_74	La	O
+lead_74	Liberacion	O

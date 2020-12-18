@@ -1,0 +1,14 @@
+consummate_22	He	O
+consummate_22	is	O
+consummate_22	also	O
+consummate_22	quoted	O
+consummate_22	later	O
+consummate_22	as	O
+consummate_22	saying	O
+consummate_22	Schilling	O
+consummate_22	was	O
+consummate_22	the	O
+consummate_22	consummate	consummate_adj
+consummate_22	table	O
+consummate_22	for	O
+consummate_22	one	O

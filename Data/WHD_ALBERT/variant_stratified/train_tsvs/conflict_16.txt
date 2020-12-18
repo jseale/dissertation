@@ -1,0 +1,17 @@
+conflict_16	Although	O
+conflict_16	this	O
+conflict_16	conflict	conflict_nou
+conflict_16	occurred	O
+conflict_16	in	O
+conflict_16	what	O
+conflict_16	is	O
+conflict_16	now	O
+conflict_16	Canada	O
+conflict_16	the	O
+conflict_16	militias	O
+conflict_16	involved	O
+conflict_16	were	O
+conflict_16	formed	O
+conflict_16	mostly	O
+conflict_16	of	O
+conflict_16	Americans	O

@@ -1,0 +1,15 @@
+transform_64	Orbitrap	O
+transform_64	instruments	O
+transform_64	are	O
+transform_64	similar	O
+transform_64	to	O
+transform_64	Fourier	O
+transform_64	transform	transform_nou
+transform_64	ion	O
+transform_64	cyclotron	O
+transform_64	resonance	O
+transform_64	mass	O
+transform_64	spectrometers	O
+transform_64	see	O
+transform_64	text	O
+transform_64	below	O

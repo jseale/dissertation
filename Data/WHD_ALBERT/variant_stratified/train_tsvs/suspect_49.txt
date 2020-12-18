@@ -1,0 +1,16 @@
+suspect_49	He	O
+suspect_49	was	O
+suspect_49	released	O
+suspect_49	a	O
+suspect_49	day	O
+suspect_49	later	O
+suspect_49	but	O
+suspect_49	remained	O
+suspect_49	a	O
+suspect_49	suspect	suspect_adj-nou
+suspect_49	over	O
+suspect_49	alleged	O
+suspect_49	defamation	O
+suspect_49	of	O
+suspect_49	the	O
+suspect_49	president	O

@@ -1,0 +1,15 @@
+wind_7	Wind	wind_nou
+wind_7	and	O
+wind_7	Rain	O
+wind_7	are	O
+wind_7	represented	O
+wind_7	by	O
+wind_7	images	O
+wind_7	of	O
+wind_7	their	O
+wind_7	associated	O
+wind_7	gods	O
+wind_7	Ehecatl	O
+wind_7	and	O
+wind_7	Tlaloc	O
+wind_7	respectively	O

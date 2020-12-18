@@ -1,0 +1,15 @@
+expose_73	We	O
+expose_73	feel	O
+expose_73	vindicated	O
+expose_73	with	O
+expose_73	our	O
+expose_73	efforts	O
+expose_73	to	O
+expose_73	expose	expose_vrb
+expose_73	these	O
+expose_73	groups	O
+expose_73	and	O
+expose_73	reveal	O
+expose_73	their	O
+expose_73	great	O
+expose_73	destruction	O

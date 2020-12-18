@@ -1,0 +1,13 @@
+intrigue_30	The	O
+intrigue_30	novel	O
+intrigue_30	has	O
+intrigue_30	much	O
+intrigue_30	intrigue	intrigue_nou
+intrigue_30	and	O
+intrigue_30	is	O
+intrigue_30	typical	O
+intrigue_30	of	O
+intrigue_30	Matt	O
+intrigue_30	Helm	O
+intrigue_30	style	O
+intrigue_30	action	O

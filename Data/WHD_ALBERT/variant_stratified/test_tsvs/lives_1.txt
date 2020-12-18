@@ -1,0 +1,12 @@
+lives_1	Some	O
+lives_1	42,000	O
+lives_1	North	O
+lives_1	Carolinians	O
+lives_1	lost	O
+lives_1	their	O
+lives_1	lives	lives_nou
+lives_1	in	O
+lives_1	the	O
+lives_1	American	O
+lives_1	Civil	O
+lives_1	War	O

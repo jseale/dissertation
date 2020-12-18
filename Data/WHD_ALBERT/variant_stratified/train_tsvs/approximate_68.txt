@@ -1,0 +1,14 @@
+approximate_68	It	O
+approximate_68	is	O
+approximate_68	of	O
+approximate_68	approximate	approximate_adj-nou
+approximate_68	use	O
+approximate_68	in	O
+approximate_68	predicting	O
+approximate_68	cultivation	O
+approximate_68	problems	O
+approximate_68	and	O
+approximate_68	the	O
+approximate_68	engineering	O
+approximate_68	of	O
+approximate_68	foundations	O

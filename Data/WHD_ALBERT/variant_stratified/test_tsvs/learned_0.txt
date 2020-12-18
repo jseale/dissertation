@@ -1,0 +1,12 @@
+learned_0	He	O
+learned_0	was	O
+learned_0	indeed	O
+learned_0	one	O
+learned_0	of	O
+learned_0	the	O
+learned_0	most	O
+learned_0	learned	learned_adj
+learned_0	monarchs	O
+learned_0	of	O
+learned_0	the	O
+learned_0	time	O

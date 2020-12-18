@@ -1,0 +1,12 @@
+duplicate_77	However	O
+duplicate_77	the	O
+duplicate_77	film	O
+duplicate_77	did	O
+duplicate_77	not	O
+duplicate_77	duplicate	duplicate_vrb
+duplicate_77	the	O
+duplicate_77	success	O
+duplicate_77	of	O
+duplicate_77	The	O
+duplicate_77	Little	O
+duplicate_77	Mermaid	O

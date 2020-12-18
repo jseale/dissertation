@@ -1,0 +1,16 @@
+aggregate_25	Ehrgeiz	O
+aggregate_25	currently	O
+aggregate_25	has	O
+aggregate_25	an	O
+aggregate_25	aggregate	aggregate_adj-nou
+aggregate_25	score	O
+aggregate_25	of	O
+aggregate_25	75	O
+aggregate_25	on	O
+aggregate_25	GameRankings	O
+aggregate_25	based	O
+aggregate_25	on	O
+aggregate_25	twenty	O
+aggregate_25	one	O
+aggregate_25	media	O
+aggregate_25	outlets	O

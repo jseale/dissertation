@@ -1,0 +1,14 @@
+convert_22	Multiplication	O
+convert_22	by	O
+convert_22	attaches	O
+convert_22	vortices	O
+convert_22	to	O
+convert_22	each	O
+convert_22	electron	O
+convert_22	to	O
+convert_22	convert	convert_vrb
+convert_22	it	O
+convert_22	into	O
+convert_22	a	O
+convert_22	composite	O
+convert_22	fermion	O

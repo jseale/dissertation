@@ -1,0 +1,12 @@
+read_26	Most	O
+read_26	Amish	O
+read_26	romance	O
+read_26	novels	O
+read_26	are	O
+read_26	written	O
+read_26	and	O
+read_26	read	read_past
+read_26	by	O
+read_26	evangelical	O
+read_26	Christian	O
+read_26	women	O

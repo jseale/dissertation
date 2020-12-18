@@ -1,0 +1,15 @@
+axes_51	Included	O
+axes_51	are	O
+axes_51	chainmail	O
+axes_51	armor	O
+axes_51	helmets	O
+axes_51	scimitars	O
+axes_51	yataghans	O
+axes_51	daggers	O
+axes_51	matchlocks	O
+axes_51	lances	O
+axes_51	pistols	O
+axes_51	shields	O
+axes_51	axes	axes_nou-vrb
+axes_51	and	O
+axes_51	spears	O

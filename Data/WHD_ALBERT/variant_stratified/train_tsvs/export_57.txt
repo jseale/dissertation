@@ -1,0 +1,12 @@
+export_57	He	O
+export_57	is	O
+export_57	also	O
+export_57	the	O
+export_57	chairman	O
+export_57	of	O
+export_57	the	O
+export_57	Export	export_nou
+export_57	University	O
+export_57	National	O
+export_57	Oversight	O
+export_57	Committee	O

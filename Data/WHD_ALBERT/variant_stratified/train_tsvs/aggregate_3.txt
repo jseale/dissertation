@@ -1,0 +1,14 @@
+aggregate_3	The	O
+aggregate_3	total	O
+aggregate_3	output	O
+aggregate_3	power	O
+aggregate_3	of	O
+aggregate_3	the	O
+aggregate_3	aggregate	aggregate_adj-nou
+aggregate_3	is	O
+aggregate_3	84,350	O
+aggregate_3	hp	O
+aggregate_3	achieved	O
+aggregate_3	at	O
+aggregate_3	94	O
+aggregate_3	rpm	O

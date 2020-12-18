@@ -1,0 +1,17 @@
+lead_53	It	O
+lead_53	was	O
+lead_53	released	O
+lead_53	through	O
+lead_53	Wax	O
+lead_53	Records	O
+lead_53	as	O
+lead_53	the	O
+lead_53	lead	lead_nou-vrb
+lead_53	single	O
+lead_53	from	O
+lead_53	the	O
+lead_53	album	O
+lead_53	on	O
+lead_53	October	O
+lead_53	30	O
+lead_53	2012	O

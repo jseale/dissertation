@@ -1,0 +1,11 @@
+blessed_75	Pleased	O
+blessed_75	by	O
+blessed_75	his	O
+blessed_75	devotion	O
+blessed_75	Shiva	O
+blessed_75	appeared	O
+blessed_75	before	O
+blessed_75	him	O
+blessed_75	and	O
+blessed_75	blessed	blessed_vrb
+blessed_75	him	O

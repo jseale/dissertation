@@ -1,0 +1,13 @@
+aggregate_58	Keynesian	O
+aggregate_58	economists	O
+aggregate_58	often	O
+aggregate_58	calculate	O
+aggregate_58	multipliers	O
+aggregate_58	that	O
+aggregate_58	measure	O
+aggregate_58	the	O
+aggregate_58	effect	O
+aggregate_58	on	O
+aggregate_58	aggregate	aggregate_adj-nou
+aggregate_58	demand	O
+aggregate_58	only	O

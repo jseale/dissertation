@@ -1,0 +1,10 @@
+uses_5	The	O
+uses_5	Council	O
+uses_5	of	O
+uses_5	the	O
+uses_5	European	O
+uses_5	Union	O
+uses_5	uses	uses_vrb
+uses_5	Qualified	O
+uses_5	majority	O
+uses_5	voting	O

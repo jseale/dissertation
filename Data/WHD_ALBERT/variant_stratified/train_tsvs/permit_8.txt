@@ -1,0 +1,12 @@
+permit_8	If	O
+permit_8	carrying	O
+permit_8	a	O
+permit_8	camera	O
+permit_8	you	O
+permit_8	will	O
+permit_8	be	O
+permit_8	stopped	O
+permit_8	and	O
+permit_8	asked	O
+permit_8	for	O
+permit_8	permit	permit_nou

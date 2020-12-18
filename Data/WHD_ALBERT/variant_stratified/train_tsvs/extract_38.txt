@@ -1,0 +1,14 @@
+extract_38	These	O
+extract_38	are	O
+extract_38	used	O
+extract_38	to	O
+extract_38	extract	extract_vrb
+extract_38	moisture	O
+extract_38	from	O
+extract_38	that	O
+extract_38	depth	O
+extract_38	during	O
+extract_38	the	O
+extract_38	long	O
+extract_38	dry	O
+extract_38	summers	O

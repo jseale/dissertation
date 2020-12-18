@@ -1,0 +1,14 @@
+perfect_25	The	O
+perfect_25	perfect	perfect_adj
+perfect_25	and	O
+perfect_25	the	O
+perfect_25	augmented	O
+perfect_25	unison	O
+perfect_25	are	O
+perfect_25	also	O
+perfect_25	known	O
+perfect_25	as	O
+perfect_25	perfect	perfect_adj
+perfect_25	and	O
+perfect_25	augmented	O
+perfect_25	prime	O

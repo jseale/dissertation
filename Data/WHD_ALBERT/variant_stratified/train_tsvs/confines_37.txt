@@ -1,0 +1,12 @@
+confines_37	However	O
+confines_37	their	O
+confines_37	energy	O
+confines_37	is	O
+confines_37	easily	O
+confines_37	expended	O
+confines_37	within	O
+confines_37	the	O
+confines_37	confines	confines_nou
+confines_37	of	O
+confines_37	an	O
+confines_37	apartment	O

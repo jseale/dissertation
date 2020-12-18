@@ -1,0 +1,10 @@
+lives_0	Altogether	O
+lives_0	around	O
+lives_0	3,500	O
+lives_0	lives	lives_nou
+lives_0	were	O
+lives_0	lost	O
+lives_0	from	O
+lives_0	the	O
+lives_0	various	O
+lives_0	ships	O

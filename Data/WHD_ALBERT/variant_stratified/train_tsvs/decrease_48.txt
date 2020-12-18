@@ -1,0 +1,15 @@
+decrease_48	It	O
+decrease_48	should	O
+decrease_48	be	O
+decrease_48	noted	O
+decrease_48	that	O
+decrease_48	high	O
+decrease_48	concentrations	O
+decrease_48	of	O
+decrease_48	phosphate	O
+decrease_48	severely	O
+decrease_48	decrease	decrease_vrb
+decrease_48	stability	O
+decrease_48	of	O
+decrease_48	horseradish	O
+decrease_48	peroxidase	O

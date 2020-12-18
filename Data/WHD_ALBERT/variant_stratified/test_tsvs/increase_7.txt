@@ -1,0 +1,15 @@
+increase_7	As	O
+increase_7	a	O
+increase_7	result	O
+increase_7	he	O
+increase_7	was	O
+increase_7	able	O
+increase_7	to	O
+increase_7	increase	increase_vrb
+increase_7	membership	O
+increase_7	from	O
+increase_7	537	O
+increase_7	to	O
+increase_7	4,500	O
+increase_7	by	O
+increase_7	1906	O

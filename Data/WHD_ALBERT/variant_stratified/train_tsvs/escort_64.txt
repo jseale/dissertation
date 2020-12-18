@@ -1,0 +1,16 @@
+escort_64	By	O
+escort_64	1918	O
+escort_64	they	O
+escort_64	were	O
+escort_64	back	O
+escort_64	on	O
+escort_64	escort	escort_nou
+escort_64	duty	O
+escort_64	under	O
+escort_64	Greek	O
+escort_64	colors	O
+escort_64	mainly	O
+escort_64	in	O
+escort_64	the	O
+escort_64	Aegean	O
+escort_64	Sea	O

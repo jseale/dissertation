@@ -1,0 +1,10 @@
+diffuse_38	For	O
+diffuse_38	this	O
+diffuse_38	they	O
+diffuse_38	coined	O
+diffuse_38	the	O
+diffuse_38	term	O
+diffuse_38	diffuse	diffuse_adj
+diffuse_38	element	O
+diffuse_38	method	O
+diffuse_38	DEM	O

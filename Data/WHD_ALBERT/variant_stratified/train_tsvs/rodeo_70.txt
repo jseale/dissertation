@@ -1,0 +1,14 @@
+rodeo_70	Women	O
+rodeo_70	's	O
+rodeo_70	teams	O
+rodeo_70	include	O
+rodeo_70	volleyball	O
+rodeo_70	basketball	O
+rodeo_70	track	O
+rodeo_70	cross	O
+rodeo_70	country	O
+rodeo_70	tennis	O
+rodeo_70	golf	O
+rodeo_70	rodeo	rodeo
+rodeo_70	and	O
+rodeo_70	skiing	O

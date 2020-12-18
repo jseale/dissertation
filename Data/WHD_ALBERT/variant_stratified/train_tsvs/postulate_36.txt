@@ -1,0 +1,12 @@
+postulate_36	According	O
+postulate_36	to	O
+postulate_36	Hammond	O
+postulate_36	's	O
+postulate_36	postulate	postulate_nou
+postulate_36	the	O
+postulate_36	more	O
+postulate_36	stable	O
+postulate_36	diastereomer	O
+postulate_36	is	O
+postulate_36	formed	O
+postulate_36	faster	O

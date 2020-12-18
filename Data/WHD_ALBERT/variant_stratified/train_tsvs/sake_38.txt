@@ -1,0 +1,11 @@
+sake_38	We	O
+sake_38	do	O
+sake_38	n't	O
+sake_38	change	O
+sake_38	a	O
+sake_38	car	O
+sake_38	for	O
+sake_38	the	O
+sake_38	sake	sake
+sake_38	of	O
+sake_38	change	O

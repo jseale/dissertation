@@ -1,0 +1,11 @@
+frequent_18	Microsoft	O
+frequent_18	aims	O
+frequent_18	to	O
+frequent_18	release	O
+frequent_18	frequent	frequent_adj
+frequent_18	updates	O
+frequent_18	to	O
+frequent_18	the	O
+frequent_18	Xbox	O
+frequent_18	One	O
+frequent_18	console	O

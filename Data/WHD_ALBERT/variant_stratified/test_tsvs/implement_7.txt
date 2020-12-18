@@ -1,0 +1,16 @@
+implement_7	To	O
+implement_7	implement	implement_vrb
+implement_7	the	O
+implement_7	system	O
+implement_7	the	O
+implement_7	army	O
+implement_7	contracted	O
+implement_7	Bell	O
+implement_7	Laboratories	O
+implement_7	and	O
+implement_7	they	O
+implement_7	developed	O
+implement_7	a	O
+implement_7	system	O
+implement_7	called	O
+implement_7	SIGSALY	O

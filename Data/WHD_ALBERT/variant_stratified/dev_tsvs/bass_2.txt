@@ -1,0 +1,15 @@
+bass_2	The	O
+bass_2	album	O
+bass_2	features	O
+bass_2	Dethklok	O
+bass_2	members	O
+bass_2	Gene	O
+bass_2	Hoglan	O
+bass_2	and	O
+bass_2	Bryan	O
+bass_2	Beller	O
+bass_2	on	O
+bass_2	drums	O
+bass_2	and	O
+bass_2	bass	bass
+bass_2	respectively	O

@@ -1,0 +1,11 @@
+close_27	There	O
+close_27	is	O
+close_27	a	O
+close_27	small	O
+close_27	stadium	O
+close_27	called	O
+close_27	Waldstadion	O
+close_27	close	close_adj-nou
+close_27	to	O
+close_27	the	O
+close_27	Domholzschule	O

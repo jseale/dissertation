@@ -1,0 +1,15 @@
+precipitate_67	The	O
+precipitate_67	portion	O
+precipitate_67	that	O
+precipitate_67	dissolves	O
+precipitate_67	in	O
+precipitate_67	base	O
+precipitate_67	but	O
+precipitate_67	does	O
+precipitate_67	not	O
+precipitate_67	precipitate	precipitate_vrb
+precipitate_67	with	O
+precipitate_67	acid	O
+precipitate_67	is	O
+precipitate_67	γ	O
+precipitate_67	cellulose	O

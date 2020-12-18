@@ -1,0 +1,13 @@
+approximate_11	Gearhart	O
+approximate_11	Hall	O
+approximate_11	was	O
+approximate_11	expanded	O
+approximate_11	over	O
+approximate_11	the	O
+approximate_11	approximate	approximate_adj-nou
+approximate_11	location	O
+approximate_11	of	O
+approximate_11	the	O
+approximate_11	old	O
+approximate_11	Commerce	O
+approximate_11	Building	O

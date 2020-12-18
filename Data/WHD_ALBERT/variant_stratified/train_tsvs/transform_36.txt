@@ -1,0 +1,17 @@
+transform_36	The	O
+transform_36	result	O
+transform_36	of	O
+transform_36	this	O
+transform_36	state	O
+transform_36	atheism	O
+transform_36	was	O
+transform_36	to	O
+transform_36	transform	transform
+transform_36	the	O
+transform_36	Church	O
+transform_36	into	O
+transform_36	a	O
+transform_36	persecuted	O
+transform_36	and	O
+transform_36	martyred	O
+transform_36	Church	O

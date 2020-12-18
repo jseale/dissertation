@@ -1,0 +1,17 @@
+rodeo_19	Barretos	O
+rodeo_19	hosts	O
+rodeo_19	annually	O
+rodeo_19	the	O
+rodeo_19	most	O
+rodeo_19	famous	O
+rodeo_19	rodeo	rodeo
+rodeo_19	festival	O
+rodeo_19	in	O
+rodeo_19	the	O
+rodeo_19	country	O
+rodeo_19	the	O
+rodeo_19	Festa	O
+rodeo_19	do	O
+rodeo_19	Peao	O
+rodeo_19	de	O
+rodeo_19	Barretos	O

@@ -1,0 +1,11 @@
+conflict_36	The	O
+conflict_36	event	O
+conflict_36	was	O
+conflict_36	filmed	O
+conflict_36	almost	O
+conflict_36	21	O
+conflict_36	years	O
+conflict_36	after	O
+conflict_36	the	O
+conflict_36	Falklands	O
+conflict_36	Conflict	conflict_nou

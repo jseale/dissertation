@@ -1,0 +1,14 @@
+axes_1	The	O
+axes_1	attack	O
+axes_1	was	O
+axes_1	initially	O
+axes_1	slowed	O
+axes_1	down	O
+axes_1	due	O
+axes_1	to	O
+axes_1	terrain	O
+axes_1	features	O
+axes_1	along	O
+axes_1	the	O
+axes_1	attack	O
+axes_1	axes	axes_nou

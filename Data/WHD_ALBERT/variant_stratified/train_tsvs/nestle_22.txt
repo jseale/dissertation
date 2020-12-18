@@ -1,0 +1,15 @@
+nestle_22	Don	O
+nestle_22	Watt	O
+nestle_22	was	O
+nestle_22	the	O
+nestle_22	first	O
+nestle_22	designer	O
+nestle_22	to	O
+nestle_22	use	O
+nestle_22	photosymbolism	O
+nestle_22	on	O
+nestle_22	packaging	O
+nestle_22	for	O
+nestle_22	Nestle	nestle_nam
+nestle_22	Instant	O
+nestle_22	Coffee	O

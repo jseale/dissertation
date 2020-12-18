@@ -1,0 +1,14 @@
+axes_61	Reeling	O
+axes_61	from	O
+axes_61	the	O
+axes_61	impact	O
+axes_61	the	O
+axes_61	warriors	O
+axes_61	drew	O
+axes_61	their	O
+axes_61	axes	axes_nou-vrb
+axes_61	and	O
+axes_61	charged	O
+axes_61	a	O
+axes_61	fourth	O
+axes_61	time	O

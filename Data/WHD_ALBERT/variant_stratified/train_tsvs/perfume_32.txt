@@ -1,0 +1,9 @@
+perfume_32	Amber	O
+perfume_32	gets	O
+perfume_32	Lisa	O
+perfume_32	a	O
+perfume_32	new	O
+perfume_32	hairstyle	O
+perfume_32	and	O
+perfume_32	some	O
+perfume_32	perfume	perfume_nou

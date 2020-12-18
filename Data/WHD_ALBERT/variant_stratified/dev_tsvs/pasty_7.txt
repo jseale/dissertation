@@ -1,0 +1,11 @@
+pasty_7	He	O
+pasty_7	never	O
+pasty_7	felt	O
+pasty_7	that	O
+pasty_7	I	O
+pasty_7	was	O
+pasty_7	too	O
+pasty_7	pasty	pasty_nou
+pasty_7	corny	O
+pasty_7	mannered	O
+pasty_7	campy	O

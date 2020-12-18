@@ -1,0 +1,15 @@
+initiate_6	The	O
+initiate_6	Initiate	initiate_nou
+initiate_6	goes	O
+initiate_6	back	O
+initiate_6	into	O
+initiate_6	the	O
+initiate_6	Ruins	O
+initiate_6	to	O
+initiate_6	find	O
+initiate_6	the	O
+initiate_6	Laboratory	O
+initiate_6	passkey	O
+initiate_6	to	O
+initiate_6	find	O
+initiate_6	Attis	O

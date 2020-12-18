@@ -1,0 +1,11 @@
+ornament_76	CWAAS	O
+ornament_76	extra	O
+ornament_76	series	O
+ornament_76	XXXIIMary	O
+ornament_76	C	O
+ornament_76	Fair	O
+ornament_76	Romanesque	O
+ornament_76	beakhead	O
+ornament_76	ornament	ornament_nou
+ornament_76	in	O
+ornament_76	Cumberland	O

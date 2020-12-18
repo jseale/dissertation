@@ -1,0 +1,16 @@
+celtic_4	The	O
+celtic_4	p	O
+celtic_4	Celtic	celtic
+celtic_4	Welsh	O
+celtic_4	language	O
+celtic_4	also	O
+celtic_4	translates	O
+celtic_4	the	O
+celtic_4	Latin	O
+celtic_4	day	O
+celtic_4	of	O
+celtic_4	the	O
+celtic_4	sun	O
+celtic_4	as	O
+celtic_4	dydd	O
+celtic_4	Sul	O

@@ -1,0 +1,14 @@
+record_33	The	O
+record_33	record	record_nou
+record_33	listed	O
+record_33	here	O
+record_33	represents	O
+record_33	the	O
+record_33	one	O
+record_33	given	O
+record_33	on	O
+record_33	his	O
+record_33	official	O
+record_33	website	O
+record_33	Sherdog	O
+record_33	profile	O

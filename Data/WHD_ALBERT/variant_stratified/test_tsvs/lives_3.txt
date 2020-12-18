@@ -1,0 +1,7 @@
+lives_3	He	O
+lives_3	currently	O
+lives_3	lives	lives_vrb
+lives_3	in	O
+lives_3	Studio	O
+lives_3	City	O
+lives_3	California	O

@@ -1,0 +1,12 @@
+reject_15	Finally	O
+reject_15	a	O
+reject_15	provider	O
+reject_15	can	O
+reject_15	petition	O
+reject_15	the	O
+reject_15	FISA	O
+reject_15	Court	O
+reject_15	to	O
+reject_15	reject	reject_vrb
+reject_15	the	O
+reject_15	directive	O

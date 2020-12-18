@@ -1,0 +1,10 @@
+laminate_37	Workers	O
+laminate_37	roll	O
+laminate_37	out	O
+laminate_37	the	O
+laminate_37	spray	O
+laminate_37	up	O
+laminate_37	to	O
+laminate_37	compact	O
+laminate_37	the	O
+laminate_37	laminate	laminate_nou

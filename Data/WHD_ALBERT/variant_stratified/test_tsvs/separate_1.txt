@@ -1,0 +1,15 @@
+separate_1	They	O
+separate_1	later	O
+separate_1	ruled	O
+separate_1	if	O
+separate_1	two	O
+separate_1	separate	separate_adj
+separate_1	inserts	O
+separate_1	were	O
+separate_1	used	O
+separate_1	it	O
+separate_1	would	O
+separate_1	conform	O
+separate_1	to	O
+separate_1	the	O
+separate_1	rules	O

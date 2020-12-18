@@ -1,0 +1,14 @@
+winds_4	Intensification	O
+winds_4	renewed	O
+winds_4	but	O
+winds_4	maximum	O
+winds_4	sustained	O
+winds_4	winds	winds_nou
+winds_4	leveled	O
+winds_4	off	O
+winds_4	at	O
+winds_4	45	O
+winds_4	knots	O
+winds_4	83	O
+winds_4	km	O
+winds_4	h	O

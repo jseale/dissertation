@@ -1,0 +1,13 @@
+consummate_4	Home	O
+consummate_4	of	O
+consummate_4	the	O
+consummate_4	Walkers	O
+consummate_4	a	O
+consummate_4	species	O
+consummate_4	of	O
+consummate_4	First	O
+consummate_4	Ones	O
+consummate_4	who	O
+consummate_4	were	O
+consummate_4	consummate	consummate_adj
+consummate_4	explorers	O

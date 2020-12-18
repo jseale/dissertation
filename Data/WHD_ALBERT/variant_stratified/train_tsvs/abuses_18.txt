@@ -1,0 +1,12 @@
+abuses_18	If	O
+abuses_18	you	O
+abuses_18	can	O
+abuses_18	not	O
+abuses_18	permit	O
+abuses_18	abuses	abuses_nou
+abuses_18	you	O
+abuses_18	must	O
+abuses_18	at	O
+abuses_18	least	O
+abuses_18	tolerate	O
+abuses_18	them	O

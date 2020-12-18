@@ -1,0 +1,17 @@
+overthrow_63	The	O
+overthrow_63	Oath	O
+overthrow_63	was	O
+overthrow_63	a	O
+overthrow_63	vow	O
+overthrow_63	to	O
+overthrow_63	defend	O
+overthrow_63	the	O
+overthrow_63	Commonwealth	O
+overthrow_63	and	O
+overthrow_63	not	O
+overthrow_63	to	O
+overthrow_63	conspire	O
+overthrow_63	to	O
+overthrow_63	overthrow	overthrow_vrb
+overthrow_63	the	O
+overthrow_63	government	O

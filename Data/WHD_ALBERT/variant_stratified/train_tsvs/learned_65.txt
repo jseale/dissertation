@@ -1,0 +1,16 @@
+learned_65	This	O
+learned_65	approach	O
+learned_65	enables	O
+learned_65	the	O
+learned_65	team	O
+learned_65	to	O
+learned_65	leverage	O
+learned_65	lessons	O
+learned_65	learned	learned_vrb
+learned_65	and	O
+learned_65	therefore	O
+learned_65	to	O
+learned_65	continuously	O
+learned_65	improve	O
+learned_65	the	O
+learned_65	process	O

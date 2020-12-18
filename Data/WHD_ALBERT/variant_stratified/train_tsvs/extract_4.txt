@@ -1,0 +1,15 @@
+extract_4	Ethanolic	O
+extract_4	extract	extract_nou
+extract_4	of	O
+extract_4	the	O
+extract_4	aerial	O
+extract_4	parts	O
+extract_4	of	O
+extract_4	the	O
+extract_4	plant	O
+extract_4	possess	O
+extract_4	antibacterial	O
+extract_4	and	O
+extract_4	anti	O
+extract_4	fungal	O
+extract_4	properties	O

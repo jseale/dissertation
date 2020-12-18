@@ -1,0 +1,12 @@
+wind_32	In	O
+wind_32	1993	O
+wind_32	he	O
+wind_32	directed	O
+wind_32	The	O
+wind_32	Wind	wind_nou
+wind_32	and	O
+wind_32	the	O
+wind_32	Willows	O
+wind_32	by	O
+wind_32	Douglas	O
+wind_32	Post	O

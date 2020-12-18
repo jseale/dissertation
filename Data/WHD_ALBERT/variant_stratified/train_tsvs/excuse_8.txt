@@ -1,0 +1,10 @@
+excuse_8	What	O
+excuse_8	is	O
+excuse_8	the	O
+excuse_8	legal	O
+excuse_8	justification	O
+excuse_8	or	O
+excuse_8	excuse	excuse_nou
+excuse_8	for	O
+excuse_8	such	O
+excuse_8	conduct	O

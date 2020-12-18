@@ -1,0 +1,15 @@
+subordinate_4	After	O
+subordinate_4	protracted	O
+subordinate_4	discussion	O
+subordinate_4	the	O
+subordinate_4	Presbytery	O
+subordinate_4	referred	O
+subordinate_4	the	O
+subordinate_4	case	O
+subordinate_4	to	O
+subordinate_4	the	O
+subordinate_4	Western	O
+subordinate_4	Subordinate	subordinate_adj-nou
+subordinate_4	Synod	O
+subordinate_4	for	O
+subordinate_4	adjudication	O

@@ -1,0 +1,14 @@
+excuse_44	The	O
+excuse_44	news	O
+excuse_44	station	O
+excuse_44	creates	O
+excuse_44	an	O
+excuse_44	excuse	excuse_nou
+excuse_44	to	O
+excuse_44	fire	O
+excuse_44	him	O
+excuse_44	and	O
+excuse_44	Cassellis	O
+excuse_44	is	O
+excuse_44	let	O
+excuse_44	go	O

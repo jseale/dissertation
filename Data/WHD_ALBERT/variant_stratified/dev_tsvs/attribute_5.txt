@@ -1,0 +1,17 @@
+attribute_5	Using	O
+attribute_5	XML	O
+attribute_5	namespaces	O
+attribute_5	XML	O
+attribute_5	documents	O
+attribute_5	may	O
+attribute_5	contain	O
+attribute_5	element	O
+attribute_5	or	O
+attribute_5	attribute	attribute_nou
+attribute_5	names	O
+attribute_5	from	O
+attribute_5	more	O
+attribute_5	than	O
+attribute_5	one	O
+attribute_5	XML	O
+attribute_5	vocabulary	O

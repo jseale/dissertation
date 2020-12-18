@@ -1,0 +1,16 @@
+articulate_66	Perhaps	O
+articulate_66	the	O
+articulate_66	first	O
+articulate_66	to	O
+articulate_66	articulate	articulate_vrb
+articulate_66	this	O
+articulate_66	notion	O
+articulate_66	was	O
+articulate_66	an	O
+articulate_66	European	O
+articulate_66	emigre	O
+articulate_66	who	O
+articulate_66	remains	O
+articulate_66	in	O
+articulate_66	undeserved	O
+articulate_66	obscurity	O

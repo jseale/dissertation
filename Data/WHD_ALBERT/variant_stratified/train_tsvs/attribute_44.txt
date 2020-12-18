@@ -1,0 +1,9 @@
+attribute_44	Many	O
+attribute_44	attribute	attribute_vrb
+attribute_44	the	O
+attribute_44	feeling	O
+attribute_44	to	O
+attribute_44	walking	O
+attribute_44	on	O
+attribute_44	a	O
+attribute_44	walnut	O

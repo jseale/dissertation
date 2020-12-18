@@ -1,0 +1,14 @@
+convict_42	There	O
+convict_42	has	O
+convict_42	been	O
+convict_42	a	O
+convict_42	surge	O
+convict_42	in	O
+convict_42	interest	O
+convict_42	in	O
+convict_42	convict	convict_nou
+convict_42	history	O
+convict_42	and	O
+convict_42	genealogy	O
+convict_42	throughout	O
+convict_42	Australia	O

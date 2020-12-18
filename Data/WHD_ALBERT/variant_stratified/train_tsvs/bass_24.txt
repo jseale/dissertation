@@ -1,0 +1,10 @@
+bass_24	His	O
+bass_24	replacement	O
+bass_24	was	O
+bass_24	former	O
+bass_24	Blodwyn	O
+bass_24	Pig	O
+bass_24	bass	bass
+bass_24	player	O
+bass_24	Andy	O
+bass_24	Pyle	O

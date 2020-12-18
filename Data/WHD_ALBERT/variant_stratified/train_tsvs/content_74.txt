@@ -1,0 +1,13 @@
+content_74	The	O
+content_74	ice	O
+content_74	content	content_nou
+content_74	of	O
+content_74	the	O
+content_74	glacier	O
+content_74	has	O
+content_74	been	O
+content_74	assessed	O
+content_74	as	O
+content_74	0.137	O
+content_74	cubic	O
+content_74	km	O

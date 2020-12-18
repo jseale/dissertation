@@ -1,0 +1,17 @@
+sow_9	They	O
+sow_9	also	O
+sow_9	deployed	O
+sow_9	lighter	O
+sow_9	bolt	O
+sow_9	shooting	O
+sow_9	balistas	O
+sow_9	belfry	O
+sow_9	siege	O
+sow_9	towers	O
+sow_9	and	O
+sow_9	on	O
+sow_9	one	O
+sow_9	occasion	O
+sow_9	a	O
+sow_9	covered	O
+sow_9	sow	sow_nou

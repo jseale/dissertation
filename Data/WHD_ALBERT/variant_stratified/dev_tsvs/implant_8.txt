@@ -1,0 +1,12 @@
+implant_8	In	O
+implant_8	2004	O
+implant_8	Bill	O
+implant_8	Steinberg	O
+implant_8	received	O
+implant_8	a	O
+implant_8	cochlear	O
+implant_8	implant	implant_nou
+implant_8	to	O
+implant_8	improve	O
+implant_8	his	O
+implant_8	hearing	O

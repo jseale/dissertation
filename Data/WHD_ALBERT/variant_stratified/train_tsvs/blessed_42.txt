@@ -1,0 +1,12 @@
+blessed_42	The	O
+blessed_42	amulets	O
+blessed_42	were	O
+blessed_42	blessed	blessed_vrb
+blessed_42	by	O
+blessed_42	himself	O
+blessed_42	and	O
+blessed_42	other	O
+blessed_42	respected	O
+blessed_42	monks	O
+blessed_42	in	O
+blessed_42	Thailand	O

@@ -1,0 +1,11 @@
+diagnoses_5	During	O
+diagnoses_5	a	O
+diagnoses_5	routine	O
+diagnoses_5	check	O
+diagnoses_5	they	O
+diagnoses_5	are	O
+diagnoses_5	confronted	O
+diagnoses_5	with	O
+diagnoses_5	a	O
+diagnoses_5	terrifying	O
+diagnoses_5	diagnoses	diagnoses_nou

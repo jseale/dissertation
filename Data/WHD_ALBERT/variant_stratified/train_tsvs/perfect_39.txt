@@ -1,0 +1,16 @@
+perfect_39	Strength	O
+perfect_39	Through	O
+perfect_39	Vengeance	O
+perfect_39	is	O
+perfect_39	third	O
+perfect_39	full	O
+perfect_39	length	O
+perfect_39	album	O
+perfect_39	by	O
+perfect_39	Canadian	O
+perfect_39	heavy	O
+perfect_39	metal	O
+perfect_39	band	O
+perfect_39	A	O
+perfect_39	Perfect	perfect_adj
+perfect_39	Murder	O

@@ -1,0 +1,16 @@
+uses_44	Throughout	O
+uses_44	the	O
+uses_44	game	O
+uses_44	there	O
+uses_44	are	O
+uses_44	several	O
+uses_44	instances	O
+uses_44	where	O
+uses_44	he	O
+uses_44	disapproves	O
+uses_44	of	O
+uses_44	the	O
+uses_44	techniques	O
+uses_44	which	O
+uses_44	Batman	O
+uses_44	uses	uses_vrb

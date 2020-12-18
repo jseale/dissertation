@@ -1,0 +1,12 @@
+decrease_60	With	O
+decrease_60	its	O
+decrease_60	high	O
+decrease_60	overhead	O
+decrease_60	expenses	O
+decrease_60	MGM	O
+decrease_60	's	O
+decrease_60	profit	O
+decrease_60	margins	O
+decrease_60	continued	O
+decrease_60	to	O
+decrease_60	decrease	decrease_vrb

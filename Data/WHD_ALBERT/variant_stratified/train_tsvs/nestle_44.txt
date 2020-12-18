@@ -1,0 +1,13 @@
+nestle_44	Kraft	O
+nestle_44	withdrew	O
+nestle_44	its	O
+nestle_44	sponsorship	O
+nestle_44	on	O
+nestle_44	September	O
+nestle_44	26	O
+nestle_44	1993	O
+nestle_44	with	O
+nestle_44	Nestle	nestle_nam
+nestle_44	taking	O
+nestle_44	its	O
+nestle_44	place	O

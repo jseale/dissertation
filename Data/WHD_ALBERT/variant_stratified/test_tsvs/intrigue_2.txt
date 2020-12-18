@@ -1,0 +1,14 @@
+intrigue_2	Friendly	O
+intrigue_2	relations	O
+intrigue_2	between	O
+intrigue_2	Tenochtitlan	O
+intrigue_2	and	O
+intrigue_2	Azcapotzalco	O
+intrigue_2	were	O
+intrigue_2	thus	O
+intrigue_2	replaced	O
+intrigue_2	by	O
+intrigue_2	insults	O
+intrigue_2	and	O
+intrigue_2	violent	O
+intrigue_2	intrigue	intrigue_nou

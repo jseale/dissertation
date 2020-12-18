@@ -1,0 +1,17 @@
+duplicate_18	If	O
+duplicate_18	the	O
+duplicate_18	join	O
+duplicate_18	query	O
+duplicate_18	is	O
+duplicate_18	not	O
+duplicate_18	written	O
+duplicate_18	correctly	O
+duplicate_18	it	O
+duplicate_18	may	O
+duplicate_18	return	O
+duplicate_18	duplicate	duplicate_adj-nou
+duplicate_18	rows	O
+duplicate_18	and/or	O
+duplicate_18	give	O
+duplicate_18	incorrect	O
+duplicate_18	answers	O

@@ -1,0 +1,13 @@
+affect_64	How	O
+affect_64	does	O
+affect_64	being	O
+affect_64	unaware	O
+affect_64	of	O
+affect_64	having	O
+affect_64	Jewish	O
+affect_64	parents	O
+affect_64	affect	affect
+affect_64	one	O
+affect_64	's	O
+affect_64	Jewish	O
+affect_64	status	O

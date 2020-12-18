@@ -1,0 +1,15 @@
+resume_5	Glaeser	O
+resume_5	tried	O
+resume_5	to	O
+resume_5	resume	resume_vrb
+resume_5	writing	O
+resume_5	after	O
+resume_5	the	O
+resume_5	war	O
+resume_5	but	O
+resume_5	did	O
+resume_5	not	O
+resume_5	produce	O
+resume_5	any	O
+resume_5	important	O
+resume_5	works	O

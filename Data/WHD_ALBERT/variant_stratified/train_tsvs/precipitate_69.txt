@@ -1,0 +1,15 @@
+precipitate_69	This	O
+precipitate_69	test	O
+precipitate_69	is	O
+precipitate_69	used	O
+precipitate_69	to	O
+precipitate_69	precipitate	precipitate_vrb
+precipitate_69	the	O
+precipitate_69	ion	O
+precipitate_69	present	O
+precipitate_69	as	O
+precipitate_69	almost	O
+precipitate_69	all	O
+precipitate_69	carbonates	O
+precipitate_69	are	O
+precipitate_69	insoluble	O

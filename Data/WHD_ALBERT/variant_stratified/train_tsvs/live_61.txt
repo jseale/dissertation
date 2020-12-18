@@ -1,0 +1,16 @@
+live_61	Samson	O
+live_61	and	O
+live_61	Delilah	O
+live_61	are	O
+live_61	two	O
+live_61	14-year	O
+live_61	olds	O
+live_61	who	O
+live_61	live	live_vrb
+live_61	in	O
+live_61	an	O
+live_61	Aboriginal	O
+live_61	community	O
+live_61	near	O
+live_61	Alice	O
+live_61	Springs	O

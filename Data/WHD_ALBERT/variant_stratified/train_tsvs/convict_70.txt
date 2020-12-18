@@ -1,0 +1,16 @@
+convict_70	However	O
+convict_70	to	O
+convict_70	convict	convict_vrb
+convict_70	Toushin	O
+convict_70	for	O
+convict_70	distributing	O
+convict_70	extremely	O
+convict_70	violent	O
+convict_70	films	O
+convict_70	would	O
+convict_70	be	O
+convict_70	a	O
+convict_70	misuse	O
+convict_70	of	O
+convict_70	obscenity	O
+convict_70	law	O

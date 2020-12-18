@@ -1,0 +1,12 @@
+content_27	The	O
+content_27	Idaho	O
+content_27	Statesman	O
+content_27	offers	O
+content_27	IdahoStatesman.com	O
+content_27	with	O
+content_27	repurposed	O
+content_27	news	O
+content_27	sports	O
+content_27	and	O
+content_27	classifieds	O
+content_27	content	content_nou

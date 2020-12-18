@@ -1,0 +1,7 @@
+refund_25	Everyone	O
+refund_25	who	O
+refund_25	voted	O
+refund_25	was	O
+refund_25	offered	O
+refund_25	a	O
+refund_25	refund	refund_nou

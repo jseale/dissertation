@@ -1,0 +1,16 @@
+present_19	The	O
+present_19	present	present_adj-nou
+present_19	master	O
+present_19	plan	O
+present_19	of	O
+present_19	the	O
+present_19	town	O
+present_19	is	O
+present_19	found	O
+present_19	to	O
+present_19	be	O
+present_19	insufficient	O
+present_19	for	O
+present_19	the	O
+present_19	future	O
+present_19	expansion	O

@@ -1,0 +1,12 @@
+winds_56	High	O
+winds_56	winds	winds_nou
+winds_56	left	O
+winds_56	heavy	O
+winds_56	crop	O
+winds_56	damage	O
+winds_56	mostly	O
+winds_56	to	O
+winds_56	banana	O
+winds_56	trees	O
+winds_56	and	O
+winds_56	vegetables	O

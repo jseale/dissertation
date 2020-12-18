@@ -1,0 +1,9 @@
+contest_45	General	O
+contest_45	partner	O
+contest_45	of	O
+contest_45	contest	contest_nou
+contest_45	is	O
+contest_45	Moldovan	O
+contest_45	telecommunication	O
+contest_45	company	O
+contest_45	Moldcell	O

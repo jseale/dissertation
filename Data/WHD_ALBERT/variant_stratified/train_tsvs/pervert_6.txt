@@ -1,0 +1,17 @@
+pervert_6	Pervert	pervert_nou
+pervert_6	Park	O
+pervert_6	is	O
+pervert_6	a	O
+pervert_6	2014	O
+pervert_6	documentary	O
+pervert_6	film	O
+pervert_6	directed	O
+pervert_6	by	O
+pervert_6	Swedish	O
+pervert_6	Danish	O
+pervert_6	filmmaking	O
+pervert_6	couple	O
+pervert_6	Frida	O
+pervert_6	and	O
+pervert_6	Lasse	O
+pervert_6	Barkfors	O

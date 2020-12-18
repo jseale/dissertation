@@ -1,0 +1,17 @@
+present_77	It	O
+present_77	can	O
+present_77	also	O
+present_77	present	present_vrb
+present_77	with	O
+present_77	symptoms	O
+present_77	indicative	O
+present_77	of	O
+present_77	hepatosplenomegaly	O
+present_77	and	O
+present_77	the	O
+present_77	resulting	O
+present_77	upper	O
+present_77	quadrant	O
+present_77	pain	O
+present_77	this	O
+present_77	causes	O

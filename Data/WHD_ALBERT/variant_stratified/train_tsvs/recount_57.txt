@@ -1,0 +1,13 @@
+recount_57	Peter	O
+recount_57	Inverso	O
+recount_57	wo	O
+recount_57	n't	O
+recount_57	seek	O
+recount_57	recount	recount_nou
+recount_57	in	O
+recount_57	14th	O
+recount_57	District	O
+recount_57	election	O
+recount_57	loss	O
+recount_57	to	O
+recount_57	Sen.	O

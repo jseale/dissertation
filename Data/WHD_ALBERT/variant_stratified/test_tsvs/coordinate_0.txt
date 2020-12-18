@@ -1,0 +1,9 @@
+coordinate_0	The	O
+coordinate_0	numbering	O
+coordinate_0	system	O
+coordinate_0	thus	O
+coordinate_0	resembles	O
+coordinate_0	a	O
+coordinate_0	Cartesian	O
+coordinate_0	coordinate	coordinate_adj-nou
+coordinate_0	system	O

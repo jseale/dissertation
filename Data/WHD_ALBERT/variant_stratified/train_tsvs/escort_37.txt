@@ -1,0 +1,13 @@
+escort_37	It	O
+escort_37	is	O
+escort_37	called	O
+escort_37	the	O
+escort_37	Shark	O
+escort_37	this	O
+escort_37	is	O
+escort_37	a	O
+escort_37	silly	O
+escort_37	version	O
+escort_37	of	O
+escort_37	escort	escort_nou
+escort_37	submarine	O

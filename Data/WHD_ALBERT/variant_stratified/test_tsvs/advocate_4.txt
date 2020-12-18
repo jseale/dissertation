@@ -1,0 +1,13 @@
+advocate_4	He	O
+advocate_4	returned	O
+advocate_4	to	O
+advocate_4	Cape	O
+advocate_4	Colony	O
+advocate_4	in	O
+advocate_4	1895	O
+advocate_4	and	O
+advocate_4	was	O
+advocate_4	admitted	O
+advocate_4	as	O
+advocate_4	an	O
+advocate_4	advocate	advocate_nou

@@ -1,0 +1,15 @@
+overthrow_8	The	O
+overthrow_8	clan	O
+overthrow_8	based	O
+overthrow_8	armed	O
+overthrow_8	opposition	O
+overthrow_8	groups	O
+overthrow_8	eventually	O
+overthrow_8	managed	O
+overthrow_8	to	O
+overthrow_8	overthrow	overthrow_vrb
+overthrow_8	the	O
+overthrow_8	Barre	O
+overthrow_8	government	O
+overthrow_8	in	O
+overthrow_8	1991	O

@@ -1,0 +1,15 @@
+defect_40	The	O
+defect_40	body	O
+defect_40	of	O
+defect_40	the	O
+defect_40	animal	O
+defect_40	has	O
+defect_40	a	O
+defect_40	large	O
+defect_40	defect	defect_nou
+defect_40	caused	O
+defect_40	by	O
+defect_40	the	O
+defect_40	degenerated	O
+defect_40	tin	O
+defect_40	filling	O

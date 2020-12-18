@@ -1,0 +1,15 @@
+degenerate_15	The	O
+degenerate_15	role	O
+degenerate_15	of	O
+degenerate_15	degenerate	degenerate_adj-nou
+degenerate_15	robustness	O
+degenerate_15	in	O
+degenerate_15	the	O
+degenerate_15	evolvability	O
+degenerate_15	of	O
+degenerate_15	multi	O
+degenerate_15	agent	O
+degenerate_15	systems	O
+degenerate_15	in	O
+degenerate_15	dynamic	O
+degenerate_15	environments	O

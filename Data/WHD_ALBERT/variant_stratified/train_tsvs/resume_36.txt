@@ -1,0 +1,10 @@
+resume_36	First	O
+resume_36	we	O
+resume_36	can	O
+resume_36	not	O
+resume_36	afford	O
+resume_36	not	O
+resume_36	to	O
+resume_36	resume	resume_vrb
+resume_36	the	O
+resume_36	war	O

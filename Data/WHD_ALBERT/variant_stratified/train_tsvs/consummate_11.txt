@@ -1,0 +1,12 @@
+consummate_11	It	O
+consummate_11	was	O
+consummate_11	the	O
+consummate_11	consummate	consummate_adj
+consummate_11	how	O
+consummate_11	to	O
+consummate_11	manual	O
+consummate_11	for	O
+consummate_11	the	O
+consummate_11	dry	O
+consummate_11	fly	O
+consummate_11	fisherman	O

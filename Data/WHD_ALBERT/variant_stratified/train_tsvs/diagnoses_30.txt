@@ -1,0 +1,10 @@
+diagnoses_30	Incorrect	O
+diagnoses_30	diagnoses	diagnoses_nou
+diagnoses_30	include	O
+diagnoses_30	migraines	O
+diagnoses_30	meningitis	O
+diagnoses_30	Chiari	O
+diagnoses_30	malformation	O
+diagnoses_30	and	O
+diagnoses_30	psychiatric	O
+diagnoses_30	disorders	O

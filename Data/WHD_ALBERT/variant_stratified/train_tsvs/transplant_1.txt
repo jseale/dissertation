@@ -1,0 +1,13 @@
+transplant_1	On	O
+transplant_1	Earth	O
+transplant_1	he	O
+transplant_1	can	O
+transplant_1	easily	O
+transplant_1	get	O
+transplant_1	a	O
+transplant_1	transplant	transplant_nou
+transplant_1	to	O
+transplant_1	replace	O
+transplant_1	his	O
+transplant_1	missing	O
+transplant_1	arm	O

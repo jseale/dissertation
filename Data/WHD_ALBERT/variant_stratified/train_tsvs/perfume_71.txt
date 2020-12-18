@@ -1,0 +1,12 @@
+perfume_71	The	O
+perfume_71	Perfume	perfume_nou
+perfume_71	Shop	O
+perfume_71	is	O
+perfume_71	a	O
+perfume_71	United	O
+perfume_71	Kingdom	O
+perfume_71	perfume	perfume_nou
+perfume_71	retailer	O
+perfume_71	founded	O
+perfume_71	in	O
+perfume_71	1992	O

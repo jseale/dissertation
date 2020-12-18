@@ -1,0 +1,7 @@
+close_5	They	O
+close_5	used	O
+close_5	sands	O
+close_5	dredged	O
+close_5	close	close_adj-nou
+close_5	to	O
+close_5	shore	O

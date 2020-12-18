@@ -1,0 +1,12 @@
+perfect_3	Each	O
+perfect_3	problem	O
+perfect_3	was	O
+perfect_3	worth	O
+perfect_3	20	O
+perfect_3	points	O
+perfect_3	for	O
+perfect_3	a	O
+perfect_3	perfect	perfect_adj
+perfect_3	score	O
+perfect_3	of	O
+perfect_3	100	O

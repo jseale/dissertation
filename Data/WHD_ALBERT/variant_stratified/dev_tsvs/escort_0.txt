@@ -1,0 +1,16 @@
+escort_0	She	O
+escort_0	served	O
+escort_0	primarily	O
+escort_0	as	O
+escort_0	a	O
+escort_0	convoy	O
+escort_0	escort	escort_nou
+escort_0	in	O
+escort_0	the	O
+escort_0	Battle	O
+escort_0	of	O
+escort_0	the	O
+escort_0	Atlantic	O
+escort_0	during	O
+escort_0	the	O
+escort_0	war	O

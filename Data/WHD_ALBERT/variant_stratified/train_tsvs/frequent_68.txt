@@ -1,0 +1,17 @@
+frequent_68	He	O
+frequent_68	had	O
+frequent_68	noted	O
+frequent_68	in	O
+frequent_68	his	O
+frequent_68	correspondence	O
+frequent_68	the	O
+frequent_68	frequent	frequent_adj
+frequent_68	raids	O
+frequent_68	of	O
+frequent_68	the	O
+frequent_68	pirate	O
+frequent_68	Peter	O
+frequent_68	Easton	O
+frequent_68	on	O
+frequent_68	the	O
+frequent_68	fisherman	O

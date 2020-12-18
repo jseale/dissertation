@@ -1,0 +1,16 @@
+diagnoses_62	At	O
+diagnoses_62	her	O
+diagnoses_62	father	O
+diagnoses_62	's	O
+diagnoses_62	Tim	O
+diagnoses_62	Matheson	O
+diagnoses_62	insistence	O
+diagnoses_62	she	O
+diagnoses_62	sees	O
+diagnoses_62	a	O
+diagnoses_62	physician	O
+diagnoses_62	who	O
+diagnoses_62	diagnoses	diagnoses_vrb
+diagnoses_62	her	O
+diagnoses_62	as	O
+diagnoses_62	anemic	O

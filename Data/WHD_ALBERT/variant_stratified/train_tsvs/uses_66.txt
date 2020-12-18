@@ -1,0 +1,7 @@
+uses_66	Vulcan	O
+uses_66	API	O
+uses_66	Uses	uses_vrb
+uses_66	Mantle	O
+uses_66	Technology	O
+uses_66	for	O
+uses_66	OpenGL	O

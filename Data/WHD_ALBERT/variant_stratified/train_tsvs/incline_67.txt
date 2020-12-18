@@ -1,0 +1,14 @@
+incline_67	The	O
+incline_67	asphalt	O
+incline_67	is	O
+incline_67	taken	O
+incline_67	by	O
+incline_67	trucks	O
+incline_67	to	O
+incline_67	railway	O
+incline_67	cars	O
+incline_67	which	O
+incline_67	are	O
+incline_67	on	O
+incline_67	the	O
+incline_67	incline	incline_nou

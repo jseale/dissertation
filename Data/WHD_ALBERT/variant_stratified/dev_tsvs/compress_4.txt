@@ -1,0 +1,16 @@
+compress_4	By	O
+compress_4	operation	O
+compress_4	of	O
+compress_4	the	O
+compress_4	pigeonhole	O
+compress_4	principle	O
+compress_4	no	O
+compress_4	lossless	O
+compress_4	compression	O
+compress_4	algorithm	O
+compress_4	can	O
+compress_4	efficiently	O
+compress_4	compress	compress
+compress_4	all	O
+compress_4	possible	O
+compress_4	data	O

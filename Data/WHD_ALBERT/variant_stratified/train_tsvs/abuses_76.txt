@@ -1,0 +1,16 @@
+abuses_76	While	O
+abuses_76	the	O
+abuses_76	Chipmunks	O
+abuses_76	like	O
+abuses_76	Samantha	O
+abuses_76	her	O
+abuses_76	son	O
+abuses_76	Miles	O
+abuses_76	is	O
+abuses_76	a	O
+abuses_76	bully	O
+abuses_76	who	O
+abuses_76	physically	O
+abuses_76	abuses	abuses_vrb
+abuses_76	the	O
+abuses_76	trio	O

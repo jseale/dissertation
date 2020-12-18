@@ -1,0 +1,13 @@
+perfect_0	Thunder	O
+perfect_0	Perfect	perfect_adj
+perfect_0	Mind	O
+perfect_0	is	O
+perfect_0	an	O
+perfect_0	album	O
+perfect_0	by	O
+perfect_0	the	O
+perfect_0	English	O
+perfect_0	group	O
+perfect_0	Nurse	O
+perfect_0	With	O
+perfect_0	Wound	O

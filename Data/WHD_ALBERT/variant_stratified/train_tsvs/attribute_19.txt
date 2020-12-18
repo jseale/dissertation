@@ -1,0 +1,16 @@
+attribute_19	But	O
+attribute_19	which	O
+attribute_19	attribute	attribute_nou
+attribute_19	is	O
+attribute_19	the	O
+attribute_19	greater	O
+attribute_19	the	O
+attribute_19	attribute	attribute_nou
+attribute_19	of	O
+attribute_19	goodness	O
+attribute_19	or	O
+attribute_19	the	O
+attribute_19	attribute	attribute_nou
+attribute_19	of	O
+attribute_19	punishment	O
+attribute_19	retribution	O

@@ -1,0 +1,11 @@
+invalid_0	He	O
+invalid_0	even	O
+invalid_0	served	O
+invalid_0	28	O
+invalid_0	days	O
+invalid_0	in	O
+invalid_0	jail	O
+invalid_0	for	O
+invalid_0	issuing	O
+invalid_0	invalid	invalid_adj
+invalid_0	checks	O

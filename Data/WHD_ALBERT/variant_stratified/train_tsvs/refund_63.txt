@@ -1,0 +1,15 @@
+refund_63	Apple	O
+refund_63	offered	O
+refund_63	to	O
+refund_63	refund	refund_vrb
+refund_63	customers	O
+refund_63	who	O
+refund_63	bought	O
+refund_63	the	O
+refund_63	device	O
+refund_63	after	O
+refund_63	being	O
+refund_63	misled	O
+refund_63	by	O
+refund_63	the	O
+refund_63	advertising	O

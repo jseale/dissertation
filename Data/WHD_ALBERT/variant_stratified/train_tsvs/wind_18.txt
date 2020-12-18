@@ -1,0 +1,13 @@
+wind_18	Steering	O
+wind_18	currents	O
+wind_18	pulled	O
+wind_18	Ignacio	O
+wind_18	north	O
+wind_18	where	O
+wind_18	it	O
+wind_18	encountered	O
+wind_18	wind	wind_nou
+wind_18	shear	O
+wind_18	and	O
+wind_18	cooler	O
+wind_18	waters	O

@@ -1,0 +1,16 @@
+defect_1	The	O
+defect_1	mesh	O
+defect_1	is	O
+defect_1	placed	O
+defect_1	either	O
+defect_1	over	O
+defect_1	the	O
+defect_1	defect	defect_nou
+defect_1	anterior	O
+defect_1	repair	O
+defect_1	or	O
+defect_1	under	O
+defect_1	the	O
+defect_1	defect	defect_nou
+defect_1	posterior	O
+defect_1	repair	O

@@ -1,0 +1,12 @@
+delegate_2	In	O
+delegate_2	1927	O
+delegate_2	he	O
+delegate_2	was	O
+delegate_2	the	O
+delegate_2	Cuban	O
+delegate_2	delegate	delegate_nou
+delegate_2	to	O
+delegate_2	the	O
+delegate_2	League	O
+delegate_2	of	O
+delegate_2	Nations	O

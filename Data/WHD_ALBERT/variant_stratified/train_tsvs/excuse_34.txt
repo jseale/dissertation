@@ -1,0 +1,14 @@
+excuse_34	He	O
+excuse_34	established	O
+excuse_34	garrisons	O
+excuse_34	with	O
+excuse_34	the	O
+excuse_34	excuse	excuse_nou
+excuse_34	that	O
+excuse_34	they	O
+excuse_34	were	O
+excuse_34	for	O
+excuse_34	protection	O
+excuse_34	against	O
+excuse_34	the	O
+excuse_34	Carthaginians	O

@@ -1,0 +1,15 @@
+blessed_48	The	O
+blessed_48	Egyptians	O
+blessed_48	set	O
+blessed_48	the	O
+blessed_48	coffin	O
+blessed_48	in	O
+blessed_48	the	O
+blessed_48	Nile	O
+blessed_48	so	O
+blessed_48	that	O
+blessed_48	its	O
+blessed_48	waters	O
+blessed_48	would	O
+blessed_48	be	O
+blessed_48	blessed	blessed_vrb

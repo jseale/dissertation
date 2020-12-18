@@ -1,0 +1,10 @@
+converse_6	He	O
+converse_6	also	O
+converse_6	introduced	O
+converse_6	the	O
+converse_6	term	O
+converse_6	Ecpathy	O
+converse_6	the	O
+converse_6	converse	converse_adj-nou
+converse_6	of	O
+converse_6	Empathy	O

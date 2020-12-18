@@ -1,0 +1,16 @@
+document_31	Murphy	O
+document_31	performed	O
+document_31	a	O
+document_31	sworn	O
+document_31	document	document_nou
+document_31	made	O
+document_31	under	O
+document_31	the	O
+document_31	laws	O
+document_31	of	O
+document_31	both	O
+document_31	the	O
+document_31	UK	O
+document_31	and	O
+document_31	the	O
+document_31	USA	O

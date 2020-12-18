@@ -1,0 +1,12 @@
+laminate_4	Pioneer	O
+laminate_4	work	O
+laminate_4	on	O
+laminate_4	composite	O
+laminate_4	laminate	laminate_nou
+laminate_4	thinthin	O
+laminate_4	walled	O
+laminate_4	beams	O
+laminate_4	was	O
+laminate_4	done	O
+laminate_4	by	O
+laminate_4	Librescu	O

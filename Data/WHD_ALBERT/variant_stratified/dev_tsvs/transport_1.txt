@@ -1,0 +1,17 @@
+transport_1	Torelli	O
+transport_1	sailed	O
+transport_1	as	O
+transport_1	a	O
+transport_1	transport	transport_nou
+transport_1	submarine	O
+transport_1	on	O
+transport_1	18	O
+transport_1	June	O
+transport_1	1943	O
+transport_1	and	O
+transport_1	reached	O
+transport_1	Penang	O
+transport_1	on	O
+transport_1	27	O
+transport_1	August	O
+transport_1	1943	O

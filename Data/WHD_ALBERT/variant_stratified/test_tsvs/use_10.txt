@@ -1,0 +1,14 @@
+use_10	Players	O
+use_10	must	O
+use_10	be	O
+use_10	observant	O
+use_10	and	O
+use_10	use	use_vrb
+use_10	their	O
+use_10	critical	O
+use_10	thinking	O
+use_10	skills	O
+use_10	to	O
+use_10	escape	O
+use_10	the	O
+use_10	room	O

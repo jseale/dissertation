@@ -1,0 +1,17 @@
+conscript_41	Gabriel	O
+conscript_41	Dufour	O
+conscript_41	Nino	O
+conscript_41	Rocher	O
+conscript_41	is	O
+conscript_41	a	O
+conscript_41	young	O
+conscript_41	conscript	conscript_nou
+conscript_41	in	O
+conscript_41	the	O
+conscript_41	French	O
+conscript_41	army	O
+conscript_41	during	O
+conscript_41	the	O
+conscript_41	first	O
+conscript_41	World	O
+conscript_41	War	O

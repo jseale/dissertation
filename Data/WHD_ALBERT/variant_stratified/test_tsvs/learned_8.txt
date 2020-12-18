@@ -1,0 +1,16 @@
+learned_8	While	O
+learned_8	at	O
+learned_8	school	O
+learned_8	he	O
+learned_8	learned	learned_vrb
+learned_8	fundamental	O
+learned_8	harmony	O
+learned_8	jazz	O
+learned_8	playing	O
+learned_8	standards	O
+learned_8	and	O
+learned_8	improved	O
+learned_8	on	O
+learned_8	playing	O
+learned_8	classical	O
+learned_8	guitar	O

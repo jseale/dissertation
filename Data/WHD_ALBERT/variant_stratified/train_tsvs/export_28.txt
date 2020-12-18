@@ -1,0 +1,17 @@
+export_28	Beginning	O
+export_28	in	O
+export_28	February	O
+export_28	1980	O
+export_28	a	O
+export_28	2.2-litre	O
+export_28	diesel	O
+export_28	engine	O
+export_28	was	O
+export_28	also	O
+export_28	available	O
+export_28	sold	O
+export_28	in	O
+export_28	export	export_nou
+export_28	as	O
+export_28	the	O
+export_28	E2200	O

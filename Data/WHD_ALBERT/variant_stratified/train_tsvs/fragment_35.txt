@@ -1,0 +1,12 @@
+fragment_35	This	O
+fragment_35	fragment	fragment_nou
+fragment_35	is	O
+fragment_35	two	O
+fragment_35	bifolia	O
+fragment_35	taken	O
+fragment_35	from	O
+fragment_35	an	O
+fragment_35	early	O
+fragment_35	seventheenth	O
+fragment_35	century	O
+fragment_35	binding	O

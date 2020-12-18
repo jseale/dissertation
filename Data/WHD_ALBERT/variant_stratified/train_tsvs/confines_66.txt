@@ -1,0 +1,14 @@
+confines_66	It	O
+confines_66	assists	O
+confines_66	in	O
+confines_66	the	O
+confines_66	circulation	O
+confines_66	of	O
+confines_66	blood	O
+confines_66	and	O
+confines_66	protects	O
+confines_66	and	O
+confines_66	confines	confines_vrb
+confines_66	the	O
+confines_66	visceral	O
+confines_66	organs	O

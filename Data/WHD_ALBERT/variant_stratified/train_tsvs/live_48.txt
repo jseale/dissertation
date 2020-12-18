@@ -1,0 +1,10 @@
+live_48	However	O
+live_48	now	O
+live_48	that	O
+live_48	live	live_adj
+live_48	shows	O
+live_48	have	O
+live_48	ceased	O
+live_48	this	O
+live_48	never	O
+live_48	happened	O

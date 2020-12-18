@@ -1,0 +1,15 @@
+protest_48	Ruetz	O
+protest_48	first	O
+protest_48	became	O
+protest_48	known	O
+protest_48	through	O
+protest_48	his	O
+protest_48	photographs	O
+protest_48	of	O
+protest_48	the	O
+protest_48	student	O
+protest_48	protest	protest_nou
+protest_48	movement	O
+protest_48	in	O
+protest_48	West	O
+protest_48	Germany	O

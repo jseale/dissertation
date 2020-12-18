@@ -1,0 +1,15 @@
+content_17	The	O
+content_17	lyrical	O
+content_17	content	content_nou
+content_17	of	O
+content_17	crust	O
+content_17	punk	O
+content_17	tends	O
+content_17	to	O
+content_17	be	O
+content_17	bleak	O
+content_17	and	O
+content_17	nihilistic	O
+content_17	yet	O
+content_17	politically	O
+content_17	engaged	O

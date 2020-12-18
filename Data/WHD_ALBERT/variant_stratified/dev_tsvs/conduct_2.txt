@@ -1,0 +1,14 @@
+conduct_2	The	O
+conduct_2	conduct	conduct_nou
+conduct_2	of	O
+conduct_2	the	O
+conduct_2	Civil	O
+conduct_2	War	O
+conduct_2	resulted	O
+conduct_2	in	O
+conduct_2	long	O
+conduct_2	lasting	O
+conduct_2	bitterness	O
+conduct_2	on	O
+conduct_2	both	O
+conduct_2	sides	O

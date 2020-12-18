@@ -1,0 +1,15 @@
+compress_36	It	O
+compress_36	seeks	O
+compress_36	to	O
+compress_36	compress	compress
+compress_36	the	O
+compress_36	time	O
+compress_36	required	O
+compress_36	to	O
+compress_36	propose	O
+compress_36	develop	O
+compress_36	manufacture	O
+compress_36	market	O
+compress_36	and	O
+compress_36	deliver	O
+compress_36	products	O

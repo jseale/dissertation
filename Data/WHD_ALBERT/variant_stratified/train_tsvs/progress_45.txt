@@ -1,0 +1,15 @@
+progress_45	What	O
+progress_45	I	O
+progress_45	work	O
+progress_45	on	O
+progress_45	changes	O
+progress_45	irregularly	O
+progress_45	and	O
+progress_45	unpredictably	O
+progress_45	with	O
+progress_45	the	O
+progress_45	progress	progress_nou
+progress_45	of	O
+progress_45	theory	O
+progress_45	and	O
+progress_45	knowledge	O

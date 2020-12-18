@@ -1,0 +1,17 @@
+increment_7	Set	O
+increment_7	the	O
+increment_7	stencil	O
+increment_7	operation	O
+increment_7	to	O
+increment_7	increment	increment_nou
+increment_7	on	O
+increment_7	depth	O
+increment_7	pass	O
+increment_7	only	O
+increment_7	count	O
+increment_7	shadows	O
+increment_7	in	O
+increment_7	front	O
+increment_7	of	O
+increment_7	the	O
+increment_7	object	O

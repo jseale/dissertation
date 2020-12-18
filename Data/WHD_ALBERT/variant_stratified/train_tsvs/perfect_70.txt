@@ -1,0 +1,11 @@
+perfect_70	While	O
+perfect_70	not	O
+perfect_70	perfect	perfect_adj
+perfect_70	the	O
+perfect_70	Flaming	O
+perfect_70	Sword	O
+perfect_70	of	O
+perfect_70	Samoa	O
+perfect_70	became	O
+perfect_70	a	O
+perfect_70	reality	O

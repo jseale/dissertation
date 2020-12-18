@@ -1,0 +1,16 @@
+abuse_28	The	O
+abuse_28	settlement	O
+abuse_28	was	O
+abuse_28	the	O
+abuse_28	largest	O
+abuse_28	settlement	O
+abuse_28	ever	O
+abuse_28	awarded	O
+abuse_28	for	O
+abuse_28	a	O
+abuse_28	sexual	O
+abuse_28	abuse	abuse_nou
+abuse_28	case	O
+abuse_28	in	O
+abuse_28	Quebec	O
+abuse_28	history	O

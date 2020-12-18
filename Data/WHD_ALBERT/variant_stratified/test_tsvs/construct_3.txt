@@ -1,0 +1,16 @@
+construct_3	The	O
+construct_3	design	O
+construct_3	is	O
+construct_3	such	O
+construct_3	that	O
+construct_3	a	O
+construct_3	person	O
+construct_3	with	O
+construct_3	normal	O
+construct_3	mechanical	O
+construct_3	skills	O
+construct_3	can	O
+construct_3	construct	construct_vrb
+construct_3	and	O
+construct_3	operate	O
+construct_3	one	O

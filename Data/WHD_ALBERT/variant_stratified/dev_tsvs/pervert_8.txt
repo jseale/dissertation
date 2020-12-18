@@ -1,0 +1,16 @@
+pervert_8	Sir	O
+pervert_8	Richard	O
+pervert_8	testified	O
+pervert_8	that	O
+pervert_8	he	O
+pervert_8	disliked	O
+pervert_8	their	O
+pervert_8	intercourse	O
+pervert_8	because	O
+pervert_8	Mrs.	O
+pervert_8	Vaux	O
+pervert_8	tried	O
+pervert_8	to	O
+pervert_8	pervert	pervert_vrb
+pervert_8	his	O
+pervert_8	wife	O

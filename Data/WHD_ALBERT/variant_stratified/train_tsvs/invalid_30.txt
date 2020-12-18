@@ -1,0 +1,13 @@
+invalid_30	One	O
+invalid_30	whose	O
+invalid_30	tip	O
+invalid_30	is	O
+invalid_30	broken	O
+invalid_30	off	O
+invalid_30	or	O
+invalid_30	whose	O
+invalid_30	leaves	O
+invalid_30	are	O
+invalid_30	severed	O
+invalid_30	is	O
+invalid_30	invalid	invalid_adj

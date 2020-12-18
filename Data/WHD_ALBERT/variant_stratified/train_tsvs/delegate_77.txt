@@ -1,0 +1,16 @@
+delegate_77	The	O
+delegate_77	joint	O
+delegate_77	council	O
+delegate_77	was	O
+delegate_77	however	O
+delegate_77	permitted	O
+delegate_77	to	O
+delegate_77	delegate	delegate_vrb
+delegate_77	functions	O
+delegate_77	to	O
+delegate_77	either	O
+delegate_77	of	O
+delegate_77	the	O
+delegate_77	individual	O
+delegate_77	county	O
+delegate_77	councils	O

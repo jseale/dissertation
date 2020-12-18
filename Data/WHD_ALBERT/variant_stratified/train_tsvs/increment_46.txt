@@ -1,0 +1,17 @@
+increment_46	This	O
+increment_46	sample	O
+increment_46	was	O
+increment_46	then	O
+increment_46	loaded	O
+increment_46	through	O
+increment_46	a	O
+increment_46	piston	O
+increment_46	incrementally	O
+increment_46	allowing	O
+increment_46	equilibrium	O
+increment_46	to	O
+increment_46	be	O
+increment_46	reached	O
+increment_46	after	O
+increment_46	each	O
+increment_46	increment	increment_nou

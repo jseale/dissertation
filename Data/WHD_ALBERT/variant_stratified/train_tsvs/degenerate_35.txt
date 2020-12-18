@@ -1,0 +1,11 @@
+degenerate_35	The	O
+degenerate_35	degenerate	degenerate_adj-nou
+degenerate_35	case	O
+degenerate_35	of	O
+degenerate_35	a	O
+degenerate_35	foil	O
+degenerate_35	is	O
+degenerate_35	a	O
+degenerate_35	simple	O
+degenerate_35	flat	O
+degenerate_35	plate	O

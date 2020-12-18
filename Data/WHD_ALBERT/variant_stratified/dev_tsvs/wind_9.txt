@@ -1,0 +1,16 @@
+wind_9	Conditions	O
+wind_9	deteriorated	O
+wind_9	on	O
+wind_9	26	O
+wind_9	January	O
+wind_9	when	O
+wind_9	the	O
+wind_9	system	O
+wind_9	ran	O
+wind_9	into	O
+wind_9	some	O
+wind_9	vertical	O
+wind_9	wind	wind_nou
+wind_9	shear	O
+wind_9	and	O
+wind_9	weakened	O

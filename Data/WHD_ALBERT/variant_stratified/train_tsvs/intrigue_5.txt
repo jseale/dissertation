@@ -1,0 +1,14 @@
+intrigue_5	Since	O
+intrigue_5	2008	O
+intrigue_5	Intrigue	intrigue_nou
+intrigue_5	in	O
+intrigue_5	Tangiers	O
+intrigue_5	have	O
+intrigue_5	released	O
+intrigue_5	6	O
+intrigue_5	studio	O
+intrigue_5	albums	O
+intrigue_5	and	O
+intrigue_5	a	O
+intrigue_5	best	O
+intrigue_5	of	O

@@ -1,0 +1,14 @@
+separate_38	In	O
+separate_38	this	O
+separate_38	stream	O
+separate_38	there	O
+separate_38	are	O
+separate_38	two	O
+separate_38	targets	O
+separate_38	each	O
+separate_38	of	O
+separate_38	which	O
+separate_38	requires	O
+separate_38	a	O
+separate_38	separate	separate_adj
+separate_38	response	O

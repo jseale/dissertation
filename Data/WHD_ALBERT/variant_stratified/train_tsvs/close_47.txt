@@ -1,0 +1,8 @@
+close_47	Ricardo	O
+close_47	was	O
+close_47	a	O
+close_47	close	close_adj-nou
+close_47	friend	O
+close_47	of	O
+close_47	James	O
+close_47	Mill	O

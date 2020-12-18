@@ -1,0 +1,15 @@
+diagnoses_53	The	O
+diagnoses_53	diagnoses	diagnoses_nou
+diagnoses_53	of	O
+diagnoses_53	two	O
+diagnoses_53	hearing	O
+diagnoses_53	examinations	O
+diagnoses_53	in	O
+diagnoses_53	March	O
+diagnoses_53	1975	O
+diagnoses_53	was	O
+diagnoses_53	hearing	O
+diagnoses_53	loss	O
+diagnoses_53	in	O
+diagnoses_53	both	O
+diagnoses_53	ears	O

@@ -1,0 +1,17 @@
+lead_75	He	O
+lead_75	performed	O
+lead_75	the	O
+lead_75	lead	lead_nou-vrb
+lead_75	role	O
+lead_75	of	O
+lead_75	Romeo	O
+lead_75	with	O
+lead_75	British	O
+lead_75	ballerina	O
+lead_75	Patricia	O
+lead_75	Ruanne	O
+lead_75	creating	O
+lead_75	the	O
+lead_75	role	O
+lead_75	of	O
+lead_75	Juliet	O

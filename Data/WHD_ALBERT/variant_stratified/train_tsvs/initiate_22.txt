@@ -1,0 +1,10 @@
+initiate_22	However	O
+initiate_22	other	O
+initiate_22	types	O
+initiate_22	of	O
+initiate_22	DNA	O
+initiate_22	damage	O
+initiate_22	may	O
+initiate_22	also	O
+initiate_22	initiate	initiate_vrb
+initiate_22	recombination	O

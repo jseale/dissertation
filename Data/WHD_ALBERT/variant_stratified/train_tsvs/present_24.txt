@@ -1,0 +1,13 @@
+present_24	They	O
+present_24	settled	O
+present_24	on	O
+present_24	the	O
+present_24	lands	O
+present_24	that	O
+present_24	were	O
+present_24	near	O
+present_24	the	O
+present_24	present	present_adj-nou
+present_24	city	O
+present_24	of	O
+present_24	Perryville	O

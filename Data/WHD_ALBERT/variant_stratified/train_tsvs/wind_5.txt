@@ -1,0 +1,11 @@
+wind_5	As	O
+wind_5	of	O
+wind_5	2008	O
+wind_5	Sweden	O
+wind_5	produced	O
+wind_5	1.6	O
+wind_5	of	O
+wind_5	electricity	O
+wind_5	with	O
+wind_5	wind	wind_nou
+wind_5	power	O

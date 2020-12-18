@@ -1,0 +1,10 @@
+degenerate_9	Vaj	O
+degenerate_9	said	O
+degenerate_9	her	O
+degenerate_9	intention	O
+degenerate_9	was	O
+degenerate_9	not	O
+degenerate_9	to	O
+degenerate_9	degenerate	degenerate_vrb
+degenerate_9	national	O
+degenerate_9	heritage	O

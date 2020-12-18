@@ -1,0 +1,17 @@
+syndicate_3	The	O
+syndicate_3	Naramata	O
+syndicate_3	Syndicate	syndicate_nou
+syndicate_3	also	O
+syndicate_3	built	O
+syndicate_3	scows	O
+syndicate_3	for	O
+syndicate_3	freight	O
+syndicate_3	and	O
+syndicate_3	cargo	O
+syndicate_3	to	O
+syndicate_3	assist	O
+syndicate_3	Skookum	O
+syndicate_3	and	O
+syndicate_3	the	O
+syndicate_3	other	O
+syndicate_3	ferries	O

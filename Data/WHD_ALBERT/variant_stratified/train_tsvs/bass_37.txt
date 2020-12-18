@@ -1,0 +1,16 @@
+bass_37	The	O
+bass_37	left	O
+bass_37	hand	O
+bass_37	plays	O
+bass_37	the	O
+bass_37	ostinato	O
+bass_37	bass	bass
+bass_37	line	O
+bass_37	while	O
+bass_37	the	O
+bass_37	right	O
+bass_37	hand	O
+bass_37	plays	O
+bass_37	the	O
+bass_37	upper	O
+bass_37	melody	O

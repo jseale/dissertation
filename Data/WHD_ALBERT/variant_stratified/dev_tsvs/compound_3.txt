@@ -1,0 +1,15 @@
+compound_3	The	O
+compound_3	same	O
+compound_3	compound	compound_nou
+compound_3	sans	O
+compound_3	the	O
+compound_3	quaternary	O
+compound_3	methyl	O
+compound_3	group	O
+compound_3	and	O
+compound_3	the	O
+compound_3	methoxy	O
+compound_3	ether	O
+compound_3	is	O
+compound_3	called	O
+compound_3	tipepidine	O

@@ -1,0 +1,12 @@
+misuse_5	This	O
+misuse_5	rule	O
+misuse_5	is	O
+misuse_5	known	O
+misuse_5	as	O
+misuse_5	the	O
+misuse_5	purging	O
+misuse_5	doctrine	O
+misuse_5	in	O
+misuse_5	patent	O
+misuse_5	misuse	misuse_nou
+misuse_5	law	O

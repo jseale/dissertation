@@ -1,0 +1,9 @@
+discount_61	Click	O
+discount_61	on	O
+discount_61	Ultra	O
+discount_61	Low	O
+discount_61	Emission	O
+discount_61	Discount	discount_nou
+discount_61	ULED	O
+discount_61	for	O
+discount_61	details	O

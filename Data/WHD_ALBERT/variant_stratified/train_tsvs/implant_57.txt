@@ -1,0 +1,14 @@
+implant_57	Additionally	O
+implant_57	dentists	O
+implant_57	can	O
+implant_57	further	O
+implant_57	engage	O
+implant_57	in	O
+implant_57	oral	O
+implant_57	surgery	O
+implant_57	procedures	O
+implant_57	such	O
+implant_57	as	O
+implant_57	dental	O
+implant_57	implant	implant_nou
+implant_57	placement	O

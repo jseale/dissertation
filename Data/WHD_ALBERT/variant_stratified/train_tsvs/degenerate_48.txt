@@ -1,0 +1,16 @@
+degenerate_48	One	O
+degenerate_48	way	O
+degenerate_48	of	O
+degenerate_48	eliminating	O
+degenerate_48	the	O
+degenerate_48	degenerate	degenerate_adj-nou
+degenerate_48	conics	O
+degenerate_48	is	O
+degenerate_48	to	O
+degenerate_48	blow	O
+degenerate_48	up	O
+degenerate_48	P⁵	O
+degenerate_48	along	O
+degenerate_48	the	O
+degenerate_48	Veronese	O
+degenerate_48	surface	O

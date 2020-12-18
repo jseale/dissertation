@@ -1,0 +1,8 @@
+contest_56	Sources	O
+contest_56	regarding	O
+contest_56	the	O
+contest_56	closeness	O
+contest_56	of	O
+contest_56	the	O
+contest_56	contest	contest_nou
+contest_56	vary	O

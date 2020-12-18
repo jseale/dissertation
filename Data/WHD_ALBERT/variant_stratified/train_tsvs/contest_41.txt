@@ -1,0 +1,16 @@
+contest_41	Twenty	O
+contest_41	countries	O
+contest_41	participated	O
+contest_41	in	O
+contest_41	the	O
+contest_41	contest	contest_nou
+contest_41	with	O
+contest_41	songs	O
+contest_41	that	O
+contest_41	failed	O
+contest_41	to	O
+contest_41	win	O
+contest_41	their	O
+contest_41	televised	O
+contest_41	national	O
+contest_41	selections	O

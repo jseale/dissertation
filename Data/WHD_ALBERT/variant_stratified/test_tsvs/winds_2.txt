@@ -1,0 +1,12 @@
+winds_2	Sustained	O
+winds_2	winds	winds_nou
+winds_2	reached	O
+winds_2	48	O
+winds_2	knots	O
+winds_2	89	O
+winds_2	km	O
+winds_2	h	O
+winds_2	at	O
+winds_2	Lan	O
+winds_2	Yu	O
+winds_2	Taiwan	O

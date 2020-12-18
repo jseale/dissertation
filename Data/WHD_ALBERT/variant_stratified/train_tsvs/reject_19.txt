@@ -1,0 +1,14 @@
+reject_19	If	O
+reject_19	a	O
+reject_19	governor	O
+reject_19	does	O
+reject_19	not	O
+reject_19	sign	O
+reject_19	or	O
+reject_19	reject	reject_vrb
+reject_19	a	O
+reject_19	bill	O
+reject_19	it	O
+reject_19	becomes	O
+reject_19	law	O
+reject_19	automatically	O

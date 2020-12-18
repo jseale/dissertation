@@ -1,0 +1,10 @@
+lives_56	Cash	O
+lives_56	lives	lives_vrb
+lives_56	with	O
+lives_56	her	O
+lives_56	husband	O
+lives_56	and	O
+lives_56	son	O
+lives_56	in	O
+lives_56	Chelsea	O
+lives_56	Manhattan	O

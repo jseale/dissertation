@@ -1,0 +1,14 @@
+excuse_59	The	O
+excuse_59	report	O
+excuse_59	provided	O
+excuse_59	the	O
+excuse_59	British	O
+excuse_59	an	O
+excuse_59	excuse	excuse_nou
+excuse_59	for	O
+excuse_59	action	O
+excuse_59	based	O
+excuse_59	on	O
+excuse_59	disorder	O
+excuse_59	and	O
+excuse_59	misrule	O

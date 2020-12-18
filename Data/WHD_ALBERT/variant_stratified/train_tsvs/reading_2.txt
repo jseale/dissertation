@@ -1,0 +1,13 @@
+reading_2	But	O
+reading_2	if	O
+reading_2	you	O
+reading_2	are	O
+reading_2	going	O
+reading_2	to	O
+reading_2	read	O
+reading_2	ten	O
+reading_2	reading	reading_en
+reading_2	Lomborg	O
+reading_2	may	O
+reading_2	be	O
+reading_2	worthwhile	O

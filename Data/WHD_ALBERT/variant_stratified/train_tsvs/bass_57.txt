@@ -1,0 +1,15 @@
+bass_57	In	O
+bass_57	2010	O
+bass_57	he	O
+bass_57	contributed	O
+bass_57	bass	bass
+bass_57	to	O
+bass_57	the	O
+bass_57	debut	O
+bass_57	album	O
+bass_57	by	O
+bass_57	Swahili	O
+bass_57	Blonde	O
+bass_57	with	O
+bass_57	ex	O
+bass_57	Weave	O

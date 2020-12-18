@@ -1,0 +1,12 @@
+bass_8	Eliot	O
+bass_8	Kennedy	O
+bass_8	uses	O
+bass_8	it	O
+bass_8	for	O
+bass_8	one	O
+bass_8	purpose	O
+bass_8	a	O
+bass_8	classic	O
+bass_8	dancefloor	O
+bass_8	bass	bass
+bass_8	sound	O

@@ -1,0 +1,8 @@
+affiliate_68	The	O
+affiliate_68	Courage	O
+affiliate_68	Campaign	O
+affiliate_68	is	O
+affiliate_68	an	O
+affiliate_68	affiliate	affiliate_nou
+affiliate_68	of	O
+affiliate_68	ProgressNow	O

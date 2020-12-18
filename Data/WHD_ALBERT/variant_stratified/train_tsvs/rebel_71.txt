@@ -1,0 +1,7 @@
+rebel_71	The	O
+rebel_71	Spanish	O
+rebel_71	weapons	O
+rebel_71	fell	O
+rebel_71	into	O
+rebel_71	rebel	rebel_nou
+rebel_71	hands	O

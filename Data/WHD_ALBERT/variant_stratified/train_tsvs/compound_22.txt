@@ -1,0 +1,15 @@
+compound_22	In	O
+compound_22	the	O
+compound_22	end	O
+compound_22	the	O
+compound_22	two	O
+compound_22	had	O
+compound_22	isolated	O
+compound_22	and	O
+compound_22	purified	O
+compound_22	200	O
+compound_22	mg	O
+compound_22	of	O
+compound_22	the	O
+compound_22	precursor	O
+compound_22	compound	compound_nou

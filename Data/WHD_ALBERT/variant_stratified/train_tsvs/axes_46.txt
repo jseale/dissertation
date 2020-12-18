@@ -1,0 +1,16 @@
+axes_46	Weapons	O
+axes_46	include	O
+axes_46	black	O
+axes_46	holes	O
+axes_46	boxing	O
+axes_46	gloves	O
+axes_46	grenades	O
+axes_46	chainsaws	O
+axes_46	baseball	O
+axes_46	bats	O
+axes_46	chain	O
+axes_46	guns	O
+axes_46	axes	axes_nou-vrb
+axes_46	and	O
+axes_46	freeze	O
+axes_46	rays	O

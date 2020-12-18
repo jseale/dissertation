@@ -1,0 +1,9 @@
+perfume_1	The	O
+perfume_1	perfume	perfume_nou
+perfume_1	was	O
+perfume_1	launched	O
+perfume_1	a	O
+perfume_1	year	O
+perfume_1	before	O
+perfume_1	she	O
+perfume_1	died	O

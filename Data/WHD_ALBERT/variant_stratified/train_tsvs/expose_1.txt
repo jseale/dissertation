@@ -1,0 +1,15 @@
+expose_1	Published	O
+expose_1	in	O
+expose_1	1906	O
+expose_1	it	O
+expose_1	is	O
+expose_1	an	O
+expose_1	expose	expose_nou
+expose_1	of	O
+expose_1	the	O
+expose_1	horrific	O
+expose_1	working	O
+expose_1	conditions	O
+expose_1	of	O
+expose_1	child	O
+expose_1	laborers	O

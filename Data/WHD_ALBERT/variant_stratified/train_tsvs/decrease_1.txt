@@ -1,0 +1,9 @@
+decrease_1	Success	O
+decrease_1	is	O
+decrease_1	defined	O
+decrease_1	as	O
+decrease_1	a	O
+decrease_1	relative	O
+decrease_1	decrease	decrease_nou
+decrease_1	in	O
+decrease_1	pain	O

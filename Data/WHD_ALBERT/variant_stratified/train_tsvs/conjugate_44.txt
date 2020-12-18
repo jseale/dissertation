@@ -1,0 +1,17 @@
+conjugate_44	The	O
+conjugate_44	smallest	O
+conjugate_44	faithful	O
+conjugate_44	complex	O
+conjugate_44	representation	O
+conjugate_44	has	O
+conjugate_44	dimension	O
+conjugate_44	1333	O
+conjugate_44	there	O
+conjugate_44	are	O
+conjugate_44	two	O
+conjugate_44	complex	O
+conjugate_44	conjugate	conjugate_adj-nou
+conjugate_44	representations	O
+conjugate_44	of	O
+conjugate_44	this	O
+conjugate_44	dimension	O

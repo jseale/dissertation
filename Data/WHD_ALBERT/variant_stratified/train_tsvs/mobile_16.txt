@@ -1,0 +1,11 @@
+mobile_16	In	O
+mobile_16	1929	O
+mobile_16	a	O
+mobile_16	toll	O
+mobile_16	bridge	O
+mobile_16	was	O
+mobile_16	opened	O
+mobile_16	which	O
+mobile_16	crossed	O
+mobile_16	into	O
+mobile_16	Mobile	mobile

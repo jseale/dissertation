@@ -1,0 +1,11 @@
+progress_17	With	O
+progress_17	Johnson	O
+progress_17	steering	O
+progress_17	the	O
+progress_17	team	O
+progress_17	the	O
+progress_17	Reds	O
+progress_17	made	O
+progress_17	steady	O
+progress_17	progress	progress_nou
+progress_17	upward	O

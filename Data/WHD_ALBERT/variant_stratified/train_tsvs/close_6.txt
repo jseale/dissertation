@@ -1,0 +1,14 @@
+close_6	Before	O
+close_6	passing	O
+close_6	next	O
+close_6	to	O
+close_6	the	O
+close_6	Coppermill	O
+close_6	and	O
+close_6	close	close_adj-nou
+close_6	to	O
+close_6	the	O
+close_6	Coppermills	O
+close_6	Water	O
+close_6	Treatment	O
+close_6	Works	O

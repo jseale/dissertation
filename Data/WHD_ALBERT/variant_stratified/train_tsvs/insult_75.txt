@@ -1,0 +1,14 @@
+insult_75	They	O
+insult_75	were	O
+insult_75	brought	O
+insult_75	together	O
+insult_75	by	O
+insult_75	their	O
+insult_75	hatred	O
+insult_75	for	O
+insult_75	Homer	O
+insult_75	and	O
+insult_75	begin	O
+insult_75	to	O
+insult_75	insult	insult_vrb
+insult_75	him	O

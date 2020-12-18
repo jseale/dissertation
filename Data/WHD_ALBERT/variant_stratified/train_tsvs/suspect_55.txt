@@ -1,0 +1,16 @@
+suspect_55	The	O
+suspect_55	cops	O
+suspect_55	are	O
+suspect_55	keeping	O
+suspect_55	an	O
+suspect_55	eye	O
+suspect_55	on	O
+suspect_55	Nick	O
+suspect_55	because	O
+suspect_55	he	O
+suspect_55	's	O
+suspect_55	a	O
+suspect_55	suspect	suspect_adj-nou
+suspect_55	in	O
+suspect_55	a	O
+suspect_55	murder	O

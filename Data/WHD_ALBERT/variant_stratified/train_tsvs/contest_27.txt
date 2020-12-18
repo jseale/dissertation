@@ -1,0 +1,17 @@
+contest_27	Howard	O
+contest_27	was	O
+contest_27	the	O
+contest_27	first	O
+contest_27	prize	O
+contest_27	fiddler	O
+contest_27	at	O
+contest_27	the	O
+contest_27	inaugural	O
+contest_27	Tri	O
+contest_27	State	O
+contest_27	Bluegrass	O
+contest_27	Association	O
+contest_27	fiddle	O
+contest_27	contest	contest_nou
+contest_27	in	O
+contest_27	1982	O

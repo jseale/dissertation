@@ -1,0 +1,17 @@
+deliberate_23	In	O
+deliberate_23	these	O
+deliberate_23	ads	O
+deliberate_23	Graham	O
+deliberate_23	was	O
+deliberate_23	never	O
+deliberate_23	identified	O
+deliberate_23	by	O
+deliberate_23	name	O
+deliberate_23	which	O
+deliberate_23	Estee	O
+deliberate_23	Lauder	O
+deliberate_23	herself	O
+deliberate_23	frankly	O
+deliberate_23	admitted	O
+deliberate_23	was	O
+deliberate_23	deliberate	deliberate_adj

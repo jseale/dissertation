@@ -1,0 +1,17 @@
+intrigue_19	The	O
+intrigue_19	author	O
+intrigue_19	of	O
+intrigue_19	She	O
+intrigue_19	Ventures	O
+intrigue_19	and	O
+intrigue_19	He	O
+intrigue_19	Wins	O
+intrigue_19	amasses	O
+intrigue_19	almost	O
+intrigue_19	as	O
+intrigue_19	much	O
+intrigue_19	intrigue	intrigue_nou
+intrigue_19	as	O
+intrigue_19	the	O
+intrigue_19	play	O
+intrigue_19	itself	O

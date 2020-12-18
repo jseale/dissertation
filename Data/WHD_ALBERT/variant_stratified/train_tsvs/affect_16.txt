@@ -1,0 +1,10 @@
+affect_16	Climate	O
+affect_16	change	O
+affect_16	could	O
+affect_16	affect	affect
+affect_16	ticks	O
+affect_16	in	O
+affect_16	a	O
+affect_16	variety	O
+affect_16	of	O
+affect_16	ways	O

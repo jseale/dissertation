@@ -1,0 +1,16 @@
+diffuse_0	An	O
+diffuse_0	example	O
+diffuse_0	of	O
+diffuse_0	the	O
+diffuse_0	distinction	O
+diffuse_0	between	O
+diffuse_0	specular	O
+diffuse_0	and	O
+diffuse_0	diffuse	diffuse_adj
+diffuse_0	reflection	O
+diffuse_0	would	O
+diffuse_0	be	O
+diffuse_0	glossy	O
+diffuse_0	and	O
+diffuse_0	matte	O
+diffuse_0	paints	O

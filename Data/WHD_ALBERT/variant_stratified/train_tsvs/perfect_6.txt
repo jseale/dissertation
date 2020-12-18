@@ -1,0 +1,12 @@
+perfect_6	Fairground	O
+perfect_6	Attraction	O
+perfect_6	's	O
+perfect_6	song	O
+perfect_6	Perfect	perfect_adj
+perfect_6	was	O
+perfect_6	used	O
+perfect_6	for	O
+perfect_6	an	O
+perfect_6	advertisement	O
+perfect_6	on	O
+perfect_6	TV	O

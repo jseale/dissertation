@@ -1,0 +1,11 @@
+graduate_3	NIFM	O
+graduate_3	provides	O
+graduate_3	ICAS	O
+graduate_3	officers	O
+graduate_3	Post	O
+graduate_3	Graduate	graduate_adj-nou
+graduate_3	Diploma	O
+graduate_3	in	O
+graduate_3	Public	O
+graduate_3	Financial	O
+graduate_3	Management	O

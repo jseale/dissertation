@@ -1,0 +1,16 @@
+pasty_74	As	O
+pasty_74	pasty	pasty_nou
+pasty_74	lava	O
+pasty_74	in	O
+pasty_74	the	O
+pasty_74	core	O
+pasty_74	travels	O
+pasty_74	downslope	O
+pasty_74	the	O
+pasty_74	clinkers	O
+pasty_74	are	O
+pasty_74	carried	O
+pasty_74	along	O
+pasty_74	at	O
+pasty_74	the	O
+pasty_74	surface	O

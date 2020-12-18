@@ -1,0 +1,16 @@
+escort_33	On	O
+escort_33	1	O
+escort_33	January	O
+escort_33	1955	O
+escort_33	Athabaskan	O
+escort_33	was	O
+escort_33	assigned	O
+escort_33	to	O
+escort_33	the	O
+escort_33	Second	O
+escort_33	Canadian	O
+escort_33	Escort	escort_nou
+escort_33	Squadron	O
+escort_33	of	O
+escort_33	Pacific	O
+escort_33	Command	O

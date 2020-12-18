@@ -1,0 +1,15 @@
+perfect_31	Mooking	O
+perfect_31	has	O
+perfect_31	developed	O
+perfect_31	a	O
+perfect_31	culinary	O
+perfect_31	philosophy	O
+perfect_31	built	O
+perfect_31	on	O
+perfect_31	perfect	perfect_adj
+perfect_31	execution	O
+perfect_31	of	O
+perfect_31	globally	O
+perfect_31	inspired	O
+perfect_31	culinary	O
+perfect_31	traditions	O

@@ -1,0 +1,16 @@
+initiate_24	To	O
+initiate_24	initiate	initiate_vrb
+initiate_24	the	O
+initiate_24	program	O
+initiate_24	the	O
+initiate_24	Maryland	O
+initiate_24	state	O
+initiate_24	senate	O
+initiate_24	purchased	O
+initiate_24	ten	O
+initiate_24	Mud	O
+initiate_24	Machines	O
+initiate_24	from	O
+initiate_24	the	O
+initiate_24	Ellicott	O
+initiate_24	brothers	O

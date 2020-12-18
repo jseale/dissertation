@@ -1,0 +1,17 @@
+perfume_10	Many	O
+perfume_10	green	O
+perfume_10	trees	O
+perfume_10	and	O
+perfume_10	flowers	O
+perfume_10	that	O
+perfume_10	perfume	perfume_vrb
+perfume_10	the	O
+perfume_10	air	O
+perfume_10	are	O
+perfume_10	located	O
+perfume_10	at	O
+perfume_10	the	O
+perfume_10	base	O
+perfume_10	of	O
+perfume_10	the	O
+perfume_10	fall	O

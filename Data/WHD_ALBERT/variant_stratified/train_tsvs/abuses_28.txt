@@ -1,0 +1,16 @@
+abuses_28	According	O
+abuses_28	to	O
+abuses_28	researchers	O
+abuses_28	pictures	O
+abuses_28	indicate	O
+abuses_28	the	O
+abuses_28	consent	O
+abuses_28	of	O
+abuses_28	the	O
+abuses_28	photographers	O
+abuses_28	to	O
+abuses_28	the	O
+abuses_28	abuses	abuses_nou
+abuses_28	and	O
+abuses_28	murders	O
+abuses_28	committed	O

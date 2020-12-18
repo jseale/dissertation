@@ -1,0 +1,13 @@
+invite_54	They	O
+invite_54	decide	O
+invite_54	on	O
+invite_54	a	O
+invite_54	small	O
+invite_54	country	O
+invite_54	church	O
+invite_54	and	O
+invite_54	invite	invite_vrb
+invite_54	all	O
+invite_54	family	O
+invite_54	and	O
+invite_54	friends	O

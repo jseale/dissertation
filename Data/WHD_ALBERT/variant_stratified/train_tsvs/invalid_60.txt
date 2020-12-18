@@ -1,0 +1,15 @@
+invalid_60	He	O
+invalid_60	was	O
+invalid_60	tried	O
+invalid_60	for	O
+invalid_60	piracy	O
+invalid_60	of	O
+invalid_60	the	O
+invalid_60	Great	O
+invalid_60	Mohammed	O
+invalid_60	and	O
+invalid_60	his	O
+invalid_60	pardon	O
+invalid_60	was	O
+invalid_60	ruled	O
+invalid_60	invalid	invalid_adj

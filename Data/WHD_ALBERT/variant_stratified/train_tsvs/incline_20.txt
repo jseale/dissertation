@@ -1,0 +1,16 @@
+incline_20	Back	O
+incline_20	then	O
+incline_20	the	O
+incline_20	incline	incline_nou
+incline_20	railway	O
+incline_20	on	O
+incline_20	James	O
+incline_20	Street	O
+incline_20	was	O
+incline_20	known	O
+incline_20	as	O
+incline_20	the	O
+incline_20	Hamilton	O
+incline_20	Barton	O
+incline_20	Incline	incline_nou
+incline_20	Railway	O

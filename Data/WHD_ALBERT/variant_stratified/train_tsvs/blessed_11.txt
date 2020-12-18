@@ -1,0 +1,9 @@
+blessed_11	Subsequently	O
+blessed_11	Virgin	O
+blessed_11	dropped	O
+blessed_11	Anderson	O
+blessed_11	after	O
+blessed_11	the	O
+blessed_11	Blessed	blessed_adj
+blessed_11	Burden	O
+blessed_11	album	O

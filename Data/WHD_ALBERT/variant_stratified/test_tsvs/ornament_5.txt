@@ -1,0 +1,16 @@
+ornament_5	Change	O
+ornament_5	to	O
+ornament_5	Japan	O
+ornament_5	F	O
+ornament_5	SPORT	O
+ornament_5	Package	O
+ornament_5	includes	O
+ornament_5	new	O
+ornament_5	dark	O
+ornament_5	rose	O
+ornament_5	interior	O
+ornament_5	colour	O
+ornament_5	medium	O
+ornament_5	silver	O
+ornament_5	ornament	ornament_nou
+ornament_5	panel	O

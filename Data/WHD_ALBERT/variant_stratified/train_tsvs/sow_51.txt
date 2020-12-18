@@ -1,0 +1,16 @@
+sow_51	His	O
+sow_51	nickname	O
+sow_51	Syr	O
+sow_51	can	O
+sow_51	be	O
+sow_51	translated	O
+sow_51	as	O
+sow_51	meaning	O
+sow_51	sow	sow_nou
+sow_51	or	O
+sow_51	swine	O
+sow_51	related	O
+sow_51	to	O
+sow_51	Old	O
+sow_51	Norse	O
+sow_51	svin	O

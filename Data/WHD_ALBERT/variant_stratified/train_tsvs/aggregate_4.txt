@@ -1,0 +1,16 @@
+aggregate_4	The	O
+aggregate_4	Ashes	O
+aggregate_4	series	O
+aggregate_4	against	O
+aggregate_4	Great	O
+aggregate_4	Britain	O
+aggregate_4	saw	O
+aggregate_4	an	O
+aggregate_4	aggregate	aggregate_adj-nou
+aggregate_4	crowd	O
+aggregate_4	of	O
+aggregate_4	53,353	O
+aggregate_4	attending	O
+aggregate_4	the	O
+aggregate_4	Test	O
+aggregate_4	series	O

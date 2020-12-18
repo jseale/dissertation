@@ -1,0 +1,14 @@
+affect_38	The	O
+affect_38	duration	O
+affect_38	of	O
+affect_38	the	O
+affect_38	stimulation	O
+affect_38	leading	O
+affect_38	up	O
+affect_38	to	O
+affect_38	the	O
+affect_38	ejaculation	O
+affect_38	can	O
+affect_38	affect	affect
+affect_38	the	O
+affect_38	volume	O

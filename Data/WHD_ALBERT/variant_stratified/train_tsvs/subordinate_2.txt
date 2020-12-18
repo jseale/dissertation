@@ -1,0 +1,14 @@
+subordinate_2	Kodungallur	O
+subordinate_2	was	O
+subordinate_2	a	O
+subordinate_2	feudal	O
+subordinate_2	principality	O
+subordinate_2	subordinate	subordinate_adj-nou
+subordinate_2	to	O
+subordinate_2	the	O
+subordinate_2	rulers	O
+subordinate_2	of	O
+subordinate_2	the	O
+subordinate_2	Kingdom	O
+subordinate_2	of	O
+subordinate_2	Cochin	O

@@ -1,0 +1,12 @@
+initiate_4	Ribosomes	O
+initiate_4	engage	O
+initiate_4	this	O
+initiate_4	nascent	O
+initiate_4	mRNA	O
+initiate_4	and	O
+initiate_4	initiate	initiate_vrb
+initiate_4	translation	O
+initiate_4	of	O
+initiate_4	the	O
+initiate_4	leader	O
+initiate_4	peptide	O

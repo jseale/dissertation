@@ -1,0 +1,13 @@
+present_14	There	O
+present_14	are	O
+present_14	quite	O
+present_14	a	O
+present_14	few	O
+present_14	issues	O
+present_14	present	present_adj-nou
+present_14	within	O
+present_14	the	O
+present_14	system	O
+present_14	that	O
+present_14	affect	O
+present_14	gameplay	O

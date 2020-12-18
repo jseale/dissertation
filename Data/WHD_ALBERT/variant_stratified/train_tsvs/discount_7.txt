@@ -1,0 +1,15 @@
+discount_7	Task	O
+discount_7	Review	O
+discount_7	Connexus	O
+discount_7	offered	O
+discount_7	a	O
+discount_7	mini	O
+discount_7	Olympian	O
+discount_7	party	O
+discount_7	acquiring	O
+discount_7	several	O
+discount_7	activities	O
+discount_7	at	O
+discount_7	a	O
+discount_7	reasonable	O
+discount_7	discount	discount_nou

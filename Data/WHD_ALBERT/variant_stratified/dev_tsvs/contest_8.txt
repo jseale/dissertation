@@ -1,0 +1,10 @@
+contest_8	13	O
+contest_8	teams	O
+contest_8	will	O
+contest_8	contest	contest_vrb
+contest_8	the	O
+contest_8	Hotel	O
+contest_8	Kilmore	O
+contest_8	Intermediate	O
+contest_8	Football	O
+contest_8	Championship	O

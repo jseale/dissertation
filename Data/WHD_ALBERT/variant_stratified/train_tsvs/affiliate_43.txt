@@ -1,0 +1,9 @@
+affiliate_43	It	O
+affiliate_43	was	O
+affiliate_43	the	O
+affiliate_43	AAA	O
+affiliate_43	affiliate	affiliate_nou
+affiliate_43	of	O
+affiliate_43	the	O
+affiliate_43	Cincinnati	O
+affiliate_43	Reds	O

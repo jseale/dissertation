@@ -1,0 +1,17 @@
+minute_32	Scientists	O
+minute_32	at	O
+minute_32	Stanford	O
+minute_32	University	O
+minute_32	in	O
+minute_32	California	O
+minute_32	have	O
+minute_32	developed	O
+minute_32	a	O
+minute_32	battery	O
+minute_32	that	O
+minute_32	can	O
+minute_32	be	O
+minute_32	charged	O
+minute_32	within	O
+minute_32	one	O
+minute_32	minute	minute

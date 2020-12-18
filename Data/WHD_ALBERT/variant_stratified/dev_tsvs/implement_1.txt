@@ -1,0 +1,13 @@
+implement_1	West	O
+implement_1	Manheim	O
+implement_1	Elementary	O
+implement_1	School	O
+implement_1	received	O
+implement_1	$	O
+implement_1	5,095	O
+implement_1	to	O
+implement_1	implement	implement_vrb
+implement_1	a	O
+implement_1	Fitness	O
+implement_1	Fundamentals	O
+implement_1	program	O

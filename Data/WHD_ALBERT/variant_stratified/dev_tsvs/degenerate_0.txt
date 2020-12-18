@@ -1,0 +1,14 @@
+degenerate_0	That	O
+degenerate_0	is	O
+degenerate_0	non	O
+degenerate_0	degenerate	degenerate_adj-nou
+degenerate_0	means	O
+degenerate_0	there	O
+degenerate_0	are	O
+degenerate_0	no	O
+degenerate_0	non	O
+degenerate_0	zero	O
+degenerate_0	such	O
+degenerate_0	that	O
+degenerate_0	for	O
+degenerate_0	all	O

@@ -1,0 +1,10 @@
+document_43	Some	O
+document_43	historians	O
+document_43	however	O
+document_43	have	O
+document_43	claimed	O
+document_43	that	O
+document_43	this	O
+document_43	document	document_nou
+document_43	was	O
+document_43	fabricated	O

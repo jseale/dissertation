@@ -1,0 +1,14 @@
+pasty_73	He	O
+pasty_73	said	O
+pasty_73	spoo	O
+pasty_73	are	O
+pasty_73	tiny	O
+pasty_73	pasty	pasty_nou
+pasty_73	mealworm	O
+pasty_73	like	O
+pasty_73	creatures	O
+pasty_73	that	O
+pasty_73	travel	O
+pasty_73	slowly	O
+pasty_73	in	O
+pasty_73	herds	O

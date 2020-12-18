@@ -1,0 +1,15 @@
+articulate_63	Thus	O
+articulate_63	the	O
+articulate_63	process	O
+articulate_63	itself	O
+articulate_63	helps	O
+articulate_63	to	O
+articulate_63	negotiate	O
+articulate_63	and	O
+articulate_63	articulate	articulate_vrb
+articulate_63	delicately	O
+articulate_63	sexual	O
+articulate_63	difference	O
+articulate_63	in	O
+articulate_63	the	O
+articulate_63	present	O

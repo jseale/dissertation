@@ -1,0 +1,15 @@
+wound_54	In	O
+wound_54	an	O
+wound_54	unknown	O
+wound_54	transaction	O
+wound_54	Causey	O
+wound_54	wound	wound_vrb
+wound_54	up	O
+wound_54	with	O
+wound_54	the	O
+wound_54	Philadelphia	O
+wound_54	Phillies	O
+wound_54	for	O
+wound_54	the	O
+wound_54	1920	O
+wound_54	season	O

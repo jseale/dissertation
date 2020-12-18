@@ -1,0 +1,15 @@
+conflict_0	The	O
+conflict_0	two	O
+conflict_0	Nordic	O
+conflict_0	countries	O
+conflict_0	were	O
+conflict_0	in	O
+conflict_0	conflict	conflict_nou
+conflict_0	with	O
+conflict_0	each	O
+conflict_0	other	O
+conflict_0	for	O
+conflict_0	about	O
+conflict_0	five	O
+conflict_0	hundred	O
+conflict_0	years	O

@@ -1,0 +1,17 @@
+uses_5	Vesicants	O
+uses_5	have	O
+uses_5	medical	O
+uses_5	uses	uses_nou
+uses_5	including	O
+uses_5	wart	O
+uses_5	removal	O
+uses_5	but	O
+uses_5	can	O
+uses_5	be	O
+uses_5	fatal	O
+uses_5	if	O
+uses_5	even	O
+uses_5	small	O
+uses_5	amounts	O
+uses_5	are	O
+uses_5	ingested	O

@@ -1,0 +1,17 @@
+sow_47	If	O
+sow_47	the	O
+sow_47	Lord	O
+sow_47	's	O
+sow_47	people	O
+sow_47	sow	sow
+sow_47	filthiness	O
+sow_47	they	O
+sow_47	will	O
+sow_47	reap	O
+sow_47	the	O
+sow_47	east	O
+sow_47	wind	O
+sow_47	and	O
+sow_47	destruction	O
+sow_47	Mosiah	O
+sow_47	7:31	O

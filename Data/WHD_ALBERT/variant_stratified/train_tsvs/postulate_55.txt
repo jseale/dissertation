@@ -1,0 +1,11 @@
+postulate_55	Those	O
+postulate_55	who	O
+postulate_55	postulate	postulate_vrb
+postulate_55	other	O
+postulate_55	reasons	O
+postulate_55	for	O
+postulate_55	the	O
+postulate_55	withdrawal	O
+postulate_55	are	O
+postulate_55	simply	O
+postulate_55	wrong	O

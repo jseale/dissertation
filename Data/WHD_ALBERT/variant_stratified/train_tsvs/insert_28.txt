@@ -1,0 +1,17 @@
+insert_28	The	O
+insert_28	insert	insert_nou
+insert_28	DNA	O
+insert_28	is	O
+insert_28	replicated	O
+insert_28	with	O
+insert_28	the	O
+insert_28	viral	O
+insert_28	DNA	O
+insert_28	thus	O
+insert_28	together	O
+insert_28	they	O
+insert_28	are	O
+insert_28	packaged	O
+insert_28	into	O
+insert_28	viral	O
+insert_28	particles	O

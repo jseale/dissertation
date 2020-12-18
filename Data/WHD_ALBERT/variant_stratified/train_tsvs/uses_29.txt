@@ -1,0 +1,14 @@
+uses_29	Compared	O
+uses_29	to	O
+uses_29	other	O
+uses_29	mass	O
+uses_29	circulation	O
+uses_29	papers	O
+uses_29	in	O
+uses_29	Israel	O
+uses_29	Haaretz	O
+uses_29	uses	uses_vrb
+uses_29	smaller	O
+uses_29	headlines	O
+uses_29	and	O
+uses_29	print	O

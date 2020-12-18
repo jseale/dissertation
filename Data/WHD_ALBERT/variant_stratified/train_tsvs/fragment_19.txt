@@ -1,0 +1,17 @@
+fragment_19	The	O
+fragment_19	key	O
+fragment_19	contains	O
+fragment_19	a	O
+fragment_19	yellowing	O
+fragment_19	fragment	fragment_nou
+fragment_19	of	O
+fragment_19	parchment	O
+fragment_19	with	O
+fragment_19	a	O
+fragment_19	name	O
+fragment_19	written	O
+fragment_19	upon	O
+fragment_19	it	O
+fragment_19	Deliverance	O
+fragment_19	Hazeltine	O
+fragment_19	Dane	O

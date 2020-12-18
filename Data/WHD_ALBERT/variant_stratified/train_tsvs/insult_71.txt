@@ -1,0 +1,16 @@
+insult_71	That	O
+insult_71	no	O
+insult_71	Christian	O
+insult_71	should	O
+insult_71	enter	O
+insult_71	the	O
+insult_71	house	O
+insult_71	of	O
+insult_71	a	O
+insult_71	Muslim	O
+insult_71	or	O
+insult_71	insult	insult_vrb
+insult_71	him	O
+insult_71	in	O
+insult_71	any	O
+insult_71	way	O

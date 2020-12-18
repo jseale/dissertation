@@ -1,0 +1,16 @@
+postulate_75	He	O
+postulate_75	also	O
+postulate_75	was	O
+postulate_75	the	O
+postulate_75	first	O
+postulate_75	to	O
+postulate_75	postulate	postulate_vrb
+postulate_75	the	O
+postulate_75	central	O
+postulate_75	limit	O
+postulate_75	theorem	O
+postulate_75	a	O
+postulate_75	cornerstone	O
+postulate_75	of	O
+postulate_75	probability	O
+postulate_75	theory	O

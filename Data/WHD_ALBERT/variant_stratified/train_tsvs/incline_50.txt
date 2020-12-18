@@ -1,0 +1,17 @@
+incline_50	The	O
+incline_50	ball	O
+incline_50	then	O
+incline_50	rolls	O
+incline_50	back	O
+incline_50	to	O
+incline_50	the	O
+incline_50	player	O
+incline_50	on	O
+incline_50	a	O
+incline_50	slight	O
+incline_50	incline	incline_nou
+incline_50	slanted	O
+incline_50	back	O
+incline_50	from	O
+incline_50	the	O
+incline_50	holes	O

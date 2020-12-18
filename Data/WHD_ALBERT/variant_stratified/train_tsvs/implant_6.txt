@@ -1,0 +1,10 @@
+implant_6	An	O
+implant_6	experiment	O
+implant_6	requires	O
+implant_6	an	O
+implant_6	implant	implant_nou
+implant_6	step	O
+implant_6	and	O
+implant_6	an	O
+implant_6	anneal	O
+implant_6	step	O

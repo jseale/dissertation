@@ -1,0 +1,15 @@
+conflict_35	Protecting	O
+conflict_35	resources	O
+conflict_35	as	O
+conflict_35	well	O
+conflict_35	as	O
+conflict_35	attempting	O
+conflict_35	to	O
+conflict_35	obtain	O
+conflict_35	resources	O
+conflict_35	are	O
+conflict_35	both	O
+conflict_35	a	O
+conflict_35	cause	O
+conflict_35	for	O
+conflict_35	conflict	conflict_nou

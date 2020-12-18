@@ -1,0 +1,14 @@
+protest_2	He	O
+protest_2	was	O
+protest_2	the	O
+protest_2	one	O
+protest_2	to	O
+protest_2	announce	O
+protest_2	stiff	O
+protest_2	protest	protest_nou
+protest_2	programs	O
+protest_2	from	O
+protest_2	Nepali	O
+protest_2	Congress	O
+protest_2	Party	O
+protest_2	side	O

@@ -1,0 +1,8 @@
+bass_40	Seltzer	O
+bass_40	played	O
+bass_40	bass	bass
+bass_40	and	O
+bass_40	drums	O
+bass_40	on	O
+bass_40	Route	O
+bass_40	Zero	O

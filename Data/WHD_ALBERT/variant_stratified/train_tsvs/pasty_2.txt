@@ -1,0 +1,13 @@
+pasty_2	Whilst	O
+pasty_2	a	O
+pasty_2	student	O
+pasty_2	Rogerson	O
+pasty_2	worked	O
+pasty_2	at	O
+pasty_2	the	O
+pasty_2	Proper	O
+pasty_2	Cornish	O
+pasty_2	pasty	pasty_adj
+pasty_2	factory	O
+pasty_2	in	O
+pasty_2	Bodmin	O

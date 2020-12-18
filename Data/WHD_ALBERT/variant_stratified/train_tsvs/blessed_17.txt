@@ -1,0 +1,9 @@
+blessed_17	The	O
+blessed_17	church	O
+blessed_17	is	O
+blessed_17	dedicated	O
+blessed_17	to	O
+blessed_17	Mukthiamma	O
+blessed_17	Blessed	blessed_adj
+blessed_17	Virgin	O
+blessed_17	Mary	O

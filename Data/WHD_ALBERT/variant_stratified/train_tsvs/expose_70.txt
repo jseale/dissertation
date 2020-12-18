@@ -1,0 +1,15 @@
+expose_70	He	O
+expose_70	also	O
+expose_70	bullies	O
+expose_70	workers	O
+expose_70	especially	O
+expose_70	Lois	O
+expose_70	Lane	O
+expose_70	who	O
+expose_70	threatens	O
+expose_70	to	O
+expose_70	expose	expose_vrb
+expose_70	him	O
+expose_70	as	O
+expose_70	the	O
+expose_70	Kingpin	O

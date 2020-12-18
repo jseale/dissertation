@@ -1,0 +1,13 @@
+supplement_77	It	O
+supplement_77	will	O
+supplement_77	supplement	supplement_vrb
+supplement_77	the	O
+supplement_77	Russian	O
+supplement_77	built	O
+supplement_77	Elektron	O
+supplement_77	system	O
+supplement_77	operating	O
+supplement_77	in	O
+supplement_77	the	O
+supplement_77	Zvezda	O
+supplement_77	module	O

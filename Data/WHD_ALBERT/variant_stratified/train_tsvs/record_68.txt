@@ -1,0 +1,11 @@
+record_68	The	O
+record_68	42	O
+record_68	point	O
+record_68	margin	O
+record_68	of	O
+record_68	victory	O
+record_68	is	O
+record_68	a	O
+record_68	bowl	O
+record_68	game	O
+record_68	record	record_nou

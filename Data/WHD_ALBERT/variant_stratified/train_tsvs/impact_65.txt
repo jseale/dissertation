@@ -1,0 +1,10 @@
+impact_65	The	O
+impact_65	impact	impact_nou
+impact_65	of	O
+impact_65	World	O
+impact_65	War	O
+impact_65	II	O
+impact_65	drastically	O
+impact_65	affected	O
+impact_65	the	O
+impact_65	university	O

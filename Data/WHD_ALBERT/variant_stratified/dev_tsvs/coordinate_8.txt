@@ -1,0 +1,16 @@
+coordinate_8	The	O
+coordinate_8	division	O
+coordinate_8	lost	O
+coordinate_8	contact	O
+coordinate_8	with	O
+coordinate_8	its	O
+coordinate_8	artillery	O
+coordinate_8	support	O
+coordinate_8	and	O
+coordinate_8	was	O
+coordinate_8	unable	O
+coordinate_8	to	O
+coordinate_8	coordinate	coordinate_vrb
+coordinate_8	with	O
+coordinate_8	attached	O
+coordinate_8	tanks	O

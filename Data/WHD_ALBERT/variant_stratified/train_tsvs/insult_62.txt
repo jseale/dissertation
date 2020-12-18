@@ -1,0 +1,14 @@
+insult_62	Schemp	O
+insult_62	and	O
+insult_62	Mo	O
+insult_62	never	O
+insult_62	get	O
+insult_62	tired	O
+insult_62	of	O
+insult_62	trying	O
+insult_62	to	O
+insult_62	insult	insult_vrb
+insult_62	and	O
+insult_62	outdo	O
+insult_62	each	O
+insult_62	other	O

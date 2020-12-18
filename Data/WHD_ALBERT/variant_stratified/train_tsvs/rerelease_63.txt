@@ -1,0 +1,11 @@
+rerelease_63	The	O
+rerelease_63	series	O
+rerelease_63	was	O
+rerelease_63	a	O
+rerelease_63	rerelease	rerelease
+rerelease_63	version	O
+rerelease_63	of	O
+rerelease_63	Walt	O
+rerelease_63	Disney	O
+rerelease_63	Mini	O
+rerelease_63	Classics	O

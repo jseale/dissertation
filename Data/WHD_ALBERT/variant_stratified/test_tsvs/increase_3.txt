@@ -1,0 +1,15 @@
+increase_3	The	O
+increase_3	2010	O
+increase_3	U.S.	O
+increase_3	population	O
+increase_3	within	O
+increase_3	50	O
+increase_3	miles	O
+increase_3	80	O
+increase_3	km	O
+increase_3	was	O
+increase_3	1,079,868	O
+increase_3	increase	increase_nou
+increase_3	of	O
+increase_3	13.8	O
+increase_3	percent	O

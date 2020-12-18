@@ -1,0 +1,9 @@
+diffuse_71	Protium	O
+diffuse_71	and	O
+diffuse_71	deuterium	O
+diffuse_71	readily	O
+diffuse_71	diffuse	diffuse_vrb
+diffuse_71	through	O
+diffuse_71	the	O
+diffuse_71	alloy	O
+diffuse_71	membrane	O

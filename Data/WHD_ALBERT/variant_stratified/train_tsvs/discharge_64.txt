@@ -1,0 +1,16 @@
+discharge_64	Instead	O
+discharge_64	the	O
+discharge_64	Air	O
+discharge_64	Force	O
+discharge_64	issued	O
+discharge_64	an	O
+discharge_64	administrative	O
+discharge_64	discharge	discharge_nou
+discharge_64	for	O
+discharge_64	failure	O
+discharge_64	to	O
+discharge_64	demonstrate	O
+discharge_64	acceptable	O
+discharge_64	qualities	O
+discharge_64	of	O
+discharge_64	leadership	O

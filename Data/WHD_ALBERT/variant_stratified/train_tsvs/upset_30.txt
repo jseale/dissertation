@@ -1,0 +1,14 @@
+upset_30	Leilene	O
+upset_30	got	O
+upset_30	upset	upset_nou
+upset_30	but	O
+upset_30	tried	O
+upset_30	not	O
+upset_30	to	O
+upset_30	cry	O
+upset_30	so	O
+upset_30	she	O
+upset_30	would	O
+upset_30	not	O
+upset_30	look	O
+upset_30	emotional	O

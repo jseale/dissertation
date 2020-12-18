@@ -1,0 +1,15 @@
+discount_68	Cunningham	O
+discount_68	was	O
+discount_68	credited	O
+discount_68	by	O
+discount_68	Sam	O
+discount_68	Walton	O
+discount_68	as	O
+discount_68	being	O
+discount_68	the	O
+discount_68	first	O
+discount_68	to	O
+discount_68	design	O
+discount_68	a	O
+discount_68	discount	discount_nou
+discount_68	store	O

@@ -1,0 +1,13 @@
+polish_70	On	O
+polish_70	6	O
+polish_70	October	O
+polish_70	2015	O
+polish_70	he	O
+polish_70	became	O
+polish_70	the	O
+polish_70	manager	O
+polish_70	of	O
+polish_70	Polish	polish_geo
+polish_70	side	O
+polish_70	Legia	O
+polish_70	Warsaw	O

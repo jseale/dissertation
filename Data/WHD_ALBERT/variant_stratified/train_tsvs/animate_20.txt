@@ -1,0 +1,14 @@
+animate_20	Also	O
+animate_20	masculine	O
+animate_20	animate	animate_adj-nou
+animate_20	nouns	O
+animate_20	have	O
+animate_20	accusative	O
+animate_20	singular	O
+animate_20	equal	O
+animate_20	to	O
+animate_20	the	O
+animate_20	genitive	O
+animate_20	singular	O
+animate_20	in	O
+animate_20	-a	O

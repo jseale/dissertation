@@ -1,0 +1,15 @@
+attribute_25	The	O
+attribute_25	dove	O
+attribute_25	is	O
+attribute_25	an	O
+attribute_25	attribute	attribute_nou
+attribute_25	of	O
+attribute_25	Saint	O
+attribute_25	Remigius	O
+attribute_25	the	O
+attribute_25	patron	O
+attribute_25	saint	O
+attribute_25	of	O
+attribute_25	the	O
+attribute_25	village	O
+attribute_25	church	O

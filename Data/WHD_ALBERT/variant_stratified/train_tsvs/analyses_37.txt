@@ -1,0 +1,16 @@
+analyses_37	Several	O
+analyses_37	computer	O
+analyses_37	analyses	analyses_nou
+analyses_37	of	O
+analyses_37	the	O
+analyses_37	text	O
+analyses_37	have	O
+analyses_37	been	O
+analyses_37	done	O
+analyses_37	to	O
+analyses_37	determine	O
+analyses_37	whether	O
+analyses_37	there	O
+analyses_37	were	O
+analyses_37	multiple	O
+analyses_37	authors	O

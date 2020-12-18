@@ -1,0 +1,11 @@
+rerelease_10	CD	O
+rerelease_10	rerelease	rerelease
+rerelease_10	with	O
+rerelease_10	deluxe	O
+rerelease_10	packaging	O
+rerelease_10	on	O
+rerelease_10	Tesco	O
+rerelease_10	Distribution	O
+rerelease_10	Storm	O
+rerelease_10	in	O
+rerelease_10	2001	O

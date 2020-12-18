@@ -1,0 +1,8 @@
+reject_37	Priests	O
+reject_37	would	O
+reject_37	reject	reject_vrb
+reject_37	dogma	O
+reject_37	and	O
+reject_37	old	O
+reject_37	ca	O
+reject_37	nt	O

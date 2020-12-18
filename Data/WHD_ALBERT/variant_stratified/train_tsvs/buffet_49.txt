@@ -1,0 +1,15 @@
+buffet_49	There	O
+buffet_49	is	O
+buffet_49	also	O
+buffet_49	a	O
+buffet_49	brasserie	O
+buffet_49	style	O
+buffet_49	buffet	buffet_nou
+buffet_49	located	O
+buffet_49	one	O
+buffet_49	floor	O
+buffet_49	above	O
+buffet_49	the	O
+buffet_49	main	O
+buffet_49	observatory	O
+buffet_49	level	O

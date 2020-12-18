@@ -1,0 +1,16 @@
+excuse_47	When	O
+excuse_47	the	O
+excuse_47	boy	O
+excuse_47	's	O
+excuse_47	mother	O
+excuse_47	walks	O
+excuse_47	in	O
+excuse_47	I	O
+excuse_47	took	O
+excuse_47	a	O
+excuse_47	Lude	O
+excuse_47	was	O
+excuse_47	the	O
+excuse_47	woman	O
+excuse_47	's	O
+excuse_47	excuse	excuse_nou

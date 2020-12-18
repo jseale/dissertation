@@ -1,0 +1,9 @@
+uses_20	He	O
+uses_20	uses	uses_vrb
+uses_20	mostly	O
+uses_20	a	O
+uses_20	2007	O
+uses_20	6136	O
+uses_20	Gretsch	O
+uses_20	White	O
+uses_20	Falcon	O

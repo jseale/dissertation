@@ -1,0 +1,14 @@
+mobile_30	The	O
+mobile_30	AT&T	O
+mobile_30	Variant	O
+mobile_30	has	O
+mobile_30	been	O
+mobile_30	heavily	O
+mobile_30	modified	O
+mobile_30	from	O
+mobile_30	the	O
+mobile_30	unlocked	O
+mobile_30	and	O
+mobile_30	T	O
+mobile_30	Mobile	mobile
+mobile_30	versions	O

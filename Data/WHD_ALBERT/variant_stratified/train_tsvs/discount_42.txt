@@ -1,0 +1,13 @@
+discount_42	Kmart	O
+discount_42	eventually	O
+discount_42	pulled	O
+discount_42	out	O
+discount_42	of	O
+discount_42	the	O
+discount_42	4c	O
+discount_42	fuel	O
+discount_42	discount	discount_nou
+discount_42	offer	O
+discount_42	in	O
+discount_42	July	O
+discount_42	2010	O

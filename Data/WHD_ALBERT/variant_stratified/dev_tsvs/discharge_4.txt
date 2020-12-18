@@ -1,0 +1,7 @@
+discharge_4	Aug.	O
+discharge_4	1972	O
+discharge_4	General	O
+discharge_4	discharge	discharge_nou
+discharge_4	from	O
+discharge_4	the	O
+discharge_4	military	O

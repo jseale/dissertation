@@ -1,0 +1,12 @@
+conflict_50	This	O
+conflict_50	policy	O
+conflict_50	along	O
+conflict_50	with	O
+conflict_50	other	O
+conflict_50	disputes	O
+conflict_50	brought	O
+conflict_50	Thebes	O
+conflict_50	into	O
+conflict_50	conflict	conflict_nou
+conflict_50	with	O
+conflict_50	Sparta	O

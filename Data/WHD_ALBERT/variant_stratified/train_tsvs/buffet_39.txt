@@ -1,0 +1,15 @@
+buffet_39	At	O
+buffet_39	hotels	O
+buffet_39	in	O
+buffet_39	Israel	O
+buffet_39	the	O
+buffet_39	Israeli	O
+buffet_39	breakfast	O
+buffet_39	is	O
+buffet_39	commonly	O
+buffet_39	presented	O
+buffet_39	as	O
+buffet_39	a	O
+buffet_39	self	O
+buffet_39	service	O
+buffet_39	buffet	buffet_nou

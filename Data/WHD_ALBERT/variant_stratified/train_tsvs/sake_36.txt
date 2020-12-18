@@ -1,0 +1,12 @@
+sake_36	She	O
+sake_36	became	O
+sake_36	Chong	O
+sake_36	Ngou	O
+sake_36	shan	O
+sake_36	's	O
+sake_36	wife	O
+sake_36	for	O
+sake_36	the	O
+sake_36	sake	sake
+sake_36	of	O
+sake_36	money	O

@@ -1,0 +1,17 @@
+pasty_57	The	O
+pasty_57	pasty	pasty_nou
+pasty_57	products	O
+pasty_57	are	O
+pasty_57	moved	O
+pasty_57	with	O
+pasty_57	the	O
+pasty_57	aid	O
+pasty_57	of	O
+pasty_57	a	O
+pasty_57	vane	O
+pasty_57	cell	O
+pasty_57	feed	O
+pasty_57	system	O
+pasty_57	under	O
+pasty_57	a	O
+pasty_57	vacuum	O

@@ -1,0 +1,16 @@
+transform_37	It	O
+transform_37	is	O
+transform_37	no	O
+transform_37	longer	O
+transform_37	to	O
+transform_37	transform	transform
+transform_37	an	O
+transform_37	opinion	O
+transform_37	but	O
+transform_37	to	O
+transform_37	arouse	O
+transform_37	an	O
+transform_37	active	O
+transform_37	and	O
+transform_37	mythical	O
+transform_37	belief	O

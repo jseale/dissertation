@@ -1,0 +1,15 @@
+perfect_57	In	O
+perfect_57	1966	O
+perfect_57	he	O
+perfect_57	led	O
+perfect_57	the	O
+perfect_57	National	O
+perfect_57	League	O
+perfect_57	with	O
+perfect_57	a	O
+perfect_57	perfect	perfect_adj
+perfect_57	1.000	O
+perfect_57	fielding	O
+perfect_57	average	O
+perfect_57	as	O
+perfect_57	pitcher	O

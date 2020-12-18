@@ -1,0 +1,16 @@
+lives_1	Instead	O
+lives_1	the	O
+lives_1	video	O
+lives_1	follows	O
+lives_1	the	O
+lives_1	lives	lives_nou
+lives_1	of	O
+lives_1	a	O
+lives_1	feuding	O
+lives_1	couple	O
+lives_1	who	O
+lives_1	live	O
+lives_1	next	O
+lives_1	door	O
+lives_1	to	O
+lives_1	Dixon	O

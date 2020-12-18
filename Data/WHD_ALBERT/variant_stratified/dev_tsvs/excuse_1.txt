@@ -1,0 +1,10 @@
+excuse_1	According	O
+excuse_1	to	O
+excuse_1	Margoliouth	O
+excuse_1	this	O
+excuse_1	became	O
+excuse_1	an	O
+excuse_1	excuse	excuse_nou
+excuse_1	for	O
+excuse_1	unfettered	O
+excuse_1	conquest	O

@@ -1,0 +1,13 @@
+duplicate_64	Randi	O
+duplicate_64	demonstrated	O
+duplicate_64	that	O
+duplicate_64	he	O
+duplicate_64	could	O
+duplicate_64	by	O
+duplicate_64	ordinary	O
+duplicate_64	conjuring	O
+duplicate_64	means	O
+duplicate_64	duplicate	duplicate_vrb
+duplicate_64	Geller	O
+duplicate_64	's	O
+duplicate_64	feats	O

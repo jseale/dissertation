@@ -1,0 +1,9 @@
+consummate_45	She	O
+consummate_45	suspects	O
+consummate_45	deceit	O
+consummate_45	and	O
+consummate_45	refuses	O
+consummate_45	to	O
+consummate_45	consummate	consummate_vrb
+consummate_45	the	O
+consummate_45	marriage	O

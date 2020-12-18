@@ -1,0 +1,14 @@
+wind_67	Tyson	O
+wind_67	was	O
+wind_67	taken	O
+wind_67	off	O
+wind_67	and	O
+wind_67	when	O
+wind_67	Trueman	O
+wind_67	was	O
+wind_67	given	O
+wind_67	the	O
+wind_67	wind	wind_nou
+wind_67	he	O
+wind_67	bowled	O
+wind_67	Favell	O

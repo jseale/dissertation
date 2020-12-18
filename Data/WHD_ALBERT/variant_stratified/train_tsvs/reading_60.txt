@@ -1,0 +1,14 @@
+reading_60	No	O
+reading_60	one	O
+reading_60	has	O
+reading_60	been	O
+reading_60	exempted	O
+reading_60	in	O
+reading_60	the	O
+reading_60	knowledge	O
+reading_60	of	O
+reading_60	reading	reading_en
+reading_60	and	O
+reading_60	writing	O
+reading_60	even	O
+reading_60	women	O

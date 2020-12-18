@@ -1,0 +1,8 @@
+use_44	The	O
+use_44	effect	O
+use_44	of	O
+use_44	preventive	O
+use_44	use	use_nou
+use_44	is	O
+use_44	not	O
+use_44	clear	O

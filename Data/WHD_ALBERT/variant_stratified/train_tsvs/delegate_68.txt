@@ -1,0 +1,16 @@
+delegate_68	Zaleski	O
+delegate_68	became	O
+delegate_68	the	O
+delegate_68	Apostolic	O
+delegate_68	Delegate	delegate_nou
+delegate_68	to	O
+delegate_68	India	O
+delegate_68	Burma	O
+delegate_68	and	O
+delegate_68	Ceylon	O
+delegate_68	and	O
+delegate_68	took	O
+delegate_68	up	O
+delegate_68	residence	O
+delegate_68	in	O
+delegate_68	Kandy	O

@@ -1,0 +1,15 @@
+recount_35	After	O
+recount_35	demanding	O
+recount_35	a	O
+recount_35	recount	recount_nou
+recount_35	West	O
+recount_35	finally	O
+recount_35	conceded	O
+recount_35	the	O
+recount_35	election	O
+recount_35	to	O
+recount_35	Murphy	O
+recount_35	on	O
+recount_35	November	O
+recount_35	20	O
+recount_35	2012	O

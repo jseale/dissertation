@@ -1,0 +1,12 @@
+insult_12	The	O
+insult_12	court	O
+insult_12	interpreted	O
+insult_12	the	O
+insult_12	demand	O
+insult_12	for	O
+insult_12	proof	O
+insult_12	of	O
+insult_12	nobility	O
+insult_12	as	O
+insult_12	an	O
+insult_12	insult	insult_nou

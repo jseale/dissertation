@@ -1,0 +1,12 @@
+conflict_17	Dark	O
+conflict_17	Lord	O
+conflict_17	characters	O
+conflict_17	do	O
+conflict_17	not	O
+conflict_17	often	O
+conflict_17	engage	O
+conflict_17	in	O
+conflict_17	direct	O
+conflict_17	conflict	conflict_nou
+conflict_17	with	O
+conflict_17	protagonists	O

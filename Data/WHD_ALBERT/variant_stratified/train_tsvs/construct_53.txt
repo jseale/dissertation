@@ -1,0 +1,16 @@
+construct_53	In	O
+construct_53	administrative	O
+construct_53	terms	O
+construct_53	multiple	O
+construct_53	choice	O
+construct_53	items	O
+construct_53	that	O
+construct_53	are	O
+construct_53	effective	O
+construct_53	usually	O
+construct_53	take	O
+construct_53	a	O
+construct_53	great	O
+construct_53	time	O
+construct_53	to	O
+construct_53	construct	construct_vrb

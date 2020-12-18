@@ -1,0 +1,17 @@
+present_0	It	O
+present_0	is	O
+present_0	at	O
+present_0	present	present_adj-nou
+present_0	a	O
+present_0	multi	O
+present_0	racial	O
+present_0	and	O
+present_0	co	O
+present_0	educational	O
+present_0	institution	O
+present_0	open	O
+present_0	to	O
+present_0	students	O
+present_0	of	O
+present_0	all	O
+present_0	communities	O

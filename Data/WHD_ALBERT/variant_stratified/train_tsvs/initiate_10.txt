@@ -1,0 +1,13 @@
+initiate_10	The	O
+initiate_10	mast	O
+initiate_10	cells	O
+initiate_10	release	O
+initiate_10	histamine	O
+initiate_10	and	O
+initiate_10	heparin	O
+initiate_10	which	O
+initiate_10	help	O
+initiate_10	initiate	initiate_vrb
+initiate_10	the	O
+initiate_10	inflammatory	O
+initiate_10	response	O

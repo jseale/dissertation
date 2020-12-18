@@ -1,0 +1,12 @@
+invert_68	Stabilized	O
+invert_68	or	O
+invert_68	soft	O
+invert_68	nucleophiles	O
+invert_68	invert	invert_vrb
+invert_68	the	O
+invert_68	stereochemistry	O
+invert_68	of	O
+invert_68	the	O
+invert_68	π	O
+invert_68	allyl	O
+invert_68	complex	O

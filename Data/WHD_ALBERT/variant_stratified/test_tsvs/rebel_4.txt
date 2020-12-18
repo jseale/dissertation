@@ -1,0 +1,11 @@
+rebel_4	Many	O
+rebel_4	formerly	O
+rebel_4	rebel	rebel_nou
+rebel_4	held	O
+rebel_4	towns	O
+rebel_4	sent	O
+rebel_4	soldiers	O
+rebel_4	to	O
+rebel_4	Navarre	O
+rebel_4	as	O
+rebel_4	well	O

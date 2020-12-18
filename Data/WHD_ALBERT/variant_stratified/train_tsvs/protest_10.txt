@@ -1,0 +1,9 @@
+protest_10	SCAW	O
+protest_10	handed	O
+protest_10	out	O
+protest_10	an	O
+protest_10	Afghanistan	O
+protest_10	pamphlet	O
+protest_10	during	O
+protest_10	the	O
+protest_10	protest	protest_nou

@@ -1,0 +1,14 @@
+close_0	An	O
+close_0	extreme	O
+close_0	close	close_adj-nou
+close_0	up	O
+close_0	lets	O
+close_0	the	O
+close_0	detail	O
+close_0	of	O
+close_0	the	O
+close_0	scratching	O
+close_0	be	O
+close_0	more	O
+close_0	easily	O
+close_0	seen	O

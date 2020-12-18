@@ -1,0 +1,10 @@
+correlate_8	This	O
+correlate_8	has	O
+correlate_8	been	O
+correlate_8	shown	O
+correlate_8	to	O
+correlate_8	correlate	correlate_nou-vrb
+correlate_8	well	O
+correlate_8	with	O
+correlate_8	experimental	O
+correlate_8	results	O

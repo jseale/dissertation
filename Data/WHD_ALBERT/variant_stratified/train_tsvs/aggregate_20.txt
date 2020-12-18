@@ -1,0 +1,12 @@
+aggregate_20	The	O
+aggregate_20	film	O
+aggregate_20	received	O
+aggregate_20	a	O
+aggregate_20	69	O
+aggregate_20	approval	O
+aggregate_20	rating	O
+aggregate_20	on	O
+aggregate_20	review	O
+aggregate_20	aggregate	aggregate_adj-nou
+aggregate_20	Rotten	O
+aggregate_20	Tomatoes	O

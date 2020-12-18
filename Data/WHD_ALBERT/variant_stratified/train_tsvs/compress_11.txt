@@ -1,0 +1,10 @@
+compress_11	The	O
+compress_11	production	O
+compress_11	uses	O
+compress_11	echo	O
+compress_11	to	O
+compress_11	compress	compress
+compress_11	Lennon	O
+compress_11	's	O
+compress_11	vocal	O
+compress_11	performance	O

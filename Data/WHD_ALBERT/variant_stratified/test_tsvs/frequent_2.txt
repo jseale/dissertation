@@ -1,0 +1,16 @@
+frequent_2	Frequent	frequent_adj
+frequent_2	guests	O
+frequent_2	included	O
+frequent_2	Margaret	O
+frequent_2	Cho	O
+frequent_2	Janeane	O
+frequent_2	Garofalo	O
+frequent_2	David	O
+frequent_2	Cross	O
+frequent_2	Louis	O
+frequent_2	C.K.	O
+frequent_2	Zachery	O
+frequent_2	Bacik	O
+frequent_2	and	O
+frequent_2	Casey	O
+frequent_2	Hardmeyer	O

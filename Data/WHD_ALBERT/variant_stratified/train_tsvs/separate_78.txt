@@ -1,0 +1,12 @@
+separate_78	Stationing	O
+separate_78	10,000	O
+separate_78	troops	O
+separate_78	to	O
+separate_78	separate	separate_vrb
+separate_78	American	O
+separate_78	Indians	O
+separate_78	and	O
+separate_78	frontiersmen	O
+separate_78	was	O
+separate_78	one	O
+separate_78	role	O

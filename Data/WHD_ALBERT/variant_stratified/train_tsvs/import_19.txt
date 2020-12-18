@@ -1,0 +1,12 @@
+import_19	This	O
+import_19	price	O
+import_19	disparity	O
+import_19	is	O
+import_19	caused	O
+import_19	by	O
+import_19	domestic	O
+import_19	consumption	O
+import_19	taxes	O
+import_19	and	O
+import_19	import	import_nou
+import_19	duties	O

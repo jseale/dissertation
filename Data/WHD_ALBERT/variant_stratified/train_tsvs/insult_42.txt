@@ -1,0 +1,17 @@
+insult_42	Associating	O
+insult_42	a	O
+insult_42	man	O
+insult_42	with	O
+insult_42	something	O
+insult_42	feminine	O
+insult_42	and	O
+insult_42	calling	O
+insult_42	him	O
+insult_42	girl	O
+insult_42	or	O
+insult_42	sissy	O
+insult_42	is	O
+insult_42	usually	O
+insult_42	considered	O
+insult_42	an	O
+insult_42	insult	insult_nou

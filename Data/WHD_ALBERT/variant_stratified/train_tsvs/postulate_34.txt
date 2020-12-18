@@ -1,0 +1,12 @@
+postulate_34	The	O
+postulate_34	postulate	postulate_nou
+postulate_34	therefore	O
+postulate_34	becomes	O
+postulate_34	descriptive	O
+postulate_34	of	O
+postulate_34	research	O
+postulate_34	and	O
+postulate_34	prescriptive	O
+postulate_34	of	O
+postulate_34	research	O
+postulate_34	methodology	O

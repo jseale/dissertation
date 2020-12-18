@@ -1,0 +1,17 @@
+tear_42	He	O
+tear_42	also	O
+tear_42	appeared	O
+tear_42	in	O
+tear_42	the	O
+tear_42	video	O
+tear_42	clip	O
+tear_42	for	O
+tear_42	Tear	tear_vrb
+tear_42	You	O
+tear_42	Apart	O
+tear_42	by	O
+tear_42	She	O
+tear_42	Wants	O
+tear_42	Revenge	O
+tear_42	as	O
+tear_42	Tommy	O

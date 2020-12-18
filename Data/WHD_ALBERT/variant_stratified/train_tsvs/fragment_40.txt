@@ -1,0 +1,15 @@
+fragment_40	Multiple	O
+fragment_40	proteolytic	O
+fragment_40	events	O
+fragment_40	allow	O
+fragment_40	for	O
+fragment_40	the	O
+fragment_40	release	O
+fragment_40	of	O
+fragment_40	a	O
+fragment_40	cytoplasmic	O
+fragment_40	fragment	fragment_nou
+fragment_40	and	O
+fragment_40	an	O
+fragment_40	extracellular	O
+fragment_40	fragment	fragment_nou

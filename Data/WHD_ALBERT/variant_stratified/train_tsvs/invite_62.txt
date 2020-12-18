@@ -1,0 +1,14 @@
+invite_62	Jerry	O
+invite_62	and	O
+invite_62	Kramer	O
+invite_62	switch	O
+invite_62	apartments	O
+invite_62	and	O
+invite_62	Kramer	O
+invite_62	takes	O
+invite_62	the	O
+invite_62	opportunity	O
+invite_62	to	O
+invite_62	invite	invite_vrb
+invite_62	Newman	O
+invite_62	over	O

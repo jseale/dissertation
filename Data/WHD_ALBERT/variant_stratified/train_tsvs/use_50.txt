@@ -1,0 +1,12 @@
+use_50	They	O
+use_50	are	O
+use_50	the	O
+use_50	only	O
+use_50	ones	O
+use_50	that	O
+use_50	use	use_vrb
+use_50	Glock	O
+use_50	pistols	O
+use_50	Glock	O
+use_50	17	O
+use_50	type	O

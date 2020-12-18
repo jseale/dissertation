@@ -1,0 +1,9 @@
+wind_26	The	O
+wind_26	trees	O
+wind_26	have	O
+wind_26	become	O
+wind_26	wind	wind_nou
+wind_26	beaten	O
+wind_26	gnarled	O
+wind_26	leafless	O
+wind_26	trunks	O

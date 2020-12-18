@@ -1,0 +1,9 @@
+overthrow_35	From	O
+overthrow_35	here	O
+overthrow_35	Bryennios	O
+overthrow_35	began	O
+overthrow_35	plotting	O
+overthrow_35	to	O
+overthrow_35	overthrow	overthrow_vrb
+overthrow_35	the	O
+overthrow_35	emperor	O

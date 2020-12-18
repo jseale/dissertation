@@ -1,0 +1,12 @@
+celtic_14	The	O
+celtic_14	name	O
+celtic_14	came	O
+celtic_14	from	O
+celtic_14	Celtic	celtic
+celtic_14	word	O
+celtic_14	arevalon	O
+celtic_14	meaning	O
+celtic_14	place	O
+celtic_14	near	O
+celtic_14	the	O
+celtic_14	wall	O

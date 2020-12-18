@@ -1,0 +1,10 @@
+fragment_68	New	O
+fragment_68	Caledonia	O
+fragment_68	was	O
+fragment_68	an	O
+fragment_68	ancient	O
+fragment_68	fragment	fragment_nou
+fragment_68	of	O
+fragment_68	the	O
+fragment_68	supercontinent	O
+fragment_68	Gondwana	O

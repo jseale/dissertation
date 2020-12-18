@@ -1,0 +1,13 @@
+diffuse_4	Esophageal	O
+diffuse_4	motility	O
+diffuse_4	study	O
+diffuse_4	is	O
+diffuse_4	useful	O
+diffuse_4	in	O
+diffuse_4	cases	O
+diffuse_4	of	O
+diffuse_4	achalasia	O
+diffuse_4	and	O
+diffuse_4	diffuse	diffuse_adj
+diffuse_4	esophageal	O
+diffuse_4	spasms	O

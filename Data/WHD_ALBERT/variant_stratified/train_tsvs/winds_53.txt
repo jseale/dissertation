@@ -1,0 +1,9 @@
+winds_53	Regionally	O
+winds_53	these	O
+winds_53	winds	winds_nou
+winds_53	are	O
+winds_53	known	O
+winds_53	by	O
+winds_53	many	O
+winds_53	different	O
+winds_53	names	O

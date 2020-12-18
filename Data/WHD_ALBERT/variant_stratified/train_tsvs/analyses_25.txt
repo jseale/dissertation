@@ -1,0 +1,9 @@
+analyses_25	Some	O
+analyses_25	analyses	analyses_nou
+analyses_25	see	O
+analyses_25	aspects	O
+analyses_25	of	O
+analyses_25	shamanism	O
+analyses_25	in	O
+analyses_25	his	O
+analyses_25	writing	O

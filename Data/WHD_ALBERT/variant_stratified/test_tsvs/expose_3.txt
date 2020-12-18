@@ -1,0 +1,15 @@
+expose_3	He	O
+expose_3	ignored	O
+expose_3	the	O
+expose_3	challenge	O
+expose_3	after	O
+expose_3	which	O
+expose_3	the	O
+expose_3	challenger	O
+expose_3	threatened	O
+expose_3	to	O
+expose_3	expose	expose_vrb
+expose_3	him	O
+expose_3	as	O
+expose_3	a	O
+expose_3	coward	O

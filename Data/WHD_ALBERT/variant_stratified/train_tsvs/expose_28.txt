@@ -1,0 +1,17 @@
+expose_28	In	O
+expose_28	mammals	O
+expose_28	the	O
+expose_28	olfactory	O
+expose_28	part	O
+expose_28	of	O
+expose_28	the	O
+expose_28	brain	O
+expose_28	is	O
+expose_28	covered	O
+expose_28	by	O
+expose_28	neopallium	O
+expose_28	making	O
+expose_28	it	O
+expose_28	difficult	O
+expose_28	to	O
+expose_28	expose	expose_vrb

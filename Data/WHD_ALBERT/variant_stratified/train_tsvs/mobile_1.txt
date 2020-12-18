@@ -1,0 +1,16 @@
+mobile_1	The	O
+mobile_1	next	O
+mobile_1	wave	O
+mobile_1	of	O
+mobile_1	popular	O
+mobile_1	mobile	mobile
+mobile_1	enterprise	O
+mobile_1	application	O
+mobile_1	software	O
+mobile_1	was	O
+mobile_1	the	O
+mobile_1	advent	O
+mobile_1	of	O
+mobile_1	the	O
+mobile_1	CRM	O
+mobile_1	software	O

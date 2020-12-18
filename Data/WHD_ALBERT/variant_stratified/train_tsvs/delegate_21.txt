@@ -1,0 +1,16 @@
+delegate_21	He	O
+delegate_21	was	O
+delegate_21	chosen	O
+delegate_21	a	O
+delegate_21	delegate	delegate_nou
+delegate_21	to	O
+delegate_21	the	O
+delegate_21	National	O
+delegate_21	Democratic	O
+delegate_21	Convention	O
+delegate_21	on	O
+delegate_21	the	O
+delegate_21	gold	O
+delegate_21	platform	O
+delegate_21	in	O
+delegate_21	1896	O

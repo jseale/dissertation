@@ -1,0 +1,14 @@
+supplement_70	The	O
+supplement_70	Excelsior	O
+supplement_70	required	O
+supplement_70	eight	O
+supplement_70	passes	O
+supplement_70	to	O
+supplement_70	supplement	supplement_vrb
+supplement_70	the	O
+supplement_70	main	O
+supplement_70	beauty	O
+supplement_70	pass	O
+supplement_70	the	O
+supplement_70	Enterprise	O
+supplement_70	six	O

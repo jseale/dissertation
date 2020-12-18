@@ -1,0 +1,17 @@
+converse_37	She	O
+converse_37	then	O
+converse_37	struts	O
+converse_37	across	O
+converse_37	the	O
+converse_37	road	O
+converse_37	and	O
+converse_37	performs	O
+converse_37	her	O
+converse_37	famous	O
+converse_37	matrix	O
+converse_37	move	O
+converse_37	in	O
+converse_37	custom	O
+converse_37	designed	O
+converse_37	Converse	converse_adj-nou
+converse_37	heels	O

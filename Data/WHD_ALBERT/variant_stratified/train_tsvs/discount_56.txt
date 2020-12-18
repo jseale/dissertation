@@ -1,0 +1,13 @@
+discount_56	Wuhan	O
+discount_56	Tong	O
+discount_56	cardholders	O
+discount_56	will	O
+discount_56	receive	O
+discount_56	a	O
+discount_56	20	O
+discount_56	percent	O
+discount_56	discount	discount_nou
+discount_56	on	O
+discount_56	single	O
+discount_56	ride	O
+discount_56	fares	O

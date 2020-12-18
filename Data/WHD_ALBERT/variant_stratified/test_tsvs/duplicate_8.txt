@@ -1,0 +1,15 @@
+duplicate_8	With	O
+duplicate_8	Wolfman	O
+duplicate_8	out	O
+duplicate_8	of	O
+duplicate_8	the	O
+duplicate_8	way	O
+duplicate_8	the	O
+duplicate_8	station	O
+duplicate_8	owners	O
+duplicate_8	tried	O
+duplicate_8	to	O
+duplicate_8	duplicate	duplicate_vrb
+duplicate_8	his	O
+duplicate_8	successful	O
+duplicate_8	formula	O

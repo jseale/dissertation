@@ -1,0 +1,11 @@
+diffuse_25	The	O
+diffuse_25	transverse	O
+diffuse_25	pale	O
+diffuse_25	bands	O
+diffuse_25	on	O
+diffuse_25	both	O
+diffuse_25	wings	O
+diffuse_25	are	O
+diffuse_25	broad	O
+diffuse_25	and	O
+diffuse_25	diffuse	diffuse_adj

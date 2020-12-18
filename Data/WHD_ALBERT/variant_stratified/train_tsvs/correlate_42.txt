@@ -1,0 +1,16 @@
+correlate_42	This	O
+correlate_42	relational	O
+correlate_42	technology	O
+correlate_42	allowed	O
+correlate_42	people	O
+correlate_42	to	O
+correlate_42	correlate	correlate_nou-vrb
+correlate_42	information	O
+correlate_42	stored	O
+correlate_42	in	O
+correlate_42	a	O
+correlate_42	primary	O
+correlate_42	table	O
+correlate_42	and	O
+correlate_42	its	O
+correlate_42	shadow	O

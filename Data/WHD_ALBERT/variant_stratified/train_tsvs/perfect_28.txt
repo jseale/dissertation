@@ -1,0 +1,13 @@
+perfect_28	In	O
+perfect_28	conditions	O
+perfect_28	described	O
+perfect_28	as	O
+perfect_28	perfect	perfect_adj
+perfect_28	Cambridge	O
+perfect_28	took	O
+perfect_28	an	O
+perfect_28	early	O
+perfect_28	lead	O
+perfect_28	out	O
+perfect_28	rating	O
+perfect_28	Oxford	O

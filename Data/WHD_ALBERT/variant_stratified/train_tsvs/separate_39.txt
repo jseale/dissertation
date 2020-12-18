@@ -1,0 +1,16 @@
+separate_39	They	O
+separate_39	have	O
+separate_39	been	O
+separate_39	classified	O
+separate_39	as	O
+separate_39	a	O
+separate_39	separate	separate_adj
+separate_39	phylum	O
+separate_39	Pogonophora	O
+separate_39	or	O
+separate_39	as	O
+separate_39	two	O
+separate_39	phyla	O
+separate_39	Pogonophora	O
+separate_39	and	O
+separate_39	Vestimentifera	O

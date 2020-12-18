@@ -1,0 +1,17 @@
+compress_4	An	O
+compress_4	alien	O
+compress_4	named	O
+compress_4	Baltazar	O
+compress_4	has	O
+compress_4	set	O
+compress_4	his	O
+compress_4	sights	O
+compress_4	on	O
+compress_4	Earth	O
+compress_4	planning	O
+compress_4	to	O
+compress_4	compress	compress
+compress_4	its	O
+compress_4	population	O
+compress_4	into	O
+compress_4	diamonds	O

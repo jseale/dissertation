@@ -1,0 +1,11 @@
+decrease_38	However	O
+decrease_38	if	O
+decrease_38	they	O
+decrease_38	are	O
+decrease_38	ignored	O
+decrease_38	they	O
+decrease_38	will	O
+decrease_38	decrease	decrease_vrb
+decrease_38	in	O
+decrease_38	skill	O
+decrease_38	level	O

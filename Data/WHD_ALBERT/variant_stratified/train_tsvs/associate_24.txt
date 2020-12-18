@@ -1,0 +1,14 @@
+associate_24	Associate	associate_adj-nou
+associate_24	membership	O
+associate_24	provided	O
+associate_24	a	O
+associate_24	discounted	O
+associate_24	purchase	O
+associate_24	price	O
+associate_24	for	O
+associate_24	the	O
+associate_24	International	O
+associate_24	Journal	O
+associate_24	of	O
+associate_24	Nautical	O
+associate_24	Archaeology	O

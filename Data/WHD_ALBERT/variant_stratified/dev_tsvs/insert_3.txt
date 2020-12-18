@@ -1,0 +1,15 @@
+insert_3	There	O
+insert_3	may	O
+insert_3	also	O
+insert_3	be	O
+insert_3	insert	insert_nou
+insert_3	points	O
+insert_3	for	O
+insert_3	a	O
+insert_3	certain	O
+insert_3	bus	O
+insert_3	or	O
+insert_3	even	O
+insert_3	the	O
+insert_3	entire	O
+insert_3	mix	O

@@ -1,0 +1,15 @@
+wound_7	His	O
+wound_7	hand	O
+wound_7	appears	O
+wound_7	to	O
+wound_7	be	O
+wound_7	pointing	O
+wound_7	towards	O
+wound_7	Venus	O
+wound_7	possibly	O
+wound_7	at	O
+wound_7	the	O
+wound_7	wound	wound_nou-vrb
+wound_7	in	O
+wound_7	her	O
+wound_7	chest	O

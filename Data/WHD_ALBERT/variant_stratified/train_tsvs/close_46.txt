@@ -1,0 +1,15 @@
+close_46	In	O
+close_46	essence	O
+close_46	the	O
+close_46	show	O
+close_46	came	O
+close_46	to	O
+close_46	life	O
+close_46	just	O
+close_46	as	O
+close_46	its	O
+close_46	run	O
+close_46	drew	O
+close_46	to	O
+close_46	a	O
+close_46	close	close_adj-nou

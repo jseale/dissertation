@@ -1,0 +1,8 @@
+conjugate_56	Organic	O
+conjugate_56	anions	O
+conjugate_56	are	O
+conjugate_56	conjugate	conjugate_adj-nou
+conjugate_56	bases	O
+conjugate_56	of	O
+conjugate_56	organic	O
+conjugate_56	acids	O

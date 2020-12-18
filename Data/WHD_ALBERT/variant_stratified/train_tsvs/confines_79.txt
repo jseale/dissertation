@@ -1,0 +1,17 @@
+confines_79	The	O
+confines_79	Strangers	O
+confines_79	use	O
+confines_79	a	O
+confines_79	base	O
+confines_79	13	O
+confines_79	number	O
+confines_79	system	O
+confines_79	and	O
+confines_79	it	O
+confines_79	confines	confines_vrb
+confines_79	the	O
+confines_79	krul	O
+confines_79	to	O
+confines_79	a	O
+confines_79	certain	O
+confines_79	order	O

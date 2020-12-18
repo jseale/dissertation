@@ -1,0 +1,14 @@
+pasty_5	The	O
+pasty_5	shop	O
+pasty_5	focuses	O
+pasty_5	on	O
+pasty_5	pasty	pasty_adj
+pasty_5	as	O
+pasty_5	art	O
+pasty_5	and	O
+pasty_5	is	O
+pasty_5	described	O
+pasty_5	as	O
+pasty_5	interactive	O
+pasty_5	edible	O
+pasty_5	art	O

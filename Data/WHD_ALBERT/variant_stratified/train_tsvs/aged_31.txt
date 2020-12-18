@@ -1,0 +1,11 @@
+aged_31	Bouie	O
+aged_31	died	O
+aged_31	aged	aged
+aged_31	83	O
+aged_31	in	O
+aged_31	June	O
+aged_31	2011	O
+aged_31	following	O
+aged_31	a	O
+aged_31	long	O
+aged_31	illness	O

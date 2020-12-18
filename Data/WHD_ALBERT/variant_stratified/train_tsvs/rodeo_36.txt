@@ -1,0 +1,16 @@
+rodeo_36	With	O
+rodeo_36	all	O
+rodeo_36	of	O
+rodeo_36	the	O
+rodeo_36	attention	O
+rodeo_36	rodeo	rodeo
+rodeo_36	began	O
+rodeo_36	to	O
+rodeo_36	get	O
+rodeo_36	from	O
+rodeo_36	the	O
+rodeo_36	media	O
+rodeo_36	animal	O
+rodeo_36	rights	O
+rodeo_36	concerns	O
+rodeo_36	escalated	O

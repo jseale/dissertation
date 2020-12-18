@@ -1,0 +1,11 @@
+minute_6	The	O
+minute_6	minute	minute
+minute_6	she	O
+minute_6	leaves	O
+minute_6	Buffy	O
+minute_6	physically	O
+minute_6	attacks	O
+minute_6	Spike	O
+minute_6	and	O
+minute_6	storms	O
+minute_6	off	O

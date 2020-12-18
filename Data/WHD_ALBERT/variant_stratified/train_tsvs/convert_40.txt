@@ -1,0 +1,17 @@
+convert_40	The	O
+convert_40	dispute	O
+convert_40	prompted	O
+convert_40	the	O
+convert_40	family	O
+convert_40	to	O
+convert_40	move	O
+convert_40	again	O
+convert_40	to	O
+convert_40	Fort	O
+convert_40	Wayne	O
+convert_40	and	O
+convert_40	convert	convert_vrb
+convert_40	to	O
+convert_40	the	O
+convert_40	Presbyterian	O
+convert_40	church	O

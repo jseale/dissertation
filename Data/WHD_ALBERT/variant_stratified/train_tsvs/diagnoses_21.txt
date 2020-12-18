@@ -1,0 +1,12 @@
+diagnoses_21	Trends	O
+diagnoses_21	in	O
+diagnoses_21	diagnoses	diagnoses_nou
+diagnoses_21	among	O
+diagnoses_21	men	O
+diagnoses_21	who	O
+diagnoses_21	have	O
+diagnoses_21	sex	O
+diagnoses_21	with	O
+diagnoses_21	men	O
+diagnoses_21	remain	O
+diagnoses_21	constant	O

@@ -1,0 +1,15 @@
+present_2	Aurelius	O
+present_2	begs	O
+present_2	Ares	O
+present_2	for	O
+present_2	his	O
+present_2	help	O
+present_2	against	O
+present_2	Hercules	O
+present_2	at	O
+present_2	his	O
+present_2	request	O
+present_2	Ares	O
+present_2	makes	O
+present_2	himself	O
+present_2	present	present_adj-nou

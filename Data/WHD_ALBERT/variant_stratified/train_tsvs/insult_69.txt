@@ -1,0 +1,13 @@
+insult_69	This	O
+insult_69	is	O
+insult_69	probably	O
+insult_69	intended	O
+insult_69	to	O
+insult_69	insult	insult_vrb
+insult_69	Gilbert	O
+insult_69	as	O
+insult_69	a	O
+insult_69	traitor	O
+insult_69	to	O
+insult_69	the	O
+insult_69	King	O

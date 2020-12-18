@@ -1,0 +1,16 @@
+lead_0	Lead	lead_nou
+lead_0	is	O
+lead_0	a	O
+lead_0	chemical	O
+lead_0	element	O
+lead_0	with	O
+lead_0	symbol	O
+lead_0	Pb	O
+lead_0	from	O
+lead_0	the	O
+lead_0	Latin	O
+lead_0	plumbum	O
+lead_0	and	O
+lead_0	atomic	O
+lead_0	number	O
+lead_0	82	O

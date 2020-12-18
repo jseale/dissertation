@@ -1,0 +1,10 @@
+transport_65	This	O
+transport_65	would	O
+transport_65	include	O
+transport_65	pay	O
+transport_65	official	O
+transport_65	residence	O
+transport_65	transport	transport_nou
+transport_65	and	O
+transport_65	security	O
+transport_65	detail	O

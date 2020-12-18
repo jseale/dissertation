@@ -1,0 +1,11 @@
+invalid_67	The	O
+invalid_67	final	O
+invalid_67	years	O
+invalid_67	of	O
+invalid_67	his	O
+invalid_67	life	O
+invalid_67	were	O
+invalid_67	spent	O
+invalid_67	as	O
+invalid_67	an	O
+invalid_67	invalid	invalid_nou

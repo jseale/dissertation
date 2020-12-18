@@ -1,0 +1,17 @@
+transform_14	Now	O
+transform_14	that	O
+transform_14	the	O
+transform_14	city	O
+transform_14	is	O
+transform_14	facing	O
+transform_14	modernisation	O
+transform_14	the	O
+transform_14	development	O
+transform_14	authorities	O
+transform_14	have	O
+transform_14	geared	O
+transform_14	up	O
+transform_14	to	O
+transform_14	transform	transform
+transform_14	the	O
+transform_14	city	O

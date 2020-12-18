@@ -1,0 +1,17 @@
+nestle_3	Nestle	nestle_nam
+nestle_3	Waters	O
+nestle_3	of	O
+nestle_3	North	O
+nestle_3	American	O
+nestle_3	completed	O
+nestle_3	their	O
+nestle_3	bottled	O
+nestle_3	water	O
+nestle_3	facility	O
+nestle_3	in	O
+nestle_3	2016	O
+nestle_3	creating	O
+nestle_3	27	O
+nestle_3	jobs	O
+nestle_3	in	O
+nestle_3	McBee	O

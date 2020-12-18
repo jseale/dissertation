@@ -1,0 +1,14 @@
+refund_8	The	O
+refund_8	organising	O
+refund_8	committee	O
+refund_8	has	O
+refund_8	offered	O
+refund_8	to	O
+refund_8	refund	refund_vrb
+refund_8	all	O
+refund_8	tickets	O
+refund_8	not	O
+refund_8	redeemed	O
+refund_8	at	O
+refund_8	the	O
+refund_8	match	O

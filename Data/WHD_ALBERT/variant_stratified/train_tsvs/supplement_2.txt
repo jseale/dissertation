@@ -1,0 +1,14 @@
+supplement_2	It	O
+supplement_2	is	O
+supplement_2	used	O
+supplement_2	as	O
+supplement_2	a	O
+supplement_2	food	O
+supplement_2	and	O
+supplement_2	nutritional	O
+supplement_2	supplement	supplement_nou
+supplement_2	and	O
+supplement_2	has	O
+supplement_2	reputed	O
+supplement_2	pharmaceutical	O
+supplement_2	properties	O

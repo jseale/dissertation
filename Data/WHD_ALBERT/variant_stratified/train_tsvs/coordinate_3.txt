@@ -1,0 +1,16 @@
+coordinate_3	The	O
+coordinate_3	two	O
+coordinate_3	coordinate	coordinate_adj-nou
+coordinate_3	description	O
+coordinate_3	of	O
+coordinate_3	the	O
+coordinate_3	plane	O
+coordinate_3	was	O
+coordinate_3	later	O
+coordinate_3	generalized	O
+coordinate_3	into	O
+coordinate_3	the	O
+coordinate_3	concept	O
+coordinate_3	of	O
+coordinate_3	vector	O
+coordinate_3	spaces	O

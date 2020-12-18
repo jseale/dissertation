@@ -1,0 +1,17 @@
+discount_10	Western	O
+discount_10	scholars	O
+discount_10	of	O
+discount_10	international	O
+discount_10	relations	O
+discount_10	do	O
+discount_10	not	O
+discount_10	discount	discount_vrb
+discount_10	the	O
+discount_10	role	O
+discount_10	of	O
+discount_10	international	O
+discount_10	influences	O
+discount_10	on	O
+discount_10	domestic	O
+discount_10	political	O
+discount_10	development	O

@@ -1,0 +1,14 @@
+precipitate_34	Lactic	O
+precipitate_34	Acid	O
+precipitate_34	Bacteria	O
+precipitate_34	will	O
+precipitate_34	precipitate	precipitate_vrb
+precipitate_34	casein	O
+precipitate_34	out	O
+precipitate_34	of	O
+precipitate_34	the	O
+precipitate_34	agar	O
+precipitate_34	by	O
+precipitate_34	lowering	O
+precipitate_34	the	O
+precipitate_34	pH.	O

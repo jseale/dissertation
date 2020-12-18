@@ -1,0 +1,13 @@
+import_41	US	O
+import_41	Patent	O
+import_41	and	O
+import_41	first	O
+import_41	import	import_nou
+import_41	of	O
+import_41	the	O
+import_41	system	O
+import_41	cames	O
+import_41	in	O
+import_41	US	O
+import_41	in	O
+import_41	2015	O

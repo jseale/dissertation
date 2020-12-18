@@ -1,0 +1,8 @@
+bow_7	This	O
+bow_7	trimming	O
+bow_7	effect	O
+bow_7	is	O
+bow_7	mistakenly	O
+bow_7	called	O
+bow_7	bow	bow_nou-ship
+bow_7	lift	O

@@ -1,0 +1,15 @@
+aggregate_66	The	O
+aggregate_66	final	O
+aggregate_66	is	O
+aggregate_66	decided	O
+aggregate_66	over	O
+aggregate_66	two	O
+aggregate_66	legs	O
+aggregate_66	with	O
+aggregate_66	aggregate	aggregate_adj-nou
+aggregate_66	goals	O
+aggregate_66	used	O
+aggregate_66	to	O
+aggregate_66	determine	O
+aggregate_66	the	O
+aggregate_66	winner	O

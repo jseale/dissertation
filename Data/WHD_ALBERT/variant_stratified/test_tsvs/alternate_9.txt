@@ -1,0 +1,13 @@
+alternate_9	Leaves	O
+alternate_9	alternate	alternate_vrb
+alternate_9	toothed	O
+alternate_9	in	O
+alternate_9	uneven	O
+alternate_9	patterns	O
+alternate_9	in	O
+alternate_9	the	O
+alternate_9	top	O
+alternate_9	half	O
+alternate_9	of	O
+alternate_9	the	O
+alternate_9	leaf	O

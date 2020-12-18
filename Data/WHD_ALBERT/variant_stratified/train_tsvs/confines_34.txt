@@ -1,0 +1,13 @@
+confines_34	Enemies	O
+confines_34	may	O
+confines_34	move	O
+confines_34	outside	O
+confines_34	the	O
+confines_34	confines	confines_nou
+confines_34	of	O
+confines_34	the	O
+confines_34	screen	O
+confines_34	but	O
+confines_34	players	O
+confines_34	may	O
+confines_34	not	O

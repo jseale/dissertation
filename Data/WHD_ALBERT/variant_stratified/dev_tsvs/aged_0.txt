@@ -1,0 +1,13 @@
+aged_0	This	O
+aged_0	made	O
+aged_0	her	O
+aged_0	the	O
+aged_0	oldest	O
+aged_0	ever	O
+aged_0	major	O
+aged_0	champion	O
+aged_0	aged	aged
+aged_0	46	O
+aged_0	years	O
+aged_0	8	O
+aged_0	months	O

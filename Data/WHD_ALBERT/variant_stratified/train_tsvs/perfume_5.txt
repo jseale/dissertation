@@ -1,0 +1,15 @@
+perfume_5	Its	O
+perfume_5	main	O
+perfume_5	adornment	O
+perfume_5	a	O
+perfume_5	tassel	O
+perfume_5	furakha	O
+perfume_5	sewn	O
+perfume_5	into	O
+perfume_5	the	O
+perfume_5	neckline	O
+perfume_5	can	O
+perfume_5	be	O
+perfume_5	impregnated	O
+perfume_5	with	O
+perfume_5	perfume	perfume_nou

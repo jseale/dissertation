@@ -1,0 +1,9 @@
+blessed_68	Within	O
+blessed_68	a	O
+blessed_68	year	O
+blessed_68	he	O
+blessed_68	was	O
+blessed_68	blessed	blessed_vrb
+blessed_68	with	O
+blessed_68	a	O
+blessed_68	child	O

@@ -1,0 +1,16 @@
+rebel_11	With	O
+rebel_11	this	O
+rebel_11	force	O
+rebel_11	Kalia	O
+rebel_11	Bhomora	O
+rebel_11	Borphukan	O
+rebel_11	crossed	O
+rebel_11	the	O
+rebel_11	Brahmaputra	O
+rebel_11	river	O
+rebel_11	attacked	O
+rebel_11	and	O
+rebel_11	defeated	O
+rebel_11	the	O
+rebel_11	rebel	rebel_nou
+rebel_11	forces	O

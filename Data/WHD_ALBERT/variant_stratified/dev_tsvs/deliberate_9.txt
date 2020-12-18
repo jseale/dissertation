@@ -1,0 +1,15 @@
+deliberate_9	The	O
+deliberate_9	ruling	O
+deliberate_9	coined	O
+deliberate_9	the	O
+deliberate_9	phrase	O
+deliberate_9	inadvertent	O
+deliberate_9	and	O
+deliberate_9	not	O
+deliberate_9	deliberate	deliberate_adj
+deliberate_9	actions	O
+deliberate_9	can	O
+deliberate_9	not	O
+deliberate_9	encompass	O
+deliberate_9	reckless	O
+deliberate_9	conduct	O

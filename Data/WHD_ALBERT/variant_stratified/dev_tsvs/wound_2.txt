@@ -1,0 +1,15 @@
+wound_2	Unashamed	O
+wound_2	of	O
+wound_2	the	O
+wound_2	sexual	O
+wound_2	relationship	O
+wound_2	she	O
+wound_2	had	O
+wound_2	with	O
+wound_2	Luis	O
+wound_2	Mariana	O
+wound_2	heals	O
+wound_2	her	O
+wound_2	uncle	O
+wound_2	father	O
+wound_2	wound	wound_nou-vrb

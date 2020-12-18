@@ -1,0 +1,12 @@
+refuse_48	No	O
+refuse_48	longer	O
+refuse_48	would	O
+refuse_48	it	O
+refuse_48	refuse	refuse_vrb
+refuse_48	to	O
+refuse_48	employ	O
+refuse_48	people	O
+refuse_48	because	O
+refuse_48	they	O
+refuse_48	are	O
+refuse_48	gay	O

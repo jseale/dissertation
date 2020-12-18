@@ -1,0 +1,14 @@
+estimate_68	Scholars	O
+estimate_68	estimate	estimate_vrb
+estimate_68	that	O
+estimate_68	in	O
+estimate_68	ancient	O
+estimate_68	Rome	O
+estimate_68	an	O
+estimate_68	adult	O
+estimate_68	consumed	O
+estimate_68	a	O
+estimate_68	liter	O
+estimate_68	of	O
+estimate_68	wine	O
+estimate_68	daily	O

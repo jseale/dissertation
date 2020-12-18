@@ -1,0 +1,17 @@
+retard_50	However	O
+retard_50	cooler	O
+retard_50	soils	O
+retard_50	with	O
+retard_50	high	O
+retard_50	clay	O
+retard_50	content	O
+retard_50	and	O
+retard_50	high	O
+retard_50	water	O
+retard_50	capacity	O
+retard_50	may	O
+retard_50	retard	retard_vrb
+retard_50	the	O
+retard_50	ripening	O
+retard_50	too	O
+retard_50	drastically	O

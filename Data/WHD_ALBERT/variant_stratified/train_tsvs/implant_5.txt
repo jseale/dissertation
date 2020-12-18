@@ -1,0 +1,13 @@
+implant_5	Their	O
+implant_5	code	O
+implant_5	forbids	O
+implant_5	them	O
+implant_5	to	O
+implant_5	have	O
+implant_5	the	O
+implant_5	requisite	O
+implant_5	implant	implant_nou
+implant_5	or	O
+implant_5	to	O
+implant_5	sell	O
+implant_5	memories	O

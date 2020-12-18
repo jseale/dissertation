@@ -1,0 +1,17 @@
+minute_46	In	O
+minute_46	the	O
+minute_46	31st	O
+minute_46	minute	minute
+minute_46	a	O
+minute_46	break	O
+minute_46	away	O
+minute_46	by	O
+minute_46	Switzerland	O
+minute_46	saw	O
+minute_46	Josip	O
+minute_46	Drmic	O
+minute_46	setting	O
+minute_46	up	O
+minute_46	Shaqiri	O
+minute_46	to	O
+minute_46	convert	O

@@ -1,0 +1,16 @@
+delegate_20	The	O
+delegate_20	winner	O
+delegate_20	was	O
+delegate_20	chosen	O
+delegate_20	as	O
+delegate_20	the	O
+delegate_20	official	O
+delegate_20	delegate	delegate_nou
+delegate_20	of	O
+delegate_20	the	O
+delegate_20	Philippines	O
+delegate_20	to	O
+delegate_20	the	O
+delegate_20	Miss	O
+delegate_20	World	O
+delegate_20	pageant	O

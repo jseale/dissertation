@@ -1,0 +1,17 @@
+estimate_74	Player	O
+estimate_74	Games	O
+estimate_74	is	O
+estimate_74	a	O
+estimate_74	statistic	O
+estimate_74	used	O
+estimate_74	to	O
+estimate_74	estimate	estimate_vrb
+estimate_74	the	O
+estimate_74	number	O
+estimate_74	of	O
+estimate_74	games	O
+estimate_74	a	O
+estimate_74	player	O
+estimate_74	is	O
+estimate_74	responsible	O
+estimate_74	for	O

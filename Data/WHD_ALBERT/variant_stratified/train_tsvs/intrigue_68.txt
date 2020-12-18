@@ -1,0 +1,16 @@
+intrigue_68	The	O
+intrigue_68	plot	O
+intrigue_68	of	O
+intrigue_68	In	O
+intrigue_68	Town	O
+intrigue_68	though	O
+intrigue_68	thin	O
+intrigue_68	is	O
+intrigue_68	a	O
+intrigue_68	smart	O
+intrigue_68	tale	O
+intrigue_68	of	O
+intrigue_68	backstage	O
+intrigue_68	and	O
+intrigue_68	society	O
+intrigue_68	intrigue	intrigue_nou

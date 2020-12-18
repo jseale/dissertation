@@ -1,0 +1,12 @@
+precipitate_71	The	O
+precipitate_71	municipal	O
+precipitate_71	consolidation	O
+precipitate_71	would	O
+precipitate_71	also	O
+precipitate_71	precipitate	precipitate_vrb
+precipitate_71	greater	O
+precipitate_71	physical	O
+precipitate_71	connections	O
+precipitate_71	between	O
+precipitate_71	the	O
+precipitate_71	boroughs	O

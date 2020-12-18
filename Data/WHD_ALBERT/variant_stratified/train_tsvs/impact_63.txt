@@ -1,0 +1,16 @@
+impact_63	The	O
+impact_63	debris	O
+impact_63	from	O
+impact_63	an	O
+impact_63	impact	impact_nou
+impact_63	angle	O
+impact_63	of	O
+impact_63	45	O
+impact_63	degrees	O
+impact_63	or	O
+impact_63	more	O
+impact_63	spreads	O
+impact_63	out	O
+impact_63	like	O
+impact_63	butterfly	O
+impact_63	wings	O

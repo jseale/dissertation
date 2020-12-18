@@ -1,0 +1,16 @@
+minute_58	Until	O
+minute_58	the	O
+minute_58	last	O
+minute_58	minute	minute
+minute_58	he	O
+minute_58	kept	O
+minute_58	expecting	O
+minute_58	the	O
+minute_58	door	O
+minute_58	to	O
+minute_58	open	O
+minute_58	and	O
+minute_58	friends	O
+minute_58	to	O
+minute_58	walk	O
+minute_58	in	O

@@ -1,0 +1,17 @@
+uses_63	Meanwhile	O
+uses_63	House	O
+uses_63	uses	uses_vrb
+uses_63	a	O
+uses_63	dead	O
+uses_63	patient	O
+uses_63	's	O
+uses_63	name	O
+uses_63	to	O
+uses_63	obtain	O
+uses_63	Oxycodone	O
+uses_63	pills	O
+uses_63	as	O
+uses_63	a	O
+uses_63	Vicodin	O
+uses_63	replacement	O
+uses_63	drug	O

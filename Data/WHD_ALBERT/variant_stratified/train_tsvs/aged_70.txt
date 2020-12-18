@@ -1,0 +1,7 @@
+aged_70	He	O
+aged_70	died	O
+aged_70	in	O
+aged_70	Graz	O
+aged_70	Styria	O
+aged_70	aged	aged
+aged_70	73	O

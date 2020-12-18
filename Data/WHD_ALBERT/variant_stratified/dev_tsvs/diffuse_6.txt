@@ -1,0 +1,17 @@
+diffuse_6	Loose	O
+diffuse_6	textured	O
+diffuse_6	tissue	O
+diffuse_6	allows	O
+diffuse_6	red	O
+diffuse_6	blood	O
+diffuse_6	cells	O
+diffuse_6	released	O
+diffuse_6	from	O
+diffuse_6	damaged	O
+diffuse_6	vessles	O
+diffuse_6	to	O
+diffuse_6	diffuse	diffuse_vrb
+diffuse_6	through	O
+diffuse_6	the	O
+diffuse_6	necrotic	O
+diffuse_6	tissue	O

@@ -1,0 +1,13 @@
+wound_3	Gus	O
+wound_3	was	O
+wound_3	found	O
+wound_3	dead	O
+wound_3	from	O
+wound_3	a	O
+wound_3	self	O
+wound_3	inflicted	O
+wound_3	gunshot	O
+wound_3	wound	wound_nou-vrb
+wound_3	in	O
+wound_3	the	O
+wound_3	home	O

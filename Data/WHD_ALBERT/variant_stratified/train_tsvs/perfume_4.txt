@@ -1,0 +1,14 @@
+perfume_4	L'eau	O
+perfume_4	d'Issey	O
+perfume_4	is	O
+perfume_4	a	O
+perfume_4	perfume	perfume_nou
+perfume_4	for	O
+perfume_4	women	O
+perfume_4	produced	O
+perfume_4	for	O
+perfume_4	Japanese	O
+perfume_4	fashion	O
+perfume_4	designer	O
+perfume_4	Issey	O
+perfume_4	Miyake	O

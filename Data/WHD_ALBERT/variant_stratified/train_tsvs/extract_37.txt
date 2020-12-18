@@ -1,0 +1,15 @@
+extract_37	Its	O
+extract_37	seed	O
+extract_37	is	O
+extract_37	traded	O
+extract_37	as	O
+extract_37	a	O
+extract_37	spice	O
+extract_37	and	O
+extract_37	in	O
+extract_37	an	O
+extract_37	oil	O
+extract_37	extract	extract_nou
+extract_37	form	O
+extract_37	as	O
+extract_37	oleoresin	O

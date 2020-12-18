@@ -1,0 +1,12 @@
+produce_12	Inspired	O
+produce_12	by	O
+produce_12	Dorothea	O
+produce_12	Lange	O
+produce_12	she	O
+produce_12	began	O
+produce_12	to	O
+produce_12	produce	produce_vrb
+produce_12	informative	O
+produce_12	social	O
+produce_12	reform	O
+produce_12	photographs	O

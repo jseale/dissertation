@@ -1,0 +1,12 @@
+retard_45	But	O
+retard_45	if	O
+retard_45	you	O
+retard_45	ca	O
+retard_45	n't	O
+retard_45	pay	O
+retard_45	it	O
+retard_45	and	O
+retard_45	retard	retard_vrb
+retard_45	other	O
+retard_45	bills	O
+retard_45	accordingly	O

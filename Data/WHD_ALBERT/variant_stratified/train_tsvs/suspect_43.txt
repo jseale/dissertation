@@ -1,0 +1,14 @@
+suspect_43	On	O
+suspect_43	the	O
+suspect_43	same	O
+suspect_43	day	O
+suspect_43	Palacio	O
+suspect_43	stated	O
+suspect_43	there	O
+suspect_43	were	O
+suspect_43	108	O
+suspect_43	suspect	suspect_adj-nou
+suspect_43	cases	O
+suspect_43	in	O
+suspect_43	the	O
+suspect_43	country	O

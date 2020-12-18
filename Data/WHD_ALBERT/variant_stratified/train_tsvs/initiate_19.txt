@@ -1,0 +1,16 @@
+initiate_19	SWAT	O
+initiate_19	arrived	O
+initiate_19	on	O
+initiate_19	the	O
+initiate_19	scene	O
+initiate_19	shortly	O
+initiate_19	thereafter	O
+initiate_19	while	O
+initiate_19	a	O
+initiate_19	negotiator	O
+initiate_19	attempted	O
+initiate_19	to	O
+initiate_19	initiate	initiate_vrb
+initiate_19	contact	O
+initiate_19	with	O
+initiate_19	Penley	O

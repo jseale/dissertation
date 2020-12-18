@@ -1,0 +1,10 @@
+convict_63	Arkin	O
+convict_63	O'Brien	O
+convict_63	is	O
+convict_63	an	O
+convict_63	ex	O
+convict_63	convict	convict_nou
+convict_63	working	O
+convict_63	as	O
+convict_63	a	O
+convict_63	handyman	O

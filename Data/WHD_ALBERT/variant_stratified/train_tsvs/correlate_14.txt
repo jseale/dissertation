@@ -1,0 +1,16 @@
+correlate_14	QSAR	O
+correlate_14	studies	O
+correlate_14	attempt	O
+correlate_14	to	O
+correlate_14	correlate	correlate_nou-vrb
+correlate_14	biological	O
+correlate_14	activity	O
+correlate_14	of	O
+correlate_14	drugs	O
+correlate_14	or	O
+correlate_14	a	O
+correlate_14	class	O
+correlate_14	of	O
+correlate_14	drugs	O
+correlate_14	with	O
+correlate_14	structures	O

@@ -1,0 +1,12 @@
+read_1	She	O
+read_1	attended	O
+read_1	Downe	O
+read_1	House	O
+read_1	School	O
+read_1	and	O
+read_1	read	read_past
+read_1	English	O
+read_1	at	O
+read_1	Christ	O
+read_1	Church	O
+read_1	Oxford	O

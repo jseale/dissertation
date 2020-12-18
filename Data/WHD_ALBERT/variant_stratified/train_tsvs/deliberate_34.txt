@@ -1,0 +1,13 @@
+deliberate_34	Georgia	O
+deliberate_34	's	O
+deliberate_34	Foreign	O
+deliberate_34	Ministry	O
+deliberate_34	condemned	O
+deliberate_34	Russia	O
+deliberate_34	's	O
+deliberate_34	deliberate	deliberate_adj
+deliberate_34	attempts	O
+deliberate_34	to	O
+deliberate_34	escalate	O
+deliberate_34	the	O
+deliberate_34	situation	O

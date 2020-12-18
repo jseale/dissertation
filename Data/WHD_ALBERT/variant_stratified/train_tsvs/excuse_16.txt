@@ -1,0 +1,11 @@
+excuse_16	This	O
+excuse_16	reinforces	O
+excuse_16	the	O
+excuse_16	approach	O
+excuse_16	that	O
+excuse_16	inability	O
+excuse_16	to	O
+excuse_16	pay	O
+excuse_16	is	O
+excuse_16	no	O
+excuse_16	excuse	excuse_nou

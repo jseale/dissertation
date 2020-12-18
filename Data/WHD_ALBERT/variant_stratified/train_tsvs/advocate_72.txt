@@ -1,0 +1,15 @@
+advocate_72	Hamlin	O
+advocate_72	was	O
+advocate_72	among	O
+advocate_72	the	O
+advocate_72	first	O
+advocate_72	to	O
+advocate_72	advocate	advocate_vrb
+advocate_72	enlisting	O
+advocate_72	African	O
+advocate_72	American	O
+advocate_72	troops	O
+advocate_72	in	O
+advocate_72	the	O
+advocate_72	Union	O
+advocate_72	Army	O

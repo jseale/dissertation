@@ -1,0 +1,17 @@
+bass_34	Perception	O
+bass_34	features	O
+bass_34	keyboards	O
+bass_34	by	O
+bass_34	Reggie	O
+bass_34	"B.""Confession"	O
+bass_34	features	O
+bass_34	keyboards	O
+bass_34	by	O
+bass_34	Joe	O
+bass_34	Miquelon	O
+bass_34	and	O
+bass_34	bass	bass
+bass_34	guitar	O
+bass_34	by	O
+bass_34	Jimmy	O
+bass_34	Dykes	O

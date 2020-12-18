@@ -1,0 +1,16 @@
+initiate_77	Indonesians	O
+initiate_77	smile	O
+initiate_77	a	O
+initiate_77	lot	O
+initiate_77	to	O
+initiate_77	initiate	initiate_vrb
+initiate_77	contact	O
+initiate_77	it	O
+initiate_77	is	O
+initiate_77	highly	O
+initiate_77	recommended	O
+initiate_77	to	O
+initiate_77	smile	O
+initiate_77	back	O
+initiate_77	in	O
+initiate_77	return	O

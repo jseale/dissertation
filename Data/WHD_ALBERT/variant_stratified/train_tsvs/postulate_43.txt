@@ -1,0 +1,15 @@
+postulate_43	The	O
+postulate_43	Hammond	O
+postulate_43	Leffler	O
+postulate_43	postulate	postulate_nou
+postulate_43	suggests	O
+postulate_43	that	O
+postulate_43	this	O
+postulate_43	too	O
+postulate_43	will	O
+postulate_43	increase	O
+postulate_43	the	O
+postulate_43	rate	O
+postulate_43	of	O
+postulate_43	carbocation	O
+postulate_43	formation	O

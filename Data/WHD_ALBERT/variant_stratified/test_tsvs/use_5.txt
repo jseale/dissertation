@@ -1,0 +1,9 @@
+use_5	Erlang	O
+use_5	has	O
+use_5	found	O
+use_5	some	O
+use_5	use	use_nou
+use_5	in	O
+use_5	fielding	O
+use_5	MMORPG	O
+use_5	servers	O

@@ -1,0 +1,17 @@
+polish_36	PRON	O
+polish_36	was	O
+polish_36	mentioned	O
+polish_36	in	O
+polish_36	the	O
+polish_36	amended	O
+polish_36	Polish	polish_geo
+polish_36	communist	O
+polish_36	constitution	O
+polish_36	where	O
+polish_36	it	O
+polish_36	replaced	O
+polish_36	the	O
+polish_36	Front	O
+polish_36	of	O
+polish_36	National	O
+polish_36	Unity	O

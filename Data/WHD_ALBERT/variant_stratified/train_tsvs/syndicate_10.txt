@@ -1,0 +1,15 @@
+syndicate_10	In	O
+syndicate_10	1884	O
+syndicate_10	he	O
+syndicate_10	established	O
+syndicate_10	the	O
+syndicate_10	McClure	O
+syndicate_10	Syndicate	syndicate_nou
+syndicate_10	the	O
+syndicate_10	first	O
+syndicate_10	U.S.	O
+syndicate_10	newspaper	O
+syndicate_10	syndicate	syndicate_nou
+syndicate_10	which	O
+syndicate_10	serialized	O
+syndicate_10	books	O

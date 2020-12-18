@@ -1,0 +1,12 @@
+discharge_10	Its	O
+discharge_10	mean	O
+discharge_10	annual	O
+discharge_10	discharge	discharge_nou
+discharge_10	is	O
+discharge_10	79	O
+discharge_10	m³/s	O
+discharge_10	2,790	O
+discharge_10	cfs	O
+discharge_10	at	O
+discharge_10	its	O
+discharge_10	mouth	O

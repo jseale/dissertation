@@ -1,0 +1,13 @@
+invalid_56	Marriages	O
+invalid_56	nevertheless	O
+invalid_56	concluded	O
+invalid_56	are	O
+invalid_56	invalid	invalid_adj
+invalid_56	even	O
+invalid_56	if	O
+invalid_56	concluded	O
+invalid_56	abroad	O
+invalid_56	to	O
+invalid_56	circumvent	O
+invalid_56	this	O
+invalid_56	law	O

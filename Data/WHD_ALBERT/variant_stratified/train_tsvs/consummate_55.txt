@@ -1,0 +1,15 @@
+consummate_55	Throughout	O
+consummate_55	the	O
+consummate_55	second	O
+consummate_55	season	O
+consummate_55	of	O
+consummate_55	Cheers	O
+consummate_55	Sam	O
+consummate_55	and	O
+consummate_55	Diane	O
+consummate_55	consummate	consummate_vrb
+consummate_55	their	O
+consummate_55	relationship	O
+consummate_55	which	O
+consummate_55	becomes	O
+consummate_55	dysfunctional	O

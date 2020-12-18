@@ -1,0 +1,17 @@
+associate_28	Among	O
+associate_28	Pennsylvania	O
+associate_28	high	O
+associate_28	school	O
+associate_28	graduates	O
+associate_28	pursuing	O
+associate_28	an	O
+associate_28	associate	associate_adj-nou
+associate_28	degree	O
+associate_28	only	O
+associate_28	one	O
+associate_28	in	O
+associate_28	three	O
+associate_28	graduate	O
+associate_28	in	O
+associate_28	three	O
+associate_28	years	O

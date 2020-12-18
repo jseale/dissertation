@@ -1,0 +1,16 @@
+diagnoses_76	His	O
+diagnoses_76	works	O
+diagnoses_76	started	O
+diagnoses_76	the	O
+diagnoses_76	Cyptogamic	O
+diagnoses_76	Italian	O
+diagnoses_76	Flora	O
+diagnoses_76	a	O
+diagnoses_76	series	O
+diagnoses_76	of	O
+diagnoses_76	books	O
+diagnoses_76	which	O
+diagnoses_76	describes	O
+diagnoses_76	and	O
+diagnoses_76	diagnoses	diagnoses_vrb
+diagnoses_76	fungi	O

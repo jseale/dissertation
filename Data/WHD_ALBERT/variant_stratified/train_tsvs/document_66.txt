@@ -1,0 +1,16 @@
+document_66	The	O
+document_66	customer	O
+document_66	's	O
+document_66	PO	O
+document_66	is	O
+document_66	the	O
+document_66	originating	O
+document_66	document	document_nou
+document_66	which	O
+document_66	triggers	O
+document_66	the	O
+document_66	creation	O
+document_66	of	O
+document_66	the	O
+document_66	sales	O
+document_66	order	O

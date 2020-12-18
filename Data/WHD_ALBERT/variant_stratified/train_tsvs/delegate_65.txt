@@ -1,0 +1,15 @@
+delegate_65	Massachusetts	O
+delegate_65	and	O
+delegate_65	Georgia	O
+delegate_65	had	O
+delegate_65	each	O
+delegate_65	one	O
+delegate_65	delegate	delegate_nou
+delegate_65	of	O
+delegate_65	their	O
+delegate_65	respective	O
+delegate_65	four	O
+delegate_65	present	O
+delegate_65	on	O
+delegate_65	the	O
+delegate_65	25th	O

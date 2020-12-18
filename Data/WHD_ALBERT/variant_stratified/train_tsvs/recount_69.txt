@@ -1,0 +1,12 @@
+recount_69	History	O
+recount_69	does	O
+recount_69	not	O
+recount_69	recount	recount_vrb
+recount_69	any	O
+recount_69	incidents	O
+recount_69	of	O
+recount_69	cholera	O
+recount_69	until	O
+recount_69	the	O
+recount_69	19th	O
+recount_69	century	O

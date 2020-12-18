@@ -1,0 +1,14 @@
+separate_59	In	O
+separate_59	1865	O
+separate_59	Hudson	O
+separate_59	area	O
+separate_59	residents	O
+separate_59	again	O
+separate_59	petitioned	O
+separate_59	for	O
+separate_59	Feltonville	O
+separate_59	to	O
+separate_59	become	O
+separate_59	a	O
+separate_59	separate	separate_adj
+separate_59	town	O

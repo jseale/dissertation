@@ -1,0 +1,14 @@
+bow_55	Iphigénie	O
+bow_55	easily	O
+bow_55	eluded	O
+bow_55	Africaine	O
+bow_55	and	O
+bow_55	gave	O
+bow_55	Astrée	O
+bow_55	an	O
+bow_55	opportunity	O
+bow_55	for	O
+bow_55	raking	O
+bow_55	Africaine	O
+bow_55	's	O
+bow_55	bow	bow_nou-ship

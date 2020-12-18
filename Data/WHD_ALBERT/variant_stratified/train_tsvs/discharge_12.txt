@@ -1,0 +1,14 @@
+discharge_12	Murphy	O
+discharge_12	briefly	O
+discharge_12	found	O
+discharge_12	a	O
+discharge_12	creative	O
+discharge_12	stress	O
+discharge_12	outlet	O
+discharge_12	in	O
+discharge_12	writing	O
+discharge_12	poetry	O
+discharge_12	after	O
+discharge_12	his	O
+discharge_12	Army	O
+discharge_12	discharge	discharge_nou

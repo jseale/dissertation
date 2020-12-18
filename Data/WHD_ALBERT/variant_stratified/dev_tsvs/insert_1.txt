@@ -1,0 +1,13 @@
+insert_1	The	O
+insert_1	insert	insert_nou
+insert_1	and	O
+insert_1	the	O
+insert_1	destination	O
+insert_1	vector	O
+insert_1	are	O
+insert_1	then	O
+insert_1	mixed	O
+insert_1	together	O
+insert_1	with	O
+insert_1	DNA	O
+insert_1	ligase	O

@@ -1,0 +1,7 @@
+retard_28	Ignition	O
+retard_28	advance	O
+retard_28	and	O
+retard_28	retard	retard_vrb
+retard_28	is	O
+retard_28	entirely	O
+retard_28	automatic	O

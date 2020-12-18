@@ -1,0 +1,17 @@
+advocate_8	As	O
+advocate_8	a	O
+advocate_8	pioneer	O
+advocate_8	advocate	advocate_nou
+advocate_8	of	O
+advocate_8	democracy	O
+advocate_8	in	O
+advocate_8	the	O
+advocate_8	land	O
+advocate_8	of	O
+advocate_8	okpe	O
+advocate_8	he	O
+advocate_8	also	O
+advocate_8	was	O
+advocate_8	pivotal	O
+advocate_8	to	O
+advocate_8	Nigeria	O

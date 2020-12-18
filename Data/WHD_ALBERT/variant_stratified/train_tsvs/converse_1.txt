@@ -1,0 +1,12 @@
+converse_1	Because	O
+converse_1	the	O
+converse_1	converse	converse_adj-nou
+converse_1	is	O
+converse_1	n't	O
+converse_1	true	O
+converse_1	local	O
+converse_1	nonsatiation	O
+converse_1	is	O
+converse_1	a	O
+converse_1	weaker	O
+converse_1	condition	O

@@ -1,0 +1,17 @@
+attribute_62	Most	O
+attribute_62	noticeable	O
+attribute_62	was	O
+attribute_62	that	O
+attribute_62	he	O
+attribute_62	did	O
+attribute_62	not	O
+attribute_62	attribute	attribute_vrb
+attribute_62	sexual	O
+attribute_62	factors	O
+attribute_62	to	O
+attribute_62	the	O
+attribute_62	conditions	O
+attribute_62	of	O
+attribute_62	his	O
+attribute_62	male	O
+attribute_62	patients	O

@@ -1,0 +1,16 @@
+discard_26	The	O
+discard_26	costume	O
+discard_26	also	O
+discard_26	featured	O
+discard_26	the	O
+discard_26	poulaines	O
+discard_26	of	O
+discard_26	crakows	O
+discard_26	which	O
+discard_26	some	O
+discard_26	artists	O
+discard_26	would	O
+discard_26	discard	discard_vrb
+discard_26	from	O
+discard_26	the	O
+discard_26	portrayal	O

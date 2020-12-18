@@ -1,0 +1,14 @@
+escort_0	He	O
+escort_0	sailed	O
+escort_0	again	O
+escort_0	as	O
+escort_0	part	O
+escort_0	of	O
+escort_0	the	O
+escort_0	escort	escort_nou
+escort_0	for	O
+escort_0	a	O
+escort_0	convoy	O
+escort_0	to	O
+escort_0	New	O
+escort_0	York	O

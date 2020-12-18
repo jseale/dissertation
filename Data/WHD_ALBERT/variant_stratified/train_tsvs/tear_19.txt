@@ -1,0 +1,15 @@
+tear_19	Both	O
+tear_19	medals	O
+tear_19	the	O
+tear_19	twelve	O
+tear_19	and	O
+tear_19	twenty	O
+tear_19	five	O
+tear_19	year	O
+tear_19	medals	O
+tear_19	have	O
+tear_19	the	O
+tear_19	tear	tear_nou
+tear_19	drop	O
+tear_19	suspension	O
+tear_19	loop	O

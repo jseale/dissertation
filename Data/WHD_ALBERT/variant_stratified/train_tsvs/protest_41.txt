@@ -1,0 +1,10 @@
+protest_41	Lisa	O
+protest_41	Fithian	O
+protest_41	is	O
+protest_41	an	O
+protest_41	American	O
+protest_41	political	O
+protest_41	activist	O
+protest_41	and	O
+protest_41	protest	protest_nou
+protest_41	organizer	O

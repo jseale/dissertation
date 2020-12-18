@@ -1,0 +1,8 @@
+progress_0	No	O
+progress_0	progress	progress_nou
+progress_0	was	O
+progress_0	made	O
+progress_0	on	O
+progress_0	issues	O
+progress_0	in	O
+progress_0	question	O

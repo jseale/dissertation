@@ -1,0 +1,17 @@
+abuses_6	Canada	O
+abuses_6	became	O
+abuses_6	an	O
+abuses_6	outspoken	O
+abuses_6	critic	O
+abuses_6	of	O
+abuses_6	the	O
+abuses_6	Taliban	O
+abuses_6	's	O
+abuses_6	human	O
+abuses_6	rights	O
+abuses_6	abuses	abuses_nou
+abuses_6	against	O
+abuses_6	the	O
+abuses_6	citizens	O
+abuses_6	of	O
+abuses_6	Afghanistan	O

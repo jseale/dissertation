@@ -1,0 +1,16 @@
+separate_75	The	O
+separate_75	distance	O
+separate_75	of	O
+separate_75	the	O
+separate_75	capital	O
+separate_75	was	O
+separate_75	one	O
+separate_75	of	O
+separate_75	the	O
+separate_75	reasons	O
+separate_75	why	O
+separate_75	Hidalgo	O
+separate_75	state	O
+separate_75	would	O
+separate_75	eventually	O
+separate_75	separate	separate_vrb

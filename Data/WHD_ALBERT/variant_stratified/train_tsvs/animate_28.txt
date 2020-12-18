@@ -1,0 +1,17 @@
+animate_28	In	O
+animate_28	Shawnee	O
+animate_28	third	O
+animate_28	person	O
+animate_28	animate	animate_adj-nou
+animate_28	beings	O
+animate_28	participate	O
+animate_28	in	O
+animate_28	obviation	O
+animate_28	including	O
+animate_28	grammatically	O
+animate_28	animate	animate_adj-nou
+animate_28	nouns	O
+animate_28	that	O
+animate_28	are	O
+animate_28	semantically	O
+animate_28	inanimate	O

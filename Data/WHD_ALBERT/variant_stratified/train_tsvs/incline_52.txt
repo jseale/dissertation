@@ -1,0 +1,14 @@
+incline_52	All	O
+incline_52	cars	O
+incline_52	entered	O
+incline_52	the	O
+incline_52	subway	O
+incline_52	through	O
+incline_52	the	O
+incline_52	Canal	O
+incline_52	Street	O
+incline_52	Incline	incline_nou
+incline_52	just	O
+incline_52	north	O
+incline_52	of	O
+incline_52	Haymarket	O

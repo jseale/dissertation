@@ -1,0 +1,10 @@
+resume_22	Work	O
+resume_22	did	O
+resume_22	not	O
+resume_22	resume	resume_vrb
+resume_22	on	O
+resume_22	the	O
+resume_22	GN	O
+resume_22	Bahn	O
+resume_22	until	O
+resume_22	1926	O

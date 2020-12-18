@@ -1,0 +1,17 @@
+affiliate_20	KRNI	O
+affiliate_20	is	O
+affiliate_20	an	O
+affiliate_20	affiliate	affiliate_nou
+affiliate_20	of	O
+affiliate_20	Iowa	O
+affiliate_20	Public	O
+affiliate_20	Radio	O
+affiliate_20	and	O
+affiliate_20	carries	O
+affiliate_20	the	O
+affiliate_20	network	O
+affiliate_20	's	O
+affiliate_20	News	O
+affiliate_20	and	O
+affiliate_20	Information	O
+affiliate_20	service	O

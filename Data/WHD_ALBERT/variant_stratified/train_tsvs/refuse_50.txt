@@ -1,0 +1,17 @@
+refuse_50	In	O
+refuse_50	spite	O
+refuse_50	of	O
+refuse_50	these	O
+refuse_50	evidences	O
+refuse_50	a	O
+refuse_50	significant	O
+refuse_50	proportion	O
+refuse_50	of	O
+refuse_50	Valencian	O
+refuse_50	population	O
+refuse_50	refuse	refuse_vrb
+refuse_50	to	O
+refuse_50	identify	O
+refuse_50	Valencian	O
+refuse_50	with	O
+refuse_50	Catalan	O

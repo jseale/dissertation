@@ -1,0 +1,13 @@
+aged_22	Choirgirl	O
+aged_22	aged	aged
+aged_22	12	O
+aged_22	to	O
+aged_22	sign	O
+aged_22	record	O
+aged_22	dealMateus	O
+aged_22	Joana	O
+aged_22	Associated	O
+aged_22	Press	O
+aged_22	14	O
+aged_22	September	O
+aged_22	2010	O

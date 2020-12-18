@@ -1,0 +1,17 @@
+nestle_12	He	O
+nestle_12	was	O
+nestle_12	responsible	O
+nestle_12	for	O
+nestle_12	the	O
+nestle_12	cross	O
+nestle_12	discipline	O
+nestle_12	servicing	O
+nestle_12	of	O
+nestle_12	multinational	O
+nestle_12	accounts	O
+nestle_12	like	O
+nestle_12	L'Oreal	O
+nestle_12	GM	O
+nestle_12	Unilever	O
+nestle_12	and	O
+nestle_12	Nestle	nestle_nam

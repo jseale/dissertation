@@ -1,0 +1,16 @@
+axes_75	Early	O
+axes_75	artefacts	O
+axes_75	found	O
+axes_75	in	O
+axes_75	the	O
+axes_75	vicinity	O
+axes_75	include	O
+axes_75	Neolithic	O
+axes_75	hand	O
+axes_75	axes	axes_nou-vrb
+axes_75	and	O
+axes_75	Bronze	O
+axes_75	and	O
+axes_75	Iron	O
+axes_75	Age	O
+axes_75	pottery	O

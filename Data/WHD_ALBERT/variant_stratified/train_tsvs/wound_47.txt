@@ -1,0 +1,13 @@
+wound_47	Any	O
+wound_47	illness	O
+wound_47	injury	O
+wound_47	or	O
+wound_47	fatal	O
+wound_47	wound	wound_nou-vrb
+wound_47	was	O
+wound_47	healed	O
+wound_47	without	O
+wound_47	scarring	O
+wound_47	by	O
+wound_47	the	O
+wound_47	portrait	O

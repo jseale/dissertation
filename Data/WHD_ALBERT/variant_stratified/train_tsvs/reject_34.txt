@@ -1,0 +1,13 @@
+reject_34	After	O
+reject_34	two	O
+reject_34	have	O
+reject_34	been	O
+reject_34	revealed	O
+reject_34	the	O
+reject_34	team	O
+reject_34	must	O
+reject_34	reject	reject_vrb
+reject_34	one	O
+reject_34	of	O
+reject_34	the	O
+reject_34	answers	O

@@ -1,0 +1,7 @@
+intrigue_18	The	O
+intrigue_18	result	O
+intrigue_18	was	O
+intrigue_18	political	O
+intrigue_18	intrigue	intrigue_nou
+intrigue_18	and	O
+intrigue_18	controversy	O

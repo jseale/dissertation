@@ -1,0 +1,13 @@
+aged_6	Eddie	O
+aged_6	Constantine	O
+aged_6	died	O
+aged_6	of	O
+aged_6	a	O
+aged_6	heart	O
+aged_6	attack	O
+aged_6	on	O
+aged_6	February	O
+aged_6	25	O
+aged_6	1993	O
+aged_6	aged	aged
+aged_6	75	O

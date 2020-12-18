@@ -1,0 +1,10 @@
+reading_39	Sadly	O
+reading_39	his	O
+reading_39	decline	O
+reading_39	makes	O
+reading_39	for	O
+reading_39	reading	reading_en
+reading_39	more	O
+reading_39	painful	O
+reading_39	than	O
+reading_39	engrossing	O

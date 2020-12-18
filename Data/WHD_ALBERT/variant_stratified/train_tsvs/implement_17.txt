@@ -1,0 +1,12 @@
+implement_17	The	O
+implement_17	first	O
+implement_17	SLR	O
+implement_17	to	O
+implement_17	implement	implement_vrb
+implement_17	trap	O
+implement_17	focusing	O
+implement_17	was	O
+implement_17	the	O
+implement_17	Yashica	O
+implement_17	230	O
+implement_17	AF	O

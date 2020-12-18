@@ -1,0 +1,14 @@
+fragment_10	The	O
+fragment_10	tungsten	O
+fragment_10	housing	O
+fragment_10	is	O
+fragment_10	designed	O
+fragment_10	to	O
+fragment_10	fragment	fragment_vrb
+fragment_10	and	O
+fragment_10	produce	O
+fragment_10	maximum	O
+fragment_10	damage	O
+fragment_10	inside	O
+fragment_10	the	O
+fragment_10	target	O

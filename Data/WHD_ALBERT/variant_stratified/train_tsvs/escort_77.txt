@@ -1,0 +1,14 @@
+escort_77	Through	O
+escort_77	D	O
+escort_77	Day	O
+escort_77	and	O
+escort_77	the	O
+escort_77	summer	O
+escort_77	of	O
+escort_77	1944	O
+escort_77	Reeves	O
+escort_77	continued	O
+escort_77	to	O
+escort_77	escort	escort_vrb
+escort_77	fast	O
+escort_77	convoys	O

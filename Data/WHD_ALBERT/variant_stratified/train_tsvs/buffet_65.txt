@@ -1,0 +1,10 @@
+buffet_65	The	O
+buffet_65	following	O
+buffet_65	dishes	O
+buffet_65	cover	O
+buffet_65	the	O
+buffet_65	essentials	O
+buffet_65	of	O
+buffet_65	a	O
+buffet_65	buffet	buffet_nou
+buffet_65	luncheon	O

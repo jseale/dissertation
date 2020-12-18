@@ -1,0 +1,8 @@
+misuse_23	To	O
+misuse_23	avoid	O
+misuse_23	misuse	misuse_nou
+misuse_23	of	O
+misuse_23	official	O
+misuse_23	position	O
+misuse_23	or	O
+misuse_23	information	O

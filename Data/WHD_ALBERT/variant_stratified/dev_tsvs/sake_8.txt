@@ -1,0 +1,12 @@
+sake_8	Sakawa	O
+sake_8	is	O
+sake_8	famous	O
+sake_8	for	O
+sake_8	the	O
+sake_8	production	O
+sake_8	of	O
+sake_8	Tsukasabotan	O
+sake_8	a	O
+sake_8	type	O
+sake_8	of	O
+sake_8	sake	sake_jp

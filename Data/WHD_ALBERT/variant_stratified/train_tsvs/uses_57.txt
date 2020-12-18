@@ -1,0 +1,8 @@
+uses_57	Radiology	O
+uses_57	assisted	O
+uses_57	spine	O
+uses_57	surgery	O
+uses_57	uses	uses_vrb
+uses_57	minimally	O
+uses_57	invasive	O
+uses_57	procedures	O

@@ -1,0 +1,16 @@
+postulate_26	The	O
+postulate_26	first	O
+postulate_26	led	O
+postulate_26	to	O
+postulate_26	the	O
+postulate_26	conclusion	O
+postulate_26	that	O
+postulate_26	straight	O
+postulate_26	lines	O
+postulate_26	are	O
+postulate_26	finite	O
+postulate_26	contradicting	O
+postulate_26	Euclid	O
+postulate_26	's	O
+postulate_26	second	O
+postulate_26	postulate	postulate_nou

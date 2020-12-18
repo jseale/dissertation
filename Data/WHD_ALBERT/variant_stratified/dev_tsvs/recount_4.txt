@@ -1,0 +1,12 @@
+recount_4	He	O
+recount_4	represented	O
+recount_4	Thomas	O
+recount_4	Kean	O
+recount_4	during	O
+recount_4	the	O
+recount_4	recount	recount_nou
+recount_4	for	O
+recount_4	the	O
+recount_4	1981	O
+recount_4	gubernatorial	O
+recount_4	election	O

@@ -1,0 +1,14 @@
+coordinate_7	Even	O
+coordinate_7	this	O
+coordinate_7	proved	O
+coordinate_7	impossible	O
+coordinate_7	to	O
+coordinate_7	coordinate	coordinate_vrb
+coordinate_7	and	O
+coordinate_7	many	O
+coordinate_7	ships	O
+coordinate_7	wandered	O
+coordinate_7	off	O
+coordinate_7	on	O
+coordinate_7	their	O
+coordinate_7	own	O

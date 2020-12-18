@@ -1,0 +1,15 @@
+alternate_14	Evan	O
+alternate_14	is	O
+alternate_14	transported	O
+alternate_14	to	O
+alternate_14	an	O
+alternate_14	alternate	alternate_adj-nou
+alternate_14	reality	O
+alternate_14	a	O
+alternate_14	vast	O
+alternate_14	expanse	O
+alternate_14	of	O
+alternate_14	empty	O
+alternate_14	whiteness	O
+alternate_14	possibly	O
+alternate_14	Purgatory	O

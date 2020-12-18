@@ -1,0 +1,17 @@
+reading_52	The	O
+reading_52	author	O
+reading_52	tells	O
+reading_52	his	O
+reading_52	dramatic	O
+reading_52	story	O
+reading_52	authoritatively	O
+reading_52	but	O
+reading_52	with	O
+reading_52	a	O
+reading_52	light	O
+reading_52	hand	O
+reading_52	which	O
+reading_52	makes	O
+reading_52	for	O
+reading_52	entertaining	O
+reading_52	reading	reading_en

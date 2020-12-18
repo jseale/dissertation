@@ -1,0 +1,14 @@
+rebel_8	These	O
+rebel_8	rebel	rebel_nou
+rebel_8	soldiers	O
+rebel_8	on	O
+rebel_8	their	O
+rebel_8	way	O
+rebel_8	to	O
+rebel_8	reach	O
+rebel_8	Manipur	O
+rebel_8	pitched	O
+rebel_8	their	O
+rebel_8	tents	O
+rebel_8	at	O
+rebel_8	Malegarh	O

@@ -1,0 +1,12 @@
+alternate_6	The	O
+alternate_6	instruments	O
+alternate_6	in	O
+alternate_6	their	O
+alternate_6	goals	O
+alternate_6	are	O
+alternate_6	the	O
+alternate_6	Alternate	alternate_adj-nou
+alternate_6	Laws	O
+alternate_6	or	O
+alternate_6	Alternate	alternate_adj-nou
+alternate_6	Forces	O

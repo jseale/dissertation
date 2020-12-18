@@ -1,0 +1,13 @@
+analyses_6	Phylogenetic	O
+analyses_6	analyses	analyses_nou
+analyses_6	demonstrates	O
+analyses_6	a	O
+analyses_6	common	O
+analyses_6	ancestry	O
+analyses_6	with	O
+analyses_6	Thottapalayam	O
+analyses_6	virus	O
+analyses_6	suggesting	O
+analyses_6	early	O
+analyses_6	evolutionary	O
+analyses_6	divergence	O

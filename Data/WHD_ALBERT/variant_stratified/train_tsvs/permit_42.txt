@@ -1,0 +1,12 @@
+permit_42	Todd	O
+permit_42	is	O
+permit_42	currently	O
+permit_42	Chairman	O
+permit_42	of	O
+permit_42	the	O
+permit_42	Tower	O
+permit_42	Permit	permit_nou
+permit_42	Commission	O
+permit_42	for	O
+permit_42	southeast	O
+permit_42	Texas	O

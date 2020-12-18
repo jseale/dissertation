@@ -1,0 +1,15 @@
+invite_0	On	O
+invite_0	November	O
+invite_0	26	O
+invite_0	2011	O
+invite_0	the	O
+invite_0	Louisiana	O
+invite_0	Tech	O
+invite_0	Bulldogs	O
+invite_0	accepted	O
+invite_0	an	O
+invite_0	invite	invite_nou
+invite_0	to	O
+invite_0	represent	O
+invite_0	the	O
+invite_0	WAC	O

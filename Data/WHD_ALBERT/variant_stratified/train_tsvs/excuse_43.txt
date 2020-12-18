@@ -1,0 +1,16 @@
+excuse_43	Poverty	O
+excuse_43	was	O
+excuse_43	not	O
+excuse_43	accepted	O
+excuse_43	as	O
+excuse_43	an	O
+excuse_43	excuse	excuse_nou
+excuse_43	and	O
+excuse_43	some	O
+excuse_43	help	O
+excuse_43	was	O
+excuse_43	supplied	O
+excuse_43	under	O
+excuse_43	the	O
+excuse_43	poor	O
+excuse_43	law	O

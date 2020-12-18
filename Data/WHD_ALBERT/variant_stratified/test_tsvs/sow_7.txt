@@ -1,0 +1,12 @@
+sow_7	Originally	O
+sow_7	the	O
+sow_7	reef	O
+sow_7	was	O
+sow_7	exposed	O
+sow_7	and	O
+sow_7	resembled	O
+sow_7	a	O
+sow_7	sow	sow_nou
+sow_7	and	O
+sow_7	her	O
+sow_7	litter	O

@@ -1,0 +1,17 @@
+separate_37	Legally	O
+separate_37	the	O
+separate_37	two	O
+separate_37	clubs	O
+separate_37	track	O
+separate_37	records	O
+separate_37	and	O
+separate_37	honours	O
+separate_37	are	O
+separate_37	kept	O
+separate_37	separate	separate_adj
+separate_37	by	O
+separate_37	the	O
+separate_37	Football	O
+separate_37	Association	O
+separate_37	of	O
+separate_37	Slovenia	O

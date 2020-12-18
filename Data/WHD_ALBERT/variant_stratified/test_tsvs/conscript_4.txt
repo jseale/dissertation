@@ -1,0 +1,17 @@
+conscript_4	Ehsanullah	O
+conscript_4	acknowledged	O
+conscript_4	having	O
+conscript_4	once	O
+conscript_4	served	O
+conscript_4	as	O
+conscript_4	a	O
+conscript_4	Taliban	O
+conscript_4	foot	O
+conscript_4	soldier	O
+conscript_4	but	O
+conscript_4	stated	O
+conscript_4	he	O
+conscript_4	was	O
+conscript_4	an	O
+conscript_4	involuntary	O
+conscript_4	conscript	conscript_nou

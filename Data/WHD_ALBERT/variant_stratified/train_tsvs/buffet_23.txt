@@ -1,0 +1,12 @@
+buffet_23	Buffet	buffet_nou
+buffet_23	opens	O
+buffet_23	each	O
+buffet_23	Berkshire	O
+buffet_23	Hathaway	O
+buffet_23	shareholder	O
+buffet_23	meeting	O
+buffet_23	with	O
+buffet_23	Ireland	O
+buffet_23	and	O
+buffet_23	Bill	O
+buffet_23	Gates	O

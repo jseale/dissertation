@@ -1,0 +1,9 @@
+read_21	First	O
+read_21	year	O
+read_21	students	O
+read_21	also	O
+read_21	read	read_past
+read_21	short	O
+read_21	newscasts	O
+read_21	on	O
+read_21	KTCV	O

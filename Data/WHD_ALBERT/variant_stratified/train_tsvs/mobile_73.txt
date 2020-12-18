@@ -1,0 +1,15 @@
+mobile_73	Office	O
+mobile_73	Mobile	mobile
+mobile_73	was	O
+mobile_73	released	O
+mobile_73	for	O
+mobile_73	Android	O
+mobile_73	phones	O
+mobile_73	on	O
+mobile_73	31	O
+mobile_73	July	O
+mobile_73	2013	O
+mobile_73	in	O
+mobile_73	the	O
+mobile_73	United	O
+mobile_73	States	O

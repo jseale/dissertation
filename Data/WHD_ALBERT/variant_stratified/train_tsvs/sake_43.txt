@@ -1,0 +1,17 @@
+sake_43	He	O
+sake_43	said	O
+sake_43	I	O
+sake_43	do	O
+sake_43	n't	O
+sake_43	want	O
+sake_43	to	O
+sake_43	be	O
+sake_43	a	O
+sake_43	celebrity	O
+sake_43	for	O
+sake_43	the	O
+sake_43	sake	sake
+sake_43	of	O
+sake_43	being	O
+sake_43	a	O
+sake_43	celebrity	O

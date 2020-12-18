@@ -1,0 +1,11 @@
+rebel_31	However	O
+rebel_31	in	O
+rebel_31	a	O
+rebel_31	surprise	O
+rebel_31	nighttime	O
+rebel_31	rebel	rebel_nou
+rebel_31	attack	O
+rebel_31	she	O
+rebel_31	is	O
+rebel_31	seriously	O
+rebel_31	wounded	O

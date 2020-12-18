@@ -1,0 +1,13 @@
+pervert_24	He	O
+pervert_24	said	O
+pervert_24	that	O
+pervert_24	I	O
+pervert_24	consider	O
+pervert_24	myself	O
+pervert_24	a	O
+pervert_24	pervert	pervert_nou
+pervert_24	first	O
+pervert_24	and	O
+pervert_24	a	O
+pervert_24	homosexual	O
+pervert_24	second	O

@@ -1,0 +1,16 @@
+estimate_8	For	O
+estimate_8	drivers	O
+estimate_8	and	O
+estimate_8	pedestrians	O
+estimate_8	it	O
+estimate_8	may	O
+estimate_8	be	O
+estimate_8	difficult	O
+estimate_8	to	O
+estimate_8	estimate	estimate_vrb
+estimate_8	how	O
+estimate_8	fast	O
+estimate_8	a	O
+estimate_8	cyclist	O
+estimate_8	is	O
+estimate_8	moving	O

@@ -1,0 +1,17 @@
+refund_7	The	O
+refund_7	group	O
+refund_7	's	O
+refund_7	first	O
+refund_7	victory	O
+refund_7	in	O
+refund_7	1863	O
+refund_7	was	O
+refund_7	convincing	O
+refund_7	the	O
+refund_7	government	O
+refund_7	to	O
+refund_7	refund	refund_vrb
+refund_7	a	O
+refund_7	tax	O
+refund_7	on	O
+refund_7	lager	O

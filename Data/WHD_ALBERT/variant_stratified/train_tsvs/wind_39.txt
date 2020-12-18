@@ -1,0 +1,17 @@
+wind_39	With	O
+wind_39	continually	O
+wind_39	strengthening	O
+wind_39	wind	wind_nou
+wind_39	fields	O
+wind_39	the	O
+wind_39	capping	O
+wind_39	inversion	O
+wind_39	steadily	O
+wind_39	weakened	O
+wind_39	and	O
+wind_39	several	O
+wind_39	tornadic	O
+wind_39	supercells	O
+wind_39	formed	O
+wind_39	across	O
+wind_39	Arkansas	O

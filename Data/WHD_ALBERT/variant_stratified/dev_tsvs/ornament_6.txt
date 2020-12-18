@@ -1,0 +1,14 @@
+ornament_6	The	O
+ornament_6	1971	O
+ornament_6	Monte	O
+ornament_6	Carlo	O
+ornament_6	also	O
+ornament_6	saw	O
+ornament_6	the	O
+ornament_6	addition	O
+ornament_6	of	O
+ornament_6	a	O
+ornament_6	stand	O
+ornament_6	up	O
+ornament_6	hood	O
+ornament_6	ornament	ornament_nou

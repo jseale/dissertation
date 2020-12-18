@@ -1,0 +1,15 @@
+coordinate_41	Graphene	O
+coordinate_41	can	O
+coordinate_41	be	O
+coordinate_41	a	O
+coordinate_41	ligand	O
+coordinate_41	to	O
+coordinate_41	coordinate	coordinate_vrb
+coordinate_41	metals	O
+coordinate_41	and	O
+coordinate_41	metal	O
+coordinate_41	ions	O
+coordinate_41	by	O
+coordinate_41	introducing	O
+coordinate_41	functional	O
+coordinate_41	groups	O

@@ -1,0 +1,12 @@
+permit_50	Accessories	O
+permit_50	for	O
+permit_50	more	O
+permit_50	typical	O
+permit_50	multimeters	O
+permit_50	permit	permit_vrb
+permit_50	some	O
+permit_50	of	O
+permit_50	these	O
+permit_50	measurements	O
+permit_50	as	O
+permit_50	well	O

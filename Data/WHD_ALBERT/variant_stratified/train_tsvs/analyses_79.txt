@@ -1,0 +1,16 @@
+analyses_79	Organisation	O
+analyses_79	expert	O
+analyses_79	Catherine	O
+analyses_79	Nicholson	O
+analyses_79	analyses	analyses_vrb
+analyses_79	the	O
+analyses_79	contestants	O
+analyses_79	through	O
+analyses_79	psychometric	O
+analyses_79	tests	O
+analyses_79	and	O
+analyses_79	the	O
+analyses_79	contents	O
+analyses_79	of	O
+analyses_79	their	O
+analyses_79	handbags	O

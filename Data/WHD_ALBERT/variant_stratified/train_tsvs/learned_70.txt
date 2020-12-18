@@ -1,0 +1,7 @@
+learned_70	He	O
+learned_70	has	O
+learned_70	also	O
+learned_70	learned	learned_vrb
+learned_70	Western	O
+learned_70	Classical	O
+learned_70	Music	O

@@ -1,0 +1,16 @@
+close_60	Unaware	O
+close_60	of	O
+close_60	their	O
+close_60	close	close_adj-nou
+close_60	call	O
+close_60	the	O
+close_60	Reynoldses	O
+close_60	proceeded	O
+close_60	on	O
+close_60	to	O
+close_60	the	O
+close_60	Marquesas	O
+close_60	and	O
+close_60	back	O
+close_60	to	O
+close_60	Hawaii	O

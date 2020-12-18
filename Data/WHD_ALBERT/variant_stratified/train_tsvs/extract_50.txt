@@ -1,0 +1,17 @@
+extract_50	The	O
+extract_50	addition	O
+extract_50	of	O
+extract_50	the	O
+extract_50	chimney	O
+extract_50	both	O
+extract_50	created	O
+extract_50	a	O
+extract_50	strong	O
+extract_50	draught	O
+extract_50	and	O
+extract_50	acted	O
+extract_50	to	O
+extract_50	extract	extract_vrb
+extract_50	the	O
+extract_50	coal	O
+extract_50	fumes	O

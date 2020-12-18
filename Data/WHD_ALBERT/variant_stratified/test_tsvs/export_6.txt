@@ -1,0 +1,8 @@
+export_6	American	O
+export_6	Mail	O
+export_6	and	O
+export_6	Export	export_nou
+export_6	Journal	O
+export_6	July	O
+export_6	1886	O
+export_6	p17	O

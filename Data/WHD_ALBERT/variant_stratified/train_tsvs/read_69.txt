@@ -1,0 +1,17 @@
+read_69	When	O
+read_69	he	O
+read_69	turned	O
+read_69	110	O
+read_69	Koide	O
+read_69	could	O
+read_69	still	O
+read_69	read	read_present
+read_69	newspapers	O
+read_69	without	O
+read_69	Eye	O
+read_69	glasses	O
+read_69	and	O
+read_69	could	O
+read_69	eat	O
+read_69	without	O
+read_69	dentures	O

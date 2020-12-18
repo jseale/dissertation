@@ -1,0 +1,11 @@
+axes_59	Most	O
+axes_59	civilian	O
+axes_59	victims	O
+axes_59	in	O
+axes_59	Dominopol	O
+axes_59	were	O
+axes_59	killed	O
+axes_59	by	O
+axes_59	axes	axes_nou-vrb
+axes_59	and	O
+axes_59	knives	O

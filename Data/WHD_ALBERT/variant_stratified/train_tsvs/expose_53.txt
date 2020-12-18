@@ -1,0 +1,14 @@
+expose_53	For	O
+expose_53	example	O
+expose_53	28/97	O
+expose_53	in	O
+expose_53	RMP	O
+expose_53	31	O
+expose_53	and	O
+expose_53	RMP	O
+expose_53	23	O
+expose_53	expose	expose_vrb
+expose_53	Ahmes	O
+expose_53	LCM	O
+expose_53	multiplication	O
+expose_53	method	O

@@ -1,0 +1,13 @@
+live_75	Anders	O
+live_75	retired	O
+live_75	from	O
+live_75	acting	O
+live_75	in	O
+live_75	1972	O
+live_75	in	O
+live_75	order	O
+live_75	to	O
+live_75	live	live_vrb
+live_75	a	O
+live_75	normal	O
+live_75	life	O

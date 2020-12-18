@@ -1,0 +1,17 @@
+convert_20	They	O
+convert_20	were	O
+convert_20	required	O
+convert_20	to	O
+convert_20	formally	O
+convert_20	convert	convert_vrb
+convert_20	to	O
+convert_20	be	O
+convert_20	accepted	O
+convert_20	as	O
+convert_20	Jews	O
+convert_20	because	O
+convert_20	their	O
+convert_20	history	O
+convert_20	was	O
+convert_20	not	O
+convert_20	documented	O

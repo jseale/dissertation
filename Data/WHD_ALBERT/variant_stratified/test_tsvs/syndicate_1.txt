@@ -1,0 +1,17 @@
+syndicate_1	In	O
+syndicate_1	January	O
+syndicate_1	2009	O
+syndicate_1	the	O
+syndicate_1	Universal	O
+syndicate_1	Syndicate	syndicate_nou
+syndicate_1	announced	O
+syndicate_1	that	O
+syndicate_1	Kilpatrick	O
+syndicate_1	would	O
+syndicate_1	end	O
+syndicate_1	this	O
+syndicate_1	column	O
+syndicate_1	because	O
+syndicate_1	of	O
+syndicate_1	health	O
+syndicate_1	reasons	O

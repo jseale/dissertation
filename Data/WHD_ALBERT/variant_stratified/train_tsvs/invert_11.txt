@@ -1,0 +1,13 @@
+invert_11	He	O
+invert_11	sees	O
+invert_11	Charlus	O
+invert_11	exchanging	O
+invert_11	knowing	O
+invert_11	looks	O
+invert_11	with	O
+invert_11	the	O
+invert_11	diplomat	O
+invert_11	Vaugobert	O
+invert_11	a	O
+invert_11	fellow	O
+invert_11	invert	invert_adj-nou

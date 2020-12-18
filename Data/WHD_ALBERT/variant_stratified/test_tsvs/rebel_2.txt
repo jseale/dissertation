@@ -1,0 +1,17 @@
+rebel_2	Echuu	O
+rebel_2	later	O
+rebel_2	meets	O
+rebel_2	with	O
+rebel_2	Princess	O
+rebel_2	Leia	O
+rebel_2	on	O
+rebel_2	Krant	O
+rebel_2	during	O
+rebel_2	the	O
+rebel_2	Rebel	rebel_nou
+rebel_2	campaign	O
+rebel_2	where	O
+rebel_2	Darth	O
+rebel_2	Vader	O
+rebel_2	kills	O
+rebel_2	him	O

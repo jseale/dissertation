@@ -1,0 +1,12 @@
+insult_34	The	O
+insult_34	Giants	O
+insult_34	added	O
+insult_34	further	O
+insult_34	insult	insult_nou
+insult_34	to	O
+insult_34	injury	O
+insult_34	with	O
+insult_34	a	O
+insult_34	four	O
+insult_34	run	O
+insult_34	seventh	O

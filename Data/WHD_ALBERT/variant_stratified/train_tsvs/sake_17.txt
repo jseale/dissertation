@@ -1,0 +1,16 @@
+sake_17	But	O
+sake_17	we	O
+sake_17	try	O
+sake_17	and	O
+sake_17	do	O
+sake_17	things	O
+sake_17	properly	O
+sake_17	and	O
+sake_17	for	O
+sake_17	Luke	O
+sake_17	's	O
+sake_17	sake	sake
+sake_17	I	O
+sake_17	left	O
+sake_17	him	O
+sake_17	out	O

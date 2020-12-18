@@ -1,0 +1,16 @@
+fragment_59	An	O
+fragment_59	optional	O
+fragment_59	fragment	fragment_nou
+fragment_59	identifier	O
+fragment_59	preceded	O
+fragment_59	by	O
+fragment_59	may	O
+fragment_59	be	O
+fragment_59	present	O
+fragment_59	at	O
+fragment_59	the	O
+fragment_59	end	O
+fragment_59	of	O
+fragment_59	a	O
+fragment_59	URI	O
+fragment_59	reference	O

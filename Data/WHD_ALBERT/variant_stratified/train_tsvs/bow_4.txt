@@ -1,0 +1,11 @@
+bow_4	Bow	bow_nou-knot
+bow_4	kites	O
+bow_4	are	O
+bow_4	popular	O
+bow_4	with	O
+bow_4	riders	O
+bow_4	from	O
+bow_4	beginner	O
+bow_4	to	O
+bow_4	advanced	O
+bow_4	levels	O

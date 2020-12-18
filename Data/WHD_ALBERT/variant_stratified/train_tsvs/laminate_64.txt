@@ -1,0 +1,15 @@
+laminate_64	Also	O
+laminate_64	the	O
+laminate_64	laminate	laminate_nou
+laminate_64	is	O
+laminate_64	still	O
+laminate_64	breathable	O
+laminate_64	which	O
+laminate_64	means	O
+laminate_64	that	O
+laminate_64	it	O
+laminate_64	will	O
+laminate_64	not	O
+laminate_64	trap	O
+laminate_64	body	O
+laminate_64	heat	O

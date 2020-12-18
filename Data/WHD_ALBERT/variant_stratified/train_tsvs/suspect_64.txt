@@ -1,0 +1,16 @@
+suspect_64	She	O
+suspect_64	seems	O
+suspect_64	to	O
+suspect_64	suspect	suspect_vrb
+suspect_64	that	O
+suspect_64	her	O
+suspect_64	husband	O
+suspect_64	is	O
+suspect_64	not	O
+suspect_64	the	O
+suspect_64	same	O
+suspect_64	person	O
+suspect_64	after	O
+suspect_64	the	O
+suspect_64	siblings	O
+suspect_64	swap	O

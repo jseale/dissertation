@@ -1,0 +1,17 @@
+convert_27	Biocatalysts	O
+convert_27	can	O
+convert_27	be	O
+convert_27	exploited	O
+convert_27	to	O
+convert_27	convert	convert_vrb
+convert_27	these	O
+convert_27	waste	O
+convert_27	gases	O
+convert_27	to	O
+convert_27	chemicals	O
+convert_27	and	O
+convert_27	fuels	O
+convert_27	as	O
+convert_27	for	O
+convert_27	example	O
+convert_27	ethanol	O

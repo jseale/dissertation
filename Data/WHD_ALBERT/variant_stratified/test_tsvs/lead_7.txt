@@ -1,0 +1,13 @@
+lead_7	In	O
+lead_7	1980	O
+lead_7	he	O
+lead_7	resigned	O
+lead_7	from	O
+lead_7	the	O
+lead_7	ACB	O
+lead_7	to	O
+lead_7	lead	lead_nou-vrb
+lead_7	a	O
+lead_7	more	O
+lead_7	secluded	O
+lead_7	life	O

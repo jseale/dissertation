@@ -1,0 +1,14 @@
+postulate_61	Some	O
+postulate_61	embryologists	O
+postulate_61	postulate	postulate_vrb
+postulate_61	that	O
+postulate_61	the	O
+postulate_61	ostium	O
+postulate_61	secundum	O
+postulate_61	may	O
+postulate_61	be	O
+postulate_61	formed	O
+postulate_61	through	O
+postulate_61	programmed	O
+postulate_61	cell	O
+postulate_61	death	O

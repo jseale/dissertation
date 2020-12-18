@@ -1,0 +1,14 @@
+uses_53	The	O
+uses_53	Massachusetts	O
+uses_53	State	O
+uses_53	Defense	O
+uses_53	Force	O
+uses_53	uses	uses_vrb
+uses_53	the	O
+uses_53	Army	O
+uses_53	Combat	O
+uses_53	Uniform	O
+uses_53	and	O
+uses_53	a	O
+uses_53	patrol	O
+uses_53	cap	O

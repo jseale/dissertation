@@ -1,0 +1,13 @@
+export_3	This	O
+export_3	number	O
+export_3	includes	O
+export_3	the	O
+export_3	5,200-MW	O
+export_3	Churchill	O
+export_3	Falls	O
+export_3	lines	O
+export_3	which	O
+export_3	have	O
+export_3	no	O
+export_3	export	export_nou
+export_3	capability	O

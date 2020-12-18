@@ -1,0 +1,11 @@
+increment_72	If	O
+increment_72	it	O
+increment_72	comes	O
+increment_72	up	O
+increment_72	Heads	O
+increment_72	each	O
+increment_72	time	O
+increment_72	then	O
+increment_72	increment	increment_vrb
+increment_72	the	O
+increment_72	counter	O

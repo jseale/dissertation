@@ -1,0 +1,11 @@
+affiliate_3	Buffalo	O
+affiliate_3	ABC	O
+affiliate_3	affiliate	affiliate_nou
+affiliate_3	WKBW	O
+affiliate_3	TV	O
+affiliate_3	replaced	O
+affiliate_3	WHAM	O
+affiliate_3	TV	O
+affiliate_3	in	O
+affiliate_3	these	O
+affiliate_3	communities	O

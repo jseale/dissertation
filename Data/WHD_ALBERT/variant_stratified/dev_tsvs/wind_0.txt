@@ -1,0 +1,11 @@
+wind_0	Water-	O
+wind_0	steam-	O
+wind_0	horse-	O
+wind_0	or	O
+wind_0	ox-	O
+wind_0	and	O
+wind_0	wind	wind_nou
+wind_0	powered	O
+wind_0	bark	O
+wind_0	mills	O
+wind_0	existed	O

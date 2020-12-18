@@ -1,0 +1,10 @@
+frequent_45	Droughts	O
+frequent_45	are	O
+frequent_45	frequent	frequent_adj
+frequent_45	with	O
+frequent_45	rain	O
+frequent_45	primarily	O
+frequent_45	falling	O
+frequent_45	in	O
+frequent_45	the	O
+frequent_45	summer	O

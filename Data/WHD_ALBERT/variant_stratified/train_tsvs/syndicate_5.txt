@@ -1,0 +1,9 @@
+syndicate_5	The	O
+syndicate_5	Kudo	O
+syndicate_5	kai	O
+syndicate_5	yakuza	O
+syndicate_5	syndicate	syndicate_nou
+syndicate_5	is	O
+syndicate_5	headquartered	O
+syndicate_5	in	O
+syndicate_5	Kokurakita	O

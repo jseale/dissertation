@@ -1,0 +1,13 @@
+analyses_5	The	O
+analyses_5	analyses	analyses_nou
+analyses_5	are	O
+analyses_5	derived	O
+analyses_5	from	O
+analyses_5	the	O
+analyses_5	simple	O
+analyses_5	steady	O
+analyses_5	state	O
+analyses_5	analysis	O
+analyses_5	of	O
+analyses_5	Wooding	O
+analyses_5	1968	O

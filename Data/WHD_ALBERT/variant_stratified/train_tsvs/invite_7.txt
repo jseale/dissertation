@@ -1,0 +1,11 @@
+invite_7	The	O
+invite_7	Grubs	O
+invite_7	receive	O
+invite_7	the	O
+invite_7	invite	invite_nou
+invite_7	and	O
+invite_7	trace	O
+invite_7	it	O
+invite_7	back	O
+invite_7	to	O
+invite_7	Earth	O

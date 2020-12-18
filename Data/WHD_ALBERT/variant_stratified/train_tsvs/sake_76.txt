@@ -1,0 +1,16 @@
+sake_76	Walking	O
+sake_76	on	O
+sake_76	the	O
+sake_76	street	O
+sake_76	while	O
+sake_76	drinking	O
+sake_76	sake	sake_jp
+sake_76	Yoshida	O
+sake_76	passes	O
+sake_76	out	O
+sake_76	from	O
+sake_76	an	O
+sake_76	attack	O
+sake_76	of	O
+sake_76	abdominal	O
+sake_76	pain	O

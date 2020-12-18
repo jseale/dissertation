@@ -1,0 +1,14 @@
+animate_5	Software	O
+animate_5	used	O
+animate_5	to	O
+animate_5	animate	animate_vrb
+animate_5	SonicVision	O
+animate_5	included	O
+animate_5	Maya	O
+animate_5	SoftImage	O
+animate_5	FilmBox	O
+animate_5	Adobe	O
+animate_5	After	O
+animate_5	Effects	O
+animate_5	and	O
+animate_5	Shake	O

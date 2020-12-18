@@ -1,0 +1,17 @@
+recount_50	More	O
+recount_50	recently	O
+recount_50	the	O
+recount_50	county	O
+recount_50	acquired	O
+recount_50	national	O
+recount_50	attention	O
+recount_50	during	O
+recount_50	the	O
+recount_50	2000	O
+recount_50	presidential	O
+recount_50	election	O
+recount_50	when	O
+recount_50	a	O
+recount_50	controversial	O
+recount_50	recount	recount_nou
+recount_50	occurred	O

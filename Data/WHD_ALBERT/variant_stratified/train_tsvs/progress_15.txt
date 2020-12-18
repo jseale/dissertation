@@ -1,0 +1,17 @@
+progress_15	Lee	O
+progress_15	Denney	O
+progress_15	attends	O
+progress_15	Obama	O
+progress_15	speech	O
+progress_15	welcomes	O
+progress_15	him	O
+progress_15	to	O
+progress_15	Cushing	O
+progress_15	and	O
+progress_15	applauds	O
+progress_15	pipeline	O
+progress_15	progress	progress_nou
+progress_15	but	O
+progress_15	disagrees	O
+progress_15	on	O
+progress_15	priorities	O

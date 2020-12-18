@@ -1,0 +1,17 @@
+approximate_65	In	O
+approximate_65	Tokyo	O
+approximate_65	several	O
+approximate_65	wigs	O
+approximate_65	for	O
+approximate_65	the	O
+approximate_65	protagonist	O
+approximate_65	were	O
+approximate_65	created	O
+approximate_65	each	O
+approximate_65	with	O
+approximate_65	an	O
+approximate_65	approximate	approximate_adj-nou
+approximate_65	cost	O
+approximate_65	of	O
+approximate_65	$	O
+approximate_65	7,000	O

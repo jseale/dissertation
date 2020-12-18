@@ -1,0 +1,15 @@
+transplant_45	The	O
+transplant_45	transplant	transplant_nou
+transplant_45	was	O
+transplant_45	successful	O
+transplant_45	but	O
+transplant_45	David	O
+transplant_45	wanted	O
+transplant_45	$	O
+transplant_45	10,000,000	O
+transplant_45	before	O
+transplant_45	he	O
+transplant_45	agreed	O
+transplant_45	to	O
+transplant_45	the	O
+transplant_45	transplant	transplant_nou

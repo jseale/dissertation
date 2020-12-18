@@ -1,0 +1,17 @@
+degenerate_1	Unlike	O
+degenerate_1	regular	O
+degenerate_1	plasma	O
+degenerate_1	degenerate	degenerate_adj-nou
+degenerate_1	plasma	O
+degenerate_1	expands	O
+degenerate_1	little	O
+degenerate_1	when	O
+degenerate_1	heated	O
+degenerate_1	because	O
+degenerate_1	there	O
+degenerate_1	are	O
+degenerate_1	simply	O
+degenerate_1	no	O
+degenerate_1	momentum	O
+degenerate_1	states	O
+degenerate_1	left	O

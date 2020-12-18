@@ -1,0 +1,14 @@
+postulate_20	Consequently	O
+postulate_20	rectangles	O
+postulate_20	exist	O
+postulate_20	a	O
+postulate_20	statement	O
+postulate_20	equivalent	O
+postulate_20	to	O
+postulate_20	the	O
+postulate_20	parallel	O
+postulate_20	postulate	postulate_nou
+postulate_20	only	O
+postulate_20	in	O
+postulate_20	Euclidean	O
+postulate_20	geometry	O

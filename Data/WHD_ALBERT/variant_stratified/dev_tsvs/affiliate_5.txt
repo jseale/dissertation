@@ -1,0 +1,9 @@
+affiliate_5	22.3	O
+affiliate_5	would	O
+affiliate_5	become	O
+affiliate_5	an	O
+affiliate_5	affiliate	affiliate_nou
+affiliate_5	for	O
+affiliate_5	Mexicanal	O
+affiliate_5	in	O
+affiliate_5	2011	O

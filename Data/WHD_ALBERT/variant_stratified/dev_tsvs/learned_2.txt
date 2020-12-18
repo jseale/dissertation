@@ -1,0 +1,7 @@
+learned_2	He	O
+learned_2	learned	learned_vrb
+learned_2	aeronautical	O
+learned_2	engineering	O
+learned_2	at	O
+learned_2	Short	O
+learned_2	Brothers	O

@@ -1,0 +1,12 @@
+separate_17	They	O
+separate_17	also	O
+separate_17	approached	O
+separate_17	soldiers	O
+separate_17	before	O
+separate_17	blowing	O
+separate_17	themselves	O
+separate_17	up	O
+separate_17	in	O
+separate_17	two	O
+separate_17	separate	separate_adj
+separate_17	attacks	O

@@ -1,0 +1,16 @@
+transform_15	The	O
+transform_15	original	O
+transform_15	core	O
+transform_15	values	O
+transform_15	of	O
+transform_15	the	O
+transform_15	school	O
+transform_15	are	O
+transform_15	to	O
+transform_15	inspire	O
+transform_15	creativity	O
+transform_15	transform	transform
+transform_15	individuals	O
+transform_15	and	O
+transform_15	build	O
+transform_15	community	O

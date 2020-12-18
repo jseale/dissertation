@@ -1,0 +1,8 @@
+conjugate_24	This	O
+conjugate_24	relation	O
+conjugate_24	is	O
+conjugate_24	called	O
+conjugate_24	the	O
+conjugate_24	Conjugate	conjugate_adj-nou
+conjugate_24	Pairing	O
+conjugate_24	Rule	O

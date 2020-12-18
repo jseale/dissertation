@@ -1,0 +1,10 @@
+aged_2	He	O
+aged_2	died	O
+aged_2	unmarried	O
+aged_2	on	O
+aged_2	20	O
+aged_2	October	O
+aged_2	1787	O
+aged_2	aged	aged
+aged_2	about	O
+aged_2	78	O

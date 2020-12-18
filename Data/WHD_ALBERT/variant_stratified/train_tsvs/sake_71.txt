@@ -1,0 +1,12 @@
+sake_71	In	O
+sake_71	addition	O
+sake_71	some	O
+sake_71	customers	O
+sake_71	refused	O
+sake_71	to	O
+sake_71	buy	O
+sake_71	sake	sake_jp
+sake_71	created	O
+sake_71	by	O
+sake_71	a	O
+sake_71	woman	O

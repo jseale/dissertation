@@ -1,0 +1,9 @@
+buffet_8	And	O
+buffet_8	on	O
+buffet_8	the	O
+buffet_8	other	O
+buffet_8	hand	O
+buffet_8	through	O
+buffet_8	his	O
+buffet_8	private	O
+buffet_8	buffet	buffet_nou

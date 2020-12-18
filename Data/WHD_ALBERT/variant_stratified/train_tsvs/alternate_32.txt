@@ -1,0 +1,13 @@
+alternate_32	Dr.	O
+alternate_32	Orne	O
+alternate_32	did	O
+alternate_32	not	O
+alternate_32	encourage	O
+alternate_32	this	O
+alternate_32	development	O
+alternate_32	and	O
+alternate_32	subsequently	O
+alternate_32	this	O
+alternate_32	alternate	alternate_adj-nou
+alternate_32	personality	O
+alternate_32	disappeared	O

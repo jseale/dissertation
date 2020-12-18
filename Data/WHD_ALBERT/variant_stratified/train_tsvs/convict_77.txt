@@ -1,0 +1,15 @@
+convict_77	However	O
+convict_77	the	O
+convict_77	committee	O
+convict_77	could	O
+convict_77	not	O
+convict_77	make	O
+convict_77	a	O
+convict_77	recommendation	O
+convict_77	on	O
+convict_77	whether	O
+convict_77	to	O
+convict_77	convict	convict_vrb
+convict_77	the	O
+convict_77	impeached	O
+convict_77	official	O

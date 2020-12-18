@@ -1,0 +1,14 @@
+delegate_28	He	O
+delegate_28	was	O
+delegate_28	a	O
+delegate_28	delegate	delegate_nou
+delegate_28	from	O
+delegate_28	Wilmington	O
+delegate_28	to	O
+delegate_28	the	O
+delegate_28	1996	O
+delegate_28	Democratic	O
+delegate_28	National	O
+delegate_28	Convention	O
+delegate_28	in	O
+delegate_28	Chicago	O

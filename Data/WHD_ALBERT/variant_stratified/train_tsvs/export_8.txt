@@ -1,0 +1,12 @@
+export_8	Dortmunder	O
+export_8	Export	export_nou
+export_8	is	O
+export_8	a	O
+export_8	local	O
+export_8	pale	O
+export_8	lager	O
+export_8	beer	O
+export_8	speciality	O
+export_8	brewed	O
+export_8	in	O
+export_8	Dortmund	O

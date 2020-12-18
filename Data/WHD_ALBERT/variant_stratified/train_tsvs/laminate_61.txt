@@ -1,0 +1,15 @@
+laminate_61	However	O
+laminate_61	many	O
+laminate_61	laminate	laminate_nou
+laminate_61	surfaces	O
+laminate_61	and	O
+laminate_61	ceramic	O
+laminate_61	topped	O
+laminate_61	stoves	O
+laminate_61	are	O
+laminate_61	easily	O
+laminate_61	damaged	O
+laminate_61	by	O
+laminate_61	these	O
+laminate_61	abrasive	O
+laminate_61	compounds	O

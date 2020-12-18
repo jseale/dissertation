@@ -1,0 +1,11 @@
+implement_34	He	O
+implement_34	urged	O
+implement_34	FEMA	O
+implement_34	to	O
+implement_34	implement	implement_vrb
+implement_34	the	O
+implement_34	reforms	O
+implement_34	at	O
+implement_34	a	O
+implement_34	quicker	O
+implement_34	pace	O

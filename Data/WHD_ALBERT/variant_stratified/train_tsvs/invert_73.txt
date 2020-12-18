@@ -1,0 +1,15 @@
+invert_73	Intuitively	O
+invert_73	one	O
+invert_73	way	O
+invert_73	functions	O
+invert_73	are	O
+invert_73	functions	O
+invert_73	that	O
+invert_73	are	O
+invert_73	easy	O
+invert_73	to	O
+invert_73	compute	O
+invert_73	and	O
+invert_73	hard	O
+invert_73	to	O
+invert_73	invert	invert_vrb

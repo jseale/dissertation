@@ -1,0 +1,14 @@
+duplicate_35	Note	O
+duplicate_35	Use	O
+duplicate_35	of	O
+duplicate_35	the	O
+duplicate_35	term	O
+duplicate_35	IVD	O
+duplicate_35	is	O
+duplicate_35	best	O
+duplicate_35	avoided	O
+duplicate_35	because	O
+duplicate_35	of	O
+duplicate_35	its	O
+duplicate_35	duplicate	duplicate_adj-nou
+duplicate_35	meanings	O

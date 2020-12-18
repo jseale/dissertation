@@ -1,0 +1,9 @@
+compound_73	Monopotassium	O
+compound_73	glutamate	O
+compound_73	MPG	O
+compound_73	is	O
+compound_73	a	O
+compound_73	compound	compound_nou
+compound_73	with	O
+compound_73	formula	O
+compound_73	KC₅H₈NO₄.	O

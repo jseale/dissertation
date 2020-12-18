@@ -1,0 +1,15 @@
+sake_55	It	O
+sake_55	's	O
+sake_55	time	O
+sake_55	we	O
+sake_55	offer	O
+sake_55	quality	O
+sake_55	in	O
+sake_55	TV	O
+sake_55	content	O
+sake_55	for	O
+sake_55	the	O
+sake_55	sake	sake
+sake_55	of	O
+sake_55	actors	O
+sake_55	too	O

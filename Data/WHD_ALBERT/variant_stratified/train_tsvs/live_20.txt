@@ -1,0 +1,11 @@
+live_20	As	O
+live_20	of	O
+live_20	2010	O
+live_20	his	O
+live_20	total	O
+live_20	live	live_adj
+live_20	tournament	O
+live_20	winnings	O
+live_20	exceed	O
+live_20	$	O
+live_20	5,375,000	O

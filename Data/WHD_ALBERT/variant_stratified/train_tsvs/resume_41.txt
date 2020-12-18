@@ -1,0 +1,16 @@
+resume_41	He	O
+resume_41	subscribed	O
+resume_41	in	O
+resume_41	1570	O
+resume_41	a	O
+resume_41	testimonial	O
+resume_41	requesting	O
+resume_41	that	O
+resume_41	Cartwright	O
+resume_41	might	O
+resume_41	be	O
+resume_41	allowed	O
+resume_41	to	O
+resume_41	resume	resume_vrb
+resume_41	his	O
+resume_41	lectures	O

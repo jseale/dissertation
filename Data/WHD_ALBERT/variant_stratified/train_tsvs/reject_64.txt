@@ -1,0 +1,16 @@
+reject_64	Athos	O
+reject_64	Porthos	O
+reject_64	and	O
+reject_64	Aramis	O
+reject_64	all	O
+reject_64	reject	reject_vrb
+reject_64	it	O
+reject_64	and	O
+reject_64	d'Artagnan	O
+reject_64	is	O
+reject_64	promoted	O
+reject_64	to	O
+reject_64	Lieutenant	O
+reject_64	of	O
+reject_64	the	O
+reject_64	Musketeers	O

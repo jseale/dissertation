@@ -1,0 +1,10 @@
+retard_39	These	O
+retard_39	units	O
+retard_39	will	O
+retard_39	both	O
+retard_39	advance	O
+retard_39	and	O
+retard_39	retard	retard_vrb
+retard_39	the	O
+retard_39	ignition	O
+retard_39	timing	O

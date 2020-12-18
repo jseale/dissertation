@@ -1,0 +1,14 @@
+winds_0	Near	O
+winds_0	record	O
+winds_0	level	O
+winds_0	winds	winds_nou
+winds_0	were	O
+winds_0	reported	O
+winds_0	from	O
+winds_0	Finland	O
+winds_0	where	O
+winds_0	200,000	O
+winds_0	were	O
+winds_0	left	O
+winds_0	without	O
+winds_0	power	O

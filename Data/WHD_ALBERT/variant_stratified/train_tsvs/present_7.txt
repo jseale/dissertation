@@ -1,0 +1,13 @@
+present_7	IBM	O
+present_7	the	O
+present_7	present	present_adj-nou
+present_7	owner	O
+present_7	of	O
+present_7	the	O
+present_7	Lotus	O
+present_7	brand	O
+present_7	renamed	O
+present_7	it	O
+present_7	Lotus	O
+present_7	Word	O
+present_7	Pro	O

@@ -1,0 +1,10 @@
+associate_40	There	O
+associate_40	were	O
+associate_40	three	O
+associate_40	classes	O
+associate_40	of	O
+associate_40	membership	O
+associate_40	active	O
+associate_40	associate	associate_adj-nou
+associate_40	and	O
+associate_40	patron	O

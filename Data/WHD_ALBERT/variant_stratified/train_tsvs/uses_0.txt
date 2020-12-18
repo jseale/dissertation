@@ -1,0 +1,16 @@
+uses_0	Noticeable	O
+uses_0	is	O
+uses_0	the	O
+uses_0	preeminent	O
+uses_0	role	O
+uses_0	of	O
+uses_0	France	O
+uses_0	in	O
+uses_0	the	O
+uses_0	introduction	O
+uses_0	of	O
+uses_0	new	O
+uses_0	innovative	O
+uses_0	uses	uses_nou
+uses_0	of	O
+uses_0	waterpower	O

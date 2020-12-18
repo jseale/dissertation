@@ -1,0 +1,12 @@
+graduate_30	Besides	O
+graduate_30	this	O
+graduate_30	he	O
+graduate_30	pursued	O
+graduate_30	graduate	graduate_adj-nou
+graduate_30	courses	O
+graduate_30	in	O
+graduate_30	law	O
+graduate_30	and	O
+graduate_30	mathematics	O
+graduate_30	in	O
+graduate_30	Bucharest	O

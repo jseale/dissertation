@@ -1,0 +1,9 @@
+alternate_9	This	O
+alternate_9	Committee	O
+alternate_9	had	O
+alternate_9	170	O
+alternate_9	members	O
+alternate_9	and	O
+alternate_9	109	O
+alternate_9	alternate	alternate_adj-nou
+alternate_9	members	O

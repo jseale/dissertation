@@ -1,0 +1,13 @@
+sake_24	In	O
+sake_24	1867	O
+sake_24	his	O
+sake_24	doctor	O
+sake_24	suggested	O
+sake_24	Sabin	O
+sake_24	relocate	O
+sake_24	for	O
+sake_24	the	O
+sake_24	sake	sake
+sake_24	of	O
+sake_24	his	O
+sake_24	health	O

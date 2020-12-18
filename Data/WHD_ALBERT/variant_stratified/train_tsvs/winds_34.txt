@@ -1,0 +1,10 @@
+winds_34	In	O
+winds_34	eastern	O
+winds_34	Hualien	O
+winds_34	County	O
+winds_34	250	O
+winds_34	houses	O
+winds_34	succumbed	O
+winds_34	to	O
+winds_34	strong	O
+winds_34	winds	winds_nou

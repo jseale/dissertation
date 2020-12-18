@@ -1,0 +1,14 @@
+discharge_9	Electric	O
+discharge_9	discharge	discharge_nou
+discharge_9	describes	O
+discharge_9	any	O
+discharge_9	flow	O
+discharge_9	of	O
+discharge_9	electric	O
+discharge_9	charge	O
+discharge_9	through	O
+discharge_9	a	O
+discharge_9	gas	O
+discharge_9	liquid	O
+discharge_9	or	O
+discharge_9	solid	O

@@ -1,0 +1,9 @@
+reading_69	He	O
+reading_69	signed	O
+reading_69	for	O
+reading_69	Reading	reading_geo
+reading_69	at	O
+reading_69	the	O
+reading_69	age	O
+reading_69	of	O
+reading_69	15	O

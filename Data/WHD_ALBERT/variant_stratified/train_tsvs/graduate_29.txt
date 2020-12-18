@@ -1,0 +1,9 @@
+graduate_29	She	O
+graduate_29	is	O
+graduate_29	also	O
+graduate_29	a	O
+graduate_29	graduate	graduate_adj-nou
+graduate_29	of	O
+graduate_29	Fordham	O
+graduate_29	Law	O
+graduate_29	School	O

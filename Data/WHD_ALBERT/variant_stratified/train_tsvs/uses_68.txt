@@ -1,0 +1,12 @@
+uses_68	Handel	O
+uses_68	uses	uses_vrb
+uses_68	both	O
+uses_68	polyphonic	O
+uses_68	and	O
+uses_68	homophonic	O
+uses_68	settings	O
+uses_68	to	O
+uses_68	illustrate	O
+uses_68	the	O
+uses_68	text	O
+uses_68	best	O

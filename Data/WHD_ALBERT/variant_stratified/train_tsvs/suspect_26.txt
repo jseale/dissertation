@@ -1,0 +1,13 @@
+suspect_26	British	O
+suspect_26	Film	O
+suspect_26	InstitutePrime	O
+suspect_26	Suspect	suspect_adj-nou
+suspect_26	Character	O
+suspect_26	list	O
+suspect_26	on	O
+suspect_26	"TV.com""A"	O
+suspect_26	Royal	O
+suspect_26	Scandal	O
+suspect_26	TV	O
+suspect_26	Movie	O
+suspect_26	1997	O

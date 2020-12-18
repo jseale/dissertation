@@ -1,0 +1,15 @@
+coordinate_50	In	O
+coordinate_50	1935	O
+coordinate_50	the	O
+coordinate_50	federal	O
+coordinate_50	government	O
+coordinate_50	formed	O
+coordinate_50	a	O
+coordinate_50	Drought	O
+coordinate_50	Relief	O
+coordinate_50	Service	O
+coordinate_50	DRS	O
+coordinate_50	to	O
+coordinate_50	coordinate	coordinate_vrb
+coordinate_50	relief	O
+coordinate_50	activities	O

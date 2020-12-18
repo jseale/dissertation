@@ -1,0 +1,10 @@
+record_66	It	O
+record_66	was	O
+record_66	released	O
+record_66	in	O
+record_66	1981	O
+record_66	by	O
+record_66	record	record_nou
+record_66	label	O
+record_66	Beggars	O
+record_66	Banquet	O

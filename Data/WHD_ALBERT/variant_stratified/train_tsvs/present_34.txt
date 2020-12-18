@@ -1,0 +1,17 @@
+present_34	The	O
+present_34	cycle	O
+present_34	is	O
+present_34	present	present_adj-nou
+present_34	in	O
+present_34	microorganisms	O
+present_34	that	O
+present_34	cause	O
+present_34	disease	O
+present_34	but	O
+present_34	is	O
+present_34	absent	O
+present_34	in	O
+present_34	mammals	O
+present_34	for	O
+present_34	example	O
+present_34	humans	O

@@ -1,0 +1,14 @@
+excuse_1	Langford	O
+excuse_1	stated	O
+excuse_1	the	O
+excuse_1	plan	O
+excuse_1	was	O
+excuse_1	only	O
+excuse_1	an	O
+excuse_1	excuse	excuse_nou
+excuse_1	to	O
+excuse_1	remove	O
+excuse_1	blacks	O
+excuse_1	from	O
+excuse_1	the	O
+excuse_1	school	O

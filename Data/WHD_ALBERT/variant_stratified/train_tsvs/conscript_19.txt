@@ -1,0 +1,12 @@
+conscript_19	The	O
+conscript_19	last	O
+conscript_19	conscript	conscript_nou
+conscript_19	troops	O
+conscript_19	were	O
+conscript_19	inducted	O
+conscript_19	in	O
+conscript_19	1995	O
+conscript_19	and	O
+conscript_19	demobilized	O
+conscript_19	in	O
+conscript_19	1996	O

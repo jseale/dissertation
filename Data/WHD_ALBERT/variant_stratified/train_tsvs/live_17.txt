@@ -1,0 +1,13 @@
+live_17	Live	live_adj
+live_17	oaks	O
+live_17	drop	O
+live_17	their	O
+live_17	leaves	O
+live_17	immediately	O
+live_17	before	O
+live_17	new	O
+live_17	leaves	O
+live_17	emerge	O
+live_17	in	O
+live_17	the	O
+live_17	spring	O

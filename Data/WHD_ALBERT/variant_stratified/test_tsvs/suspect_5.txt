@@ -1,0 +1,17 @@
+suspect_5	Paul	O
+suspect_5	Begg	O
+suspect_5	only	O
+suspect_5	dealt	O
+suspect_5	with	O
+suspect_5	Chapman	O
+suspect_5	briefly	O
+suspect_5	and	O
+suspect_5	evidently	O
+suspect_5	did	O
+suspect_5	not	O
+suspect_5	regard	O
+suspect_5	him	O
+suspect_5	as	O
+suspect_5	a	O
+suspect_5	serious	O
+suspect_5	suspect	suspect_adj-nou

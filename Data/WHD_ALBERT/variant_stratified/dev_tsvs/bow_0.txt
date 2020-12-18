@@ -1,0 +1,14 @@
+bow_0	He	O
+bow_0	wears	O
+bow_0	blue	O
+bow_0	suit	O
+bow_0	with	O
+bow_0	a	O
+bow_0	red	O
+bow_0	bow	bow_nou-knot
+bow_0	and	O
+bow_0	carnation	O
+bow_0	and	O
+bow_0	a	O
+bow_0	boater	O
+bow_0	hat	O

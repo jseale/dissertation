@@ -1,0 +1,16 @@
+articulate_1	Darl	O
+articulate_1	is	O
+articulate_1	the	O
+articulate_1	most	O
+articulate_1	articulate	articulate_adj
+articulate_1	character	O
+articulate_1	in	O
+articulate_1	the	O
+articulate_1	book	O
+articulate_1	he	O
+articulate_1	narrates	O
+articulate_1	19	O
+articulate_1	of	O
+articulate_1	the	O
+articulate_1	59	O
+articulate_1	chapters	O

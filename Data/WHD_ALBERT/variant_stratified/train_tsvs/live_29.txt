@@ -1,0 +1,13 @@
+live_29	LiveTalk	O
+live_29	is	O
+live_29	used	O
+live_29	for	O
+live_29	Live	live_adj
+live_29	audio	O
+live_29	streaming	O
+live_29	of	O
+live_29	events	O
+live_29	over	O
+live_29	a	O
+live_29	phone	O
+live_29	call	O

@@ -1,0 +1,16 @@
+bow_20	In	O
+bow_20	making	O
+bow_20	a	O
+bow_20	bow	bow_nou-knot
+bow_20	the	O
+bow_20	greater	O
+bow_20	part	O
+bow_20	of	O
+bow_20	the	O
+bow_20	woodworking	O
+bow_20	is	O
+bow_20	done	O
+bow_20	on	O
+bow_20	a	O
+bow_20	straight	O
+bow_20	stick	O

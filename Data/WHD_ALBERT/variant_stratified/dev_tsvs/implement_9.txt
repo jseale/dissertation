@@ -1,0 +1,14 @@
+implement_9	We	O
+implement_9	resolve	O
+implement_9	to	O
+implement_9	reform	O
+implement_9	this	O
+implement_9	system	O
+implement_9	in	O
+implement_9	order	O
+implement_9	to	O
+implement_9	implement	implement_vrb
+implement_9	a	O
+implement_9	more	O
+implement_9	natural	O
+implement_9	society	O

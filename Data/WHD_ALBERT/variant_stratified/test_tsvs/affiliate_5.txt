@@ -1,0 +1,11 @@
+affiliate_5	In	O
+affiliate_5	1991	O
+affiliate_5	he	O
+affiliate_5	did	O
+affiliate_5	reporting	O
+affiliate_5	for	O
+affiliate_5	St	O
+affiliate_5	Louis	O
+affiliate_5	CBS	O
+affiliate_5	affiliate	affiliate_nou
+affiliate_5	KMOV	O

@@ -1,0 +1,15 @@
+bow_6	Ciara	O
+bow_6	performed	O
+bow_6	her	O
+bow_6	part	O
+bow_6	in	O
+bow_6	Bow	bow_nou-ship
+bow_6	Wow	O
+bow_6	's	O
+bow_6	Like	O
+bow_6	You	O
+bow_6	while	O
+bow_6	appearing	O
+bow_6	alone	O
+bow_6	on	O
+bow_6	stage	O

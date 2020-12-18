@@ -1,0 +1,17 @@
+produce_8	Hanhart	O
+produce_8	used	O
+produce_8	a	O
+produce_8	complex	O
+produce_8	layering	O
+produce_8	of	O
+produce_8	tint	O
+produce_8	stones	O
+produce_8	to	O
+produce_8	produce	produce_vrb
+produce_8	work	O
+produce_8	unique	O
+produce_8	in	O
+produce_8	colouration	O
+produce_8	and	O
+produce_8	tonal	O
+produce_8	values	O

@@ -1,0 +1,16 @@
+wound_36	This	O
+wound_36	gene	O
+wound_36	is	O
+wound_36	also	O
+wound_36	implicated	O
+wound_36	to	O
+wound_36	be	O
+wound_36	a	O
+wound_36	primary	O
+wound_36	factor	O
+wound_36	in	O
+wound_36	the	O
+wound_36	process	O
+wound_36	of	O
+wound_36	wound	wound_nou-vrb
+wound_36	healing	O

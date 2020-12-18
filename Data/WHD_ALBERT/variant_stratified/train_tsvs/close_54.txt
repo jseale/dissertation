@@ -1,0 +1,14 @@
+close_54	The	O
+close_54	United	O
+close_54	States	O
+close_54	and	O
+close_54	Tonga	O
+close_54	enjoy	O
+close_54	close	close_adj-nou
+close_54	cooperation	O
+close_54	on	O
+close_54	a	O
+close_54	range	O
+close_54	of	O
+close_54	international	O
+close_54	issues	O

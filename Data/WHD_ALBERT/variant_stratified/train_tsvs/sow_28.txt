@@ -1,0 +1,15 @@
+sow_28	The	O
+sow_28	album	O
+sow_28	spawned	O
+sow_28	three	O
+sow_28	more	O
+sow_28	singles	O
+sow_28	First	O
+sow_28	Met	O
+sow_28	You	O
+sow_28	Skyscrapers	O
+sow_28	and	O
+sow_28	The	O
+sow_28	Seeds	O
+sow_28	We	O
+sow_28	Sow	sow

@@ -1,0 +1,13 @@
+duplicate_54	Backup	O
+duplicate_54	application	O
+duplicate_54	in	O
+duplicate_54	particular	O
+duplicate_54	commonly	O
+duplicate_54	generate	O
+duplicate_54	significant	O
+duplicate_54	portions	O
+duplicate_54	of	O
+duplicate_54	duplicate	duplicate_adj-nou
+duplicate_54	data	O
+duplicate_54	over	O
+duplicate_54	time	O

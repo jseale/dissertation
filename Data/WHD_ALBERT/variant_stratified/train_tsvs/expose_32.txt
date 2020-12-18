@@ -1,0 +1,17 @@
+expose_32	Nicholas	O
+expose_32	becomes	O
+expose_32	even	O
+expose_32	more	O
+expose_32	determined	O
+expose_32	to	O
+expose_32	expose	expose_vrb
+expose_32	Hunter	O
+expose_32	convinced	O
+expose_32	that	O
+expose_32	he	O
+expose_32	will	O
+expose_32	win	O
+expose_32	a	O
+expose_32	Pulitzer	O
+expose_32	if	O
+expose_32	successful	O

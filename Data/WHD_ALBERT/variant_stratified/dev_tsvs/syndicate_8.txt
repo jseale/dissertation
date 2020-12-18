@@ -1,0 +1,17 @@
+syndicate_8	Infamous	O
+syndicate_8	Syndicate	syndicate_nou
+syndicate_8	was	O
+syndicate_8	an	O
+syndicate_8	American	O
+syndicate_8	hip	O
+syndicate_8	hop	O
+syndicate_8	duo	O
+syndicate_8	from	O
+syndicate_8	Chicago	O
+syndicate_8	comprising	O
+syndicate_8	the	O
+syndicate_8	female	O
+syndicate_8	rappers	O
+syndicate_8	Shawnna	O
+syndicate_8	and	O
+syndicate_8	Teefa	O

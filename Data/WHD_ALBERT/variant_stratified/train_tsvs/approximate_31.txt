@@ -1,0 +1,10 @@
+approximate_31	The	O
+approximate_31	Matigsalug	O
+approximate_31	of	O
+approximate_31	Bukidnon	O
+approximate_31	have	O
+approximate_31	an	O
+approximate_31	approximate	approximate_adj-nou
+approximate_31	population	O
+approximate_31	of	O
+approximate_31	146,500	O

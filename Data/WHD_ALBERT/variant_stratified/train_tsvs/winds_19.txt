@@ -1,0 +1,7 @@
+winds_19	High	O
+winds_19	winds	winds_nou
+winds_19	cause	O
+winds_19	power	O
+winds_19	outages	O
+winds_19	in	O
+winds_19	Wellington	O

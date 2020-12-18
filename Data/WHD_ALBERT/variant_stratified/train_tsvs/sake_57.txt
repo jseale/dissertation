@@ -1,0 +1,11 @@
+sake_57	The	O
+sake_57	coalescence	O
+sake_57	is	O
+sake_57	not	O
+sake_57	simply	O
+sake_57	for	O
+sake_57	the	O
+sake_57	sake	sake
+sake_57	of	O
+sake_57	alliterative	O
+sake_57	effect	O

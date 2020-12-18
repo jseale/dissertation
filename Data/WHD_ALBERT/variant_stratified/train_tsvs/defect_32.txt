@@ -1,0 +1,12 @@
+defect_32	This	O
+defect_32	response	O
+defect_32	is	O
+defect_32	a	O
+defect_32	relative	O
+defect_32	afferent	O
+defect_32	pupillary	O
+defect_32	defect	defect_nou
+defect_32	or	O
+defect_32	Marcus	O
+defect_32	Gunn	O
+defect_32	pupil	O

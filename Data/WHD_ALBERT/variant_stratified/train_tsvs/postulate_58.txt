@@ -1,0 +1,13 @@
+postulate_58	But	O
+postulate_58	since	O
+postulate_58	there	O
+postulate_58	are	O
+postulate_58	no	O
+postulate_58	explicit	O
+postulate_58	representation	O
+postulate_58	one	O
+postulate_58	can	O
+postulate_58	only	O
+postulate_58	postulate	postulate_vrb
+postulate_58	a	O
+postulate_58	possibility	O

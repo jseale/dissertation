@@ -1,0 +1,17 @@
+conduct_22	That	O
+conduct_22	conduct	conduct_nou
+conduct_22	should	O
+conduct_22	give	O
+conduct_22	pause	O
+conduct_22	to	O
+conduct_22	any	O
+conduct_22	financial	O
+conduct_22	institution	O
+conduct_22	or	O
+conduct_22	business	O
+conduct_22	still	O
+conduct_22	choosing	O
+conduct_22	to	O
+conduct_22	deal	O
+conduct_22	with	O
+conduct_22	Iran	O

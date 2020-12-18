@@ -1,0 +1,12 @@
+permit_48	If	O
+permit_48	needed	O
+permit_48	the	O
+permit_48	ALO	O
+permit_48	can	O
+permit_48	be	O
+permit_48	pushed	O
+permit_48	up	O
+permit_48	to	O
+permit_48	permit	permit_vrb
+permit_48	automatic	O
+permit_48	fire	O

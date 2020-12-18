@@ -1,0 +1,14 @@
+ornament_51	It	O
+ornament_51	features	O
+ornament_51	hand	O
+ornament_51	carved	O
+ornament_51	ornament	ornament_nou
+ornament_51	on	O
+ornament_51	the	O
+ornament_51	main	O
+ornament_51	cornice	O
+ornament_51	the	O
+ornament_51	porches	O
+ornament_51	and	O
+ornament_51	the	O
+ornament_51	dormer	O

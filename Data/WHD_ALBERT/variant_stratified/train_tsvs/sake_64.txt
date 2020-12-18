@@ -1,0 +1,10 @@
+sake_64	He	O
+sake_64	wants	O
+sake_64	to	O
+sake_64	be	O
+sake_64	terrible	O
+sake_64	for	O
+sake_64	the	O
+sake_64	sake	sake
+sake_64	of	O
+sake_64	freedom	O

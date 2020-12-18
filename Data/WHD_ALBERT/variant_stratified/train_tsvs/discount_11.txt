@@ -1,0 +1,14 @@
+discount_11	This	O
+discount_11	also	O
+discount_11	gives	O
+discount_11	buyers	O
+discount_11	access	O
+discount_11	to	O
+discount_11	a	O
+discount_11	variety	O
+discount_11	of	O
+discount_11	discount	discount_nou
+discount_11	schemes	O
+discount_11	offered	O
+discount_11	by	O
+discount_11	Trenitalia	O

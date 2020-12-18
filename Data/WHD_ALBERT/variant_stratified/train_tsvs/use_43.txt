@@ -1,0 +1,14 @@
+use_43	The	O
+use_43	following	O
+use_43	are	O
+use_43	a	O
+use_43	few	O
+use_43	examples	O
+use_43	selected	O
+use_43	to	O
+use_43	illustrate	O
+use_43	the	O
+use_43	variety	O
+use_43	in	O
+use_43	use	use_nou
+use_43	today	O

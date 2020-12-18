@@ -1,0 +1,11 @@
+abuses_2	They	O
+abuses_2	travel	O
+abuses_2	to	O
+abuses_2	Uruk	O
+abuses_2	to	O
+abuses_2	confront	O
+abuses_2	Gilgamesh	O
+abuses_2	and	O
+abuses_2	stop	O
+abuses_2	his	O
+abuses_2	abuses	abuses_nou

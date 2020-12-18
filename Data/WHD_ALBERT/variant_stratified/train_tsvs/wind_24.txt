@@ -1,0 +1,12 @@
+wind_24	In	O
+wind_24	November	O
+wind_24	2001	O
+wind_24	the	O
+wind_24	Wind	wind_nou
+wind_24	of	O
+wind_24	Hope	O
+wind_24	full	O
+wind_24	length	O
+wind_24	album	O
+wind_24	was	O
+wind_24	released	O

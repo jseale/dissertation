@@ -1,0 +1,13 @@
+lives_63	The	O
+lives_63	crested	O
+lives_63	eagle	O
+lives_63	lives	lives_vrb
+lives_63	in	O
+lives_63	humid	O
+lives_63	lowland	O
+lives_63	forests	O
+lives_63	mostly	O
+lives_63	comprised	O
+lives_63	by	O
+lives_63	tropical	O
+lives_63	rainforests	O

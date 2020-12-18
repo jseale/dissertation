@@ -1,0 +1,17 @@
+misuse_2	Sukanya	O
+misuse_2	Verma	O
+misuse_2	of	O
+misuse_2	Rediff.com	O
+misuse_2	appreciated	O
+misuse_2	the	O
+misuse_2	film	O
+misuse_2	for	O
+misuse_2	bringing	O
+misuse_2	attention	O
+misuse_2	to	O
+misuse_2	the	O
+misuse_2	misuse	misuse_nou
+misuse_2	and	O
+misuse_2	commercialisation	O
+misuse_2	of	O
+misuse_2	religion	O

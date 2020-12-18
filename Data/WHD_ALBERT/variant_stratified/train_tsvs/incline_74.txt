@@ -1,0 +1,15 @@
+incline_74	From	O
+incline_74	there	O
+incline_74	a	O
+incline_74	funicular	O
+incline_74	incline	incline_nou
+incline_74	goes	O
+incline_74	to	O
+incline_74	Incline	incline_nou
+incline_74	Jobu	O
+incline_74	Station	O
+incline_74	456	O
+incline_74	m	O
+incline_74	1,496	O
+incline_74	ft	O
+incline_74	above	O

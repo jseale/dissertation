@@ -1,0 +1,11 @@
+advocate_54	In	O
+advocate_54	1879	O
+advocate_54	he	O
+advocate_54	was	O
+advocate_54	admitted	O
+advocate_54	as	O
+advocate_54	an	O
+advocate_54	advocate	advocate_nou
+advocate_54	barrister	O
+advocate_54	in	O
+advocate_54	Ghent	O

@@ -1,0 +1,12 @@
+export_5	The	O
+export_5	company	O
+export_5	Hvalur	O
+export_5	H	O
+export_5	F	O
+export_5	hunts	O
+export_5	Fin	O
+export_5	whales	O
+export_5	mainly	O
+export_5	for	O
+export_5	international	O
+export_5	export	export_nou

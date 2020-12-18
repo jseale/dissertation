@@ -1,0 +1,17 @@
+tear_15	For	O
+tear_15	the	O
+tear_15	first	O
+tear_15	time	O
+tear_15	during	O
+tear_15	the	O
+tear_15	1989	O
+tear_15	Tiananmen	O
+tear_15	Protests	O
+tear_15	the	O
+tear_15	police	O
+tear_15	fired	O
+tear_15	tear	tear_nou
+tear_15	gas	O
+tear_15	to	O
+tear_15	repel	O
+tear_15	protesters	O

@@ -1,0 +1,15 @@
+discount_4	Yikatong	O
+discount_4	card	O
+discount_4	users	O
+discount_4	are	O
+discount_4	entitled	O
+discount_4	to	O
+discount_4	a	O
+discount_4	50	O
+discount_4	discount	discount_nou
+discount_4	and	O
+discount_4	students	O
+discount_4	enjoy	O
+discount_4	a	O
+discount_4	75	O
+discount_4	discount	discount_nou

@@ -1,0 +1,15 @@
+compound_53	Nowadays	O
+compound_53	it	O
+compound_53	's	O
+compound_53	largely	O
+compound_53	replaced	O
+compound_53	by	O
+compound_53	Compound	compound_nou
+compound_53	forms	O
+compound_53	tinha	O
+compound_53	amado	O
+compound_53	or	O
+compound_53	havia	O
+compound_53	amado	O
+compound_53	had	O
+compound_53	loved	O

@@ -1,0 +1,15 @@
+wound_58	Gabor	O
+wound_58	eventually	O
+wound_58	wound	wound_vrb
+wound_58	up	O
+wound_58	playing	O
+wound_58	Minerva	O
+wound_58	in	O
+wound_58	the	O
+wound_58	1968	O
+wound_58	series	O
+wound_58	Batfinale	O
+wound_58	Minerva	O
+wound_58	Mayhem	O
+wound_58	and	O
+wound_58	Millionaires	O

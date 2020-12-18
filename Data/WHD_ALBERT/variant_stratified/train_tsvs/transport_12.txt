@@ -1,0 +1,16 @@
+transport_12	Transport	transport_nou
+transport_12	in	O
+transport_12	the	O
+transport_12	parish	O
+transport_12	is	O
+transport_12	relatively	O
+transport_12	restricted	O
+transport_12	in	O
+transport_12	terms	O
+transport_12	of	O
+transport_12	heavy	O
+transport_12	vehicular	O
+transport_12	access	O
+transport_12	and	O
+transport_12	public	O
+transport_12	transport	transport_nou

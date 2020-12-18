@@ -1,0 +1,9 @@
+uses_34	For	O
+uses_34	specialty	O
+uses_34	units	O
+uses_34	FDNY	O
+uses_34	uses	uses_vrb
+uses_34	a	O
+uses_34	variety	O
+uses_34	of	O
+uses_34	manufacturers	O

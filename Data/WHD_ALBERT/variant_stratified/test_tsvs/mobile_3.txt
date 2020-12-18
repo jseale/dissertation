@@ -1,0 +1,14 @@
+mobile_3	Texture	O
+mobile_3	data	O
+mobile_3	is	O
+mobile_3	often	O
+mobile_3	the	O
+mobile_3	largest	O
+mobile_3	source	O
+mobile_3	of	O
+mobile_3	memory	O
+mobile_3	usage	O
+mobile_3	in	O
+mobile_3	a	O
+mobile_3	mobile	mobile
+mobile_3	application	O

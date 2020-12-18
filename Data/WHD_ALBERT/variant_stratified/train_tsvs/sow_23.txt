@@ -1,0 +1,17 @@
+sow_23	To	O
+sow_23	sow	sow
+sow_23	dissension	O
+sow_23	among	O
+sow_23	the	O
+sow_23	vassals	O
+sow_23	the	O
+sow_23	Aztecs	O
+sow_23	demanded	O
+sow_23	human	O
+sow_23	victims	O
+sow_23	as	O
+sow_23	part	O
+sow_23	of	O
+sow_23	the	O
+sow_23	annual	O
+sow_23	tribute	O

@@ -1,0 +1,11 @@
+live_18	The	O
+live_18	concert	O
+live_18	was	O
+live_18	also	O
+live_18	released	O
+live_18	as	O
+live_18	a	O
+live_18	live	live_adj
+live_18	VHS	O
+live_18	and	O
+live_18	DVD	O

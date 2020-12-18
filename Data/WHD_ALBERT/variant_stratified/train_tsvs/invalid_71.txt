@@ -1,0 +1,15 @@
+invalid_71	After	O
+invalid_71	suffering	O
+invalid_71	a	O
+invalid_71	stroke	O
+invalid_71	and	O
+invalid_71	the	O
+invalid_71	amputation	O
+invalid_71	of	O
+invalid_71	his	O
+invalid_71	right	O
+invalid_71	leg	O
+invalid_71	Clark	O
+invalid_71	became	O
+invalid_71	an	O
+invalid_71	invalid	invalid_nou

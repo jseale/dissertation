@@ -1,0 +1,13 @@
+minute_4	Audio	O
+minute_4	conversations	O
+minute_4	with	O
+minute_4	20-second	O
+minute_4	responses	O
+minute_4	and	O
+minute_4	a	O
+minute_4	two	O
+minute_4	minute	minute
+minute_4	presentation	O
+minute_4	complete	O
+minute_4	the	O
+minute_4	exam	O

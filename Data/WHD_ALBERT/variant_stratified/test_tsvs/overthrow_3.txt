@@ -1,0 +1,12 @@
+overthrow_3	In	O
+overthrow_3	1908	O
+overthrow_3	opponents	O
+overthrow_3	of	O
+overthrow_3	Davila	O
+overthrow_3	made	O
+overthrow_3	an	O
+overthrow_3	unsuccessful	O
+overthrow_3	attempt	O
+overthrow_3	to	O
+overthrow_3	overthrow	overthrow_vrb
+overthrow_3	him	O

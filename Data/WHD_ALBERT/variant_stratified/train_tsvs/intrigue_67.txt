@@ -1,0 +1,10 @@
+intrigue_67	During	O
+intrigue_67	these	O
+intrigue_67	years	O
+intrigue_67	Thugut	O
+intrigue_67	was	O
+intrigue_67	engaged	O
+intrigue_67	in	O
+intrigue_67	a	O
+intrigue_67	mean	O
+intrigue_67	intrigue	intrigue_nou

@@ -1,0 +1,13 @@
+affect_19	Doping	O
+affect_19	has	O
+affect_19	been	O
+affect_19	shown	O
+affect_19	to	O
+affect_19	strongly	O
+affect_19	affect	affect
+affect_19	the	O
+affect_19	optical	O
+affect_19	properties	O
+affect_19	of	O
+affect_19	semiconductor	O
+affect_19	nanocrystals	O

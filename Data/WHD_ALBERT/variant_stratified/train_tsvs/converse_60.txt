@@ -1,0 +1,12 @@
+converse_60	The	O
+converse_60	people	O
+converse_60	here	O
+converse_60	converse	converse_vrb
+converse_60	well	O
+converse_60	in	O
+converse_60	Tamil	O
+converse_60	Cantonese	O
+converse_60	Mandarin	O
+converse_60	and	O
+converse_60	Bahasa	O
+converse_60	Melayu	O

@@ -1,0 +1,17 @@
+wind_6	With	O
+wind_6	the	O
+wind_6	production	O
+wind_6	of	O
+wind_6	new	O
+wind_6	types	O
+wind_6	of	O
+wind_6	energy	O
+wind_6	including	O
+wind_6	solar	O
+wind_6	geothermal	O
+wind_6	hydro	O
+wind_6	electric	O
+wind_6	biofuel	O
+wind_6	and	O
+wind_6	wind	wind_nou
+wind_6	power	O

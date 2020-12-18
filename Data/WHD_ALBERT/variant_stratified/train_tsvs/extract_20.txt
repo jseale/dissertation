@@ -1,0 +1,8 @@
+extract_20	An	O
+extract_20	extract	extract_nou
+extract_20	from	O
+extract_20	the	O
+extract_20	advertisement	O
+extract_20	is	O
+extract_20	as	O
+extract_20	follows	O

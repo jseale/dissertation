@@ -1,0 +1,17 @@
+refund_5	New	O
+refund_5	Customers	O
+refund_5	were	O
+refund_5	offered	O
+refund_5	a	O
+refund_5	refund	refund_nou
+refund_5	for	O
+refund_5	their	O
+refund_5	devices	O
+refund_5	based	O
+refund_5	on	O
+refund_5	Karma	O
+refund_5	's	O
+refund_5	standard	O
+refund_5	45-day	O
+refund_5	return	O
+refund_5	policy	O

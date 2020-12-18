@@ -1,0 +1,13 @@
+affiliate_16	The	O
+affiliate_16	station	O
+affiliate_16	is	O
+affiliate_16	an	O
+affiliate_16	affiliate	affiliate_nou
+affiliate_16	of	O
+affiliate_16	the	O
+affiliate_16	syndicated	O
+affiliate_16	Pink	O
+affiliate_16	Floyd	O
+affiliate_16	program	O
+affiliate_16	Floydian	O
+affiliate_16	Slip	O

@@ -1,0 +1,17 @@
+discount_29	Dart	O
+discount_29	Drug	O
+discount_29	is	O
+discount_29	a	O
+discount_29	now	O
+discount_29	defunct	O
+discount_29	chain	O
+discount_29	of	O
+discount_29	discount	discount_nou
+discount_29	drug	O
+discount_29	stores	O
+discount_29	in	O
+discount_29	the	O
+discount_29	metropolitan	O
+discount_29	Washington	O
+discount_29	DC	O
+discount_29	region	O

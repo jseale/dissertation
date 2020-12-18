@@ -1,0 +1,17 @@
+aggregate_57	Twisted	O
+aggregate_57	Metal	O
+aggregate_57	III	O
+aggregate_57	received	O
+aggregate_57	generally	O
+aggregate_57	negative	O
+aggregate_57	reviews	O
+aggregate_57	from	O
+aggregate_57	critics	O
+aggregate_57	with	O
+aggregate_57	an	O
+aggregate_57	aggregate	aggregate_adj-nou
+aggregate_57	score	O
+aggregate_57	of	O
+aggregate_57	48.97	O
+aggregate_57	on	O
+aggregate_57	GameRankings	O

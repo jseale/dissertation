@@ -1,0 +1,17 @@
+rebel_34	Thomas	O
+rebel_34	was	O
+rebel_34	executed	O
+rebel_34	as	O
+rebel_34	a	O
+rebel_34	rebel	rebel_nou
+rebel_34	and	O
+rebel_34	replaced	O
+rebel_34	by	O
+rebel_34	his	O
+rebel_34	younger	O
+rebel_34	brother	O
+rebel_34	Henry	O
+rebel_34	3rd	O
+rebel_34	Earl	O
+rebel_34	of	O
+rebel_34	Lancaster	O

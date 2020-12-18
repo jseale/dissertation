@@ -1,0 +1,10 @@
+pasty_0	They	O
+pasty_0	also	O
+pasty_0	brought	O
+pasty_0	their	O
+pasty_0	recipe	O
+pasty_0	and	O
+pasty_0	appetite	O
+pasty_0	for	O
+pasty_0	the	O
+pasty_0	pasty	pasty_adj

@@ -1,0 +1,11 @@
+decrease_3	This	O
+decrease_3	hardness	O
+decrease_3	decrease	decrease_nou
+decrease_3	is	O
+decrease_3	accompanied	O
+decrease_3	by	O
+decrease_3	the	O
+decrease_3	decrease	decrease_nou
+decrease_3	in	O
+decrease_3	magnetic	O
+decrease_3	susceptibility	O

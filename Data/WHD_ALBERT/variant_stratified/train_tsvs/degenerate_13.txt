@@ -1,0 +1,15 @@
+degenerate_13	The	O
+degenerate_13	figure	O
+degenerate_13	was	O
+degenerate_13	exhibited	O
+degenerate_13	in	O
+degenerate_13	the	O
+degenerate_13	National	O
+degenerate_13	Socialism	O
+degenerate_13	as	O
+degenerate_13	degenerate	degenerate_adj-nou
+degenerate_13	and	O
+degenerate_13	was	O
+degenerate_13	probably	O
+degenerate_13	destroyed	O
+degenerate_13	latter	O

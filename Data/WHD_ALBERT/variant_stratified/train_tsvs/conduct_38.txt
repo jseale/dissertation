@@ -1,0 +1,17 @@
+conduct_38	The	O
+conduct_38	Marines	O
+conduct_38	provided	O
+conduct_38	the	O
+conduct_38	RDJTF	O
+conduct_38	the	O
+conduct_38	capability	O
+conduct_38	of	O
+conduct_38	projecting	O
+conduct_38	sea	O
+conduct_38	power	O
+conduct_38	ashore	O
+conduct_38	and	O
+conduct_38	then	O
+conduct_38	conduct	conduct_vrb
+conduct_38	land	O
+conduct_38	operations	O

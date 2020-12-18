@@ -1,0 +1,9 @@
+impact_15	Only	O
+impact_15	a	O
+impact_15	large	O
+impact_15	impact	impact_nou
+impact_15	could	O
+impact_15	have	O
+impact_15	generated	O
+impact_15	such	O
+impact_15	conditions	O

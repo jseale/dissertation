@@ -1,0 +1,16 @@
+wind_11	Reith	O
+wind_11	wrote	O
+wind_11	two	O
+wind_11	volumes	O
+wind_11	of	O
+wind_11	autobiography	O
+wind_11	Into	O
+wind_11	The	O
+wind_11	Wind	wind_nou
+wind_11	in	O
+wind_11	1956	O
+wind_11	and	O
+wind_11	Wearing	O
+wind_11	Spurs	O
+wind_11	in	O
+wind_11	1966	O

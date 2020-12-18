@@ -1,0 +1,15 @@
+correlate_36	Pequigney	O
+correlate_36	states	O
+correlate_36	that	O
+correlate_36	the	O
+correlate_36	sonnet	O
+correlate_36	correlate	correlate_nou-vrb
+correlate_36	economic	O
+correlate_36	and	O
+correlate_36	carnal	O
+correlate_36	operations	O
+correlate_36	and	O
+correlate_36	it	O
+correlate_36	abounds	O
+correlate_36	in	O
+correlate_36	inconsistencies	O

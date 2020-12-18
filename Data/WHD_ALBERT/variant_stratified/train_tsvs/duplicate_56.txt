@@ -1,0 +1,17 @@
+duplicate_56	This	O
+duplicate_56	is	O
+duplicate_56	a	O
+duplicate_56	procedure	O
+duplicate_56	at	O
+duplicate_56	the	O
+duplicate_56	end	O
+duplicate_56	of	O
+duplicate_56	each	O
+duplicate_56	generation	O
+duplicate_56	that	O
+duplicate_56	replaces	O
+duplicate_56	duplicate	duplicate_adj-nou
+duplicate_56	individuals	O
+duplicate_56	in	O
+duplicate_56	the	O
+duplicate_56	population	O

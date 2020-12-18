@@ -1,0 +1,14 @@
+frequent_6	First	O
+frequent_6	TransPennine	O
+frequent_6	Express	O
+frequent_6	operate	O
+frequent_6	a	O
+frequent_6	frequent	frequent_adj
+frequent_6	service	O
+frequent_6	between	O
+frequent_6	Manchester	O
+frequent_6	Airport	O
+frequent_6	and	O
+frequent_6	Glasgow	O
+frequent_6	and	O
+frequent_6	Edinburgh	O

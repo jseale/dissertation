@@ -1,0 +1,17 @@
+abuses_4	Various	O
+abuses_4	objections	O
+abuses_4	to	O
+abuses_4	the	O
+abuses_4	witch	O
+abuses_4	hunts	O
+abuses_4	were	O
+abuses_4	raised	O
+abuses_4	on	O
+abuses_4	the	O
+abuses_4	basis	O
+abuses_4	of	O
+abuses_4	their	O
+abuses_4	abuses	abuses_nou
+abuses_4	of	O
+abuses_4	the	O
+abuses_4	law	O

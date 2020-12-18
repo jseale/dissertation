@@ -1,0 +1,12 @@
+lead_11	Lead	lead_nou
+lead_11	is	O
+lead_11	soft	O
+lead_11	and	O
+lead_11	malleable	O
+lead_11	and	O
+lead_11	has	O
+lead_11	a	O
+lead_11	relatively	O
+lead_11	low	O
+lead_11	melting	O
+lead_11	point	O

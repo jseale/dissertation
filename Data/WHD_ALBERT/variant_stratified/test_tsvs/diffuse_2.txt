@@ -1,0 +1,12 @@
+diffuse_2	Venter	O
+diffuse_2	cream	O
+diffuse_2	with	O
+diffuse_2	two	O
+diffuse_2	distinct	O
+diffuse_2	rows	O
+diffuse_2	of	O
+diffuse_2	large	O
+diffuse_2	diffuse	diffuse_adj
+diffuse_2	dark	O
+diffuse_2	gray	O
+diffuse_2	spots	O

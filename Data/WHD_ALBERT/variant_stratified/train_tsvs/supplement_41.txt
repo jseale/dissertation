@@ -1,0 +1,11 @@
+supplement_41	Punctuation	O
+supplement_41	marks	O
+supplement_41	are	O
+supplement_41	to	O
+supplement_41	be	O
+supplement_41	used	O
+supplement_41	as	O
+supplement_41	shown	O
+supplement_41	in	O
+supplement_41	supplement	supplement_nou
+supplement_41	two	O

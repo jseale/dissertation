@@ -1,0 +1,9 @@
+confines_77	Jarvis	O
+confines_77	confines	confines_vrb
+confines_77	Jamie	O
+confines_77	and	O
+confines_77	the	O
+confines_77	Doctor	O
+confines_77	to	O
+confines_77	the	O
+confines_77	sickbay	O

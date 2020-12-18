@@ -1,0 +1,15 @@
+implement_5	ScaleBase	O
+implement_5	was	O
+implement_5	a	O
+implement_5	company	O
+implement_5	that	O
+implement_5	sold	O
+implement_5	software	O
+implement_5	to	O
+implement_5	implement	implement_vrb
+implement_5	distributed	O
+implement_5	MySQL	O
+implement_5	databases	O
+implement_5	for	O
+implement_5	cloud	O
+implement_5	computing	O

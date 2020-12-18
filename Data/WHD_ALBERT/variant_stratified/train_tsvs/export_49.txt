@@ -1,0 +1,17 @@
+export_49	He	O
+export_49	emigrated	O
+export_49	to	O
+export_49	the	O
+export_49	US	O
+export_49	in	O
+export_49	1970	O
+export_49	and	O
+export_49	ran	O
+export_49	an	O
+export_49	export	export_nou
+export_49	business	O
+export_49	selling	O
+export_49	golf	O
+export_49	balls	O
+export_49	to	O
+export_49	Japan	O

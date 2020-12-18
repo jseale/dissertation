@@ -1,0 +1,15 @@
+invite_40	Bushnell	O
+invite_40	would	O
+invite_40	invite	invite_vrb
+invite_40	Kelly	O
+invite_40	and	O
+invite_40	Wood	O
+invite_40	over	O
+invite_40	for	O
+invite_40	dinner	O
+invite_40	with	O
+invite_40	his	O
+invite_40	guests	O
+invite_40	bringing	O
+invite_40	the	O
+invite_40	food	O

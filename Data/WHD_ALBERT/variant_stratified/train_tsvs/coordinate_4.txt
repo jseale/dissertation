@@ -1,0 +1,14 @@
+coordinate_4	The	O
+coordinate_4	RB-1	O
+coordinate_4	was	O
+coordinate_4	the	O
+coordinate_4	forerunner	O
+coordinate_4	of	O
+coordinate_4	modern	O
+coordinate_4	machine	O
+coordinate_4	vision	O
+coordinate_4	based	O
+coordinate_4	Coordinate	coordinate_adj-nou
+coordinate_4	measuring	O
+coordinate_4	machines	O
+coordinate_4	CMMs	O

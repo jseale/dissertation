@@ -1,0 +1,11 @@
+degenerate_45	These	O
+degenerate_45	states	O
+degenerate_45	are	O
+degenerate_45	degenerate	degenerate_adj-nou
+degenerate_45	that	O
+degenerate_45	is	O
+degenerate_45	they	O
+degenerate_45	have	O
+degenerate_45	the	O
+degenerate_45	same	O
+degenerate_45	energy	O

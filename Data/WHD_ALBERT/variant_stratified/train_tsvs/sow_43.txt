@@ -1,0 +1,11 @@
+sow_43	Do	O
+sow_43	n't	O
+sow_43	till	O
+sow_43	by	O
+sow_43	that	O
+sow_43	river	O
+sow_43	or	O
+sow_43	sow	sow
+sow_43	there	O
+sow_43	Deuteronomy	O
+sow_43	21:4	O

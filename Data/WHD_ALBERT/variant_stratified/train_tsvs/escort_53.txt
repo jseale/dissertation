@@ -1,0 +1,17 @@
+escort_53	Aguni	O
+escort_53	was	O
+escort_53	an	O
+escort_53	Ukuru	O
+escort_53	class	O
+escort_53	escort	escort_nou
+escort_53	ship	O
+escort_53	of	O
+escort_53	the	O
+escort_53	Imperial	O
+escort_53	Japanese	O
+escort_53	Navy	O
+escort_53	during	O
+escort_53	the	O
+escort_53	Second	O
+escort_53	World	O
+escort_53	War	O

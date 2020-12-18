@@ -1,0 +1,15 @@
+attribute_3	The	O
+attribute_3	issue	O
+attribute_3	is	O
+attribute_3	how	O
+attribute_3	to	O
+attribute_3	account	O
+attribute_3	for	O
+attribute_3	this	O
+attribute_3	sort	O
+attribute_3	of	O
+attribute_3	agreement	O
+attribute_3	in	O
+attribute_3	attribute	attribute_nou
+attribute_3	among	O
+attribute_3	things	O

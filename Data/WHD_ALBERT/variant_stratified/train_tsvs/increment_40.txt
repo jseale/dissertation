@@ -1,0 +1,15 @@
+increment_40	However	O
+increment_40	in	O
+increment_40	practice	O
+increment_40	buyers	O
+increment_40	increase	O
+increment_40	the	O
+increment_40	displayed	O
+increment_40	price	O
+increment_40	much	O
+increment_40	more	O
+increment_40	than	O
+increment_40	the	O
+increment_40	minimal	O
+increment_40	allowed	O
+increment_40	increment	increment_nou

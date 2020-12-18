@@ -1,0 +1,17 @@
+alternate_51	Nie	O
+alternate_51	was	O
+alternate_51	made	O
+alternate_51	an	O
+alternate_51	alternate	alternate_adj-nou
+alternate_51	member	O
+alternate_51	of	O
+alternate_51	the	O
+alternate_51	9th	O
+alternate_51	Central	O
+alternate_51	Committee	O
+alternate_51	of	O
+alternate_51	the	O
+alternate_51	Communist	O
+alternate_51	Party	O
+alternate_51	of	O
+alternate_51	China	O

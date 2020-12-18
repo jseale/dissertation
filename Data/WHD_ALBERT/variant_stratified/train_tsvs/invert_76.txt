@@ -1,0 +1,15 @@
+invert_76	The	O
+invert_76	proof	O
+invert_76	roughly	O
+invert_76	goes	O
+invert_76	as	O
+invert_76	below	O
+invert_76	Invert	invert_vrb
+invert_76	with	O
+invert_76	respect	O
+invert_76	to	O
+invert_76	the	O
+invert_76	incircle	O
+invert_76	of	O
+invert_76	triangle	O
+invert_76	ABC	O

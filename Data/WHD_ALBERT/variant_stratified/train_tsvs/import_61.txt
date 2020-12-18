@@ -1,0 +1,16 @@
+import_61	Iran	O
+import_61	was	O
+import_61	among	O
+import_61	the	O
+import_61	earliest	O
+import_61	countries	O
+import_61	to	O
+import_61	import	import_vrb
+import_61	the	O
+import_61	TOW	O
+import_61	missile	O
+import_61	as	O
+import_61	far	O
+import_61	back	O
+import_61	as	O
+import_61	1971	O

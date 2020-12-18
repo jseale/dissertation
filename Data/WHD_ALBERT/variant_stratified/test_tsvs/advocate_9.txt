@@ -1,0 +1,14 @@
+advocate_9	But	O
+advocate_9	the	O
+advocate_9	institute	O
+advocate_9	does	O
+advocate_9	not	O
+advocate_9	specifically	O
+advocate_9	advocate	advocate_vrb
+advocate_9	potential	O
+advocate_9	solutions	O
+advocate_9	to	O
+advocate_9	public	O
+advocate_9	problems	O
+advocate_9	Climer	O
+advocate_9	added	O

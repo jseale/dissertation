@@ -1,0 +1,17 @@
+aged_5	He	O
+aged_5	was	O
+aged_5	ordained	O
+aged_5	deacon	O
+aged_5	by	O
+aged_5	William	O
+aged_5	Nicholson	O
+aged_5	the	O
+aged_5	Bishop	O
+aged_5	of	O
+aged_5	Gloucester	O
+aged_5	on	O
+aged_5	22	O
+aged_5	September	O
+aged_5	1667	O
+aged_5	aged	aged
+aged_5	20	O

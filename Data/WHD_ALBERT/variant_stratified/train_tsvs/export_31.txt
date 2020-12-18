@@ -1,0 +1,14 @@
+export_31	There	O
+export_31	was	O
+export_31	an	O
+export_31	unsuccessful	O
+export_31	effort	O
+export_31	to	O
+export_31	resume	O
+export_31	export	export_nou
+export_31	in	O
+export_31	2010	O
+export_31	limited	O
+export_31	to	O
+export_31	150	O
+export_31	kg	O

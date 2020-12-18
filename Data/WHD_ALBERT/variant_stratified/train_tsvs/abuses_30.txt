@@ -1,0 +1,15 @@
+abuses_30	The	O
+abuses_30	Wolf	O
+abuses_30	Brigade	O
+abuses_30	become	O
+abuses_30	closely	O
+abuses_30	and	O
+abuses_30	publicly	O
+abuses_30	associated	O
+abuses_30	with	O
+abuses_30	detainee	O
+abuses_30	and	O
+abuses_30	other	O
+abuses_30	human	O
+abuses_30	rights	O
+abuses_30	abuses	abuses_nou

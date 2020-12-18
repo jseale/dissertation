@@ -1,0 +1,14 @@
+extract_24	Unilever	O
+extract_24	now	O
+extract_24	produces	O
+extract_24	Bovril	O
+extract_24	using	O
+extract_24	beef	O
+extract_24	extract	extract_nou
+extract_24	and	O
+extract_24	a	O
+extract_24	chicken	O
+extract_24	variety	O
+extract_24	using	O
+extract_24	chicken	O
+extract_24	extract	extract_nou

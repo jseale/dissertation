@@ -1,0 +1,14 @@
+present_63	The	O
+present_63	Romans	O
+present_63	built	O
+present_63	a	O
+present_63	major	O
+present_63	settlement	O
+present_63	called	O
+present_63	Vindonissa	O
+present_63	near	O
+present_63	the	O
+present_63	present	present_adj-nou
+present_63	location	O
+present_63	of	O
+present_63	Brugg	O

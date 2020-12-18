@@ -1,0 +1,15 @@
+read_13	While	O
+read_13	in	O
+read_13	Brussels	O
+read_13	he	O
+read_13	read	read_past
+read_13	a	O
+read_13	paper	O
+read_13	on	O
+read_13	lead	O
+read_13	poisoning	O
+read_13	at	O
+read_13	a	O
+read_13	World	O
+read_13	Medical	O
+read_13	Conference	O

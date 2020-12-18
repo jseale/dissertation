@@ -1,0 +1,15 @@
+articulate_59	Havard	O
+articulate_59	used	O
+articulate_59	songwriting	O
+articulate_59	as	O
+articulate_59	a	O
+articulate_59	tool	O
+articulate_59	throughout	O
+articulate_59	the	O
+articulate_59	writing	O
+articulate_59	process	O
+articulate_59	to	O
+articulate_59	help	O
+articulate_59	articulate	articulate_vrb
+articulate_59	key	O
+articulate_59	scenes	O

@@ -1,0 +1,12 @@
+increase_0	In	O
+increase_0	chess	O
+increase_0	engines	O
+increase_0	NegaScout	O
+increase_0	has	O
+increase_0	typically	O
+increase_0	given	O
+increase_0	a	O
+increase_0	10	O
+increase_0	percent	O
+increase_0	performance	O
+increase_0	increase	increase_nou

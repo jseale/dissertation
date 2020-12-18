@@ -1,0 +1,17 @@
+convict_67	The	O
+convict_67	Albany	O
+convict_67	Convict	convict_nou
+convict_67	Gaol	O
+convict_67	was	O
+convict_67	established	O
+convict_67	in	O
+convict_67	1852	O
+convict_67	for	O
+convict_67	imperial	O
+convict_67	convicts	O
+convict_67	transported	O
+convict_67	to	O
+convict_67	Albany	O
+convict_67	as	O
+convict_67	skilled	O
+convict_67	labourers	O

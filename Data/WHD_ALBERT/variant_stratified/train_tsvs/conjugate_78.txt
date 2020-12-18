@@ -1,0 +1,10 @@
+conjugate_78	Consonant	O
+conjugate_78	stem	O
+conjugate_78	verbs	O
+conjugate_78	conjugate	conjugate_vrb
+conjugate_78	differently	O
+conjugate_78	from	O
+conjugate_78	the	O
+conjugate_78	vowel	O
+conjugate_78	stem	O
+conjugate_78	verbs	O

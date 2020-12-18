@@ -1,0 +1,15 @@
+rodeo_45	The	O
+rodeo_45	city	O
+rodeo_45	is	O
+rodeo_45	known	O
+rodeo_45	for	O
+rodeo_45	its	O
+rodeo_45	annual	O
+rodeo_45	Rodeo	rodeo
+rodeo_45	and	O
+rodeo_45	Mardi	O
+rodeo_45	Gras	O
+rodeo_45	street	O
+rodeo_45	parade	O
+rodeo_45	every	O
+rodeo_45	August	O

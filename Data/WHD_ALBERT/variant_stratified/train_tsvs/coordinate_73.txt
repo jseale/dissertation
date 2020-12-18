@@ -1,0 +1,11 @@
+coordinate_73	The	O
+coordinate_73	school	O
+coordinate_73	continues	O
+coordinate_73	to	O
+coordinate_73	coordinate	coordinate_vrb
+coordinate_73	with	O
+coordinate_73	Leicester	O
+coordinate_73	City	O
+coordinate_73	Council	O
+coordinate_73	for	O
+coordinate_73	admissions	O

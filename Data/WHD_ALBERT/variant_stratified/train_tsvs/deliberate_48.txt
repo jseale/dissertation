@@ -1,0 +1,7 @@
+deliberate_48	Another	O
+deliberate_48	policy	O
+deliberate_48	was	O
+deliberate_48	one	O
+deliberate_48	of	O
+deliberate_48	deliberate	deliberate_adj
+deliberate_48	humiliation	O

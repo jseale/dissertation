@@ -1,0 +1,12 @@
+defect_7	The	O
+defect_7	defect	defect_nou
+defect_7	must	O
+defect_7	substantially	O
+defect_7	hinder	O
+defect_7	the	O
+defect_7	vehicle	O
+defect_7	's	O
+defect_7	use	O
+defect_7	value	O
+defect_7	or	O
+defect_7	safety	O

@@ -1,0 +1,16 @@
+close_17	This	O
+close_17	shows	O
+close_17	that	O
+close_17	until	O
+close_17	the	O
+close_17	6th	O
+close_17	century	O
+close_17	these	O
+close_17	Christians	O
+close_17	had	O
+close_17	been	O
+close_17	in	O
+close_17	close	close_adj-nou
+close_17	contact	O
+close_17	with	O
+close_17	Alexandria	O

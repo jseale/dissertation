@@ -1,0 +1,10 @@
+sow_71	Soo	O
+sow_71	is	O
+sow_71	the	O
+sow_71	local	O
+sow_71	derivative	O
+sow_71	for	O
+sow_71	a	O
+sow_71	sow	sow_nou
+sow_71	or	O
+sow_71	pig	O

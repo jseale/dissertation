@@ -1,0 +1,11 @@
+alternate_1	Mulholland	O
+alternate_1	continued	O
+alternate_1	to	O
+alternate_1	perform	O
+alternate_1	as	O
+alternate_1	the	O
+alternate_1	alternate	alternate_adj-nou
+alternate_1	until	O
+alternate_1	20	O
+alternate_1	August	O
+alternate_1	2008	O

@@ -1,0 +1,17 @@
+abuse_68	Child	O
+abuse_68	abuse	abuse_nou
+abuse_68	was	O
+abuse_68	a	O
+abuse_68	problem	O
+abuse_68	and	O
+abuse_68	the	O
+abuse_68	government	O
+abuse_68	continued	O
+abuse_68	its	O
+abuse_68	efforts	O
+abuse_68	to	O
+abuse_68	monitor	O
+abuse_68	abuse	abuse_nou
+abuse_68	and	O
+abuse_68	prosecute	O
+abuse_68	offenders	O

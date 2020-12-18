@@ -1,0 +1,13 @@
+subordinate_50	The	O
+subordinate_50	Federal	O
+subordinate_50	Agency	O
+subordinate_50	for	O
+subordinate_50	Special	O
+subordinate_50	Construction	O
+subordinate_50	is	O
+subordinate_50	subordinate	subordinate_adj-nou
+subordinate_50	to	O
+subordinate_50	the	O
+subordinate_50	Ministry	O
+subordinate_50	of	O
+subordinate_50	Defence	O

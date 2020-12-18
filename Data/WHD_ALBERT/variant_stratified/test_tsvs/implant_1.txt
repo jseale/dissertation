@@ -1,0 +1,17 @@
+implant_1	It	O
+implant_1	seems	O
+implant_1	to	O
+implant_1	the	O
+implant_1	narrator	O
+implant_1	that	O
+implant_1	his	O
+implant_1	French	O
+implant_1	implant	implant_nou
+implant_1	has	O
+implant_1	made	O
+implant_1	him	O
+implant_1	an	O
+implant_1	outcast	O
+implant_1	even	O
+implant_1	among	O
+implant_1	women	O

@@ -1,0 +1,15 @@
+perfect_16	Emotive	O
+perfect_16	stylized	O
+perfect_16	as	O
+perfect_16	eMOTIVe	O
+perfect_16	is	O
+perfect_16	the	O
+perfect_16	third	O
+perfect_16	album	O
+perfect_16	by	O
+perfect_16	American	O
+perfect_16	rock	O
+perfect_16	supergroup	O
+perfect_16	A	O
+perfect_16	Perfect	perfect_adj
+perfect_16	Circle	O

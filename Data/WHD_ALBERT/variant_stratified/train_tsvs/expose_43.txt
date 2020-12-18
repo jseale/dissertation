@@ -1,0 +1,15 @@
+expose_43	The	O
+expose_43	radioactive	O
+expose_43	second	O
+expose_43	dimension	O
+expose_43	gel	O
+expose_43	is	O
+expose_43	then	O
+expose_43	allowed	O
+expose_43	to	O
+expose_43	expose	expose_vrb
+expose_43	a	O
+expose_43	large	O
+expose_43	sheet	O
+expose_43	of	O
+expose_43	film	O

@@ -1,0 +1,12 @@
+converse_27	Every	O
+converse_27	differential	O
+converse_27	surface	O
+converse_27	is	O
+converse_27	a	O
+converse_27	topological	O
+converse_27	surface	O
+converse_27	but	O
+converse_27	the	O
+converse_27	converse	converse_adj-nou
+converse_27	is	O
+converse_27	false	O

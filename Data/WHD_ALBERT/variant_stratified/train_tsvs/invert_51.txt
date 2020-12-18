@@ -1,0 +1,17 @@
+invert_51	Some	O
+invert_51	electronic	O
+invert_51	musical	O
+invert_51	instruments	O
+invert_51	can	O
+invert_51	invert	invert_vrb
+invert_51	the	O
+invert_51	ADSR	O
+invert_51	envelope	O
+invert_51	reversing	O
+invert_51	the	O
+invert_51	behavior	O
+invert_51	of	O
+invert_51	the	O
+invert_51	normal	O
+invert_51	ADSR	O
+invert_51	envelope	O

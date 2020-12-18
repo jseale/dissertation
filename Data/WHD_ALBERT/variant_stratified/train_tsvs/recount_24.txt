@@ -1,0 +1,10 @@
+recount_24	Bennett	O
+recount_24	was	O
+recount_24	subsequently	O
+recount_24	declared	O
+recount_24	the	O
+recount_24	winner	O
+recount_24	after	O
+recount_24	a	O
+recount_24	judicial	O
+recount_24	recount	recount_nou

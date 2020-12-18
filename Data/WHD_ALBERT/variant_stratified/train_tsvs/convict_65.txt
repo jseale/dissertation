@@ -1,0 +1,14 @@
+convict_65	However	O
+convict_65	the	O
+convict_65	eldest	O
+convict_65	Gipsy	O
+convict_65	a	O
+convict_65	convict	convict_nou
+convict_65	judged	O
+convict_65	safer	O
+convict_65	to	O
+convict_65	bring	O
+convict_65	Strachey	O
+convict_65	to	O
+convict_65	the	O
+convict_65	mayor	O

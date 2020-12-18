@@ -1,0 +1,12 @@
+discount_5	This	O
+discount_5	article	O
+discount_5	covers	O
+discount_5	the	O
+discount_5	history	O
+discount_5	of	O
+discount_5	Target	O
+discount_5	Corporation	O
+discount_5	a	O
+discount_5	discount	discount_nou
+discount_5	retail	O
+discount_5	chain	O

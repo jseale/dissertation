@@ -1,0 +1,14 @@
+protest_25	Dazhou	O
+protest_25	's	O
+protest_25	Dazhu	O
+protest_25	County	O
+protest_25	was	O
+protest_25	the	O
+protest_25	site	O
+protest_25	of	O
+protest_25	a	O
+protest_25	mass	O
+protest_25	protest	protest_nou
+protest_25	in	O
+protest_25	January	O
+protest_25	2007	O

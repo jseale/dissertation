@@ -1,0 +1,15 @@
+fragment_48	The	O
+fragment_48	only	O
+fragment_48	fragment	fragment_nou
+fragment_48	of	O
+fragment_48	Sappho	O
+fragment_48	to	O
+fragment_48	explicitly	O
+fragment_48	refer	O
+fragment_48	to	O
+fragment_48	female	O
+fragment_48	homosexual	O
+fragment_48	activity	O
+fragment_48	is	O
+fragment_48	Sappho	O
+fragment_48	94	O

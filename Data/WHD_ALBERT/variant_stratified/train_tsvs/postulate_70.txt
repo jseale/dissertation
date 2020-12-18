@@ -1,0 +1,10 @@
+postulate_70	Bekenstein	O
+postulate_70	was	O
+postulate_70	the	O
+postulate_70	first	O
+postulate_70	physicist	O
+postulate_70	to	O
+postulate_70	postulate	postulate_vrb
+postulate_70	such	O
+postulate_70	a	O
+postulate_70	theorem	O

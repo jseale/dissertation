@@ -1,0 +1,17 @@
+postulate_76	Thus	O
+postulate_76	we	O
+postulate_76	can	O
+postulate_76	postulate	postulate_vrb
+postulate_76	that	O
+postulate_76	the	O
+postulate_76	trichothecene	O
+postulate_76	mycotoxins	O
+postulate_76	have	O
+postulate_76	molecular	O
+postulate_76	capability	O
+postulate_76	of	O
+postulate_76	direct	O
+postulate_76	reaction	O
+postulate_76	with	O
+postulate_76	cellular	O
+postulate_76	components	O

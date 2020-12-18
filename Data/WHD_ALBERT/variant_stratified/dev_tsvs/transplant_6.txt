@@ -1,0 +1,15 @@
+transplant_6	In	O
+transplant_6	2004	O
+transplant_6	Parry	O
+transplant_6	was	O
+transplant_6	diagnosed	O
+transplant_6	with	O
+transplant_6	advanced	O
+transplant_6	dilated	O
+transplant_6	cardiomyopathy	O
+transplant_6	and	O
+transplant_6	placed	O
+transplant_6	on	O
+transplant_6	the	O
+transplant_6	transplant	transplant_nou
+transplant_6	list	O

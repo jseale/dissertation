@@ -1,0 +1,9 @@
+buffet_7	In	O
+buffet_7	1898	O
+buffet_7	Armstrong	O
+buffet_7	open	O
+buffet_7	a	O
+buffet_7	buffet	buffet_nou
+buffet_7	in	O
+buffet_7	Kaukauna	O
+buffet_7	Wisconsin	O

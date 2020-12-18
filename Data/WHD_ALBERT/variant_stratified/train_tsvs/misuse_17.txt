@@ -1,0 +1,16 @@
+misuse_17	The	O
+misuse_17	officer	O
+misuse_17	says	O
+misuse_17	he	O
+misuse_17	wanted	O
+misuse_17	them	O
+misuse_17	to	O
+misuse_17	learn	O
+misuse_17	a	O
+misuse_17	lesson	O
+misuse_17	about	O
+misuse_17	the	O
+misuse_17	misuse	misuse_nou
+misuse_17	of	O
+misuse_17	prop	O
+misuse_17	guns	O

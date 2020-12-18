@@ -1,0 +1,16 @@
+isolate_62	The	O
+isolate_62	Isolate	isolate_nou
+isolate_62	grid	O
+isolate_62	must	O
+isolate_62	be	O
+isolate_62	partitioned	O
+isolate_62	into	O
+isolate_62	areas	O
+isolate_62	so	O
+isolate_62	that	O
+isolate_62	each	O
+isolate_62	area	O
+isolate_62	contains	O
+isolate_62	two	O
+isolate_62	dotted	O
+isolate_62	squares	O

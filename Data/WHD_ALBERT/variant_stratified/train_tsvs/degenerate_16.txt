@@ -1,0 +1,13 @@
+degenerate_16	The	O
+degenerate_16	Nazi	O
+degenerate_16	Ministry	O
+degenerate_16	of	O
+degenerate_16	Propaganda	O
+degenerate_16	has	O
+degenerate_16	planned	O
+degenerate_16	an	O
+degenerate_16	exhibition	O
+degenerate_16	to	O
+degenerate_16	burn	O
+degenerate_16	degenerate	degenerate_adj-nou
+degenerate_16	art	O

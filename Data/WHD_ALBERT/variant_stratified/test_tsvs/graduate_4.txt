@@ -1,0 +1,11 @@
+graduate_4	He	O
+graduate_4	is	O
+graduate_4	a	O
+graduate_4	graduate	graduate_adj-nou
+graduate_4	of	O
+graduate_4	St	O
+graduate_4	Joseph	O
+graduate_4	's	O
+graduate_4	College	O
+graduate_4	in	O
+graduate_4	Nainital	O

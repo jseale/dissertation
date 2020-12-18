@@ -1,0 +1,16 @@
+discount_62	Members	O
+discount_62	receive	O
+discount_62	a	O
+discount_62	30	O
+discount_62	discount	discount_nou
+discount_62	on	O
+discount_62	fees	O
+discount_62	for	O
+discount_62	the	O
+discount_62	International	O
+discount_62	Wittgenstein	O
+discount_62	Symposium	O
+discount_62	and	O
+discount_62	for	O
+discount_62	ALWS	O
+discount_62	publications	O

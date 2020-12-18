@@ -1,0 +1,12 @@
+axes_3	The	O
+axes_3	diagnostic	O
+axes_3	characters	O
+axes_3	are	O
+axes_3	naked	O
+axes_3	axes	axes_nou
+axes_3	branching	O
+axes_3	isotomously	O
+axes_3	terminating	O
+axes_3	in	O
+axes_3	fusiform	O
+axes_3	sporangia	O

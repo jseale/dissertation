@@ -1,0 +1,9 @@
+perfume_37	The	O
+perfume_37	Nuvo	O
+perfume_37	bottle	O
+perfume_37	looks	O
+perfume_37	like	O
+perfume_37	a	O
+perfume_37	large	O
+perfume_37	perfume	perfume_nou
+perfume_37	bottle	O

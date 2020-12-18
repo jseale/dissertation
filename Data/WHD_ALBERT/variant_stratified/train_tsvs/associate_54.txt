@@ -1,0 +1,15 @@
+associate_54	The	O
+associate_54	opinion	O
+associate_54	was	O
+associate_54	authored	O
+associate_54	by	O
+associate_54	Associate	associate_adj-nou
+associate_54	Justice	O
+associate_54	of	O
+associate_54	the	O
+associate_54	U.S.	O
+associate_54	Supreme	O
+associate_54	Court	O
+associate_54	Noah	O
+associate_54	Haynes	O
+associate_54	Swayne	O

@@ -1,0 +1,17 @@
+axes_32	Accelerometer	O
+axes_32	measures	O
+axes_32	acceleration	O
+axes_32	along	O
+axes_32	X	O
+axes_32	Y	O
+axes_32	Z	O
+axes_32	axes	axes_nou
+axes_32	of	O
+axes_32	the	O
+axes_32	body	O
+axes_32	part	O
+axes_32	to	O
+axes_32	which	O
+axes_32	it	O
+axes_32	is	O
+axes_32	affixed	O

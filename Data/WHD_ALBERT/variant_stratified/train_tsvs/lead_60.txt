@@ -1,0 +1,15 @@
+lead_60	The	O
+lead_60	film	O
+lead_60	starred	O
+lead_60	Shivrajkumar	O
+lead_60	and	O
+lead_60	Sudha	O
+lead_60	Rani	O
+lead_60	in	O
+lead_60	lead	lead_nou-vrb
+lead_60	roles	O
+lead_60	with	O
+lead_60	both	O
+lead_60	making	O
+lead_60	their	O
+lead_60	debuts	O

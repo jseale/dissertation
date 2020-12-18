@@ -1,0 +1,12 @@
+fragment_4	The	O
+fragment_4	fragment	fragment_nou
+fragment_4	was	O
+fragment_4	discovered	O
+fragment_4	by	O
+fragment_4	Grenfell	O
+fragment_4	and	O
+fragment_4	Hunt	O
+fragment_4	in	O
+fragment_4	1897	O
+fragment_4	in	O
+fragment_4	Oxyrhynchus	O

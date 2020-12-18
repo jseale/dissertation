@@ -1,0 +1,17 @@
+syndicate_25	At	O
+syndicate_25	the	O
+syndicate_25	time	O
+syndicate_25	of	O
+syndicate_25	its	O
+syndicate_25	establishment	O
+syndicate_25	the	O
+syndicate_25	bank	O
+syndicate_25	was	O
+syndicate_25	known	O
+syndicate_25	as	O
+syndicate_25	Canara	O
+syndicate_25	Industrial	O
+syndicate_25	and	O
+syndicate_25	Banking	O
+syndicate_25	Syndicate	syndicate_nou
+syndicate_25	Limited	O

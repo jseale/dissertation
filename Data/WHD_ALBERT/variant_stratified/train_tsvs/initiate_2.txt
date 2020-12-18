@@ -1,0 +1,17 @@
+initiate_2	The	O
+initiate_2	Eudiaque	O
+initiate_2	Order	O
+initiate_2	an	O
+initiate_2	initiate	initiate_nou
+initiate_2	spiritual	O
+initiate_2	society	O
+initiate_2	where	O
+initiate_2	the	O
+initiate_2	main	O
+initiate_2	objective	O
+initiate_2	consisted	O
+initiate_2	in	O
+initiate_2	magnifying	O
+initiate_2	the	O
+initiate_2	human	O
+initiate_2	person	O

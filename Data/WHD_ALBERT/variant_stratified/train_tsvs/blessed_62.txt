@@ -1,0 +1,15 @@
+blessed_62	Peru	O
+blessed_62	is	O
+blessed_62	both	O
+blessed_62	afflicted	O
+blessed_62	and	O
+blessed_62	blessed	blessed_vrb
+blessed_62	by	O
+blessed_62	a	O
+blessed_62	peculiar	O
+blessed_62	climate	O
+blessed_62	due	O
+blessed_62	to	O
+blessed_62	the	O
+blessed_62	Humboldt	O
+blessed_62	Current	O

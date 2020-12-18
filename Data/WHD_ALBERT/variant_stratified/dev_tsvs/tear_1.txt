@@ -1,0 +1,11 @@
+tear_1	They	O
+tear_1	were	O
+tear_1	dispersed	O
+tear_1	by	O
+tear_1	police	O
+tear_1	firing	O
+tear_1	tear	tear_nou
+tear_1	gas	O
+tear_1	and	O
+tear_1	rubber	O
+tear_1	bullets	O

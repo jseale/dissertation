@@ -1,0 +1,13 @@
+discard_49	Condon	O
+discard_49	should	O
+discard_49	discard	discard_vrb
+discard_49	the	O
+discard_49	rest	O
+discard_49	of	O
+discard_49	the	O
+discard_49	book	O
+discard_49	and	O
+discard_49	rebuild	O
+discard_49	on	O
+discard_49	this	O
+discard_49	foundation	O

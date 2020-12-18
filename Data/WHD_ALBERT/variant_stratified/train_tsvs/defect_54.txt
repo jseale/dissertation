@@ -1,0 +1,17 @@
+defect_54	They	O
+defect_54	decided	O
+defect_54	to	O
+defect_54	treat	O
+defect_54	the	O
+defect_54	newborn	O
+defect_54	with	O
+defect_54	antibiotics	O
+defect_54	and	O
+defect_54	bandages	O
+defect_54	rather	O
+defect_54	than	O
+defect_54	surgery	O
+defect_54	to	O
+defect_54	repair	O
+defect_54	the	O
+defect_54	defect	defect_nou

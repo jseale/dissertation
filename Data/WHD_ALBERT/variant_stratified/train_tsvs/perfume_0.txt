@@ -1,0 +1,11 @@
+perfume_0	Balsam	O
+perfume_0	of	O
+perfume_0	Peru	O
+perfume_0	is	O
+perfume_0	used	O
+perfume_0	as	O
+perfume_0	a	O
+perfume_0	marker	O
+perfume_0	for	O
+perfume_0	perfume	perfume_nou
+perfume_0	allergy	O

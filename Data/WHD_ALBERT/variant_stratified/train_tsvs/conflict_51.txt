@@ -1,0 +1,12 @@
+conflict_51	After	O
+conflict_51	Hasanwayh	O
+conflict_51	's	O
+conflict_51	death	O
+conflict_51	conflict	conflict_nou
+conflict_51	broke	O
+conflict_51	out	O
+conflict_51	between	O
+conflict_51	several	O
+conflict_51	of	O
+conflict_51	his	O
+conflict_51	sons	O

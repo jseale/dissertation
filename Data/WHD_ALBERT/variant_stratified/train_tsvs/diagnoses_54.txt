@@ -1,0 +1,11 @@
+diagnoses_54	Each	O
+diagnoses_54	psychiatrist	O
+diagnoses_54	gives	O
+diagnoses_54	one	O
+diagnoses_54	of	O
+diagnoses_54	possibly	O
+diagnoses_54	five	O
+diagnoses_54	diagnoses	diagnoses_nou
+diagnoses_54	to	O
+diagnoses_54	each	O
+diagnoses_54	patient	O

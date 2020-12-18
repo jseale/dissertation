@@ -1,0 +1,12 @@
+transport_48	Biochemical	O
+transport_48	evidence	O
+transport_48	suggests	O
+transport_48	that	O
+transport_48	phosphate	O
+transport_48	transport	transport_nou
+transport_48	may	O
+transport_48	be	O
+transport_48	involved	O
+transport_48	in	O
+transport_48	this	O
+transport_48	disease	O

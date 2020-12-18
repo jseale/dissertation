@@ -1,0 +1,15 @@
+tear_39	The	O
+tear_39	main	O
+tear_39	construction	O
+tear_39	fabric	O
+tear_39	is	O
+tear_39	Hypalon	O
+tear_39	coated	O
+tear_39	Nylon	O
+tear_39	which	O
+tear_39	provides	O
+tear_39	a	O
+tear_39	durable	O
+tear_39	non	O
+tear_39	tear	tear_vrb
+tear_39	surface	O

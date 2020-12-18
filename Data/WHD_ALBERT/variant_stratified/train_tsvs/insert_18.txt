@@ -1,0 +1,16 @@
+insert_18	This	O
+insert_18	set	O
+insert_18	totals	O
+insert_18	22	O
+insert_18	cards	O
+insert_18	and	O
+insert_18	was	O
+insert_18	available	O
+insert_18	as	O
+insert_18	an	O
+insert_18	insert	insert_nou
+insert_18	in	O
+insert_18	1985	O
+insert_18	Topps	O
+insert_18	rack	O
+insert_18	packs	O

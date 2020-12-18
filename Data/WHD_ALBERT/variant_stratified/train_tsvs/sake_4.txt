@@ -1,0 +1,14 @@
+sake_4	For	O
+sake_4	the	O
+sake_4	sake	sake
+sake_4	of	O
+sake_4	simplicity	O
+sake_4	we	O
+sake_4	consider	O
+sake_4	a	O
+sake_4	perturbation	O
+sake_4	with	O
+sake_4	only	O
+sake_4	off	O
+sake_4	diagonal	O
+sake_4	elements	O

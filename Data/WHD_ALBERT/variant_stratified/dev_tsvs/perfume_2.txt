@@ -1,0 +1,13 @@
+perfume_2	Coco	O
+perfume_2	Chanel	O
+perfume_2	had	O
+perfume_2	worked	O
+perfume_2	with	O
+perfume_2	Ernest	O
+perfume_2	Beaux	O
+perfume_2	on	O
+perfume_2	her	O
+perfume_2	original	O
+perfume_2	perfume	perfume_nou
+perfume_2	Chanel	O
+perfume_2	No	O

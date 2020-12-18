@@ -1,0 +1,16 @@
+invert_44	On	O
+invert_44	this	O
+invert_44	original	O
+invert_44	I	O
+invert_44	attempted	O
+invert_44	to	O
+invert_44	invert	invert_vrb
+invert_44	the	O
+invert_44	tragic	O
+invert_44	and	O
+invert_44	magic	O
+invert_44	or	O
+invert_44	was	O
+invert_44	I	O
+invert_44	just	O
+invert_44	tired	O

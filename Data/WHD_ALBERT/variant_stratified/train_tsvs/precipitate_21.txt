@@ -1,0 +1,12 @@
+precipitate_21	The	O
+precipitate_21	eggs	O
+precipitate_21	of	O
+precipitate_21	macroinvertebrates	O
+precipitate_21	and	O
+precipitate_21	fish	O
+precipitate_21	are	O
+precipitate_21	also	O
+precipitate_21	smothered	O
+precipitate_21	by	O
+precipitate_21	the	O
+precipitate_21	precipitate	precipitate_adj-nou

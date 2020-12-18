@@ -1,0 +1,15 @@
+initiate_9	In	O
+initiate_9	such	O
+initiate_9	mixtures	O
+initiate_9	decomposition	O
+initiate_9	of	O
+initiate_9	the	O
+initiate_9	peroxide	O
+initiate_9	can	O
+initiate_9	initiate	initiate_vrb
+initiate_9	exothermic	O
+initiate_9	radical	O
+initiate_9	polymerization	O
+initiate_9	of	O
+initiate_9	the	O
+initiate_9	vinyltrimethoxysilane	O

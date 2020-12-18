@@ -1,0 +1,14 @@
+rodeo_33	Hedeman	O
+rodeo_33	filled	O
+rodeo_33	his	O
+rodeo_33	PRCA	O
+rodeo_33	permit	O
+rodeo_33	at	O
+rodeo_33	one	O
+rodeo_33	rodeo	rodeo
+rodeo_33	in	O
+rodeo_33	1983	O
+rodeo_33	as	O
+rodeo_33	a	O
+rodeo_33	bronc	O
+rodeo_33	rider	O

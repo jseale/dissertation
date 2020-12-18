@@ -1,0 +1,12 @@
+conflict_42	An	O
+conflict_42	occasion	O
+conflict_42	for	O
+conflict_42	war	O
+conflict_42	civil	O
+conflict_42	conflict	conflict_nou
+conflict_42	in	O
+conflict_42	Lebanon	O
+conflict_42	and	O
+conflict_42	Damascus	O
+conflict_42	in	O
+conflict_42	1860	O

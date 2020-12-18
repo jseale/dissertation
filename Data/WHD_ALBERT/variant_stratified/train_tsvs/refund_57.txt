@@ -1,0 +1,17 @@
+refund_57	The	O
+refund_57	user	O
+refund_57	could	O
+refund_57	also	O
+refund_57	potentially	O
+refund_57	return	O
+refund_57	the	O
+refund_57	item	O
+refund_57	for	O
+refund_57	a	O
+refund_57	refund	refund_nou
+refund_57	so	O
+refund_57	it	O
+refund_57	can	O
+refund_57	be	O
+refund_57	used	O
+refund_57	again	O

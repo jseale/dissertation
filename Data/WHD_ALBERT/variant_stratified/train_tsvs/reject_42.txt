@@ -1,0 +1,13 @@
+reject_42	As	O
+reject_42	verses	O
+reject_42	15	O
+reject_42	19	O
+reject_42	reject	reject_vrb
+reject_42	any	O
+reject_42	familial	O
+reject_42	ties	O
+reject_42	between	O
+reject_42	God	O
+reject_42	and	O
+reject_42	the	O
+reject_42	angels	O

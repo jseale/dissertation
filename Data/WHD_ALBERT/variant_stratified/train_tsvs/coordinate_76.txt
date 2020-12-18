@@ -1,0 +1,14 @@
+coordinate_76	Burgos	O
+coordinate_76	and	O
+coordinate_76	San	O
+coordinate_76	Juan	O
+coordinate_76	de	O
+coordinate_76	los	O
+coordinate_76	Lagos	O
+coordinate_76	sponsor	O
+coordinate_76	and	O
+coordinate_76	coordinate	coordinate_vrb
+coordinate_76	activities	O
+coordinate_76	between	O
+coordinate_76	both	O
+coordinate_76	populations	O

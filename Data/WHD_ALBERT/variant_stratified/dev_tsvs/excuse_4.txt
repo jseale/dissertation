@@ -1,0 +1,16 @@
+excuse_4	The	O
+excuse_4	District	O
+excuse_4	of	O
+excuse_4	Columbia	O
+excuse_4	does	O
+excuse_4	not	O
+excuse_4	require	O
+excuse_4	an	O
+excuse_4	excuse	excuse_nou
+excuse_4	for	O
+excuse_4	either	O
+excuse_4	early	O
+excuse_4	voting	O
+excuse_4	or	O
+excuse_4	absentee	O
+excuse_4	voting	O

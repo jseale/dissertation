@@ -1,0 +1,14 @@
+escort_52	That	O
+escort_52	same	O
+escort_52	day	O
+escort_52	Louis	O
+escort_52	XVIII	O
+escort_52	quit	O
+escort_52	the	O
+escort_52	capital	O
+escort_52	with	O
+escort_52	a	O
+escort_52	small	O
+escort_52	escort	escort_nou
+escort_52	at	O
+escort_52	midnight	O

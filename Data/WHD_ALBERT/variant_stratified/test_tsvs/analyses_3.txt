@@ -1,0 +1,15 @@
+analyses_3	In	O
+analyses_3	the	O
+analyses_3	1960s	O
+analyses_3	at	O
+analyses_3	UCLA	O
+analyses_3	Dixon	O
+analyses_3	developed	O
+analyses_3	BMDP	O
+analyses_3	a	O
+analyses_3	statistical	O
+analyses_3	software	O
+analyses_3	package	O
+analyses_3	for	O
+analyses_3	biomedical	O
+analyses_3	analyses	analyses_nou

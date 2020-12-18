@@ -1,0 +1,14 @@
+tear_66	Locations	O
+tear_66	for	O
+tear_66	the	O
+tear_66	bone	O
+tear_66	anchors	O
+tear_66	are	O
+tear_66	selected	O
+tear_66	based	O
+tear_66	on	O
+tear_66	number	O
+tear_66	and	O
+tear_66	severity	O
+tear_66	of	O
+tear_66	tear	tear_vrb

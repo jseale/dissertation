@@ -1,0 +1,17 @@
+bow_41	The	O
+bow_41	bow	bow_nou-ship
+bow_41	is	O
+bow_41	also	O
+bow_41	known	O
+bow_41	in	O
+bow_41	Greek	O
+bow_41	as	O
+bow_41	the	O
+bow_41	proura	O
+bow_41	or	O
+bow_41	plowri	O
+bow_41	similar	O
+bow_41	to	O
+bow_41	the	O
+bow_41	English	O
+bow_41	prow	O

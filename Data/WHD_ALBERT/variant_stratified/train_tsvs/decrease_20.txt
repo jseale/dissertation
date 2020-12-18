@@ -1,0 +1,10 @@
+decrease_20	The	O
+decrease_20	extract	O
+decrease_20	produced	O
+decrease_20	a	O
+decrease_20	significant	O
+decrease_20	decrease	decrease_nou
+decrease_20	in	O
+decrease_20	serum	O
+decrease_20	progesterone	O
+decrease_20	levels	O

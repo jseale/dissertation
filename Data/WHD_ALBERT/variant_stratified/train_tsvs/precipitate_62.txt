@@ -1,0 +1,15 @@
+precipitate_62	In	O
+precipitate_62	sufficient	O
+precipitate_62	concentration	O
+precipitate_62	it	O
+precipitate_62	will	O
+precipitate_62	cause	O
+precipitate_62	protein	O
+precipitate_62	DNA	O
+precipitate_62	and	O
+precipitate_62	RNA	O
+precipitate_62	to	O
+precipitate_62	precipitate	precipitate_vrb
+precipitate_62	out	O
+precipitate_62	of	O
+precipitate_62	solution	O

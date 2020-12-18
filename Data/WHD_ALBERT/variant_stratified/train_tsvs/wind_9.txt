@@ -1,0 +1,14 @@
+wind_9	The	O
+wind_9	ride	O
+wind_9	does	O
+wind_9	not	O
+wind_9	operate	O
+wind_9	during	O
+wind_9	certain	O
+wind_9	combinations	O
+wind_9	of	O
+wind_9	high	O
+wind_9	wind	wind_nou
+wind_9	speed	O
+wind_9	and	O
+wind_9	direction	O

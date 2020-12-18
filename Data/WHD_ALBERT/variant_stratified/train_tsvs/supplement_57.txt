@@ -1,0 +1,11 @@
+supplement_57	Her	O
+supplement_57	career	O
+supplement_57	as	O
+supplement_57	a	O
+supplement_57	writer	O
+supplement_57	began	O
+supplement_57	to	O
+supplement_57	supplement	supplement_vrb
+supplement_57	income	O
+supplement_57	from	O
+supplement_57	singing	O

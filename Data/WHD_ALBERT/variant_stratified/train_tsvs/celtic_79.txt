@@ -1,0 +1,16 @@
+celtic_79	Jimmy	O
+celtic_79	Delaney	O
+celtic_79	played	O
+celtic_79	one	O
+celtic_79	trial	O
+celtic_79	for	O
+celtic_79	Wishaw	O
+celtic_79	before	O
+celtic_79	signing	O
+celtic_79	for	O
+celtic_79	Celtic	celtic_adj-nou-sports
+celtic_79	later	O
+celtic_79	moving	O
+celtic_79	to	O
+celtic_79	Manchester	O
+celtic_79	United	O

@@ -1,0 +1,17 @@
+tear_73	He	O
+tear_73	added	O
+tear_73	that	O
+tear_73	he	O
+tear_73	would	O
+tear_73	love	O
+tear_73	to	O
+tear_73	tear	tear_vrb
+tear_73	the	O
+tear_73	throat	O
+tear_73	out	O
+tear_73	of	O
+tear_73	the	O
+tear_73	person	O
+tear_73	who	O
+tear_73	killed	O
+tear_73	Vengalli	O

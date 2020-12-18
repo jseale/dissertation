@@ -1,0 +1,8 @@
+aggregate_39	But	O
+aggregate_39	the	O
+aggregate_39	focus	O
+aggregate_39	remained	O
+aggregate_39	at	O
+aggregate_39	the	O
+aggregate_39	aggregate	aggregate_adj-nou
+aggregate_39	level	O

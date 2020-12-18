@@ -1,0 +1,12 @@
+discard_67	If	O
+discard_67	desired	O
+discard_67	players	O
+discard_67	can	O
+discard_67	discard	discard_vrb
+discard_67	all	O
+discard_67	the	O
+discard_67	way	O
+discard_67	down	O
+discard_67	to	O
+discard_67	one	O
+discard_67	card	O

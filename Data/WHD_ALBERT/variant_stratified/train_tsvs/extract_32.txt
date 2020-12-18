@@ -1,0 +1,16 @@
+extract_32	In	O
+extract_32	addition	O
+extract_32	ethanolic	O
+extract_32	extract	extract_nou
+extract_32	of	O
+extract_32	S.	O
+extract_32	saligna	O
+extract_32	has	O
+extract_32	steroidal	O
+extract_32	alkaloids	O
+extract_32	which	O
+extract_32	can	O
+extract_32	demonstrate	O
+extract_32	cholinesterase	O
+extract_32	inhibitory	O
+extract_32	activity	O

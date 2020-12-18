@@ -1,0 +1,15 @@
+resume_60	Five	O
+resume_60	years	O
+resume_60	later	O
+resume_60	they	O
+resume_60	moved	O
+resume_60	to	O
+resume_60	Sydney	O
+resume_60	where	O
+resume_60	Kirkpatrick	O
+resume_60	decided	O
+resume_60	to	O
+resume_60	resume	resume_vrb
+resume_60	her	O
+resume_60	acting	O
+resume_60	career	O

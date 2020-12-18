@@ -1,0 +1,13 @@
+associate_0	From	O
+associate_0	1994	O
+associate_0	to	O
+associate_0	1998	O
+associate_0	she	O
+associate_0	was	O
+associate_0	associate	associate_adj-nou
+associate_0	conductor	O
+associate_0	of	O
+associate_0	the	O
+associate_0	Dallas	O
+associate_0	Symphony	O
+associate_0	Orchestra	O

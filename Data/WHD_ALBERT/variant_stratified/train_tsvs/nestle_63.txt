@@ -1,0 +1,13 @@
+nestle_63	They	O
+nestle_63	then	O
+nestle_63	fly	O
+nestle_63	into	O
+nestle_63	their	O
+nestle_63	pods	O
+nestle_63	nestle	nestle_vrb
+nestle_63	themselves	O
+nestle_63	inside	O
+nestle_63	and	O
+nestle_63	retract	O
+nestle_63	their	O
+nestle_63	heads	O

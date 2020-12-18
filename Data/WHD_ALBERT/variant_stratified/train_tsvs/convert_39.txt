@@ -1,0 +1,12 @@
+convert_39	Any	O
+convert_39	overseas	O
+convert_39	national	O
+convert_39	attempting	O
+convert_39	to	O
+convert_39	acquire	O
+convert_39	Saudi	O
+convert_39	nationality	O
+convert_39	must	O
+convert_39	convert	convert_vrb
+convert_39	to	O
+convert_39	Islam	O

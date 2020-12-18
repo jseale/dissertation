@@ -1,0 +1,16 @@
+rodeo_5	In	O
+rodeo_5	1923	O
+rodeo_5	the	O
+rodeo_5	Molalla	O
+rodeo_5	Buckeroo	O
+rodeo_5	Association	O
+rodeo_5	was	O
+rodeo_5	formed	O
+rodeo_5	and	O
+rodeo_5	took	O
+rodeo_5	over	O
+rodeo_5	the	O
+rodeo_5	operation	O
+rodeo_5	of	O
+rodeo_5	the	O
+rodeo_5	Rodeo	rodeo

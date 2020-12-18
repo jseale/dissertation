@@ -1,0 +1,17 @@
+laminate_40	Where	O
+laminate_40	desirable	O
+laminate_40	wood	O
+laminate_40	foam	O
+laminate_40	or	O
+laminate_40	honeycomb	O
+laminate_40	cores	O
+laminate_40	are	O
+laminate_40	embedded	O
+laminate_40	into	O
+laminate_40	the	O
+laminate_40	laminate	laminate_nou
+laminate_40	to	O
+laminate_40	create	O
+laminate_40	a	O
+laminate_40	sandwich	O
+laminate_40	structure	O

@@ -1,0 +1,13 @@
+approximate_9	Spain	O
+approximate_9	has	O
+approximate_9	an	O
+approximate_9	SPR	O
+approximate_9	with	O
+approximate_9	an	O
+approximate_9	approximate	approximate_adj-nou
+approximate_9	size	O
+approximate_9	of	O
+approximate_9	120,000,000	O
+approximate_9	barrels	O
+approximate_9	19,000,000	O
+approximate_9	m³	O

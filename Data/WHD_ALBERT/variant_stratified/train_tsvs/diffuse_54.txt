@@ -1,0 +1,11 @@
+diffuse_54	Like	O
+diffuse_54	all	O
+diffuse_54	steroid	O
+diffuse_54	hormones	O
+diffuse_54	estrogens	O
+diffuse_54	readily	O
+diffuse_54	diffuse	diffuse_vrb
+diffuse_54	across	O
+diffuse_54	the	O
+diffuse_54	cell	O
+diffuse_54	membrane	O

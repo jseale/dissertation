@@ -1,0 +1,17 @@
+approximate_48	Weicht	O
+approximate_48	continued	O
+approximate_48	to	O
+approximate_48	lead	O
+approximate_48	his	O
+approximate_48	squad	O
+approximate_48	forward	O
+approximate_48	until	O
+approximate_48	he	O
+approximate_48	spotted	O
+approximate_48	a	O
+approximate_48	road	O
+approximate_48	block	O
+approximate_48	approximate	approximate_adj-nou
+approximate_48	125	O
+approximate_48	yards	O
+approximate_48	away	O

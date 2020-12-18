@@ -1,0 +1,8 @@
+initiate_23	That	O
+initiate_23	could	O
+initiate_23	initiate	initiate_vrb
+initiate_23	a	O
+initiate_23	continuation	O
+initiate_23	of	O
+initiate_23	representational	O
+initiate_23	painting	O

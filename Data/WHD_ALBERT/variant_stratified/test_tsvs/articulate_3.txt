@@ -1,0 +1,15 @@
+articulate_3	Athyris	O
+articulate_3	is	O
+articulate_3	the	O
+articulate_3	type	O
+articulate_3	genus	O
+articulate_3	for	O
+articulate_3	the	O
+articulate_3	Athyrididae	O
+articulate_3	which	O
+articulate_3	belongs	O
+articulate_3	to	O
+articulate_3	the	O
+articulate_3	articulate	articulate_adj
+articulate_3	order	O
+articulate_3	Athyridida	O

@@ -1,0 +1,13 @@
+diagnoses_43	The	O
+diagnoses_43	main	O
+diagnoses_43	histologic	O
+diagnoses_43	differential	O
+diagnoses_43	diagnoses	diagnoses_nou
+diagnoses_43	are	O
+diagnoses_43	pigmented	O
+diagnoses_43	spindle	O
+diagnoses_43	cell	O
+diagnoses_43	nevus	O
+diagnoses_43	and	O
+diagnoses_43	malignant	O
+diagnoses_43	melanoma	O

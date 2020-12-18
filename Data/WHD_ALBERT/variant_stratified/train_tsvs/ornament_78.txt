@@ -1,0 +1,16 @@
+ornament_78	The	O
+ornament_78	musician	O
+ornament_78	may	O
+ornament_78	freely	O
+ornament_78	stretch	O
+ornament_78	or	O
+ornament_78	compress	O
+ornament_78	its	O
+ornament_78	rhythm	O
+ornament_78	and	O
+ornament_78	often	O
+ornament_78	will	O
+ornament_78	highly	O
+ornament_78	ornament	ornament_vrb
+ornament_78	each	O
+ornament_78	note	O

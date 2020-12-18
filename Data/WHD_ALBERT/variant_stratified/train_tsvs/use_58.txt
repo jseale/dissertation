@@ -1,0 +1,17 @@
+use_58	The	O
+use_58	CNT	O
+use_58	was	O
+use_58	the	O
+use_58	first	O
+use_58	to	O
+use_58	use	use_vrb
+use_58	this	O
+use_58	technology	O
+use_58	for	O
+use_58	its	O
+use_58	stations	O
+use_58	and	O
+use_58	affiliates	O
+use_58	starting	O
+use_58	in	O
+use_58	1999	O

@@ -1,0 +1,17 @@
+contest_74	He	O
+contest_74	did	O
+contest_74	no	O
+contest_74	contest	contest_vrb
+contest_74	the	O
+contest_74	seat	O
+contest_74	in	O
+contest_74	1807	O
+contest_74	but	O
+contest_74	was	O
+contest_74	re	O
+contest_74	elected	O
+contest_74	at	O
+contest_74	the	O
+contest_74	1812	O
+contest_74	general	O
+contest_74	election	O

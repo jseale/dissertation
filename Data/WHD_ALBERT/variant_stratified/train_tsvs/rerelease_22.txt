@@ -1,0 +1,17 @@
+rerelease_22	At	O
+rerelease_22	the	O
+rerelease_22	time	O
+rerelease_22	of	O
+rerelease_22	the	O
+rerelease_22	game	O
+rerelease_22	's	O
+rerelease_22	Virtual	O
+rerelease_22	Console	O
+rerelease_22	rerelease	rerelease
+rerelease_22	he	O
+rerelease_22	felt	O
+rerelease_22	the	O
+rerelease_22	game	O
+rerelease_22	had	O
+rerelease_22	aged	O
+rerelease_22	well	O

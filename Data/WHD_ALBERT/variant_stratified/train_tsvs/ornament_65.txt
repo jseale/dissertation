@@ -1,0 +1,10 @@
+ornament_65	Iron	O
+ornament_65	Ornament	ornament_nou
+ornament_65	and	O
+ornament_65	Architecture	O
+ornament_65	in	O
+ornament_65	Victorian	O
+ornament_65	Britain	O
+ornament_65	Myth	O
+ornament_65	and	O
+ornament_65	Modernity	O

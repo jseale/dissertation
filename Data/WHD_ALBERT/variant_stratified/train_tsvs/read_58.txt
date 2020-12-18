@@ -1,0 +1,11 @@
+read_58	Former	O
+read_58	Federal	O
+read_58	Board	O
+read_58	vice	O
+read_58	chair	O
+read_58	Blinder	O
+read_58	called	O
+read_58	it	O
+read_58	a	O
+read_58	crackling	O
+read_58	read	read_present

@@ -1,0 +1,17 @@
+advocate_75	There	O
+advocate_75	is	O
+advocate_75	no	O
+advocate_75	way	O
+advocate_75	that	O
+advocate_75	I	O
+advocate_75	would	O
+advocate_75	approve	O
+advocate_75	or	O
+advocate_75	advocate	advocate_vrb
+advocate_75	for	O
+advocate_75	the	O
+advocate_75	monitoring	O
+advocate_75	of	O
+advocate_75	students	O
+advocate_75	at	O
+advocate_75	home	O

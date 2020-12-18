@@ -1,0 +1,9 @@
+supplement_37	It	O
+supplement_37	was	O
+supplement_37	published	O
+supplement_37	as	O
+supplement_37	a	O
+supplement_37	quarterly	O
+supplement_37	supplement	supplement_nou
+supplement_37	in	O
+supplement_37	Xtra	O

@@ -1,0 +1,11 @@
+close_10	Street	O
+close_10	's	O
+close_10	health	O
+close_10	and	O
+close_10	pitching	O
+close_10	improved	O
+close_10	although	O
+close_10	Ziegler	O
+close_10	continued	O
+close_10	to	O
+close_10	close	close_vrb

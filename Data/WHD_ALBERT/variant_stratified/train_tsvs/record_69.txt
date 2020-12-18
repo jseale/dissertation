@@ -1,0 +1,15 @@
+record_69	Musicraft	O
+record_69	Records	O
+record_69	was	O
+record_69	a	O
+record_69	record	record_nou
+record_69	company	O
+record_69	and	O
+record_69	label	O
+record_69	established	O
+record_69	in	O
+record_69	1937	O
+record_69	in	O
+record_69	New	O
+record_69	York	O
+record_69	City	O

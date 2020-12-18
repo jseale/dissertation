@@ -1,0 +1,12 @@
+discount_4	The	O
+discount_4	discount	discount_nou
+discount_4	described	O
+discount_4	as	O
+discount_4	trade	O
+discount_4	rate	O
+discount_4	discount	discount_nou
+discount_4	is	O
+discount_4	sometimes	O
+discount_4	called	O
+discount_4	trade	O
+discount_4	discount	discount_nou

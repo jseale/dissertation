@@ -1,0 +1,9 @@
+graduate_5	He	O
+graduate_5	was	O
+graduate_5	a	O
+graduate_5	graduate	graduate_adj-nou
+graduate_5	of	O
+graduate_5	Paris	O
+graduate_5	University	O
+graduate_5	Medical	O
+graduate_5	School	O

@@ -1,0 +1,9 @@
+sow_5	Do	O
+sow_5	not	O
+sow_5	sow	sow
+sow_5	your	O
+sow_5	fields	O
+sow_5	or	O
+sow_5	prune	O
+sow_5	your	O
+sow_5	vineyards	O

@@ -1,0 +1,15 @@
+upset_26	They	O
+upset_26	talk	O
+upset_26	and	O
+upset_26	Jody	O
+upset_26	being	O
+upset_26	upset	upset_nou
+upset_26	with	O
+upset_26	her	O
+upset_26	parents	O
+upset_26	tries	O
+upset_26	to	O
+upset_26	pressure	O
+upset_26	sex	O
+upset_26	on	O
+upset_26	Kenny	O

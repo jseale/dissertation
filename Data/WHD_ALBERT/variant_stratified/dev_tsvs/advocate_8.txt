@@ -1,0 +1,14 @@
+advocate_8	The	O
+advocate_8	main	O
+advocate_8	goal	O
+advocate_8	of	O
+advocate_8	the	O
+advocate_8	organisation	O
+advocate_8	is	O
+advocate_8	to	O
+advocate_8	advocate	advocate_vrb
+advocate_8	against	O
+advocate_8	pseudoscience	O
+advocate_8	astrology	O
+advocate_8	and	O
+advocate_8	mysticism	O

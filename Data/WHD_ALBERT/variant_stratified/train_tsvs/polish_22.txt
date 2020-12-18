@@ -1,0 +1,12 @@
+polish_22	Further	O
+polish_22	Polish	polish_geo
+polish_22	postal	O
+polish_22	authorities	O
+polish_22	Poczta	O
+polish_22	Polska	O
+polish_22	also	O
+polish_22	initially	O
+polish_22	utilized	O
+polish_22	overprinted	O
+polish_22	Germania	O
+polish_22	stamps	O

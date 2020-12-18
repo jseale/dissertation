@@ -1,0 +1,12 @@
+subordinate_5	The	O
+subordinate_5	subordinate	subordinate_adj-nou
+subordinate_5	suffix	O
+subordinate_5	can	O
+subordinate_5	be	O
+subordinate_5	followed	O
+subordinate_5	by	O
+subordinate_5	either	O
+subordinate_5	nominative	O
+subordinate_5	or	O
+subordinate_5	accusative	O
+subordinate_5	cases	O

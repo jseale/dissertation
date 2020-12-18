@@ -1,0 +1,17 @@
+contest_70	When	O
+contest_70	the	O
+contest_70	CPC	O
+contest_70	emerged	O
+contest_70	Musa	O
+contest_70	chose	O
+contest_70	to	O
+contest_70	contest	contest_vrb
+contest_70	for	O
+contest_70	the	O
+contest_70	Niger	O
+contest_70	north	O
+contest_70	senate	O
+contest_70	seat	O
+contest_70	on	O
+contest_70	that	O
+contest_70	platform	O

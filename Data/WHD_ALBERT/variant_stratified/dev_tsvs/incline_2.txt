@@ -1,0 +1,16 @@
+incline_2	The	O
+incline_2	new	O
+incline_2	truck	O
+incline_2	was	O
+incline_2	to	O
+incline_2	climb	O
+incline_2	a	O
+incline_2	60	O
+incline_2	percent	O
+incline_2	incline	incline_nou
+incline_2	and	O
+incline_2	traverse	O
+incline_2	a	O
+incline_2	40	O
+incline_2	percent	O
+incline_2	slope	O

@@ -1,0 +1,16 @@
+suspect_78	William	O
+suspect_78	does	O
+suspect_78	not	O
+suspect_78	suspect	suspect_vrb
+suspect_78	them	O
+suspect_78	of	O
+suspect_78	murder	O
+suspect_78	though	O
+suspect_78	since	O
+suspect_78	Dulcinites	O
+suspect_78	target	O
+suspect_78	wealthy	O
+suspect_78	bishops	O
+suspect_78	not	O
+suspect_78	poor	O
+suspect_78	monks	O

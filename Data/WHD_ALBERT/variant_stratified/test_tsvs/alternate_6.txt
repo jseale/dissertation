@@ -1,0 +1,13 @@
+alternate_6	Throughout	O
+alternate_6	the	O
+alternate_6	film	O
+alternate_6	these	O
+alternate_6	two	O
+alternate_6	realities	O
+alternate_6	are	O
+alternate_6	intermixed	O
+alternate_6	to	O
+alternate_6	produce	O
+alternate_6	an	O
+alternate_6	alternate	alternate_adj-nou
+alternate_6	reality	O

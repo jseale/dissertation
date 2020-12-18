@@ -1,0 +1,14 @@
+perfume_12	The	O
+perfume_12	Javal	O
+perfume_12	owned	O
+perfume_12	the	O
+perfume_12	perfume	perfume_nou
+perfume_12	house	O
+perfume_12	Houbigant	O
+perfume_12	the	O
+perfume_12	second	O
+perfume_12	oldest	O
+perfume_12	perfume	perfume_nou
+perfume_12	house	O
+perfume_12	in	O
+perfume_12	Europe	O

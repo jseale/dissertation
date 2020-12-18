@@ -1,0 +1,15 @@
+recount_27	The	O
+recount_27	recount	recount_nou
+recount_27	did	O
+recount_27	not	O
+recount_27	change	O
+recount_27	the	O
+recount_27	outcome	O
+recount_27	with	O
+recount_27	Harman	O
+recount_27	's	O
+recount_27	lead	O
+recount_27	shrinking	O
+recount_27	to	O
+recount_27	225	O
+recount_27	votes	O

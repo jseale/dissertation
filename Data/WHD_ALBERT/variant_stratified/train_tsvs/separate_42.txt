@@ -1,0 +1,13 @@
+separate_42	Since	O
+separate_42	2008	O
+separate_42	four	O
+separate_42	editions	O
+separate_42	of	O
+separate_42	two	O
+separate_42	separate	separate_adj
+separate_42	events	O
+separate_42	have	O
+separate_42	been	O
+separate_42	organized	O
+separate_42	each	O
+separate_42	year	O

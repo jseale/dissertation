@@ -1,0 +1,15 @@
+ornament_49	In	O
+ornament_49	music	O
+ornament_49	an	O
+ornament_49	ornament	ornament_nou
+ornament_49	is	O
+ornament_49	a	O
+ornament_49	decoration	O
+ornament_49	to	O
+ornament_49	a	O
+ornament_49	melody	O
+ornament_49	bassline	O
+ornament_49	or	O
+ornament_49	other	O
+ornament_49	musical	O
+ornament_49	part	O

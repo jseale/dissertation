@@ -1,0 +1,14 @@
+duplicate_45	The	O
+duplicate_45	work	O
+duplicate_45	is	O
+duplicate_45	a	O
+duplicate_45	duplicate	duplicate_adj-nou
+duplicate_45	that	O
+duplicate_45	has	O
+duplicate_45	no	O
+duplicate_45	value	O
+duplicate_45	as	O
+duplicate_45	part	O
+duplicate_45	of	O
+duplicate_45	a	O
+duplicate_45	series	O

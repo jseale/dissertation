@@ -1,0 +1,12 @@
+animate_18	Intransitive	O
+animate_18	active	O
+animate_18	verbs	O
+animate_18	are	O
+animate_18	those	O
+animate_18	which	O
+animate_18	involve	O
+animate_18	only	O
+animate_18	human	O
+animate_18	or	O
+animate_18	animate	animate_adj-nou
+animate_18	agents	O

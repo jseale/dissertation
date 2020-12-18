@@ -1,0 +1,10 @@
+perfume_5	New	O
+perfume_5	perfume	perfume_nou
+perfume_5	set	O
+perfume_5	to	O
+perfume_5	embrace	O
+perfume_5	smells	O
+perfume_5	from	O
+perfume_5	the	O
+perfume_5	wild	O
+perfume_5	side	O

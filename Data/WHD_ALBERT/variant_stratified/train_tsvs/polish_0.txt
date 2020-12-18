@@ -1,0 +1,16 @@
+polish_0	Following	O
+polish_0	this	O
+polish_0	Range	O
+polish_0	sits	O
+polish_0	on	O
+polish_0	a	O
+polish_0	couch	O
+polish_0	and	O
+polish_0	uses	O
+polish_0	the	O
+polish_0	nail	O
+polish_0	polish	polish
+polish_0	to	O
+polish_0	colour	O
+polish_0	her	O
+polish_0	nails	O

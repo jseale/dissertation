@@ -1,0 +1,16 @@
+advocate_53	By	O
+advocate_53	her	O
+advocate_53	Ferguson	O
+advocate_53	had	O
+advocate_53	a	O
+advocate_53	daughter	O
+advocate_53	who	O
+advocate_53	in	O
+advocate_53	1730	O
+advocate_53	married	O
+advocate_53	M.	O
+advocate_53	Gerard	O
+advocate_53	Vink	O
+advocate_53	advocate	advocate_nou
+advocate_53	s	O
+advocate_53	Hertogenbosch	O

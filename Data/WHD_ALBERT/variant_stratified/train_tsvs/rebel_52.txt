@@ -1,0 +1,13 @@
+rebel_52	At	O
+rebel_52	the	O
+rebel_52	outbreak	O
+rebel_52	of	O
+rebel_52	the	O
+rebel_52	uprising	O
+rebel_52	the	O
+rebel_52	rebel	rebel_nou
+rebel_52	forces	O
+rebel_52	derailed	O
+rebel_52	a	O
+rebel_52	military	O
+rebel_52	train	O

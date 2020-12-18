@@ -1,0 +1,12 @@
+diagnoses_2	She	O
+diagnoses_2	occasionally	O
+diagnoses_2	worked	O
+diagnoses_2	with	O
+diagnoses_2	certain	O
+diagnoses_2	therapies	O
+diagnoses_2	and	O
+diagnoses_2	used	O
+diagnoses_2	these	O
+diagnoses_2	in	O
+diagnoses_2	her	O
+diagnoses_2	diagnoses	diagnoses_nou

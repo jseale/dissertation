@@ -1,0 +1,14 @@
+animate_5	Different	O
+animate_5	numbers	O
+animate_5	are	O
+animate_5	used	O
+animate_5	for	O
+animate_5	inanimate	O
+animate_5	objects	O
+animate_5	counting	O
+animate_5	and	O
+animate_5	animate	animate_adj-nou
+animate_5	objects	O
+animate_5	see	O
+animate_5	measure	O
+animate_5	word	O

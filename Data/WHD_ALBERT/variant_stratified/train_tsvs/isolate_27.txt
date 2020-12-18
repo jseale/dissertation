@@ -1,0 +1,15 @@
+isolate_27	The	O
+isolate_27	system	O
+isolate_27	helps	O
+isolate_27	marketers	O
+isolate_27	to	O
+isolate_27	isolate	isolate
+isolate_27	motives	O
+isolate_27	likely	O
+isolate_27	to	O
+isolate_27	be	O
+isolate_27	involved	O
+isolate_27	in	O
+isolate_27	various	O
+isolate_27	consumption	O
+isolate_27	situations	O

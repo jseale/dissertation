@@ -1,0 +1,17 @@
+use_2	The	O
+use_2	Western	O
+use_2	use	use_nou
+use_2	of	O
+use_2	yuri	O
+use_2	has	O
+use_2	broadened	O
+use_2	in	O
+use_2	the	O
+use_2	2000s	O
+use_2	picking	O
+use_2	up	O
+use_2	connotations	O
+use_2	from	O
+use_2	the	O
+use_2	Japanese	O
+use_2	use	use_nou

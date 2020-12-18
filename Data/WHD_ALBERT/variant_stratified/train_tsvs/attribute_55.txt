@@ -1,0 +1,15 @@
+attribute_55	In	O
+attribute_55	some	O
+attribute_55	sections	O
+attribute_55	of	O
+attribute_55	rural	O
+attribute_55	India	O
+attribute_55	people	O
+attribute_55	attribute	attribute_vrb
+attribute_55	various	O
+attribute_55	medicinal	O
+attribute_55	properties	O
+attribute_55	to	O
+attribute_55	the	O
+attribute_55	cannabis	O
+attribute_55	plant	O

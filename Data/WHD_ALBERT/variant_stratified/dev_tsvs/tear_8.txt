@@ -1,0 +1,14 @@
+tear_8	Love	O
+tear_8	Will	O
+tear_8	Tear	tear_vrb
+tear_8	Us	O
+tear_8	Apart	O
+tear_8	is	O
+tear_8	a	O
+tear_8	cover	O
+tear_8	of	O
+tear_8	the	O
+tear_8	song	O
+tear_8	from	O
+tear_8	Joy	O
+tear_8	Division	O

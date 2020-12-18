@@ -1,0 +1,8 @@
+perfect_65	Here	O
+perfect_65	Infiltration	O
+perfect_65	beat	O
+perfect_65	Fuudo	O
+perfect_65	delivering	O
+perfect_65	three	O
+perfect_65	perfect	perfect_adj
+perfect_65	rounds	O

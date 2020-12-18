@@ -1,0 +1,10 @@
+document_25	This	O
+document_25	document	document_nou
+document_25	affirmed	O
+document_25	the	O
+document_25	college	O
+document_25	's	O
+document_25	stance	O
+document_25	against	O
+document_25	government	O
+document_25	control	O

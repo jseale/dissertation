@@ -1,0 +1,16 @@
+mobile_29	Mechanized	O
+mobile_29	divisions	O
+mobile_29	had	O
+mobile_29	to	O
+mobile_29	rely	O
+mobile_29	on	O
+mobile_29	these	O
+mobile_29	becoming	O
+mobile_29	easy	O
+mobile_29	targets	O
+mobile_29	for	O
+mobile_29	the	O
+mobile_29	mobile	mobile
+mobile_29	Finnish	O
+mobile_29	ski	O
+mobile_29	troops	O

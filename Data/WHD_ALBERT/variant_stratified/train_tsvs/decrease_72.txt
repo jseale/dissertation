@@ -1,0 +1,16 @@
+decrease_72	Such	O
+decrease_72	upward	O
+decrease_72	motions	O
+decrease_72	decrease	decrease_vrb
+decrease_72	the	O
+decrease_72	mass	O
+decrease_72	of	O
+decrease_72	local	O
+decrease_72	atmospheric	O
+decrease_72	columns	O
+decrease_72	of	O
+decrease_72	air	O
+decrease_72	which	O
+decrease_72	lowers	O
+decrease_72	surface	O
+decrease_72	pressure	O

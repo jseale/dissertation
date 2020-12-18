@@ -1,0 +1,17 @@
+confines_51	Gradually	O
+confines_51	the	O
+confines_51	Germans	O
+confines_51	were	O
+confines_51	pushed	O
+confines_51	back	O
+confines_51	to	O
+confines_51	the	O
+confines_51	confines	confines_nou
+confines_51	of	O
+confines_51	the	O
+confines_51	narrow	O
+confines_51	perimeter	O
+confines_51	around	O
+confines_51	the	O
+confines_51	traffic	O
+confines_51	bridge	O

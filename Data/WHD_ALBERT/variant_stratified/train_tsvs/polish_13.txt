@@ -1,0 +1,10 @@
+polish_13	Polish	polish_geo
+polish_13	orthography	O
+polish_13	is	O
+polish_13	the	O
+polish_13	system	O
+polish_13	of	O
+polish_13	writing	O
+polish_13	the	O
+polish_13	Polish	polish_geo
+polish_13	language	O

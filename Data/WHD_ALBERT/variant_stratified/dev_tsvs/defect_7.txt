@@ -1,0 +1,11 @@
+defect_7	With	O
+defect_7	omphalocele	O
+defect_7	the	O
+defect_7	defect	defect_nou
+defect_7	is	O
+defect_7	usually	O
+defect_7	much	O
+defect_7	larger	O
+defect_7	than	O
+defect_7	in	O
+defect_7	gastroschisis	O

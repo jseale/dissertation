@@ -1,0 +1,17 @@
+coordinate_47	In	O
+coordinate_47	1947	O
+coordinate_47	he	O
+coordinate_47	organized	O
+coordinate_47	the	O
+coordinate_47	Cominform	O
+coordinate_47	designed	O
+coordinate_47	to	O
+coordinate_47	coordinate	coordinate_vrb
+coordinate_47	and	O
+coordinate_47	control	O
+coordinate_47	the	O
+coordinate_47	communist	O
+coordinate_47	parties	O
+coordinate_47	around	O
+coordinate_47	the	O
+coordinate_47	world	O

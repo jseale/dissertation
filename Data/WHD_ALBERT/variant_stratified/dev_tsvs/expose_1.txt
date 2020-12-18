@@ -1,0 +1,14 @@
+expose_1	He	O
+expose_1	was	O
+expose_1	expose	expose_vrb
+expose_1	the	O
+expose_1	villain	O
+expose_1	and	O
+expose_1	restore	O
+expose_1	peace	O
+expose_1	forms	O
+expose_1	the	O
+expose_1	rest	O
+expose_1	of	O
+expose_1	the	O
+expose_1	point	O

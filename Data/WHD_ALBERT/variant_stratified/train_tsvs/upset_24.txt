@@ -1,0 +1,12 @@
+upset_24	Eve	O
+upset_24	is	O
+upset_24	upset	upset_nou
+upset_24	and	O
+upset_24	goes	O
+upset_24	to	O
+upset_24	France	O
+upset_24	to	O
+upset_24	sort	O
+upset_24	out	O
+upset_24	her	O
+upset_24	divorce	O

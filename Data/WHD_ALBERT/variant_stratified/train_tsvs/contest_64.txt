@@ -1,0 +1,12 @@
+contest_64	The	O
+contest_64	Kiddy	O
+contest_64	Contest	contest_nou
+contest_64	2007	O
+contest_64	was	O
+contest_64	again	O
+contest_64	only	O
+contest_64	a	O
+contest_64	single	O
+contest_64	production	O
+contest_64	of	O
+contest_64	ORF	O

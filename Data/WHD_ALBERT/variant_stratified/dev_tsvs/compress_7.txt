@@ -1,0 +1,10 @@
+compress_7	The	O
+compress_7	solution	O
+compress_7	was	O
+compress_7	to	O
+compress_7	compress	compress
+compress_7	acetylene	O
+compress_7	in	O
+compress_7	a	O
+compress_7	porous	O
+compress_7	medium	O

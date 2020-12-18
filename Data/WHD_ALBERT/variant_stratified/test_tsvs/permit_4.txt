@@ -1,0 +1,16 @@
+permit_4	The	O
+permit_4	official	O
+permit_4	names	O
+permit_4	for	O
+permit_4	learners	O
+permit_4	also	O
+permit_4	vary	O
+permit_4	for	O
+permit_4	example	O
+permit_4	Learner	O
+permit_4	Driver	O
+permit_4	Licences	O
+permit_4	or	O
+permit_4	Learner	O
+permit_4	's	O
+permit_4	Permit	permit_nou

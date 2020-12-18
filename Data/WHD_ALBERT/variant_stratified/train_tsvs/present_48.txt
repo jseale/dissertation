@@ -1,0 +1,17 @@
+present_48	If	O
+present_48	an	O
+present_48	external	O
+present_48	time	O
+present_48	dependent	O
+present_48	force	O
+present_48	is	O
+present_48	present	present_adj-nou
+present_48	the	O
+present_48	harmonic	O
+present_48	oscillator	O
+present_48	is	O
+present_48	described	O
+present_48	as	O
+present_48	a	O
+present_48	driven	O
+present_48	oscillator	O

@@ -1,0 +1,7 @@
+insert_4	Disc	O
+insert_4	and	O
+insert_4	back	O
+insert_4	insert	insert_nou
+insert_4	is	O
+insert_4	labeled	O
+insert_4	1/100	O

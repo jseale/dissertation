@@ -1,0 +1,17 @@
+increase_1	This	O
+increase_1	in	O
+increase_1	turn	O
+increase_1	led	O
+increase_1	to	O
+increase_1	an	O
+increase_1	increase	increase_nou
+increase_1	in	O
+increase_1	crime	O
+increase_1	and	O
+increase_1	prostitution	O
+increase_1	that	O
+increase_1	has	O
+increase_1	continued	O
+increase_1	to	O
+increase_1	this	O
+increase_1	day	O

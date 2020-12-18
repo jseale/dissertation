@@ -1,0 +1,14 @@
+upset_9	In	O
+upset_9	December	O
+upset_9	2008	O
+upset_9	the	O
+upset_9	UCR	O
+upset_9	women	O
+upset_9	's	O
+upset_9	basketball	O
+upset_9	team	O
+upset_9	upset	upset_vrb
+upset_9	the	O
+upset_9	16-seeded	O
+upset_9	Vanderbilt	O
+upset_9	Commodores	O

@@ -1,0 +1,12 @@
+uses_35	Labor	O
+uses_35	's	O
+uses_35	2015	O
+uses_35	Marriage	O
+uses_35	Equality	O
+uses_35	initiative	O
+uses_35	uses	uses_vrb
+uses_35	the	O
+uses_35	phrase	O
+uses_35	It	O
+uses_35	's	O
+uses_35	Time	O

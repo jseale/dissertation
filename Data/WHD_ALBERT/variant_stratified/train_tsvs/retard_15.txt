@@ -1,0 +1,17 @@
+retard_15	The	O
+retard_15	strategy	O
+retard_15	would	O
+retard_15	read	O
+retard_15	these	O
+retard_15	switches	O
+retard_15	and	O
+retard_15	retard	retard_vrb
+retard_15	the	O
+retard_15	spark	O
+retard_15	advance	O
+retard_15	for	O
+retard_15	vehicles	O
+retard_15	experiencing	O
+retard_15	pre	O
+retard_15	ignition	O
+retard_15	knock	O

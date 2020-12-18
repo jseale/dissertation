@@ -1,0 +1,14 @@
+aged_72	He	O
+aged_72	then	O
+aged_72	become	O
+aged_72	the	O
+aged_72	youngest	O
+aged_72	diocesan	O
+aged_72	bishop	O
+aged_72	in	O
+aged_72	the	O
+aged_72	Church	O
+aged_72	of	O
+aged_72	England	O
+aged_72	aged	aged
+aged_72	48	O

@@ -1,0 +1,10 @@
+suspect_38	After	O
+suspect_38	his	O
+suspect_38	uncle	O
+suspect_38	's	O
+suspect_38	demise	O
+suspect_38	Maria	O
+suspect_38	becomes	O
+suspect_38	a	O
+suspect_38	murder	O
+suspect_38	suspect	suspect_adj-nou

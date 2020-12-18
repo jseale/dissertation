@@ -1,0 +1,13 @@
+compound_69	Thiophene	O
+compound_69	also	O
+compound_69	commonly	O
+compound_69	called	O
+compound_69	thiofuran	O
+compound_69	is	O
+compound_69	a	O
+compound_69	heterocyclic	O
+compound_69	compound	compound_nou
+compound_69	with	O
+compound_69	the	O
+compound_69	formula	O
+compound_69	C₄H₄S.	O

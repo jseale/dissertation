@@ -1,0 +1,16 @@
+implant_26	Belli	O
+implant_26	was	O
+implant_26	representing	O
+implant_26	800	O
+implant_26	women	O
+implant_26	in	O
+implant_26	a	O
+implant_26	class	O
+implant_26	action	O
+implant_26	lawsuit	O
+implant_26	against	O
+implant_26	breast	O
+implant_26	implant	implant_nou
+implant_26	manufacturer	O
+implant_26	Dow	O
+implant_26	Corning	O

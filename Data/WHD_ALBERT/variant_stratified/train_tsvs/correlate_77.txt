@@ -1,0 +1,17 @@
+correlate_77	Structural	O
+correlate_77	dynamics	O
+correlate_77	of	O
+correlate_77	synapses	O
+correlate_77	in	O
+correlate_77	vivo	O
+correlate_77	correlate	correlate_nou-vrb
+correlate_77	with	O
+correlate_77	functional	O
+correlate_77	changes	O
+correlate_77	during	O
+correlate_77	experience	O
+correlate_77	dependent	O
+correlate_77	plasticity	O
+correlate_77	in	O
+correlate_77	visual	O
+correlate_77	cortex	O

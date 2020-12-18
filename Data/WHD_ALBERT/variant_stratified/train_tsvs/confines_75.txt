@@ -1,0 +1,14 @@
+confines_75	Audrey	O
+confines_75	confines	confines_vrb
+confines_75	in	O
+confines_75	Cleo	O
+confines_75	what	O
+confines_75	Trilby	O
+confines_75	had	O
+confines_75	told	O
+confines_75	her	O
+confines_75	making	O
+confines_75	Cleo	O
+confines_75	feel	O
+confines_75	extremely	O
+confines_75	embarrassed	O

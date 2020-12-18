@@ -1,0 +1,14 @@
+lead_11	Chris	O
+lead_11	Norman	O
+lead_11	founder	O
+lead_11	member	O
+lead_11	and	O
+lead_11	former	O
+lead_11	lead	lead_nou-vrb
+lead_11	singer	O
+lead_11	of	O
+lead_11	Smokie	O
+lead_11	was	O
+lead_11	born	O
+lead_11	in	O
+lead_11	Redcar	O

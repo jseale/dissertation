@@ -1,0 +1,14 @@
+escort_27	For	O
+escort_27	escort	escort_nou
+escort_27	work	O
+escort_27	their	O
+escort_27	minesweeping	O
+escort_27	gear	O
+escort_27	could	O
+escort_27	be	O
+escort_27	exchanged	O
+escort_27	for	O
+escort_27	around	O
+escort_27	40	O
+escort_27	depth	O
+escort_27	charges	O

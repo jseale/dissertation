@@ -1,0 +1,14 @@
+compress_1	An	O
+compress_1	electric	O
+compress_1	motor	O
+compress_1	drives	O
+compress_1	an	O
+compress_1	anvil	O
+compress_1	to	O
+compress_1	compress	compress
+compress_1	a	O
+compress_1	tablet	O
+compress_1	at	O
+compress_1	a	O
+compress_1	constant	O
+compress_1	rate	O

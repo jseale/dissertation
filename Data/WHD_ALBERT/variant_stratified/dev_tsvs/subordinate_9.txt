@@ -1,0 +1,15 @@
+subordinate_9	Because	O
+subordinate_9	of	O
+subordinate_9	the	O
+subordinate_9	fact	O
+subordinate_9	that	O
+subordinate_9	these	O
+subordinate_9	characteristics	O
+subordinate_9	are	O
+subordinate_9	difficult	O
+subordinate_9	to	O
+subordinate_9	measure	O
+subordinate_9	subordinate	subordinate_adj-nou
+subordinate_9	criteria	O
+subordinate_9	are	O
+subordinate_9	assigned	O

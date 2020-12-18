@@ -1,0 +1,12 @@
+content_0	The	O
+content_0	Swamiji	O
+content_0	blessed	O
+content_0	him	O
+content_0	and	O
+content_0	the	O
+content_0	devotee	O
+content_0	returned	O
+content_0	with	O
+content_0	content	content_adj-nou-vrb
+content_0	and	O
+content_0	happiness	O

@@ -1,0 +1,15 @@
+celtic_1	The	O
+celtic_1	Greek	O
+celtic_1	historian	O
+celtic_1	Herodotus	O
+celtic_1	says	O
+celtic_1	Pyrene	O
+celtic_1	is	O
+celtic_1	the	O
+celtic_1	name	O
+celtic_1	of	O
+celtic_1	a	O
+celtic_1	town	O
+celtic_1	in	O
+celtic_1	Celtic	celtic
+celtic_1	Europe	O

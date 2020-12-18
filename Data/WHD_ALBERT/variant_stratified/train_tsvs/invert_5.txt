@@ -1,0 +1,15 @@
+invert_5	The	O
+invert_5	trick	O
+invert_5	was	O
+invert_5	adapted	O
+invert_5	from	O
+invert_5	the	O
+invert_5	Fakie	O
+invert_5	360	O
+invert_5	invert	invert_adj-nou
+invert_5	which	O
+invert_5	Phillips	O
+invert_5	credited	O
+invert_5	to	O
+invert_5	Shawn	O
+invert_5	Peddie	O

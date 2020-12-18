@@ -1,0 +1,17 @@
+convict_32	The	O
+convict_32	mother	O
+convict_32	of	O
+convict_32	the	O
+convict_32	convict	convict_nou
+convict_32	80-year	O
+convict_32	old	O
+convict_32	Alisa	O
+convict_32	Mokhova	O
+convict_32	denies	O
+convict_32	that	O
+convict_32	she	O
+convict_32	knew	O
+convict_32	anything	O
+convict_32	about	O
+convict_32	what	O
+convict_32	happened	O

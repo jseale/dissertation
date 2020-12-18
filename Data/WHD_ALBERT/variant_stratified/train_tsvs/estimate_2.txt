@@ -1,0 +1,9 @@
+estimate_2	The	O
+estimate_2	U.S.	O
+estimate_2	census	O
+estimate_2	2015	O
+estimate_2	county	O
+estimate_2	population	O
+estimate_2	estimate	estimate_nou
+estimate_2	is	O
+estimate_2	245,671	O

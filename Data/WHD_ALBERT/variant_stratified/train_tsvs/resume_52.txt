@@ -1,0 +1,13 @@
+resume_52	When	O
+resume_52	it	O
+resume_52	loses	O
+resume_52	its	O
+resume_52	leaves	O
+resume_52	and	O
+resume_52	flowers	O
+resume_52	appear	O
+resume_52	more	O
+resume_52	frequent	O
+resume_52	watering	O
+resume_52	should	O
+resume_52	resume	resume_vrb

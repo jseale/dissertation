@@ -1,0 +1,17 @@
+converse_71	He	O
+converse_71	liked	O
+converse_71	to	O
+converse_71	serve	O
+converse_71	such	O
+converse_71	saints	O
+converse_71	and	O
+converse_71	to	O
+converse_71	keep	O
+converse_71	their	O
+converse_71	company	O
+converse_71	Satsang	O
+converse_71	and	O
+converse_71	to	O
+converse_71	converse	converse_vrb
+converse_71	with	O
+converse_71	them	O

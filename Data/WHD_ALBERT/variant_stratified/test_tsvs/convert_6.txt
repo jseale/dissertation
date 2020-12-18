@@ -1,0 +1,15 @@
+convert_6	The	O
+convert_6	Deathloks	O
+convert_6	were	O
+convert_6	then	O
+convert_6	used	O
+convert_6	to	O
+convert_6	hunt	O
+convert_6	down	O
+convert_6	and	O
+convert_6	convert	convert_vrb
+convert_6	all	O
+convert_6	heroes	O
+convert_6	of	O
+convert_6	the	O
+convert_6	future	O

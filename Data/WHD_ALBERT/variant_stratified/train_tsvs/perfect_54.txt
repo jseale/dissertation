@@ -1,0 +1,13 @@
+perfect_54	Wootton	O
+perfect_54	stunned	O
+perfect_54	the	O
+perfect_54	crowd	O
+perfect_54	particularly	O
+perfect_54	Cash	O
+perfect_54	himself	O
+perfect_54	with	O
+perfect_54	perfect	perfect_adj
+perfect_54	renditions	O
+perfect_54	of	O
+perfect_54	every	O
+perfect_54	song	O

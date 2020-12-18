@@ -1,0 +1,14 @@
+import_44	In	O
+import_44	the	O
+import_44	year	O
+import_44	2000	O
+import_44	the	O
+import_44	album	O
+import_44	Touching	O
+import_44	Cloth	O
+import_44	was	O
+import_44	released	O
+import_44	as	O
+import_44	an	O
+import_44	import	import_nou
+import_44	only	O

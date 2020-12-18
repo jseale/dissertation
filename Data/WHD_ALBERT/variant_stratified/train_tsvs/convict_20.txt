@@ -1,0 +1,15 @@
+convict_20	In	O
+convict_20	1844	O
+convict_20	Thomas	O
+convict_20	married	O
+convict_20	Mary	O
+convict_20	Ann	O
+convict_20	Shone	O
+convict_20	who	O
+convict_20	was	O
+convict_20	also	O
+convict_20	the	O
+convict_20	child	O
+convict_20	of	O
+convict_20	a	O
+convict_20	convict	convict_nou

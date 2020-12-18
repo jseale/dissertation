@@ -1,0 +1,14 @@
+discard_31	It	O
+discard_31	was	O
+discard_31	no	O
+discard_31	longer	O
+discard_31	a	O
+discard_31	trick	O
+discard_31	taking	O
+discard_31	game	O
+discard_31	but	O
+discard_31	a	O
+discard_31	draw	O
+discard_31	and	O
+discard_31	discard	discard_vrb
+discard_31	game	O

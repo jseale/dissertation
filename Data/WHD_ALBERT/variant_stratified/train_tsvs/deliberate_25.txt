@@ -1,0 +1,14 @@
+deliberate_25	Prosecutors	O
+deliberate_25	considered	O
+deliberate_25	that	O
+deliberate_25	this	O
+deliberate_25	shape	O
+deliberate_25	was	O
+deliberate_25	deliberate	deliberate_adj
+deliberate_25	and	O
+deliberate_25	intended	O
+deliberate_25	to	O
+deliberate_25	humiliate	O
+deliberate_25	Pahl	O
+deliberate_25	in	O
+deliberate_25	death	O

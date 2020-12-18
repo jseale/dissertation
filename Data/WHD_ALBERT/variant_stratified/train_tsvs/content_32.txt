@@ -1,0 +1,13 @@
+content_32	The	O
+content_32	whole	O
+content_32	refined	O
+content_32	cheese	O
+content_32	must	O
+content_32	have	O
+content_32	less	O
+content_32	than	O
+content_32	50	O
+content_32	of	O
+content_32	dry	O
+content_32	matter	O
+content_32	content	content_nou

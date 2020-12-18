@@ -1,0 +1,17 @@
+expose_69	Rahim	O
+expose_69	's	O
+expose_69	letters	O
+expose_69	expose	expose_vrb
+expose_69	his	O
+expose_69	incredible	O
+expose_69	awareness	O
+expose_69	of	O
+expose_69	American	O
+expose_69	pop	O
+expose_69	culture	O
+expose_69	including	O
+expose_69	a	O
+expose_69	criticism	O
+expose_69	of	O
+expose_69	Lebron	O
+expose_69	James	O

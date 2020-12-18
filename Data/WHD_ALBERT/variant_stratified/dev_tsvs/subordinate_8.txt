@@ -1,0 +1,9 @@
+subordinate_8	Subordinate	subordinate_adj-nou
+subordinate_8	commands	O
+subordinate_8	were	O
+subordinate_8	under	O
+subordinate_8	discussion	O
+subordinate_8	in	O
+subordinate_8	1954	O
+subordinate_8	and	O
+subordinate_8	1956	O

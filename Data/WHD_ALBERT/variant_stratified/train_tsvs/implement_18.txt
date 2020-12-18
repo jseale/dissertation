@@ -1,0 +1,17 @@
+implement_18	To	O
+implement_18	overcome	O
+implement_18	the	O
+implement_18	limitations	O
+implement_18	the	O
+implement_18	PlayStation	O
+implement_18	version	O
+implement_18	had	O
+implement_18	to	O
+implement_18	implement	implement_vrb
+implement_18	a	O
+implement_18	new	O
+implement_18	gameplay	O
+implement_18	mode	O
+implement_18	called	O
+implement_18	Cross	O
+implement_18	Over	O

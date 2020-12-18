@@ -1,0 +1,15 @@
+invert_24	Inverted	O
+invert_24	sugar	O
+invert_24	is	O
+invert_24	therefore	O
+invert_24	valued	O
+invert_24	by	O
+invert_24	bakers	O
+invert_24	who	O
+invert_24	refer	O
+invert_24	to	O
+invert_24	the	O
+invert_24	syrup	O
+invert_24	as	O
+invert_24	invert	invert_adj-nou
+invert_24	syrup	O

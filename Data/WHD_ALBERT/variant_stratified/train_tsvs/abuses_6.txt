@@ -1,0 +1,17 @@
+abuses_6	In	O
+abuses_6	1274	O
+abuses_6	Kublai	O
+abuses_6	appointed	O
+abuses_6	Lian	O
+abuses_6	Xixian	O
+abuses_6	to	O
+abuses_6	investigate	O
+abuses_6	abuses	abuses_nou
+abuses_6	of	O
+abuses_6	power	O
+abuses_6	by	O
+abuses_6	Mongol	O
+abuses_6	appanage	O
+abuses_6	holders	O
+abuses_6	in	O
+abuses_6	Manchuria	O

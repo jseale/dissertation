@@ -1,0 +1,12 @@
+ornament_28	The	O
+ornament_28	exterior	O
+ornament_28	of	O
+ornament_28	the	O
+ornament_28	edifice	O
+ornament_28	is	O
+ornament_28	plain	O
+ornament_28	and	O
+ornament_28	almost	O
+ornament_28	devoid	O
+ornament_28	of	O
+ornament_28	ornament	ornament_nou

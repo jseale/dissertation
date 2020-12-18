@@ -1,0 +1,14 @@
+discharge_1	Ozone	O
+discharge_1	is	O
+discharge_1	made	O
+discharge_1	by	O
+discharge_1	passing	O
+discharge_1	oxygen	O
+discharge_1	through	O
+discharge_1	ultraviolet	O
+discharge_1	light	O
+discharge_1	or	O
+discharge_1	a	O
+discharge_1	cold	O
+discharge_1	electrical	O
+discharge_1	discharge	discharge_nou

@@ -1,0 +1,14 @@
+syndicate_50	He	O
+syndicate_50	was	O
+syndicate_50	supposedly	O
+syndicate_50	murdered	O
+syndicate_50	on	O
+syndicate_50	orders	O
+syndicate_50	from	O
+syndicate_50	Luciano	O
+syndicate_50	and	O
+syndicate_50	the	O
+syndicate_50	new	O
+syndicate_50	National	O
+syndicate_50	Crime	O
+syndicate_50	Syndicate	syndicate_nou

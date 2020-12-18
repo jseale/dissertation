@@ -1,0 +1,15 @@
+implement_7	Speargun	O
+implement_7	A	O
+implement_7	speargun	O
+implement_7	is	O
+implement_7	an	O
+implement_7	underwater	O
+implement_7	fishing	O
+implement_7	implement	implement_nou
+implement_7	designed	O
+implement_7	to	O
+implement_7	fire	O
+implement_7	a	O
+implement_7	spear	O
+implement_7	at	O
+implement_7	fish	O

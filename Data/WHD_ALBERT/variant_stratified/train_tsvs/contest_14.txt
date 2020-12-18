@@ -1,0 +1,15 @@
+contest_14	During	O
+contest_14	the	O
+contest_14	Dionysia	O
+contest_14	a	O
+contest_14	contest	contest_nou
+contest_14	took	O
+contest_14	place	O
+contest_14	between	O
+contest_14	three	O
+contest_14	plays	O
+contest_14	chosen	O
+contest_14	by	O
+contest_14	the	O
+contest_14	archon	O
+contest_14	eponymous	O

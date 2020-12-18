@@ -1,0 +1,17 @@
+transform_44	Instead	O
+transform_44	of	O
+transform_44	biting	O
+transform_44	them	O
+transform_44	Dracula	O
+transform_44	uses	O
+transform_44	intense	O
+transform_44	beams	O
+transform_44	from	O
+transform_44	his	O
+transform_44	eyes	O
+transform_44	to	O
+transform_44	transform	transform
+transform_44	his	O
+transform_44	victims	O
+transform_44	into	O
+transform_44	vampires	O

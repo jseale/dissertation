@@ -1,0 +1,11 @@
+perfume_9	In	O
+perfume_9	October	O
+perfume_9	2010	O
+perfume_9	Sparks	O
+perfume_9	released	O
+perfume_9	her	O
+perfume_9	first	O
+perfume_9	perfume	perfume_nou
+perfume_9	Because	O
+perfume_9	of	O
+perfume_9	You	O

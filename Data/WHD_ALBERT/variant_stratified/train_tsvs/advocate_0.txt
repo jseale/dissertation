@@ -1,0 +1,11 @@
+advocate_0	She	O
+advocate_0	has	O
+advocate_0	been	O
+advocate_0	a	O
+advocate_0	staunch	O
+advocate_0	advocate	advocate_nou
+advocate_0	of	O
+advocate_0	the	O
+advocate_0	anti	O
+advocate_0	discrimination	O
+advocate_0	bill	O

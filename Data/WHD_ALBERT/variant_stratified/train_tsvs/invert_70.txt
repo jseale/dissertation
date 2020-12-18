@@ -1,0 +1,7 @@
+invert_70	The	O
+invert_70	more	O
+invert_70	polite	O
+invert_70	invert	invert_vrb
+invert_70	appears	O
+invert_70	as	O
+invert_70	well	O

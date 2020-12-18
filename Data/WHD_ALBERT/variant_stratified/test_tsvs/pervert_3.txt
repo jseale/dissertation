@@ -1,0 +1,12 @@
+pervert_3	And	O
+pervert_3	though	O
+pervert_3	he	O
+pervert_3	is	O
+pervert_3	somewhat	O
+pervert_3	of	O
+pervert_3	a	O
+pervert_3	pervert	pervert_nou
+pervert_3	he	O
+pervert_3	is	O
+pervert_3	also	O
+pervert_3	chivalric	O

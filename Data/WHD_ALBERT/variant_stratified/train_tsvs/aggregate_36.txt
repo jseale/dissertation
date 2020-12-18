@@ -1,0 +1,16 @@
+aggregate_36	Demand	O
+aggregate_36	pull	O
+aggregate_36	inflation	O
+aggregate_36	is	O
+aggregate_36	asserted	O
+aggregate_36	to	O
+aggregate_36	arise	O
+aggregate_36	when	O
+aggregate_36	aggregate	aggregate_adj-nou
+aggregate_36	demand	O
+aggregate_36	in	O
+aggregate_36	an	O
+aggregate_36	economy	O
+aggregate_36	outpaces	O
+aggregate_36	aggregate	aggregate_adj-nou
+aggregate_36	supply	O

@@ -1,0 +1,17 @@
+postulate_52	Later	O
+postulate_52	some	O
+postulate_52	historians	O
+postulate_52	postulate	postulate_vrb
+postulate_52	that	O
+postulate_52	the	O
+postulate_52	Roman	O
+postulate_52	fort	O
+postulate_52	of	O
+postulate_52	Varae	O
+postulate_52	sat	O
+postulate_52	on	O
+postulate_52	the	O
+postulate_52	site	O
+postulate_52	of	O
+postulate_52	the	O
+postulate_52	Cathedral	O

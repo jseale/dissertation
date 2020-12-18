@@ -1,0 +1,14 @@
+rerelease_19	This	O
+rerelease_19	rerelease	rerelease
+rerelease_19	contains	O
+rerelease_19	the	O
+rerelease_19	original	O
+rerelease_19	game	O
+rerelease_19	plus	O
+rerelease_19	a	O
+rerelease_19	redesigned	O
+rerelease_19	version	O
+rerelease_19	on	O
+rerelease_19	the	O
+rerelease_19	same	O
+rerelease_19	disc	O

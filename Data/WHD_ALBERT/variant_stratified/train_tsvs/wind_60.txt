@@ -1,0 +1,17 @@
+wind_60	In	O
+wind_60	March	O
+wind_60	2009	O
+wind_60	Wind	wind_nou
+wind_60	Capital	O
+wind_60	Group	O
+wind_60	announced	O
+wind_60	the	O
+wind_60	sale	O
+wind_60	of	O
+wind_60	their	O
+wind_60	second	O
+wind_60	wind	wind_nou
+wind_60	farm	O
+wind_60	outside	O
+wind_60	of	O
+wind_60	Missouri	O

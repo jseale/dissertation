@@ -1,0 +1,7 @@
+pasty_25	They	O
+pasty_25	won	O
+pasty_25	a	O
+pasty_25	pasty	pasty_adj
+pasty_25	bap	O
+pasty_25	and	O
+pasty_25	chips	O

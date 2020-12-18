@@ -1,0 +1,14 @@
+rebel_27	Since	O
+rebel_27	1998	O
+rebel_27	government	O
+rebel_27	and	O
+rebel_27	rebel	rebel_nou
+rebel_27	forces	O
+rebel_27	have	O
+rebel_27	fought	O
+rebel_27	with	O
+rebel_27	little	O
+rebel_27	progress	O
+rebel_27	on	O
+rebel_27	either	O
+rebel_27	side	O

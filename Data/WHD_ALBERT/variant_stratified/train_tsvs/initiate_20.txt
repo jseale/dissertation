@@ -1,0 +1,16 @@
+initiate_20	Upon	O
+initiate_20	depositing	O
+initiate_20	within	O
+initiate_20	the	O
+initiate_20	aneurysm	O
+initiate_20	the	O
+initiate_20	coils	O
+initiate_20	expand	O
+initiate_20	and	O
+initiate_20	initiate	initiate_vrb
+initiate_20	a	O
+initiate_20	thrombotic	O
+initiate_20	reaction	O
+initiate_20	within	O
+initiate_20	the	O
+initiate_20	aneurysm	O

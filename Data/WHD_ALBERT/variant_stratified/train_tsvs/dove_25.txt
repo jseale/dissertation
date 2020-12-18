@@ -1,0 +1,15 @@
+dove_25	The	O
+dove_25	dove	dove
+dove_25	was	O
+dove_25	refurbished	O
+dove_25	during	O
+dove_25	the	O
+dove_25	renovation	O
+dove_25	and	O
+dove_25	in	O
+dove_25	mid-2002	O
+dove_25	returned	O
+dove_25	to	O
+dove_25	its	O
+dove_25	original	O
+dove_25	perch	O

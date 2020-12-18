@@ -1,0 +1,16 @@
+animate_7	The	O
+animate_7	Motion	O
+animate_7	Capture	O
+animate_7	aka	O
+animate_7	MoCap	O
+animate_7	allows	O
+animate_7	users	O
+animate_7	to	O
+animate_7	motion	O
+animate_7	track	O
+animate_7	and	O
+animate_7	animate	animate_vrb
+animate_7	their	O
+animate_7	3D	O
+animate_7	characters	O
+animate_7	easily	O

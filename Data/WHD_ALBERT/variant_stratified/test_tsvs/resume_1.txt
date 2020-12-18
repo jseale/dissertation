@@ -1,0 +1,13 @@
+resume_1	When	O
+resume_1	Gatsby	O
+resume_1	and	O
+resume_1	Daisy	O
+resume_1	resume	resume_vrb
+resume_1	their	O
+resume_1	love	O
+resume_1	affair	O
+resume_1	Nick	O
+resume_1	serves	O
+resume_1	as	O
+resume_1	their	O
+resume_1	confidant	O

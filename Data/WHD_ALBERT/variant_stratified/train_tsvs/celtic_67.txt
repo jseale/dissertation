@@ -1,0 +1,8 @@
+celtic_67	There	O
+celtic_67	is	O
+celtic_67	a	O
+celtic_67	Celtic	celtic_adj-nou-sports
+celtic_67	supporters	O
+celtic_67	club	O
+celtic_67	in	O
+celtic_67	Gibraltar	O

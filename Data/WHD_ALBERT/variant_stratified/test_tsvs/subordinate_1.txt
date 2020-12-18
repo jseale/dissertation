@@ -1,0 +1,15 @@
+subordinate_1	In	O
+subordinate_1	comparison	O
+subordinate_1	with	O
+subordinate_1	unparasitized	O
+subordinate_1	control	O
+subordinate_1	nests	O
+subordinate_1	subordinate	subordinate_adj-nou
+subordinate_1	females	O
+subordinate_1	under	O
+subordinate_1	a	O
+subordinate_1	parasite	O
+subordinate_1	queens	O
+subordinate_1	laid	O
+subordinate_1	more	O
+subordinate_1	eggs	O

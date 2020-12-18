@@ -1,0 +1,16 @@
+increment_57	When	O
+increment_57	recipients	O
+increment_57	fail	O
+increment_57	to	O
+increment_57	demonstrate	O
+increment_57	an	O
+increment_57	adequate	O
+increment_57	post	O
+increment_57	transfusion	O
+increment_57	increment	increment_nou
+increment_57	this	O
+increment_57	is	O
+increment_57	termed	O
+increment_57	platelet	O
+increment_57	transfusion	O
+increment_57	refractoriness	O

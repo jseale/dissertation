@@ -1,0 +1,10 @@
+sow_7	The	O
+sow_7	Old	O
+sow_7	Sow	sow_nou
+sow_7	had	O
+sow_7	been	O
+sow_7	owned	O
+sow_7	by	O
+sow_7	the	O
+sow_7	Nauvoo	O
+sow_7	Legion	O

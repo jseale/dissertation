@@ -1,0 +1,15 @@
+implement_9	Instead	O
+implement_9	they	O
+implement_9	implement	implement_vrb
+implement_9	hysteresis	O
+implement_9	allowing	O
+implement_9	for	O
+implement_9	a	O
+implement_9	small	O
+implement_9	amount	O
+implement_9	of	O
+implement_9	movement	O
+implement_9	between	O
+implement_9	the	O
+implement_9	two	O
+implement_9	clicks	O

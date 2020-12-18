@@ -1,0 +1,9 @@
+approximate_10	The	O
+approximate_10	approximate	approximate_adj-nou
+approximate_10	duration	O
+approximate_10	of	O
+approximate_10	the	O
+approximate_10	work	O
+approximate_10	is	O
+approximate_10	32	O
+approximate_10	minutes	O

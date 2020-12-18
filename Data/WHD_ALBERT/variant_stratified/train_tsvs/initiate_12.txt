@@ -1,0 +1,16 @@
+initiate_12	When	O
+initiate_12	the	O
+initiate_12	lung	O
+initiate_12	expands	O
+initiate_12	the	O
+initiate_12	receptors	O
+initiate_12	initiate	initiate_vrb
+initiate_12	the	O
+initiate_12	Hering	O
+initiate_12	Breuer	O
+initiate_12	reflex	O
+initiate_12	which	O
+initiate_12	reduces	O
+initiate_12	the	O
+initiate_12	respiratory	O
+initiate_12	rate	O

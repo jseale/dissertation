@@ -1,0 +1,10 @@
+polish_24	Weronika	O
+polish_24	Nowakowska	O
+polish_24	born	O
+polish_24	7	O
+polish_24	July	O
+polish_24	1986	O
+polish_24	is	O
+polish_24	a	O
+polish_24	Polish	polish_geo
+polish_24	biathlete	O

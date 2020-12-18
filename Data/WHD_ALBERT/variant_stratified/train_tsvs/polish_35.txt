@@ -1,0 +1,17 @@
+polish_35	Michal	O
+polish_35	Haratyk	O
+polish_35	born	O
+polish_35	10	O
+polish_35	April	O
+polish_35	1992	O
+polish_35	in	O
+polish_35	Cieszyn	O
+polish_35	is	O
+polish_35	a	O
+polish_35	Polish	polish_geo
+polish_35	athlete	O
+polish_35	specialising	O
+polish_35	in	O
+polish_35	the	O
+polish_35	shot	O
+polish_35	put	O

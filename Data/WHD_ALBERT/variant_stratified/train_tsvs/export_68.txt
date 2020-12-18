@@ -1,0 +1,16 @@
+export_68	The	O
+export_68	user	O
+export_68	then	O
+export_68	has	O
+export_68	the	O
+export_68	option	O
+export_68	to	O
+export_68	export	export_vrb
+export_68	their	O
+export_68	remix	O
+export_68	to	O
+export_68	their	O
+export_68	social	O
+export_68	media	O
+export_68	of	O
+export_68	choice	O

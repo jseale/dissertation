@@ -1,0 +1,8 @@
+aged_20	He	O
+aged_20	died	O
+aged_20	in	O
+aged_20	Claremont	O
+aged_20	in	O
+aged_20	1957	O
+aged_20	aged	aged
+aged_20	91	O

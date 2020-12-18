@@ -1,0 +1,14 @@
+aggregate_9	SeqA	O
+aggregate_9	tetramers	O
+aggregate_9	are	O
+aggregate_9	able	O
+aggregate_9	to	O
+aggregate_9	aggregate	aggregate_vrb
+aggregate_9	or	O
+aggregate_9	multimerize	O
+aggregate_9	in	O
+aggregate_9	a	O
+aggregate_9	reversible	O
+aggregate_9	concentration	O
+aggregate_9	dependent	O
+aggregate_9	manner	O

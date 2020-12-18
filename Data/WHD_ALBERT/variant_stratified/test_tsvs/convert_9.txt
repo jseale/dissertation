@@ -1,0 +1,16 @@
+convert_9	Domestic	O
+convert_9	biogas	O
+convert_9	plants	O
+convert_9	convert	convert_vrb
+convert_9	livestock	O
+convert_9	manure	O
+convert_9	and	O
+convert_9	night	O
+convert_9	soil	O
+convert_9	into	O
+convert_9	biogas	O
+convert_9	and	O
+convert_9	slurry	O
+convert_9	the	O
+convert_9	fermented	O
+convert_9	manure	O

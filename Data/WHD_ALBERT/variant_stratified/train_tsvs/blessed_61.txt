@@ -1,0 +1,10 @@
+blessed_61	Villages	O
+blessed_61	in	O
+blessed_61	Jobat	O
+blessed_61	area	O
+blessed_61	are	O
+blessed_61	now	O
+blessed_61	blessed	blessed_vrb
+blessed_61	with	O
+blessed_61	road	O
+blessed_61	connectivity	O

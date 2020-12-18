@@ -1,0 +1,14 @@
+duplicate_40	This	O
+duplicate_40	was	O
+duplicate_40	to	O
+duplicate_40	eliminate	O
+duplicate_40	duplicate	duplicate_adj-nou
+duplicate_40	services	O
+duplicate_40	and	O
+duplicate_40	allocate	O
+duplicate_40	resources	O
+duplicate_40	more	O
+duplicate_40	efficiently	O
+duplicate_40	across	O
+duplicate_40	the	O
+duplicate_40	region	O

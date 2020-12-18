@@ -1,0 +1,11 @@
+animate_19	Local	O
+animate_19	case	O
+animate_19	endings	O
+animate_19	are	O
+animate_19	not	O
+animate_19	normally	O
+animate_19	added	O
+animate_19	to	O
+animate_19	animate	animate_adj-nou
+animate_19	Proper	O
+animate_19	Nouns	O

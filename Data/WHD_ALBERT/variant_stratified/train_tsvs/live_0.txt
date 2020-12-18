@@ -1,0 +1,17 @@
+live_0	Also	O
+live_0	hosts	O
+live_0	are	O
+live_0	required	O
+live_0	to	O
+live_0	perform	O
+live_0	hours	O
+live_0	of	O
+live_0	free	O
+live_0	live	live_adj
+live_0	chat	O
+live_0	in	O
+live_0	which	O
+live_0	they	O
+live_0	are	O
+live_0	not	O
+live_0	paid	O

@@ -1,0 +1,7 @@
+abuse_64	Developing	O
+abuse_64	and	O
+abuse_64	implementing	O
+abuse_64	AOD	O
+abuse_64	abuse	abuse_nou
+abuse_64	prevention	O
+abuse_64	strategies	O

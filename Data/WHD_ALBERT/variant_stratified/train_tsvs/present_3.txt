@@ -1,0 +1,14 @@
+present_3	The	O
+present_3	provinces	O
+present_3	were	O
+present_3	supplanted	O
+present_3	by	O
+present_3	the	O
+present_3	present	present_adj-nou
+present_3	system	O
+present_3	of	O
+present_3	counties	O
+present_3	after	O
+present_3	the	O
+present_3	Norman	O
+present_3	invasion	O

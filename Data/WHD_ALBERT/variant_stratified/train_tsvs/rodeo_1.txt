@@ -1,0 +1,13 @@
+rodeo_1	Many	O
+rodeo_1	rodeo	rodeo
+rodeo_1	cowboys	O
+rodeo_1	are	O
+rodeo_1	also	O
+rodeo_1	working	O
+rodeo_1	cowboys	O
+rodeo_1	and	O
+rodeo_1	most	O
+rodeo_1	have	O
+rodeo_1	working	O
+rodeo_1	cowboy	O
+rodeo_1	experience	O

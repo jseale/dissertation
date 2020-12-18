@@ -1,0 +1,17 @@
+aged_19	Andrews	O
+aged_19	died	O
+aged_19	of	O
+aged_19	cardiac	O
+aged_19	arrest	O
+aged_19	at	O
+aged_19	his	O
+aged_19	home	O
+aged_19	in	O
+aged_19	Encino	O
+aged_19	California	O
+aged_19	on	O
+aged_19	January	O
+aged_19	27	O
+aged_19	2007	O
+aged_19	aged	aged
+aged_19	86	O

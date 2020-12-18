@@ -1,0 +1,13 @@
+permit_9	Adequate	O
+permit_9	safety	O
+permit_9	stock	O
+permit_9	levels	O
+permit_9	permit	permit_vrb
+permit_9	business	O
+permit_9	operations	O
+permit_9	to	O
+permit_9	proceed	O
+permit_9	according	O
+permit_9	to	O
+permit_9	their	O
+permit_9	plans	O

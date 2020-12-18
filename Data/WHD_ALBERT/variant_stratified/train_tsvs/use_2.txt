@@ -1,0 +1,16 @@
+use_2	First	O
+use_2	takedown	O
+use_2	notices	O
+use_2	supersede	O
+use_2	the	O
+use_2	fair	O
+use_2	use	use_nou
+use_2	doctrine	O
+use_2	which	O
+use_2	goes	O
+use_2	against	O
+use_2	the	O
+use_2	freedom	O
+use_2	of	O
+use_2	speech	O
+use_2	act	O

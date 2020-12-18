@@ -1,0 +1,7 @@
+convict_41	There	O
+convict_41	were	O
+convict_41	no	O
+convict_41	convict	convict_nou
+convict_41	deaths	O
+convict_41	en	O
+convict_41	route	O

@@ -1,0 +1,13 @@
+present_79	Jogaila	O
+present_79	and	O
+present_79	Vytautas	O
+present_79	agreed	O
+present_79	to	O
+present_79	present	present_vrb
+present_79	their	O
+present_79	case	O
+present_79	to	O
+present_79	the	O
+present_79	Council	O
+present_79	of	O
+present_79	Constance	O

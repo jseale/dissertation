@@ -1,0 +1,13 @@
+degenerate_63	In	O
+degenerate_63	such	O
+degenerate_63	a	O
+degenerate_63	degenerate	degenerate_adj-nou
+degenerate_63	case	O
+degenerate_63	the	O
+degenerate_63	solution	O
+degenerate_63	set	O
+degenerate_63	is	O
+degenerate_63	said	O
+degenerate_63	to	O
+degenerate_63	be	O
+degenerate_63	degenerate	degenerate_adj-nou

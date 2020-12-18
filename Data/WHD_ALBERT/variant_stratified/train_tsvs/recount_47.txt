@@ -1,0 +1,16 @@
+recount_47	So	O
+recount_47	far	O
+recount_47	only	O
+recount_47	in	O
+recount_47	the	O
+recount_47	gubernatorial	O
+recount_47	elections	O
+recount_47	of	O
+recount_47	1980	O
+recount_47	and	O
+recount_47	2004	O
+recount_47	has	O
+recount_47	a	O
+recount_47	recount	recount_nou
+recount_47	taken	O
+recount_47	place	O

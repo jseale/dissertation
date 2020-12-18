@@ -1,0 +1,12 @@
+graduate_40	She	O
+graduate_40	did	O
+graduate_40	graduate	graduate_adj-nou
+graduate_40	work	O
+graduate_40	on	O
+graduate_40	strategic	O
+graduate_40	and	O
+graduate_40	international	O
+graduate_40	studies	O
+graduate_40	at	O
+graduate_40	Oxford	O
+graduate_40	University	O

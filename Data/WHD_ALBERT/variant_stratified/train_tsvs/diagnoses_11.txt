@@ -1,0 +1,14 @@
+diagnoses_11	Progressively	O
+diagnoses_11	weaker	O
+diagnoses_11	responses	O
+diagnoses_11	are	O
+diagnoses_11	consistent	O
+diagnoses_11	with	O
+diagnoses_11	diagnoses	diagnoses_nou
+diagnoses_11	moving	O
+diagnoses_11	through	O
+diagnoses_11	borderline	O
+diagnoses_11	diagnoses	diagnoses_nou
+diagnoses_11	to	O
+diagnoses_11	lepromatous	O
+diagnoses_11	HD	O

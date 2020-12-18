@@ -1,0 +1,9 @@
+lead_25	Dorothy	O
+lead_25	Moore	O
+lead_25	was	O
+lead_25	the	O
+lead_25	lead	lead_nou-vrb
+lead_25	singer	O
+lead_25	for	O
+lead_25	The	O
+lead_25	Poppies	O

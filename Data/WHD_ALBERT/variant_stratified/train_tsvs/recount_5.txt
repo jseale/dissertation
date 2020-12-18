@@ -1,0 +1,15 @@
+recount_5	Still	O
+recount_5	despite	O
+recount_5	the	O
+recount_5	total	O
+recount_5	recount	recount_nou
+recount_5	in	O
+recount_5	25,000	O
+recount_5	settlements	O
+recount_5	only	O
+recount_5	4,887	O
+recount_5	previously	O
+recount_5	unenumerated	O
+recount_5	persons	O
+recount_5	were	O
+recount_5	found	O

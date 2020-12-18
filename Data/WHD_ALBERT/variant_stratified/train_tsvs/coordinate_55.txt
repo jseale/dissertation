@@ -1,0 +1,12 @@
+coordinate_55	George	O
+coordinate_55	was	O
+coordinate_55	to	O
+coordinate_55	coordinate	coordinate_vrb
+coordinate_55	his	O
+coordinate_55	planning	O
+coordinate_55	efforts	O
+coordinate_55	with	O
+coordinate_55	War	O
+coordinate_55	Plans	O
+coordinate_55	Division	O
+coordinate_55	WPD	O

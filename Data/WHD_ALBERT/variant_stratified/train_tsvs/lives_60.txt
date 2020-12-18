@@ -1,0 +1,16 @@
+lives_60	Snow	O
+lives_60	then	O
+lives_60	lives	lives_vrb
+lives_60	in	O
+lives_60	the	O
+lives_60	forest	O
+lives_60	meeting	O
+lives_60	Prince	O
+lives_60	David	O
+lives_60	while	O
+lives_60	robbing	O
+lives_60	him	O
+lives_60	who	O
+lives_60	she	O
+lives_60	nicknames	O
+lives_60	Charming	O

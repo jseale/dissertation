@@ -1,0 +1,13 @@
+discount_38	In	O
+discount_38	1990	O
+discount_38	Walmart	O
+discount_38	opened	O
+discount_38	its	O
+discount_38	first	O
+discount_38	Bud	O
+discount_38	's	O
+discount_38	Discount	discount_nou
+discount_38	City	O
+discount_38	location	O
+discount_38	in	O
+discount_38	Bentonville	O

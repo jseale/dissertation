@@ -1,0 +1,16 @@
+isolate_68	The	O
+isolate_68	pop	O
+isolate_68	directional	O
+isolate_68	formatting	O
+isolate_68	characters	O
+isolate_68	terminate	O
+isolate_68	the	O
+isolate_68	scope	O
+isolate_68	of	O
+isolate_68	the	O
+isolate_68	most	O
+isolate_68	recent	O
+isolate_68	embedding	O
+isolate_68	override	O
+isolate_68	or	O
+isolate_68	isolate	isolate_nou

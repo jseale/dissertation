@@ -1,0 +1,8 @@
+sake_0	Does	O
+sake_0	he	O
+sake_0	not	O
+sake_0	speak	O
+sake_0	entirely	O
+sake_0	for	O
+sake_0	our	O
+sake_0	sake	sake

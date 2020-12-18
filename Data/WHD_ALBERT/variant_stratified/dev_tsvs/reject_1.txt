@@ -1,0 +1,12 @@
+reject_1	Some	O
+reject_1	Green	O
+reject_1	candidates	O
+reject_1	in	O
+reject_1	the	O
+reject_1	elections	O
+reject_1	reject	reject_vrb
+reject_1	classification	O
+reject_1	as	O
+reject_1	left	O
+reject_1	or	O
+reject_1	right	O

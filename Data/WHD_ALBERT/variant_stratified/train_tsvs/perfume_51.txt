@@ -1,0 +1,10 @@
+perfume_51	This	O
+perfume_51	is	O
+perfume_51	more	O
+perfume_51	common	O
+perfume_51	in	O
+perfume_51	smaller	O
+perfume_51	or	O
+perfume_51	independent	O
+perfume_51	perfume	perfume_nou
+perfume_51	houses	O

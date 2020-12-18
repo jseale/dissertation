@@ -1,0 +1,16 @@
+resume_4	She	O
+resume_4	has	O
+resume_4	some	O
+resume_4	of	O
+resume_4	Carson	O
+resume_4	's	O
+resume_4	inspirational	O
+resume_4	biography	O
+resume_4	and	O
+resume_4	some	O
+resume_4	of	O
+resume_4	Trump	O
+resume_4	's	O
+resume_4	business	O
+resume_4	acumen	O
+resume_4	resume	resume_nou

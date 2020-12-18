@@ -1,0 +1,11 @@
+implement_6	Clippinger	O
+implement_6	consulted	O
+implement_6	with	O
+implement_6	von	O
+implement_6	Neumann	O
+implement_6	on	O
+implement_6	what	O
+implement_6	instruction	O
+implement_6	set	O
+implement_6	to	O
+implement_6	implement	implement_vrb

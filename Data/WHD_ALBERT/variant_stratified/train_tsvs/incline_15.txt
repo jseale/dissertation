@@ -1,0 +1,10 @@
+incline_15	It	O
+incline_15	is	O
+incline_15	flat	O
+incline_15	with	O
+incline_15	a	O
+incline_15	slight	O
+incline_15	incline	incline_nou
+incline_15	towards	O
+incline_15	the	O
+incline_15	sea	O

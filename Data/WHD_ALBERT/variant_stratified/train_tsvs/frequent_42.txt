@@ -1,0 +1,8 @@
+frequent_42	This	O
+frequent_42	lasts	O
+frequent_42	longer	O
+frequent_42	and	O
+frequent_42	requires	O
+frequent_42	less	O
+frequent_42	frequent	frequent_adj
+frequent_42	attention	O

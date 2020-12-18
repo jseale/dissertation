@@ -1,0 +1,16 @@
+document_1	She	O
+document_1	also	O
+document_1	co	O
+document_1	authored	O
+document_1	a	O
+document_1	guidance	O
+document_1	document	document_nou
+document_1	called	O
+document_1	Getting	O
+document_1	Accountability	O
+document_1	Right	O
+document_1	with	O
+document_1	a	O
+document_1	Privacy	O
+document_1	Management	O
+document_1	Program	O

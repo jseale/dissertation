@@ -1,0 +1,15 @@
+postulate_2	Meaning	O
+postulate_2	Postulate	postulate_nou
+postulate_2	is	O
+postulate_2	a	O
+postulate_2	formula	O
+postulate_2	to	O
+postulate_2	express	O
+postulate_2	an	O
+postulate_2	aspect	O
+postulate_2	of	O
+postulate_2	the	O
+postulate_2	sense	O
+postulate_2	of	O
+postulate_2	a	O
+postulate_2	predicate	O

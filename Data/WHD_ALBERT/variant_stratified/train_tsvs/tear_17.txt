@@ -1,0 +1,11 @@
+tear_17	The	O
+tear_17	police	O
+tear_17	refused	O
+tear_17	to	O
+tear_17	release	O
+tear_17	them	O
+tear_17	and	O
+tear_17	used	O
+tear_17	tear	tear_nou
+tear_17	gas	O
+tear_17	shells	O

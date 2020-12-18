@@ -1,0 +1,15 @@
+suspect_72	We	O
+suspect_72	suspect	suspect_vrb
+suspect_72	the	O
+suspect_72	three	O
+suspect_72	masked	O
+suspect_72	men	O
+suspect_72	who	O
+suspect_72	raised	O
+suspect_72	those	O
+suspect_72	anti	O
+suspect_72	national	O
+suspect_72	slogans	O
+suspect_72	were	O
+suspect_72	from	O
+suspect_72	IB	O

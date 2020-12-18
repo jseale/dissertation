@@ -1,0 +1,13 @@
+retard_37	The	O
+retard_37	topographical	O
+retard_37	setting	O
+retard_37	may	O
+retard_37	either	O
+retard_37	hasten	O
+retard_37	or	O
+retard_37	retard	retard_vrb
+retard_37	the	O
+retard_37	work	O
+retard_37	of	O
+retard_37	climatic	O
+retard_37	forces	O

@@ -1,0 +1,11 @@
+discard_7	The	O
+discard_7	four	O
+discard_7	non	O
+discard_7	dealers	O
+discard_7	each	O
+discard_7	discard	discard_vrb
+discard_7	one	O
+discard_7	card	O
+discard_7	to	O
+discard_7	the	O
+discard_7	crib	O

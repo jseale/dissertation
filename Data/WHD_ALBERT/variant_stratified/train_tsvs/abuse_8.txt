@@ -1,0 +1,11 @@
+abuse_8	Tanenbaum	O
+abuse_8	notes	O
+abuse_8	that	O
+abuse_8	MacKinnon	O
+abuse_8	misrepresents	O
+abuse_8	the	O
+abuse_8	prevalence	O
+abuse_8	of	O
+abuse_8	violence	O
+abuse_8	and	O
+abuse_8	abuse	abuse_nou

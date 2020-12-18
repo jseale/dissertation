@@ -1,0 +1,8 @@
+supplement_39	The	O
+supplement_39	Times	O
+supplement_39	Literary	O
+supplement_39	Supplement	supplement_nou
+supplement_39	said	O
+supplement_39	it	O
+supplement_39	was	O
+supplement_39	impressive	O

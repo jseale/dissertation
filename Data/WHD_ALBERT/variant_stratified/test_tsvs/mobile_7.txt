@@ -1,0 +1,17 @@
+mobile_7	In	O
+mobile_7	2015	O
+mobile_7	Green	O
+mobile_7	was	O
+mobile_7	a	O
+mobile_7	judge	O
+mobile_7	for	O
+mobile_7	the	O
+mobile_7	2015	O
+mobile_7	Boost	O
+mobile_7	Mobile	mobile
+mobile_7	NBA	O
+mobile_7	D	O
+mobile_7	League	O
+mobile_7	Slam	O
+mobile_7	Dunk	O
+mobile_7	Contest	O

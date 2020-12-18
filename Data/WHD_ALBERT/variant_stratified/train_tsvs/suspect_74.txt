@@ -1,0 +1,8 @@
+suspect_74	Candy	O
+suspect_74	begins	O
+suspect_74	to	O
+suspect_74	suspect	suspect_vrb
+suspect_74	Patrick	O
+suspect_74	is	O
+suspect_74	the	O
+suspect_74	killer	O

@@ -1,0 +1,16 @@
+insert_48	Users	O
+insert_48	are	O
+insert_48	also	O
+insert_48	able	O
+insert_48	to	O
+insert_48	insert	insert_vrb
+insert_48	a	O
+insert_48	USB	O
+insert_48	keyboard	O
+insert_48	into	O
+insert_48	the	O
+insert_48	Wii	O
+insert_48	system	O
+insert_48	for	O
+insert_48	text	O
+insert_48	input	O

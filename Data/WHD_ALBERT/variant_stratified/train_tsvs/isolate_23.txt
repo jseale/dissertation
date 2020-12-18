@@ -1,0 +1,17 @@
+isolate_23	In	O
+isolate_23	this	O
+isolate_23	situation	O
+isolate_23	it	O
+isolate_23	will	O
+isolate_23	be	O
+isolate_23	necessary	O
+isolate_23	to	O
+isolate_23	isolate	isolate
+isolate_23	the	O
+isolate_23	timber	O
+isolate_23	from	O
+isolate_23	the	O
+isolate_23	masonry	O
+isolate_23	with	O
+isolate_23	DPC	O
+isolate_23	material	O

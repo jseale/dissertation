@@ -1,0 +1,15 @@
+decrease_67	It	O
+decrease_67	can	O
+decrease_67	estimate	O
+decrease_67	the	O
+decrease_67	energy	O
+decrease_67	at	O
+decrease_67	highest	O
+decrease_67	and	O
+decrease_67	lowest	O
+decrease_67	discharge	O
+decrease_67	rate	O
+decrease_67	to	O
+decrease_67	decrease	decrease_vrb
+decrease_67	the	O
+decrease_67	error	O

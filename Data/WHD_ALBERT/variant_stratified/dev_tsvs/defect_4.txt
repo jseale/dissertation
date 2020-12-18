@@ -1,0 +1,8 @@
+defect_4	Synergism	O
+defect_4	between	O
+defect_4	ethanol	O
+defect_4	excess	O
+defect_4	and	O
+defect_4	the	O
+defect_4	genetic	O
+defect_4	defect	defect_nou

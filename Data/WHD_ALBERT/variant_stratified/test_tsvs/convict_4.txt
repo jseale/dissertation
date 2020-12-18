@@ -1,0 +1,14 @@
+convict_4	In	O
+convict_4	October	O
+convict_4	1828	O
+convict_4	Alonzo	O
+convict_4	was	O
+convict_4	recorded	O
+convict_4	as	O
+convict_4	serving	O
+convict_4	as	O
+convict_4	a	O
+convict_4	convict	convict_nou
+convict_4	ship	O
+convict_4	at	O
+convict_4	Portsmouth	O

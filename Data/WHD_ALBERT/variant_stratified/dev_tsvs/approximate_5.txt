@@ -1,0 +1,14 @@
+approximate_5	The	O
+approximate_5	school	O
+approximate_5	has	O
+approximate_5	an	O
+approximate_5	approximate	approximate_adj-nou
+approximate_5	population	O
+approximate_5	of	O
+approximate_5	over	O
+approximate_5	700	O
+approximate_5	students	O
+approximate_5	and	O
+approximate_5	around	O
+approximate_5	90	O
+approximate_5	staff	O

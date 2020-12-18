@@ -1,0 +1,15 @@
+affect_4	Studies	O
+affect_4	have	O
+affect_4	shown	O
+affect_4	that	O
+affect_4	phenolic	O
+affect_4	hydrocarbons	O
+affect_4	affect	affect
+affect_4	the	O
+affect_4	functional	O
+affect_4	and	O
+affect_4	structural	O
+affect_4	properties	O
+affect_4	of	O
+affect_4	cell	O
+affect_4	membranes	O

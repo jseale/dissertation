@@ -1,0 +1,10 @@
+subordinate_53	Inugama	O
+subordinate_53	Inugami	O
+subordinate_53	in	O
+subordinate_53	the	O
+subordinate_53	English	O
+subordinate_53	version	O
+subordinate_53	Ushitora	O
+subordinate_53	's	O
+subordinate_53	former	O
+subordinate_53	subordinate	subordinate_adj-nou

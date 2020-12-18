@@ -1,0 +1,11 @@
+extract_47	Thus	O
+extract_47	the	O
+extract_47	adsorbed	O
+extract_47	gas	O
+extract_47	molecules	O
+extract_47	continue	O
+extract_47	to	O
+extract_47	extract	extract_vrb
+extract_47	electrons	O
+extract_47	from	O
+extract_47	them	O

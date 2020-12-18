@@ -1,0 +1,7 @@
+uses_9	Predictive	O
+uses_9	modeling	O
+uses_9	uses	uses_vrb
+uses_9	statistics	O
+uses_9	to	O
+uses_9	predict	O
+uses_9	outcomes	O

@@ -1,0 +1,15 @@
+alternate_16	Chinnamul	O
+alternate_16	alternate	alternate_adj-nou
+alternate_16	spelling	O
+alternate_16	Chhinnamul	O
+alternate_16	The	O
+alternate_16	Uprooted	O
+alternate_16	was	O
+alternate_16	a	O
+alternate_16	1950	O
+alternate_16	Bengali	O
+alternate_16	film	O
+alternate_16	directed	O
+alternate_16	by	O
+alternate_16	Nemai	O
+alternate_16	Ghosh	O

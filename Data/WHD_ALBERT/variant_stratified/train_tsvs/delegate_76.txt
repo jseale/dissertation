@@ -1,0 +1,14 @@
+delegate_76	Only	O
+delegate_76	the	O
+delegate_76	District	O
+delegate_76	Attorney	O
+delegate_76	can	O
+delegate_76	delegate	delegate_vrb
+delegate_76	the	O
+delegate_76	responsibility	O
+delegate_76	of	O
+delegate_76	investigating	O
+delegate_76	homicides	O
+delegate_76	to	O
+delegate_76	another	O
+delegate_76	party	O

@@ -1,0 +1,13 @@
+conduct_8	The	O
+conduct_8	diversion	O
+conduct_8	operations	O
+conduct_8	also	O
+conduct_8	frustrated	O
+conduct_8	an	O
+conduct_8	opponent	O
+conduct_8	trying	O
+conduct_8	to	O
+conduct_8	conduct	conduct_vrb
+conduct_8	an	O
+conduct_8	elastic	O
+conduct_8	defence	O

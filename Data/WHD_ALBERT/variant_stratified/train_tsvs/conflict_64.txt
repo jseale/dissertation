@@ -1,0 +1,15 @@
+conflict_64	Their	O
+conflict_64	rivals	O
+conflict_64	the	O
+conflict_64	Ekstremi	O
+conflict_64	set	O
+conflict_64	the	O
+conflict_64	banner	O
+conflict_64	on	O
+conflict_64	fire	O
+conflict_64	and	O
+conflict_64	than	O
+conflict_64	the	O
+conflict_64	conflict	conflict_nou
+conflict_64	broke	O
+conflict_64	out	O

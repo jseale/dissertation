@@ -1,0 +1,10 @@
+rodeo_0	Exhibits	O
+rodeo_0	include	O
+rodeo_0	historic	O
+rodeo_0	photographs	O
+rodeo_0	saddles	O
+rodeo_0	rodeo	rodeo
+rodeo_0	artifacts	O
+rodeo_0	and	O
+rodeo_0	cowboy	O
+rodeo_0	gear	O

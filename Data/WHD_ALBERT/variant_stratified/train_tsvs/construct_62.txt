@@ -1,0 +1,15 @@
+construct_62	The	O
+construct_62	American	O
+construct_62	and	O
+construct_62	Soviet	O
+construct_62	governments	O
+construct_62	enter	O
+construct_62	a	O
+construct_62	race	O
+construct_62	to	O
+construct_62	construct	construct_vrb
+construct_62	identical	O
+construct_62	copies	O
+construct_62	of	O
+construct_62	the	O
+construct_62	machine	O

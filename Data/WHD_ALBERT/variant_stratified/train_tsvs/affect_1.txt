@@ -1,0 +1,12 @@
+affect_1	This	O
+affect_1	illustrates	O
+affect_1	how	O
+affect_1	differences	O
+affect_1	in	O
+affect_1	environmental	O
+affect_1	conditions	O
+affect_1	can	O
+affect_1	significantly	O
+affect_1	affect	affect
+affect_1	bullet	O
+affect_1	flight	O

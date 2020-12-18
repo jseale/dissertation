@@ -1,0 +1,14 @@
+laminate_38	The	O
+laminate_38	mold	O
+laminate_38	and	O
+laminate_38	laminate	laminate_nou
+laminate_38	become	O
+laminate_38	separated	O
+laminate_38	from	O
+laminate_38	the	O
+laminate_38	circulating	O
+laminate_38	HTF	O
+laminate_38	by	O
+laminate_38	a	O
+laminate_38	flexible	O
+laminate_38	membrane	O

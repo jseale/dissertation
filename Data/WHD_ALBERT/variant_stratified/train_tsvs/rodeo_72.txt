@@ -1,0 +1,17 @@
+rodeo_72	Pop	O
+rodeo_72	is	O
+rodeo_72	worried	O
+rodeo_72	that	O
+rodeo_72	his	O
+rodeo_72	son	O
+rodeo_72	Tex	O
+rodeo_72	is	O
+rodeo_72	destroying	O
+rodeo_72	their	O
+rodeo_72	rodeo	rodeo
+rodeo_72	through	O
+rodeo_72	his	O
+rodeo_72	irresponsible	O
+rodeo_72	drinking	O
+rodeo_72	and	O
+rodeo_72	gambling	O

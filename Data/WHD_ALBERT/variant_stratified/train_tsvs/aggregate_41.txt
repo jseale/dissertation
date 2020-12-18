@@ -1,0 +1,8 @@
+aggregate_41	Metacritic	O
+aggregate_41	gives	O
+aggregate_41	it	O
+aggregate_41	an	O
+aggregate_41	aggregate	aggregate_adj-nou
+aggregate_41	score	O
+aggregate_41	of	O
+aggregate_41	52	O

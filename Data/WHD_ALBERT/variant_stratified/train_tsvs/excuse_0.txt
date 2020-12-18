@@ -1,0 +1,15 @@
+excuse_0	The	O
+excuse_0	excuse	excuse_nou
+excuse_0	provides	O
+excuse_0	a	O
+excuse_0	mitigating	O
+excuse_0	factor	O
+excuse_0	for	O
+excuse_0	a	O
+excuse_0	group	O
+excuse_0	of	O
+excuse_0	persons	O
+excuse_0	sharing	O
+excuse_0	a	O
+excuse_0	common	O
+excuse_0	characteristic	O

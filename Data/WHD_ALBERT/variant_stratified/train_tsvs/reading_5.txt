@@ -1,0 +1,11 @@
+reading_5	The	O
+reading_5	book	O
+reading_5	has	O
+reading_5	become	O
+reading_5	required	O
+reading_5	reading	reading_en
+reading_5	for	O
+reading_5	secondary	O
+reading_5	schoolchildren	O
+reading_5	in	O
+reading_5	Thailand	O

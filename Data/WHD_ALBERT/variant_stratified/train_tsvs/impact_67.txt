@@ -1,0 +1,13 @@
+impact_67	Construction	O
+impact_67	can	O
+impact_67	reduce	O
+impact_67	its	O
+impact_67	impact	impact_nou
+impact_67	on	O
+impact_67	nature	O
+impact_67	by	O
+impact_67	consulting	O
+impact_67	experts	O
+impact_67	on	O
+impact_67	the	O
+impact_67	environment	O

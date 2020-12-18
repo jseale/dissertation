@@ -1,0 +1,14 @@
+graduate_0	She	O
+graduate_0	is	O
+graduate_0	a	O
+graduate_0	graduate	graduate_adj-nou
+graduate_0	of	O
+graduate_0	New	O
+graduate_0	Trier	O
+graduate_0	High	O
+graduate_0	School	O
+graduate_0	and	O
+graduate_0	the	O
+graduate_0	University	O
+graduate_0	of	O
+graduate_0	Kansas	O

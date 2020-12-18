@@ -1,0 +1,16 @@
+affiliate_11	Amazon	O
+affiliate_11	Associates	O
+affiliate_11	is	O
+affiliate_11	one	O
+affiliate_11	of	O
+affiliate_11	the	O
+affiliate_11	first	O
+affiliate_11	online	O
+affiliate_11	affiliate	affiliate_nou
+affiliate_11	marketing	O
+affiliate_11	programs	O
+affiliate_11	and	O
+affiliate_11	was	O
+affiliate_11	launched	O
+affiliate_11	in	O
+affiliate_11	1996	O

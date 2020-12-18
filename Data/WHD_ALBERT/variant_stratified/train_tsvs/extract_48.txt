@@ -1,0 +1,11 @@
+extract_48	Catabolism	O
+extract_48	is	O
+extract_48	the	O
+extract_48	metabolic	O
+extract_48	reaction	O
+extract_48	which	O
+extract_48	cells	O
+extract_48	undergo	O
+extract_48	to	O
+extract_48	extract	extract_vrb
+extract_48	energy	O

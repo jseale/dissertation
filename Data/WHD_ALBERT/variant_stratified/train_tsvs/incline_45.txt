@@ -1,0 +1,15 @@
+incline_45	The	O
+incline_45	tunnel	O
+incline_45	and	O
+incline_45	deviation	O
+incline_45	opened	O
+incline_45	on	O
+incline_45	3	O
+incline_45	November	O
+incline_45	1955	O
+incline_45	five	O
+incline_45	days	O
+incline_45	after	O
+incline_45	the	O
+incline_45	Incline	incline_nou
+incline_45	closed	O

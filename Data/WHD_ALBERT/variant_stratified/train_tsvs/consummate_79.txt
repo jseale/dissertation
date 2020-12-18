@@ -1,0 +1,15 @@
+consummate_79	We	O
+consummate_79	wanted	O
+consummate_79	to	O
+consummate_79	consummate	consummate_vrb
+consummate_79	the	O
+consummate_79	new	O
+consummate_79	relationship	O
+consummate_79	by	O
+consummate_79	touring	O
+consummate_79	and	O
+consummate_79	having	O
+consummate_79	a	O
+consummate_79	relationship	O
+consummate_79	with	O
+consummate_79	them	O

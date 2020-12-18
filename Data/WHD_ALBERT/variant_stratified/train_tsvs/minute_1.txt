@@ -1,0 +1,10 @@
+minute_1	Later	O
+minute_1	Iran	O
+minute_1	's	O
+minute_1	space	O
+minute_1	research	O
+minute_1	website	O
+minute_1	uploaded	O
+minute_1	an	O
+minute_1	18-minute	O
+minute_1	video	O

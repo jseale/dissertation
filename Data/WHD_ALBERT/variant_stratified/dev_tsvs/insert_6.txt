@@ -1,0 +1,16 @@
+insert_6	Janice	O
+insert_6	needed	O
+insert_6	an	O
+insert_6	operation	O
+insert_6	to	O
+insert_6	insert	insert_vrb
+insert_6	an	O
+insert_6	electrical	O
+insert_6	implant	O
+insert_6	which	O
+insert_6	would	O
+insert_6	stimulate	O
+insert_6	her	O
+insert_6	bladder	O
+insert_6	to	O
+insert_6	function	O

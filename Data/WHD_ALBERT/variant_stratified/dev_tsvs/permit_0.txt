@@ -1,0 +1,15 @@
+permit_0	Night	O
+permit_0	and	O
+permit_0	predator	O
+permit_0	hunting	O
+permit_0	is	O
+permit_0	only	O
+permit_0	permitted	O
+permit_0	by	O
+permit_0	daily	O
+permit_0	permit	permit_nou
+permit_0	cards	O
+permit_0	from	O
+permit_0	the	O
+permit_0	property	O
+permit_0	manager	O

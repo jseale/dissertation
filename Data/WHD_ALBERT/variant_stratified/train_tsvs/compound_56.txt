@@ -1,0 +1,16 @@
+compound_56	It	O
+compound_56	was	O
+compound_56	propelled	O
+compound_56	by	O
+compound_56	two	O
+compound_56	vertical	O
+compound_56	compound	compound_nou
+compound_56	steam	O
+compound_56	engines	O
+compound_56	and	O
+compound_56	had	O
+compound_56	a	O
+compound_56	single	O
+compound_56	mast	O
+compound_56	and	O
+compound_56	funnel	O

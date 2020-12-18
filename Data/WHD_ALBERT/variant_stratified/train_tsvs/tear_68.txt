@@ -1,0 +1,8 @@
+tear_68	Various	O
+tear_68	tear	tear_vrb
+tear_68	patterns	O
+tear_68	and	O
+tear_68	configurations	O
+tear_68	have	O
+tear_68	been	O
+tear_68	described	O

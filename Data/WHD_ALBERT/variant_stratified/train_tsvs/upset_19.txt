@@ -1,0 +1,16 @@
+upset_19	Libby	O
+upset_19	and	O
+upset_19	Drew	O
+upset_19	break	O
+upset_19	up	O
+upset_19	but	O
+upset_19	Steph	O
+upset_19	is	O
+upset_19	upset	upset_nou
+upset_19	when	O
+upset_19	Drew	O
+upset_19	admits	O
+upset_19	he	O
+upset_19	still	O
+upset_19	loves	O
+upset_19	Libby	O

@@ -1,0 +1,15 @@
+defect_76	During	O
+defect_76	the	O
+defect_76	transfer	O
+defect_76	process	O
+defect_76	in	O
+defect_76	1992	O
+defect_76	Roggenburg	O
+defect_76	again	O
+defect_76	challenged	O
+defect_76	the	O
+defect_76	decision	O
+defect_76	to	O
+defect_76	defect	defect_vrb
+defect_76	from	O
+defect_76	Bern	O

@@ -1,0 +1,11 @@
+consummate_26	Drago	O
+consummate_26	is	O
+consummate_26	carefully	O
+consummate_26	fitted	O
+consummate_26	and	O
+consummate_26	trained	O
+consummate_26	to	O
+consummate_26	be	O
+consummate_26	the	O
+consummate_26	consummate	consummate_adj
+consummate_26	fighter	O

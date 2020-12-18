@@ -1,0 +1,14 @@
+nestle_28	The	O
+nestle_28	Clinton	O
+nestle_28	board	O
+nestle_28	of	O
+nestle_28	selectmen	O
+nestle_28	rejected	O
+nestle_28	the	O
+nestle_28	Nestle	nestle_nam
+nestle_28	proposal	O
+nestle_28	in	O
+nestle_28	the	O
+nestle_28	spring	O
+nestle_28	of	O
+nestle_28	2008	O

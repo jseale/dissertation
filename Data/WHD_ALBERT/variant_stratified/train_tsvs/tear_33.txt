@@ -1,0 +1,17 @@
+tear_33	At	O
+tear_33	the	O
+tear_33	start	O
+tear_33	of	O
+tear_33	training	O
+tear_33	camp	O
+tear_33	the	O
+tear_33	following	O
+tear_33	year	O
+tear_33	Dominique	O
+tear_33	Foxworth	O
+tear_33	suffered	O
+tear_33	a	O
+tear_33	tear	tear_vrb
+tear_33	to	O
+tear_33	his	O
+tear_33	ACL	O

@@ -1,0 +1,12 @@
+supplement_3	He	O
+supplement_3	is	O
+supplement_3	a	O
+supplement_3	semi	O
+supplement_3	regular	O
+supplement_3	on	O
+supplement_3	Sky	O
+supplement_3	Sports	O
+supplement_3	1	O
+supplement_3	's	O
+supplement_3	Sunday	O
+supplement_3	Supplement	supplement_nou

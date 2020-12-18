@@ -1,0 +1,17 @@
+tear_27	Eventually	O
+tear_27	Never	O
+tear_27	Tear	tear_vrb
+tear_27	Us	O
+tear_27	Apart	O
+tear_27	by	O
+tear_27	INXS	O
+tear_27	was	O
+tear_27	suggested	O
+tear_27	by	O
+tear_27	Port	O
+tear_27	Adelaide	O
+tear_27	's	O
+tear_27	events	O
+tear_27	manager	O
+tear_27	Tara	O
+tear_27	MacLeod	O

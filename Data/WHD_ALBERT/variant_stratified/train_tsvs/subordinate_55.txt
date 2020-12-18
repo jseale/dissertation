@@ -1,0 +1,17 @@
+subordinate_55	While	O
+subordinate_55	others	O
+subordinate_55	have	O
+subordinate_55	accepted	O
+subordinate_55	the	O
+subordinate_55	possible	O
+subordinate_55	existence	O
+subordinate_55	of	O
+subordinate_55	memes	O
+subordinate_55	they	O
+subordinate_55	are	O
+subordinate_55	sometimes	O
+subordinate_55	seen	O
+subordinate_55	as	O
+subordinate_55	subordinate	subordinate_adj-nou
+subordinate_55	to	O
+subordinate_55	genes	O

@@ -1,0 +1,11 @@
+conscript_54	Later	O
+conscript_54	conscript	conscript_nou
+conscript_54	officers	O
+conscript_54	were	O
+conscript_54	introduced	O
+conscript_54	with	O
+conscript_54	ranks	O
+conscript_54	of	O
+conscript_54	fanrik	O
+conscript_54	to	O
+conscript_54	kapten	O

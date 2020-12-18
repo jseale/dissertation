@@ -1,0 +1,16 @@
+convict_7	In	O
+convict_7	1842	O
+convict_7	it	O
+convict_7	was	O
+convict_7	renamed	O
+convict_7	the	O
+convict_7	Queen	O
+convict_7	's	O
+convict_7	Prison	O
+convict_7	and	O
+convict_7	later	O
+convict_7	became	O
+convict_7	the	O
+convict_7	Southwark	O
+convict_7	Convict	convict_nou
+convict_7	Prison	O

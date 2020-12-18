@@ -1,0 +1,15 @@
+ornament_53	At	O
+ornament_53	the	O
+ornament_53	same	O
+ornament_53	time	O
+ornament_53	the	O
+ornament_53	unwritten	O
+ornament_53	laws	O
+ornament_53	against	O
+ornament_53	ornament	ornament_nou
+ornament_53	began	O
+ornament_53	to	O
+ornament_53	come	O
+ornament_53	into	O
+ornament_53	serious	O
+ornament_53	question	O

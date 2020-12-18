@@ -1,0 +1,16 @@
+discard_73	Once	O
+discard_73	drawn	O
+discard_73	players	O
+discard_73	must	O
+discard_73	choose	O
+discard_73	one	O
+discard_73	card	O
+discard_73	of	O
+discard_73	the	O
+discard_73	pair	O
+discard_73	to	O
+discard_73	discard	discard_vrb
+discard_73	and	O
+discard_73	one	O
+discard_73	to	O
+discard_73	keep	O

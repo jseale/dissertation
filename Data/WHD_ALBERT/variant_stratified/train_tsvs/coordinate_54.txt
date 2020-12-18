@@ -1,0 +1,15 @@
+coordinate_54	The	O
+coordinate_54	generals	O
+coordinate_54	defending	O
+coordinate_54	Shuozhou	O
+coordinate_54	and	O
+coordinate_54	Yunzhou	O
+coordinate_54	would	O
+coordinate_54	be	O
+coordinate_54	notified	O
+coordinate_54	of	O
+coordinate_54	the	O
+coordinate_54	plan	O
+coordinate_54	to	O
+coordinate_54	coordinate	coordinate_vrb
+coordinate_54	activities	O

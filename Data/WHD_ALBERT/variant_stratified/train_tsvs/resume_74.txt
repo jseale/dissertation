@@ -1,0 +1,13 @@
+resume_74	Michael	O
+resume_74	decided	O
+resume_74	to	O
+resume_74	resume	resume_vrb
+resume_74	the	O
+resume_74	search	O
+resume_74	for	O
+resume_74	information	O
+resume_74	on	O
+resume_74	his	O
+resume_74	father	O
+resume_74	River	O
+resume_74	Baldwin	O

@@ -1,0 +1,14 @@
+increase_69	The	O
+increase_69	latter	O
+increase_69	legislation	O
+increase_69	served	O
+increase_69	to	O
+increase_69	greatly	O
+increase_69	increase	increase_vrb
+increase_69	the	O
+increase_69	acquisition	O
+increase_69	of	O
+increase_69	waterfowl	O
+increase_69	habitat	O
+increase_69	in	O
+increase_69	California	O

@@ -1,0 +1,17 @@
+syndicate_1	The	O
+syndicate_1	first	O
+syndicate_1	Cambridge	O
+syndicate_1	English	O
+syndicate_1	exam	O
+syndicate_1	was	O
+syndicate_1	produced	O
+syndicate_1	in	O
+syndicate_1	1913	O
+syndicate_1	by	O
+syndicate_1	UCLES	O
+syndicate_1	University	O
+syndicate_1	of	O
+syndicate_1	Cambridge	O
+syndicate_1	Local	O
+syndicate_1	Examinations	O
+syndicate_1	Syndicate	syndicate_nou

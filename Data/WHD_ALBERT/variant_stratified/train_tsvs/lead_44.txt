@@ -1,0 +1,15 @@
+lead_44	It	O
+lead_44	was	O
+lead_44	written	O
+lead_44	by	O
+lead_44	their	O
+lead_44	saxophonist	O
+lead_44	Lee	O
+lead_44	Thompson	O
+lead_44	and	O
+lead_44	their	O
+lead_44	co	O
+lead_44	lead	lead_nou-vrb
+lead_44	vocalist	O
+lead_44	Carl	O
+lead_44	Smyth	O

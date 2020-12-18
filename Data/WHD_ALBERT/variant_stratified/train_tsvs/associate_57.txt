@@ -1,0 +1,16 @@
+associate_57	It	O
+associate_57	also	O
+associate_57	has	O
+associate_57	20	O
+associate_57	experts	O
+associate_57	34	O
+associate_57	people	O
+associate_57	PhD	O
+associate_57	postgraduate	O
+associate_57	58	O
+associate_57	full	O
+associate_57	time	O
+associate_57	professors	O
+associate_57	104	O
+associate_57	associate	associate_adj-nou
+associate_57	professor	O

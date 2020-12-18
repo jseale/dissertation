@@ -1,0 +1,16 @@
+deliberate_1	Sharafyan	O
+deliberate_1	creates	O
+deliberate_1	complex	O
+deliberate_1	deliberate	deliberate_adj
+deliberate_1	ultimately	O
+deliberate_1	captivating	O
+deliberate_1	grandeur	O
+deliberate_1	artistic	O
+deliberate_1	director	O
+deliberate_1	Gil	O
+deliberate_1	Rose	O
+deliberate_1	led	O
+deliberate_1	a	O
+deliberate_1	terrific	O
+deliberate_1	vivid	O
+deliberate_1	performance	O

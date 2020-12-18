@@ -1,0 +1,15 @@
+graduate_8	Here	O
+graduate_8	Evans	O
+graduate_8	was	O
+graduate_8	tasked	O
+graduate_8	with	O
+graduate_8	improving	O
+graduate_8	the	O
+graduate_8	department	O
+graduate_8	including	O
+graduate_8	the	O
+graduate_8	initiation	O
+graduate_8	of	O
+graduate_8	a	O
+graduate_8	graduate	graduate_adj-nou
+graduate_8	program	O

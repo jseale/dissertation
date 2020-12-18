@@ -1,0 +1,10 @@
+buffet_67	Donnelly	O
+buffet_67	goes	O
+buffet_67	to	O
+buffet_67	the	O
+buffet_67	buffet	buffet_nou
+buffet_67	cart	O
+buffet_67	to	O
+buffet_67	get	O
+buffet_67	a	O
+buffet_67	drink	O

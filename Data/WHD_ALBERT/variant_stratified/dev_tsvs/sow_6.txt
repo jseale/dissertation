@@ -1,0 +1,14 @@
+sow_6	On	O
+sow_6	October	O
+sow_6	6	O
+sow_6	a	O
+sow_6	cannon	O
+sow_6	that	O
+sow_6	was	O
+sow_6	dubbed	O
+sow_6	the	O
+sow_6	Old	O
+sow_6	Sow	sow_nou
+sow_6	arrived	O
+sow_6	from	O
+sow_6	Ticonderoga	O

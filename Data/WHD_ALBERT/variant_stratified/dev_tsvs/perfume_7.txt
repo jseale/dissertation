@@ -1,0 +1,17 @@
+perfume_7	He	O
+perfume_7	removed	O
+perfume_7	the	O
+perfume_7	perfume	perfume_nou
+perfume_7	from	O
+perfume_7	drugstore	O
+perfume_7	shelves	O
+perfume_7	and	O
+perfume_7	invested	O
+perfume_7	millions	O
+perfume_7	of	O
+perfume_7	dollars	O
+perfume_7	in	O
+perfume_7	advertisement	O
+perfume_7	for	O
+perfume_7	Chanel	O
+perfume_7	cosmetics	O

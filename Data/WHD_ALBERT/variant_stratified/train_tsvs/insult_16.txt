@@ -1,0 +1,13 @@
+insult_16	She	O
+insult_16	can	O
+insult_16	not	O
+insult_16	resist	O
+insult_16	even	O
+insult_16	a	O
+insult_16	single	O
+insult_16	inch	O
+insult_16	of	O
+insult_16	insult	insult_nou
+insult_16	of	O
+insult_16	her	O
+insult_16	parents	O

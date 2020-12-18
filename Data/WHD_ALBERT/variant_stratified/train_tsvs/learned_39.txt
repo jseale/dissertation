@@ -1,0 +1,14 @@
+learned_39	Guderian	O
+learned_39	also	O
+learned_39	noted	O
+learned_39	in	O
+learned_39	his	O
+learned_39	memoirs	O
+learned_39	that	O
+learned_39	the	O
+learned_39	Russians	O
+learned_39	already	O
+learned_39	learned	learned_vrb
+learned_39	a	O
+learned_39	few	O
+learned_39	things	O

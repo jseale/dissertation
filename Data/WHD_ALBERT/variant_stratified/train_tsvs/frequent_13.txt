@@ -1,0 +1,12 @@
+frequent_13	Burgess	O
+frequent_13	was	O
+frequent_13	also	O
+frequent_13	a	O
+frequent_13	frequent	frequent_adj
+frequent_13	presenter	O
+frequent_13	at	O
+frequent_13	conservation	O
+frequent_13	restoration	O
+frequent_13	and	O
+frequent_13	scientific	O
+frequent_13	conferences	O

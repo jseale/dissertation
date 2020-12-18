@@ -1,0 +1,15 @@
+retard_20	When	O
+retard_20	she	O
+retard_20	forgot	O
+retard_20	to	O
+retard_20	retard	retard_vrb
+retard_20	the	O
+retard_20	spark	O
+retard_20	the	O
+retard_20	crank	O
+retard_20	kicked	O
+retard_20	and	O
+retard_20	broke	O
+retard_20	Carter	O
+retard_20	's	O
+retard_20	jaw	O

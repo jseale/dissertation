@@ -1,0 +1,10 @@
+advocate_34	Currently	O
+advocate_34	she	O
+advocate_34	works	O
+advocate_34	in	O
+advocate_34	the	O
+advocate_34	Developer	O
+advocate_34	Advocate	advocate_nou
+advocate_34	team	O
+advocate_34	at	O
+advocate_34	Dropbox	O

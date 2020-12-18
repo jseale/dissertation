@@ -1,0 +1,14 @@
+produce_28	While	O
+produce_28	opioids	O
+produce_28	can	O
+produce_28	produce	produce_vrb
+produce_28	unconsciousness	O
+produce_28	they	O
+produce_28	do	O
+produce_28	so	O
+produce_28	unreliably	O
+produce_28	and	O
+produce_28	with	O
+produce_28	significant	O
+produce_28	side	O
+produce_28	effects	O

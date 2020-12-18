@@ -1,0 +1,15 @@
+escort_65	For	O
+escort_65	anti	O
+escort_65	submarine	O
+escort_65	escort	escort_nou
+escort_65	her	O
+escort_65	minesweeping	O
+escort_65	gear	O
+escort_65	could	O
+escort_65	be	O
+escort_65	exchanged	O
+escort_65	for	O
+escort_65	around	O
+escort_65	40	O
+escort_65	depth	O
+escort_65	charges	O

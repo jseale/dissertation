@@ -1,0 +1,12 @@
+tear_0	Some	O
+tear_0	violent	O
+tear_0	demonstrations	O
+tear_0	have	O
+tear_0	been	O
+tear_0	controlled	O
+tear_0	with	O
+tear_0	tear	tear_nou
+tear_0	gas	O
+tear_0	and	O
+tear_0	water	O
+tear_0	cannons	O

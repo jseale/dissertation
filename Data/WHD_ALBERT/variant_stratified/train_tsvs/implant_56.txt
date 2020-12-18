@@ -1,0 +1,16 @@
+implant_56	Follow	O
+implant_56	up	O
+implant_56	longitudinal	O
+implant_56	studies	O
+implant_56	of	O
+implant_56	these	O
+implant_56	breast	O
+implant_56	implant	implant_nou
+implant_56	patients	O
+implant_56	confirmed	O
+implant_56	the	O
+implant_56	previous	O
+implant_56	findings	O
+implant_56	on	O
+implant_56	the	O
+implant_56	matter	O

@@ -1,0 +1,9 @@
+record_60	He	O
+record_60	now	O
+record_60	produces	O
+record_60	under	O
+record_60	his	O
+record_60	own	O
+record_60	record	record_nou
+record_60	label	O
+record_60	Bakerloo	O

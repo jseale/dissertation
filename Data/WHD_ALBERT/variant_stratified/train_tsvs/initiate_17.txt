@@ -1,0 +1,15 @@
+initiate_17	Engineers	O
+initiate_17	can	O
+initiate_17	haul	O
+initiate_17	resources	O
+initiate_17	initiate	initiate_vrb
+initiate_17	the	O
+initiate_17	construction	O
+initiate_17	of	O
+initiate_17	new	O
+initiate_17	buildings	O
+initiate_17	and	O
+initiate_17	repair	O
+initiate_17	and	O
+initiate_17	dismantle	O
+initiate_17	buildings	O

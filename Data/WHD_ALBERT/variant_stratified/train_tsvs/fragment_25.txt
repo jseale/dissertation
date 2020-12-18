@@ -1,0 +1,16 @@
+fragment_25	It	O
+fragment_25	is	O
+fragment_25	shorter	O
+fragment_25	than	O
+fragment_25	most	O
+fragment_25	of	O
+fragment_25	Lovecraft	O
+fragment_25	's	O
+fragment_25	other	O
+fragment_25	short	O
+fragment_25	stories	O
+fragment_25	and	O
+fragment_25	is	O
+fragment_25	essentially	O
+fragment_25	a	O
+fragment_25	fragment	fragment_nou

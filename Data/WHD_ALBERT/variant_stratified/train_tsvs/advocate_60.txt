@@ -1,0 +1,12 @@
+advocate_60	He	O
+advocate_60	was	O
+advocate_60	reappointed	O
+advocate_60	as	O
+advocate_60	the	O
+advocate_60	Judge	O
+advocate_60	Advocate	advocate_nou
+advocate_60	General	O
+advocate_60	in	O
+advocate_60	1952	O
+advocate_60	and	O
+advocate_60	1956	O

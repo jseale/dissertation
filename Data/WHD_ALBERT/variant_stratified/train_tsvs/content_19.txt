@@ -1,0 +1,17 @@
+content_19	ITC	O
+content_19	produced	O
+content_19	and	O
+content_19	distributed	O
+content_19	a	O
+content_19	wide	O
+content_19	range	O
+content_19	of	O
+content_19	content	content_nou
+content_19	across	O
+content_19	both	O
+content_19	film	O
+content_19	and	O
+content_19	television	O
+content_19	over	O
+content_19	several	O
+content_19	decades	O

@@ -1,0 +1,17 @@
+increase_5	The	O
+increase_5	increase	increase_nou
+increase_5	in	O
+increase_5	consumption	O
+increase_5	would	O
+increase_5	be	O
+increase_5	fueled	O
+increase_5	by	O
+increase_5	the	O
+increase_5	1.7	O
+increase_5	increase	increase_nou
+increase_5	in	O
+increase_5	disposable	O
+increase_5	after	O
+increase_5	tax	O
+increase_5	personal	O
+increase_5	income	O

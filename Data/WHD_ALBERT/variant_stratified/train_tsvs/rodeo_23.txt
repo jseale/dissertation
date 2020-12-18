@@ -1,0 +1,11 @@
+rodeo_23	Founded	O
+rodeo_23	in	O
+rodeo_23	1929	O
+rodeo_23	it	O
+rodeo_23	is	O
+rodeo_23	the	O
+rodeo_23	world	O
+rodeo_23	's	O
+rodeo_23	first	O
+rodeo_23	indoor	O
+rodeo_23	rodeo	rodeo

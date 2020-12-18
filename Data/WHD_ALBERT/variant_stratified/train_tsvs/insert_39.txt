@@ -1,0 +1,15 @@
+insert_39	One	O
+insert_39	insert	insert_nou
+insert_39	rotation	O
+insert_39	option	O
+insert_39	is	O
+insert_39	available	O
+insert_39	to	O
+insert_39	prevent	O
+insert_39	mating	O
+insert_39	of	O
+insert_39	similar	O
+insert_39	connectors	O
+insert_39	with	O
+insert_39	different	O
+insert_39	voltages	O

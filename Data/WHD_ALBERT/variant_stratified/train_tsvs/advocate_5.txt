@@ -1,0 +1,16 @@
+advocate_5	She	O
+advocate_5	was	O
+advocate_5	an	O
+advocate_5	advocate	advocate_nou
+advocate_5	for	O
+advocate_5	the	O
+advocate_5	potential	O
+advocate_5	of	O
+advocate_5	libraries	O
+advocate_5	to	O
+advocate_5	provide	O
+advocate_5	lifelong	O
+advocate_5	education	O
+advocate_5	for	O
+advocate_5	a	O
+advocate_5	nation	O

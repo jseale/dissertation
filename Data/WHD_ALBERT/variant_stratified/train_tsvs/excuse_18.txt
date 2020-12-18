@@ -1,0 +1,11 @@
+excuse_18	Therefore	O
+excuse_18	every	O
+excuse_18	human	O
+excuse_18	being	O
+excuse_18	is	O
+excuse_18	without	O
+excuse_18	excuse	excuse_nou
+excuse_18	and	O
+excuse_18	without	O
+excuse_18	any	O
+excuse_18	excuse	excuse_nou

@@ -1,0 +1,13 @@
+affect_7	For	O
+affect_7	emunah	O
+affect_7	to	O
+affect_7	affect	affect
+affect_7	him	O
+affect_7	in	O
+affect_7	this	O
+affect_7	way	O
+affect_7	he	O
+affect_7	needs	O
+affect_7	study	O
+affect_7	and	O
+affect_7	contemplation	O

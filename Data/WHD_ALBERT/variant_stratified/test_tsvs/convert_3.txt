@@ -1,0 +1,15 @@
+convert_3	He	O
+convert_3	attempted	O
+convert_3	without	O
+convert_3	success	O
+convert_3	to	O
+convert_3	convert	convert_vrb
+convert_3	many	O
+convert_3	of	O
+convert_3	his	O
+convert_3	Orthodox	O
+convert_3	subjects	O
+convert_3	to	O
+convert_3	Catholicism	O
+convert_3	by	O
+convert_3	force	O

@@ -1,0 +1,15 @@
+contest_60	It	O
+contest_60	was	O
+contest_60	succeeded	O
+contest_60	as	O
+contest_60	Yugoslav	O
+contest_60	representative	O
+contest_60	at	O
+contest_60	the	O
+contest_60	1988	O
+contest_60	contest	contest_nou
+contest_60	by	O
+contest_60	Srebrna	O
+contest_60	Krila	O
+contest_60	with	O
+contest_60	Mangup	O

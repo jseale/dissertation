@@ -1,0 +1,13 @@
+estimate_8	Suppose	O
+estimate_8	it	O
+estimate_8	is	O
+estimate_8	desired	O
+estimate_8	to	O
+estimate_8	estimate	estimate_vrb
+estimate_8	the	O
+estimate_8	failure	O
+estimate_8	rate	O
+estimate_8	of	O
+estimate_8	a	O
+estimate_8	certain	O
+estimate_8	component	O

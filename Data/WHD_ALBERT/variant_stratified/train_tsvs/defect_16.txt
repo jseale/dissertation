@@ -1,0 +1,17 @@
+defect_16	She	O
+defect_16	had	O
+defect_16	a	O
+defect_16	ventricular	O
+defect_16	septal	O
+defect_16	defect	defect_nou
+defect_16	hole	O
+defect_16	in	O
+defect_16	the	O
+defect_16	heart	O
+defect_16	and	O
+defect_16	he	O
+defect_16	was	O
+defect_16	still	O
+defect_16	married	O
+defect_16	to	O
+defect_16	Ruma	O

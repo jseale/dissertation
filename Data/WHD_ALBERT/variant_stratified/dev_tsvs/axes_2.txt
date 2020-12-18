@@ -1,0 +1,12 @@
+axes_2	Anisophyton	O
+axes_2	was	O
+axes_2	a	O
+axes_2	genus	O
+axes_2	of	O
+axes_2	Silu	O
+axes_2	Devonian	O
+axes_2	land	O
+axes_2	plant	O
+axes_2	with	O
+axes_2	branching	O
+axes_2	axes	axes_nou

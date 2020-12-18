@@ -1,0 +1,16 @@
+implement_24	Greek	O
+implement_24	authorities	O
+implement_24	decided	O
+implement_24	to	O
+implement_24	implement	implement_vrb
+implement_24	a	O
+implement_24	1999	O
+implement_24	law	O
+implement_24	which	O
+implement_24	stipulates	O
+implement_24	that	O
+implement_24	all	O
+implement_24	brothels	O
+implement_24	must	O
+implement_24	have	O
+implement_24	permits	O

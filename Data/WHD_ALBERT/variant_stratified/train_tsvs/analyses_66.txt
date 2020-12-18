@@ -1,0 +1,17 @@
+analyses_66	Burkenroad	O
+analyses_66	's	O
+analyses_66	primary	O
+analyses_66	division	O
+analyses_66	of	O
+analyses_66	Decapoda	O
+analyses_66	into	O
+analyses_66	Dendrobranchiata	O
+analyses_66	and	O
+analyses_66	Pleocyemata	O
+analyses_66	has	O
+analyses_66	since	O
+analyses_66	been	O
+analyses_66	corroborated	O
+analyses_66	by	O
+analyses_66	molecular	O
+analyses_66	analyses	analyses_nou

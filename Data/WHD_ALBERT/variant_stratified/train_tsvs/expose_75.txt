@@ -1,0 +1,11 @@
+expose_75	An	O
+expose_75	American	O
+expose_75	journalist	O
+expose_75	works	O
+expose_75	to	O
+expose_75	expose	expose_vrb
+expose_75	a	O
+expose_75	criminal	O
+expose_75	gang	O
+expose_75	in	O
+expose_75	London	O

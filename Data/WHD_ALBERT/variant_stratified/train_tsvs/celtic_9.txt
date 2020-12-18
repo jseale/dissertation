@@ -1,0 +1,9 @@
+celtic_9	They	O
+celtic_9	were	O
+celtic_9	replaced	O
+celtic_9	by	O
+celtic_9	the	O
+celtic_9	Romanized	O
+celtic_9	Thracio	O
+celtic_9	Celtic	celtic
+celtic_9	Tricornenses	O

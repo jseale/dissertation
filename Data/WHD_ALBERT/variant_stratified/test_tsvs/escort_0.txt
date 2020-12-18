@@ -1,0 +1,16 @@
+escort_0	But	O
+escort_0	while	O
+escort_0	the	O
+escort_0	RAF	O
+escort_0	fighters	O
+escort_0	were	O
+escort_0	kept	O
+escort_0	busy	O
+escort_0	by	O
+escort_0	the	O
+escort_0	escort	escort_nou
+escort_0	the	O
+escort_0	Dorniers	O
+escort_0	continued	O
+escort_0	without	O
+escort_0	interception	O

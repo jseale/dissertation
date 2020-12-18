@@ -1,0 +1,16 @@
+associate_26	He	O
+associate_26	first	O
+associate_26	served	O
+associate_26	as	O
+associate_26	associate	associate_adj-nou
+associate_26	pastor	O
+associate_26	of	O
+associate_26	St.	O
+associate_26	Joseph	O
+associate_26	Church	O
+associate_26	in	O
+associate_26	Santa	O
+associate_26	Ana	O
+associate_26	until	O
+associate_26	July	O
+associate_26	1984	O

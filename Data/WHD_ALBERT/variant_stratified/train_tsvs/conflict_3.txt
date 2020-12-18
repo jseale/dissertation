@@ -1,0 +1,11 @@
+conflict_3	Thus	O
+conflict_3	the	O
+conflict_3	conflict	conflict_nou
+conflict_3	between	O
+conflict_3	Lithuania	O
+conflict_3	and	O
+conflict_3	Muscovy	O
+conflict_3	was	O
+conflict_3	only	O
+conflict_3	just	O
+conflict_3	beginning	O

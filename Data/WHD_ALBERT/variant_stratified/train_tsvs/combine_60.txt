@@ -1,0 +1,11 @@
+combine_60	Tufted	O
+combine_60	types	O
+combine_60	generally	O
+combine_60	combine	combine_vrb
+combine_60	well	O
+combine_60	with	O
+combine_60	other	O
+combine_60	crops	O
+combine_60	more	O
+combine_60	specifically	O
+combine_60	legumes	O

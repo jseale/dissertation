@@ -1,0 +1,8 @@
+advocate_28	She	O
+advocate_28	is	O
+advocate_28	an	O
+advocate_28	advocate	advocate_nou
+advocate_28	for	O
+advocate_28	art	O
+advocate_28	and	O
+advocate_28	education	O

@@ -1,0 +1,17 @@
+sow_11	She	O
+sow_11	dresses	O
+sow_11	as	O
+sow_11	Lady	O
+sow_11	and	O
+sow_11	attacks	O
+sow_11	the	O
+sow_11	Shadowmaster	O
+sow_11	's	O
+sow_11	army	O
+sow_11	to	O
+sow_11	sow	sow
+sow_11	confusion	O
+sow_11	of	O
+sow_11	where	O
+sow_11	anyone	O
+sow_11	is	O

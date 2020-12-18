@@ -1,0 +1,14 @@
+postulate_47	Lobachevsky	O
+postulate_47	would	O
+postulate_47	instead	O
+postulate_47	develop	O
+postulate_47	a	O
+postulate_47	geometry	O
+postulate_47	in	O
+postulate_47	which	O
+postulate_47	the	O
+postulate_47	fifth	O
+postulate_47	postulate	postulate_nou
+postulate_47	was	O
+postulate_47	not	O
+postulate_47	true	O

@@ -1,0 +1,14 @@
+wound_76	Ariadne	O
+wound_76	is	O
+wound_76	sometimes	O
+wound_76	represented	O
+wound_76	in	O
+wound_76	vase	O
+wound_76	paintings	O
+wound_76	with	O
+wound_76	the	O
+wound_76	thread	O
+wound_76	wound	wound_vrb
+wound_76	on	O
+wound_76	her	O
+wound_76	spindle	O

@@ -1,0 +1,16 @@
+invalid_55	If	O
+invalid_55	a	O
+invalid_55	visa	O
+invalid_55	becomes	O
+invalid_55	invalid	invalid_adj
+invalid_55	its	O
+invalid_55	bearer	O
+invalid_55	must	O
+invalid_55	apply	O
+invalid_55	for	O
+invalid_55	a	O
+invalid_55	new	O
+invalid_55	visa	O
+invalid_55	before	O
+invalid_55	entering	O
+invalid_55	China	O

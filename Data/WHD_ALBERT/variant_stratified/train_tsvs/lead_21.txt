@@ -1,0 +1,17 @@
+lead_21	It	O
+lead_21	was	O
+lead_21	released	O
+lead_21	as	O
+lead_21	the	O
+lead_21	lead	lead_nou-vrb
+lead_21	single	O
+lead_21	from	O
+lead_21	the	O
+lead_21	EP	O
+lead_21	on	O
+lead_21	September	O
+lead_21	20	O
+lead_21	2011	O
+lead_21	through	O
+lead_21	604	O
+lead_21	Records	O

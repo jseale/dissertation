@@ -1,0 +1,17 @@
+compress_59	The	O
+compress_59	energy	O
+compress_59	required	O
+compress_59	to	O
+compress_59	compress	compress
+compress_59	water	O
+compress_59	is	O
+compress_59	very	O
+compress_59	much	O
+compress_59	less	O
+compress_59	than	O
+compress_59	that	O
+compress_59	required	O
+compress_59	to	O
+compress_59	compress	compress
+compress_59	hydrogen	O
+compress_59	gas	O

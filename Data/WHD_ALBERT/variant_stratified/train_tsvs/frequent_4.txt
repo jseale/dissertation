@@ -1,0 +1,17 @@
+frequent_4	The	O
+frequent_4	summer	O
+frequent_4	tends	O
+frequent_4	to	O
+frequent_4	be	O
+frequent_4	dry	O
+frequent_4	and	O
+frequent_4	warm	O
+frequent_4	while	O
+frequent_4	the	O
+frequent_4	winters	O
+frequent_4	are	O
+frequent_4	rigorously	O
+frequent_4	cold	O
+frequent_4	with	O
+frequent_4	frequent	frequent_adj
+frequent_4	snowfalls	O

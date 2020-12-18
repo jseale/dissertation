@@ -1,0 +1,16 @@
+discount_63	This	O
+discount_63	is	O
+discount_63	appealing	O
+discount_63	to	O
+discount_63	buyers	O
+discount_63	because	O
+discount_63	the	O
+discount_63	credit	O
+discount_63	is	O
+discount_63	sold	O
+discount_63	at	O
+discount_63	a	O
+discount_63	discount	discount_nou
+discount_63	from	O
+discount_63	face	O
+discount_63	value	O

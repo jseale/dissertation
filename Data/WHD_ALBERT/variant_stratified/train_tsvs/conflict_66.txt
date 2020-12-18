@@ -1,0 +1,12 @@
+conflict_66	However	O
+conflict_66	he	O
+conflict_66	came	O
+conflict_66	into	O
+conflict_66	conflict	conflict_nou
+conflict_66	with	O
+conflict_66	Bhima	O
+conflict_66	and	O
+conflict_66	died	O
+conflict_66	in	O
+conflict_66	the	O
+conflict_66	conflict	conflict_nou

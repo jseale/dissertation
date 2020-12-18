@@ -1,0 +1,7 @@
+convert_33	His	O
+convert_33	bride	O
+convert_33	however	O
+convert_33	was	O
+convert_33	reluctant	O
+convert_33	to	O
+convert_33	convert	convert_vrb

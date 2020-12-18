@@ -1,0 +1,12 @@
+degenerate_56	He	O
+degenerate_56	was	O
+degenerate_56	named	O
+degenerate_56	Professor	O
+degenerate_56	in	O
+degenerate_56	1928	O
+degenerate_56	and	O
+degenerate_56	a	O
+degenerate_56	degenerate	degenerate_adj-nou
+degenerate_56	artist	O
+degenerate_56	in	O
+degenerate_56	1937	O

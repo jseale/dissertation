@@ -1,0 +1,15 @@
+increase_75	The	O
+increase_75	goal	O
+increase_75	was	O
+increase_75	to	O
+increase_75	increase	increase_vrb
+increase_75	truck	O
+increase_75	sales	O
+increase_75	from	O
+increase_75	today	O
+increase_75	's	O
+increase_75	280,000	O
+increase_75	to	O
+increase_75	415,000	O
+increase_75	by	O
+increase_75	2014	O

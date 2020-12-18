@@ -1,0 +1,11 @@
+pasty_66	They	O
+pasty_66	have	O
+pasty_66	pasty	pasty_nou
+pasty_66	bluish	O
+pasty_66	skin	O
+pasty_66	that	O
+pasty_66	seems	O
+pasty_66	wrinkled	O
+pasty_66	and	O
+pasty_66	possibly	O
+pasty_66	brittle	O

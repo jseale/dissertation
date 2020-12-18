@@ -1,0 +1,14 @@
+separate_72	MWR	O
+separate_72	is	O
+separate_72	designed	O
+separate_72	to	O
+separate_72	detect	O
+separate_72	six	O
+separate_72	different	O
+separate_72	frequencies	O
+separate_72	in	O
+separate_72	that	O
+separate_72	range	O
+separate_72	using	O
+separate_72	separate	separate_adj
+separate_72	antennas	O

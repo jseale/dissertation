@@ -1,0 +1,15 @@
+subordinate_11	Many	O
+subordinate_11	countries	O
+subordinate_11	maintain	O
+subordinate_11	a	O
+subordinate_11	signal	O
+subordinate_11	corps	O
+subordinate_11	which	O
+subordinate_11	is	O
+subordinate_11	typically	O
+subordinate_11	subordinate	subordinate_adj-nou
+subordinate_11	to	O
+subordinate_11	a	O
+subordinate_11	country	O
+subordinate_11	's	O
+subordinate_11	army	O

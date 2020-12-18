@@ -1,0 +1,14 @@
+dove_4	It	O
+dove_4	is	O
+dove_4	an	O
+dove_4	expanded	O
+dove_4	edition	O
+dove_4	of	O
+dove_4	his	O
+dove_4	1980	O
+dove_4	Rankin	O
+dove_4	biography	O
+dove_4	Flight	O
+dove_4	of	O
+dove_4	the	O
+dove_4	Dove	dove

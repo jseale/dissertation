@@ -1,0 +1,15 @@
+read_31	In	O
+read_31	Japanese	O
+read_31	the	O
+read_31	kanji	O
+read_31	for	O
+read_31	the	O
+read_31	city	O
+read_31	's	O
+read_31	name	O
+read_31	are	O
+read_31	normally	O
+read_31	read	read_past
+read_31	as	O
+read_31	Kitatani	O
+read_31	北谷	O

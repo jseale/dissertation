@@ -1,0 +1,11 @@
+postulate_25	The	O
+postulate_25	fourth	O
+postulate_25	postulate	postulate_nou
+postulate_25	is	O
+postulate_25	subsidiary	O
+postulate_25	yet	O
+postulate_25	consistent	O
+postulate_25	with	O
+postulate_25	the	O
+postulate_25	first	O
+postulate_25	three:4	O

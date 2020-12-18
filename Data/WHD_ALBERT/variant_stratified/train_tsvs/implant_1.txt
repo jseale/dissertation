@@ -1,0 +1,12 @@
+implant_1	The	O
+implant_1	levonorgestrel	O
+implant_1	implant	implant_nou
+implant_1	is	O
+implant_1	a	O
+implant_1	type	O
+implant_1	of	O
+implant_1	long	O
+implant_1	acting	O
+implant_1	reversible	O
+implant_1	birth	O
+implant_1	control	O

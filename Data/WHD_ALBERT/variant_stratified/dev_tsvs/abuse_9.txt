@@ -1,0 +1,12 @@
+abuse_9	Marty	O
+abuse_9	can	O
+abuse_9	already	O
+abuse_9	tell	O
+abuse_9	how	O
+abuse_9	much	O
+abuse_9	Judd	O
+abuse_9	is	O
+abuse_9	going	O
+abuse_9	to	O
+abuse_9	abuse	abuse_vrb
+abuse_9	Shiloh	O

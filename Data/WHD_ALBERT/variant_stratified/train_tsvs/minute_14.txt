@@ -1,0 +1,16 @@
+minute_14	Starting	O
+minute_14	in	O
+minute_14	the	O
+minute_14	mid-1970s	O
+minute_14	another	O
+minute_14	30-minute	O
+minute_14	edition	O
+minute_14	was	O
+minute_14	presented	O
+minute_14	on	O
+minute_14	DDR2	O
+minute_14	launched	O
+minute_14	in	O
+minute_14	1969	O
+minute_14	around	O
+minute_14	9:30pm	O

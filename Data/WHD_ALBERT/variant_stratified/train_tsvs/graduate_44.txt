@@ -1,0 +1,7 @@
+graduate_44	He	O
+graduate_44	studied	O
+graduate_44	civil	O
+graduate_44	engineering	O
+graduate_44	at	O
+graduate_44	graduate	graduate_adj-nou
+graduate_44	level	O

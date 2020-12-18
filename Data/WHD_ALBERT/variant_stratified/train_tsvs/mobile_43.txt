@@ -1,0 +1,15 @@
+mobile_43	They	O
+mobile_43	make	O
+mobile_43	use	O
+mobile_43	of	O
+mobile_43	a	O
+mobile_43	mobile	mobile
+mobile_43	ball	O
+mobile_43	and	O
+mobile_43	liquid	O
+mobile_43	ink	O
+mobile_43	to	O
+mobile_43	produce	O
+mobile_43	a	O
+mobile_43	smoother	O
+mobile_43	line	O

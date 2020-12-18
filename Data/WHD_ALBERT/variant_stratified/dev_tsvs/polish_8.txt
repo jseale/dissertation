@@ -1,0 +1,12 @@
+polish_8	LucidSamples	O
+polish_8	website	O
+polish_8	is	O
+polish_8	provided	O
+polish_8	in	O
+polish_8	4	O
+polish_8	languages	O
+polish_8	English	O
+polish_8	French	O
+polish_8	German	O
+polish_8	and	O
+polish_8	Polish	polish_geo

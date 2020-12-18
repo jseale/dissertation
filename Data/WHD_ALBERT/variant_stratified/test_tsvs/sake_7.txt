@@ -1,0 +1,15 @@
+sake_7	Gopal	O
+sake_7	reveals	O
+sake_7	that	O
+sake_7	he	O
+sake_7	broke	O
+sake_7	the	O
+sake_7	promise	O
+sake_7	for	O
+sake_7	Banu	O
+sake_7	's	O
+sake_7	sake	sake
+sake_7	and	O
+sake_7	they	O
+sake_7	have	O
+sake_7	united	O

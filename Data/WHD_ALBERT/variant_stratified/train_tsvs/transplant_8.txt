@@ -1,0 +1,9 @@
+transplant_8	Slaughter	O
+transplant_8	's	O
+transplant_8	last	O
+transplant_8	novel	O
+transplant_8	Transplant	transplant_nou
+transplant_8	was	O
+transplant_8	published	O
+transplant_8	in	O
+transplant_8	1987	O

@@ -1,0 +1,13 @@
+increase_65	Likewise	O
+increase_65	to	O
+increase_65	concentrate	O
+increase_65	on	O
+increase_65	not	O
+increase_65	smoking	O
+increase_65	is	O
+increase_65	to	O
+increase_65	increase	increase_vrb
+increase_65	your	O
+increase_65	preoccupation	O
+increase_65	with	O
+increase_65	smoking	O

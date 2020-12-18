@@ -1,0 +1,8 @@
+close_14	It	O
+close_14	is	O
+close_14	close	close_adj-nou
+close_14	to	O
+close_14	Wilmslow	O
+close_14	Road	O
+close_14	in	O
+close_14	Rusholme	O

@@ -1,0 +1,11 @@
+close_49	We	O
+close_49	are	O
+close_49	not	O
+close_49	anywhere	O
+close_49	close	close_adj-nou
+close_49	to	O
+close_49	the	O
+close_49	age	O
+close_49	the	O
+close_49	Beatles	O
+close_49	were	O

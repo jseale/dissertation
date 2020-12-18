@@ -1,0 +1,16 @@
+contest_12	The	O
+contest_12	song	O
+contest_12	was	O
+contest_12	succeeded	O
+contest_12	as	O
+contest_12	Icelandic	O
+contest_12	representative	O
+contest_12	at	O
+contest_12	the	O
+contest_12	2001	O
+contest_12	contest	contest_nou
+contest_12	by	O
+contest_12	Two	O
+contest_12	Tricky	O
+contest_12	with	O
+contest_12	Angel	O

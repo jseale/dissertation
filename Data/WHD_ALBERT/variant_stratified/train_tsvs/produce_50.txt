@@ -1,0 +1,13 @@
+produce_50	Trophozoites	O
+produce_50	then	O
+produce_50	mature	O
+produce_50	to	O
+produce_50	schizonts	O
+produce_50	which	O
+produce_50	divide	O
+produce_50	several	O
+produce_50	times	O
+produce_50	to	O
+produce_50	produce	produce_vrb
+produce_50	new	O
+produce_50	merozoites	O

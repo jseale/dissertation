@@ -1,0 +1,13 @@
+supplement_40	The	O
+supplement_40	Banking	O
+supplement_40	Act	O
+supplement_40	was	O
+supplement_40	a	O
+supplement_40	supplement	supplement_nou
+supplement_40	to	O
+supplement_40	the	O
+supplement_40	previous	O
+supplement_40	acts	O
+supplement_40	related	O
+supplement_40	to	O
+supplement_40	banking	O

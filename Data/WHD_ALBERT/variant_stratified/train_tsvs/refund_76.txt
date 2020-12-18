@@ -1,0 +1,17 @@
+refund_76	Additionally	O
+refund_76	$	O
+refund_76	150	O
+refund_76	million	O
+refund_76	from	O
+refund_76	the	O
+refund_76	settlement	O
+refund_76	money	O
+refund_76	was	O
+refund_76	intended	O
+refund_76	to	O
+refund_76	be	O
+refund_76	used	O
+refund_76	to	O
+refund_76	refund	refund_vrb
+refund_76	U.S.-based	O
+refund_76	customers	O

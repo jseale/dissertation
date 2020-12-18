@@ -1,0 +1,11 @@
+abuse_5	The	O
+abuse_5	Report	O
+abuse_5	of	O
+abuse_5	the	O
+abuse_5	National	O
+abuse_5	Commission	O
+abuse_5	on	O
+abuse_5	Marihuana	O
+abuse_5	and	O
+abuse_5	Drug	O
+abuse_5	Abuse	abuse_nou

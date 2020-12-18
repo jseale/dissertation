@@ -1,0 +1,9 @@
+confines_76	As	O
+confines_76	a	O
+confines_76	result	O
+confines_76	Picard	O
+confines_76	confines	confines_vrb
+confines_76	her	O
+confines_76	to	O
+confines_76	her	O
+confines_76	quarters	O

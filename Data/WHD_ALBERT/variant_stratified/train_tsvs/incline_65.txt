@@ -1,0 +1,17 @@
+incline_65	From	O
+incline_65	here	O
+incline_65	the	O
+incline_65	double	O
+incline_65	tracked	O
+incline_65	line	O
+incline_65	ran	O
+incline_65	beside	O
+incline_65	the	O
+incline_65	workshops	O
+incline_65	and	O
+incline_65	up	O
+incline_65	the	O
+incline_65	steep	O
+incline_65	Sheep	O
+incline_65	Pasture	O
+incline_65	incline	incline_nou

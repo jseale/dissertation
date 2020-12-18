@@ -1,0 +1,10 @@
+postulate_24	Parallel	O
+postulate_24	lines	O
+postulate_24	are	O
+postulate_24	the	O
+postulate_24	subject	O
+postulate_24	of	O
+postulate_24	Euclid	O
+postulate_24	's	O
+postulate_24	parallel	O
+postulate_24	postulate	postulate_nou

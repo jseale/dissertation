@@ -1,0 +1,9 @@
+abuse_1	The	O
+abuse_1	charges	O
+abuse_1	of	O
+abuse_1	third	O
+abuse_1	degree	O
+abuse_1	sexual	O
+abuse_1	abuse	abuse_nou
+abuse_1	were	O
+abuse_1	dropped	O

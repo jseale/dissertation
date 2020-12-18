@@ -1,0 +1,14 @@
+transform_4	In	O
+transform_4	classical	O
+transform_4	physics	O
+transform_4	physical	O
+transform_4	configurations	O
+transform_4	need	O
+transform_4	to	O
+transform_4	transform	transform
+transform_4	under	O
+transform_4	representations	O
+transform_4	of	O
+transform_4	every	O
+transform_4	symmetry	O
+transform_4	group	O

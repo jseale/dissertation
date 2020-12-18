@@ -1,0 +1,11 @@
+coordinate_37	In	O
+coordinate_37	this	O
+coordinate_37	coordinate	coordinate_adj-nou
+coordinate_37	system	O
+coordinate_37	the	O
+coordinate_37	Killing	O
+coordinate_37	vector	O
+coordinate_37	field	O
+coordinate_37	has	O
+coordinate_37	the	O
+coordinate_37	components	O

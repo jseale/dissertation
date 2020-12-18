@@ -1,0 +1,14 @@
+rebel_9	Most	O
+rebel_9	of	O
+rebel_9	the	O
+rebel_9	village	O
+rebel_9	men	O
+rebel_9	seek	O
+rebel_9	to	O
+rebel_9	rebel	rebel_vrb
+rebel_9	but	O
+rebel_9	Li	O
+rebel_9	Kung	O
+rebel_9	talks	O
+rebel_9	them	O
+rebel_9	down	O

@@ -1,0 +1,15 @@
+compound_36	Ethyl	O
+compound_36	pentanoate	O
+compound_36	also	O
+compound_36	commonly	O
+compound_36	known	O
+compound_36	as	O
+compound_36	ethyl	O
+compound_36	valerate	O
+compound_36	is	O
+compound_36	an	O
+compound_36	organic	O
+compound_36	compound	compound_nou
+compound_36	used	O
+compound_36	in	O
+compound_36	flavors	O

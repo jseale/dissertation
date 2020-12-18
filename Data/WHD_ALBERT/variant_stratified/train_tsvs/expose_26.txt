@@ -1,0 +1,9 @@
+expose_26	Indian	O
+expose_26	techies	O
+expose_26	in	O
+expose_26	S	O
+expose_26	Korea	O
+expose_26	expose	expose_vrb
+expose_26	fat	O
+expose_26	salary	O
+expose_26	lie	O

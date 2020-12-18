@@ -1,0 +1,14 @@
+expose_5	Sheila	O
+expose_5	sent	O
+expose_5	her	O
+expose_5	mother	O
+expose_5	to	O
+expose_5	her	O
+expose_5	farmhouse	O
+expose_5	in	O
+expose_5	Michigan	O
+expose_5	before	O
+expose_5	Molly	O
+expose_5	could	O
+expose_5	expose	expose_vrb
+expose_5	her	O

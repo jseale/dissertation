@@ -1,0 +1,14 @@
+precipitate_6	Walpole	O
+precipitate_6	was	O
+precipitate_6	not	O
+precipitate_6	consulted	O
+precipitate_6	and	O
+precipitate_6	stated	O
+precipitate_6	that	O
+precipitate_6	Townshend	O
+precipitate_6	was	O
+precipitate_6	too	O
+precipitate_6	precipitate	precipitate_adj-nou
+precipitate_6	in	O
+precipitate_6	his	O
+precipitate_6	actions	O

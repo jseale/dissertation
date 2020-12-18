@@ -1,0 +1,17 @@
+retard_57	As	O
+retard_57	a	O
+retard_57	result	O
+retard_57	a	O
+retard_57	boundary	O
+retard_57	may	O
+retard_57	be	O
+retard_57	associated	O
+retard_57	with	O
+retard_57	a	O
+retard_57	solute	O
+retard_57	atmosphere	O
+retard_57	that	O
+retard_57	will	O
+retard_57	retard	retard_vrb
+retard_57	its	O
+retard_57	movement	O

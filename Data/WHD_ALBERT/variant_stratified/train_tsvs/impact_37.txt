@@ -1,0 +1,15 @@
+impact_37	Sanskrit	O
+impact_37	has	O
+impact_37	had	O
+impact_37	a	O
+impact_37	deep	O
+impact_37	and	O
+impact_37	lasting	O
+impact_37	impact	impact_nou
+impact_37	on	O
+impact_37	the	O
+impact_37	vocabulary	O
+impact_37	of	O
+impact_37	the	O
+impact_37	Javanese	O
+impact_37	language	O

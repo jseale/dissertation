@@ -1,0 +1,15 @@
+suspect_10	He	O
+suspect_10	was	O
+suspect_10	consumed	O
+suspect_10	with	O
+suspect_10	the	O
+suspect_10	murders	O
+suspect_10	of	O
+suspect_10	Jack	O
+suspect_10	the	O
+suspect_10	Ripper	O
+suspect_10	and	O
+suspect_10	even	O
+suspect_10	became	O
+suspect_10	a	O
+suspect_10	suspect	suspect_adj-nou

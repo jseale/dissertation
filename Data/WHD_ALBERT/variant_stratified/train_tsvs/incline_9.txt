@@ -1,0 +1,14 @@
+incline_9	While	O
+incline_9	Spelling	O
+incline_9	was	O
+incline_9	dropped	O
+incline_9	down	O
+incline_9	an	O
+incline_9	eighty	O
+incline_9	degree	O
+incline_9	incline	incline_nou
+incline_9	wall	O
+incline_9	into	O
+incline_9	a	O
+incline_9	water	O
+incline_9	tank	O
